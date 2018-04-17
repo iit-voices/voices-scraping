@@ -1,0 +1,67 @@
+Interviewee Page Structure
+(e.g., interviewee\?doc=sochamiH)
+
+Main wrapper: #content
+Name: #content h1
+Details: #content h1 + ul
+Span classes:
+  recording_date
+  duration
+  spools
+  location
+  languages
+
+Biographical information: ul.bio
+Span classes:
+  name
+  birthplace
+  gender
+  nationality
+  location_at_time_of_german_invasion
+  interned_at
+  location_at_time_of_liberation
+  liberation_date
+  liberated_by
+
+
+** Need to watch out for this rogue character encoding: &#195;
+
+It's used all over the place, and never for the actual character intended. Probably should have some
+way of flagging files that contain that character, possibly right in the YAML.
+
+I ran the command
+
+  $ cat * | grep '195.*[^;]$'
+
+to find all the instances of the problem character in lines by themselves (others were in JavaScript
+portions of the document).
+
+These are all the problems in the interviewee directory, which I've sorted alphabetically and
+removed duplicate records from in Ruby (see `problem-cities.rb`):
+
+Andrych&#195;w, Poland
+Ath&#195;nai, Greece
+August&#195;w, Poland
+B&#195;rgermoor, Germany
+Castell&#195; d Emp&#195;ries, Spain
+Chorz&#195;w, Poland
+Dąbrowa G&#195;rnicza, Poland
+G&#195;rlitz, Germany
+Jan&#195;w Lubelski, Poland
+Kisv&#195;rda, Hungary
+Krak&#195;w, Poland
+L&#195;dź, Poland
+M&#195;hldorf am Inn, Germany
+M&#195;nchen, Germany
+N&#195;rnberg, Germany
+P&#195;rigueux, France
+Ravensbr&#195;ck, Germany
+Saint-&#195;tienne, France
+Stasz&#195;w, Poland
+Sz&#195;kesfeh&#195;rv&#195;r, Hungary
+Terez&#195;n, Czechoslovakia
+Thessalon&#195;ki, Greece
+Tomasz&#195;w Mazowiecki, Poland
+Was&#195;w, Poland
+
+Those could be keyed in a hash to their unicode-corrected counterparts
