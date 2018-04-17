@@ -5,7 +5,7 @@ corrected_cities = {
   'Andrych&#195;w, Poland': 'Andrychów, Poland',
   'Ath&#195;nai, Greece': 'Athênai, Greece',
   'August&#195;w, Poland': 'Augustów, Poland',
-  'B&#195;rgermoor, Germany': 'Bürgermoor, Germany',
+  'B&#195;rgermoor, Germany': 'Börgermoor, Germany',
   'Castell&#195; d Emp&#195;ries, Spain': 'Castelló d\'Empúries, Spain',
   'Chorz&#195;w, Poland': 'Chorzów, Poland',
   'Dąbrowa G&#195;rnicza, Poland': 'Dąbrowa Górnicza, Poland',
