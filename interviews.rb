@@ -30,23 +30,23 @@ require 'nokogiri'
 
 # Hash of months keyed to leading-zero numeric values
 @month_numbers = {
-  "January": "01",
-  "February": "02",
-  "March": "03",
-  "April": "04",
-  "May": "05",
-  "June": "06",
-  "July": "07",
-  "August": "08",
-  "September": "09",
-  "October": "10",
-  "November": "11",
-  "December": "12"
+  january: "01",
+  february: "02",
+  march: "03",
+  april: "04",
+  may: "05",
+  june: "06",
+  july: "07",
+  august: "08",
+  september: "09",
+  october: "10",
+  november: "11",
+  december: "12"
 }
 
 def iso_date(str)
   # For a date like "September 24, 1945": remove the comma, split at spaces
   arr_date = str.gsub(/,/,'').split(" ")
   # Output ISO date string YYYY-MM-DD
-  "#{arr_date[2]}-#{@month_numbers[arr_date[0].to_sym]}-#{arr_date[1]}"
+  "#{arr_date[2]}-#{@month_numbers[arr_date[0].downcase.to_sym]}-#{arr_date[1]}"
 end
