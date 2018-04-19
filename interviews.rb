@@ -1,4 +1,4 @@
-
+require 'nokogiri'
 
 # Hash of cities with erroneous &#195 entities, and their fixes:
 corrected_cities = {
