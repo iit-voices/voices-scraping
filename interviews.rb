@@ -27,3 +27,26 @@ require 'nokogiri'
   'Tomasz&#195;w Mazowiecki, Poland': 'Tomaszów Mazowiecki, Poland',
   'Was&#195;w, Poland': 'Wąsów, Poland'
 }
+
+# Hash of months keyed to leading-zero numeric values
+@month_numbers = {
+  "January": "01",
+  "February": "02",
+  "March": "03",
+  "April": "04",
+  "May": "05",
+  "June": "06",
+  "July": "07",
+  "August": "08",
+  "September": "09",
+  "October": "10",
+  "November": "11",
+  "December": "12"
+}
+
+def iso_date(str)
+  # For a date like "September 24, 1945": remove the comma, split at spaces
+  arr_date = str.gsub(/,/,'').split(" ")
+  # Output ISO date string YYYY-MM-DD
+  "#{arr_date[2]}-#{@month_numbers[arr_date[0].to_sym]}-#{arr_date[1]}"
+end
