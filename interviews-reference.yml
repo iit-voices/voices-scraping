@@ -1,0 +1,19 @@
+interviewee:
+  legacy_identifier: sochamiH
+  name: Henry Sochami
+  birthplace: Thessaloníki, Greece
+  nationality: Greece
+  gender: male
+  locations:
+    invasion:
+      location: unknown
+    internments:
+    - Auschwitz
+    - Buchenwald
+    liberation:
+      date: '1945-04-11'
+      location: Weimar, Germany
+      by: United States
+  commentary:
+    author: ''
+    text: ''
