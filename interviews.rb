@@ -1,7 +1,7 @@
 require 'nokogiri'
 
 # Hash of cities with erroneous &#195 entities, and their fixes:
-corrected_cities = {
+@corrected_cities = {
   'Andrych&#195;w, Poland': 'Andrychów, Poland',
   'Ath&#195;nai, Greece': 'Athênai, Greece',
   'August&#195;w, Poland': 'Augustów, Poland',
