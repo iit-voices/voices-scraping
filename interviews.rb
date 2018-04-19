@@ -50,3 +50,23 @@ def iso_date(str)
   # Output ISO date string YYYY-MM-DD
   "#{arr_date[2]}-#{@month_numbers[arr_date[0].downcase.to_sym]}-#{arr_date[1]}"
 end
+
+# Take a seconds value and conver it to an HH:MM:SS.DDD time-marker
+def time_marker(seconds)
+  t = seconds.to_s.split(".")
+  "#{Time.at(t[0].to_i).utc.strftime("%H:%M:%S")}.#{t[1]}"
+end
+
+# Conversely, take an HH:MM:SS.DDD time-marker and convert it to a string of seconds
+def time_seconds(marker)
+  t = marker.split(":")
+  seconds = t.last.to_f
+  # Handle hours, if necessary
+  if t.length == 3
+    seconds += t[0].to_f * 60 * 60
+    seconds += t[1].to_f * 60
+  else
+    seconds += t[0].to_f * 60
+  end
+  seconds.to_s
+end
