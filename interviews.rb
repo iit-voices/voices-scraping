@@ -2,6 +2,7 @@ require 'nokogiri'
 require 'yaml'
 # Use ActiveSupport's hash extensions
 require 'active_support/core_ext/hash'
+require 'active_support/core_ext/string'
 
 # Hash of cities with erroneous &#195 entities, and their fixes:
 @corrected_cities = {
@@ -79,6 +80,7 @@ def time_seconds(marker)
 end
 
 Record = Struct.new(
+  :identifier,
   :legacy_identifier,
   :name,
   :birthplace,
@@ -86,7 +88,7 @@ Record = Struct.new(
   :gender,
   :locations ) do
   def file_name
-    name.split(" ").join("-").downcase
+    name.split(" ").join("-").parameterize
   end
 end
 
@@ -118,6 +120,8 @@ Dir.glob(@files).each do |file|
   @interviewee.locations[:liberation][:date] = iso_date(bio.css(".liberation_date text()").to_s.strip)
   @interviewee.locations[:liberation][:location] = bio.css(".location_at_time_of_liberation text()").to_s.strip
   @interviewee.locations[:liberation][:by] = bio.css(".liberated_by text()").to_s.strip
+
+  @interviewee.identifier = @interviewee.file_name
 
   # Create an outer hash in service of the YAML structure
   record_hash = { 'interviewee': @interviewee.to_h.deep_stringify_keys }
