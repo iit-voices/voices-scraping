@@ -125,6 +125,13 @@ Dir.glob(@files).each do |file|
   @interviewee.locations[:liberation][:location] = bio.css(".location_at_time_of_liberation text()").to_s.strip
   @interviewee.locations[:liberation][:by] = bio.css(".liberated_by text()").to_s.strip
 
+  if @interviewee.locations[:invasion].match?(/Ã/)
+    @interviewee.locations[:invasion] = @corrected_cities[@interviewee.locations[:invasion].to_sym]
+  end
+  if @interviewee.locations[:liberation][:location].match?(/Ã/)
+    @interviewee.locations[:liberation][:location] = @corrected_cities[@interviewee.locations[:liberation][:location].to_sym]
+  end
+
   @interviewee.identifier = @interviewee.file_name
 
   # Create an outer hash in service of the YAML structure
