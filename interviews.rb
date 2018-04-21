@@ -79,20 +79,28 @@ Record = Struct.new(:legacy_identifier, :name, :nationality) do
     name.split(" ").join("-").downcase
   end
 end
+
+# Set a single file (temporary)
 @file = "#{ENV['HOME']}/Voices/voices.iit.edu/_scrape/interviewee/interviewee?doc=sochamiH"
+
+# Open the file and parse it
 @doc = File.open(@file) do |f|
   Nokogiri::HTML(f)
 end
-puts @doc.css("#content h1")
+
+# Use a struct to build the record
 @interviewee = Record.new
 @interviewee.legacy_identifier = @file.split('=').last
 @interviewee.name = @doc.css("#content h1 text()").to_s.strip
-puts @interviewee.name
 @interviewee.nationality = @doc.css("ul.bio .nationality text()").to_s.strip
 
+# Create an outer hash in service of the YAML structure
 record_hash = { 'interviewee': @interviewee.to_h.stringify_keys }
+
+# Diagnostic line for CLI sanity checking
 puts record_hash.stringify_keys.to_yaml
 
+# Write the YAML file
 File.open("output/#{@interviewee.file_name}.yml",'w') do |f|
   f.write(record_hash.stringify_keys.to_yaml)
 end
