@@ -23,6 +23,10 @@ Span classes:
   liberation_date
   liberated_by
 
+For pages with commentary:
+(e.g., http://voices.iit.edu/interviewee?doc=finkelN;
+full commentary at http://voices.iit.edu/commentary?doc=finkelN&name=Nathan+Finkel+)
+
 
 ** Need to watch out for this rogue character encoding: &#195;
 
@@ -65,3 +69,14 @@ Tomasz&#195;w Mazowiecki, Poland
 Was&#195;w, Poland
 
 Those could be keyed in a hash to their unicode-corrected counterparts
+
+Taking seconds and converting them to HH:MM:SS.DDD
+
+t = "104.332"
+t.split('.')
+t_str = "#{Time.at(t[0].to_i).utc.strftime("%H:%M:%S")}.#{t[1]}"
+# outputs "00:01:44.332"
+
+Taking MM:SS.DDD and converting to seconds
+
+t = "00:01:44.332"
