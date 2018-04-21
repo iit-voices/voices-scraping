@@ -1,5 +1,7 @@
 require 'nokogiri'
 require 'yaml'
+# Use ActiveSupport's hash extensions
+require 'active_support/core_ext/hash'
 
 # Hash of cities with erroneous &#195 entities, and their fixes:
 @corrected_cities = {
@@ -84,4 +86,5 @@ puts @doc.css("#content h1")
 puts @interviewee.name
 @interviewee.nationality = @doc.css("ul.bio .nationality text()").to_s.strip
 
-puts @interviewee.to_h
+record_hash = { 'interviewee': @interviewee.to_h.stringify_keys }
+puts record_hash.stringify_keys.to_yaml
