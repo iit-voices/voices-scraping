@@ -48,10 +48,14 @@ require 'active_support/core_ext/hash'
 }
 
 def iso_date(str)
-  # For a date like "September 24, 1945": remove the comma, split at spaces
-  arr_date = str.gsub(/,/,'').split(" ")
-  # Output ISO date string YYYY-MM-DD
-  "#{arr_date[2]}-#{@month_numbers[arr_date[0].downcase.to_sym]}-#{arr_date[1]}"
+  if str.length == 0
+    "unknown"
+  else
+    # For a date like "September 24, 1945": remove the comma, split at spaces
+    arr_date = str.gsub(/,/,'').split(" ")
+    # Output ISO date string YYYY-MM-DD
+    "#{arr_date[2]}-#{@month_numbers[arr_date[0].downcase.to_sym]}-#{arr_date[1]}"
+  end
 end
 
 # Take a seconds value and conver it to an HH:MM:SS.DDD time-marker
