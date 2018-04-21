@@ -1,0 +1,19 @@
+---
+interviewee:
+  identifier: helen-tichauer
+  legacy_identifier: tichauerH
+  name: Helen Tichauer
+  birthplace: Bratislava, Slovakia
+  nationality: Czechoslovakia
+  gender: female
+  locations:
+    invasion: unknown
+    internments:
+    - Auschwitz
+    - Birkenau
+    - Ravensbrück
+    - Malchow
+    liberation:
+      date: unknown
+      location: Goldberg, Germany
+      by: Russia

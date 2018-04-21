@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: boleslaw-czolopicki
+  legacy_identifier: czolopickiB
+  name: Boleslaw Czolopicki
+  birthplace: Warsaw, Poland
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Bochum
+    liberation:
+      date: '1945-03-03'
+      location: Moers, Germany
+      by: United States

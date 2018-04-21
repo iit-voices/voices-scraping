@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: anne-marcelle-kahn
+  legacy_identifier: kahnM
+  name: Anne Marcelle Kahn
+  birthplace: Paris, France
+  nationality: France
+  gender: female
+  locations:
+    invasion: Marseille, France
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

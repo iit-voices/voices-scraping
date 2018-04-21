@@ -1,0 +1,23 @@
+---
+interviewee:
+  identifier: alexander-gertner
+  legacy_identifier: gertnerA
+  name: Alexander Gertner
+  birthplace: Maramures Province, Romania
+  nationality: Romania
+  gender: male
+  locations:
+    invasion: Oradea, Romania
+    internments:
+    - Oradea Ghetto
+    - Birkenau
+    - Auschwitz
+    - Gross-Rosen
+    - Bolkenhain
+    - Hirschberg
+    - Waldheim
+    - Buchenwald
+    liberation:
+      date: '1945-04-11'
+      location: Weimar, Germany
+      by: United States

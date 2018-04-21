@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: hildegarde-franz
+  legacy_identifier: franzH
+  name: Hildegarde Franz
+  birthplace: Nürnberg, Germany
+  nationality: Germany
+  gender: female
+  locations:
+    invasion: Nürnberg, Germany
+    internments:
+    - Theresienstadt
+    liberation:
+      date: '1945-05-08'
+      location: Terezín, Czechoslovakia
+      by: Russia

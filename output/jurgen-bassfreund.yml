@@ -1,0 +1,20 @@
+---
+interviewee:
+  identifier: jurgen-bassfreund
+  legacy_identifier: bassfreundJ
+  name: Jürgen Bassfreund
+  birthplace: Bernkastel-Kues, Germany
+  nationality: Germany
+  gender: male
+  locations:
+    invasion: Berlin, Germany
+    internments:
+    - Auschwitz
+    - Monowitz
+    - Gross-Rosen
+    - Dachau
+    - Mühldorf
+    liberation:
+      date: '1945-05-02'
+      location: Mühldorf am Inn, Germany
+      by: United States

@@ -1,15 +1,17 @@
 ---
 interviewee:
-  identifier: henry-sochami
-  legacy_identifier: sochamiH
-  name: Henry Sochami
-  birthplace: Thessaloníki, Greece
-  nationality: Greece
+  identifier: ludwig-hamburger
+  legacy_identifier: hamburgerL
+  name: Ludwig Hamburger
+  birthplace: Katowice, Poland
+  nationality: Poland
   gender: male
   locations:
     invasion: unknown
     internments:
     - Auschwitz
+    - Blechhammer
+    - Gross-Rosen
     - Buchenwald
     liberation:
       date: '1945-04-11'

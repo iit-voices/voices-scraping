@@ -1,0 +1,17 @@
+---
+interviewee:
+  identifier: esther-krueger
+  legacy_identifier: kruegerE
+  name: Esther Krueger
+  birthplace: Kielce, Poland
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: unknown
+    internments:
+    - Skarżysko-Kamienna
+    - Warta
+    liberation:
+      date: '1945-01-06'
+      location: Warta, Poland
+      by: Russia

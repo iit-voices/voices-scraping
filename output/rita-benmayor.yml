@@ -1,0 +1,19 @@
+---
+interviewee:
+  identifier: rita-benmayor
+  legacy_identifier: benmayorR
+  name: Rita Benmayor
+  birthplace: unknown
+  nationality: Greece
+  gender: female
+  locations:
+    invasion: Thessaloníki, Greece
+    internments:
+    - Auschwitz
+    - Ravensbrück
+    - Retzow
+    - Malchow
+    liberation:
+      date: unknown
+      location: Malchow, Germany
+      by: Russia

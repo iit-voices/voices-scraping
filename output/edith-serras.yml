@@ -1,0 +1,18 @@
+---
+interviewee:
+  identifier: edith-serras
+  legacy_identifier: serrasE
+  name: Edith Serras
+  birthplace: Edineţ, Romania
+  nationality: Romania
+  gender: female
+  locations:
+    invasion: Paris, France
+    internments:
+    - Drancy
+    - Birkenau
+    - Ravensbrück
+    liberation:
+      date: unknown
+      location: Ravensbrück, Germany
+      by: France

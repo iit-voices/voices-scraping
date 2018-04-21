@@ -1,0 +1,17 @@
+---
+interviewee:
+  identifier: bernard-warsager
+  legacy_identifier: warsagerB
+  name: Bernard Warsager
+  birthplace: Tomaszów Mazowiecki, Poland
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: Tomaszów Mazowiecki, Poland
+    internments:
+    - Częstochowa
+    - Buchenwald
+    liberation:
+      date: unknown
+      location: Eisenberg, Germany
+      by: United States

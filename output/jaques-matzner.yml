@@ -1,0 +1,25 @@
+---
+interviewee:
+  identifier: jaques-matzner
+  legacy_identifier: matznerJ
+  name: Jaques Matzner
+  birthplace: Wiesbaden, Germany
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: Antwerpen, Belgium
+    internments:
+    - Le Vernet
+    - Drancy
+    - Gogolin
+    - Fürstengrube
+    - Gleiwitz
+    - Hirschberg
+    - Wüstegiersdorf
+    - Góra Wlodarz
+    - Bergen-Belsen
+    - Barth
+    liberation:
+      date: unknown
+      location: Barth, Germany
+      by: Russia

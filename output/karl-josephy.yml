@@ -1,0 +1,18 @@
+---
+interviewee:
+  identifier: karl-josephy
+  legacy_identifier: josephyK
+  name: Karl Josephy
+  birthplace: Wien, Austria
+  nationality: Austria
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Les Milles
+    - Septfonds
+    - Noé
+    liberation:
+      date: unknown
+      location: Cantal department, France
+      by: ''

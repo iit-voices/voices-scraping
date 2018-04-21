@@ -1,0 +1,18 @@
+---
+interviewee:
+  identifier: david-hirsch
+  legacy_identifier: hirschD
+  name: David Hirsch
+  birthplace: unknown
+  nationality: Germany
+  gender: male
+  locations:
+    invasion: Mannheim, Germany
+    internments:
+    - Gurs
+    - Rivesaltes
+    - Les Avants
+    liberation:
+      date: unknown
+      location: Montreux, Switzerland
+      by: Switzerland

@@ -1,0 +1,18 @@
+---
+interviewee:
+  identifier: nathan-finkel
+  legacy_identifier: finkelN
+  name: Nathan Finkel
+  birthplace: Rovno, Ukraine
+  nationality: unknown
+  gender: male
+  locations:
+    invasion: Rovno, Ukraine
+    internments:
+    - Sosnowiec Ghetto
+    - Gross-Rosen
+    - Buchenwald
+    liberation:
+      date: unknown
+      location: Weimar, Germany
+      by: United States

@@ -1,0 +1,21 @@
+---
+interviewee:
+  identifier: samuel-isakovitch
+  legacy_identifier: isakovitchS
+  name: Samuel Isakovitch
+  birthplace: Sighetu Marmaţiei, Romania
+  nationality: Romania
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Sighet Ghetto
+    - Posen
+    - Auschwitz
+    - Janina
+    - Monowitz
+    - Buchenwald
+    liberation:
+      date: unknown
+      location: Weimar, Germany
+      by: United States

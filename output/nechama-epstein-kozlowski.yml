@@ -1,0 +1,24 @@
+---
+interviewee:
+  identifier: nechama-epstein-kozlowski
+  legacy_identifier: epsteinN
+  name: Nechama Epstein-Kozlowski
+  birthplace: Warsaw, Poland
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: unknown
+    internments:
+    - Warsaw Ghetto
+    - Międzyrzec Podlaski Ghetto
+    - Majdanek
+    - Auschwitz
+    - Birkenau
+    - Plaszow
+    - Bergen-Belsen
+    - Aschersleben
+    - Theresienstadt
+    liberation:
+      date: unknown
+      location: Terezín, Czechoslovakia
+      by: Russia

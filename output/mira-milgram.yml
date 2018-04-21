@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: mira-milgram
+  legacy_identifier: milgramM
+  name: Mira Milgram
+  birthplace: Poznań, Poland
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: ''
+    internments:
+    - Kielce Ghetto
+    liberation:
+      date: '1945-01-16'
+      location: Kielce, Poland
+      by: Russia

@@ -1,0 +1,19 @@
+---
+interviewee:
+  identifier: pinkhus-rosenfeld
+  legacy_identifier: rosenfeldP
+  name: Pinkhus Rosenfeld
+  birthplace: Łódź, Poland
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Lódź Ghetto
+    - Warsaw Ghetto
+    - Auschwitz
+    - Chemnitz
+    liberation:
+      date: '1945-05-07'
+      location: ''
+      by: Germany

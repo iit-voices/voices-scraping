@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: anna-braun
+  legacy_identifier: braunA
+  name: Anna Braun
+  birthplace: Zaporozhye, Ukraine
+  nationality: Russia
+  gender: female
+  locations:
+    invasion: unknown
+    internments:
+    - Neustadt
+    liberation:
+      date: unknown
+      location: Heilenbach, Germany
+      by: United States

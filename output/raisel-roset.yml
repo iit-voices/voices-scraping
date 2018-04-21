@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: raisel-roset
+  legacy_identifier: rosetR
+  name: Raisel Roset
+  birthplace: Janów Lubelski, Poland
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: Janów Lubelski, Poland
+    internments:
+    - Częstochowa
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: abraham-schrameck
+  legacy_identifier: schrameckA
+  name: Abraham Schrameck
+  birthplace: Saint-Étienne, France
+  nationality: France
+  gender: male
+  locations:
+    invasion: ''
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: dr-jacob-wilf
+  legacy_identifier: wilfJ
+  name: Dr. Jacob Wilf
+  birthplace: L'viv, Ukraine
+  nationality: unknown
+  gender: male
+  locations:
+    invasion: L'viv, Ukraine
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

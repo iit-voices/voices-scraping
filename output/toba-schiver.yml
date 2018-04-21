@@ -1,0 +1,18 @@
+---
+interviewee:
+  identifier: toba-schiver
+  legacy_identifier: schiverT
+  name: Toba Schiver
+  birthplace: unknown
+  nationality: unknown
+  gender: female
+  locations:
+    invasion: unknown
+    internments:
+    - Mátészalka Ghetto
+    - Auschwitz
+    - Geislingen
+    liberation:
+      date: unknown
+      location: Iffeldorf, Germany
+      by: United States

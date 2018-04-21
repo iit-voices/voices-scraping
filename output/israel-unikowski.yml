@@ -1,0 +1,19 @@
+---
+interviewee:
+  identifier: israel-unikowski
+  legacy_identifier: unikowskiI
+  name: Israel Unikowski
+  birthplace: Kalisz, Poland
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Lódź Ghetto
+    - Birkenau
+    - Budy
+    - Buchenwald
+    liberation:
+      date: unknown
+      location: Weimar, Germany
+      by: United States

@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: tomas-billi
+  legacy_identifier: billiT
+  name: Tomas Billi
+  birthplace: Nivenskoye, Russia
+  nationality: Estonia
+  gender: male
+  locations:
+    invasion: Narva, Estonia
+    internments: []
+    liberation:
+      date: unknown
+      location: München, Germany
+      by: United States

@@ -1,0 +1,21 @@
+---
+interviewee:
+  identifier: adolph-heisler
+  legacy_identifier: heislerA
+  name: Adolph Heisler
+  birthplace: Chynadiyovo, Czechoslovakia
+  nationality: Czechoslovakia
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Mukachevo Ghetto
+    - Auschwitz
+    - Birkenau
+    - Buchenwald
+    - Trawniki
+    - Ohrdruf
+    liberation:
+      date: unknown
+      location: Weimar, Germany
+      by: United States

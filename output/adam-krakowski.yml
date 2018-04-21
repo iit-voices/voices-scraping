@@ -1,0 +1,25 @@
+---
+interviewee:
+  identifier: adam-krakowski
+  legacy_identifier: krakowskiA
+  name: Adam Krakowski
+  birthplace: Łódź, Poland
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Roznów
+    - Budzyń
+    - Rzeszów
+    - Plaszow
+    - Wieliczka
+    - Flossenbürg
+    - Colmar
+    - Sachsenhausen
+    - Braunschweig
+    - Ravensbrück
+    liberation:
+      date: '1945-05-01'
+      location: Mecklenburg region, Germany
+      by: United States

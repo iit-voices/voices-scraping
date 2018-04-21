@@ -1,0 +1,18 @@
+---
+interviewee:
+  identifier: otto-feuer
+  legacy_identifier: feuerO
+  name: Otto Feuer
+  birthplace: Wien, Austria
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: Hamburg, Germany
+    internments:
+    - Sachsenhausen
+    - Dachau
+    - Buchenwald
+    liberation:
+      date: '1945-04-11'
+      location: Weimar, Germany
+      by: United States

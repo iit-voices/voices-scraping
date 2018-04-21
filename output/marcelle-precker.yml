@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: marcelle-precker
+  legacy_identifier: preckerM
+  name: Marcelle Precker
+  birthplace: Paris, France
+  nationality: France
+  gender: female
+  locations:
+    invasion: unknown
+    internments:
+    - Drancy
+    liberation:
+      date: unknown
+      location: Drancy, France
+      by: United States

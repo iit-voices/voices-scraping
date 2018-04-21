@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: isaac-wolf
+  legacy_identifier: wolfI
+  name: Isaac Wolf
+  birthplace: L'viv, Ukraine
+  nationality: unknown
+  gender: male
+  locations:
+    invasion: L'viv, Ukraine
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

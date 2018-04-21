@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: julius-kluver
+  legacy_identifier: kluverJ
+  name: Julius Klüver
+  birthplace: Dniprovs'ke, Ukraine
+  nationality: Ukraine
+  gender: male
+  locations:
+    invasion: Zaporozhye, Ukraine
+    internments: []
+    liberation:
+      date: unknown
+      location: München, Germany
+      by: United States

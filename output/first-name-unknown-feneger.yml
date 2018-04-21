@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: first-name-unknown-feneger
+  legacy_identifier: feneger
+  name: "[first name unknown] Feneger"
+  birthplace: ''
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: ''
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

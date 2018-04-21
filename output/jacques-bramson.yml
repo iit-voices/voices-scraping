@@ -1,0 +1,17 @@
+---
+interviewee:
+  identifier: jacques-bramson
+  legacy_identifier: bramsonJ
+  name: Jacques Bramson
+  birthplace: unknown
+  nationality: France
+  gender: male
+  locations:
+    invasion: Périgueux, France
+    internments:
+    - Royallieu
+    - Buchenwald
+    liberation:
+      date: unknown
+      location: Freising, Germany
+      by: United States

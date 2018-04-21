@@ -1,0 +1,18 @@
+---
+interviewee:
+  identifier: george-kaldore
+  legacy_identifier: kaldoreG
+  name: George Kaldore
+  birthplace: Szombathely, Hungary
+  nationality: Hungary
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Hatvan Ghetto
+    - Birkenau
+    - Monowitz
+    liberation:
+      date: '1945-01-25'
+      location: Oświęcim, Poland
+      by: Russia

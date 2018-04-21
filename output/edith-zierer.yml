@@ -1,0 +1,19 @@
+---
+interviewee:
+  identifier: edith-zierer
+  legacy_identifier: ziererE
+  name: Edith Zierer
+  birthplace: Katowice, Poland
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: Katowice, Poland
+    internments:
+    - Krakow Ghetto
+    - Plaszow
+    - Skarżysko-Kamienna
+    - Częstochowa
+    liberation:
+      date: unknown
+      location: Częstochowa, Poland
+      by: Russia

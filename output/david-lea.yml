@@ -1,8 +1,8 @@
 ---
 interviewee:
-  identifier: henry-sochami
-  legacy_identifier: sochamiH
-  name: Henry Sochami
+  identifier: david-lea
+  legacy_identifier: leaD
+  name: David Lea
   birthplace: Thessaloníki, Greece
   nationality: Greece
   gender: male
@@ -10,8 +10,11 @@ interviewee:
     invasion: unknown
     internments:
     - Auschwitz
+    - Warsaw Ghetto
+    - Landsberg
     - Buchenwald
+    - Dachau
     liberation:
-      date: '1945-04-11'
-      location: Weimar, Germany
+      date: '1945-04-29'
+      location: Dachau, Germany
       by: United States

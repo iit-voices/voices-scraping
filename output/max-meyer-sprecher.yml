@@ -1,0 +1,19 @@
+---
+interviewee:
+  identifier: max-meyer-sprecher
+  legacy_identifier: sprecherM
+  name: Max Meyer Sprecher
+  birthplace: Berlin, Germany
+  nationality: unknown
+  gender: male
+  locations:
+    invasion: Berlin, Germany
+    internments:
+    - Będzin Ghetto
+    - Sachsenhausen
+    - Auschwitz
+    - Dachau
+    liberation:
+      date: unknown
+      location: Tutzing, Germany
+      by: United States

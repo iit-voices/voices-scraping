@@ -1,0 +1,17 @@
+---
+interviewee:
+  identifier: boguslaw-last-name-unknown
+  legacy_identifier: boguslaw
+  name: Boguslaw [last name unknown]
+  birthplace: unknown
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Warsaw Ghetto
+    - Gross-Rosen
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

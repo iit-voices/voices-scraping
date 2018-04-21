@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: first-name-unknown-rudo
+  legacy_identifier: rudo
+  name: "[first name unknown] Rudo"
+  birthplace: Castelló d'Empúries, Spain
+  nationality: Spain
+  gender: female
+  locations:
+    invasion: Corbie, France
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: janis-b
+  legacy_identifier: bJanis
+  name: Janis B.
+  birthplace: Rīga, Latvia
+  nationality: Latvia
+  gender: male
+  locations:
+    invasion: Rīga, Latvia
+    internments:
+    - Danzig
+    liberation:
+      date: '1945-05-01'
+      location: Hamburg, Germany
+      by: ''

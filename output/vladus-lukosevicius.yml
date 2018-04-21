@@ -1,0 +1,18 @@
+---
+interviewee:
+  identifier: vladus-lukosevicius
+  legacy_identifier: lukoseviciusV
+  name: Vladus Lukosevicius
+  birthplace: unknown
+  nationality: Lithuania
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Riesenburg
+    - Siauliai
+    - Herzogenburg
+    liberation:
+      date: '1945-05-01'
+      location: Prienbach-am-Inn, Germany
+      by: United States

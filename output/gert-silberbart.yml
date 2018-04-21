@@ -1,0 +1,19 @@
+---
+interviewee:
+  identifier: gert-silberbart
+  legacy_identifier: silberbartG
+  name: Gert Silberbart
+  birthplace: Berlin, Germany
+  nationality: Germany
+  gender: male
+  locations:
+    invasion: Berlin, Germany
+    internments:
+    - Auschwitz
+    - Monowitz
+    - Bobrek
+    - Buchenwald
+    liberation:
+      date: '1945-04-11'
+      location: ''
+      by: United States

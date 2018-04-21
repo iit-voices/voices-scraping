@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: janis-kalnietis
+  legacy_identifier: kalnietisJ
+  name: Janis Kalnietis
+  birthplace: Rūjiena, Latvia
+  nationality: Latvia
+  gender: male
+  locations:
+    invasion: Rūjiena, Latvia
+    internments: []
+    liberation:
+      date: unknown
+      location: Brunnau, Germany
+      by: United States

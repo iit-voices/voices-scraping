@@ -1,0 +1,18 @@
+---
+interviewee:
+  identifier: anna-kaletska
+  legacy_identifier: kaletskaA
+  name: Anna Kaletska
+  birthplace: unknown
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: Kielce, Poland
+    internments:
+    - Grodno Ghetto
+    - Auschwitz
+    - Lippstadt
+    liberation:
+      date: '1945-04-01'
+      location: Kaunitz, Germany
+      by: United States

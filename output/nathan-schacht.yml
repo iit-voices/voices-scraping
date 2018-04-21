@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: nathan-schacht
+  legacy_identifier: schachtN
+  name: Nathan Schacht
+  birthplace: L'viv, Ukraine
+  nationality: unknown
+  gender: male
+  locations:
+    invasion: L'viv, Ukraine
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

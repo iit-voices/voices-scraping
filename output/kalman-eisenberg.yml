@@ -1,0 +1,21 @@
+---
+interviewee:
+  identifier: kalman-eisenberg
+  legacy_identifier: eisenbergK
+  name: Kalman Eisenberg
+  birthplace: Starachowice, Poland
+  nationality: Germany
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Starachowice Ghetto
+    - Starachowice Labor Camp
+    - Auschwitz
+    - Monowitz
+    - Mauthausen
+    - Flossenbürg
+    liberation:
+      date: unknown
+      location: ''
+      by: United States

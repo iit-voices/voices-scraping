@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: joseph-ferber
+  legacy_identifier: ferberJ
+  name: Joseph Ferber
+  birthplace: Brody, Ukraine
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: Kraków, Poland
+    internments: []
+    liberation:
+      date: '1945-07-06'
+      location: Chernivtsi, Ukraine
+      by: ''

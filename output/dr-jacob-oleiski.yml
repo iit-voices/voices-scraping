@@ -1,0 +1,18 @@
+---
+interviewee:
+  identifier: dr-jacob-oleiski
+  legacy_identifier: oleiskiJ
+  name: Dr. Jacob Oleiski
+  birthplace: Sakiai, Lithuania
+  nationality: Lithuania
+  gender: male
+  locations:
+    invasion: ''
+    internments:
+    - Kaunas Ghetto
+    - Stutthof
+    - Dachau
+    liberation:
+      date: '1945-04-26'
+      location: Schwabhausen Bei Landsberg, Germany
+      by: United States

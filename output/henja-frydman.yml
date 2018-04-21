@@ -1,0 +1,17 @@
+---
+interviewee:
+  identifier: henja-frydman
+  legacy_identifier: frydmanH
+  name: Henja Frydman
+  birthplace: Pinsk, Belarus
+  nationality: Russia
+  gender: female
+  locations:
+    invasion: Paris, France
+    internments:
+    - Drancy
+    - Auschwitz
+    liberation:
+      date: unknown
+      location: Oświęcim, Poland
+      by: Russia

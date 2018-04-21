@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: esther-freilich
+  legacy_identifier: freilichE
+  name: Esther Freilich
+  birthplace: unknown
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: ''
+    internments:
+    - Drancy
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

@@ -1,0 +1,20 @@
+---
+interviewee:
+  identifier: hadassah-marcus
+  legacy_identifier: marcusH
+  name: Hadassah Marcus
+  birthplace: Warsaw, Poland
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: unknown
+    internments:
+    - Warsaw Ghetto
+    - Majdanek
+    - Auschwitz
+    - Ravensbrück
+    - Neustadt-Glewe
+    liberation:
+      date: '1945-05-02'
+      location: Neustadt-Glewe, Germany
+      by: United States

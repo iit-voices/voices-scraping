@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: rachel-gurmanova
+  legacy_identifier: gurmanovaR
+  name: Rachel Gurmanova
+  birthplace: Warsaw, Poland
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: unknown
+    internments:
+    - Warsaw Ghetto
+    liberation:
+      date: unknown
+      location: Wąsów, Poland
+      by: Russia

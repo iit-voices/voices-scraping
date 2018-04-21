@@ -1,0 +1,19 @@
+---
+interviewee:
+  identifier: marko-moskovitz
+  legacy_identifier: moskovitzM
+  name: Marko Moskovitz
+  birthplace: Carpathian Mountains Region, Czechoslovakia
+  nationality: unknown
+  gender: male
+  locations:
+    invasion: Solotvyna, Czechoslovakia
+    internments:
+    - Sighet Ghetto
+    - Auschwitz
+    - Birkenau
+    - Flossenbürg
+    liberation:
+      date: unknown
+      location: Offenburg, Germany
+      by: France

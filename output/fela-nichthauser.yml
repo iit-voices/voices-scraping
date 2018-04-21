@@ -1,0 +1,20 @@
+---
+interviewee:
+  identifier: fela-nichthauser
+  legacy_identifier: nichthauserF
+  name: Fela Nichthauser
+  birthplace: Wadowice, Poland
+  nationality: unknown
+  gender: female
+  locations:
+    invasion: Andrychów, Poland
+    internments:
+    - Sosnowiec Ghetto
+    - Birkenheim
+    - Weidenberg
+    - Gräben
+    - Bergen-Belsen
+    liberation:
+      date: '1945-04-15'
+      location: Bergen, Germany
+      by: United Kingdom

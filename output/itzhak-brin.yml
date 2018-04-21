@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: itzhak-brin
+  legacy_identifier: brinI
+  name: Itzhak Brin
+  birthplace: Sieradz, Poland
+  nationality: unknown
+  gender: male
+  locations:
+    invasion: Sieradz, Poland
+    internments:
+    - Lódź Ghetto
+    liberation:
+      date: '1945-01-19'
+      location: Łódź, Poland
+      by: Russia

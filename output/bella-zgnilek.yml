@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: bella-zgnilek
+  legacy_identifier: zgnilekB
+  name: Bella Zgnilek
+  birthplace: unknown
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: unknown
+    internments:
+    - Gabersdorf
+    liberation:
+      date: unknown
+      location: Gabersdorf, Austria
+      by: Russia

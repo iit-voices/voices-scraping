@@ -1,0 +1,19 @@
+---
+interviewee:
+  identifier: yanusch-deutsch
+  legacy_identifier: deutschY
+  name: Yanusch Deutsch
+  birthplace: Székesfehérvár, Hungary
+  nationality: Hungary
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Székesfehérvár Ghetto
+    - Budapest Ghetto
+    - Bergen-Belsen
+    - Linz
+    liberation:
+      date: unknown
+      location: Karlsruhe, Germany
+      by: ''

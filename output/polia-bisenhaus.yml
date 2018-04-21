@@ -1,0 +1,21 @@
+---
+interviewee:
+  identifier: polia-bisenhaus
+  legacy_identifier: bisenhausP
+  name: Polia Bisenhaus
+  birthplace: Staszów, Poland
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: unknown
+    internments:
+    - Kielce Ghetto
+    - Częstochowa
+    - Bergen-Belsen
+    - Burgau
+    - Türkheim
+    - Dachau
+    liberation:
+      date: unknown
+      location: Dachau, Germany
+      by: United States

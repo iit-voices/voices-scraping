@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: friedrich-schlaefrig
+  legacy_identifier: schlaefrigF
+  name: Friedrich Schlaefrig
+  birthplace: Mistelbach, Austria
+  nationality: Austria
+  gender: male
+  locations:
+    invasion: Wien, Austria
+    internments:
+    - Theresienstadt
+    liberation:
+      date: unknown
+      location: Terezín, Czechoslovakia
+      by: Russia

@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: valerius-michelson
+  legacy_identifier: michelsonV
+  name: Valerius Michelson
+  birthplace: Tallinn, Estonia
+  nationality: Russia
+  gender: male
+  locations:
+    invasion: Tallinn, Estonia
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: United States

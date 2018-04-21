@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: clara-neiman
+  legacy_identifier: neimanC
+  name: Clara Neiman
+  birthplace: Saratov, Russia
+  nationality: Russia
+  gender: female
+  locations:
+    invasion: Kutaisi, Georgia
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

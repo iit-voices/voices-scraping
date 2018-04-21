@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: anna-paul
+  legacy_identifier: paulA
+  name: Anna Paul
+  birthplace: Tartu, Estonia
+  nationality: Estonia
+  gender: female
+  locations:
+    invasion: unknown
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

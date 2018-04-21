@@ -1,0 +1,18 @@
+---
+interviewee:
+  identifier: jacob-minski
+  legacy_identifier: minskiJ
+  name: Jacob Minski
+  birthplace: Zurich, Switzerland
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: Hamburg, Germany
+    internments:
+    - Lódź Ghetto
+    - Auschwitz
+    - Görlitz
+    liberation:
+      date: '1945-08-08'
+      location: Görlitz, Germany
+      by: Russia

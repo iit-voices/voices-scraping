@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: ilmar-a
+  legacy_identifier: aIlmar
+  name: Ilmar A.
+  birthplace: Tartu, Estonia
+  nationality: Estonia
+  gender: male
+  locations:
+    invasion: Tartu, Estonia
+    internments:
+    - Gotenhafen
+    liberation:
+      date: '1945-05-05'
+      location: Oberlungwitz, Germany
+      by: United States

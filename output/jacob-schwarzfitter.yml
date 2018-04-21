@@ -1,0 +1,22 @@
+---
+interviewee:
+  identifier: jacob-schwarzfitter
+  legacy_identifier: schwarzfitterJ
+  name: Jacob Schwarzfitter
+  birthplace: Olkusz, Poland
+  nationality: unknown
+  gender: male
+  locations:
+    invasion: ''
+    internments:
+    - Kutno Ghetto
+    - Magdeburg
+    - Sosnowiec Ghetto
+    - Blechhammer
+    - Dora-Mittelbau
+    - Ellrich
+    - Bergen-Belsen
+    liberation:
+      date: unknown
+      location: ''
+      by: United Kingdom

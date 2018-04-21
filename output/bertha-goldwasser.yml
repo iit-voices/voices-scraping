@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: bertha-goldwasser
+  legacy_identifier: goldwasserB
+  name: Bertha Goldwasser
+  birthplace: unknown
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: Paris, France
+    internments:
+    - Drancy
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: julian-weinberg
+  legacy_identifier: weinbergJ
+  name: Julian Weinberg
+  birthplace: Łódź, Poland
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Lódź Ghetto
+    liberation:
+      date: '1945-01-19'
+      location: unknown
+      by: Russia

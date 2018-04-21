@@ -1,0 +1,21 @@
+---
+interviewee:
+  identifier: benjamin-piskorz
+  legacy_identifier: piskorzB
+  name: Benjamin Piskorz
+  birthplace: Warsaw, Poland
+  nationality: unknown
+  gender: male
+  locations:
+    invasion: ''
+    internments:
+    - Warsaw Ghetto
+    - Treblinka
+    - Majdanek
+    - Auschwitz
+    - Dora-Mittelbau
+    - Bremen-Neuenland
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

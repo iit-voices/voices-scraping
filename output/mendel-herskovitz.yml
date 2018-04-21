@@ -1,0 +1,19 @@
+---
+interviewee:
+  identifier: mendel-herskovitz
+  legacy_identifier: herskovitzM
+  name: Mendel Herskovitz
+  birthplace: Łódź, Poland
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Lódź Ghetto
+    - Częstochowa
+    - Skarżysko-Kamienna
+    - Buchenwald
+    liberation:
+      date: unknown
+      location: Weimar, Germany
+      by: United States

@@ -1,0 +1,20 @@
+---
+interviewee:
+  identifier: sigmund-reich
+  legacy_identifier: reichS
+  name: Sigmund Reich
+  birthplace: Kraków, Poland
+  nationality: unknown
+  gender: male
+  locations:
+    invasion: Kraków, Poland
+    internments:
+    - Krakow Ghetto
+    - Flossenbürg
+    - Kamenz
+    - Dachau
+    - Mielec
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

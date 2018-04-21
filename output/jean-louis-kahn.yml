@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: jean-louis-kahn
+  legacy_identifier: kahnJ
+  name: Jean Louis Kahn
+  birthplace: Paris, France
+  nationality: France
+  gender: male
+  locations:
+    invasion: unknown
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

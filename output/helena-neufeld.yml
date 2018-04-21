@@ -1,0 +1,18 @@
+---
+interviewee:
+  identifier: helena-neufeld
+  legacy_identifier: neufeldH
+  name: Helena Neufeld
+  birthplace: Warsaw, Poland
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: unknown
+    internments:
+    - L'viv Ghetto
+    - Warsaw Ghetto
+    - Bergen-Belsen
+    liberation:
+      date: unknown
+      location: Falkenberg, Germany
+      by: Russia

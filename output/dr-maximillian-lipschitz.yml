@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: dr-maximillian-lipschitz
+  legacy_identifier: lipschitzM
+  name: Dr. Maximillian Lipschitz
+  birthplace: Neuschonstau, Czechoslovakia
+  nationality: unknown
+  gender: male
+  locations:
+    invasion: Kraków, Poland
+    internments:
+    - Krakow Ghetto
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

@@ -1,0 +1,22 @@
+---
+interviewee:
+  identifier: roma-tcharnabroda
+  legacy_identifier: tcharnabrodaR
+  name: Roma Tcharnabroda
+  birthplace: Kielce, Poland
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: Kielce, Poland
+    internments:
+    - L'viv Ghetto
+    - Warsaw Ghetto
+    - Majdanek
+    - Częstochowa
+    - Skarżysko-Kamienna
+    - Ravensbrück
+    - Burgau
+    liberation:
+      date: unknown
+      location: ''
+      by: United States

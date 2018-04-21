@@ -1,0 +1,18 @@
+---
+interviewee:
+  identifier: alfonsas-paulis
+  legacy_identifier: paulisA
+  name: Alfonsas Paulis
+  birthplace: unknown
+  nationality: Lithuania
+  gender: male
+  locations:
+    invasion: ''
+    internments:
+    - Pravieniskes
+    - Natzweiler-Struthof
+    - Dachau
+    liberation:
+      date: '1945-04-05'
+      location: Dachau, Germany
+      by: United States

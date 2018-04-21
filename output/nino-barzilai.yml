@@ -1,0 +1,18 @@
+---
+interviewee:
+  identifier: nino-barzilai
+  legacy_identifier: barzilaiN
+  name: Nino Barzilai
+  birthplace: Thessaloníki, Greece
+  nationality: Portugal
+  gender: male
+  locations:
+    invasion: Athênai, Greece
+    internments:
+    - Haidari
+    - Bergen-Belsen
+    - Börgermoor
+    liberation:
+      date: unknown
+      location: Börgermoor, Germany
+      by: United States

@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: admiral-louis-lazar-kahn
+  legacy_identifier: kahnL
+  name: Admiral Louis Lazar Kahn
+  birthplace: Versailles, France
+  nationality: France
+  gender: male
+  locations:
+    invasion: ''
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

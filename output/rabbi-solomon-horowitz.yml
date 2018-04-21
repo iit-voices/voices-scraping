@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: rabbi-solomon-horowitz
+  legacy_identifier: horowitzS
+  name: Rabbi Solomon Horowitz
+  birthplace: Zolotyy Potik, Poland
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: Zolotyy Potik, Poland
+    internments:
+    - Buczacz Ghetto
+    liberation:
+      date: unknown
+      location: Chernivtsi, Ukraine
+      by: Russia

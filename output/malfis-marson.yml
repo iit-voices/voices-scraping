@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: malfis-marson
+  legacy_identifier: marsonM
+  name: Malfis Marson
+  birthplace: Paris, France
+  nationality: France
+  gender: male
+  locations:
+    invasion: ''
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

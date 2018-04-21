@@ -1,0 +1,21 @@
+---
+interviewee:
+  identifier: lina-stumachin
+  legacy_identifier: stumachinL
+  name: Lina Stumachin
+  birthplace: Zakopane, Poland
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: Zakopane, Poland
+    internments:
+    - Krakow Ghetto
+    - Plaszow
+    - Auschwitz
+    - Ravensbrück
+    - Malchow
+    - Leipzig
+    liberation:
+      date: unknown
+      location: Freistaat Sachsen, Germany
+      by: Russia

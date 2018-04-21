@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: lena-kuechler
+  legacy_identifier: kuechlerL
+  name: Lena Kuechler
+  birthplace: Wieliczka, Poland
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: L'viv, Ukraine
+    internments: []
+    liberation:
+      date: unknown
+      location: Treblinka, Poland
+      by: Russia

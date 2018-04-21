@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: professor-dimitri-michailovitch-odinets
+  legacy_identifier: odinetsD
+  name: Professor Dimitri Michailovitch Odinets
+  birthplace: Paris, France
+  nationality: Russia
+  gender: male
+  locations:
+    invasion: Paris, France
+    internments:
+    - Royallieu
+    liberation:
+      date: unknown
+      location: unknown
+      by: ''

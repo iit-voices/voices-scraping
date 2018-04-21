@@ -1,0 +1,18 @@
+---
+interviewee:
+  identifier: jacob-button
+  legacy_identifier: buttonJ
+  name: Jacob Button
+  birthplace: Thessaloníki, Greece
+  nationality: Spain
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Saloniki Ghetto
+    - Haidari
+    - Bergen-Belsen
+    liberation:
+      date: unknown
+      location: Bergen, Germany
+      by: ''

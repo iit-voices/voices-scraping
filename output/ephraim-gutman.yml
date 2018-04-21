@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: ephraim-gutman
+  legacy_identifier: gutmanE
+  name: Ephraim Gutman
+  birthplace: unknown
+  nationality: Ukraine
+  gender: male
+  locations:
+    invasion: Kaunas, Lithuania
+    internments:
+    - Kaunas Ghetto
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

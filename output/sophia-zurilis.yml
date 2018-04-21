@@ -1,0 +1,17 @@
+---
+interviewee:
+  identifier: sophia-zurilis
+  legacy_identifier: zurilisS
+  name: Sophia Zurilis
+  birthplace: Rīga, Latvia
+  nationality: Lithuania
+  gender: female
+  locations:
+    invasion: Rīga, Latvia
+    internments:
+    - Dachau
+    - Stephanskirchen
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

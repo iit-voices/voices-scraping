@@ -1,0 +1,19 @@
+---
+interviewee:
+  identifier: irena-rosenwasser
+  legacy_identifier: rosenwasserI
+  name: Irena Rosenwasser
+  birthplace: Kisvárda, Hungary
+  nationality: Hungary
+  gender: female
+  locations:
+    invasion: unknown
+    internments:
+    - Kisvárda Ghetto
+    - Auschwitz
+    - Birkenau
+    - Bergen-Belsen
+    liberation:
+      date: unknown
+      location: Bergen, Germany
+      by: United Kingdom

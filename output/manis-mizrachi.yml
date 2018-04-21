@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: manis-mizrachi
+  legacy_identifier: mizrachiM
+  name: Manis Mizrachi
+  birthplace: Thessaloníki, Greece
+  nationality: Spain
+  gender: male
+  locations:
+    invasion: Athênai, Greece
+    internments:
+    - Bergen-Belsen
+    liberation:
+      date: unknown
+      location: ''
+      by: United States

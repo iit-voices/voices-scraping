@@ -1,0 +1,20 @@
+---
+interviewee:
+  identifier: abraham-kimmelmann
+  legacy_identifier: kimmelmannA
+  name: Abraham Kimmelmann
+  birthplace: Dąbrowa Górnicza, Poland
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Sosnowiec Ghetto
+    - Markstadt
+    - Fünfteichen
+    - Gross-Rosen
+    - Buchenwald
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

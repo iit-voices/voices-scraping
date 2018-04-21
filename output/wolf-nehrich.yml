@@ -1,0 +1,25 @@
+---
+interviewee:
+  identifier: wolf-nehrich
+  legacy_identifier: nehrichW
+  name: Wolf Nehrich
+  birthplace: Debice, Poland
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: Chorzów, Poland
+    internments:
+    - Będzin Ghetto
+    - Sakrau
+    - Karwin
+    - Gross Masselwitz
+    - Klettendorf
+    - Kamienna Góra
+    - Auschwitz
+    - Blechhammer
+    - Gross-Rosen
+    - Buchenwald
+    liberation:
+      date: '1945-04-11'
+      location: Weimar, Germany
+      by: United States

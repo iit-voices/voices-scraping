@@ -1,0 +1,17 @@
+---
+interviewee:
+  identifier: fania-freilich
+  legacy_identifier: freilichF
+  name: Fania Freilich
+  birthplace: Augustów, Poland
+  nationality: unknown
+  gender: female
+  locations:
+    invasion: Paris, France
+    internments:
+    - Pithiviers
+    - Drancy
+    liberation:
+      date: unknown
+      location: ''
+      by: United States

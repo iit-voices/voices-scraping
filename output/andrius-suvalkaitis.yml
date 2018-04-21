@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: andrius-suvalkaitis
+  legacy_identifier: suvalkaitisA
+  name: Andrius Suvalkaitis
+  birthplace: VilkaviÅkis, Lithuania
+  nationality: Lithuania
+  gender: male
+  locations:
+    invasion: Kaunas, Lithuania
+    internments: []
+    liberation:
+      date: unknown
+      location: Berlin, Germany
+      by: United States

@@ -1,0 +1,20 @@
+---
+interviewee:
+  identifier: udel-stopnitsky
+  legacy_identifier: stopnitskyU
+  name: Udel Stopnitsky
+  birthplace: Będzin, Poland
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Będzin Ghetto
+    - Auschwitz
+    - Birkenau
+    - Gross-Rosen
+    - Theresienstadt
+    liberation:
+      date: '1945-05-10'
+      location: Terezín, Czechoslovakia
+      by: Russia

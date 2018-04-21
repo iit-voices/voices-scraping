@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: charles-jean
+  legacy_identifier: jeanC
+  name: Charles Jean
+  birthplace: unknown
+  nationality: France
+  gender: male
+  locations:
+    invasion: unknown
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

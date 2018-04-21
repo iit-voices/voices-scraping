@@ -1,0 +1,23 @@
+---
+interviewee:
+  identifier: dr-leon-frim
+  legacy_identifier: frimL
+  name: Dr. Leon Frim
+  birthplace: L'viv, Ukraine
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: Przemyśl, Poland
+    internments:
+    - Przemyśl Ghetto
+    - Przekopana
+    - Szebnie
+    - Pustkow
+    - Auschwitz
+    - Gleiwitz
+    - Gross-Rosen
+    - Buchenwald
+    liberation:
+      date: '1945-04-11'
+      location: Weimar, Germany
+      by: United States

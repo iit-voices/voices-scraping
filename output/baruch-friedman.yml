@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: baruch-friedman
+  legacy_identifier: friedmanB
+  name: Baruch Friedman
+  birthplace: Kurima, Slovakia
+  nationality: Slovakia
+  gender: male
+  locations:
+    invasion: ''
+    internments:
+    - Vyhne
+    liberation:
+      date: '1944-08-25'
+      location: ''
+      by: Russia

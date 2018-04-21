@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: ioan-kharchenko
+  legacy_identifier: kharchenkoI
+  name: Ioan Kharchenko
+  birthplace: Vilnius, Lithuania
+  nationality: Lithuania
+  gender: male
+  locations:
+    invasion: ''
+    internments:
+    - Wilhelmshaven
+    liberation:
+      date: unknown
+      location: Berlin, Germany
+      by: United States

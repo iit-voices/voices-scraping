@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: malka-johles
+  legacy_identifier: johlesM
+  name: Malka Johles
+  birthplace: Delyatyn, Poland
+  nationality: Poland
+  gender: female
+  locations:
+    invasion: Wien, Austria
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

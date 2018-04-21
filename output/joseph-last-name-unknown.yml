@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: joseph-last-name-unknown
+  legacy_identifier: joseph
+  name: Joseph [last name unknown]
+  birthplace: Drohobych, Ukraine
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: Drohobych, Ukraine
+    internments: []
+    liberation:
+      date: unknown
+      location: ''
+      by: ''

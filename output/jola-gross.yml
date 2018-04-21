@@ -1,0 +1,17 @@
+---
+interviewee:
+  identifier: jola-gross
+  legacy_identifier: grossJ
+  name: Jola Gross
+  birthplace: Niznii Verezky, Czechoslovakia
+  nationality: Czechoslovakia
+  gender: female
+  locations:
+    invasion: unknown
+    internments:
+    - Mukachevo Ghetto
+    - Auschwitz
+    liberation:
+      date: unknown
+      location: Sudety Region, Czechoslovakia
+      by: Russia

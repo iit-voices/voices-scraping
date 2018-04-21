@@ -1,0 +1,17 @@
+---
+interviewee:
+  identifier: eda-button
+  legacy_identifier: buttonE
+  name: Eda Button
+  birthplace: Thessaloníki, Greece
+  nationality: Spain
+  gender: female
+  locations:
+    invasion: unknown
+    internments:
+    - Saloniki Ghetto
+    - Bergen-Belsen
+    liberation:
+      date: '1944-04-15'
+      location: Bergen, Germany
+      by: ''

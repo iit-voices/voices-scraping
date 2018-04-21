@@ -1,0 +1,15 @@
+---
+interviewee:
+  identifier: fira-monk
+  legacy_identifier: monkF
+  name: Fira Monk
+  birthplace: Paris, France
+  nationality: Russia
+  gender: female
+  locations:
+    invasion: Paris, France
+    internments: []
+    liberation:
+      date: '1944-08-22'
+      location: Grenoble, France
+      by: United States

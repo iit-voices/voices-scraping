@@ -1,0 +1,19 @@
+---
+interviewee:
+  identifier: leon-moiseievich-shachnovski
+  legacy_identifier: shachnovskiL
+  name: Leon Moiseievich Shachnovski
+  birthplace: Kaunas, Lithuania
+  nationality: unknown
+  gender: male
+  locations:
+    invasion: Kaunas, Lithuania
+    internments:
+    - Kaunas Ghetto
+    - Stutthof
+    - Dachau
+    - Augsburg
+    liberation:
+      date: '1945-04-22'
+      location: Augsburg, Germany
+      by: United States

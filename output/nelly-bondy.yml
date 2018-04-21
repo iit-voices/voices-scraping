@@ -1,0 +1,21 @@
+---
+interviewee:
+  identifier: nelly-bondy
+  legacy_identifier: bondyN
+  name: Nelly Bondy
+  birthplace: Wien, Austria
+  nationality: Austria
+  gender: female
+  locations:
+    invasion: Paris, France
+    internments:
+    - Drancy
+    - Birkenau
+    - Auschwitz
+    - Ravensbrück
+    - Malchow
+    - Taucha
+    liberation:
+      date: unknown
+      location: Oschatz, Germany
+      by: ''

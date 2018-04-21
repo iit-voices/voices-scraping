@@ -1,0 +1,16 @@
+---
+interviewee:
+  identifier: arthur-breslauer
+  legacy_identifier: breslauerA
+  name: Arthur Breslauer
+  birthplace: unknown
+  nationality: Hungary
+  gender: male
+  locations:
+    invasion: Budapest, Hungary
+    internments:
+    - Bergen-Belsen
+    liberation:
+      date: '1944-08-18'
+      location: Bergen, Germany
+      by: ''

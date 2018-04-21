@@ -1,0 +1,19 @@
+---
+interviewee:
+  identifier: jurek-kestenberg
+  legacy_identifier: kestenbergJ
+  name: Jurek Kestenberg
+  birthplace: Warsaw, Poland
+  nationality: Poland
+  gender: male
+  locations:
+    invasion: unknown
+    internments:
+    - Warsaw Ghetto
+    - Majdanek
+    - Skarżysko-Kamienna
+    - Buchenwald
+    liberation:
+      date: unknown
+      location: Weimar, Germany
+      by: United States
