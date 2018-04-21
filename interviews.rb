@@ -88,3 +88,7 @@ puts @interviewee.name
 
 record_hash = { 'interviewee': @interviewee.to_h.stringify_keys }
 puts record_hash.stringify_keys.to_yaml
+
+File.open("#{@interviewee.legacy_identifier}.yml",'w') do |f|
+  f.write(record_hash.stringify_keys.to_yaml)
+end
