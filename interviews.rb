@@ -130,7 +130,7 @@ Dir.glob(@files).each do |file|
   puts record_hash.deep_stringify_keys.to_yaml
 
   # Write the YAML file
-  File.open("output/#{@interviewee.file_name}.yml",'w') do |f|
+  File.open("output/#{@interviewee.identifier}.yml",'w') do |f|
     f.write(record_hash.deep_stringify_keys.to_yaml)
   end
 end
