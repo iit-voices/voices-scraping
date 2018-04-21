@@ -1,4 +1,5 @@
 require 'nokogiri'
+require 'yaml'
 
 # Hash of cities with erroneous &#195 entities, and their fixes:
 @corrected_cities = {
@@ -70,3 +71,17 @@ def time_seconds(marker)
   end
   seconds.to_s
 end
+
+Record = Struct.new(:legacy_identifier, :name, :nationality)
+@file = "#{ENV['HOME']}/Voices/voices.iit.edu/_scrape/interviewee/interviewee?doc=sochamiH"
+@doc = File.open(@file) do |f|
+  Nokogiri::HTML(f)
+end
+puts @doc.css("#content h1")
+@interviewee = Record.new
+@interviewee.legacy_identifier = @file.split('=').last
+@interviewee.name = @doc.css("#content h1 text()").to_s.strip
+puts @interviewee.name
+@interviewee.nationality = @doc.css("ul.bio .nationality text()").to_s.strip
+
+puts @interviewee.to_h
