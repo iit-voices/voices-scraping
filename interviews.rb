@@ -74,7 +74,13 @@ def time_seconds(marker)
   seconds.to_s
 end
 
-Record = Struct.new(:legacy_identifier, :name, :nationality) do
+Record = Struct.new(
+  :legacy_identifier,
+  :name,
+  :birthplace,
+  :nationality,
+  :gender,
+  :locations ) do
   def file_name
     name.split(" ").join("-").downcase
   end
@@ -92,15 +98,30 @@ end
 @interviewee = Record.new
 @interviewee.legacy_identifier = @file.split('=').last
 @interviewee.name = @doc.css("#content h1 text()").to_s.strip
-@interviewee.nationality = @doc.css("ul.bio .nationality text()").to_s.strip
+# Biographical Information
+bio = @doc.css('ul.bio')
+@interviewee.birthplace = bio.css(".birthplace text()").to_s.strip
+# Check to see if birthplace contains Ã (parsed &#195;), pull location from corrected_cities
+if @interviewee.birthplace.match?(/Ã/)
+  @interviewee.birthplace = @corrected_cities[@interviewee.birthplace.to_sym]
+end
+@interviewee.nationality = bio.css(".nationality text()").to_s.strip
+@interviewee.gender = bio.css(".gender text()").to_s.strip
+@interviewee.locations = Hash.new
+@interviewee.locations[:invasion] = bio.css(".location_at_time_of_german_invasion text()").to_s.strip
+@interviewee.locations[:internments] = bio.css(".interned_at text()").to_s.strip.split(", ")
+@interviewee.locations[:liberation] = Hash.new
+@interviewee.locations[:liberation][:date] = iso_date(bio.css(".liberation_date text()").to_s.strip)
+@interviewee.locations[:liberation][:location] = bio.css(".location_at_time_of_liberation text()").to_s.strip
+@interviewee.locations[:liberation][:by] = bio.css(".liberated_by text()").to_s.strip
 
 # Create an outer hash in service of the YAML structure
-record_hash = { 'interviewee': @interviewee.to_h.stringify_keys }
+record_hash = { 'interviewee': @interviewee.to_h.deep_stringify_keys }
 
 # Diagnostic line for CLI sanity checking
-puts record_hash.stringify_keys.to_yaml
+puts record_hash.deep_stringify_keys.to_yaml
 
 # Write the YAML file
 File.open("output/#{@interviewee.file_name}.yml",'w') do |f|
-  f.write(record_hash.stringify_keys.to_yaml)
+  f.write(record_hash.deep_stringify_keys.to_yaml)
 end
