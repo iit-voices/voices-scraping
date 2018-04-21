@@ -54,6 +54,10 @@ def iso_date(str)
   else
     # For a date like "September 24, 1945": remove the comma, split at spaces
     arr_date = str.gsub(/,/,'').split(" ")
+    # Zero-pad single-digit days
+    if arr_date[1].length == 1
+      arr_date[1] = "0" + arr_date[1]
+    end
     # Output ISO date string YYYY-MM-DD
     "#{arr_date[2]}-#{@month_numbers[arr_date[0].downcase.to_sym]}-#{arr_date[1]}"
   end
