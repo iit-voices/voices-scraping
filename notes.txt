@@ -88,3 +88,17 @@ audio?doc=sochamiH -> same as the audio.php file
 interview?doc=sochamiH&display=sochamiH_en -> English, with metadata (end marks are 'x' though)
 interview?doc=sochamiH&display=sochamiH_es -> Spanish, in this case, also metadata/missing end marks
 interviewee?doc=sochamiH
+
+
+
+interview\?doc=kharchenkoI\&display=kharchenkoI_ru
+interview\?doc=kharchenkoI\&display=kharchenkoI_ru
+
+
+## Scraping Spot-checking
+* It's worth thinking about whether to preserve the complete legacy MP3 file names, or to update
+  them somehow. It's probably worth preserving in the name the spool information, at any rate.
+
+* Roma Tcharnabroda has two audio files; I've set the hash to comma-separate them, but the two
+  MP3 files should probably be joined into one. There's also something funky happening around line
+  420 of her .yml file with start: and end: markers.
