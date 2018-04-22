@@ -83,7 +83,7 @@ def time_seconds(marker)
   seconds.to_s
 end
 
-Record = Struct.new(
+Interviewee = Struct.new(
   :identifier,
   :legacy_identifier,
   :name,
@@ -96,6 +96,11 @@ Record = Struct.new(
   end
 end
 
+Recording = Struct.new(:date,:location,:languages,:duration,:spools,:audio,:transcript,:translation)
+Utterance = Struct.new(:who,:start,:end,:u)
+Transcript = Struct.new(:language,:interview)
+
+
 # Set a file pattern (temporary)
 @files = "#{ENV['HOME']}/Voices/voices.iit.edu/voices.iit.edu/interviewee\?doc=*"
 Dir.glob(@files).each do |file|
@@ -105,7 +110,7 @@ Dir.glob(@files).each do |file|
   end
 
   # Use a struct to build the record
-  @interviewee = Record.new
+  @interviewee = Interviewee.new
   @interviewee.legacy_identifier = file.split('=').last
   @interviewee.name = @doc.css("#content h1 text()").to_s.strip
   # Biographical Information
