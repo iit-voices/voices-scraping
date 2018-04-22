@@ -31,12 +31,12 @@ recording:
     - who: David Boder
       start: '00:00:04.006'
       end: '00:00:04.006'
-      u: "[In English] Now, will you speak in English? And if you can't, you speak
+      u: "[In English] Now, will you speak in English? And if you can’t, you speak
         in French. All right. I will ask you the questions in English and you can
         answer them. [aside] All right. I am here at the home of Admiral Kahn, in
-        the presence of three generations. There's the grandfather, the father of
+        the presence of three generations. There’s the grandfather, the father of
         Mrs. Kahn, who spoke to us before, and the Admiral, his wife and here now
-        with me on the sofa is his young son. Now tell me, what's your name?"
+        with me on the sofa is his young son. Now tell me, what’s your name?"
     - who: Jean Kahn
       start: '00:00:54.340'
       end: '00:00:54.340'
@@ -68,7 +68,7 @@ recording:
     - who: David Boder
       start: '00:01:04.938'
       end: '00:01:04.938'
-      u: Now, that's nice English. And any time you are look for words, just speak
+      u: Now, that’s nice English. And any time you are look for words, just speak
         French. You are now fifteen. And how old were you when the war started?
     - who: Jean Kahn
       start: '00:01:15.914'
@@ -90,11 +90,11 @@ recording:
     - who: Jean Kahn
       start: '00:01:37.836'
       end: '00:01:37.836'
-      u: "[In French] Eh bien, tout d'abord j'ai vu beaucoup de monde courir dans
-        les rues, allant à l'encontre des nouvelles, car à la radio beaucoup de speakers,
+      u: "[In French] Eh bien, tout d’abord j’ai vu beaucoup de monde courir dans
+        les rues, allant à l’encontre des nouvelles, car à la radio beaucoup de speakers,
         ne sachant pas eux-mêmes les nouvelles, avaient livré la radio à des spectacles
-        de musique et de chansons. Et la première chose que je vis le matin en m'éveillant,
-        ce sont des cars de troupes qui montaient au front par le Nord à l'approchée
+        de musique et de chansons. Et la première chose que je vis le matin en m’éveillant,
+        ce sont des cars de troupes qui montaient au front par le Nord à l’approchée
         de Sedan...et tout le monde était affolé, entourant la radio."
     - who: David Boder
       start: '00:02:54.273'
@@ -104,7 +104,7 @@ recording:
     - who: Marcelle Kahn
       start: '00:03:03.351'
       end: '00:03:03.351'
-      u: "[In French] [Interpreter intervenes] Quel mois c'était?"
+      u: "[In French] [Interpreter intervenes] Quel mois c’était?"
     - who: David Boder
       start: '00:03:08.833'
       end: '00:03:08.833'
@@ -112,7 +112,7 @@ recording:
     - who: Jean Kahn
       start: '00:03:10.309'
       end: '00:03:10.309'
-      u: "[In French] C'était en juin. En juin."
+      u: "[In French] C’était en juin. En juin."
     - who: David Boder
       start: '00:03:11.936'
       end: '00:03:11.936'
@@ -120,7 +120,7 @@ recording:
     - who: Jean Kahn
       start: '00:03:13.996'
       end: '00:03:13.996'
-      u: "[In French] Oui, j'étais en classe, au lycée de Lorient."
+      u: "[In French] Oui, j’étais en classe, au lycée de Lorient."
     - who: David Boder
       start: '00:03:18.544'
       end: '00:03:18.544'
@@ -138,10 +138,10 @@ recording:
       start: '00:03:32.051'
       end: '00:03:32.051'
       u: "[In French] Eh bien, nous avons été obligés de nous enfuir devant les Allemands
-        qui avaient réussi à faire une percée dans l'Est et à ce temps-là, nous ne
-        pensions pas qu'ils allaient avancer rapidement. Et alors, dès le 18 juin
-        1940, nous avons été forcés de parcourir la France du Nord au Sud et de l'orient
-        d'arriver à Marseille."
+        qui avaient réussi à faire une percée dans l’Est et à ce temps-là, nous ne
+        pensions pas qu’ils allaient avancer rapidement. Et alors, dès le 18 juin
+        1940, nous avons été forcés de parcourir la France du Nord au Sud et de l’orient
+        d’arriver à Marseille."
     - who: David Boder
       start: '00:04:06.488'
       end: '00:04:06.488'
@@ -166,24 +166,24 @@ recording:
     - who: Jean Kahn
       start: '00:04:31.271'
       end: '00:04:31.271'
-      u: "[In French] [conversation with interpreter] C'est à Marseille que j'ai appris
-        que l'armistice avait été signé."
+      u: "[In French] [conversation with interpreter] C’est à Marseille que j’ai appris
+        que l’armistice avait été signé."
     - who: David Boder
       start: '00:04:41.585'
       end: '00:04:41.585'
-      u: '[In English] All right. And where did you go from Marseille? Tell me. [aside
-        to someone else: "It was a great pleasure and thank you very much."]'
+      u: "[In English] All right. And where did you go from Marseille? Tell me. [aside
+        to someone else: “It was a great pleasure and thank you very much.”]"
     - who: Jean Kahn
       start: '00:04:55.917'
       end: '00:04:55.917'
-      u: "[In French] [conversation with interpreter] A Marseille, c'était en décembre
+      u: "[In French] [conversation with interpreter] A Marseille, c’était en décembre
         1942, nous avons entendu un message à la radio de Londres, message qui avait
         été convenu avec mon père à son départ: le canari est bien arrivé et il attend
-        ses petits. C'était le signal que nous attendions pour partir pour aller le
-        rejoindre. En octobre 1943, nous avons pris le train pour Perpignan, et c'est
+        ses petits. C’était le signal que nous attendions pour partir pour aller le
+        rejoindre. En octobre 1943, nous avons pris le train pour Perpignan, et c’est
         de là que nous passions faire toutes nos recherches et prévoir tous les embarras
-        que nous aurions en traversant la frontière. Et de la fin d'octobre 1943 nous
-        avons pris le train, sans les papiers qu'il fallait pour traverser la zone
+        que nous aurions en traversant la frontière. Et de la fin d’octobre 1943 nous
+        avons pris le train, sans les papiers qu’il fallait pour traverser la zone
         interdite, longeant la frontière espagnole. Et...mon frère et moi avons cherché
         le passage dans différents petits villages qui se trouvaient sur des sommets."
     - who: David Boder
@@ -205,16 +205,16 @@ recording:
         devant le refus de tout le monde de nous aider, mêmes des guides qui avaient
         été questionnés, sans idées totalement de voir seulement ce que nous pourrions
         faire, nous sommes retournés à Perpignan décidés à partir seuls, sans guide,
-        avec l'aide de personne. Mon frère acheta une boussole et une carte d'état-major
+        avec l’aide de personne. Mon frère acheta une boussole et une carte d’état-major
         de la région, et vers midi, nous sommes partis de Perpignan, pour une petite
-        ville qui s'appelle Osséja, située à combien d'altitude? située à 1200 mètres
-        d'altitude. Nous n'avions évidemment réussi à avoir aucun papier permettant
-        le passage de la zone interdite, et cependant, dans le village d'Osséja, nous
+        ville qui s’appelle Osséja, située à combien d’altitude? située à 1200 mètres
+        d’altitude. Nous n’avions évidemment réussi à avoir aucun papier permettant
+        le passage de la zone interdite, et cependant, dans le village d’Osséja, nous
         étions déjà dans la zone interdite. Par conséquent, à tout contrôle, les Allemands
-        auraient pu découvrir que nous n'avions pas de papiers et nous empêcher d'aller
-        plus loin. Ceci ne s'est pas passé heureusement, mais à la sortie de la gare
-        d'Osséja, nous avons remarqué qu'il y avait deux agents allemands qui demandaient
-        les papiers permettant l'entrée en zone interdite. Nous sommes restés quelques
+        auraient pu découvrir que nous n’avions pas de papiers et nous empêcher d’aller
+        plus loin. Ceci ne s’est pas passé heureusement, mais à la sortie de la gare
+        d’Osséja, nous avons remarqué qu’il y avait deux agents allemands qui demandaient
+        les papiers permettant l’entrée en zone interdite. Nous sommes restés quelques
         instants sur la voie, et lorsque nous avons vu les deux agents partir, nous
         avons franchi la gare, et nous sommes sortis. Nous avions laissé deux sacs
         de montagne assez lourds et une valise à la consigne en vue de pouvoir plus
@@ -227,33 +227,33 @@ recording:
     - who: Jean Kahn
       start: '00:09:35.085'
       end: '00:09:35.085'
-      u: Et puis nous sommes partis d'après...en suivant un trajet qui nous avait
-        été vaguement indiqué par quelques personnes dans le petit village même. L'ascension
-        commença vers la fin de l'après-midi, et la pluie tombait en faisant des mottes
-        de gadoue. Nous étions enfoncés dans la boue, traînants, glissants, nous n'en
-        pouvions plus et n'avancions pas. [Question off mic from interpreter] On n'osait
-        pas sortir la carte d'état-major de peur de la tremper et de la perdre. De
+      u: Et puis nous sommes partis d’après...en suivant un trajet qui nous avait
+        été vaguement indiqué par quelques personnes dans le petit village même. L’ascension
+        commença vers la fin de l’après-midi, et la pluie tombait en faisant des mottes
+        de gadoue. Nous étions enfoncés dans la boue, traînants, glissants, nous n’en
+        pouvions plus et n’avancions pas. [Question off mic from interpreter] On n’osait
+        pas sortir la carte d’état-major de peur de la tremper et de la perdre. De
         temps en temps nous regardions la boussole pour voir si nous étions dans la
         bonne direction, et nous entendions les chiens des policiers allemands. Nous
-        ne savions pas s'ils étaient à nos trousses ou aux trousses de quelqu'un d'autre,
+        ne savions pas s’ils étaient à nos trousses ou aux trousses de quelqu’un d’autre,
         mais on se taisait pour nous faire rater. Mon frère cependant nous exhortait
         et nous poussait comme il pouvait, car nous étions les deux plus fatigués,
-        ma mère et moi. Et enfin, c'est lui qui remontait le moral du trio, et qui
+        ma mère et moi. Et enfin, c’est lui qui remontait le moral du trio, et qui
         nous a toujours tenus dans la bonne voie avec sa boussole. A la sortie du
         village, nous avons vu une caserne allemande, qui...dans laquelle logeaient
         des douaniers, et nous avions vu un de leurs gros chiens policiers qui servent
         à dépister les gens qui essayent de passer la frontière. Enfin, après avoir
         marché pendant environ 5 heures, nous sommes tombés à pic sur une voie de
-        chemin de fer au fond d'une vallée et nous avons aperçu une petite gare très
+        chemin de fer au fond d’une vallée et nous avons aperçu une petite gare très
         semblable à nos gares françaises, et nous nous demandions si nous étions déjà
         en Espagne et non pas toujours en France. Il commençait à faire nuit, et nous
-        n'osions pas nous découvrir et aller demander des renseignements, même approcher
-        de la gare. En descendant, nous sommes tombés...comment s'appelle? un remblai...sur
-        un remblai et nous avons été obligés de passer au dessous d'un tunnel, de
+        n’osions pas nous découvrir et aller demander des renseignements, même approcher
+        de la gare. En descendant, nous sommes tombés...comment s’appelle? un remblai...sur
+        un remblai et nous avons été obligés de passer au dessous d’un tunnel, de
         contourner la voie et nous sommes descendus enfin sur une route qui semblait
-        une route d'assez grande importance, malgré qu'il n'y ait pas beaucoup de
+        une route d’assez grande importance, malgré qu’il n’y ait pas beaucoup de
         circulation dessus. Enfin nous nous sommes approchés de la gare, et nous avons
-        vu une inscription qui semblait bien ne pas être française. C'était [Filbas?],
+        vu une inscription qui semblait bien ne pas être française. C’était [Filbas?],
         équivalent de [biffure?] en espagnol. Et puis peu à peu nous nous approchions
         sans nous en douter de la gare et nous avons entendu des jeunes filles chanter.
         Elles ne chantaient pas en français, mais en espagnol. Aussitôt, nous nous
@@ -263,21 +263,21 @@ recording:
         lendemain matin - ils nous avaient évidemment donné leurs lits pour passer
         la nuit—le lendemain matin, nous sommes partis de très bonne heure pour gagner
         la province de Barcelone, qui nous avait-on dit était moins dangereuse, et
-        de là, on ne pouvait pas nous renvoyer en France. De l'aube même, nous avons
-        marché certainement toute la matinée, et une bonne partie de l'après-midi,
+        de là, on ne pouvait pas nous renvoyer en France. De l’aube même, nous avons
+        marché certainement toute la matinée, et une bonne partie de l’après-midi,
         et nous allions prendre un car dans un petit village situé encore dans la
-        montagne, lorsque nous avons vu deux carabineros habillés d'uniformes kaki
+        montagne, lorsque nous avons vu deux carabineros habillés d’uniformes kaki
         et entourés de ceintures jaunes, avec de bas chapeaux [? de cire]. Ils sont
-        venus vers nous, nous demander les papiers d'identité, documentation, et nous
-        n'avons évidemment rien pu fournir. Ils nous ont fait monter dans un hôtel
-        qui avait été réquisitionné entièrement par eux, et là a commencé l'interrogatoire,
-        ainsi que la fouille. L'interrogatoire s'est prolongé toute l'après-midi.
+        venus vers nous, nous demander les papiers d’identité, documentation, et nous
+        n’avons évidemment rien pu fournir. Ils nous ont fait monter dans un hôtel
+        qui avait été réquisitionné entièrement par eux, et là a commencé l’interrogatoire,
+        ainsi que la fouille. L’interrogatoire s’est prolongé toute l’après-midi.
         Ils posaient de temps en temps une question, nous ont présenté quelques fiches,
         nous ont confisqués tout ce que nous avions. On ramassait une part ou tout
         des choses qui étaient restées dans nos poches, et que nous avions essayé
         en vain de cacher. Et enfin, le soir, on nous a apporté un dîner très copieux,
         avec...pour la somme modique de 25.000 francs qui avaient été confisqués pendant
-        l'interrogatoire. La nuit, ils nous ont fait passer dans une chambre dont
+        l’interrogatoire. La nuit, ils nous ont fait passer dans une chambre dont
         les fenêtres avaient été grillagées, et avant de se coucher, ils nous ont
         enlevé nos chaussures.
     - who: David Boder
@@ -304,14 +304,14 @@ recording:
       u: Le surlendemain, nous avons été sortis de cette chambre et emmenés à Barcelone
         au quartier général de la police espagnole. Nous sommes restés là pas même
         cinq minutes. Nous avons été ramenés au poste de police, puis de nouveau à
-        l'hôtel où nous avions passé les deux nuits précédentes, et enfin, deux carabineros
+        l’hôtel où nous avions passé les deux nuits précédentes, et enfin, deux carabineros
         nous ont emmenés en prison à Barcelone. Là, bref interrogatoire, et puis nous
         avons été jetés en prison, un peu comme des bêtes, dans de grandes cages dans
         les sous-sols de la préfecture de Barcelone. Le surlendemain, nous sommes
-        sortis miraculeusement et avons réussi à faire partie d'un convoi qui devait
-        gagner l'Afrique du nord, et nous mener enfin en terre libre. Nous avons atteint
+        sortis miraculeusement et avons réussi à faire partie d’un convoi qui devait
+        gagner l’Afrique du nord, et nous mener enfin en terre libre. Nous avons atteint
         Casablanca au bout de deux jours et enfin nous avons su sur le bateau qui
-        nous menait à Casablanca que mon père était à Alger. Et alors, au bout d'une
+        nous menait à Casablanca que mon père était à Alger. Et alors, au bout d’une
         semaine, passé des difficultés de transport entre Casablanca et Alger, nous
         avons rejoint mon père.
     - who: David Boder
@@ -321,7 +321,7 @@ recording:
     - who: Jean Kahn
       start: '00:19:39.600'
       end: '00:19:39.600'
-      u: A little bit, yes, but I really didn't know the danger we could...
+      u: A little bit, yes, but I really didn’t know the danger we could...
     - who: David Boder
       start: '00:19:45.594'
       end: '00:19:45.594'
@@ -333,7 +333,7 @@ recording:
     - who: David Boder
       start: '00:19:47.462'
       end: '00:19:47.462'
-      u: You didn't know the danger.
+      u: You didn’t know the danger.
     - who: Jean Kahn
       start: '00:19:49.040'
       end: '00:19:49.040'
@@ -377,7 +377,7 @@ recording:
     - who: Jean Kahn
       start: '00:20:16.205'
       end: '00:20:16.205'
-      u: No, we didn't have good clothes. Only very bad shoes.
+      u: No, we didn’t have good clothes. Only very bad shoes.
     - who: David Boder
       start: '00:20:24.518'
       end: '00:20:24.518'
@@ -386,7 +386,7 @@ recording:
       start: '00:20:25.362'
       end: '00:20:25.362'
       u: "[In French] Et des vêtements décousus, des chaussettes déchirées par les
-        ronces et trempées dans la boue. Et pour toute nourriture, nous n'avions qu'un
+        ronces et trempées dans la boue. Et pour toute nourriture, nous n’avions qu’un
         kilo de sucre, qui fondait dans nos poches, et une gourde de rhum."
     - who: David Boder
       start: '00:20:57.887'
@@ -395,7 +395,7 @@ recording:
     - who: Jean Kahn
       start: '00:20:59.977'
       end: '00:20:59.977'
-      u: No, I didn't drink rum. Only with a piece of sugar.
+      u: No, I didn’t drink rum. Only with a piece of sugar.
     - who: David Boder
       start: '00:21:08.863'
       end: '00:21:08.863'
@@ -483,7 +483,7 @@ recording:
     - who: Jean Kahn
       start: '00:22:10.173'
       end: '00:22:10.173'
-      u: I'm in the second degree.
+      u: I’m in the second degree.
     - who: David Boder
       start: '00:22:11.902'
       end: '00:22:11.902'
@@ -519,11 +519,11 @@ recording:
     - who: Jean Kahn
       start: '00:22:34.968'
       end: '00:22:34.968'
-      u: I don't know.
+      u: I don’t know.
     - who: David Boder
       start: '00:22:36.113'
       end: '00:22:36.113'
-      u: You don't know. Well, that is good. You are young. Do you want to be an Admiral?
+      u: You don’t know. Well, that is good. You are young. Do you want to be an Admiral?
     - who: Jean Kahn
       start: '00:22:42.450'
       end: '00:22:42.450'
@@ -531,7 +531,7 @@ recording:
     - who: David Boder
       start: '00:22:43.113'
       end: '00:22:43.113'
-      u: No? [laughing] You don't want to go to sea? Well, and now, do you feel good
+      u: No? [laughing] You don’t want to go to sea? Well, and now, do you feel good
         at school? Do you have a lot of friends?
     - who: Jean Kahn
       start: '00:22:51.637'
@@ -633,7 +633,7 @@ recording:
     - who: David Boder
       start: '00:24:37.093'
       end: '00:24:37.093'
-      u: All right. I'll write you a letter, then you will know my address. And then
+      u: All right. I’ll write you a letter, then you will know my address. And then
         if I can, we make another wire and we send you one and then when you have
         a machine, then you can listen to it.
     - who: Jean Kahn
@@ -650,12 +650,12 @@ recording:
     - who: David Boder
       start: '00:00:04.006'
       end: '00:00:04.006'
-      u: "[In English] Now, will you speak in English? And if you can't, you speak
+      u: "[In English] Now, will you speak in English? And if you can’t, you speak
         in French. All right. I will ask you the questions in English and you can
         answer them. [aside] All right. I am here at the home of Admiral Kahn, in
-        the presence of three generations. There's the grandfather, the father of
+        the presence of three generations. There’s the grandfather, the father of
         Mrs. Kahn, who spoke to us before, and the Admiral, his wife and here now
-        with me on the sofa is his young son. Now tell me, what's your name?"
+        with me on the sofa is his young son. Now tell me, what’s your name?"
     - who: Jean Kahn
       start: '00:00:54.340'
       end: '00:00:54.340'
@@ -687,7 +687,7 @@ recording:
     - who: David Boder
       start: '00:01:04.938'
       end: '00:01:04.938'
-      u: Now, that's nice English. And any time you are looking for words, just speak
+      u: Now, that’s nice English. And any time you are looking for words, just speak
         French. You are now fifteen. And how old were you when the war started?
     - who: Jean Kahn
       start: '00:01:15.914'
@@ -752,7 +752,7 @@ recording:
     - who: Jean Kahn
       start: '00:03:23.605'
       end: '00:03:23.605'
-      u: "[In French] I didn't think that it would last very long."
+      u: "[In French] I didn’t think that it would last very long."
     - who: David Boder
       start: '00:03:26.659'
       end: '00:03:26.659'
@@ -761,7 +761,7 @@ recording:
       start: '00:03:32.051'
       end: '00:03:32.051'
       u: "[In French] Well, we had to escape from the Germans who had succeeded in
-        making a breakthrough in the East, and at the time, we didn't think that they
+        making a breakthrough in the East, and at the time, we didn’t think that they
         were going to advance quickly. And so, starting on June 18, 1940, we were
         forced to travel throughout France, from the North to the South and the East,
         to arrive in Marseille.The Kahns joined the great throngs of refugees fleeing
@@ -798,15 +798,15 @@ recording:
     - who: David Boder
       start: '00:04:41.585'
       end: '00:04:41.585'
-      u: '[In English] All right. And where did you go from Marseille? Tell me. [aside
-        to someone else: "It was a great pleasure and thank you very much."]'
+      u: "[In English] All right. And where did you go from Marseille? Tell me. [aside
+        to someone else: “It was a great pleasure and thank you very much.”]"
     - who: Jean Kahn
       start: '00:04:55.917'
       end: '00:04:55.917'
-      u: '[In French] [conversation with interpreter] In Marseille, it was December,
+      u: "[In French] [conversation with interpreter] In Marseille, it was December,
         1942, when we heard a radio message from London, a message that we had arranged
         with my father at the time of his departure: The canary has arrived safe and
-        sound and he''s waiting for his little ones. This was the signal that we were
+        sound and he’s waiting for his little ones. This was the signal that we were
         waiting for, in order to go and be reunited with him.The German occupation
         of southern France a month earlier had placed the Kahn family in additional
         danger.4 In October 1943, we took the train to Perpignan,Perpignan is located
@@ -814,13 +814,13 @@ recording:
         of Narbonne in the area of France known as Roussillon, the French part of
         Catalonia.5 and from there we did all our research and preparations for all
         the difficulties we would have in crossing the border. And at the end of October,
-        1943, we took the train, without the papers required to cross into the "forbidden
-        zone" along the Spanish border.The Germans assumed direct control of the German
+        1943, we took the train, without the papers required to cross into the “forbidden
+        zone” along the Spanish border.The Germans assumed direct control of the German
         border from the Vichy government beginning in April 1943. The authority of
         French police forces in this area was suspended in the special frontier zone
         they established. This is most probably what Jean refers to when he speaks
-        about the "forbidden zone."6 And...my brother and I looked for a way through
-        various little villages up in the mountains.'
+        about the “forbidden zone.”6 And...my brother and I looked for a way through
+        various little villages up in the mountains."
     - who: David Boder
       start: '00:06:25.816'
       end: '00:06:25.816'
@@ -833,20 +833,20 @@ recording:
       start: '00:06:29.395'
       end: '00:06:29.395'
       u: "[In French] And my mother was waiting in Perpignan for the results of our
-        investigation. Children didn't need special papers to enter the forbidden
+        investigation. Children didn’t need special papers to enter the forbidden
         zone. And we were both under the age of 17 at the time and we could cross
-        the German police barriers fairly easily where they were checking other person's
+        the German police barriers fairly easily where they were checking other person’s
         papers. When we saw how impossible it was, since everyone refused to help
         us, even the guides who had been questioned were totally without any ideas
         as to what we could do, we returned to Perpignan, having decided to go it
-        alone, without a guide, with no one's help. My brother bought a compass and
+        alone, without a guide, with no one’s help. My brother bought a compass and
         an administrative road map of the area, and around noon, we left Perpignan
         for a small town called Osseja, located at.. what was the altitude? Located
         at 1200 meters above sea level. We had of course not succeeded in obtaining
         any papers giving us permission to be in the forbidden zone, and nevertheless,
         in the village of Osseja, we were already in the forbidden zone. Consequently,
         at any checkpoint, the Germans could have discovered that we were without
-        papers and stop us from going any further. This didn't happen, fortunately,
+        papers and stop us from going any further. This didn’t happen, fortunately,
         but coming out of the train station at Osseja, we saw two German agents who
         were checking papers for entrance into the forbidden zone. We stayed a few
         moments near the train tracks, and when we saw the two agents leave, we crossed
@@ -865,9 +865,9 @@ recording:
         end of the afternoon, and the rain was falling, turning the ground into clumps
         of slush. We were sinking into the mud, dragging our feet, sliding. We were
         exhausted and not making any progress. [Question off mic from interpreter]
-        We didn''t dare take out the map, for fear it would become soaked and useless.
+        We didn’t dare take out the map, for fear it would become soaked and useless.
         From time to time, we looked at the compass to see if we were going in the
-        right direction, and we would hear the German police dogs. We didn''t know
+        right direction, and we would hear the German police dogs. We didn’t know
         if they were tracking us or someone else, but we kept quiet so as to be missed
         by them. My brother, nevertheless, drove us on and pushed us as best as he
         could, because both my mother and I were more tired than he. Ultimately, he
@@ -878,14 +878,14 @@ recording:
         having walked for about 5 hours, we suddenly came upon train tracks at the
         bottom of a valley and we saw a little train station that looked very similar
         to our French train stations, and we wondered if we were already in Spain
-        and not in France anymore. It was beginning to get dark and we didn''t dare
+        and not in France anymore. It was beginning to get dark and we didn’t dare
         show ourselves and ask directions, or even approach the train station. Coming
         down from the mountain, we came up to a...what is that called? An embankment.In
         this case, the embankment was a raised structure to support the railroad tracks.7
         An embankment, and we had to cross under a tunnel, to go around the tracks
         and we finally made our way down to a highway that seemed like a major road,
-        despite the fact that there wasn''t much traffic. Finally, we approached the
-        train station and we saw some writing [an inscription] that didn''t seem to
+        despite the fact that there wasn’t much traffic. Finally, we approached the
+        train station and we saw some writing [an inscription] that didn’t seem to
         be French. It was [Filbas?], the equivalent of [biffure?] in Spanish.Possibly
         bifurcation, which meant railroad junction.8 And then, little by little, we
         cautiously approached the train station and we heard some girls singing. They
@@ -894,7 +894,7 @@ recording:
         us, wiped our feet, gave us something to eat in this little train station.
         And the next morning—they obviously had given us their beds for the night—the
         next morning, we left very early to go to the province of Barcelona, which
-        we were told was less dangerous, and from there, we couldn''t be sent back
+        we were told was less dangerous, and from there, we couldn’t be sent back
         to France.The province of Barcelona is located further south with its major
         city, the great Mediterranean seaport of Barcelona.9 Starting at dawn, we
         had most likely walked all morning and a good part of the afternoon, and we
@@ -903,7 +903,7 @@ recording:
         uniforms with yellow belts and [rain?] hats. They came towards us, to ask
         for identification, documentation [in Spanish?] and we obviously had none
         to give them. They made us go to a hotel, the whole hotel having been requisitioned
-        by them, and that''s where the interrogation began, and where we were frisked.
+        by them, and that’s where the interrogation began, and where we were frisked.
         The interrogation lasted all afternoon. They would ask a question from time
         to time, show us some papers, confiscated everything we had. They collected
         everything we had in our pockets that we had tried unsuccessfully to hide
@@ -934,8 +934,8 @@ recording:
     - who: Jean Kahn
       start: '00:17:36.434'
       end: '00:17:36.434'
-      u: '[In French] The next day, we were taken out of this room and sent to Barcelona
-        to the headquarters of the Spanish police. We didn''t even stay five minutes.
+      u: "[In French] The next day, we were taken out of this room and sent to Barcelona
+        to the headquarters of the Spanish police. We didn’t even stay five minutes.
         We were taken to the police station, then again to the hotel where we had
         spent the previous two nights and finally, two carabineros took us to prison
         in Barcelona. There, we had another brief interrogation, and then we were
@@ -944,7 +944,7 @@ recording:
         join a convoy going to North Africa and to finally take us into the free zone.
         We reached Casablanca after two days, and we finally learned on the boat to
         Casablanca that my father was in Algiers.Jean does not explain why the family
-        was "miraculously" let out to join the convoy sailing for North Africa and
+        was “miraculously” let out to join the convoy sailing for North Africa and
         to the city of Casablanca, the principal port of Morocco, located on the North
         African Atlantic seaboard. Morocco was then under French control.11 And so,
         by the end of the week, once we got past the difficulties of the journey from
@@ -952,7 +952,7 @@ recording:
         arrived in North Africa, the Allies had driven the Axis powers and their Vichy
         French allies out of the region including Algeria. The French North African
         colonies were under the rule of the Free French government headed by General
-        Charles De Gaulle.12'
+        Charles De Gaulle.12"
     - who: David Boder
       start: '00:19:34.660'
       end: '00:19:34.660'
@@ -960,7 +960,7 @@ recording:
     - who: Jean Kahn
       start: '00:19:39.600'
       end: '00:19:39.600'
-      u: A little bit, yes, but I really didn't know the danger we could...
+      u: A little bit, yes, but I really didn’t know the danger we could...
     - who: David Boder
       start: '00:19:45.594'
       end: '00:19:45.594'
@@ -972,7 +972,7 @@ recording:
     - who: David Boder
       start: '00:19:47.462'
       end: '00:19:47.462'
-      u: You didn't know the danger.
+      u: You didn’t know the danger.
     - who: Jean Kahn
       start: '00:19:49.040'
       end: '00:19:49.040'
@@ -1016,7 +1016,7 @@ recording:
     - who: Jean Kahn
       start: '00:20:16.205'
       end: '00:20:16.205'
-      u: No, we didn't have good clothes. Only very bad shoes.
+      u: No, we didn’t have good clothes. Only very bad shoes.
     - who: David Boder
       start: '00:20:24.518'
       end: '00:20:24.518'
@@ -1034,7 +1034,7 @@ recording:
     - who: Jean Kahn
       start: '00:20:59.977'
       end: '00:20:59.977'
-      u: No, I didn't drink rum. Only with a piece of sugar.
+      u: No, I didn’t drink rum. Only with a piece of sugar.
     - who: David Boder
       start: '00:21:08.863'
       end: '00:21:08.863'
@@ -1122,7 +1122,7 @@ recording:
     - who: Jean Kahn
       start: '00:22:10.173'
       end: '00:22:10.173'
-      u: I'm in the second degree.
+      u: I’m in the second degree.
     - who: David Boder
       start: '00:22:11.902'
       end: '00:22:11.902'
@@ -1159,11 +1159,11 @@ recording:
     - who: Jean Kahn
       start: '00:22:34.968'
       end: '00:22:34.968'
-      u: I don't know.
+      u: I don’t know.
     - who: David Boder
       start: '00:22:36.113'
       end: '00:22:36.113'
-      u: You don't know. Well, that is good. You are young. Do you want to be an Admiral?
+      u: You don’t know. Well, that is good. You are young. Do you want to be an Admiral?
     - who: Jean Kahn
       start: '00:22:42.450'
       end: '00:22:42.450'
@@ -1171,7 +1171,7 @@ recording:
     - who: David Boder
       start: '00:22:43.113'
       end: '00:22:43.113'
-      u: No? [laughing] You don't want to go to sea? Well, and now, do you feel good
+      u: No? [laughing] You don’t want to go to sea? Well, and now, do you feel good
         at school? Do you have a lot of friends?
     - who: Jean Kahn
       start: '00:22:51.637'
@@ -1274,7 +1274,7 @@ recording:
     - who: David Boder
       start: '00:24:37.093'
       end: '00:24:37.093'
-      u: All right. I'll write you a letter, then you will know my address. And then
+      u: All right. I’ll write you a letter, then you will know my address. And then
         if I can, we make another wireBoder is referring to another recording of the
         interview.17 and we send you one and then when you have a machine, then you
         can listen to it.

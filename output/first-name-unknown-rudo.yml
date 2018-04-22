@@ -54,7 +54,7 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:00:46.978'
       end: '00:00:46.978'
-      u: Castelló d'Empúries.
+      u: Castelló d’Empúries.
     - who: David Boder
       start: '00:00:48.869'
       end: '00:00:48.869'
@@ -140,7 +140,7 @@ recording:
     - who: David Boder
       start: '00:01:38.895'
       end: '00:01:38.895'
-      u: '"No tengo nadie".'
+      u: "“No tengo nadie”."
     - who: "[first name unknown] Rudo"
       start: '00:01:40.676'
       end: '00:01:40.676'
@@ -257,7 +257,7 @@ recording:
     - who: David Boder
       start: '00:03:18.715'
       end: '00:03:18.715'
-      u: '"No ví".'
+      u: "“No ví”."
     - who: "[first name unknown] Rudo"
       start: '00:03:19.325'
       end: '00:03:19.325'
@@ -458,8 +458,8 @@ recording:
       u: 'Y para yo entrar en una casa a trabajar, porque yo me voy, estoy cansada
         de estar refugiada, yo quiero trabajar, yo...esto no es vida. Y claro, yo
         entré en una casa a trabajar, y...estuve casi un mes. Quizás no todavía, porque
-        yo tenía miedo de los alemanes que venían, y yo digo: "¡Uy! ¡Qué voy a hacer
-        aquí!" Y yo sabía que en Amiens había una chica española.'
+        yo tenía miedo de los alemanes que venían, y yo digo: “¡Uy! ¡Qué voy a hacer
+        aquí!” Y yo sabía que en Amiens había una chica española.'
     - who: David Boder
       start: '00:06:09.843'
       end: '00:06:09.843'
@@ -467,8 +467,8 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:06:10.484'
       end: '00:06:10.484'
-      u: 'Y cada día digo: "¡uy! yo quiero ir con mi amiga". Y yo: "no, Ud. se queda
-        aquí", y yo digo: "no, no, quiero ir con mi amiga". Y allí me quedo las dos,
+      u: 'Y cada día digo: “¡uy! yo quiero ir con mi amiga”. Y yo: “no, Ud. se queda
+        aquí”, y yo digo: “no, no, quiero ir con mi amiga”. Y allí me quedo las dos,
         con mi amiga y tuve suerte que encontré enseguida...fábrica...trabajo en la
         fábrica de [ininteligible], de tres días.'
     - who: David Boder
@@ -478,10 +478,10 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:06:30.420'
       end: '00:06:30.420'
-      u: 'Y en los tres días vinieron...los soldados y [ininteligible] y digo, "oh,
-        là, là !" no tengo suerte, una vez que encuentro un trabajo y estaba contenta,
+      u: 'Y en los tres días vinieron...los soldados y [ininteligible] y digo, “oh,
+        là, là !” no tengo suerte, una vez que encuentro un trabajo y estaba contenta,
         ¿eh? Y ahora nada. ¡Ay!, sin dinero, sin comida, ni saber el camino donde
-        ir, ¿eh? Y claro, dice: "dónde vamos". Intentamos evacuar dos o tres veces,
+        ir, ¿eh? Y claro, dice: “dónde vamos”. Intentamos evacuar dos o tres veces,
         con...eh...no muy lejos los alemanes, los alemanes...eh...Amiens y los franceses
         en Cagny y nosotros en Bougainville ¡Uy!¡Qué hacemos! Las bombas, las ametralladoras,
         se sentían y queremos huir, eh...intentamos huir, y pero todo si que se veía
@@ -521,9 +521,9 @@ recording:
       end: '00:07:35.558'
       u: 'Nos metimos encima de un monte sin darnos cuenta, y no sé de que sitio venían
         pero tiraban tiros, o sea que si te veían te tiraban tiros, nos metimos en
-        un bosque, y claro, se veía más nada, y yo: "callate, no digas nada, no digas
-        nada", la otra lloraba, ¿eh? Y decía: "¡Uy! ¡uy! nos matan" y digo: "no todavía
-        no nos han muerto".'
+        un bosque, y claro, se veía más nada, y yo: “callate, no digas nada, no digas
+        nada”, la otra lloraba, ¿eh? Y decía: “¡Uy! ¡uy! nos matan” y digo: “no todavía
+        no nos han muerto”.'
     - who: David Boder
       start: '00:07:52.385'
       end: '00:07:52.385'
@@ -563,11 +563,11 @@ recording:
         a ver si yo me entero de algo porque tenemos que salir de aquí, ¡es imposible!
         Y claro fui por allá a [Ininteligible], si [Ininteligible] o au Cagny, si
         yo estaba au Cagny. Y ví una familia vieja que no podía andar y otra con muchos
-        críos, y yo digo: "¡qué hacéis que no os marcháis!". Dice: "si qué vamos a
-        hacer con críos" y la otra vieja dice: "¡Ah, sí! Es que las piernas ya no
-        puede andar me moriría con camino"...es mejor que...a veces...[Ininteligible].
-        Después vino un soldado y dice...dice: "a las dos de la noche se tienen que
-        marchar, sino..."'
+        críos, y yo digo: “¡qué hacéis que no os marcháis!”. Dice: “si qué vamos a
+        hacer con críos” y la otra vieja dice: “¡Ah, sí! Es que las piernas ya no
+        puede andar me moriría con camino”...es mejor que...a veces...[Ininteligible].
+        Después vino un soldado y dice...dice: “a las dos de la noche se tienen que
+        marchar, sino...“'
     - who: David Boder
       start: '00:08:53.336'
       end: '00:08:53.336'
@@ -576,11 +576,11 @@ recording:
       start: '00:08:54.461'
       end: '00:08:54.461'
       u: 'Sí, a las dos...sí estaban allí, todos, ya por...¡uy, sí!...¡qué tropa grande!...Dice
-        "si a las dos de la noche os tenéis que marchar...eh...nosotros estamos acá
-        vamos a empezar a tirar", dice...o sino dice: "va ir mal, ¡eh!". Y le oigo,
-        y yo contenta, y digo..."mejor así no nos cierran el camino, ¿por qué no partimos?".
+        “si a las dos de la noche os tenéis que marchar...eh...nosotros estamos acá
+        vamos a empezar a tirar”, dice...o sino dice: “va ir mal, ¡eh!”. Y le oigo,
+        y yo contenta, y digo...“mejor así no nos cierran el camino, ¿por qué no partimos?”.
         Y las otras mujeres viejas lloraban...¿dónde iremos? ¿dónde iremos? Yo digo
-        a mi amiga: "mejor porque así nos marcharemos, ¿eh?" Y...nos salvaremos, porque
+        a mi amiga: “mejor porque así nos marcharemos, ¿eh?” Y...nos salvaremos, porque
         no sabemos lo que va a pasar, nosotros somos extranjeras, ¿eh?'
     - who: David Boder
       start: '00:09:22.756'
@@ -590,7 +590,7 @@ recording:
       start: '00:09:23.287'
       end: '00:09:23.287'
       u: Y nos marchamos a [Ininteligible], a [Ininteligible], por el camino encontramos
-        una familia francesa...y con su madre muy viejecita y dice..." si...si, me
+        una familia francesa...y con su madre muy viejecita y dice...” si...si, me
         ayudáis a llevar la [ininteligible], esta que llevaba mucha cosa...
     - who: David Boder
       start: '00:09:35.583'
@@ -599,7 +599,7 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:09:36.271'
       end: '00:09:36.271'
-      u: . . . "Podéis poner los bolsos que lleváis".
+      u: ". . . “Podéis poner los bolsos que lleváis”."
     - who: David Boder
       start: '00:09:39.708'
       end: '00:09:39.708'
@@ -654,9 +654,9 @@ recording:
         autobús y dicen bueno...dice, eh...solamente los extranjeros se...se van,
         los que se quieren se van a marchar enseguida, ahora, pues como quieren, ¿eh?
         Y es que la gente se quedó porque...trabajaba...era...de la máquina del tren,
-        trabajaba, maquinista: "Y yo, yo me quedo por aquí porque yo voy a trabajar
-        me falta dinero". Y nosotros dijimos: "no, nosotros vamos lejos, pues, porque
-        no nos...nos interesa quedar aquí porque van a tirar bombas también", y...nos
+        trabajaba, maquinista: “Y yo, yo me quedo por aquí porque yo voy a trabajar
+        me falta dinero”. Y nosotros dijimos: “no, nosotros vamos lejos, pues, porque
+        no nos...nos interesa quedar aquí porque van a tirar bombas también”, y...nos
         llevaron a [Ininteligible], y a los dos meses...quisimos venir a...à Amiens.
         La gente decía qué vais a hacer à Amiens, sabían que todo estaba destrozado,
         ¡oh! nosotros tenemos las maletas...'
@@ -684,7 +684,7 @@ recording:
       start: '00:11:03.455'
       end: '00:11:03.455'
       u: 'Sí...trabajaba, lavaba para una persona o cosía o...así, porque no encontraba
-        trabajo, la gente de aquí ya decía: "¡ah! ¡rojos, rojos, no! ¡rojos, no!"
+        trabajo, la gente de aquí ya decía: “¡ah! ¡rojos, rojos, no! ¡rojos, no!”
         decían, ¿sabe? Y sin papeles porque a nosotros no nos...'
     - who: David Boder
       start: '00:11:16.627'
@@ -796,9 +796,9 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:12:39.329'
       end: '00:12:39.329'
-      u: 'Eh...porque...decían que era roja y yo: "por qué si aquí...estoy en Francia
-        y...yo no tengo que ir a ningún sitio". "Nada, nada, nada", dice, "vaya a
-        coger enseguida o...sino la llevamos..."'
+      u: 'Eh...porque...decían que era roja y yo: “por qué si aquí...estoy en Francia
+        y...yo no tengo que ir a ningún sitio”. “Nada, nada, nada”, dice, “vaya a
+        coger enseguida o...sino la llevamos...“'
     - who: David Boder
       start: '00:12:48.516'
       end: '00:12:48.516'
@@ -881,7 +881,7 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:13:34.590'
       end: '00:13:34.590'
-      u: 'Y yo pensaba: "no, esta gente me va a matar", ¿eh? Y yo...que estoy...digo...es
+      u: 'Y yo pensaba: “no, esta gente me va a matar”, ¿eh? Y yo...que estoy...digo...es
         que yo me sube la...sangre a la cabeza a veces. Y yo digo, bueno, voy a ver
         al médico. Yo voy a tener miedo al médico, pero que vea que ya mi temperamento
         está mal, porque yo he echado a perder todo, me querían ir a meter, bueno...eh...'
@@ -938,7 +938,7 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:00:41.478'
       end: '00:00:41.478'
-      u: Castelló d'Empúries.
+      u: Castelló d’Empúries.
     - who: David Boder
       start: '00:00:43.244'
       end: '00:00:43.244'
@@ -1015,7 +1015,7 @@ recording:
     - who: David Boder
       start: '00:01:30.350'
       end: '00:01:30.350'
-      u: Why don't you return to Spain?
+      u: Why don’t you return to Spain?
     - who: "[first name unknown] Rudo"
       start: '00:01:34.021'
       end: '00:01:34.021'
@@ -1102,7 +1102,7 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:02:36.500'
       end: '00:02:36.500'
-      u: I don't know. I think it takes two months...
+      u: I don’t know. I think it takes two months...
     - who: David Boder
       start: '00:02:39.343'
       end: '00:02:39.343'
@@ -1147,7 +1147,7 @@ recording:
     - who: David Boder
       start: '00:03:18.715'
       end: '00:03:18.715'
-      u: You didn't...
+      u: You didn’t...
     - who: "[first name unknown] Rudo"
       start: '00:03:19.325'
       end: '00:03:19.325'
@@ -1178,8 +1178,8 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:03:42.214'
       end: '00:03:42.214'
-      u: They went to Barcelona, and when they were in Barcelona, they told us..."we
-        are leaving"...I was a cook, and they had another girl, and they said they
+      u: They went to Barcelona, and when they were in Barcelona, they told us...“we
+        are leaving”...I was a cook, and they had another girl, and they said they
         were moving...
     - who: David Boder
       start: '00:03:49.590'
@@ -1239,7 +1239,7 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:04:25.556'
       end: '00:04:25.556'
-      u: I'm not sure. May be I will stay, because I am alone, you see?
+      u: I’m not sure. May be I will stay, because I am alone, you see?
     - who: David Boder
       start: '00:04:29.196'
       end: '00:04:29.196'
@@ -1348,9 +1348,9 @@ recording:
       start: '00:05:49.313'
       end: '00:05:49.313'
       u: 'I wanted to start working in a house. I was tired of being a refugee, I
-        wanted to work...Ithought to myself "This is not living". I started working
+        wanted to work...Ithought to myself “This is not living”. I started working
         in a house, and I worked there for about a month. I was really scared of the
-        arrival of Germans...so I said: "Oh! What am I going to do here?" And I knew
+        arrival of Germans...so I said: “Oh! What am I going to do here?” And I knew
         there was a Spanish girl in Amiens.'
     - who: David Boder
       start: '00:06:09.843'
@@ -1359,9 +1359,9 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:06:10.484'
       end: '00:06:10.484'
-      u: 'So I kept telling myself: "Oh...I want to go with my friend." And then I
-        would think "No. You must stay here." But then again..."I want to go with
-        my friend..." So I finally stayed with my friend, and I was lucky because
+      u: 'So I kept telling myself: “Oh...I want to go with my friend.” And then I
+        would think “No. You must stay here.” But then again...“I want to go with
+        my friend...” So I finally stayed with my friend, and I was lucky because
         I immediately found a...factory...a job at a [unintelligible] factory, three
         days.'
     - who: David Boder
@@ -1372,11 +1372,11 @@ recording:
       start: '00:06:30.420'
       end: '00:06:30.420'
       u: 'Three days passed...and the soldiers arrived, and [unintelligible]. So I
-        said "Oh...I am not lucky." Once I find a job and I was happy...And now I
+        said “Oh...I am not lucky.” Once I find a job and I was happy...And now I
         have nothing. No money, no food, no idea where to go...So my friend said:
-        "Where shall we go?" And we tried to escape two or three times, with...er...the
-        Germans nearby...er...Amiens, and the French in Cagny, and us in Bougainville..."Oh!
-        What shall we do?" We could hear the bombs, the machine guns...and we wanted
+        “Where shall we go?” And we tried to escape two or three times, with...er...the
+        Germans nearby...er...Amiens, and the French in Cagny, and us in Bougainville...“Oh!
+        What shall we do?” We could hear the bombs, the machine guns...and we wanted
         to run away. Er...we tried to escape but we could only see fire. So when everything
         was calmer, we left.'
     - who: David Boder
@@ -1413,9 +1413,9 @@ recording:
       end: '00:07:35.558'
       u: 'We did not realize and we ended up on a low hill. I really don’t know where
         they were coming from, but we could hear gun shots. So we hid in the woods
-        and we could see nothing. I kept saying "Shut up. Don’t say a word. Don’t
-        say a word." And my friend was crying. And she kept saying: "Oh! They are
-        going to kill us!", and I would reply: "No. We have not died yet."'
+        and we could see nothing. I kept saying “Shut up. Don’t say a word. Don’t
+        say a word.” And my friend was crying. And she kept saying: “Oh! They are
+        going to kill us!”, and I would reply: “No. We have not died yet.”'
     - who: David Boder
       start: '00:07:52.385'
       end: '00:07:52.385'
@@ -1448,17 +1448,17 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:08:09.323'
       end: '00:08:09.323'
-      u: 'But we were sure they would not return. We thought: "They will not be able
-        to return". You cannot imagine what it was like..."What shall we do?" The
+      u: 'But we were sure they would not return. We thought: “They will not be able
+        to return”. You cannot imagine what it was like...“What shall we do?” The
         following morning, we had no salt for the potatoes, and no food to cook...so
-        I said "I will see if I can find someone, if I learn of a way, because we
-        need to get out of here. This is impossible!" And I went to [unintelligible],
+        I said “I will see if I can find someone, if I learn of a way, because we
+        need to get out of here. This is impossible!” And I went to [unintelligible],
         yes, to [unintelligible] or Cagny...Yes I was in Cagny. And I saw an old family.
-        They could barely walk. And another family with kids. So I said: "What are
-        you doing? You have to leave." And they said: "what shall we do with the kids?",
-        and an old woman said: "Oh, yes! But my legs...I cannot walk anymore. I would
-        die on my way"...it is better than...sometimes...[unintelligible]. Then a
-        soldier came to us and said: "You have to leave, if not..."'
+        They could barely walk. And another family with kids. So I said: “What are
+        you doing? You have to leave.” And they said: “what shall we do with the kids?”,
+        and an old woman said: “Oh, yes! But my legs...I cannot walk anymore. I would
+        die on my way”...it is better than...sometimes...[unintelligible]. Then a
+        soldier came to us and said: “You have to leave, if not...“'
     - who: David Boder
       start: '00:08:53.336'
       end: '00:08:53.336'
@@ -1467,13 +1467,13 @@ recording:
       start: '00:08:54.461'
       end: '00:08:54.461'
       u: 'Yes. And they approached both of us...Oh, they were all there...Oh, yes...What
-        a large troop! And he said: "you both have to leave tonight...er...we are
-        here and we will start shooting"...And he added "otherwise, you will have
-        a bad time." And when I heard him, I was happy and I said: "Much better. They
-        will be closing the road...Why don’t we run away?" And the old women were
-        crying: "where shall we go? where shall we go?" And I told my friend: "this
+        a large troop! And he said: “you both have to leave tonight...er...we are
+        here and we will start shooting”...And he added “otherwise, you will have
+        a bad time.” And when I heard him, I was happy and I said: “Much better. They
+        will be closing the road...Why don’t we run away?” And the old women were
+        crying: “where shall we go? where shall we go?” And I told my friend: “this
         is better, because we are leaving, right? And we will save our lives, because
-        we don’t know what can happen. We are foreigners."'
+        we don’t know what can happen. We are foreigners.”'
     - who: David Boder
       start: '00:09:22.756'
       end: '00:09:22.756'
@@ -1482,8 +1482,8 @@ recording:
       start: '00:09:23.287'
       end: '00:09:23.287'
       u: 'So we left towards [unintelligible], to [unintelligible], and on our way
-        we saw a French family...the mother was very old...and she says: "If you help
-        me carry the [unintelligible]," [she was carrying too much stuff]...'
+        we saw a French family...the mother was very old...and she says: “If you help
+        me carry the [unintelligible],” [she was carrying too much stuff]...'
     - who: David Boder
       start: '00:09:35.583'
       end: '00:09:35.583'
@@ -1491,7 +1491,7 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:09:36.271'
       end: '00:09:36.271'
-      u: . . . "you can put your bags."
+      u: ". . . “you can put your bags.”"
     - who: David Boder
       start: '00:09:39.708'
       end: '00:09:39.708'
@@ -1533,8 +1533,8 @@ recording:
       start: '00:09:51.988'
       end: '00:09:51.988'
       u: 'And I had some tobacco...and I found some soldiers down the road...French.
-        And we said: "If you take us far away...well...er...you...the tobacco is for
-        you." And they took us far away, and they were happy...And we jumped in. Oh,
+        And we said: “If you take us far away...well...er...you...the tobacco is for
+        you.” And they took us far away, and they were happy...And we jumped in. Oh,
         we were so happy! What a story, uh [laughing].'
     - who: David Boder
       start: '00:10:10.081'
@@ -1546,12 +1546,12 @@ recording:
       u: 'Well, we went really far away with that family. And then a bus came, and
         they said...er...only foreigners...may leave, you may leave right away. As
         you wish...And people stayed because...they were working...he was...in the
-        train, he was the engine driver: "I will stay here because I will work. I
-        need the money." And we said: "No. We are going away, because we...we are
-        not interested in staying here...they will be throwing bombs too," and they
+        train, he was the engine driver: “I will stay here because I will work. I
+        need the money.” And we said: “No. We are going away, because we...we are
+        not interested in staying here...they will be throwing bombs too,” and they
         took us to [unintelligible]. And two months later, we wanted to come to Amiens.
-        People said "what are you going to do in Amiens". They knew everything had
-        been destroyed. But we said: "Oh, we have our luggage."'
+        People said “what are you going to do in Amiens”. They knew everything had
+        been destroyed. But we said: “Oh, we have our luggage.”'
     - who: David Boder
       start: '00:10:52.814'
       end: '00:10:52.814'
@@ -1576,7 +1576,7 @@ recording:
       start: '00:11:03.455'
       end: '00:11:03.455'
       u: 'Yes...I would do the laundry for a person, or sew...because I could not
-        find a job. People here were already saying: "Red! Not red!", you know? And
+        find a job. People here were already saying: “Red! Not red!”, you know? And
         we were illegal, because we...'
     - who: David Boder
       start: '00:11:16.627'
@@ -1585,7 +1585,7 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:11:17.408'
       end: '00:11:17.408'
-      u: Oh! They would call us "reds" because they would associate...
+      u: Oh! They would call us “reds” because they would associate...
     - who: David Boder
       start: '00:11:18.846'
       end: '00:11:18.846'
@@ -1669,7 +1669,7 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:12:27.578'
       end: '00:12:27.578'
-      u: Because they said I was a "red".
+      u: Because they said I was a “red”.
     - who: David Boder
       start: '00:12:29.485'
       end: '00:12:29.485'
@@ -1685,8 +1685,8 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:12:39.329'
       end: '00:12:39.329'
-      u: 'Well...they said I was a "red" and I would say: "why? I am in France...I
-        have nowhere to go." "Hush!", they said "go get your...or we will take you."'
+      u: 'Well...they said I was a “red” and I would say: “why? I am in France...I
+        have nowhere to go.” “Hush!”, they said “go get your...or we will take you.”'
     - who: David Boder
       start: '00:12:48.516'
       end: '00:12:48.516'
@@ -1762,7 +1762,7 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:13:30.481'
       end: '00:13:30.481'
-      u: And then, when they saw I couldn't...that I kept doing everything wrong...
+      u: And then, when they saw I couldn’t...that I kept doing everything wrong...
     - who: David Boder
       start: '00:13:34.262'
       end: '00:13:34.262'
@@ -1770,8 +1770,8 @@ recording:
     - who: "[first name unknown] Rudo"
       start: '00:13:34.590'
       end: '00:13:34.590'
-      u: 'And I thought: "This people will kill me!" And I...I am...I mean...I sometimes
-        lost my temper. And I say: "OK. I will see a doctor." And I was scared of
+      u: 'And I thought: “This people will kill me!” And I...I am...I mean...I sometimes
+        lost my temper. And I say: “OK. I will see a doctor.” And I was scared of
         the doctor...but I wanted him to see I was not well, because I had spoilt
         everything. They wanted to take me, well...er...'
     - who: David Boder

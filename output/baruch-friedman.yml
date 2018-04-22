@@ -33,14 +33,14 @@ recording:
     - who: David Boder
       start: '00:00:08.106'
       end: '00:00:08.106'
-      u: "[In English] This is Spool 9-107B. The interviwee is Mr. Abram Perl. 'P'
-        like in 'Peter', 'E' like in 'Edward', 'R' like in 'Rabbit', 'L' like in 'Love'.
+      u: "[In English] This is Spool 9-107B. The interviwee is Mr. Abram Perl. ‘P’
+        like in ‘Peter’, ‘E’ like in ‘Edward’, ‘R’ like in ‘Rabbit’, ‘L’ like in ‘Love’.
         It is Spool 9-107B."
     - who: David Boder
       start: '00:00:57.802'
       end: '00:00:57.802'
       u: 'September 2nd, 1946. Locality: Tradate, Italy. Between— located in a...between
-        Milano and Como. A castle given over to displaced persons'' community of the
+        Milano and Como. A castle given over to displaced persons’ community of the
         self-government of the Kibbutzim, the so-called groups of young men, both...of
         men and women, married and single, which [who] are...[have the] intention
         by means, legal or illegal, to enter Palestine. The eh, interview...This is
@@ -99,7 +99,7 @@ recording:
     - who: Baruch Friedman
       start: '00:02:28.636'
       end: '00:02:28.636'
-      u: יאָ. װערענד דעם קריג בין איך געװעזן, אין יאַרע [יאָר] 42 װען ס'האָבן אָנגעהױבן
+      u: יאָ. װערענד דעם קריג בין איך געװעזן, אין יאַרע [יאָר] 42 װען ס’האָבן אָנגעהױבן
         די סלאָװאַקישע טראַנספּאָרטע געגן די ייִדן...
     - who: David Boder
       start: '00:02:37.011'
@@ -141,7 +141,7 @@ recording:
     - who: Baruch Friedman
       start: '00:03:00.634'
       end: '00:03:00.634'
-      u: און ס'האָט אָנגעהױבן די טראַנספּאָרטירונג פֿון ייִדן צירקאַ 70.000. דאָס
+      u: און ס’האָט אָנגעהױבן די טראַנספּאָרטירונג פֿון ייִדן צירקאַ 70.000. דאָס
         האָט געדױערט די גאַנצע, עה, גאַנצן זומער בײַלײַפֿיק, ביז סעפּטעמבער.
     - who: David Boder
       start: '00:03:08.125'
@@ -431,7 +431,7 @@ recording:
     - who: David Boder
       start: '00:06:29.072'
       end: '00:06:29.072'
-      u: '[In German] Also was heißt [In Yiddish] "transportn zaynen gegangen"?'
+      u: "[In German] Also was heißt [In Yiddish] “transportn zaynen gegangen”?"
     - who: Baruch Friedman
       start: '00:06:30.931'
       end: '00:06:30.931'
@@ -459,11 +459,11 @@ recording:
       start: '00:06:48.628'
       end: '00:06:48.628'
       u: "[In English] Eh, I want to state that since Spool about number 100 we have
-        replaced the 'absolutely' non-directive interview by slightly directive [methods].
+        replaced the ‘absolutely’ non-directive interview by slightly directive [methods].
         That is, we are suggesting that they are talking [should talk] about the high
         points of their, eh...experiences. This is, of course, not exactly the best
         method because it has shown that if one gives them perfectly free reign, the...certain
-        experiences come out very freely. It's kind of a mixture [of methods], and
+        experiences come out very freely. It’s kind of a mixture [of methods], and
         we are experimenting with it."
     - who: David Boder
       start: '00:07:20.363'
@@ -482,7 +482,7 @@ recording:
     - who: Baruch Friedman
       start: '00:07:38.464'
       end: '00:07:38.464'
-      u: ערשטנס זען[ען] מיר געװעזן אין אַזאָ'ן[אַזױנעם]... צעלעט [געצעלט]. האָבן מיר
+      u: ערשטנס זען[ען] מיר געװעזן אין אַזאָ’ן[אַזױנעם]... צעלעט [געצעלט]. האָבן מיר
         מיטגענומען זיך אַ [גע]צעלט.
     - who: David Boder
       start: '00:07:43.883'
@@ -645,8 +645,8 @@ recording:
     - who: Baruch Friedman
       start: '00:10:17.571'
       end: '00:10:17.571'
-      u: '[In Yiddish] יאָ, איך מײן, דע... װאָס האָבן מיר געלערנט? אַלזאָ געלערנט
-        האָבן מיר עבֿריתּ, איך האָ[ב] געזאָגט, די... תּנ"ך אױך...'
+      u: "[In Yiddish] יאָ, איך מײן, דע... װאָס האָבן מיר געלערנט? אַלזאָ געלערנט
+        האָבן מיר עבֿריתּ, איך האָ[ב] געזאָגט, די... תּנ”ך אױך..."
     - who: David Boder
       start: '00:10:24.398'
       end: '00:10:24.398'
@@ -681,7 +681,7 @@ recording:
     - who: Baruch Friedman
       start: '00:10:52.425'
       end: '00:10:52.425'
-      u: . . .  "לשון־קודש",
+      u: ". . .  “לשון־קודש”,"
     - who: David Boder
       start: '00:10:53.331'
       end: '00:10:53.331'
@@ -849,7 +849,7 @@ recording:
     - who: Baruch Friedman
       start: '00:13:10.055'
       end: '00:13:10.055'
-      u: מע האָט אױפֿגעהערט – ערשטנס זי נישט געװעזן מער ייִדן, ס'איז נאָר/נאָך געװעזן
+      u: מע האָט אױפֿגעהערט – ערשטנס זי נישט געװעזן מער ייִדן, ס’איז נאָר/נאָך געװעזן
         – זיבעציק טױזנט ייִדן זענען אַרױס, און די איבעריקע זענען געבליבן נאָר צוליב
         פּראָטעקציע, װאָס [זײ?] האָבן זיך געלאָזט אָפּצאָלן פֿאַר געלט, די סלאָװאַקישע
         רעגירונג.
@@ -860,7 +860,7 @@ recording:
     - who: Baruch Friedman
       start: '00:13:25.225'
       end: '00:13:25.225'
-      u: ס'זענען געבליבן צירקאַ פֿופֿצן טױזנט ייִדן.
+      u: ס’זענען געבליבן צירקאַ פֿופֿצן טױזנט ייִדן.
     - who: David Boder
       start: '00:13:28.131'
       end: '00:13:28.131'
@@ -997,7 +997,7 @@ recording:
     - who: David Boder
       start: '00:16:29.925'
       end: '00:16:29.925'
-      u: '"פֿאַסט אַלע" – האָט איר עמעצן, װעמען געפֿונען?'
+      u: "“פֿאַסט אַלע” – האָט איר עמעצן, װעמען געפֿונען?"
     - who: Baruch Friedman
       start: '00:16:32.144'
       end: '00:16:32.144'
@@ -1010,7 +1010,7 @@ recording:
     - who: Baruch Friedman
       start: '00:16:37.504'
       end: '00:16:37.504'
-      u: ס'איז, ס'איז, ס'איז...
+      u: ס’איז, ס’איז, ס’איז...
     - who: David Boder
       start: '00:16:38.068'
       end: '00:16:38.068'
@@ -1023,7 +1023,7 @@ recording:
     - who: David Boder
       start: '00:16:44.783'
       end: '00:16:44.783'
-      u: װער איז דאָרט "מיר"?
+      u: װער איז דאָרט “מיר”?
     - who: Baruch Friedman
       start: '00:16:45.861'
       end: '00:16:45.861'
@@ -1037,7 +1037,7 @@ recording:
       end: '00:16:47.830'
       u: זענען מיר דאָרט... גאַנץ גוט געלעבט... אָנפֿאַנג... מע האָט אַ ביסל געאַרבעט...
         און, עה, און די סלאָװאַקישע ייִדן, װעלכע זענען געװען אין דרױסן, האָבן אונדז
-        אונטער[גע]שטיצט. אַזױ, ס'האָט זיך גאַנץ גוט געלעבט.
+        אונטער[גע]שטיצט. אַזױ, ס’האָט זיך גאַנץ גוט געלעבט.
     - who: David Boder
       start: '00:17:00.110'
       end: '00:17:00.110'
@@ -1045,7 +1045,7 @@ recording:
     - who: Baruch Friedman
       start: '00:17:02.636'
       end: '00:17:02.636'
-      u: אַ רײן ייִדישער לאַגער, אָבער מיט גױיִשע לײַטונג, [ס'הײסט?] מיט סלאָװאַקישע
+      u: אַ רײן ייִדישער לאַגער, אָבער מיט גױיִשע לײַטונג, [ס’הײסט?] מיט סלאָװאַקישע
         לײַטער.
     - who: David Boder
       start: '00:17:05.987'
@@ -1089,7 +1089,7 @@ recording:
     - who: Baruch Friedman
       start: '00:17:35.584'
       end: '00:17:35.584'
-      u: איז, איך װיל אַרױסברענגען׃ דאָרט, אַזױ װי ס'איז די געגנט עה... איז עה...
+      u: איז, איך װיל אַרױסברענגען׃ דאָרט, אַזױ װי ס’איז די געגנט עה... איז עה...
         פֿאַרבונדן מיט גרױסע בערג... דאָרט די גאַנצע געגנט איז געבירגיק מיר...
     - who: David Boder
       start: '00:17:45.698'
@@ -1127,7 +1127,7 @@ recording:
     - who: Baruch Friedman
       start: '00:18:15.470'
       end: '00:18:15.470'
-      u: מיר זענען געגאַנגען... ס'איז נישט װײַט געװעזן פֿון װאַלד, און מיר האָבן זיך
+      u: מיר זענען געגאַנגען... ס’איז נישט װײַט געװעזן פֿון װאַלד, און מיר האָבן זיך
         אַרױסגעכאַפּט, אַמאָל אַ זונטיק, אַז מע האָט נישט געאַרבעט... און מיר האָבן
         פּרוּביטרט, פֿאַרשידענע מעגלעכקײַטן אָנגעװענדעט, אַז מיר זאָלן דאָך דאָס לעבן
         רעטן, רעטן פֿאַר עס װעט קומען נאָך אַמאָל צו אַ טראַנספּאָרטירונג.
@@ -1155,7 +1155,7 @@ recording:
       start: '00:18:40.530'
       end: '00:18:40.530'
       u: איך בין פֿון באַרוף שריפֿטמאָלער און רעקלאַמע־מאָלער, האָב איך געאַרבעט בײַ
-        מאָלערײַ, ס'איז געװען אַ ערצײַגונג פֿון שפּילצײַג.
+        מאָלערײַ, ס’איז געװען אַ ערצײַגונג פֿון שפּילצײַג.
     - who: David Boder
       start: '00:18:47.853'
       end: '00:18:47.853'
@@ -1171,7 +1171,7 @@ recording:
     - who: Baruch Friedman
       start: '00:18:50.071'
       end: '00:18:50.071'
-      u: יאָ. האָב איך דאָרט בײַ דעם געאַרבעט. ס'איז נישט שלעכט געװעזן. איך קען ניט
+      u: יאָ. האָב איך דאָרט בײַ דעם געאַרבעט. ס’איז נישט שלעכט געװעזן. איך קען ניט
         זאָגן, אַז די גאַנצע צײַט איז שלעכט געװעזן.
     - who: David Boder
       start: '00:18:54.970'
@@ -1217,7 +1217,7 @@ recording:
       end: '00:19:18.500'
       u: דעמלט איז... יאָ, ביז דאַהין האָבן מיר נאָך געהאַט פֿאַרבינדונג שױן מיט די
         פּאַרטיזאַנען... און מיר האָבן שױן געהאַט געװער, אײגנס, עה, פּיסטאָלעטן –
-        אַזױ פֿאַר ס'װעט געװען געקומען צו עטװאַס אַ טראַנספּאָרטירונג, זענען מיר געװען
+        אַזױ פֿאַר ס’װעט געװען געקומען צו עטװאַס אַ טראַנספּאָרטירונג, זענען מיר געװען
         אָרגאַניזירט, אַ װידערשטאַנד צו לײַסטן.
     - who: David Boder
       start: '00:19:33.096'
@@ -1402,7 +1402,7 @@ recording:
     - who: Baruch Friedman
       start: '00:22:55.088'
       end: '00:22:55.088'
-      u: און איצט... האָט מען געװאַרט, װאָס װעט זײַן. אײניקע האָבן געזאָגט, שױן, ס'איז
+      u: און איצט... האָט מען געװאַרט, װאָס װעט זײַן. אײניקע האָבן געזאָגט, שױן, ס’איז
         שױן קאַפּוט, מע האָט שױן דאָס לעבן פֿאַרלױרן, אײניקע זענען... האָבן נאָך געהאַט
         אַ שטיקל האָפֿ[ע]נונג, װעגן דעם, װײַל מיר האָבן געהאַט געדענקט, אַז מיר זאָלן/װעלן
         לײַסטן אַ װידערשטאַנד און װעלן מיר זיך באַשליסן... אָנשליסן אַן די פּאַרטיזאַנער.
@@ -1429,7 +1429,7 @@ recording:
       start: '00:24:31.476'
       end: '00:24:31.476'
       u: יאָ. איצט איז געװעזן... דער, עה... דער אַה׃ מיר האָבן זיך, דער ברודער און
-        איך, האָבן נאָך אָנפֿאַנג נישט אײַנגעטראָטן, מיר האָבן געדענקט׃ ס'איז נאָך
+        איך, האָבן נאָך אָנפֿאַנג נישט אײַנגעטראָטן, מיר האָבן געדענקט׃ ס’איז נאָך
         צײַט, מע װײסט נאָך נישט, אפֿשר װעט קומען אַ שװערערער מאָמענט.
     - who: David Boder
       start: '00:24:44.412'
@@ -1456,7 +1456,7 @@ recording:
     - who: Baruch Friedman
       start: '00:25:04.624'
       end: '00:25:04.624'
-      u: הלינקאָװצעס – דאָס איז געװעזן דער לינקער פּאַרטײ, װעלעכער ס'האָט געקעמפֿט
+      u: הלינקאָװצעס – דאָס איז געװעזן דער לינקער פּאַרטײ, װעלעכער ס’האָט געקעמפֿט
         קעגן די טשעכאָסלאָװאַקאַז.
     - who: David Boder
       start: '00:25:11.477'
@@ -1526,7 +1526,7 @@ recording:
         דעם איז דער אױפֿשטאַנד נישט געקונגען. און אין פּרעשאָװ װידער, אין דער אָסט־סלאָװאַקײַ,
         איז אױך נישט  געלונגען דער אױפֿשטאַנד, אױך דורך אַ פֿאַראַט פֿון די סלאָװאַקן.
         אַזױ דאַס דער... דער צענטרום [צענטער] איז נאָר געבליבן אין דער געגנט פֿון
-        באַנסקאַ ביסטריצאַ. און דער שטח איז געװעזן אַ קלײנער, און ס'איז זיך שװער געװעזן
+        באַנסקאַ ביסטריצאַ. און דער שטח איז געװעזן אַ קלײנער, און ס’איז זיך שװער געװעזן
         צום אױפֿנטהאַלט.
     - who: David Boder
       start: '00:26:28.367'
@@ -1552,7 +1552,7 @@ recording:
       start: '00:26:33.550'
       end: '00:26:33.550'
       u: דע [דאָס] לאַנד, װעלכע[ס] מיר האָבן זיך געקענט, די... די אױפֿשטענדער [= אױפֿשטענדישע]
-        זאָלן זיך קענען אױפֿהאַלטן. אַזױ דאַס... ס'איז... ס'איז געװעזן װידער אַ פּײַנלעכע
+        זאָלן זיך קענען אױפֿהאַלטן. אַזױ דאַס... ס’איז... ס’איז געװעזן װידער אַ פּײַנלעכע
         [?] זאַך, און... און, און יעדע װאָך, װאָס איז...
     - who: David Boder
       start: '00:26:46.231'
@@ -1571,7 +1571,7 @@ recording:
       end: '00:26:50.215'
       u: שטיק לאַנד, יאָ. און איצט, אַז דער דײַטש האָט אַװעקגעצױגן טרופּן פֿון אָסטן,
         פֿון װײַטן מיזרח, און דערמיט צו אונטערדריקן דעם אױפֿשטאַנד! װײַל דער אױפֿשטאַנד
-        דער גאַנצע האָט געדױערט צירקאַ צװײ מאָנאַטע! און איצט ס'איז... מיר האָבן נאָך
+        דער גאַנצע האָט געדױערט צירקאַ צװײ מאָנאַטע! און איצט ס’איז... מיר האָבן נאָך
         נישט געװוּסט, װאָס מיר זאָלן מאַכן. אַלזאָ אַלנפֿאַלס, איך מיט דעם ברודער
         האָבן זיך געפֿאָרכט [מורא געהאַט] אַרײַנטרעטן אין דער אַרמײ און... און מיר
         זענען אַרײַן אין זװלאָנען, צו דעם צװאַנציקסטן טרופּ, זענען מיר אױך אײַנגעטרעטן
@@ -1747,8 +1747,8 @@ recording:
         – און... דאָרט זיך אַנזעסיק געמאַכט, אױסגעזוכט אַ װיכטיקן פּונקט, אַזױ דאַס...
         דער דײַטש װעט קומען, זאָל מען אים קענען אָנגרײַפֿן, און זיך דאָס לעבן רעטן
         דורך, װײניקסטנס דורך געװער. איך מײן, דאָס... זאָל מען לײַסטן אַ װידערשטאַנד.
-        אַזױ האָבן מיר געהאַט געלעבט. אײניקע... ס'איז אַ סך מאָל פֿאָרגעקומען׃ עס
-        איז פֿאַרבײַ געגאַנגען אַ דײַטשער פּאַטראָל, אַ פּאַטראָל, װעלעכער ס'האָט
+        אַזױ האָבן מיר געהאַט געלעבט. אײניקע... ס’איז אַ סך מאָל פֿאָרגעקומען׃ עס
+        איז פֿאַרבײַ געגאַנגען אַ דײַטשער פּאַטראָל, אַ פּאַטראָל, װעלעכער ס’האָט
         אונדז באַמערקט׃ װאָס האָבן מיר געמאַכט? אַזױ, זאָפֿאָרט אַלאַרמירט געװאָרן,
         און מיר האָבן זײ אַרומגערינגלט און זאָפֿאָרט, עה, אַלע... אױסגעשאָסן. דער
         דײַטש האָט עװענטועל געװוּסט, אַז דאָרט געפֿינען זיך נאָך פּאַרטיזאַנען, דען
@@ -1796,7 +1796,7 @@ recording:
     - who: Baruch Friedman
       start: '00:31:50.199'
       end: '00:31:50.199'
-      u: מיר האָבן זײ אױפֿגעפֿאָדערט "הענדע האָך!" [הענט אַרױף!]
+      u: מיר האָבן זײ אױפֿגעפֿאָדערט “הענדע האָך!” [הענט אַרױף!]
     - who: David Boder
       start: '00:31:52.292'
       end: '00:31:52.292'
@@ -1844,11 +1844,11 @@ recording:
     - who: David Boder
       start: '00:32:22.290'
       end: '00:32:22.290'
-      u: װײסט איר ניט. ס'האָט ניט פּאַסירט?
+      u: װײסט איר ניט. ס’האָט ניט פּאַסירט?
     - who: Baruch Friedman
       start: '00:32:23.571'
       end: '00:32:23.571'
-      u: נײן. ס'האָט נישט פּאַסירט.
+      u: נײן. ס’האָט נישט פּאַסירט.
     - who: David Boder
       start: '00:32:24.618'
       end: '00:32:24.618'
@@ -1880,7 +1880,7 @@ recording:
     - who: David Boder
       start: '00:32:55.409'
       end: '00:32:55.409'
-      u: װאָס נענט איר "אַ ברוטאַלן טױט"?
+      u: װאָס נענט איר “אַ ברוטאַלן טױט”?
     - who: Baruch Friedman
       start: '00:32:57.284'
       end: '00:32:57.284'
@@ -1902,26 +1902,26 @@ recording:
       start: '00:33:13.727'
       end: '00:33:13.727'
       u: געקװעלט האָט מען זײ, אַלע. װעגן דעם האָבן זײ זײער מורא געהאַט צו קומען, אַרײַנצופֿאַלן
-        אין פּאַרטיזאַנישע הענט אַרײַן. געגעסן, ס'הײסט, געלעבט האָבן מיר פֿו ןדעם,
+        אין פּאַרטיזאַנישע הענט אַרײַן. געגעסן, ס’הײסט, געלעבט האָבן מיר פֿו ןדעם,
         װעלכע מיר זײַנען יעדן אױף דער נאַכט אָדער, עה... יעדן צװײטן אױף דער נאַכט,
         אַרומגעגאַנגען אין די דערפֿער אַרײַן, דאָרט אין די אומגעב[נד]איקע דערפֿער,
         װעלעכע ..., דאָרט אין די דערפֿער אַרײַן, װוּ די דײַטשן האָבן זיך נישט געטרױט
         [= דערװעגט] אַרײַנצוקומען, װײַל זײ האָבן געװוּסט, אַז דאָרט קענען זײ באַפֿאַלט
-        װערן, דאָרט אי' [= זײַנען] די פּאַרטיזאַנער.
+        װערן, דאָרט אי’ [= זײַנען] די פּאַרטיזאַנער.
     - who: Baruch Friedman
       start: '00:33:43.437'
       end: '00:33:43.437'
       u: און די באַפֿעלקערונג האָט אונזד זײער גוט אױפֿגענומען, זײ האָבן אונדז געגעבן
         צו עסן און צו טרינקען, און פֿלײש, און אָנגעװאַשן זיך, [דײַטש] זאָגאַר [ייִדיש]
         אַ סך מאָל האָבן מיר זיך געװאַגט [= דערװעגט], אַפֿילו איבערצונעכטיקן אױך דאָרט.
-        און ס'איז נישט... די באַפֿעלקערונג איז נישט אַזױ װײַט שלעכט געװעזן, װײַל זײ
-        האָבן געװוּסט, אַז ס'איז אױך אין זײער אינטערעס, װײַל ס'איז אױך געװעזן אַ סך
+        און ס’איז נישט... די באַפֿעלקערונג איז נישט אַזױ װײַט שלעכט געװעזן, װײַל זײ
+        האָבן געװוּסט, אַז ס’איז אױך אין זײער אינטערעס, װײַל ס’איז אױך געװעזן אַ סך
         גױים דערונטער. נישט נאָר בלױז ייִדן. אַזױ האָבן מיר געלעבט אַ היפּש לאַנגע
         צײַט.
     - who: Baruch Friedman
       start: '00:34:14.905'
       end: '00:34:14.905'
-      u: ביז ס'איז געשען אַמאָל אַ פֿאַל – עה, די רוסן האָבן זיך גענענטערט, די פֿראָנט
+      u: ביז ס’איז געשען אַמאָל אַ פֿאַל – עה, די רוסן האָבן זיך גענענטערט, די פֿראָנט
         איז זײער נאָענט געװעזן, און דאָס איז שױן געװעזן אין פֿינף און פֿערציקסטן יאָר.
     - who: David Boder
       start: '00:34:28.741'
@@ -2016,9 +2016,9 @@ recording:
     - who: Baruch Friedman
       start: '00:36:02.168'
       end: '00:36:02.168'
-      u: דאַמאַלס, און עה... גראַנאַ־, האַנט־גראַנאַטן...און ס'איז אױך געװעזן צירקאַ
+      u: דאַמאַלס, און עה... גראַנאַ־, האַנט־גראַנאַטן...און ס’איז אױך געװעזן צירקאַ
         זעקס מאַשין־געװערע, לײַכטע מאַשין־געװערע, און אײן שטאַרק, עה... שטאַרקע מאַשין־געװערע,
-        װעלכע מע האָט נישט געקענט אַזױ װײַט באַניצן, װײַל ס'איז שװערער געװעזן איבערצוטראָגן.
+        װעלכע מע האָט נישט געקענט אַזױ װײַט באַניצן, װײַל ס’איז שװערער געװעזן איבערצוטראָגן.
     - who: David Boder
       start: '00:36:19.034'
       end: '00:36:19.034'
@@ -2052,7 +2052,7 @@ recording:
     - who: Baruch Friedman
       start: '00:36:46.631'
       end: '00:36:46.631'
-      u: אָבער ס'איז נישט געלונגען.
+      u: אָבער ס’איז נישט געלונגען.
     - who: David Boder
       start: '00:36:47.986'
       end: '00:36:47.986'
@@ -2060,7 +2060,7 @@ recording:
     - who: Baruch Friedman
       start: '00:36:47.986'
       end: '00:36:47.986'
-      u: װײַל ס'איז געװעזן אַ גרױסער פֿאַראַט. און שפּעטער האָט מען אונטערדריקט. דער
+      u: װײַל ס’איז געװעזן אַ גרױסער פֿאַראַט. און שפּעטער האָט מען אונטערדריקט. דער
         דײַטש איז געקומען, האָט אונטערדריקט דעם אױפֿשטאַנד.
     - who: David Boder
       start: '00:36:53.190'
@@ -2128,8 +2128,8 @@ recording:
     - who: Baruch Friedman
       start: '00:38:35.895'
       end: '00:38:35.895'
-      u: זײ האָבן זיך געפֿרעגט, װער דאָס זענען, האָבן מיר געזאָגט׃ [רוסיש] "װאַשי"
-        – "אונדזערע".
+      u: זײ האָבן זיך געפֿרעגט, װער דאָס זענען, האָבן מיר געזאָגט׃ [רוסיש] “װאַשי”
+        – “אונדזערע”.
     - who: David Boder
       start: '00:38:40.111'
       end: '00:38:40.111'
@@ -2179,10 +2179,10 @@ recording:
     - who: Baruch Friedman
       start: '00:39:01.731'
       end: '00:39:01.731'
-      u: און... ס'איז געװעזן פֿאַרבונדן מיט גרױזסע שװעריקײַטן – דער שנײ איז געװעזן
+      u: און... ס’איז געװעזן פֿאַרבונדן מיט גרױזסע שװעריקײַטן – דער שנײ איז געװעזן
         גרױס, צירקאַ צװײ מעטער, און סע די גרױסע געבירג אַרױף־ און אַרומצוגײן – אָבער
-        טראָץ דעם האָבן מיר נישט געקוקט, מיר זענען... ס'איז אױך געװעזן אַ סך גרױען
-        דערונטער, װעלכע ס'האָבן שװער אױסגעהאַלטן, אָבער מיר זענען בשלום אַריבער געקומען.
+        טראָץ דעם האָבן מיר נישט געקוקט, מיר זענען... ס’איז אױך געװעזן אַ סך גרױען
+        דערונטער, װעלכע ס’האָבן שװער אױסגעהאַלטן, אָבער מיר זענען בשלום אַריבער געקומען.
     - who: David Boder
       start: '00:39:18.491'
       end: '00:39:18.491'
@@ -2198,7 +2198,7 @@ recording:
     - who: Baruch Friedman
       start: '00:39:22.058'
       end: '00:39:22.058'
-      u: ס'איז געװעזן צירקאַ... אַכצן פֿרױען אױך. אייִדישע פֿרױען.
+      u: ס’איז געװעזן צירקאַ... אַכצן פֿרױען אױך. אייִדישע פֿרױען.
     - who: David Boder
       start: '00:39:25.202'
       end: '00:39:25.202'
@@ -2288,7 +2288,7 @@ recording:
     - who: Baruch Friedman
       start: '00:40:28.118'
       end: '00:40:28.118'
-      u: "[װײַל?] דעמאָלט האָט [עס דאָך?]..., ס'איז געקומען פֿון רוסלאַנד און מע האָט
+      u: "[װײַל?] דעמאָלט האָט [עס דאָך?]..., ס’איז געקומען פֿון רוסלאַנד און מע האָט
         זיך געמוזט מעלדן אין קאָשיצע."
     - who: David Boder
       start: '00:40:32.488'
@@ -2307,7 +2307,7 @@ recording:
     - who: Baruch Friedman
       start: '00:40:46.711'
       end: '00:40:46.711'
-      u: ס'איז געװעזן אַ... דרײַ אָפֿיצירע זענען געװעזן.
+      u: ס’איז געװעזן אַ... דרײַ אָפֿיצירע זענען געװעזן.
     - who: David Boder
       start: '00:40:51.446'
       end: '00:40:51.446'
@@ -2438,7 +2438,7 @@ recording:
       start: '00:42:13.583'
       end: '00:42:13.583'
       u: עס איז געקומען אַ סך מאָל אַ אױפֿגאַבע׃ אײנע, אַ בריק צו שפּרענגען אָדער,
-        עה... אָדער אײנע 'ן צוג צו שפּרענגען...
+        עה... אָדער אײנע ‘ן צוג צו שפּרענגען...
     - who: David Boder
       start: '00:42:22.376'
       end: '00:42:22.376'
@@ -2638,7 +2638,7 @@ recording:
       end: '00:45:32.488'
       u: פֿון ייִדן, װעלכער עס גײט אַריבער אױף דײַטשלאַנד, און מיט דעם טראַנספּאָרט,
         דאָרט און דאָרט זאָל איך מיך שטעלן, אױף דעם פּונקט... און דאָרט װעל איך אַריבערגײן.
-        ס'איז אױך אַזױ געװעזן, גענױ אין דער ריכטיקער צײַט, אין דערזעלבן...
+        ס’איז אױך אַזױ געװעזן, גענױ אין דער ריכטיקער צײַט, אין דערזעלבן...
     - who: David Boder
       start: '00:45:44.894'
       end: '00:45:44.894'
@@ -2706,7 +2706,7 @@ recording:
     - who: Baruch Friedman
       start: '00:46:17.900'
       end: '00:46:17.900'
-      u: נײן, דאָס נישט. אַזױ, ס'איז נאָך... ס'איז געװעזן אַזױ, דאַס די... די אונרר"אַ
+      u: נײן, דאָס נישט. אַזױ, ס’איז נאָך... ס’איז געװעזן אַזױ, דאַס די... די אונרר”אַ
         האָט געשטיצט [לײַט (?)/ װײַט (?)], און מע האָט באַקומען אױשילף פֿון דזשױנט,
         אַזױ דאַס... אַזױ װײַט איז נאָך געװעזן, דאַס... מע האָט געקענט אַריבערקומען.
     - who: David Boder
@@ -2726,7 +2726,7 @@ recording:
       start: '00:46:40.022'
       end: '00:46:40.022'
       u: אײן רוקזאַק מיט זאַכן, װאָס איך האָב באַקומען, װאָס עפּעס האָב איך מיך גע[-הײַט
-        (? = געהאַט?)] מיט זיך, און עפּעס, עה... װאָס איך האָב באַקומען פֿון דער אונרר"אַ,
+        (? = געהאַט?)] מיט זיך, און עפּעס, עה... װאָס איך האָב באַקומען פֿון דער אונרר”אַ,
         פֿון דזשױנט, עה...
     - who: David Boder
       start: '00:46:47.811'
@@ -2784,11 +2784,11 @@ recording:
       end: '00:47:15.840'
       u: אַלזאָ נענט דאָס נישט אַ טראַנספּאָרט׃ דאָס זײַנען געװעזן גרופּן, װאָס האָבן
         באַשלאָסן צו גײן. דאָס װאַר ניט אָפֿיציעל, זאָצוזאַגן [אַזױ צו זאָגן], דאַס
-        די... אונרר"אַ האָט געגעבן אַ טראַנספּאָרט...
+        די... אונרר”אַ האָט געגעבן אַ טראַנספּאָרט...
     - who: Baruch Friedman
       start: '00:47:25.088'
       end: '00:47:25.088'
-      u: נײן. אונרר"אַ האָט נישט געגעבן, נאָר דאָס זענען געװעזן ייִדן, װעלכע זײ האָבן
+      u: נײן. אונרר”אַ האָט נישט געגעבן, נאָר דאָס זענען געװעזן ייִדן, װעלכע זײ האָבן
         אָרגאַניזירט ספּעציעל טראַנספּאָרטע, װעלכע זענען געגאַנגען טאָג־טעגלעך.
     - who: David Boder
       start: '00:47:31.711'
@@ -2992,14 +2992,14 @@ recording:
     - who: David Boder
       start: '00:00:08.106'
       end: '00:00:08.106'
-      u: "[In English] This is Spool 9-107B. The interviwee is Mr. Abram Perl. 'P'
-        like in 'Peter', 'E' like in 'Edward', 'R' like in 'Rabbit', 'L' like in 'Love'.
+      u: "[In English] This is Spool 9-107B. The interviwee is Mr. Abram Perl. ‘P’
+        like in ‘Peter’, ‘E’ like in ‘Edward’, ‘R’ like in ‘Rabbit’, ‘L’ like in ‘Love’.
         It is Spool 9-107B."
     - who: David Boder
       start: '00:00:57.802'
       end: '00:00:57.802'
       u: 'September 2nd, 1946. Locality: Tradate, Italy. Between— located in a...between
-        Milano and Como. A castle given over to displaced persons'' community of the
+        Milano and Como. A castle given over to displaced persons’ community of the
         self-government of the Kibbutzim, the so-called groups of young men, both...of
         men and women, married and single, which [who] are...[have the] intention
         by means, legal or illegal, to enter Palestine. The eh, interview...This is
@@ -3058,7 +3058,7 @@ recording:
     - who: Baruch Friedman
       start: '00:02:28.636'
       end: '00:02:28.636'
-      u: During the war I was....In the year '42, when there had begun the Slovakian
+      u: During the war I was....In the year ’42, when there had begun the Slovakian
         transports [deportations] against the Jews...
     - who: David Boder
       start: '00:02:37.011'
@@ -3091,7 +3091,7 @@ recording:
     - who: Baruch Friedman
       start: '00:02:50.977'
       end: '00:02:50.977'
-      u: ". . . that in the year '42 began the large transports [deportations] of
+      u: ". . . that in the year ’42 began the large transports [deportations] of
         Jews. It was still in the beginning of April."
     - who: David Boder
       start: '00:02:59.879'
@@ -3127,7 +3127,7 @@ recording:
     - who: Baruch Friedman
       start: '00:03:37.244'
       end: '00:03:37.244'
-      u: It was in the year '42.
+      u: It was in the year ’42.
     - who: David Boder
       start: '00:03:38.790'
       end: '00:03:38.790'
@@ -3199,12 +3199,12 @@ recording:
     - who: Baruch Friedman
       start: '00:04:05.722'
       end: '00:04:05.722'
-      u: I had a premonition that the...the plan...Hitler's plan was so strong that...I
+      u: I had a premonition that the...the plan...Hitler’s plan was so strong that...I
         knew that something bad will come unto the Jews. I wanted that at least a
         part of the family should save itself. Because of that I said, although my
         parents were not too much for it, that I should hide, because they wanted...that
-        what will happen to everybody will happen to me. But I said, 'No. A part of
-        the family must remain so that...at least somebody should remain [survive].'
+        what will happen to everybody will happen to me. But I said, ‘No. A part of
+        the family must remain so that...at least somebody should remain [survive].’
         And so I went with the brother and hid in the forest.
     - who: David Boder
       start: '00:04:38.612'
@@ -3225,7 +3225,7 @@ recording:
     - who: David Boder
       start: '00:04:43.910'
       end: '00:04:43.910'
-      u: What does it mean, 'a part of the family should remain'?
+      u: What does it mean, ‘a part of the family should remain’?
     - who: Baruch Friedman
       start: '00:04:46.668'
       end: '00:04:46.668'
@@ -3259,7 +3259,7 @@ recording:
     - who: David Boder
       start: '00:05:06.109'
       end: '00:05:06.109'
-      u: Didn't you think that if you remain with your parents you perhaps could save
+      u: Didn’t you think that if you remain with your parents you perhaps could save
         them?
     - who: Baruch Friedman
       start: '00:05:10.112'
@@ -3307,7 +3307,7 @@ recording:
     - who: Baruch Friedman
       start: '00:05:36.539'
       end: '00:05:36.539'
-      u: "[In Yiddish] So I said, 'At least one should go.' So I myself...at first
+      u: "[In Yiddish] So I said, ‘At least one should go.’ So I myself...at first
         I went by myself. Then I dragged along the brother. I was so persistent that
         the brother also came."
     - who: David Boder
@@ -3378,7 +3378,7 @@ recording:
     - who: David Boder
       start: '00:06:12.384'
       end: '00:06:12.384'
-      u: The dates you don't have to give.
+      u: The dates you don’t have to give.
     - who: Baruch Friedman
       start: '00:06:14.257'
       end: '00:06:14.257'
@@ -3396,7 +3396,7 @@ recording:
     - who: David Boder
       start: '00:06:29.072'
       end: '00:06:29.072'
-      u: "[In German] And so, what does it mean, 'transports were going'?"
+      u: "[In German] And so, what does it mean, ‘transports were going’?"
     - who: Baruch Friedman
       start: '00:06:30.931'
       end: '00:06:30.931'
@@ -3423,11 +3423,11 @@ recording:
       start: '00:06:48.628'
       end: '00:06:48.628'
       u: "[In English] Eh, I want to state that since Spool about number 100 we have
-        replaced the 'absolutely' non-directive interview by slightly directive [methods].
+        replaced the ‘absolutely’ non-directive interview by slightly directive [methods].
         That is, we are suggesting that they are talking [should talk] about the high
         points of their, eh...experiences. This is, of course, not exactly the best
         method because it has shown that if one gives them perfectly free reign, the...certain
-        experiences come out very freely. It's kind of a mixture [of methods], and
+        experiences come out very freely. It’s kind of a mixture [of methods], and
         we are experimenting with it."
     - who: David Boder
       start: '00:07:20.363'
@@ -3463,7 +3463,7 @@ recording:
       start: '00:07:47.381'
       end: '00:07:47.381'
       u: A tent. We put up a tent in the forest, and there under the free sky we lived.
-        We took along food for a week's time.
+        We took along food for a week’s time.
     - who: David Boder
       start: '00:07:54.034'
       end: '00:07:54.034'
@@ -3777,7 +3777,7 @@ recording:
       start: '00:12:28.947'
       end: '00:12:28.947'
       u: After that...so far...it was already....Thus I sat there by that Gentile
-        till around February, '43. For material and financial reasons I had to get
+        till around February, ’43. For material and financial reasons I had to get
         away from there. I could not pay him any more, so I had reported voluntarily
         to a Slovakian labor lager....
     - who: David Boder
@@ -3788,7 +3788,7 @@ recording:
       start: '00:12:49.897'
       end: '00:12:49.897'
       u: ". . . because the Slovakian labor lagers were not being transported any
-        more. They remained....That means, in the year '43 Jews from Slovakia were
+        more. They remained....That means, in the year ’43 Jews from Slovakia were
         not being transported any more."
     - who: David Boder
       start: '00:12:59.213'
@@ -3805,7 +3805,7 @@ recording:
     - who: Baruch Friedman
       start: '00:13:06.294'
       end: '00:13:06.294'
-      u: In the year '42.
+      u: In the year ’42.
     - who: David Boder
       start: '00:13:07.680'
       end: '00:13:07.680'
@@ -3891,7 +3891,7 @@ recording:
       end: '00:14:56.232'
       u: "[In German/Yiddish] And so, Mr. Perl, you told me that you had reported
         to that voluntary, Czechoslovakian labor lager. What was that Slovakian labor
-        lager. because around '43 they stopped sending transports..."
+        lager. because around ’43 they stopped sending transports..."
     - who: Baruch Friedman
       start: '00:15:09.024'
       end: '00:15:09.024'
@@ -3932,7 +3932,7 @@ recording:
       start: '00:15:34.870'
       end: '00:15:34.870'
       u: |-
-        [In Yiddish] And so I arrived on the 3rd of February, '44...'43. I arrived in Lager
+        [In Yiddish] And so I arrived on the 3rd of February, ’44...’43. I arrived in Lager
                                 Vyhne. This is in Slovakia. Together with the brother with whom I had been hidden.
     - who: David Boder
       start: '00:15:51.649'
@@ -3981,7 +3981,7 @@ recording:
     - who: David Boder
       start: '00:16:29.925'
       end: '00:16:29.925'
-      u: You said 'almost' all. Have you found anybody?
+      u: You said ‘almost’ all. Have you found anybody?
     - who: Baruch Friedman
       start: '00:16:32.144'
       end: '00:16:32.144'
@@ -4209,7 +4209,7 @@ recording:
       start: '00:19:09.564'
       end: '00:19:09.564'
       u: Now we...yes, and so, this....Thus we had been living till the 25th of August,
-        '44.
+        ’44.
     - who: David Boder
       start: '00:19:17.500'
       end: '00:19:17.500'
@@ -4251,11 +4251,11 @@ recording:
     - who: David Boder
       start: '00:20:08.560'
       end: '00:20:08.560'
-      u: In '44.
+      u: In ’44.
     - who: Baruch Friedman
       start: '00:20:09.286'
       end: '00:20:09.286'
-      u: In the year '44, in August. And they took us right away...everyone free,
+      u: In the year ’44, in August. And they took us right away...everyone free,
         that means everyone was released. One could go wherever one wanted. And many
         of our youngsters voluntarily joined the fight against the Germans. The Germans
         put up many divisions against that. He made...that brought about the occupation
@@ -4413,11 +4413,11 @@ recording:
       u: Yes. During my journey home [back], I had heard in the meantime that the
         German is occupying Slovakia. Now I did not know whether I should return to
         the lager, or not to return. What if I return to the lager [and] the German
-        arrives there too? I was in an undecided 'mood' of mind. I did not know what
+        arrives there too? I was in an undecided ‘mood’ of mind. I did not know what
         to do. I came to the conclusion, I have there a brother and I must go to him.
         And what will happen further I do not know. And on the train still I had heard
         that the Slovaks were rendering resistance. And coming as far as the lager
-        at night, it was around twelve o'clock, the whole lager is awake. No one sleeps,
+        at night, it was around twelve o’clock, the whole lager is awake. No one sleeps,
         and there is a stirring mood.
     - who: David Boder
       start: '00:22:52.880'
@@ -4434,8 +4434,8 @@ recording:
     - who: Baruch Friedman
       start: '00:22:55.088'
       end: '00:22:55.088'
-      u: And we were waiting. What was to happen? Some said, 'Kaput. It is already
-        kaput [the bitter end]. Our lives are already lost.' Some still had a little
+      u: And we were waiting. What was to happen? Some said, ‘Kaput. It is already
+        kaput [the bitter end]. Our lives are already lost.’ Some still had a little
         hope because we thought that we shall offer resistance, or that we will decide
         to join the partisans. But something different was happening here. The uprising
         which had been organized so that the whole of Slovakia should be liberated
@@ -4529,7 +4529,7 @@ recording:
     - who: David Boder
       start: '00:25:32.354'
       end: '00:25:32.354'
-      u: And the youngsters were killed because they were on his, on Hlinka's, side?
+      u: And the youngsters were killed because they were on his, on Hlinka’s, side?
     - who: Baruch Friedman
       start: '00:25:35.942'
       end: '00:25:35.942'
@@ -4595,7 +4595,7 @@ recording:
     - who: David Boder
       start: '00:26:46.231'
       end: '00:26:46.231'
-      u: By 'space' you mean the piece [In English] of land.
+      u: By ‘space’ you mean the piece [In English] of land.
     - who: Baruch Friedman
       start: '00:26:48.112'
       end: '00:26:48.112'
@@ -4723,7 +4723,7 @@ recording:
         large transports. The German had come and occupied...occupied the whole of
         Slovakia. And the transports which had...again started to go. Of that part,
         of the fifteen thousand Jews who had remained, he dragged out another ten
-        and sent again...in the year '44, in...in Septem-...around the time of October...
+        and sent again...in the year ’44, in...in Septem-...around the time of October...
     - who: David Boder
       start: '00:29:48.739'
       end: '00:29:48.739'
@@ -4741,7 +4741,7 @@ recording:
     - who: Baruch Friedman
       start: '00:30:01.238'
       end: '00:30:01.238'
-      u: It was in the year '44.
+      u: It was in the year ’44.
     - who: David Boder
       start: '00:30:02.723'
       end: '00:30:02.723'
@@ -4749,7 +4749,7 @@ recording:
     - who: Baruch Friedman
       start: '00:30:03.551'
       end: '00:30:03.551'
-      u: "[In Yiddish] Towards the end of the year '44, yes."
+      u: "[In Yiddish] Towards the end of the year ’44, yes."
     - who: David Boder
       start: '00:30:05.238'
       end: '00:30:05.238'
@@ -4818,7 +4818,7 @@ recording:
     - who: Baruch Friedman
       start: '00:31:50.199'
       end: '00:31:50.199'
-      u: 'We challenged them: ''Hands up.'''
+      u: 'We challenged them: ‘Hands up.’'
     - who: David Boder
       start: '00:31:52.292'
       end: '00:31:52.292'
@@ -4909,7 +4909,7 @@ recording:
     - who: David Boder
       start: '00:32:55.409'
       end: '00:32:55.409'
-      u: What do you call a 'brutal death'?
+      u: What do you call a ‘brutal death’?
     - who: Baruch Friedman
       start: '00:32:57.284'
       end: '00:32:57.284'
@@ -4949,7 +4949,7 @@ recording:
         not too bad because they knew that it is also in their interest, because there
         were many Gentiles, too, not only Jews. Thus we lived on a pretty long time,
         until there happened once an event. The Russians were approaching. The front
-        was very close. This was already in the year '45, around January.
+        was very close. This was already in the year ’45, around January.
     - who: David Boder
       start: '00:34:28.741'
       end: '00:34:28.741'
@@ -5139,7 +5139,7 @@ recording:
     - who: David Boder
       start: '00:38:21.602'
       end: '00:38:21.602'
-      u: What does it mean, 'with the cables'?
+      u: What does it mean, ‘with the cables’?
     - who: Baruch Friedman
       start: '00:38:22.522'
       end: '00:38:22.522'
@@ -5160,7 +5160,7 @@ recording:
     - who: Baruch Friedman
       start: '00:38:35.895'
       end: '00:38:35.895'
-      u: They asked, 'Who is it?' So we said, 'Washy' [yours], our own.
+      u: They asked, ‘Who is it?’ So we said, ‘Washy’ [yours], our own.
     - who: David Boder
       start: '00:38:40.111'
       end: '00:38:40.111'
@@ -5237,7 +5237,7 @@ recording:
     - who: Baruch Friedman
       start: '00:39:33.277'
       end: '00:39:33.277'
-      u: And so we had crossed. It was on the 12th of February, '45, we went over...
+      u: And so we had crossed. It was on the 12th of February, ’45, we went over...
     - who: David Boder
       start: '00:39:37.701'
       end: '00:39:37.701'
@@ -5273,7 +5273,7 @@ recording:
         about where we came from. We gave some....The officer gave a summary...a glance
         over the front, how...how the Germans were located. And everyone received
         a confirmation from the Russians that he is at liberty to go home. And everyone
-        went home--free. Volunteers who wanted...
+        went home—free. Volunteers who wanted...
     - who: David Boder
       start: '00:40:08.685'
       end: '00:40:08.685'
@@ -5490,7 +5490,7 @@ recording:
     - who: Baruch Friedman
       start: '00:42:22.888'
       end: '00:42:22.888'
-      u: But all this was in this form. It was one's duty. A...a task. This one and
+      u: But all this was in this form. It was one’s duty. A...a task. This one and
         this one have to go. And we went.
     - who: David Boder
       start: '00:42:30.779'
@@ -5789,7 +5789,7 @@ recording:
     - who: David Boder
       start: '00:46:55.901'
       end: '00:46:55.901'
-      u: Nu? What does it mean 'one does not need any more'?
+      u: Nu? What does it mean ‘one does not need any more’?
     - who: Baruch Friedman
       start: '00:46:57.681'
       end: '00:46:57.681'
@@ -6019,6 +6019,6 @@ recording:
     - who: Baruch Friedman
       start: '00:50:13.163'
       end: 
-      u: You're welcome.
+      u: You’re welcome.
 transcript: {}
 translation: {}

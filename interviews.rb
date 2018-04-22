@@ -3,6 +3,8 @@ require 'yaml'
 # Use ActiveSupport's hash extensions
 require 'active_support/core_ext/hash'
 require 'active_support/core_ext/string'
+# Use sterile to generate typographers quotes, etc.
+require 'sterile'
 
 # Hash of cities with erroneous &#195 entities, and their fixes:
 @corrected_cities = {
@@ -184,7 +186,7 @@ Dir.glob(@files).each do |file|
       @u.who = li.css('.who span text()').to_s.strip
       @u.start = time_marker(li.css('.utterance').attr('start')).to_s.strip
       # Subtitute ugly ` . . . ` ellipsis with `...`
-      @u.u = li.css('.utterance text()').to_s.strip.gsub(/\s\.\s\.\s\.\s?/,'...')
+      @u.u = li.css('.utterance text()').to_s.strip.smart_format.gsub(/\s\.\s\.\s\.\s?/,'...')
       # Add the utterance onto the end of the transcript array
       @trans.interview.push(@u.to_h)
     end
