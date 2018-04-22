@@ -107,7 +107,8 @@ Dir.glob(@files).each do |file|
     if @trans.interview.length > 0
       @trans.interview.last[:end] = @u.start
     end
-    # TODO: Add an else condition to set the end of the last utterance to the recording length?
+    # TODO: Use the 'mp3info' gem to extract the length of the actual MP3 file; use that
+    # on the metadata for the recording
     @u = Utterance.new
     @u.who = li.css('.who span text()').to_s.strip
     @u.start = time_marker(li.css('.utterance').attr('start')).to_s.strip
