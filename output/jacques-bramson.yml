@@ -15,3 +15,19 @@ interviewee:
       date: unknown
       location: Freising, Germany
       by: United States
+recording:
+  date: '1946-08-16'
+  location: Paris, France
+  languages:
+  - Russian
+  duration: '01:59:34.0'
+  spools:
+  - 9-45B
+  - 9-46
+  - 9-47
+  - 9-48
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

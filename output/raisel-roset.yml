@@ -14,3 +14,17 @@ interviewee:
       date: unknown
       location: ''
       by: ''
+recording:
+  date: '1946-07-30'
+  location: Paris, France
+  languages:
+  - Yiddish
+  - German
+  duration: '00:17:11.0'
+  spools:
+  - 9-4A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

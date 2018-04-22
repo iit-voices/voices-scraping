@@ -17,3 +17,17 @@ interviewee:
       date: unknown
       location: Tutzing, Germany
       by: United States
+recording:
+  date: '1946-09-23'
+  location: Feldafing, Germany
+  languages:
+  - Yiddish
+  duration: '01:16:09.0'
+  spools:
+  - 9-147
+  - 9-148
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

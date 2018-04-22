@@ -15,3 +15,18 @@ interviewee:
       date: unknown
       location: Eisenberg, Germany
       by: United States
+recording:
+  date: '1946-09-01'
+  location: Tradate, Italy
+  languages:
+  - German
+  duration: '01:26:05.0'
+  spools:
+  - 9-104B
+  - 9-106
+  - 9-107A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

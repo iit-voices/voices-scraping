@@ -14,3 +14,18 @@ interviewee:
       date: '1944-08-25'
       location: ''
       by: Russia
+recording:
+  date: '1946-09-02'
+  location: Tradate, Italy
+  languages:
+  - Yiddish
+  - German
+  duration: '00:50:16.0'
+  spools:
+  - 9-107B
+  - 9-108
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

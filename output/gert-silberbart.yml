@@ -17,3 +17,17 @@ interviewee:
       date: '1945-04-11'
       location: ''
       by: United States
+recording:
+  date: '1946-08-27'
+  location: Genève, Switzerland
+  languages:
+  - German
+  duration: '00:48:18.0'
+  spools:
+  - 9-82
+  - 9-83A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

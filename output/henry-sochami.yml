@@ -15,3 +15,16 @@ interviewee:
       date: '1945-04-11'
       location: Weimar, Germany
       by: United States
+recording:
+  date: '1946-08-12'
+  location: Paris, France
+  languages:
+  - Spanish
+  duration: '00:15:06.0'
+  spools:
+  - 9-43A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

@@ -14,3 +14,18 @@ interviewee:
       date: '1945-01-19'
       location: Łódź, Poland
       by: Russia
+recording:
+  date: '1946-09-13'
+  location: Hénonville, France
+  languages:
+  - Yiddish
+  - German
+  duration: '00:52:34.0'
+  spools:
+  - 9-126B
+  - 9-127
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

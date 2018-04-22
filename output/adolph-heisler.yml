@@ -19,3 +19,16 @@ interviewee:
       date: unknown
       location: Weimar, Germany
       by: United States
+recording:
+  date: '1946-08-27'
+  location: Genève, Switzerland
+  languages:
+  - German
+  duration: '00:39:39.0'
+  spools:
+  - 9-81
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

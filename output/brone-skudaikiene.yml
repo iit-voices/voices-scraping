@@ -13,3 +13,18 @@ interviewee:
       date: unknown
       location: ''
       by: ''
+recording:
+  date: '1946-09-21'
+  location: München, Germany
+  languages:
+  - German
+  - Lithuanian
+  - Russian
+  duration: '00:07:52.0'
+  spools:
+  - 9-143B
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

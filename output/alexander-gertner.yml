@@ -21,3 +21,18 @@ interviewee:
       date: '1945-04-11'
       location: Weimar, Germany
       by: United States
+recording:
+  date: '1946-08-26'
+  location: Genève, Switzerland
+  languages:
+  - Yiddish
+  duration: '01:51:38.0'
+  spools:
+  - 9-77
+  - 9-78
+  - 9-79
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

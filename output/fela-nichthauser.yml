@@ -18,3 +18,17 @@ interviewee:
       date: '1945-04-15'
       location: Bergen, Germany
       by: United Kingdom
+recording:
+  date: '1946-08-01'
+  location: Fontenay-aux-Roses, France
+  languages:
+  - German
+  duration: '01:19:15.0'
+  spools:
+  - '15'
+  - '16'
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

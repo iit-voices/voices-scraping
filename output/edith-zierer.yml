@@ -17,3 +17,16 @@ interviewee:
       date: unknown
       location: Częstochowa, Poland
       by: Russia
+recording:
+  date: '1946-09-08'
+  location: Bellevue, France
+  languages:
+  - German
+  duration: '00:22:16.0'
+  spools:
+  - 9-116B
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

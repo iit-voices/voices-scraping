@@ -17,3 +17,17 @@ interviewee:
       date: unknown
       location: Bergen, Germany
       by: United Kingdom
+recording:
+  date: '1946-08-22'
+  location: Paris, France
+  languages:
+  - German
+  duration: '01:13:40.0'
+  spools:
+  - 9-62
+  - 9-63
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

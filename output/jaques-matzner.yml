@@ -23,3 +23,17 @@ interviewee:
       date: unknown
       location: Barth, Germany
       by: Russia
+recording:
+  date: '1946-09-26'
+  location: Wiesbaden, Germany
+  languages:
+  - German
+  duration: '01:09:24.0'
+  spools:
+  - 9-163
+  - 9-164A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

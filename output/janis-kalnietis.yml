@@ -13,3 +13,17 @@ interviewee:
       date: unknown
       location: Brunnau, Germany
       by: United States
+recording:
+  date: '1946-09-21'
+  location: München, Germany
+  languages:
+  - Russian
+  - Latvian
+  duration: '00:20:50.0'
+  spools:
+  - 9-142B
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

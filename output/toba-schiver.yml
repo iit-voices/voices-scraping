@@ -16,3 +16,16 @@ interviewee:
       date: unknown
       location: Iffeldorf, Germany
       by: United States
+recording:
+  date: '1946-09-02'
+  location: Tradate, Italy
+  languages:
+  - German
+  duration: '00:27:28.0'
+  spools:
+  - 9-110
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

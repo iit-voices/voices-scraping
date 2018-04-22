@@ -14,3 +14,19 @@ interviewee:
       date: unknown
       location: Wąsów, Poland
       by: Russia
+recording:
+  date: '1946-08-17'
+  location: Paris, France
+  languages:
+  - Yiddish
+  - German
+  duration: '01:24:20.0'
+  spools:
+  - 9-51
+  - 9-52
+  - 9-53
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

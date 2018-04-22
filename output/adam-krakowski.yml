@@ -23,3 +23,16 @@ interviewee:
       date: '1945-05-01'
       location: Mecklenburg region, Germany
       by: United States
+recording:
+  date: '1946-07-30'
+  location: Paris, France
+  languages:
+  - German
+  duration: '00:35:32.0'
+  spools:
+  - 9-5
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

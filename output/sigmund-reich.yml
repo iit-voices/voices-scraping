@@ -18,3 +18,18 @@ interviewee:
       date: unknown
       location: ''
       by: ''
+recording:
+  date: '1946-08-26'
+  location: Genève, Switzerland
+  languages:
+  - Yiddish
+  - German
+  duration: '00:33:53.0'
+  spools:
+  - 9-73B
+  - 9-74A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

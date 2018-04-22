@@ -13,3 +13,17 @@ interviewee:
       date: unknown
       location: ''
       by: ''
+recording:
+  date: '1946-09-12'
+  location: Hénonville, France
+  languages:
+  - Russian
+  - Yiddish
+  duration: '00:20:42.0'
+  spools:
+  - 9-121B
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

@@ -20,3 +20,17 @@ interviewee:
       date: unknown
       location: ''
       by: United Kingdom
+recording:
+  date: '1946-08-31'
+  location: Tradate, Italy
+  languages:
+  - German
+  duration: '01:11:46.0'
+  spools:
+  - 9-93
+  - 9-94
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

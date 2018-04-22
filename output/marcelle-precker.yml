@@ -14,3 +14,16 @@ interviewee:
       date: unknown
       location: Drancy, France
       by: United States
+recording:
+  date: '1946-08-12'
+  location: Paris, France
+  languages:
+  - English
+  duration: '00:20:23.0'
+  spools:
+  - 9-41A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

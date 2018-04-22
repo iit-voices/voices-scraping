@@ -139,8 +139,31 @@ Dir.glob(@files).each do |file|
 
   @interviewee.identifier = @interviewee.file_name
 
+  # Recording = Struct.new(:date,:location,:languages,:duration,:spools,:audio,:transcript,:translation)
+  @recording = Recording.new
+
+  @recording.date = iso_date(@doc.css('.recording_date text()').to_s.strip)
+  @recording.location = @doc.css('li span.location text()').to_s.strip
+  @recording.languages = @doc.css('.languages text()').to_s.strip.split(", ")
+  # TODO: Use the 'mp3info' gem to extract the length of the actual MP3 file
+  @recording.duration = time_marker(time_seconds(@doc.css('.duration text()').to_s.strip))
+  # Split spools on a comma space
+  @recording.spools = @doc.css('.spools text()').to_s.strip.split(", ")
+  @recording.audio = { file: '', 'mime-type': 'audio/mp3' }
+  # TODO: Pull audio file name from the transcript file
+  # @recording.audio[:file] =
+
+
+
+
+
+
+
   # Create an outer hash in service of the YAML structure
-  record_hash = { 'interviewee': @interviewee.to_h.deep_stringify_keys }
+  record_hash = {
+    'interviewee': @interviewee.to_h.deep_stringify_keys,
+    'recording': @recording.to_h.deep_stringify_keys
+  }
 
   # Diagnostic line for CLI sanity checking
   puts record_hash.deep_stringify_keys.to_yaml

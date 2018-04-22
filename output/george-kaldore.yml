@@ -16,3 +16,18 @@ interviewee:
       date: '1945-01-25'
       location: Oświęcim, Poland
       by: Russia
+recording:
+  date: '1946-08-31'
+  location: Tradate, Italy
+  languages:
+  - German
+  duration: '01:48:50.0'
+  spools:
+  - 9-97
+  - 9-98
+  - 9-99
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

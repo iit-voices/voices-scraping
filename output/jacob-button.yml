@@ -16,3 +16,16 @@ interviewee:
       date: unknown
       location: Bergen, Germany
       by: ''
+recording:
+  date: '1946-08-05'
+  location: Paris, France
+  languages:
+  - German
+  duration: '00:35:13.0'
+  spools:
+  - 9-25
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

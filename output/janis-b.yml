@@ -14,3 +14,17 @@ interviewee:
       date: '1945-05-01'
       location: Hamburg, Germany
       by: ''
+recording:
+  date: '1946-09-24'
+  location: München, Germany
+  languages:
+  - Russian
+  duration: '00:26:12.0'
+  spools:
+  - 9-152B
+  - 9-153A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

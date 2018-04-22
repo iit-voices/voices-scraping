@@ -19,3 +19,17 @@ interviewee:
       date: unknown
       location: Freistaat Sachsen, Germany
       by: Russia
+recording:
+  date: '1946-09-08'
+  location: Bellevue, France
+  languages:
+  - Polish
+  - German
+  duration: '00:32:01.0'
+  spools:
+  - 9-118
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

@@ -14,3 +14,16 @@ interviewee:
       date: '1945-01-16'
       location: Kielce, Poland
       by: Russia
+recording:
+  date: '1946-08-09'
+  location: Paris, France
+  languages:
+  - German
+  duration: '00:20:06.0'
+  spools:
+  - 9-40A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

@@ -16,3 +16,16 @@ interviewee:
       date: '1945-04-26'
       location: Schwabhausen Bei Landsberg, Germany
       by: United States
+recording:
+  date: '1946-08-20'
+  location: Paris, France
+  languages:
+  - Yiddish
+  duration: '00:35:40.0'
+  spools:
+  - 9-54
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

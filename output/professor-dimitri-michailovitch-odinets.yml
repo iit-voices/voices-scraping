@@ -14,3 +14,17 @@ interviewee:
       date: unknown
       location: unknown
       by: ''
+recording:
+  date: '1946-10-04'
+  location: Paris, France
+  languages:
+  - Russian
+  duration: '00:57:07.0'
+  spools:
+  - 9-168
+  - 9-169A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

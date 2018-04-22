@@ -16,3 +16,17 @@ interviewee:
       date: '1945-05-01'
       location: Prienbach-am-Inn, Germany
       by: United States
+recording:
+  date: '1946-09-21'
+  location: München, Germany
+  languages:
+  - Russian
+  duration: '00:42:16.0'
+  spools:
+  - 9-144
+  - 9-145
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

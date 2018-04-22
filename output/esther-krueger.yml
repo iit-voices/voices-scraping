@@ -15,3 +15,16 @@ interviewee:
       date: '1945-01-06'
       location: Warta, Poland
       by: Russia
+recording:
+  date: '1946-09-02'
+  location: Tradate, Italy
+  languages:
+  - German
+  duration: '00:37:09.0'
+  spools:
+  - 9-109
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

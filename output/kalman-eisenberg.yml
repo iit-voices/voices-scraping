@@ -19,3 +19,17 @@ interviewee:
       date: unknown
       location: ''
       by: United States
+recording:
+  date: '1946-07-31'
+  location: Fontenay-aux-Roses, France
+  languages:
+  - Yiddish
+  duration: '00:44:20.0'
+  spools:
+  - 9-12B
+  - 9-13
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

@@ -14,3 +14,18 @@ interviewee:
       date: unknown
       location: Gabersdorf, Austria
       by: Russia
+recording:
+  date: '1946-08-04'
+  location: Paris, France
+  languages:
+  - English
+  - German
+  - Polish
+  duration: '00:23:28.0'
+  spools:
+  - 9-22
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

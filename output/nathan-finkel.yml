@@ -16,3 +16,16 @@ interviewee:
       date: unknown
       location: Weimar, Germany
       by: United States
+recording:
+  date: '1946-09-24'
+  location: München, Germany
+  languages:
+  - Russian
+  duration: '00:15:57.0'
+  spools:
+  - 9-155A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

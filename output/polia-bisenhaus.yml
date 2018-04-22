@@ -19,3 +19,17 @@ interviewee:
       date: unknown
       location: Dachau, Germany
       by: United States
+recording:
+  date: '1946-07-29'
+  location: Paris, France
+  languages:
+  - Yiddish
+  - German
+  duration: '00:25:37.0'
+  spools:
+  - 9-3B
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

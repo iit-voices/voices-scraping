@@ -13,3 +13,17 @@ interviewee:
       date: unknown
       location: ''
       by: ''
+recording:
+  date: '1946-08-28'
+  location: Genève, Switzerland
+  languages:
+  - German
+  duration: '00:53:46.0'
+  spools:
+  - 9-89
+  - 9-90A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

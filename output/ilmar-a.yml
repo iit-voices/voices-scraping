@@ -14,3 +14,16 @@ interviewee:
       date: '1945-05-05'
       location: Oberlungwitz, Germany
       by: United States
+recording:
+  date: '1946-09-24'
+  location: München, Germany
+  languages:
+  - German
+  duration: '00:28:01.0'
+  spools:
+  - 9-152A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

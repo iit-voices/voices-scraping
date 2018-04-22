@@ -13,3 +13,18 @@ interviewee:
       date: unknown
       location: ''
       by: ''
+recording:
+  date: '1946-09-26'
+  location: Wiesbaden, Germany
+  languages:
+  - English
+  duration: '01:35:35.0'
+  spools:
+  - 9-160
+  - 9-161
+  - 9-162
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

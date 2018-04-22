@@ -17,3 +17,16 @@ interviewee:
       date: unknown
       location: Offenburg, Germany
       by: France
+recording:
+  date: '1946-07-30'
+  location: Paris, France
+  languages:
+  - German
+  duration: '00:25:05.0'
+  spools:
+  - 9-6A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

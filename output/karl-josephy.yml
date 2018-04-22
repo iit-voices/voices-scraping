@@ -16,3 +16,16 @@ interviewee:
       date: unknown
       location: Cantal department, France
       by: ''
+recording:
+  date: '1946-08-23'
+  location: Paris, France
+  languages:
+  - German
+  duration: '00:39:37.0'
+  spools:
+  - 9-66
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

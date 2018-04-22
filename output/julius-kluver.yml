@@ -13,3 +13,16 @@ interviewee:
       date: unknown
       location: München, Germany
       by: United States
+recording:
+  date: '1946-09-19'
+  location: München, Germany
+  languages:
+  - German
+  duration: '00:29:10.0'
+  spools:
+  - 9-132
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

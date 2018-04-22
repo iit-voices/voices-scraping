@@ -15,3 +15,16 @@ interviewee:
       date: unknown
       location: Sudety Region, Czechoslovakia
       by: Russia
+recording:
+  date: '1946-08-03'
+  location: Paris, France
+  languages:
+  - German
+  duration: '00:31:19.0'
+  spools:
+  - 9-19
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

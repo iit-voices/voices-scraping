@@ -13,3 +13,19 @@ interviewee:
       date: '1944-08-22'
       location: Grenoble, France
       by: United States
+recording:
+  date: '1946-09-07'
+  location: Paris, France
+  languages:
+  - Russian
+  - English
+  duration: '01:53:17.0'
+  spools:
+  - 9-111
+  - 9-112
+  - 9-113
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

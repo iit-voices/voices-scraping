@@ -17,3 +17,18 @@ interviewee:
       date: '1945-05-07'
       location: ''
       by: Germany
+recording:
+  date: '1946-09-13'
+  location: Hénonville, France
+  languages:
+  - Yiddish
+  - German
+  duration: '00:53:04.0'
+  spools:
+  - 9-130B
+  - 9-131
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

@@ -17,3 +17,17 @@ interviewee:
       date: unknown
       location: Weimar, Germany
       by: United States
+recording:
+  date: '1946-08-02'
+  location: Fontenay-aux-Roses, France
+  languages:
+  - German
+  duration: '01:18:30.0'
+  spools:
+  - '17'
+  - '18'
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

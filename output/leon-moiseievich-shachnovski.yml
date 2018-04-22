@@ -17,3 +17,16 @@ interviewee:
       date: '1945-04-22'
       location: Augsburg, Germany
       by: United States
+recording:
+  date: '1946-07-29'
+  location: Paris, France
+  languages:
+  - Russian
+  duration: '00:12:25.0'
+  spools:
+  - 9-3A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

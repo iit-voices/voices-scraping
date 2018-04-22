@@ -18,3 +18,18 @@ interviewee:
       date: '1945-04-29'
       location: Dachau, Germany
       by: United States
+recording:
+  date: '1946-08-12'
+  location: Paris, France
+  languages:
+  - German
+  - Spanish
+  duration: '00:55:17.0'
+  spools:
+  - 9-41B
+  - 9-42
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

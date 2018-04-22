@@ -16,3 +16,18 @@ interviewee:
       date: '1945-04-05'
       location: Dachau, Germany
       by: United States
+recording:
+  date: '1946-09-21'
+  location: München, Germany
+  languages:
+  - Lithuanian
+  - Russian
+  - German
+  duration: '00:14:45.0'
+  spools:
+  - 9-144B
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

@@ -14,3 +14,16 @@ interviewee:
       date: '1944-08-18'
       location: Bergen, Germany
       by: ''
+recording:
+  date: '1946-08-28'
+  location: Genève, Switzerland
+  languages:
+  - German
+  duration: '00:24:50.0'
+  spools:
+  - 9-90B
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

@@ -14,3 +14,16 @@ interviewee:
       date: unknown
       location: ''
       by: United States
+recording:
+  date: '1946-08-12'
+  location: Paris, France
+  languages:
+  - English
+  duration: '00:23:15.0'
+  spools:
+  - 9-43B
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

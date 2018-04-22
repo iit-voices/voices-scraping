@@ -16,3 +16,18 @@ interviewee:
       date: unknown
       location: Ravensbrück, Germany
       by: France
+recording:
+  date: '1946-08-07'
+  location: Paris, France
+  languages:
+  - Yiddish
+  - German
+  duration: '01:14:15.0'
+  spools:
+  - 9-34
+  - 9-35
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

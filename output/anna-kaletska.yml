@@ -16,3 +16,18 @@ interviewee:
       date: '1945-04-01'
       location: Kaunitz, Germany
       by: United States
+recording:
+  date: '1946-09-26'
+  location: Wiesbaden, Germany
+  languages:
+  - Yiddish
+  duration: '00:58:21.0'
+  spools:
+  - 9-164B
+  - 9-165
+  - 9-166
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

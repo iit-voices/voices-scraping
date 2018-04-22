@@ -13,3 +13,19 @@ interviewee:
       date: unknown
       location: Treblinka, Poland
       by: Russia
+recording:
+  date: '1946-09-08'
+  location: Bellevue, France
+  languages:
+  - German
+  - Polish
+  - Russian
+  duration: '01:12:54.0'
+  spools:
+  - 9-114
+  - 9-115
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

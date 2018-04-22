@@ -17,3 +17,17 @@ interviewee:
       date: unknown
       location: Karlsruhe, Germany
       by: ''
+recording:
+  date: '1946-08-27'
+  location: Genève, Switzerland
+  languages:
+  - German
+  - English
+  duration: '00:41:44.0'
+  spools:
+  - 9-80
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

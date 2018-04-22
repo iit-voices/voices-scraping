@@ -14,3 +14,17 @@ interviewee:
       date: unknown
       location: Chernivtsi, Ukraine
       by: Russia
+recording:
+  date: '1946-09-12'
+  location: Hénonville, France
+  languages:
+  - Yiddish
+  duration: '00:49:28.0'
+  spools:
+  - 9-120
+  - 9-121A
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

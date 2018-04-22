@@ -17,3 +17,18 @@ interviewee:
       date: unknown
       location: Goldberg, Germany
       by: Russia
+recording:
+  date: '1946-09-23'
+  location: Feldafing, Germany
+  languages:
+  - German
+  duration: '01:52:24.0'
+  spools:
+  - 9-149
+  - 9-150
+  - 9-151
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 

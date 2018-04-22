@@ -18,3 +18,17 @@ interviewee:
       date: '1945-05-02'
       location: Neustadt-Glewe, Germany
       by: United States
+recording:
+  date: '1946-09-13'
+  location: Hénonville, France
+  languages:
+  - Yiddish
+  duration: '00:52:13.0'
+  spools:
+  - 9-128
+  - 9-129
+  audio:
+    file: ''
+    mime-type: audio/mp3
+  transcript: 
+  translation: 
