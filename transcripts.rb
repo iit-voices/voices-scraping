@@ -83,17 +83,40 @@ def time_seconds(marker)
   seconds.to_s
 end
 
+# Recording metadata is mostly in the biographical file
+Recording = Struct.new(:date,:location,:languages,:duration,:spools,:audio,:transcript,:translation)
+Utterance = Struct.new(:who,:start,:end,:u)
+Transcript = Struct.new(:language,:interview)
+
 # Set a file pattern (temporary)
 @files = "#{ENV['HOME']}/Voices/voices.iit.edu/voices.iit.edu/interview?doc=sochamiH&display=sochamiH_en"
+
 Dir.glob(@files).each do |file|
   # Open the file and parse it
   @doc = File.open(file) do |f|
     Nokogiri::HTML(f)
   end
+
+  @trans = Transcript.new
+  # Grab the language from the last two letters in the file name
+  @trans.language = file.strip.slice(-2,2)
+  # Create an array to hold each utterance in the interview
+  @trans.interview = []
+  @doc.css('#content > ul + ul > li').each do |li|
+    # If there's a previous record, set its start as the end for the current record
+    if @trans.interview.length > 0
+      @trans.interview.last[:end] = @u.start
+    end
+    # TODO: Add an else condition to set the end of the last utterance to the recording length?
+    @u = Utterance.new
+    @u.who = li.css('.who span text()').to_s.strip
+    @u.start = time_marker(li.css('.utterance').attr('start')).to_s.strip
+    # TODO: Reformat clunky ` . . . ` ellipses
+    @u.u = li.css('.utterance text()').to_s.strip
+    # Add the utterance onto the end of the transcript array
+    @trans.interview.push(@u.to_h)
+  end
+
 end
 
-@doc.css('#content > ul + ul > li').each do |li|
-  puts li.css('.who span text()')
-  puts time_marker(li.css('.utterance').attr('start'))
-  puts li.css('.utterance text()')
-end
+puts @trans.to_h.deep_stringify_keys.to_yaml
