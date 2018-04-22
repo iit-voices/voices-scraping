@@ -176,15 +176,17 @@ Dir.glob(@files).each do |file|
     # Create an array to hold each utterance in the interview
     @trans.interview = []
     @t.css('#content > ul + ul > li').each do |li|
-      # If there's a previous record, set its start as the end for the current record
-      if @trans.interview.length > 0
-        @trans.interview.last[:end] = @u.start
-      end
       # TODO: Use the 'mp3info' gem to extract the length of the actual MP3 file; use that
       # on the metadata for the recording
       @u = Utterance.new
       @u.who = li.css('.who span text()').to_s.strip
       @u.start = time_marker(li.css('.utterance').attr('start')).to_s.strip
+      # If there's a previous record, back up and set the end value to the current record's start
+      # value
+      if @trans.interview.length > 0
+        @trans.interview.last[:end] = @u.start
+      end
+      @u.end = li.next
       # Subtitute ugly ` . . . ` ellipsis with `...`
       @u.u = li.css('.utterance text()').to_s.strip.smart_format.gsub(/\s\.\s\.\s\.\s?/,'...')
       # Add the utterance onto the end of the transcript array

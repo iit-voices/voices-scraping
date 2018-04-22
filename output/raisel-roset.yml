@@ -31,188 +31,188 @@ recording:
     interview:
     - who: David Boder
       start: '00:00:00.212'
-      end: '00:00:00.212'
+      end: '00:00:02.813'
       u: "[In German] Sagen Sie mir, was ist Ihr Namen?"
     - who: Raisel Roset
       start: '00:00:02.813'
-      end: '00:00:02.813'
+      end: '00:00:09.192'
       u: "[In Yiddish] רייזל ראסעט."
     - who: David Boder
       start: '00:00:09.192'
-      end: '00:00:09.192'
+      end: '00:00:10.549'
       u: "[In German] Was ist die Namen?"
     - who: Raisel Roset
       start: '00:00:10.549'
-      end: '00:00:10.549'
+      end: '00:00:12.219'
       u: "[In Yiddish] רייזל ראסעט."
     - who: David Boder
       start: '00:00:12.219'
-      end: '00:00:12.219'
+      end: '00:00:13.469'
       u: "[In German] Raisel?"
     - who: Raisel Roset
       start: '00:00:13.469'
-      end: '00:00:13.469'
+      end: '00:00:14.438'
       u: "[In Yiddish] ראסעט."
     - who: David Boder
       start: '00:00:14.438'
-      end: '00:00:14.438'
+      end: '00:00:16.172'
       u: "[In German] Roset?"
     - who: Raisel Roset
       start: '00:00:16.172'
-      end: '00:00:16.172'
+      end: '00:00:17.016'
       u: "[In Yiddish] יא."
     - who: David Boder
       start: '00:00:17.016'
-      end: '00:00:17.016'
+      end: '00:00:21.368'
       u: "[In German] War das Ihr Namen in Poland auch? Gesprechen...[unklar; Boder
         lacht nervös]."
     - who: Raisel Roset
       start: '00:00:21.368'
-      end: '00:00:21.368'
+      end: '00:00:21.915'
       u: "[In Yiddish] יא."
     - who: David Boder
       start: '00:00:21.915'
-      end: '00:00:21.915'
+      end: '00:00:25.446'
       u: "[In German] Das war Ihr Namen. Un wie alt sind Sie, Frau Rose?"
     - who: Raisel Roset
       start: '00:00:25.446'
-      end: '00:00:25.446'
+      end: '00:00:26.837'
       u: Schon fünfzig Jahre alt.
     - who: David Boder
       start: '00:00:26.837'
-      end: '00:00:26.837'
+      end: '00:00:28.868'
       u: Sind Sie fünfzig Jahre alt.
     - who: Raisel Roset
       start: '00:00:28.868'
-      end: '00:00:28.868'
+      end: '00:00:29.165'
       u: "[In Yiddish] יא."
     - who: David Boder
       start: '00:00:29.165'
-      end: '00:00:29.165'
+      end: '00:00:31.305'
       u: "[In German] Sind Sie verheiratet?"
     - who: Raisel Roset
       start: '00:00:31.305'
-      end: '00:00:31.305'
+      end: '00:00:31.680'
       u: "[In Yiddish] יא."
     - who: David Boder
       start: '00:00:31.680'
-      end: '00:00:31.680'
+      end: '00:00:34.039'
       u: "[In German] Eh, wo ist Ihr Mann?"
     - who: Raisel Roset
       start: '00:00:34.039'
-      end: '00:00:34.039'
+      end: '00:00:52.959'
       u: "[In Yiddish] ער איז געוועזן אין אקופירטן [ראם?] פון פוילן, און ווען ס’איז
         אויסגעשאסן די דייטש-רוסישע קריג, פון. דאן אום, האב איך שוין פון אים קיין [אכט?]
         נישט. פון קיעוו, ליידער, [אומקלאר?] אז ער איז געפאלן."
     - who: David Boder
       start: '00:00:52.959'
-      end: '00:00:52.959'
+      end: '00:00:53.881'
       u: "[In German/Yiddish] Gefallen?"
     - who: Raisel Roset
       start: '00:00:53.881'
-      end: '00:00:53.881'
+      end: '00:00:56.224'
       u: "[In Yiddish] ער איז אומגעקומען. מ’אט אים אומגעבראכט."
     - who: David Boder
       start: '00:00:56.224'
-      end: '00:00:56.224'
+      end: '00:00:56.771'
       u: "[In German/Yiddish] Wer?"
     - who: Raisel Roset
       start: '00:00:56.771'
-      end: '00:00:56.771'
+      end: '00:00:58.974'
       u: "[In Yiddish] שטילערהייט] איך ווייס נישט]."
     - who: David Boder
       start: '00:00:58.974'
-      end: '00:00:58.974'
+      end: '00:01:00.692'
       u: "[In German] So, wie haben Sie das...[unklar]?"
     - who: Raisel Roset
       start: '00:01:00.692'
-      end: '00:01:00.692'
+      end: '00:01:05.958'
       u: "[In Yiddish] דאס האב איך געהערט. דאס האט מיר איין קוזינע געשריבן פון פוילן,
         אז ער איז אין קרעמענעץ אומגעבראכט געווארן."
     - who: David Boder
       start: '00:01:05.958'
-      end: '00:01:05.958'
+      end: '00:01:12.114'
       u: "[In German] Uh huh. Sie haben eine Kusine in Poland?"
     - who: Raisel Roset
       start: '00:01:12.114'
-      end: '00:01:12.114'
+      end: '00:01:14.801'
       u: "[In Yiddish] מיין מאנס א קוזינע."
     - who: David Boder
       start: '00:01:14.801'
-      end: '00:01:14.801'
+      end: '00:01:17.019'
       u: "[In German] In Russisch-Poland oder in Freien-Poland?"
     - who: Raisel Roset
       start: '00:01:17.019'
-      end: '00:01:17.019'
+      end: '00:01:19.534'
       u: "[In Yiddish] אין פרייען פוילן."
     - who: David Boder
       start: '00:01:19.534'
-      end: '00:01:19.534'
+      end: '00:01:28.065'
       u: "[In German/Yiddish] Freien Poland. Now, sagen Sie mir, wen sind Sie...sind
         die דייטשן gekomm...Wie haben Sie gelebt?"
     - who: Raisel Roset
       start: '00:01:28.065'
-      end: '00:01:28.065'
+      end: '00:01:30.190'
       u: "[In Yiddish] אין זאמאשטש."
     - who: David Boder
       start: '00:01:30.190'
-      end: '00:01:30.190'
+      end: '00:01:31.315'
       u: "[In German] Wie?"
     - who: Raisel Roset
       start: '00:01:31.315'
-      end: '00:01:31.315'
+      end: '00:01:34.409'
       u: "[In Yiddish] לובלינער קרייז-זאמאשטש, לובלינער קרייז."
     - who: David Boder
       start: '00:01:34.409'
-      end: '00:01:34.409'
+      end: '00:01:36.268'
       u: "[In German/Yiddish] Lubliner Kreis? Und das was Poland?"
     - who: Raisel Roset
       start: '00:01:36.268'
-      end: '00:01:36.268'
+      end: '00:01:37.315'
       u: "[In Yiddish] יא."
     - who: David Boder
       start: '00:01:37.315'
-      end: '00:01:37.315'
+      end: '00:01:40.112'
       u: "[In German/Yiddish] Un wer sind dortn אריינגעקאמען—die Russians—die Russen?"
     - who: Raisel Roset
       start: '00:01:40.112'
-      end: '00:01:40.112'
+      end: '00:01:40.705'
       u: "[In Yiddish] די דייטשן."
     - who: David Boder
       start: '00:01:40.705'
-      end: '00:01:40.705'
+      end: '00:01:42.470'
       u: "[In German/Yiddish] די דייטשן? Nu, erzähl mir."
     - who: Raisel Roset
       start: '00:01:42.470'
-      end: '00:01:42.470'
+      end: '00:01:49.662'
       u: "[In Yiddish]זיי זענען געווען...[אומקלאר?] טאגע, די דייטשן זענען אריינגעקומען
         דעם 6טן ווזשעשין. און.... [אומקלאר?] טאגע, האבן זיי פארלאסט זאמאשטש, און ס’זענען
         געקומען די רוסן."
     - who: David Boder
       start: '00:01:49.662'
-      end: '00:01:49.662'
+      end: '00:01:50.631'
       u: Ah ha.
     - who: Raisel Roset
       start: '00:01:50.631'
-      end: '00:01:50.631'
+      end: '00:02:13.144'
       u: דאן איז מיין מאן אוועק מיט זיי אויך...[אומקלאר?] פון א ציוניסטישער ארגאניזאציע,
         און די זענען געווען דער ערשטע געשיקט געווארן די קאנצענטראציע לאגערן. איז ער
         אוועק קיין דובנאוו.
     - who: David Boder
       start: '00:02:13.144'
-      end: '00:02:13.144'
+      end: '00:02:13.988'
       u: Ah ha.
     - who: Raisel Roset
       start: '00:02:13.988'
-      end: '00:02:13.988'
+      end: '00:02:16.488'
       u: און אכער, קיין קרעמענעץ.
     - who: David Boder
       start: '00:02:16.488'
-      end: '00:02:16.488'
+      end: '00:02:17.113'
       u: Uh huh.
     - who: Raisel Roset
       start: '00:02:17.113'
-      end: '00:02:17.113'
+      end: '00:02:29.022'
       u: די גאנצע צייט האב איך באקאמען [באקומען] פון אים בריף, אבער אכער, ווען ס’איז
         אויסגעבראכן די רוסיש-דייטש קריג, האט זיך די קארעספאנדענץ איבערגעריסן. איך
         האב א ספעציעלן שליח צו אים געשיקט, און דער, האט מיך [אומקלאר?] פון דעם ידיעה
@@ -220,60 +220,60 @@ recording:
         אויף טיף רוסלאנד.
     - who: David Boder
       start: '00:02:29.022'
-      end: '00:02:29.022'
+      end: '00:02:29.694'
       u: Yeah.
     - who: Raisel Roset
       start: '00:02:29.694'
-      end: '00:02:29.694'
+      end: '00:02:48.164'
       u: איך בין געווען בארויקט, און דאן האט זיך אנגעהויבן אונדזערע טענהן אין פוילן.
     - who: David Boder
       start: '00:02:48.164'
-      end: '00:02:48.164'
+      end: '00:02:52.898'
       u: "[In German/Yiddish] So, wer גלויבן Sie, hat dem Mann umgebracht?"
     - who: Raisel Roset
       start: '00:02:52.898'
-      end: '00:02:52.898'
+      end: '00:02:55.351'
       u: "[In Yiddish] איך ווייס דאס נאך נישט."
     - who: David Boder
       start: '00:02:55.351'
-      end: '00:02:55.351'
+      end: '00:02:56.288'
       u: "[In German/Yiddish] Die דייטשן oder die [Russen]?"
     - who: Raisel Roset
       start: '00:02:56.288'
-      end: '00:02:56.288'
+      end: '00:02:59.225'
       u: "[In Yiddish] איך ווייס דאס נאך נישט. איך האב דאס נאך נישט דערפארן."
     - who: David Boder
       start: '00:02:59.225'
-      end: '00:02:59.225'
+      end: '00:02:59.819'
       u: Uh huh.
     - who: Raisel Roset
       start: '00:02:59.819'
-      end: '00:02:59.819'
+      end: '00:03:03.131'
       u: פאר מע’ זאגט מיר נאך נישט דעם גאנצן אמת.
     - who: David Boder
       start: '00:03:03.131'
-      end: '00:03:03.131'
+      end: '00:03:04.256'
       u: Uh huh.
     - who: Raisel Roset
       start: '00:03:04.256'
-      end: '00:03:04.256'
+      end: '00:03:10.178'
       u: און דאן האט זיך אנגעהויבן דעם טערמין [אומקלאר?] פון אויסזידלען יידן.
     - who: David Boder
       start: '00:03:10.178'
-      end: '00:03:10.178'
+      end: '00:03:11.537'
       u: די דייטשן...
     - who: Raisel Roset
       start: '00:03:11.537'
-      end: '00:03:11.537'
+      end: '00:03:17.880'
       u: יא, די [משיעור?] אויס יודען. האט מען געמאכט אין דער שטאט זאמאשטש אין גענצן
         [גאנצן] יודענריין.
     - who: David Boder
       start: '00:03:17.880'
-      end: '00:03:17.880'
+      end: '00:03:18.489'
       u: Yeah.
     - who: Raisel Roset
       start: '00:03:18.489'
-      end: '00:03:18.489'
+      end: '00:03:32.457'
       u: און אלע זאמאשטשער איינוווינער האט מען געשיקט אין א קליינעם שטעטל, 02 קילאמעטער
         פון זאמאשטש קיין איזביצא [?]. דארט, האט זיך ווידער אנגעפאנגען דאס זעלבע. איין
         [אומקלאר?] יידן האט געפארט נאך דער צווייטער. אין איינעם טאג האבן מיר געזען
@@ -281,37 +281,37 @@ recording:
         אז עס קומט פון דעם, צו דעם נישט גוטע זאך.
     - who: David Boder
       start: '00:03:32.457'
-      end: '00:03:32.457'
+      end: '00:03:34.222'
       u: "[In English] Yes."
     - who: Raisel Roset
       start: '00:03:34.222'
-      end: '00:03:34.222'
+      end: '00:03:55.802'
       u: "[In Yiddish] און דאן, דער וואס האט געהאט מעגלעכקייטן, האט זיך געראטעוועט.
         איז פארשטענדלעך. און איך, אין דער האפענונג אז מיין מאן איז אין רוסלאנד, האב
         איך באשאפט ארישע פאפירן."
     - who: David Boder
       start: '00:03:55.802'
-      end: '00:03:55.802'
+      end: '00:03:57.114'
       u: "[In German] Was für Papiern?"
     - who: Raisel Roset
       start: '00:03:57.114'
-      end: '00:03:57.114'
+      end: '00:03:57.848'
       u: "[In Yiddish] ארישע."
     - who: David Boder
       start: '00:03:57.848'
-      end: '00:03:57.848'
+      end: '00:03:58.973'
       u: "[In German/Yiddish] Arische Papieren?"
     - who: Raisel Roset
       start: '00:03:58.973'
-      end: '00:03:58.973'
+      end: '00:04:00.333'
       u: "[In Yiddish] און כ’בין אנטלאפן."
     - who: David Boder
       start: '00:04:00.333'
-      end: '00:04:00.333'
+      end: '00:04:00.974'
       u: Aha.
     - who: Raisel Roset
       start: '00:04:00.974'
-      end: '00:04:00.974'
+      end: '00:04:41.179'
       u: איך בין אנטלאפן צו א באקאנטע, כלומרישע פאמיליע, און דארט בין איך געוועזן
         6 וואכן. און אכער, האבן זיי מיר שוין נישט געוואלט האלטן, ווייל ס’אט זיי אויך
         געדראט דויטשן [דייטשן] ווען מע’ טרעפט מיך ביי זיי. האב איך געמוזט נעמען מיין
@@ -322,29 +322,29 @@ recording:
         און קריק אריין אין דעם יודענלאגער.
     - who: David Boder
       start: '00:04:41.179'
-      end: '00:04:41.179'
+      end: '00:04:42.101'
       u: Uh huh.
     - who: Raisel Roset
       start: '00:04:42.101'
-      end: '00:04:42.101'
+      end: '00:04:44.444'
       u: אין געטא - צוריק אין געטא - אין יידישן געטא.
     - who: David Boder
       start: '00:04:44.444'
-      end: '00:04:44.444'
+      end: '00:04:45.053'
       u: Yeah.
     - who: Raisel Roset
       start: '00:04:45.053'
-      end: '00:04:45.053'
+      end: '00:04:58.647'
       u: אין יידישן געטא, האט זיך אנגעהויבן ווידער די אייגענע פיין. ווייטער דעפארטאציעס,
         און כ’אב ז...- מיך האב זיך פארשריבן צו ארבעטן אין אן אמוניציע פאבריק. און
         דארט האב איך געארבעט 5 מאנאט.
     - who: David Boder
       start: '00:04:58.647'
-      end: '00:04:58.647'
+      end: '00:04:59.413'
       u: Uh huh.
     - who: Raisel Roset
       start: '00:04:59.413'
-      end: '00:04:59.413'
+      end: '00:05:33.001'
       u: און אכער, בין איך געווער [געוואר] געווארן אז ס’וועט זיין א סעלעקציע - די
         עלטערעס [?] ‘וועט מען זעלבספארשטענדלעך אוועקשיקן אין די גאז-קאמערן, און די
         יינגערע וועט מען לאזן. און איך, אלס עלטערע פרוי, האב פארשטאנען אז ס’קומט דער
@@ -354,342 +354,342 @@ recording:
         דייטשלאנד אויף ארבעט. דא...
     - who: David Boder
       start: '00:05:33.001'
-      end: '00:05:33.001'
+      end: '00:05:35.876'
       u: "[In German] Why haben Sie deportiert die Aryen?"
     - who: Raisel Roset
       start: '00:05:35.876'
-      end: '00:05:35.876'
+      end: '00:05:36.892'
       u: "[In Yiddish] די דייטשן?"
     - who: David Boder
       start: '00:05:36.892'
-      end: '00:05:36.892'
+      end: '00:05:37.783'
       u: Ja.
     - who: Raisel Roset
       start: '00:05:37.783'
-      end: '00:05:37.783'
+      end: '00:05:41.470'
       u: אלס אריאן האבן זיי מיך דעפארטירט ק’[יין] דייטשלאנד אויף ארבעט.
     - who: David Boder
       start: '00:05:41.470'
-      end: '00:05:41.470'
+      end: '00:05:43.345'
       u: א, זיי האבן געדאכט אז זי זינט א דייטשין?
     - who: Raisel Roset
       start: '00:05:43.345'
-      end: '00:05:43.345'
+      end: '00:05:45.033'
       u: א נישט באגערן[?]!
     - who: David Boder
       start: '00:05:45.033'
-      end: '00:05:45.033'
+      end: '00:05:46.564'
       u: "[In German] Aha, als Polin."
     - who: Raisel Roset
       start: '00:05:46.564'
-      end: '00:05:46.564'
+      end: '00:05:47.212'
       u: Yeah.
     - who: David Boder
       start: '00:05:47.212'
-      end: '00:05:47.212'
+      end: '00:05:47.564'
       u: "[In Yiddish] נו?"
     - who: Raisel Roset
       start: '00:05:47.564'
-      end: '00:05:47.564'
+      end: '00:05:52.079'
       u: געקומען קיין דויטשלאנד [דייטשלאנד], האט מען שוין דארט געשיקט קיין לאטערינגען.
     - who: David Boder
       start: '00:05:52.079'
-      end: '00:05:52.079'
+      end: '00:05:53.000'
       u: Uh huh.
     - who: Raisel Roset
       start: '00:05:53.000'
-      end: '00:05:53.000'
+      end: '00:05:58.515'
       u: דארט, האבן זיי מיך באשטימט איך וויל גיין ארבעטן אויף א פירם.
     - who: David Boder
       start: '00:05:58.515'
-      end: '00:05:58.515'
+      end: '00:05:59.494'
       u: אויף א פעלד?
     - who: Raisel Roset
       start: '00:05:59.494'
-      end: '00:05:59.494'
+      end: '00:06:00.494'
       u: אויף א פירמע.
     - who: David Boder
       start: '00:06:00.494'
-      end: '00:06:00.494'
+      end: '00:06:01.150'
       u: Uh huh.
     - who: Raisel Roset
       start: '00:06:01.150'
-      end: '00:06:01.150'
+      end: '00:06:05.915'
       u: און דארט האב איך אפגעארבעט 02 מאנאט, א שווערע קאטאר[גע].
     - who: David Boder
       start: '00:06:05.915'
-      end: '00:06:05.915'
+      end: '00:06:08.337'
       u: "[In German] Was keine Arbet was?"
     - who: Raisel Roset
       start: '00:06:08.337'
-      end: '00:06:08.337'
+      end: '00:06:09.946'
       u: Erdarbeit.
     - who: David Boder
       start: '00:06:09.946'
-      end: '00:06:09.946'
+      end: '00:06:10.252'
       u: Erdarbeit?
     - who: David Boder
       start: '00:06:10.252'
-      end: '00:06:10.252'
+      end: '00:06:11.743'
       u: "[In Yiddish] לאנקע ארבייט?"
     - who: Raisel Roset
       start: '00:06:11.743'
-      end: '00:06:11.743'
+      end: '00:06:17.319'
       u: לאנקע ארבייט, גארטן ארבייט...
     - who: David Boder
       start: '00:06:17.319'
-      end: '00:06:17.319'
+      end: '00:06:17.919'
       u: Uh huh.
     - who: Raisel Roset
       start: '00:06:17.919'
-      end: '00:06:17.919'
+      end: '00:06:18.212'
       u: אין שטוב, איבער א...[אומקלאר?]
     - who: David Boder
       start: '00:06:18.212'
-      end: '00:06:18.212'
+      end: '00:06:20.209'
       u: "[In German/Yiddish] Vollzeit haben Sie gearbet als a Frau in a Haus?"
     - who: Raisel Roset
       start: '00:06:20.209'
-      end: '00:06:20.209'
+      end: '00:06:25.380'
       u: "[In Yiddish] א הויפטפרוי אין גארטן, אין פעלד, איבעראל האב איך געארבעט."
     - who: David Boder
       start: '00:06:25.380'
-      end: '00:06:25.380'
+      end: '00:06:26.771'
       u: יא, איר האט געארבעט מיט דער פאמיליע?
     - who: Raisel Roset
       start: '00:06:26.771'
-      end: '00:06:26.771'
+      end: '00:06:39.895'
       u: מיט נאך מענטשן. ס’איז געוועזן נאך דארט; ס’איז געווען א רוסן מיידל, א דעפארטירטע;
         ס’איז געוועזן צוויי קריגס-געפאנגענע, און מיט די צוזאמען, האב איך געארבעט 02
         מאנאט - זייער, זייער שווער.
     - who: David Boder
       start: '00:06:39.895'
-      end: '00:06:39.895'
+      end: '00:06:42.082'
       u: אנטשולדיק מיר, פאר וועמען האבן זי געארבעט?
     - who: Raisel Roset
       start: '00:06:42.082'
-      end: '00:06:42.082'
+      end: '00:06:43.519'
       u: פאר דעם פירמער.
     - who: David Boder
       start: '00:06:43.519'
-      end: '00:06:43.519'
+      end: '00:06:46.222'
       u: פאר דעם פירמער?
     - who: Raisel Roset
       start: '00:06:46.222'
-      end: '00:06:46.222'
+      end: '00:06:46.856'
       u: א דויטשע פירמער.
     - who: David Boder
       start: '00:06:46.856'
-      end: '00:06:46.856'
+      end: '00:06:47.245'
       u: Uh huh. Yeah.
     - who: Raisel Roset
       start: '00:06:47.245'
-      end: '00:06:47.245'
+      end: '00:06:47.800'
       u: און אכער, זענען...
     - who: David Boder
       start: '00:06:47.800'
-      end: '00:06:47.800'
+      end: '00:06:52.144'
       u: "[In German/Yiddish] Haben Sie gut genumen zu Ihnen...[unklar]?"
     - who: Raisel Roset
       start: '00:06:52.144'
-      end: '00:06:52.144'
+      end: '00:06:53.925'
       u: "[In Yiddish] איינער יא, זי, זייער שלעכט."
     - who: David Boder
       start: '00:06:53.925'
-      end: '00:06:53.925'
+      end: '00:06:54.972'
       u: ". . . [?אומקלאר]"
     - who: Raisel Roset
       start: '00:06:54.972'
-      end: '00:06:54.972'
+      end: '00:07:01.566'
       u: ס’אט מיר...[אומקלאר?] געפעלט אויך. איך האב א סך מאל געהונגערט. זי איז זייער
         א שלעכטע פרוי געווען.
     - who: David Boder
       start: '00:07:01.566'
-      end: '00:07:01.566'
+      end: '00:07:02.722'
       u: און ער איז?
     - who: Raisel Roset
       start: '00:07:02.722'
-      end: '00:07:02.722'
+      end: '00:07:04.019'
       u: ער, ניט.
     - who: David Boder
       start: '00:07:04.019'
-      end: '00:07:04.019'
+      end: '00:07:04.706'
       u: "[In English] Alright."
     - who: Raisel Roset
       start: '00:07:04.706'
-      end: '00:07:04.706'
+      end: '00:07:17.596'
       u: "[In Yiddish] און דאן, נאך 02 מאנאט שווערע ארבעט, אין די געגנט [וואס איז]
         אקופירט געווארן פון די אמעריקאנער, און די האבן מיך באפרייט."
     - who: David Boder
       start: '00:07:17.596'
-      end: '00:07:17.596'
+      end: '00:07:19.268'
       u: נאך 02 מאנאט?
     - who: Raisel Roset
       start: '00:07:19.268'
-      end: '00:07:19.268'
+      end: '00:07:21.034'
       u: נאך 02 מאנאט ארבעט.
     - who: David Boder
       start: '00:07:21.034'
-      end: '00:07:21.034'
+      end: '00:07:21.425'
       u: Uh huh.
     - who: Raisel Roset
       start: '00:07:21.425'
-      end: '00:07:21.425'
+      end: '00:07:25.409'
       u: און די האבן מיך באפרייט און האבן מיך געשיקט ק’[יין] פאריז.
     - who: David Boder
       start: '00:07:25.409'
-      end: '00:07:25.409'
+      end: '00:07:26.237'
       u: "[In German] Wie?"
     - who: Raisel Roset
       start: '00:07:26.237'
-      end: '00:07:26.237'
+      end: '00:07:28.299'
       u: "[In Yiddish] קיין פראנקרייך. זיי האבן מיך געשיקט נאך פראנקרייך."
     - who: David Boder
       start: '00:07:28.299'
-      end: '00:07:28.299'
+      end: '00:07:29.033'
       u: "[In German] Sie haben...[unklar?] geschriben?"
     - who: Raisel Roset
       start: '00:07:29.033'
-      end: '00:07:29.033'
+      end: '00:07:29.454'
       u: "[In Yiddish] יא."
     - who: David Boder
       start: '00:07:29.454'
-      end: '00:07:29.454'
+      end: '00:07:30.423'
       u: "[In German] Warum?"
     - who: Raisel Roset
       start: '00:07:30.423'
-      end: '00:07:30.423'
+      end: '00:07:36.673'
       u: "[In Yiddish] איך האב זיי געבעטן."
     - who: David Boder
       start: '00:07:36.673'
-      end: '00:07:36.673'
+      end: '00:07:39.048'
       u: Oh.
     - who: Raisel Roset
       start: '00:07:39.048'
-      end: '00:07:39.048'
+      end: '00:07:43.126'
       u: איך וויל נאך פראנקרייך פארן; איך האב מורא ווידער זיין ביי די דייטשן ארבעטן
         ביי זיי, און בין איך אוועקגעשיקט נאך פראנקרייך.
     - who: David Boder
       start: '00:07:43.126'
-      end: '00:07:43.126'
+      end: '00:07:43.798'
       u: Oh.
     - who: Raisel Roset
       start: '00:07:43.798'
-      end: '00:07:43.798'
+      end: '00:07:44.127'
       u: און דא, בין איך ערשט אריין אין מיין גרויסן אומגליק.
     - who: David Boder
       start: '00:07:44.127'
-      end: '00:07:44.127'
+      end: '00:07:45.227'
       u: ". . . [?אומקלאר]"
     - who: Raisel Roset
       start: '00:07:45.227'
-      end: '00:07:45.227'
+      end: '00:07:58.127'
       u: כ’בין...[אומקלאר?] פון מיין גאנצע פאמיליע. פון א צו-הויכע פאמיליע, בין איך
         איינע געבליבן. און די שוועסטער און ברידער און אלץ. און לעצטנס בין איך געוואר
         אז אויך מיין מאן איז אומגעבראכט געווארן, ווי איך האב געזאגט.
     - who: David Boder
       start: '00:07:58.127'
-      end: '00:07:58.127'
+      end: '00:08:03.174'
       u: "[In German] Uh huh. Now, sagen Sie mir Mrs. Roset, was war Ihr Manns Beschäftigung
         before..."
     - who: Raisel Roset
       start: '00:08:03.174'
-      end: '00:08:03.174'
+      end: '00:08:05.205'
       u: "[In Yiddish] ער האט געהאט א מאנופאקטור געשעפט."
     - who: David Boder
       start: '00:08:05.205'
-      end: '00:08:05.205'
+      end: '00:08:06.251'
       u: "[In German] Wo?"
     - who: Raisel Roset
       start: '00:08:06.251'
-      end: '00:08:06.251'
+      end: '00:08:07.017'
       u: "[In Yiddish] אין זאמאשטש."
     - who: David Boder
       start: '00:08:07.017'
-      end: '00:08:07.017'
+      end: '00:08:07.783'
       u: אין זאמאשטש?
     - who: Raisel Roset
       start: '00:08:07.783'
-      end: '00:08:07.783'
+      end: '00:08:08.408'
       u: יא.
     - who: David Boder
       start: '00:08:08.408'
-      end: '00:08:08.408'
+      end: '00:08:13.345'
       u: "[In German] Und, Sie sagen mir warum diese zionistische..."
     - who: Raisel Roset
       start: '00:08:13.345'
-      end: '00:08:13.345'
+      end: '00:08:15.923'
       u: "[In Yiddish] פרעזידענט פון דער ציוניסטישער ארגאניזאציע אין זאמאשטש."
     - who: David Boder
       start: '00:08:15.923'
-      end: '00:08:15.923'
+      end: '00:08:18.798'
       u: "[In German] Alright. Haben Sie gehabt Kinder?"
     - who: Raisel Roset
       start: '00:08:18.798'
-      end: '00:08:18.798'
+      end: '00:08:19.157'
       u: "[In Yiddish] ניין."
     - who: David Boder
       start: '00:08:19.157'
-      end: '00:08:19.157'
+      end: '00:08:20.251'
       u: "[In German] Sie haben die kinderlos?"
     - who: Raisel Roset
       start: '00:08:20.251'
-      end: '00:08:20.251'
+      end: '00:08:21.439'
       u: Kinderlos—ja.
     - who: David Boder
       start: '00:08:21.439'
-      end: '00:08:21.439'
+      end: '00:08:22.595'
       u: Haben Sie Brüder oder Schwestern?
     - who: Raisel Roset
       start: '00:08:22.595'
-      end: '00:08:22.595'
+      end: '00:08:29.126'
       u: "[In Yiddish] צוויי ברידער, דריי שוועסטער מיט מענער, פרויען, קינדער, אלעס
         איז אומגעבראכט געווארן פון די דייטשן."
     - who: David Boder
       start: '00:08:29.126'
-      end: '00:08:29.126'
+      end: '00:08:33.329'
       u: "[In German] Eh, waren Sie im Konzentrationslager?"
     - who: Raisel Roset
       start: '00:08:33.329'
-      end: '00:08:33.329'
+      end: '00:08:34.892'
       u: Ich sag Dir...
     - who: David Boder
       start: '00:08:34.892'
-      end: '00:08:34.892'
+      end: '00:08:35.110'
       u: Nein.
     - who: Raisel Roset
       start: '00:08:35.110'
-      end: '00:08:35.110'
+      end: '00:08:37.617'
       u: "[In Yiddish/German] איך וואר אין אן ארבעטס-לאגער אין טשענסטאכאוו."
     - who: David Boder
       start: '00:08:37.617'
-      end: '00:08:37.617'
+      end: '00:08:38.000'
       u: ". . . [?אומקלאר]"
     - who: Raisel Roset
       start: '00:08:38.000'
-      end: '00:08:38.000'
+      end: '00:08:39.910'
       u: און פון דארט בין איך אנטלאפן, יא.
     - who: David Boder
       start: '00:08:39.910'
-      end: '00:08:39.910'
+      end: '00:08:44.188'
       u: "[In German/Yiddish] Uh huh. Was war der Arbetslager im Czestochow[a]? Erzähl
         mir wegen...[unklar?] dem."
     - who: Raisel Roset
       start: '00:08:44.188'
-      end: '00:08:44.188'
+      end: '00:08:46.472'
       u: Das war ein Lager das...[unklar?]
     - who: Raisel Roset
       start: '00:08:46.472'
-      end: '00:08:46.472'
+      end: '00:08:53.984'
       u: "[In Yiddish] ווען מ’אט געמאכט די אקציע אין טשענסטאכאוו, האט מען איבערגעלאזט
         פון 000,05 יידן, א משיעור 000,1."
     - who: David Boder
       start: '00:08:53.984'
-      end: '00:08:53.984'
+      end: '00:08:55.422'
       u: און וואס מיט די איבעריקע איז געווען?
     - who: Raisel Roset
       start: '00:08:55.422'
-      end: '00:08:55.422'
+      end: '00:09:24.499'
       u: די איבעריקע האט מען געשיקט אין די קרעמאטאריעס און די גאז-קאמערן. און פון
         די 000,4, האט מען אפגענומען א קליין שטח פון די שטאט, א פאר הינטערגאסן; דארט
         האט מען אונדז ארומגעצויגן מיט שטעכעדיקע דראט, און דארט האבן מיר געוווינט.
@@ -697,65 +697,65 @@ recording:
         פאבריקן.
     - who: David Boder
       start: '00:09:24.499'
-      end: '00:09:24.499'
+      end: '00:09:26.452'
       u: "[In German/Yiddish] Oh. Nu. In was für a Fabriken haben Sie gearbeitet?"
     - who: Raisel Roset
       start: '00:09:26.452'
-      end: '00:09:26.452'
+      end: '00:09:34.671'
       u: "[In Yiddish] ס’אבן געארבייט [געארבעט] אין - ביי ראביטשס [?] פאבריק...[אומקלאר?]
         פאבריק, אין דער פאבריק האסאג."
     - who: David Boder
       start: '00:09:34.671'
-      end: '00:09:34.671'
+      end: '00:09:36.202'
       u: "[In German] Wo?"
     - who: Raisel Roset
       start: '00:09:36.202'
-      end: '00:09:36.202'
+      end: '00:09:37.577'
       u: "[In Yiddish] האסאג, אן אמוניציע פאבריק."
     - who: David Boder
       start: '00:09:37.577'
-      end: '00:09:37.577'
+      end: '00:09:39.843'
       u: "[In German] Oh. Sag mir [?], far Robyczs [?] Fabrik..."
     - who: Raisel Roset
       start: '00:09:39.843'
-      end: '00:09:39.843'
+      end: '00:09:40.546'
       u: "[In Yiddish] פאר ראביטשס פאבריק."
     - who: David Boder
       start: '00:09:40.546'
-      end: '00:09:40.546'
+      end: '00:09:41.828'
       u: "[In German] Warum...[unklar]...Robycz...[unklar]?"
     - who: Raisel Roset
       start: '00:09:41.828'
-      end: '00:09:41.828'
+      end: '00:09:46.546'
       u: "[In Yiddish] פאר אלע פאבריקן זענען אונטערגעארדערט [?] געווארן אויף אמוניציע
         פאבריקן, זעלבפארשטענדלעך...."
     - who: David Boder
       start: '00:09:46.546'
-      end: '00:09:46.546'
+      end: '00:09:49.357'
       u: "[In German] Yeah. Und dort..."
     - who: Raisel Roset
       start: '00:09:49.357'
-      end: '00:09:49.357'
+      end: '00:10:02.163'
       u: "[In Yiddish] און דארט האבן די יידן געארבעט. און אכער, ס’איז פארגעקומען סעלעקציעס
         און ס’איז פארגעקומען דעפארטאציעס. די עלטערע האט מען באשיסט; יינגערע, האט מען
         - פון - ס’אט זיך געראטעוועט די וואס האבן געוואלט - זעלבפארשטענדלעך."
     - who: David Boder
       start: '00:10:02.163'
-      end: '00:10:02.163'
+      end: '00:10:10.594'
       u: "[In German/Yiddish] Ja. Sagen Sie, in diesen...[unklar/unclear?]. Sie haben
         gearbet in die Fabriken; wo haben Sie געשלאפן bei Nacht?"
     - who: Raisel Roset
       start: '00:10:10.594'
-      end: '00:10:10.594'
+      end: '00:10:14.591'
       u: "[In Yiddish] אין דער פרי האט מען געדארפן זיין אין דער פאבריק. אונדז ‘אב...6
         - 7"
     - who: David Boder
       start: '00:10:14.591'
-      end: '00:10:14.591'
+      end: '00:10:15.091'
       u: "[In English] Yeah."
     - who: Raisel Roset
       start: '00:10:15.091'
-      end: '00:10:15.091'
+      end: '00:10:35.403'
       u: "[In Yiddish] און דאס איז געווען א פאר קילאמעטער, האט מען - 6 אין דער פרי
         האבן זיך געעפנט די טויערן פונעם געטא - פון ארבייטס [ארבעטס]-לאגער. מ’אט ארויסגעלאזט
         די אלע ארבעטערס. זענען געגאנגען צו...[אומקלאר?] ארבעטן. זיבן פאר נאכט, איז
@@ -763,155 +763,155 @@ recording:
         רוים, מקום...[אומקלאר?]."
     - who: David Boder
       start: '00:10:35.403'
-      end: '00:10:35.403'
+      end: '00:10:36.215'
       u: "[In German] Das was?"
     - who: Raisel Roset
       start: '00:10:36.215'
-      end: '00:10:36.215'
+      end: '00:10:39.464'
       u: "[In Yiddish] דאס מקום...[אומקלאר?] דארט האט מען געוווינט."
     - who: David Boder
       start: '00:10:39.464'
-      end: '00:10:39.464'
+      end: '00:10:42.885'
       u: "[In German] Uh huh. Nu, sagt mir dis [this?]: Wo hat me gegessen?"
     - who: Raisel Roset
       start: '00:10:42.885'
-      end: '00:10:42.885'
+      end: '00:10:44.526'
       u: "[In Yiddish] געגעסן האט מען אין דער פאבריק."
     - who: David Boder
       start: '00:10:44.526'
-      end: '00:10:44.526'
+      end: '00:10:47.276'
       u: אין - אם מארגן און אין...?
     - who: Raisel Roset
       start: '00:10:47.276'
-      end: '00:10:47.276'
+      end: '00:10:49.995'
       u: אם מארגן, אין מיטאג, אין...
     - who: David Boder
       start: '00:10:49.995'
-      end: '00:10:49.995'
+      end: '00:10:52.869'
       u: דארטן האט מען נישט געצאלט עפעס געלט פאר דער ארבעט...?
     - who: Raisel Roset
       start: '00:10:52.869'
-      end: '00:10:52.869'
+      end: '00:10:57.165'
       u: איך זאג - דארטן נישט - איך זאג דיר - דאן מ’אט נאר געגעבן עסן.
     - who: David Boder
       start: '00:10:57.165'
-      end: '00:10:57.165'
+      end: '00:11:02.255'
       u: נו, ווען מען האט ניט געהאט עפעס - זייף, ציגארעטן, אזעלכע זאכן?
     - who: Raisel Roset
       start: '00:11:02.255'
-      end: '00:11:02.255'
+      end: '00:11:03.442'
       u: ניין.
     - who: David Boder
       start: '00:11:03.442'
-      end: '00:11:03.442'
+      end: '00:11:04.024'
       u: ניין.
     - who: Raisel Roset
       start: '00:11:04.024'
-      end: '00:11:04.024'
+      end: '00:11:07.602'
       u: ". . . ?]]’אט מען...[אומקלאר?] גארנישט געהאט"
     - who: David Boder
       start: '00:11:07.602'
-      end: '00:11:07.602'
+      end: '00:11:14.805'
       u: האבן די יידן געהאט מנינים - זייער שול - אין געטא?
     - who: Raisel Roset
       start: '00:11:14.805'
-      end: '00:11:14.805'
+      end: '00:11:18.461'
       u: וואו, אין געטא? נא.
     - who: David Boder
       start: '00:11:18.461'
-      end: '00:11:18.461'
+      end: '00:11:18.979'
       u: "[In English] No?"
     - who: Raisel Roset
       start: '00:11:18.979'
-      end: '00:11:18.979'
+      end: '00:11:19.212'
       u: "[In Yiddish] ניין."
     - who: David Boder
       start: '00:11:19.212'
-      end: '00:11:19.212'
+      end: '00:11:20.164'
       u: ניין - מ’אט זיי נישט דערלייבט?
     - who: Raisel Roset
       start: '00:11:20.164'
-      end: '00:11:20.164'
+      end: '00:11:23.398'
       u: "[In German/Yiddish] Nein, nein. Dort nisht. Dos war ein Arbeitslager."
     - who: David Boder
       start: '00:11:23.398'
-      end: '00:11:23.398'
+      end: '00:11:26.820'
       u: "[In Yiddish/German] און אויך געארבעט שבת און זאנטיג?"
     - who: Raisel Roset
       start: '00:11:26.820'
-      end: '00:11:26.820'
+      end: '00:11:29.664'
       u: זעלבספארשטענדלעך, זעלבספארשטענדלעך.
     - who: David Boder
       start: '00:11:29.664'
-      end: '00:11:29.664'
+      end: '00:00:00.'
       u: "[In German] Uh huh. Nu, haben Sie Verwanden [Verwandte] hier in Paris?"
     - who: Raisel Roset
       start: '00:00:00.'
-      end: '00:00:00.'
+      end: '00:11:35.055'
       u: Hier hab ich niemand.
     - who: David Boder
       start: '00:11:35.055'
-      end: '00:11:35.055'
+      end: '00:11:37.367'
       u: Hier haben Sie niemand. So, Sie haben gross...
     - who: David Boder
       start: '00:11:37.367'
-      end: '00:11:37.367'
+      end: '00:11:42.445'
       u: "[In Yiddish]...געפרעג - געבעטן די אמעריקאנערס, זיי זאלן צופירן"
     - who: Raisel Roset
       start: '00:11:42.445'
-      end: '00:11:42.445'
+      end: '00:11:44.960'
       u: איך האב געהערט אז אין פאריז איז שוין דא יידן.
     - who: David Boder
       start: '00:11:44.960'
-      end: '00:11:44.960'
+      end: '00:11:45.398'
       u: Aha.
     - who: Raisel Roset
       start: '00:11:45.398'
-      end: '00:11:45.398'
+      end: '00:11:58.303'
       u: דעריבער, האב איך געבעטן אז מע’ זאל מיך שיקן ק’[יין] פאריז. און ק’[יין] פאריז
         בין איך געקומען אלס אריאן. און דא האב איך זיך ערשט געווענדט צו דער - א יידישע
         געזעלשאפט, און כ’אב אויסגעגעבן אז איך בין א יידיש קינד.
     - who: David Boder
       start: '00:11:58.303'
-      end: '00:11:58.303'
+      end: '00:12:03.974'
       u: "[In German/Yiddish] Sagen Sie mir, wie haben Sie...[unklar?] Sie sind gewesen
         als an Aryan? Un die ganze Zeit in Lagers sind Sie gewesen als an Aryan?"
     - who: Raisel Roset
       start: '00:12:03.974'
-      end: '00:12:03.974'
+      end: '00:12:06.349'
       u: "[In Yiddish/German] אין ארבייטס-לאגער בין איך געוועזן א יידינען. ווען...[אומקלאר?]"
     - who: David Boder
       start: '00:12:06.349'
-      end: '00:12:06.349'
+      end: '00:12:08.193'
       u: "[In German]...[unklar?] Bei die Farmeren?"
     - who: Raisel Roset
       start: '00:12:08.193'
-      end: '00:12:08.193'
+      end: '00:12:10.880'
       u: "[In Yiddish] ביי די פארמערס, אן אריאן - זעלבספארשטענדלעך."
     - who: David Boder
       start: '00:12:10.880'
-      end: '00:12:10.880'
+      end: '00:12:17.489'
       u: "?האבן זי געצווונגען, אדער גע...[אומקלאר?] זאלן גיין אין קירך און זא ווייטער"
     - who: Raisel Roset
       start: '00:12:17.489'
-      end: '00:12:17.489'
+      end: '00:12:19.192'
       u: יא, איך בין געגאנגען אייניגע מאל...
     - who: David Boder
       start: '00:12:19.192'
-      end: '00:12:19.192'
+      end: '00:12:20.004'
       u: "?צו א קאטאלישן"
     - who: Raisel Roset
       start: '00:12:20.004'
-      end: '00:12:20.004'
+      end: '00:12:20.598'
       u: יא.
     - who: David Boder
       start: '00:12:20.598'
-      end: '00:12:20.598'
+      end: '00:12:37.878'
       u: "[In German/Yiddish] Und wen Sie haben...sagen Sie mir, hat Mann die Polische
         ähnlich gehandelt wie die יידן?"
     - who: Raisel Roset
       start: '00:12:37.878'
-      end: '00:12:37.878'
+      end: '00:12:51.893'
       u: "[In Yiddish] א, ניין. די פאלען האט מען פארשיקט דא אויף ארבעט, און יידן האט
         מען אומגעבראכט - גאנץ אנדערש. יידן האט מען דעפארטירט אין די גאז-קאמערן, אדער
         אין די קרעמאטאריען. און די פאלען - ווען מ’אט דעפארטירט, האט מען דעפארטירט
@@ -919,32 +919,32 @@ recording:
         פאפירן, אז מע’ זאל מיך נישט אוועקשיקן צו..."
     - who: David Boder
       start: '00:12:51.893'
-      end: '00:12:51.893'
+      end: '00:12:52.987'
       u: "[In German] Wer hat Ihnen gegeben die arische Papieren?"
     - who: Raisel Roset
       start: '00:12:52.987'
-      end: '00:12:52.987'
+      end: '00:12:54.237'
       u: "[In Yiddish] פאר געלט."
     - who: David Boder
       start: '00:12:54.237'
-      end: '00:12:54.237'
+      end: '00:12:56.361'
       u: פאר געלט? Uh huh.
     - who: Raisel Roset
       start: '00:12:56.361'
-      end: '00:12:56.361'
+      end: '00:12:57.829'
       u: ס’איז געמאכט געווארן.
     - who: David Boder
       start: '00:12:57.829'
-      end: '00:12:57.829'
+      end: '00:13:03.422'
       u: "[In German/Yiddish] Uh huh. Un den sind Sie gekommen nach Paris un jetzt
         hobn Sie gekommen zu wemen?"
     - who: Raisel Roset
       start: '00:13:03.422'
-      end: '00:13:03.422'
+      end: '00:13:03.919'
       u: "[In Yiddish/German] Hier [?]."
     - who: Raisel Roset
       start: '00:13:03.919'
-      end: '00:13:03.919'
+      end: '00:13:26.920'
       u: "[In Yiddish/French] איך זאג דיר [?], איך בין געקומען אין מיין פראנצויזישן
         אדינ...[אומקלאר?], און פון דארט, האב איך מיך אפגעגעבן אין פוילישן קאנסולאט,
         און דארט האב איך דערציילט אז איך בין א יידין, און געבעטן זיי זאלן מיר געבן
@@ -952,515 +952,515 @@ recording:
         געקומען מיר געגעבן, און דאן בין איך געווען אויף...[אומקלאר?] Boulevard d’Italien..."
     - who: David Boder
       start: '00:13:26.920'
-      end: '00:13:26.920'
+      end: '00:13:27.936'
       u: "[In German] Das war der Gesellschaft?"
     - who: Raisel Roset
       start: '00:13:27.936'
-      end: '00:13:27.936'
+      end: '00:13:50.028'
       u: "[In Yiddish] יא. און די יידישע געזעלשאפט, און די האבן מיך אריינגעגעבן אויף
         א פאבניצע [?] סעקרעטארן. דארט איז געוועזן א הויז פון דעפארטירטע, און דארטן
         איז געוועזן מיין לענגערע צייט."
     - who: David Boder
       start: '00:13:50.028'
-      end: '00:13:50.028'
+      end: '00:13:59.044'
       u: "[In German/Yiddish] Moment. Un den, wu wohnen Sie jetzt?"
     - who: Raisel Roset
       start: '00:13:59.044'
-      end: '00:13:59.044'
+      end: '00:14:07.803'
       u: "[In Yiddish/English] יעצט...און אכער אין beginning [?] איז געווארן...[אומקלאר?]
         הויז, בין איך געגאנגען וווינען אויף מעץ...[אומקלאר?]"
     - who: David Boder
       start: '00:14:07.803'
-      end: '00:14:07.803'
+      end: '00:14:08.928'
       u: "[In German] Das Ort...[unklar?]"
     - who: Raisel Roset
       start: '00:14:08.928'
-      end: '00:14:08.928'
+      end: '00:14:10.707'
       u: "[In Yiddish] און דארט איז ווו איך וווין ביזן היינטיגן טאג."
     - who: David Boder
       start: '00:14:10.707'
-      end: '00:14:10.707'
+      end: '00:14:12.815'
       u: "[In German] Und was ist das? A private...?"
     - who: Raisel Roset
       start: '00:14:12.815'
-      end: '00:14:12.815'
+      end: '00:14:22.047'
       u: "[In Yiddish] יעצט איז דאס - ניין. דאס איז אויך געוועזן א דעפארטירטן הויז,
         און אכער האט עס איבערגענומען דער קאנסיסטואר, ווייל דארט איז א סעמינאר - א
         ראבינער סעמינאר."
     - who: David Boder
       start: '00:14:22.047'
-      end: '00:14:22.047'
+      end: '00:14:22.984'
       u: Uh huh.
     - who: Raisel Roset
       start: '00:14:22.984'
-      end: '00:14:22.984'
+      end: '00:14:29.921'
       u: און קעגן מיך, האט מיך געבעטן אז מ’זאל מיך געבן ארבייט [ארבעט], און איך בין
         געבליבן דארטן וווינען.
     - who: David Boder
       start: '00:14:29.921'
-      end: '00:14:29.921'
+      end: '00:14:31.046'
       u: אין וואס ארבעטן זי דארט?
     - who: Raisel Roset
       start: '00:14:31.046'
-      end: '00:14:31.046'
+      end: '00:14:31.843'
       u: אלס קיך.
     - who: David Boder
       start: '00:14:31.843'
-      end: '00:14:31.843'
+      end: '00:14:37.171'
       u: "[In German/Yiddish] Sie arbetn als Kich un Sie kochen dort—und Sie kommen
         jeden Abend?"
     - who: Raisel Roset
       start: '00:14:37.171'
-      end: '00:14:37.171'
+      end: '00:14:39.312'
       u: In hier, am Abend.לערן איך זיך א פאך .
     - who: David Boder
       start: '00:14:39.312'
-      end: '00:14:39.312'
+      end: '00:14:39.968'
       u: Das mit die ORT.
     - who: Raisel Roset
       start: '00:14:39.968'
-      end: '00:14:39.968'
+      end: '00:14:40.389'
       u: "[In Yiddish] .יא"
     - who: David Boder
       start: '00:14:40.389'
-      end: '00:14:40.389'
+      end: '00:00:00.'
       u: "[In German/Yiddish] Und וואס lernen Sie hier?"
     - who: Raisel Roset
       start: '00:00:00.'
-      end: '00:00:00.'
+      end: '00:14:41.607'
       u: Hier? גארסעטן.
     - who: David Boder
       start: '00:14:41.607'
-      end: '00:14:41.607'
+      end: '00:14:42.841'
       u: "[In German/Yiddish] גארסעטן. Wann Sie haben es gelernt, was wollen Sie tun?"
     - who: Raisel Roset
       start: '00:14:42.841'
-      end: '00:14:42.841'
+      end: '00:14:47.356'
       u: "[In Yiddish] איך האב זיך דאך פארשריבן, שוין מיט א יאר צוריק - פארן נאך פאלעסטינע."
     - who: David Boder
       start: '00:14:47.356'
-      end: '00:14:47.356'
+      end: '00:14:51.949'
       u: "[In German/Yiddish] Sie haben Sich verschriben צ’ פארן נאך פאלע..."
     - who: Raisel Roset
       start: '00:14:51.949'
-      end: '00:14:51.949'
+      end: '00:14:53.433'
       u: "[In Yiddish] יא, שוין העכער ווי א יאר, איך האב זיך פארשריבן."
     - who: David Boder
       start: '00:14:53.433'
-      end: '00:14:53.433'
+      end: '00:14:56.464'
       u: "[In German/Yiddish] Wemen haben Sie in Palestina?"
     - who: Raisel Roset
       start: '00:14:56.464'
-      end: '00:14:56.464'
+      end: '00:14:57.230'
       u: Hab ich eine Kusin.
     - who: David Boder
       start: '00:14:57.230'
-      end: '00:14:57.230'
+      end: '00:14:58.652'
       u: Haben Sie geschriben zu Ihr?
     - who: Raisel Roset
       start: '00:14:58.652'
-      end: '00:14:58.652'
+      end: '00:15:00.948'
       u: "[In Yiddish] יא."
     - who: David Boder
       start: '00:15:00.948'
-      end: '00:15:00.948'
+      end: '00:15:02.713'
       u: "[In German/Yiddish] זאגט Sie das Sie sollen kommen?"
     - who: Raisel Roset
       start: '00:15:02.713'
-      end: '00:15:02.713'
+      end: '00:15:03.634'
       u: "[In Yiddish] א, זיכער."
     - who: David Boder
       start: '00:15:03.634'
-      end: '00:15:03.634'
+      end: '00:15:08.290'
       u: זאל דאס דאך זיין גוט. - נו, מיט אירע ערפארונגען - לאנדס-ארבייט
     - who: Raisel Roset
       start: '00:15:08.290'
-      end: '00:15:08.290'
+      end: '00:15:14.868'
       u: יא, איך וואלט דאס גערן געמאכט, אבער איך ווארט נאך אלץ און איך האב קיינע Erlaubnis
         פארן.
     - who: David Boder
       start: '00:15:14.868'
-      end: '00:15:14.868'
+      end: '00:15:16.962'
       u: א, יעצט [איצט] וועט עס באלד קאמען [קומען] .
     - who: David Boder
       start: '00:15:16.962'
-      end: '00:15:16.962'
+      end: '00:15:34.977'
       u: "[In German] Eh, ob Sie konnen mir ein Gefallen tun...Ich bin Professor un
         ich studier diese Sachen. Sehen Sie das Bild? Was denken Sie ist dis [this]?
         Bild, die...[unklar?]"
     - who: Raisel Roset
       start: '00:15:34.977'
-      end: '00:15:34.977'
+      end: '00:15:37.414'
       u: Was es gibt?
     - who: David Boder
       start: '00:15:37.414'
-      end: '00:15:37.414'
+      end: '00:15:44.991'
       u: Ja, was es meint. Wer denken Sie is es oder kann es sein?
     - who: Raisel Roset
       start: '00:15:44.991'
-      end: '00:15:44.991'
+      end: '00:15:49.319'
       u: Eine Mutter vielleicht was hat ihre Kinder verloren.
     - who: David Boder
       start: '00:15:49.319'
-      end: '00:15:49.319'
+      end: '00:15:54.959'
       u: A Mutter was hat gehat viele Kinder...Un was ist dis [this]?
     - who: Raisel Roset
       start: '00:15:54.959'
-      end: '00:15:54.959'
+      end: '00:15:57.521'
       u: "[In Yiddish/German] דאס איז איין יונגער קינד."
     - who: David Boder
       start: '00:15:57.521'
-      end: '00:15:57.521'
+      end: '00:16:00.412'
       u: Ja, un was denken Sie is hier?
     - who: Raisel Roset
       start: '00:16:00.412'
-      end: '00:16:00.412'
+      end: '00:16:08.599'
       u: Er denkt פון einer Melodie.
     - who: David Boder
       start: '00:16:08.599'
-      end: '00:16:08.599'
+      end: '00:16:11.614'
       u: Hmm...Un dis [this]?
     - who: Raisel Roset
       start: '00:16:11.614'
-      end: '00:16:11.614'
+      end: '00:16:17.817'
       u: "[In Yiddish] .דאס איז איין שטערבענדער [שטארבנדיקער]"
     - who: David Boder
       start: '00:16:17.817'
-      end: '00:16:17.817'
+      end: '00:16:18.364'
       u: "[In German] Ja..."
     - who: Raisel Roset
       start: '00:16:18.364'
-      end: '00:16:18.364'
+      end: '00:16:24.535'
       u: "[In Yiddish] דער...מאן בענטשט אים."
     - who: David Boder
       start: '00:16:24.535'
-      end: '00:16:24.535'
+      end: '00:16:28.613'
       u: Uh huh...און דאס?
     - who: Raisel Roset
       start: '00:16:28.613'
-      end: '00:16:28.613'
+      end: '00:16:39.550'
       u: דא אנטלויפט מען פון וואו, אנטלויפט מען פון וואו...
     - who: David Boder
       start: '00:16:39.550'
-      end: '00:16:39.550'
+      end: '00:16:42.332'
       u: "[In German/Yiddish] Uh huh. Un dis [this]?"
     - who: Raisel Roset
       start: '00:16:42.332'
-      end: 
+      end: !ruby/object:Nokogiri::XML::Text {}
       u: Uh, דאס איז das ausgeträumte Land פון עכט...
   translation:
     language: en
     interview:
     - who: David Boder
       start: '00:00:00.212'
-      end: '00:00:00.212'
+      end: '00:00:02.813'
       u: "[In German/Yiddish] Tell me please what is your name?"
     - who: Raisel Roset
       start: '00:00:02.813'
-      end: '00:00:02.813'
+      end: '00:00:09.192'
       u: Raisel Roset.
     - who: David Boder
       start: '00:00:09.192'
-      end: '00:00:09.192'
+      end: '00:00:10.549'
       u: What is your name?
     - who: Raisel Roset
       start: '00:00:10.549'
-      end: '00:00:10.549'
+      end: '00:00:12.219'
       u: Raisel Roset.
     - who: David Boder
       start: '00:00:12.219'
-      end: '00:00:12.219'
+      end: '00:00:13.469'
       u: Raisel?
     - who: Raisel Roset
       start: '00:00:13.469'
-      end: '00:00:13.469'
+      end: '00:00:14.438'
       u: Roset.
     - who: David Boder
       start: '00:00:14.438'
-      end: '00:00:14.438'
+      end: '00:00:16.172'
       u: Roset?
     - who: Raisel Roset
       start: '00:00:16.172'
-      end: '00:00:16.172'
+      end: '00:00:17.016'
       u: Yes.
     - who: David Boder
       start: '00:00:17.016'
-      end: '00:00:17.016'
+      end: '00:00:21.368'
       u: Was that your name in Poland too? [She apparently nods] Please talk, [laughter]
         otherwise one cannot...
     - who: Raisel Roset
       start: '00:00:21.368'
-      end: '00:00:21.368'
+      end: '00:00:21.915'
       u: Yes.
     - who: David Boder
       start: '00:00:21.915'
-      end: '00:00:21.915'
+      end: '00:00:25.446'
       u: And how old are you Mrs. Roset?
     - who: Raisel Roset
       start: '00:00:25.446'
-      end: '00:00:25.446'
+      end: '00:00:26.837'
       u: Fifty years old.
     - who: David Boder
       start: '00:00:26.837'
-      end: '00:00:26.837'
+      end: '00:00:28.868'
       u: You are fifty years old.
     - who: Raisel Roset
       start: '00:00:28.868'
-      end: '00:00:28.868'
+      end: '00:00:29.165'
       u: Yes.
     - who: David Boder
       start: '00:00:29.165'
-      end: '00:00:29.165'
+      end: '00:00:31.305'
       u: Are you married?
     - who: Raisel Roset
       start: '00:00:31.305'
-      end: '00:00:31.305'
+      end: '00:00:31.680'
       u: Yes.
     - who: David Boder
       start: '00:00:31.680'
-      end: '00:00:31.680'
+      end: '00:00:34.039'
       u: Where is your husband?
     - who: Raisel Roset
       start: '00:00:34.039'
-      end: '00:00:34.039'
+      end: '00:00:52.959'
       u: He was in the occup—...he was in the occupied parts of Poland, and when the
         German-Russian war broke out...since then there was no word from him; and
         now, unfortunately, I have learned that he had fallen.
     - who: David Boder
       start: '00:00:52.959'
-      end: '00:00:52.959'
+      end: '00:00:53.881'
       u: ". . . had fallen."
     - who: Raisel Roset
       start: '00:00:53.881'
-      end: '00:00:53.881'
+      end: '00:00:56.224'
       u: He has perished, he was put to death.
     - who: David Boder
       start: '00:00:56.224'
-      end: '00:00:56.224'
+      end: '00:00:56.771'
       u: Where?
     - who: Raisel Roset
       start: '00:00:56.771'
-      end: '00:00:56.771'
+      end: '00:00:58.974'
       u: That I don’t know yet.
     - who: David Boder
       start: '00:00:58.974'
-      end: '00:00:58.974'
+      end: '00:01:00.692'
       u: So how were you informed?
     - who: Raisel Roset
       start: '00:01:00.692'
-      end: '00:01:00.692'
+      end: '00:01:04.224'
       u: I learned about it. A cousin from Poland has notified me about it.
     - who: David Boder
       start: '00:01:04.224'
-      end: '00:01:04.224'
+      end: '00:01:04.724'
       u: Yes.
     - who: Raisel Roset
       start: '00:01:04.724'
-      end: '00:01:04.724'
+      end: '00:01:05.958'
       u: He was put to death in Kremenets.
     - who: David Boder
       start: '00:01:05.958'
-      end: '00:01:05.958'
+      end: '00:01:12.114'
       u: Ah...you have a cousin in Poland? [a female cousin]
     - who: Raisel Roset
       start: '00:01:12.114'
-      end: '00:01:12.114'
+      end: '00:01:14.801'
       u: A cousin of my husband.
     - who: David Boder
       start: '00:01:14.801'
-      end: '00:01:14.801'
+      end: '00:01:17.019'
       u: In Russian Poland or in free Poland? [Certain sections of Poland were to
         go over to Russia permanently—east of the Curzon line]
     - who: Raisel Roset
       start: '00:01:17.019'
-      end: '00:01:17.019'
+      end: '00:01:19.534'
       u: In free Poland.
     - who: David Boder
       start: '00:01:19.534'
-      end: '00:01:19.534'
+      end: '00:01:28.065'
       u: In free Poland. Now tell me, when did the Germans come...Where did you live?
     - who: Raisel Roset
       start: '00:01:28.065'
-      end: '00:01:28.065'
+      end: '00:01:30.190'
       u: I—in Janow [?]
     - who: David Boder
       start: '00:01:30.190'
-      end: '00:01:30.190'
+      end: '00:01:31.315'
       u: In...?
     - who: Raisel Roset
       start: '00:01:31.315'
-      end: '00:01:31.315'
+      end: '00:01:34.409'
       u: ". . . district of Lublin, Weimar [?], district of Lublin."
     - who: David Boder
       start: '00:01:34.409'
-      end: '00:01:34.409'
+      end: '00:01:36.268'
       u: ". . . district of Lublin. And that was Poland."
     - who: Raisel Roset
       start: '00:01:36.268'
-      end: '00:01:36.268'
+      end: '00:01:37.315'
       u: Yes.
     - who: David Boder
       start: '00:01:37.315'
-      end: '00:01:37.315'
+      end: '00:01:40.112'
       u: Yes. And who marched in there, the Russians?
     - who: Raisel Roset
       start: '00:01:40.112'
-      end: '00:01:40.112'
+      end: '00:01:40.705'
       u: The Germans.
     - who: David Boder
       start: '00:01:40.705'
-      end: '00:01:40.705'
+      end: '00:01:42.470'
       u: The Germans. Now tell me.
     - who: Raisel Roset
       start: '00:01:42.470'
-      end: '00:01:42.470'
+      end: '00:01:49.662'
       u: There were a few days, the Germans came in the 6th of ________. After a few
         days they left Janow and the Russians came in.
     - who: David Boder
       start: '00:01:49.662'
-      end: '00:01:49.662'
+      end: '00:01:50.631'
       u: Ah.
     - who: Raisel Roset
       start: '00:01:50.631'
-      end: '00:01:50.631'
+      end: '00:02:13.144'
       u: And then my husband went away with them[?] As president of the Zionist organization—and
         they were the first to be sent to concentration camps, so he left together
         with the Russians, for Dubno [?].
     - who: David Boder
       start: '00:02:13.144'
-      end: '00:02:13.144'
+      end: '00:02:13.988'
       u: Ah.
     - who: Raisel Roset
       start: '00:02:13.988'
-      end: '00:02:13.988'
+      end: '00:02:16.488'
       u: And afterwards for Kremenets.
     - who: David Boder
       start: '00:02:16.488'
-      end: '00:02:16.488'
+      end: '00:02:17.113'
       u: Yes.
     - who: Raisel Roset
       start: '00:02:17.113'
-      end: '00:02:17.113'
+      end: '00:02:29.022'
       u: All the time I received letters from him, but afterwards when the German-Russian
         war broke out, the correspondence was cut short.
     - who: David Boder
       start: '00:02:29.022'
-      end: '00:02:29.022'
+      end: '00:02:29.694'
       u: Nu...
     - who: Raisel Roset
       start: '00:02:29.694'
-      end: '00:02:29.694'
+      end: '00:02:42.087'
       u: I sent a special messenger to him; and he, in spite of being my relative
         [?] has deceived me, and told me that my husband has gone into Russia, deep
         into Russia.
     - who: David Boder
       start: '00:02:42.087'
-      end: '00:02:42.087'
+      end: '00:02:42.633'
       u: Yes.
     - who: Raisel Roset
       start: '00:02:42.633'
-      end: '00:02:42.633'
+      end: '00:02:48.164'
       u: I felt reassured. And then started our troubles in Poland.
     - who: David Boder
       start: '00:02:48.164'
-      end: '00:02:48.164'
+      end: '00:02:52.898'
       u: So who do you think killed your husband?
     - who: Raisel Roset
       start: '00:02:52.898'
-      end: '00:02:52.898'
+      end: '00:02:55.351'
       u: I don’t know yet.
     - who: David Boder
       start: '00:02:55.351'
-      end: '00:02:55.351'
+      end: '00:02:56.288'
       u: The Germans or the Russians?
     - who: Raisel Roset
       start: '00:02:56.288'
-      end: '00:02:56.288'
+      end: '00:02:59.225'
       u: I don’t know it yet. I have not yet found out.
     - who: David Boder
       start: '00:02:59.225'
-      end: '00:02:59.225'
+      end: '00:02:59.819'
       u: Yes.
     - who: Raisel Roset
       start: '00:02:59.819'
-      end: '00:02:59.819'
+      end: '00:03:03.131'
       u: Because they still are searching for me [??]
     - who: David Boder
       start: '00:03:03.131'
-      end: '00:03:03.131'
+      end: '00:03:04.256'
       u: Ah.
     - who: Raisel Roset
       start: '00:03:04.256'
-      end: '00:03:04.256'
+      end: '00:03:10.178'
       u: And then started by us the compulsory translocation.
     - who: David Boder
       start: '00:03:10.178'
-      end: '00:03:10.178'
+      end: '00:03:11.537'
       u: That was ordered by the Germans?
     - who: Raisel Roset
       start: '00:03:11.537'
-      end: '00:03:11.537'
+      end: '00:03:17.880'
       u: Yes. By the order of translocation the city of Janow was made completely
         Jew clean.
     - who: David Boder
       start: '00:03:17.880'
-      end: '00:03:17.880'
+      end: '00:03:18.489'
       u: Yes.
     - who: Raisel Roset
       start: '00:03:18.489'
-      end: '00:03:18.489'
+      end: '00:03:32.457'
       u: And all [Jewish] inhabitants of Janow were sent to a little town, twenty
         kilometers from Janow, to Yldiza [?] There the same thing started. One translocation
         followed after the other.
     - who: David Boder
       start: '00:03:32.457'
-      end: '00:03:32.457'
+      end: '00:03:34.222'
       u: Nu.
     - who: Raisel Roset
       start: '00:03:34.222'
-      end: '00:03:34.222'
+      end: '00:03:43.268'
       u: One day we noticed that our president of the Jewish council had run away.
         Then we understood that the liquidation has come [??]
     - who: David Boder
       start: '00:03:43.268'
-      end: '00:03:43.268'
+      end: '00:03:44.096'
       u: Yes.
     - who: Raisel Roset
       start: '00:03:44.096'
-      end: '00:03:44.096'
+      end: '00:03:48.096'
       u: And whoever...who had a chance saved himself, of course.
     - who: David Boder
       start: '00:03:48.096'
-      end: '00:03:48.096'
+      end: '00:03:44.096'
       u: Yes.
     - who: Raisel Roset
       start: '00:03:44.096'
-      end: '00:03:44.096'
+      end: '00:03:55.802'
       u: I, in hopes that my man was in Russia...so I obtained Aryan papers.
     - who: David Boder
       start: '00:03:55.802'
-      end: '00:03:55.802'
+      end: '00:03:57.114'
       u: What kind of papers? [The term was not familiar to the interviewer—hence
         the question.]
     - who: Raisel Roset
       start: '00:03:57.114'
-      end: '00:03:57.114'
+      end: '00:03:57.848'
       u: Aryan
     - who: David Boder
       start: '00:03:57.848'
-      end: '00:03:57.848'
+      end: '00:03:58.973'
       u: Aryan papers...
     - who: Raisel Roset
       start: '00:03:58.973'
-      end: '00:03:58.973'
+      end: '00:04:00.333'
       u: And ran away.
     - who: David Boder
       start: '00:04:00.333'
-      end: '00:04:00.333'
+      end: '00:04:00.974'
       u: Aha.
     - who: Raisel Roset
       start: '00:04:00.974'
-      end: '00:04:00.974'
+      end: '00:04:41.179'
       u: I ran to a Polish family I knew, and there I was six weeks. Afterwards, they
         did not want to keep me any more, because they were also in danger from the
         Germans if I should be found with them. So I picked up my kit and kaboodle
@@ -1470,388 +1470,388 @@ recording:
         I saw that this neither was a solution for me, and I went back to the Jew-lager.
     - who: David Boder
       start: '00:04:41.179'
-      end: '00:04:41.179'
+      end: '00:04:42.101'
       u: Ah...
     - who: Raisel Roset
       start: '00:04:42.101'
-      end: '00:04:42.101'
+      end: '00:04:44.444'
       u: Into the ghetto, back into the Jewish ghetto.
     - who: David Boder
       start: '00:04:44.444'
-      end: '00:04:44.444'
+      end: '00:04:45.053'
       u: Yes.
     - who: Raisel Roset
       start: '00:04:45.053'
-      end: '00:04:45.053'
+      end: '00:04:58.647'
       u: In the Jewish ghetto again the suffering began. Again deportations. I...they
         registered me for work in an ammunition factory. There I worked five months.
     - who: David Boder
       start: '00:04:58.647'
-      end: '00:04:58.647'
+      end: '00:04:59.413'
       u: Yes.
     - who: Raisel Roset
       start: '00:04:59.413'
-      end: '00:04:59.413'
+      end: '00:05:17.079'
       u: Afterwards I heard [a rumor] that there will be a selection. The older ones.
         They of course would be sent to gas chambers, and the younger ones were to
         remain. And I as an older women understood that the end was coming.
     - who: David Boder
       start: '00:05:17.079'
-      end: '00:05:17.079'
+      end: '00:05:18.173'
       u: Yes.
     - who: Raisel Roset
       start: '00:05:18.173'
-      end: '00:05:18.173'
+      end: '00:05:33.001'
       u: So I again started to look for means of salvation...I got myself again Aryan
         papers and escaped from Czestochowa. And then I was deported from the Polish
         side to Germany as an Aryan [woman], for work. There...
     - who: David Boder
       start: '00:05:33.001'
-      end: '00:05:33.001'
+      end: '00:05:35.876'
       u: Why did they deport the Aryans?
     - who: Raisel Roset
       start: '00:05:35.876'
-      end: '00:05:35.876'
+      end: '00:05:36.892'
       u: The Germans?
     - who: David Boder
       start: '00:05:36.892'
-      end: '00:05:36.892'
+      end: '00:05:37.783'
       u: Yes.
     - who: Raisel Roset
       start: '00:05:37.783'
-      end: '00:05:37.783'
+      end: '00:05:41.470'
       u: They deported me as an Aryan woman to Germany for work.
     - who: David Boder
       start: '00:05:41.470'
-      end: '00:05:41.470'
+      end: '00:05:43.345'
       u: They...took you for a German?
     - who: Raisel Roset
       start: '00:05:43.345'
-      end: '00:05:43.345'
+      end: '00:05:45.033'
       u: ". . . for a Polish woman."
     - who: David Boder
       start: '00:05:45.033'
-      end: '00:05:45.033'
+      end: '00:05:47.564'
       u: Aha, as a Polish woman. Nu.
     - who: Raisel Roset
       start: '00:05:47.564'
-      end: '00:05:47.564'
+      end: '00:05:52.079'
       u: I arrived in Germany and from there to Lorain.
     - who: David Boder
       start: '00:05:52.079'
-      end: '00:05:52.079'
+      end: '00:05:59.057'
       u: Ah.
     - who: Raisel Roset
       start: '00:05:59.057'
-      end: '00:05:59.057'
+      end: '00:05:59.494'
       u: Where?
     - who: Raisel Roset
       start: '00:05:59.494'
-      end: '00:05:59.494'
+      end: '00:06:00.494'
       u: In a field.
     - who: David Boder
       start: '00:06:00.494'
-      end: '00:06:00.494'
+      end: '00:06:01.150'
       u: Aha...
     - who: Raisel Roset
       start: '00:06:01.150'
-      end: '00:06:01.150'
+      end: '00:06:05.915'
       u: And there I worked for twenty months, a hard job [?].
     - who: David Boder
       start: '00:06:05.915'
-      end: '00:06:05.915'
+      end: '00:06:08.337'
       u: What kind of work was that?
     - who: Raisel Roset
       start: '00:06:08.337'
-      end: '00:06:08.337'
+      end: '00:06:09.946'
       u: Work on the earth.
     - who: David Boder
       start: '00:06:09.946'
-      end: '00:06:09.946'
+      end: '00:06:11.743'
       u: Work on the earth, work in the field?
     - who: Raisel Roset
       start: '00:06:11.743'
-      end: '00:06:11.743'
+      end: '00:06:17.319'
       u: Work on the earth, work in the gardens, around the home [?] everywhere...
     - who: David Boder
       start: '00:06:17.319'
-      end: '00:06:17.319'
+      end: '00:06:20.209'
       u: Oh, you worked as a house servant.
     - who: Raisel Roset
       start: '00:06:20.209'
-      end: '00:06:20.209'
+      end: '00:06:25.380'
       u: Housework, in the garden in the field, everywhere I worked.
     - who: David Boder
       start: '00:06:25.380'
-      end: '00:06:25.380'
+      end: '00:06:26.771'
       u: Yes. With whom, with the family?
     - who: Raisel Roset
       start: '00:06:26.771'
-      end: '00:06:26.771'
+      end: '00:06:39.895'
       u: With other people. There were others. There was a Russian girl, a deportee.
         There were two war prisoners. And together with them I worked for twenty months.
         Very, very hard work.
     - who: David Boder
       start: '00:06:39.895'
-      end: '00:06:39.895'
+      end: '00:06:42.082'
       u: Excuse me, for wom did you work.
     - who: Raisel Roset
       start: '00:06:42.082'
-      end: '00:06:42.082'
+      end: '00:06:43.519'
       u: "[excited] For the farmer."
     - who: David Boder
       start: '00:06:43.519'
-      end: '00:06:43.519'
+      end: '00:06:46.222'
       u: For the German...for a German farmer?
     - who: Raisel Roset
       start: '00:06:46.222'
-      end: '00:06:46.222'
+      end: '00:06:47.800'
       u: Yes. Afterwards...
     - who: David Boder
       start: '00:06:47.800'
-      end: '00:06:47.800'
+      end: '00:06:52.144'
       u: Did he treat you correctly. Did he...?
     - who: Raisel Roset
       start: '00:06:52.144'
-      end: '00:06:52.144'
+      end: '00:06:53.925'
       u: He—yes. She [treated me] very bad.
     - who: David Boder
       start: '00:06:53.925'
-      end: '00:06:53.925'
+      end: '00:06:54.972'
       u: And...
     - who: Raisel Roset
       start: '00:06:54.972'
-      end: '00:06:54.972'
+      end: '00:07:01.566'
       u: I even had not enough to eat. I hungered many times. She was a very bad woman.
     - who: David Boder
       start: '00:07:01.566'
-      end: '00:07:01.566'
+      end: '00:07:02.722'
       u: And he?
     - who: Raisel Roset
       start: '00:07:02.722'
-      end: '00:07:02.722'
+      end: '00:07:04.019'
       u: He not, he not [he was not bad].
     - who: David Boder
       start: '00:07:04.019'
-      end: '00:07:04.019'
+      end: '00:07:04.706'
       u: All right. [The first few days in France the interviewer automatically used
         many English words in his questions]
     - who: Raisel Roset
       start: '00:07:04.706'
-      end: '00:07:04.706'
+      end: '00:07:17.596'
       u: And then, after twenty months of hard work, this region was [subsequently]
         occupied by the Americans—and they have liberated me.
     - who: David Boder
       start: '00:07:17.596'
-      end: '00:07:17.596'
+      end: '00:07:19.268'
       u: After twenty months.
     - who: Raisel Roset
       start: '00:07:19.268'
-      end: '00:07:19.268'
+      end: '00:07:21.034'
       u: After twenty months of work.
     - who: David Boder
       start: '00:07:21.034'
-      end: '00:07:21.034'
+      end: '00:07:21.425'
       u: Aha.
     - who: Raisel Roset
       start: '00:07:21.425'
-      end: '00:07:21.425'
+      end: '00:07:25.409'
       u: They have liberated me, and sent me to Paris.
     - who: David Boder
       start: '00:07:25.409'
-      end: '00:07:25.409'
+      end: '00:07:26.237'
       u: Where?
     - who: Raisel Roset
       start: '00:07:26.237'
-      end: '00:07:26.237'
+      end: '00:07:28.299'
       u: To France, they sent me to France.
     - who: David Boder
       start: '00:07:28.299'
-      end: '00:07:28.299'
+      end: '00:07:29.033'
       u: The Americans? [She could have been left in a DP camp in Germany].
     - who: Raisel Roset
       start: '00:07:29.033'
-      end: '00:07:29.033'
+      end: '00:07:29.454'
       u: Yes.
     - who: David Boder
       start: '00:07:29.454'
-      end: '00:07:29.454'
+      end: '00:07:30.423'
       u: Why?
     - who: Raisel Roset
       start: '00:07:30.423'
-      end: '00:07:30.423'
+      end: '00:07:36.673'
       u: I pleaded with them, I want to go to France. I don’t want to be anymore with
         the Germans, and work for them further...
     - who: David Boder
       start: '00:07:36.673'
-      end: '00:07:36.673'
+      end: '00:07:39.048'
       u: Yes.
     - who: Raisel Roset
       start: '00:07:39.048'
-      end: '00:07:39.048'
+      end: '00:07:43.126'
       u: Here I learned of my great misfortune.
     - who: David Boder
       start: '00:07:43.126'
-      end: '00:07:43.126'
+      end: '00:07:43.798'
       u: Yes.
     - who: Raisel Roset
       start: '00:07:43.798'
-      end: '00:07:43.798'
+      end: '00:07:58.127'
       u: I learned about my whole family. From a large [?] family I remained the only
         one. And my sisters and bothers, and children and everybody. And the worst
         I learned was that my man was killed as I have told you.
     - who: David Boder
       start: '00:07:58.127'
-      end: '00:07:58.127'
+      end: '00:08:03.174'
       u: Ah. Now tell me Mrs. Roset, what was you husband’s occupation before?
     - who: Raisel Roset
       start: '00:08:03.174'
-      end: '00:08:03.174'
+      end: '00:08:05.205'
       u: He had a dry goods business.
     - who: David Boder
       start: '00:08:05.205'
-      end: '00:08:05.205'
+      end: '00:08:06.251'
       u: Where?
     - who: Raisel Roset
       start: '00:08:06.251'
-      end: '00:08:06.251'
+      end: '00:08:07.017'
       u: In Janow [She pronounces it like Zamoz].
     - who: David Boder
       start: '00:08:07.017'
-      end: '00:08:07.017'
+      end: '00:08:07.783'
       u: In Zamoz?
     - who: Raisel Roset
       start: '00:08:07.783'
-      end: '00:08:07.783'
+      end: '00:08:08.408'
       u: Yes.
     - who: David Boder
       start: '00:08:08.408'
-      end: '00:08:08.408'
+      end: '00:08:13.345'
       u: And you say that was with the Zionist organization?
     - who: Raisel Roset
       start: '00:08:13.345'
-      end: '00:08:13.345'
+      end: '00:08:15.923'
       u: President of the Zionist organization in Janow.
     - who: David Boder
       start: '00:08:15.923'
-      end: '00:08:15.923'
+      end: '00:08:18.798'
       u: All right. Did you have any children? Did you...
     - who: Raisel Roset
       start: '00:08:18.798'
-      end: '00:08:18.798'
+      end: '00:08:19.157'
       u: No.
     - who: David Boder
       start: '00:08:19.157'
-      end: '00:08:19.157'
+      end: '00:08:20.251'
       u: You were a childless family?
     - who: Raisel Roset
       start: '00:08:20.251'
-      end: '00:08:20.251'
+      end: '00:08:21.439'
       u: Childless...yes.
     - who: David Boder
       start: '00:08:21.439'
-      end: '00:08:21.439'
+      end: '00:08:22.595'
       u: Have you any brothers or sisters?
     - who: Raisel Roset
       start: '00:08:22.595'
-      end: '00:08:22.595'
+      end: '00:08:29.126'
       u: Two brothers, three sisters with husbands, wives, children, all killed by
         the Germans.
     - who: David Boder
       start: '00:08:29.126'
-      end: '00:08:29.126'
+      end: '00:08:33.329'
       u: Were you in a concentration camp?
     - who: Raisel Roset
       start: '00:08:33.329'
-      end: '00:08:33.329'
+      end: '00:08:35.110'
       u: I was not.
     - who: David Boder
       start: '00:08:35.110'
-      end: '00:08:35.110'
+      end: '00:08:35.595'
       u: Nu.
     - who: Raisel Roset
       start: '00:08:35.595'
-      end: '00:08:35.595'
+      end: '00:08:40.157'
       u: I was in a labor lager in Czestochowa, and from there I ran away. Yes.
     - who: David Boder
       start: '00:08:40.157'
-      end: '00:08:40.157'
+      end: '00:08:44.188'
       u: What was that labor lager in Czestochowa. Tell me about it.
     - who: Raisel Roset
       start: '00:08:44.188'
-      end: '00:08:44.188'
+      end: '00:08:53.984'
       u: That was a lager...when the action was made in Czestochowa, they left from
         fifty thousand Jews—[a mere] four thousand.
     - who: David Boder
       start: '00:08:53.984'
-      end: '00:08:53.984'
+      end: '00:08:55.422'
       u: And what happened to the others.
     - who: Raisel Roset
       start: '00:08:55.422'
-      end: '00:08:55.422'
+      end: '00:09:24.499'
       u: The others were sent away to the crematories and the gas chambers. And they
         assigned for these four thousand a small part of the city, a few small streets;
         these were fenced in with barbed wire, and there they lived. The workers from
         Janow [??] had to work all the time in the factories.
     - who: David Boder
       start: '00:09:24.499'
-      end: '00:09:24.499'
+      end: '00:09:26.452'
       u: In what kind of factories did they work?
     - who: Raisel Roset
       start: '00:09:26.452'
-      end: '00:09:26.452'
+      end: '00:09:34.671'
       u: They worked in the Norovitz [??] factory, and worked in the factory Hossak
         [??]...
     - who: David Boder
       start: '00:09:34.671'
-      end: '00:09:34.671'
+      end: '00:09:36.202'
       u: What?
     - who: Raisel Roset
       start: '00:09:36.202'
-      end: '00:09:36.202'
+      end: '00:09:37.577'
       u: Hossak, a munition factory.
     - who: David Boder
       start: '00:09:37.577'
-      end: '00:09:37.577'
+      end: '00:09:39.843'
       u: You say Norovitz’s factory...?
     - who: Raisel Roset
       start: '00:09:39.843'
-      end: '00:09:39.843'
+      end: '00:09:40.546'
       u: Norovitz’s.
     - who: David Boder
       start: '00:09:40.546'
-      end: '00:09:40.546'
+      end: '00:09:41.828'
       u: Who was Norovitz?
     - who: Raisel Roset
       start: '00:09:41.828'
-      end: '00:09:41.828'
+      end: '00:09:46.546'
       u: All factories were converted in munition factories, of course.
     - who: David Boder
       start: '00:09:46.546'
-      end: '00:09:46.546'
+      end: '00:09:49.357'
       u: Ah, yes. And there,...
     - who: Raisel Roset
       start: '00:09:49.357'
-      end: '00:09:49.357'
+      end: '00:10:02.163'
       u: And there the Jews worked. And afterwards selections were taking place, deportations
         took place. Some were deported, others...they acted, of course, they way they
         pleased.
     - who: David Boder
       start: '00:10:02.163'
-      end: '00:10:02.163'
+      end: '00:10:10.594'
       u: Yes. Now tell me, in these...you worked in a factory, and where did you sleep
         at night?
     - who: Raisel Roset
       start: '00:10:10.594'
-      end: '00:10:10.594'
+      end: '00:10:14.591'
       u: At seven in the morning one had to be in the factory.
     - who: David Boder
       start: '00:10:14.591'
-      end: '00:10:14.591'
+      end: '00:10:15.091'
       u: Yes.
     - who: Raisel Roset
       start: '00:10:15.091'
-      end: '00:10:15.091'
+      end: '00:10:35.403'
       u: That was a few kilometers away. At six in the morning the gates of the ghetto
         were opened, for the labor lager. All workers were let out, and they would
         go to work. Seven o’clock in the evening, they would return home into the
@@ -1859,390 +1859,390 @@ recording:
         had his corner [then follows the Hebrew word for place—mokum].
     - who: David Boder
       start: '00:10:35.403'
-      end: '00:10:35.403'
+      end: '00:10:36.215'
       u: What?
     - who: Raisel Roset
       start: '00:10:36.215'
-      end: '00:10:36.215'
+      end: '00:10:39.464'
       u: The mokum, which everybody was given, there one lived.
     - who: David Boder
       start: '00:10:39.464'
-      end: '00:10:39.464'
+      end: '00:10:42.885'
       u: Aha. Now tell where did they eat.
     - who: Raisel Roset
       start: '00:10:42.885'
-      end: '00:10:42.885'
+      end: '00:10:44.526'
       u: They ate at the factory.
     - who: David Boder
       start: '00:10:44.526'
-      end: '00:10:44.526'
+      end: '00:10:47.276'
       u: In the morning, and...?
     - who: Raisel Roset
       start: '00:10:47.276'
-      end: '00:10:47.276'
+      end: '00:10:49.995'
       u: In the morning, and at midday...
     - who: David Boder
       start: '00:10:49.995'
-      end: '00:10:49.995'
+      end: '00:10:52.869'
       u: Did they pay any money for the work?
     - who: Raisel Roset
       start: '00:10:52.869'
-      end: '00:10:52.869'
+      end: '00:10:57.165'
       u: They did not pay. I am telling you. They only gave food.
     - who: David Boder
       start: '00:10:57.165'
-      end: '00:10:57.165'
+      end: '00:11:02.255'
       u: Well if one needed something, some soap, cigarets, or such things...
     - who: Raisel Roset
       start: '00:11:02.255'
-      end: '00:11:02.255'
+      end: '00:11:03.442'
       u: "[she mumbles something like] We got nothing."
     - who: David Boder
       start: '00:11:03.442'
-      end: '00:11:03.442'
+      end: '00:11:04.024'
       u: Nothing [??].
     - who: Raisel Roset
       start: '00:11:04.024'
-      end: '00:11:04.024'
+      end: '00:11:07.602'
       u: "[an emotional sentence—not clear]"
     - who: David Boder
       start: '00:11:07.602'
-      end: '00:11:07.602'
+      end: '00:11:14.805'
       u: Yes. Did the Jews have there their prayer meetings, their synagogues? Did
         they have that in the ghetto?
     - who: Raisel Roset
       start: '00:11:14.805'
-      end: '00:11:14.805'
+      end: '00:11:18.461'
       u: In the ghetto, no?
     - who: David Boder
       start: '00:11:18.461'
-      end: '00:11:18.461'
+      end: '00:11:20.164'
       u: No? That was not permitted?
     - who: Raisel Roset
       start: '00:11:20.164'
-      end: '00:11:20.164'
+      end: '00:11:23.398'
       u: No. That was a labor lager.
     - who: David Boder
       start: '00:11:23.398'
-      end: '00:11:23.398'
+      end: '00:11:26.820'
       u: Aha. And they worked on Saturday and Sunday?
     - who: Raisel Roset
       start: '00:11:26.820'
-      end: '00:11:26.820'
+      end: '00:11:29.664'
       u: Of course. Of course.
     - who: David Boder
       start: '00:11:29.664'
-      end: '00:11:29.664'
+      end: '00:11:35.055'
       u: Aha. Now, do you have relatives here in Paris?
     - who: Raisel Roset
       start: '00:11:35.055'
-      end: '00:11:35.055'
+      end: '00:11:37.367'
       u: Here? I have nobody.
     - who: David Boder
       start: '00:11:37.367'
-      end: '00:11:37.367'
+      end: '00:11:42.445'
       u: You have nobody here. You simply have asked the Americans to send you.
     - who: Raisel Roset
       start: '00:11:42.445'
-      end: '00:11:42.445'
+      end: '00:11:44.960'
       u: I heard that here there are already Jews.
     - who: David Boder
       start: '00:11:44.960'
-      end: '00:11:44.960'
+      end: '00:11:45.398'
       u: Aha.
     - who: Raisel Roset
       start: '00:11:45.398'
-      end: '00:11:45.398'
+      end: '00:11:58.303'
       u: ". . . and that is why I asked, that they send me to Paris. And to Paris
         I came as an Aryan [woman]. Only here I appealed to a Jewish society, and
         I revealed that I am Jewish born."
     - who: David Boder
       start: '00:11:58.303'
-      end: '00:11:58.303'
+      end: '00:12:03.974'
       u: Now tell me, you lived as an Aryan [woman]. Did you live all the time in
         the lager as an Aryan woman?
     - who: Raisel Roset
       start: '00:12:03.974'
-      end: '00:12:03.974'
+      end: '00:12:06.349'
       u: In the labor camp I was a Jewess.
     - who: David Boder
       start: '00:12:06.349'
-      end: '00:12:06.349'
+      end: '00:12:08.193'
       u: As a Jewess. But with the farmer...
     - who: Raisel Roset
       start: '00:12:08.193'
-      end: '00:12:08.193'
+      end: '00:12:10.880'
       u: With the farmer I was an Aryan, of course.
     - who: David Boder
       start: '00:12:10.880'
-      end: '00:12:10.880'
+      end: '00:12:17.489'
       u: Were they compelling you...did they want you to go to church, did they?
     - who: Raisel Roset
       start: '00:12:17.489'
-      end: '00:12:17.489'
+      end: '00:12:19.192'
       u: Yes, I went a few times...
     - who: David Boder
       start: '00:12:19.192'
-      end: '00:12:19.192'
+      end: '00:12:20.004'
       u: To the Catholic [church]?
     - who: Raisel Roset
       start: '00:12:20.004'
-      end: '00:12:20.004'
+      end: '00:12:20.598'
       u: Yes.
     - who: David Boder
       start: '00:12:20.598'
-      end: '00:12:20.598'
+      end: '00:12:26.676'
       u: Nu. Tell me, did they treat the Poles the same way as the Jews?
     - who: Raisel Roset
       start: '00:12:26.676'
-      end: '00:12:26.676'
+      end: '00:12:37.519'
       u: Oh...no. The Poles were deported just for work, but the Jews were killed;
         very simply.
     - who: David Boder
       start: '00:12:37.519'
-      end: '00:12:37.519'
+      end: '00:12:37.878'
       u: But...
     - who: Raisel Roset
       start: '00:12:37.878'
-      end: '00:12:37.878'
+      end: '00:12:51.893'
       u: The Jews, when they were deported, were deported to the gas chambers, to
         the crematories. When the Poles were deported, they were deported to Germany,
         for work. That is why I had the Aryan papers, so that I should not be sent
         away...
     - who: David Boder
       start: '00:12:51.893'
-      end: '00:12:51.893'
+      end: '00:12:52.987'
       u: Who gave you the Aryan papers?
     - who: Raisel Roset
       start: '00:12:52.987'
-      end: '00:12:52.987'
+      end: '00:12:54.237'
       u: For money.
     - who: David Boder
       start: '00:12:54.237'
-      end: '00:12:54.237'
+      end: '00:12:56.361'
       u: For money, aha...
     - who: Raisel Roset
       start: '00:12:56.361'
-      end: '00:12:56.361'
+      end: '00:12:57.829'
       u: They were made [forged?].
     - who: David Boder
       start: '00:12:57.829'
-      end: '00:12:57.829'
+      end: '00:13:03.422'
       u: Aha...and then you came to Paris, and here you came to whom?
     - who: Raisel Roset
       start: '00:13:03.422'
-      end: '00:13:03.422'
+      end: '00:13:26.920'
       u: Here...I told you, I came to a French shelter; from there I was reported
         to the Polish consulate; and there I told them that I was a Jewess, and I
         asked them for an address of a Jewish society because I wanted...and so they
         gave it to me, and I went to...Boulevard d’Italien.
     - who: David Boder
       start: '00:13:26.920'
-      end: '00:13:26.920'
+      end: '00:13:27.936'
       u: What was there?
     - who: Raisel Roset
       start: '00:13:27.936'
-      end: '00:13:27.936'
+      end: '00:13:50.028'
       u: Yes. The Jewish society, and they later placed me in Famille [two words not
         clear] that was a home for the deported, and there I stayed for a considerable
         time.
     - who: David Boder
       start: '00:13:50.028'
-      end: '00:13:50.028'
+      end: '00:13:59.044'
       u: Yes. And the, where do you live now?
     - who: Raisel Roset
       start: '00:13:59.044'
-      end: '00:13:59.044'
+      end: '00:14:07.803'
       u: Now...afterwards, I was assigned to various bureaus [the last few words are
         not clear] and I went over to live on _______________ [she gives an address
         in French].
     - who: David Boder
       start: '00:14:07.803'
-      end: '00:14:07.803'
+      end: '00:14:08.928'
       u: And what is that?
     - who: Raisel Roset
       start: '00:14:08.928'
-      end: '00:14:08.928'
+      end: '00:14:10.707'
       u: ". . . where I live up to this day."
     - who: David Boder
       start: '00:14:10.707'
-      end: '00:14:10.707'
+      end: '00:14:12.815'
       u: And what is that? A private [place/?
     - who: Raisel Roset
       start: '00:14:12.815'
-      end: '00:14:12.815'
+      end: '00:14:22.047'
       u: Now there is...no, that too was a home for the deported, but afterwards the
         consistoire has taken it over; because there is a seminary, a Rabbi’s seminary.
     - who: David Boder
       start: '00:14:22.047'
-      end: '00:14:22.047'
+      end: '00:14:22.984'
       u: Aha...
     - who: Raisel Roset
       start: '00:14:22.984'
-      end: '00:14:22.984'
+      end: '00:14:29.921'
       u: ". . . and I...I requested that they give me work, and I remained living
         there."
     - who: David Boder
       start: '00:14:29.921'
-      end: '00:14:29.921'
+      end: '00:14:31.046'
       u: And what kind of work are you doing?
     - who: Raisel Roset
       start: '00:14:31.046'
-      end: '00:14:31.046'
+      end: '00:14:31.843'
       u: As a cook.
     - who: David Boder
       start: '00:14:31.843'
-      end: '00:14:31.843'
+      end: '00:14:37.171'
       u: You work there as a cook...you are cooking there...and you are coming here
         in the evening?
     - who: Raisel Roset
       start: '00:14:37.171'
-      end: '00:14:37.171'
+      end: '00:14:39.312'
       u: And here, I learn a trade in the evening.
     - who: David Boder
       start: '00:14:39.312'
-      end: '00:14:39.312'
+      end: '00:14:39.968'
       u: That is with the ORT.
     - who: Raisel Roset
       start: '00:14:39.968'
-      end: '00:14:39.968'
+      end: '00:14:40.389'
       u: Yes.
     - who: David Boder
       start: '00:14:40.389'
-      end: '00:14:40.389'
+      end: '00:14:41.607'
       u: And what are you learning here?
     - who: Raisel Roset
       start: '00:14:41.607'
-      end: '00:14:41.607'
+      end: '00:14:42.841'
       u: ". . . here? Corsets."
     - who: David Boder
       start: '00:14:42.841'
-      end: '00:14:42.841'
+      end: '00:14:47.356'
       u: Corsets...and after you have learned it, what do you want to do?
     - who: Raisel Roset
       start: '00:14:47.356'
-      end: '00:14:47.356'
+      end: '00:14:51.949'
       u: I have registered already a year ago to go to Palestine...
     - who: David Boder
       start: '00:14:51.949'
-      end: '00:14:51.949'
+      end: '00:14:53.433'
       u: You have registered to go to Pales—...
     - who: Raisel Roset
       start: '00:14:53.433'
-      end: '00:14:53.433'
+      end: '00:14:56.464'
       u: Yes...long ago [??] have I registered...
     - who: David Boder
       start: '00:14:56.464'
-      end: '00:14:56.464'
+      end: '00:14:57.230'
       u: Whom do you have in Palestine?
     - who: Raisel Roset
       start: '00:14:57.230'
-      end: '00:14:57.230'
+      end: '00:14:58.652'
       u: There I have a cousin [feminine].
     - who: David Boder
       start: '00:14:58.652'
-      end: '00:14:58.652'
+      end: '00:15:00.339'
       u: Have you written to her?
     - who: Raisel Roset
       start: '00:15:00.339'
-      end: '00:15:00.339'
+      end: '00:15:00.948'
       u: Yes.
     - who: David Boder
       start: '00:15:00.948'
-      end: '00:15:00.948'
+      end: '00:15:02.713'
       u: Does she want you to come?
     - who: Raisel Roset
       start: '00:15:02.713'
-      end: '00:15:02.713'
+      end: '00:15:03.634'
       u: But of course.
     - who: David Boder
       start: '00:15:03.634'
-      end: '00:15:03.634'
+      end: '00:15:08.290'
       u: With your experience in farm work it should be all right.
     - who: Raisel Roset
       start: '00:15:08.290'
-      end: '00:15:08.290'
+      end: '00:15:14.868'
       u: Oh yes, I should do it gladly, but what can I do, if I still have no permit
         to go...
     - who: David Boder
       start: '00:15:14.868'
-      end: '00:15:14.868'
+      end: '00:15:16.962'
       u: 'Oh, now it will come soon...[Note: During the first few interviews an exploratory
         attempt was made to give the TAT. This was given up because it was time consuming,
         and did not directly fit into the plans of the project. —D.P.B.]'
     - who: David Boder
       start: '00:15:16.962'
-      end: '00:15:16.962'
+      end: '00:15:34.977'
       u: Will you do me a favor...I am a professor, and I am making a study of these
         things...you see this picture? What do you think it is, what is it about?
     - who: Raisel Roset
       start: '00:15:34.977'
-      end: '00:15:34.977'
+      end: '00:15:37.414'
       u: What it is? [not clear]
     - who: David Boder
       start: '00:15:37.414'
-      end: '00:15:37.414'
+      end: '00:15:44.991'
       u: Yes, what does it mean? What do you think it is, or could it be?
     - who: Raisel Roset
       start: '00:15:44.991'
-      end: '00:15:44.991'
+      end: '00:15:49.319'
       u: Possibly a mother who has lost her children.
     - who: David Boder
       start: '00:15:49.319'
-      end: '00:15:49.319'
+      end: '00:15:54.959'
       u: A mother who has lost her children. And what is this?
     - who: Raisel Roset
       start: '00:15:54.959'
-      end: '00:15:54.959'
+      end: '00:15:57.521'
       u: That is a boy, a child.
     - who: David Boder
       start: '00:15:57.521'
-      end: '00:15:57.521'
+      end: '00:16:00.412'
       u: Yes...and what is it about?
     - who: Raisel Roset
       start: '00:16:00.412'
-      end: '00:16:00.412'
+      end: '00:16:08.599'
       u: He thinks of a melody.
     - who: David Boder
       start: '00:16:08.599'
-      end: '00:16:08.599'
+      end: '00:16:11.614'
       u: Hm. And this?
     - who: Raisel Roset
       start: '00:16:11.614'
-      end: '00:16:11.614'
+      end: '00:16:17.817'
       u: That is a dying [person]
     - who: David Boder
       start: '00:16:17.817'
-      end: '00:16:17.817'
+      end: '00:16:18.364'
       u: Yes...
     - who: Raisel Roset
       start: '00:16:18.364'
-      end: '00:16:18.364'
+      end: '00:16:24.535'
       u: And he...they bless him.
     - who: David Boder
       start: '00:16:24.535'
-      end: '00:16:24.535'
+      end: '00:16:28.613'
       u: Hm...and this?
     - who: Raisel Roset
       start: '00:16:28.613'
-      end: '00:16:28.613'
+      end: '00:16:36.768'
       u: "[In a solemn tone] People are running away from somewhere."
     - who: David Boder
       start: '00:16:36.768'
-      end: '00:16:36.768'
+      end: '00:16:37.065'
       u: Hm...
     - who: Raisel Roset
       start: '00:16:37.065'
-      end: '00:16:37.065'
+      end: '00:16:39.550'
       u: People are running away from somewhere. [Unfortunately the number of the
         card has not been recorded].
     - who: David Boder
       start: '00:16:39.550'
-      end: '00:16:39.550'
+      end: '00:16:42.332'
       u: So...and this?
     - who: Raisel Roset
       start: '00:16:42.332'
-      end: 
+      end: !ruby/object:Nokogiri::XML::Text {}
       u: That is possibly the land of dreams.
 transcript: {}
 translation: {}

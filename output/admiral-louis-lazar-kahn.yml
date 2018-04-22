@@ -30,12 +30,12 @@ recording:
     interview:
     - who: David Boder
       start: '00:00:07.658'
-      end: '00:00:07.658'
+      end: '00:00:21.965'
       u: "[In English] We are asking now, the Admiral, to conclude this nice family
         and household report. Will you tell us, when did you return to France?"
     - who: Louis Kahn
       start: '00:00:21.965'
-      end: '00:00:21.965'
+      end: '00:01:13.750'
       u: "[In French] Eh bien, Monsieur, puisque, grâce au Professeur Boder, vous
         pouvez assister à une scène de famille à Paris, j’en donnerais à sa demande
         la conclusion. Vous avez vu comment une famille française, dispersée, s’est
@@ -45,13 +45,13 @@ recording:
         avait finalement eu raison de l’envahisseur et des tyrans du continent."
     - who: David Boder
       start: '00:01:13.750'
-      end: '00:01:13.750'
+      end: '00:01:28.571'
       u: "[In English] What do you think, Admiral? When will it be possible for...that
         the French ships will begin to carry American guests and tourists again to
         France? We are all very eager to start it."
     - who: Louis Kahn
       start: '00:01:28.571'
-      end: '00:01:28.571'
+      end: '00:02:40.420'
       u: "[In French] Eh bien, mais je pense que ça viendra bientôt. Moi-même, avec
         le concours de l’ingénieur et des ouvriers de la Marine française, j’ai réussi
         à remettre en condition les trois cents milles tonnes de bâtiments de guerre
@@ -65,7 +65,7 @@ recording:
         son activité d’autrefois."
     - who: David Boder
       start: '00:02:40.420'
-      end: '00:02:40.420'
+      end: '00:03:22.765'
       u: "[In English] Now let me ask you a more serious question that was so much
         on the mind of Americans. I hope you can answer it, if you can. In America,
         there has been a tremendous propaganda from certain quarters that the war
@@ -73,7 +73,7 @@ recording:
         working. They were striking and were not cooperating for national defense."
     - who: Louis Kahn
       start: '00:03:22.765'
-      end: '00:03:22.765'
+      end: '00:07:32.396'
       u: "[In French] C’est une question très importante, en effet, à laquelle je
         désire répondre. Je crois que le grand problème qui a causé les difficultés
         de la guerre dans ses débuts et qui a si gravement compromis pendant des années
@@ -113,7 +113,7 @@ recording:
         qu’ils se préparent pour les temps critiques."
     - who: David Boder
       start: '00:07:32.396'
-      end: '00:07:32.396'
+      end: '00:08:12.446'
       u: "[In English] [aside] As I said before, I have to translate. I did not get
         the full statement, but I will have that translated. Could you think...? Here
         is another question. Do you have a large number of refugees? Among them, Jewish
@@ -121,7 +121,7 @@ recording:
         stay in France if they want to?"
     - who: Louis Kahn
       start: '00:08:12.446'
-      end: '00:08:12.446'
+      end: '00:11:31.034'
       u: "[In French] C’est en effet une question très importante que vous posez là.
         Vous savez que, en France, nous avons accueilli toujours très libéralement
         les réfugiés. Et il faut reconnaître que si d’autres pays ont été beaucoup
@@ -152,7 +152,7 @@ recording:
         propres réflexions, à remplir complètement leurs destinées d’hommes."
     - who: David Boder
       start: '00:11:31.034'
-      end: '00:11:31.034'
+      end: '00:12:28.571'
       u: "[In English] Now going from this to a more general question. Give us a little
         picture...you know, we know in America very little about it and only from
         the interviews here, I get the idea that the peaceful population in France
@@ -162,15 +162,15 @@ recording:
         their work? And are they repatriated now?"
     - who: Louis Kahn
       start: '00:12:28.571'
-      end: '00:12:28.571'
+      end: '00:12:31.327'
       u: "[In French] Eh bien, pour vous donner une simple idée..."
     - who: David Boder
       start: '00:12:31.327'
-      end: '00:12:31.327'
+      end: '00:12:32.881'
       u: "[In English] [interrupts] Think of the French people."
     - who: Louis Kahn
       start: '00:12:32.881'
-      end: '00:12:32.881'
+      end: '00:13:35.124'
       u: "[In French] Yes. Pour vous donner une simple idée des malheurs endurés par
         les Français, je voudrais vous donner un chiffre. Parmi mes amis, il y a soixante-sept
         personnes qui étaient ou mes parents ou des hommes chez lesquels j’avais l’habitude
@@ -181,11 +181,11 @@ recording:
         sa femme et avec son fils âgé de quinze ans. Quand les Allemands les ont arrêtés..."
     - who: David Boder
       start: '00:13:35.124'
-      end: '00:13:35.124'
+      end: '00:13:36.669'
       u: "[interrupts off mic]"
     - who: Louis Kahn
       start: '00:13:36.669'
-      end: '00:13:36.669'
+      end: '00:18:34.702'
       u: "[In French] Ils étaient juifs, oui. Quand les Allemands les ont arrêtés,
         quelques amis du même Corps, je veux dire, ce que vous appelez le Construction
         Corps, ce que nous appelons en France le Génie Maritime, ont tenté la démarche
@@ -229,7 +229,7 @@ recording:
         opération."
     - who: David Boder
       start: '00:18:34.702'
-      end: '00:18:34.702'
+      end: '00:19:48.187'
       u: "[In English] Well, it’s late. I could be listening and listening in spite
         of the fact that I don’t understand now. First of all, it’s in beautiful French
         and everything seems to be spoken with very great sentiment. Thank you very
@@ -241,7 +241,7 @@ recording:
         start their own study which they certainly could do better than I can."
     - who: Louis Kahn
       start: '00:19:48.187'
-      end: 
+      end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In French] Eh bien, je suis ravi de vous avoir entendu, Professeur Boder,
         et d’avoir par vous la possibilité de communiquer avec...[ends abruptly]"
   translation:
@@ -249,12 +249,12 @@ recording:
     interview:
     - who: David Boder
       start: '00:00:07.658'
-      end: '00:00:07.658'
+      end: '00:00:21.965'
       u: "[In English] We are asking now, the Admiral, to conclude this nice family
         and household report. Will you tell us, when did you return to France?"
     - who: Louis Kahn
       start: '00:00:21.965'
-      end: '00:00:21.965'
+      end: '00:01:13.750'
       u: "[In French] Well, Sir, since, thanks to Professor Boder, you are able to
         take part in this family evening in Paris, I would be happy to provide the
         closing remarks. You have seen how a French family, whose members were separated,
@@ -265,13 +265,13 @@ recording:
         continent."
     - who: David Boder
       start: '00:01:13.750'
-      end: '00:01:13.750'
+      end: '00:01:28.571'
       u: "[In English] What do you think, Admiral? When will it be possible for...that
         the French ships will begin to carry American guests and tourists again to
         France? We are all very eager to start it."
     - who: Louis Kahn
       start: '00:01:28.571'
-      end: '00:01:28.571'
+      end: '00:02:40.420'
       u: "[In French] Well, I think that day is coming soon. I myself, with the aid
         of Engineering and the workers in the French navy, I succeeded in refitting
         three hundred thousand tons of battleships that, among the Allied fleets,
@@ -285,7 +285,7 @@ recording:
         activity."
     - who: David Boder
       start: '00:02:40.420'
-      end: '00:02:40.420'
+      end: '00:03:22.765'
       u: "[In English] Now let me ask you a more serious question that was so much
         on the mind of Americans. I hope you can answer it, if you can. In America,
         there has been a tremendous propaganda from certain quarters that the war
@@ -298,7 +298,7 @@ recording:
         trench warfare stalemate of World War I.2"
     - who: Louis Kahn
       start: '00:03:22.765'
-      end: '00:03:22.765'
+      end: '00:07:32.396'
       u: "[In French] This is a very important question, in fact, and I would like
         to respond. I believe that the big problem that caused the difficulties of
         the war in the beginning and which for years so gravely compromised the world’s
@@ -350,7 +350,7 @@ recording:
         II.6"
     - who: David Boder
       start: '00:07:32.396'
-      end: '00:07:32.396'
+      end: '00:08:12.446'
       u: "[In English] [aside] As I said before, I have to translate. I did not get
         the full statement, but I will have that translated. Could you think...? Here
         is another question. Do you have a large number of refugees? Among them, Jewish
@@ -358,7 +358,7 @@ recording:
         stay in France if they want to?"
     - who: Louis Kahn
       start: '00:08:12.446'
-      end: '00:08:12.446'
+      end: '00:11:31.034'
       u: "[In French] That is, in fact, a very important issue that you bring up.
         You know that, in France, we have always very liberally welcomed refugees
         into our country. And it should be acknowledged that if other countries showed
@@ -407,7 +407,7 @@ recording:
         would be able “to completely fulfill their human destinies.”8"
     - who: David Boder
       start: '00:11:31.034'
-      end: '00:11:31.034'
+      end: '00:12:28.571'
       u: "[In English] Now going from this to a more general question. Give us a little
         picture...you know, we know in America very little about it and only from
         the interviews here, I get the idea that the peaceful population in France
@@ -417,15 +417,15 @@ recording:
         their work? And are they repatriated now?"
     - who: Louis Kahn
       start: '00:12:28.571'
-      end: '00:12:28.571'
+      end: '00:12:31.327'
       u: "[In French] Well, to give you a very simple idea..."
     - who: David Boder
       start: '00:12:31.327'
-      end: '00:12:31.327'
+      end: '00:12:32.881'
       u: "[In English] [interrupts] Think of the French people."
     - who: Louis Kahn
       start: '00:12:32.881'
-      end: '00:12:32.881'
+      end: '00:13:35.124'
       u: "[In French] Yes. To give you an idea of the hardships endured by the French,
         I would like to give you a figure. Among my friends, there are sixty-seven
         individuals who were either relatives or people in whose homes I would spend
@@ -436,11 +436,11 @@ recording:
         year old son. When the Germans arrested them..."
     - who: David Boder
       start: '00:13:35.124'
-      end: '00:13:35.124'
+      end: '00:13:36.669'
       u: "[interrupts off mic]"
     - who: Louis Kahn
       start: '00:13:36.669'
-      end: '00:13:36.669'
+      end: '00:18:34.702'
       u: "[In French] They were Jewish, yes.This further illustrates the reality that
         a number of native-born French Jews perished in the Holocaust.9 When the Germans
         arrested them, some friends from the same Corps, I mean what you call the
@@ -496,7 +496,7 @@ recording:
         by Admiral Kahn.13"
     - who: David Boder
       start: '00:18:34.702'
-      end: '00:18:34.702'
+      end: '00:19:48.187'
       u: "[In English] Well, it’s late. I could be listening and listening in spite
         of the fact that I don’t understand now. First of all, it’s in beautiful French
         and everything seems to be spoken with very great sentiment. Thank you very
@@ -508,7 +508,7 @@ recording:
         start their own study which they certainly could do better than I can."
     - who: Louis Kahn
       start: '00:19:48.187'
-      end: 
+      end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In French] Well, I am delighted to have heard you, Professor Boder, and
         to have the possibility, through you, to communicate with...[ends abruptly]"
 transcript: {}

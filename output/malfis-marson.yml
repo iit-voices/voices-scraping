@@ -31,25 +31,25 @@ recording:
     interview:
     - who: David Boder
       start: '00:00:00.513'
-      end: '00:00:00.513'
+      end: '00:00:11.680'
       u: "[In English] This begins a short interview with Monsieur Malfis Marson,
         a French Jewish citizen."
     - who: David Boder
       start: '00:00:11.680'
-      end: '00:00:11.680'
+      end: '00:00:15.815'
       u: "[In German] Monsieur Marson, äh, wo sind Sie geboren?"
     - who: Malfis Marson
       start: '00:00:15.815'
-      end: '00:00:15.815'
+      end: '00:00:19.316'
       u: "[In French] Je suis né à Paris."
     - who: David Boder
       start: '00:00:19.316'
-      end: '00:00:19.316'
+      end: '00:00:33.651'
       u: "[In German] Äh, wollen Sie mir bitte erzählen für unsere amerikanische Freunde,
         äh, wie was Sie getan haben during the den Krieg und die deutsche Okkupation."
     - who: Malfis Marson
       start: '00:00:33.651'
-      end: '00:00:33.651'
+      end: '00:01:38.583'
       u: "[In French] Durant la guerre, j’ai été comme tout Français mobilisé. J’ai
         fait l’Occupa...j’ai fait...une partie de la guerre dans les Corps Francs.
         Ensuite sur accident, j’ai été évacué dans le centre de la France. Jusqu’au
@@ -65,11 +65,11 @@ recording:
         Je suis...est-ce que je continue ?"
     - who: David Boder
       start: '00:01:38.583'
-      end: '00:01:38.583'
+      end: '00:01:39.549'
       u: Continuez.
     - who: Malfis Marson
       start: '00:01:39.549'
-      end: '00:01:39.549'
+      end: '00:02:35.006'
       u: Arrivé en zone libre après quelques péripéties, je me suis inquiété n’est-ce
         pas, de pouvoir trouver une occupation, j’ai repris mon ancien trav...mon
         ancien métier. Qui était tailleur avant la guerre, et j’ai travaillé...à Périgueux.
@@ -82,27 +82,27 @@ recording:
         le maquis.
     - who: David Boder
       start: '00:02:35.006'
-      end: '00:02:35.006'
+      end: '00:02:52.597'
       u: "[In English] What I want to know...how did the Resistance movement form
         itself? Was that the old French radical party...How did the Resistance movement
         come about? How did it organize?"
     - who: David Boder
       start: '00:02:52.597'
-      end: '00:02:52.597'
+      end: '00:02:55.977'
       u: "[In German] Wie hat sich die ganze [unverständlich]"
     - who: Interpreter
       start: '00:02:55.977'
-      end: '00:02:55.977'
+      end: '00:03:04.398'
       u: "[In French] Quels mouvements politiques ont participé à la création de ce
         [inaudible] ?"
     - who: David Boder
       start: '00:03:04.398'
-      end: '00:03:04.398'
+      end: '00:03:14.509'
       u: "[In German] Ja, wie hat sich die Resistenz gebildet? Wer, waren es die alten
         Partien? Ja, ja..."
     - who: Malfis Marson
       start: '00:03:14.509'
-      end: '00:03:14.509'
+      end: '00:04:47.046'
       u: "[In French] La Résistance de mon point de vue, d’après l’expérience que
         j’ai vécue par moi-même, a été surtout formée par des mouvements syndicaux
         et politiques avancés. Par des mouvements politiques, qui étaient excessivement,
@@ -121,20 +121,20 @@ recording:
         hommes et des hommes libres surtout."
     - who: David Boder
       start: '00:04:47.046'
-      end: '00:04:47.046'
+      end: '00:04:55.346'
       u: "[In English] Now, how was it...What elements of the population..."
     - who: Malfis Marson
       start: '00:04:55.346'
-      end: '00:04:55.346'
+      end: '00:04:56.825'
       u: "[In French] Je ne comprends pas..."
     - who: David Boder
       start: '00:04:56.825'
-      end: '00:04:56.825'
+      end: '00:05:10.870'
       u: "[In German] Was für Elemente der Bevölkerung haben angefangen zu kollaborieren,
         haben meistens kollaboriert mit die den Deutschen?"
     - who: Malfis Marson
       start: '00:05:10.870'
-      end: '00:05:10.870'
+      end: '00:06:19.032'
       u: "[In French] Les premiers collaborateurs à mon sens, étaient des ratés. Des
         hommes qui ont cru à ce moment que leur heure était arrivée, de grands jaloux,
         des hommes qui n’avaient eu aucun avenir devant eux, et qui se figuraient
@@ -150,17 +150,17 @@ recording:
         par intérêt, à proprement parler, par..."
     - who: David Boder
       start: '00:06:19.032'
-      end: '00:06:19.032'
+      end: '00:06:39.768'
       u: "[In Russian] Эээ...энд...эээ...мистер...эээ...господин [unintelligible]...эээ...спросите
         его вот что: эээ...в этой...как относились к этой станции военные?"
     - who: Interpreter
       start: '00:06:39.768'
-      end: '00:06:39.768'
+      end: '00:06:55.070'
       u: "[In French] Quelle était l’opinion des cercles militaires, et quelle était
         leur participation dans les mouvements de résistance ?"
     - who: Malfis Marson
       start: '00:06:55.070'
-      end: '00:06:55.070'
+      end: '00:08:11.617'
       u: Elle a été pour ainsi dire nulle au début. Parce que les militaires étaient,
         à mon point de vue n’est-ce pas, les militaires étaient disciplinés, à part
         quelques rares militaires français de carrière qui ont suivi de Gaulle, je
@@ -179,20 +179,20 @@ recording:
         politiques et surtout les organisations syndicales et ouvrières françaises.
     - who: David Boder
       start: '00:08:11.617'
-      end: '00:08:11.617'
+      end: '00:08:32.800'
       u: "[In Russian] Эээ...спросите его вот что: если он знает, как была интеллигенция,
         например университетские профессора и...эээ...вообще профессиональные люди,
         как адвокаты, врачи...и...эээ...эти...эээ...судьи и так далее?"
     - who: Interpreter
       start: '00:08:32.800'
-      end: '00:08:32.800'
+      end: '00:08:58.268'
       u: "[In French] Quel était le rapport entre les mouvements de résistance et
         quelle était l’action de résistance des intellectuels français, tels que les
         simples universitaires, les avocats, les médecins, enfin tous les représentants
         des professions libérales ?"
     - who: Malfis Marson
       start: '00:08:58.268'
-      end: '00:08:58.268'
+      end: '00:10:05.694'
       u: Euh...la jeunesse étudiante française...au début de l’Occupation a réagi
         vigoureusement. On a eu quelques manifestations le 11 novembre ’40, pour préciser,
         où il y a eu pas mal de bagarres entre les forces occupantes françaises...et
@@ -207,17 +207,17 @@ recording:
         qui ont collaboré.
     - who: David Boder
       start: '00:10:05.694'
-      end: '00:10:05.694'
+      end: '00:10:19.547'
       u: "[In Russian] Эээ...[unintelligible]...и как фармеры...эээ...агрикультурное
         население, как оно относилось к этой станции?"
     - who: Interpreter
       start: '00:10:19.547'
-      end: '00:10:19.547'
+      end: '00:10:26.881'
       u: "[In French] Quelle était la position de la population paysanne...[inaudible]...envers
         la Résistance ?"
     - who: Malfis Marson
       start: '00:10:26.881'
-      end: '00:10:26.881'
+      end: '00:11:23.202'
       u: Envers la résistance ? La position paysanne envers la Résistance était encore
         assez bonne dans son ensemble. Il faut dire une chose, c’est que le tempérament
         du paysan français est un tempérament uniquement individualiste, et égoïste,
@@ -228,23 +228,23 @@ recording:
         les éléments de la Résistance qui se sont adressés à lui.
     - who: David Boder
       start: '00:11:23.202'
-      end: '00:11:23.202'
+      end: '00:11:37.294'
       u: "[In English] How does he think will the situation now clear up in France
         and how will life become organized and what he expects when will France be
         back to normal?"
     - who: David Boder
       start: '00:11:37.294'
-      end: '00:11:37.294'
+      end: '00:11:49.035'
       u: "[In Russian] Как он ожидает, как он думает теперь: все это положение придет
         к нормальному и как скоро это будет нормально?"
     - who: Interpreter
       start: '00:11:49.035'
-      end: '00:11:49.035'
+      end: '00:12:04.499'
       u: "[In French] Qu’est-ce que tu penses de la situation actuelle ? Quand penses-tu
         que la situation actuelle va redevenir normale et par quels moyens ?"
     - who: Malfis Marson
       start: '00:12:04.499'
-      end: '00:12:04.499'
+      end: '00:13:05.417'
       u: A la suite de la guerre, naturellement, il y a pas mal de...de désorganisation,
         dans les moyens d’échange et de production en France. Je crois que, de mon
         point de vue, tant qu’il n’y aura pas d’accord complet entre...les ouvriers
@@ -257,11 +257,11 @@ recording:
         avec les Etats-Unis mais surtout l’Europe elle-même.
     - who: David Boder
       start: '00:13:05.417'
-      end: '00:13:05.417'
+      end: '00:13:12.788'
       u: Merci beaucoup Monsieur Marson.
     - who: David Boder
       start: '00:13:12.788'
-      end: 
+      end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] This finishes a brief interview with Monsieur Malfis Marson
         of the French Resistance Movement taken at the Schools of ORT on July 30,
         1946. Eh...how old is he? [Ends abruptly]."
@@ -270,25 +270,25 @@ recording:
     interview:
     - who: David Boder
       start: '00:00:00.513'
-      end: '00:00:00.513'
+      end: '00:00:11.680'
       u: "[In English] This begins a short interview with Monsieur Malfis Marson,
         a French-Jewish citizen."
     - who: David Boder
       start: '00:00:11.680'
-      end: '00:00:11.680'
+      end: '00:00:15.815'
       u: "[In German] Monsieur Marson, er, where were you born?"
     - who: Malfis Marson
       start: '00:00:15.815'
-      end: '00:00:15.815'
+      end: '00:00:19.316'
       u: "[In French] I was born in Paris."
     - who: David Boder
       start: '00:00:19.316'
-      end: '00:00:19.316'
+      end: '00:00:33.651'
       u: "[In German] Er, please would you tell me, for the benefit of our American
         friends, er, what you did during the war and the German occupation?"
     - who: Malfis Marson
       start: '00:00:33.651'
-      end: '00:00:33.651'
+      end: '00:01:38.583'
       u: "[In French] During the war, like every other Frenchmen, I was mobilized.
         I did the Occupa—...I spent...some part of the war in the Unofficial Forces.
         Then, by accident, I was moved to the centre of France; until the day the
@@ -303,11 +303,11 @@ recording:
         I am...should I go on?"
     - who: David Boder
       start: '00:01:38.583'
-      end: '00:01:38.583'
+      end: '00:01:39.549'
       u: Go on.
     - who: Malfis Marson
       start: '00:01:39.549'
-      end: '00:01:39.549'
+      end: '00:02:35.006'
       u: Once I had reached the free zone after a number of incidents, I tried, right,
         to find something to do. I resumed my former job...my former occupation. I
         was a cutter, before the war, and I worked...in Périgueux. I stayed there
@@ -320,27 +320,27 @@ recording:
         in the Maquis.
     - who: David Boder
       start: '00:02:35.006'
-      end: '00:02:35.006'
+      end: '00:02:52.597'
       u: "[In English] What I want to know...how did the Resistance movement form
         itself? Was that the old French radical party...How did the Resistance movement
         come about? How did it organize?"
     - who: David Boder
       start: '00:02:52.597'
-      end: '00:02:52.597'
+      end: '00:02:55.977'
       u: "[In German] How did the entire [unintelligible]"
     - who: Interpreter
       start: '00:02:55.977'
-      end: '00:02:55.977'
+      end: '00:03:04.398'
       u: "[In French] Which political movements contributed to the creation of this
         [inaudible]?"
     - who: David Boder
       start: '00:03:04.398'
-      end: '00:03:04.398'
+      end: '00:03:14.509'
       u: "[In German] Yes, how was the French Resistance movement formed? Who were
         the original parties? Yes, yes..."
     - who: Malfis Marson
       start: '00:03:14.509'
-      end: '00:03:14.509'
+      end: '00:04:47.046'
       u: "[In French] In my opinion, the Resistance movement, from my own experience,
         was mainly formed by highly developed trade unions and political movements.
         By political movements, which were acutely, remarkably anti-Naz—...anti...anti-fascist.
@@ -357,20 +357,20 @@ recording:
         and second, help us become better men and, above all, free men."
     - who: David Boder
       start: '00:04:47.046'
-      end: '00:04:47.046'
+      end: '00:04:55.346'
       u: "[In English] Now, how was it...What elements of the population..."
     - who: Malfis Marson
       start: '00:04:55.346'
-      end: '00:04:55.346'
+      end: '00:04:56.825'
       u: "[In French] I don’t understand..."
     - who: David Boder
       start: '00:04:56.825'
-      end: '00:04:56.825'
+      end: '00:05:10.870'
       u: "[In German] What elements of the population started to collaborate, and
         who collaborated closest with the Germans?"
     - who: Malfis Marson
       start: '00:05:10.870'
-      end: '00:05:10.870'
+      end: '00:06:19.032'
       u: "[In French] As I see it, the first collaborationists were failures. Men
         who then thought that their time had come, very jealous men, men who did not
         have a great future ahead of them, imagining that their brutal feelings, not
@@ -385,18 +385,18 @@ recording:
         strictly speaking, out of..."
     - who: David Boder
       start: '00:06:19.032'
-      end: '00:06:19.032'
+      end: '00:06:39.768'
       u: "[In Russian] Uh...and...uh...mister...uh...sir [unintelligible]...uh...could
         you ask him about...uh...what...was the opinion of the military about this
         station?"
     - who: Interpreter
       start: '00:06:39.768'
-      end: '00:06:39.768'
+      end: '00:06:55.070'
       u: "[In French] What was the opinion of the military circles, and how did they
         contribute to the resistance movements?"
     - who: Malfis Marson
       start: '00:06:55.070'
-      end: '00:06:55.070'
+      end: '00:08:11.617'
       u: They, so to speak, did not contribute at all in the beginning, because servicemen
         were, in my opinion, right, servicemen were obedient, except for a few rare
         French career officers who followed de Gaulle, I would not say from the beginning,
@@ -413,20 +413,20 @@ recording:
         party members and mostly by the French trade unions and workers’ organizations.
     - who: David Boder
       start: '00:08:11.617'
-      end: '00:08:11.617'
+      end: '00:08:32.800'
       u: "[In Russian] Uh...could you ask him whether...he knows about the intellectuals
         such as university professors and...uh...just professionals in general such
         as lawyers, doctors...and...uh...these...uh...judges, etc.?"
     - who: Interpreter
       start: '00:08:32.800'
-      end: '00:08:32.800'
+      end: '00:08:58.268'
       u: "[In French] What was the relationship between the resistance movements,
         and what kind of resistance action was taken by French intellectuals, such
         as simple university teachers, lawyers, physicians, well, all the representatives
         from liberal professions?"
     - who: Malfis Marson
       start: '00:08:58.268'
-      end: '00:08:58.268'
+      end: '00:10:05.694'
       u: Well...young French students...at the beginning of the Occupation, reacted
         very strongly. There were some demonstrations on November 11th, 1940, to be
         more specific, during which there were quite a number of fights between the
@@ -441,17 +441,17 @@ recording:
         collaborated.
     - who: David Boder
       start: '00:10:05.694'
-      end: '00:10:05.694'
+      end: '00:10:19.547'
       u: "[In Russian] Uh...[unintelligible]...and farmers...uh...the agricultural
         population, what was their opinion of this station?"
     - who: Interpreter
       start: '00:10:19.547'
-      end: '00:10:19.547'
+      end: '00:10:26.881'
       u: "[In French] What stand did the rural population take...[inaudible]...on
         the Resistance movement?"
     - who: Malfis Marson
       start: '00:10:26.881'
-      end: '00:10:26.881'
+      end: '00:11:23.202'
       u: On the Resistance movement? The rural stance, with regard to the Resistance
         movement, generally remained rather good. One thing should be said here, that
         French peasants are of an individualistic and selfish nature, they are only
@@ -462,23 +462,23 @@ recording:
         Resistance movement asking for their support.
     - who: David Boder
       start: '00:11:23.202'
-      end: '00:11:23.202'
+      end: '00:11:37.294'
       u: "[In English] How does he think will the situation now clear up in France,
         and how will life become organized, and what he expects...when will France
         be back to normal?"
     - who: David Boder
       start: '00:11:37.294'
-      end: '00:11:37.294'
+      end: '00:11:49.035'
       u: "[In Russian] Does he expect, does he think now that this situation will
         ever be normal again and when will it get normal?"
     - who: Interpreter
       start: '00:11:49.035'
-      end: '00:11:49.035'
+      end: '00:12:04.499'
       u: "[In French] What is your opinion about the current situation? When do you
         think the current situation will be back to normal, and how?"
     - who: Malfis Marson
       start: '00:12:04.499'
-      end: '00:12:04.499'
+      end: '00:13:05.417'
       u: In the aftermath of the war, of course, there is a lot of...of disorganization,
         in the trade and production resources in France. I think that, in my opinion,
         until a complete agreement is reached between...the workers on one side and
@@ -490,11 +490,11 @@ recording:
         not say not only with the United States, but mainly with Europe as it is.
     - who: David Boder
       start: '00:13:05.417'
-      end: '00:13:05.417'
+      end: '00:13:12.788'
       u: Thank you very much Mr. Marson.
     - who: David Boder
       start: '00:13:12.788'
-      end: 
+      end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] This finishes the brief interview with Monsieur Malfis Marson
         of the French Resistance Movement taken at the Schools of ORT on July 30,
         1946. Eh...how old is he? [Ends abruptly]."

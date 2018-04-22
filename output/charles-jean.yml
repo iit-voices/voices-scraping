@@ -30,7 +30,7 @@ recording:
     interview:
     - who: David Boder
       start: '00:00:00.516'
-      end: '00:00:00.516'
+      end: '00:00:37.265'
       u: "[In English] We are still continuing...We are still continuing the charming
         evening at the home of Admiral Kahn, and we are now inteviewing his present
         chauffeur who, I am told, was active in the Resistance. Madame Kahn will help
@@ -38,17 +38,17 @@ recording:
         and how old he is?"
     - who: Charles Jean
       start: '00:00:37.265'
-      end: '00:00:37.265'
+      end: '00:00:42.513'
       u: "[In French] Alors Charles Jean [exact spelling unknown], 31 ans."
     - who: David Boder
       start: '00:00:42.513'
-      end: '00:00:42.513'
+      end: '00:01:04.688'
       u: "[In English] Now, Charles, will you ask him to tell us what he remembers
         from the time the war started where he was? And then what was he doing, gradually,
         until liberation."
     - who: Charles Jean
       start: '00:01:04.688'
-      end: '00:01:04.688'
+      end: '00:01:54.987'
       u: "[In French] Je suis parti le 26 août 1939, j’étais mobilisé à Dunkerque
         dans le Maine, et j’étais prisonnier le 4 juin 1940. Je me suis évadé de Dunkerque
         le 25 juin 1940, et je suis rentré chez moi à Vichy. Par la suite, j’étais...je
@@ -58,12 +58,12 @@ recording:
         d’Auvergne, aux Brugerons à côté d’Olliergues."
     - who: David Boder
       start: '00:01:54.987'
-      end: '00:01:54.987'
+      end: '00:02:26.040'
       u: "[In English] Would you ask him...[unintelligible aside to interpreter] Will
         you ask him to tell us, what does the word “Maquis” mean?"
     - who: Charles Jean
       start: '00:02:26.040'
-      end: '00:02:26.040'
+      end: '00:05:05.157'
       u: "[In French] Alors, un Maquis, le Maquis où j’étais...nous faisions partie
         des Francs-tireurs et partisans français, nous étions en général de jeunes
         hommes commandés par un Commandant, tout un état-major. Nous étions commandés
@@ -97,11 +97,11 @@ recording:
         que les sept miliciens qui se trouvaient là."
     - who: David Boder
       start: '00:05:05.157'
-      end: '00:05:05.157'
+      end: '00:05:11.830'
       u: "[In English] [interrupts] All right, now...continuez."
     - who: Charles Jean
       start: '00:05:11.830'
-      end: '00:05:11.830'
+      end: '00:05:40.237'
       u: "[In French] Après, c’est à ce moment que la garde du Maréchal sont venus
         nous rejoindre pour libérer le reste du secteur qui se trouvait encore quelques
         Allemands. Ensuite, la guerre était finie pour nous. Nous avons été casernés
@@ -109,7 +109,7 @@ recording:
         fini. Je suis retourné dans mon foyer."
     - who: David Boder
       start: '00:05:40.237'
-      end: '00:05:40.237'
+      end: '00:06:43.771'
       u: "[In English] Was he taken prisoner by the Germans? [off mic with interpreter]
         No, afterwards, when he was in the Maquis. Was he never taken prisoner? [off
         mic with interpreter] He was taken for compulsory...[more than one person
@@ -118,17 +118,17 @@ recording:
         we find him? Where was he when...? Who came in? The English or the Americans?"
     - who: Marcelle Kahn
       start: '00:06:43.771'
-      end: '00:06:43.771'
+      end: '00:06:46.294'
       u: "[In French] Quelles étaient les premières troupes alliées que vous avez
         vues?"
     - who: Charles Jean
       start: '00:06:46.294'
-      end: '00:06:46.294'
+      end: '00:06:58.076'
       u: Les premières troupes alliées, ce sont des Américains et...les Américains
         et les Français. A Thiers.
     - who: David Boder
       start: '00:06:58.076'
-      end: '00:06:58.076'
+      end: '00:07:58.957'
       u: "[In English] So how did the French troops from there leave, right there
         after the.... . . Now how did it come out? There were French troops. That
         I know, where were they during that time? [aside to interpreter] Whose organization
@@ -139,62 +139,62 @@ recording:
         voices talking at once]"
     - who: David Boder
       start: '00:07:58.957'
-      end: '00:07:58.957'
+      end: '00:08:06.014'
       u: "[In English] And they were combined with the troops from Africa."
     - who: David Boder
       start: '00:08:06.014'
-      end: '00:08:06.014'
+      end: '00:08:24.496'
       u: So when the regular troops came in, did the Maquis continue to do partisan
         work? [unintelligible discussion off mic]
     - who: David Boder
       start: '00:08:24.496'
-      end: '00:08:24.496'
+      end: '00:08:29.631'
       u: Well, what are you doing now?
     - who: Charles Jean
       start: '00:08:29.631'
-      end: '00:08:29.631'
+      end: '00:08:36.652'
       u: "[In French] Maintenant, je suis chauffeur d’Ingénieur Général Kahn et je
         suis très content, je suis très bien."
     - who: David Boder
       start: '00:08:36.652'
-      end: '00:08:36.652'
+      end: '00:08:44.918'
       u: "[In English] [to interpreter] Well, that’s good. And uh, how old is he?"
     - who: Charles Jean
       start: '00:08:44.918'
-      end: '00:08:44.918'
+      end: '00:08:47.416'
       u: "[In French] Trente-et-un ans."
     - who: David Boder
       start: '00:08:47.416'
-      end: '00:08:47.416'
+      end: '00:08:51.489'
       u: "[In English] Are you married?"
     - who: Charles Jean
       start: '00:08:51.489'
-      end: '00:08:51.489'
+      end: '00:08:52.687'
       u: "[In French] Oui."
     - who: David Boder
       start: '00:08:52.687'
-      end: '00:08:52.687'
+      end: '00:08:57.236'
       u: "[In English] [to interpreter] Was he married before the war?"
     - who: Charles Jean
       start: '00:08:57.236'
-      end: '00:08:57.236'
+      end: '00:09:01.309'
       u: "[In French] Ah, non, non, pas avant la guerre, je me suis marié que maintenant."
     - who: David Boder
       start: '00:09:01.309'
-      end: '00:09:01.309'
+      end: '00:09:09.109'
       u: "[In English] He was alone.... Were there many married Maquis?"
     - who: Charles Jean
       start: '00:09:09.109'
-      end: '00:09:09.109'
+      end: '00:09:12.962'
       u: "[In French] Ah oui, beaucoup, beaucoup, beaucoup d’hommes mariés."
     - who: David Boder
       start: '00:09:12.962'
-      end: '00:09:12.962'
+      end: '00:09:23.462'
       u: "[In English] Well, didn’t their families get into trouble because of the
         Maquis?"
     - who: Charles Jean
       start: '00:09:23.462'
-      end: '00:09:23.462'
+      end: '00:10:00.033'
       u: "[In French] Ah, oui, oui, à Clermont-Ferrand, pas mal de nos camarades trouvaient
         leurs femmes et leurs enfants ennuyés par la Gestapo parce qu’eux-mêmes s’étaient
         rendus aux Maquis. Et nous avons organisé d’ailleurs pour les femmes de ces
@@ -206,11 +206,11 @@ recording:
         près de nous."
     - who: David Boder
       start: '00:10:00.033'
-      end: '00:10:00.033'
+      end: '00:10:10.863'
       u: "[In English] Well, and how did the general population treat the Maquis?"
     - who: Charles Jean
       start: '00:10:10.863'
-      end: '00:10:10.863'
+      end: '00:10:53.827'
       u: "[In French] Eh bien, en Auvergne, la population était très gentille avec
         nous. Nous avions en principe tout ce qu’il nous fallait. Nous allions dans
         les fermes nous ravitailler. Nous n’avions pas d’argent, nous payions...nous
@@ -223,21 +223,21 @@ recording:
         et je l’ai ramenée au Maquis, où elle nous a rendu de grands services."
     - who: David Boder
       start: '00:10:53.827'
-      end: '00:10:53.827'
+      end: '00:11:01.079'
       u: "[In English] Yes, now, here is another question. Where did the Maquis get
         their supplies?"
     - who: Unknown person
       start: '00:11:01.079'
-      end: '00:11:01.079'
+      end: '00:11:03.778'
       u: "[unknown person off mic] He told you. In the town."
     - who: David Boder
       start: '00:11:03.778'
-      end: '00:11:03.778'
+      end: '00:11:14.673'
       u: Yes, but where did they get their military supplies? [unintelligible conversation
         off mic] Yes, did they have radio service?
     - who: Charles Jean
       start: '00:11:14.673'
-      end: '00:11:14.673'
+      end: '00:12:08.070'
       u: "[In French] Ah, oui, nous avions un service radio. Nous avions le code.
         D’ailleurs, je ne le connaissais pas, moi. C’était l’Officier qui savait ça.
         Nous communiquions avec Londres pour les parachutages et le gros de nos armes
@@ -248,18 +248,18 @@ recording:
         Nous nous débrouillions par nos propres moyens pour ainsi dire."
     - who: David Boder
       start: '00:12:08.070'
-      end: '00:12:08.070'
+      end: '00:12:12.573'
       u: "[In English] All right, I thank you very much for this...[unintelligible]"
     - who: David Boder
       start: '00:12:12.573'
-      end: 
+      end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In French] Merci beaucoup."
   translation:
     language: en
     interview:
     - who: David Boder
       start: '00:00:00.516'
-      end: '00:00:00.516'
+      end: '00:00:37.265'
       u: "[In English] We are still continuing...We are still continuing the charming
         evening at the home of Admiral Kahn, and we are now interviewing his present
         chauffeur who, I am told, was active in the Resistance. Madame Kahn will help
@@ -267,17 +267,17 @@ recording:
         and how old he is?"
     - who: Charles Jean
       start: '00:00:37.265'
-      end: '00:00:37.265'
+      end: '00:00:42.513'
       u: Charles Jean [exact spelling unknown], 31 years old.
     - who: David Boder
       start: '00:00:42.513'
-      end: '00:00:42.513'
+      end: '00:01:04.688'
       u: Now, Charles, will you ask him to tell us what he remembers from the time
         the war started where he was? And then what was he doing, gradually, until
         liberation.
     - who: Charles Jean
       start: '00:01:04.688'
-      end: '00:01:04.688'
+      end: '00:01:54.987'
       u: "[In French] I left on August 26, 1939. I was stationed at Dunkerque in the
         Maine and was taken prisoner on June 4, 1940.It is not entirely clear to what
         location Charles Jean is referring to when he says he was stationed at “Dunkerque
@@ -304,12 +304,12 @@ recording:
         the formation and operation of guerilla groups.5"
     - who: David Boder
       start: '00:01:54.987'
-      end: '00:01:54.987'
+      end: '00:02:26.040'
       u: "[In English] Would you ask him...[unintelligible aside to interpreter] Will
         you ask him to tell us, what does the word “Maquis” mean?"
     - who: Charles Jean
       start: '00:02:26.040'
-      end: '00:02:26.040'
+      end: '00:05:05.157'
       u: "[In French] Well, the Resistance, the “underground” in which I worked...we
         were a part of the Francs-tireurs et Partisans Français.The Francs-Tireurs
         et Partisans Francais (full name: Francs-Tireurs et Partisans Francais-Main
@@ -355,11 +355,11 @@ recording:
         militiamen who were with them."
     - who: David Boder
       start: '00:05:05.157'
-      end: '00:05:05.157'
+      end: '00:05:11.830'
       u: "[In English] [interrupts] All right, now...continuez."
     - who: Charles Jean
       start: '00:05:11.830'
-      end: '00:05:11.830'
+      end: '00:05:40.237'
       u: "[In French] Afterwards, that was when the Marshal’s GuardIt is unclear to
         what group Charles Jean is referring.10 joined forces with us to liberate
         the rest of the sector where there were still a few Germans. After that, the
@@ -367,7 +367,7 @@ recording:
         Desaix barracks and the army determined that our work was done. I went home."
     - who: David Boder
       start: '00:05:40.237'
-      end: '00:05:40.237'
+      end: '00:06:43.771'
       u: "[In English] Was he taken prisoner by the Germans? [off mic with interpreter]
         No, afterwards, when he was in the Maquis. Was he never taken prison? [off
         mic with interpreter] He was taken for compulsory...[more than one person
@@ -376,17 +376,17 @@ recording:
         we find him? Where was he when...? Who came in? The English or the Americans?"
     - who: Marcelle Kahn
       start: '00:06:43.771'
-      end: '00:06:43.771'
+      end: '00:06:46.294'
       u: "[In French] What were the first Allied troops that you saw?"
     - who: Charles Jean
       start: '00:06:46.294'
-      end: '00:06:46.294'
+      end: '00:06:58.076'
       u: The first Allied troops were American and...American and French.These troops
         were among those who landed in southern France on August 15, 1944, and drove
         northward.11 In Thiers.
     - who: David Boder
       start: '00:06:58.076'
-      end: '00:06:58.076'
+      end: '00:07:58.957'
       u: "[In English] So how did the French troops from there leave, right there
         after the.... . . Now how did it come out? There were French troops. That
         I know, where were they during that time? [aside to interpreter] Whose organization
@@ -398,62 +398,62 @@ recording:
         one other speaker talking simultaneously]"
     - who: David Boder
       start: '00:07:58.957'
-      end: '00:07:58.957'
+      end: '00:08:06.014'
       u: "[In English] And they were combined with the troops from Africa."
     - who: David Boder
       start: '00:08:06.014'
-      end: '00:08:06.014'
+      end: '00:08:24.496'
       u: So when the regular troops came in, did the Maquis continue to do partisan
         work? [unintelligible discussion off mic]
     - who: David Boder
       start: '00:08:24.496'
-      end: '00:08:24.496'
+      end: '00:08:29.631'
       u: Well, what are you doing now?
     - who: Charles Jean
       start: '00:08:29.631'
-      end: '00:08:29.631'
+      end: '00:08:36.652'
       u: "[In French] Now, I am Engineer General Kahn’s chauffeur and I’m very happy.
         I’m doing very well."
     - who: David Boder
       start: '00:08:36.652'
-      end: '00:08:36.652'
+      end: '00:08:44.918'
       u: "[In English] [to interpreter] Well, that’s good. And uh, how old is he?"
     - who: Charles Jean
       start: '00:08:44.918'
-      end: '00:08:44.918'
+      end: '00:08:47.416'
       u: "[In French] Thirty-one years old."
     - who: David Boder
       start: '00:08:47.416'
-      end: '00:08:47.416'
+      end: '00:08:51.489'
       u: "[In English] Are you married?"
     - who: Charles Jean
       start: '00:08:51.489'
-      end: '00:08:51.489'
+      end: '00:08:52.687'
       u: "[In French] Yes."
     - who: David Boder
       start: '00:08:52.687'
-      end: '00:08:52.687'
+      end: '00:08:57.236'
       u: "[In English] [to interpreter] Was he married before the war?"
     - who: Charles Jean
       start: '00:08:57.236'
-      end: '00:08:57.236'
+      end: '00:09:01.309'
       u: "[In French] Oh, no, no, not before the war. I only got married recently."
     - who: David Boder
       start: '00:09:01.309'
-      end: '00:09:01.309'
+      end: '00:09:09.109'
       u: "[In English] He was alone...Were there many married Maquis?"
     - who: Charles Jean
       start: '00:09:09.109'
-      end: '00:09:09.109'
+      end: '00:09:12.962'
       u: "[In French] Oh, yes, many, many, many married men."
     - who: David Boder
       start: '00:09:12.962'
-      end: '00:09:12.962'
+      end: '00:09:23.462'
       u: "[In English] Well, didn’t their families get into trouble because of the
         Maquis?"
     - who: Charles Jean
       start: '00:09:23.462'
-      end: '00:09:23.462'
+      end: '00:10:00.033'
       u: "[In French] Oh, yes, yes, in Clermont-Ferrand, quite a few of our comrades
         found that their wives and their children had been bothered by the Gestapo
         because they themselves had joined the resistance. And we actually organized,
@@ -463,11 +463,11 @@ recording:
         in our service, only the wives of our comrades who were being sheltered nearby."
     - who: David Boder
       start: '00:10:00.033'
-      end: '00:10:00.033'
+      end: '00:10:10.863'
       u: "[In English] Well, and how did the general population treat the Maquis?"
     - who: Charles Jean
       start: '00:10:10.863'
-      end: '00:10:10.863'
+      end: '00:10:53.827'
       u: "[In French] Well, in Auvergne, the people were really nice to us. We basically
         had everything we needed. We went to the farms for supplies. We didn’t have
         money, we used to pay...we had vouchers. Requisition vouchers that were paid
@@ -481,21 +481,21 @@ recording:
         it in to the Resistance, which was very helpful."
     - who: David Boder
       start: '00:10:53.827'
-      end: '00:10:53.827'
+      end: '00:11:01.079'
       u: "[In English] Yes, now, here is another question. Where did the Maquis get
         their supplies?"
     - who: Unknown person
       start: '00:11:01.079'
-      end: '00:11:01.079'
+      end: '00:11:03.778'
       u: "[unknown person off mic] He told you. In the town."
     - who: David Boder
       start: '00:11:03.778'
-      end: '00:11:03.778'
+      end: '00:11:14.673'
       u: Yes, but where did they get their military supplies? [conversation off mic]
         Yes, did they have radio service?
     - who: Charles Jean
       start: '00:11:14.673'
-      end: '00:11:14.673'
+      end: '00:12:08.070'
       u: "[In French] Oh, yes, we had radio service. We had a code. Actually, I myself
         didn’t know the code. The Officer knew it. We used to communicate with London
         for the parachute drops and most of our arms especially came to us from what
@@ -509,11 +509,11 @@ recording:
         through our own means, you could say."
     - who: David Boder
       start: '00:12:08.070'
-      end: '00:12:08.070'
+      end: '00:12:12.573'
       u: "[In English] All right, I thank you very much for this...[unintelligible]"
     - who: David Boder
       start: '00:12:12.573'
-      end: 
+      end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In French] Thank you very much."
 transcript: {}
 translation: {}

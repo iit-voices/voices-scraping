@@ -30,7 +30,7 @@ recording:
     interview:
     - who: David Boder
       start: '00:00:04.006'
-      end: '00:00:04.006'
+      end: '00:00:54.340'
       u: "[In English] Now, will you speak in English? And if you can’t, you speak
         in French. All right. I will ask you the questions in English and you can
         answer them. [aside] All right. I am here at the home of Admiral Kahn, in
@@ -39,57 +39,57 @@ recording:
         with me on the sofa is his young son. Now tell me, what’s your name?"
     - who: Jean Kahn
       start: '00:00:54.340'
-      end: '00:00:54.340'
+      end: '00:00:55.533'
       u: Jean.
     - who: David Boder
       start: '00:00:55.533'
-      end: '00:00:55.533'
+      end: '00:00:57.612'
       u: Your name is John. John what?
     - who: Jean Kahn
       start: '00:00:57.612'
-      end: '00:00:57.612'
+      end: '00:00:58.498'
       u: Jean Kahn.
     - who: David Boder
       start: '00:00:58.498'
-      end: '00:00:58.498'
+      end: '00:01:02.064'
       u: John Kahn. And how old are you, John?
     - who: Jean Kahn
       start: '00:01:02.064'
-      end: '00:01:02.064'
+      end: '00:01:03.510'
       u: I am fifteen now.
     - who: David Boder
       start: '00:01:03.510'
-      end: '00:01:03.510'
+      end: '00:01:04.474'
       u: You are fifteen.
     - who: Jean Kahn
       start: '00:01:04.474'
-      end: '00:01:04.474'
+      end: '00:01:04.938'
       u: Yes.
     - who: David Boder
       start: '00:01:04.938'
-      end: '00:01:04.938'
+      end: '00:01:15.914'
       u: Now, that’s nice English. And any time you are look for words, just speak
         French. You are now fifteen. And how old were you when the war started?
     - who: Jean Kahn
       start: '00:01:15.914'
-      end: '00:01:15.914'
+      end: '00:01:18.697'
       u: It was in 1940.
     - who: David Boder
       start: '00:01:18.697'
-      end: '00:01:18.697'
+      end: '00:01:20.625'
       u: So how old were you?
     - who: Jean Kahn
       start: '00:01:20.625'
-      end: '00:01:20.625'
+      end: '00:01:22.173'
       u: I was ten.
     - who: David Boder
       start: '00:01:22.173'
-      end: '00:01:22.173'
+      end: '00:01:37.836'
       u: You were ten, yes. Now, start talking French. And tell me what do you remember
         about the start of the war. Go ahead in French.
     - who: Jean Kahn
       start: '00:01:37.836'
-      end: '00:01:37.836'
+      end: '00:02:54.273'
       u: "[In French] Eh bien, tout d’abord j’ai vu beaucoup de monde courir dans
         les rues, allant à l’encontre des nouvelles, car à la radio beaucoup de speakers,
         ne sachant pas eux-mêmes les nouvelles, avaient livré la radio à des spectacles
@@ -98,45 +98,45 @@ recording:
         de Sedan...et tout le monde était affolé, entourant la radio."
     - who: David Boder
       start: '00:02:54.273'
-      end: '00:02:54.273'
+      end: '00:03:03.351'
       u: "[In English] Now tell me. What month was it? Were you in school then? What
         month was it when the war started?"
     - who: Marcelle Kahn
       start: '00:03:03.351'
-      end: '00:03:03.351'
+      end: '00:03:08.833'
       u: "[In French] [Interpreter intervenes] Quel mois c’était?"
     - who: David Boder
       start: '00:03:08.833'
-      end: '00:03:08.833'
+      end: '00:03:10.309'
       u: "[In English] Do you remember?"
     - who: Jean Kahn
       start: '00:03:10.309'
-      end: '00:03:10.309'
+      end: '00:03:11.936'
       u: "[In French] C’était en juin. En juin."
     - who: David Boder
       start: '00:03:11.936'
-      end: '00:03:11.936'
+      end: '00:03:13.996'
       u: "[In English] Were you in school then?"
     - who: Jean Kahn
       start: '00:03:13.996'
-      end: '00:03:13.996'
+      end: '00:03:18.544'
       u: "[In French] Oui, j’étais en classe, au lycée de Lorient."
     - who: David Boder
       start: '00:03:18.544'
-      end: '00:03:18.544'
+      end: '00:03:23.605'
       u: "[In English] And what did you think about the war? What did you think it
         would be? Did you like it?"
     - who: Jean Kahn
       start: '00:03:23.605'
-      end: '00:03:23.605'
+      end: '00:03:26.659'
       u: "[In French] Je ne pensais pas que cela durerait très longtemps."
     - who: David Boder
       start: '00:03:26.659'
-      end: '00:03:26.659'
+      end: '00:03:32.051'
       u: "[In English] Uh huh. Now, tell me what then happened?"
     - who: Jean Kahn
       start: '00:03:32.051'
-      end: '00:03:32.051'
+      end: '00:04:06.488'
       u: "[In French] Eh bien, nous avons été obligés de nous enfuir devant les Allemands
         qui avaient réussi à faire une percée dans l’Est et à ce temps-là, nous ne
         pensions pas qu’ils allaient avancer rapidement. Et alors, dès le 18 juin
@@ -144,38 +144,38 @@ recording:
         d’arriver à Marseille."
     - who: David Boder
       start: '00:04:06.488'
-      end: '00:04:06.488'
+      end: '00:04:12.163'
       u: "[In English] Bon. Who was with you in Marseille?"
     - who: Jean Kahn
       start: '00:04:12.163'
-      end: '00:04:12.163'
+      end: '00:04:18.229'
       u: My grandfather, my mother and my brother.
     - who: David Boder
       start: '00:04:18.229'
-      end: '00:04:18.229'
+      end: '00:04:22.175'
       u: And where was your father?
     - who: Jean Kahn
       start: '00:04:22.175'
-      end: '00:04:22.175'
+      end: '00:04:23.440'
       u: He was at the war.
     - who: David Boder
       start: '00:04:23.440'
-      end: '00:04:23.440'
+      end: '00:04:31.271'
       u: Your father was in the war. All right. Now, what happened then in Marseille?
         Speak French.
     - who: Jean Kahn
       start: '00:04:31.271'
-      end: '00:04:31.271'
+      end: '00:04:41.585'
       u: "[In French] [conversation with interpreter] C’est à Marseille que j’ai appris
         que l’armistice avait été signé."
     - who: David Boder
       start: '00:04:41.585'
-      end: '00:04:41.585'
+      end: '00:04:55.917'
       u: "[In English] All right. And where did you go from Marseille? Tell me. [aside
         to someone else: “It was a great pleasure and thank you very much.”]"
     - who: Jean Kahn
       start: '00:04:55.917'
-      end: '00:04:55.917'
+      end: '00:06:25.816'
       u: "[In French] [conversation with interpreter] A Marseille, c’était en décembre
         1942, nous avons entendu un message à la radio de Londres, message qui avait
         été convenu avec mon père à son départ: le canari est bien arrivé et il attend
@@ -188,15 +188,15 @@ recording:
         le passage dans différents petits villages qui se trouvaient sur des sommets."
     - who: David Boder
       start: '00:06:25.816'
-      end: '00:06:25.816'
+      end: '00:06:27.485'
       u: Et votre mère?
     - who: David Boder
       start: '00:06:27.485'
-      end: '00:06:27.485'
+      end: '00:06:29.395'
       u: "[In English] And where was your mother?"
     - who: Jean Kahn
       start: '00:06:29.395'
-      end: '00:06:29.395'
+      end: '00:09:34.139'
       u: "[In French] Et ma mère attendait à Perpignan les résultats de notre enquête...Pour
         les enfants, il ne fallait pas de papiers spéciaux pour entrer dans la zone
         interdite. Et nous avions tous les deux moins de dix-sept ans à ce moment-là
@@ -222,11 +222,11 @@ recording:
         pays."
     - who: David Boder
       start: '00:09:34.139'
-      end: '00:09:34.139'
+      end: '00:09:35.085'
       u: Et puis?
     - who: Jean Kahn
       start: '00:09:35.085'
-      end: '00:09:35.085'
+      end: '00:17:03.643'
       u: Et puis nous sommes partis d’après...en suivant un trajet qui nous avait
         été vaguement indiqué par quelques personnes dans le petit village même. L’ascension
         commença vers la fin de l’après-midi, et la pluie tombait en faisant des mottes
@@ -282,25 +282,25 @@ recording:
         enlevé nos chaussures.
     - who: David Boder
       start: '00:17:03.643'
-      end: '00:17:03.643'
+      end: '00:17:05.974'
       u: "[In English] Were you all together?"
     - who: Jean Kahn
       start: '00:17:05.974'
-      end: '00:17:05.974'
+      end: '00:17:11.577'
       u: Yes, we were all together in the room.
     - who: Jean Kahn
       start: '00:17:11.577'
-      end: '00:17:11.577'
+      end: '00:17:26.107'
       u: "[In French] Et alors, ils ont enlevé nos chaussures, et le lendemain matin,
         ils ont frappé, ils nous ont réveillés, et ont de nouveau procédé à un interrogatoire
         plus détaillé."
     - who: David Boder
       start: '00:17:26.107'
-      end: '00:17:26.107'
+      end: '00:17:36.434'
       u: "[aside, unintelligible]"
     - who: Jean Kahn
       start: '00:17:36.434'
-      end: '00:17:36.434'
+      end: '00:19:34.660'
       u: Le surlendemain, nous avons été sortis de cette chambre et emmenés à Barcelone
         au quartier général de la police espagnole. Nous sommes restés là pas même
         cinq minutes. Nous avons été ramenés au poste de police, puis de nouveau à
@@ -316,311 +316,311 @@ recording:
         avons rejoint mon père.
     - who: David Boder
       start: '00:19:34.660'
-      end: '00:19:34.660'
+      end: '00:19:39.600'
       u: "[In English] Well, were you afraid during this whole trip?"
     - who: Jean Kahn
       start: '00:19:39.600'
-      end: '00:19:39.600'
+      end: '00:19:45.594'
       u: A little bit, yes, but I really didn’t know the danger we could...
     - who: David Boder
       start: '00:19:45.594'
-      end: '00:19:45.594'
+      end: '00:19:46.889'
       u: that you were in.
     - who: Jean Kahn
       start: '00:19:46.889'
-      end: '00:19:46.889'
+      end: '00:19:47.462'
       u: Yes.
     - who: David Boder
       start: '00:19:47.462'
-      end: '00:19:47.462'
+      end: '00:19:49.040'
       u: You didn’t know the danger.
     - who: Jean Kahn
       start: '00:19:49.040'
-      end: '00:19:49.040'
+      end: '00:19:49.643'
       u: Yes.
     - who: David Boder
       start: '00:19:49.643'
-      end: '00:19:49.643'
+      end: '00:19:52.547'
       u: What were you afraid of?
     - who: Jean Kahn
       start: '00:19:52.547'
-      end: '00:19:52.547'
+      end: '00:19:57.830'
       u: Of being arrested by the Germans, in the mountains.
     - who: David Boder
       start: '00:19:57.830'
-      end: '00:19:57.830'
+      end: '00:20:03.463'
       u: Yes. What month were you in the mountains? What month was it?
     - who: Jean Kahn
       start: '00:20:03.463'
-      end: '00:20:03.463'
+      end: '00:20:04.590'
       u: October.
     - who: David Boder
       start: '00:20:04.590'
-      end: '00:20:04.590'
+      end: '00:20:07.704'
       u: Was it cold in the mountains?
     - who: Jean Kahn
       start: '00:20:07.704'
-      end: '00:20:07.704'
+      end: '00:20:10.988'
       u: Not really cold, but the rain...
     - who: David Boder
       start: '00:20:10.988'
-      end: '00:20:10.988'
+      end: '00:20:12.687'
       u: It was raining.
     - who: Jean Kahn
       start: '00:20:12.687'
-      end: '00:20:12.687'
+      end: '00:20:13.934'
       u: Yes.
     - who: David Boder
       start: '00:20:13.934'
-      end: '00:20:13.934'
+      end: '00:20:16.205'
       u: Did you have good clothes?
     - who: Jean Kahn
       start: '00:20:16.205'
-      end: '00:20:16.205'
+      end: '00:20:24.518'
       u: No, we didn’t have good clothes. Only very bad shoes.
     - who: David Boder
       start: '00:20:24.518'
-      end: '00:20:24.518'
+      end: '00:20:25.362'
       u: Yes.
     - who: Jean Kahn
       start: '00:20:25.362'
-      end: '00:20:25.362'
+      end: '00:20:57.887'
       u: "[In French] Et des vêtements décousus, des chaussettes déchirées par les
         ronces et trempées dans la boue. Et pour toute nourriture, nous n’avions qu’un
         kilo de sucre, qui fondait dans nos poches, et une gourde de rhum."
     - who: David Boder
       start: '00:20:57.887'
-      end: '00:20:57.887'
+      end: '00:20:59.977'
       u: "[In English] Oh, did you drink rum?"
     - who: Jean Kahn
       start: '00:20:59.977'
-      end: '00:20:59.977'
+      end: '00:21:08.863'
       u: No, I didn’t drink rum. Only with a piece of sugar.
     - who: David Boder
       start: '00:21:08.863'
-      end: '00:21:08.863'
+      end: '00:21:16.375'
       u: "[laughing] Now, where did you get from Spain then? From Spain you came where?"
     - who: Jean Kahn
       start: '00:21:16.375'
-      end: '00:21:16.375'
+      end: '00:21:17.490'
       u: In North Africa.
     - who: David Boder
       start: '00:21:17.490'
-      end: '00:21:17.490'
+      end: '00:21:25.363'
       u: To North Africa. All right. And when did you see your father again?
     - who: Jean Kahn
       start: '00:21:25.363'
-      end: '00:21:25.363'
+      end: '00:21:28.104'
       u: Just a month after our departure.
     - who: David Boder
       start: '00:21:28.104'
-      end: '00:21:28.104'
+      end: '00:21:29.400'
       u: From Marseille.
     - who: Jean Kahn
       start: '00:21:29.400'
-      end: '00:21:29.400'
+      end: '00:21:32.424'
       u: From Perpignan, from France.
     - who: David Boder
       start: '00:21:32.424'
-      end: '00:21:32.424'
+      end: '00:21:36.189'
       u: Just a month after your departure from Perpignan, you saw your father.
     - who: Jean Kahn
       start: '00:21:36.189'
-      end: '00:21:36.189'
+      end: '00:21:36.822'
       u: Yes.
     - who: David Boder
       start: '00:21:36.822'
-      end: '00:21:36.822'
+      end: '00:21:38.159'
       u: Well, did he look well?
     - who: Jean Kahn
       start: '00:21:38.159'
-      end: '00:21:38.159'
+      end: '00:21:42.527'
       u: Yes, just a little bit tired.
     - who: David Boder
       start: '00:21:42.527'
-      end: '00:21:42.527'
+      end: '00:21:48.413'
       u: Well, and then what were you doing in Africa?
     - who: Jean Kahn
       start: '00:21:48.413'
-      end: '00:21:48.413'
+      end: '00:21:53.395'
       u: I went to school there with all the little Arabs.
     - who: David Boder
       start: '00:21:53.395'
-      end: '00:21:53.395'
+      end: '00:21:54.461'
       u: Little Arabs.
     - who: Jean Kahn
       start: '00:21:54.461'
-      end: '00:21:54.461'
+      end: '00:21:55.425'
       u: Yes.
     - who: David Boder
       start: '00:21:55.425'
-      end: '00:21:55.425'
+      end: '00:21:59.762'
       u: And did you learn French or Arabian? What did you learn?
     - who: Jean Kahn
       start: '00:21:59.762'
-      end: '00:21:59.762'
+      end: '00:22:01.600'
       u: I learned French, yes.
     - who: David Boder
       start: '00:22:01.600'
-      end: '00:22:01.600'
+      end: '00:22:03.329'
       u: You studied in French.
     - who: Jean Kahn
       start: '00:22:03.329'
-      end: '00:22:03.329'
+      end: '00:22:03.974'
       u: Yes.
     - who: David Boder
       start: '00:22:03.974'
-      end: '00:22:03.974'
+      end: '00:22:06.426'
       u: All right. And are you now in school?
     - who: Jean Kahn
       start: '00:22:06.426'
-      end: '00:22:06.426'
+      end: '00:22:07.191'
       u: Yes.
     - who: David Boder
       start: '00:22:07.191'
-      end: '00:22:07.191'
+      end: '00:22:10.173'
       u: In what grade are you?
     - who: Jean Kahn
       start: '00:22:10.173'
-      end: '00:22:10.173'
+      end: '00:22:11.902'
       u: I’m in the second degree.
     - who: David Boder
       start: '00:22:11.902'
-      end: '00:22:11.902'
+      end: '00:22:14.233'
       u: Is that the lycée?
     - who: Jean Kahn
       start: '00:22:14.233'
-      end: '00:22:14.233'
+      end: '00:22:16.161'
       u: Lycée, yes.
     - who: David Boder
       start: '00:22:16.161'
-      end: '00:22:16.161'
+      end: '00:22:20.016'
       u: So how many years do you need to be through?
     - who: Jean Kahn
       start: '00:22:20.016'
-      end: '00:22:20.016'
+      end: '00:22:24.384'
       u: "[In French] Quatre ans?"
     - who: Jean Kahn
       start: '00:22:24.384'
-      end: '00:22:24.384'
+      end: '00:22:24.968'
       u: "[In English] Three years."
     - who: David Boder
       start: '00:22:24.968'
-      end: '00:22:24.968'
+      end: '00:22:27.498'
       u: Three years more, and then you will be...
     - who: Jean Kahn
       start: '00:22:27.498'
-      end: '00:22:27.498'
+      end: '00:22:28.643'
       u: Three years of lycée.
     - who: David Boder
       start: '00:22:28.643'
-      end: '00:22:28.643'
+      end: '00:22:34.968'
       u: Yes. And what will you do after that? What do you want to study?
     - who: Jean Kahn
       start: '00:22:34.968'
-      end: '00:22:34.968'
+      end: '00:22:36.113'
       u: I don’t know.
     - who: David Boder
       start: '00:22:36.113'
-      end: '00:22:36.113'
+      end: '00:22:42.450'
       u: You don’t know. Well, that is good. You are young. Do you want to be an Admiral?
     - who: Jean Kahn
       start: '00:22:42.450'
-      end: '00:22:42.450'
+      end: '00:22:43.113'
       u: No.
     - who: David Boder
       start: '00:22:43.113'
-      end: '00:22:43.113'
+      end: '00:22:51.637'
       u: No? [laughing] You don’t want to go to sea? Well, and now, do you feel good
         at school? Do you have a lot of friends?
     - who: Jean Kahn
       start: '00:22:51.637'
-      end: '00:22:51.637'
+      end: '00:22:56.486'
       u: Yes. A lot of friends. I had a lot of friends in England.
     - who: David Boder
       start: '00:22:56.486'
-      end: '00:22:56.486'
+      end: '00:23:05.263'
       u: Oh? Where were you in England?
     - who: Jean Kahn
       start: '00:23:05.263'
-      end: '00:23:05.263'
+      end: '00:23:07.745'
       u: At the French Lycée of London.
     - who: David Boder
       start: '00:23:07.745'
-      end: '00:23:07.745'
+      end: '00:23:15.829'
       u: At the French Lycée of London. Well, uh huh. Did you speak there more French
         or did you speak English there?
     - who: Jean Kahn
       start: '00:23:15.829'
-      end: '00:23:15.829'
+      end: '00:23:18.751'
       u: I spoke much French.
     - who: David Boder
       start: '00:23:18.751'
-      end: '00:23:18.751'
+      end: '00:23:19.444'
       u: Yes.
     - who: Jean Kahn
       start: '00:23:19.444'
-      end: '00:23:19.444'
+      end: '00:23:23.703'
       u: And some English in the evening.
     - who: David Boder
       start: '00:23:23.703'
-      end: '00:23:23.703'
+      end: '00:23:28.251'
       u: What subjects are you taking in school? Are you taking Latin?
     - who: Jean Kahn
       start: '00:23:28.251'
-      end: '00:23:28.251'
+      end: '00:23:28.974'
       u: Latin.
     - who: David Boder
       start: '00:23:28.974'
-      end: '00:23:28.974'
+      end: '00:23:30.058'
       u: Yes.
     - who: Jean Kahn
       start: '00:23:30.058'
-      end: '00:23:30.058'
+      end: '00:23:31.896'
       u: And math.
     - who: David Boder
       start: '00:23:31.896'
-      end: '00:23:31.896'
+      end: '00:23:32.872'
       u: Mathematics.
     - who: Jean Kahn
       start: '00:23:32.872'
-      end: '00:23:32.872'
+      end: '00:23:33.486'
       u: Mathematics.
     - who: David Boder
       start: '00:23:33.486'
-      end: '00:23:33.486'
+      end: '00:23:46.258'
       u: What do you have in mathematics now? [aside to interpreter] Algebra, geometry?
     - who: Jean Kahn
       start: '00:23:46.258'
-      end: '00:23:46.258'
+      end: '00:23:48.830'
       u: "[In French] Géométrie et algèbre."
     - who: David Boder
       start: '00:23:48.830'
-      end: '00:23:48.830'
+      end: '00:23:53.559'
       u: "[In English] Uh huh. And you take French literature?"
     - who: Jean Kahn
       start: '00:23:53.559'
-      end: '00:23:53.559'
+      end: '00:23:57.927'
       u: French literature, history, geography, physics.
     - who: David Boder
       start: '00:23:57.927'
-      end: '00:23:57.927'
+      end: '00:23:58.873'
       u: Physics.
     - who: Jean Kahn
       start: '00:23:58.873'
-      end: '00:23:58.873'
+      end: '00:24:02.078'
       u: Chemistry.
     - who: David Boder
       start: '00:24:02.078'
-      end: '00:24:02.078'
+      end: '00:24:04.951'
       u: Do you have much to study when you go to school?
     - who: Jean Kahn
       start: '00:24:04.951'
-      end: '00:24:04.951'
+      end: '00:24:08.295'
       u: Yes, I have much. Too much!
     - who: David Boder
       start: '00:24:08.295'
-      end: '00:24:08.295'
+      end: '00:24:35.436'
       u: Too much. Well, John, you are an awfully good boy, and it was really a pleasure
         to have met you. And I think you told us a good story. And I think the children
         there, if we translate it, will have a lot of fun in listening to your story.
@@ -628,28 +628,28 @@ recording:
         us, make a record. Will you write to me sometimes?
     - who: Jean Kahn
       start: '00:24:35.436'
-      end: '00:24:35.436'
+      end: '00:24:37.093'
       u: Yes. Certainly.
     - who: David Boder
       start: '00:24:37.093'
-      end: '00:24:37.093'
+      end: '00:24:50.075'
       u: All right. I’ll write you a letter, then you will know my address. And then
         if I can, we make another wire and we send you one and then when you have
         a machine, then you can listen to it.
     - who: Jean Kahn
       start: '00:24:50.075'
-      end: '00:24:50.075'
+      end: '00:24:50.948'
       u: Thank you.
     - who: David Boder
       start: '00:24:50.948'
-      end: 
+      end: !ruby/object:Nokogiri::XML::Text {}
       u: Well, it was awfully good...[ends abruptly]
   translation:
     language: en
     interview:
     - who: David Boder
       start: '00:00:04.006'
-      end: '00:00:04.006'
+      end: '00:00:54.340'
       u: "[In English] Now, will you speak in English? And if you can’t, you speak
         in French. All right. I will ask you the questions in English and you can
         answer them. [aside] All right. I am here at the home of Admiral Kahn, in
@@ -658,57 +658,57 @@ recording:
         with me on the sofa is his young son. Now tell me, what’s your name?"
     - who: Jean Kahn
       start: '00:00:54.340'
-      end: '00:00:54.340'
+      end: '00:00:55.533'
       u: Jean.
     - who: David Boder
       start: '00:00:55.533'
-      end: '00:00:55.533'
+      end: '00:00:57.612'
       u: Your name is John. John what?
     - who: Jean Kahn
       start: '00:00:57.612'
-      end: '00:00:57.612'
+      end: '00:00:58.498'
       u: Jean Kahn.
     - who: David Boder
       start: '00:00:58.498'
-      end: '00:00:58.498'
+      end: '00:01:02.064'
       u: John Kahn. And how old are you, John?
     - who: Jean Kahn
       start: '00:01:02.064'
-      end: '00:01:02.064'
+      end: '00:01:03.510'
       u: I am fifteen now.
     - who: David Boder
       start: '00:01:03.510'
-      end: '00:01:03.510'
+      end: '00:01:04.474'
       u: You are fifteen.
     - who: Jean Kahn
       start: '00:01:04.474'
-      end: '00:01:04.474'
+      end: '00:01:04.938'
       u: Yes.
     - who: David Boder
       start: '00:01:04.938'
-      end: '00:01:04.938'
+      end: '00:01:15.914'
       u: Now, that’s nice English. And any time you are looking for words, just speak
         French. You are now fifteen. And how old were you when the war started?
     - who: Jean Kahn
       start: '00:01:15.914'
-      end: '00:01:15.914'
+      end: '00:01:18.697'
       u: It was in 1940.
     - who: David Boder
       start: '00:01:18.697'
-      end: '00:01:18.697'
+      end: '00:01:20.625'
       u: So how old were you?
     - who: Jean Kahn
       start: '00:01:20.625'
-      end: '00:01:20.625'
+      end: '00:01:22.173'
       u: I was ten.
     - who: David Boder
       start: '00:01:22.173'
-      end: '00:01:22.173'
+      end: '00:01:37.836'
       u: You were ten, yes. Now, start talking French. And tell me what do you remember
         about the start of the war. Go ahead in French.
     - who: Jean Kahn
       start: '00:01:37.836'
-      end: '00:01:37.836'
+      end: '00:02:54.273'
       u: "[In French] Well, first of all, I saw a lot of people running in the streets,
         looking for news, because on the radio, a lot of the announcers, not knowing
         themselves what was happening, had turned the radio broadcasts over to music
@@ -720,46 +720,46 @@ recording:
         huddling around the radio."
     - who: David Boder
       start: '00:02:54.273'
-      end: '00:02:54.273'
+      end: '00:03:03.351'
       u: "[In English] Now tell me. What month was it? Were you in school then? What
         month was it when the war started?"
     - who: Marcelle Kahn
       start: '00:03:03.351'
-      end: '00:03:03.351'
+      end: '00:03:08.833'
       u: "[In French] [Interpreter intervenes] What month was it?"
     - who: David Boder
       start: '00:03:08.833'
-      end: '00:03:08.833'
+      end: '00:03:10.309'
       u: "[In English] Do you remember?"
     - who: Jean Kahn
       start: '00:03:10.309'
-      end: '00:03:10.309'
+      end: '00:03:11.936'
       u: "[In French] It was June. In June."
     - who: David Boder
       start: '00:03:11.936'
-      end: '00:03:11.936'
+      end: '00:03:13.996'
       u: "[In English] Were you in school then?"
     - who: Jean Kahn
       start: '00:03:13.996'
-      end: '00:03:13.996'
+      end: '00:03:18.544'
       u: "[In French] Yes, I was in school, in the Lorient Secondary School [high
         school]."
     - who: David Boder
       start: '00:03:18.544'
-      end: '00:03:18.544'
+      end: '00:03:23.605'
       u: "[In English] And what did you think about the war? What did you think it
         would be? Did you like it?"
     - who: Jean Kahn
       start: '00:03:23.605'
-      end: '00:03:23.605'
+      end: '00:03:26.659'
       u: "[In French] I didn’t think that it would last very long."
     - who: David Boder
       start: '00:03:26.659'
-      end: '00:03:26.659'
+      end: '00:03:32.051'
       u: "[In English] Uh huh. Now, tell me what then happened?"
     - who: Jean Kahn
       start: '00:03:32.051'
-      end: '00:03:32.051'
+      end: '00:04:06.488'
       u: "[In French] Well, we had to escape from the Germans who had succeeded in
         making a breakthrough in the East, and at the time, we didn’t think that they
         were going to advance quickly. And so, starting on June 18, 1940, we were
@@ -768,28 +768,28 @@ recording:
         south in the wake of the German invasion.2"
     - who: David Boder
       start: '00:04:06.488'
-      end: '00:04:06.488'
+      end: '00:04:12.163'
       u: "[In French] Good. Who was with you in Marseille?"
     - who: Jean Kahn
       start: '00:04:12.163'
-      end: '00:04:12.163'
+      end: '00:04:18.229'
       u: "[In English] My grandfather, my mother and my brother."
     - who: David Boder
       start: '00:04:18.229'
-      end: '00:04:18.229'
+      end: '00:04:22.175'
       u: And where was your father?
     - who: Jean Kahn
       start: '00:04:22.175'
-      end: '00:04:22.175'
+      end: '00:04:23.440'
       u: He was at the war.
     - who: David Boder
       start: '00:04:23.440'
-      end: '00:04:23.440'
+      end: '00:04:31.271'
       u: Your father was in the war. All right. Now, what happened then in Marseille?
         Speak French.
     - who: Jean Kahn
       start: '00:04:31.271'
-      end: '00:04:31.271'
+      end: '00:04:41.585'
       u: "[In French] [conversation with interpreter] I was in Marseille when I heard
         that the Armistice had been signed.On June 22, 1940, France signed an armistice
         with Germany near Compiègne in the same railway car where Marshal Ferdinand
@@ -797,12 +797,12 @@ recording:
         armistice terms to the defeated Germans in November 1918.3"
     - who: David Boder
       start: '00:04:41.585'
-      end: '00:04:41.585'
+      end: '00:04:55.917'
       u: "[In English] All right. And where did you go from Marseille? Tell me. [aside
         to someone else: “It was a great pleasure and thank you very much.”]"
     - who: Jean Kahn
       start: '00:04:55.917'
-      end: '00:04:55.917'
+      end: '00:06:25.816'
       u: "[In French] [conversation with interpreter] In Marseille, it was December,
         1942, when we heard a radio message from London, a message that we had arranged
         with my father at the time of his departure: The canary has arrived safe and
@@ -823,15 +823,15 @@ recording:
         various little villages up in the mountains."
     - who: David Boder
       start: '00:06:25.816'
-      end: '00:06:25.816'
+      end: '00:06:27.485'
       u: "[In French] And your mother?"
     - who: David Boder
       start: '00:06:27.485'
-      end: '00:06:27.485'
+      end: '00:06:29.395'
       u: "[In English] And where was your mother?"
     - who: Jean Kahn
       start: '00:06:29.395'
-      end: '00:06:29.395'
+      end: '00:09:34.139'
       u: "[In French] And my mother was waiting in Perpignan for the results of our
         investigation. Children didn’t need special papers to enter the forbidden
         zone. And we were both under the age of 17 at the time and we could cross
@@ -855,11 +855,11 @@ recording:
         to look around, take a last look and explore the area."
     - who: David Boder
       start: '00:09:34.139'
-      end: '00:09:34.139'
+      end: '00:09:35.085'
       u: And then?
     - who: Jean Kahn
       start: '00:09:35.085'
-      end: '00:09:35.085'
+      end: '00:17:03.643'
       u: 'And then we left...following a route that was vaguely indicated to us by
         some people in that same little village. We started our climb towards the
         end of the afternoon, and the rain was falling, turning the ground into clumps
@@ -916,24 +916,24 @@ recording:
         Indeed, there was no special discriminatory policy against Jewish refugees.10'
     - who: David Boder
       start: '00:17:03.643'
-      end: '00:17:03.643'
+      end: '00:17:05.974'
       u: "[In English] Were you all together?"
     - who: Jean Kahn
       start: '00:17:05.974'
-      end: '00:17:05.974'
+      end: '00:17:11.577'
       u: Yes, we were all together in the room.
     - who: Jean Kahn
       start: '00:17:11.577'
-      end: '00:17:11.577'
+      end: '00:17:26.107'
       u: "[In French] And so, they took our shoes, and the next morning, they knocked
         and woke us up and proceeded with a more detailed interrogation."
     - who: David Boder
       start: '00:17:26.107'
-      end: '00:17:26.107'
+      end: '00:17:36.434'
       u: "[aside, unintelligible]"
     - who: Jean Kahn
       start: '00:17:36.434'
-      end: '00:17:36.434'
+      end: '00:19:34.660'
       u: "[In French] The next day, we were taken out of this room and sent to Barcelona
         to the headquarters of the Spanish police. We didn’t even stay five minutes.
         We were taken to the police station, then again to the hotel where we had
@@ -955,313 +955,313 @@ recording:
         Charles De Gaulle.12"
     - who: David Boder
       start: '00:19:34.660'
-      end: '00:19:34.660'
+      end: '00:19:39.600'
       u: "[In English] Well, were you afraid during this whole trip?"
     - who: Jean Kahn
       start: '00:19:39.600'
-      end: '00:19:39.600'
+      end: '00:19:45.594'
       u: A little bit, yes, but I really didn’t know the danger we could...
     - who: David Boder
       start: '00:19:45.594'
-      end: '00:19:45.594'
+      end: '00:19:46.889'
       u: ". . . that you were in."
     - who: Jean Kahn
       start: '00:19:46.889'
-      end: '00:19:46.889'
+      end: '00:19:47.462'
       u: Yes.
     - who: David Boder
       start: '00:19:47.462'
-      end: '00:19:47.462'
+      end: '00:19:49.040'
       u: You didn’t know the danger.
     - who: Jean Kahn
       start: '00:19:49.040'
-      end: '00:19:49.040'
+      end: '00:19:49.643'
       u: Yes.
     - who: David Boder
       start: '00:19:49.643'
-      end: '00:19:49.643'
+      end: '00:19:52.547'
       u: What were you afraid of?
     - who: Jean Kahn
       start: '00:19:52.547'
-      end: '00:19:52.547'
+      end: '00:19:57.830'
       u: Of being arrested by the Germans, in the mountains.
     - who: David Boder
       start: '00:19:57.830'
-      end: '00:19:57.830'
+      end: '00:20:03.463'
       u: Yes. What month were you in the mountains? What month was it?
     - who: Jean Kahn
       start: '00:20:03.463'
-      end: '00:20:03.463'
+      end: '00:20:04.590'
       u: October.
     - who: David Boder
       start: '00:20:04.590'
-      end: '00:20:04.590'
+      end: '00:20:07.704'
       u: Was it cold in the mountains?
     - who: Jean Kahn
       start: '00:20:07.704'
-      end: '00:20:07.704'
+      end: '00:20:10.988'
       u: Not really cold, but the rain...
     - who: David Boder
       start: '00:20:10.988'
-      end: '00:20:10.988'
+      end: '00:20:12.687'
       u: It was raining.
     - who: Jean Kahn
       start: '00:20:12.687'
-      end: '00:20:12.687'
+      end: '00:20:13.934'
       u: Yes.
     - who: David Boder
       start: '00:20:13.934'
-      end: '00:20:13.934'
+      end: '00:20:16.205'
       u: Did you have good clothes?
     - who: Jean Kahn
       start: '00:20:16.205'
-      end: '00:20:16.205'
+      end: '00:20:24.518'
       u: No, we didn’t have good clothes. Only very bad shoes.
     - who: David Boder
       start: '00:20:24.518'
-      end: '00:20:24.518'
+      end: '00:20:25.362'
       u: Yes.
     - who: Jean Kahn
       start: '00:20:25.362'
-      end: '00:20:25.362'
+      end: '00:20:57.887'
       u: "[In French] And our clothes were falling apart, our socks torn by brambles
         and soaked in mud. And all we had to eat was a kilo of sugar [cubes] which
         melted in our pockets, and a flask of rum."
     - who: David Boder
       start: '00:20:57.887'
-      end: '00:20:57.887'
+      end: '00:20:59.977'
       u: "[In English] Oh, did you drink rum?"
     - who: Jean Kahn
       start: '00:20:59.977'
-      end: '00:20:59.977'
+      end: '00:21:08.863'
       u: No, I didn’t drink rum. Only with a piece of sugar.
     - who: David Boder
       start: '00:21:08.863'
-      end: '00:21:08.863'
+      end: '00:21:16.375'
       u: "[laughing] Now, where did you get from Spain then? From Spain you came where?"
     - who: Jean Kahn
       start: '00:21:16.375'
-      end: '00:21:16.375'
+      end: '00:21:17.490'
       u: In North Africa.
     - who: David Boder
       start: '00:21:17.490'
-      end: '00:21:17.490'
+      end: '00:21:25.363'
       u: To North Africa. All right. And when did you see your father again?
     - who: Jean Kahn
       start: '00:21:25.363'
-      end: '00:21:25.363'
+      end: '00:21:28.104'
       u: Just a month after our departure.
     - who: David Boder
       start: '00:21:28.104'
-      end: '00:21:28.104'
+      end: '00:21:29.400'
       u: From Marseille.
     - who: Jean Kahn
       start: '00:21:29.400'
-      end: '00:21:29.400'
+      end: '00:21:32.424'
       u: From Perpignan, from France.
     - who: David Boder
       start: '00:21:32.424'
-      end: '00:21:32.424'
+      end: '00:21:36.189'
       u: Just a month after your departure from Perpignan, you saw your father.
     - who: Jean Kahn
       start: '00:21:36.189'
-      end: '00:21:36.189'
+      end: '00:21:36.822'
       u: Yes.
     - who: David Boder
       start: '00:21:36.822'
-      end: '00:21:36.822'
+      end: '00:21:38.159'
       u: Well, did he look well?
     - who: Jean Kahn
       start: '00:21:38.159'
-      end: '00:21:38.159'
+      end: '00:21:42.527'
       u: Yes, just a little bit tired.
     - who: David Boder
       start: '00:21:42.527'
-      end: '00:21:42.527'
+      end: '00:21:48.413'
       u: Well, and then what were you doing in Africa?
     - who: Jean Kahn
       start: '00:21:48.413'
-      end: '00:21:48.413'
+      end: '00:21:53.395'
       u: I went to school there with all the little Arabs.
     - who: David Boder
       start: '00:21:53.395'
-      end: '00:21:53.395'
+      end: '00:21:54.461'
       u: Little Arabs.
     - who: Jean Kahn
       start: '00:21:54.461'
-      end: '00:21:54.461'
+      end: '00:21:55.425'
       u: Yes.
     - who: David Boder
       start: '00:21:55.425'
-      end: '00:21:55.425'
+      end: '00:21:59.762'
       u: And did you learn French or Arabian?He means Arabic.13 What did you learn?
     - who: Jean Kahn
       start: '00:21:59.762'
-      end: '00:21:59.762'
+      end: '00:22:01.600'
       u: I learned French, yes.
     - who: David Boder
       start: '00:22:01.600'
-      end: '00:22:01.600'
+      end: '00:22:03.329'
       u: You studied in French.
     - who: Jean Kahn
       start: '00:22:03.329'
-      end: '00:22:03.329'
+      end: '00:22:03.974'
       u: Yes.
     - who: David Boder
       start: '00:22:03.974'
-      end: '00:22:03.974'
+      end: '00:22:06.426'
       u: All right. And are you now in school?
     - who: Jean Kahn
       start: '00:22:06.426'
-      end: '00:22:06.426'
+      end: '00:22:07.191'
       u: Yes.
     - who: David Boder
       start: '00:22:07.191'
-      end: '00:22:07.191'
+      end: '00:22:10.173'
       u: In what grade are you?
     - who: Jean Kahn
       start: '00:22:10.173'
-      end: '00:22:10.173'
+      end: '00:22:11.902'
       u: I’m in the second degree.
     - who: David Boder
       start: '00:22:11.902'
-      end: '00:22:11.902'
+      end: '00:22:14.233'
       u: Is that the lycée?The French secondary school that prepares students to take
         the college entrance examination.14
     - who: Jean Kahn
       start: '00:22:14.233'
-      end: '00:22:14.233'
+      end: '00:22:16.161'
       u: Lycée, yes.
     - who: David Boder
       start: '00:22:16.161'
-      end: '00:22:16.161'
+      end: '00:22:20.016'
       u: So how many years do you need to be through?
     - who: Jean Kahn
       start: '00:22:20.016'
-      end: '00:22:20.016'
+      end: '00:22:24.384'
       u: "[In French] Four years?"
     - who: Jean Kahn
       start: '00:22:24.384'
-      end: '00:22:24.384'
+      end: '00:22:24.968'
       u: "[In English] Three years."
     - who: David Boder
       start: '00:22:24.968'
-      end: '00:22:24.968'
+      end: '00:22:27.498'
       u: Three years more, and then you will be...
     - who: Jean Kahn
       start: '00:22:27.498'
-      end: '00:22:27.498'
+      end: '00:22:28.643'
       u: Three years of lycée.
     - who: David Boder
       start: '00:22:28.643'
-      end: '00:22:28.643'
+      end: '00:22:34.968'
       u: Yes. And what will you do after that? What do you want to study?
     - who: Jean Kahn
       start: '00:22:34.968'
-      end: '00:22:34.968'
+      end: '00:22:36.113'
       u: I don’t know.
     - who: David Boder
       start: '00:22:36.113'
-      end: '00:22:36.113'
+      end: '00:22:42.450'
       u: You don’t know. Well, that is good. You are young. Do you want to be an Admiral?
     - who: Jean Kahn
       start: '00:22:42.450'
-      end: '00:22:42.450'
+      end: '00:22:43.113'
       u: No. In fact, Jean Kahn became a physician who specialized in cardiology.15
     - who: David Boder
       start: '00:22:43.113'
-      end: '00:22:43.113'
+      end: '00:22:51.637'
       u: No? [laughing] You don’t want to go to sea? Well, and now, do you feel good
         at school? Do you have a lot of friends?
     - who: Jean Kahn
       start: '00:22:51.637'
-      end: '00:22:51.637'
+      end: '00:22:56.486'
       u: Yes. A lot of friends. I had a lot of friends in England.
     - who: David Boder
       start: '00:22:56.486'
-      end: '00:22:56.486'
+      end: '00:23:05.263'
       u: Oh? Where were you in England?
     - who: Jean Kahn
       start: '00:23:05.263'
-      end: '00:23:05.263'
+      end: '00:23:07.745'
       u: At the French Lycée of London.After a year’s study in Algiers, Jean was apparently
         sent to study in the French Lycée of London.16
     - who: David Boder
       start: '00:23:07.745'
-      end: '00:23:07.745'
+      end: '00:23:15.829'
       u: At the French Lycée of London. Well, uh huh. Did you speak there more French
         or did you speak English there?
     - who: Jean Kahn
       start: '00:23:15.829'
-      end: '00:23:15.829'
+      end: '00:23:18.751'
       u: I spoke much French.
     - who: David Boder
       start: '00:23:18.751'
-      end: '00:23:18.751'
+      end: '00:23:19.444'
       u: Yes.
     - who: Jean Kahn
       start: '00:23:19.444'
-      end: '00:23:19.444'
+      end: '00:23:23.703'
       u: And some English in the evening.
     - who: David Boder
       start: '00:23:23.703'
-      end: '00:23:23.703'
+      end: '00:23:28.251'
       u: What subjects are you taking in school? Are you taking Latin?
     - who: Jean Kahn
       start: '00:23:28.251'
-      end: '00:23:28.251'
+      end: '00:23:28.974'
       u: Latin.
     - who: David Boder
       start: '00:23:28.974'
-      end: '00:23:28.974'
+      end: '00:23:30.058'
       u: Yes.
     - who: Jean Kahn
       start: '00:23:30.058'
-      end: '00:23:30.058'
+      end: '00:23:31.896'
       u: And math.
     - who: David Boder
       start: '00:23:31.896'
-      end: '00:23:31.896'
+      end: '00:23:32.872'
       u: Mathematics.
     - who: Jean Kahn
       start: '00:23:32.872'
-      end: '00:23:32.872'
+      end: '00:23:33.486'
       u: Mathematics.
     - who: David Boder
       start: '00:23:33.486'
-      end: '00:23:33.486'
+      end: '00:23:46.258'
       u: What do you have in mathematics now? [aside to interpreter] Algebra, geometry?
     - who: Jean Kahn
       start: '00:23:46.258'
-      end: '00:23:46.258'
+      end: '00:23:48.830'
       u: "[In French] Geometry and algebra."
     - who: David Boder
       start: '00:23:48.830'
-      end: '00:23:48.830'
+      end: '00:23:53.559'
       u: "[In English] Uh huh. And you take French literature?"
     - who: Jean Kahn
       start: '00:23:53.559'
-      end: '00:23:53.559'
+      end: '00:23:57.927'
       u: French literature, history, geography, physics.
     - who: David Boder
       start: '00:23:57.927'
-      end: '00:23:57.927'
+      end: '00:23:58.873'
       u: Physics.
     - who: Jean Kahn
       start: '00:23:58.873'
-      end: '00:23:58.873'
+      end: '00:24:02.078'
       u: Chemistry.
     - who: David Boder
       start: '00:24:02.078'
-      end: '00:24:02.078'
+      end: '00:24:04.951'
       u: Do you have much to study when you go to school?
     - who: Jean Kahn
       start: '00:24:04.951'
-      end: '00:24:04.951'
+      end: '00:24:08.295'
       u: Yes, I have much. Too much!
     - who: David Boder
       start: '00:24:08.295'
-      end: '00:24:08.295'
+      end: '00:24:35.436'
       u: Too much. Well, John, you are an awfully good boy, and it was really a pleasure
         to have met you. And I think you told us a good story. And I think the children
         there, if we translate it, will have a lot of fun in listening to your story.
@@ -1269,22 +1269,22 @@ recording:
         us, make a record. Will you write to me sometimes?
     - who: Jean Kahn
       start: '00:24:35.436'
-      end: '00:24:35.436'
+      end: '00:24:37.093'
       u: Yes. Certainly.
     - who: David Boder
       start: '00:24:37.093'
-      end: '00:24:37.093'
+      end: '00:24:50.075'
       u: All right. I’ll write you a letter, then you will know my address. And then
         if I can, we make another wireBoder is referring to another recording of the
         interview.17 and we send you one and then when you have a machine, then you
         can listen to it.
     - who: Jean Kahn
       start: '00:24:50.075'
-      end: '00:24:50.075'
+      end: '00:24:50.948'
       u: Thank you.
     - who: David Boder
       start: '00:24:50.948'
-      end: 
+      end: !ruby/object:Nokogiri::XML::Text {}
       u: Well, it was awfully good...[ends abruptly]
 transcript: {}
 translation: {}
