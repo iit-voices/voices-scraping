@@ -1804,5 +1804,3 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: The record of Nathan [unintelligible] concludes at fourteen minutes of the
         spool.
-transcript: {}
-translation: {}

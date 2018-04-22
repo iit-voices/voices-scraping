@@ -6589,5 +6589,3 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: This section of Spool 9-107 is being separated and goes under the number
         9-107A. It concludes the story of Mr. Warsager. Stop.
-transcript: {}
-translation: {}

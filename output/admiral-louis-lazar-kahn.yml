@@ -511,5 +511,3 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In French] Well, I am delighted to have heard you, Professor Boder, and
         to have the possibility, through you, to communicate with...[ends abruptly]"
-transcript: {}
-translation: {}

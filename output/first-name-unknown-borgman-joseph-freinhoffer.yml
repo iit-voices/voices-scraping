@@ -910,5 +910,3 @@ recording:
       start: '00:13:48.086'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Yes, and? [The spool ends abruptly.]
-transcript: {}
-translation: {}

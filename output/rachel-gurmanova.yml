@@ -3576,5 +3576,3 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: 'I thank you very much Miss Gurman[ova] We shall talk again about these things….
         [Note: There is no customary signoff. The interview ended in a depressed mood.]'
-transcript: {}
-translation: {}

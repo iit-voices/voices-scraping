@@ -596,5 +596,3 @@ recording:
       start: '00:25:58.101'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] Well, it takes great courage to celebrate it."
-transcript: {}
-translation: {}

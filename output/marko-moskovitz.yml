@@ -4140,5 +4140,3 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] This concludes the interview with Mark Moskovski on July 30,
         1946, a boy of, hm, Czechoslovakia, age 19."
-transcript: {}
-translation: {}

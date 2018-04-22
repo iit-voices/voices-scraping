@@ -4653,5 +4653,3 @@ recording:
       start: '01:18:00.750'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: He played his own melody...
-transcript: {}
-translation: {}

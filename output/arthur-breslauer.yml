@@ -2886,5 +2886,3 @@ recording:
       start: '00:24:48.401'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Yes.
-transcript: {}
-translation: {}

@@ -3917,5 +3917,3 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: I thank you very much, Mrs. Goldwasser. This is a very good...[mid-sentence
         interruption of interview apparently due to the end of the spool]
-transcript: {}
-translation: {}

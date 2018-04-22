@@ -1558,5 +1558,3 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] This concludes Spool 118...at 29 min, the report of Ms. Lina
         Stumachin, 36 years old, a tattoo number: 26569. She spoke in Polish."
-transcript: {}
-translation: {}

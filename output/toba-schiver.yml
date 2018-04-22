@@ -5280,5 +5280,3 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] Tradate, Italy...a small locality between Como and Milano,
         with a community of displaced persons mainly consisting of young kibbutzim."
-transcript: {}
-translation: {}

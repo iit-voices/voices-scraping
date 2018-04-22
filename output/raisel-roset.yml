@@ -2244,5 +2244,3 @@ recording:
       start: '00:16:42.332'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: That is possibly the land of dreams.
-transcript: {}
-translation: {}

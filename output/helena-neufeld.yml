@@ -2449,5 +2449,3 @@ recording:
       start: '00:30:55.474'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In Polish] For myself. I can’t [words not clear]"
-transcript: {}
-translation: {}

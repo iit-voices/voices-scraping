@@ -115,9 +115,7 @@ Dir.glob(@files).each do |file|
   # Create an outer hash in service of the YAML structure
   record_hash = {
     'interviewee': {},
-    'recording': {},
-    'transcript': {},
-    'translation': {}
+    'recording': {}
   }
 
   # Use a struct to build the record

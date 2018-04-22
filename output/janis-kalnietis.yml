@@ -1927,5 +1927,3 @@ recording:
       start: '00:20:48.258'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] This concludes spool four hundred forty-two."
-transcript: {}
-translation: {}

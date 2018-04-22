@@ -992,5 +992,3 @@ recording:
       start: '00:12:21.129'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: That is fine, now...
-transcript: {}
-translation: {}

@@ -1138,5 +1138,3 @@ recording:
       start: '00:31:15.001'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Well, later, I hope I will be able to sing it, it’s under consideration.
-transcript: {}
-translation: {}

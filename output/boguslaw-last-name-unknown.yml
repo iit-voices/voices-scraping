@@ -368,5 +368,3 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] This concludes the report—very brief but very interesting report—of
         Mr. Boguslaw, a...[ends abruptly]"
-transcript: {}
-translation: {}

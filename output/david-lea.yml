@@ -5319,5 +5319,3 @@ recording:
       start: '00:54:58.742'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] This ends Spool 42 of Mr. David Lea."
-transcript: {}
-translation: {}

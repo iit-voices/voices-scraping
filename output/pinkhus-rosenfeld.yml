@@ -3262,5 +3262,3 @@ recording:
       start: '00:52:55.375'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] Hénonville, September the 13th, 1946, near Paris."
-transcript: {}
-translation: {}

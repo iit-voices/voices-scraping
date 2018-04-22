@@ -4510,5 +4510,3 @@ recording:
       start: '00:33:50.334'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: They did not...[abrupt end of the spool].
-transcript: {}
-translation: {}

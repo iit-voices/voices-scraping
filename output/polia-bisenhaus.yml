@@ -3327,5 +3327,3 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] This is a record of Polia Bisenhaus taken at the ORT school,
         evening course, on July 29th, in Paris, 1946."
-transcript: {}
-translation: {}

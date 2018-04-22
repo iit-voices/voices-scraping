@@ -2722,5 +2722,3 @@ recording:
       start: '00:39:35.842'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] This ends Spool 49, a report by the engi—...[ends abruptly]"
-transcript: {}
-translation: {}

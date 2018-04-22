@@ -5156,5 +5156,3 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: There I lay four weeks, and then I heard about the transport going to Switzerland.
         So I reported for it, to go to Switzerland.
-transcript: {}
-translation: {}

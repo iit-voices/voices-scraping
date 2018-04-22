@@ -2041,5 +2041,3 @@ recording:
       start: '00:23:15.415'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[some sentences unintelligible]. [spool stops]"
-transcript: {}
-translation: {}

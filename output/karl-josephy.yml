@@ -4514,5 +4514,3 @@ recording:
       start: '00:39:34.255'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Bon.
-transcript: {}
-translation: {}

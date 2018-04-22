@@ -7046,5 +7046,3 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] We regret we have to finish this interview. The automobile
         is waiting. This concludes Spool 150."
-transcript: {}
-translation: {}

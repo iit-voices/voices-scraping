@@ -4694,5 +4694,3 @@ recording:
       start: '01:19:09.268'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Armbands. That means—they surrender.
-transcript: {}
-translation: {}

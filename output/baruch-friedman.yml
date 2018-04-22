@@ -6020,5 +6020,3 @@ recording:
       start: '00:50:13.163'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: You’re welcome.
-transcript: {}
-translation: {}

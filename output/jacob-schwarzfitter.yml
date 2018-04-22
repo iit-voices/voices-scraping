@@ -3144,5 +3144,3 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: ". . . Schwarzfitter reporting. Recording of Illinois Institute of Technology.
         125 volts, 50 kilo— 50 cycles."
-transcript: {}
-translation: {}

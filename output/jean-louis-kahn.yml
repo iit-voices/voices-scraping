@@ -1286,5 +1286,3 @@ recording:
       start: '00:24:50.948'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Well, it was awfully good...[ends abruptly]
-transcript: {}
-translation: {}

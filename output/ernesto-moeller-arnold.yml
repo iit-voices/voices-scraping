@@ -3194,5 +3194,3 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In Spanish] Don’t mention it. [He apparently understood the last sentence
         spoken in English.]"
-transcript: {}
-translation: {}

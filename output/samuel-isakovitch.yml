@@ -2707,5 +2707,3 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] Yes. This was the supplement to the same spool of the young
         Samuel Isakovitch. Spool#7."
-transcript: {}
-translation: {}
