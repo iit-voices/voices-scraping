@@ -23,7 +23,7 @@ recording:
   - 9-125B
   - 9-126A
   audio:
-    file: ''
+    file: ostlandI_9-125B_9-126A_SLP.mp3
     mime-type: audio/mp3
   transcript: 
   translation:

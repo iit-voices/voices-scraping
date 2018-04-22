@@ -26,7 +26,7 @@ recording:
   spools:
   - 9-6A
   audio:
-    file: ''
+    file: moskovitzM_9-6A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

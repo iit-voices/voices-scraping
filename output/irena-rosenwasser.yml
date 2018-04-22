@@ -27,7 +27,7 @@ recording:
   - 9-62
   - 9-63
   audio:
-    file: ''
+    file: rosenwasserI_9-62_9-63_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

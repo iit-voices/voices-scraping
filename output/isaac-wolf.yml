@@ -23,7 +23,7 @@ recording:
   - 9-100
   - 9-101
   audio:
-    file: ''
+    file: wolfI_9-100_9-101_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

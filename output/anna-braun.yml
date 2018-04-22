@@ -24,7 +24,7 @@ recording:
   - 9-133
   - 9-134
   audio:
-    file: ''
+    file: braunA_9-133_9-134_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

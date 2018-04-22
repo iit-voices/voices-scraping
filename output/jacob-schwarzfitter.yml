@@ -30,7 +30,7 @@ recording:
   - 9-93
   - 9-94
   audio:
-    file: ''
+    file: schwarzfitterJ_9-93_9-94_SLP.mp3
     mime-type: audio/mp3
   transcript: 
   translation:

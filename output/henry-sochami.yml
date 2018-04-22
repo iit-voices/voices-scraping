@@ -24,7 +24,7 @@ recording:
   spools:
   - 9-43A
   audio:
-    file: ''
+    file: sochamiH_9-43A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: es

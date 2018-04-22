@@ -32,7 +32,7 @@ recording:
   - 9-157
   - 9-158A
   audio:
-    file: ''
+    file: frimL_9-156B_9-157_9-158A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

@@ -22,7 +22,7 @@ recording:
   spools:
   - 9-132
   audio:
-    file: ''
+    file: kluverJ_9-132_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

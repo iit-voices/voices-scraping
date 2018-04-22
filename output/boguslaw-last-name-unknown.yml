@@ -25,7 +25,7 @@ recording:
   spools:
   - 9-156A
   audio:
-    file: ''
+    file: boguslaw_9-156A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

@@ -27,7 +27,7 @@ recording:
   - 9-72
   - 9-73A
   audio:
-    file: ''
+    file: hamburgerL_9-72_9-73A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

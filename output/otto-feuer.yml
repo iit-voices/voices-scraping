@@ -26,7 +26,7 @@ recording:
   - 9-64
   - 9-65
   audio:
-    file: ''
+    file: feuerO_9-64_9-65_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: en

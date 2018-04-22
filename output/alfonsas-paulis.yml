@@ -27,7 +27,7 @@ recording:
   spools:
   - 9-144B
   audio:
-    file: ''
+    file: paulisA_9-144B_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

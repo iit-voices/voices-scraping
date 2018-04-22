@@ -24,7 +24,7 @@ recording:
   spools:
   - 9-4B
   audio:
-    file: ''
+    file: czolopickiB_9-4B_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: ru

@@ -30,7 +30,7 @@ recording:
   - 9-155B
   - 9-155C
   audio:
-    file: ''
+    file: tcharnabrodaR_9-155B_9-156A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

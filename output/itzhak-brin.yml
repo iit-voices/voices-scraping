@@ -25,7 +25,7 @@ recording:
   - 9-126B
   - 9-127
   audio:
-    file: ''
+    file: brinI_9-126B_9-127_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

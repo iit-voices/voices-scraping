@@ -23,7 +23,7 @@ recording:
   spools:
   - 9-40A
   audio:
-    file: ''
+    file: milgramM_9-40A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

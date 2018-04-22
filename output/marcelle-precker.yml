@@ -23,7 +23,7 @@ recording:
   spools:
   - 9-41A
   audio:
-    file: ''
+    file: preckerM_9-41A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: en

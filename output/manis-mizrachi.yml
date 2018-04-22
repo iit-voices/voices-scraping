@@ -23,7 +23,7 @@ recording:
   spools:
   - 9-43B
   audio:
-    file: ''
+    file: mizrachiM_9-43B_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: en

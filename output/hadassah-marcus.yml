@@ -28,7 +28,7 @@ recording:
   - 9-128
   - 9-129
   audio:
-    file: ''
+    file: marcusH_9-128_9-129_SLP.mp3
     mime-type: audio/mp3
   transcript: 
   translation:

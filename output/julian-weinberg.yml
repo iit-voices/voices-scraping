@@ -23,7 +23,7 @@ recording:
   spools:
   - 9-49
   audio:
-    file: ''
+    file: weinbergJ_9-49_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

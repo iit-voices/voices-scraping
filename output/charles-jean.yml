@@ -23,7 +23,7 @@ recording:
   spools:
   - 9-57B
   audio:
-    file: ''
+    file: jeanC_9-57B_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: fr

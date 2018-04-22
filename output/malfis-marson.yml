@@ -24,7 +24,7 @@ recording:
   spools:
   - 9-6B
   audio:
-    file: ''
+    file: marsonM_9-6B_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: ru

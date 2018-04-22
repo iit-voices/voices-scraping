@@ -23,7 +23,7 @@ recording:
   spools:
   - 9-21
   audio:
-    file: ''
+    file: lipschitzM_9-21A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

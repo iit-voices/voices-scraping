@@ -23,7 +23,7 @@ recording:
   spools:
   - 9-119A
   audio:
-    file: ''
+    file: meltzakR_9-119A_SLP.mp3
     mime-type: audio/mp3
   transcript: 
   translation:

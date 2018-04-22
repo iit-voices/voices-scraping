@@ -33,7 +33,7 @@ recording:
   - 9-163
   - 9-164A
   audio:
-    file: ''
+    file: matznerJ_9-163_9-164A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

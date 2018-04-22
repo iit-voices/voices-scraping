@@ -24,7 +24,7 @@ recording:
   spools:
   - 9-4A
   audio:
-    file: ''
+    file: rosetR_9-4A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

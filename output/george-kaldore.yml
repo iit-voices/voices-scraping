@@ -27,7 +27,7 @@ recording:
   - 9-98
   - 9-99
   audio:
-    file: ''
+    file: kaldoreG_9-97_9-98_9-99_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

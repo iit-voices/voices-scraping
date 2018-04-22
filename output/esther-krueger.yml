@@ -24,7 +24,7 @@ recording:
   spools:
   - 9-109
   audio:
-    file: ''
+    file: kruegerE_9-109_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

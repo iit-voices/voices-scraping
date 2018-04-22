@@ -33,7 +33,7 @@ recording:
   - 9-96
   - 9-104A
   audio:
-    file: ''
+    file: epsteinN_9-95_9-96_9-104A_SLP.mp3
     mime-type: audio/mp3
   transcript: 
   translation:

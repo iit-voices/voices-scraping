@@ -25,7 +25,7 @@ recording:
   - 9-114
   - 9-115
   audio:
-    file: ''
+    file: kuechlerL_9-114_9-115_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: ru

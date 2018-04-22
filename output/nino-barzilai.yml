@@ -25,7 +25,7 @@ recording:
   spools:
   - 9-21B
   audio:
-    file: ''
+    file: barzilaiN_9-21B_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: es

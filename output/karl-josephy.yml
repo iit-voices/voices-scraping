@@ -25,7 +25,7 @@ recording:
   spools:
   - 9-66
   audio:
-    file: ''
+    file: josephyK_9-66_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

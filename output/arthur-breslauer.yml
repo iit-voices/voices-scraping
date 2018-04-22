@@ -23,7 +23,7 @@ recording:
   spools:
   - 9-90B
   audio:
-    file: ''
+    file: breslauerA_9-90B_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

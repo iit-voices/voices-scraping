@@ -25,7 +25,7 @@ recording:
   spools:
   - 9-54
   audio:
-    file: ''
+    file: oleiskiJ_9-54_SLP.mp3
     mime-type: audio/mp3
   transcript: 
   translation:

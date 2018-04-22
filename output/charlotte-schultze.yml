@@ -23,7 +23,7 @@ recording:
   - 9-136B
   - 9-137A
   audio:
-    file: ''
+    file: schultzeC_9-136B_9-137A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

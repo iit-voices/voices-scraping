@@ -26,7 +26,7 @@ recording:
   spools:
   - 9-116B
   audio:
-    file: ''
+    file: ziererE_9-116B_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

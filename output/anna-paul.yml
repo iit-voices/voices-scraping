@@ -23,7 +23,7 @@ recording:
   - 9-140B
   - 9-141A
   audio:
-    file: ''
+    file: paulA_9-140B_9-141A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: ru

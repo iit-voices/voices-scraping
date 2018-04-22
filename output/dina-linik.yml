@@ -23,7 +23,7 @@ recording:
   spools:
   - 9-130A
   audio:
-    file: ''
+    file: linikD_9-130A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: yi

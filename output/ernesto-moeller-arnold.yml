@@ -22,7 +22,7 @@ recording:
   spools:
   - 9-135
   audio:
-    file: ''
+    file: moellerE_9-135_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: es

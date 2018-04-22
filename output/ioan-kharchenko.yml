@@ -24,7 +24,7 @@ recording:
   - 9-143C
   - 9-144A
   audio:
-    file: ''
+    file: kharchenkoI_9-143C_9-144A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: ru

@@ -26,7 +26,7 @@ recording:
   - 9-144
   - 9-145
   audio:
-    file: ''
+    file: lukoseviciusV_9-144C_9-145_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: ru

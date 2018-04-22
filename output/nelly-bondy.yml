@@ -29,7 +29,7 @@ recording:
   - 9-60
   - 9-61
   audio:
-    file: ''
+    file: bondyN_9-60_9-61_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: en

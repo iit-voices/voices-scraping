@@ -24,7 +24,7 @@ recording:
   - 9-168
   - 9-169A
   audio:
-    file: ''
+    file: odinetsD_9-168_9-169A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: ru

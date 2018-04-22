@@ -22,7 +22,7 @@ recording:
   spools:
   - 9-8
   audio:
-    file: ''
+    file: rudo_9-8_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: es

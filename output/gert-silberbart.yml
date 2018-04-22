@@ -27,7 +27,7 @@ recording:
   - 9-82
   - 9-83A
   audio:
-    file: ''
+    file: silberbartG_9-82_9-83A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

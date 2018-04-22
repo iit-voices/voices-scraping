@@ -29,7 +29,7 @@ recording:
   - 9-12B
   - 9-13
   audio:
-    file: ''
+    file: eisenbergK_9-12B_9-13_SLP.mp3
     mime-type: audio/mp3
   transcript: 
   translation:

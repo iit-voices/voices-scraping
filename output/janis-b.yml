@@ -24,7 +24,7 @@ recording:
   - 9-152B
   - 9-153A
   audio:
-    file: ''
+    file: bJanis_9-152B_9-153A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: ru

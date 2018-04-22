@@ -22,7 +22,7 @@ recording:
   spools:
   - 9-117
   audio:
-    file: ''
+    file: ferberJ_9-117_SLP.mp3
     mime-type: audio/mp3
   transcript: 
   translation:

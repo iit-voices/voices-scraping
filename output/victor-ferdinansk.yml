@@ -22,7 +22,7 @@ recording:
   spools:
   - 9-153B
   audio:
-    file: ''
+    file: ferdinanskV_9-153B_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

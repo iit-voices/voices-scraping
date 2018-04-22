@@ -23,7 +23,7 @@ recording:
   - 9-139B
   - 9-140A
   audio:
-    file: ''
+    file: zeplitR_9-139B_9-140A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: en

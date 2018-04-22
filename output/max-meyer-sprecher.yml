@@ -27,7 +27,7 @@ recording:
   - 9-147
   - 9-148
   audio:
-    file: ''
+    file: sprecherM_9-147_9-148_SLP.mp3
     mime-type: audio/mp3
   transcript: 
   translation:

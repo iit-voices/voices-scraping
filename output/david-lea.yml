@@ -29,7 +29,7 @@ recording:
   - 9-41B
   - 9-42
   audio:
-    file: ''
+    file: leaD_9-41B_9-42_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: es

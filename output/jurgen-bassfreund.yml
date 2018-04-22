@@ -29,7 +29,7 @@ recording:
   - 9-138B
   - 9-139A
   audio:
-    file: ''
+    file: bassfreundJ_9-137B_9-138B_9-139_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

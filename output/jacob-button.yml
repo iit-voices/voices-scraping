@@ -25,7 +25,7 @@ recording:
   spools:
   - 9-25
   audio:
-    file: ''
+    file: buttonJ_9-25_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

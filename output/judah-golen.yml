@@ -24,7 +24,7 @@ recording:
   - 9-161
   - 9-162
   audio:
-    file: ''
+    file: golenJ_9-160_9-161_9-162_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: en

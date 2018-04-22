@@ -33,7 +33,7 @@ recording:
   - 9-75
   - 9-76
   audio:
-    file: ''
+    file: nehrichW_9-75_9-76_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

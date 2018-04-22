@@ -23,7 +23,7 @@ recording:
   spools:
   - 9-40B
   audio:
-    file: ''
+    file: freilichE_9-40B_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

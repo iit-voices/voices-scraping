@@ -29,7 +29,7 @@ recording:
   - 9-73B
   - 9-74A
   audio:
-    file: ''
+    file: reichS_9-73B_9-74A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

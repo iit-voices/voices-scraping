@@ -28,7 +28,7 @@ recording:
   - 9-150
   - 9-151
   audio:
-    file: ''
+    file: tichauerH_9-149_9-150_9-151_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

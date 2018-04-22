@@ -22,7 +22,7 @@ recording:
   spools:
   - 9-142A
   audio:
-    file: ''
+    file: billiT_9-142A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: ru

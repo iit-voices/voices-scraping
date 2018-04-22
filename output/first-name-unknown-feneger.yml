@@ -22,7 +22,7 @@ recording:
   spools:
   - 9-45A
   audio:
-    file: ''
+    file: feneger_9-45A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: en

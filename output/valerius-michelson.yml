@@ -23,7 +23,7 @@ recording:
   - 9-153C
   - 9-154
   audio:
-    file: ''
+    file: michelsonV_9-153C_9-154_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: ru

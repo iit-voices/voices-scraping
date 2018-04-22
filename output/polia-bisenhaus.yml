@@ -29,7 +29,7 @@ recording:
   spools:
   - 9-3B
   audio:
-    file: ''
+    file: bisenhausP_9-3B_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

@@ -22,7 +22,7 @@ recording:
   spools:
   - 9-116A
   audio:
-    file: ''
+    file: schachtN_9-116A_SLP.mp3
     mime-type: audio/mp3
   transcript: 
   translation:

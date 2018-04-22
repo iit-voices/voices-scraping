@@ -23,7 +23,7 @@ recording:
   spools:
   - 9-56B
   audio:
-    file: ''
+    file: kahnM_9-56B_9-57A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: en

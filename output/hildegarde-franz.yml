@@ -23,7 +23,7 @@ recording:
   spools:
   - 9-136
   audio:
-    file: ''
+    file: franzH_9-136_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

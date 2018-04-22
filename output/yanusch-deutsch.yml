@@ -27,7 +27,7 @@ recording:
   spools:
   - 9-80
   audio:
-    file: ''
+    file: deutschY_9-80_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: en

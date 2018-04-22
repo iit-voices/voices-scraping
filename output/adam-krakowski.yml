@@ -32,7 +32,7 @@ recording:
   spools:
   - 9-5
   audio:
-    file: ''
+    file: krakowskiA_9-5_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

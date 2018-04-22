@@ -28,7 +28,7 @@ recording:
   - '15'
   - '16'
   audio:
-    file: ''
+    file: nichthauserF_9-15_9-16_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

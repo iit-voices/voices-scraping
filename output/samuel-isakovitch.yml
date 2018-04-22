@@ -29,7 +29,7 @@ recording:
   spools:
   - 9-7
   audio:
-    file: ''
+    file: isakovitchS_9-7_SLP.mp3
     mime-type: audio/mp3
   transcript: 
   translation:

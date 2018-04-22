@@ -24,7 +24,7 @@ recording:
   - 9-67
   - 9-68
   audio:
-    file: ''
+    file: schlaefrigF_9-67_9-68_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de

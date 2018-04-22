@@ -29,7 +29,7 @@ recording:
   - 9-102
   - 9-103
   audio:
-    file: ''
+    file: piskorzB_9-102_9-103_SLP.mp3
     mime-type: audio/mp3
   transcript: 
   translation:

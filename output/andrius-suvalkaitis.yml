@@ -24,7 +24,7 @@ recording:
   spools:
   - 9-143A
   audio:
-    file: ''
+    file: suvalkaitisA_9-143A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: ru

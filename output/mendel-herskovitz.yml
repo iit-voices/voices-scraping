@@ -27,7 +27,7 @@ recording:
   - 9-9
   - 9-10
   audio:
-    file: ''
+    file: herskovitzM_9-9_9-10_SLP.mp3
     mime-type: audio/mp3
   transcript: 
   translation:

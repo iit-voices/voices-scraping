@@ -23,7 +23,7 @@ recording:
   - 9-89
   - 9-90A
   audio:
-    file: ''
+    file: johlesM_9-89_9-90A_SLP.mp3
     mime-type: audio/mp3
   transcript:
     language: de
