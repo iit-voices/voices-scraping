@@ -186,7 +186,7 @@ Dir.glob(@files).each do |file|
       end
       @u.end = li.next
       # Subtitute ugly ` . . . ` ellipsis with `...`
-      @u.u = li.css('.utterance text()').to_s.strip.smart_format.gsub(/\s\.\s\.\s\.\s?/,'...')
+      @u.u = li.css('.utterance text()').to_s.strip.gsub(/\s\.\s\.\s\.\s?/,'...').smart_format.gsub(/…/,'...')
       # Add the utterance onto the end of the transcript array
       @trans.interview.push(@u.to_h)
     end

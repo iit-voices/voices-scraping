@@ -35,9 +35,9 @@ recording:
     - who: David Boder
       start: '00:00:14.935'
       end: '00:00:39.325'
-      u: "[In English] This Spool… [noise]. This is Spool 50,Boder is mistaken — this
-        is Spool 51. Spool 50 is the interview with Dr. Jacob Wilf.1 number 50, taken
-        in Paris on August 17, 1946; and the interviewee is Mrs. Rachel Gurmanova
+      u: "[In English] This Spool... [noise]. This is Spool 50,Boder is mistaken —
+        this is Spool 51. Spool 50 is the interview with Dr. Jacob Wilf.1 number 50,
+        taken in Paris on August 17, 1946; and the interviewee is Mrs. Rachel Gurmanova
         from Warsaw."
     - who: David Boder
       start: '00:00:39.325'
@@ -51,12 +51,12 @@ recording:
     - who: David Boder
       start: '00:00:50.367'
       end: '00:00:51.030'
-      u: My name is…
+      u: My name is...
     - who: Rachel Gurmanova
       start: '00:00:51.030'
       end: '00:00:57.747'
       u: My name is Gurmanova, Rachel, from Warsaw [she made an attempt to speak German]
-        and…
+        and...
     - who: David Boder
       start: '00:00:57.747'
       end: '00:00:59.016'
@@ -126,7 +126,7 @@ recording:
     - who: David Boder
       start: '00:01:47.839'
       end: '00:01:50.771'
-      u: I have visited Yashunski in Poland…
+      u: I have visited Yashunski in Poland...
     - who: Rachel Gurmanova
       start: '00:01:50.771'
       end: '00:01:50.937'
@@ -134,7 +134,7 @@ recording:
     - who: David Boder
       start: '00:01:50.937'
       end: '00:01:52.021'
-      u: In thirty-six, but…
+      u: In thirty-six, but...
     - who: Rachel Gurmanova
       start: '00:01:52.021'
       end: '00:01:54.562'
@@ -219,7 +219,7 @@ recording:
       start: '00:03:20.700'
       end: '00:03:29.390'
       u: It is known. Therefore the battle lasted for 26 days. But the Germans were
-        superior in the number of airplanes…
+        superior in the number of airplanes...
     - who: David Boder
       start: '00:03:29.390'
       end: '00:03:29.603'
@@ -229,7 +229,7 @@ recording:
       end: '00:04:00.716'
       u: And they destroyed the city and they threatened in the last days that if
         the city will not be surrendered, they will kill everybody. And therefore
-        they were compelled…There was Kazinski, the mayor of the city. He remained
+        they were compelled...There was Kazinski, the mayor of the city. He remained
         at his post up to the last moment. And incessantly spoke over the radio. He
         pleaded that the city of Warsaw be defended unto death. But it did not help.
         He surrendered, then was caught and shot.
@@ -260,11 +260,11 @@ recording:
     - who: David Boder
       start: '00:04:15.225'
       end: '00:04:15.506'
-      u: Well….
+      u: Well....
     - who: Rachel Gurmanova
       start: '00:04:15.506'
       end: '00:04:15.838'
-      u: Well…
+      u: Well...
     - who: David Boder
       start: '00:04:15.838'
       end: '00:04:16.314'
@@ -284,7 +284,7 @@ recording:
     - who: David Boder
       start: '00:04:24.505'
       end: '00:04:26.073'
-      u: And so….
+      u: And so....
     - who: Rachel Gurmanova
       start: '00:04:26.073'
       end: '00:04:51.778'
@@ -302,7 +302,7 @@ recording:
       start: '00:04:52.342'
       end: '00:04:58.594'
       u: Two days later they already started beating up the Jews who would still come
-        asking for bread. And…
+        asking for bread. And...
     - who: David Boder
       start: '00:04:58.594'
       end: '00:04:59.452'
@@ -310,7 +310,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:04:59.452'
       end: '00:05:01.407'
-      u: The Germans…the Germans.
+      u: The Germans...the Germans.
     - who: David Boder
       start: '00:05:01.407'
       end: '00:05:02.047'
@@ -333,7 +333,7 @@ recording:
       u: And they started dragging the Jews to work. There were various places. There
         were [places] where the Jews would work through a day, they would get a bit
         of soup, would get a gread and off they went for home. But there were places
-        like, for instance, the parliament. The parliament, the congress…
+        like, for instance, the parliament. The parliament, the congress...
     - who: David Boder
       start: '00:05:40.849'
       end: '00:05:41.428'
@@ -404,7 +404,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:07:38.110'
       end: '00:07:39.845'
-      u: Committee. It was called Jewish council…..
+      u: Committee. It was called Jewish council.....
     - who: David Boder
       start: '00:07:39.845'
       end: '00:07:40.132'
@@ -452,7 +452,7 @@ recording:
       start: '00:08:21.172'
       end: '00:08:29.195'
       u: He poisoned — yes, he poisoned himself. And the Germans started demanding
-        that they be given…they need manpower.
+        that they be given...they need manpower.
     - who: David Boder
       start: '00:08:29.195'
       end: '00:08:30.091'
@@ -482,7 +482,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:09:02.565'
       end: '00:09:06.796'
-      u: Yes. I have seen them, very many of the. I shall…
+      u: Yes. I have seen them, very many of the. I shall...
     - who: David Boder
       start: '00:09:06.796'
       end: '00:09:08.376'
@@ -570,7 +570,7 @@ recording:
       start: '00:10:28.469'
       end: '00:10:35.571'
       u: The Germans made no secret about. These were the facts. There were three
-        large shops. At Steubens [??]…
+        large shops. At Steubens [??]...
     - who: David Boder
       start: '00:10:35.571'
       end: '00:10:35.788'
@@ -578,7 +578,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:10:35.788'
       end: '00:11:01.941'
-      u: "…worked twelve thousand Jews. At Schatz worked eight and a half thousand
+      u: "...worked twelve thousand Jews. At Schatz worked eight and a half thousand
         Jews, and at [word not clear] shops where six thousand Jews were working.
         Of course, the Jews endeavored to live in peace with the Germans. There were
         Germans who accepted money, so they would not beat them. They left the families
@@ -649,7 +649,7 @@ recording:
         where they had the gas-chambers, and there all the Jews were sent, and there
         they were killed. But for the time being [??] it was not known. People deceived
         themselves. For example, when Treblinka was ready, that lager, that lager
-        of death, so to speak…
+        of death, so to speak...
     - who: David Boder
       start: '00:12:17.686'
       end: '00:12:18.950'
@@ -686,7 +686,7 @@ recording:
       u: And they were held there overnight. There was a curfew until which one could
         go out. That night they permitted to go out all night. And if somebody wants
         to bring bundles to those men who are departing for work in Smolensk — that
-        is what they said…
+        is what they said...
     - who: David Boder
       start: '00:12:54.706'
       end: '00:12:55.094'
@@ -752,7 +752,7 @@ recording:
       u: 'The Ghetto was inaugurated the 15th of November, 1940, on a Saturday; exactly.
         This was the first Saturday after the Day of Atonement. [Note: the last statement
         or the month are probably incorrect; should be checked with a Jewish calendar,
-        September would probably be correct] …The Day of Atonement was on Monday,
+        September would probably be correct] ...The Day of Atonement was on Monday,
         and on Monday noon [??] it was announced over the radio, that there will be
         installed a Jewish district.'
     - who: David Boder
@@ -763,7 +763,7 @@ recording:
       start: '00:14:05.682'
       end: '00:14:13.638'
       u: So, on a Saturday morning, it was blocked. Walls were constructed before
-        and they…
+        and they...
     - who: David Boder
       start: '00:14:13.638'
       end: '00:14:14.590'
@@ -779,11 +779,11 @@ recording:
     - who: Rachel Gurmanova
       start: '00:14:19.588'
       end: '00:14:22.196'
-      u: Yes, stone walls one meter and a half high…
+      u: Yes, stone walls one meter and a half high...
     - who: David Boder
       start: '00:14:22.196'
       end: '00:14:23.625'
-      u: How…One and a half meter thick or a meter and a half…?
+      u: How...One and a half meter thick or a meter and a half...?
     - who: Rachel Gurmanova
       start: '00:14:23.625'
       end: '00:14:27.665'
@@ -803,14 +803,14 @@ recording:
     - who: Rachel Gurmanova
       start: '00:14:30.498'
       end: '00:15:11.667'
-      u: "…in height. It is interesting that ORT was located outside the Ghetto. And
-        on Friday the 14th Yashunski was given a permit that those belonging to the
-        ORT may remain outside the Ghetto. They ordered from the Gestapo to present
-        a list of all students…students, and teaching personnel, administrative personnel,
-        and they will issue permits. But already on Saturday morning, the 15th, I
-        was not permitted to enter the building, and nothing came out of it. Afterward
-        they gave us the permission and ORT moved all its belongs and continued with
-        the courses."
+      u: "...in height. It is interesting that ORT was located outside the Ghetto.
+        And on Friday the 14th Yashunski was given a permit that those belonging to
+        the ORT may remain outside the Ghetto. They ordered from the Gestapo to present
+        a list of all students...students, and teaching personnel, administrative
+        personnel, and they will issue permits. But already on Saturday morning, the
+        15th, I was not permitted to enter the building, and nothing came out of it.
+        Afterward they gave us the permission and ORT moved all its belongs and continued
+        with the courses."
     - who: David Boder
       start: '00:15:11.667'
       end: '00:15:13.026'
@@ -822,7 +822,7 @@ recording:
     - who: David Boder
       start: '00:15:14.541'
       end: '00:15:15.849'
-      u: Into the…the Jewish district?
+      u: Into the...the Jewish district?
     - who: Rachel Gurmanova
       start: '00:15:15.849'
       end: '00:15:20.483'
@@ -835,17 +835,17 @@ recording:
       start: '00:15:22.130'
       end: '00:16:37.211'
       u: I only want to say, that ORT was the only institution which was given permission
-        to proceed with…with its school and courses. ORT developed a very great activity
-        and it had a very great sphere of action, because working people were maintaining,
-        so to speak [tolerable] living conditions. Those who worked in the ORT, had
-        work certificates [?] and had the right to live. Temporarily. Of course, afterwards
-        everything went to naught. In these confines [??] the Ghetto remained until
-        the 22nd of June, 1942. During that time terrible things happened. For instance,
-        there was a certain Kort, a communist, by the name of Kort. The Gestapo found
-        out that he was in Warsaw and they came to arrest him. So, he drew a revolver,
-        killed two Gestapo men, and ran away, fled. For this they took three hundred
-        and five [??] intellectuals, that means physicians, lawyers, engineers, they
-        were shot at the citadel, that is, at the fortress…
+        to proceed with...with its school and courses. ORT developed a very great
+        activity and it had a very great sphere of action, because working people
+        were maintaining, so to speak [tolerable] living conditions. Those who worked
+        in the ORT, had work certificates [?] and had the right to live. Temporarily.
+        Of course, afterwards everything went to naught. In these confines [??] the
+        Ghetto remained until the 22nd of June, 1942. During that time terrible things
+        happened. For instance, there was a certain Kort, a communist, by the name
+        of Kort. The Gestapo found out that he was in Warsaw and they came to arrest
+        him. So, he drew a revolver, killed two Gestapo men, and ran away, fled. For
+        this they took three hundred and five [??] intellectuals, that means physicians,
+        lawyers, engineers, they were shot at the citadel, that is, at the fortress...
     - who: David Boder
       start: '00:16:37.211'
       end: '00:16:37.493'
@@ -853,12 +853,12 @@ recording:
     - who: Rachel Gurmanova
       start: '00:16:37.493'
       end: '00:17:05.401'
-      u: "…on the shore of the Vistula, and they were all thrown into the water. [The
-        next sentence is not clear. It could be reconstructed probably in this way:
-        how they picked them was not clear, maybe they had a list] but it was obvious
-        that they took but a few working men. There was another instance when a hoodlum
-        [??] some thief was running. A squad was chasing after him and they got into
-        a house Nalewki 9."
+      u: "...on the shore of the Vistula, and they were all thrown into the water.
+        [The next sentence is not clear. It could be reconstructed probably in this
+        way: how they picked them was not clear, maybe they had a list] but it was
+        obvious that they took but a few working men. There was another instance when
+        a hoodlum [??] some thief was running. A squad was chasing after him and they
+        got into a house Nalewki 9."
     - who: David Boder
       start: '00:17:05.401'
       end: '00:17:06.463'
@@ -884,7 +884,7 @@ recording:
     - who: David Boder
       start: '00:17:55.054'
       end: '00:17:56.995'
-      u: What does that mean, they used to beat up? While they were…
+      u: What does that mean, they used to beat up? While they were...
     - who: Rachel Gurmanova
       start: '00:17:56.995'
       end: '00:18:33.536'
@@ -904,14 +904,14 @@ recording:
     - who: Rachel Gurmanova
       start: '00:18:33.790'
       end: '00:20:10.568'
-      u: 'There was at [that] time the Ghetto: Bogomarski [??]…the Bank Place [next
-        name not clear] and Leszno [??] up to Zelazna [??]. They have assigned…this
+      u: 'There was at [that] time the Ghetto: Bogomarski [??]...the Bank Place [next
+        name not clear] and Leszno [??] up to Zelazna [??]. They have assigned...this
         they called the large Ghetto. There was also the small Ghetto — that was Twarda
         [??] Zydowska [??] penetrating from Plan [one name not clear]. Separately
         stood [word not clear] — this was on Prosta [??] number 14 — that was a school
         of commerce. There were [word not clear] and there also lived all those who
-        worked with us. The movement between…if one had to go to the greater Ghetto
-        through the Zelazna [??] street… the Zelzna itself was on the one side already
+        worked with us. The movement between...if one had to go to the greater Ghetto
+        through the Zelazna [??] street... the Zelzna itself was on the one side already
         outside the Ghetto. And the Chlodan too. So there was constructed a bridge,
         to get across. One would get down [??] on one side of Zelzna and get across
         to the other side of the Zelezna. Because the middle was outside the Ghetto.
@@ -936,7 +936,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:20:15.691'
       end: '00:20:17.442'
-      u: In such terrible conditions were they…
+      u: In such terrible conditions were they...
     - who: David Boder
       start: '00:20:17.442'
       end: '00:20:19.440'
@@ -944,7 +944,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:20:19.440'
       end: '00:20:21.026'
-      u: From the little towns. From the whole Warsaw…
+      u: From the little towns. From the whole Warsaw...
     - who: David Boder
       start: '00:20:21.026'
       end: '00:20:22.772'
@@ -977,7 +977,7 @@ recording:
     - who: David Boder
       start: '00:21:05.131'
       end: '00:21:05.906'
-      u: Where? On…
+      u: Where? On...
     - who: Rachel Gurmanova
       start: '00:21:05.906'
       end: '00:21:07.331'
@@ -1001,12 +1001,12 @@ recording:
     - who: David Boder
       start: '00:21:14.811'
       end: '00:21:15.300'
-      u: It was…
+      u: It was...
     - who: Rachel Gurmanova
       start: '00:21:15.300'
       end: '00:21:23.319'
       u: We will come to it later, yes. They were buried just so. They excavated enormous
-        ditches and they would throw them in…
+        ditches and they would throw them in...
     - who: David Boder
       start: '00:21:23.319'
       end: '00:21:24.712'
@@ -1014,7 +1014,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:21:24.712'
       end: '00:21:59.123'
-      u: 'Yes…please. [sounds like: help yourselves] as much as you like. This they
+      u: 'Yes...please. [sounds like: help yourselves] as much as you like. This they
         did not begrudge. Yes. And they started the deportation with these unfortunates.
         And here comes the psychological moment. Well, everybody thought, they will
         send away a part, and the rest will remain. Sure, they too are human beings,
@@ -1097,8 +1097,8 @@ recording:
       start: '00:23:05.047'
       end: '00:23:23.695'
       u: And they started deporting and deporting and it dragged along until, until
-        September…’42. In August ’42 they again proceeded to reduce the size of the
-        Ghetto.
+        September...’42. In August ’42 they again proceeded to reduce the size of
+        the Ghetto.
     - who: David Boder
       start: '00:23:23.695'
       end: '00:23:24.931'
@@ -1165,15 +1165,15 @@ recording:
     - who: Rachel Gurmanova
       start: '00:24:01.486'
       end: '00:24:02.345'
-      u: And so….
+      u: And so....
     - who: David Boder
       start: '00:24:02.345'
       end: '00:24:03.385'
-      u: The Extermination Command…?
+      u: The Extermination Command...?
     - who: Rachel Gurmanova
       start: '00:24:03.385'
       end: '00:24:06.762'
-      u: Extermination…It was a special Extermination Command.
+      u: Extermination...It was a special Extermination Command.
     - who: David Boder
       start: '00:24:06.762'
       end: '00:24:08.541'
@@ -1195,7 +1195,7 @@ recording:
     - who: David Boder
       start: '00:24:39.566'
       end: '00:24:40.592'
-      u: "[There is some interruption, possibly a check of the recorder.] Now then…"
+      u: "[There is some interruption, possibly a check of the recorder.] Now then..."
     - who: Rachel Gurmanova
       start: '00:24:40.592'
       end: '00:25:05.188'
@@ -1219,7 +1219,7 @@ recording:
       start: '00:25:07.846'
       end: '00:25:20.096'
       u: The children who have remained, they will remain alive. And we should arrange
-        a Children’s Home…And the Jews were so naive that they believed him.
+        a Children’s Home...And the Jews were so naive that they believed him.
     - who: David Boder
       start: '00:25:20.096'
       end: '00:25:20.583'
@@ -1265,7 +1265,7 @@ recording:
       end: '00:26:15.115'
       u: That is how the street went. Here was Okpowa and the Ghetto was now located
         on the other side of Okpowa. And so those who were working in the department
-        of…
+        of...
     - who: David Boder
       start: '00:26:15.115'
       end: '00:26:15.462'
@@ -1273,7 +1273,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:26:15.462'
       end: '00:26:18.171'
-      u: "…of the House of Life [cemetery?] so to speak…"
+      u: "...of the House of Life [cemetery?] so to speak..."
     - who: David Boder
       start: '00:26:18.171'
       end: '00:26:19.121'
@@ -1281,8 +1281,8 @@ recording:
     - who: Rachel Gurmanova
       start: '00:26:19.121'
       end: '00:26:27.456'
-      u: "[of] …the Jewish council, they had the right, they had special permits to
-        take out the dead…to the Aryan side."
+      u: "[of] ...the Jewish council, they had the right, they had special permits
+        to take out the dead...to the Aryan side."
     - who: David Boder
       start: '00:26:27.456'
       end: '00:26:28.543'
@@ -1357,15 +1357,15 @@ recording:
         me by his hand, and he says ‘you are going!’ And Brandt then simply ordered
         me to go along, of course. And I was already far in the square. And I hear
         somebody calling ‘hello, hello’ [??] [One sentence not clear] And there stood
-        then a [two words not clear] woman, a Jewish writer was there…
+        then a [two words not clear] woman, a Jewish writer was there...
     - who: David Boder
       start: '00:29:05.588'
       end: '00:29:06.187'
-      u: Nu…
+      u: Nu...
     - who: Rachel Gurmanova
       start: '00:29:06.187'
       end: '00:29:10.463'
-      u: "…and she says to me: ‘Gurmanova, it appears to me that you are being called’."
+      u: "...and she says to me: ‘Gurmanova, it appears to me that you are being called’."
     - who: David Boder
       start: '00:29:10.463'
       end: '00:29:11.760'
@@ -1386,8 +1386,8 @@ recording:
     - who: Rachel Gurmanova
       start: '00:29:45.115'
       end: '00:29:54.036'
-      u: And so it was going…it was known that in April there will be the end of the
-        Jewish Ghetto. It was known, that by April all will be massacred [?].
+      u: And so it was going...it was known that in April there will be the end of
+        the Jewish Ghetto. It was known, that by April all will be massacred [?].
     - who: David Boder
       start: '00:29:54.036'
       end: '00:30:02.325'
@@ -1396,9 +1396,9 @@ recording:
     - who: Rachel Gurmanova
       start: '00:30:02.325'
       end: '00:30:13.929'
-      u: Now I will tell you. We…it is understood when they reduced the size of the
-        Ghetto the crowding became terrible. And at the end there were fifteen people
-        to a room.
+      u: Now I will tell you. We...it is understood when they reduced the size of
+        the Ghetto the crowding became terrible. And at the end there were fifteen
+        people to a room.
     - who: David Boder
       start: '00:30:13.929'
       end: '00:30:15.040'
@@ -1418,11 +1418,11 @@ recording:
     - who: David Boder
       start: '00:30:25.618'
       end: '00:30:25.884'
-      u: "…how?"
+      u: "...how?"
     - who: Rachel Gurmanova
       start: '00:30:25.884'
       end: '00:30:29.502'
-      u: "…because people could get out to the Aryan side."
+      u: "...because people could get out to the Aryan side."
     - who: David Boder
       start: '00:30:29.502'
       end: '00:30:29.925'
@@ -1434,12 +1434,12 @@ recording:
     - who: David Boder
       start: '00:30:31.663'
       end: '00:30:32.290'
-      u: Yes…
+      u: Yes...
     - who: Rachel Gurmanova
       start: '00:30:32.290'
       end: '00:30:42.507'
-      u: Germans used to take them out…to the Aryan side. They would take them for…there
-        were value conservation details…
+      u: Germans used to take them out...to the Aryan side. They would take them for...there
+        were value conservation details...
     - who: David Boder
       start: '00:30:42.507'
       end: '00:30:43.053'
@@ -1448,7 +1448,7 @@ recording:
       start: '00:30:43.053'
       end: '00:31:00.513'
       u: They would gather together all the things. In all the buildings which the
-        Jews had abandoned…so they took Jews out [of the Ghetto], and the task of
+        Jews had abandoned...so they took Jews out [of the Ghetto], and the task of
         these Jews was to search for all the things, that have remained. You know
         the German efficiency. Everything to sort out, everything to classify.
     - who: David Boder
@@ -1458,7 +1458,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:31:01.010'
       end: '00:31:07.188'
-      u: And first of all they were interested in silverware, and good sets [of tableware]…
+      u: And first of all they were interested in silverware, and good sets [of tableware]...
     - who: David Boder
       start: '00:31:07.188'
       end: '00:31:07.641'
@@ -1466,7 +1466,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:31:07.641'
       end: '00:31:17.356'
-      u: "…in furniture. For instance, on 13c Leszno [Street] there was an enormous
+      u: "...in furniture. For instance, on 13c Leszno [Street] there was an enormous
         building, a very big house, and that was [converted into] a storehouse for
         furniture."
     - who: David Boder
@@ -1479,7 +1479,7 @@ recording:
       u: They all classified it. On the first floor were buffets, on the second were
         beds, on the third were mattresses, on the fourth were wardrobes and so on
         [?] So often Jews who used to go over to the other side, to work on these
-        storehouse, were earning very, very well. Because…
+        storehouse, were earning very, very well. Because...
     - who: David Boder
       start: '00:31:35.139'
       end: '00:31:36.441'
@@ -1487,7 +1487,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:31:36.441'
       end: '00:31:39.582'
-      u: No, let me tell you. They used to find things…
+      u: No, let me tell you. They used to find things...
     - who: David Boder
       start: '00:31:39.582'
       end: '00:31:40.117'
@@ -1499,13 +1499,13 @@ recording:
     - who: David Boder
       start: '00:31:44.986'
       end: '00:31:45.655'
-      u: Nu…
+      u: Nu...
     - who: Rachel Gurmanova
       start: '00:31:45.655'
       end: '00:31:53.344'
       u: 'So things were being sold on the Aryan side. And on that were made excellent
         profits. [Note: the members of the salvage crews apparently were selling some
-        of the gathered things to the Aryans as if they were their own] And that was…'
+        of the gathered things to the Aryans as if they were their own] And that was...'
     - who: David Boder
       start: '00:31:53.344'
       end: '00:31:54.746'
@@ -1513,9 +1513,9 @@ recording:
     - who: Rachel Gurmanova
       start: '00:31:54.746'
       end: '00:32:09.508'
-      u: "…and they would return at night to the Ghetto, and would bring in turn foodstuffs
-        [to barter]. because on the Aryan side there were foodstuffs. And so this
-        category lived very well. Besides the had good food and drink."
+      u: "...and they would return at night to the Ghetto, and would bring in turn
+        foodstuffs [to barter]. because on the Aryan side there were foodstuffs. And
+        so this category lived very well. Besides the had good food and drink."
     - who: David Boder
       start: '00:32:09.508'
       end: '00:32:11.086'
@@ -1528,7 +1528,7 @@ recording:
     - who: David Boder
       start: '00:32:18.338'
       end: '00:32:18.805'
-      u: Aha…
+      u: Aha...
     - who: Rachel Gurmanova
       start: '00:32:18.805'
       end: '00:32:19.579'
@@ -1562,7 +1562,7 @@ recording:
     - who: David Boder
       start: '00:32:39.085'
       end: '00:32:41.381'
-      u: Yes. And with money it was possible…?
+      u: Yes. And with money it was possible...?
     - who: Rachel Gurmanova
       start: '00:32:41.381'
       end: '00:33:03.745'
@@ -1590,7 +1590,7 @@ recording:
     - who: David Boder
       start: '00:33:15.022'
       end: '00:33:15.901'
-      u: "…they didn’t bring with them anybody…"
+      u: "...they didn’t bring with them anybody..."
     - who: Rachel Gurmanova
       start: '00:33:15.901'
       end: '00:33:19.007'
@@ -1606,34 +1606,34 @@ recording:
     - who: David Boder
       start: '00:33:24.568'
       end: '00:33:25.008'
-      u: How…
+      u: How...
     - who: Rachel Gurmanova
       start: '00:33:25.008'
       end: '00:33:31.701'
       u: With a revolver. Just came over and shot him. It was already known, if they
-        were coming…
+        were coming...
     - who: David Boder
       start: '00:33:31.701'
       end: '00:33:33.813'
-      u: What kind of…what kind of business did they have there?
+      u: What kind of...what kind of business did they have there?
     - who: Rachel Gurmanova
       start: '00:33:33.813'
       end: '00:33:50.341'
       u: 'Oh, just so. They were coming for a check-up [?] A panic would started —
         and the word would pass on: ‘The shooters have come.’ So they would come into
-        a dwelling. ‘Why are you home? Why are you not at work?’ — ‘I am sick!…..’So
+        a dwelling. ‘Why are you home? Why are you not at work?’ — ‘I am sick!.....’So
         don’t be sick’, and there and then he was put down and shot.'
     - who: David Boder
       start: '00:33:50.341'
       end: '00:33:53.271'
-      u: Did they have anything to do with work [duties] were they…
+      u: Did they have anything to do with work [duties] were they...
     - who: Rachel Gurmanova
       start: '00:33:53.271'
       end: '00:34:15.798'
       u: Absolutely nothing. They were Germans, and that was sufficient. Every German
-        had…the Jews were outside the law. The Jews could complain [seek justice]
+        had...the Jews were outside the law. The Jews could complain [seek justice]
         to no one. If they wanted to order to dance. I must tell you that while the
-        Jews were led to the distribution square… That is at the freight station…
+        Jews were led to the distribution square... That is at the freight station...
     - who: David Boder
       start: '00:34:15.798'
       end: '00:34:16.836'
@@ -1642,11 +1642,11 @@ recording:
       start: '00:34:16.836'
       end: '00:34:27.020'
       u: There where [a few words not clear] not at the main station, from there only
-        went the trains that were designated for Treblinka…
+        went the trains that were designated for Treblinka...
     - who: David Boder
       start: '00:34:27.020'
       end: '00:34:28.081'
-      u: Nu…
+      u: Nu...
     - who: Rachel Gurmanova
       start: '00:34:28.081'
       end: '00:34:41.543'
@@ -1661,15 +1661,15 @@ recording:
     - who: Rachel Gurmanova
       start: '00:34:42.794'
       end: '00:34:47.146'
-      u: That was such a little buggy…
+      u: That was such a little buggy...
     - who: David Boder
       start: '00:34:47.146'
       end: '00:34:47.819'
-      u: Yes, yes…
+      u: Yes, yes...
     - who: Rachel Gurmanova
       start: '00:34:47.819'
       end: '00:34:51.207'
-      u: "…like a sideseater [a riding-wagon — Reitwagen]…[a few words not clear]"
+      u: "...like a sideseater [a riding-wagon — Reitwagen]...[a few words not clear]"
     - who: David Boder
       start: '00:34:51.207'
       end: '00:34:51.343'
@@ -1699,17 +1699,17 @@ recording:
         was at [word not clear] At Gesia. There was no other. The Ghetto was closed
         all around. And the Jews knew, that in April the end will come. But the Germans
         now started something different. They said — Warsaw must be made free of Jews.
-        And so those Jews who work in shops and industries…those shopes will be transferred
-        with the shops to smaller towns. And so a transfer was made to Poniatowa,
-        and to some other little town, the name slips me for a moment.
+        And so those Jews who work in shops and industries...those shopes will be
+        transferred with the shops to smaller towns. And so a transfer was made to
+        Poniatowa, and to some other little town, the name slips me for a moment.
     - who: David Boder
       start: '00:36:03.795'
       end: '00:36:04.885'
-      u: They were transferred….
+      u: They were transferred....
     - who: Rachel Gurmanova
       start: '00:36:04.885'
       end: '00:36:05.880'
-      u: Transferred….
+      u: Transferred....
     - who: David Boder
       start: '00:36:05.880'
       end: '00:36:06.252'
@@ -1734,7 +1734,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:36:20.954'
       end: '00:36:33.973'
-      u: "…and it was known, and Jews [?] were standing on the balconies, with other
+      u: "...and it was known, and Jews [?] were standing on the balconies, with other
         people, and they knew that these humans are being led to death, and they are
         called Jews [???] [the words are scrambled from emotions] In Poniatowa they
         still worked for a short while."
@@ -1753,7 +1753,7 @@ recording:
     - who: David Boder
       start: '00:37:00.862'
       end: '00:37:14.438'
-      u: "[In German] Now Mrs…continue…"
+      u: "[In German] Now Mrs...continue..."
     - who: Rachel Gurmanova
       start: '00:37:14.438'
       end: '00:37:22.065'
@@ -1764,7 +1764,7 @@ recording:
       end: '00:37:34.441'
       u: They took with them their sewing machines, and indeed they worked there for
         a short time, and afterwards one ‘nice’ day they were led out. They were ordered
-        to dig out large ditches…
+        to dig out large ditches...
     - who: David Boder
       start: '00:37:34.441'
       end: '00:37:35.479'
@@ -1791,7 +1791,7 @@ recording:
       end: '00:38:03.708'
       u: Everybody was ordered to strip completely to tie together the things in bundles,
         and to put away each one his own things. All were laid out on the ground —
-        I have read a description of a woman who had saved herself…
+        I have read a description of a woman who had saved herself...
     - who: David Boder
       start: '00:38:03.708'
       end: '00:38:05.801'
@@ -1799,7 +1799,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:38:05.801'
       end: '00:38:12.105'
-      u: She described it…our labor committee had her book.
+      u: She described it...our labor committee had her book.
     - who: David Boder
       start: '00:38:12.105'
       end: '00:38:12.906'
@@ -1807,7 +1807,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:38:12.906'
       end: '00:38:15.407'
-      u: "…book. A report, a description."
+      u: "...book. A report, a description."
     - who: David Boder
       start: '00:38:15.407'
       end: '00:38:15.578'
@@ -1817,7 +1817,7 @@ recording:
       end: '00:38:31.922'
       u: And so they were told that all should lie down on the ground. Next to her
         was laying her ten year old little daughter and they were all shot with machine
-        guns [??]. She, and other two women…
+        guns [??]. She, and other two women...
     - who: David Boder
       start: '00:38:31.922'
       end: '00:38:34.096'
@@ -1825,7 +1825,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:38:34.096'
       end: '00:38:39.444'
-      u: Yes. Well they were killed, apparently it is possible. All shot…
+      u: Yes. Well they were killed, apparently it is possible. All shot...
     - who: David Boder
       start: '00:38:39.444'
       end: '00:38:41.006'
@@ -1833,8 +1833,8 @@ recording:
     - who: Rachel Gurmanova
       start: '00:38:41.006'
       end: '00:38:50.828'
-      u: She…by accident. Her little girl was killed and she…survived. She felt that
-        she was alive.
+      u: She...by accident. Her little girl was killed and she...survived. She felt
+        that she was alive.
     - who: David Boder
       start: '00:38:50.828'
       end: '00:38:51.498'
@@ -1851,7 +1851,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:39:03.550'
       end: '00:39:16.109'
-      u: So she started…she waited until dark…and began to shove herself, to shove
+      u: So she started...she waited until dark...and began to shove herself, to shove
         away, from underneath the branches. But afterwards it came to be that all
         were thrown into the ditch.
     - who: David Boder
@@ -1861,27 +1861,27 @@ recording:
     - who: Rachel Gurmanova
       start: '00:39:16.441'
       end: '00:40:15.124'
-      u: "…which they themselves have excavated, and they were buried. There were
+      u: "...which they themselves have excavated, and they were buried. There were
         many such graves, as many as they needed [??], and for four successive days
         the earth of these graves would rise and fall again [repeatedly] because the
-        people…there were many who were not ‘shot completely’; they still moved, they
-        still struggled. And it was visible how the earth continued moving [rise and
-        fall] She with two other women, they walked naked, it is a whole story. They
-        stepped into a peasant woman, she had hidden somehow a bit of money, and the
-        peasant woman sold her something to put on. And so they saved themselves [??]
-        [One sentence not clear; sounds like: they got away at night] This is a chapter
-        for itself. But by the orders [??] of the Germans they laid out so many thousands
-        of people on — in the open, have shot them with machine guns. All of them
-        without exception. And…"
+        people...there were many who were not ‘shot completely’; they still moved,
+        they still struggled. And it was visible how the earth continued moving [rise
+        and fall] She with two other women, they walked naked, it is a whole story.
+        They stepped into a peasant woman, she had hidden somehow a bit of money,
+        and the peasant woman sold her something to put on. And so they saved themselves
+        [??] [One sentence not clear; sounds like: they got away at night] This is
+        a chapter for itself. But by the orders [??] of the Germans they laid out
+        so many thousands of people on — in the open, have shot them with machine
+        guns. All of them without exception. And..."
     - who: David Boder
       start: '00:40:15.124'
       end: '00:40:17.660'
-      u: That was not in an extermination camp, that was just…
+      u: That was not in an extermination camp, that was just...
     - who: Rachel Gurmanova
       start: '00:40:17.660'
       end: '00:40:23.863'
       u: No, that was not in a lager, this was just so.. The extermination camp was
-        Treblinka…
+        Treblinka...
     - who: David Boder
       start: '00:40:23.863'
       end: '00:40:24.477'
@@ -1891,32 +1891,32 @@ recording:
       end: '00:40:39.824'
       u: "[in] Majdanek they were shooting. In Majdanek there was no crematory. The
         crematory was in Treblinka. But here they were just shooting. They ordered
-        them to dig the graves themselves, and…"
+        them to dig the graves themselves, and..."
     - who: David Boder
       start: '00:40:39.824'
       end: '00:40:47.500'
       u: You tell me people did it. How do people do such things? They knew that they
-        will be shot…[a few words not clear].
+        will be shot...[a few words not clear].
     - who: Rachel Gurmanova
       start: '00:40:47.500'
       end: '00:41:12.498'
-      u: Sure. That is all…here comes the psychological moment. To throw themselves
-        all together at the Germans…one does not have anything to lose…to knock out
-        their teeth, to knock out their eyes — nothing! People went like sheep. I
-        must tell you how perished the Rabbi of Warsaw. Dressed up in a shroud, through
-        saying Via and so he went.
+      u: Sure. That is all...here comes the psychological moment. To throw themselves
+        all together at the Germans...one does not have anything to lose...to knock
+        out their teeth, to knock out their eyes — nothing! People went like sheep.
+        I must tell you how perished the Rabbi of Warsaw. Dressed up in a shroud,
+        through saying Via and so he went.
     - who: David Boder
       start: '00:41:12.498'
       end: '00:41:13.228'
-      u: Were they told…?
+      u: Were they told...?
     - who: Rachel Gurmanova
       start: '00:41:13.228'
       end: '00:41:21.132'
-      u: "…to Kidush Hashem. They believed…They knew such was their destiny. If God
-        orders, so it must be [Note: A shroud forms part of the attire of the pious
-        Jew on the following occasions: during services on the Day of Atonement; during
-        the repast at the first night of Passover; it also was worn by the groom at
-        the wedding ceremony. The three occasions are given in order of frequency
+      u: "...to Kidush Hashem. They believed...They knew such was their destiny. If
+        God orders, so it must be [Note: A shroud forms part of the attire of the
+        pious Jew on the following occasions: during services on the Day of Atonement;
+        during the repast at the first night of Passover; it also was worn by the
+        groom at the wedding ceremony. The three occasions are given in order of frequency
         of observance. II Vida — Prayer — said by those on the dying bed, or those
         about to die. Regularly recited by pious old people together with their bedtime
         prayers. III Kidush Hashem — ‘for the glory of the Lord.’ — a common designation
@@ -1924,7 +1924,7 @@ recording:
     - who: David Boder
       start: '00:41:21.132'
       end: '00:41:21.696'
-      u: Nu…
+      u: Nu...
     - who: Rachel Gurmanova
       start: '00:41:21.696'
       end: '00:41:26.521'
@@ -1965,27 +1965,27 @@ recording:
       end: '00:43:18.298'
       u: Because there are too many Jews. One does not need that many. Only the ones
         needed were to remain, and a part must get out. What getting out meant was
-        already known. And…they also made a selection of those among the Jewish council…I
-        also belonged to the Jewish council, because then there was no more what was
-        called ORT, but we had to call ourselves The Division for Jewish Professional
-        Education. They already were not permitted…
+        already known. And...they also made a selection of those among the Jewish
+        council...I also belonged to the Jewish council, because then there was no
+        more what was called ORT, but we had to call ourselves The Division for Jewish
+        Professional Education. They already were not permitted...
     - who: David Boder
       start: '00:43:18.298'
       end: '00:43:19.707'
-      u: "…professional Education for Jews…"
+      u: "...professional Education for Jews..."
     - who: Rachel Gurmanova
       start: '00:43:19.707'
       end: '00:43:19.904'
-      u: Yes…
+      u: Yes...
     - who: David Boder
       start: '00:43:19.904'
       end: '00:43:20.649'
-      u: The ORT was already…
+      u: The ORT was already...
     - who: Rachel Gurmanova
       start: '00:43:20.649'
       end: '00:43:30.989'
       u: The ORT was already not permitted. We were then in the yard of Jewish council.
-        We were detained for two days. Afterwards we were such…
+        We were detained for two days. Afterwards we were such...
     - who: David Boder
       start: '00:43:30.989'
       end: '00:43:34.489'
@@ -1998,13 +1998,14 @@ recording:
     - who: David Boder
       start: '00:43:36.739'
       end: '00:43:37.156'
-      u: Where…
+      u: Where...
     - who: Rachel Gurmanova
       start: '00:43:37.156'
       end: '00:43:47.873'
-      u: In the building of the Jewish council… on the floor…we were laying on the
-        floor in the building of the Jewish council. Then everybody was ordered out
-        into the yard. The Jewish council was ordered to make a meshuma of those people…
+      u: In the building of the Jewish council... on the floor...we were laying on
+        the floor in the building of the Jewish council. Then everybody was ordered
+        out into the yard. The Jewish council was ordered to make a meshuma of those
+        people...
     - who: David Boder
       start: '00:43:47.873'
       end: '00:43:49.318'
@@ -2012,12 +2013,12 @@ recording:
     - who: Rachel Gurmanova
       start: '00:43:49.318'
       end: '00:44:02.963'
-      u: Of all those…a list yes, — of all those people. They issued numbers and all
-        these numbers were led out. I must tell, about five thousand numbers….
+      u: Of all those...a list yes, — of all those people. They issued numbers and
+        all these numbers were led out. I must tell, about five thousand numbers....
     - who: David Boder
       start: '00:44:02.963'
       end: '00:44:03.622'
-      u: Yes…
+      u: Yes...
     - who: Rachel Gurmanova
       start: '00:44:03.622'
       end: '00:44:33.424'
@@ -2035,7 +2036,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:44:33.921'
       end: '00:44:38.280'
-      u: For two days there stood around guards with rifles…
+      u: For two days there stood around guards with rifles...
     - who: David Boder
       start: '00:44:38.280'
       end: '00:44:39.477'
@@ -2045,7 +2046,7 @@ recording:
       end: '00:45:55.348'
       u: Soldiers. Nobody was permitted in nor out. People gradually recuperated [from
         the experience] People gradually appeared on the streets, and life went on
-        after the horrible experience [??] We did not know why it happened, how many…one
+        after the horrible experience [??] We did not know why it happened, how many...one
         thing was clear, that in time [??] there will be an end to the Jews. We did
         not know whether all will be led out to [name not clear], to Poniatowa, to
         Trawniki, let us say; that was not known. And they started also in the shops.
@@ -2063,7 +2064,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:45:55.847'
       end: '00:45:58.952'
-      u: That was known already [to the Germans]. Matzoths were baked…
+      u: That was known already [to the Germans]. Matzoths were baked...
     - who: David Boder
       start: '00:45:58.952'
       end: '00:46:00.326'
@@ -2080,7 +2081,7 @@ recording:
         when it was laid out on the tables. So and so, people are being sent out for
         work; because there are so many people in Warsaw, so those who will present
         themselves voluntarily will get two Kilogram of bread, with a Kilogram of
-        honey [syrup] And therefore…
+        honey [syrup] And therefore...
     - who: David Boder
       start: '00:46:48.286'
       end: '00:46:48.745'
@@ -2092,17 +2093,17 @@ recording:
         of people presented themselves voluntarily. In part it was the influence of
         those who believed [them] Oh, we are traveling to [a place of] work. People
         wanted to talk into themselves, that they are going away to work. There were
-        for instance the Warsaw hackneys [coachmen] You know what that means…
+        for instance the Warsaw hackneys [coachmen] You know what that means...
     - who: David Boder
       start: '00:00:00.'
       end: '00:47:12.095'
-      u: Nu…
+      u: Nu...
     - who: Rachel Gurmanova
       start: '00:47:12.095'
       end: '00:47:24.190'
-      u: "…who were healthy, and strong. So they took them with their horse and carriage,
-        led them away with wife and children. And people told them; you brutes, you
-        brutes, what are you doing? Where are you journeying?"
+      u: "...who were healthy, and strong. So they took them with their horse and
+        carriage, led them away with wife and children. And people told them; you
+        brutes, you brutes, what are you doing? Where are you journeying?"
     - who: David Boder
       start: '00:47:24.190'
       end: '00:47:26.329'
@@ -2118,12 +2119,12 @@ recording:
     - who: Rachel Gurmanova
       start: '00:47:27.810'
       end: '00:00:00.'
-      u: "…with horses, yes. What are you doing? [they answered] ‘We are going to
+      u: "...with horses, yes. What are you doing? [they answered] ‘We are going to
         work, we will suffer through, while you work, they won’t kill you. Such was
         the psychology, and so were the events [??] People delivered themselves. Where
         did they say were people going? They [the Germans] said that the people are
         going to Smolensk. So people [some Jews] went to the distribution square and
-        jotted down the numbers of the railroad cars…"
+        jotted down the numbers of the railroad cars..."
     - who: David Boder
       start: '00:00:00.'
       end: '00:47:58.221'
@@ -2131,7 +2132,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:47:58.221'
       end: '00:48:21.718'
-      u: "…and these same cars had returned within six hours. That is there destination
+      u: "...and these same cars had returned within six hours. That is there destination
         to work. Was very near, isn’t that so? They say [??] they take them to Smolensk.
         They lead away and annihilate. But nobody believed it. Everybody said to himself,
         that he is going to work [whatever may have been done to the others] And now
@@ -2139,12 +2140,12 @@ recording:
     - who: David Boder
       start: '00:48:21.718'
       end: '00:48:23.424'
-      u: Were you there during the…
+      u: Were you there during the...
     - who: Rachel Gurmanova
       start: '00:48:23.424'
       end: '00:48:34.223'
-      u: No, I…the Warsaw Ghetto was surrounded by soldiers for annihilation. On April
-        the 18th, on a Sunday evening…
+      u: No, I...the Warsaw Ghetto was surrounded by soldiers for annihilation. On
+        April the 18th, on a Sunday evening...
     - who: David Boder
       start: '00:48:34.223'
       end: '00:48:34.898'
@@ -2171,13 +2172,13 @@ recording:
       u: Then I shall tell it to you [she speaks with inspiration] I was in the Ghetto
         and worked with the ORT, and it [the ORT] gave us whatever help it could.
         The Jews. Always, when they came, when they were herded together, from the
-        whole…[countryside]…from all the little towns. The ORT helped all the artisans.
-        They were driven out of their homes, say in ten, fifteen minutes. And they
-        could take nothing with them. So it was necessary to give a tailor not only
-        a [sewing] machine, but he had to be given [she enumerates hastily] a machine,
-        a mannekin [??] a flatiron, a table and stool, and [she names three objects
-        which I am not able to translate for the moment] and some bread [??] and accessories
-        and some thread just for a start.
+        whole...[countryside]...from all the little towns. The ORT helped all the
+        artisans. They were driven out of their homes, say in ten, fifteen minutes.
+        And they could take nothing with them. So it was necessary to give a tailor
+        not only a [sewing] machine, but he had to be given [she enumerates hastily]
+        a machine, a mannekin [??] a flatiron, a table and stool, and [she names three
+        objects which I am not able to translate for the moment] and some bread [??]
+        and accessories and some thread just for a start.
     - who: David Boder
       start: '00:49:24.913'
       end: '00:49:26.096'
@@ -2201,7 +2202,7 @@ recording:
     - who: David Boder
       start: '00:00:00.'
       end: '00:49:52.577'
-      u: Nu…
+      u: Nu...
     - who: Rachel Gurmanova
       start: '00:49:52.577'
       end: '00:51:08.439'
@@ -2264,18 +2265,18 @@ recording:
         the first shop on Swientagorski [??] Street she moved in with him. And now
         imagine that in that dwelling she found somewhere inside a wall a kind of
         hiding place, and she found there a colossal amount of money, gold and diamonds.
-        Apparently a Jew who lived there….
+        Apparently a Jew who lived there....
     - who: David Boder
       start: '00:52:08.358'
       end: '00:52:09.666'
-      u: That happened to your friend…?
+      u: That happened to your friend...?
     - who: Rachel Gurmanova
       start: '00:52:09.666'
       end: '00:52:29.005'
-      u: "…to my friend, yes, to my friend. This apparently was hidden by a Jew who
-        had lived there, and when he was taken away it remained there. So, when it
-        came to so much money, they started thinking about getting over to the Aryan
-        side. All those who had money went across, and so…"
+      u: "...to my friend, yes, to my friend. This apparently was hidden by a Jew
+        who had lived there, and when he was taken away it remained there. So, when
+        it came to so much money, they started thinking about getting over to the
+        Aryan side. All those who had money went across, and so..."
     - who: David Boder
       start: '00:52:29.005'
       end: '00:52:30.116'
@@ -2283,7 +2284,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:52:30.116'
       end: '00:52:33.579'
-      u: Well, if people went across they procured papers…
+      u: Well, if people went across they procured papers...
     - who: David Boder
       start: '00:52:33.579'
       end: '00:52:33.721'
@@ -2316,7 +2317,7 @@ recording:
         one side it faced Zeleszna and on the other side it faced Bialo..[correcting
         herself] Gradowa. The Christians used to enter from the Gradowa Street side,
         and Jews would enter from Leszno and there inside they would meet. In this
-        manner my women friends also would come to see each other, and with the brother…
+        manner my women friends also would come to see each other, and with the brother...
     - who: David Boder
       start: '00:53:34.701'
       end: '00:53:35.009'
@@ -2379,17 +2380,18 @@ recording:
     - who: Rachel Gurmanova
       start: '00:54:58.228'
       end: '00:55:11.749'
-      u: Yes. I am telling you how it happened. And this friend, after they…they moved
-        in there, [in this other apartment] in the second half of February 1943…
+      u: Yes. I am telling you how it happened. And this friend, after they...they
+        moved in there, [in this other apartment] in the second half of February 1943...
     - who: David Boder
       start: '00:55:11.749'
       end: '00:55:12.775'
-      u: So…
+      u: So...
     - who: Rachel Gurmanova
       start: '00:55:12.775'
       end: '00:55:18.762'
-      u: "…Oh, she started to plead with me persistently that I go with them. And
-        I already…and I hesitated to abandon the ORT. [The last sentence is not clear]"
+      u: "...Oh, she started to plead with me persistently that I go with them. And
+        I already...and I hesitated to abandon the ORT. [The last sentence is not
+        clear]"
     - who: David Boder
       start: '00:55:18.762'
       end: '00:55:19.758'
@@ -2397,7 +2399,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:55:19.758'
       end: '00:00:00.'
-      u: This dragged along until…until the 12th of April.
+      u: This dragged along until...until the 12th of April.
     - who: David Boder
       start: '00:00:00.'
       end: '00:55:26.058'
@@ -2407,7 +2409,7 @@ recording:
       end: '00:00:00.'
       u: Imagine that. And the 15th of April, I was still sitting in the shops at
         the ORT, working normally. And somebody had to sit as usual by the window
-        and watch, whether somebody was coming, whether there were not [word not clear]…So
+        and watch, whether somebody was coming, whether there were not [word not clear]...So
         I was sitting at the window, and in order that the work proceeds calmly in
         the shops, I used to read to them. And Thursday the 15th of April, I still
         read to them the letter of Manachem Mendel to Sheine Sheindel by Sholem Aleichem.
@@ -2415,7 +2417,7 @@ recording:
     - who: David Boder
       start: '00:00:00.'
       end: '00:55:58.377'
-      u: Well…
+      u: Well...
     - who: Rachel Gurmanova
       start: '00:55:58.377'
       end: '00:00:00.'
@@ -2439,9 +2441,9 @@ recording:
       u: So he goes away and he comes back. ‘No. Jeanie has sent me another note.’
         I should come without fail. So I said to him:-’You know what, I am a bit religious.
         I shall go to the Jewish council. If they promise me that all our co-workers
-        will get equally large packages’…and I went there and they….I did not tell
-        them that I am getting out of the city [obviously out of the Ghetto] I told
-        them I am going out to [name of locality not clear]
+        will get equally large packages’...and I went there and they....I did not
+        tell them that I am getting out of the city [obviously out of the Ghetto]
+        I told them I am going out to [name of locality not clear]
     - who: David Boder
       start: '00:57:12.527'
       end: '00:57:16.366'
@@ -2459,7 +2461,7 @@ recording:
       start: '00:57:23.245'
       end: '00:57:28.898'
       u: So they told me in the Jewish council, I told them that I was going out there
-        on a leave…
+        on a leave...
     - who: David Boder
       start: '00:57:28.898'
       end: '00:57:29.518'
@@ -2467,7 +2469,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:57:29.518'
       end: '00:00:00.'
-      u: For over the holy days…
+      u: For over the holy days...
     - who: David Boder
       start: '00:00:00.'
       end: '00:57:35.843'
@@ -2483,7 +2485,7 @@ recording:
         the 18th, [correcting herself] the 19th, I would have been there, because
         by Monday I would have gone back. I was missing it [the Ghetto] And so I remained.
         [here she raises her voice] I must tell you however about the perfidy of the
-        Germans,….they knew that on the Aryan side there were some Jews. And that
+        Germans,....they knew that on the Aryan side there were some Jews. And that
         did not let them rest [live] It all was so worked out, with such precision.
         What did they do? For about two months before the destruction of the Ghetto
         they posted an announcement that for a number of Jews have arrived permits
@@ -2497,8 +2499,8 @@ recording:
       start: '00:58:53.370'
       end: '00:59:03.422'
       u: There was no shortage of money. There were rich Jews. And they paid several
-        hundred thousand zloty per person. [a zloty is equivalent to………..] You understand
-        what this means?
+        hundred thousand zloty per person. [a zloty is equivalent to...........] You
+        understand what this means?
     - who: David Boder
       start: '00:59:03.422'
       end: '00:59:04.665'
@@ -2559,7 +2561,7 @@ recording:
     - who: David Boder
       start: '01:00:26.524'
       end: '01:00:28.277'
-      u: That was the famous uprising…?
+      u: That was the famous uprising...?
     - who: Rachel Gurmanova
       start: '01:00:28.277'
       end: '01:01:06.482'
@@ -2584,7 +2586,7 @@ recording:
     - who: Rachel Gurmanova
       start: '01:01:12.215'
       end: '01:01:15.199'
-      u: I just remained in that apartment…
+      u: I just remained in that apartment...
     - who: David Boder
       start: '01:01:15.199'
       end: '01:01:16.382'
@@ -2593,7 +2595,7 @@ recording:
       start: '01:01:16.382'
       end: '01:01:27.348'
       u: Well, there was a Christian woman, the servant. She would go out shopping,
-        we cooked and so it was…But once before day break, the 19th of August…
+        we cooked and so it was...But once before day break, the 19th of August...
     - who: David Boder
       start: '01:01:27.348'
       end: '01:01:28.948'
@@ -2606,12 +2608,12 @@ recording:
     - who: David Boder
       start: '01:01:36.381'
       end: '01:01:40.602'
-      u: Were you able…that Christian woman, could you trust her?
+      u: Were you able...that Christian woman, could you trust her?
     - who: Rachel Gurmanova
       start: '01:01:40.602'
       end: '01:02:19.711'
       u: Yes, that was such a Christian that one could trust. We knew who she was
-        [??]…But here is the misfortune that happened in that dwelling. The sister-in-law
+        [??]...But here is the misfortune that happened in that dwelling. The sister-in-law
         of my woman friend was registered on Aryan papers. And she had a Jewish husband
         [?] a real Jewish husband. And he spoke not such a good Polish, and she was
         a simple Jewish woman, and to make it short, on the 19th of August, 1943,
@@ -2652,7 +2654,7 @@ recording:
         used to have every night a lookout, not all of us slept, one would sit up,
         and we used to hear distinctly how people were shot there, at the fifth house
         from us. Well, we could not help it, we had to go. So they lined us all up
-        to face the wall, hands up, they search us, now we have to go. But we…
+        to face the wall, hands up, they search us, now we have to go. But we...
     - who: David Boder
       start: '01:03:12.348'
       end: '01:03:13.954'
@@ -2671,7 +2673,7 @@ recording:
     - who: Rachel Gurmanova
       start: '01:03:33.019'
       end: '01:03:39.059'
-      u: In three. But we were all in the hind room. We then…
+      u: In three. But we were all in the hind room. We then...
     - who: David Boder
       start: '01:03:39.059'
       end: '01:03:42.107'
@@ -2696,7 +2698,7 @@ recording:
       start: '01:03:49.121'
       end: '01:04:01.739'
       u: But the Christian woman was in a hurry — We even had an agreement, that the
-        door should not be opened until there was a signal for us to hide…
+        door should not be opened until there was a signal for us to hide...
     - who: David Boder
       start: '01:04:01.739'
       end: '01:04:02.248'
@@ -2704,10 +2706,10 @@ recording:
     - who: Rachel Gurmanova
       start: '01:04:02.248'
       end: '01:04:31.829'
-      u: "…but stupidly the door was opened, they entered and found [us] they — our
-        hideout and there it was. They started searching and they took away a very
-        large quantity of money, and diamonds, a heap, and they left. They even told
-        us, ‘you may remain living here.’ And we had to remain living there because
+      u: "...but stupidly the door was opened, they entered and found [us] they —
+        our hideout and there it was. They started searching and they took away a
+        very large quantity of money, and diamonds, a heap, and they left. They even
+        told us, ‘you may remain living here.’ And we had to remain living there because
         we had nowhere to go. [Note: the searchers apparently appropriated the loot
         and therefore preferred not to make the arrest. As a matter of fact, they
         might have staged the search on their own, without orders or knowledge of
@@ -2715,11 +2717,11 @@ recording:
     - who: David Boder
       start: '01:04:31.829'
       end: '01:04:34.390'
-      u: Who were they…Germans, Ukrainians…?
+      u: Who were they...Germans, Ukrainians...?
     - who: Rachel Gurmanova
       start: '01:04:34.390'
       end: '01:04:37.792'
-      u: Two Germans…Two Germans…
+      u: Two Germans...Two Germans...
     - who: David Boder
       start: '01:04:37.792'
       end: '01:04:40.233'
@@ -2727,14 +2729,14 @@ recording:
     - who: Rachel Gurmanova
       start: '01:04:40.233'
       end: '00:00:00.'
-      u: 'The money, watches, diamonds,…oh, a lot of things, brooches, a lot, a lot
-        of things. Of course, when the Germans would come into a home searching, they
-        would take off the rings from the fingers, that was something ordinary. But
-        they left. This was on a Thursday, the 19th of August 1942 [corrects herself]
+      u: 'The money, watches, diamonds,...oh, a lot of things, brooches, a lot, a
+        lot of things. Of course, when the Germans would come into a home searching,
+        they would take off the rings from the fingers, that was something ordinary.
+        But they left. This was on a Thursday, the 19th of August 1942 [corrects herself]
         1943, excuse me. And the 21st, on Saturday morning, half past six, they are
         here again. Already one of them, with three others. And he says: ‘it has become
         known that there are Jews here. You have seen, I wanted to leave you here,
-        but I am unable to do so, well, so we have to go, we are helpless…'
+        but I am unable to do so, well, so we have to go, we are helpless...'
     - who: David Boder
       start: '00:00:00.'
       end: '01:05:26.040'
@@ -2753,12 +2755,12 @@ recording:
       start: '01:05:38.095'
       end: '01:05:53.208'
       u: Again money was given, not so much this time, and they let us free. But they
-        told us ‘you must leave immediately’…this dwelling.’ And now, like a good
-        angel, Irene appeared again…
+        told us ‘you must leave immediately’...this dwelling.’ And now, like a good
+        angel, Irene appeared again...
     - who: David Boder
       start: '01:05:53.208'
       end: '01:05:55.297'
-      u: Well…
+      u: Well...
     - who: Rachel Gurmanova
       start: '01:05:55.297'
       end: '01:06:08.635'
@@ -2773,15 +2775,15 @@ recording:
       start: '01:06:09.315'
       end: '01:06:18.295'
       u: When Irene wanted to come up, she would take a look to ascertain whether
-        the ribbon, the green one, was there…
+        the ribbon, the green one, was there...
     - who: David Boder
       start: '01:06:18.295'
       end: '01:06:19.820'
-      u: Well…
+      u: Well...
     - who: Rachel Gurmanova
       start: '01:06:19.820'
       end: '01:06:20.635'
-      u: At that time…
+      u: At that time...
     - who: David Boder
       start: '01:06:20.635'
       end: '01:06:22.947'
@@ -2822,7 +2824,7 @@ recording:
     - who: Rachel Gurmanova
       start: '01:07:23.889'
       end: '01:07:27.205'
-      u: Oh, women’s fineries, stationery…
+      u: Oh, women’s fineries, stationery...
     - who: David Boder
       start: '01:07:27.205'
       end: '01:07:28.057'
@@ -2839,7 +2841,7 @@ recording:
       start: '01:07:32.317'
       end: '01:07:40.540'
       u: And by Monday, a new apartment was found. In this already the underground
-        has helped a bit. And in the underground committee…
+        has helped a bit. And in the underground committee...
     - who: David Boder
       start: '01:07:40.540'
       end: '01:07:41.982'
@@ -2852,7 +2854,7 @@ recording:
     - who: David Boder
       start: '01:07:52.875'
       end: '01:07:54.104'
-      u: Nu…
+      u: Nu...
     - who: Rachel Gurmanova
       start: '01:07:54.104'
       end: '01:08:12.807'
@@ -2880,7 +2882,7 @@ recording:
       start: '00:00:00.'
       end: '01:08:53.494'
       u: We had such a hideout. It was a ground floor apartment. Here in the wall
-        was a small cupboard, it was like a little box [??] as big as this…
+        was a small cupboard, it was like a little box [??] as big as this...
     - who: David Boder
       start: '01:08:53.494'
       end: '01:08:55.337'
@@ -2950,7 +2952,7 @@ recording:
     - who: Rachel Gurmanova
       start: '01:09:48.562'
       end: '01:09:52.925'
-      u: And they paid one hundred and twenty thousand zlotys….
+      u: And they paid one hundred and twenty thousand zlotys....
     - who: David Boder
       start: '01:09:52.925'
       end: '01:09:53.570'
@@ -2972,7 +2974,7 @@ recording:
     - who: David Boder
       start: '01:10:17.241'
       end: '01:10:18.497'
-      u: Nu…
+      u: Nu...
     - who: Rachel Gurmanova
       start: '01:10:18.497'
       end: '01:10:20.682'
@@ -2980,11 +2982,11 @@ recording:
     - who: David Boder
       start: '01:10:20.682'
       end: '01:10:21.731'
-      u: Nu…
+      u: Nu...
     - who: Rachel Gurmanova
       start: '01:10:21.731'
       end: '01:10:27.681'
-      u: And they departed. Ad so there remained in the room…
+      u: And they departed. Ad so there remained in the room...
     - who: David Boder
       start: '01:10:27.681'
       end: '01:10:29.482'
@@ -3046,7 +3048,7 @@ recording:
     - who: Rachel Gurmanova
       start: '01:12:29.387'
       end: '01:12:32.075'
-      u: No. I decided to leave them. I decided not to live any more with them…
+      u: No. I decided to leave them. I decided not to live any more with them...
     - who: David Boder
       start: '01:12:32.075'
       end: '01:12:35.197'
@@ -3057,7 +3059,7 @@ recording:
       u: I decided to leave. I must tell you, that the underground committee had brought
         me on the first day of the outbreak of the insurrection a certain amount of
         financial support. They brought me food, they brought sugar, they brought
-        candles…
+        candles...
     - who: David Boder
       start: '00:00:00.'
       end: '00:00:00.'
@@ -3068,7 +3070,7 @@ recording:
       u: And I figured I shall go to look for something. And I left. I had an acquaintance,
         a woman-feldscher [a special profession in Russia — a person trained for minor
         medical services, originally an assistant medical petty officer in the army]
-        She just was giving injections…
+        She just was giving injections...
     - who: David Boder
       start: '00:00:00.'
       end: '00:00:00.'
@@ -3076,7 +3078,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:00:00.'
       end: '00:00:00.'
-      u: A Christian woman…
+      u: A Christian woman...
     - who: David Boder
       start: '00:00:00.'
       end: '00:00:00.'
@@ -3084,7 +3086,7 @@ recording:
     - who: Rachel Gurmanova
       start: '00:00:00.'
       end: '01:13:45.849'
-      u: 'So I decided to go to her. And I came there, and told her…And she received
+      u: 'So I decided to go to her. And I came there, and told her...And she received
         me very well. And she said, you must bring some food for yourself. I don’t
         have any. So I ran back. That was on [name not clear] Street. But I could
         not go back, because the Germans took hold again. Bor was driven out for good
@@ -3111,23 +3113,24 @@ recording:
       end: '01:14:39.946'
       u: With the Poles. With my Aryan papers, already as a Polish person. With Polish
         [papers]. We were transported in railroad cars. We were told we are being
-        taken to Oświe̜cim. And so…
+        taken to Oświe̜cim. And so...
     - who: David Boder
       start: '01:14:39.946'
       end: '01:14:40.915'
-      u: Oświe̜cim is…
+      u: Oświe̜cim is...
     - who: Rachel Gurmanova
       start: '01:14:40.915'
       end: '01:14:44.104'
-      u: "…in [word not clear] in [word not clear]"
+      u: "...in [word not clear] in [word not clear]"
     - who: David Boder
       start: '01:14:44.104'
       end: '01:14:45.083'
-      u: Oświe̜cim…
+      u: Oświe̜cim...
     - who: Rachel Gurmanova
       start: '01:14:45.083'
       end: '01:14:51.480'
-      u: Oświe̜cim…Treblinka was near Siedlce, and Oświe̜cim is in the region of Krakow.
+      u: Oświe̜cim...Treblinka was near Siedlce, and Oświe̜cim is in the region of
+        Krakow.
     - who: David Boder
       start: '01:14:51.480'
       end: '01:14:54.364'
@@ -3165,11 +3168,11 @@ recording:
       end: '01:16:12.046'
       u: I have seen the whole retreat of the German Army. In tatters, beaten, frozen,
         with bundles. Dragging themselves back on little peasant horses, dragging
-        themselves back. And there arrived the army and I returned…[end of spool]
+        themselves back. And there arrived the army and I returned...[end of spool]
     - who: David Boder
       start: '01:16:12.046'
       end: '01:16:23.149'
-      u: "[In English] Ehm… Spool 53. Mrs Gurman[ova] continues. Paris, August the
+      u: "[In English] Ehm... Spool 53. Mrs Gurman[ova] continues. Paris, August the
         17th."
     - who: David Boder
       start: '01:16:23.149'
@@ -3186,7 +3189,7 @@ recording:
     - who: Rachel Gurmanova
       start: '01:16:32.285'
       end: '01:16:34.953'
-      u: It lasted a long time…
+      u: It lasted a long time...
     - who: David Boder
       start: '01:16:34.953'
       end: '01:16:35.779'
@@ -3194,7 +3197,7 @@ recording:
     - who: Rachel Gurmanova
       start: '01:16:35.779'
       end: '01:16:38.694'
-      u: "…until I was able to go to Warsaw."
+      u: "...until I was able to go to Warsaw."
     - who: David Boder
       start: '01:16:38.694'
       end: '01:16:39.601'
@@ -3210,7 +3213,7 @@ recording:
     - who: Rachel Gurmanova
       start: '01:16:44.384'
       end: '01:16:47.696'
-      u: It happened…
+      u: It happened...
     - who: David Boder
       start: '01:16:47.696'
       end: '01:16:49.816'
@@ -3218,11 +3221,11 @@ recording:
     - who: Rachel Gurmanova
       start: '01:16:49.816'
       end: '01:16:53.906'
-      u: That was in a village, Wąsów…
+      u: That was in a village, Wąsów...
     - who: David Boder
       start: '01:16:53.906'
       end: '01:16:54.701'
-      u: Yes, How far…?
+      u: Yes, How far...?
     - who: Rachel Gurmanova
       start: '01:16:54.701'
       end: '01:16:58.758'
@@ -3309,7 +3312,7 @@ recording:
         And could not get the permit. Until once, when I was going again to the village,
         I cried bitterly, and it happened that my mistress was also going to the village.
         And she asked me : ‘Why are you crying?’ So I tell her, ‘It won’t help you
-        anything. You won’t be able to hold me…’'
+        anything. You won’t be able to hold me...’'
     - who: David Boder
       start: '00:00:00.'
       end: '00:00:00.'
@@ -3330,13 +3333,13 @@ recording:
     - who: David Boder
       start: '01:19:19.389'
       end: '01:19:20.476'
-      u: So…
+      u: So...
     - who: Rachel Gurmanova
       start: '01:19:20.476'
       end: '01:19:40.398'
       u: So I pleaded with them, her sister took me in for the night, I got in line.
         And I got my permit and departed for Warsaw. And in Warsaw I found myself
-        with no place to live. It was impossible to find a dwelling…
+        with no place to live. It was impossible to find a dwelling...
     - who: David Boder
       start: '01:19:40.398'
       end: '01:19:43.414'
@@ -3348,7 +3351,7 @@ recording:
     - who: David Boder
       start: '01:19:47.343'
       end: '01:19:48.144'
-      u: Nu…
+      u: Nu...
     - who: Rachel Gurmanova
       start: '01:19:48.144'
       end: '01:19:52.004'
@@ -3371,7 +3374,7 @@ recording:
       start: '01:20:13.981'
       end: '01:20:26.240'
       u: No, no. For Lodz one did not need a permit anymore. I took a rest, I departed
-        for Lodz. I had — well he helped me out a bit, because I was without money….
+        for Lodz. I had — well he helped me out a bit, because I was without money....
     - who: David Boder
       start: '01:20:26.240'
       end: '01:20:27.670'
@@ -3388,8 +3391,8 @@ recording:
     - who: Rachel Gurmanova
       start: '00:00:00.'
       end: '01:20:38.878'
-      u: Because he had arrived before…because he was in Lublin, and Lublin was liberated
-        in June…
+      u: Because he had arrived before...because he was in Lublin, and Lublin was
+        liberated in June...
     - who: David Boder
       start: '01:20:38.878'
       end: '01:20:39.429'
@@ -3397,7 +3400,7 @@ recording:
     - who: Rachel Gurmanova
       start: '01:20:39.429'
       end: '01:20:45.285'
-      u: "…’44. He came from Vilno to Lublin before."
+      u: "...’44. He came from Vilno to Lublin before."
     - who: David Boder
       start: '01:20:45.285'
       end: '01:20:47.764'
@@ -3413,7 +3416,7 @@ recording:
     - who: Rachel Gurmanova
       start: '01:20:51.814'
       end: '01:20:52.871'
-      u: No, no….
+      u: No, no....
     - who: David Boder
       start: '01:20:52.871'
       end: '01:20:56.885'
@@ -3424,8 +3427,8 @@ recording:
       u: Yes. And so I arrived, and soon, the same day — I arrived at 8 o’clock in
         the morning in Lodz, and at 11 o’clock, I was already among Jews. [??] And
         I stared working, things went well [??] I started taking an interest in ORT,
-        and it was my idea from the first minute…We organized [word not clear], we
-        have now already five thousand [pupils] in seven cities [words not clear]
+        and it was my idea from the first minute...We organized [word not clear],
+        we have now already five thousand [pupils] in seven cities [words not clear]
         and we improved the activities, we have schools, we have courses, and I have
         returned so to say, to my original life work.
     - who: David Boder
@@ -3457,7 +3460,7 @@ recording:
     - who: David Boder
       start: '01:21:50.877'
       end: '01:21:53.230'
-      u: In Russia? In the Soviet Union…
+      u: In Russia? In the Soviet Union...
     - who: Rachel Gurmanova
       start: '01:21:53.230'
       end: '01:21:54.939'
@@ -3477,7 +3480,7 @@ recording:
     - who: Rachel Gurmanova
       start: '01:22:00.941'
       end: '01:22:05.698'
-      u: Yes. And here I have lost everybody. Not a single person…
+      u: Yes. And here I have lost everybody. Not a single person...
     - who: David Boder
       start: '01:22:05.698'
       end: '01:22:07.355'
@@ -3502,7 +3505,7 @@ recording:
       start: '01:22:18.373'
       end: '01:22:22.166'
       u: "[A pause, she apparently weeps, and continues through tears] my son did
-        not enter the Ghetto…"
+        not enter the Ghetto..."
     - who: David Boder
       start: '01:22:22.166'
       end: '01:22:22.592'
@@ -3514,7 +3517,7 @@ recording:
     - who: David Boder
       start: '01:22:29.548'
       end: '01:22:30.019'
-      u: Nu…
+      u: Nu...
     - who: Rachel Gurmanova
       start: '01:22:30.019'
       end: '01:23:16.452'
@@ -3530,9 +3533,9 @@ recording:
       start: '01:23:18.211'
       end: '01:23:43.780'
       u: Some people came and told about it — My sister with her children was put
-        to death the 29th Oct… [she apparently repeats the previous date, then corrects
+        to death the 29th Oct... [she apparently repeats the previous date, then corrects
         herself] the 7th of October ’42. My brother-in-law was shot earlier. And so
-        the whole family, everybody, [the next few words are lost in tears]…
+        the whole family, everybody, [the next few words are lost in tears]...
     - who: David Boder
       start: '01:23:43.780'
       end: '01:23:52.772'
@@ -3547,11 +3550,11 @@ recording:
     - who: David Boder
       start: '01:24:03.273'
       end: '01:24:08.742'
-      u: It is a time of transition? And you think the Jews…
+      u: It is a time of transition? And you think the Jews...
     - who: Rachel Gurmanova
       start: '01:24:08.742'
       end: '00:00:00.'
-      u: "[In a conciliatory tone..??] Well they hanged the people…who were guilty
+      u: "[In a conciliatory tone..??] Well they hanged the people...who were guilty
         — they were hanged."
     - who: David Boder
       start: '00:00:00.'
@@ -3574,5 +3577,5 @@ recording:
     - who: David Boder
       start: '00:00:00.'
       end: !ruby/object:Nokogiri::XML::Text {}
-      u: 'I thank you very much Miss Gurman[ova] We shall talk again about these things….
+      u: 'I thank you very much Miss Gurman[ova] We shall talk again about these things....
         [Note: There is no customary signoff. The interview ended in a depressed mood.]'
