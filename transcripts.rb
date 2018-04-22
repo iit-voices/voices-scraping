@@ -111,8 +111,8 @@ Dir.glob(@files).each do |file|
     @u = Utterance.new
     @u.who = li.css('.who span text()').to_s.strip
     @u.start = time_marker(li.css('.utterance').attr('start')).to_s.strip
-    # TODO: Reformat clunky ` . . . ` ellipses
-    @u.u = li.css('.utterance text()').to_s.strip
+    # Subtitute ugly ` . . . ` ellipsis with `...`
+    @u.u = li.css('.utterance text()').to_s.strip.gsub(/\s\.\s\.\s\.\s?/,'...')
     # Add the utterance onto the end of the transcript array
     @trans.interview.push(@u.to_h)
   end
