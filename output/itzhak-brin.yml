@@ -27,5 +27,2623 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: de
+    interview:
+    - who: David Boder
+      start: '00:00:00.834'
+      end: '00:00:00.834'
+      u: "[In English] Spool 126, starting at the eighteenth minute, with an interview
+        with Mr. Isaac Brin, [to interviewee] ja, in English [unintelligible] Issac.
+        Mr. Isaac Brin, Itzhak Brin. Thirty-eight years old, married second time,
+        his wife...second wife is from Palestine, he expects to go over. At the Agudah
+        Israel [unintelligible] of the Agudah in Hénonville, near Paris. Mr. Brin
+        feels that he would not want to tell us a complete story from the Lodzsher
+        Ghetto, but he considers that he wants to pick some special memorial moments."
+    - who: David Boder
+      start: '00:00:43.280'
+      end: '00:00:43.280'
+      u: "[In Yiddish] דו האסט פארשטאנען וואס איך האב געזאגט. אלזא, הער ברין, זאגט
+        אז [אומהערבאר] גערצײלט טון געשריבן איבער דעם לאדזער געטא. וועט ער זעלבסט דערציילן
+        דאס וואס ער זעלבסט אליין האט געהאט די געלעגנהייט צו וויסן און דורכצומאכן."
+    - who: Itzhak Brin
+      start: '00:01:00.472'
+      end: '00:01:00.472'
+      u: "[אומהערבאר]"
+    - who: David Boder
+      start: '00:01:01.439'
+      end: '00:01:01.439'
+      u: "[In German] Ja. Also, Herr Brin, reden Sie, was Sie wollen. Fangen Sie an.
+        [unverständlich] Kommen Sie näher, bitte. Ja. Sprechen Sie lauter."
+    - who: Itzhak Brin
+      start: '00:01:09.786'
+      end: '00:01:09.786'
+      u: "[unverständlich] Lodzscher Ghetto [unverständlich] Arbeit [unverständlich]
+        Bauabteilung [unverständlich]"
+    - who: David Boder
+      start: '00:01:47.991'
+      end: '00:01:47.991'
+      u: "[inaudible]"
+    - who: Itzhak Brin
+      start: '00:01:50.312'
+      end: '00:01:50.312'
+      u: am Ende war [unverständlich] für das Ghetto [unverständlich] Ghetto [unverständlich]
+        Wir haben da gelacht und [unverständlich] Frau [unverständlich]
+    - who: David Boder
+      start: '00:02:15.667'
+      end: '00:02:15.667'
+      u: "[inaudible]"
+    - who: Itzhak Brin
+      start: '00:02:18.616'
+      end: '00:02:18.616'
+      u: "[unverständlich]"
+    - who: David Boder
+      start: '00:02:20.658'
+      end: '00:02:20.658'
+      u: "… Ja, wenn sie direkt nebenan [unverständlich]"
+    - who: Itzhak Brin
+      start: '00:02:22.693'
+      end: '00:02:22.693'
+      u: "… [unverständlich] verschaffen keine [unverständlich]"
+    - who: David Boder
+      start: '00:02:26.240'
+      end: '00:02:26.240'
+      u: Ja, ich hab von [unverständlich] zweispurig [unverständlich]
+    - who: Itzhak Brin
+      start: '00:02:29.634'
+      end: '00:02:29.634'
+      u: "… [unverständlich]"
+    - who: David Boder
+      start: '00:02:30.247'
+      end: '00:02:30.247'
+      u: Ja. Nun?
+    - who: Itzhak Brin
+      start: '00:02:30.903'
+      end: '00:02:30.903'
+      u: "… [unverständlich]"
+    - who: David Boder
+      start: '00:02:33.821'
+      end: '00:02:33.821'
+      u: Ja. Haben Sie gekannt den Doktor Vaug?
+    - who: Itzhak Brin
+      start: '00:02:36.231'
+      end: '00:02:36.231'
+      u: Doktor Vaug…
+    - who: David Boder
+      start: '00:02:38.309'
+      end: '00:02:38.309'
+      u: Kommen Sie weiter. [unverständlich] letzten Morgen bevor?
+    - who: Itzhak Brin
+      start: '00:02:42.037'
+      end: '00:02:42.037'
+      u: "[unverständlich]"
+    - who: David Boder
+      start: '00:02:44.566'
+      end: '00:02:44.566'
+      u: A-ha.
+    - who: Itzhak Brin
+      start: '00:02:45.005'
+      end: '00:02:45.005'
+      u: "[unverständlich]"
+    - who: David Boder
+      start: '00:02:53.786'
+      end: '00:02:53.786'
+      u: "[unverständlich]"
+    - who: Itzhak Brin
+      start: '00:02:54.659'
+      end: '00:02:54.659'
+      u: "[unverständlich]"
+    - who: David Boder
+      start: '00:02:55.878'
+      end: '00:02:55.878'
+      u: "[unverständlich]"
+    - who: Itzhak Brin
+      start: '00:02:58.234'
+      end: '00:02:58.234'
+      u: "… [unverständlich] Ich bin rein gekommen in das [unverständlich] Ghetto,
+        nachdem mir haben zugeteilt ein Wohnung [unverständlich] [unverständlich]
+        die Juden"
+    - who: David Boder
+      start: '00:03:08.272'
+      end: '00:03:08.272'
+      u: "… Sie waren noch in Rumkowskis Zeiten?"
+    - who: Itzhak Brin
+      start: '00:03:09.769'
+      end: '00:03:09.769'
+      u: "… Ja. [unverständlich] Rumkowskis Zeit"
+    - who: David Boder
+      start: '00:03:15.510'
+      end: '00:03:15.510'
+      u: "[unverständlich] Was haben Sie gedacht von Rumkowski? [unverständlich]"
+    - who: Itzhak Brin
+      start: '00:03:18.829'
+      end: '00:03:18.829'
+      u: "… [unverständlich] Rumkowski… Rumkowski ist gewesen sehr [unverständlich]
+        mit vereinten Kräften. Und alles [unverständlich] abgekriegte von dem Amtsleiter
+        [unverständlich] hatte eine [unverständlich] eine Geheimpolizei [unverständlich]
+        ist gewesen kein Mensch, ist gewesen Ungeheuer [unverständlich] Kartoffeln,
+        hatten wir keine Kartoffeln. Ich bin gegangen zu holen die [unverständlich]
+        Polizei [unverständlich] Auschwitz [unverständlich]"
+    - who: David Boder
+      start: '00:04:21.952'
+      end: '00:04:21.952'
+      u: Also, [unverständlich] Rumkowski [unverständlich]
+    - who: Itzhak Brin
+      start: '00:04:23.989'
+      end: '00:04:23.989'
+      u: "… [unverständlich] Ghetto [unverständlich] hin, hab ich geholfen, nicht
+        am Ende [unverständlich] Es ist das 44. Jahr [unverständlich]"
+    - who: David Boder
+      start: '00:04:53.969'
+      end: '00:04:53.969'
+      u: "… [unverständlich] 47. Jahr"
+    - who: Itzhak Brin
+      start: '00:05:04.357'
+      end: '00:05:04.357'
+      u: "… ´47 [unverständlich] Ich bin gewesen in [unverständlich] am Ende [unverständlich]
+        alle [unverständlich] lieben. [unverständlich] auf der Arbeit. Bauabteilung
+        [unverständlich]"
+    - who: David Boder
+      start: '00:05:27.035'
+      end: '00:05:27.035'
+      u: "… [unverständlich] Ghetto [unverständlich]"
+    - who: Itzhak Brin
+      start: '00:05:52.778'
+      end: '00:05:52.778'
+      u: "… Doch, doch [unverständlich] die Christen haben mir gegeben [unverständlich]"
+    - who: David Boder
+      start: '00:06:00.843'
+      end: '00:06:00.843'
+      u: "[unverständlich]"
+    - who: Itzhak Brin
+      start: '00:06:02.092'
+      end: '00:06:02.092'
+      u: "… [unverständlich] hat gegeben [unverständlich] Bäcker. Brot [unverständlich]
+        Wurst [unverständlich] mein [unverständlich] Papier [unverständlich]"
+    - who: David Boder
+      start: '00:06:33.185'
+      end: '00:06:33.185'
+      u: Ja.
+    - who: Itzhak Brin
+      start: '00:06:34.174'
+      end: '00:06:34.174'
+      u: "… [unverständlich] andere Menschen [unverständlich] solche Sachen. So ein
+        Blödsinn."
+    - who: David Boder
+      start: '00:07:17.374'
+      end: '00:07:17.374'
+      u: "[unverständlich] aber ich gehe [unverständlich]"
+    - who: Itzhak Brin
+      start: '00:07:31.658'
+      end: '00:07:31.658'
+      u: "… [unverständlich] gemacht [unverständlich] euch bei den eigenen [unverständlich]
+        Die Zeitungen [unverständlich]"
+    - who: David Boder
+      start: '00:08:14.926'
+      end: '00:08:14.926'
+      u: "[unverständlich]"
+    - who: Itzhak Brin
+      start: '00:08:19.417'
+      end: '00:08:19.417'
+      u: "… [unverständlich] gemacht [unverständlich]"
+    - who: Itzhak Brin
+      start: '00:08:46.735'
+      end: '00:08:46.735'
+      u: "[In Yiddish] [אומהערבאר] שיסן אין די גאסן [אומהערבאר]"
+    - who: David Boder
+      start: '00:08:57.051'
+      end: '00:08:57.051'
+      u: "[In German] [unverständlich]"
+    - who: David Boder
+      start: '00:09:00.964'
+      end: '00:09:00.964'
+      u: Ja, ja.
+    - who: Itzhak Brin
+      start: '00:09:02.173'
+      end: '00:09:02.173'
+      u: "[unverständlich]"
+    - who: Itzhak Brin
+      start: '00:09:07.506'
+      end: '00:09:07.506'
+      u: "[In Yiddish] [אומהערבאר] נישט לײן ײדן [אומהערבאר] צו פאלאלן [אומהערבאר]"
+    - who: Itzhak Brin
+      start: '00:09:14.101'
+      end: '00:09:14.101'
+      u: "[In German] … Und die jüdischen [unverständlich]"
+    - who: Itzhak Brin
+      start: '00:09:35.822'
+      end: '00:09:35.822'
+      u: "[In Yiddish] [אומהערבאר] ײן טוג"
+    - who: Itzhak Brin
+      start: '00:09:40.950'
+      end: '00:09:40.950'
+      u: "[In German] [unverständlich] am letzten Tag [unverständlich] Transport ist
+        abgegangen [unverständlich]"
+    - who: Itzhak Brin
+      start: '00:09:58.612'
+      end: '00:09:58.612'
+      u: "[In Yiddish] [אומהערבאר] האב איך געזגען [אומהערבאר] א געװיסער ײסלאנדער"
+    - who: David Boder
+      start: '00:10:12.773'
+      end: '00:10:12.773'
+      u: "[In German] [unverständlich] Jiddisch"
+    - who: Itzhak Brin
+      start: '00:10:13.436'
+      end: '00:10:13.436'
+      u: "[In Yiddish] א ײדיש [אומהערבאר]"
+    - who: David Boder
+      start: '00:10:21.315'
+      end: '00:10:21.315'
+      u: "[אומהערבאר] געװיסער ײזמאן, דער ײדישער קאמיטעטסמען"
+    - who: Itzhak Brin
+      start: '00:10:57.213'
+      end: '00:10:57.213'
+      u: און דער [אומהערבאר]צײטן [אומהערבאר] גאנצע [אומהערבאר] אװעק צום באנהאף [אומהערבאר]
+    - who: David Boder
+      start: '00:11:10.605'
+      end: '00:11:10.605'
+      u: "[In German] Ja. Was hat [unverständlich]"
+    - who: Itzhak Brin
+      start: '00:11:12.056'
+      end: '00:11:12.056'
+      u: "[In Yiddish] [אומהערבאר] געטא [אומהערבאר] ײזמאן [אומהערבאר] געשטארבען די
+        טלע [אומהערבאר]"
+    - who: Itzhak Brin
+      start: '00:11:48.963'
+      end: '00:11:48.963'
+      u: "[In German] Ist zu [unverständlich] nicht zum [unverständlich] verschikt"
+    - who: Itzhak Brin
+      start: '00:11:58.710'
+      end: '00:11:58.710'
+      u: "[In Yiddish] [אומהערבאר] מײן ברידער [אומהערבאר] דוטע צײטן [אומהערבאר]"
+    - who: Itzhak Brin
+      start: '00:12:07.743'
+      end: '00:12:07.743'
+      u: "[In German] [unverständlich] glaub nicht [unverständlich] weiter [unverständlich]
+        ich mit mein Bruder mit meine Schwester [unverständlich] gegangen und [unverständlich]"
+    - who: Itzhak Brin
+      start: '00:12:54.879'
+      end: '00:12:54.879'
+      u: "[unverständlich] was ist gewesen, geführen [unverständlich] in der Reihe
+        [unverständlich]"
+    - who: David Boder
+      start: '00:12:57.513'
+      end: '00:12:57.513'
+      u: Das ist Geruch.
+    - who: Itzhak Brin
+      start: '00:12:58.524'
+      end: '00:12:58.524'
+      u: Der Geruch. Und [unverständlich] zwei verschiedene Waffen abgestellt mit
+        … krach machen…
+    - who: David Boder
+      start: '00:13:05.616'
+      end: '00:13:05.616'
+      u: Ja. Mit starken [unverständlich]
+    - who: Itzhak Brin
+      start: '00:13:06.645'
+      end: '00:13:06.645'
+      u: Starke [unverständlich] große Graben [unverständlich] gewesen, drei Schiften,
+        eine beim scheiten [unverständlich] doch der Zeit [unverständlich] Menschen
+        [unverständlich] geschossen auch [unverständlich] gegangen [unverständlich]
+        Kranken [unverständlich] Kranken geschossen im Bett [unverständlich]
+    - who: David Boder
+      start: '00:13:47.292'
+      end: '00:13:47.292'
+      u: "[unverständlich]"
+    - who: Itzhak Brin
+      start: '00:13:51.288'
+      end: '00:13:51.288'
+      u: "[unverständlich]"
+    - who: David Boder
+      start: '00:14:03.808'
+      end: '00:14:03.808'
+      u: "[unverständlich]"
+    - who: Itzhak Brin
+      start: '00:14:05.724'
+      end: '00:14:05.724'
+      u: "[In Yiddish] דײטשן, דײטשן"
+    - who: David Boder
+      start: '00:14:03.808'
+      end: '00:14:03.808'
+      u: "[In German] Nun?"
+    - who: Itzhak Brin
+      start: '00:14:08.830'
+      end: '00:14:08.830'
+      u: "[In German] [unverständlich] zusammen hat nicht [unverständlich] keine [unverständlich]
+        Menschen [unverständlich] keine [unverständlich] Mensch [unverständlich] …
+        [unverständlich] Zeit hat gedauert [unverständlich] Zeit. Doch die Zeit bevor
+        [unverständlich] Arbeit [unverständlich] Das ist die Arbeit und das war im
+        Ghetto der große [unverständlich] dann sind alle Menschen weg [unverständlich]
+        Eisenmann [unverständlich] Abend [unverständlich] und wir sind nur gewesen
+        zehn Mann. Früher sind die Kranken gerufen zehn [unverständlich] zehn [unverständlich]
+        [unverständlich] auf Menschen gibt’s doch einen Punkt für zwei Tage Gestapo
+        [unverständlich] geschickt [unverständlich] Eisenmann zu dem [unverständlich]
+        Ghetto [unverständlich] gesessen [unverständlich] zwei Meter lang."
+    - who: David Boder
+      start: '00:15:50.556'
+      end: '00:15:50.556'
+      u: "[In English] Eh, this concludes Spool 126 with the report of Mr. Isaac Brin
+        and we are going...about the Lodzsher Ghetto, and we are going over to Spool
+        127. Illinois Institute of Technology wire recording. September 13th, 1946,
+        Hénonville, fifty kilometers from Paris, in the Agudah Israel."
+    - who: David Boder
+      start: '00:16:18.186'
+      end: '00:16:18.186'
+      u: Spool 127, continuation of Spool 126. Eh, the interviewee is Mr. Isaac Brin,
+        Itzchack Brin, thirty-eight years old, who was in the liquidation group of
+        the Lodzsher Ghetto.
+    - who: David Boder
+      start: '00:16:33.190'
+      end: '00:16:33.190'
+      u: "[In Yiddish] אלזא, [אומהערבאר] זאגן מיר [אומהערבאר] געװעזען?"
+    - who: Itzhak Brin
+      start: '00:16:39.329'
+      end: '00:16:39.329'
+      u: "[In German] [unverständlich] einmal [unverständlich] er hat gesagt [unverständlich]
+        machen kein Gericht von [unverständlich] drei [unverständlich] Gruppen"
+    - who: David Boder
+      start: '00:16:54.791'
+      end: '00:16:54.791'
+      u: "[unverständlich] machst du das aus?"
+    - who: Itzhak Brin
+      start: '00:16:55.454'
+      end: '00:16:55.454'
+      u: "[unverständlich] macht sie [unverständlich] gut gedacht zu schießen [unverständlich]
+        Menschen [unverständlich] alle zehn [unverständlich] zehn, drei, vier [unverständlich]
+        … du gewesen [unverständlich] im sechsten Jahr [unverständlich]"
+    - who: Itzhak Brin
+      start: '00:17:29.823'
+      end: '00:17:29.823'
+      u: "[In Yiddish]אלזא, עס איז געווען זיבן אינדערפרי, [אומהערבאר] קיין מענטשן
+        אין געטא נישט, אלץ איז שוין געוועזן אויסגעזידלט, איז געקומען צעפארן אן אלטע
+        לאסט אוטא באדעקט, אין יעדע, די מענטשן וואס האבן געזאלט געשאסן ווערן זענען
+        געלעגן אויפן וואגן פון די אוטא אויסגעצויגן, אין די מאנשאפט, די דייטשע געסטאפא
+        [אומהערבאר] מיט דען טאטענקעפ זענען געזיצן [אומהערבאר]. יעדער איינציגער באזונדער
+        איז געוועזן געבינדן די הענט צו הונטן, און מען האט זיי שוין געגראכט, געבראכט
+        האט מען זיי שוין געבונדן, די הענט געבינדן צו הונטן, און דערנאך איז געווען
+        איינער צום צווייטן צוגעבינדן, איינער צום צווייטן, און אזוי די מאנשאפט וואס
+        איז אראפ געגאנגן צום אוטא. הייל, סאלוט, האט מען אנגעהויבן זיי צו שלעפן, און
+        מענטשן זענען נישט געווען ביים קיינע באוואוסזיין, אנגעטון זענען זיי געגאנגן
+        נישט מער [אומהערבאר] אין די גרעסטע קעלטן און בוררות און אפאר הויזן און א העמט,
+        מער גארנישט. דער ערשטער איז אראפגעגאנגן, האט ער מיטגעשלעפט דעם צווייטן, ווייל
+        זיי זענען דאך געווען, די פיס פון הונטן זענען זיי געווען צוזאמען געבינדן. [אומהערבאר]
+        זענען זיי געווען פיר מייל געבינדן, פיר, פיר צו זעקס, פיר פאסיק צו זעקס מאן.
+        צו זעקס מאן זענען זיי געווען געבינדן איינער צום צווייטן. נו, זענען זיי אראפ
+        די ערשטע זעקס, איז געווען איינער א קאפיטאן, האט ער אונז אונז, אונז יידן, מיר
+        זענען געשטאנען אין באדינט, האט ער געהייסן אונז אוועקגיין פופציג מעטער אין
+        א זייט. מיר האבן געהאלטן די ספאדלע [אומהערבאר] אין די האנט. און פון דערווייטנס
+        זענען מיר געשטאנען איז צוגעגאנגן די קאפיטאן מיט א באפעל, [אומהערבאר] מאנשאפט
+        געשטעלט אין א זייט, זעקס מענטשן צוגעגאנגן, די ערשטע זעקס מענטשן צוגעגאנגן
+        נאנט צום גרוב, די גרוב איז געווען אויפגעקאפעט, מיטן פנים צום גרוב, געגעבן
+        איין פייף, א סאלווע, אנידערגעלייגט."
+    - who: David Boder
+      start: '00:20:06.093'
+      end: '00:20:06.093'
+      u: א סאלווע פון מאשין [אומהערבאר]?
+    - who: Itzhak Brin
+      start: '00:20:07.287'
+      end: '00:20:07.287'
+      u: א סאלװע, סאלװע פון א, פון [אומהערבאר] האנט ביקסן. און אזוי איז געגאנגן די
+        ערשטע זעקס, צווייטע זעקס, דריטע, דריטע פערטע איינער אונטער די צווייטע. ביז
+        מען האט אלע אנידערגעלייגט, האבן מיר אונז באקריגן א פייף, אז מיר זאלן באלד
+        צוקומען, אבער שנעל, איז מען צוגעגאנגן, האט מען געמוזט האבן א מעסערל ביי זיך
+        אין די האנט, אדורכצושניידן איינער פון צווייטן,
+    - who: David Boder
+      start: '00:20:35.749'
+      end: '00:20:35.749'
+      u: יא
+    - who: Itzhak Brin
+      start: '00:20:37.145'
+      end: '00:20:37.145'
+      u: און, ווייל עס איז נישט געווען מעגלעך מען זאל אלע זעקס מאן קענען אויף איינמאל
+        אריינווארפן. האט מען יעדן אפגעשניטן און יעדע מענטש אנגענומען אזוי ווי
+    - who: David Boder
+      start: '00:20:46.416'
+      end: '00:20:46.416'
+      u: אריינגעפאלן אין גרוב?
+    - who: Itzhak Brin
+      start: '00:20:47.738'
+      end: '00:20:47.738'
+      u: ניין. אזוי ווי מען האט באקריגט, די ערשטע זעקס זענען געבליבן אזוי הענגן העלפט
+        אין גרוב און העלפט אויף דער ערד. די צווייטע זעקס רייעס זענען דאך געליגן אונטער
+        זיי. די צווייטע זענען נישט געליגן ביים גרוב. ווייל די ערשטע זעקס האבן זיי
+        פארשטעלט. [אומהערבאר] נישט אפגעשניטן איינער פון צווייטן, נישט גלייך געלייגט,
+        נאר די הענט אראפ און פיס ארויף [אומהערבאר] די פון די ערד אפגעקלאפט, אראפאריינגעווארפן
+        אין טיפן גריב אריין, אזוי איינעם אויפן צווייטן, איינער אויפן צווייטן, אבער
+        שנעלער, זענען זיי געשטאנען מיט באטיקעס אין די האנט און אונז געקלאפט, וואס
+        שנעלער, שנעלער. און יעדע לאך פון קאפ איז געווען [אומהערבאר] צו די פויסט פון
+        די האנט?
+    - who: David Boder
+      start: '00:21:30.035'
+      end: '00:21:30.035'
+      u: "[אומהערבאר] האט מען געשאסן אין קאפ?"
+    - who: Itzhak Brin
+      start: '00:21:32.236'
+      end: '00:21:32.236'
+      u: געשאסן אין קאפ פון הינטן.
+    - who: David Boder
+      start: '00:21:34.071'
+      end: '00:21:34.071'
+      u: "[In German] Wie weit sind die Soldaten gestanden von den Menschen?"
+    - who: Itzhak Brin
+      start: '00:21:36.620'
+      end: '00:21:36.620'
+      u: "[In Yiddish] די סאלדאטן זענען געשטאנען אפגעריקט ביז א פיפצן מעטער."
+    - who: David Boder
+      start: '00:21:40.690'
+      end: '00:21:40.690'
+      u: "[In German] Nu, kann man [unverständlich] immer treffen?"
+    - who: Itzhak Brin
+      start: '00:21:43.404'
+      end: '00:21:43.404'
+      u: "[In Yiddish] מע טרעפט, אלע האט מען געטראפן [אומהערבאר] אזוי איז מען געליגן,
+        אזוי ווי מיר האבן געקריגן דעם פייף אז מען זאל צוגיין, איז צוגעגאנגן איינער,
+        דעם קאפיטאן אליין, און ער האט ארויסגענומען די טאשנרעװאלװער [אומהערבאר] מענטשן
+        וואס האבן זיך גערירט, האט ער זיי [אומהערבאר] די קוילן איבער די קעפ."
+    - who: David Boder
+      start: '00:22:03.115'
+      end: '00:22:03.115'
+      u: ווער עס האט גערירט זיך האט ער ציגעשאסן [אומהערבאר]
+    - who: Itzhak Brin
+      start: '00:22:04.163'
+      end: '00:22:04.163'
+      u: צוגעשאסן.
+    - who: David Boder
+      start: '00:22:04.679'
+      end: '00:22:04.679'
+      u: נא.
+    - who: Itzhak Brin
+      start: '00:22:05.983'
+      end: '00:22:05.983'
+      u: "[אומהערבאר]"
+    - who: David Boder
+      start: '00:22:10.141'
+      end: '00:22:10.141'
+      u: "[אומהערבאר] די מח, די לעבעדיגע האט ער נישט באגראבן?"
+    - who: Itzhak Brin
+      start: '00:22:12.269'
+      end: '00:22:12.269'
+      u: וואי? און לעבעדיק האט מען קיינעם נישט באגראבן. און די מח, די מוחות האבן זיך
+        צעשפריצט אויף א צען, פופצן מעטער נעבן גריב, און ס'האט געבלוטיגט, און מיר זענען
+        צוגעגאנגן און מען האט עס געמוזט זייער שנעל נעמען די מענטשן און אריינווארפן
+        אין גריב. און די געסטאפא איז געשטאנען דערביי. און מען האט עס
+    - who: David Boder
+      start: '00:22:32.584'
+      end: '00:22:32.584'
+      u: "[אומהערבאר] מענער און פרויען?"
+    - who: Itzhak Brin
+      start: '00:22:35.097'
+      end: '00:22:35.097'
+      u: דענסטמאל ביי די ערשטע [אומהערבאר] מאל, איז איין פרוי געווען. די איבריגע איז
+        אלץ געווען מעטער, אין די מיטל יארן. [אומהערבאר] פאלאקן. פאלאקן. פאלאקן פוילישע
+        פאלאקן. נישט קיין יידן. פאלאקן.
+    - who: David Boder
+      start: '00:22:49.240'
+      end: '00:22:49.240'
+      u: וואס מען האט געשאסן [אומהערבאר] פאלאקן?
+    - who: Itzhak Brin
+      start: '00:22:50.178'
+      end: '00:22:50.178'
+      u: "[אומהערבאר] געװיסן פאלאקן"
+    - who: David Boder
+      start: '00:22:51.500'
+      end: '00:22:51.500'
+      u: דאס זענען געוועזן פאלאקן? מען האט זיי אומגעברענגט אויפן יידישן [אומהערבאר]?
+    - who: Itzhak Brin
+      start: '00:22:53.408'
+      end: '00:22:53.408'
+      u: דאס זענען געוועזן פאלאקן. דאס איז געווען די דייטשער, די דייטשער אויפטו. דאס
+        מען זאל נישט וואיסן דאס. האט מען גענומען גוים, פאלאקן, [אומהערבאר] יידישן
+        בית החיים.
+    - who: David Boder
+      start: '00:23:05.283'
+      end: '00:23:05.283'
+      u: אה, מען האט געשאסן פאלאקן?
+    - who: Itzhak Brin
+      start: '00:23:05.283'
+      end: '00:23:05.283'
+      u: אלעס פאלאקן. ווייל די יידן וואס מען האט דענסטמאל געשאסן, זענען געווען גאנץ
+        ווייניק ווייל יידן האבן זיי געהאט א פארניכטיגונגס קאמף האבן זיי געשיקט ארבעטן
+        אין די קרעמעטאריעס אריין, ווייל די פאלאקן, פאלאקן [אומהערבאר] פאליטיש [אומהערבאר]
+        פאליטישע זאכן [אומהערבאר] וואיסן ווער זיי זענען.
+    - who: Itzhak Brin
+      start: '00:23:07.484'
+      end: '00:23:07.484'
+      u: נאכדעם האט מען טיילווייז צוגעשיט אביסל די ערד, האט דאס געהייסן [אומהערבאר]
+        האט ער געהייסן צוזאמענעמען פון ארום און ארום די גריב די מח וואס האט זיך אביסל
+        צעשפריצט, דאס האט איר צו האלטן וועט איר האבן א מיטאג צו עסן.
+    - who: David Boder
+      start: '00:23:49.793'
+      end: '00:23:49.793'
+      u: ווער [אומהערבאר]?
+    - who: Itzhak Brin
+      start: '00:23:50.767'
+      end: '00:23:50.767'
+      u: די דויטשן האבן אזוי געזאגט, גי געסטאפא. זיי האבן געשפאסט פון אונז. שנעל,
+        שנעל, מאכט דאס. מיר האבן דאס ציגעשיט. ביז אלעס איז געווען פערטיק?
+    - who: David Boder
+      start: '00:24:07.456'
+      end: '00:24:07.456'
+      u: "[In German] Männer und Frauen [unverständlich]?"
+    - who: Itzhak Brin
+      start: '00:24:09.053'
+      end: '00:24:09.053'
+      u: Männer und Frauen.
+    - who: David Boder
+      start: '00:24:10.265'
+      end: '00:24:10.265'
+      u: "[In Yiddish] זאגט מיר, וואס האבן די פאלאקן [אומהערבאר] געטאן? האבן זיי געשריען,
+        געבעטן...וואס האבן זיי געטאן?"
+    - who: Itzhak Brin
+      start: '00:24:18.749'
+      end: '00:24:18.749'
+      u: 'זיי האבן געהערט פון דערווייטנס, פון דערווייטנס האט מען געהערט א סך מאל:'
+    - who: Itzhak Brin
+      start: '00:24:22.819'
+      end: '00:24:22.819'
+      u: "[In Polish] O Jezus, o jezus..."
+    - who: Itzhak Brin
+      start: '00:24:25.826'
+      end: '00:24:25.826'
+      u: "[In Yiddish]נאר צווייטנס, זענען זיי געקימען אין אזא מצב, זיי האבן דאך געוואוסט
+        ווען מען האט זיי געבינדן האבן זיי געוואוסט פארוואס מען בינדט זיי. [אומהערבאר]
+        זיי זענען נישט געווען ביים באוואוסטזיין. טראץ דעם זענען זיי געווען צעשלאגן,
+        אויסגעבלייכט. זיי האבן שוין נישט אויסגעזען. זיי זענען שוין באלד געווען האלב
+        טויטע ווען מען האט זיי געברענגט, אזעלכע באדינגונגען.ביי די זאכן בין איך געווען
+        פינף אדער זעקס מאל, האב איך דאס בייגעוואוינט. די איבערראשונג וואס עס האט געמאכט
+        אויף מיר דאס ערשטע מאל. גאנצע טעג און נעכט בין איך ארום געגאנגן ווי צעדרייט.
+        איך האב עס געמוזט מיט פארציילן [אומהערבאר] אין די לאגער, װי איך בין [אומהערבאר]
+        צוגעטיילט אביסל לאגער האב נישט געטארט פארציילן קיינעם. [אומהערבאר] באריכטן,
+        ווען עס האט זיך געענדיקט די מתים פון יידן, פון די געטא, האט מען אונז אלע ארויסגענומען
+        פון דארטן, און האט אונז געפירט, צוזאמען געלאנטשעט צו די לאגער וואס האט גערוימט
+        די גאנצע לאדזער געטא. דענטסמאלטס זענען מיר געווען פינעף הונדערט מענטשן וואס
+        זענען געבליבן ספעציעל וואס האבן גערוימט די לאדזער געטא."
+    - who: David Boder
+      start: '00:25:36.704'
+      end: '00:25:36.704'
+      u: וואס האבן עס גערוימט?
+    - who: Itzhak Brin
+      start: '00:25:39.162'
+      end: '00:25:39.162'
+      u: גערוימט. גערייניגט. ארויסגעפירט אלע ווארן. האט מען אונז אפגעטיילט אויך צי
+        די ארבעט. דענמאלס ווען עס איז אויסגעקימען די צייט, און קיין יידישע מאן איז
+        שוין מער נישט געוועזן, און עס איז אויסגעקימען די צייט ווען די געסטאפא האט
+        געברויכט אזא באשטעלונג, האט מען נישט גערופן אנדערע נאר אונז, נאר די צען מאן
+        וואס זענען געווען דענמאלס אויף די צייט וואס מיר זענען געווען אויפן בית עולם.
+        [אומהערבאר] אין לאגער אויך אויסגראבן ווייל קיין אנדערע מענטשן האט די געסטאפא
+        נישט פארלאנגט, נאר עס זאל זיין די זעלבע.
+    - who: David Boder
+      start: '00:26:03.838'
+      end: '00:26:03.838'
+      u: א וועלכע זעלבע?
+    - who: Itzhak Brin
+      start: '00:26:04.739'
+      end: '00:26:04.739'
+      u: די זעלבע צען מאן וואס האבן געגראבן די טויטע ביי די שאסענען.
+    - who: David Boder
+      start: '00:26:08.827'
+      end: '00:26:08.827'
+      u: יא. יא.
+    - who: Itzhak Brin
+      start: '00:26:10.974'
+      end: '00:26:10.974'
+      u: "[אומהערבאר] לאגער איז מען אויך נאך געוועזן צוויי דריי מאל [אומהערבאר]"
+    - who: David Boder
+      start: '00:26:16.106'
+      end: '00:26:16.106'
+      u: מיט יידן אדער די פוילן וואס מען האט געשאסן?
+    - who: Itzhak Brin
+      start: '00:26:20.762'
+      end: '00:26:20.762'
+      u: מען האט געשאסן נאר פוילן. קיין יידן האט מען נישט געזען שיסן קיינמאל, נאר
+        פוילן. מען זאגט, אלץ איז געווארן געשאסן, [אומהערבאר] אלץ געווען קריסטן. מעגלעך
+        אז, מעגלעך, איין פאקט איז געווען איין מאל וואס עס איז געשאסן געווארן איין
+        דייטש [אומהערבאר] וואס האט געמוזט זיין [אומהערבאר] קריגסוועזן, און דענטסמאל
+        איז מיטגעקימען מיט א סענדזיע, מיט א פראקוראר, אויף די [אומהערבאר] האט מען
+        אויסגעליינט אײן װיראק.
+    - who: David Boder
+      start: '00:26:57.199'
+      end: '00:26:57.199'
+      u: האט מען געשאסן דעם איינציגן דייטש?
+    - who: Itzhak Brin
+      start: '00:26:58.595'
+      end: '00:26:58.595'
+      u: דעם איינציגן דייטש האט מען געשאסן דארטן. יא, דאס איז איינמאל געווען. דעם
+        איינציגן דייטש האט מען געשאסן אויפן יידישן בית עולם. דענטסמאל האט מען שוין
+        אויסגעליינט אן אורטייל .[אומהערבאר] ביי די פאלאקן איז א פראטאקל גארנישט געוועזן.
+    - who: David Boder
+      start: '00:27:13.983'
+      end: '00:27:13.983'
+      u: קיינמאל האט מען נישט געבראכט א גלח?
+    - who: Itzhak Brin
+      start: '00:27:17.119'
+      end: '00:27:17.119'
+      u: א גלח. ניין. מען האט נישט געקענט [אומהערבאר] ווער עס איז א גלח און ווער עס
+        איז נישט.
+    - who: David Boder
+      start: '00:27:21.830'
+      end: '00:27:21.830'
+      u: א גלח וואס זאל געבן די לעצטע [אומהערבאר]
+    - who: Itzhak Brin
+      start: '00:27:25.881'
+      end: '00:27:25.881'
+      u: א גלח, ניין
+    - who: David Boder
+      start: '00:27:27.456'
+      end: '00:27:27.456'
+      u: "[אומהערבאר] געבעט געבן"
+    - who: Itzhak Brin
+      start: '00:27:30.427'
+      end: '00:27:30.427'
+      u: די געבעט געבן דאס איז קיינמאל נישט געווען. קיינמאל נישט געווען. און דערנאך
+        איז געקימען א פארארדענונג אריין [אומהערבאר] צוגעטיילט פון לאגער, אז מען זאל
+        אויסקאפן אכט גרויסע גריבער אויפן בית עולם. האט מען אויך גענומען
+    - who: David Boder
+      start: '00:27:50.541'
+      end: '00:27:50.541'
+      u: וועלכע?
+    - who: Itzhak Brin
+      start: '00:27:51.387'
+      end: '00:27:51.387'
+      u: וואי?
+    - who: David Boder
+      start: '00:27:51.900'
+      end: '00:27:51.900'
+      u: וועלכע גריבער?
+    - who: Itzhak Brin
+      start: '00:27:53.021'
+      end: '00:27:53.021'
+      u: אכט גאנץ גרויסע גריבער.
+    - who: David Boder
+      start: '00:27:55.113'
+      end: '00:27:55.113'
+      u: אה, מען זאל מאכן נייע גריבער.
+    - who: Itzhak Brin
+      start: '00:27:56.307'
+      end: '00:27:56.307'
+      u: נייע גריבער. האט מען גענומען די אייגענע צען מענטשן וואס מען האט געהאט ביז
+        יעצט אויפן בית עולם און מען האט עס ארויסגענומען. אונז האבן געקאפעט די אכט
+        גרובער. און ס'איז געווען...
+    - who: David Boder
+      start: '00:28:09.311'
+      end: '00:28:09.311'
+      u: "[אומהערבאר] די גריבער?"
+    - who: Itzhak Brin
+      start: '00:28:11.639'
+      end: '00:28:11.639'
+      u: ס'איז געווען אזוי ווי מען האט געקאפעט די גריבער האט מען געשטאנען אין פאליטישע
+        לאגער [אומהערבאר]
+    - who: David Boder
+      start: '00:28:18.035'
+      end: '00:28:18.035'
+      u: האט מען אייך באוואכט אדער אליין
+    - who: Itzhak Brin
+      start: '00:28:19.980'
+      end: '00:28:19.980'
+      u: ניין, דאס איז געקימען דער [אומהערבאר] אײזמאן [אומהערבאר] פארארדענונג [אומהערבאר]
+        צו מאכן זיכער אכט גרויסע גריבער. ארויסקומענדיק פון קאפן, איז געווען איינמאל
+        א פאקט, עס איז ארויסגעקימען דער ביבאװ מיט נאך איין [אומהערבאר] באאמטע פון
+        די געסטאפא, און ער האט געזוגט – איך האב עס אונטערגעהערט. צופעליק. מען וועט
+        לייגן די קעפ דיזע זייטע, די פיס דיזע זייטע און קינדער דעראן, אינדערמיט.צו
+        הונדערט מאן וועט אריינגיין דעראין רואיק. דענסטמאל האבן זיי געהאט, [אומהערבאר]
+        צוגעקימען מענטשן וואס מען האט זיי געפונען באהאלטן, אין לאגער, וואס האבן זיך
+        געהאט אליין ציגעשטעלט. מען האט זיי נישט געהאט גארנישט געטין, ווייל דענסטמאל,
+        די מיינונג פון די דייטשן איז געווען אונז אומצוברענגן און דענסטמאל האט מען
+        געברויכט נאך ארבעטסקרעפטן אין געטא ווייל מען האט געברויכט ווי אמשנעלסטן די
+        געטא אויסרייניגן. [אומהערבאר] האבן זיי אזוי געטראכט וועט מען זיי אויסשיסן,
+        דענסטמאל לאז זיי דערווייל ארבעטן, פאר די אכט הונדערט מענטשן איז געווען אויסגעקאפעט
+        אכט אזעלכע גריבער. שטייענדיק אין קאפענדיק, יעדע שפאדעל ערד וואס מיר האבן ארויסגעווארפן,
+        האבן מיר געזוגט וידוי, ווייל מיר האבן געוואיסט אז די ארבייט, אז די ארבייט,
+        די גריבער איז פאר אונז. עס איז טאקע אזוי געווען, מען האט די גריבער פארטיק
+        געמאכט. [אומהערבאר]. מען האט די גריבער געמוזט מאכן. עס איז טאקע אזוי געווען,
+        מען האט די גריבער פארטיג געמאכט. מען איז צוריקגעגאנגן יעדער צו זייער ארבייטס
+        לאגער.
+    - who: David Boder
+      start: '00:30:11.706'
+      end: '00:30:11.706'
+      u: יא. יא. אלזא.
+    - who: Itzhak Brin
+      start: '00:30:13.505'
+      end: '00:30:13.505'
+      u: אלזא, זייענדיק אין לאגער, קיין עסן האט אונז נישט געפעלט אין דעם לאגער.
+    - who: David Boder
+      start: '00:30:18.124'
+      end: '00:30:18.124'
+      u: אבער וואס האט פאסירט נאכדעם וואס מען האט געמאכט די אכט גריבער?
+    - who: Itzhak Brin
+      start: '00:30:21.369'
+      end: '00:30:21.369'
+      u: די אכט גריבער האט מען געמאכט און מען האט געלאזט אפן. מען האט נישט געוואיסט
+        וואס עס וועט זיין.
+    - who: David Boder
+      start: '00:30:26.519'
+      end: '00:30:26.519'
+      u: האט איר עס דערציילט פאר די אנדערע מענשטן אין לאגער?
+    - who: Itzhak Brin
+      start: '00:30:28.464'
+      end: '00:30:28.464'
+      u: אין לאגער, ווען מען האט געמאכט די אלע אכט גריבער, איז יעדער געגאנגן זייער
+        א שטייגער צעבראכן ווייל מיר האבן געוואיסט אז עס איז פאר אונז. [אומהערבאר]
+        ביי אונז אין ארבעטספלאץ, ביי אונז האט מען יעדן טאג געהאט אן אפעל. [אומהערבאר]
+        דענמאלס האט מען עס געהאט אין ארבעטסלאגער. [אומהערבאר] האט מען אונז, יעדן טאג
+        אינדערפרי האט מען געמאכט אן אפעל.
+    - who: David Boder
+      start: '00:30:57.822'
+      end: '00:30:57.822'
+      u: וויפיל מענטשן איז געוועזן?
+    - who: Itzhak Brin
+      start: '00:30:59.034'
+      end: '00:30:59.034'
+      u: אכט הונדערט מאן.
+    - who: David Boder
+      start: '00:31:00.246'
+      end: '00:31:00.246'
+      u: אהא.
+    - who: Itzhak Brin
+      start: '00:31:01.126'
+      end: '00:31:01.126'
+      u: אכט הונדערט, זעקס און זיבעציק מאן
+    - who: David Boder
+      start: '00:31:02.957'
+      end: '00:31:02.957'
+      u: אהא.
+    - who: Itzhak Brin
+      start: '00:31:03.763'
+      end: '00:31:03.763'
+      u: איך בין דארט געוועזן. און מען האט, עס איז געוועזן [אומהערבאר] עס איז געווען
+        ציגעטיילט ארבעט. איך בין געווען ציגעטיילט צו איין ארבעט וואס איך האב געפירט,
+        איבערגענומען די פערד, [אומהערבאר] און נאכדעם ארויספירן.
+    - who: David Boder
+      start: '00:31:20.692'
+      end: '00:31:20.692'
+      u: נא?
+    - who: Itzhak Brin
+      start: '00:31:22.088'
+      end: '00:31:22.088'
+      u: ארויספירן. [אומהערבאר] האבן נישט געטארט אריינקומען אין געטא. [אומהערבאר]
+        איך האב גענומען זייער פערד און וואגן, אנגעלאדנט די סחורה און ציריקגעפירט און
+        איבערגעבן פאר די קריסטליכע מאן ארויסצופירן פון געטא.
+    - who: David Boder
+      start: '00:31:36.550'
+      end: '00:31:36.550'
+      u: אנטשולדיקטס, וואס פאר א ווארע האט מען?
+    - who: Itzhak Brin
+      start: '00:31:38.770'
+      end: '00:31:38.770'
+      u: ווארע איז געווען אזוי, מעבל, אייזן, שמאטעס, [אומהערבאר] אלעס וואס האט זיך
+        געפונען אין געטא. איבערהויפט מעדיקאמענטן פארשידענע, עסנווארג וואס איז געבליבן
+        אין געטא. אלעס ארויספירן. אלעס האט מען געמוזט ארויספירן. אלעס האט געמוזט ארויספירן.
+        ווערן אפרייניקן דעם גאנצן געטא. אין נאך יעדע גאס אפרייניקן, נאך יעדע הויז,
+        ווען דאס מעבל איז געווען ארויסגעפירט, דאס אייזן, אין די אלע טעלער, לעפל, שיסל
+        אלץ איז געווארן ארויסגעפירט, האט מען די געטא אריינגעגעריקט אין פלאט אין [אומהערבאר]
+        און אין די הייזער זענען געקימען דייטשן מיט קריסטן, קריסטליכע ארבײטער, פאלאקן,
+        מען האט אויפגעריסן מיט א, מען האט ארויסגענומען דאס האלץ, די בעלקעס, די אלע
+        פאדלאגעס [אומהערבאר] און נאכדעם האט מען דאס הויז [אומהערבאר] איינגעלייגט אינגאנצן.
+        אזוי איז געגאנגן כסדר, כסדר.
+    - who: David Boder
+      start: '00:32:41.814'
+      end: '00:32:41.814'
+      u: און וואו האט איר געלעבט? אין באראקן?
+    - who: Itzhak Brin
+      start: '00:32:44.125'
+      end: '00:32:44.125'
+      u: אונז האבן [אומהערבאר] געהאט אזא לאגער, א הויז וואס איז געוועזן, אין יענע
+        צייט איז דארטן געוועזן [אומהערבאר]
+    - who: David Boder
+      start: '00:32:50.850'
+      end: '00:32:50.850'
+      u: וואי זענט איר געשלאפן דארטן?
+    - who: Itzhak Brin
+      start: '00:32:52.575'
+      end: '00:32:52.575'
+      u: געשלאפן אויך דארט אינעם לאגער.
+    - who: David Boder
+      start: '00:32:53.769'
+      end: '00:32:53.769'
+      u: אין די בעטן?
+    - who: Itzhak Brin
+      start: '00:32:54.502'
+      end: '00:32:54.502'
+      u: בעטן האבן מיר געהאט זייער גוטע, ווייל בעט געוואנט האט נישט געפעלט אין געטא.
+        ווען מען איז אריין, אין וועלכע שטוב האט מען זיך גענומען דעקן קישענעס און מען
+        האט געהאט. עסן האט מען אויך געהאט גוט אין לאגער, ווייל עס איז געבליבן גרויסע
+        מאגאזינען פון עסנווארן וואס איז געוועזן פאר די גאנצע געטא, זיבעציג טויזענט
+        יידן אז עס איז געבליבן עסנווארן, האט מען דאך געקענט אכט הונדערט מענטשן געבן
+        צו עסן געניג. איבערהויפט אז די דייטשן האבן געוואלט אז מען זאל פלייסיק ארבעטן
+        האבן זיי געזאגט, עסן זאלט עטס וויפיל [אומהערבאר], ווייל זיי האבן געוואלט די
+        ארבעט זאל גיין וואס שנעלער.
+    - who: David Boder
+      start: '00:33:28.011'
+      end: '00:33:28.011'
+      u: זאגט...
+    - who: Itzhak Brin
+      start: '00:33:29.626'
+      end: '00:33:29.626'
+      u: און אזוי האט מען, יעדן טאג אינדערפרי האבן מיר געהאט אזא אפעל, [אומהערבאר]
+        יעדן צוגעטיילט צו די ארבעט. איז געקימען, דאס איז געוועזן דאנערסטאג, דעם זיבעצנטן
+    - who: Itzhak Brin
+      start: '00:33:43.696'
+      end: '00:33:43.696'
+      u: "[In Polish]...styczeń."
+    - who: David Boder
+      start: '00:33:45.238'
+      end: '00:33:45.238'
+      u: "[In Yiddish] זיבעצנטן וואס?"
+    - who: Itzhak Brin
+      start: '00:33:46.048'
+      end: '00:33:46.048'
+      u: זיבעצטן, זיבעצטן יאנואר, יאנואר.
+    - who: David Boder
+      start: '00:33:49.477'
+      end: '00:33:49.477'
+      u: פינף און פערציג.
+    - who: Itzhak Brin
+      start: '00:33:50.744'
+      end: '00:33:50.744'
+      u: פינף און פערציג יא. האט מען געקימען, האט מען גערופן פון אונז אין לאגער א
+        ייד.
+    - who: David Boder
+      start: '00:33:57.836'
+      end: '00:33:57.836'
+      u: "[אומהערבאר]"
+    - who: Itzhak Brin
+      start: '00:33:58.829'
+      end: '00:33:58.829'
+      u: ניין, ער האט זיך גערופן א געוויסע ברודער. און מען האט אים געזוגט, דאס האט,
+        דאס האט מען אים גערופן אין זיבעצנטן
+    - who: Itzhak Brin
+      start: '00:34:06.617'
+      end: '00:34:06.617'
+      u: "[In Polish]...styczeń..."
+    - who: Itzhak Brin
+      start: '00:34:08.782'
+      end: '00:34:08.782'
+      u: "[In Yiddish] [אומהערבאר] האט געברויכט זיין אן אפעל. גערופן האט מען אים די
+        זעכצנטן [אומהערבאר] אויפדערנאכט אין געסטאפא אריין, און מען האט אים געזאגט
+        אזוי, מארגן פרי זאלן אלע פון לאגער ביז איינער, ווייל עס איז געווען יעדן טוג
+        צום אפעל, איז געווען פיפציק מאן וואס האבן געדינט, פיפציק פאר פערד, וואס די
+        פערד האבן געארבעט ארויסצופירן די ווארע פון געטא. איז די מאן, די מענטשן זענען
+        נישט געשלאפן אינאיינעם אין לאגער מיט אונז, זיי זענען געשלאפן ביי די שטעלער
+        פון די פערדע. עס זענען געווען ספעציעלע [אומהערבאר] וואס האבן געארבעט טוג און
+        נאכט [אומהערבאר] מיט רעכענונגען, זיי זענען אויך נישט געשלאפן."
+    - who: David Boder
+      start: '00:34:45.698'
+      end: '00:34:45.698'
+      u: יידישע?
+    - who: Itzhak Brin
+      start: '00:34:46.269'
+      end: '00:34:46.269'
+      u: יידישע. נאר אין דעם טוג נאר דאנערסטאג פרי, די זיבעצנטן אינדערפרי איז געווען
+        א פארארדענונג, אז אלע זאלן זיין, פון קליין ביז גרויס [אומהערבאר] אלע זאלן
+        זיך געפונען אויף דעם אפעל. מיר האבן געוואיסט [אומהערבאר], וואס מען האט געהאט
+        אין געהיים. [אומהערבאר] מיר אז דא גייט מען אונז אלע אויסשיסן. און געוואיסט
+        האט מען אז די גריבער זענען נאך אפן אויפן יידישן בית החיים. אט, איז געגאנגן
+        די לאגער פירער וואס איז געקימען זייער [אומהערבאר], ווייל ער האט אויך דערשפירט
+        אז דאס וואס גייט אונטער אונז, און אויך איז געגאנגן די לאגער פירער און האט
+        איין דײטש אפגעקויפט, א געסטאפא מענטש, ער האט אים געגעבן א גאלדענע זייגער און
+        האט אים אנ'געשיכור'ט. האט ער אים געזוגט, [אומהערבאר] מארגן קענט איר אלע האבן.
+    - who: David Boder
+      start: '00:35:43.262'
+      end: '00:35:43.262'
+      u: יא.
+    - who: Itzhak Brin
+      start: '00:35:45.079'
+      end: '00:35:45.079'
+      u: די לאגער פירער איז געקומען אין זעכצנטן יאנואר ביינאכט. איז ארויפגעקימען אין
+        לאגער. "קינדער, זאגט ער, יידן, ראטעווען זיך, יעדער איינער וואס קען." איך,
+        [אומהערבאר] דארט איז געווען פלאץ אויף אכט מענטשן, און מיר זענען געגאנגן און
+        מען האט אריינגענומען, מען האט מיטגענומען מיט זיך באקאנטע נאך, ביז צוואנציג
+        מאן און ווייל מיר האבן געוואיסט אז דארטן לאנג וועט מען נישט זיין, ווייל מען
+        האט געוואיסט אז די רוסן זענען שוין אין טשענסטאכאװא, זענען מיר געגאנגן אין
+        בונקער אריין, און מען האט אונז דארטן באהאלטן.
+    - who: David Boder
+      start: '00:36:24.608'
+      end: '00:36:24.608'
+      u: ווי האט די בונקער אויסגעזען? דערציילט מיר, וואו האט מען עס געמאכט אין דעם
+        בונקער?
+    - who: Itzhak Brin
+      start: '00:36:27.927'
+      end: '00:36:27.927'
+      u: די בונקער איז געווען, אזוי ווי אייך האב געארבעט, [אומהערבאר] ביי די ארבייט
+        האב איך מיך, האב איך מיך אויסגעלערנט [אומהערבאר] עס איז געווען הינטן איז געוועזן
+        געמאכט אן ערשט-קלאסיקע שטוב פון פיר מעטער אויף צווײ, פיר מעטער אויף דריי איז
+        די שטוב גרויס געווען.
+    - who: David Boder
+      start: '00:36:45.348'
+      end: '00:36:45.348'
+      u: וואי? איז עס געווען אויף די ערשטע שטאק? אדער אין קעלער אריין?
+    - who: Itzhak Brin
+      start: '00:36:47.436'
+      end: '00:36:47.436'
+      u: שטאק. טיף אראפצוגיין, אראפצוגיין דארט, אין קעלער. אראפצוגיין אין א קעלער
+        אריין. אין אינמיטן גאלאפן, אין די הייעך פארדעקט מיט דארנס גרוז [אומהערבאר]
+        צווייגן, איז געווען אויסגעקאפעט א גריב און געצויגן איז געווען, וואסער איז
+        געווען געצויגן [אומהערבאר] איז געשטאנען, איז געגאנגן רעגן וואסער פון דער ינען.
+        עס איז געווארן געמאכט אזא, צוגעצויגן דערינען פון אונטער די ערד, אזא קאנאפיע,
+        אז די וואסער פון די רעגן זאל אריינגיין אין די פעסער אריין, צום טרינקן. אויף
+        די הייעך איז געלעגן א שטיקל ווארע סחורה, און עס האט דורכגערייניקט.
+    - who: David Boder
+      start: '00:37:24.548'
+      end: '00:37:24.548'
+      u: פילטרירט.
+    - who: Itzhak Brin
+      start: '00:37:25.724'
+      end: '00:37:25.724'
+      u: פילטרירט. און דארט איז געשטאנען וואסער [אומהערבאר] ווען עס האט גערעגנט.
+    - who: David Boder
+      start: '00:37:31.552'
+      end: '00:37:31.552'
+      u: נא?
+    - who: Itzhak Brin
+      start: '00:37:41.940'
+      end: '00:37:41.940'
+      u: דארטן איז געוועזן [אומהערבאר] עס איז געווען גאנץ גוט אויסגעשטעלט.
+    - who: David Boder
+      start: '00:37:48.148'
+      end: '00:37:48.148'
+      u: ווען די וואסער גייט אריין, ווער קען עס פארדעקן?
+    - who: Itzhak Brin
+      start: '00:37:50.826'
+      end: '00:37:50.826'
+      u: עס איז געווען צו מאכן אינעווייניק מיט א הענטל, אזוי אויסצונעמען, צו פארריקן.
+        עס איז נישט געווען אזוי געפערלעך. [אומהערבאר] און ווען מיר זענען הינטן געוועזן.
+        ווען מיר זענען אראפגעגאנגן, איז געגאנגן איין און צוואנציק מאן ארויס. טייל
+        מענטשן, [אומהערבאר] ווען מיר זענען אוועקגעגאנגן דארט, עס איז געווען די אכצענטן
+        ביינאכט. מיר זענען געזעצן אין זיבעצענטן [אומהערבאר] אין בונקער. אין אויף די
+        אכצענטן [In Polish] styczeń. [In Yiddish] אינדערפרי, הערט מען וואס אויף די
+        ערד, מען גייט, עס קלאפט אויס א ווידערקול, מען גייט, מען גייט. און דארטן, ווייסט
+        מען, דארטן ווייסט מען האט א מענטשלעכע פיס נישט געטרעטן. האט מען פארשטאנען
+        אז דא [אומהערבאר] איז מען געגאנגן, און מען האט איינעם ארויסגעשיקט, איינער
+        האט זיך ריזיקירט און א גיי ארויסגעגאנגן, האט ער געזען ווי פאלאקן זענען אריינגעקומען
+        שוין, און די דראנטן פון די געטא זענען שוין צעריסן, און די פאלאקן לויפן אריין
+        און זוכן אין די שטובער יידישע זאכן, מען ראבירט יידישע זאכן, און אונז האט מען
+        דאך געזען, מיר זענען געגאנגן די, די...
+    - who: David Boder
+      start: '00:38:59.368'
+      end: '00:38:59.368'
+      u: מיט די לאטעס
+    - who: Itzhak Brin
+      start: '00:38:59.958'
+      end: '00:38:59.958'
+      u: מיט די לאטעס, "אוי, א ייד", און מען איז ארויפגעפאלן אויף אונז, און מען האט
+        אונז צעקישט
+    - who: David Boder
+      start: '00:39:04.760'
+      end: '00:39:04.760'
+      u: די פאלאקן?
+    - who: Itzhak Brin
+      start: '00:39:05.203'
+      end: '00:39:05.203'
+      u: 'די פאלאקן [אומהערבאר] און מען האט געזאגט, אוי, די רוסן זענען דא. דער וואס
+        האט געהאט ארויסגעגאנגן איז אראפגעקומען מיט א געוואלד, מיט א שמחה, "קינדער,
+        מיר זענען געהאלפן." די רוסן זענען דא, זאגט ער. מען איז געגאנגן, מען איז ארויס
+        געגאנגן אין גאס אריין, איז מען אהין געגאנגן דארטן אין לאגער, האט איז געוואר
+        געווארן אזוי: אז טאקע דעם דאנערשטאג אינדערפרי, דאס מיינט די זיבעצנטן [אומהערבאר]
+        אינדערפרי איז געוועזן, איז געקומען ביז קנאפע צוויי הונדערט מאן, געסטאפאװציס,
+        מיט געווער אין די האנט. זיי האבן ארומגענומען דעם גאנצן לאגער, [אומהערבאר]
+        און אין לאגער הויפן, און זיי האבן געשריגן, יידן ארונטער. איז געבליבן אפאר
+        עלטערע מענטשן, מיט אפאר קראנקע, וואס איז אראפגעגאנגן, האט מען גענומען א טייל
+        פון זיי האט די פאליציי גענומען מען האט זיי אהינגעפירט [אומהערבאר] אין די קרימינאל
+        פאליציי. און די איבריקע געסטאפא האט זיך געלאזט אין דעם גאנצן געטא זוכן מענטשן.
+        ווייל עס איז קיינער נישט געבליבן. עס איז געבליבן א טייל האבן זיך פארשטעקט.'
+    - who: David Boder
+      start: '00:40:08.617'
+      end: '00:40:08.617'
+      u: "[אומהערבאר]"
+    - who: Itzhak Brin
+      start: '00:40:10.873'
+      end: '00:40:10.873'
+      u: און געבליבן, איז האבן זיי צוזאמען גענומען [אומהערבאר] פון זעכציק מאן. און
+        אינמיטן זוכן, עס איז געווען דאנערשטיק, זיבעצנטן יאנואר, צוויי [אומהערבאר]
+        האבן זיי באקומען א פארארדענונג, דאס זיי מוזן אוועקגיין, האבן זיי געהאט, איז
+        די מענטשן וואס זענען געבליבן פארשלאסן אין די קרימינאל פאליציי, זענען אויך
+        געבליבן לעבן, און צוויי טעג אינדערפרי האבן זיי די פאלאקן געעפנט די טירן און
+        זיי ארויסגעלאזט [אומהערבאר] קיין קיין מענטש, אלע זענען געבליבן און זיי האבן
+        זיך אלע גערעטעט.
+    - who: David Boder
+      start: '00:40:42.833'
+      end: '00:40:42.833'
+      u: יא. אלזא, און די פאלאקן האבן פאר אייך קיינמאל קיין אנטיסעמיזם נישט געצייגט?
+    - who: Itzhak Brin
+      start: '00:40:50.492'
+      end: '00:40:50.492'
+      u: זיי האבן קיינמאל נישט קיין אנטיסעמיזם פאר אונז געצייגט. זיי האבן געהאט, זיי
+        האבן נאך מורא געהאט פאר אונז. אונז האבן דאך געזען ווי זיי ראבירן די יידישע
+        האב און גוטס. נאר [אומהערבאר] וואס געפונט זיך אין א שטיב. די גאנצע צייט וואס
+        מיר האבן געארבעט אין געטא האבן מיר געטרעטן אויף די טייערסטע זאכן. וואי מען
+        האט געזען, דאס האבן מיר יא געטון, וואו מען האט געזען א טייערע זאך. מען האט
+        געזען א טייערע [אומהערבאר] מאנטל, מען האט געזען א טייער [אומהערבאר] אז די
+        דייטשן זאלן קיין גענוס נישט האבן דערפון, האט מען געפאקט איינעם, האט מען באקומען
+        גיט געשלאגן דערפאר. מיינסטענסטייל, וואס מען האט יא ארויסגעשיקט, האט מען אלעס
+        געמאכט א טל דערפון פריער, זיי זאלן קיין גענוס נישט האבן דערפון.
+    - who: David Boder
+      start: '00:41:33.936'
+      end: '00:41:33.936'
+      u: אהא. נא, זאגט מיר דאס. ווי אזוי זענט איר געקומען קיין פראנקרייך?
+    - who: Itzhak Brin
+      start: '00:41:41.669'
+      end: '00:41:41.669'
+      u: יעצט קיין פראנקרייך? יעצט בין איך געפארן קיין פוילן הייסט עס. בין איך געפארן
+        קיין לאדז, איך האב זיי געהייראט מיין צווייטע פרוי פון מיין שטאט. זי שטאמט
+        פון פון שעראדז.
+    - who: David Boder
+      start: '00:41:52.717'
+      end: '00:41:52.717'
+      u: פון וואו?
+    - who: Itzhak Brin
+      start: '00:41:53.453'
+      end: '00:41:53.453'
+      u: פון שעראדז. נעבן לאדז.
+    - who: David Boder
+      start: '00:41:55.142'
+      end: '00:41:55.142'
+      u: יא.
+    - who: Itzhak Brin
+      start: '00:41:56.501'
+      end: '00:41:56.501'
+      u: און מיר זענען געזעצן אין לאדז. איך האב זיך געהאט געפירט איין מסחר פון [אומהערבאר]
+        אין די שטאט שעראדז, האב איך געקענט קריסטן פון [אומהערבאר] איך האב געפירט מעיל
+        קיין לאדז. [אומהערבאר] קיין לאדז. די מצב פון אנטיסעמיזם האט זיך געשטארקט אין
+        פוילן, דאס איך האב געמוזט יעדע וואך, צוויי, דריי מאל פארן אין שטאט אריין מיט
+        געלט. אין זיך בארעכענען [אומהערבאר] וועגן מסחר.
+    - who: David Boder
+      start: '00:42:25.798'
+      end: '00:42:25.798'
+      u: מיט וועם בארעכענען?
+    - who: Itzhak Brin
+      start: '00:42:26.717'
+      end: '00:42:26.717'
+      u: בארעכענען זיך מיט דעם [אומהערבאר] עס איז שוין געווען זייער קאמפליצירט, צוליב
+        דעם וואס עס איז שוין געוועזן איין פאקט אויפן וועג וואס מען האט אפגעשטעלט מען
+        האט געזוכט יידן, עס איז געווען זייער קאמפליפיצירט. האב איך געמוזט עס ליקווידירן.
+        און פארשאפט מיר איין פאס, און אהערגעפארן אויף פראנקרייך. מיין פרוי, [אומהערבאר]
+        אן אדוואקאט דורך מיינס א ברודער וואס געפינט אין ארץ ישראל [אומהערבאר] אדוואקאט.
+        און איך בין געבליבן [אומהערבאר] אוועקפארן מיט עלי' ב' דערווייל [אומהערבאר]
+        אין ארץ ישראל, זיך שטארק פארענדערט, בין איך געבליבן דערווייל דאהי אין קיבוץ.
+        און איך האף מיט ג-טליכע הילף וועל איך ווערן פאראייניגן מיט מיין פרוי [אומהערבאר]
+    - who: David Boder
+      start: '00:43:07.574'
+      end: '00:43:07.574'
+      u: זייער וויכטיגע זאכן האט איר מיר דערציילט. איך האב שוין [אומהערבאר] אזא דערציילונגען
+        פון לאדזער געטא, אבער עס האט מיר קיינער נישט דערציילט וואס איר האט מיר פארציילט.
+        ספעציעל די גאנצע זאך פון די געשיכטע פון די ווארע, [אומהערבאר] אויסרייניקן
+        די געטא, מען זאל עס ליקווידירן, ארויסנעמען די טויטע, ווייל די דייטשע האבן
+        נאך גענומען די לעצטע מאמענט אלע זאכן.
+    - who: Itzhak Brin
+      start: '00:43:41.061'
+      end: '00:43:41.061'
+      u: אלעס.
+    - who: David Boder
+      start: '00:43:42.764'
+      end: '00:43:42.764'
+      u: "[In German] Danke sehr..."
+    - who: David Boder
+      start: '00:43:43.735'
+      end: '00:43:43.735'
+      u: "[In English]...This concludes the interview...eh?"
+    - who: Itzhak Brin
+      start: '00:43:45.639'
+      end: '00:43:45.639'
+      u: "[In Yiddish] איך וועל אייך דערציילן נאך איין עפיזאד פון מיין שטאט שעראדז."
+    - who: David Boder
+      start: '00:43:48.881'
+      end: '00:43:48.881'
+      u: יא. איר האט די מייקראפאן אין אייער הענט.
+    - who: Itzhak Brin
+      start: '00:43:53.279'
+      end: '00:43:53.279'
+      u: איך וועל אייך איבערגעבן אן עפיזאד וואס איך האב דאס אויך בייגעוואוינט זייענדיק
+        [אומהערבאר] אנפאנג קריג, ווען די דויטשן זענען אריינגעקומען אין די שטאט שעראדז,
+        דאס איז אכציק קילאמעטער פון לאדז, וואס מיר האבן מיטגעמאכט דארטן. פארן אנפאנג
+        קריג, ווען די דויטשן זענען שוין געווען אין אונזער שטאט, איז גייענדיק אין גאס,
+        אין שעראדז איז אנשטאנען אן אוטא אינמיטן מארק. אין די פאליציי האט געמאכט א,
+        א...
+    - who: David Boder
+      start: '00:44:30.429'
+      end: '00:44:30.429'
+      u: אן אבלאווע
+    - who: Itzhak Brin
+      start: '00:44:31.587'
+      end: '00:44:31.587'
+      u: אן אבלאווע. און מען האט געכאפט [אומהערבאר] און מען האט גענומען צוואנציק יונגע
+        מענטשן און מען האט זיי ארויפגעכאפט אויף דעם אוטא. איך בין גראדע אויך געווען
+        אינצווישן מען האט אונז א כאפ געגעבן אויפן אוטא און מען איז אוועקגעפארן מיט
+        אונז. וואו אהין מען פארט האט מען נישט געוויסט, נישט געוויסט וואו אהין מען
+        פארט. און שטאט האט זיך באלד געמאכט א גרויסע גערודער. מען האט נישט געוויסט
+        וואס עס קומט פאר. איז מען געפארן.
+    - who: David Boder
+      start: '00:45:05.221'
+      end: '00:45:05.221'
+      u: ער דערציילט דעם עפיזאד, נאך איין.
+    - who: Itzhak Brin
+      start: '00:45:08.558'
+      end: '00:45:08.558'
+      u: אזוי מען האט אונז געכאפט האט מען אונז געפירט נישט ווייט, איין קילאמעטער אינטער
+        די שטאט, דאס איז אונזער יידישער בית עולם אין שעראדז, און מען האט אונז ארויסגעפירט,
+        און מען האט אונז געזוגט, מען זאל קאפען דא א גריב. אונז האבן געקאפעט דאס גריב
+        זייער שנעל. מען איז געשטאנען, און מען האט אונז געיוגט ביי די ארבייט. קאפענדיק
+        האבן אונז געוויינט מיט טרערן, מיר האבן נישט געוויסט פאר וועמען מען קאפעט און
+        מיר האבן געמיינט זיכער אז מען גייט אונז דא אלע אויסשיסן. דאס גריב איז פאר
+        אונז. דאס גריב איז געמאכט געווארן האט מען אונז אלע נעם געגעבן, אין די אוטא
+        איז צוריקגעפארן צוריק אין די שטאט אריין, האט מען אונז אלע א נעם געגעבן, און
+        מען האט אונז אלע געהייסן אוועקגיין פון גריב, און מען האט אונז אלע געהייסן
+        זיך צושטעלן צום מויער, מיט די הענט אין די הייעך און מיטן פנים צי די מויער.
+        די מויער הייסט עס, די מויער פון דעם בית החיים, די פלאט. אזוי שטייענדיק, האט
+        מען אונז געציפעט, געזאגט וידוי. אונז האבן געמיינט זיכער מען גייט אונז אויסשיסן.
+        דערווייל איז מען געבליבן אזוי שטיין, אינמיטן זעהט מען ווי אן אוטא קומט אן
+        צופארן, הונדערט מעטער אפגעריקט פון די יידישע בית עולם, דארט איז געשטאנען א
+        מלין.
+    - who: David Boder
+      start: '00:46:34.979'
+      end: '00:46:34.979'
+      u: א וואס?
+    - who: Itzhak Brin
+      start: '00:46:35.477'
+      end: '00:46:35.477'
+      u: א מיל. א פאראװי מיל. און זיי האבן אראפגעשטיפט מענטשן פון די אוטא. די אוטא
+        איז געבליבן שטיין צוריקגעפארן אין שטאט אריין. און די דויטשן וואס האבן באוואכט
+        די מענטשן האבן זיי גענומען און האבן זיי געשלאגן מיט די קאלבעס, מיט די הענט
+        אין די הייעך, האבן זיי געשריגן, לויפן, לויפן, לויפן, שנעל, שנעל, שנעל.
+    - who: David Boder
+      start: '00:46:59.416'
+      end: '00:46:59.416'
+      u: וויפיל מענטשן זענען געווען דארט?
+    - who: Itzhak Brin
+      start: '00:47:00.885'
+      end: '00:47:00.885'
+      u: עס זענען געוועזן דריי און צוואנציק מאן. עס איז געוועזן די היטער פון די שטאט
+        שעראדז סענדזיעס, אדוואקאטן, פראקורארן, [אומהערבאר] קריסטן. עס איז געוועזן
+        איין יידישע ארצט א געוויסע עליאס [אומהערבאר] אן אויגן דאקטער, א געוויסע פראפעסער.
+        נאך איין תאוטעכויק, א געוויסע ראזענקראנץ, שראליק ראזענקראנץ, און די מענטשן
+        האט מען אזוי צוגעיוגט, ביז צום, זיי זענען געוועזן, געזעצן אלץ זאקלאדניקיס
+    - who: David Boder
+      start: '00:47:37.164'
+      end: '00:47:37.164'
+      u: "[אומהערבאר] זאלאזשניקי"
+    - who: Itzhak Brin
+      start: '00:47:40.043'
+      end: '00:47:40.043'
+      u: זאלאזשניקי אין תפיסה. [אומהערבאר].
+    - who: David Boder
+      start: '00:47:45.614'
+      end: '00:47:45.614'
+      u: יא.
+    - who: Itzhak Brin
+      start: '00:47:46.365'
+      end: '00:47:46.365'
+      u: דיזע מענטשן האט מען געפירט, מען האט זיי געהייסן לויפן, לויפן, ביז זיי זענען
+        צוגעקימען צום הויז פון דעם אריינגאנג פון דעם בית החיים, פון בית עולם. פלוצלונג
+        דערזען זיי [אומהערבאר] געווארן אביסל לייכטער. און מען האט געזען אז געוויס,
+        געווענלעך וועט מען שיסן די מענטשן.
+    - who: David Boder
+      start: '00:48:08.149'
+      end: '00:48:08.149'
+      u: יא.
+    - who: Itzhak Brin
+      start: '00:48:09.838'
+      end: '00:48:09.838'
+      u: פלוצלונג, שטייענדיק נאך מיט די הענט אין די הייעך ביי די מויער, האט מען געזען
+        די מענטשן קומען ארויס, הא, הא, געעטעמט שטארק פון די לויפנס זיי מיד צו מאכן.
+        און מען האט זיי די אלע מענטשן ארומגיין, אויסמיידענדיק אז זיי זאלן נישט זען
+        דאס גריב, גענומען זיי פון אן אנדערע ווינקל אריין פון דעם בית עולם. דערנאך
+        האט מען גענומען פון אונז, פון די דריי-צוואנציק מענטשן האט מען ארויסגענומען
+        זיבן מאן וואס מען האט זיי צוגעשטעלט צום גריב. מען האט זיי געהייסן מאכן
+    - who: David Boder
+      start: '00:48:43.294'
+      end: '00:48:43.294'
+      u: זענט איר געווען פון די זיבן מאן?
+    - who: Itzhak Brin
+      start: '00:48:44.653'
+      end: '00:48:44.653'
+      u: ניין, פון די זיבן מאן בין איך נישט געווען. אבער די איבריקע זענען מיר געבליבן
+        שטיין מיט די הענט אין די הייעך ביי די מויער. און די זיבן מאן זענען צוגעגאנגן.
+        מען האט זיי געהייסן מאכן א בערגל ערד הארט ביים גריב. א בערגל ערד ביים גריב.
+        דאס זענען געווען מיינע קאלעגן אויך, געווענלעך האבן ער מיר דערציילט ווי אזוי
+        עס איז צוגאנגן. אונז האבן מיר געמוזט שטיין איבערגעדרייט מיט די הענט אין די
+        הייעך, געדרייעט צום מויער. האט מען גענומען, מען האט געברענגט יעדן איינצעלנעם
+        פערזאן אהין און מען האט אים געהייסן מיט די קניען, אויף דעם בערגל אראפלייגן
+        דעם קאפ און איין מאן איז געשטאנען מיט א טאשן רעוואלווער אין מען האט געשאסן,
+        אזוי ווי מען האט געהערט דעם קויל, האבן שוין געמוזט צולויפן אונזערע מענטשן,
+        די זיבן מאן, א נעם געבן, אריינלייגן אין גריב אריין. אזוי האט מען געפירט איינער
+        אונטער דעם צווייטן. איינעם אונטער דעם צווייטן. ווען מען איז ציגעקימען, איינער
+        האט געהייסן דארט איינער, יעקבי ראזען, דער איינער לעבט שוין נישט היינט. אין
+        אוישוויץ אהינגעקומען. האט ער מיר פארציילט, ווען מען איז צוגעקימען צו דעם ייד
+        ישראליק ראזענקראנץ, דעם טעכניק, האט ער ווען ער האט געקריגן דעם קויל האט ער
+        אים א נעם געגעבן פון בערגל אראפ אריין אין גריב אריין, [אומהערבאר] האט ער א
+        זאג געגעבן, יעקב'ל וואס טוסטו, איך לעב דאך נאך! ער האט אים געקענט יעקב ראזען.
+        וואס טוסטו, איך לעב דאך נאך. אזוי איז מען געגאנגן און מען האט איינער אויפן
+        צווייטן כסדר, איינער אויפן צווייטן געשאסן. און מען האט זיי באגראבן אין די
+        [אומהערבאר] אין די אנגעטואכץ. ווי אזוי זיי זענען געגאנגן אנגעטון. די היסטערישע
+        געוואלדן פון די מענטשן איז אומבאשרייבלעך.
+    - who: David Boder
+      start: '00:50:28.411'
+      end: '00:50:28.411'
+      u: "[אומהערבאר]"
+    - who: Itzhak Brin
+      start: '00:50:28.997'
+      end: '00:50:28.997'
+      u: די וואס מען האט זיי געשאסן, צוגייענדיק צום גריב.
+    - who: David Boder
+      start: '00:50:32.685'
+      end: '00:50:32.685'
+      u: זיי האבן געשריען?
+    - who: Itzhak Brin
+      start: '00:50:33.612'
+      end: '00:50:33.612'
+      u: זיי האבן געשריען. אזוי [אומהערבאר]. מען האט זיי אלע געשאסן.
+    - who: David Boder
+      start: '00:50:37.993'
+      end: '00:50:37.993'
+      u: אלע מענער?
+    - who: Itzhak Brin
+      start: '00:50:38.656'
+      end: '00:50:38.656'
+      u: אלע מענער. די יידן צוויי, אויך פון אונטער דערצווישן [זיי]. און מען האט זיי
+        אלע געשאסן, און מען האט זיי אלע אזוי באגראבן. און יעצט איז געווארן מיט א יאר
+        צוריק איז געווארן געמאכט א עקסכומאציע [אומהערבאר] וואס מען האט זיי ארויסגענומען
+        פון יידישן בית החיים און מען האט זיי אריבערגעפירט אויפן פוילישן צמענטאזד.
+        און אויך, נאכ'ן אפטון די שטיקל ארבעט, האט מען גענומען די אלע צוואנציק מאן,
+        ארויסגעפירט דורך די פאליציי. מען האט זיך געמוזט אונטערשרייבן אז די זאך וועט
+        נישט ארויסקימען. ווער עס וועט פארציילן וואס עס איז געווען דא [אומהערבאר] צווישן
+        די יידן, וואס עס איז דא פארגעקימען, זאל וויסן אז ער וועט געשאסן ווערן. וואס
+        אין אמת'ן, די אלע צוואנציק מענטשן זענען זיך גראד צולאפן אין שטעטלעך ארום,
+        זיי האבן נישט געוואלט בלייבן דארטן, ווייל זיי האבן מורא געהאט טאמער מען וועט
+        זיי באשולדיקן דערפאר. זענען זיי זיך צעלאפן. איינער איז געלאפן דא. איינער איז
+        געלאפן דארט.
+    - who: David Boder
+      start: '00:51:30.408'
+      end: '00:51:30.408'
+      u: אין געטא אוועקגעלאפן.
+    - who: Itzhak Brin
+      start: '00:51:31.254'
+      end: '00:51:31.254'
+      u: אין געטא אריינגעלאפן.
+    - who: David Boder
+      start: '00:51:32.283'
+      end: '00:51:32.283'
+      u: אלזא. הער ברין, איך דאנק אייך זייער. דאס איז טרויעריקע געשיכטן. מען קען נישט
+        זאגן אז דאס איז א גוטע געשיכטע אבער עס איז א וויכטיגע געשיכטן, איינפאך פארציילט,
+        פון א מענטש וואס האט מייסטנס געזען, און איך דענק אז דאס וועט זייער ניצלעך
+        זיין. איך דאנק אייך זייער.
+    - who: David Boder
+      start: '00:51:49.741'
+      end: '00:51:49.741'
+      u: "[In English] This concludes the interview with Mr. Isaac Brin [unintelligible]...eh,
+        Mr. Isaac Brin. At Hénonville. He apparently worked a special...hm, especially
+        in a very gruesome type of work. He did not want to tell his whole story,
+        but we got from him nearly one and a half spools. Hénonville near Paris, September
+        the 13th, 1946. Illinois Institute of Technology wire recording."
+    - who: David Boder
+      start: '00:52:28.404'
+      end: 
+      u: "[break in wire]...six...Illinois Institute of Technology wire recording."
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:00.834'
+      end: '00:00:00.834'
+      u: "[In English] Spool 126, starting at the eighteenth minute, with an interview
+        with Mr. Isaac Brin, [to interviewee] ja, in English [unintelligible] Issac.
+        Mr. Isaac Brin, Itzhak Brin. Thirty-eight years old, married second time,
+        his wife...second wife is from Palestine, he expects to go over. At the Agudah
+        Israel [unintelligible] of the Agudah in Hénonville, near Paris. Mr. Brin
+        feels that he would not want to tell us...a complete story from the Lodzsher
+        Ghetto, but he considers that he wants to pick some special memorial moments."
+    - who: David Boder
+      start: '00:00:43.280'
+      end: '00:00:43.280'
+      u: "[In Yiddish] Did you understand what I said? So, Mr. Brin says that [Inaudible]
+        the Lodzsher Ghetto. He will recount that which he himself had the opportunity
+        to know and experience."
+    - who: Itzhak Brin
+      start: '00:01:00.472'
+      end: '00:01:00.472'
+      u: "[unintelligible]"
+    - who: David Boder
+      start: '00:01:01.439'
+      end: '00:01:01.439'
+      u: "[In German] Yes. So, Mr. Brin, say what you would like. Begin. [unintelligible].
+        Please repeat that. Yes. Speak louder."
+    - who: Itzhak Brin
+      start: '00:01:10.942'
+      end: '00:01:10.942'
+      u: "[unintelligible]. Lodzsher Ghetto [unintelligible]. Work [unintelligible].
+        Building section [unintelligible]."
+    - who: David Boder
+      start: '00:01:47.991'
+      end: '00:01:47.991'
+      u: "[unintelligible]"
+    - who: Itzhak Brin
+      start: '00:01:50.312'
+      end: '00:01:50.312'
+      u: In the end it was [unintelligible] for the Ghetto [unintelligible] Ghetto
+        [unintelligible]. Here we laughed and [unintelligible] Mrs. [unintelligible]
+        [unintelligible]
+    - who: David Boder
+      start: '00:02:15.667'
+      end: '00:02:15.667'
+      u: "[unintelligible]"
+    - who: Itzhak Brin
+      start: '00:02:18.616'
+      end: '00:02:18.616'
+      u: "[unintelligible]"
+    - who: David Boder
+      start: '00:02:20.658'
+      end: '00:02:20.658'
+      u: Yes, when you are directly nearby [unintelligible]
+    - who: Itzhak Brin
+      start: '00:02:22.693'
+      end: '00:02:22.693'
+      u: "[unintelligible] caused no [unintelligible]"
+    - who: David Boder
+      start: '00:02:26.240'
+      end: '00:02:26.240'
+      u: Yes, I have from [unintelligible] double-tracked [unintelligible].
+    - who: Itzhak Brin
+      start: '00:02:29.634'
+      end: '00:02:29.634'
+      u: "[unintelligible]"
+    - who: David Boder
+      start: '00:02:30.247'
+      end: '00:02:30.247'
+      u: Yes. And?
+    - who: Itzhak Brin
+      start: '00:02:30.903'
+      end: '00:02:30.903'
+      u: "[unintelligible]"
+    - who: David Boder
+      start: '00:02:33.821'
+      end: '00:02:33.821'
+      u: Yes. Did you know Doctor Vaug?
+    - who: Itzhak Brin
+      start: '00:02:36.231'
+      end: '00:02:36.231'
+      u: Doctor Vaug...
+    - who: David Boder
+      start: '00:02:38.309'
+      end: '00:02:38.309'
+      u: Were you living in Lodz before?
+    - who: Itzhak Brin
+      start: '00:02:42.037'
+      end: '00:02:42.037'
+      u: We came to Lodz [unintelligible]
+    - who: David Boder
+      start: '00:02:44.566'
+      end: '00:02:44.566'
+      u: Aha.
+    - who: Itzhak Brin
+      start: '00:02:45.005'
+      end: '00:02:45.005'
+      u: "[unintelligible]"
+    - who: David Boder
+      start: '00:02:53.786'
+      end: '00:02:53.786'
+      u: "[unintelligible]"
+    - who: Itzhak Brin
+      start: '00:02:54.659'
+      end: '00:02:54.659'
+      u: "[unintelligible]"
+    - who: David Boder
+      start: '00:02:55.878'
+      end: '00:02:55.878'
+      u: "[unintelligible] And?"
+    - who: Itzhak Brin
+      start: '00:02:58.234'
+      end: '00:02:58.234'
+      u: "[unintelligible]. I came into the [unintelligible] Lodz Ghetto, then we
+        apportioned a place to live [unintelligible] to the Jews."
+    - who: David Boder
+      start: '00:03:08.272'
+      end: '00:03:08.272'
+      u: Were you there in Rumkowski's time?Mordechai Chaim Rumkowski (1877-1944)
+        was the Nazi-appointed head of the Jewish authorities in the Łódź Ghetto.
+        Rumkowski was heavily criticized for his relationship with the Nazis and his
+        autocratic style of government. He oversaw the industrialization of the Ghetto,
+        believing that the Nazis would spare the inhabitants of Łódź if they remained
+        productive in manufacturing goods for German consumption. While this productivity
+        initially held off large deportations from the Ghetto, it did not last. Rumkowski
+        and his family, along with approximately 60,000 remaining residents of the
+        Ghetto, were deported to Auschwitz in the summer of 1944. He was murdered
+        at Auschwitz on August 28, 1944.1
+    - who: Itzhak Brin
+      start: '00:03:09.769'
+      end: '00:03:09.769'
+      u: Yes. [unintelligible] Rumkowski's time.
+    - who: David Boder
+      start: '00:03:15.510'
+      end: '00:03:15.510'
+      u: "[unintelligible]. What did you think of Rumkowski? [unintelligible]."
+    - who: Itzhak Brin
+      start: '00:03:18.829'
+      end: '00:03:18.829'
+      u: What I thought of Rumkowski? Rumkowski was very...a leader of the German
+        powers. Everything had to be exact. Everything that he got from Amtsleiter
+        Biebow.Hans Biebow (1902-1947) was the head of Nazi administration of the
+        Łódź Ghetto.2 He with the help of his police carried out precisely. [unintelligible].
+        He was a very strong person, huge. [unintelligible]. If someone were caught
+        stealing a potato, one went [unintelligible]. Sent to Auschwitz [unintelligible].
+    - who: David Boder
+      start: '00:04:21.952'
+      end: '00:04:21.952'
+      u: Also, [unintelligible] Rumkowski [unintelligible]
+    - who: Itzhak Brin
+      start: '00:04:23.989'
+      end: '00:04:23.989'
+      u: "[unintelligible]. In Ghetto [unintelligible]. I was in the Ghetto until
+        the end of the Ghetto in '24."
+    - who: David Boder
+      start: '00:04:53.969'
+      end: '00:04:53.969'
+      u: That is '44.
+    - who: Itzhak Brin
+      start: '00:05:03.130'
+      end: '00:05:03.130'
+      u: Yes, '44. I was in Lodz until the end, until there were no more Jews. [unintelligible]
+        I lived.. I was. [unintelligible] I was working in the section where there
+        were Christians [unintelligible] Ghetto.
+    - who: David Boder
+      start: '00:05:27.035'
+      end: '00:05:27.035'
+      u: In the Ghetto? [unintelligible]
+    - who: Itzhak Brin
+      start: '00:05:30.775'
+      end: '00:05:30.775'
+      u: There were places outside the Ghetto, well-guarded by police, who were watching
+        the workers. I was an assistant to the workers building the walls, the [unintelligible].
+    - who: David Boder
+      start: '00:05:43.582'
+      end: '00:05:43.582'
+      u: In the Ghetto?
+    - who: Itzhak Brin
+      start: '00:05:44.216'
+      end: '00:05:44.216'
+      u: In the Ghetto.
+    - who: David Boder
+      start: '00:05:45.520'
+      end: '00:05:45.520'
+      u: What did they build there? [both speaking at the same time; unintelligible]
+    - who: Itzhak Brin
+      start: '00:05:52.778'
+      end: '00:05:52.778'
+      u: After that, I had the good fortune that the Christians gave me food. I gave
+        them [unintelligible]
+    - who: David Boder
+      start: '00:06:00.843'
+      end: '00:06:00.843'
+      u: What did they give you?
+    - who: Itzhak Brin
+      start: '00:06:02.092'
+      end: '00:06:02.092'
+      u: "[unintelligible] Soup, bread [unintelligible] bread. [unintelligible] a
+        kilo salami or a kilo bread [unintelligible] I did not have much strength...[unintelligible]
+        my brother and I, my brother's wife and my sister. [unintelligible] Paper
+        [unintelligible]"
+    - who: David Boder
+      start: '00:07:17.374'
+      end: '00:07:17.374'
+      u: I am asking you questions that other people [unintelligible] such things
+        [unintelligible] but you go [unintelligible]
+    - who: Itzhak Brin
+      start: '00:07:31.658'
+      end: '00:07:31.658'
+      u: I wondered what would happen to me [unintelligible]. I worked with a German
+        and a Pole and the Poles brought a newspaper into the Ghetto. We also had
+        a secret radio in the Ghetto.and we learned what was going politically. The
+        newspapers [unintelligible]
+    - who: David Boder
+      start: '00:08:14.926'
+      end: '00:08:14.926'
+      u: "[unintelligible]"
+    - who: Itzhak Brin
+      start: '00:09:40.950'
+      end: '00:09:40.950'
+      u: "[In German] On the last day [unintelligible] the transport left [unintelligible]
+        the politics [unintelligible]. Then we heard that the whole neighborhood [unintelligible].
+        In the streets [unintelligible] shooting. We heard that thousands of people
+        had been killed. Not Jews. We did not know what nationality they were—Hungarians,
+        Romanians, Poles [unintelligible] Biebow fell out [unintelligible] and saw
+        [unintelligible]. There was one Jew, a certain Ayzlander. He was a [unintelligible]."
+    - who: David Boder
+      start: '00:10:12.773'
+      end: '00:10:12.773'
+      u: A Jew?
+    - who: Itzhak Brin
+      start: '00:10:13.436'
+      end: '00:10:13.436'
+      u: "[In Yiddish] A Jew. [unintelligible]"
+    - who: David Boder
+      start: '00:10:21.315'
+      end: '00:10:21.315'
+      u: "[unintelligible] The Jewish Committeeman?"
+    - who: Itzhak Brin
+      start: '00:10:57.213'
+      end: '00:10:57.213'
+      u: "[unintelligible] went off to the train station. [unintelligible]"
+    - who: David Boder
+      start: '00:11:10.605'
+      end: '00:11:10.605'
+      u: "[In German] They liquidated the Ghetto?"
+    - who: Itzhak Brin
+      start: '00:11:12.056'
+      end: '00:11:12.056'
+      u: "[In Yiddish] They liquidated the Ghetto. [unintelligible] Ayzman wanted
+        twenty young, strong men [unintelligible] they should remain in the Ghetto.[unintelligible]
+        to go into all the houses and clean up [unintelligible]. It was the end. It
+        just so happened that I knew about this. [unintelligible] three weeks [unintelligible].
+        I, my sister, my brother and my brother's wife [unintelligible] we were young
+        people. [unintelligible] It was terrible."
+    - who: David Boder
+      start: '00:12:57.513'
+      end: '00:12:57.513'
+      u: "[In German] The smell."
+    - who: Itzhak Brin
+      start: '00:12:58.524'
+      end: '00:12:58.524'
+      u: The smell. [unintelligible]
+    - who: David Boder
+      start: '00:13:05.616'
+      end: '00:13:05.616'
+      u: Yes, with great force [unintelligible]
+    - who: Itzhak Brin
+      start: '00:13:06.645'
+      end: '00:13:06.645'
+      u: "[unintelligible] If there was a corpse, we had to put it into three large
+        ditches, and there were three levels one on top of the other. [unintelligible]"
+    - who: David Boder
+      start: '00:14:03.808'
+      end: '00:14:03.808'
+      u: Germans? [unintelligible]
+    - who: Itzhak Brin
+      start: '00:14:05.724'
+      end: '00:14:05.724'
+      u: "[unintelligible] Germans, Germans. [unintelligible]"
+    - who: David Boder
+      start: '00:14:07.218'
+      end: '00:14:07.218'
+      u: And?
+    - who: Itzhak Brin
+      start: '00:14:08.830'
+      end: '00:14:08.830'
+      u: "[unintelligible] It took time. [unintelligible] This was the work that was
+        very much needed in the Ghetto. [unintelligible] Then all the people were
+        gone. Then they took some people [unintelligible]. Ayzman was also [unintelligible].
+        He was getting people ready for the execution that was going to take place.
+        [unintelligible] Also sat there [unintelligible] we should prepare a ditch
+        two meters long."
+    - who: David Boder
+      start: '00:15:50.556'
+      end: '00:15:50.556'
+      u: "[In English] Eh, this concludes Spool 126 with the report of Mr. Isaac Brin
+        and we are going...about the Lodzsher Ghetto, and we are going over to Spool
+        127. Illinois Institute of Technology wire recording. September 13th, 1946,
+        Hénonville, fifty kilometers from Paris, in the Agudah Israel."
+    - who: David Boder
+      start: '00:16:18.186'
+      end: '00:16:18.186'
+      u: Spool 127, continuation of Spool 126. Eh, the interviewee is Mr. Isaac Brin,
+        Itzhak Brin, thirty-eight years old, who was in the liquidation group of the
+        Lodzsher Ghetto.
+    - who: David Boder
+      start: '00:16:33.190'
+      end: '00:16:33.190'
+      u: "[In Yiddish] So, you said that you were [unintelligible]."
+    - who: Itzhak Brin
+      start: '00:16:39.329'
+      end: '00:16:39.329'
+      u: "[unintelligible] the working people. He said [unintelligible] that we should
+        make a ditch of three meters deep and three meters wide. [unintelligible]"
+    - who: David Boder
+      start: '00:16:54.791'
+      end: '00:16:54.791'
+      u: "[unintelligible]"
+    - who: Itzhak Brin
+      start: '00:16:55.454'
+      end: '00:16:55.454'
+      u: "[unintelligible] three or four [unintelligible]"
+    - who: Itzhak Brin
+      start: '00:17:27.463'
+      end: '00:17:27.463'
+      u: Well, it was seven in the morning. [unintelligible] There were no more people
+        in the Ghetto. Everything was already emptied out, and a truck came in covered...and
+        every...with people. The people, who were going to be shot, were lying stretched
+        out on the bottom of the truck. The crew, the German Gestapo, the totenkopf,Totenkopf
+        is the German word for "skull." A design featuring a skull and cross-bones
+        was part of the Nazi SS uniforms.3 as they were called, were sitting on them.
+    - who: David Boder
+      start: '00:18:06.032'
+      end: '00:18:06.032'
+      u: They were not lying on their clothes, they were lying...
+    - who: Itzhak Brin
+      start: '00:18:08.890'
+      end: '00:18:08.890'
+      u: Each one was lying separately and each one had his hands bound behind them...
+    - who: David Boder
+      start: '00:18:18.546'
+      end: '00:18:18.546'
+      u: When they were brought in, their hands were already tied.
+    - who: Itzhak Brin
+      start: '00:18:20.656'
+      end: '00:18:20.656'
+      u: Tied. Hands tied tightly behind them, and then each one was tied to the next
+        one. Each one to the other. And the crew got off the truck [said] "Everyone
+        down," and they began to pull them off. The people didn't know what was going
+        on. During the extreme cold they were barefoot and wore only a pair of pants
+        and a shirt. Nothing else. Well, the first one to go down dragged the next
+        one with him, because they were tied together in groups of from four to ten.
+        The first time I was there there were twenty-four Jews. [unintelligible] there
+        were four times six bound together. In the first six there was one who was
+        a Captain. He told us, us Jews...we stood there to serve. He told us to stand
+        fifty meters to one side. We held the shovels [unintelligible] in our hands.
+        We stood a distance away, and this Captain came over with an order. The crew
+        was standing to the side. Six people went over, six people went close to the
+        ditch. The ditch had been dug. They faced the ditch. There was a whistle;
+        a salvo and they were killed.
+    - who: David Boder
+      start: '00:20:06.093'
+      end: '00:20:06.093'
+      u: A salvo from machine...?
+    - who: Itzhak Brin
+      start: '00:20:07.287'
+      end: '00:20:07.287'
+      u: A salvo of rifles, of hand rifles. And that is what happened to the first
+        six, the second six, the third six, the fourth—one right after the other until
+        they were all killed. Then there was a whistle indicating that we should come
+        right over, but quickly. So we went. We had to have a small knife in our hands
+        to cut one away from the other.
+    - who: David Boder
+      start: '00:20:35.749'
+      end: '00:20:35.749'
+      u: Yes.
+    - who: Itzhak Brin
+      start: '00:20:37.145'
+      end: '00:20:37.145'
+      u: Well, it wasn't possible to throw all six in, so we had to separate them
+        and took each person...
+    - who: David Boder
+      start: '00:20:46.416'
+      end: '00:20:46.416'
+      u: They fell into the pit?
+    - who: Itzhak Brin
+      start: '00:20:47.738'
+      end: '00:20:47.738'
+      u: No. [unintelligible]. The first six were left hanging half in the ditch and
+        half on the ground. The second six couldn't lie next to the pit, because they
+        were blocked by the first group. The second were not cut one from the other,
+        did not lie straight. Their hands were down and their feet up. [unintelligible].
+        Thrown in one on top of the other, as quickly a possible. They stood with
+        billy clubs in their hands and beat us to work faster, ever faster, and every
+        hole in the head was as big as a fist.
+    - who: David Boder
+      start: '00:21:30.035'
+      end: '00:21:30.035'
+      u: They shot in the head?
+    - who: Itzhak Brin
+      start: '00:21:32.236'
+      end: '00:21:32.236'
+      u: They shot in the head from behind.
+    - who: David Boder
+      start: '00:21:34.071'
+      end: '00:21:34.071'
+      u: "[In German] How far were the soldiers standing from these people?"
+    - who: Itzhak Brin
+      start: '00:21:36.620'
+      end: '00:21:36.620'
+      u: "[In Yiddish] The soldier stood about fifteen meters away."
+    - who: David Boder
+      start: '00:21:40.690'
+      end: '00:21:40.690'
+      u: "[In German] Well, can one always hit it right?"
+    - who: Itzhak Brin
+      start: '00:21:43.404'
+      end: '00:21:43.404'
+      u: "[In Yiddish] They did. They hit every one. They stood there and shot into
+        the heads as they were lying there. As soon as we heard the whistle indicating
+        that we should approach, one man went over, this was the Captain himself,
+        and he took out a pocket revolver and if he saw a corpse that was still moving,
+        he put a bullet into his head. Whoever moved, he finished off."
+    - who: David Boder
+      start: '00:22:03.115'
+      end: '00:22:03.115'
+      u: Finished him off.
+    - who: Itzhak Brin
+      start: '00:22:04.163'
+      end: '00:22:04.163'
+      u: "[unintelligible]"
+    - who: David Boder
+      start: '00:22:04.679'
+      end: '00:22:04.679'
+      u: Well?
+    - who: Itzhak Brin
+      start: '00:22:05.983'
+      end: '00:22:05.983'
+      u: And we were...the brains...
+    - who: David Boder
+      start: '00:22:10.141'
+      end: '00:22:10.141'
+      u: And the living were not buried?
+    - who: Itzhak Brin
+      start: '00:22:12.269'
+      end: '00:22:12.269'
+      u: What? The living were never buried. The brain, the brains were spattered
+        for about ten, fifteen meters around the pit, and there was blood, and we
+        had to throw these people into the ditch very quickly. And the Gestapo were
+        standing right there, and they...
+    - who: David Boder
+      start: '00:22:32.584'
+      end: '00:22:32.584'
+      u: Men and women?
+    - who: Itzhak Brin
+      start: '00:22:35.097'
+      end: '00:22:35.097'
+      u: At that time, the first time, when there were those twenty-four people, there
+        was one woman. The other times, there were only middle-aged men. [unintelligible]
+        Poles. Polish. Poles. Polish. Poles. No Jews. Poles.
+    - who: David Boder
+      start: '00:22:49.240'
+      end: '00:22:49.240'
+      u: Who were shot?
+    - who: Itzhak Brin
+      start: '00:22:50.178'
+      end: '00:22:50.178'
+      u: Poles were shot.
+    - who: David Boder
+      start: '00:22:51.500'
+      end: '00:22:51.500'
+      u: They were Poles?
+    - who: Itzhak Brin
+      start: '00:22:53.408'
+      end: '00:22:53.408'
+      u: They were Poles.
+    - who: David Boder
+      start: '00:22:55.353'
+      end: '00:22:55.353'
+      u: They were buried in the Jewish. . .
+    - who: Itzhak Brin
+      start: '00:22:56.437'
+      end: '00:22:56.437'
+      u: This was what the Germans, the Germans did, so that no one would know. They
+        took Gen[tiles], Poles and buried them in the Jewish...
+    - who: David Boder
+      start: '00:23:05.283'
+      end: '00:23:05.283'
+      u: Oh, they shot Poles.
+    - who: Itzhak Brin
+      start: '00:23:07.484'
+      end: '00:23:07.484'
+      u: All Poles! Because they shot very few Jews at that time. They were trying
+        to kill the Jews but they sent them to the crematoria. But the Poles, the
+        Poles [unintelligible] it was mostly political [unintelligible] political
+        things [unintelligible].
+    - who: David Boder
+      start: '00:23:49.793'
+      end: '00:23:49.793'
+      u: Polish partisans...
+    - who: Itzhak Brin
+      start: '00:23:28.773'
+      end: '00:23:28.773'
+      u: After that, they scattered some earth over them. They were told to gathered
+        the brains that had been strewn around the pit. [unintelligible] said, "Take
+        this home and you'll have lunch to eat."
+    - who: David Boder
+      start: '00:23:49.793'
+      end: '00:23:49.793'
+      u: Who [unintelligible]?
+    - who: Itzhak Brin
+      start: '00:23:50.767'
+      end: '00:23:50.767'
+      u: That's what the German said, the Gestapo. They were, they were making fun
+        of us. Quickly, quickly we poured on some earth into the pit and they were
+        standing there with weapons until it was done.
+    - who: David Boder
+      start: '00:24:07.456'
+      end: '00:24:07.456'
+      u: "[In German] Men and women?"
+    - who: Itzhak Brin
+      start: '00:24:09.053'
+      end: '00:24:09.053'
+      u: Men and women.
+    - who: David Boder
+      start: '00:24:10.265'
+      end: '00:24:10.265'
+      u: "[In Yiddish] Tell me, what did the Poles do? Did they scream, plead? What
+        did they do?"
+    - who: Itzhak Brin
+      start: '00:24:18.749'
+      end: '00:24:18.749'
+      u: 'From a distance, from afar we often heard:'
+    - who: Itzhak Brin
+      start: '00:24:22.819'
+      end: '00:24:22.819'
+      u: "[In Polish] O Jezus, o jezus..."
+    - who: David Boder
+      start: '00:24:24.956'
+      end: '00:24:24.956'
+      u: Aha.
+    - who: Itzhak Brin
+      start: '00:24:25.826'
+      end: '00:24:25.826'
+      u: "[In Yiddish] But [unintelligible] they arrived in such condition....When
+        they were being tied up, they knew why they were being bound and they were
+        no longer conscious [of what was going on]. In addition, they had been beaten,
+        pale. They no longer looked.... They were practically half-dead, when they
+        were delivered under such conditions. I was present at such events five or
+        six times. The shock that I felt the first time...I walked around crazed whole
+        days and night. In the camp that I was assigned to [unintelligible] to talk,
+        but I was not allowed to tell anyone. Afterwards, when the whole business
+        with the Jews was over, with the Ghetto, we were all taken out of there and
+        led...connected to the camp that cleaned the whole Lodz Ghetto, At that time,
+        we were five hundred people who remained especially to clean the Lodz Ghetto..."
+    - who: David Boder
+      start: '00:25:36.704'
+      end: '00:25:36.704'
+      u: What did they clean?
+    - who: Itzhak Brin
+      start: '00:25:39.162'
+      end: '00:25:39.162'
+      u: Cleaned. Cleaned. Took out all kinds of material. We were specially assigned
+        to do this work. When the time came and there were no more Jews in the Ghetto,
+        and it happened that the Gestapo needed something brought to them, we were
+        the only ones who were called, only the ten of us who were at the cemetery
+        during that time [unintelligible] and those who cleaned out the camp, because
+        the Gestapo didn't want any other people, only the very same ones.
+    - who: David Boder
+      start: '00:26:03.838'
+      end: '00:26:03.838'
+      u: Which same ones?
+    - who: Itzhak Brin
+      start: '00:26:04.739'
+      end: '00:26:04.739'
+      u: The same ten men...
+    - who: David Boder
+      start: '00:26:06.212'
+      end: '00:26:06.212'
+      u: Who had buried...
+    - who: Itzhak Brin
+      start: '00:26:06.724'
+      end: '00:26:06.724'
+      u: ". . . who had buried the dead at the time of the shooting."
+    - who: David Boder
+      start: '00:26:08.827'
+      end: '00:26:08.827'
+      u: Yes, yes.
+    - who: Itzhak Brin
+      start: '00:26:10.974'
+      end: '00:26:10.974'
+      u: This happened another two or three times in the camp.
+    - who: David Boder
+      start: '00:26:16.106'
+      end: '00:26:16.106'
+      u: Were Jews or Poles shot?
+    - who: Itzhak Brin
+      start: '00:26:20.762'
+      end: '00:26:20.762'
+      u: They only shot Poles. We never saw Jews being shot. Just Poles. They say
+        that everyone was being shot, but they were all Christians. It is possible
+        that...possible...It is a fact that one time a German was shot. He looked
+        like a fat calf.
+    - who: David Boder
+      start: '00:26:44.617'
+      end: '00:26:44.617'
+      u: Yes.
+    - who: Itzhak Brin
+      start: '00:26:45.294'
+      end: '00:26:45.294'
+      u: He must have been involved in military affairs. At that time a judge and
+        a prosecutor also came along and in that place a [unintelligible] was read.
+    - who: David Boder
+      start: '00:26:57.199'
+      end: '00:26:57.199'
+      u: Only this one German was shot?
+    - who: Itzhak Brin
+      start: '00:26:58.595'
+      end: '00:26:58.595'
+      u: Only this one German was shot. Yes. It was the only time and that was the
+        only German who was shot in the Jewish cemetery. And at that time the sentence
+        was read. [unintelligible] The Poles did not have any protocol at all.
+    - who: David Boder
+      start: '00:27:13.983'
+      end: '00:27:13.983'
+      u: A priest was never brought in?
+    - who: Itzhak Brin
+      start: '00:27:17.119'
+      end: '00:27:17.119'
+      u: A priest...no! They couldn't recognize from their clothes who was a priest
+        and who wasn't.
+    - who: David Boder
+      start: '00:27:21.830'
+      end: '00:27:21.830'
+      u: A priest to administer the last rites?
+    - who: Itzhak Brin
+      start: '00:27:25.881'
+      end: '00:27:25.881'
+      u: A priest. No.
+    - who: David Boder
+      start: '00:27:27.456'
+      end: '00:27:27.456'
+      u: To pray.
+    - who: Itzhak Brin
+      start: '00:27:30.427'
+      end: '00:27:30.427'
+      u: Praying. There was never any of that. Never. Then there came an order issued
+        from the camp that we were to dig eight large pits in the cemetery. So we
+        also took...
+    - who: David Boder
+      start: '00:27:50.541'
+      end: '00:27:50.541'
+      u: Which pits?
+    - who: Itzhak Brin
+      start: '00:27:51.387'
+      end: '00:27:51.387'
+      u: What?
+    - who: David Boder
+      start: '00:27:51.900'
+      end: '00:27:51.900'
+      u: Which pits?
+    - who: Itzhak Brin
+      start: '00:27:53.021'
+      end: '00:27:53.021'
+      u: Eight very large pits.
+    - who: David Boder
+      start: '00:27:55.113'
+      end: '00:27:55.113'
+      u: Oh. New pits were to be made. [unintelligible]
+    - who: Itzhak Brin
+      start: '00:27:56.307'
+      end: '00:27:56.307'
+      u: New pits. The same ten people who had been at the cemetery the whole time
+        previously were taken out there, and we dug the eight pits, and it was...
+    - who: David Boder
+      start: '00:28:09.311'
+      end: '00:28:09.311'
+      u: What did you talk about while you were digging the pits?
+    - who: Itzhak Brin
+      start: '00:28:11.639'
+      end: '00:28:11.639'
+      u: As we were digging the pits, we were in a political situation.
+    - who: David Boder
+      start: '00:28:18.035'
+      end: '00:28:18.035'
+      u: We you being guarded or were you alone?
+    - who: Itzhak Brin
+      start: '00:28:19.980'
+      end: '00:28:19.980'
+      u: No, that Ayzman came [unintelligible] an order to make sure that there were
+        eight large pits. We were the same ten men who worked at the cemetery and
+        we were digging the eight large pits. It was a fact that Biebow appeared with
+        another Gestapo official as were coming from the digging, and he said...I
+        just happened to hear, oh yes, "We will put the heads on this side, the feet
+        on this side and the children here in the middle. A hundred people should
+        fit in this pit. Then people were brought over who had been hiding in hiding
+        places. I placed myself close by. Nothing was done to them, because at that
+        time, the Germans' opinion was that they were going to kill us but right then
+        they needed more manpower in the Ghetto, because they wanted to clean out
+        the Ghetto,as soon as possible. [unintelligible] They thought they were going
+        to kill us anyway so why not let us work for a while. For eight hundred people,
+        eight such ditches were dug. As we stood there digging...with every spadeful,
+        we made our confession [to G-d], because we knew that this work, this work,
+        these ditches were for us. [unintelligible] This is how it actually was. We
+        finished the pits and everyone went back to his work in the camp...
+    - who: David Boder
+      start: '00:30:11.706'
+      end: '00:30:11.706'
+      u: Yes, yes. Well...
+    - who: Itzhak Brin
+      start: '00:30:13.505'
+      end: '00:30:13.505'
+      u: Well, when we were in the camp, we did not lack for food in the camp.
+    - who: David Boder
+      start: '00:30:18.124'
+      end: '00:30:18.124'
+      u: What happened after you made the pits?
+    - who: Itzhak Brin
+      start: '00:30:21.369'
+      end: '00:30:21.369'
+      u: We made these eight pits and they remained open. We did not know what was
+        going to happen.
+    - who: David Boder
+      start: '00:30:26.519'
+      end: '00:30:26.519'
+      u: Did you tell this to the other people in the camp?
+    - who: Itzhak Brin
+      start: '00:30:28.464'
+      end: '00:30:28.464'
+      u: In the camp...When we made these eight pits, everyone was very astonished,
+        broken, because we knew that they were for us. Well, what did G-d do? At our
+        workplace, every morning there was a roll call. In Lodz [Gives the address].
+        That was where we had the work camp. Every morning there was a roll call.
+    - who: David Boder
+      start: '00:30:57.822'
+      end: '00:30:57.822'
+      u: How many people were there?
+    - who: Itzhak Brin
+      start: '00:30:59.034'
+      end: '00:30:59.034'
+      u: Eight hundred people.
+    - who: David Boder
+      start: '00:31:00.246'
+      end: '00:31:00.246'
+      u: Aha.
+    - who: Itzhak Brin
+      start: '00:31:01.126'
+      end: '00:31:01.126'
+      u: Eight hundred seventy-six people.
+    - who: David Boder
+      start: '00:31:02.957'
+      end: '00:31:02.957'
+      u: Aha.
+    - who: Itzhak Brin
+      start: '00:31:03.763'
+      end: '00:31:03.763'
+      u: I was there. Each group had its leader. Everyone was assigned a job. I was
+        also assigned a job that I did. I took over the horses and wagons [unintelligible]
+        and then led them out.
+    - who: David Boder
+      start: '00:31:20.692'
+      end: '00:31:20.692'
+      u: Well?
+    - who: Itzhak Brin
+      start: '00:31:22.088'
+      end: '00:31:22.088'
+      u: Led them out. [unintelligible] were not permitted to enter the Ghetto, so
+        we took their horses and wagons, loaded them with merchandise and led them
+        back to the Christians to take them out of the Ghetto,
+    - who: David Boder
+      start: '00:31:36.550'
+      end: '00:31:36.550'
+      u: Excuse me. What kind of merchandise did they have there?
+    - who: Itzhak Brin
+      start: '00:31:38.770'
+      end: '00:31:38.770'
+      u: 'The merchandise was this: furniture, iron, rags, trash, everything that
+        there was in the Ghetto, especially various medicines, and food that remained
+        in the Ghetto, Everything had to be taken out.'
+    - who: David Boder
+      start: '00:32:02.477'
+      end: '00:32:02.477'
+      u: Everything.
+    - who: Itzhak Brin
+      start: '00:32:03.595'
+      end: '00:32:03.595'
+      u: Everything had to be removed. The whole Ghetto had to be cleaned out. In
+        addition, every street had to be cleaned, and every house. When the furniture
+        was taken out, the iron, the plates, spoons, bowls...everything was removed.
+        Then the Ghetto was surrounded by a fence and Germans and Christians came
+        into these houses, Christian workers, Poles and they tore down...who took
+        out the wood, the doorknobs, all the floors that were there, and then they
+        razed the house itself. And this went on and on.
+    - who: David Boder
+      start: '00:32:41.814'
+      end: '00:32:41.814'
+      u: And where did you live? In barracks?
+    - who: Itzhak Brin
+      start: '00:32:44.125'
+      end: '00:32:44.125'
+      u: We had [unintelligible] a camp of sorts, a house that was...In those times
+        there was [unintelligible].
+    - who: David Boder
+      start: '00:32:50.850'
+      end: '00:32:50.850'
+      u: Where did you sleep there?
+    - who: Itzhak Brin
+      start: '00:32:52.575'
+      end: '00:32:52.575'
+      u: We also slept there in the camp.
+    - who: David Boder
+      start: '00:32:53.769'
+      end: '00:32:53.769'
+      u: In beds?
+    - who: Itzhak Brin
+      start: '00:32:54.502'
+      end: '00:32:54.502'
+      u: We had very good beds, because there was no lack of bedding in the Ghetto.
+        When we went into whatever house it was, we took blankets, pillows and we
+        had enough. The food was also very good in the camp, because large warehouses
+        remained full of food for the whole Ghetto—seventy thousand Jews, so there
+        was food remaining, certainly enough to feed eight hundred people, especially
+        if the Germans wanted us to work fast. They told us to eat as much as we wanted,
+        because they wanted the work to go as fast as possible.
+    - who: David Boder
+      start: '00:33:28.011'
+      end: '00:33:28.011'
+      u: Tell. . .
+    - who: Itzhak Brin
+      start: '00:33:29.626'
+      end: '00:33:29.626'
+      u: Every morning there was a roll call and everyone was given his work assignment.
+        There came...it was Thursday, the 17th of January [he uses the Polish term
+        "styczen" here].
+    - who: David Boder
+      start: '00:33:45.238'
+      end: '00:33:45.238'
+      u: The seventeenth of what?
+    - who: Itzhak Brin
+      start: '00:33:46.048'
+      end: '00:33:46.048'
+      u: Seventeenth, the seventeenth of January, January.
+    - who: David Boder
+      start: '00:33:49.477'
+      end: '00:33:49.477'
+      u: Yes, yes. Forty-five.
+    - who: Itzhak Brin
+      start: '00:33:50.744'
+      end: '00:33:50.744'
+      u: Forty-five, yes. They came and they called a Jew out of our camp.
+    - who: David Boder
+      start: '00:33:57.836'
+      end: '00:33:57.836'
+      u: "[unintelligible]"
+    - who: Itzhak Brin
+      start: '00:33:58.829'
+      end: '00:33:58.829'
+      u: No. He called a certain brother and they told him.... He was called on the
+        17th of January [again, he uses the Polish term]. [unintelligible] that was
+        when the roll call was. He was called out on the 16th in the evening to go
+        to the Gestapo and he was told that the next morning, every single one in
+        the camp, because every day there was a roll call. There were fifty men who
+        took care of fifty pairs of horses; these were the horses that worked to take
+        the goods out of the Ghetto. These men, these people did not sleep with us
+        in the camp. They slept in the barns with the horses. There were special telephone
+        operators, who worked day and night [unintelligible] with the accounts. They
+        also did not sleep...
+    - who: David Boder
+      start: '00:34:45.698'
+      end: '00:34:45.698'
+      u: Jewish ones?
+    - who: Itzhak Brin
+      start: '00:34:46.269'
+      end: '00:34:46.269'
+      u: But on that day, early on Thursday, the morning of the 17th, there came an
+        order that everyone has to be there—children and adults—everyone should be
+        present at the roll call. We knew [unintelligible] what we had secretly heard,
+        that the Germans were already in Chenstokhov...[correcting himself] that the
+        Russians were in Chenstokhov. We knew that we were going to our deaths, that
+        we would all be shot, and we knew that the graves were still open at the cemetery.
+        The leader of the camp arrived very upset, because he also sensed what was
+        about to happen, and the leader of the camp had also bribed a person in the
+        Gestapo. He gave him a gold watch with diamonds. He got him drunk and he said,
+        "Ja, tomorrow all of you will die."
+    - who: David Boder
+      start: '00:35:43.262'
+      end: '00:35:43.262'
+      u: Yes.
+    - who: Itzhak Brin
+      start: '00:35:45.079'
+      end: '00:35:45.079'
+      u: The leader of the camp came on the night of the 16th of January, came into
+        the camp. "Children," he said, "Jews, save yourselves, each one of you, if
+        you can." I [unintelligible] there was a place for eight people, and we went
+        there and they took us in. In addition, we took along people whom we knew—we
+        were twenty in all—and because we knew that we would not be there long, because
+        we knew that the Russians were already in Chenstokhov, we went into the bunker
+        and they hid us there.
+    - who: David Boder
+      start: '00:36:24.608'
+      end: '00:36:24.608'
+      u: What did the bunker look like? Tell me. How was the bunker made?
+    - who: Itzhak Brin
+      start: '00:36:27.927'
+      end: '00:36:27.927'
+      u: The bunker was...since I worked at [unintelligible]. At work I....I learned
+        [unintelligible]. In the back there was a first-class room. The room was four
+        meters by two, four meters by three.
+    - who: David Boder
+      start: '00:36:45.348'
+      end: '00:36:45.348'
+      u: Was this on the first floor or in the cellar?
+    - who: Itzhak Brin
+      start: '00:36:47.436'
+      end: '00:36:47.436'
+      u: No floor...[we had to] go deep, deep there.
+    - who: David Boder
+      start: '00:36:50.829'
+      end: '00:36:50.829'
+      u: In the cellar.
+    - who: Itzhak Brin
+      start: '00:36:51.529'
+      end: '00:36:51.529'
+      u: To go down into the cellar in the middle of the garden. The top was covered
+        with thorns, grass [unintelligible] branches. A ditch has been dug and water
+        had been piped in and also [unintelligible] there was rainwater from the eaves.
+        It was constructed so that it went underground [unintelligible] that the rainwater
+        for drinking should go into the barrels. On top lay a piece of material, cloth,
+        and this cleaned...
+    - who: David Boder
+      start: '00:37:24.548'
+      end: '00:37:24.548'
+      u: Filtered.
+    - who: Itzhak Brin
+      start: '00:37:25.724'
+      end: '00:37:25.724'
+      u: Filtered. And there was water there, there were three or four kilos of water,
+        when it rained.
+    - who: David Boder
+      start: '00:37:35.432'
+      end: '00:37:35.432'
+      u: In the garden. [unintelligible]
+    - who: Itzhak Brin
+      start: '00:37:37.452'
+      end: '00:37:37.452'
+      u: It was covered with [unintelligible] on top. It was very, very well arranged.
+    - who: David Boder
+      start: '00:37:48.148'
+      end: '00:37:48.148'
+      u: Who could cover it when the [unintelligible] went in?
+    - who: Itzhak Brin
+      start: '00:37:50.826'
+      end: '00:37:50.826'
+      u: One could close it from the inside with a handle...to close it. It wasn't
+        bad when we were down there. When we went up, twenty-one men came out. Some
+        people telling about it later. . . they went down there on the night of the
+        16th and they sat there in the bunker the whole day of the 17th. In the morning
+        on the 18th of January, we heard people walking on the earth. An echo could
+        be heard. People were coming. People were coming. And there we knew, there
+        we knew that no human had set foot. So we understood that the end had come,
+        and someone was sent out. One person took the risk and went out. He saw that
+        the Poles had already entered, and the wires of the Ghetto were already torn.
+        And the Poles were running in and looking for things in the Jewish houses.
+        They were stealing Jewish things, and they saw us. We were wearing the...
+    - who: David Boder
+      start: '00:38:59.368'
+      end: '00:38:59.368'
+      u: The patches.
+    - who: Itzhak Brin
+      start: '00:38:59.958'
+      end: '00:38:59.958'
+      u: The patches. "Oh, a Jew!" And they fell on us, and began kissing us.
+    - who: David Boder
+      start: '00:39:04.760'
+      end: '00:39:04.760'
+      u: The Poles?
+    - who: Itzhak Brin
+      start: '00:39:05.203'
+      end: '00:39:05.203'
+      u: The Poles. They kissed us and they said, "The Russians are here!" The one
+        who had gone out to look, came back down shouting with joy, "Children, we
+        are saved. The Russians are here," he said. We went, we went out into the
+        street, and we went back to the camp. We found out that on that very Thursday
+        morning, that means the morning of the 17th of January,Brin is slightly confused
+        as to the date—January 17th was in fact a Wednesday. He likely means Thursday
+        the 18th, as the Russians liberated Łódź on January 19th, 1945.4 at least
+        200 men, those who had guarded the Ghetto, with weapons in their hands, had
+        encircled the whole camp, and the camp courtyard, and they shouted, "Jews
+        down." There were only a few elderly people remaining and a few sick people
+        that came down. The police took some of them prisoner and led them to the
+        police station, where criminals were held, and the rest of the Gestapo continued
+        to search the whole Ghetto,for people, because there was no one left. Some...
+    - who: David Boder
+      start: '00:40:08.617'
+      end: '00:40:08.617'
+      u: Were hidden.
+    - who: Itzhak Brin
+      start: '00:40:10.873'
+      end: '00:40:10.873'
+      u: There remained...they gathered sixty people. And in the middle of their searching...it
+        was Thursday, the 17th of January at two o'clock, they received an order...
+    - who: David Boder
+      start: '00:40:25.448'
+      end: '00:40:25.448'
+      u: To leave.
+    - who: Itzhak Brin
+      start: '00:40:25.833'
+      end: '00:40:25.833'
+      u: That they had to leave. The people who had been locked up as criminals in
+        the police station, also remained alive, and the morning of the next day,
+        the Poles opened the doors and, thank G-d. . . not one person...everyone remained
+        and they were all saved.
+    - who: David Boder
+      start: '00:40:42.833'
+      end: '00:40:42.833'
+      u: Yes. Well...and the Poles never exhibited any anti-Semitism toward you?
+    - who: Itzhak Brin
+      start: '00:40:50.492'
+      end: '00:40:50.492'
+      u: They never showed us any anti-Semitism. They were, they were just afraid
+        of us. After all, we saw them stealing Jewish possessions. But who had in
+        mind what was in the houses. The whole time that we were working in the Ghetto,
+        we stepped on the most precious things. When we saw...we did do this...when
+        we saw valuable things, if we saw an expensive fur coat, and expensive [unintelligible]
+        coat [unintelligible] so that the Germans would not enjoy it. If someone was
+        caught, he was severely beaten for it. For the most part, what ever we sent
+        out, we made a mess of it beforehand, so that the Germans would not have use
+        of it.
+    - who: David Boder
+      start: '00:41:33.936'
+      end: '00:41:33.936'
+      u: Aha. Well, tell me this—How did you get to France?
+    - who: Itzhak Brin
+      start: '00:41:41.669'
+      end: '00:41:41.669'
+      u: 'To France? I traveled to Poland and I went to Lodz. I married my second
+        wife: a woman from my town. She comes from Sieradz.'
+    - who: David Boder
+      start: '00:41:52.717'
+      end: '00:41:52.717'
+      u: From where?
+    - who: Itzhak Brin
+      start: '00:41:53.453'
+      end: '00:41:53.453'
+      u: From Sieradz. Near Lodz.
+    - who: David Boder
+      start: '00:41:55.142'
+      end: '00:41:55.142'
+      u: Yes.
+    - who: Itzhak Brin
+      start: '00:41:56.501'
+      end: '00:41:56.501'
+      u: And we stayed in Lodz. I had run a business of selling flour in the city
+        of Sieradz. I knew Christians...
+    - who: David Boder
+      start: '00:42:05.571'
+      end: '00:42:05.571'
+      u: Flour?
+    - who: Itzhak Brin
+      start: '00:42:06.234'
+      end: '00:42:06.234'
+      u: ". . . and so I brought flour to Lodz, flour to Lodz. The state of anti-Semitism
+        had gotten much worse in Poland, to the extent that every week I had to go
+        two, three times into town with money and straighten things out with [unintelligible]
+        concerning the business."
+    - who: David Boder
+      start: '00:42:25.798'
+      end: '00:42:25.798'
+      u: To straighten things out with whom?
+    - who: Itzhak Brin
+      start: '00:42:26.717'
+      end: '00:42:26.717'
+      u: Straighten things out with my [unintelligible]. It was already very complicated
+        due to the fact that cars were being stopped on the road. They were looking
+        for Jews. It was very complicated, so I had to liquidate it, and I got a passport
+        and came to France. My wife, got a certificate through my brother, who lives
+        in Israel. She got a certificate, and we left it that I was [unintelligible]
+        to travel with the second settlement to Israel, but in the meantime the situation
+        for Jews had changed a lot, so I remained here on the kibbutz, and I hope,
+        with G-d's help, that I will be reunited with my wife.
+    - who: David Boder
+      start: '00:43:07.574'
+      end: '00:43:07.574'
+      u: Well, Mr. Brin, you have told me very important things. I already have five
+        stories about the Lodz Ghetto, but no one told me what you have told me. Especially
+        the whole matter of the story about the material. I knew about cleaning out
+        the Ghetto,when it was being liquidated, that the corpses were being taken
+        out, but that until the last minute, the Germans were taking everything. .
+        .
+    - who: Itzhak Brin
+      start: '00:43:41.061'
+      end: '00:43:41.061'
+      u: Everything.
+    - who: David Boder
+      start: '00:43:42.764'
+      end: '00:43:42.764'
+      u: "[In German] Danke sehr..."
+    - who: David Boder
+      start: '00:43:43.735'
+      end: '00:43:43.735'
+      u: "[In English]...This concludes the interview...huh?"
+    - who: Itzhak Brin
+      start: '00:43:45.639'
+      end: '00:43:45.639'
+      u: "[In Yiddish] I will tell you one more episode about my town, Sieradz."
+    - who: David Boder
+      start: '00:43:48.881'
+      end: '00:43:48.881'
+      u: Yes. The microphone is yours.
+    - who: Itzhak Brin
+      start: '00:43:53.279'
+      end: '00:43:53.279'
+      u: I will tell you about an event at which I was present. It was at the beginning
+        of the war, when the Germans entered the town of Sieradz, which is eighty
+        kilometers from Lodz...what we suffered there. Before the beginning of the
+        war, when the Germans were already in our town, I was walking in the street
+        in Sieradz and a car [sic] stopped in the middle of the marketplace. The police
+        were making...what do you call it?
+    - who: David Boder
+      start: '00:44:30.429'
+      end: '00:44:30.429'
+      u: A raid.
+    - who: Itzhak Brin
+      start: '00:44:31.587'
+      end: '00:44:31.587'
+      u: A raid. And they caught [unintelligible] and they caught twenty young people
+        and put them into the car. I was actually among them.
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Yes.
+    - who: Itzhak Brin
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: They grabbed us into the car and drove away with us. We didn't know where
+        they were going. In town there was an immediate commotion. No one knew what
+        was happening. They drove on.
+    - who: David Boder
+      start: '00:45:05.221'
+      end: '00:45:05.221'
+      u: He tells this episode [unintelligible].
+    - who: Itzhak Brin
+      start: '00:45:08.558'
+      end: '00:45:08.558'
+      u: We were caught and we were taken not far away, one kilometer outside the
+        town. This was the Jewish cemetery in Sieradz. They let us out and we were
+        told that we were to dig a pit here and here. We dug the pit very quickly.
+        They stood there and rushed us through the work. As we were digging, we cried
+        with tears. We did not know for whom we were digging, and we were certain
+        that all of us were going to be shot, that the pit was for us. Once the pit
+        was done, all of us were loaded back into the car and taken back to town.
+        We were all taken, and we were all told to get away from the pit. We were
+        all told to stand by the brick wall with our hands in the air and our faces
+        to the wall. This was the wall of the cemetery, the fence. As we stood there,
+        we trembled; we made our last confessions. We thought for sure we were all
+        going to be shot. We stood that way for a while. Behind us, we saw a car approaching.
+        A hundred meters from the Jewish cemetery, there was a mill.
+    - who: David Boder
+      start: '00:46:34.979'
+      end: '00:46:34.979'
+      u: A what?
+    - who: Itzhak Brin
+      start: '00:46:35.477'
+      end: '00:46:35.477'
+      u: A mill, a [unintelligible] mill. They pushed people out of the car. The car
+        remained standing and returned to the town. And the Germans who were guarding
+        the people began to beat them with clubs. With their hands in the air they
+        began to shout, "Run, run, run. Fast, fast, fast."
+    - who: David Boder
+      start: '00:46:59.416'
+      end: '00:46:59.416'
+      u: How many people were there?
+    - who: Itzhak Brin
+      start: '00:47:00.885'
+      end: '00:47:00.885'
+      u: 'There were twenty-three people. They were the elite of the town Sieradz:
+        judges, lawyers, prosecutors, [unintelligible], Christians. There was one
+        Jewish doctor, a certain Elias Sperok, and eye doctor, a big professor. In
+        addition, there was a dental technician, Rozenkrants, Srulik Rozenkrants.
+        And these people were rushed to....they were...they were prisoners.'
+    - who: David Boder
+      start: '00:47:37.164'
+      end: '00:47:37.164'
+      u: Prisoners.
+    - who: Itzhak Brin
+      start: '00:47:40.043'
+      end: '00:47:40.043'
+      u: Prisoners in jail. Captives.
+    - who: David Boder
+      start: '00:47:45.614'
+      end: '00:47:45.614'
+      u: Yes, yes.
+    - who: Itzhak Brin
+      start: '00:47:46.365'
+      end: '00:47:46.365'
+      u: These people were led...They were told to run, run, until they reached the
+        house that was the entrance to the Jewish Cemetery, the Jewish Cemetery.
+    - who: David Boder
+      start: '00:47:56.588'
+      end: '00:47:56.588'
+      u: Yes.
+    - who: Itzhak Brin
+      start: '00:47:57.486'
+      end: '00:47:57.486'
+      u: We saw them, we saw them running and we felt a little better. We thought,
+        certainly, certainly they were going to shoot these people.
+    - who: David Boder
+      start: '00:48:08.149'
+      end: '00:48:08.149'
+      u: Yes.
+    - who: Itzhak Brin
+      start: '00:48:09.838'
+      end: '00:48:09.838'
+      u: We were still standing with our hands in the air by the brick fence. We saw
+        these people coming out. Huff, huff, breathing hard from their running to
+        make them tired, and all these people were taken around, taking care to avoid
+        the pit. They were taken from another corner of the cemetery and told to stand
+        there. Then seven men were selected from us, from our twenty-three and they
+        were placed near the pit. They were told to...
+    - who: David Boder
+      start: '00:48:43.294'
+      end: '00:48:43.294'
+      u: Were you among these seven men?
+    - who: Itzhak Brin
+      start: '00:48:44.653'
+      end: '00:48:44.653'
+      u: 'No. I was not one of these seven men. The rest of us remained standing by
+        the fence with our hands in the air. And these seven men went over. They were
+        told to make a mound of earth right near the pit, a mound of earth right near
+        the pit. These were also my colleagues. Of course, they told me how things
+        went. We had to stand facing away with our hands high—turned to the fence.
+        They took...they brought every single person there and told them to kneel
+        and to place his head on the mound, and one man stood with a hand gun and
+        shot. As soon as they heard the bullet, our men had to run over, these seven
+        men, and grab him and put him in the pit. This happened one right after the
+        other, one right after the other. One guy, Yankl Rozen, he is also not living
+        anymore, he died in Auschwitz, told me that when it was the turn of this Jew,
+        Isrulik Rozenkrants, the technician...he received the bullet and when he was
+        being taken from the mound to the pit, he said, "Yankl, what are you doing?
+        I am still alive!" He knew Yankl Rozen. "What are you doing? I am still alive!"
+        That''s how things went: one on top of the other, continuously. They shot
+        one right after the other, and they were buried in their clothes, in what
+        they were wearing. The hysterical screaming of these people cannot be described.'
+    - who: David Boder
+      start: '00:50:28.411'
+      end: '00:50:28.411'
+      u: "[unintelligible]"
+    - who: Itzhak Brin
+      start: '00:50:28.997'
+      end: '00:50:28.997'
+      u: Those who were being shot, as they were walking to the pit.
+    - who: David Boder
+      start: '00:50:32.685'
+      end: '00:50:32.685'
+      u: They were screaming?
+    - who: Itzhak Brin
+      start: '00:50:33.612'
+      end: '00:50:33.612'
+      u: They were screaming. That's what I was told. They were all shot.
+    - who: David Boder
+      start: '00:50:37.993'
+      end: '00:50:37.993'
+      u: All the men?
+    - who: Itzhak Brin
+      start: '00:50:38.656'
+      end: '00:50:38.656'
+      u: All the men. [unintelligible] They were all shot, and they were all buried.
+        Now, a year ago, there was an exhumation. They were taken out of the Jewish
+        cemetery and they were taken to the Polish cemetery. And also. . .
+    - who: David Boder
+      start: '00:50:58.991'
+      end: '00:50:58.991'
+      u: Yes.
+    - who: Itzhak Brin
+      start: '00:50:59.326'
+      end: '00:50:59.326'
+      u: After doing this piece of work, all twenty of these men were taken to the
+        police station. They had to sign. . .
+    - who: David Boder
+      start: '00:51:07.372'
+      end: '00:51:07.372'
+      u: Yes.
+    - who: Itzhak Brin
+      start: '00:51:07.752'
+      end: '00:51:07.752'
+      u: ". . . that nothing would get out. Whoever would tell what happened there
+        in the Ghetto among the Jews, what happened, should know that he would be
+        shot. The truth is that all of these twenty men ran to other surrounding towns.
+        They did not want to remain there, because they were afraid that they would
+        be..."
+    - who: David Boder
+      start: '00:51:25.444'
+      end: '00:51:25.444'
+      u: "[unintelligible]"
+    - who: Itzhak Brin
+      start: '00:51:26.576'
+      end: '00:51:26.576'
+      u: ". . . prosecuted for what they did. So they scattered. One ran here. One
+        ran there."
+    - who: David Boder
+      start: '00:51:30.408'
+      end: '00:51:30.408'
+      u: They ran away from the Ghetto.
+    - who: Itzhak Brin
+      start: '00:51:31.254'
+      end: '00:51:31.254'
+      u: Away from the Ghetto.
+    - who: David Boder
+      start: '00:51:32.283'
+      end: '00:51:32.283'
+      u: Well, Mr. Brin, I thank you very much. This is a tragic story. I cannot say
+        that it is a good story, but it is an important story, simply told, of a person
+        who saw the most, and I think that it will be very useful. I thank you very
+        much.
+    - who: David Boder
+      start: '00:51:49.741'
+      end: '00:51:49.741'
+      u: "[In English] This concludes the interview with Mr. Isaac Brin [unintelligible]...eh,
+        Mr. Isaac Brin. At Hénonville. He apparently worked a special...hm, especially
+        in a very gruesome type of work. He did not want to tell his whole story,
+        but we got from him nearly one and a half spools. Hénonville near Paris, September
+        the 13th, 1946. Illinois Institute of Technology wire recording."
+    - who: David Boder
+      start: '00:52:28.404'
+      end: 
+      u: "[break in wire]...six...Illinois Institute of Technology wire recording."
+transcript: {}
+translation: {}

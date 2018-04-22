@@ -35,5 +35,2962 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: de
+    interview:
+    - who: David Boder
+      start: '00:00:00.572'
+      end: '00:00:00.572'
+      u: "[In English] Wiesbaden, September the 26th, 1946. These are the last spools
+        we are taking in Germany and they are about the last spools of the project.
+        I am now interviewing Mr. Jack Matzner, forty-two years old, an important
+        member of the Wiesbaden community, which is primarily supported by UNNRA,
+        but lives in pri— is billeted in private homes. The billeting, of course,
+        as I understand, is about 1.6 people per bedroom."
+    - who: David Boder
+      start: '00:00:38.560'
+      end: '00:00:38.560'
+      u: "[In German] Herr Matzner, wollen Sie mir nochmal sagen, wie heißen Sie und
+        wo sind Sie geboren?"
+    - who: Jaques Matzner
+      start: '00:00:46.207'
+      end: '00:00:46.207'
+      u: Ich heiße Jaques Matzner und ich bin geboren in Wiesbaden. Meine Eltern sind
+        polnischer Abstammung und ich hatte bis zum Jahre 1938 die polnische Staatsangehörigkeit.
+    - who: David Boder
+      start: '00:00:59.787'
+      end: '00:00:59.787'
+      u: Sie haben die gehabt, obwohl Sie sind in Wiesbaden geboren?
+    - who: Jaques Matzner
+      start: '00:01:01.782'
+      end: '00:01:01.782'
+      u: Trotzdem, dass ich in Wiesbaden geboren wurde.
+    - who: David Boder
+      start: '00:01:04.048'
+      end: '00:01:04.048'
+      u: Nun wollen Sie mir dann jetzt sagen, was hat Ihnen passiert, dass Sie direkt
+        als Konsequenzen des Hitler Regimes betrachten können.
+    - who: Jaques Matzner
+      start: '00:01:16.875'
+      end: '00:01:16.875'
+      u: Vor allen Dingen wurde die geschäftliche Tätigkeit, die ich bis zum Jahre
+        neunzehn hundert drei und dreißig (1933) ungestört ausüben konnte mit dem
+        Tag des Hitler's Übernahme der Macht vollkommen gestört.
+    - who: David Boder
+      start: '00:01:33.325'
+      end: '00:01:33.325'
+      u: Also weiter.
+    - who: Jaques Matzner
+      start: '00:01:35.130'
+      end: '00:01:35.130'
+      u: Neunzehn hundert acht und dreißig .(1938) wurden...
+    - who: David Boder
+      start: '00:01:40.246'
+      end: '00:01:40.246'
+      u: Also was war ihr Geschäft, dass es schon 1933 gestört wurde?
+    - who: Jaques Matzner
+      start: '00:01:44.046'
+      end: '00:01:44.046'
+      u: Ich hatte ein Textilwaren Versandgeschäft.
+    - who: David Boder
+      start: '00:01:46.935'
+      end: '00:01:46.935'
+      u: Wohin haben Sie die Waren versandt?
+    - who: Jaques Matzner
+      start: '00:01:49.312'
+      end: '00:01:49.312'
+      u: Innerhalb Deutschland, besonders Groß-Hessen, Rothenberg, Bayern und Baden.
+    - who: David Boder
+      start: '00:01:56.143'
+      end: '00:01:56.143'
+      u: Ah hm. Also, das war, was wir sagen - ein Mail Order House?
+    - who: Jaques Matzner
+      start: '00:01:59.276'
+      end: '00:01:59.276'
+      u: Ja, man hat es per Post bestellt und per Post verschickt. 1938 wurden die
+        polnischen Juden deportiert. Eines Nachts kam die...
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Sprechen Sie lauter, bitte.
+    - who: Jaques Matzner
+      start: '00:02:09.838'
+      end: '00:02:09.838'
+      u: Eines Nachts kam die Gestapo und wir mussten innerhalb zwanzig (20) Minuten
+        das Haus verlassen. Mein Bruder, meine beiden Schwestern, die beiden Kinder
+        der einen Schwester und ich selbst, wurden zwangsweise zur Polizei gebracht
+        unter Zurücklassung unserer gesamten Habe und Gutes. Ein ziemlich großes Barvermögen
+        in Geld und ein ziemlichgroßes Vermögen in Schmuck wurde uns abgenommen und
+        wir betrachteten es damals als ein Glück, dass unsere beiden alten Eltern
+        nicht mitgenommen wurden, weil sie durch ärztliche Atteste bescheinigt bekamen,
+        dass sie für einen Transport unfähig seien. Wir wurden dann nach Polen deportiert—in
+        Viehwagen, zusammengepfercht, sechzig (60) bis siebzig (70) Personen in einem
+        Viehwagon—und kamen an einem Sabbat Morgen in Beuten an der oberschlesischen
+        polnischen Grenze an.
+    - who: David Boder
+      start: '00:03:19.600'
+      end: '00:03:19.600'
+      u: Wie heißt Beuten auf polnisch?
+    - who: Jaques Matzner
+      start: '00:03:22.107'
+      end: '00:03:22.107'
+      u: Das ist die letzte Station in Deutschland vor der polnischen Grenze, zwischen
+        Volten und Katovitz.
+    - who: David Boder
+      start: '00:03:27.322'
+      end: '00:03:27.322'
+      u: Oh ja.
+    - who: Jaques Matzner
+      start: '00:03:28.165'
+      end: '00:03:28.165'
+      u: Sosnovitz, Katovitz
+    - who: David Boder
+      start: '00:03:29.588'
+      end: '00:03:29.588'
+      u: Das scheinen die Grenzstädte gewesen zu sein.
+    - who: Jaques Matzner
+      start: '00:03:32.793'
+      end: '00:03:32.793'
+      u: Wir wurden dann teilweise durch die polnische Grenze geschleust und kamen
+        dann an einem Sonntag im Katovitz am Hauptbahnhof an. Der Empfang von Juden,
+        die in Polen schon davon unterrichtet waren, dass wir kämen, war derart gross
+        und derart wunderbar, dass man eigentlich für den Augenblick das Leid, die
+        Elend und die Not vergessen hatte. Aber...
+    - who: David Boder
+      start: '00:04:03.021'
+      end: '00:04:03.021'
+      u: Was meinen Sie bei dem Empfang von den Juden? Was haben sie getan?
+    - who: Jaques Matzner
+      start: '00:04:05.699'
+      end: '00:04:05.699'
+      u: Die Leute haben sich aufgeopfert. Tag und Nacht haben sie uns Verpflegung,
+        Kleidung und alles Mögliche gebracht. Es darf nämlich nicht vergessen werden,
+        dass wir nichts mitnehmen durften.
+    - who: David Boder
+      start: '00:04:15.449'
+      end: '00:04:15.449'
+      u: Hat Sie Polen herein gelassen?
+    - who: Jaques Matzner
+      start: '00:04:17.504'
+      end: '00:04:17.504'
+      u: Polen hat uns herein gelassen.
+    - who: David Boder
+      start: '00:04:19.131'
+      end: '00:04:19.131'
+      u: Ah hm.
+    - who: Jaques Matzner
+      start: '00:04:20.408'
+      end: '00:04:20.408'
+      u: Ich persönlich hatte allerdings noch in der selben Nacht eine telephonische
+        Rücksprache mit dem Rabbiner Dr. Ansbacher, der hatte dafür zu sorgen, dass
+        meinen beiden alten Eltern nichts geschieht und sie zu beruhigen, dass wir
+        gut angekommen wären und ich habe versucht den Eindruck zu erwecken, dass
+        es uns gut geht.
+    - who: David Boder
+      start: '00:04:41.312'
+      end: '00:04:41.312'
+      u: Ah hm.
+    - who: Jaques Matzner
+      start: '00:04:42.411'
+      end: '00:04:42.411'
+      u: Kurz danach, es war sechs (6) Wochen später, gelang es mir illegal aus Polen
+        nach Wiesbaden zurück zu kommen und zwar mit der Absicht meine Eltern ebenfalls
+        nach Polen zu bringen, weil...
+    - who: David Boder
+      start: '00:04:54.803'
+      end: '00:04:54.803'
+      u: Das war in acht und dreißig (38)?
+    - who: Jaques Matzner
+      start: '00:04:56.488'
+      end: '00:04:56.488'
+      u: Das war im Dezember acht und dreißig (38) und Jänner neun und dreißig (39).
+    - who: David Boder
+      start: '00:05:00.340'
+      end: '00:05:00.340'
+      u: Also wann...wann hat Deutschland angefangen den Krieg mit Polen?
+    - who: Jaques Matzner
+      start: '00:05:03.990'
+      end: '00:05:03.990'
+      u: Am ersten (1.) September neun und dreißig (39).
+    - who: David Boder
+      start: '00:05:06.196'
+      end: '00:05:06.196'
+      u: Aha, also das war noch bevor dem Krieg?
+    - who: Jaques Matzner
+      start: '00:05:08.883'
+      end: '00:05:08.883'
+      u: Das war etwa neun (9) oder zehn (10) Monate bevor dem Kriege.
+    - who: David Boder
+      start: '00:05:12.554'
+      end: '00:05:12.554'
+      u: Ja, nun?
+    - who: Jaques Matzner
+      start: '00:05:13.667'
+      end: '00:05:13.667'
+      u: Ich kam dann illegal nach Deutschland zurück.
+    - who: David Boder
+      start: '00:05:16.315'
+      end: '00:05:16.315'
+      u: Haben Sie illegale Papiere gehabt?
+    - who: Jaques Matzner
+      start: '00:05:18.211'
+      end: '00:05:18.211'
+      u: Nein. Ich habe mich geschmuggelt. Und zwar waren wir eine Gruppe von ein
+        und dreißig (31) Personen, die beim Grenzüberschritt sogar angeschossen wurde,
+        wobei das halb jährige Kind einer Frau erschossen wurde.
+    - who: David Boder
+      start: '00:05:31.462'
+      end: '00:05:31.462'
+      u: Ah hm.
+    - who: Jaques Matzner
+      start: '00:05:32.607'
+      end: '00:05:32.607'
+      u: Ich kam nach...
+    - who: David Boder
+      start: '00:05:34.589'
+      end: '00:05:34.589'
+      u: Was für eine Gruppe war das? Erzählen Sie mir bitte etwas darüber.
+    - who: Jaques Matzner
+      start: '00:05:36.756'
+      end: '00:05:36.756'
+      u: Das waren alles Leute, die früher in Deutschland gelebt hatten. Polnische
+        Juden, die mit dieser Aktion nach Polen deportiert worden sind.
+    - who: David Boder
+      start: '00:05:43.836'
+      end: '00:05:43.836'
+      u: Und sie haben beschlossen trotzdem zurück zu gehen?
+    - who: Jaques Matzner
+      start: '00:05:46.153'
+      end: '00:05:46.153'
+      u: Sie hatten beschlossen zurück zu gehen, um das, was sie hatten noch retten
+        zu können.
+    - who: David Boder
+      start: '00:05:50.245'
+      end: '00:05:50.245'
+      u: Aha,...und dann wieder nach Polen zurück.
+    - who: Jaques Matzner
+      start: '00:05:51.720'
+      end: '00:05:51.720'
+      u: 'Und dann wieder nach Polen zurück zu gehen. Oder es bestand ja auch die
+        illegale Immigration nach Belgien, nach Holland, nach Frankreich und nach
+        Italien. Jedenfalls bei mir persönlich war der ausschlaggebende Grund: ich
+        wollte meine Eltern retten.'
+    - who: David Boder
+      start: '00:06:04.160'
+      end: '00:06:04.160'
+      u: Oh ja.
+    - who: Jaques Matzner
+      start: '00:06:04.797'
+      end: '00:06:04.797'
+      u: Ich kam dann illegal nach Wiesbaden zurück und wurde noch Zeuge der brennenden
+        Synagogen in Leipzig, in Dresden, in Aschaffenburg, im Mainz, in Frankfurt
+        und auch in Wiesbaden.
+    - who: David Boder
+      start: '00:06:14.417'
+      end: '00:06:14.417'
+      u: Wann war das? War das nachdem dieser Mann in Frankreich ermordet wurde—das
+        war Raat...
+    - who: Jaques Matzner
+      start: '00:06:20.018'
+      end: '00:06:20.018'
+      u: Das war der, die Synagogen Verbrennungen in Deutschland, die wurden automatisch
+        auf das Geschehen ausgelöst - auf Grund der Erschießung dieses Herrn Von Raat
+        in der Pariser Gesandtschaft. Es wurde damals von dem damaligen Reichsminister
+        Göbel—hm, die Sache wurde so präpariert, als wäre es eine Erschwerung gewesen,
+        die den Juden zuzuschreiben wäre, und er hat den gut vorbereiteten Programm
+        auf die jüdischen Synagogen und Tempel Deutschland's ausgeführt, indem die
+        Angehörigen der damaligen nazistischen Partei aufgefordert wurden, die Synagogen
+        in Band zu stecken. Der Wiesbadener Tempel, der zu den sechs (6) schönsten
+        Synagogen Deutschland's gezählt hat.
+    - who: David Boder
+      start: '00:07:01.063'
+      end: '00:07:01.063'
+      u: Ist das dieses Gebäude da?
+    - who: Jaques Matzner
+      start: '00:07:02.748'
+      end: '00:07:02.748'
+      u: Nein, das ist nicht das Gebäude. Das ist ein Gebäude gewesen von dem man
+        heute überhaupt nichts mehr sieht.
+    - who: David Boder
+      start: '00:07:08.495'
+      end: '00:07:08.495'
+      u: Wurde es von den Bomben vernichtet?
+    - who: Jaques Matzner
+      start: '00:07:10.241'
+      end: '00:07:10.241'
+      u: Nein es wurde durch die nazistischen Machthaber von damals vernichtet, wo
+        es mit Petroleum und Benzin überschüttet wurde and dann angezündet wurde.
+    - who: David Boder
+      start: '00:07:19.728'
+      end: '00:07:19.728'
+      u: Also...
+    - who: Jaques Matzner
+      start: '00:07:21.173'
+      end: '00:07:21.173'
+      u: Die Synagoge, die jetzt hier ist, wurde damals nur deshalb nicht angezündet,
+        weil die Nachbarschaft dadurch bedroht gewesen wäre. Es wurde die Synagoge
+        nur inwendig vollkommen ausgeplündert und ausgeraubt. Die Sefer Torah's wurden
+        auf die Strasse hinaus geworfen, aufgerollt und auf dem Straßenpflaster. Mein
+        alter Vater, der täglich in die Synagoge kam...
+    - who: David Boder
+      start: '00:07:48.242'
+      end: '00:07:48.242'
+      u: In diese?
+    - who: Jaques Matzner
+      start: '00:07:48.904'
+      end: '00:07:48.904'
+      u: In diese Synagoge—kam auch an diesem Morgen in die Synagoge um, wie gewöhnlich,
+        dem Gottesdienst bei zu wohnen. Es waren nämlich immer noch Juden in Wiesbaden,
+        die den Synagogendienst, den Gottesdienst abhalten wollten. Er wurde zurück
+        gewiesen. Er erkannte, dass hier irgendwie eine Gefahr sei und ist zurück.
+    - who: David Boder
+      start: '00:08:07.500'
+      end: '00:08:07.500'
+      u: Hm.
+    - who: Jaques Matzner
+      start: '00:08:09.134'
+      end: '00:08:09.134'
+      u: Mein Vater selbst hat eine Sefer Torah noch gerettet, das ich nachher mit
+        Hilfe meines Vaters in die Schweiz verschickt habe, wo es heute noch liegt
+        und mit Hilfe des jetzt stationiert Kaplans William Darling von der Armee,
+        werden wir diese Sefer Torah wieder nach Wiesbaden zurück bekommen. Und ich
+        hoffe, dass wir zu der bevorstehenden Dedication dieser, wieder aufzubauenden
+        Synagoge auch diese Sefer Torah wieder hier haben werden.
+    - who: David Boder
+      start: '00:08:36.459'
+      end: '00:08:36.459'
+      u: Nun?
+    - who: Jaques Matzner
+      start: '00:08:38.334'
+      end: '00:08:38.334'
+      u: Und so...
+    - who: David Boder
+      start: '00:08:39.366'
+      end: '00:08:39.366'
+      u: Und was hat Ihnen passiert dann, wie Sie sind zurück gekommen?
+    - who: Jaques Matzner
+      start: '00:08:42.164'
+      end: '00:08:42.164'
+      u: Ich bin zurück gekommen und im Juli neunzehn hundert neun und dreißig (1939)
+        haben wir dann die Ausreise beschlossen und zwar illegal nach Belgien. Und
+        zwar für meinen Vater, für meine Mutter und für mich. Illegal, weil zu dieser
+        Zeit sind auch wieder von Polen zurück gekommen meine beiden Schwestern und
+        deren beide Kinder. Auch für diese habe ich die illegale Ausreise nach Belgien
+        - und zwar nach Antwerpen—vorbereitet. Es ist vielleicht für den Außenstehenden
+        nicht sehr leicht zu erkennen, was das für Schwierigkeiten bedeutet hat, den
+        „deutschen Boden“, wie es die Nazis genannt hatten, zu verlassen und zwar
+        ohne Kontrolle. Erstens einmal die unerhörten Kosten, die dafür aufzuwenden
+        waren. Zweitens mal, dass wir gar nichts mit nehmen durften, da man ja über
+        die direkte Grenze fast kriechen musste. Auf allen Vieren musste man über
+        die Grenze kriechen, aber man hat wenigstens sein Leben gerettet. Wir kamen
+        dann etwa am neunten (9.) Juli neunzehn hundert neun und dreißig (1939) nach
+        Antwerpen an. Wir wurden sehr gut aufgenommen von dem damaligen belgischen
+        jüdischen Hilfs-Kommittee, wir hatten eine Wohnung und wir blieben in Ruhe
+        in Antwerpen bis zum Pesach neunzehn hundert und vierzig (1940).
+    - who: David Boder
+      start: '00:09:56.343'
+      end: '00:09:56.343'
+      u: Nun.
+    - who: Jaques Matzner
+      start: '00:09:57.134'
+      end: '00:09:57.134'
+      u: Am zehnten (10.) Mai neunzehn hundert und vierzig (1940) hat Hitler den Überfall
+        auf Belgien ausgeführt. In der Nacht begann das erste (1.) Bombardement und
+        meine—inzwischen verstorbene Mutter—bat mich, dass ich nach Frankreich entfliehen
+        sollte, damit ich wenigstens in Frankreich einen weiteren Weg für die zurück
+        gebliebene Familie vorbereiten sollte. Ich hab dann...
+    - who: David Boder
+      start: '00:10:21.887'
+      end: '00:10:21.887'
+      u: Den Teil der Familie, die in Holland waren?
+    - who: Jaques Matzner
+      start: '00:10:25.417'
+      end: '00:10:25.417'
+      u: Wir waren inzwischen alle zusammen in Antwerpen.
+    - who: David Boder
+      start: '00:10:27.502'
+      end: '00:10:27.502'
+      u: in Belgien.
+    - who: Jaques Matzner
+      start: '00:10:28.134'
+      end: '00:10:28.134'
+      u: In Belgien.
+    - who: David Boder
+      start: '00:10:29.038'
+      end: '00:10:29.038'
+      u: Ja.
+    - who: Jaques Matzner
+      start: '00:10:29.984'
+      end: '00:10:29.984'
+      u: Ich bin dann am vierzehnten (14.) Mai nach Frankreich gereist. Ich habe mich
+        an dem Morgen von meinem Vater, meiner damals noch lebenden Mutter, meinen
+        beiden Schwestern und ihren beiden Kindern verabschiedet und ich wusste nicht,
+        dass es ein Abschied für das ganze Leben sein wird. Ich bin dann am sechs
+        und zwanzigsten (26.) Juni nach Frankreich gekommen. Ich wurde einige Tage
+        später durch die dortige Geheimpolizei verhaftet und zwar als Verdächtiger.
+    - who: David Boder
+      start: '00:11:03.663'
+      end: '00:11:03.663'
+      u: Aber Hitler war ja noch nicht in Frankreich.
+    - who: Jaques Matzner
+      start: '00:11:05.207'
+      end: '00:11:05.207'
+      u: Hitler war damals noch nicht in Frankreich, aber die einströmenden Flüchtlinge
+        haben Frankreich vielleicht beunruhigt und so wurden alle Flüchtlinge, die
+        kamen, als „suspekt“ - als verdächtig—betrachtet. Und so kam ich in das berüchtigte
+        Straflager Le Vernie in Departement of Ariege. Ich musste dort elf (11) Monate
+        verbringen und war mit etwa neun tausend (9000) Juden zusammen, die geflüchtet
+        waren, unter anderem auch mit der, hm, Brigade international, die im spanischen
+        Bürgerkrieg mit gekämpft hat. Alles in allem waren wir etwa zusammen neunzig
+        tausend (90000) Gefangene, die hinter fünffachem Stacheldraht, unter schwerster
+        Bewachung Tag und Nacht, Wochen und Monate zu verbringen hatten. Mein, in
+        Frankreich lebender Bruder, der seit neunzehn hundert ein und dreißig (1931)
+        in Frankreich lebt und dort einen sehr hohen Posten als Rabbiner, als Schlächter,
+        als Dajin und als [unverständlich; vielleicht Moreh] in Straßburg bekleidet
+        hatte, war während dieser Zeit nach dem Süden Frankreichs evakuiert worden.
+        Mein Bruder stellte für mich ein Garantie das Zuzugsrecht in ein kleines Dorf,
+        wo auch mein Bruder lebte, wo auch verschiedene Juden Straßburgs evakuiert
+        worden waren und nur auf Betreiben meines Bruder's wurde ich aus diesem Straflager
+        entlassen. Es war an Purim neunzehn hundert ein und vierzig (1941). Ich kam
+        an dieses kleine Dorf...
+    - who: David Boder
+      start: '00:12:36.900'
+      end: '00:12:36.900'
+      u: Also die Amerikaner waren damals noch nicht in dem Krieg?
+    - who: Jaques Matzner
+      start: '00:12:39.617'
+      end: '00:12:39.617'
+      u: Die Amerikaner waren damals noch nicht in den Krieg eingetreten. Auch diese
+        Zone, wo ich mich befand in Frankreich, war damals noch nicht von den Deutschen
+        besetzt. Es war die sogenannte Zone „non-occupation“.
+    - who: David Boder
+      start: '00:12:52.737'
+      end: '00:12:52.737'
+      u: Das heißt frei.
+    - who: Jaques Matzner
+      start: '00:12:53.950'
+      end: '00:12:53.950'
+      u: Ja. Ich kam an Purim neunzehn hundert ein und vierzig (1941) nach Besancon.
+        Ich wurde sehr schön empfangen und verbrachte dort eine kurze Zeit in Besancon
+        und erhielt...
+    - who: David Boder
+      start: '00:13:04.160'
+      end: '00:13:04.160'
+      u: Und Ihre Eltern?
+    - who: Jaques Matzner
+      start: '00:13:05.184'
+      end: '00:13:05.184'
+      u: Meine Eltern waren...
+    - who: David Boder
+      start: '00:13:05.847'
+      end: '00:13:05.847'
+      u: Sie sind zurück geblieben.
+    - who: Jaques Matzner
+      start: '00:13:07.479'
+      end: '00:13:07.479'
+      u: Meine Eltern waren zu dieser Zeit immer noch in Belgien und zwar in Antwerpen.
+        Ich hatte mit ihnen Korrespondenz und an Rosh Shoshana...nein, ich hab mich
+        geirrt, an Sukkoth neunzehn hundert ein und vierzig (1941) erhielt ich die
+        Nachricht über meine in der Schweiz lebenden Verwandten, dass meine gottselige
+        Mutter an Rosh Hoshana in Antwerpen verstorben war. Ich glaubte...
+    - who: David Boder
+      start: '00:13:34.247'
+      end: '00:13:34.247'
+      u: "[unverständlich]"
+    - who: Jaques Matzner
+      start: '00:13:36.564'
+      end: '00:13:36.564'
+      u: Ich hatte gestern [unverständlich]. Ich glaubte damals, dass ich es nicht
+        überleben werde, denn meine Mutter, die für mich [weint] das wohlauf Bedeutsamste...ist
+        ohne mich [weint und schluchzt] verstorben. Aber heute—nachdem ich fünf und
+        fünfzig Monate im Konzentrationslager hinter mir habe und heute, nachdem ich
+        die Gewissheit habe, dass mein Vater und meine beiden Schwestern und deren
+        beide Kinder gewaltsam durch die Nazis von Belgien deportiert wurden, nach
+        Auschwitz deportiert wurden und wahrscheinlich das Schicksal von Millionen
+        mitgemacht haben, bin ich eigentlich beruhigt, dass meine Mutter damals in
+        Antwerpen auf ihrem eigenen Bett, umgeben von ihren Kindern und Enkelkindern,
+        gestorben ist. Ich selbst wurde am sechs und zwanzigsten (26.) August des
+        gleichen Jahres nach Paris Drancy deportiert. Im Auftrag von...
+    - who: David Boder
+      start: '00:14:49.404'
+      end: '00:14:49.404'
+      u: Von wo?
+    - who: Jaques Matzner
+      start: '00:14:50.075'
+      end: '00:14:50.075'
+      u: Von Besancon im Süden Frankeichs, im Auftrag von...
+    - who: David Boder
+      start: '00:14:51.971'
+      end: '00:14:51.971'
+      u: Warum?
+    - who: Jaques Matzner
+      start: '00:14:53.725'
+      end: '00:14:53.725'
+      u: Im Auftrag der deutschen Gestapo, wurde ich von der französischen Garde mobil
+        eines nachts verhaftet.
+    - who: David Boder
+      start: '00:15:00.766'
+      end: '00:15:00.766'
+      u: Also obgleich es nicht okkupiertes Frankreich war, haben die Deutschen doch
+        den Druck ausgeübt, dass man die Juden verhaften soll?
+    - who: Jaques Matzner
+      start: '00:15:08.379'
+      end: '00:15:08.379'
+      u: Jawohl. Die Deutschen hatten ihre Finger bis an die spanische Grenze ausgestreckt
+        und es wurden damals mit dem Transport drei und sechzig tausend (63,000) Juden,
+        die aus Deutschland, aus Österreich, aus Ungarn, aus Holland, aus Belgien
+        und von überall her geflüchtet waren, ebenso auch aus der besetzten Zone Frankreichs
+        in das unbesetzte Frankreich geflüchtet waren, wurden damals drei und sechzig
+        tausend (63000) Personen deportiert, konzentriert zuerst in Nixon, im Süden
+        Frankeichs und dann in Viehwagen nach Paris Drancy gebracht. In Paris Drancy
+        wurden wir sofort von der deutschen Gestapo übernommen und dort fand das erste
+        Mal eine „Auswahl“ statt, die ich später in Kobel, in Gobelin und in Auschwitz,
+        in Groß-Rosen und in Bergen-Belsen als „Selektion“ wieder kennenlernte. Auch
+        ich wurde damals in die erste Selektion eingereiht und kam mit ein und achtzig
+        (81) Personen zusammen in einen Viehwagen—Männer Frauen und Kinder, alt und
+        jung...
+    - who: David Boder
+      start: '00:16:15.976'
+      end: '00:16:15.976'
+      u: Woher wissen Sie die Nummer?
+    - who: Jaques Matzner
+      start: '00:16:19.497'
+      end: '00:16:19.497'
+      u: Die Nummer wissen wir deshalb, weil eigentlich noch viel mehr in diesen Wagon
+        hinein sollten. In diesen Einzelwagon sollten noch viel mehr Menschen hinein.
+    - who: David Boder
+      start: '00:16:29.466'
+      end: '00:16:29.466'
+      u: Aber?
+    - who: Jaques Matzner
+      start: '00:16:30.107'
+      end: '00:16:30.107'
+      u: Aber wir in unserem Wagon haben innerhalb von Minuten eine kleine Organisation
+        geschaffen, dass ein sogenannter Wagon- Ältester sofort das Kommando übernommen
+        hat, damit eine Ordnung im Wagon herrscht und er hat ein und achtzig (81)
+        Personen abgezählt. Es war dies, mein später mit mir im Konzentrationslager
+        zusammen gewesener Ludwig Lass aus Hamburg, der auch seine Frau und seine
+        beiden Kinder verloren hat. Aus diesem Grund weiß ich, dass wir damals ein
+        und achtzig (81) Personen im Wagon waren. Nachdem wir mit, hm, dem Fahren
+        begonnen haben—der Wagon, ich muss das noch bemerken, wurde plombiert, verschlossen
+        und versiegelt.
+    - who: David Boder
+      start: '00:17:08.896'
+      end: '00:17:08.896'
+      u: Nun ja, warum hat die Gestapo diesen Wagon Ältesten gefolgt, dass man nicht
+        mehr Leute rein?
+    - who: Jaques Matzner
+      start: '00:17:18.044'
+      end: '00:17:18.044'
+      u: 'Wir haben geschrien und wir haben gedroht. Wir haben geschrien: „Wir sind
+        ein und achtzig (81) Menschen, es geht nicht mehr, es geht nicht mehr.“ Mit
+        Balken und mit Querbalken und mit Gewehren haben sie uns rein gestoßen mehr
+        und noch mehr, aber es ging tatsächlich nicht mehr. Wir waren in unserem Wagon
+        ein und achtzig (81), in anderen Wagons, die vielleicht etwas mehr Glück gehab
+        haben, waren vielleicht nur fünf und siebzig (75). Es mögen aber auch schon
+        fünf und achtzig (85) da gewesen sein. Jedenfalls war die Durchschnittszahl
+        für jeden Wagon durchschnittlich achtzig (80).'
+    - who: David Boder
+      start: '00:17:44.647'
+      end: '00:17:44.647'
+      u: Ist—das waren die französischen , vierzig und acht (40 und 8) Wagons?
+    - who: Jaques Matzner
+      start: '00:17:48.417'
+      end: '00:17:48.417'
+      u: Das waren die französischen Viehwagon, ja.
+    - who: David Boder
+      start: '00:17:50.674'
+      end: '00:17:50.674'
+      u: Ja vierzig und acht (40 und 8).
+    - who: Jaques Matzner
+      start: '00:17:52.299'
+      end: '00:17:52.299'
+      u: Ich weiß es nicht...
+    - who: David Boder
+      start: '00:17:53.361'
+      end: '00:17:53.361'
+      u: Diese „vierzig Leute oder acht Pferde“ (40 und 8).
+    - who: Jaques Matzner
+      start: '00:17:57.092'
+      end: '00:17:57.092'
+      u: Vierzig Personen oder acht...Ja, ja, das stimmt. [lacht etwas] Das stimmt.
+        Quarante hommes ou huit chevaux.
+    - who: David Boder
+      start: '00:18:01.726'
+      end: '00:18:01.726'
+      u: Ja.
+    - who: Jaques Matzner
+      start: '00:18:02.659'
+      end: '00:18:02.659'
+      u: Ja das war die Aufschrift, ja! Wir fuhren dann ungefähr fünf (5) Tage und
+        fünf (5) Nächte ohne Unterbrechung, das heißt der Zug hat verschiedentlich
+        angehalten, wir wussten aber niemals, wo wir uns befinden.
+    - who: David Boder
+      start: '00:18:15.954'
+      end: '00:18:15.954'
+      u: Ah hm.
+    - who: Jaques Matzner
+      start: '00:18:17.008'
+      end: '00:18:17.008'
+      u: Wir bekamen keine Verpflegung, wir bekamen nicht einen Tropfen Wasser. In
+        unserem Wagon war weder eine einzige hygienische Einrichtung oder irgend etwas,
+        wo eine Mensch hätte seine Notbedurft hätte verrichten können. Wir selbst
+        haben uns geholfen so weit wir konnten während der Fahrt bis Kosel. In Kosel
+        hielt der Zug. Während dieser Zeit hatten wir neun (9) Tote, drei (3) Frauen—Wienerinnen,
+        vier (4) Männer und zwei (2) Kinder. In Kosel hielt der Zug, wir mussten heraus
+        und zwar nicht alle, sondern nur Männer von sechzehn (16) bis fünf und vierzig
+        (45). Alle älteren Männer undüberhaupt alle Frauen mussten im Wagon bleiben.
+    - who: David Boder
+      start: '00:19:04.603'
+      end: '00:19:04.603'
+      u: Waren Sie verheiratet?
+    - who: Jaques Matzner
+      start: '00:19:05.996'
+      end: '00:19:05.996'
+      u: Ich war nicht verheiratet. Und ich war bei denen, die mit heraus gesprungen
+        sind.
+    - who: David Boder
+      start: '00:19:10.153'
+      end: '00:19:10.153'
+      u: Ah hm.
+    - who: Jaques Matzner
+      start: '00:19:11.039'
+      end: '00:19:11.039'
+      u: 'Heraus gesprungen ist übertrieben, denn wir konnten uns damals ja kaum noch
+        bewegen. Ich habe noch genau in Erinnerung, dass während ich aus dem Wagon
+        heraus kletterte, ein SS Mann vorbei lief, der folgende Worte sagte: „Wir
+        werden Euch schon die Eier schleifen!“ Daraufhin sind wir in Gruppen aufgestellt
+        worden und wir mussten sofort in Kniebeuge gehen. Es waren ungefähr neun hundert
+        (900) Personen, die im Ganzen da auf einen kleinen Block, das war so ein kleines
+        Karree, das gebildet wurde. Und von diesen Karrees sind ungefähr zwölf (12)
+        oder fünfzehn (15) gebildet worden und in meinem waren neun hundert (900)
+        Männer. Wir mussten sofort in Kniebeuge gehen.'
+    - who: David Boder
+      start: '00:19:55.023'
+      end: '00:19:55.023'
+      u: Was war das?
+    - who: Jaques Matzner
+      start: '00:19:55.986'
+      end: '00:19:55.986'
+      u: Kniebeuge—das heißt wir mussten uns knien, aber nicht stehen und nicht sitzen,
+        sondern die Kniebeuge. Das heißt die Knie so eingebogen, dass das Gesäß fast
+        die Ferse vom Fuß berührt, aber wir konnten nicht...
+    - who: David Boder
+      start: '00:20:10.747'
+      end: '00:20:10.747'
+      u: Und dann so bleiben.
+    - who: Jaques Matzner
+      start: '00:20:11.478'
+      end: '00:20:11.478'
+      u: Ja, und so mussten wir sitzen bleiben. So mussten wir sitzen bleiben auf...nicht
+        auf und nieder.
+    - who: David Boder
+      start: '00:20:16.693'
+      end: '00:20:16.693'
+      u: Keine Gymnastik?
+    - who: Jaques Matzner
+      start: '00:20:17.442'
+      end: '00:20:17.442'
+      u: Nein, keine Gymnastik
+    - who: David Boder
+      start: '00:20:18.074'
+      end: '00:20:18.074'
+      u: Für was war das?
+    - who: Jaques Matzner
+      start: '00:20:19.260'
+      end: '00:20:19.260'
+      u: 'Das war ausgesprochenen zur Qual der Menschen. Verschieden haben versucht
+        sich einzelne Gepäckstücke, die sie gerettet hatten, unter zu legen, damit
+        sie sitzen können, die bekamen sofort mit Fußtritten das Gepäck unterm Hintern
+        weg gestoßen und wurden umgetreten und mussten dann wieder in Kniebeuge gehen.
+        Und da sind wir etwa vierzig (40) Minuten. Nach vierzig (40) Minuten kam ein
+        Auto angefahren. Es stieg aus ein SS Mann aus, der sehr viel Silber und Gold
+        an der Brust hängen hatte und wir erkannten daraus, dass das irgendwie ein
+        höheres Tier gewesen sein muss. Ich selbst hatte ja schon vorher fünf (5)
+        Jahre in Deutschland gelebt und ich kannte ungefähr so die einzelnen Charchierungen
+        der Leute. Also ich erkannte: ein SS/ Ober-Sturmführer oder Ober-Sturmbandführer.
+        Und dieser Mensch, dessen Namen ich nach Jahren auch erfuhr, zog sich seine
+        Handschuhe an...'
+    - who: David Boder
+      start: '00:21:11.900'
+      end: '00:21:11.900'
+      u: Was war der Namen?
+    - who: Jaques Matzner
+      start: '00:21:12.752'
+      end: '00:21:12.752'
+      u: Der Name war Liepner.
+    - who: David Boder
+      start: '00:21:14.536'
+      end: '00:21:14.536'
+      u: Wissen Sie, was mit ihm passiert ist?
+    - who: Jaques Matzner
+      start: '00:21:17.636'
+      end: '00:21:17.636'
+      u: Ich hoffe, dass er erschlagen worden ist und ich glaube auch, dass er erschlagen
+        worden ist.
+    - who: David Boder
+      start: '00:21:22.249'
+      end: '00:21:22.249'
+      u: Von wem?
+    - who: Jaques Matzner
+      start: '00:21:23.612'
+      end: '00:21:23.612'
+      u: Von den später durch die Alliierten Truppen befreiten Häftlingen.
+    - who: David Boder
+      start: '00:21:28.009'
+      end: '00:21:28.009'
+      u: Ah so. Nun?
+    - who: Jaques Matzner
+      start: '00:21:28.460'
+      end: '00:21:28.460'
+      u: Dieser Liepner zog sich seine Handschuhe an und machte zu seinem Adjutant
+        eine Bemerkung, die wir natürlich nicht hören konnten, aber aus seiner Handbewegung
+        erkannten wir, dass er etwas weg werfen wollte, so etwas Abruptes.
+    - who: David Boder
+      start: '00:21:42.870'
+      end: '00:21:42.870'
+      u: Ja.
+    - who: Jaques Matzner
+      start: '00:21:44.263'
+      end: '00:21:44.263'
+      u: 'Und wir mussten darauf hin aufstehen und wurden auf Lastwagen verladen und
+        sind ungefähr zwei (2) Stunden lang mit den Lastwagen gefahren worden bis
+        wir in ein Lager eingeliefert wurden. Das war das Lager Name Gogolin in Ober
+        Schlesien. In Gogolin wurden wir registriert, wir wurden eingetragen und am
+        anderen Morgen wurden wir in Baracken eingegliedert. Während der Nacht mussten
+        wir auf dem Hofe schlafen. Die Baracken waren aufnahmefähig für ungefähr fünf
+        und dreißig (35) bis vierzig (40) Personen in Militärbetten, die zu dreien
+        und über einander stehen. Ich wurde aber in eine Stube mit über achtzig (80)
+        bis neunzig (90) Personen hinein gepfercht. Ich wurde...jede Stube musste
+        einen Stuben Ältesten stellen und die Stuben Ältesten unterstanden dem Lager
+        Ältesten. Das war ein System, dass wir damals noch gar nicht kannten. Wir
+        würden hier auf Folgendes aufmerksam gemacht von dem damaligen Lager Ältesten.
+        Das war auch ein Jude, ein Häftling, der schon frühere Zeit im Lagerverbracht
+        hatte. Er sagte uns an diesem Morgen, bei dem Appell, Folgendes: „Ihr habt
+        mit den Deutschen, mit dem deutschen Aufsichtspersonal gar nichts zu tun.
+        Euer Aufsichtspersonal ist der Stuben Älteste, der Block Älteste und der Lager
+        Älteste.“'
+    - who: David Boder
+      start: '00:23:11.463'
+      end: '00:23:11.463'
+      u: Das sind alles Juden?
+    - who: Jaques Matzner
+      start: '00:23:12.465'
+      end: '00:23:12.465'
+      u: Das waren alles Juden. „Wenn Ihr was habt, meldet Euch bei Eurem Stuben Ältesten.
+        Meldet Euch nicht so viel und macht Euch nicht auffällig. Redet nicht viel
+        und tut was man Euch sagt. Redet nicht viel unter einander und versucht nichts
+        zu tun, das gegen die Lagerhaltung verstößt. Hier redet man nicht viel, hier
+        spricht man nicht viel. Hier kann jedem was geschehen, was er nicht will.“
+        Am anderen Morgen würden wir zur ersten Arbeit geführt. Es war damals eine
+        Arbeit an der Reichs-Autobahn. Auf fünf (5) Häftlinge—ich betrachtete mich
+        damals eigentlich noch nicht als Häftling...
+    - who: David Boder
+      start: '00:23:57.774'
+      end: '00:23:57.774'
+      u: Ja.
+    - who: Jaques Matzner
+      start: '00:23:59.521'
+      end: '00:23:59.521'
+      u: Also auf fünf (5) Personen kamen zwei (2) Wachposten. Die zwei Wachposten
+        waren bewaffnet mit Gewehr, mit Pistole, mit einem kurzen Dolch und mit je
+        einem Wachhund. Die Wachhunde sind ein Kapitel für sich, diese Wachunde sind
+        eigentlich das Furchtbarste, was ich mir vorstellen kann. Diese Wachhunde
+        sind direkt auf Menschen gezüchtet—und zwar auf Menschen, die keine Uniform
+        tragen. Und es kommt mir fast so vor, als hätten diese Wachhunde—es ist natürlich
+        lachhaft, was ich sage—aber es kam mir tatsächlich so vor, als wären die Wachhunde
+        trainiert gewesen auf alles, was Jude ist.
+    - who: David Boder
+      start: '00:24:50.384'
+      end: '00:24:50.384'
+      u: Sagen Sie mir dies—um Gottes Willen, wie viele Wachhunde haben die gehabt?
+        Sie sagen zwei (2) Wachhunde für jede fünf (5) Personen?
+    - who: Jaques Matzner
+      start: '00:24:59.906'
+      end: '00:24:59.906'
+      u: Für jeden Wachposten war ein Wachhund da.
+    - who: David Boder
+      start: '00:25:04.218'
+      end: '00:25:04.218'
+      u: Und wie viele Leute soll ein Wachposten betreuen?
+    - who: Jaques Matzner
+      start: '00:25:07.717'
+      end: '00:25:07.717'
+      u: Hm, fünf (5) Personen hatten zwei (2) Wachposten, also hatten richtig gesehen
+        fünf (5) Personen hatten zwei (2) Wachposten mit zwei (2) Wachhunden.
+    - who: David Boder
+      start: '00:25:14.879'
+      end: '00:25:14.879'
+      u: Ja, und was waren die, deutsche Schäferhunde?
+    - who: Jaques Matzner
+      start: '00:25:17.295'
+      end: '00:25:17.295'
+      u: Das waren deutsche Schäferhunde—meistenteils, es waren aber auch Bulldoggen
+        darunter. Ich kann mich eigentlich nicht entsinnen deutsche Schäferhunde gesehen
+        zu haben.
+    - who: David Boder
+      start: '00:25:25.991'
+      end: '00:25:25.991'
+      u: Und die haben wirklich so viele Hunde gehabt? Es war ja eine Frage, wie man
+        diese Hunde ernährt.
+    - who: Jaques Matzner
+      start: '00:25:31.949'
+      end: '00:25:31.949'
+      u: In einem Lager, das ich später durch gehen musste, das war das Lager Groß-Rosen,
+        das ist in der Nähe von Strigau, ein Lager mit einer Kapazität von neunzig
+        tausend Häftlingen.
+    - who: David Boder
+      start: '00:25:45.582'
+      end: '00:25:45.582'
+      u: Ja.
+    - who: Jaques Matzner
+      start: '00:25:46.395'
+      end: '00:25:46.395'
+      u: Da war einen besonder Wachtruppe, die nur die Hunde betreut haben.
+    - who: David Boder
+      start: '00:25:50.775'
+      end: '00:25:50.775'
+      u: Ja.
+    - who: Jaques Matzner
+      start: '00:25:51.058'
+      end: '00:25:51.058'
+      u: Es war ein SS Oberscharführer und ein SS Unterscharführer und dann wieder
+        so und so viel SS Leute, die nur speziell dafür da waren, dass die Hunde ihre
+        Pflege, ihre Zucht und ihre Unterkunft und ihre wunderbare Verpflegung und
+        alles haben. Wo sie die Verpflegung her genommen haben, weiß ich nicht. Jedenfalls,
+        das war uns damals schon sicher, dass die Hunde eine bessere Verpflegung hatten
+        als wir. Das steht sicher! Und die Hunde waren eben darauf, hm, hm, gezüchtet,
+        dass jeder Fluchtversuch oder jeder Mensch, der hätte flüchten wollen, nach
+        hundert (100) oder zweihundert (200) Metern sofort gefunden worden wäre. Und
+        Flüchtlinge, Flüchtlinge, die in der Nacht geflüchtet sind, soweit das überhaupt
+        möglich war, oder von den verschiedenen Baustellen, die wurden durch die Hunde
+        mit ihrer Fährte verfolgt bis sie dann eben doch gefunden wurden. Es ist in
+        den fünf und fünfzig (55) Monaten meiner Haftzeit niemals bekannt gewesen,
+        dass es einem Häftling gelungen wäre zu flüchten. Er war einen Tag verschwunden
+        er war vielleicht auch drei (3) oder vier (4) Tage und Nächte verschwunden,
+        aber er kam immer zurück, lebend oder tot.
+    - who: David Boder
+      start: '00:27:00.624'
+      end: '00:27:00.624'
+      u: Nun, zurück zu Ihrer Arbeit auf der Autobahn.
+    - who: Jaques Matzner
+      start: '00:27:04.545'
+      end: '00:27:04.545'
+      u: Ja, die Arbeit bei der Autobahn war eigentlich für uns der Fügung nach sehr
+        leicht. Warum, weil wir das Tempo, das später kam, noch nicht kannten. Wir
+        bekamen eine Schaufel in die Hand gedrückt und wir mussten schaffen. Die Sinnlosigkeit
+        der Arbeit ist uns aber gleich erschienen, denn wir mussten den Sand von links
+        nach rechts und die Anderen von rechts nach links schaffen. Also die ganze
+        Sache...
+    - who: David Boder
+      start: '00:27:25.918'
+      end: '00:27:25.918'
+      u: Aber Sie waren dann nicht auf der Autobahn?
+    - who: Jaques Matzner
+      start: '00:27:28.626'
+      end: '00:27:28.626'
+      u: Es war damals die Autobahn, die geschaffen werden sollte. Es war noch keine
+        fertige Autobahn, es war die rohe Autobahn.
+    - who: David Boder
+      start: '00:27:33.448'
+      end: '00:27:33.448'
+      u: Und warum sollten Sie dann unnütze Arbeit tun?
+    - who: Jaques Matzner
+      start: '00:27:36.818'
+      end: '00:27:36.818'
+      u: Ja, der Sand musste geschaufelt werden, es war Trockensand und es war Nasssand,
+        es war Getief und es waren Steine. Jeder hatte seine Arbeit und es erschien
+        so, als wäre es vollkommen zwecklos.
+    - who: David Boder
+      start: '00:27:46.507'
+      end: '00:27:46.507'
+      u: Es erschien Ihnen so, es war aber nicht?
+    - who: Jaques Matzner
+      start: '00:27:49.216'
+      end: '00:27:49.216'
+      u: Wahrscheinlich war es doch nicht so.
+    - who: David Boder
+      start: '00:27:50.308'
+      end: '00:27:50.308'
+      u: Ja.
+    - who: Jaques Matzner
+      start: '00:27:51.271'
+      end: '00:27:51.271'
+      u: Von Gogolin aus kamen wir nach ungefähr 14 Tagen in das Lager Fürstengrube,
+        bei Katowitz. Es handelte sich damals um ein unter Wasser stehendes Bergwerk
+        trocken zu legen und mit Fürstengrube beginnt ein Kapitel, das war vielleicht
+        das traurigste Kapitel, das ich mit gemacht habe. Es war im November 1941,
+        wie wir dort hin kamen und gleich von Anfang an spürten wir, hier ist Schluss
+        mit allem. Die Bewachung war sehr streng, es waren SA Leute. Der Lagerführer,
+        der dieses Kommando unter sich hatte, war ein gewisser Mareck und er hatte
+        einen Assistenten, das war damals ein Polizei Wachtmeister Lapke, dem wir
+        den Namen Messias gegeben haben, denn jeden Morgen um vier (4) Uhr war Appell,
+        der begann so ungefähr um drei (3) Uhr und dauerte so ungefähr bis fünf (5),
+        da mussten wir draußen im Hof stramm stehen und während dieser ein (1) oder
+        zwei (2) Stunden hat dieser Wachtmeister Lapke jedesmal eine Rede gehalten
+        in einem furchtbaren Ton. Man hat den Eindruck gehabt, dass der Mann...
+    - who: David Boder
+      start: '00:29:04.854'
+      end: '00:29:04.854'
+      u: Hat es einen Lautsprecher gegeben.
+    - who: Jaques Matzner
+      start: '00:29:06.638'
+      end: '00:29:06.638'
+      u: Nein, der ist von Gruppe zu Gruppe gegangen, der hat über den ganzen Hof
+        geschrien, dass man es gehört hat und man hat immer den Eindruck gehabt, dass
+        er besoffen ist. „Was glaubt Ihr wohl, dass Ihr hier hergekommen seid zur
+        Erholung? Ihr werdet bald Euren Messias sehen. Ihr wollt ja nur Euren Messias
+        sehen. Ihr kommt alle nach Jerusalem, aber nicht dahinten in das Jerusalem,
+        was Ihr Euch erhofft. Ihr bleibt alle hier, hier gibt's für Euch Jerusalem
+        und Ihr werdet alle bald Euren Messias sehen.“ (Herr Matzner sagt das in einer
+        komischen Stimme, er ahmt den Wachtmeister nach.) Und aus diesem Grund haben
+        wir ihm den Namen Messias gegeben. Es war einer der Gefürchtesten, den es
+        überhaupt gegeben hat. Und auch gleich am zweiten (2.) Tag nach unserer Einlieferung
+        hat dieser Lapke einen Häftling, einen Herrn Lagro, einen Parfüm Fabrikanten
+        aus Berlin, der auch nach Belgien geflüchtet war und auch von Belgien mit
+        deportiert wurde, der auch in unserer Gruppe war, den hat dieser Lapke gleich
+        am zweiten (2.) Tag erschossen.
+    - who: David Boder
+      start: '00:29:59.949'
+      end: '00:29:59.949'
+      u: Persönlich?
+    - who: Jaques Matzner
+      start: '00:30:01.011'
+      end: '00:30:01.011'
+      u: Persönlich erschossen. Und zwar hatte er ihn mit raus geführt auf die Baustelle,
+        er hat ihm den Auftrag gegeben - wir haben genau gesehen wie's zu ging—er
+        hat ihm den Auftrag gegeben, dort im Wald etwas zu holen. Herr Lagro ist ungefähr
+        dreißig (30) Meter in den Wald rein gegangen und dann hat's geknallt und dann
+        war Schluss.
+    - who: David Boder
+      start: '00:30:15.334'
+      end: '00:30:15.334'
+      u: Ist der Lapke mit gegangen?
+    - who: Jaques Matzner
+      start: '00:30:17.862'
+      end: '00:30:17.862'
+      u: Der Lapke ist mit gegangen, ja, und hat ihn von hinten erschossen und hat
+        nachher hat es dann abends geheißen, Lagro, Häftling Lagro wurde wegen Fluchtversuch
+        erschossen.
+    - who: David Boder
+      start: '00:30:25.603'
+      end: '00:30:25.603'
+      u: Ah hm.
+    - who: Jaques Matzner
+      start: '00:30:26.699'
+      end: '00:30:26.699'
+      u: Wir haben also gesehen wohin der Wind bläst. Dann hatten wir einen Lager
+        Ältesten, der war ein Jude, er hieß Cohen, es war ein sehr feiner Junge. Der
+        selbst war verzweifelt über die Lage der Leute für die er Verantwortung übernommen
+        hatte. Und so kam der Winter—jeden Tag hatten wir Tote—erfroren, erschlagen
+        und verhungert. Wir arbeiteten damals auf der Fürstengrube. Dort war ein Oberingenieur
+        Reichmann, der sich so den Anschein gegeben hat, als wäre er der feine Mann,
+        als wäre er der generöse Arbeitgeber, er wollte helfen und so weiter und so
+        weiter. Dabei hat dieser Mann mit seinem Arbeitsauftreten die Häftlinge bis
+        aufs Blut gepeinigt. Bei Nacht und Nebel, Tag und Nacht mussten wir draußen
+        arbeiten. Wir hatten nichts zum Anziehen. Unsere Mäntel waren uns abgenommen
+        worden und lagen im Magazin im Lager und wir durften sie nicht tragen.
+    - who: David Boder
+      start: '00:31:25.472'
+      end: '00:31:25.472'
+      u: Warum?
+    - who: Jaques Matzner
+      start: '00:31:26.715'
+      end: '00:31:26.715'
+      u: 'Weil wir in Bewegung bleiben sollten. Es hieß so: „Wenn es den Saujuden
+        zu warm ist, dann schaffen sie nichts, sie dürfen keine Mäntel haben. Sie
+        müssen sich durch Bewegung und durch Arbeit müssen sie sich Wärme schaffen.“
+        Und immer hat es beim Arbeiten geheißen: „Bewegung, Bewegung, Bewegung! Immer
+        Bewegung, davai, davai, davai.“ Das waren meistens polnische Vorarbeiter,
+        die uns immer so die Kommandos zugerufen haben und ich habe noch immer in
+        Erinnerung dieses furchtbare „davai, davai, davei—immer Arbeit, immer Arbeit!“
+        Dann war dort ein oberschlesischer Werkmeister, der hieß Bielka. Dieser Mann,
+        der hat mit seiner eigenen Hand jeden Tag Menschen erschlagen und zwar mit
+        Schaufeln. Nicht diese langen Schaufeln, sondern kurze Spaten. Mit denen hat
+        er jeden Tag Menschen geschlagen, die tatsächlich auch nachher an diesen Verletzungen
+        gestorben sind. Ich selbst bin von diesem Bielka aufs Korn genommen worden
+        und nur durch einen glücklichen Zufall kam ich in ein anderes Arbeitskommando
+        und war so diesem Bielka aus den Augen gekommen, sonst hätte er mich zu Ende
+        auch noch erschlagen.'
+    - who: David Boder
+      start: '00:32:35.076'
+      end: '00:32:35.076'
+      u: Wurden sie persönlich misshandelt?
+    - who: Jaques Matzner
+      start: '00:32:37.492'
+      end: '00:32:37.492'
+      u: Ich wurde in diesem Lager dadurch, dass ich mich sehr willig gezeigt habe
+        und mich zu jeder Arbeit sofort bereit erklärt habe, eigentlich im Lager selbst
+        nie geschlagen. Und dann ist zu berücksichtigen, wir hatten einen jüdischen
+        Lager Ältesten und als Jude, als Juden hatten wir dort einen gewissen Zusammenhalt.
+        Wir wurden im Lager eigentlich wenig geschlagen. Nur wenn es tatsächlich disziplinarische
+        Strafen gewesen sind, wegen Verstoß, die allen geschadet hätten. Geschlagen
+        wurden wir nur auf der Baustelle und zwar nur von der SA und von den Vorarbeitern.
+        Die Vorarbeiter waren meistens polnische oder schlesische Nichtjuden. Ich
+        kann mich noch gut besinnen, wir bekamen einmal einen Auftrag ein Loch aus
+        zu graben, um Telegraphen Masten einzusetzen. Zu dieser Arbeit wurden beordert
+        ein holländischer Jude, namens Hammerschlag und noch drei andere Juden, Polen
+        und ich; wir waren also fünf (5). Jetzt im Dezember, Januar einen Lehmboden,
+        der bei einer oberschlesischen Kälte von dreißig (30) bis fünfzig (50) Grad
+        härter wie Granit gefroren ist, da sollten wir das Loch ausgraben. Wir mussten
+        es, es hat uns nichts geholfen. Und ich muss wirklich sagen, wir haben halb
+        nackt gearbeitet, um es zu schaffen. Der Schweiß ist uns in Strömen runter
+        geflossen und wir mussten es tun, wir mussten es [unverständlich; zu leise].
+        Und wir haben es getan, aber mit welchem Opfer. Von diesen fünf (5) Personen,
+        die in diesem Loch gearbeitet haben, sind zwei (2) polnische Juden erfroren
+        und auch dieser Hammerschlag, dieser holländische Jude. Ich selbst habe damals
+        Erfrierungserscheinungen an den Füßen gehabt und ich selbst war einer dieser,
+        der die Toten von der Baustelle mit in das Lager rein getragen haben. Ich
+        werde nie vergessen den Eindruck, den ein Gesicht eines erfrorenen Menschen's
+        hat. Ich hatte den Eindruck, die Menschen lachen. Es ist eine, ein Übergang
+        im Gesicht zu sehen, es ist das schon der Beginn der Agonie, die Menschen
+        verzerren ihr Gesicht und es wirkt für den Außenstehenden genau so, als würde
+        er lachen dieser Tote. Und dabei ist das der Tod des Erfrierens—und es ist
+        dieser Ausdruck im Gesicht, als würden sie lachen. Und diese Toten mussten
+        sofort begraben werden, denn wir hatten ja im Lager kein Krematorium. Das
+        gab es ein Kommando, die mussten im nahe gelegenen Wald Gräber ausheben und
+        es hat sich für die SS und die SA nicht gelohnt, dass sie für jeden Toten
+        ein Grab ausheben, so wurden die Toten im Lager aufbewahrt bis so zehn (10),
+        zwölf (12) oder fünfzehn (15) Tote immer zusammen waren. Das ha nie lang gedauert,
+        das war innerhalb von fünf (5), sechs (6) Tagen geschehen. Dann wurden die
+        fünfzehn (15) oder zehn (10) Toten hinaus gebracht und wurden dann—nackt,
+        wie sie waren, schmutzig, verdreckt in einem furchtbarem Zustand—einfach in
+        die Grube da rein geschmissen, zugedeckt, und so weiter, und so weiter. In
+        der ersten Zeit war es uns noch erlaubt Kadesh zu sagen, wenn wir die Toten
+        rein geworfen haben. Später hat dann so ein alter Schlomberg, Schlomberg nannten
+        wir die schlesischen Vorarbeiter und Wachposten, hat das so ein alter Schlomberg
+        verboten. „Was redet Ihr denn da für einen Schmarren? Das gibts nicht, macht
+        Eure Arbeit und weg, ab damit.“ Wir haben dann also,...wir waren in diesem
+        Lager bis zum Ende des Sommers neunzehn hundert drei und vierzig (1943) wurde
+        das Lager aufgelöst. Es sollte nämlich für russische Kriegsgefangene benutzt
+        werden. Und wir kamen in as Lager Grevitz. Grevitz liegt in der Nähe von Gleiwitz.
+        Grevitz war eine alte Mühle, die niemals dazu fähig gewesen wäre Menschen
+        auf zu nehmen. Es war eine Mühle mit Ratten, mit Mäusen, durchlöcherten Fußböden,
+        hohen Sälen, die eigentlich für Mühlen eingerichtet waren. Wir wurden dort
+        eingebracht. Wir haben zu fünft über einander gelegen.
+    - who: David Boder
+      start: '00:36:58.405'
+      end: '00:36:58.405'
+      u: Was heißt zu fünft über einander?
+    - who: Jaques Matzner
+      start: '00:36:59.407'
+      end: '00:36:59.407'
+      u: In Betten, so Gestelle waren es und da haben wir...
+    - who: David Boder
+      start: '00:37:02.446'
+      end: '00:37:02.446'
+      u: Neben einander?
+    - who: Jaques Matzner
+      start: '00:37:04.432'
+      end: '00:37:04.432'
+      u: Das ist eigentlich gar nicht zu sagen. Wir lagen neben einander, wie die
+        Sardinen in einer Büchse.
+    - who: David Boder
+      start: '00:37:08.825'
+      end: '00:37:08.825'
+      u: Also es war eine Leiste zum Schlafen sozusagen?
+    - who: Jaques Matzner
+      start: '00:37:10.540'
+      end: '00:37:10.540'
+      u: Ja, es war eine Leiste und ungefähr achtzig (80) Zentimeter Höhe, die Zweite
+        ungefähr ein (1) Meter fünfzig (50), die Dritte zwei (2) Meter fünfzig (50),
+        die Vierte drei (3) Meter fünfzig (50) und die Fünfte wieder bei...
+    - who: David Boder
+      start: '00:37:23.127'
+      end: '00:37:23.127'
+      u: "(Unverständlich) waren sie separiert?"
+    - who: Jaques Matzner
+      start: '00:37:27.288'
+      end: '00:37:27.288'
+      u: Nein, es waren also Holzgestelle, Bretter.
+    - who: David Boder
+      start: '00:37:29.997'
+      end: '00:37:29.997'
+      u: Pritschen.
+    - who: Jaques Matzner
+      start: '00:37:30.939'
+      end: '00:37:30.939'
+      u: Ja, Pritschen, die waren belegt mit Stroh und wir lagen neben einander, lagen
+        neben einander in einer Gesamtreihe von fünf Mann vielleicht innerhalb eines
+        Balkens, so auf Gerüsten.
+    - who: David Boder
+      start: '00:37:49.580'
+      end: '00:37:49.580'
+      u: Was für Balken?
+    - who: Jaques Matzner
+      start: '00:37:50.784'
+      end: '00:37:50.784'
+      u: Balken, die das ganze Gebäude gestützt haben. Und zu fünft (5.) über einander,
+        voller Läuse, voller Flöhe, voller Wanzen, furchtbare Zustände, das ist überhaupt
+        nicht zu glauben, dass das Menschen das überhaupt überleben konnte. Um drei
+        (3) Uhr in der Früh war das Wecken, um vier (4) Uhr war der Appell, der Appell
+        hat gedauert bis fünf (5). Um fünf (5) Uhr war Ausmarsch, wir mussten ein,
+        ein Viertel (1 ¼ ) Stunden bis zur Station marschieren. Dann wurden wir wieder
+        in Viehwagen, in Viehwagon verladen, und mussten bis zur Baustelle fahren.
+        Die Baustelle war in der berühmten Textil Weberei, Christian Berig in Oberlangen,
+        Bilau. Wir haben auch gearbeitet in Reichenach in Schlesien in verschiedenen
+        Webereien. Und so war eine Nacht und ein Tag. Wir haben gearbeitet bis fünf
+        (5) Uhr abends—bis wir ins Lager zurück kamen war es neun (9) Uhr abends.
+        Dann mussten wir uns schlagen bis wir unser Essen bekommen haben, weil die
+        Menschen waren ausgefroren und waren ausgehungert und wir Menschen mussten
+        Schlange stehen bis wir ein bisschen Suppe bekommen haben. Wassersuppe mit
+        Rüben. Und bis sie ihre Suppe verschlungen hatten, mussten sie sich schon
+        wieder in die Säle zum schlafen. Dort wurde das Stückchen Brot ausgegeben.
+        Für acht (8), neun (9) oder zehn (10) Personen ein Laib, ein zwei (2)Pfund
+        Brot. Und bis alles ausgegeben war, war es schon elf (11) oder (12) Uhr abends.
+        Und um drei (3) Uhr wurde schon wieder geweckt. Jeden Tag hatten wir Tote.
+        Es war ein Zustand, der unerträglich gewesen ist. Und nur dadurch, dass ich
+        mit dem damaligen Lager Ältesten, ein gewisser Zehngut aus Sosnovitz sehr
+        gut befreundet war, hm, hat er mich in einen Arbeitstransport eingegliedert,
+        der nach Hirschberg in Oberschlesien ging. In Hirschberg angekommen—wir waren
+        damals drei und dreißig (33) Mann—wie ich im November neunzehn hundert drei
+        und vierzig (1943) nach Schlesien gingen, wir kamen nach Hirschberg kam, dort
+        war ich in den Fricks Werken.
+    - who: David Boder
+      start: '00:39:37.378'
+      end: '00:39:37.378'
+      u: Was waren diese Werke?
+    - who: Jaques Matzner
+      start: '00:39:38.440'
+      end: '00:39:38.440'
+      u: Fricks Werke, die haben Wolle, hm, aus Holz hergestellt.
+    - who: David Boder
+      start: '00:39:43.405'
+      end: '00:39:43.405'
+      u: War das wirklich möglich?
+    - who: Jaques Matzner
+      start: '00:39:45.722'
+      end: '00:39:45.722'
+      u: Das war möglich. Aber ich will natürlich kein Urteil über die Qualität dieser
+        Wolle geben. Es wurde aber tatsächlich Wolle aus Holz gemacht
+    - who: David Boder
+      start: '00:39:54.629'
+      end: '00:39:54.629'
+      u: War es möglich daraus Stoffe zu machen?
+    - who: Jaques Matzner
+      start: '00:39:56.443'
+      end: '00:39:56.443'
+      u: 'Das auch. Es wurden nachher Kleiderstücke, Uniformen, also Stoffe gemacht,
+        also Wolle, die dazu zu verwenden war, Kleidung zu [unverständlich]. Von Hirschberg
+        aus kam ich dann...in Hirschberg wurde ich eines nachts geweckt und wurde
+        aufs Büro gerufen. Vor mir stand der Allgewaltige dieses Lagers, der SS Oberscharführer
+        Weigel. Und er fragte mich: „Bist Du Deutscher?“ Da sagte ich: „Jawohl, Herr
+        Oberscharführer“. Dann fragte er :“Kannst Du schreiben?“ Und da sagte ich:
+        „Jawohl, Herr Oberscharführer“. „Na, kannst Du Maschine schreiben?“ „Jawohl,
+        Herr Oberscharführer“. „Setz Dich mal hin, mach mal eine Probe.“ Und dann
+        hat er mich an die Maschine gesetzt und ich musste etwas schreiben, was er
+        mir diktiert hat.'
+    - who: David Boder
+      start: '00:40:46.292'
+      end: '00:40:46.292'
+      u: Konnten Sie das?
+    - who: Jaques Matzner
+      start: '00:40:47.165'
+      end: '00:40:47.165'
+      u: Ich konnte Maschine schreiben. Und dann sagte er zu den anwesenden Lager
+        Ältesten und zu den verschiedenen anderen Anwesenden, die da in der Nacht
+        anwesend waren, es war ja zwei Uhr—„Ich glaube, der ist gut. Ich glaube, den
+        nehmen wir.“ (Lärm im Tonband—klingt als ob es abreißt)
+    - who: David Boder
+      start: '00:41:06.823'
+      end: '00:41:06.823'
+      u: "[In English] This is Spool 164. This is Spool 164. This is Spool 164 of
+        Jack Matzner and Anna Kaletski. There is quite some defective wire...empty
+        wire...but this is Spool 164"
+    - who: David Boder
+      start: '00:42:05.396'
+      end: '00:42:05.396'
+      u: This is the...This is the...This is the Maztner and Anna Kaletska original
+        spool, number 164. I've simply attached about a minute of wire at the beginning
+        and at the end so that the actual original text be well-protected. Run about
+        a minute and the text begins.
+    - who: David Boder
+      start: '00:42:39.027'
+      end: '00:42:39.027'
+      u: Wiesbaden, September the 26th...spools that we are taking in Germany. I am
+        here in the eh...rehabilitative synagogue, not the main synagogue of München,
+        but that was the eh...second shul, so to say. And Mr. Jack Matzner is continuing
+        his story from Spool 163. Hm, we are rather under pressure but I don't want
+        him to hurry, I want him to be as specific and detailed.
+    - who: David Boder
+      start: '00:43:09.464'
+      end: '00:43:09.464'
+      u: "[In German] Also bleiben Sie bei den Einzelheiten, wie sie waren."
+    - who: Jaques Matzner
+      start: '00:43:12.295'
+      end: '00:43:12.295'
+      u: Jawohl.
+    - who: David Boder
+      start: '00:43:12.777'
+      end: '00:43:12.777'
+      u: Aber halten Sie die Linie immer bei Ihren persönlichen Erlebnissen, [unverständlich]
+    - who: Jaques Matzner
+      start: '00:43:16.723'
+      end: '00:43:16.723'
+      u: 'Jawohl. Ich wurde dann für gut gefunden, als Schreiber abkommandiert zu
+        werden. Der Lager Älteste sagte mir nachher, dass ich ein Glück hatte: „Das
+        kann Dein Glück sein“. In derselben Nacht wurde ich eingekleidet, das heißt
+        ich wurde sauber angezogen. Bis dahin hatten wir ja nur Lumpen. Und in der
+        Früh, etwa gegen vier (4) Uhr musste ich in Begleitung eben dieses selben
+        Oberscharführer''s Weigel weg fahren. Wir fuhren dann bis zur Bahnstation
+        Striegau in Oberschlesien und von dort ging es zu Fuß. Wir gingen und da sagte
+        mir unterwegs der Oberscharführer in seinem Sudetendeutschen Dialekt: „Darfst
+        mi fein net blamiern, wen ma hin kommen. Steh und dass''d nix redst, wenn
+        nix gfragt wird. Und dass Dei Maul haltst“. Ich habe nie den Namen Groß-Rosen
+        gesehen, da bin ich innerlich schon erblasst. Ich wurde eingeliefert und es
+        ging nachher folgendermaßen vor sich: Ich wurde in Häftlingskleidung gesteckt,
+        die blau-weiß gestreifte Kleidung. Ich bekam die Nummer zwanzig zwei hundert
+        eins (20 201). Mittlerweile waren noch von verschiedenen anderen Lagern vier
+        und zwanzig (24) Juden eingeliefert worden und einige Tage später wurden wir
+        abkommandiert in das Lager Wüstegiersdorf, ebenfalls in Oberschlesien. In
+        Wüstegiersdorf wurden wir übernommen von dem Haupt Sturmführer Lüdkemeier.
+        Dieser Lüdkemeier hat uns einen Vortrag gehalten, dass wir also jetzt die
+        Lager zu schaffen, zu errichten hätten und dass jedes Vergehen, das uns unterlaufen
+        würde, unweigerlich mit dem sofortigen Tod bestraft wird. Wir sollten aus
+        unserer Mitte dann einen Lager Ältesten wählen, der die Verantwortung für
+        das ganze Lager hätte und dann wurden wir abkommandiert nach dem Lager Wolfsberg.
+        Wolfsberg das war einfach eine...eine freie Fläche von Berg und Tal—eine kahle
+        Fläche und wir sollten da ein Lager bauen. Wir bekamen das Material und am
+        anderen Tag oder zwei (2) Tage später kamen schon die ersten acht tausend
+        (8000) ungarischen und griechischen Juden an; und zwar kamen die aus Auschwitz.
+        Diese Juden wurden sofort empfangen, sie waren alle tätowiert und sie mussten
+        das Lager aufbauen mit dem Material, das wir hatten und in kurzer Zeit stand
+        auch das Lager da. Es war in keinem Block, sondern es waren solche runde Eskimo
+        Zelte. Wir nannten sie die Finnen Zelte.'
+    - who: Jaques Matzner
+      start: '00:46:34.168'
+      end: '00:46:34.168'
+      u: 'Im Laufe einer kurzen Zeit hatten wir einen Belegschaft von ungefähr ein
+        und zwanzig tausend (21000) Personen, alles Juden: Rabbiner, Shohet (Schlächter),
+        Rabbeien, Chasidim, Handwerker, [unverständlich]-Arbeiter, Oberstaatsanwälte,
+        Arbeiter, Polen, Ungarn, Rumänen, Deutsche, Franzosen, Griechen—ein ganz internationales
+        Gemisch von Menschen. Aber trotz dessen, dass wir Führenden uns vorgenommen
+        hatten, zusammen zu halten und jedem einzelnen Menschen zu helfen, zu retten—haben
+        wir einfach das damals geschaffene Krankenrevier, das von dem ungarischen
+        Arzt Doktor Frieck und Doktor Deutsch geleitet wurde, da haben wir alle Kranken
+        und alle Rabbeien und alle Rabbiner, alle Verschiedenen haben wir dort rein
+        gelegt, auch wenn die nicht krank waren. Nur damit wir diese Menschen, die
+        doch niemals gearbeitet haben, vor der schweren Arbeit zu schützen. Es wurde
+        nämlich ein Tunnel gebaut von einer Länge von zirka fünf und dreißig (35)
+        bis vierzig (40) Kilometer und den mussten wir bauen. Jeden Tag hatten wir
+        Tote. Bauverletzungen, Einstürze, die Baggermaschinen haben jeden Tag Menschen
+        erschlagen, die Meister haben geschlagen, wir haben gewusst es geht hier auf
+        Leben und Tod. Und nur dadurch, dass wir eine eigene gute Organisation geschaffen
+        hatten, wurde es verhindert, dass im Lager selbst nie etwas vorkam, das gegen
+        unsere Bestrebungen gegangen wäre. In diesem Lager haben wir verbracht bis
+        zum Januar neunzehn hundert fünf und vierzig (1945). Im Januar neunzehn hundert
+        fünf und vierzig (1945) wurde das Lager geräumt. Wir wussten schon warum,
+        denn wir hatten in dieser Zeit schon unsere Fühler und unsere Ohren nach außen
+        hin ausgestreckt. Wir wussten die Russen sind im Anzug. Wir haben jede Nacht
+        gesehen, wie Breslau bombardiert worden ist. Wir haben über unser Lager alliierte
+        Flugzeuge fliegen gesehen, die genau wussten, dass die Menschen, die da unten
+        sind in den blau weißen Uniformen, dass das eigene Menschen sind und dass
+        keinen Bomben abgeworfen werden. Breslau wurde bombardiert. Bleiwitz und Leibnitz
+        wurden bombardiert, in unserer Nähe sind Bomben gefallen, aber das Lager wurde
+        nie bombardiert, weil unsere Brüder in der Luft wussten, hier unten sind unsere
+        Jungs, hier unten sind eigene Menschen und wir sehen, dass ihnen nichts geschehe.'
+    - who: Jaques Matzner
+      start: '00:49:13.896'
+      end: '00:49:13.896'
+      u: Im Januar neunzehn hundert fünf und vierzig (1945) wurde das Lager aufgelöst
+        und wir sind abmarschiert nach Schirmberg. Das waren alles so kleine Dörfer—Stationen,
+        wo, hm, man uns aufnahm, bis wir in das große Lager Bergen-Belsen kamen. Unterwegs
+        hatten wir nicht nur Dutzende, sondern Hunderte von Toten. Menschen, alt und
+        krank und schwach, die den Marsch nicht überstehen konnten, sind an der Strasse
+        liegen geblieben. Wir mussten sie mitschleppen und nachts begraben. Vorher
+        wurden ihnen noch auf Anordnung der SS die Goldzähne ausgebrochen. Und dann
+        ging's immer weiter und immer weiter. Haufen und Berge von Leichen habe sich
+        getürmt, die einfach irgendwo begraben und verscharrt worden sind. Und dann
+        eines Nachts kamen wir in Bergen-Belsen an. Bergen-Belsen—das Lager, das wir
+        eigentlich in seiner wahren Fratze erst gar nicht erkannt haben. Das sahen
+        wir erst am Tag darauf, wir sahen, wie wir behandelt wurden. Alles abgeben,
+        hin legen, stehen bleiben, stundenlange Appelle. Unter stundenlange Appelle
+        ist zu verstehen sechzehn (16 und zwanzig (20) Stunden lange Appelle—in Dreck,
+        in Schnee, in Eis, in Wasser. Jeden Tag hatten wir in den Barracken noch Menschen,
+        die sich nachts hingelegt haben, sich schlafen legt, morgens waren sie tot.
+        Im Dunkeln haben wir nicht gesehen, was in diesem überpferchten und überpfropften
+        Block vor gegangen ist. Einer hat den Anderen erschlagen. Wir sahen vielleicht
+        eine Ermassung von hundert tausend (100000) Menschen in diesem Lager. Christen
+        und Juden, Katholiken und Protestanten, englische Soldaten, Fallschirmabspringer,
+        französische Freiwillige, die sich gemeldet hatten, um auf alliierter Seite
+        gegen die Deutschen zu kämpfen, Juden, Maquis waren da, alles war da und jeder
+        hat gewusst, es geht um die Minute. In Bergen-Belsen habe ich das erste Mal
+        gesehen, dass Menschen verbrannt wurden auf offenen Scheiterhaufen. Scheinbar
+        hat das Gas oder die Gaszuleitung nicht funktioniert zu haben, da haben sie
+        die Menschen aufgeschichtet in Haufen und haben sie - wahrscheinlich mit Benzin
+        oder Petroleum überschüttet und haben sie verbrannt auf offenen Scheiterhaufen.
+        Man hat sich an diesen Anblick gewöhnt—so, als wäre es etwas Alltägliches.
+        Es ist fürchterlich so etwas auszusprechen. Und heute begreife ich nicht,
+        wie ich diesen Gestank, der nicht nur durch die Nase ging, sondern der einem
+        am Gaumen geklebt hat, als wäre es etwas Greifbares, Ekelhaftes, dass man
+        diesen Gestank und diese bestialische Luft überstehen konnte.
+    - who: Jaques Matzner
+      start: '00:51:59.930'
+      end: '00:51:59.930'
+      u: Und an diesem,...eines schöne Tages wird ein Arbeitstransport zusammen gestellt
+        für irgend ein Lager. Wir wollten unter allen Umständen aus diesem Lager Bergen-Belsen
+        heraus und haben uns gemeldet und es ist geglückt, es wurden ungefähr drei
+        tausend (3000) Personen zusammen gestellt. Und wir sind dann los marschiert
+        an die Bahn und mit der Bahn sind wir wieder fünf (5) Tage und fünf (5) Nächte
+        langem Fahren nach Messantin gekommen. Messantin ist ein kleiner Platz in
+        der Nähe von Frankfurt an der Oder oder von Stettin. Wir wussten ja nie, wo
+        wir uns befanden. Jedenfalls haben wir damals gearbeitet in den Hydrierwerken
+        in Pohlitz. Das ist ein Werk so gross, wie eine ganze Stadt. Es wurde dort
+        her gestellt Benzin und Treibstoff. Ein Meister, unter dem ich arbeitete,
+        der sagte mir mal, dass in diesem Werk, hm, täglich vier einhalb (4 ½ ) Millionen
+        Liter Betriebsstoff hergestellt worden wären. Bis dann in einer Nacht einmal
+        ein Raid von zwei tausend (2000) englischen und amerikanischen Flugzeugen
+        in Wellen gekommen ist, die das ganze Werk innerhalb von einer oder zwei Stunden
+        zerstört hätten. Jedenfalls wir mussten aufräumen. Wir mussten also die Trümmer
+        weg räumen und die Schutthaufen weg räumen und es sollte immer weiter gearbeitet
+        werden. Und inzwischen lagen wir schon in diesem Werk unter Artilleriebeschuss
+        der Russen, die auf der anderen Seite der Oder standen. Unser Lager und unsere
+        Arbeitsstätte war also diesseits der Oder und die Russen standen schon jenseits
+        der Oder. Wir lagen dauernd unter Artilleriebeschuss und eines schönen Tages
+        hatten wir sogar fünf- oder sechsundzwanzig Tote oder Verletzte, und darunter
+        waren auch Wachtposten, die auch erschossen und erschlagen worden sind von
+        Bomben und den Artilleriegeschossen der russischen Artillerie. Und dann wurde
+        auch dieses Lager geräumt und wir kamen nach Barth. Barth ist eine kleine
+        Stadt in der Nähe von Wismar und dort wurden wir untergebracht in den Heinkel
+        Flugzeugwerken. Die Heinkel Flugzeugwerke sahen sehr schön aus. Das Lager
+        war sehr schön, aber was dort vorgekommen ist, das spottet jeder Beschreibung.
+    - who: David Boder
+      start: '00:54:19.981'
+      end: '00:54:19.981'
+      u: Wo war das?
+    - who: Jaques Matzner
+      start: '00:54:20.704'
+      end: '00:54:20.704'
+      u: Das war in Barth in den Heinkel Flugzeugwerken. Ich habe gerade eben durch
+        gesagt, dass ich Belege und alles durchgegangen bin.
+    - who: David Boder
+      start: '00:54:26.531'
+      end: '00:54:26.531'
+      u: Ja.
+    - who: Jaques Matzner
+      start: '00:54:27.525'
+      end: '00:54:27.525'
+      u: 'Und dort spürte ich auch das erste Mal, dass ich anfing schwach zu werden.
+        Ich konnte nicht mehr. Und, hm, mein Freund mit dem ich die ganze Zeit und
+        die ganzen Jahre zusammen verbrachte, Fischel Wiener aus Sosnovitz, der sagte
+        mir: „Matzner, halte Dich, halte Dich, sei stark, es kann nicht mehr lange
+        dauern!“'
+    - who: David Boder
+      start: '00:54:49.255'
+      end: '00:54:49.255'
+      u: In welchem Jahre war das?
+    - who: Jaques Matzner
+      start: '00:54:50.248'
+      end: '00:54:50.248'
+      u: Ds war im Jahre neunzehn hundert fünf und vierzig (1945).
+    - who: David Boder
+      start: '00:54:51.664'
+      end: '00:54:51.664'
+      u: Ja.
+    - who: Jaques Matzner
+      start: '00:54:52.093'
+      end: '00:54:52.093'
+      u: "„Es muss noch gehen, Du hast so lange durch gehalten. Nun sei stark.“ Und
+        dabei sind jeden Tag meine besten Freunde gefallen und gestorben. Mein besten
+        Kameraden sind dabei zu Grunde gegangen. Ich war zusammen mit einem ungarischen
+        Groß-Grundbesitzer Ludwig Biro aus Szatmár."
+    - who: David Boder
+      start: '00:55:08.521'
+      end: '00:55:08.521'
+      u: Ein Jude?
+    - who: Jaques Matzner
+      start: '00:55:09.304'
+      end: '00:55:09.304'
+      u: 'Ein Jude—er war mit seinem Bruder dort. Sein Bruder ist dort umgekommen,
+        sein Bruder ist dort gestorben. Und wie die Menschen umgekommen sind. Einer
+        meiner besten Freunde, Moishe Rotbart, hat sich dort selbst aufgehängt, ein
+        frommer Mensch, der gesagt hat: „Ich kann nicht mehr! Ich kann nicht mehr!“
+        Bei der Arbeit hat er die Zähne zusammen gebissen. Er wollte es überleben,
+        aber er konnte es nicht, er hat sich selbst das Leben genommen. Einen Tag
+        später sah ich ihn unten im Keller als Leiche liegen. Und so waren jede Tag
+        noch mehr Selbstmode und jeden Tag noch mehr Menschen erschlagen worden. Eines
+        schönen Morgens verspürte ich, dass ich Fieber hatte. Ich hatte ja die ganze
+        Zeit schon Fieber, aber an diesem Morgen war es besonders stark und ich ging
+        ins Hospital, um mir das Fieber messen zu lassen und der Sanitäter maß neun
+        und dreißig sechs (39.6) Fieber. Ich bin mit diesem Zettel, den er mir ausgestellt
+        hatte, dass ich neun und dreißig sechs (39.6) Fieber habe zum Lager Ältesten
+        gegangen und habe ihn gebeten mich im Lager liegen zu lassen, da ich ein so
+        hohes Fieber hatte. Darauf gab er mir einen Tritt in den Leib.'
+    - who: David Boder
+      start: '00:56:04.410'
+      end: '00:56:04.410'
+      u: War das ein Jude?
+    - who: Jaques Matzner
+      start: '00:56:05.554'
+      end: '00:56:05.554'
+      u: 'Das war ein Christ, ein sogenannte BVer war das, ein Berufsverbrecher. Da
+        gab er mir einen Tritt in dem Leib und sagte: „Du Judensau, geh raus. Für
+        Dich ist es schon längst Zeit, dass Du krepierst.“ Und durch den Tritt bin
+        ich hin gefallen und bin am Boden liegen geblieben. Ich verspürte nur noch,
+        dass ich in den Rücken und in das Gesicht getreten wurde. Und so bin ich liegen
+        geblieben und als ich dann wieder zu mir kam—ich war bewusstlos geworden—befand
+        ich mich im Keller. Dieser Keller war eine Eichrichtung dieses Lager Ältesten,
+        dieser BVer—Berufsverbrecher. Der Keller stand etwa brusthoch unter Wasser.
+        Im Wasser selbst haben damals, als ich ein kam etwa neunzig (90) oder fünf
+        und neunzig (95) Menschen gelegen und gestanden.'
+    - who: David Boder
+      start: '00:57:01.970'
+      end: '00:57:01.970'
+      u: Die konnten doch nicht liegen?
+    - who: Jaques Matzner
+      start: '00:57:02.933'
+      end: '00:57:02.933'
+      u: Gelegen, diejenigen, die gelegen haben, die waren schon tot. Und diejenigen,
+        die gestanden haben, haben die Leichen der Toten sich so zurecht gelegt, dass
+        sie darauf sitzen konnten, sonst wären die noch Lebenden auch schon ertrunken
+        gewesen. Ich habe das Selbe getan. Ich habe mir einen Platz an der Wand heraus
+        gefunden, ich habe ein oder zwei (2) Leichen, die schon im Wasser lagen, unter
+        dem Wasser zurecht geschleppt an die Wand und ich habe mich darauf gesetzt.
+        Und so habe ich im Wasser gelegen, von diesem Morgen an gerechnet zwei (2)
+        Tage und zwei (2) Nächte. Während dieser Zeit ist ertrunken im Wasser mein
+        Kamerad, der neben mir lag, Ludwig Pasternak, aus Ungarn, der mich immer gebeten
+        hat „Matzner“, sagte er zu mir „Matzner, wenn ich nicht gerettet werde, dann
+        sag Du meinem Cousin, der in Toulouse lebt, dass ich gestorben bin und dass
+        mein letzter Gedanke mein Vater, meine Mutter und meine Geschwister gewesen
+        sind. Sag meinem Cousin Jenö Hillmann, dass ich's nicht mehr überleben konnte.“
+        Dieser Jenö Hillmann war auch im gleichen Lager.
+    - who: David Boder
+      start: '00:58:27.950'
+      end: '00:58:27.950'
+      u: Wie war der Name?
+    - who: Jaques Matzner
+      start: '00:58:28.625'
+      end: '00:58:28.625'
+      u: 'Jenö, Jenö Hillmann. Und so ist mein Freund Ludwig Pasternak gestorben.
+        Ich glaube ein Verwandter von ihm, war auch dieser berühmte französische Opernsänger
+        Louis Pasteur. Und dann kam es auf einmal so, ich weiß es ja selbst nicht,
+        wie es war—ich war ja diese Tage und diese Nächte wie benommen, ich habe nur
+        mehr instinktiv geatmet, ich habe nur mehr instinktiv gelebt. Ich habe nichts
+        mehr gegessen und nichts mehr getrunken, aber ich habe noch gelebt. Und dann
+        hat es auf einmal geheißen: „Alles raus! Raus!“ und dann kamen Menschen von
+        oben und ich befand mich auf einmal wieder in einem Zimmer. Und da war kein
+        Wasser und ich habe am Boden gelegen und nachher auf einem Tisch gelegen.
+        Und dann stand wieder mein Freund Fischel Wiener vor mir und der hat nur zu
+        mir gesagt: „Matzner, Du wirst leben, Du wirst leben. Nach Haus geht''s ja
+        doch! Und Du wirst stark und Du wirst leben! Die Russen sind schon vor den
+        Türen, die Russen kimmen.“ Und dann weiß ich, dass ich tatsächlich in einem
+        richtigen Bett gelegen hab, wo alles weiß gewesen ist und dann war es Nacht.
+        Und da kam zu mir ein Mann, der streichelte mir den Kopf und ich erkannte
+        nur noch eine Uniform in der gleichen Farbe wie sie die amerikanischen Soldaten
+        tragen. Und er streichelte mir über den Kopf und er sprach zum mir, aber ich
+        verstand ihn nicht. Dann rief er eine Krankenschwester, die war in weiß. Ich
+        habe ja nicht gewusst, dass er eine Krankenschwester ruft. Ich hab nur gewusst,
+        dass er eine Krankenschwester gerufen hat, nachdem diese da war. Sie hatte
+        ein weißes Tuch über dem Kopf und sie sprach russisch. Und er sprach mit ihr
+        irgend etwas und kam nach einer Zeit zurück mit zwei (2) Flaschen. Und diese
+        beiden Flaschen hat er über mich ausgegossen und hat mich damit gewaschen.
+        Es war Cognac. Heute weiß ich, dass es Whiskey war oder Cognac. Damals wusste
+        ich es nicht, es hat mich nur wunderbar erfrischt.'
+    - who: David Boder
+      start: '01:00:34.379'
+      end: '01:00:34.379'
+      u: Er hat sie gewaschen damit?
+    - who: Jaques Matzner
+      start: '01:00:35.432'
+      end: '01:00:35.432'
+      u: 'Er hat mich damit gewaschen. Er hat die Bettdecke zurück geschlagen und
+        hat mich damit gewaschen. Die Schwester hat so ein Gummituch unter mich gelegt
+        und er hat mich mit dem Whisky oder mit dem Cognac von oben bis unten gewaschen,
+        es hat mich wunderbar erfrischt. Neben mir—in dem Bett nebenan—lag ein griechischer
+        Rechtsanwalt. Er hieß—ich weiß nicht..., ich glaube er hieß Nissin, ich habe
+        ihn nur Nissin gerufen. Er sagte zu...er hat dauernd gerufen: „Adonai, adonai,
+        adonai, Matzner, das ist gut, das ist gut. Ça, c''est bien.“ Er hat französisch
+        gesprochen. „Ça, c''est bien. Ça, c''est bien pour vous. Ça, c''est bien a
+        votre vie. Ça, c''est bien.” Und ich kam dann auch tatsächlich zu mir und
+        ich kam dann auch in Behandlung eines russischen Arztes, sein Name ist mir
+        entfallen. Jedenfalls ich machte damals noch einen sehr starken Typhus mit.'
+    - who: David Boder
+      start: '01:01:25.726'
+      end: '01:01:25.726'
+      u: Flecktyphus oder...?
+    - who: Jaques Matzner
+      start: '01:01:26.840'
+      end: '01:01:26.840'
+      u: Einen Bauchtyphus. Ich wurde in Behandlung dieses russischen Arztes—ich wurde
+        wirklich wunderbar behandelt—ich bin gesundet. Aus diesem russischen Spital
+        kam ich nachher in das internationale Lager, wo wir von (Name unverständlich)...
+    - who: Jaques Matzner
+      start: '01:01:42.807'
+      end: '01:01:42.807'
+      u: ". . . ein amerikanischer Pilot hat Hemden und Wäschestücke, Schokolade und
+        Grapefruit und Essen und Trinken geschenkt bekamen und wir haben immer nur
+        gesprochen...unsere Leute haben immer nur gesprochen, das eine Wort: OK, OK,
+        OK. Es waren ja alles Ungarn und Griechen und so weiter, die kein Englisch
+        kannten und die haben nur gewusst OK, OK. Heute weiß ich, dass es damals amerikanische
+        Soldaten gewesen sind. Und ich kam dann nachher in das französische Hospital,
+        dort gab ich mich als Franzose aus, damit ich nach Frankreich transportiert
+        werde. Ich wollte nicht..."
+    - who: David Boder
+      start: '01:02:16.255'
+      end: '01:02:16.255'
+      u: Sprechen Sie französisch?
+    - who: Jaques Matzner
+      start: '01:02:17.663'
+      end: '01:02:17.663'
+      u: Ich spreche gut französisch, denn ich habe ja eine Zeitlang in Frankreich
+        gelebt. Ich habe mich als Franzose aus gegeben, dieser kleine Trick ist mir
+        gelungen und ich kam mit dem letzten französischen Transport nach Bad Schwartau,
+        dort wurde ich aufgenommen in ein Lager der englischen Armee, wo ich den ersten
+        uniformierten Juden traf. Das war ein gewisser Henry...Harry Dumbrand aus
+        London, also jedenfalls aus England. Er hat mich beschenkt mit Zigaretten,
+        er hat sich gefreut, dass er einen Juden gesehen hat und erst mal wieder trifft.
+        Und von Bad Schwartau aus, kam ich in ein UNRRA Lager in Geldern, das ist
+        in der Nähe von Kevelaer an der holländischen Grenze. Und von dort aus kam
+        ich in meine Heimatstadt Wiesbaden. Es zog mich nach Wiesbaden, erstens mal,
+        weil es mein Geburtsort ist und weil ich glaubte, dass von hier ich aus die
+        ersten Recherchen nach meiner Familie beginnen kann und dann, weil es die
+        amerikanische Zone war. Ich kam nach Wiesbaden zurück und ich war noch sehr
+        krank und sehr schwach und ich verbrachte hier durch die Hilfe amerikanischer
+        Freunde, die ich hier kennenlernte, insbesondere Captain Dave LeMelman aus
+        Miami, der sich meiner ganz besonders angenommen hat.
+    - who: David Boder
+      start: '01:03:32.936'
+      end: '01:03:32.936'
+      u: Wie heißt er?
+    - who: Jaques Matzner
+      start: '01:03:33.448'
+      end: '01:03:33.448'
+      u: Captain Dave LeMelman, er ist ein Jude und stammt aus Miami.
+    - who: David Boder
+      start: '01:03:39.442'
+      end: '01:03:39.442'
+      u: Miami?
+    - who: Jaques Matzner
+      start: '01:03:40.237'
+      end: '01:03:40.237'
+      u: 'Miami, der sich meiner ganz besonders angenommen hat. Dann ausserdem noch
+        ein Second Lieutenant Lori Hundell aus New York und noch verschiedene Andere,
+        nicht zu vergessen: Einer—ein amerikanischer Offizier, der nachher zu meinen
+        besten Freunden zählte, Mr. Harald Wilk, aus New York, ein Jude, alles nur
+        Juden. Und “last not least“ die Krone meiner Bekanntschaften, das war dieser
+        wunderbare Mensch Chaplain William Ted Darling, ein Mensch, der sich nicht
+        nur mir persönlich, sondern der ganzen jüdischen Gemeinde Wiesbaden derart
+        angenommen hat, dass ich als Wiesbadener die Inspiration erhalten habe, das
+        Gotteshaus, das meinen Eltern und dem ältesten Rabbiner Deutschlands, Rabbiner
+        Dr. Leo Kahn [unverständlich; hebräisch], als heilige Stätte gedient hat,
+        wieder aufzubauen. Ich betrachte es fast als meine Lebensaufgabe dieses Haus
+        in dem mein Vater und meine Mutter [unverständlich; hebräisch], dieses Haus,
+        in dem ich Bar Mitzvah''d geworden bin, dieses Haus in dem meine Schwestern
+        und meine Brüder Jahrzehnte lang ihren Gottesdienst verrichtet haben, wieder
+        so aufzubauen, wie es gewesen ist. Ich betrachte es als meine Lebensaufgabe
+        den Toten und denen, die nicht mehr wiederkehren und denen, die rechtzeitig
+        dieses Land verlassen konnten, eine Stätte zu errichten von der aus das Wort
+        Gottes in die ganze Welt gehen soll. Als eine Stätte zum Gedenken an alle
+        die Menschen, die einstmals Wiesbaden kannten und die einstmals in Wiesbaden
+        waren. Ich betrachte dies weiter als eine meiner größten Aufgaben so lange
+        noch Juden in Deutschland—in der amerikanischen Zone und in Wiesbaden sein
+        werden, ein jüdisches Leben zu errichten, kulturell, religiös, caritativ und
+        in jeder Hinsicht zur Förderung für die Immigration nach Israel und nach allen
+        Juden-Staaten in die die einzelnen Personen hin wollen. Der Grossteil unserer
+        Gemeinde setzt sich zusammen aus [unverständlich] Personen, die aus den Konzentrationslagern
+        entlassen wurden und die hier in Wiesbaden jetzt wieder eine Heimstätte gefunden
+        haben. Ich selbst gehöre zum Vorstand der jetzt gegründeten jüdischen Gemeinde
+        in Wiesbaden. Ich sehe mein ganzes Können, mein ganzes Wollen, meinen ganzen
+        Willen und auch meine ganze Aufgabe darin, das zu tun, was den Leuten zum
+        Guten sein soll. Und wenn es mir erstattet ist an dieser Stelle zu sagen,
+        dass ich insbesondere in A G T vertreten, durch die leider zu früh abgereisten
+        Miss Patty Tender, meinen Dank aussprechen möchte. Ebenso dem ehemals hier
+        stationierten Chaplin Vidar Goldstein, und so weiter. Dann möchte ich meinen
+        besonderen Dank aussprechen dem Vertreter von Joint, Mr. Lakso—Mr. Kowalznik,
+        der sich jetzt wahrscheinlich in Schanghai befinden wird. Und wenn es mir
+        noch gestattet ist meine Freunde von hier aus zu grüßen- Mr. Darril und Else
+        Steinlau in New York, Mrs. und Mr. Hedwig Meier in Chicago, Mr. And Mrs. Rainier
+        Blum in Chicago und alle meine Freunde, die meinen Namen bestimmt gut kennen.
+        Die Freunde, die früher hier in Wiesbaden gewesen sind, die mich bestimmt
+        nicht vergessen haben., denn ich heiße noch so, wie ich früher geheißen habe,
+        Jaques Matzner, und ich wünsche anlässlich dieser Feiertage allen meinen Freunden
+        in der ganzen Welt, wo sie auch sein mögen, [unverständlich; Tonband rauschen]
+        wunderbare...Professor Boder aus Chicago, durch den mir die Möglichkeit gegeben
+        ist, alle meine Freunde der jüdischen Gemeinde in der ganzen Welt zu grüßen
+        und ihnen ein „meschono [unverständlich; hebräisch] zuzurufen.'
+    - who: David Boder
+      start: '01:08:21.194'
+      end: '01:08:21.194'
+      u: "[In English] This concludes a report—rather condensed—of Mr. Jack Matzner.
+        There would be a number of questions I would like to ask him and he could
+        probably give me some very intelligent answers, but since it could be done
+        by mail, I think I will call in one and the other of the two ladies who are
+        waiting for the interview. It's a very difficult thing to have...to stagger
+        the interviewees—you don't want to interrupt, it takes always more times than
+        you expect. We are now going over to the next interview [unintelligible] start
+        Mr. Matzner at twenty-five minutes of Spool 164."
+    - who: David Boder
+      start: '01:09:00.552'
+      end: 
+      u: This concludes Spool 9-164A—the interview with Jack Matzner. The second part—the
+        interview with Anna Kovitzka—is put on separate spool, 164B. The 14th of November,
+        1950, Boder.
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:00.572'
+      end: '00:00:00.572'
+      u: "[In English] Wiesbaden, September the 26th, 1946. These are the last spools
+        we are taking in Germany and they are about the last spools of the project.
+        I am now interviewing Mr. Jack Matzner, forty-two years old, an important
+        member of the Wiesbaden community, which is primarily supported by UNNRA,
+        but lives in pri— is billeted in private homes. The billeting, of course,
+        as I understand, is about 1.6 people per bedroom."
+    - who: David Boder
+      start: '00:00:38.560'
+      end: '00:00:38.560'
+      u: "[In German] Mr. M., will you tell me again what is your name and where you
+        were born?"
+    - who: Jaques Matzner
+      start: '00:00:46.207'
+      end: '00:00:46.207'
+      u: My name is Jack Matzner. I was born in Wiesbaden. My parents were of Polish
+        descent, and up to the year 1938, I was a Polish subject.
+    - who: David Boder
+      start: '00:00:59.787'
+      end: '00:00:59.787'
+      u: In spite of the fact that you were born in Wiesbaden?
+    - who: Jaques Matzner
+      start: '00:01:01.782'
+      end: '00:01:01.782'
+      u: In spite of the fact that I was born in Wiesbaden.
+    - who: David Boder
+      start: '00:01:04.048'
+      end: '00:01:04.048'
+      u: Will you please tell me what happened to you that you may consider as direct
+        consequences of the Hitler regime?
+    - who: Jaques Matzner
+      start: '00:01:16.875'
+      end: '00:01:16.875'
+      u: First of all, my business activities, which I pursued up to the year 1933
+        with complete freedom, were completely halted on the day of Hitler's ascent
+        to power.
+    - who: David Boder
+      start: '00:01:33.325'
+      end: '00:01:33.325'
+      u: Continue
+    - who: Jaques Matzner
+      start: '00:01:35.130'
+      end: '00:01:35.130'
+      u: In 1938...
+    - who: David Boder
+      start: '00:01:40.246'
+      end: '00:01:40.246'
+      u: What kind of business was it?
+    - who: Jaques Matzner
+      start: '00:01:44.046'
+      end: '00:01:44.046'
+      u: I had a mail order business in textiles.
+    - who: David Boder
+      start: '00:01:46.935'
+      end: '00:01:46.935'
+      u: Where to did you ship you merchandise?
+    - who: Jaques Matzner
+      start: '00:01:49.312'
+      end: '00:01:49.312'
+      u: Within Germany, especially to greater Hessen, Rotenberg, Bavaria, and Baden.
+        [Regions South West of Germany]
+    - who: David Boder
+      start: '00:01:56.143'
+      end: '00:01:56.143'
+      u: Was it what we call a mail order house—would they order by mail?
+    - who: Jaques Matzner
+      start: '00:02:03.975'
+      end: '00:02:03.975'
+      u: They would order by mail, and we would ship by mail. In 1938 the Polish Jews
+        were deported. One night the Gestapo arrived, and within twenty minutes, we
+        had to leave our home. My brother, my two sisters, the two children of one
+        of my sisters, and myself were forcibly taken to the police, leaving behind
+        all our belongings, a comparatively large amount of cash, and a quite large
+        amount of jewelry. It all was taken away from us, and we regarded it as most
+        fortunate that both of our old parents were not taken with us because they
+        had doctors' affidavits to the effect that they were completely unfit for
+        transport. We were then deported to Poland in cattle cars, crowded together,
+        sixty to seventy people in one cattle car, and arrived on the morning of a
+        Sabbath in Beuthen at the Polish border.
+    - who: David Boder
+      start: '00:03:19.600'
+      end: '00:03:19.600'
+      u: What is the name of Beuthen in Polish?
+    - who: Jaques Matzner
+      start: '00:03:22.107'
+      end: '00:03:22.107'
+      u: It is the last station in Germany at the Polish border, near Katovitz.
+    - who: David Boder
+      start: '00:03:27.322'
+      end: '00:03:27.322'
+      u: Oh, yes. That is near Sosnovitz, Katovitz
+    - who: Jaques Matzner
+      start: '00:03:29.588'
+      end: '00:03:29.588'
+      u: Yes. Yes. It appears to be in that region. We were pushed over the Polish
+        border and arrived on a Sunday at the main depot in Katovitz. The reception
+        given to us by the Jews in Poland, who had been informed about us, was so
+        warm and marvelous that for a moment one was able to forget the pain, the
+        misery, and the want, but I...
+    - who: David Boder
+      start: '00:04:03.021'
+      end: '00:04:03.021'
+      u: What do you mean by the reception of the Jews? What did they do for you?
+    - who: Jaques Matzner
+      start: '00:04:05.699'
+      end: '00:04:05.699'
+      u: The people sacrificed everything. Day and night they provided us with food,
+        nourishment, clothing, and everything possible. Don't forget that we were
+        not permitted to take a thing with us.
+    - who: David Boder
+      start: '00:04:15.449'
+      end: '00:04:15.449'
+      u: Were you admitted to Poland?
+    - who: Jaques Matzner
+      start: '00:04:17.504'
+      end: '00:04:17.504'
+      u: Poland admitted us. However, I had to same night a telephone conversation
+        with a rabbi, Dr. Ansbacher, in Wiesbaden, trying to arrange that nothing
+        should happen to my two old parents and to comfort them, telling them that
+        we had arrived well and endeavoring to create the impression that we were
+        all right. Shortly afterwards, in about six weeks, I managed to return illegally
+        from Poland to Wiesbaden, with the intention of taking care of my house and
+        moving my parents to Holland because...
+    - who: David Boder
+      start: '00:04:54.803'
+      end: '00:04:54.803'
+      u: That was in 1938?
+    - who: Jaques Matzner
+      start: '00:04:56.488'
+      end: '00:04:56.488'
+      u: That was in December, '38, and January '39.
+    - who: David Boder
+      start: '00:05:00.340'
+      end: '00:05:00.340'
+      u: And when did Germany start the war with Poland?
+    - who: Jaques Matzner
+      start: '00:05:03.990'
+      end: '00:05:03.990'
+      u: September the first, 1939.
+    - who: David Boder
+      start: '00:05:06.196'
+      end: '00:05:06.196'
+      u: So that was still before the war?
+    - who: Jaques Matzner
+      start: '00:05:08.883'
+      end: '00:05:08.883'
+      u: That was about nine or ten months before the war.
+    - who: David Boder
+      start: '00:05:12.554'
+      end: '00:05:12.554'
+      u: Go on.
+    - who: Jaques Matzner
+      start: '00:05:13.667'
+      end: '00:05:13.667'
+      u: I returned illegally to Germany.
+    - who: David Boder
+      start: '00:05:16.315'
+      end: '00:05:16.315'
+      u: Did you have false papers?
+    - who: Jaques Matzner
+      start: '00:05:18.211'
+      end: '00:05:18.211'
+      u: No. I simply smuggled myself through. And we were a group of thirty-one people.
+        We were even shot at when we crossed the border, on which occasion a six-months
+        old baby of a young woman was killed. I arrived—
+    - who: David Boder
+      start: '00:05:34.589'
+      end: '00:05:34.589'
+      u: What kind of a group was it? Tell me something about it.
+    - who: Jaques Matzner
+      start: '00:05:36.756'
+      end: '00:05:36.756'
+      u: These were all people who lived formerly in Germany. Polish Jews who, were
+        deported that time to Poland.
+    - who: David Boder
+      start: '00:05:43.836'
+      end: '00:05:43.836'
+      u: And in spite of that, they decided to return?
+    - who: Jaques Matzner
+      start: '00:05:46.153'
+      end: '00:05:46.153'
+      u: They decided to return in order to be able to salvage something of their
+        belongings they had left behind.
+    - who: David Boder
+      start: '00:05:50.245'
+      end: '00:05:50.245'
+      u: And then to return to Poland?
+    - who: Jaques Matzner
+      start: '00:05:51.720'
+      end: '00:05:51.720'
+      u: Yes, and then to return to Poland. Or, there was also the illegal emigration
+        to Belgium, Holland, France and Italy. At any rate, for me the deciding reason
+        was a wish to save my parents. I returned illegally to Wiesbaden and was a
+        witness to the burning of synagogues in Leipzig, in Dresden, in Aschaffenburg,
+        in Mainz, in Frankfurt, as well as in Wiesbaden.
+    - who: David Boder
+      start: '00:06:14.417'
+      end: '00:06:14.417'
+      u: When was that? Was that after that fellow was killed in France—that fellow
+        Raat?
+    - who: Jaques Matzner
+      start: '00:06:20.018'
+      end: '00:06:20.018'
+      u: Those were the dark "synagogue fires" in Germany, which were set off automatically
+        as a consequence of the shooting of Herr Von Raat in the Paris embassy. The
+        affair was represented by the then Minister of State Goebbels as a plot attributable
+        to the Jews, and he put into effect the well-prepared pogroms against the
+        Jewish synagogues and temples of Germany by instructing the members of the
+        Nazi party to set fire to the synagogues. The temple of Wiesbaden was counted
+        among the six most beautiful synagogues of Germany.
+    - who: David Boder
+      start: '00:07:01.063'
+      end: '00:07:01.063'
+      u: Is that this building?
+    - who: Jaques Matzner
+      start: '00:07:02.748'
+      end: '00:07:02.748'
+      u: No. That isn't this building, but a building in another location, of which
+        now absolutely nothing is left.
+    - who: David Boder
+      start: '00:07:08.495'
+      end: '00:07:08.495'
+      u: Was it destroyed by bombs?
+    - who: Jaques Matzner
+      start: '00:07:10.241'
+      end: '00:07:10.241'
+      u: No. That was destroyed by the Nazis then in power. Petrol and gasoline were
+        poured on it and set on fire.
+    - who: David Boder
+      start: '00:07:19.728'
+      end: '00:07:19.728'
+      u: And so?
+    - who: Jaques Matzner
+      start: '00:07:21.173'
+      end: '00:07:21.173'
+      u: This synagogue here was not set on fire only because such a fire would have
+        threatened the neighborhood. This synagogue was only plundered completely
+        and looted. The sacred scrolls were thrown on the streets, spread out and
+        trampeled on the pavement. My old father who came daily to the synagogue...
+    - who: David Boder
+      start: '00:07:48.242'
+      end: '00:07:48.242'
+      u: To this one?
+    - who: Jaques Matzner
+      start: '00:07:48.904'
+      end: '00:07:48.904'
+      u: "(To this synagogue,) came that morning as usual to attend the services—there
+        still remained Jews in Wiesbaden who attended the services in the synagogue
+        and worshipped their Lord. He was turned back. He recognized that there was
+        danger and returned."
+    - who: David Boder
+      start: '00:08:07.500'
+      end: '00:08:07.500'
+      u: Well?
+    - who: Jaques Matzner
+      start: '00:08:09.134'
+      end: '00:08:09.134'
+      u: My father himself still saved one of the holy scrolls, which I later, with
+        the help of my father, shipped away to Switzerland, where it still remains,
+        and with the help of the chaplain now stationed here, Chaplain William Darling,
+        we shall get this holy scroll back again to Wiesbaden. I hope that for the
+        coming dedication of this synagogue, which is to be reconstructed, we shall
+        also have this holy scroll here.
+    - who: David Boder
+      start: '00:08:36.459'
+      end: '00:08:36.459'
+      u: Well?
+    - who: Jaques Matzner
+      start: '00:08:38.334'
+      end: '00:08:38.334'
+      u: And so—
+    - who: David Boder
+      start: '00:08:39.366'
+      end: '00:08:39.366'
+      u: So what happened to you? You came back.
+    - who: Jaques Matzner
+      start: '00:08:42.164'
+      end: '00:08:42.164'
+      u: I came back, and in July 1939, we decided to leave the country and—that is,
+        illegally,—to Belgium. My father, my mother, and I. In the meantime my two
+        sisters and their two children returned from Poland, also illegally. So I
+        arranged for them too an illegal departure to Belgium. An outsider may not
+        be able to comprehend what kind of difficulties such an undertaking presents,
+        to leave the "German soil", as the Nazis called it, especially in secret.
+        First of all, there was the enormous cost of it. Second, we could not take
+        with us anything, because one actually had to crawl across the border. One
+        had to creep on all fours across the border. But at least one would save his
+        life. We arrived then about the ninth of July, 1939, in Antwerp. We were very
+        well received by the Jewish Relief Committee then functioning in Belgium.
+        We obtained an apartment, and we remained in peace in Antwerp until Easter,
+        1940.
+    - who: David Boder
+      start: '00:09:56.343'
+      end: '00:09:56.343'
+      u: Well?
+    - who: Jaques Matzner
+      start: '00:09:57.134'
+      end: '00:09:57.134'
+      u: On the tenth of May, 1940, Hitler executed his attack on Belgium. The first
+        bombardment started at night, and my late mother pleaded with me to flee to
+        France, so that I could at least prepare in France a further refuge for the
+        rest of the family.
+    - who: David Boder
+      start: '00:10:21.887'
+      end: '00:10:21.887'
+      u: And the part of the family that was in Holland?
+    - who: Jaques Matzner
+      start: '00:10:25.417'
+      end: '00:10:25.417'
+      u: Meanwhile we had all reunited in Antwerp.
+    - who: David Boder
+      start: '00:10:27.502'
+      end: '00:10:27.502'
+      u: In Belgium.
+    - who: Jaques Matzner
+      start: '00:10:28.134'
+      end: '00:10:28.134'
+      u: In Belgium. And so, on the fourteenth of May, I left for France. I bade good-bye
+        to my father, my still-living mother, to my two sisters, and to their two
+        children, and I did not know that that was a goodbye forever. On the twenty-sixty
+        of July I arrived in France. A few days later I was arrested by the local
+        secret police as a suspect.
+    - who: David Boder
+      start: '00:11:03.663'
+      end: '00:11:03.663'
+      u: But Hitler wasn't yet in France.
+    - who: Jaques Matzner
+      start: '00:11:05.207'
+      end: '00:11:05.207'
+      u: Hitler was not yet in France, but the prospect of an influx of refugees apparently
+        worried France, and so all the refugees that arrived were considered suspects.
+        And so I was placed in that infamous prisoners' camp, Le Verne in the department
+        of Ariege. I was forced to spend eleven months there along with nine thousand
+        Jewish refugees, among others with the International Brigade which fought
+        in the Spanish Civil War, and all in all I should say there were possibly
+        nineteen thousand prisoners, who had to live day and night, weeks and months,
+        under most heavy guard, behind five rows of barbed wire. My brother, who lived
+        in France, and had been in France since 1931, and who occupied a very high
+        post as a rabbi, as slaughterer, as dajin, and as teacher in the city of Strassburg,
+        was at that time evacuated to the south of France. My brother was able to
+        vouch for me; I gained permission to settle in a small village, where my brother
+        lived, where various other Jews of Strassburg were evacuated, and thus through
+        the efforts of my brother I was released from this horrible lager. That was
+        Purim [the feast of Esther, which is celebrated four weeks before Easter],
+        1941. I arrived at that little village.
+    - who: David Boder
+      start: '00:12:36.900'
+      end: '00:12:36.900'
+      u: Oh, that was before the Americans entered the war?
+    - who: Jaques Matzner
+      start: '00:12:39.617'
+      end: '00:12:39.617'
+      u: The Americans had not yet joined the war. Also the zone in which I lived
+        was then not yet occupied by the Germans. It was the so-called "non-occupied
+        zone".
+    - who: David Boder
+      start: '00:12:52.737'
+      end: '00:12:52.737'
+      u: Non-occupied France.
+    - who: Jaques Matzner
+      start: '00:12:53.950'
+      end: '00:12:53.950'
+      u: Yes. I arrived on Purim, in 1941, in Besancon. I was very well received,
+        and I spent a short time in Besancon and I received...
+    - who: David Boder
+      start: '00:13:04.160'
+      end: '00:13:04.160'
+      u: What about your parents? Did they remain behind?
+    - who: Jaques Matzner
+      start: '00:13:07.479'
+      end: '00:13:07.479'
+      u: My parents were during that time still in Belgium, still in Antwerp. I had
+        corresponded with them, and on Rosh Hashona [New Year's], oh, no, I am mistaken,
+        it was on Sukkoth [Feast of the Tabernacles] 1941, I received word through
+        relatives who were living in Switzerland that my mother (may she rest in peace)
+        had passed away in Antwerp on the eve of Rosh Hashona. I thought -
+    - who: David Boder
+      start: '00:13:34.247'
+      end: '00:13:34.247'
+      u: So you have a "in memoriam" today?
+    - who: Jaques Matzner
+      start: '00:13:36.564'
+      end: '00:13:36.564'
+      u: I had the "in memoriam" yesterday. On the eve of Rosh Hashona. I thought
+        then that I should not survive it, because my mother [and here he sobs bitterly]
+        who was the dearest to me, had passed on without me. ["Passed on" is a conjectural
+        translation; the word is not really comprehensible. His voice now gains new
+        strength.] But today, after I have fifty-five months of concentration camps
+        behind me, and after learning that my father and my two sisters and their
+        two children were sent to Auschwitz, and probably shared the fate of millions,
+        now I am consoled to know that my mother passed away in Antwerp, in her own
+        bed, surrounded by her children and grandchildren. I myself was deported on
+        the twenty-sixth of August of the same year to Paris, Drancy.
+    - who: David Boder
+      start: '00:14:49.404'
+      end: '00:14:49.404'
+      u: Where from?
+    - who: Jaques Matzner
+      start: '00:14:50.075'
+      end: '00:14:50.075'
+      u: From Besancon in southern France, by order of...
+    - who: David Boder
+      start: '00:14:51.971'
+      end: '00:14:51.971'
+      u: Why?
+    - who: Jaques Matzner
+      start: '00:14:53.725'
+      end: '00:14:53.725'
+      u: By order of the German Gestapo. I was arrested one night by the French mobile
+        guard.
+    - who: David Boder
+      start: '00:15:00.766'
+      end: '00:15:00.766'
+      u: You mean that in spite of the fact that the town was not in the occupied
+        zone, the Germans exercised pressure to have the Jews arrested there?
+    - who: Jaques Matzner
+      start: '00:15:08.379'
+      end: '00:15:08.379'
+      u: Yes, indeed. The Germans had their fingers stretched as far as the Spanish
+        border, and at that time with that particular transport sixty-three thousand
+        Jews, who had fled from Germany, from Austria, from Hungary, from Holland,
+        from Belgium and from everywhere, as well as from the occupied zone of France,
+        into the non-occupied zone—at that time a transport of Jews in the number
+        of sixty-three thousand people were deported in cattle cars to Paris-Drancy.
+        In Paris-Drancy we were immediately taken over by the German Gestapo and there
+        for the first time we underwent a selection, which we later recognized as
+        the "selections" like in Kobel, in Gogolin, and in Auschwitz, and in Grossrosen
+        and in Bergen-Belsen. I, too, was included in the first "selection", and eighty-one
+        of us were crowded into a cattle car, men, women, and children, together,
+        all...
+    - who: David Boder
+      start: '00:16:15.976'
+      end: '00:16:15.976'
+      u: How do you know that the number was eighty-one?
+    - who: Jaques Matzner
+      start: '00:16:19.497'
+      end: '00:16:19.497'
+      u: We knew the number because actually many more were supposed to get in this
+        car, and in this particular car many more people were supposed to get in.
+    - who: David Boder
+      start: '00:16:29.466'
+      end: '00:16:29.466'
+      u: But?
+    - who: Jaques Matzner
+      start: '00:16:30.107'
+      end: '00:16:30.107'
+      u: But we, in our car, had created in a few minutes, a little organization,
+        and what you might call a car leader took charge, so that there would be order
+        in the car, and he counted up eighty-one people. This man became later one
+        of my friends in the concentration camp, Ludwig Lash from Hamburg. He too
+        had lost his wife and his two children. This is how I knew there were eighty-one
+        persons in the car. When we got in motion—and I must say in passsing that
+        the car was plumbed [sealed with a lead seal], locked, and sealed. [What the
+        D.P.'s called cattle cars were in fact freight cars, closed box cars, also
+        used for the transport of cattle.]
+    - who: David Boder
+      start: '00:17:08.896'
+      end: '00:17:08.896'
+      u: But how did it happen that the Gestapo paid attention to this car leader,
+        so that they did not put any more people into the car?
+    - who: Jaques Matzner
+      start: '00:17:18.044'
+      end: '00:17:18.044'
+      u: We were yelling, we were making noise.. We yelled, "There are eighty-one
+        of us. There is no room for anymore. There is no room for anymore." With wooden
+        beams, with guns, with clubs they tried to crowd in more and more, but there
+        was indeed no more room. We had eighty-one in our car. In other cars, where
+        they were luckier, they had possibly only seventy-five. There may have been
+        cars with as many as eighty-five. At any rate the average load for each wagon
+        was about eighty people.
+    - who: David Boder
+      start: '00:17:44.647'
+      end: '00:17:44.647'
+      u: Were these the French forty-and-eight cars?
+    - who: Jaques Matzner
+      start: '00:17:48.417'
+      end: '00:17:48.417'
+      u: They were French cattle cars.
+    - who: David Boder
+      start: '00:17:50.674'
+      end: '00:17:50.674'
+      u: Yes. Forty-and-eight.
+    - who: Jaques Matzner
+      start: '00:17:52.299'
+      end: '00:17:52.299'
+      u: I don't know
+    - who: David Boder
+      start: '00:17:53.361'
+      end: '00:17:53.361'
+      u: Those "forty men and eight horses."
+    - who: Jaques Matzner
+      start: '00:17:57.092'
+      end: '00:17:57.092'
+      u: Oh, yes, yes. That is correct. Forty person or eight—quarante hommes ou huit
+        chevaux.
+    - who: David Boder
+      start: '00:18:01.726'
+      end: '00:18:01.726'
+      u: Yes.
+    - who: Jaques Matzner
+      start: '00:18:02.659'
+      end: '00:18:02.659'
+      u: That was the inscription. We traveled about five days and five nights without
+        interruption. That is, the train stopped several times, but we never knew
+        where we were. We got no nourishment. We received not a single drop of water.
+        There wasn't a single hygienic convenience in our car, nothing for a man to
+        satisfy his needs. We managed as we could, during this trip to Kosel. In Kosel
+        the train stopped. During this time we had nine deaths, three women, four
+        men, and two children. In Kosel the train stopped. We had to disembark-not
+        all of us, only the men between sixteen and forty-five. All men older than
+        that, and in general all the women, had to remain in the cars.
+    - who: David Boder
+      start: '00:19:04.603'
+      end: '00:19:04.603'
+      u: Were you married?
+    - who: Jaques Matzner
+      start: '00:19:05.996'
+      end: '00:19:05.996'
+      u: 'No, I was not married. And I was among those who jumped out. To say jumped
+        out is an exaggeration, because we could hardly move by then. I remember clearly
+        that while I was getting out of the car an SS man came running by and said
+        the following words: "We will give your testicles the works." Soon we were
+        lined up in groups, and immediately we had to get down on our knees. There
+        was a total of about nine hundred persons lined up in the form of a little
+        square. There were about twelve or fifteen such blocks of people, and in mine
+        there were about nine hundred men. We had immediately to get into the position
+        of "bended knees."'
+    - who: David Boder
+      start: '00:19:55.023'
+      end: '00:19:55.023'
+      u: What is that?
+    - who: Jaques Matzner
+      start: '00:19:55.986'
+      end: '00:19:55.986'
+      u: That meant that we had to get down on our knees, that is not standing and
+        not sitting, but in a position with our knees bent. That is, the knees are
+        bent in a manner that the buttocks almost touching our heels, but we could
+        not...
+    - who: David Boder
+      start: '00:20:10.747'
+      end: '00:20:10.747'
+      u: And you had to remain that way?
+    - who: Jaques Matzner
+      start: '00:20:11.478'
+      end: '00:20:11.478'
+      u: Yes, we had to remain that way. That's how we had to remain.
+    - who: David Boder
+      start: '00:20:14.547'
+      end: '00:20:14.547'
+      u: Not moving up and down. Not like in calisthenics?
+    - who: Jaques Matzner
+      start: '00:20:15.390'
+      end: '00:20:15.390'
+      u: No, not like in calisthenics.
+    - who: David Boder
+      start: '00:20:16.693'
+      end: '00:20:16.693'
+      u: And what was that for?
+    - who: Jaques Matzner
+      start: '00:20:19.260'
+      end: '00:20:19.260'
+      u: That was expressly for the purpose of torturing us. Some people tried to
+        put underneath some little piece of baggage that they had salvaged, so that
+        they could sit on it, but immediately these pieces of baggage were pushed
+        out from underneath them, they were thrown to the ground and had to get back
+        in the bended knee posture. (It would be erroneous to attribute the procedure
+        of keeping multitudes of prisoners in bended knee position only to Nazi perfectionism
+        in torture. There is evidence that the SS guards were themselves greatly frightened
+        while handling such crowds of hostile humanity. Keeping the prisoners in an
+        awkward position near the ground was of course an assurance of their helplessness,
+        and consequent safety for the guards. The added wanton cruelty was an effective
+        stop gap against being overcome all at once by pity and compassion for the
+        victims.) And so we were sitting there for about forty minutes. In forty minutes
+        there arrived an automobile, and an SS man alighted, all decorated with plenty
+        of gold around his neck and on his chest, and we inferred from that that he
+        must have been a higher sort of animal. I myself had been in Germany [during
+        the Nazis] for about five years and was able to recognize the special insignia.
+        And so I recognized the SS ober-sturm-fuehrer or an ober-sturm division fuehrer.
+        A man whose name I learned years later. He put on his gloves...
+    - who: David Boder
+      start: '00:21:11.900'
+      end: '00:21:11.900'
+      u: What was his name?
+    - who: Jaques Matzner
+      start: '00:21:12.752'
+      end: '00:21:12.752'
+      u: His name was Liepner.
+    - who: David Boder
+      start: '00:21:14.536'
+      end: '00:21:14.536'
+      u: Well, did anything happen to him subsequently?
+    - who: Jaques Matzner
+      start: '00:21:17.636'
+      end: '00:21:17.636'
+      u: I hope he was killed, and I believe he was.
+    - who: David Boder
+      start: '00:21:22.249'
+      end: '00:21:22.249'
+      u: Well, killed by whom?
+    - who: Jaques Matzner
+      start: '00:21:23.612'
+      end: '00:21:23.612'
+      u: By the prisoners who were later liberated by the Allies. This Liepner put
+        on his gloves and made some remark to his side, which we of course couldn't
+        hear, but we saw him make a gesture like throwing away something, kind of
+        abruptly.
+    - who: David Boder
+      start: '00:21:42.870'
+      end: '00:21:42.870'
+      u: Yes?
+    - who: Jaques Matzner
+      start: '00:21:44.263'
+      end: '00:21:44.263'
+      u: 'And we were ordered to get up, were loaded into trucks, and were driven
+        to a lager. This was in Gogolin. There we were registered in the books, and
+        the next day we were distributed into barracks. During the night we had to
+        sleep in the yard. The barracks had a capacity for about thirty-five to forty
+        people in military cots, which were stacked up in threes, one over another.
+        But into each room they shoved eighty to ninety people. Each group had to
+        pick a room trusty, and these room trusties were subordinated to the lager
+        trusty. This was a system entirely unfamiliar to us at that time. Our attention
+        as then called by the lager trusty to the following [this was also a Jew,
+        a prisoner who had already spent some time in that lager]. He told us, on
+        that morning at the appell, the following: "You have no business of any kind
+        with the Germans and with the German supervisory personnel. Your supervisory
+        personnel is the room trusty, the block trusty, and the lager trusty."'
+    - who: David Boder
+      start: '00:23:11.463'
+      end: '00:23:11.463'
+      u: All these were Jews?
+    - who: Jaques Matzner
+      start: '00:23:12.465'
+      end: '00:23:12.465'
+      u: All these were Jews. "If you have some trouble, report to your room trusty.
+        Don't report too often, and don't become conspicuous. Do not talk much, and
+        do what you are told to do. Don't talk much to each other, and don't try to
+        do anything which is against the order of things in the lager. Here one doesn't
+        talk much. Here one doesn't say much. Something may happen to anybody that
+        he does not wish to happen to him." The next morning we were led for the first
+        time to work. This was work on the autobahn of the Reich. For five prisoners
+        (at that time I did not yet consider myself a prisoner)...
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Yes?
+    - who: Jaques Matzner
+      start: '00:24:02.538'
+      end: '00:24:02.538'
+      u: For every five people there were two guards. These two guards were armed,
+        with rifles, with a revolver, with a sword, dagger, and with a watch dog for
+        each one of them. These watch dogs are really the most terrible thing that
+        I can imagine. These watch dogs were trained on human beings, on particular
+        people not in uniforms. And it almost appeared to me—of course it seems ridiculous
+        to say it—that these watch dogs, but indeed it appears to me, that these watch
+        dogs were trained against anything that was Jewish.
+    - who: David Boder
+      start: '00:24:50.384'
+      end: '00:24:50.384'
+      u: For God's sake! How many watch dogs did they have? Did you say two watch
+        dogs for every five people?
+    - who: Jaques Matzner
+      start: '00:24:59.906'
+      end: '00:24:59.906'
+      u: There was a dog for each guard.
+    - who: David Boder
+      start: '00:25:04.218'
+      end: '00:25:04.218'
+      u: And how many people were taken care of by one guard?
+    - who: Jaques Matzner
+      start: '00:25:07.717'
+      end: '00:25:07.717'
+      u: Five people had two guards. It was that way. Five people, two guards, two
+        dogs.
+    - who: David Boder
+      start: '00:25:14.879'
+      end: '00:25:14.879'
+      u: What were they? German shepherd dogs?
+    - who: Jaques Matzner
+      start: '00:25:17.295'
+      end: '00:25:17.295'
+      u: They were German shepherd dogs mostly. But they also had bulldogs among them.
+        As a matter of fact, I can remember to have seen only German shepherd dogs.
+    - who: David Boder
+      start: '00:25:25.991'
+      end: '00:25:25.991'
+      u: And they really had to many dogs? Would it not be a problem to feed so many
+        dogs?
+    - who: Jaques Matzner
+      start: '00:25:31.949'
+      end: '00:25:31.949'
+      u: In the lager which I passed later, that was the lager Grossrosen, that is
+        near Striegau, a lager with a capacity of ninety thousand prisoners...
+    - who: David Boder
+      start: '00:25:45.582'
+      end: '00:25:45.582'
+      u: Yes?
+    - who: Jaques Matzner
+      start: '00:25:46.395'
+      end: '00:25:46.395'
+      u: They had a special guard contingent which was exclusively in charge of the
+        dogs. There was an SS superior troop leader and a SS troup leader, and then
+        a certain number of SS men whose only duty it was to provide for the dogs,
+        their care, their training, their lodging, and their wonderful nourishment.
+        Where they managed to get that food, I don't know. At any rate, we were definitely
+        sure that the dogs were trained so that anyone who attempted to escape would
+        be found immediately within a distance of a hundred or two hundred meters.
+        And prisoners who would escape at night, if such a thing were possible at
+        all, or from the various construction jobs, would have been followed by the
+        dogs with their supervisors until they were found. During the fifty-five months
+        of my imprisonment I never heard of a single case where a prisoner succeeded
+        in escaping. He might have been away one day, he might have been away even
+        three or four days and nights, but he would always come back, dead or alive.
+    - who: David Boder
+      start: '00:27:00.624'
+      end: '00:27:00.624'
+      u: Now let's return to your work, at the autobahn...
+    - who: Jaques Matzner
+      start: '00:27:04.545'
+      end: '00:27:04.545'
+      u: Yes. The work at the autobahn was really all right for us. It appeared to
+        us very easy. Why? Because we did not know yet the pace which was to be set
+        only a little later. They thrusted shovels into our hands, and we were ordered
+        to shovel. The futility of this work appeared to us obvious, because some
+        of us were throwing the gravel from left to right while others were throwing
+        it from right to left. The whole thing appeared...
+    - who: David Boder
+      start: '00:27:25.918'
+      end: '00:27:25.918'
+      u: Then you were not on the autobahn?
+    - who: Jaques Matzner
+      start: '00:27:28.626'
+      end: '00:27:28.626'
+      u: That was when the autobahn was under construction. It was not yet a complete
+        autobahn. It was just the preliminary highway.
+    - who: David Boder
+      start: '00:27:33.448'
+      end: '00:27:33.448'
+      u: Now why did they make you do useless work?
+    - who: Jaques Matzner
+      start: '00:27:36.818'
+      end: '00:27:36.818'
+      u: The gravel had to be shoveled. There was dry gravel, there was wet gravel.
+        There were small stones, and there were big stones. Each one had his assignment,
+        and it appeared to us completely purposeless.
+    - who: David Boder
+      start: '00:27:46.507'
+      end: '00:27:46.507'
+      u: It appeared so to you; it was not really "useless" work.
+    - who: Jaques Matzner
+      start: '00:27:49.216'
+      end: '00:27:49.216'
+      u: Possibly it was not so useless.
+    - who: David Boder
+      start: '00:27:50.308'
+      end: '00:27:50.308'
+      u: Yes.
+    - who: Jaques Matzner
+      start: '00:27:51.271'
+      end: '00:27:51.271'
+      u: In about fourteen days we were transferred from Gogolin to the lager Fürstengrube,
+        near Katowice. There the task was to dry up a flooded mine, and at Fürstengrube
+        begins the saddest chapter of my experience. It was in November, 1941, when
+        we arrived there, and right from the start we had the feeling that here the
+        end has to come to everything. The guard was very strict; it consisted of
+        SA men. The lager Fuehrer, who was in charge of things, was a certain Mareck,
+        and he had an assistant who was at that time a police sergeant, Lapke, whom
+        we gave the name of Messiah, because every morning at four o'clock at appell—the
+        appell started at about three o'clock in the morning and lasted until five,
+        and we had to stand outside in the yard at attention, and during these one
+        or two hours, this sergeant Lapke was in the habit of making speeches in a
+        horrible tone of voice. One had the impression that that man...
+    - who: David Boder
+      start: '00:29:04.854'
+      end: '00:29:04.854'
+      u: Did he have an address system?
+    - who: Jaques Matzner
+      start: '00:29:06.638'
+      end: '00:29:06.638'
+      u: No. He walked from group to group. He yelled all over the yard, so that it
+        was clearly audible, and one always had the impression that he was drunk.
+        "What do you mean, you have come here for a rest? Soon you will see your Messiah.
+        That's all you want to see, your Messiah? You will all land back in Jerusalem,
+        but not back there in the Jerusalem that you hope to see. You will all remain
+        here. Here is your Jerusalem. And soon you will all see your Messiah." And
+        that was the reason why we gave him the nickname, Messiah. He was one of the
+        most feared men that ever lived. And sure enough, on the second day of our
+        arrival, this Lapke shot a prisoner, a certain Mr. Lagro, a perfume manufacturer
+        from Berlin who fled to Belgium and was deported from Belgium afterwards,
+        and was also in our group. This Lapke shot him, right on the second day.
+    - who: David Boder
+      start: '00:29:59.949'
+      end: '00:29:59.949'
+      u: He, in person?
+    - who: Jaques Matzner
+      start: '00:30:01.011'
+      end: '00:30:01.011'
+      u: He shot him in person. He took out to the place of work, he gave him the
+        order—we all saw exactly how it happened—he ordered him to bring something
+        from the woods, Lagro went into the forest about thirty meters deep, and then
+        there was a shot, and that was the end.
+    - who: David Boder
+      start: '00:30:15.334'
+      end: '00:30:15.334'
+      u: Did Lapke go with him?
+    - who: Jaques Matzner
+      start: '00:30:17.862'
+      end: '00:30:17.862'
+      u: Lapke went with him and shot him in the back, and afterwards, that evening
+        it was said that Lagro, that prisoner Lagro, was shot in an attempt to escape.
+        We saw then which way the wind was blowing. Then we had a lager trusty, a
+        Jew. His name was Cohen, a very fine fellow. He himself was in despair over
+        the situation of the people for whom he had taken the responsibility. And
+        so the winter came. Every day we had dead. People frozen, killed, or dead
+        from starvation. We worked then in the...plant. There was a chief engineer,
+        Reichman, who put on the appearance of being a decent person. He was the general
+        work manager, and was always ready to help and so on and so on. But in the
+        meantime this man tortured the prisoners to death by means of work assignments.
+        At night and in fog, day and night, we had to work outdoors. We had nothing
+        to wear. Our overcoats were taken away from us and were deposited in the storeroom
+        of the lager, and we were not permitted to wear them.
+    - who: David Boder
+      start: '00:31:25.472'
+      end: '00:31:25.472'
+      u: Why?
+    - who: Jaques Matzner
+      start: '00:31:26.715'
+      end: '00:31:26.715'
+      u: Because we had to keep in action. They said that when a Jew is warm, he does
+        not work, therefore they should not have any overcoats. They should generate
+        warmth through motion and through work. And at work it was always demanded
+        - motion, motion, motion. Always in motion, davay, davay, davay [Russian and
+        Polish for give, give, give]. On with the work, on with the work. Then there
+        was a foreman from...His name was Bielka. This man daily killed people with
+        his own hand. He killed them with shovels. Not those long shovels, but the
+        short spades. He beat people with them daily, who most frequently died afterwards
+        from such injuries. This Bielka also got after me, and only through a fortunate
+        accident I was transferred to another work division and got out from under
+        Bielka's eyes. Otherwise he finally would have killed me, too.
+    - who: David Boder
+      start: '00:32:35.076'
+      end: '00:32:35.076'
+      u: Were you personally mistreated?
+    - who: Jaques Matzner
+      start: '00:32:37.492'
+      end: '00:32:37.492'
+      u: '[hesitantly] In this lager,.. Since I have shown myself very willing and
+        have presented myself for any kind of work, I was never beaten inside the
+        lager. But of course, you must remember that we had a Jewish lager trusty
+        and as Jews we still had a certain amount of solidarity. Inside the lager
+        we were rarely beaten. Only in cases where disciplinary punishment was administered
+        for disobedience, which may have happened to all of us. It was only at work
+        that we were beaten regularly and that was by the SA and by the foreman. The
+        foremen were mostly Polish and non-Jews. I remember well how we got an order
+        to dig holes for telegraph poles. To this job they assigned a Dutch Jew by
+        the name of Hammerschlag, and three other Jews from Poland, and myself. And
+        so there were five of us. Now, to dig in December or January in clay soil
+        that was frozen harder than granite, in the beastly cold of thirty to forty
+        degrees [centigrade] frozen harder than granite—and here we had to dig a hole.
+        And we had to do it, there was not way out. And I must say we worked half
+        naked to get it done. The sweat poured from us in torrents, and we had to
+        do it, and we had to do the job. So we got it done, but at what sacrifice!
+        Of the five people who worked at that hole, two Polish Jews froze to death,
+        and also this Hammerschlag, that Dutch Jew. I myself had signs of frozen legs,
+        and I myself was one of those who carried the dead from the place of work
+        into the lager. I shall never forget the impression that is made by the face
+        of a man frozen to death. I got the impression that these people were laughing.
+        One notices on the faces a kind of transition, as if at the beginning of the
+        agony the people distort their faces, and for the onlooker it creates the
+        impression that he is laughing. This dead man—and that already is the dead
+        from freezing - and this expression remains on the face as if they were laughing;
+        and those dead had to be buried immediately, because in this lager we had
+        no crematory, and so there was a special detail. Their duty was to dig graves
+        in the near forest. And it wasn''t worth the trouble for the SA to assign
+        a detail for each dead man; so the dead were kept in the lager until they
+        has accumulated ten, twelve or fifteen dead. And that never took long; it
+        always happened within five or six days. And then the ten of fifteen dead
+        would be carried out, naked as they were, dirty, and filthy, in a terrible
+        state. They were simply thrown into the pit, etc., etc. At the beginning we
+        were still permitted to say Kadesh.[This is a prayer for the dead]. And we
+        would throw in there the dead. Later appeared, an old Schlomask. Schlomasks
+        is what we called the foremen and guards. And so this old Scholomask prohibited
+        it. "What are you mumbling there? Nonsense. Stop that nonsense. Do your work
+        and go." We were in this lager until the end of summer 1942, and during the
+        summer of 1942 this lager was evacuated. It was to be used for Russian war
+        prisoners. And we came to the lager Gleiwitz. Gleiwitz lies near Gliwice.
+        Gleiwitz was an old mill which never was fit for people to live in. It was
+        a mill full of rats, mice; the floors full of holes; high ceilings, such as
+        mills have. We were established there. We were lying over each other in five
+        tiers.'
+    - who: David Boder
+      start: '00:36:58.405'
+      end: '00:36:58.405'
+      u: What does that mean—in five tiers?
+    - who: Jaques Matzner
+      start: '00:36:59.407'
+      end: '00:36:59.407'
+      u: In stacked up bunks, as stacked up trays are constructed.
+    - who: David Boder
+      start: '00:37:02.446'
+      end: '00:37:02.446'
+      u: Were you near to each other?
+    - who: Jaques Matzner
+      start: '00:37:04.432'
+      end: '00:37:04.432'
+      u: This is really impossible to describe. We were lying next to each other like
+        sardines in a can.
+    - who: David Boder
+      start: '00:37:08.825'
+      end: '00:37:08.825'
+      u: So then they were sleeping scaffolds, so to speak.
+    - who: Jaques Matzner
+      start: '00:37:10.540'
+      end: '00:37:10.540'
+      u: Yes, they were scaffolds. The first one about eighty centimeters high, the
+        second one at about one meter fifty, the third one at about two meters fifty,
+        the fourth one three meters fifty, and the fifth one at about...
+    - who: David Boder
+      start: '00:37:23.127'
+      end: '00:37:23.127'
+      u: But how was it arranged? Were they separated?
+    - who: Jaques Matzner
+      start: '00:37:27.288'
+      end: '00:37:27.288'
+      u: No, these were just wooden scaffolds. Made out of board.
+    - who: David Boder
+      start: '00:37:29.997'
+      end: '00:37:29.997'
+      u: Pritschen? ( In the peasant homes, old prisons and laborers' barracks of
+        Eastern Europe the sleeping facilities consisted of wooden scaffolds or shelves
+        on which numerous people slept all together. The German name for them is Pritschen,
+        the Russian Polati.) [Plank-beds]
+    - who: Jaques Matzner
+      start: '00:37:30.939'
+      end: '00:37:30.939'
+      u: Pritschen. Yes. They were covered with straw, and we lay next to each other,
+        about five men within a distance between posts, all on scaffolds.
+    - who: David Boder
+      start: '00:37:49.580'
+      end: '00:37:49.580'
+      u: What posts?
+    - who: Jaques Matzner
+      start: '00:37:50.784'
+      end: '00:37:50.784'
+      u: Posts that supported the building. And five tiers one over the other full
+        of lice, full of fleas, full of bedbugs, Horrible conditions. It is unbelievable
+        that people can survive such a thing. At three o'clock in the morning we had
+        to get up. At four was the appell. That lasted until five. At five we marched
+        out, and we had to march an hour and a half to the station. There we were
+        put in box cars, which would take us to the place of work. We worked in the
+        famous textile plant, Christian Berig in Oberlangen, Bilow. We also worked
+        in Reichenach, in various textile mills. And so the night followed the day—when
+        we returned it was nine o'clock in the evening. Then we had to struggle to
+        get our food, because the people there were frozen stiff and starved, and
+        the people had to stand in line until they got a bit of soup. Water soup with
+        turnips. And when they had gulped down their soup, they had to get back into
+        the halls to bed. There they handed out that little piece of bread. For eight,
+        nine or twelve people a two-pound loaf. And when everything had been passed
+        around, it was already eleven or twelve o'clock at night. And at three o'clock
+        we were waked again. Every day we had dead. It was an intolerable situation.
+        And only because I was on very friendly terms with the lager trusty, a certain
+        Zehngut from Sosnovitz, he assigned me to a labor transport which was sent
+        to Hirschberg in upper Silesia. We arrived in Hirschberg, thirty-three people,
+        in November, 1943. We arrived in Hirschberg; there I worked in the Frik industries.
+    - who: David Boder
+      start: '00:39:37.378'
+      end: '00:39:37.378'
+      u: What kind of industries were they?
+    - who: Jaques Matzner
+      start: '00:39:38.440'
+      end: '00:39:38.440'
+      u: The Frik industries were making wool out of wood.
+    - who: David Boder
+      start: '00:39:43.405'
+      end: '00:39:43.405'
+      u: Was that really possible?
+    - who: Jaques Matzner
+      start: '00:39:45.722'
+      end: '00:39:45.722'
+      u: That was possible. Of course, I don't want to pass judgment as to the quality
+        of such wool, but they really made wool out of wood.
+    - who: David Boder
+      start: '00:39:54.629'
+      end: '00:39:54.629'
+      u: And they were able to weave cloth out of it?
+    - who: Jaques Matzner
+      start: '00:39:56.443'
+      end: '00:39:56.443'
+      u: 'They made afterwards cloth out of it, uniforms, general goods, wool that
+        was used to manufacture clothing. From Hirschberg I went to—In Hirschberg
+        I was awakened one night and was called to the office. And before me stood
+        the commander of the lager, the SS superior commander, Weigel. Then he asked
+        me: "You are German?" And I said: "Yes, Herr Superior Commander." So he asked
+        me: "Can you write?" And I said: "Yes, Herr Superior Commander." "Can you
+        type?" "Indeed, Superior Commander." "Well, sit down. We shall give you a
+        trial." And he placed before me a typewriter and I had to write something
+        that he dictated.'
+    - who: David Boder
+      start: '00:40:46.292'
+      end: '00:40:46.292'
+      u: Could you type?
+    - who: Jaques Matzner
+      start: '00:40:47.165'
+      end: '00:40:47.165'
+      u: Yes, I could type. And so he said to the lager trusty, and to all the others
+        present, the ones who were present that night—it was a puzzle to me what was
+        going on—so he said, "I think he's good. I believe we should take him." He
+        had some kind of Bavarian dialect. He was a Sudeten German. And so he said,
+        "I believe we should take him."
+    - who: David Boder
+      start: '00:41:06.823'
+      end: '00:41:06.823'
+      u: "[In English] This is Spool 164. This is Spool 164. This is Spool 164 of
+        Jack Matzner and Anna Kaletski. There is quite some defective wire...empty
+        wire...but this is Spool 164"
+    - who: David Boder
+      start: '00:42:05.396'
+      end: '00:42:05.396'
+      u: This is the...This is the...This is the Maztner and Anna Kaletska original
+        spool, number 164. I've simply attached about a minute of wire at the beginning
+        and at the end so that the actual original text be well-protected. Run about
+        a minute and the text begins.
+    - who: David Boder
+      start: '00:42:39.027'
+      end: '00:42:39.027'
+      u: Wiesbaden, September the 26th...spools that we are taking in Germany. I am
+        here in the eh...rehabilitative synagogue, not the main synagogue of München,
+        but that was the eh...second shul, so to say. And Mr. Jack Matzner is continuing
+        his story from Spool 163. Hm, we are rather under pressure but I don't want
+        him to hurry, I want him to be as specific and detailed.
+    - who: David Boder
+      start: '00:43:09.464'
+      end: '00:43:09.464'
+      u: "[In German] Please give me all the details, the way they were."
+    - who: Jaques Matzner
+      start: '00:43:26.736'
+      end: '00:43:26.736'
+      u: 'I was found suitable to be assigned as clerk. The lager foreman told me
+        afterwards, "That is a great opportunity for you. This may be your lucky moment."
+        The same night I was dressed up. That is, I was given clean clothes. Up to
+        then we were wearing sheer rags, and early in the morning at about four o''clock
+        I had to depart, accompanied by the same Obershaar-fuehrer Weigel. We traveled
+        then as far as the station Striegau in upper Silesia, and from there we marched
+        on foot. On the way that Obershaar-fuehrer told me in his Sudetenland German
+        dialect, "Don''t you dare to disgrave me. Stand at attention, don''t ask any
+        questions, and keep your mouth shut." All at once I noticed a sign "Gross-Rosen",
+        and a chill went through my body.[He uses the expression: "I got pale inside
+        of me"] I was checked in, and here are the subsequent events.I was put in
+        prisoner''s uniform, the blue-white uniform. I was given the number 20-201.
+        Meanwhile there were delivered from other lagers twenty-four Jews and a few
+        days later we were assigned to lager Wüstegiersdorf, also in Upper Silesia.
+        In Wüstegiersdorf we were taken over by Obersturm-fuehrer Lichtemeier. This
+        man made a speech, telling us that we were now to erect the camps, to build
+        them, and that any instance of misbehavior would be punished by death without
+        delay. We were ordered to select from our midst a lager deputy, who was to
+        be responsible for the whole lager, and we were sent to lager Wolfsberg. Wolfsberg
+        was really an empty stretch of hills and valleys—bare grounds and we were
+        to build a lager. We were given the material, and within the next day or two
+        arrived the first eight thousand Greek and Hungarian Jews. And they arrived
+        from Auschwitz. These Jews were immediately checked in. They all had tattoes
+        and were assigned to build the lager with the material at our disposal, and
+        shortly the lager was ready. It did not consist of "blocks" but of some type
+        of round eskimo tents. We called them Finnish tents.'
+    - who: Jaques Matzner
+      start: '00:46:34.168'
+      end: '00:46:34.168'
+      u: Within a short time we had a population of about twenty-one thousand persons,
+        all Jews. Rabbis, shochets ( Slaugters of cattle and fowl according to hebrew
+        ritual. ), scholars, chazidim, ( An ultra orthodox Jewish religious sect.
+        ) artisans, judges, lawyers, workingmen—Poles, Hungarians, Rumanians, Germans,
+        French, Greek—a wholly international conglomeration of humanity. But in spite
+        of that, we the leaders had decided to hold together, and to help and save
+        everyone. We established a hospital under the direction of the Hungarian physicians
+        Dr. Friek and Dr. Deutsch, and we put there all the rabbis, all scholars,
+        all chasids, even if they were not sick, simply to protect these people who
+        had never worked/physically/ from the heavy labor in the tunnel. You see,
+        a tunnel of twenty-five to thirty kilometers was being constructed, and we
+        were the ones to construct it. Every day we had deaths. Construction accidents,
+        cave-ins, the excavating machines killed people daily; the foremen were clubbing
+        people; they knew it was a question of life or death. And only because we
+        had a good organization were we able to see to it that inside of the lager
+        itself nothing should happen contrary to our intentions. There we remained
+        until January, 1945. In January 1945, the lager was abandoned. We knew already
+        why. Our exploratory senses and our eyes were directed toward the outside
+        world. We knew the Russians were on the march. Ever night we saw how Breslau
+        was bombed. We saw the allied fortresses flying over our lagers, who knew
+        for certain that the people there below, in the blue and white uniforms, were
+        their own and that no bombs should be dropped on them.
+    - who: Jaques Matzner
+      start: '00:49:13.896'
+      end: '00:49:13.896'
+      u: In January, 1945, the lager was abandoned. We were transported to Schimberg.
+        These were all just small villages, stations that received us until we came
+        to the lager Bergen-Belsen. En route we had, not dozens, but hundreds of deaths.
+        People who were old and sick and weak and unable to stand the march would
+        fall on the road. We had to drag them with us and bury them at night. We had
+        orders from the SS to break out the gold teeth before burial. So we marched
+        on and on. Piles of corpses and mountains of corpses rose, which were just
+        buried anywhere or scarcely covered with sand. And then one night we arrived
+        at Bergen-Belsen. Bergen-Belsen—at first we did not see this lager in its
+        true light. But the next day we understood; we saw the treatment accorded
+        us. Undress, give up everything, lie down, stand up, appells lasting for hours.
+        By appells lasting for hours is to understand appells lasting fifteen to twenty
+        hours, in mud, in snow, in ice, in water, Nightly we had people in the barracks
+        who had gone to bed in the evening and were dead by the morning after. In
+        darkness we were unable to see what was going on in these pestilent and over-crowded
+        blocks. One was killing the other. The population of the lager must have reached
+        the hundred thousand mark. Gentiles and Jews, Catholics, Protestants, Engligh,
+        parachutists, French volunteers who were fighting on the side of the allies,
+        Jews, Maquis—all of them were here, and every one knew it was merely a matter
+        of minutes. In Bergen-Belsen I saw for the first time how people were burned
+        on open pyres. Apparently the gas or gas piping stopped to function; so they
+        piled the people in mounds and poured gas over them and burned them on open
+        pyres. ( I apparently was in such a trance that I did not interrupt him to
+        ascertain that those "people" were corpses only. Presumably they were. ) One
+        got accustomed to such a sight as if it was something ordinary. It is terrible
+        to say that. And up to this day I can't conceive how I was able to bear this
+        stench which would not only come through the nose but would stick to one's
+        palates as if it were something palpable; this repugnant, pestilent stench
+        that filled the air.
+    - who: Jaques Matzner
+      start: '00:51:59.930'
+      end: '00:51:59.930'
+      u: One day it was announced that a labor transport was being formed for some
+        other lager. We wanted to get away from Bergen-Belsen at any cost. We reported
+        accordingly, and we had the good fortune to be among the three thousand persons
+        that were chosen. And we marched to the railroad, and after a trip lasting
+        a full day and a full night we arrived at Messantine. Messantine is a small
+        place near Frankfurt-on-the-Oder or Stetin. After all, we never knew where
+        we were. At any rate we were working now in the industries in Pohlitz. This
+        is a plant as big as a city. They manufactured there benzine and fuel. A foreman
+        under whom I worked told me that this plant was producing four and one-half
+        million liters of fuel daily, until there came one night nearly two thousand
+        English and American planes in waves and within an hour or so demolished the
+        whole plant. At any rate, it was our duty to clean the place up. We had to
+        remove the wreckage and mountains of rubble, and the work had to go on. However,
+        we were already under artillery fire of the Russians who were located on the
+        opposite shore of the Oder. Our lager and plant were on this side of the Oder,
+        and the Russians were already on the opposite side. The locality was under
+        artillery fire, and one day we had as many as twenty-five or twenty-six dead
+        and injured, among them guards who were also killed by bombs and missiles
+        of the Russian artillery. So we cleared also this lager, and then we came
+        to Barth. Barth was a small town near Wismar. And there we were located in
+        the Heinkel aircraft works. The Heinkel aircraft works looked very beautiful.
+        The lager was very beautiful, but what occurred there defies any descriptions.
+        I noticed there for the first time that I was beginning to weaken. I could
+        not stand it any more. And my friend with whom I had been together all the
+        time, all these years, Fischel Wiener from Sosnovitz, was telling me "Matzner,
+        hold out, brace up, keep up your strength; it cannot last much longer; you
+        must."
+    - who: David Boder
+      start: '00:54:49.255'
+      end: '00:54:49.255'
+      u: What year was that, 1945?
+    - who: Jaques Matzner
+      start: '00:54:50.248'
+      end: '00:54:50.248'
+      u: '"You have to hold out, you have stood it so long. Keep your strength." And
+        meanwhile every day my best friends were dying. My best buddies perished.
+        I was together with a Hungarian landowner, Ludwig Biro, from Szatmár.'
+    - who: David Boder
+      start: '00:55:08.521'
+      end: '00:55:08.521'
+      u: A Jew?
+    - who: Jaques Matzner
+      start: '00:55:09.304'
+      end: '00:55:09.304'
+      u: A Jew—he was there with his brother. His brother had perished, there. And
+        how did the people die? One of my best friends, Moishe Rotbart, hanged himself,
+        a pious man, who said, "I can't stand it any more." At work he was gnashing
+        his teeth. He was eager to survive, but he couldn't, and he took his own life.
+        A day later we saw him lying, down there in the cellar, a corpse. And so we
+        had suicides daily and daily more people were killed. One "fine" morning I
+        felt that I had fever. I have been having fever most of the time, but that
+        morning it was especially high, and I went to the hospital to have my temperature
+        taken, and the attendant measured a temperature of 39.6 degrees. With the
+        slip on which he had written that I had a temperature of 39.6 I went to the
+        lager foreman and pleaded with him to let me remain in the lager since I had
+        such a high temperature. He gave me a kick in the stomach.
+    - who: David Boder
+      start: '00:56:04.410'
+      end: '00:56:04.410'
+      u: And that was a Jew?
+    - who: Jaques Matzner
+      start: '00:56:05.554'
+      end: '00:56:05.554'
+      u: No, that was a Christian, a so-called BV-er; (Befauer) that means a professional
+        criminal. He gave me a kick in the stomach and said, "You Jew-pig, get out
+        of here. For you it is high time that you croak." Because of that kick, I
+        fell, and remained lying on the ground. I felt only that I was trampled in
+        the face and on the back. And so I was lying there, and when I came to (you
+        see, I lost consciousness) I found myself in the cellar. This cellar was an
+        invention of this Befauer. The cellar was about chest-high under water. In
+        the water at the time of my arrival were lying and standing about ninety or
+        ninety-five people.
+    - who: David Boder
+      start: '00:57:01.970'
+      end: '00:57:01.970'
+      u: They couldn't lie there!
+    - who: Jaques Matzner
+      start: '00:57:02.933'
+      end: '00:57:02.933'
+      u: 'Those who were lying there were already dead. And these who were standing
+        had arranged the bodies of the dead in such a manner that they could stand
+        or sit on them; otherwise the ones who were still living would also have drowned.
+        I did the same thing. I found myself a place at the wall. I dragged one or
+        two bodies which were under the water and arranged them under the water against
+        the wall, and I sat on them. And so I remained in the water, counting from
+        that morning exactly two days and two nights. During this time my buddy drowned,
+        who stood next to me, Ludwig Pasternak, from Hungary, who constantly pleaded
+        with me. "Matzner," he would say to me, "if I should not be saved, tell my
+        cousin who lives in Toulouse that I have died and that my last thoughts were
+        with my father, my other, and my family. Tell my cousin John Hillman that
+        I could not stand it anymore." This John Hillman was in the same lager. And
+        so my friend died. So died my friend Ludwig Pasternak. I think a relative
+        of his was the famous opera singer Louis Pasteur. (He apparently has confused
+        the name.) And then all at once it began to happen. I myself don''t really
+        know how. I was almost unconscious throughout these days and nights. I just
+        breathed instinctively; I just lived instinctively. I had nothing to eat or
+        to drink, but I was still alive. And all at once they were yelling: "Out!
+        Out!" And people from upstairs came down, and all at once I found myself in
+        a room. And there was not water, and I was lying on the floor, and afterwards
+        on a table. And again my friend Fishel Wiener was standing before me, and
+        he was just saying to me, "Matzner, you will live, you will live. The Russians
+        are at the gate, the Russians are coming." Then I knew I was lying in a real
+        bed, where everything was white, and then it was night. And there came to
+        me a man. He stroked my head, and I only recognized a uniform of the color
+        worn by the American soldiers. He stroked my head and spoke to me, but I could
+        not understand him. Then he called a nurse. She was all in white. I did not
+        know that he was calling a nurse; I understood that he had called a nurse
+        only when I saw her there. She wore a white cap over her head and spoke Russian,
+        and he said something to her, and returned after some time with two bottles,
+        and he poured the content of these two bottles over me and washed me with
+        it. It was cognac. Today I know that it was whiskey or cognac. Then I didn''t
+        know what it was, but it refreshed me miraculously.'
+    - who: David Boder
+      start: '01:00:34.379'
+      end: '01:00:34.379'
+      u: He washed you with it?
+    - who: Jaques Matzner
+      start: '01:00:35.432'
+      end: '01:00:35.432'
+      u: He washed me with it. He removed my bedcovers and washed me with it. The
+        nurse had placed a rubber sheet under me and he washed me from head to foot
+        with whiskey. It refreshed me miraculously. Next to me, on the next cot lay
+        a Greek lawyer. His name was Nissin—I just called him Nissim. ( Nissim means
+        in Hebrew "miracles". He used it apparently as a nickname for Mr. Nissin.
+        ) He was just calling, "Adonai, Adonai, Adonai! Matzner that is good for you,
+        that is good." "Ce hace bien, Ce hace bien!" He spoke French, "Ce hace bien
+        pour vous, ce hace bien." And I came to, and I later came under the treatment
+        of a Russian physician—I have forgotten his name. At any rate I went through
+        a violent attack of typhus.
+    - who: David Boder
+      start: '01:01:25.726'
+      end: '01:01:25.726'
+      u: Spotted typhus or intestinal?
+    - who: Jaques Matzner
+      start: '01:01:26.840'
+      end: '01:01:26.840'
+      u: Intestinal. And under the care of this Russian physician—he treated me marvelously,
+        indeed—I was healed. From the Russian hospital I came to the International
+        lager and from there...
+    - who: Jaques Matzner
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: ". . . I was sent to a French hospital and I convalesced in Bart. I did not
+        want to remain in Bart."
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Where is Bart?
+    - who: Jaques Matzner
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: It is somewhere in Silesia. I pretended to be a Frenchman.
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: You were free by the Russians?
+    - who: Jaques Matzner
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Yes, I was freed by the Russians. But that man, that soldier who washed me
+        with cognac, he was an American pilot. That I found out afterwards. They were
+        there with huge American flying machines. I did not see them myself but from
+        the description—they were just giant flying machines. And I presented myself
+        to be a Frenchman.
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: How did that man get into the hospital?
+    - who: Jaques Matzner
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: I don't know that. At any rate there were Americans present. The best proof
+        of it is that many of our patients who could already walk were given by these...
+    - who: Jaques Matzner
+      start: '01:01:42.807'
+      end: '01:01:42.807'
+      u: American soldiers bandages, pieces of underwear, shirts, chocolate, grapefruit,
+        and food and drink. And our people were repeating the only word, "OK, OK,
+        OK." They were all Greeks and Hungarians, etc. who did not know any English.
+        The only word they knew was, OK, OK, OK. Today I know that these men were
+        American soldiers. And so I came to the French hospital and I presented myself
+        to be a Frenchman, to be transported to France.
+    - who: David Boder
+      start: '01:02:15.608'
+      end: '01:02:15.608'
+      u: Do you speak French so well?
+    - who: Jaques Matzner
+      start: '01:02:17.663'
+      end: '01:02:17.663'
+      u: Yes, because I lived a long time in France. This little trick was successful;
+        I came with the last French transport to Bad Schwartau. There I was accepted
+        in a lager of the British Army, where I encountered the first Jew in uniform.
+        This was a certain Mr. Henry-Harry Dumbrand, from London, at any rate from
+        England. He gave me cigarettes. He was glad to meet a Jew. And from Bad Schwartau
+        I came to an UNRRA lager in Geldern, which is near Kevelaer at the Dutch border,
+        and from there I returned to my home town Wiesbaden. ( From here a few paragraphs
+        of the interview are missing due to technical failure in the recorder. ) It
+        drove me to Wiesbaden first because I believed that from there I might start
+        the search for my family. Also because it was in the American zone. I returned
+        to Wiesbaden. And I was still very sick, very weak, and I gradually recovered
+        only due to the help of some American friends whose acquaintance I had made,
+        especially a Captain Dave Le-Melman, from Miami, who took a special interest
+        in me.
+    - who: David Boder
+      start: '01:03:37.062'
+      end: '01:03:37.062'
+      u: A Jew?
+    - who: Jaques Matzner
+      start: '01:03:37.763'
+      end: '01:03:37.763'
+      u: All Jews. And last, but not least, the crown of my acquaintances, the wonderful
+        Chaplain William E. Darling, a man who stood up not only for me personally
+        but for the whole Jewish community of Wiesbaden...And so I, as a Wiesbadener,
+        got the inspiration to rebuild anew the House of the Lord, which served as
+        a holy place for my parents and for the oldest Rabbi of Germany, Rabbi Dr.
+        Leo Kahn (may he rest in peace). I consider it almost the calling of my life
+        to rebuild the house in which my father and my mother (may they rest in peace)
+        have stood, the house in which I was confirmed, the house in which my sisters
+        and brothers had worshipped for decades. And to rebuild it again as it was.
+        I consider it my life work to rebuild this house for the sake of the dead,
+        for the sake of those who shall not return any more, and for those who were
+        able to leave this country in time, so the word of God may spread over all
+        the world, a memorial to all who knew Wiesbaden and who once lived in Wiesbaden.
+    - who: David Boder
+      start: '01:08:21.194'
+      end: '01:08:21.194'
+      u: "[In English] This concludes a report—rather condensed—of Mr. Jack Matzner.
+        There would be a number of questions I would like to ask him and he could
+        probably give me some very intelligent answers, but since it could be done
+        by mail, I think I will call in one and the other of the two ladies who are
+        waiting for the interview. It's a very difficult thing to have...to stagger
+        the interviewees—you don't want to interrupt, it takes always more times than
+        you expect. We are now going over to the next interview [unintelligible] start
+        Mr. Matzner at twenty-five minutes of Spool 164."
+    - who: David Boder
+      start: '01:09:00.552'
+      end: 
+      u: This concludes Spool 9-164A—the interview with Jack Matzner. The second part—the
+        interview with Anna Kovitzka—is put on separate spool, 164B. The 14th of November,
+        1950, Boder.
+transcript: {}
+translation: {}

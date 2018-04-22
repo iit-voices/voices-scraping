@@ -25,5 +25,926 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: de
+    interview:
+    - who: David Boder
+      start: '00:00:00.753'
+      end: '00:00:00.753'
+      u: "[In English] Chicago, June the 26th, 1950, project MH156. This is reproduction
+        Spool 9-21A, Dr. Maximilian Lipschitz. It is the first half of Spool 21."
+    - who: David Boder
+      start: '00:01:03.972'
+      end: '00:01:03.972'
+      u: August the 4th, Rue de Patin [checks recorder]...August the 4th, Rue, 9 Rue
+        de Patin, in a home for adult deportees. Paris, August 4th, 1946, at Rue Patin,
+        number 9, in a home for adult Jews. We are going to interview Dr. Maximilian
+        Lipschitz, eh, age thirty-five. This is Spool 21.
+    - who: David Boder
+      start: '00:01:44.402'
+      end: '00:01:44.402'
+      u: "[In German] Eh, also, sagen Sie mir, wieder, sagen Sie uns, was ist Ihr
+        voller Name?"
+    - who: Maximillian Lipschitz
+      start: '00:01:51.372'
+      end: '00:01:51.372'
+      u: Dr. Maximilian Lipschitz.
+    - who: David Boder
+      start: '00:01:54.155'
+      end: '00:01:54.155'
+      u: Und, eh, wo sind Sie geboren, Dr. Lipschitz?
+    - who: Maximillian Lipschitz
+      start: '00:01:56.806'
+      end: '00:01:56.806'
+      u: In Neuschonstau.
+    - who: David Boder
+      start: '00:01:58.173'
+      end: '00:01:58.173'
+      u: Wo ist das?
+    - who: Maximillian Lipschitz
+      start: '00:01:59.017'
+      end: '00:01:59.017'
+      u: Das ist in der Tschechoslowakei.
+    - who: David Boder
+      start: '00:02:00.897'
+      end: '00:02:00.897'
+      u: Ja. Eh, und, eh, wo, hm, und wo haben Sie studiert?
+    - who: Maximillian Lipschitz
+      start: '00:02:06.602'
+      end: '00:02:06.602'
+      u: Ich habe in Prag studiert.
+    - who: David Boder
+      start: '00:02:08.331'
+      end: '00:02:08.331'
+      u: Und, eh, Ihren Doktor haben Sie in welchem Fach?
+    - who: Maximillian Lipschitz
+      start: '00:02:11.506'
+      end: '00:02:11.506'
+      u: In Naturwissenschaften, und hauptsächlich Chemie.
+    - who: David Boder
+      start: '00:02:14.470'
+      end: '00:02:14.470'
+      u: In Naturwissenschaften, hauptsächlich Chemie. [inaudible, pause]
+    - who: David Boder
+      start: '00:02:22.012'
+      end: '00:02:22.012'
+      u: Also, sprechen Sie ein bissel lauter, und wollen Sie uns sagen, wo waren
+        Sie, wenn der Krieg angefangen hat und was hat dann passiert?
+    - who: Maximillian Lipschitz
+      start: '00:02:31.078'
+      end: '00:02:31.078'
+      u: Als der Krieg anfing, war ich in Krakau, weil ich da meine Familie hatte,
+        mein Kind, das sechs Wochen alt war, und meine Schwester.
+    - who: David Boder
+      start: '00:02:41.332'
+      end: '00:02:41.332'
+      u: Und Ihre Frau?
+    - who: Maximillian Lipschitz
+      start: '00:02:42.428'
+      end: '00:02:42.428'
+      u: Meine Frau war schon vor dem Krieg gestorben. Ich hatte dort meine Familie
+        und lebte eine Zeit, eh, verhältnismäßig, eh, ungestört, bis die größeren,
+        eh, Verfolgungen anfingen. Im Dezember 1939 fing es an mit verschiedenen Registrierungen,
+        und eh, auch eh, und dann, im Dezember, mit den, eh, mit den, mit der Vorschrift,
+        eh, einen, ein Band mit dem Judenstern am rechten Arm zu tragen. Dann kamen
+        die verschiedenen Verbote, mit der Bahn zu fahren, die Verbote—diese...
+    - who: David Boder
+      start: '00:03:28.151'
+      end: '00:03:28.151'
+      u: Mit welcher Bahn, außer der Stadt oder in der Stadt?
+    - who: Maximillian Lipschitz
+      start: '00:03:30.603'
+      end: '00:03:30.603'
+      u: Mit der, mit der, eh, Staatsbahn zu fahren, mit der Eisenbahn.
+    - who: David Boder
+      start: '00:03:34.561'
+      end: '00:03:34.561'
+      u: Ja.
+    - who: Maximillian Lipschitz
+      start: '00:03:36.230'
+      end: '00:03:36.230'
+      u: Dann kamen, eh, die Verbote, selbständig Geschäfte zu führen, auf, eh, Beamtenstellen
+        zu sein, so dass die Juden immer gedrückter und gedrückter in ihren, eh, Wohnverhältnissen
+        und in ihren Lebensverhältnissen wurden. Eine Zeit durften Juden noch in den
+        größeren Städten wohnen, dann wurde es immer gedrückter, und bis 1941 waren
+        die Juden hauptsächlich in meister Städten Polens in Ghettos zusammengepfercht.
+    - who: David Boder
+      start: '00:04:09.642'
+      end: '00:04:09.642'
+      u: Ja, also, erzählen Sie bloß von Ihrer Stadt, und wo Sie waren und was dort
+        passiert hat.—Sie waren also in Krakau?
+    - who: Maximillian Lipschitz
+      start: '00:04:16.943'
+      end: '00:04:16.943'
+      u: Ich war in Krakau, im Jahre 1942 waren wir schon, alle Juden, die in, eh,
+        Krakau, in Krakau Umgebung wohnten, hauptsächlich im Krakauer Ghetto, eh,
+        zusammen ge-, zusammen gedrückt.
+    - who: David Boder
+      start: '00:04:31.973'
+      end: '00:04:31.973'
+      u: Ja, eh, nun beschreiben Sie etwas das Ghetto und wie hat man das Ghetto gemacht
+        und weiter?
+    - who: Maximillian Lipschitz
+      start: '00:04:38.332'
+      end: '00:04:38.332'
+      u: Das Ghetto wurde in ein, in Podgórze errichtet, das eh, eine Vorstadt von
+        Krakau, dort wurden auf einem ganz kleinen, eh, auf einer, auf einem ganz
+        kleiner Raum die cirka 15.000 Juden, die in der Stadt gelassen wurden, in
+        sehr engen Wohnverhältnissen zusammen gedrückt.
+    - who: David Boder
+      start: '00:05:02.109'
+      end: '00:05:02.109'
+      u: Haben dort Juden bevor gewohnt?
+    - who: Maximillian Lipschitz
+      start: '00:05:04.903'
+      end: '00:05:04.903'
+      u: Es haben auch Juden vorher dort gewohnt, aber die Wohnungen wurden von den
+        Gästen die dort vorher wohnten eh, ausgeräumt,
+    - who: David Boder
+      start: '00:05:13.638'
+      end: '00:05:13.638'
+      u: Ja.
+    - who: Maximillian Lipschitz
+      start: '00:05:14.331'
+      end: '00:05:14.331'
+      u: ". . . und die Juden wurden in ganz engen Wohnverhältnissen zusammen gerückt—so
+        dass in einem Zimmer cirka drei, vier Menschen wohnten."
+    - who: David Boder
+      start: '00:05:22.705'
+      end: '00:05:22.705'
+      u: Nun?
+    - who: Maximillian Lipschitz
+      start: '00:05:23.621'
+      end: '00:05:23.621'
+      u: Und auch mehr. Ich wohnte zum Beispiel in einem ziemlich großen Zimmer, da
+        wohnten wir 12 Personen.
+    - who: David Boder
+      start: '00:05:32.850'
+      end: '00:05:32.850'
+      u: Ja.
+    - who: Maximillian Lipschitz
+      start: '00:05:33.495'
+      end: '00:05:33.495'
+      u: Da wohnte allerdings, da wohnte drei Kinder...
+    - who: David Boder
+      start: '00:05:33.929'
+      end: '00:05:33.929'
+      u: Alle Männer?
+    - who: Maximillian Lipschitz
+      start: '00:05:35.296'
+      end: '00:05:35.296'
+      u: Nein, Familien, Fremde und so weiter.
+    - who: David Boder
+      start: '00:05:37.586'
+      end: '00:05:37.586'
+      u: Männer und Frauen darunter?
+    - who: Maximillian Lipschitz
+      start: '00:05:38.803'
+      end: '00:05:38.803'
+      u: Männer und Frauen und Kinder in einem...
+    - who: David Boder
+      start: '00:05:40.110'
+      end: '00:05:40.110'
+      u: In einem Zimmer...
+    - who: Maximillian Lipschitz
+      start: '00:05:40.923'
+      end: '00:05:40.923'
+      u: ". . . in einem Zimmer."
+    - who: David Boder
+      start: '00:05:41.707'
+      end: '00:05:41.707'
+      u: Ja. Nun, wovon hat man gelebt?
+    - who: Maximillian Lipschitz
+      start: '00:05:44.641'
+      end: '00:05:44.641'
+      u: Leben durfte man nur von der Arbeit, die einem die Deutschen anbieteten,
+        das war hauptsächlich, eh, in Fabriken als Arbeiter, hauptsächlich in Rüstungsfabriken,
+        in Militärwerkstätten, und...
+    - who: David Boder
+      start: '00:05:57.304'
+      end: '00:05:57.304'
+      u: Und haben die für die Arbeit bezahlt?
+    - who: Maximillian Lipschitz
+      start: '00:05:59.997'
+      end: '00:05:59.997'
+      u: Die haben für die Arbeit so bezahlt, aber so, dass man nur da förmlich davon
+        leben konnte, und hauptsächlich leben konnte man nur davon, dass man Sachen,
+        die man noch hatte, irgendwie, Bettzeug oder Töpfe, verkaufen ging und von
+        dem Erlös der Waren lebte.
+    - who: David Boder
+      start: '00:06:14.346'
+      end: '00:06:14.346'
+      u: Zu wem hat man das verkauft?
+    - who: Maximillian Lipschitz
+      start: '00:06:16.214'
+      end: '00:06:16.214'
+      u: Das hat man an Polen verkauft.
+    - who: David Boder
+      start: '00:06:17.581'
+      end: '00:06:17.581'
+      u: Das hat man an die Polen verkauft.
+    - who: Maximillian Lipschitz
+      start: '00:06:19.148'
+      end: '00:06:19.148'
+      u: Ja.
+    - who: David Boder
+      start: '00:06:19.371'
+      end: '00:06:19.371'
+      u: Eh, war es für die Juden spezielles Geld, war es Ghettogeld dort?
+    - who: Maximillian Lipschitz
+      start: '00:06:23.419'
+      end: '00:06:23.419'
+      u: In Krakau war kein spezielles Geld.
+    - who: David Boder
+      start: '00:06:25.648'
+      end: '00:06:25.648'
+      u: Ja.
+    - who: Maximillian Lipschitz
+      start: '00:06:26.160'
+      end: '00:06:26.160'
+      u: Das war in Lodz, ne, das waren...
+    - who: David Boder
+      start: '00:06:27.907'
+      end: '00:06:27.907'
+      u: In Lodz war es Ghettogeld...
+    - who: Maximillian Lipschitz
+      start: '00:06:28.931'
+      end: '00:06:28.931'
+      u: Ja, das war Lodz, ja.
+    - who: David Boder
+      start: '00:06:29.534'
+      end: '00:06:29.534'
+      u: Nun, also, so haben Sie mit zwölf Leuten in einem Zimmer gewohnt. Wer war
+        mit Ihnen von Ihren Verwandten?
+    - who: Maximillian Lipschitz
+      start: '00:06:36.203'
+      end: '00:06:36.203'
+      u: Ich war noch mit meiner Schwester, und Schwager, ein Kind von mir, zwei Kinder
+        von meiner Schwester...
+    - who: David Boder
+      start: '00:06:43.323'
+      end: '00:06:43.323'
+      u: Ja.
+    - who: Maximillian Lipschitz
+      start: '00:06:43.986'
+      end: '00:06:43.986'
+      u: Dann war noch, eh, eine, ein Cousin von mir mit Frau und Kind...
+    - who: David Boder
+      start: '00:06:52.058'
+      end: '00:06:52.058'
+      u: Ja, und?
+    - who: Maximillian Lipschitz
+      start: '00:06:52.480'
+      end: '00:06:52.480'
+      u: Ein Onkel und eine Tante...
+    - who: David Boder
+      start: '00:06:54.528'
+      end: '00:06:54.528'
+      u: Ja. Und warn auch noch mit Fremde mit...?
+    - who: Maximillian Lipschitz
+      start: '00:06:56.576'
+      end: '00:06:56.576'
+      u: Und warn auch Fremde mit Familie, fremde, fremde Menschen noch dabei.
+    - who: David Boder
+      start: '00:06:59.980'
+      end: '00:06:59.980'
+      u: Also, wie hat man geschlafen?
+    - who: Maximillian Lipschitz
+      start: '00:07:03.031'
+      end: '00:07:03.031'
+      u: Man, eh, es warn entweder Betten da, und wenn kein Platz war, warn wir auch,
+        eh, haben wir auf der Erde schlafen müssen.
+    - who: David Boder
+      start: '00:07:09.688'
+      end: '00:07:09.688'
+      u: Nun, also weiter.
+    - who: Maximillian Lipschitz
+      start: '00:07:10.784'
+      end: '00:07:10.784'
+      u: Ich habe in einer Fabrik gearbeitet, in einer Gießerei, musste schon, falls
+        ich weg war, das, eh, sehr weit von der Stadt draußen war, ich habe Gieß-,
+        an einer Zinkgieß-, an einer Zink, einer ---gießerei [unverständlich] gearbeitet,
+        und habe cirka 80 / 90 Zloty die Woche verdient, das reichte kaum, um, um
+        das Brot für die zwei, die zwei, drei Tage zu kaufen.
+    - who: David Boder
+      start: '00:07:35.090'
+      end: '00:07:35.090'
+      u: Also, gehen Sie weiter. Ja?
+    - who: Maximillian Lipschitz
+      start: '00:07:40.313'
+      end: '00:07:40.313'
+      u: In diesen schlechten Zeiten hielten wir aus bis Mai 1942. Im Mai 1942 kamen
+        die ersten Vorgänge, die wir überhaupt nicht erwartet haben. Das warn die
+        Aussiedlungen.
+    - who: David Boder
+      start: '00:08:01.289'
+      end: '00:08:01.289'
+      u: Nun, beschreiben Sie in Einzelheiten die Prozedur der Aussiedlungen dort.
+        Hm?
+    - who: Maximillian Lipschitz
+      start: '00:08:06.783'
+      end: '00:08:06.783'
+      u: Es wurden, es wurde das Ghetto gesperrt, ringsherum waren, eh, SS Waffen,
+        die keinen Menschen ins Ghetto herein und auch keinen heraus ließen. Es wurden
+        alle Menschen registriert, wer eine Bestätigung hatte, ein— in einem Rüstungsbetrieb
+        arbeitete, wurde, bekam einen, eine Bestätigung, dass er bleiben darf, die
+        andern wurden auf einem Platz versammelt, wurden weg geführt.
+    - who: David Boder
+      start: '00:08:42.921'
+      end: '00:08:42.921'
+      u: Haben Sie die Bescheinigung bekommen?
+    - who: Maximillian Lipschitz
+      start: '00:08:44.518'
+      end: '00:08:44.518'
+      u: Ich hatte damals die Bescheinigung bekommen, weil ich in der Gießerei arbeitete.
+    - who: David Boder
+      start: '00:08:48.054'
+      end: '00:08:48.054'
+      u: Ja.
+    - who: Maximillian Lipschitz
+      start: '00:08:48.928'
+      end: '00:08:48.928'
+      u: Es waren aber viele Leute, die auch bei Deutschen arbeiteten, in Werkstätten,
+        und die durch diese verschiedenen, eh, Wirrwarr in der Stadt so auch, eh,
+        auch auf den Sammelplatz kamen und auch weg geführt wurden. Bis...
+    - who: David Boder
+      start: '00:09:03.609'
+      end: '00:09:03.609'
+      u: Also, jetzt kommt Ihre Familie, eh, ist ihre Familie mit Ihnen zusammen geblieben?
+    - who: Maximillian Lipschitz
+      start: '00:09:10.458'
+      end: '00:09:10.458'
+      u: Es ist mir damals gelungen, für, eh, meine Schwester und für, für mein Kind
+        und für die Schwester der Kinder die Bestätigung zu bekommen, das war das
+        erste Mal, sonst wurden noch die Familienmitglieder der Arbeiter berücksichtigt,
+        und, eh, wurden noch da gelassen.
+    - who: David Boder
+      start: '00:09:24.914'
+      end: '00:09:24.914'
+      u: Ja.
+    - who: Maximillian Lipschitz
+      start: '00:09:26.342'
+      end: '00:09:26.342'
+      u: Damals wurden cirka—
+    - who: David Boder
+      start: '00:09:28.222'
+      end: '00:09:28.222'
+      u: Wohin wurden die Leute weg geführt?
+    - who: Maximillian Lipschitz
+      start: '00:09:29.349'
+      end: '00:09:29.349'
+      u: ". . . fünf- bis zehntausend Menschen weg geführt..."
+    - who: David Boder
+      start: '00:09:30.837'
+      end: '00:09:30.837'
+      u: Ja. Wohin?
+    - who: Maximillian Lipschitz
+      start: '00:09:31.964'
+      end: '00:09:31.964'
+      u: Nach unseren späteren Erkundigungen wurde uns gesagt, dass sie nach Belzec
+        geführt wurden, wo eine Vernichtungsfabrik war. Wir selbst im Ghetto wussten
+        cirka drei bis vier Monate überhaupt nichts von dem Los dieser Menschen. Und,
+        eh, noch eins und zwei Jahre nachher kamen verschiedene Gerüchte zu uns, die
+        wahrscheinlich von den Deutschen aufgebracht waren, dass die Menschen nach
+        dem Trainer [unverständlich] geführt wurden und dort arbeiteten im Lager,
+        das war aber nicht wahr. Denn wir haben später [geräusch], zwei, drei, vier
+        Jahre später erfahren, dass die Menschen, alle wie sie waren, in die Vernichtungsfabriken
+        geführt wurden, und, eh, dort verbrannt oder vergast wurden.
+    - who: David Boder
+      start: '00:10:18.327'
+      end: '00:10:18.327'
+      u: Ja, was hat das, Sie sagen, verbrannt, hat man nicht, eh, bloß die Toten
+        verbrannt?
+    - who: Maximillian Lipschitz
+      start: '00:10:24.940'
+      end: '00:10:24.940'
+      u: Ja, das, eh—ich habe auch später im Lager und nach der Befreiung Menschen
+        getroffen, die in diesen Lagern selbst gearbeitet haben. Die Szenen, die mir
+        geschildert wurden, waren gar nicht, sind gar nicht wieder zu geben, kaum
+        glaublich, dass ein Mensch, ein Menschengehirn sich solche Plan erdacht- erdenken
+        konnte.
+    - who: David Boder
+      start: '00:10:49.639'
+      end: '00:10:49.639'
+      u: Also?
+    - who: Maximillian Lipschitz
+      start: '00:10:50.540'
+      end: '00:10:50.540'
+      u: Es wurden Menschen zum Teil in den, ne, in einen Raum, in einen dichten Raum
+        gepackt, die Menschen waren vom Transport schon halbtot, sie wurden zusammen
+        gepresst, und die Gas-, eh, Gas-, eh -gefäße wurden geöffnet. Wenn nicht genug
+        Gasgefäße waren, waren die Menschen kaum, eh, vom Gas, eh, erstickt, sondern
+        nur halbtot, und wie sie waren, wurden sie in den Feuerraum gebracht und dort
+        verbrannt.
+    - who: David Boder
+      start: '00:11:23.424'
+      end: '00:11:23.424'
+      u: Was nennen Sie einen Feuerraum?
+    - who: Maximillian Lipschitz
+      start: '00:11:25.966'
+      end: '00:11:25.966'
+      u: Nun—Krematorium.
+    - who: David Boder
+      start: '00:11:27.322'
+      end: '00:11:27.322'
+      u: Ja. Nun, also, wollen wir zurück kommen, Sie sind damals dann in Krakau geblieben?
+    - who: Maximillian Lipschitz
+      start: '00:11:32.515'
+      end: '00:11:32.515'
+      u: Ich bin damals in Krakau geblieben. Nach dieser, nach der ersten Aussiedlung
+        im Mai wurde das Ghetto verkleinert, weil dort weniger Juden waren. Die Verhältnisse
+        wurden noch schlechter. Dann kam im—Oktober 1942, kam die zweite Aussiedlung.
+        Da wurden schon Familienmitglieder nicht mehr berücksichtigt. Damals verlor
+        ich den größten Teil meiner Familie. Es gelang mir nur zufällig, meine Schwester
+        und die Kinder zu retten...
+    - who: David Boder
+      start: '00:12:07.884'
+      end: '00:12:07.884'
+      u: Wer kamen von Ihrer Familie verloren?
+    - who: Maximillian Lipschitz
+      start: '00:12:10.083'
+      end: '00:12:10.083'
+      u: Damals, also bei der ersten Aussiedlung verlor ich Onkel, eine Tante, ein
+        Cousin, einen jungen Menschen mit seiner Frau und einem 14-jährigen Mädchen.
+        Alles blühende Menschen, die noch lange hätten leben können.
+    - who: David Boder
+      start: '00:12:27.858'
+      end: '00:12:27.858'
+      u: Ja, nun.
+    - who: Maximillian Lipschitz
+      start: '00:12:28.431'
+      end: '00:12:28.431'
+      u: Ich war natürlich nicht die Einzigen, es warn, wenn man nach der Aussiedlung
+        durch die Stadt, die Straßen des Ghettos ging, da hörte man nur das Weinen
+        und...[pause]
+    - who: David Boder
+      start: '00:12:43.292'
+      end: '00:12:43.292'
+      u: "[In English] This interview was discontinued because Dr. Lipschitz had to
+        go on an important appointment of which he either had forgotten or didn't
+        know before. We are now introducing another interview, at, eh, about the,
+        eh, fourteenth minute of the spool."
+    - who: David Boder
+      start: '00:13:14.210'
+      end: 
+      u: Chicago, June 26th, 1950. This concludes the section of Dr. Lipschitz. We
+        have separated this from Spool 21, that has now the interview with Mr. Lea,
+        and this will be Spool 9-21A, while the interview with Mr. Lea will be Spool
+        9-21B. Illinois Institute of Technology wire recording, project MH156. That's
+        all.
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:00.753'
+      end: '00:00:00.753'
+      u: "[In English] Chicago, June the 26th, 1950, project MH156. This is reproduction
+        Spool 9-21A, Dr. Maximilian Lipschitz. It is the first half of Spool 21."
+    - who: David Boder
+      start: '00:01:03.972'
+      end: '00:01:03.972'
+      u: August the 4th, Rue de Patin [checks recorder]...August the 4th, Rue, 9 Rue
+        de Patin, in a home for adult deportees. Paris, August 4th, 1946, at Rue Patin,
+        number 9, in a home for adult Jews. We are going to interview Dr. Maximilian
+        Lipschitz, eh, age thirty-five. This is Spool 21.
+    - who: David Boder
+      start: '00:01:44.402'
+      end: '00:01:44.402'
+      u: "[In German] Eh, so tell me again, tell us, what is your full name?"
+    - who: Maximillian Lipschitz
+      start: '00:01:51.372'
+      end: '00:01:51.372'
+      u: Dr. Maximilian Lipschitz.
+    - who: David Boder
+      start: '00:01:54.155'
+      end: '00:01:54.155'
+      u: And, eh, where were you born, Dr. Lipschitz?
+    - who: Maximillian Lipschitz
+      start: '00:01:56.806'
+      end: '00:01:56.806'
+      u: In Neuschonstau.
+    - who: David Boder
+      start: '00:01:58.173'
+      end: '00:01:58.173'
+      u: Where is that?
+    - who: Maximillian Lipschitz
+      start: '00:01:59.017'
+      end: '00:01:59.017'
+      u: That is in Czechoslovakia.
+    - who: David Boder
+      start: '00:02:00.897'
+      end: '00:02:00.897'
+      u: Yes. Eh, and, eh, where, and where did you study?
+    - who: Maximillian Lipschitz
+      start: '00:02:06.602'
+      end: '00:02:06.602'
+      u: I studied in Prague.
+    - who: David Boder
+      start: '00:02:08.331'
+      end: '00:02:08.331'
+      u: And, eh, you received your doctorate in what subject?
+    - who: Maximillian Lipschitz
+      start: '00:02:11.506'
+      end: '00:02:11.506'
+      u: In science, and mainly chemistry.
+    - who: David Boder
+      start: '00:02:14.470'
+      end: '00:02:14.470'
+      u: In science, and mainly chemistry. [pause]
+    - who: David Boder
+      start: '00:02:22.012'
+      end: '00:02:22.012'
+      u: So, please speak a little louder, do you want to tell us, where were you
+        when the war began, and what happened then?
+    - who: Maximillian Lipschitz
+      start: '00:02:31.078'
+      end: '00:02:31.078'
+      u: When the war began I was in Cracow because I had my family there, my child
+        that was six weeks old, and my sister.
+    - who: David Boder
+      start: '00:02:41.332'
+      end: '00:02:41.332'
+      u: And your wife?
+    - who: Maximillian Lipschitz
+      start: '00:02:42.428'
+      end: '00:02:42.428'
+      u: My wife had died before the war. I had my family there, and for a while lived
+        relatively, eh, undisturbed, until the larger repressions began. It began
+        in December of 1939 with several registrations, and, eh, and then, in December,
+        with the, eh, with the, with the rule to wear a band with the star on the
+        right arm. Then came the various Verbote, to ride the train, the Verbote—the...
+    - who: David Boder
+      start: '00:03:28.151'
+      end: '00:03:28.151'
+      u: With what train, outside of the city or within the city?
+    - who: Maximillian Lipschitz
+      start: '00:03:30.603'
+      end: '00:03:30.603'
+      u: Ride with the, with the, eh, national railroad, with the railroad.
+    - who: David Boder
+      start: '00:03:34.561'
+      end: '00:03:34.561'
+      u: Yes.
+    - who: Maximillian Lipschitz
+      start: '00:03:36.230'
+      end: '00:03:36.230'
+      u: Then came, eh, the bans, to have independent businesses, to be in official,
+        eh, civil servant positions, so that the Jews became more and more oppressed
+        in their, eh, housing and in their living. For a while, Jews were still allowed
+        to live in larger cities, then it became more oppressed, and by 1941 most
+        Jews were mostly crowded into ghettos in most Polish cities.
+    - who: David Boder
+      start: '00:04:09.642'
+      end: '00:04:09.642'
+      u: Yes, so, tell us only about your city, and where you were, and what happened
+        there. So you were in Cracow?
+    - who: Maximillian Lipschitz
+      start: '00:04:16.943'
+      end: '00:04:16.943'
+      u: I was in Cracow, in 1942 we were, all Jews who had lived in Cracow and the
+        vicinity of Cracow, were mostly crowded, eh, crowded together in the Cracow
+        ghetto.
+    - who: David Boder
+      start: '00:04:31.973'
+      end: '00:04:31.973'
+      u: Yes, eh, now describe the ghetto a little, and how was the ghetto made and
+        so on?
+    - who: Maximillian Lipschitz
+      start: '00:04:38.332'
+      end: '00:04:38.332'
+      u: The ghetto was established in Podgórze, eh, a suburb of Cracow, there on
+        a very small, in a very small area approximately 15,000 Jews who had been
+        left in the city were pressed together in very tight living conditions.
+    - who: David Boder
+      start: '00:05:02.109'
+      end: '00:05:02.109'
+      u: Had Jews lived there before?
+    - who: Maximillian Lipschitz
+      start: '00:05:04.903'
+      end: '00:05:04.903'
+      u: There were Jews who had lived there before, but the apartments were vacated
+        by [the people who had lived there] before and emptied for the guests...
+    - who: David Boder
+      start: '00:05:13.638'
+      end: '00:05:13.638'
+      u: Yes.
+    - who: Maximillian Lipschitz
+      start: '00:05:14.331'
+      end: '00:05:14.331'
+      u: ". . . and the Jews were squeezed together in very tight living quarters,
+        so that three to four people lived in one room."
+    - who: David Boder
+      start: '00:05:22.705'
+      end: '00:05:22.705'
+      u: Well?
+    - who: Maximillian Lipschitz
+      start: '00:05:23.621'
+      end: '00:05:23.621'
+      u: And more. I, for instance, lived in a pretty large room, and there we were
+        12 people.
+    - who: David Boder
+      start: '00:05:32.850'
+      end: '00:05:32.850'
+      u: Yes.
+    - who: Maximillian Lipschitz
+      start: '00:05:33.495'
+      end: '00:05:33.495'
+      u: However, there lived, there lived three children...
+    - who: David Boder
+      start: '00:05:33.929'
+      end: '00:05:33.929'
+      u: All men?
+    - who: Maximillian Lipschitz
+      start: '00:05:35.296'
+      end: '00:05:35.296'
+      u: No, families, strangers, and so on.
+    - who: David Boder
+      start: '00:05:37.586'
+      end: '00:05:37.586'
+      u: Men and women among them?
+    - who: Maximillian Lipschitz
+      start: '00:05:38.803'
+      end: '00:05:38.803'
+      u: Men and women and children in one...
+    - who: David Boder
+      start: '00:05:40.110'
+      end: '00:05:40.110'
+      u: In one room...
+    - who: Maximillian Lipschitz
+      start: '00:05:40.923'
+      end: '00:05:40.923'
+      u: ". . . in one room."
+    - who: David Boder
+      start: '00:05:41.707'
+      end: '00:05:41.707'
+      u: Yes. Now, what did one live on?
+    - who: Maximillian Lipschitz
+      start: '00:05:44.641'
+      end: '00:05:44.641'
+      u: You could only live from the work that the Germans offered, that was mainly,
+        eh, in factories, as workers, mainly in military factories, ammunition factories,
+        in military workshops, and...
+    - who: David Boder
+      start: '00:05:57.304'
+      end: '00:05:57.304'
+      u: And did they pay for the work?
+    - who: Maximillian Lipschitz
+      start: '00:05:59.997'
+      end: '00:05:59.997'
+      u: They paid for the work, but so little that one could hardly make ends meet,
+        and mainly people could only live by selling items they still had, bed linens
+        or pots, living off the sale of those goods.
+    - who: David Boder
+      start: '00:06:14.346'
+      end: '00:06:14.346'
+      u: Who did one sell that to?
+    - who: Maximillian Lipschitz
+      start: '00:06:16.214'
+      end: '00:06:16.214'
+      u: That was sold to Poles.
+    - who: David Boder
+      start: '00:06:17.581'
+      end: '00:06:17.581'
+      u: That was sold to Poles.
+    - who: Maximillian Lipschitz
+      start: '00:06:19.148'
+      end: '00:06:19.148'
+      u: Yes.
+    - who: David Boder
+      start: '00:06:19.371'
+      end: '00:06:19.371'
+      u: Eh, was there a special currency, was there ghetto money there?
+    - who: Maximillian Lipschitz
+      start: '00:06:23.419'
+      end: '00:06:23.419'
+      u: In Cracow there was no special money.
+    - who: David Boder
+      start: '00:06:25.648'
+      end: '00:06:25.648'
+      u: Yes.
+    - who: Maximillian Lipschitz
+      start: '00:06:26.160'
+      end: '00:06:26.160'
+      u: That was in Lodz, that was...
+    - who: David Boder
+      start: '00:06:27.907'
+      end: '00:06:27.907'
+      u: In Lodz there was ghetto money...
+    - who: Maximillian Lipschitz
+      start: '00:06:28.931'
+      end: '00:06:28.931'
+      u: Yes, that was Lodz, yes.
+    - who: David Boder
+      start: '00:06:29.534'
+      end: '00:06:29.534'
+      u: Now, so you lived with twelve people in one room. Who was with you of your
+        relatives?
+    - who: Maximillian Lipschitz
+      start: '00:06:36.203'
+      end: '00:06:36.203'
+      u: I was with my sister and brother-in-law, my child, two of my sister's children...
+    - who: David Boder
+      start: '00:06:43.323'
+      end: '00:06:43.323'
+      u: Yes.
+    - who: Maximillian Lipschitz
+      start: '00:06:43.986'
+      end: '00:06:43.986'
+      u: Then there was also, eh, a cousin of mine with wife and child...
+    - who: David Boder
+      start: '00:06:52.058'
+      end: '00:06:52.058'
+      u: Yes, and?
+    - who: Maximillian Lipschitz
+      start: '00:06:52.480'
+      end: '00:06:52.480'
+      u: An uncle and an aunt...
+    - who: David Boder
+      start: '00:06:54.528'
+      end: '00:06:54.528'
+      u: Yes. And were there also strangers...?
+    - who: Maximillian Lipschitz
+      start: '00:06:56.576'
+      end: '00:06:56.576'
+      u: And there were strangers with their families, unknown, unknown people also
+        there.
+    - who: David Boder
+      start: '00:06:59.980'
+      end: '00:06:59.980'
+      u: So, how did you sleep?
+    - who: Maximillian Lipschitz
+      start: '00:07:03.031'
+      end: '00:07:03.031'
+      u: One, eh, there were either beds there, and if there was not enough space
+        we were, eh, we had to sleep on the floor.
+    - who: David Boder
+      start: '00:07:09.688'
+      end: '00:07:09.688'
+      u: Now, go on.
+    - who: Maximillian Lipschitz
+      start: '00:07:10.784'
+      end: '00:07:10.784'
+      u: I worked in a factory, in a foundry, had to, because I was away, that, eh,
+        was far outside of the city, I worked in a Zinc foundry [unintelligible],
+        and earned about eighty to ninety zloty per week, that was hardly enough to
+        buy bread for two, for two to three days.
+    - who: David Boder
+      start: '00:07:35.090'
+      end: '00:07:35.090'
+      u: So, go on. Yes?
+    - who: Maximillian Lipschitz
+      start: '00:07:40.313'
+      end: '00:07:40.313'
+      u: In these bad times we held out until May of 1942. In May of 1942 the first
+        incidents happened that we had not expected at all. Those were the evacuations.
+    - who: David Boder
+      start: '00:08:01.289'
+      end: '00:08:01.289'
+      u: Now, describe in detail the procedure of the evacuations there. Hm?
+    - who: Maximillian Lipschitz
+      start: '00:08:06.783'
+      end: '00:08:06.783'
+      u: There were, the ghetto was cordoned off, all around was SS Waffen who let
+        no one in or out of the ghetto. All people were registered, and those who
+        had a certificate that they worked in a military factory, got a certificate
+        that they could stay, all others were rounded up in a square, and were deported.
+    - who: David Boder
+      start: '00:08:42.921'
+      end: '00:08:42.921'
+      u: Did you get the certification?
+    - who: Maximillian Lipschitz
+      start: '00:08:44.518'
+      end: '00:08:44.518'
+      u: I obtained the certification back then because I was working in the foundry.
+    - who: David Boder
+      start: '00:08:48.054'
+      end: '00:08:48.054'
+      u: Yes.
+    - who: Maximillian Lipschitz
+      start: '00:08:48.928'
+      end: '00:08:48.928'
+      u: But there were many people who also worked for Germans, in workshops, and
+        who came through the different, eh, commotions to the collection square, and
+        were taken away, too. Until...
+    - who: David Boder
+      start: '00:09:03.609'
+      end: '00:09:03.609'
+      u: So, now comes your family, eh, did your family stay together with you?
+    - who: Maximillian Lipschitz
+      start: '00:09:10.458'
+      end: '00:09:10.458'
+      u: I managed back then to get the certification for my sister and for, for my
+        child, for the sister of the children [he means "for the children of the sister"]—that
+        was the first time, otherwise the family members of the workers were considered,
+        and, eh, they were left there.
+    - who: David Boder
+      start: '00:09:24.914'
+      end: '00:09:24.914'
+      u: Yes.
+    - who: Maximillian Lipschitz
+      start: '00:09:26.342'
+      end: '00:09:26.342'
+      u: Back then approximately...
+    - who: David Boder
+      start: '00:09:28.222'
+      end: '00:09:28.222'
+      u: Where were the people led to?
+    - who: Maximillian Lipschitz
+      start: '00:09:29.349'
+      end: '00:09:29.349'
+      u: ". . . 5,000 to 10,000 thousand people were taken away..."
+    - who: David Boder
+      start: '00:09:30.837'
+      end: '00:09:30.837'
+      u: Yes. To where?
+    - who: Maximillian Lipschitz
+      start: '00:09:31.964'
+      end: '00:09:31.964'
+      u: According to our later investigations we were told that they were brought
+        to Belzec where there was an annihilation facility. We in the ghetto did not
+        know about the fate of these people for approximately three or four months.
+        And, eh, still one and two years later some rumours circulated that were probably
+        started by the Germans, that those people were brought to the [unintelligible]
+        and worked in a camp there, but that was not true. Because we learned later,
+        two, three, four years later, that the people, all as they were, were led
+        to the annihilation facilities, and were burnt or gassed there.
+    - who: David Boder
+      start: '00:10:18.327'
+      end: '00:10:18.327'
+      u: Yes, what did the—you say, burnt, did one not only, eh, burn the dead?
+    - who: Maximillian Lipschitz
+      start: '00:10:24.940'
+      end: '00:10:24.940'
+      u: Yes, that, eh—I have, later in the camp and also after the liberation, I
+        met people who had worked in these camps themselves. The scenes that were
+        told to me were not even—are not to be rendered, [it is] hardly imaginable
+        that a human brain could think—think up such plans.
+    - who: David Boder
+      start: '00:10:49.639'
+      end: '00:10:49.639'
+      u: So?
+    - who: Maximillian Lipschitz
+      start: '00:10:50.540'
+      end: '00:10:50.540'
+      u: In parts, people were packed into a tight room, the people were already half
+        dead from the [endurance of the] transport, they were crowded together, and
+        the gas, the gas containers were opened. When there were not enough gas containers,
+        the people were barely suffocated but only half dead, and, as they were, they
+        were brought to the fire room, and burnt there.
+    - who: David Boder
+      start: '00:11:23.424'
+      end: '00:11:23.424'
+      u: What do you call a fire room?
+    - who: Maximillian Lipschitz
+      start: '00:11:25.966'
+      end: '00:11:25.966'
+      u: Well—crematorium.
+    - who: David Boder
+      start: '00:11:27.322'
+      end: '00:11:27.322'
+      u: Yes. Now, let us come back, you stayed in Cracow back then?
+    - who: Maximillian Lipschitz
+      start: '00:11:32.515'
+      end: '00:11:32.515'
+      u: I stayed back in Cracow. After this, after the first evacuation in May the
+        ghetto was downsized, because there were fewer Jews. The conditions worsened.
+        Then, in October of 1942, came the second evacuation. There, family members
+        were not considered anymore. At that time, I lost most of my family. Just
+        by happenstance I was able to save my sister and the children...
+    - who: David Boder
+      start: '00:12:07.884'
+      end: '00:12:07.884'
+      u: Whom from your family did you lose?
+    - who: Maximillian Lipschitz
+      start: '00:12:10.083'
+      end: '00:12:10.083'
+      u: Back then, that is, with the first evacuation, I lost [an] uncle, an aunt,
+        a cousin, a young person with his wife and a fourteen-year-old girl. All blossoming
+        human beings who could have lived a long life.
+    - who: David Boder
+      start: '00:12:27.858'
+      end: '00:12:27.858'
+      u: Yes, well?
+    - who: Maximillian Lipschitz
+      start: '00:12:28.431'
+      end: '00:12:28.431'
+      u: Of course, I was not the only one, there were, when you walked through the
+        town, through the streets of the ghetto after the evacuation, you would only
+        hear the weeping and...[pause]
+    - who: David Boder
+      start: '00:12:43.292'
+      end: '00:12:43.292'
+      u: "[In English] This interview was discontinued because Dr. Lipschitz had to
+        go on an important appointment of which he either had forgotten or didn't
+        know before. We are now introducing another interview, at, eh, about the,
+        eh, fourteenth minute of the spool."
+    - who: David Boder
+      start: '00:13:14.210'
+      end: 
+      u: Chicago, June 26th, 1950. This concludes the section of Dr. Lipschitz. We
+        have separated this from Spool 21, that has now the interview with Mr. Lea,
+        and this will be Spool 9-21A, while the interview with Mr. Lea will be Spool
+        9-21B. Illinois Institute of Technology wire recording, project MH156. That's
+        all.
+transcript: {}
+translation: {}

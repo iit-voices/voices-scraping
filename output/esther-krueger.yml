@@ -26,5 +26,5194 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: de
+    interview:
+    - who: David Boder
+      start: '00:00:00.628'
+      end: '00:00:00.628'
+      u: "[In English] Italy, September the second, 1946, in Tradate—between Milano
+        and Como, a displaced persons' community given to self government of a number
+        of Kibbuzim. That means small, formed Zionistic groups, which intend to enter
+        Palestine by legal or illegal means, hm, whichever possible. Hm, the interviewee
+        is Miss Esther Krüger, 20 years old"
+    - who: David Boder
+      start: '00:00:32.104'
+      end: '00:00:32.104'
+      u: "[In German] Zu welchem Kibbuz gehören Sie?"
+    - who: David Boder
+      start: '00:00:34.794'
+      end: '00:00:34.794'
+      u: "[In English] Belonging to the Kibbuz Nochum."
+    - who: David Boder
+      start: '00:00:37.978'
+      end: '00:00:37.978'
+      u: "[In German] Also Fräulein Krüger, sagen Sie mir, wie heißen Sie und wie
+        alt sind Sie und von wo sind Sie?"
+    - who: Esther Krueger
+      start: '00:00:45.151'
+      end: '00:00:45.151'
+      u: Ich bin alt zwanzig (20) Jahre, von Kielce und im Kibbuz Nochum.
+    - who: David Boder
+      start: '00:00:51.722'
+      end: '00:00:51.722'
+      u: Ja, Sie sind von Kielce.
+    - who: Esther Krueger
+      start: '00:00:53.550'
+      end: '00:00:53.550'
+      u: Ja.
+    - who: David Boder
+      start: '00:00:54.081'
+      end: '00:00:54.081'
+      u: Nun erzählen Sie uns, was hat Ihnen passiert, wenn Sie...wenn der Krieg hat
+        angefangen.
+    - who: Esther Krueger
+      start: '00:01:00.737'
+      end: '00:01:00.737'
+      u: Also [unverständlich]
+    - who: David Boder
+      start: '00:01:02.762'
+      end: '00:01:02.762'
+      u: Also was Sie sich denken. Sie brauchen nicht zu geben...den exakten Tag oder
+        was. Wo seid Ihr gewesen in Kielce - es ist gewesen?
+    - who: Esther Krueger
+      start: '00:01:12.594'
+      end: '00:01:12.594'
+      u: Meinen Sie in welchem Lager?
+    - who: David Boder
+      start: '00:01:14.782'
+      end: '00:01:14.782'
+      u: Nein, nein, nein. Wo hast Du gewohnt, daheim?
+    - who: Esther Krueger
+      start: '00:01:17.220'
+      end: '00:01:17.220'
+      u: Ich? In Kielce.
+    - who: David Boder
+      start: '00:01:18.267'
+      end: '00:01:18.267'
+      u: Hm, Ihr habt gewohnt in...?
+    - who: Esther Krueger
+      start: '00:01:20.454'
+      end: '00:01:20.454'
+      u: Kielce.
+    - who: David Boder
+      start: '00:01:21.220'
+      end: '00:01:21.220'
+      u: In Kielce, mit wem denn?
+    - who: Esther Krueger
+      start: '00:01:23.314'
+      end: '00:01:23.314'
+      u: Mit der ganzen Familie.
+    - who: David Boder
+      start: '00:01:24.908'
+      end: '00:01:24.908'
+      u: Ja und wie viele?
+    - who: Esther Krueger
+      start: '00:01:25.768'
+      end: '00:01:25.768'
+      u: Die Eltern und Schwestern, Brüder.
+    - who: David Boder
+      start: '00:01:28.315'
+      end: '00:01:28.315'
+      u: Wie viele Schwestern und wie viele Brüder?
+    - who: Esther Krueger
+      start: '00:01:30.096'
+      end: '00:01:30.096'
+      u: Ich habe gehabt drei (3) Schwestern und drei (3) Brüder.
+    - who: David Boder
+      start: '00:01:33.440'
+      end: '00:01:33.440'
+      u: Drei (3) Brüder.
+    - who: Esther Krueger
+      start: '00:01:34.315'
+      end: '00:01:34.315'
+      u: Ja.
+    - who: David Boder
+      start: '00:01:34.690'
+      end: '00:01:34.690'
+      u: Seien Sie gewesen älter oder jünger?
+    - who: Esther Krueger
+      start: '00:01:36.987'
+      end: '00:01:36.987'
+      u: Ein Bruder war älter und...
+    - who: David Boder
+      start: '00:01:38.283'
+      end: '00:01:38.283'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:01:38.829'
+      end: '00:01:38.829'
+      u: ". . . und Einer jünger."
+    - who: David Boder
+      start: '00:01:39.751'
+      end: '00:01:39.751'
+      u: Also ein Bruder, Ein Älterer und...
+    - who: Esther Krueger
+      start: '00:01:42.626'
+      end: '00:01:42.626'
+      u: Ja.
+    - who: David Boder
+      start: '00:01:43.376'
+      end: '00:01:43.376'
+      u: ". . . und drei (3) Schwestern, jüngerer?"
+    - who: Esther Krueger
+      start: '00:01:44.329'
+      end: '00:01:44.329'
+      u: Drei Schwester jüngerer und zwei Brüder...
+    - who: David Boder
+      start: '00:01:45.735'
+      end: '00:01:45.735'
+      u: Zwei Brüder.
+    - who: Esther Krueger
+      start: '00:01:46.391'
+      end: '00:01:46.391'
+      u: Ja.
+    - who: David Boder
+      start: '00:01:47.141'
+      end: '00:01:47.141'
+      u: So sind sie gewesen im Ganzen acht (8)...sieben (7) Kinder.
+    - who: Esther Krueger
+      start: '00:01:49.106'
+      end: '00:01:49.106'
+      u: Ja.
+    - who: David Boder
+      start: '00:01:49.575'
+      end: '00:01:49.575'
+      u: Und mit Ihren Eltern waren...
+    - who: Esther Krueger
+      start: '00:01:52.258'
+      end: '00:01:52.258'
+      u: Auch.
+    - who: David Boder
+      start: '00:01:52.945'
+      end: '00:01:52.945'
+      u: ". . . waren es neun (9) Menschen in der Familie?"
+    - who: Esther Krueger
+      start: '00:01:54.320'
+      end: '00:01:54.320'
+      u: Ja.
+    - who: David Boder
+      start: '00:01:54.929'
+      end: '00:01:54.929'
+      u: Sprechen Sie lauter. Ja. Nun und was war die Beschäftigung von Ihrem Vater?
+    - who: Esther Krueger
+      start: '00:01:59.710'
+      end: '00:01:59.710'
+      u: Mein Vater hat gearbeitet mit...hm, Stoffen.
+    - who: David Boder
+      start: '00:02:02.804'
+      end: '00:02:02.804'
+      u: Mit Stoffen.
+    - who: Esther Krueger
+      start: '00:02:04.257'
+      end: '00:02:04.257'
+      u: Ja.
+    - who: David Boder
+      start: '00:02:04.694'
+      end: '00:02:04.694'
+      u: Hatte er ein Geschäft?
+    - who: Esther Krueger
+      start: '00:02:05.428'
+      end: '00:02:05.428'
+      u: Ja. Und die Mutter auch.
+    - who: David Boder
+      start: '00:02:06.788'
+      end: '00:02:06.788'
+      u: Die Mutter war auch mit in dem Geschäft?
+    - who: Esther Krueger
+      start: '00:02:09.756'
+      end: '00:02:09.756'
+      u: Ja.
+    - who: David Boder
+      start: '00:02:10.099'
+      end: '00:02:10.099'
+      u: Ja, nun, haben sie gut verdient?
+    - who: Esther Krueger
+      start: '00:02:12.349'
+      end: '00:02:12.349'
+      u: Ja, hm, sie haben gut verdient,...wir haben ein gutes Leben.
+    - who: David Boder
+      start: '00:02:15.802'
+      end: '00:02:15.802'
+      u: Ein gutes Leben. Was für eine Bildung habt ihr bekommen?
+    - who: Esther Krueger
+      start: '00:02:19.052'
+      end: '00:02:19.052'
+      u: Ich bin gegangen in die Schule.
+    - who: David Boder
+      start: '00:02:21.067'
+      end: '00:02:21.067'
+      u: Was für eine Schule?
+    - who: Esther Krueger
+      start: '00:02:21.974'
+      end: '00:02:21.974'
+      u: Volksschule, ich war noch jung.
+    - who: David Boder
+      start: '00:02:24.661'
+      end: '00:02:24.661'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:02:25.130'
+      end: '00:02:25.130'
+      u: Sechzehn Jahre, da habe ich die Volksschule sieben (7) Jahre...
+    - who: David Boder
+      start: '00:02:27.723'
+      end: '00:02:27.723'
+      u: Sieben Klassen von...
+    - who: Esther Krueger
+      start: '00:02:28.848'
+      end: '00:02:28.848'
+      u: Ja.
+    - who: David Boder
+      start: '00:02:29.035'
+      end: '00:02:29.035'
+      u: ". . . Volksschule."
+    - who: Esther Krueger
+      start: '00:02:29.597'
+      end: '00:02:29.597'
+      u: Und nachher ins Lager gehen.
+    - who: David Boder
+      start: '00:02:31.034'
+      end: '00:02:31.034'
+      u: Also, ein Moment, nicht so schnell. Also, wenn der Krieg hat angefangen seid
+        ihr gewesen in Kielce.
+    - who: Esther Krueger
+      start: '00:02:37.554'
+      end: '00:02:37.554'
+      u: Ja.
+    - who: David Boder
+      start: '00:02:38.393'
+      end: '00:02:38.393'
+      u: Also wer sind hereingekommen? Sind die Deutschen herein gekommen nach Kielce?
+    - who: Esther Krueger
+      start: '00:02:41.502'
+      end: '00:02:41.502'
+      u: Die Deutschen.
+    - who: David Boder
+      start: '00:02:42.471'
+      end: '00:02:42.471'
+      u: Also erzählen Sie mir, was hat passiert, wenn die Deutschen sind rein gekommen
+        nach Kielce? Was ist passiert zu Euch? Nun, sprechen Sie.
+    - who: Esther Krueger
+      start: '00:02:50.987'
+      end: '00:02:50.987'
+      u: Wie die Deutschen gekommen sind nach Kielce haben sie verhaftet für Zwangsarbeit.
+    - who: David Boder
+      start: '00:02:55.565'
+      end: '00:02:55.565'
+      u: Also sagen Sie mir, wie bald, gleich oder in ein paar Tagen oder?
+    - who: Esther Krueger
+      start: '00:02:58.893'
+      end: '00:02:58.893'
+      u: Gleich.
+    - who: David Boder
+      start: '00:02:59.424'
+      end: '00:02:59.424'
+      u: ". . . oder ein paar Tage später, oder wie ist es gewesen?"
+    - who: Esther Krueger
+      start: '00:03:01.830'
+      end: '00:03:01.830'
+      u: Wann?
+    - who: David Boder
+      start: '00:03:03.815'
+      end: '00:03:03.815'
+      u: Nicht ganz genau...
+    - who: Esther Krueger
+      start: '00:03:05.315'
+      end: '00:03:05.315'
+      u: Es war im zwei und vierzigsten (42.) Jahr.
+    - who: David Boder
+      start: '00:03:06.503'
+      end: '00:03:06.503'
+      u: Im zwei und vierzigste (42.) Jahr.
+    - who: Esther Krueger
+      start: '00:03:07.644'
+      end: '00:03:07.644'
+      u: Ja.
+    - who: David Boder
+      start: '00:03:08.222'
+      end: '00:03:08.222'
+      u: Wie hat man das gemacht für Zwangsarbeit? Wie...
+    - who: Esther Krueger
+      start: '00:03:10.035'
+      end: '00:03:10.035'
+      u: Man hat es gebraucht für die Munitionsfabrik, nach Skarzysko.
+    - who: David Boder
+      start: '00:03:13.706'
+      end: '00:03:13.706'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:03:14.175'
+      end: '00:03:14.175'
+      u: Und man hat geschnappt für Zwangsarbeit...für Munitionsfabrik.
+    - who: David Boder
+      start: '00:03:17.550'
+      end: '00:03:17.550'
+      u: Nun, wie hat man das...? Was hat Euch passiert?
+    - who: Esther Krueger
+      start: '00:03:18.518'
+      end: '00:03:18.518'
+      u: Damals...
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:03:20.534'
+      end: '00:03:20.534'
+      u: Damals hat man gegründet eine jüdisches Kommune.
+    - who: David Boder
+      start: '00:03:24.815'
+      end: '00:03:24.815'
+      u: Gemeinde, ja.
+    - who: Esther Krueger
+      start: '00:03:25.502'
+      end: '00:03:25.502'
+      u: Ja, ein Jüdisches. Und haben [unverständlich] zur Arbeit.
+    - who: David Boder
+      start: '00:03:30.799'
+      end: '00:03:30.799'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:03:31.580'
+      end: '00:03:31.580'
+      u: Hat man mich auch genommen zur Arbeit. Aber ich habe öfter mal entflohen,
+        weil ich wollte zusammen sein mit meinen Eltern.
+    - who: David Boder
+      start: '00:03:37.819'
+      end: '00:03:37.819'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:03:38.256'
+      end: '00:03:38.256'
+      u: Und so hat man mich genommen zwangs, ja, die Polizei, die Jüdische.
+    - who: David Boder
+      start: '00:03:41.272'
+      end: '00:03:41.272'
+      u: Von der jüdischen Polizei.
+    - who: Esther Krueger
+      start: '00:03:42.568'
+      end: '00:03:42.568'
+      u: Polizei.
+    - who: David Boder
+      start: '00:03:43.146'
+      end: '00:03:43.146'
+      u: Also, wenn Sie waren bei der Zwangsarbeit—haben Sie gearbeitet und sind dann
+        jeden Abend nach Hause?
+    - who: Esther Krueger
+      start: '00:03:48.489'
+      end: '00:03:48.489'
+      u: Ja, ich bin gefahren zur Arbeit um sieben (7) Uhr und gekommen nach Hause
+        um fünf (5) Uhr.
+    - who: David Boder
+      start: '00:03:54.395'
+      end: '00:03:54.395'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:03:54.739'
+      end: '00:03:54.739'
+      u: Für eine gewisse Zeit, vielleicht zwei (2) Monate habe ich so gearbeitet.
+    - who: David Boder
+      start: '00:03:56.973'
+      end: '00:03:56.973'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:03:57.504'
+      end: '00:03:57.504'
+      u: Und nachher hat man gesagt, es kommt eine Aussiedlung.
+    - who: David Boder
+      start: '00:04:03.347'
+      end: '00:04:03.347'
+      u: Aha, nun, nachher, also weiter. Wie ist die Aussiedlung durch gegangen. Erzählen
+        Sie alles mit die Kleinigkeiten, nun?
+    - who: Esther Krueger
+      start: '00:04:10.269'
+      end: '00:04:10.269'
+      u: Ich bin aufgestanden in der Früh und habe gesehen meine Mutti. Nachher hab
+        ich nicht gewollt in die Arbeit gehen und meine Mutti hat sehr geweint und
+        gesagt, ich gehe nicht in die Arbeit , dann werd ich gehalten in den Barracken.
+    - who: David Boder
+      start: '00:04:24.378'
+      end: '00:04:24.378'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:04:24.972'
+      end: '00:04:24.972'
+      u: Also ich musste gehen in die Arbeit.
+    - who: David Boder
+      start: '00:04:26.174'
+      end: '00:04:26.174'
+      u: Nun warten Sie. Wie? In welchen Baracken? Ist Ihre Mutter schon gewesen in
+        den Baracken?
+    - who: Esther Krueger
+      start: '00:04:30.330'
+      end: '00:04:30.330'
+      u: Nein, meine Mutti ist gewesen zu Hause.
+    - who: David Boder
+      start: '00:04:32.627'
+      end: '00:04:32.627'
+      u: Ja. Hat sie...(beiden sprechen)
+    - who: Esther Krueger
+      start: '00:04:33.768'
+      end: '00:04:33.768'
+      u: Aber...
+    - who: David Boder
+      start: '00:04:34.127'
+      end: '00:04:34.127'
+      u: ". . . hat sie gewusst, dass sie kommen zur Aussiedlung?"
+    - who: Esther Krueger
+      start: '00:04:35.284'
+      end: '00:04:35.284'
+      u: Wir haben nicht gewusst, nicht genau gewusst.
+    - who: David Boder
+      start: '00:04:37.784'
+      end: '00:04:37.784'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:04:38.237'
+      end: '00:04:38.237'
+      u: Leute haben so darüber gesprochen. Heute wird Aussiedlung sein. Und wenn
+        Aussiedlung wird sein, dann wird man den Block behalten in den Baracken.
+    - who: David Boder
+      start: '00:04:45.612'
+      end: '00:04:45.612'
+      u: Aha.
+    - who: Esther Krueger
+      start: '00:04:46.471'
+      end: '00:04:46.471'
+      u: Da habe ich selber bekommen Angst gehen zur Arbeit.
+    - who: David Boder
+      start: '00:04:48.190'
+      end: '00:04:48.190'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:04:48.924'
+      end: '00:04:48.924'
+      u: 'Aber meine Mutti hat gesagt: ‚Hab keine Angst. Heute werden sie uns nicht
+        in den Baracken erreichen.'' Und ich bin gegangen zu der Arbeit.'
+    - who: David Boder
+      start: '00:04:54.143'
+      end: '00:04:54.143'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:04:55.111'
+      end: '00:04:55.111'
+      u: Und ich bin den ganzen Tag bei der Arbeit und man hat uns gehalten.
+    - who: David Boder
+      start: '00:04:58.955'
+      end: '00:04:58.955'
+      u: Wen?
+    - who: Esther Krueger
+      start: '00:04:59.689'
+      end: '00:04:59.689'
+      u: Uns—alle Mädchen.
+    - who: David Boder
+      start: '00:05:01.548'
+      end: '00:05:01.548'
+      u: Oh, alle Mädchen, die bei der...
+    - who: Esther Krueger
+      start: '00:05:02.673'
+      end: '00:05:02.673'
+      u: Ja.
+    - who: David Boder
+      start: '00:05:03.235'
+      end: '00:05:03.235'
+      u: ".. Arbeit waren."
+    - who: Esther Krueger
+      start: '00:05:03.798'
+      end: '00:05:03.798'
+      u: Bei der Arbeit.
+    - who: David Boder
+      start: '00:05:04.173'
+      end: '00:05:04.173'
+      u: Oh, man hat sie gehalten bei der Arbeit, nun?
+    - who: Esther Krueger
+      start: '00:05:06.376'
+      end: '00:05:06.376'
+      u: Behalten in den Baracken, nicht mehr gelassen nach Hause.
+    - who: David Boder
+      start: '00:05:09.001'
+      end: '00:05:09.001'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:05:09.813'
+      end: '00:05:09.813'
+      u: Weil wir sind jeden Tag gekommen um 5 Uhr nach Hause.
+    - who: David Boder
+      start: '00:05:12.966'
+      end: '00:05:12.966'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:05:13.341'
+      end: '00:05:13.341'
+      u: Aber diese Tage hat man nach Hause nicht mehr gelassen.
+    - who: David Boder
+      start: '00:05:15.760'
+      end: '00:05:15.760'
+      u: Wo ist die Baracke gewesen? Bei der Fabrik?
+    - who: Esther Krueger
+      start: '00:05:19.272'
+      end: '00:05:19.272'
+      u: Die Baracke ist gewesen in .. bei der Fabrik.
+    - who: David Boder
+      start: '00:05:22.019'
+      end: '00:05:22.019'
+      u: Aha
+    - who: Esther Krueger
+      start: '00:05:22.487'
+      end: '00:05:22.487'
+      u: In Skarzysko.
+    - who: David Boder
+      start: '00:05:23.298'
+      end: '00:05:23.298'
+      u: Aha. Nun?
+    - who: Esther Krueger
+      start: '00:05:24.187'
+      end: '00:05:24.187'
+      u: Und nachher habe ich gesehen das Ärgste. Und ich habe mir vorgestellt, dass
+        ich bleibe selbst ohne meine Eltern.
+    - who: David Boder
+      start: '00:05:31.258'
+      end: '00:05:31.258'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:05:31.695'
+      end: '00:05:31.695'
+      u: Ich habe viel geweint. Ich habe so geweint, ich habe da bekommen von einem...SS
+        Mann eine bekommen, ich konnte nicht gesehen die Hände vor meinen Augen.
+    - who: David Boder
+      start: '00:05:41.989'
+      end: '00:05:41.989'
+      u: Was hast Du bekommen? Eine Ohrfeige?
+    - who: Esther Krueger
+      start: '00:05:43.207'
+      end: '00:05:43.207'
+      u: Ich hab so eine...
+    - who: David Boder
+      start: '00:05:43.972'
+      end: '00:05:43.972'
+      u: Er hat Dich geschlagen ins Gesicht.
+    - who: Esther Krueger
+      start: '00:05:45.610'
+      end: '00:05:45.610'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:05:47.015'
+      end: '00:05:47.015'
+      u: Nun?
+    - who: Esther Krueger
+      start: '00:05:47.389'
+      end: '00:05:47.389'
+      u: Damals [unverständlich] und habe nicht beherrscht die Gewalt
+    - who: David Boder
+      start: '00:05:49.803'
+      end: '00:05:49.803'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:05:50.271'
+      end: '00:05:50.271'
+      u: Es war das Ärgste, das mir passiert im Leben.
+    - who: David Boder
+      start: '00:05:54.969'
+      end: '00:05:54.969'
+      u: Was?
+    - who: Esther Krueger
+      start: '00:05:55.937'
+      end: '00:05:55.937'
+      u: Zu bleiben ohne Eltern, ohne Schwestern und Brüdern sein.
+    - who: David Boder
+      start: '00:05:58.022'
+      end: '00:05:58.022'
+      u: Nun?
+    - who: Esther Krueger
+      start: '00:05:58.600'
+      end: '00:05:58.600'
+      u: Aber das hat gar nichts gemacht; ich habe müssen bleiben in den Baracken.
+        Und meine Eltern sind noch geblieben zu Hause—vielleicht vier (4) Wochen.
+    - who: David Boder
+      start: '00:06:09.994'
+      end: '00:06:09.994'
+      u: Ja und wo sind Sie geblieben? In den Baracken diese 4 Wochen?
+    - who: Esther Krueger
+      start: '00:06:13.100'
+      end: '00:06:13.100'
+      u: Und ich bin geblieben in die Baracken und nachher habe ich bekommen von daheim
+        Schriften und ich habe auch geschrieben—durch Polnische.
+    - who: David Boder
+      start: '00:06:22.172'
+      end: '00:06:22.172'
+      u: Ah hm.
+    - who: Esther Krueger
+      start: '00:06:22.64'
+      end: '00:06:22.64'
+      u: Und meine Mutti hat geschrieben zu mir, die Aussiedlung ist geblieben und
+        erst in drei (3) Monaten. Aber es ist nicht gewesen wahr. Meine Mutti hat
+        das geschrieben, dass ich mir nicht so viele, hm, hm,...
+    - who: David Boder
+      start: '00:06:35.971'
+      end: '00:06:35.971'
+      u: Sorgen?
+    - who: Esther Krueger
+      start: '00:06:36.877'
+      end: '00:06:36.877'
+      u: Sorgen machen sollte.
+    - who: David Boder
+      start: '00:06:37.470'
+      end: '00:06:37.470'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:06:38.126'
+      end: '00:06:38.126'
+      u: Und nachher...
+    - who: David Boder
+      start: '00:06:40.407'
+      end: '00:06:40.407'
+      u: Hat Ihre Mutter geschrieben durch die Post?
+    - who: Esther Krueger
+      start: '00:06:41.922'
+      end: '00:06:41.922'
+      u: Die Post, ja, durch die Polnischen.
+    - who: David Boder
+      start: '00:06:44.983'
+      end: '00:06:44.983'
+      u: Ja, also man hat nicht dürfen Briefe bekommen
+    - who: Esther Krueger
+      start: '00:06:47.419'
+      end: '00:06:47.419'
+      u: Wie bitte?
+    - who: David Boder
+      start: '00:06:48.418'
+      end: '00:06:48.418'
+      u: Man hat nicht erlaubt, dass Sie bekommen Briefe.
+    - who: Esther Krueger
+      start: '00:06:50.136'
+      end: '00:06:50.136'
+      u: Nicht erlaubt, nein.
+    - who: David Boder
+      start: '00:06:51.667'
+      end: '00:06:51.667'
+      u: Nein.
+    - who: Esther Krueger
+      start: '00:06:52.823'
+      end: '00:06:52.823'
+      u: Es war nicht erlaubt.
+    - who: David Boder
+      start: '00:06:53.448'
+      end: '00:06:53.448'
+      u: Aber sie wurden geschickt durch die Geheimen, polnische Post.
+    - who: Esther Krueger
+      start: '00:06:54.788'
+      end: '00:06:54.788'
+      u: Ja, sie haben die Briefe gebracht ins Lager.
+    - who: David Boder
+      start: '00:06:56.819'
+      end: '00:06:56.819'
+      u: Ja, nun?
+    - who: Esther Krueger
+      start: '00:06:57.584'
+      end: '00:06:57.584'
+      u: Und nachher ist gewesen.
+    - who: David Boder
+      start: '00:07:00.708'
+      end: '00:07:00.708'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:07:01.114'
+      end: '00:07:01.114'
+      u: Da habe ich auch geschrieben nach Hause einen Tag vorher.
+    - who: David Boder
+      start: '00:07:05.254'
+      end: '00:07:05.254'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:07:05.582'
+      end: '00:07:05.582'
+      u: Und ich habe bekommen jeden zweiten (2.) Tag einen Brief. Die Polnischen
+        sind gekommen am nächsten Tag und haben gesagt, sie haben keinen Brief mehr
+        bekommen, es waren alle schon ausgesiedelt.
+    - who: David Boder
+      start: '00:07:15.480'
+      end: '00:07:15.480'
+      u: An Yom Kippur?
+    - who: Esther Krueger
+      start: '00:07:16.464'
+      end: '00:07:16.464'
+      u: An Yom Kippur, am selben Tag.
+    - who: David Boder
+      start: '00:07:18.260'
+      end: '00:07:18.260'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:07:18.792'
+      end: '00:07:18.792'
+      u: Ganz früh um drei (3) Uhr Nacht hat man sie geweckt.
+    - who: David Boder
+      start: '00:07:21.900'
+      end: '00:07:21.900'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:07:22.463'
+      end: '00:07:22.463'
+      u: Und die Mutti hat müssen aufstehen mit die kleinen Kinder, nehmen alles und
+        raus aus dem Haus.
+    - who: David Boder
+      start: '00:07:28.509'
+      end: '00:07:28.509'
+      u: Also sind sie noch gewesen in der Synagoge an Yom Kippur am Abend. Sind die
+        Leute noch zu Kol Nidrei gegangen?
+    - who: Esther Krueger
+      start: '00:07:35.375'
+      end: '00:07:35.375'
+      u: Ja, sie sind noch gegangen in der Nacht und sind dann nach Hause. Und haben
+        gar nichts gewusst.
+    - who: David Boder
+      start: '00:07:41.297'
+      end: '00:07:41.297'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:07:41.703'
+      end: '00:07:41.703'
+      u: Um 3 Uhr sind sie dann ausgesiedelt.
+    - who: David Boder
+      start: '00:07:46.234'
+      end: '00:07:46.234'
+      u: Ja. Wer waren sie...und wie alt sind die kleinen Kinder gewesen?
+    - who: Esther Krueger
+      start: '00:07:50.421'
+      end: '00:07:50.421'
+      u: Die Jüngste, meine Schwester, war vier (4) Jahre alt.
+    - who: David Boder
+      start: '00:07:53.936'
+      end: '00:07:53.936'
+      u: Und Ihr Vater ist auch genommen worden?
+    - who: Esther Krueger
+      start: '00:07:56.233'
+      end: '00:07:56.233'
+      u: Mein Vater ist auch gewesen im Lager. Aber im zweiten (2.) dort. Ich bin
+        gewesen in Baracke B und mein Vater ist gewesen in Baracke A.
+    - who: David Boder
+      start: '00:08:03.233'
+      end: '00:08:03.233'
+      u: Ah, das ist...schon...schon von früher?
+    - who: Esther Krueger
+      start: '00:08:04.905'
+      end: '00:08:04.905'
+      u: Früher. Aber ich habe nichts gewusst von meinem Vater. Man hat mir gesagt,
+        mein Vater ist nach Hause gefahren deshalb, weil er hat bekommen schwache
+        Augen. Habe mich so gefreut, dass mein Vater...(beide sprechen)
+    - who: David Boder
+      start: '00:08:15.624'
+      end: '00:08:15.624'
+      u: We hat bekommen schwache Augen?
+    - who: Esther Krueger
+      start: '00:08:16.827'
+      end: '00:08:16.827'
+      u: ". . . zusammen, ja..."
+    - who: David Boder
+      start: '00:08:17.577'
+      end: '00:08:17.577'
+      u: Und?
+    - who: Esther Krueger
+      start: '00:08:17.874'
+      end: '00:08:17.874'
+      u: ". . . mit meiner Mutti ist."
+    - who: David Boder
+      start: '00:08:18.593'
+      end: '00:08:18.593'
+      u: Ja. War das so?
+    - who: Esther Krueger
+      start: '00:08:19.702'
+      end: '00:08:19.702'
+      u: Nein. Ich habe geschrieben nach Hause, aber meine Mutti hat gar nicht geantwortet.
+        Und nachher ein Jahr später hat man mir gesagt, mein Vater ist gestorben bevor
+        die Aussiedlung von Skarzysko ist getan.
+    - who: David Boder
+      start: '00:08:33.601'
+      end: '00:08:33.601'
+      u: Hm. Also man hat Deinen Vater auch genommen in die Baracken?
+    - who: Esther Krueger
+      start: '00:08:36.851'
+      end: '00:08:36.851'
+      u: Ja.
+    - who: David Boder
+      start: '00:08:37.538'
+      end: '00:08:37.538'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:08:38.069'
+      end: '00:08:38.069'
+      u: Ja, mein Vater war auch mit in der Baracke, aber mein Vater hat gearbeitet
+        an Holz.
+    - who: David Boder
+      start: '00:08:40.991'
+      end: '00:08:40.991'
+      u: Wie alt ist er gewesen?
+    - who: Esther Krueger
+      start: '00:08:42.194'
+      end: '00:08:42.194'
+      u: Mein Vater war ein und vierzig (41) Jahre.
+    - who: David Boder
+      start: '00:08:44.272'
+      end: '00:08:44.272'
+      u: Ein und vierzig (41) Jahre?
+    - who: Esther Krueger
+      start: '00:08:45.538'
+      end: '00:08:45.538'
+      u: Ein und vierzig (41) Jahre.
+    - who: David Boder
+      start: '00:08:45.944'
+      end: '00:08:45.944'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:08:46.444'
+      end: '00:08:46.444'
+      u: Mein Vater hat gearbeitet bei Holz in Karlstadt und ein großer Baum ist gefallen
+        auf seine Füss und da hat er...
+    - who: David Boder
+      start: '00:08:53.703'
+      end: '00:08:53.703'
+      u: Ein Großer was? Grosse Bäume, ja.
+    - who: Esther Krueger
+      start: '00:08:55.563'
+      end: '00:08:55.563'
+      u: ". . . ist gefallen auf seine Füße und mein Vater hat das Bein gebrochen."
+    - who: David Boder
+      start: '00:08:58.783'
+      end: '00:08:58.783'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:08:59.564'
+      end: '00:08:59.564'
+      u: Dann ist der Vater ins Spital gekommen und gestorben.
+    - who: David Boder
+      start: '00:09:03.814'
+      end: '00:09:03.814'
+      u: Hm, nun. Also was hat passiert in dieser Nacht, wo (vielleicht Shemed - unverständlich)
+        war. Was hat man Euch erzählt?
+    - who: Esther Krueger
+      start: '00:09:11.877'
+      end: '00:09:11.877'
+      u: Man hat mir erzählt so. Wenn meine Mutti und meine Brüder sind gegangen nach
+        Kol Nidrei und sind gekommen nach Hause, haben sie gar nichts gewusst. Sie
+        sind dann schlafen gegangen wie an jedem anderen Tage.
+    - who: David Boder
+      start: '00:09:23.832'
+      end: '00:09:23.832'
+      u: Ist dort gewesen ein Ghetto?
+    - who: Esther Krueger
+      start: '00:09:25.222'
+      end: '00:09:25.222'
+      u: Es soll ein Kibbuzim sein..
+    - who: David Boder
+      start: '00:09:27.597'
+      end: '00:09:27.597'
+      u: Ja, es ist gewesen—ein Ghetto.
+    - who: Esther Krueger
+      start: '00:09:28.691'
+      end: '00:09:28.691'
+      u: Ja.
+    - who: David Boder
+      start: '00:09:29.050'
+      end: '00:09:29.050'
+      u: In Kielce?
+    - who: Esther Krueger
+      start: '00:09:29.472'
+      end: '00:09:29.472'
+      u: Ja.
+    - who: David Boder
+      start: '00:09:30.222'
+      end: '00:09:30.222'
+      u: Nun.
+    - who: Esther Krueger
+      start: '00:09:30.753'
+      end: '00:09:30.753'
+      u: Und nachher - um drei (3) Uhr ist gekommen die jüdische Polizei und haben
+        geweckt. Mein Mutter hat nicht gewusst, was geschehen hat oder was da passiert,
+        aber sie hat verstanden sie muss fertig sein. Und dann ist ein SS Mann gekommen
+        und haben...sie haben herum gestellt um das ganze Städtchen SS Männer.
+    - who: David Boder
+      start: '00:09:51.705'
+      end: '00:09:51.705'
+      u: Wer seien gewesen die SS Männer, Deutsche oder Ukrainer?
+    - who: Esther Krueger
+      start: '00:09:55.158'
+      end: '00:09:55.158'
+      u: Es ware Deutsche und Ukrainer auch, aber meistens Deutsche. Sie haben sehr
+        geschlagen die Juden. Und das Ärgste ist dann passiert, egal ob es eine Frau
+        oder ein Mann war, man hat sie tot geschlagen. Und meine Mutti ist aufgestanden,
+        auch die Kinder und sie haben das Haus verlassen, vielleicht so um sechs (6)
+        Uhr. Das ist was ich gehört habe, aber ich weiß es nicht genau.
+    - who: David Boder
+      start: '00:10:15.088'
+      end: '00:10:15.088'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:10:15.869'
+      end: '00:10:15.869'
+      u: Vielleicht so um sechs (6) haben zwei sie weg geführt nach den Wagonen und
+        sie sind mit Wagonen, die geschlossen sind gewesen, die mit Kalk aus geschmissen
+        worden sind; kein Wasser haben sie nicht bekommen.
+    - who: David Boder
+      start: '00:10:27.615'
+      end: '00:10:27.615'
+      u: Nun ja. Das haben Sie nicht selbst gesehen.
+    - who: Esther Krueger
+      start: '00:10:30.021'
+      end: '00:10:30.021'
+      u: Das habe ich alles gehört.
+    - who: David Boder
+      start: '00:10:30.989'
+      end: '00:10:30.989'
+      u: Ja, also das haben wir von den Anderen gehört. Nun, was hat Euch passiert?
+    - who: Esther Krueger
+      start: '00:10:34.645'
+      end: '00:10:34.645'
+      u: Und ich bin geblieben im Lager. Damals habe ich noch nichts (unverständlich—beide
+        sprechen)
+    - who: David Boder
+      start: '00:10:38.614'
+      end: '00:10:38.614'
+      u: In den Baracken?
+    - who: Esther Krueger
+      start: '00:10:39.302'
+      end: '00:10:39.302'
+      u: In den Baracken, ja. Ich habe damals schon nicht mehr gewusst, was wird sein
+        mit meinem Leben, ob ich überlebe oder ob es das Ende ist von meinem Leben.
+        Aber ich habe gearbeitet an den Maschinen. Ich habe sehr fleissig gearbeitet
+        und hab bekommen einen guten Namen bekommen von dem deutschen Meister.
+    - who: David Boder
+      start: '00:10:53.818'
+      end: '00:10:53.818'
+      u: Ein was?
+    - who: Esther Krueger
+      start: '00:10:54.537'
+      end: '00:10:54.537'
+      u: Bei dem deutschen Meister einen guten Namen, ich habe gut gearbeitet.
+    - who: David Boder
+      start: '00:10:57.553'
+      end: '00:10:57.553'
+      u: Einen guten Namen?
+    - who: Esther Krueger
+      start: '00:10:58.147'
+      end: '00:10:58.147'
+      u: Ja.
+    - who: David Boder
+      start: '00:10:58.428'
+      end: '00:10:58.428'
+      u: Bei ihm. Nun?
+    - who: Esther Krueger
+      start: '00:11:00.053'
+      end: '00:11:00.053'
+      u: Und ich habe damals bei Bürstenmaschine.
+    - who: David Boder
+      start: '00:11:03.459'
+      end: '00:11:03.459'
+      u: Was haben Sie da gemacht? Was hat...
+    - who: Esther Krueger
+      start: '00:11:06.381'
+      end: '00:11:06.381'
+      u: Die Bürstenmaschine haben geputzt die, diese Hülsen...
+    - who: David Boder
+      start: '00:11:09.492'
+      end: '00:11:09.492'
+      u: Ja, die Munitionshülsen.
+    - who: Esther Krueger
+      start: '00:11:10.648'
+      end: '00:11:10.648'
+      u: Ja, die Munitionshülsen. Und nachher habe ich mehr Suppe bekommen. Das Wichtigste
+        in dem Lager war sich halten rein, immer, ja. Immer rein, auf sich achten
+        und achten auf die Arbeit.
+    - who: David Boder
+      start: '00:11:22.835'
+      end: '00:11:22.835'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:11:23.320'
+      end: '00:11:23.320'
+      u: Und das war bei mir alles in Ordnung. Ich habe mich sehr gut verhalten dort.
+        Ich habe...wir haben bekommen für sieben (7) Mann ein Kilo neunzig (1.9 kg)
+        Brot. Ich habe da mit meiner Freundin—ich habe da ein Mädchen von zu Hause
+        als Freundin—wir konnten da verkaufen eine Portion Brot.
+    - who: David Boder
+      start: '00:11:40.226'
+      end: '00:11:40.226'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:11:40.820'
+      end: '00:11:40.820'
+      u: Und dafür Seife kaufen.
+    - who: David Boder
+      start: '00:11:42.414'
+      end: '00:11:42.414'
+      u: Wofür?
+    - who: Esther Krueger
+      start: '00:11:42.914'
+      end: '00:11:42.914'
+      u: Zum Waschen.
+    - who: David Boder
+      start: '00:11:43.352'
+      end: '00:11:43.352'
+      u: Und was für ein Brot war das gewesen? War es gebacken jeden Tag?
+    - who: Esther Krueger
+      start: '00:11:46.977'
+      end: '00:11:46.977'
+      u: 'Das ist gewesen so: einige Tage war es frisch, aber dann war es auch schon
+        verschimmelt auch.'
+    - who: David Boder
+      start: '00:11:52.645'
+      end: '00:11:52.645'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:11:53.270'
+      end: '00:11:53.270'
+      u: Altes Brot.
+    - who: David Boder
+      start: '00:11:54.879'
+      end: '00:11:54.879'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:11:55.941'
+      end: '00:11:55.941'
+      u: Es war verschieden. So wir...
+    - who: David Boder
+      start: '00:11:56.941'
+      end: '00:11:56.941'
+      u: So haben Sie das Brot verkauf um Seife zu kaufen.
+    - who: Esther Krueger
+      start: '00:11:58.128'
+      end: '00:11:58.128'
+      u: Ja, wir haben verkauft eine Portion Brot an zwei (2) Mann, um zu kaufen die
+        Seife.
+    - who: David Boder
+      start: '00:12:00.923'
+      end: '00:12:00.923'
+      u: Zwei Mann.
+    - who: Esther Krueger
+      start: '00:12:02.782'
+      end: '00:12:02.782'
+      u: Zwei (2).
+    - who: David Boder
+      start: '00:12:03.188'
+      end: '00:12:03.188'
+      u: Zwei (2) Mädchen. Ja.
+    - who: Esther Krueger
+      start: '00:12:04.000'
+      end: '00:12:04.000'
+      u: Ja, zwei (2) Mädchen. Und wir haben...eine Portion Brot haben wir aufgegessen.
+    - who: David Boder
+      start: '00:12:04.781'
+      end: '00:12:04.781'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:12:05.187'
+      end: '00:12:05.187'
+      u: Jeden Tag haben wir das Brot bekommen am Abend. Und wenn wir waren sehr hungrig,
+        haben wir das Brot gegessen. Am Abend. In der Früh haben wir müssen warten
+        bis zwölf (12 (Uhr) zu Mittag. [unverständlich] war verschieden. Einen Tag
+        ist es gewesen bloß Wasser. Zwei Tag später ist es schon gewesen so ein bisschen
+        Erbsensuppe oder so mit Kartoffel, so verschieden die Suppe.
+    - who: David Boder
+      start: '00:12:29.663'
+      end: '00:12:29.663'
+      u: Hat man Brot gegeben zu Mittag wieder?
+    - who: Esther Krueger
+      start: '00:12:31.818'
+      end: '00:12:31.818'
+      u: Nein, zu Mittag haben wir kein Brot nicht bekommen.
+    - who: David Boder
+      start: '00:12:33.317'
+      end: '00:12:33.317'
+      u: Das Brot hat es bloß gegeben einmal am Tag.
+    - who: Esther Krueger
+      start: '00:12:35.332'
+      end: '00:12:35.332'
+      u: ". . . sie haben uns nicht mehr Brot gegeben. [unverständlich] Brot für den
+        ganzen Tag. Und zwei mal am Tag...nein, zwei Mal in der Woche haben wir bekommen
+        Marmelade zum Brot."
+    - who: David Boder
+      start: '00:12:45.552'
+      end: '00:12:45.552'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:12:46.176'
+      end: '00:12:46.176'
+      u: Einen Löffel Marmelade. Und so haben wir gelebt die ganze Zeit, die halben
+        Juden in Werk B. Und nachher...
+    - who: David Boder
+      start: '00:12:55.213'
+      end: '00:12:55.213'
+      u: In Werk was?
+    - who: Esther Krueger
+      start: '00:12:56.915'
+      end: '00:12:56.915'
+      u: In Werk B. Skarzysko hat drei Werke gehabt, Werk A, Werk B und Werk C.
+    - who: David Boder
+      start: '00:13:03.473'
+      end: '00:13:03.473'
+      u: Hm. Und Sie haben gelebt in Werk B.
+    - who: Esther Krueger
+      start: '00:13:04.831'
+      end: '00:13:04.831'
+      u: Werk B.
+    - who: David Boder
+      start: '00:13:05.440'
+      end: '00:13:05.440'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:13:05.893'
+      end: '00:13:05.893'
+      u: Das ärgste Werk ist gewesen Werk C. Das Pikrina da war, war es „gelbe“ Arbeit.
+        Bei der Arbeit sind viel gestorben.
+    - who: David Boder
+      start: '00:13:14.050'
+      end: '00:13:14.050'
+      u: Was für eine Arbeit?
+    - who: Esther Krueger
+      start: '00:13:15.081'
+      end: '00:13:15.081'
+      u: Pikrina, das ist „gelbe“ Arbeit.
+    - who: David Boder
+      start: '00:13:17.205'
+      end: '00:13:17.205'
+      u: Was heiß das?
+    - who: Esther Krueger
+      start: '00:13:18.455'
+      end: '00:13:18.455'
+      u: Das ist so ein gelbes...von was man macht Munition.
+    - who: David Boder
+      start: '00:13:21.329'
+      end: '00:13:21.329'
+      u: Hülsen.
+    - who: Esther Krueger
+      start: '00:13:22.485'
+      end: '00:13:22.485'
+      u: Gelbe Arbeit—Hülsen. Man wird sofort gelb von der Arbeit.
+    - who: David Boder
+      start: '00:13:25.565'
+      end: '00:13:25.565'
+      u: Oh, man wird gelb...
+    - who: Esther Krueger
+      start: '00:13:27.033'
+      end: '00:13:27.033'
+      u: Ja.
+    - who: David Boder
+      start: '00:13:27.486'
+      end: '00:13:27.486'
+      u: ". . . von der Arbeit. Was für eine Arbeit ist es, dass man wird gelb?"
+    - who: Esther Krueger
+      start: '00:13:29.454'
+      end: '00:13:29.454'
+      u: Ich habe dort nicht gearbeitet. Ich war ja im zweiten Werk.
+    - who: David Boder
+      start: '00:13:32.312'
+      end: '00:13:32.312'
+      u: OK.
+    - who: Esther Krueger
+      start: '00:13:32.890'
+      end: '00:13:32.890'
+      u: Aber ich habe gesehen die Menschen was sind gelb.
+    - who: David Boder
+      start: '00:13:34.936'
+      end: '00:13:34.936'
+      u: Aha—und nun?
+    - who: Esther Krueger
+      start: '00:13:35.811'
+      end: '00:13:35.811'
+      u: Und unser Werk ist nicht gewesen das Ärgste, aber die deutschen Meister sind
+        gewesen die Ärgsten in unserem Werk. Da ist gewesen ein Meister Herring. Der
+        hat viele Tage geschlagen die Juden und viele Juden hat totgeschlagen. Jede
+        zwei...
+    - who: David Boder
+      start: '00:13:49.335'
+      end: '00:13:49.335'
+      u: Hat er die wirklich tot geschlagen?
+    - who: Esther Krueger
+      start: '00:13:51.382'
+      end: '00:13:51.382'
+      u: Zu Tode geschlagen. Wenn ein Jude hat etwas nicht gemacht in Ordnung bei
+        der Maschine, da war es Sabotage, da hat es geheißen Sabotage.
+    - who: David Boder
+      start: '00:13:58.671'
+      end: '00:13:58.671'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:13:59.249'
+      end: '00:13:59.249'
+      u: Er hat es mit bösem Willen gemacht. Er hat ihm dazu so [unverständlich] in
+        den Magen herein, er hat ihm einen Fußtritt gegeben, dass...
+    - who: David Boder
+      start: '00:14:06.149'
+      end: '00:14:06.149'
+      u: Ein Moment, womit hat er das getan?
+    - who: Esther Krueger
+      start: '00:14:07.977'
+      end: '00:14:07.977'
+      u: Wie bitte?
+    - who: David Boder
+      start: '00:14:08.446'
+      end: '00:14:08.446'
+      u: Womit hat er das getan?
+    - who: Esther Krueger
+      start: '00:14:09.821'
+      end: '00:14:09.821'
+      u: Mit dem Fuß, mit dem Stiefel.
+    - who: David Boder
+      start: '00:14:11.102'
+      end: '00:14:11.102'
+      u: Mit dem Fuß.
+    - who: Esther Krueger
+      start: '00:14:11.477'
+      end: '00:14:11.477'
+      u: Ja.
+    - who: David Boder
+      start: '00:14:11.884'
+      end: '00:14:11.884'
+      u: Mit den Stiefeln.
+    - who: Esther Krueger
+      start: '00:14:12.384'
+      end: '00:14:12.384'
+      u: Da hat er ihn so stark gestoßen, dass die Eingeweide runter gefallen sind
+        und die Person am Boden gefallen ist. Er hat vielleicht noch zwei, drei Tage
+        gelebt...
+    - who: David Boder
+      start: '00:14:17.699'
+      end: '00:14:17.699'
+      u: Und...
+    - who: Esther Krueger
+      start: '00:14:18.402'
+      end: '00:14:18.402'
+      u: ". . . und dann ist er gestorben."
+    - who: David Boder
+      start: '00:14:19.121'
+      end: '00:14:19.121'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:14:19.965'
+      end: '00:14:19.965'
+      u: Und bei diesen Sachen auch, also es ist jede zweite Woche gewesen...hm, im
+        Polnischen...wie heißt das...
+    - who: David Boder
+      start: '00:14:31.651'
+      end: '00:14:31.651'
+      u: Sagen Sie es auf polnisch.
+    - who: Esther Krueger
+      start: '00:14:32.808'
+      end: '00:14:32.808'
+      u: Hm,...Przebiurki.
+    - who: David Boder
+      start: '00:14:35.386'
+      end: '00:14:35.386'
+      u: Ja. Selektion.
+    - who: Esther Krueger
+      start: '00:14:36.230'
+      end: '00:14:36.230'
+      u: Jede zwei Wochen hat man selektiert die Menschen.
+    - who: David Boder
+      start: '00:14:38.195'
+      end: '00:14:38.195'
+      u: Hm. Selektion.
+    - who: Esther Krueger
+      start: '00:14:39.132'
+      end: '00:14:39.132'
+      u: Es war Selektion jede zwei Wochen. Man hat die Menschen in den Wald und da
+        aus geschossen.
+    - who: David Boder
+      start: '00:14:43.304'
+      end: '00:14:43.304'
+      u: Gleich dort?
+    - who: Esther Krueger
+      start: '00:14:44.882'
+      end: '00:14:44.882'
+      u: Ja. Gleich bei Werk B im Wald.
+    - who: David Boder
+      start: '00:14:46.492'
+      end: '00:14:46.492'
+      u: Wer hat das gesehen?
+    - who: Esther Krueger
+      start: '00:14:47.398'
+      end: '00:14:47.398'
+      u: Das haben viele Juden gesehen. Wenn es sind vorbei zwei (2) Wochen, hat er
+        gesagt, diese und diese, weil sie hat vielleicht schlecht ausgesehen...
+    - who: David Boder
+      start: '00:14:56.264'
+      end: '00:14:56.264'
+      u: Aha.
+    - who: Esther Krueger
+      start: '00:14:56.795'
+      end: '00:14:56.795'
+      u: ". . . oder die war nicht so hübsch angezogen. Man hat aufgeschrieben die
+        Nummer, weil jeder hat gehabt eine Nummer"
+    - who: David Boder
+      start: '00:15:03.366'
+      end: '00:15:03.366'
+      u: Ja?
+    - who: Esther Krueger
+      start: '00:15:03.804'
+      end: '00:15:03.804'
+      u: ". . . und den Namen aufgeschrieben. Und sie haben alle gewusst, dass man
+        sie in den Wald führt in den Tod. Wenn einige Tage [unverständlich] .. dann
+        ist gekommen die jüdische Polizei und hat gesagt: „Diese Namen, diese Namen“.
+        Dann haben sie sich verabschiedet von den restlichen Juden und man hat sie
+        geführt in den Wald."
+    - who: David Boder
+      start: '00:15:22.489'
+      end: '00:15:22.489'
+      u: Und was hat die jüdische Polizei dort getan?
+    - who: Esther Krueger
+      start: '00:15:24.755'
+      end: '00:15:24.755'
+      u: Es war nur die jüdische Polizei, die die Juden zur Arbeit gebracht haben,
+        zur Fabrik...
+    - who: David Boder
+      start: '00:15:29.322'
+      end: '00:15:29.322'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:15:29.728'
+      end: '00:15:29.728'
+      u: ". . . und am Abend zurück bringen..."
+    - who: David Boder
+      start: '00:15:31.368'
+      end: '00:15:31.368'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:15:31.868'
+      end: '00:15:31.868'
+      u: ". . . das keine Juden fort gehen von dem Lager."
+    - who: David Boder
+      start: '00:15:34.368'
+      end: '00:15:34.368'
+      u: Ja, nun, was die jüdische Polizei gehabt zu tun mit dem Erschießen?
+    - who: Esther Krueger
+      start: '00:15:38.118'
+      end: '00:15:38.118'
+      u: Die jüdische Polizei haben nicht geschossen. Sie haben nur die Juden zugeführt
+        und übergeben an die Ukrainer...
+    - who: David Boder
+      start: '00:15:43.712'
+      end: '00:15:43.712'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:15:44.400'
+      end: '00:15:44.400'
+      u: ". . . und dann geführt in den Wald und nachher..."
+    - who: David Boder
+      start: '00:15:46.335'
+      end: '00:15:46.335'
+      u: Die jüdische Polizei hat das tun müssen?
+    - who: Esther Krueger
+      start: '00:15:48.007'
+      end: '00:15:48.007'
+      u: Ja. Und nachher haben die Ukrainer übernommen die Juden und haben sie aus
+        geschossen.
+    - who: David Boder
+      start: '00:15:51.476'
+      end: '00:15:51.476'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:15:52.288'
+      end: '00:15:52.288'
+      u: Wir haben gehört die Schüsse und nachher...
+    - who: David Boder
+      start: '00:15:53.319'
+      end: '00:15:53.319'
+      u: Sie haben gehört...? (beide sprechen)
+    - who: Esther Krueger
+      start: '00:15:54.554'
+      end: '00:15:54.554'
+      u: Wir haben gehört in der Baracke, das ist nicht weit von der Baracke, von
+        unserer Baracke. Und nachher sind sie nicht mehr zurück gekommen.
+    - who: David Boder
+      start: '00:16:00.539'
+      end: '00:16:00.539'
+      u: Und was heißt hübsch—hübsch angezogen? Hat man gehabt seine eigenen Kleider,
+        die man konnte anziehen?
+    - who: Esther Krueger
+      start: '00:16:07.055'
+      end: '00:16:07.055'
+      u: Also wir mussten sehen, dass die Kleider, die wir haben gehabt, seien nicht
+        zerrissen und nicht schmutzig und...
+    - who: David Boder
+      start: '00:16:12.393'
+      end: '00:16:12.393'
+      u: Ah hm.
+    - who: Esther Krueger
+      start: '00:16:12.877'
+      end: '00:16:12.877'
+      u: ". . . und Etliche, die haben Hunger, konnten sich nicht halten so..."
+    - who: David Boder
+      start: '00:16:16.471'
+      end: '00:16:16.471'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:16:17.096'
+      end: '00:16:17.096'
+      u: ". . . rein."
+    - who: David Boder
+      start: '00:16:17.628'
+      end: '00:16:17.628'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:16:17.941'
+      end: '00:16:17.941'
+      u: Da haben sie sich unrein verhalten, weil sie haben sehr gehungert. Und ich...ich
+        war das gewohnt, ich habe gewusst was rein halten heißt [unverständlich]...
+    - who: David Boder
+      start: '00:16:29.926'
+      end: '00:16:29.926'
+      u: Ein Moment.
+    - who: Esther Krueger
+      start: '00:16:31.051'
+      end: '00:16:31.051'
+      u: ". . . aber nicht alle haben gekonnt sich so halten."
+    - who: David Boder
+      start: '00:16:32.660'
+      end: '00:16:32.660'
+      u: "[In English] Esther is a chubby, good looking, now plump and young girl
+        of twenty (20). She is not understanding what I am saying and I caught her
+        … I got her in interrupting her ways about washing and she has put down here
+        on the table a piece of soap. She was going to do either some washing, hm,
+        to groom herself or, hm, to wash some ….. to do some laundry. She is very
+        well groomed. There is no Rouge or anything, but she has a very healthy and
+        pleasant look."
+    - who: David Boder
+      start: '00:17:04.390'
+      end: '00:17:04.390'
+      u: "[In German] Also weiter. Haben Sie verstanden was ich hab gesagt? Nein (lacht
+        etwas) na, gut. (lacht wieder)"
+    - who: David Boder
+      start: '00:17:10.504'
+      end: '00:17:10.504'
+      u: "[In English] Her teeth are exceptionally good."
+    - who: David Boder
+      start: '00:17:12.882'
+      end: '00:17:12.882'
+      u: "[In German] Sie haben sehr schöne Zähne."
+    - who: Esther Krueger
+      start: '00:17:13.243'
+      end: '00:17:13.243'
+      u: Sie sprechen im Englischen?
+    - who: David Boder
+      start: '00:17:15.283'
+      end: '00:17:15.283'
+      u: Ja, Englisch hab ich gesagt. Nun weiter.
+    - who: Esther Krueger
+      start: '00:17:17.815'
+      end: '00:17:17.815'
+      u: Sie wurden erschossen.
+    - who: David Boder
+      start: '00:17:20.159'
+      end: '00:17:20.159'
+      u: Also sie wurden erschossen.
+    - who: Esther Krueger
+      start: '00:17:21.378'
+      end: '00:17:21.378'
+      u: Ja.
+    - who: David Boder
+      start: '00:17:21.752'
+      end: '00:17:21.752'
+      u: Die Mädchen.
+    - who: Esther Krueger
+      start: '00:17:22.284'
+      end: '00:17:22.284'
+      u: Also es hat passiert auch viele Male, ein Mädchen hat gekocht Suppe für sich.
+        Sie hat bekommen etwas Kartoffel. So hat sie genommen von der [unverständlich]...Flocken,
+        davon hat man gemacht Suppe.
+    - who: David Boder
+      start: '00:17:33.900'
+      end: '00:17:33.900'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:17:34.525'
+      end: '00:17:34.525'
+      u: So hat sie genommen die paar Kartoffel und hat Supp gekocht. Sie hat gar
+        nichts gewusst. Ihr Name war geschrieben, aber sie weiß nicht, wann sie gerufen
+        worden.
+    - who: David Boder
+      start: '00:17:42.562'
+      end: '00:17:42.562'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:17:43.124'
+      end: '00:17:43.124'
+      u: Und mitten beim Kochen...
+    - who: David Boder
+      start: '00:17:44.764'
+      end: '00:17:44.764'
+      u: Wo hat sie gekocht? Hm, hm, wo hat sie die Suppe gekocht?
+    - who: Esther Krueger
+      start: '00:17:46.909'
+      end: '00:17:46.909'
+      u: Ja, bei uns in der Baracke ist gewesen im Winter...da haben wir gehabt so
+        kleine Öfen zum Heizen...
+    - who: David Boder
+      start: '00:17:53.096'
+      end: '00:17:53.096'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:17:53.439'
+      end: '00:17:53.439'
+      u: ". . . deshalb ist es dann nicht so kalt."
+    - who: David Boder
+      start: '00:17:54.939'
+      end: '00:17:54.939'
+      u: Hm. Nun weiter.
+    - who: Esther Krueger
+      start: '00:17:56.236'
+      end: '00:17:56.236'
+      u: So haben wir gekocht. Hat sie gekocht ein bisschen Supp und sie hat gar nichts
+        gewusst. In dem Moment kommt herein ein jüdischer Polizei und sagt ihren Namen.
+        Sie hatte gemusst lassen die Supp, ja, sie hat gewusst, dass sie sie nicht
+        mehr essen wird. Sie ist schon nicht mehr hier. Sie hat verabschiedet und
+        hat sie müssen alles verlassen. Sie hat genau gewusst, dass sie geht zum Tode,
+        aber sie hat keinen anderen Ausweg gehabt.
+    - who: David Boder
+      start: '00:18:17.822'
+      end: '00:18:17.822'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:18:18.415'
+      end: '00:18:18.415'
+      u: Es ist auch manchmal passiert, dass sich die jüdischen Buben haben sich geschlagen
+        mit der Polizei. Wenn man hat gewollt sie nehmen in den Wald, dann haben sie...
+    - who: David Boder
+      start: '00:18:26.510'
+      end: '00:18:26.510'
+      u: Die jüdische Polizei?
+    - who: Esther Krueger
+      start: '00:18:27.947'
+      end: '00:18:27.947'
+      u: Mit der jüdischen Polizei. Sie haben nicht gewollt gehen. Aber die jüdische
+        Polizei haben gar nicht gekönnt helfen. Wenn der SS Mann hat gesagt „Ihr habt
+        diese und diese zu bringen - diese Leute“ haben sie müssen die sofort bringen.
+        Und diese gewusst sowieso sie gehen auf den Tod und haben nicht gewollt gehen.
+        Und sie haben etliche Male geschlagen die Polizisten.
+    - who: David Boder
+      start: '00:18:44.097'
+      end: '00:18:44.097'
+      u: Also die jüdische Polizei haben gehabt Revolver, Gewehre, Büchsen?
+    - who: Esther Krueger
+      start: '00:18:47.283'
+      end: '00:18:47.283'
+      u: Ne, nein, die haben gar keine Waffen gehabt. Nur einen , so ein Stück...so...
+    - who: David Boder
+      start: '00:18:52.562'
+      end: '00:18:52.562'
+      u: Stock.
+    - who: Esther Krueger
+      start: '00:18:53.187'
+      end: '00:18:53.187'
+      u: Einen Stock, mehr nicht.
+    - who: David Boder
+      start: '00:18:54.436'
+      end: '00:18:54.436'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:18:55.248'
+      end: '00:18:55.248'
+      u: Und so ist es gewesen, so haben wir gelebt, das war alles. Wir haben nicht
+        gewisst, wie lange wir werden leben. Und wir haben gewusst, es wird kommen
+        die Zeit, wenn wir auch ausgesucht werden und [unverständlich] zum Tod. Aber
+        ich habe mir .. es hat mir gar nichts gemacht. Ich habe schon gewusst, keine
+        Eltern hab ich nicht, kein Schwester und Bruder auch nicht. Von der Familie
+        ist keiner nicht geblieben, nur ich alleine. Es hat mir gar nichts gemacht.,
+        wenn zu Tode, dann zu Tod. Aber heute leb ich und was morgen wird sein, hab
+        ich gar nicht gewusst. Nachher ist geführt Werk B auf Werk A, auch in Skarzysko.
+        Und ich bin geblieben auf Werk A. Werk A war viel besser, weil wir konnten...wir
+        haben uns gelernt stricken.
+    - who: David Boder
+      start: '00:19:42.989'
+      end: '00:19:42.989'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:19:44.348'
+      end: '00:19:44.348'
+      u: Handarbeit. Strümpf und Handschuh.
+    - who: David Boder
+      start: '00:19:48.379'
+      end: '00:19:48.379'
+      u: Handschuh?
+    - who: Esther Krueger
+      start: '00:19:48.910'
+      end: '00:19:48.910'
+      u: Handschuh, ja. Hab ich doch verdient und habe es gegeben für zu kaufen ein
+        Stückchen Brot und machen ein Kleid oder [unverständlich] und Seife hab ich
+        können kaufen. Ich hab schon nicht mehr verkaufen die Portion vom Brot. Und...
+    - who: David Boder
+      start: '00:20:02.839'
+      end: '00:20:02.839'
+      u: Und Sie haben gelernt zu stricken in der freien Zeit, nicht, ind er Fabrik
+        haben Sie doch nicht gestrickt?
+    - who: Esther Krueger
+      start: '00:20:09.390'
+      end: '00:20:09.390'
+      u: Ich habe gelernt Stricken in der Baracke.
+    - who: David Boder
+      start: '00:20:12.483'
+      end: '00:20:12.483'
+      u: Aha.
+    - who: Esther Krueger
+      start: '00:20:12.936'
+      end: '00:20:12.936'
+      u: Wenn ich bin gekommen um sieben (7) Uhr von der Arbeit, habe ich gelernt
+        Stricken bis neun (9) Uhr. Zwei (2) Stunden.
+    - who: David Boder
+      start: '00:20:18.576'
+      end: '00:20:18.576'
+      u: Haben die Deutschen erlaubt herein zu bringen Wolle oder solche Sachen?
+    - who: Esther Krueger
+      start: '00:20:23.542'
+      end: '00:20:23.542'
+      u: Das haben die Deutschen nicht gewusst.
+    - who: David Boder
+      start: '00:20:25.291'
+      end: '00:20:25.291'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:20:25.728'
+      end: '00:20:25.728'
+      u: Die Deutschen haben uns nur [unverständlich] bei der Arbeit, aber wenn wir
+        sind gekommen zu Hause, dann sind wir nur gewesen bewacht von...und haben
+        seit dem ersten (1.) Tag bewacht von der jüdischen Polizei.
+    - who: David Boder
+      start: '00:20:36.207'
+      end: '00:20:36.207'
+      u: Männer oder Frauen?
+    - who: Esther Krueger
+      start: '00:20:37.082'
+      end: '00:20:37.082'
+      u: Männer, nur Männer.
+    - who: David Boder
+      start: '00:20:38.504'
+      end: '00:20:38.504'
+      u: Ja. Und nachher?
+    - who: Esther Krueger
+      start: '00:20:39.785'
+      end: '00:20:39.785'
+      u: Und nachher habe ich gelernt stricken. Ich habe das mit meine...mit meiner
+        Kameradin...mit dem Mädel...auch gut verdient. Und so habe ich gelebt die
+        ganze Zeit. Ich bin auch gewesen in dem Werk...
+    - who: David Boder
+      start: '00:20:53.037'
+      end: '00:20:53.037'
+      u: Haben sie gezahlt für die Arbeit?
+    - who: Esther Krueger
+      start: '00:20:54.474'
+      end: '00:20:54.474'
+      u: Ja, für die Arbeit haben wir bekommen von andere wieder bekommen Brot oder
+        wir haben bekommen Geld, polnisches Geld.
+    - who: David Boder
+      start: '00:21:02.389'
+      end: '00:21:02.389'
+      u: Nein, nein, ich meine für die Arbeit in der Fabrik, hat man bezahlt?
+    - who: Esther Krueger
+      start: '00:21:05.562'
+      end: '00:21:05.562'
+      u: Nein...für die Arbeit in der Fabrik haben wir gar nichts bekommen. Wir haben
+        nur gebetet für Eines, wir sollen bleiben am Leben von der Arbeit.
+    - who: David Boder
+      start: '00:21:11.874'
+      end: '00:21:11.874'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:21:12.608'
+      end: '00:21:12.608'
+      u: Sonst gar nichts.
+    - who: David Boder
+      start: '00:21:13.139'
+      end: '00:21:13.139'
+      u: Also, Ihr habt gelernt Stricken.
+    - who: Esther Krueger
+      start: '00:21:15.732'
+      end: '00:21:15.732'
+      u: Und nachher haben wir gelernt Stricken. Wenn ich schon gekonnt habe Stricken,
+        habe ich doch verdient. Habe ich Geld gehabt auf Seife, Kleidung da zu machen
+        und ein Stückchen Brot hab ich können dazu kaufen.
+    - who: David Boder
+      start: '00:21:29.402'
+      end: '00:21:29.402'
+      u: Nun?
+    - who: Esther Krueger
+      start: '00:21:30.089'
+      end: '00:21:30.089'
+      u: Und nachher...
+    - who: David Boder
+      start: '00:21:32.339'
+      end: '00:21:32.339'
+      u: Wo hast Du gekauft das Brot?
+    - who: Esther Krueger
+      start: '00:21:35.308'
+      end: '00:21:35.308'
+      u: Das Brot haben gebringt...die Polnischen haben gebringt für sich. Sie haben
+        es gebracht für sich, dass die Deutschen es nicht wissen und sie haben es
+        verkauft für viel mehr Geld als es hat gekostet in der Stadt.
+    - who: David Boder
+      start: '00:21:47.338'
+      end: '00:21:47.338'
+      u: Mit was hast Du gezahlt. Mit Geld oder Waren?
+    - who: Esther Krueger
+      start: '00:21:49.650'
+      end: '00:21:49.650'
+      u: Wir haben gezahlt mit Geld und Sachen. Wer hat Geld, der hat Geld gegeben
+        und wer gehabt hat Sachen von zu Hause, hat gezahlt mit Sachen.
+    - who: David Boder
+      start: '00:21:58.150'
+      end: '00:21:58.150'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:21:58.759'
+      end: '00:21:58.759'
+      u: Ich habe auch gehabt Sachen von zu Hause. Dann bin ich krank geworden—Flecktyphus.
+    - who: David Boder
+      start: '00:22:03.915'
+      end: '00:22:03.915'
+      u: Flecktyphus?
+    - who: Esther Krueger
+      start: '00:22:04.821'
+      end: '00:22:04.821'
+      u: Flecktyphus.
+    - who: David Boder
+      start: '00:22:05.165'
+      end: '00:22:05.165'
+      u: Haben Sie gehabt Läuse?
+    - who: Esther Krueger
+      start: '00:22:06.430'
+      end: '00:22:06.430'
+      u: Nein. Das ist gewesen so, wenn Einer hat das gehabt und hat von Hunger bekommen
+        oder so vom Schmutz und der Zweite. Meine Kameradin ist rein gekommen mit
+        Flecktyphus und nachher habe ich das bekommen. Ich habe der Kameradin sehr
+        geholfen, ich habe sie geführt zum Bad und ich habe sie gekämmt. Ich habe
+        das alles übernommen von ihr.
+    - who: David Boder
+      start: '00:22:24.991'
+      end: '00:22:24.991'
+      u: Hart sie gehabt Läuse?
+    - who: Esther Krueger
+      start: '00:22:26.116'
+      end: '00:22:26.116'
+      u: Nun ja, wenn sie hat Fieber bekommen und Flecktyphus war sie im Spital. Und
+        ich habe müssen gehen zur Arbeit. Ich habe gar keine Zeit, den ganzen Tag
+        bei ihr zu sein, denn ich habe müssen sein bei der Arbeit. Und sie selbst
+        hat nicht gekonnt waschen, ich hab sie gemusst waschen.
+    - who: David Boder
+      start: '00:22:41.381'
+      end: '00:22:41.381'
+      u: Im Hospital?
+    - who: Esther Krueger
+      start: '00:22:41.975'
+      end: '00:22:41.975'
+      u: Im Hospital. Erst ist sie gelegen in der Baracke, nachher im Hospital.
+    - who: David Boder
+      start: '00:22:46.053'
+      end: '00:22:46.053'
+      u: Und wo haben Sie sie gewaschen? Wenn sie war im Spital oder wenn sie...
+    - who: Esther Krueger
+      start: '00:22:49.069'
+      end: '00:22:49.069'
+      u: Wenn sie liegt in der Baracke habe ich sie gewaschen. Und nachher hat man
+        sie genommen ins Hospital auf dem zweiten (2.) Werk.
+    - who: David Boder
+      start: '00:22:54.506'
+      end: '00:22:54.506'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:22:55.506'
+      end: '00:22:55.506'
+      u: 'Da habe ich nicht können sie waschen. Ich bin gekommen...zu ihr ins Spital
+        auch ich war krank und habe bekommen Fieber vierzig (40). Da bin ich gekommen
+        zu ihr ins Spital, sie hat mich nicht gekennt. Sie hat so ein hohes Fieber
+        und sie hat mich nur ab und zu, sie hat mich...sie gar nichts gewusst. Und
+        wenn sie mich hat erkannt, dann hat sie gemeint, ich bin zu ihr gekommen zum
+        Waschen. Hat sie mir gesagt...laut: „Esther, wasch mich.“ Aber ich bin gefallen
+        aus das Bett von großem Fieber.'
+    - who: David Boder
+      start: '00:23:25.708'
+      end: '00:23:25.708'
+      u: Habt ihr geschlafen mit dem Mädchen in der Baracke oder habt ihr gehabt separate
+        Betten?
+    - who: Esther Krueger
+      start: '00:23:29.833'
+      end: '00:23:29.833'
+      u: Ne, in der Baracke sind wir geschlafen alle zusammen, zwei Mann, ich bin
+        geschlafen mit ihr.
+    - who: David Boder
+      start: '00:23:35.239'
+      end: '00:23:35.239'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:23:36.177'
+      end: '00:23:36.177'
+      u: Und...
+    - who: David Boder
+      start: '00:23:37.021'
+      end: '00:23:37.021'
+      u: Wie war das—in einem Bett?
+    - who: Esther Krueger
+      start: '00:23:37.896'
+      end: '00:23:37.896'
+      u: In einem Bett, solche Pritschenbetten.
+    - who: David Boder
+      start: '00:23:40.036'
+      end: '00:23:40.036'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:23:40.504'
+      end: '00:23:40.504'
+      u: Einstöckige Pritschen und zweistöckige Pritschen.
+    - who: David Boder
+      start: '00:23:43.113'
+      end: '00:23:43.113'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:23:43.488'
+      end: '00:23:43.488'
+      u: Und in einem Bett haben geschlafen zwei (2) Mann.
+    - who: David Boder
+      start: '00:23:45.409'
+      end: '00:23:45.409'
+      u: Ja, zwei Frauen?
+    - who: Esther Krueger
+      start: '00:23:47.393'
+      end: '00:23:47.393'
+      u: Ja. Und in dem Spital haben auf einer Pritsche geschlafen zehn (10) Mann
+        auf...
+    - who: David Boder
+      start: '00:23:53.033'
+      end: '00:23:53.033'
+      u: Auf einem Bett.
+    - who: Esther Krueger
+      start: '00:23:53.893'
+      end: '00:23:53.893'
+      u: Auf einer Pritsche zehn (10.) Mann.
+    - who: David Boder
+      start: '00:23:55.658'
+      end: '00:23:55.658'
+      u: Wie breit...wir gross war die Pritsche denn gewesen?
+    - who: Esther Krueger
+      start: '00:23:58.407'
+      end: '00:23:58.407'
+      u: Die Pritsche hat gehabt zehn (10) Meter.
+    - who: David Boder
+      start: '00:24:01.391'
+      end: '00:24:01.391'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:24:02.251'
+      end: '00:24:02.251'
+      u: Das Schlafen war verschieden. Ich habe im Spital gehabt ein eigenes Bett,
+        weil wenn meine Kameradin ist gekommen ein Bett, da hat nur sie geschlafen.
+        Und wenn sie gesund geworden ist, das Bett bekam ich und ich habe in dem Bett
+        geschlafen.
+    - who: David Boder
+      start: '00:24:16.875'
+      end: '00:24:16.875'
+      u: Sind sie sonst gelegen im Spital zwei in einem Bett?
+    - who: Esther Krueger
+      start: '00:24:19.218'
+      end: '00:24:19.218'
+      u: Ja, im Hospital sind sie legen zu fünf, zu sechs, zu zehn im Bett.
+    - who: David Boder
+      start: '00:24:23.405'
+      end: '00:24:23.405'
+      u: Nun und wer seien gewesen die Doktoren?
+    - who: Esther Krueger
+      start: '00:24:25.905'
+      end: '00:24:25.905'
+      u: Es sind gewesen jüdische Sanitäter auch und Doktors, zwei oder drei Doktoren,
+        auch Jüdische. Und alle paar Tage ist gewesen Kontrolle auch von Deutschen.
+        Sie haben Viele gegeben zum Tod.
+    - who: David Boder
+      start: '00:24:39.779'
+      end: '00:24:39.779'
+      u: Was soll das heißen?
+    - who: Esther Krueger
+      start: '00:24:41.154'
+      end: '00:24:41.154'
+      u: Wenn ein Kranker ist gelegen fünf (5) Tage oder sechs (6), da haben die Deutschen
+        gesagt, er kann schon nicht mehr gesund werden. Den Namen aufgeschrieben und
+        nachher kommt Auto und er ist geführt auf den Wald und ist nicht mehr zurück
+        gekommen.
+    - who: David Boder
+      start: '00:24:53.031'
+      end: '00:24:53.031'
+      u: Und so, wie hatten sie...wie hat man sie ermordet? Hat man sie erschossen
+        oder was?
+    - who: Esther Krueger
+      start: '00:24:57.564'
+      end: '00:24:57.564'
+      u: Das weiß ich nicht, weil ich war in Werk A und ich weiß, man hat sie genommen
+        nach Werk C.
+    - who: David Boder
+      start: '00:25:02.658'
+      end: '00:25:02.658'
+      u: Was heißt man hat sie genommen nach Werk C?
+    - who: Esther Krueger
+      start: '00:25:05.221'
+      end: '00:25:05.221'
+      u: Das ist ein zweites Werk in Skarzysko.
+    - who: David Boder
+      start: '00:25:07.158'
+      end: '00:25:07.158'
+      u: Ja, aber Du bist gewesen im Hospital—im Revier. Und die Leute was sind genommen...
+    - who: Esther Krueger
+      start: '00:25:10.105'
+      end: '00:25:10.105'
+      u: Ja.
+    - who: David Boder
+      start: '00:25:10.793'
+      end: '00:25:10.793'
+      u: ". . . die genommen wurden von dem Spital?"
+    - who: Esther Krueger
+      start: '00:25:11.605'
+      end: '00:25:11.605'
+      u: Die wurden genommen lebendig und...
+    - who: David Boder
+      start: '00:25:12.668'
+      end: '00:25:12.668'
+      u: Und sie wurden gebracht wohin?
+    - who: Esther Krueger
+      start: '00:25:14.152'
+      end: '00:25:14.152'
+      u: Sie wurden gebracht zu Werk C.
+    - who: David Boder
+      start: '00:25:16.105'
+      end: '00:25:16.105'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:25:16.464'
+      end: '00:25:16.464'
+      u: Und dann sind sie nicht mehr gekommen zurück.
+    - who: David Boder
+      start: '00:25:17.907'
+      end: '00:25:17.907'
+      u: Also weißt Du nicht, ob man hat ihnen gegeben Injektionen oder was weißt
+        Du?
+    - who: Esther Krueger
+      start: '00:25:20.800'
+      end: '00:25:20.800'
+      u: Das weiß ich aber gar nicht.
+    - who: David Boder
+      start: '00:25:22.472'
+      end: '00:25:22.472'
+      u: Und...
+    - who: Esther Krueger
+      start: '00:25:23.754'
+      end: '00:25:23.754'
+      u: Das habe ich nicht gesehen.
+    - who: David Boder
+      start: '00:25:24.520'
+      end: '00:25:24.520'
+      u: Nun?
+    - who: Esther Krueger
+      start: '00:25:25.114'
+      end: '00:25:25.114'
+      u: Und nachher bin ich auch gesund geworden vom Typhus.
+    - who: David Boder
+      start: '00:25:30.332'
+      end: '00:25:30.332'
+      u: Wie lange bist Du gewesen im Hospital?
+    - who: Esther Krueger
+      start: '00:25:31.739'
+      end: '00:25:31.739'
+      u: Ich in gewesen fast vierzehn (14) Tage, bis...
+    - who: David Boder
+      start: '00:25:33.911'
+      end: '00:25:33.911'
+      u: Aber Du hast gesagt, man kann nicht mehr wie fünf (5) Tage.
+    - who: Esther Krueger
+      start: '00:25:38.208'
+      end: '00:25:38.208'
+      u: Nun ja, ich konnte den Deutschen nicht sagen, ich bin hier so lang. Wenn
+        die sind gekommen, ich habe nicht so schlimm ausgesehen und ich habe gesagt,
+        ich bin hier drei Tag.
+    - who: David Boder
+      start: '00:25:47.145'
+      end: '00:25:47.145'
+      u: Und die Sanitärin hat nichts gesagt?
+    - who: Esther Krueger
+      start: '00:25:48.895'
+      end: '00:25:48.895'
+      u: Nein, die jüdische Sanitärin hat gesagt, darf nicht mehr sagen als zwei,
+        drei Tage.
+    - who: David Boder
+      start: '00:25:53.099'
+      end: '00:25:53.099'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:25:53.615'
+      end: '00:25:53.615'
+      u: 'Aber wer schon hat sehr schlimm ausgesehen, der hat nicht können sagen,
+        weil die haben gesehen heute: ‚Bist Du schon länger hier als drei (3), vier
+        (4) Tage''.'
+    - who: David Boder
+      start: '00:26:00.775'
+      end: '00:26:00.775'
+      u: Sind nicht gekommen die Selben, hat man Euch nicht erkannt?
+    - who: Esther Krueger
+      start: '00:26:03.603'
+      end: '00:26:03.603'
+      u: Nein, die haben nicht gekannt, weil so Viele waren so krank, es waren etliche
+        hundert Kranke, sie konnten sich nicht merken.
+    - who: David Boder
+      start: '00:26:09.665'
+      end: '00:26:09.665'
+      u: "[In English] We can see here, that I am trying to give them some searching
+        questions, when it appears the horrible story does not make any sense."
+    - who: David Boder
+      start: '00:26:16.111'
+      end: '00:26:16.111'
+      u: "[In German] Nun weiter. So bist Du gesund geworden in vierzehn (14) Tag?"
+    - who: Esther Krueger
+      start: '00:26:21.758'
+      end: '00:26:21.758'
+      u: Ja, die [unverständlich] war vorbei und ich war wieder gesund. Und ich habe
+        auch verkauft meine Kleider, die ich gehabt hab von daheim...für Kasche, um
+        zu kochen etwas nach der Krankheit. Ich war sehr schwach, aber ich habe selbst
+        gekocht.
+    - who: David Boder
+      start: '00:26:37.814'
+      end: '00:26:37.814'
+      u: Nun?
+    - who: Esther Krueger
+      start: '00:26:38.908'
+      end: '00:26:38.908'
+      u: Und nachher, ich bin gesund geworden. Ich bin sofort zu der Arbeit zurück
+        gekommen. Ich bin gewesen auf Werk A ein Jahr und auf Werk B ein ein halb
+        ( 1 ½ )Jahr. Nachher ist das ganze Lager Skarzysko nach Czenstokhov.
+    - who: David Boder
+      start: '00:26:59.485'
+      end: '00:26:59.485'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:27:00.063'
+      end: '00:27:00.063'
+      u: Wir haben gehört, dass die Russen kommen, da haben die Deutschen uns genommen
+        und transferiert die ganze Fabrik nach Ska...nach Czenstokhov.
+    - who: David Boder
+      start: '00:27:06.734'
+      end: '00:27:06.734'
+      u: Ja?
+    - who: Esther Krueger
+      start: '00:27:07.405'
+      end: '00:27:07.405'
+      u: Czenstokhov...
+    - who: David Boder
+      start: '00:27:08.217'
+      end: '00:27:08.217'
+      u: Wie hat man sie transferiert?
+    - who: Esther Krueger
+      start: '00:27:09.405'
+      end: '00:27:09.405'
+      u: Von Skarzysko nach Czenstokhov.
+    - who: David Boder
+      start: '00:27:11.483'
+      end: '00:27:11.483'
+      u: Nein, ich meine...
+    - who: Esther Krueger
+      start: '00:27:13.343'
+      end: '00:27:13.343'
+      u: Mit der Bahn.
+    - who: David Boder
+      start: '00:27:14.014'
+      end: '00:27:14.014'
+      u: Mit der Bahn?
+    - who: Esther Krueger
+      start: '00:27:15.936'
+      end: '00:27:15.936'
+      u: Ja, mit den Wagons.
+    - who: David Boder
+      start: '00:27:17.186'
+      end: '00:27:17.186'
+      u: Wie viele hat man rein gesteckt ins die Wagons?
+    - who: Esther Krueger
+      start: '00:27:18.920'
+      end: '00:27:18.920'
+      u: In einen Wagon hat man herein genommen hundert (100) Mann, achtzig (80)...
+    - who: David Boder
+      start: '00:27:22.826'
+      end: '00:27:22.826'
+      u: Mädchen meinen Sie?
+    - who: Esther Krueger
+      start: '00:27:23.920'
+      end: '00:27:23.920'
+      u: Ja, hundert (100) Mädel und man hat gesehen Männer in der Bahn, weil es ist
+        gewesen ein Lager für Mädel und für...
+    - who: David Boder
+      start: '00:27:31.670'
+      end: '00:27:31.670'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:27:32.295'
+      end: '00:27:32.295'
+      u: ". . . Männer."
+    - who: David Boder
+      start: '00:27:32.732'
+      end: '00:27:32.732'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:27:33.060'
+      end: '00:27:33.060'
+      u: Zusammen. Wir sind dann gefahren und man hat gegeben auf den Weg ein kleines
+        Stückchen Brot. Wir haben gehabt Hunger auf dem Weg.
+    - who: David Boder
+      start: '00:27:40.229'
+      end: '00:27:40.229'
+      u: Wie lange sind Sie gefahren?
+    - who: Esther Krueger
+      start: '00:27:41.729'
+      end: '00:27:41.729'
+      u: Wir sind nur gefahren einen Tag.
+    - who: David Boder
+      start: '00:27:43.822'
+      end: '00:27:43.822'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:27:44.415'
+      end: '00:27:44.415'
+      u: Einen Tag und eine halbe Nacht.
+    - who: David Boder
+      start: '00:27:47.305'
+      end: '00:27:47.305'
+      u: Hat man Euch heraus gelassen zu gehen zum Kabinett oder [unverständlich]?
+    - who: Esther Krueger
+      start: '00:27:50.008'
+      end: '00:27:50.008'
+      u: Nein.
+    - who: David Boder
+      start: '00:27:53.164'
+      end: '00:27:53.164'
+      u: Wenn Leute mussten gehen?
+    - who: Esther Krueger
+      start: '00:27:54.164'
+      end: '00:27:54.164'
+      u: Nein, gar nicht. Alle blieben in den Wagons vermacht.
+    - who: David Boder
+      start: '00:27:57.539'
+      end: '00:27:57.539'
+      u: Und was hat man getan wenn man hat müssen raus gehen?
+    - who: Esther Krueger
+      start: '00:28:00.289'
+      end: '00:28:00.289'
+      u: Oh, das war ganz verschieden. Man hat Töpfe noch gehabt vom...vom Lager und
+        die haben sie genommen auf den Weg. [unverständlich]
+    - who: David Boder
+      start: '00:28:05.969'
+      end: '00:28:05.969'
+      u: Hm, da waren da keine...
+    - who: Esther Krueger
+      start: '00:28:08.298'
+      end: '00:28:08.298'
+      u: Nur Frauen.
+    - who: David Boder
+      start: '00:28:09.095'
+      end: '00:28:09.095'
+      u: ". Nur Frauen."
+    - who: Esther Krueger
+      start: '00:28:09.642'
+      end: '00:28:09.642'
+      u: 'Ja. Man hat sich Einer vor dem Anderen nicht geniert, denn es geht nicht
+        anders. Dann sind wir gekommen nach Czenstokhov. Von Czenstokhov hat man uns
+        geführt auf Warta. Auch in Czenstokhov drei (3) Werke: Czenstokhovianka, Warta
+        and Pelcery. In bin geblieben in dem Werk Warta. Das ist das Werk an dem Wasser
+        Warta..'
+    - who: David Boder
+      start: '00:28:31.219'
+      end: '00:28:31.219'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:28:31.969'
+      end: '00:28:31.969'
+      u: Wir haben auch gearbeitet bei den selben Maschinen wie in Skarzysko. Es ist
+        gewesen schon sehr viel besser. Wir haben bekommen ein halbes Kilo Brot für
+        einen Mann, jeden Tag am Abend haben wir bekommen und bessere Suppe, eine
+        Dickere und viel mehr als in Skarzysko. Es war das Leben schon viel besser.
+    - who: David Boder
+      start: '00:28:53.093'
+      end: '00:28:53.093'
+      u: Und er hat Euch bewacht?
+    - who: Esther Krueger
+      start: '00:28:54.092'
+      end: '00:28:54.092'
+      u: Uns hat bewacht...die Deutschen haben uns [unverständlich] von alle Seiten.
+    - who: David Boder
+      start: '00:28:57.326'
+      end: '00:28:57.326'
+      u: Waren sie von der SS oder der Wehrmacht?
+    - who: Esther Krueger
+      start: '00:28:59.341'
+      end: '00:28:59.341'
+      u: Nein, Wehrmacht und Ukrainer, Werkschutz.
+    - who: David Boder
+      start: '00:29:02.914'
+      end: '00:29:02.914'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:29:03.977'
+      end: '00:29:03.977'
+      u: Und wir...das Leben war viel besser als in Skarzysko. Wir haben gewusst,
+        die Front kommt schon näher und näher und vielleicht werden wir befreit. Aber
+        wir haben nicht...
+    - who: David Boder
+      start: '00:29:13.591'
+      end: '00:29:13.591'
+      u: Haben die Euch geschlagen?
+    - who: Esther Krueger
+      start: '00:29:15.169'
+      end: '00:29:15.169'
+      u: Nein, das ist nicht gewesen dort. Wir haben nicht so viel bekommen wie in
+        Skarzysko. Es waren viel bessere Deutsche als in Skarzysko.
+    - who: David Boder
+      start: '00:29:22.450'
+      end: '00:29:22.450'
+      u: In welchem Jahr ist das gewesen?
+    - who: Esther Krueger
+      start: '00:29:24.215'
+      end: '00:29:24.215'
+      u: Das ist gewesen im fünf und vierzigsten (45) Jahr.
+    - who: David Boder
+      start: '00:29:26.668'
+      end: '00:29:26.668'
+      u: Im Jahre fünf und vierzig (45).
+    - who: Esther Krueger
+      start: '00:29:27.902'
+      end: '00:29:27.902'
+      u: Ja.
+    - who: David Boder
+      start: '00:29:28.246'
+      end: '00:29:28.246'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:29:28.683'
+      end: '00:29:28.683'
+      u: Von vier und vierzig (44) bis fünf und vierzig (45). Es war schon gegen Ende
+        fünf und vierzig (45), weil wir wurden befreit im Jahr fünf und vierzig (45).
+        Und wir haben so gelebt in Czenstokhov und das Leben war nicht so schlimm
+        wie in Skarzysko. Wir haben bekommen viel mehr zu essen Suppe, ein halbes
+        Kilo Brot und so haben wir gelebt. Und nachher haben wir auch gewusst die
+        Front kommt näher und wir werden befreit. Dabei haben wir nicht geglaubt,
+        dass es wahr ist...
+    - who: David Boder
+      start: '00:29:59.453'
+      end: '00:29:59.453'
+      u: Nun?
+    - who: Esther Krueger
+      start: '00:30:00.172'
+      end: '00:30:00.172'
+      u: 'Wir haben nicht geglaubt, dass wir das überleben, weil alle haben gesagt
+        zu alle Juden: ‚Wenn die Freiheit wird kommen um zwölf (12)...um zwölf (12)
+        Uhr, dann um halb zwölf machen die alle Juden tot die Deutschen.“'
+    - who: David Boder
+      start: '00:30:13.693'
+      end: '00:30:13.693'
+      u: Ein Ende.
+    - who: Esther Krueger
+      start: '00:30:14.349'
+      end: '00:30:14.349'
+      u: Ja, ein Ende. Dann haben wir nicht geglaubt, dass wir überleben diesen Krieg.
+        Aber ganz unerwartet am Montag ist es gewesen, da haben die Deutschen alle
+        Juden, alle Männer raus geführt nach Deutschland. Es ist gewesen am fünfzehnten
+        Ersten.
+    - who: David Boder
+      start: '00:30:33.413'
+      end: '00:30:33.413'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:30:34.194'
+      end: '00:30:34.194'
+      u: Und am Dienstag, am zweiten Tag, haben sie gewollt weg führen alle Frauen.
+        Es war in der Nacht und die Scharen sind da gestanden, es war ein großer Frost
+        und sehr kalt und es gibt ein Wunder—eines—es sind nicht gewesen Wagons da,
+        die uns weg transportieren konnten und wir sind geblieben in Czenstokhov.
+        Nachher, das war um fünf (5) Uhr am Abend hat das Bombardement angefangen.
+        Wir wurden bombardiert. Die Russen haben bombardiert ganz Czenstokhov und
+        bei Nacht sind sie gekommen nach Czenstokhov, die Russen. Die Deutschen haben
+        verlassen das Lager. Da haben sich gefreut schon die Juden, wenn die Russen
+        sind angekommen. Ich selbst habe nicht gewollt glauben, ich habe es gesehen,
+        wie die Juden haben die Büchsen genommen, aber ich habe das alles nicht gewollt
+        glauben, dass es möglich ist und dass es wahr ist, dass wir diesen Krieg überlebt
+        haben, diesen gefährlichen Krieg. Aber es ist gewesen alles wahr. Am Morgen
+        haben wir das Lager verlassen und wir sind in Czenstokhov auf der Gasse und
+        wir haben getroffen viele Deutsches Militär, alles tot...und wir haben gesehen
+        die Freiheit. Russen sind gekommen. Wir haben auch viel jüdische...viele jüdische
+        Russen gesehen, die in dem russischen Militär sind. Die haben uns gesagt,
+        dass die Freiheit ist gekommen zu uns. Wir haben das alles überlebt, das ist
+        wahr und wir sollen fahren nach Hause und suchen unsere [unverständlich],
+        unsere Familie. Mir tut es sehr leid, ich habe gewusst, ich habe keinen von
+        der Familie, aber ich habe gedacht, vielleicht, Esther, vielleicht ist doch
+        jemand geblieben von meiner Familie. Ich bin gefahren in drei Tagen bin ich
+        nach Hause gekommen. Unser Haus ist...da hat gewohnt eine polnische Frau.
+        Die hat mir gesagt von meiner Familie ist keiner, kein Einer nicht geblieben.
+        Ich bin geblieben wohnen bei der Christin. Ich habe dort gewohnt .. habe ich
+        gewohnt etliche Monate. Und nachher habe ich gewusst, dass das existiert ein
+        Kibbuzim für Juden.
+    - who: David Boder
+      start: '00:32:39.425'
+      end: '00:32:39.425'
+      u: Das haben Sie vorher nicht gewusst?
+    - who: Esther Krueger
+      start: '00:32:41.065'
+      end: '00:32:41.065'
+      u: Ich habe gar nichts gewusst, dass es das gibt. Ich habe nicht gewusst was
+        zu tun. Zu bleiben bei dieser Polnischen oder weg zu fahren. Ich habe gar
+        nichts gewusst. Aber nachher bin ich gefahren zum Kibbuz. Dort hab ich getroffen
+        viele Juden, viele jüdische Mädchen.
+    - who: David Boder
+      start: '00:32:57.794'
+      end: '00:32:57.794'
+      u: Wohin sind Sie gefahren in den Kibbuz?
+    - who: Esther Krueger
+      start: '00:32:59.247'
+      end: '00:32:59.247'
+      u: Ich bin gefahren nach Sosnowie.
+    - who: David Boder
+      start: '00:33:02.231'
+      end: '00:33:02.231'
+      u: Oh, Sosnowie.
+    - who: Esther Krueger
+      start: '00:33:03.544'
+      end: '00:33:03.544'
+      u: Ja. In Sosnowie bin ich geblieben im Kibbuz, mit allen...viel Mädeln sind
+        gewesen und Kinder. Wir haben dort [unverständlich]. So wie ein Kibbuz da
+        gewesen ist, war viel besser. Essen ist gewesen genug. Und bald haben wir
+        selber alles gemacht.
+    - who: David Boder
+      start: '00:33:22.582'
+      end: '00:33:22.582'
+      u: Wer hat das Essen gegeben?
+    - who: Esther Krueger
+      start: '00:33:23.831'
+      end: '00:33:23.831'
+      u: Das Essen war...das war ein [unverständlich], der bringt Geld und wir haben
+        selbst gekocht und alles selbst gekauft.
+    - who: David Boder
+      start: '00:33:30.268'
+      end: '00:33:30.268'
+      u: Und von wo hat er das Geld bekommen?
+    - who: Esther Krueger
+      start: '00:33:31.768'
+      end: '00:33:31.768'
+      u: Das wüsst ich nicht.
+    - who: David Boder
+      start: '00:33:34.174'
+      end: '00:33:34.174'
+      u: Sie wissen es nicht.
+    - who: Esther Krueger
+      start: '00:33:34.923'
+      end: '00:33:34.923'
+      u: Er hat nur gebringt das Geld.
+    - who: David Boder
+      start: '00:33:36.251'
+      end: '00:33:36.251'
+      u: Ja, nun und dann?
+    - who: Esther Krueger
+      start: '00:33:38.594'
+      end: '00:33:38.594'
+      u: Und von USA kam Geld von Joint. Und wir haben—davon haben wir gekauft und
+        haben gelebt. Wir haben gelebt, wir haben bekommen Essen und unsere Kleidung.
+        Wir sind gewesen in Sosnowie etliche Monate, dann sind wir gefahren. Wir haben
+        gewollt fahren nach Italien, aber wir haben nicht gekonnt fahren nach Italien.
+    - who: David Boder
+      start: '00:33:57.547'
+      end: '00:33:57.547'
+      u: Ja?
+    - who: Esther Krueger
+      start: '00:33:58.203'
+      end: '00:33:58.203'
+      u: Ist gewesen zu gemacht die Grenze. So sind wir geblieben in Österreich. In
+        Österreich ist es gewesen sehr schlecht, wir haben kein Essen nicht gehabt.
+        Wir haben sehr wenig bekommen.
+    - who: David Boder
+      start: '00:34:07.140'
+      end: '00:34:07.140'
+      u: Wer war in Österreich, die Engländer oder die Ameri...(beide sprechen)
+    - who: Esther Krueger
+      start: '00:34:09.639'
+      end: '00:34:09.639'
+      u: Die Engländer.
+    - who: David Boder
+      start: '00:34:10.076'
+      end: '00:34:10.076'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:34:10.811'
+      end: '00:34:10.811'
+      u: Wir haben kein Essen nicht gehabt, wir haben sehr wenig bekommen. Genau so
+        viel wie im Lager in Hitlers Zeiten.
+    - who: David Boder
+      start: '00:34:18.452'
+      end: '00:34:18.452'
+      u: Also wenig gewesen?
+    - who: Esther Krueger
+      start: '00:34:19.733'
+      end: '00:34:19.733'
+      u: Sehr wenig. Wenig Brot und wenig Supp. Nachher sind wir gefahren von Österreich
+        nach Deutschland.
+    - who: David Boder
+      start: '00:34:25.638'
+      end: '00:34:25.638'
+      u: Hat man Euch rüber gelassen über die Grenz oder seid Ihr so gegangen?
+    - who: Esther Krueger
+      start: '00:34:30.075'
+      end: '00:34:30.075'
+      u: Wir sind gegangen über die Grenze, alle Grenzen haben wir...
+    - who: David Boder
+      start: '00:34:32.716'
+      end: '00:34:32.716'
+      u: Wie viele Leute alle zusammen?
+    - who: Esther Krueger
+      start: '00:34:33.997'
+      end: '00:34:33.997'
+      u: Es war verschieden. Einmal ist gegangen...
+    - who: David Boder
+      start: '00:34:37.263'
+      end: '00:34:37.263'
+      u: Sie mit Eurer Gruppe.
+    - who: Esther Krueger
+      start: '00:34:38.934'
+      end: '00:34:38.934'
+      u: Wir waren hundert und zwanzig (120). Wir sind gegangen über die Berge zu
+        Fuß.
+    - who: David Boder
+      start: '00:34:42.856'
+      end: '00:34:42.856'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:34:43.981'
+      end: '00:34:43.981'
+      u: Russisches Militär hat uns gefangen. Wir sind zurück gegangen, dann noch
+        einmal über die Berge und dann sind wir durch gekommen.
+    - who: David Boder
+      start: '00:34:50.465'
+      end: '00:34:50.465'
+      u: Nach wo? Nach Deutschland?
+    - who: Esther Krueger
+      start: '00:34:52.731'
+      end: '00:34:52.731'
+      u: Nach Deutschland.
+    - who: David Boder
+      start: '00:34:53.497'
+      end: '00:34:53.497'
+      u: Und von Deutschland seid Ihr gegangen?
+    - who: Esther Krueger
+      start: '00:34:55.106'
+      end: '00:34:55.106'
+      u: Deutschland—wir sind geblieben etliche Wochen und nachher sind wir gefahren
+        nach Italien. Und jetzt sind wir in Italien.
+    - who: David Boder
+      start: '00:35:03.168'
+      end: '00:35:03.168'
+      u: Und Ihr wartet jetzt. Wie heißt der Kibbuz?
+    - who: Esther Krueger
+      start: '00:35:08.699'
+      end: '00:35:08.699'
+      u: Unser Kibbuz heißt Nocham.
+    - who: David Boder
+      start: '00:35:10.668'
+      end: '00:35:10.668'
+      u: Kibbuz Nocham.
+    - who: Esther Krueger
+      start: '00:35:11.825'
+      end: '00:35:11.825'
+      u: Nocham. Noah-Chalutzim Meichad.
+    - who: David Boder
+      start: '00:35:14.012'
+      end: '00:35:14.012'
+      u: Schreib, hm, schreib es auf. Noah?
+    - who: Esther Krueger
+      start: '00:35:18.949'
+      end: '00:35:18.949'
+      u: Noah-Chalutzim Meichad
+    - who: David Boder
+      start: '00:35:21.027'
+      end: '00:35:21.027'
+      u: Hm. Und was heißt das auf deutsch, jiddisch?
+    - who: Esther Krueger
+      start: '00:35:24.434'
+      end: '00:35:24.434'
+      u: Das ist, hm,...eine Sammlung von jungen Chalutzim.
+    - who: David Boder
+      start: '00:35:28.356'
+      end: '00:35:28.356'
+      u: Ja und jetzt wartest Du zu gehen...
+    - who: Esther Krueger
+      start: '00:35:31.638'
+      end: '00:35:31.638'
+      u: Jetzt sind wir hier und warten eine weitere Zeit.
+    - who: David Boder
+      start: '00:35:35.199'
+      end: '00:35:35.199'
+      u: Und was machen die Leut hier den ganzen Tag?
+    - who: Esther Krueger
+      start: '00:35:36.933'
+      end: '00:35:36.933'
+      u: Den ganzen Tag...das ist verschieden auch. Ein Appell ist da...und ich stricke
+        auch, ich mach Strümpf.
+    - who: David Boder
+      start: '00:35:47.120'
+      end: '00:35:47.120'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:35:47.714'
+      end: '00:35:47.714'
+      u: Heute auch.
+    - who: David Boder
+      start: '00:35:48.869'
+      end: '00:35:48.869'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:35:49.244'
+      end: '00:35:49.244'
+      u: Ist verschieden. Wer hat eine Arbeit, das macht er. Er wascht und...
+    - who: David Boder
+      start: '00:35:53.275'
+      end: '00:35:53.275'
+      u: Versteht Ihr hebräisch? Kannst Du hebräisch?
+    - who: Esther Krueger
+      start: '00:35:55.509'
+      end: '00:35:55.509'
+      u: Ja, ich verstehe hebräisch, aber nicht so gut. Ich habe es gelernt nach dem
+        Krieg, nicht lang. Ich kann lesen, aber ich verstehe es nicht so gut.
+    - who: David Boder
+      start: '00:36:03.305'
+      end: '00:36:03.305'
+      u: "[In English] This concludes Spool hundred, hm,...this concludes, hm, …..
+        this concludes Spool one hundred and nine. Ester Krüger, hm, who belongs to
+        a Kibbuz, who went through her, hm, her work in a slave labor situation. She
+        has no tattoo. She was in reasonably clean conditions although she went through
+        typhus. And now she is here in Tradate, Italy, expecting by ….. legally or
+        by illegally to reach Palästina."
+    - who: David Boder
+      start: '00:36:36.931'
+      end: '00:36:36.931'
+      u: "[In German] Sind Sie verheirat?"
+    - who: Esther Krueger
+      start: '00:36:37.803'
+      end: '00:36:37.803'
+      u: Nein.
+    - who: David Boder
+      start: '00:36:38.678'
+      end: '00:36:38.678'
+      u: Nein.
+    - who: Esther Krueger
+      start: '00:36:39.288'
+      end: '00:36:39.288'
+      u: Das alles habe ich gegeben schon kurz!
+    - who: David Boder
+      start: '00:36:42.585'
+      end: '00:36:42.585'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:36:43.288'
+      end: '00:36:43.288'
+      u: Die ganzen Erlebnisse.
+    - who: David Boder
+      start: '00:36:44.601'
+      end: '00:36:44.601'
+      u: Ja.
+    - who: Esther Krueger
+      start: '00:36:45.897'
+      end: '00:36:45.897'
+      u: Also, wenn man das Buch zu schreiben hat, ist zu schreiben sehr viel mehr.
+    - who: David Boder
+      start: '00:36:50.085'
+      end: '00:36:50.085'
+      u: Ja, natürlich. Ich wollte, es wäre nicht gewesen so kurz, hm, ein ganzes
+        Buch dann machen über alle Erlebnisse, aber ich werd sehen, vielleicht kommen
+        wir noch einmal zusammen...zum Schreiben.
+    - who: Esther Krueger
+      start: '00:37:00.053'
+      end: 
+      u: In der Zukunft alles beschreiben.
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:00.628'
+      end: '00:00:00.628'
+      u: "[In English] Italy. September the 2nd, 1946. In Tradate, between Milano
+        and Como, a displaced person's community given to self government of a number
+        of Kibbutzim. That means small, formed, Zionistic groups which intend to enter
+        Palestine by legal or illegal means, whichever possible. The interviewee is
+        Miss Esther Krueger, twenty years old."
+    - who: David Boder
+      start: '00:00:32.104'
+      end: '00:00:32.104'
+      u: "[In German] To which Kibbutz do you belong?"
+    - who: Esther Krueger
+      start: '00:00:33.794'
+      end: '00:00:33.794'
+      u: Nochum.
+    - who: David Boder
+      start: '00:00:34.794'
+      end: '00:00:34.794'
+      u: "[In English] Belonging to the Kibbutz Nochum."
+    - who: David Boder
+      start: '00:00:37.978'
+      end: '00:00:37.978'
+      u: "[In German] And so, Miss Krueger, tell us again what your name is, and how
+        old you are, and where you are from."
+    - who: Esther Krueger
+      start: '00:00:45.151'
+      end: '00:00:45.151'
+      u: I am twenty years old. From Kielce, and [am] in Kibbutz Nochum.
+    - who: David Boder
+      start: '00:00:51.722'
+      end: '00:00:51.722'
+      u: Yes. You are from Kielce.
+    - who: Esther Krueger
+      start: '00:00:53.550'
+      end: '00:00:53.550'
+      u: Yes.
+    - who: David Boder
+      start: '00:00:54.081'
+      end: '00:00:54.081'
+      u: Nu, tell us what happened to you when you...when the war started.
+    - who: Esther Krueger
+      start: '00:01:00.737'
+      end: '00:01:00.737'
+      u: "[Words not clear.]"
+    - who: David Boder
+      start: '00:01:02.762'
+      end: '00:01:02.762'
+      u: Yes. Well, whatever you remember. You don't have to give the exact day or
+        the kind. How was it? Where were you there? In Kielce?
+    - who: Esther Krueger
+      start: '00:01:12.594'
+      end: '00:01:12.594'
+      u: You mean in which lager?
+    - who: David Boder
+      start: '00:01:14.782'
+      end: '00:01:14.782'
+      u: No, no, no. Where were you at home?
+    - who: Esther Krueger
+      start: '00:01:17.220'
+      end: '00:01:17.220'
+      u: I? In Kielce.
+    - who: David Boder
+      start: '00:01:18.267'
+      end: '00:01:18.267'
+      u: "[Words not clear.] You lived in...?"
+    - who: Esther Krueger
+      start: '00:01:20.454'
+      end: '00:01:20.454'
+      u: Kielce.
+    - who: David Boder
+      start: '00:01:21.220'
+      end: '00:01:21.220'
+      u: In Kielce. With whom?
+    - who: Esther Krueger
+      start: '00:01:23.314'
+      end: '00:01:23.314'
+      u: With the whole family.
+    - who: David Boder
+      start: '00:01:24.908'
+      end: '00:01:24.908'
+      u: Yes. And how many...?
+    - who: Esther Krueger
+      start: '00:01:25.768'
+      end: '00:01:25.768'
+      u: The parents and sisters, brothers.
+    - who: David Boder
+      start: '00:01:28.315'
+      end: '00:01:28.315'
+      u: How many sisters and how many brothers?
+    - who: Esther Krueger
+      start: '00:01:30.096'
+      end: '00:01:30.096'
+      u: I had three sisters and three brothers.
+    - who: David Boder
+      start: '00:01:33.440'
+      end: '00:01:33.440'
+      u: Three brothers.
+    - who: Esther Krueger
+      start: '00:01:34.315'
+      end: '00:01:34.315'
+      u: Yes.
+    - who: David Boder
+      start: '00:01:34.690'
+      end: '00:01:34.690'
+      u: Were they older or younger? How many were...?
+    - who: Esther Krueger
+      start: '00:01:36.987'
+      end: '00:01:36.987'
+      u: One brother, an older one.
+    - who: David Boder
+      start: '00:01:38.283'
+      end: '00:01:38.283'
+      u: Yes?
+    - who: Esther Krueger
+      start: '00:01:38.829'
+      end: '00:01:38.829'
+      u: And one a younger one.
+    - who: David Boder
+      start: '00:01:39.751'
+      end: '00:01:39.751'
+      u: And so, one older brother and...
+    - who: Esther Krueger
+      start: '00:01:42.626'
+      end: '00:01:42.626'
+      u: Yes.
+    - who: David Boder
+      start: '00:01:43.376'
+      end: '00:01:43.376'
+      u: ". . . and three younger sisters?"
+    - who: Esther Krueger
+      start: '00:01:44.329'
+      end: '00:01:44.329'
+      u: "[Words not clear] and two [younger] brothers."
+    - who: David Boder
+      start: '00:01:45.735'
+      end: '00:01:45.735'
+      u: Two brothers.
+    - who: Esther Krueger
+      start: '00:01:46.391'
+      end: '00:01:46.391'
+      u: Yes.
+    - who: David Boder
+      start: '00:01:47.141'
+      end: '00:01:47.141'
+      u: You were altogether eight...[correction] seven children.
+    - who: Esther Krueger
+      start: '00:01:49.106'
+      end: '00:01:49.106'
+      u: Yes.
+    - who: David Boder
+      start: '00:01:49.575'
+      end: '00:01:49.575'
+      u: And [with] your parents there were...?
+    - who: Esther Krueger
+      start: '00:01:52.258'
+      end: '00:01:52.258'
+      u: Too...
+    - who: David Boder
+      start: '00:01:52.945'
+      end: '00:01:52.945'
+      u: Nine persons in the family?
+    - who: Esther Krueger
+      start: '00:01:54.320'
+      end: '00:01:54.320'
+      u: Yes.
+    - who: David Boder
+      start: '00:01:54.929'
+      end: '00:01:54.929'
+      u: Speak a little louder. Yes. Nu, what was your father's occupation?
+    - who: Esther Krueger
+      start: '00:01:59.710'
+      end: '00:01:59.710'
+      u: My father dealt in...in dry goods.
+    - who: David Boder
+      start: '00:02:02.804'
+      end: '00:02:02.804'
+      u: Dry goods.
+    - who: Esther Krueger
+      start: '00:02:04.257'
+      end: '00:02:04.257'
+      u: Yes.
+    - who: David Boder
+      start: '00:02:04.694'
+      end: '00:02:04.694'
+      u: Did he have a store?
+    - who: Esther Krueger
+      start: '00:02:05.428'
+      end: '00:02:05.428'
+      u: Yes. The mother too.
+    - who: David Boder
+      start: '00:02:06.788'
+      end: '00:02:06.788'
+      u: The mother was also in the store.
+    - who: Esther Krueger
+      start: '00:02:09.756'
+      end: '00:02:09.756'
+      u: Yes.
+    - who: David Boder
+      start: '00:02:10.099'
+      end: '00:02:10.099'
+      u: Nu, did they earn well?
+    - who: Esther Krueger
+      start: '00:02:12.349'
+      end: '00:02:12.349'
+      u: But yes. [They] earned well, but still....[We] led a good life.
+    - who: David Boder
+      start: '00:02:15.802'
+      end: '00:02:15.802'
+      u: A good life. What sort of an education did you receive?
+    - who: Esther Krueger
+      start: '00:02:19.052'
+      end: '00:02:19.052'
+      u: I went to school.
+    - who: David Boder
+      start: '00:02:21.067'
+      end: '00:02:21.067'
+      u: What kind of school?
+    - who: Esther Krueger
+      start: '00:02:21.974'
+      end: '00:02:21.974'
+      u: Elementary school. I was still young.
+    - who: David Boder
+      start: '00:02:24.661'
+      end: '00:02:24.661'
+      u: 'Yes'
+    - who: Esther Krueger
+      start: '00:02:25.130'
+      end: '00:02:25.130'
+      u: Sixteen years. I finished seven [years of] elementary school.
+    - who: David Boder
+      start: '00:02:27.723'
+      end: '00:02:27.723'
+      u: Seven grades of...
+    - who: Esther Krueger
+      start: '00:02:28.848'
+      end: '00:02:28.848'
+      u: Yes.
+    - who: David Boder
+      start: '00:02:29.035'
+      end: '00:02:29.035'
+      u: ". . . elementary school."
+    - who: Esther Krueger
+      start: '00:02:29.597'
+      end: '00:02:29.597'
+      u: And afterwards I was taken to the lager.
+    - who: David Boder
+      start: '00:02:31.034'
+      end: '00:02:31.034'
+      u: And so wait a moment. Not so fast. And so when the war began you were in
+        a Kielce.
+    - who: Esther Krueger
+      start: '00:02:37.554'
+      end: '00:02:37.554'
+      u: Yes.
+    - who: David Boder
+      start: '00:02:38.393'
+      end: '00:02:38.393'
+      u: Who marched in? Did the German march into Kielce?
+    - who: Esther Krueger
+      start: '00:02:41.502'
+      end: '00:02:41.502'
+      u: The Germans.
+    - who: David Boder
+      start: '00:02:42.471'
+      end: '00:02:42.471'
+      u: The Germans. And so tell me what happened when the Germans entered Kielce.
+        What happened to you [plural]? Nu? Speak.
+    - who: Esther Krueger
+      start: '00:02:50.987'
+      end: '00:02:50.987'
+      u: When the German came to Kielce they grabbed for forced labor.
+    - who: David Boder
+      start: '00:02:55.565'
+      end: '00:02:55.565'
+      u: And so tell me, how soon? Immediately or a few days...
+    - who: Esther Krueger
+      start: '00:02:58.893'
+      end: '00:02:58.893'
+      u: Immediately.
+    - who: David Boder
+      start: '00:02:59.424'
+      end: '00:02:59.424'
+      u: ". . . a few days later? How was it?"
+    - who: Esther Krueger
+      start: '00:03:01.830'
+      end: '00:03:01.830'
+      u: When [?]?
+    - who: David Boder
+      start: '00:03:03.815'
+      end: '00:03:03.815'
+      u: Nu, not exactly...
+    - who: Esther Krueger
+      start: '00:03:05.315'
+      end: '00:03:05.315'
+      u: In the year '42.
+    - who: David Boder
+      start: '00:03:06.503'
+      end: '00:03:06.503'
+      u: In the year '42.
+    - who: Esther Krueger
+      start: '00:03:07.644'
+      end: '00:03:07.644'
+      u: Yes.
+    - who: David Boder
+      start: '00:03:08.222'
+      end: '00:03:08.222'
+      u: How did they grab for forced labor? How did...
+    - who: Esther Krueger
+      start: '00:03:10.035'
+      end: '00:03:10.035'
+      u: They grabbed for the munitions factory, to Skarzysko.
+    - who: David Boder
+      start: '00:03:13.706'
+      end: '00:03:13.706'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:03:14.175'
+      end: '00:03:14.175'
+      u: They grabbed [for] forced labor, to munitions.
+    - who: David Boder
+      start: '00:03:17.550'
+      end: '00:03:17.550'
+      u: Yes. Nu, how was...
+    - who: Esther Krueger
+      start: '00:03:18.518'
+      end: '00:03:18.518'
+      u: At that time...
+    - who: David Boder
+      start: '00:03:19.190'
+      end: '00:03:19.190'
+      u: ". . . one grabbed? What happened to you?"
+    - who: Esther Krueger
+      start: '00:03:20.534'
+      end: '00:03:20.534'
+      u: At that time a Jewish Community Council was established.
+    - who: David Boder
+      start: '00:03:24.815'
+      end: '00:03:24.815'
+      u: A Community Council, yes.
+    - who: Esther Krueger
+      start: '00:03:25.502'
+      end: '00:03:25.502'
+      u: Yes. A Jewish one. And sent out forced-labor tickets for work.
+    - who: David Boder
+      start: '00:03:30.799'
+      end: '00:03:30.799'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:03:31.580'
+      end: '00:03:31.580'
+      u: I, too, was taken to work. But I have...a few times I escaped. I wanted to
+        remain together with my parents.
+    - who: David Boder
+      start: '00:03:37.819'
+      end: '00:03:37.819'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:03:38.256'
+      end: '00:03:38.256'
+      u: So I was taken forcibly by the police, the Jewish [police].
+    - who: David Boder
+      start: '00:03:41.272'
+      end: '00:03:41.272'
+      u: By the Jewish police.
+    - who: Esther Krueger
+      start: '00:03:42.568'
+      end: '00:03:42.568'
+      u: Police.
+    - who: David Boder
+      start: '00:03:43.146'
+      end: '00:03:43.146'
+      u: And so when you were at forced labor did you work and return home every day?
+    - who: Esther Krueger
+      start: '00:03:48.489'
+      end: '00:03:48.489'
+      u: Yes. Everyday we drove [to work] at seven o'clock and returned home at five
+        o'clock.
+    - who: David Boder
+      start: '00:03:54.395'
+      end: '00:03:54.395'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:03:54.739'
+      end: '00:03:54.739'
+      u: For a certain time, maybe two months, I worked thus.
+    - who: David Boder
+      start: '00:03:56.973'
+      end: '00:03:56.973'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:03:57.504'
+      end: '00:03:57.504'
+      u: And then it was said that there is to be a resettlement [population removal].
+    - who: David Boder
+      start: '00:04:03.347'
+      end: '00:04:03.347'
+      u: Aha. Nu, go on. And so, [let's go] on. How did the deportation come off?
+        Tell about everything in detail. Nu?
+    - who: Esther Krueger
+      start: '00:04:10.269'
+      end: '00:04:10.269'
+      u: I got up in the morning and said good bye to my mutti. Afterwards I didn't
+        want to go to work, but my mutti was crying very much. If I don't go to work
+        then I will be kept in the barracks.
+    - who: David Boder
+      start: '00:04:24.378'
+      end: '00:04:24.378'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:04:24.972'
+      end: '00:04:24.972'
+      u: So I had to go to work.
+    - who: David Boder
+      start: '00:04:26.174'
+      end: '00:04:26.174'
+      u: Now wait a moment. Where? In which barracks? Was your mother already in the
+        barracks?
+    - who: Esther Krueger
+      start: '00:04:30.330'
+      end: '00:04:30.330'
+      u: No. My mutti was at home.
+    - who: David Boder
+      start: '00:04:32.627'
+      end: '00:04:32.627'
+      u: Yes? Did...
+    - who: Esther Krueger
+      start: '00:04:33.768'
+      end: '00:04:33.768'
+      u: But...
+    - who: David Boder
+      start: '00:04:34.127'
+      end: '00:04:34.127'
+      u: ". . . people knew that the deportation was coming?"
+    - who: Esther Krueger
+      start: '00:04:35.284'
+      end: '00:04:35.284'
+      u: We did not know exactly.
+    - who: David Boder
+      start: '00:04:37.784'
+      end: '00:04:37.784'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:04:38.237'
+      end: '00:04:38.237'
+      u: People in town were talking. Today will be a deportation. And when the deportation
+        was about to be, then the block [the workers] were detained in the barracks.
+    - who: David Boder
+      start: '00:04:45.612'
+      end: '00:04:45.612'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:04:46.471'
+      end: '00:04:46.471'
+      u: So I became afraid to go to work.
+    - who: David Boder
+      start: '00:04:48.190'
+      end: '00:04:48.190'
+      u: Yes?
+    - who: Esther Krueger
+      start: '00:04:48.924'
+      end: '00:04:48.924'
+      u: But my mother said, 'Don't be afraid. Today they will not [?] detain in the
+        barracks.' And I went to work.
+    - who: David Boder
+      start: '00:04:54.143'
+      end: '00:04:54.143'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:04:55.111'
+      end: '00:04:55.111'
+      u: And when I went to work on the same day they detained us.
+    - who: David Boder
+      start: '00:04:58.955'
+      end: '00:04:58.955'
+      u: Whom?
+    - who: Esther Krueger
+      start: '00:04:59.689'
+      end: '00:04:59.689'
+      u: Us. All the girls [words not clear].
+    - who: David Boder
+      start: '00:05:01.548'
+      end: '00:05:01.548'
+      u: Oh, the girls who were...
+    - who: Esther Krueger
+      start: '00:05:02.673'
+      end: '00:05:02.673'
+      u: Yes.
+    - who: David Boder
+      start: '00:05:03.235'
+      end: '00:05:03.235'
+      u: ". . . at work."
+    - who: Esther Krueger
+      start: '00:05:03.798'
+      end: '00:05:03.798'
+      u: At work.
+    - who: David Boder
+      start: '00:05:04.173'
+      end: '00:05:04.173'
+      u: Oh, you were kept back at work. Nu?
+    - who: Esther Krueger
+      start: '00:05:06.376'
+      end: '00:05:06.376'
+      u: Kept us back in the barracks. Did [not] let any more [go] home.
+    - who: David Boder
+      start: '00:05:09.001'
+      end: '00:05:09.001'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:05:09.813'
+      end: '00:05:09.813'
+      u: Because every day at five o'clock we came home
+    - who: David Boder
+      start: '00:05:12.966'
+      end: '00:05:12.966'
+      u: Yes?
+    - who: Esther Krueger
+      start: '00:05:13.341'
+      end: '00:05:13.341'
+      u: But this day they did not let us go home any more.
+    - who: David Boder
+      start: '00:05:15.760'
+      end: '00:05:15.760'
+      u: Where was that barrack? Near the factory?
+    - who: Esther Krueger
+      start: '00:05:19.272'
+      end: '00:05:19.272'
+      u: The barrack was in...near the factory.
+    - who: David Boder
+      start: '00:05:22.019'
+      end: '00:05:22.019'
+      u: Aha.
+    - who: Esther Krueger
+      start: '00:05:22.487'
+      end: '00:05:22.487'
+      u: In Skarzysko.
+    - who: David Boder
+      start: '00:05:23.298'
+      end: '00:05:23.298'
+      u: Aha. Nu.
+    - who: Esther Krueger
+      start: '00:05:24.187'
+      end: '00:05:24.187'
+      u: And afterwards I have seen the worst. And I imagined that I am being left
+        alone without my parents.
+    - who: David Boder
+      start: '00:05:31.258'
+      end: '00:05:31.258'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:05:31.695'
+      end: '00:05:31.695'
+      u: I cried very much. I cried so much I then received from an SS man in the
+        face that I...I couldn't hear, on my ear.
+    - who: David Boder
+      start: '00:05:41.989'
+      end: '00:05:41.989'
+      u: What does it mean 'you received'?
+    - who: Esther Krueger
+      start: '00:05:43.207'
+      end: '00:05:43.207'
+      u: Received such a...a...
+    - who: David Boder
+      start: '00:05:43.972'
+      end: '00:05:43.972'
+      u: Slap in the face. He hit you in the face.
+    - who: Esther Krueger
+      start: '00:05:45.610'
+      end: '00:05:45.610'
+      u: Yes, yes.
+    - who: David Boder
+      start: '00:05:47.015'
+      end: '00:05:47.015'
+      u: Nu?
+    - who: Esther Krueger
+      start: '00:05:47.389'
+      end: '00:05:47.389'
+      u: I did not feel well then, but I still could not control my crying.
+    - who: David Boder
+      start: '00:05:49.803'
+      end: '00:05:49.803'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:05:50.271'
+      end: '00:05:50.271'
+      u: Because this was the worst that could happen in life.
+    - who: David Boder
+      start: '00:05:54.969'
+      end: '00:05:54.969'
+      u: What?
+    - who: Esther Krueger
+      start: '00:05:55.937'
+      end: '00:05:55.937'
+      u: To be left without parents, without sisters and brothers.
+    - who: David Boder
+      start: '00:05:58.022'
+      end: '00:05:58.022'
+      u: Nu?
+    - who: Esther Krueger
+      start: '00:05:58.600'
+      end: '00:05:58.600'
+      u: But that didn't do [help] anything. I had to remain in the barrack. And my
+        parents were still at home for perhaps four weeks.
+    - who: David Boder
+      start: '00:06:09.994'
+      end: '00:06:09.994'
+      u: Yes. And where did you remain? In the barrack for those four weeks?
+    - who: Esther Krueger
+      start: '00:06:13.100'
+      end: '00:06:13.100'
+      u: And I remained in the barrack, and later on I received letters from home.
+        I also wrote, through Poles.
+    - who: David Boder
+      start: '00:06:22.172'
+      end: '00:06:22.172'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:06:22.640'
+      end: '00:06:22.640'
+      u: And my mutti wrote me that the deportation was put off for three months.
+        But it was not true. My mutti wrote [it] in order that I should not have so
+        many...eh...
+    - who: David Boder
+      start: '00:06:35.971'
+      end: '00:06:35.971'
+      u: Worries?
+    - who: Esther Krueger
+      start: '00:06:36.877'
+      end: '00:06:36.877'
+      u: Worries.
+    - who: David Boder
+      start: '00:06:37.470'
+      end: '00:06:37.470'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:06:38.126'
+      end: '00:06:38.126'
+      u: And afterwards...
+    - who: David Boder
+      start: '00:06:40.407'
+      end: '00:06:40.407'
+      u: Did your mother write through the mail?
+    - who: Esther Krueger
+      start: '00:06:41.922'
+      end: '00:06:41.922'
+      u: The mail, yes. Through...through Poles.
+    - who: David Boder
+      start: '00:06:44.983'
+      end: '00:06:44.983'
+      u: Yes. And so one was not supposed to receive letters.
+    - who: Esther Krueger
+      start: '00:06:47.419'
+      end: '00:06:47.419'
+      u: Pardon?
+    - who: David Boder
+      start: '00:06:48.418'
+      end: '00:06:48.418'
+      u: They didn't allow to receive letters.
+    - who: Esther Krueger
+      start: '00:06:50.136'
+      end: '00:06:50.136'
+      u: Did not allow. No.
+    - who: David Boder
+      start: '00:06:51.667'
+      end: '00:06:51.667'
+      u: No.
+    - who: Esther Krueger
+      start: '00:06:52.823'
+      end: '00:06:52.823'
+      u: It wasn't allowed.
+    - who: David Boder
+      start: '00:06:53.448'
+      end: '00:06:53.448'
+      u: But they were sent through the Polish clandestine 'post.'
+    - who: Esther Krueger
+      start: '00:06:54.788'
+      end: '00:06:54.788'
+      u: Yes. They would bring it into the lager.
+    - who: David Boder
+      start: '00:06:56.819'
+      end: '00:06:56.819'
+      u: Yes. Nu?
+    - who: Esther Krueger
+      start: '00:06:57.584'
+      end: '00:06:57.584'
+      u: And afterwards was Yom Kippur [ Day of Atonement].
+    - who: David Boder
+      start: '00:07:00.708'
+      end: '00:07:00.708'
+      u: Yes?
+    - who: Esther Krueger
+      start: '00:07:01.114'
+      end: '00:07:01.114'
+      u: I had also written how a paper a day earlier.
+    - who: David Boder
+      start: '00:07:05.254'
+      end: '00:07:05.254'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:07:05.582'
+      end: '00:07:05.582'
+      u: And I was supposed to receive a letter a day the next day. The Poles came
+        and they said that they could not get a letter any more because all had been
+        deported.
+    - who: David Boder
+      start: '00:07:15.480'
+      end: '00:07:15.480'
+      u: On Yom Kippur?
+    - who: Esther Krueger
+      start: '00:07:16.464'
+      end: '00:07:16.464'
+      u: On Yom Kippur. On the same day.
+    - who: David Boder
+      start: '00:07:18.260'
+      end: '00:07:18.260'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:07:18.792'
+      end: '00:07:18.792'
+      u: At dawn, at three o'clock at night, they were awakened.
+    - who: David Boder
+      start: '00:07:21.900'
+      end: '00:07:21.900'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:07:22.463'
+      end: '00:07:22.463'
+      u: And mutti had to get up with the small children, take everything, and leave
+        the house.
+    - who: David Boder
+      start: '00:07:28.509'
+      end: '00:07:28.509'
+      u: And so did people still go to Synagogue on Yom Kippur in the evening? Did
+        people still go to Kol Nidrei [special services for the Day of Atonement]?
+    - who: Esther Krueger
+      start: '00:07:35.375'
+      end: '00:07:35.375'
+      u: Yes. They still had gone in the evening. And they came home. And they did
+        not know anything.
+    - who: David Boder
+      start: '00:07:41.297'
+      end: '00:07:41.297'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:07:41.703'
+      end: '00:07:41.703'
+      u: At three o'clock came that deportation.
+    - who: David Boder
+      start: '00:07:46.234'
+      end: '00:07:46.234'
+      u: Yes. Who were...and how old were the small children?
+    - who: Esther Krueger
+      start: '00:07:50.421'
+      end: '00:07:50.421'
+      u: The youngest, my sister, was four years [old].
+    - who: David Boder
+      start: '00:07:53.936'
+      end: '00:07:53.936'
+      u: And your father was also taken?
+    - who: Esther Krueger
+      start: '00:07:56.233'
+      end: '00:07:56.233'
+      u: My father too, was in a larger, but on another shop. I was in shop 'B' and
+        my father was in Shop 'A'.
+    - who: David Boder
+      start: '00:08:03.233'
+      end: '00:08:03.233'
+      u: Oh, already from before.
+    - who: Esther Krueger
+      start: '00:08:04.905'
+      end: '00:08:04.905'
+      u: Before. But I didn't know about my father. I was told that my father had
+        gone home because my [his] eyes had become weak. I was very happy because
+        my father will be...
+    - who: David Boder
+      start: '00:08:15.624'
+      end: '00:08:15.624'
+      u: Whose eyes became weak.
+    - who: Esther Krueger
+      start: '00:08:16.827'
+      end: '00:08:16.827'
+      u: ". . . together. Yes."
+    - who: David Boder
+      start: '00:08:17.577'
+      end: '00:08:17.577'
+      u: And?
+    - who: Esther Krueger
+      start: '00:08:17.874'
+      end: '00:08:17.874'
+      u: With my mutti.
+    - who: David Boder
+      start: '00:08:18.593'
+      end: '00:08:18.593'
+      u: Yes. Was it so?
+    - who: Esther Krueger
+      start: '00:08:19.702'
+      end: '00:08:19.702'
+      u: No. I wrote home. My mutti did not answer me anything about the father. And
+        afterwards, a year later, I was told that my father had died in the hospital
+        before the deportation of Skarzysko.
+    - who: David Boder
+      start: '00:08:33.601'
+      end: '00:08:33.601'
+      u: Hm. And so your father was also taken to a barrack?
+    - who: Esther Krueger
+      start: '00:08:36.851'
+      end: '00:08:36.851'
+      u: Yes.
+    - who: David Boder
+      start: '00:08:37.538'
+      end: '00:08:37.538'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:08:38.069'
+      end: '00:08:38.069'
+      u: My father was also in the barrack, but he was working on wood.
+    - who: David Boder
+      start: '00:08:40.991'
+      end: '00:08:40.991'
+      u: How old was he?
+    - who: Esther Krueger
+      start: '00:08:42.194'
+      end: '00:08:42.194'
+      u: My father was forty-one years.
+    - who: David Boder
+      start: '00:08:44.272'
+      end: '00:08:44.272'
+      u: Forty-one years?
+    - who: Esther Krueger
+      start: '00:08:45.538'
+      end: '00:08:45.538'
+      u: Forty-one years.
+    - who: David Boder
+      start: '00:08:45.944'
+      end: '00:08:45.944'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:08:46.444'
+      end: '00:08:46.444'
+      u: Yes. My father was working on wood in the Karl [?] forest, and a big tree
+        fell on [his] leg and my father was...
+    - who: David Boder
+      start: '00:08:53.703'
+      end: '00:08:53.703'
+      u: A big what? A big tree.
+    - who: Esther Krueger
+      start: '00:08:55.563'
+      end: '00:08:55.563'
+      u: Tree. Yes.
+    - who: David Boder
+      start: '00:08:56.126'
+      end: '00:08:56.126'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:08:56.595'
+      end: '00:08:56.595'
+      u: Fell on [his] leg and it broke my father's leg.
+    - who: David Boder
+      start: '00:08:58.783'
+      end: '00:08:58.783'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:08:59.564'
+      end: '00:08:59.564'
+      u: Then the father went to the hospital, and he died
+    - who: David Boder
+      start: '00:09:03.814'
+      end: '00:09:03.814'
+      u: Hm. Nu? And so what happened on Yom Kippur night? You were not there. You
+        had been told.
+    - who: Esther Krueger
+      start: '00:09:10.877'
+      end: '00:09:10.877'
+      u: No.
+    - who: David Boder
+      start: '00:09:11.236'
+      end: '00:09:11.236'
+      u: What were you told?
+    - who: Esther Krueger
+      start: '00:09:11.877'
+      end: '00:09:11.877'
+      u: I was told thus. When my mutti and my brothers had gone to Kol Nidrei, they
+        came home. They knew nothing. They went to sleep as any other day.
+    - who: David Boder
+      start: '00:09:23.832'
+      end: '00:09:23.832'
+      u: Was there a ghetto?
+    - who: Esther Krueger
+      start: '00:09:25.222'
+      end: '00:09:25.222'
+      u: It had been partitioned off.
+    - who: David Boder
+      start: '00:09:27.597'
+      end: '00:09:27.597'
+      u: Yes. It had been partitioned off.
+    - who: Esther Krueger
+      start: '00:09:28.691'
+      end: '00:09:28.691'
+      u: Yes.
+    - who: David Boder
+      start: '00:09:29.050'
+      end: '00:09:29.050'
+      u: In Kielce.
+    - who: Esther Krueger
+      start: '00:09:29.472'
+      end: '00:09:29.472'
+      u: Yes.
+    - who: David Boder
+      start: '00:09:30.222'
+      end: '00:09:30.222'
+      u: Nu.
+    - who: Esther Krueger
+      start: '00:09:30.753'
+      end: '00:09:30.753'
+      u: And later on, at three o'clock, the Jewish police came, and they began waking.
+        My mutti didn't know what was happening, what was going on, but she understood
+        that it must be already....there had arrived SS men, and they sur...surrounded
+        the whole town with SS men.
+    - who: David Boder
+      start: '00:09:51.705'
+      end: '00:09:51.705'
+      u: Who were those SS men? Germans or Ukrainians?
+    - who: Esther Krueger
+      start: '00:09:55.158'
+      end: '00:09:55.158'
+      u: There were Germans and there were Ukrainians, too, but mostly Germans. They
+        badly beat the Jews. The worst that could happen. Without any distinction
+        whether a woman or a man, they would beat badly. And my mutti arose, got up
+        the children, and left the house, at about six o'clock. That is what I heard.
+        I don't know it exactly.
+    - who: David Boder
+      start: '00:10:15.088'
+      end: '00:10:15.088'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:10:15.869'
+      end: '00:10:15.869'
+      u: Around six o'clock they led them to the train, and they shipped them away,
+        in closed wagons [railroad cars], lime spread inside [word not clear]. They
+        received no water.
+    - who: David Boder
+      start: '00:10:27.615'
+      end: '00:10:27.615'
+      u: Nu, yes. You didn't see that yourself.
+    - who: Esther Krueger
+      start: '00:10:30.021'
+      end: '00:10:30.021'
+      u: I heard about all that.
+    - who: David Boder
+      start: '00:10:30.989'
+      end: '00:10:30.989'
+      u: Yes. That we already have from the others. Nu, what happened to you?
+    - who: Esther Krueger
+      start: '00:10:34.645'
+      end: '00:10:34.645'
+      u: And I remained in the lager. At that time I didn't know anything any more.
+    - who: David Boder
+      start: '00:10:38.614'
+      end: '00:10:38.614'
+      u: In the barracks?
+    - who: Esther Krueger
+      start: '00:10:39.302'
+      end: '00:10:39.302'
+      u: In the barracks, yes. I didn't know anything any more, what will be with
+        my life, whether I will survive, or if it will be the end of me. But I worked
+        at machines. I worked very diligently so I got a good eye [fell in favor]
+        by the German foreman.
+    - who: David Boder
+      start: '00:10:53.818'
+      end: '00:10:53.818'
+      u: A what?
+    - who: Esther Krueger
+      start: '00:10:54.537'
+      end: '00:10:54.537'
+      u: By the German foreman I got a good eye. I worked well.
+    - who: David Boder
+      start: '00:10:57.553'
+      end: '00:10:57.553'
+      u: A good eye?
+    - who: Esther Krueger
+      start: '00:10:58.147'
+      end: '00:10:58.147'
+      u: Yes.
+    - who: David Boder
+      start: '00:10:58.428'
+      end: '00:10:58.428'
+      u: By him. Nu?
+    - who: Esther Krueger
+      start: '00:11:00.053'
+      end: '00:11:00.053'
+      u: And I worked by a brush machine.
+    - who: David Boder
+      start: '00:11:03.459'
+      end: '00:11:03.459'
+      u: What did they do? What did...
+    - who: Esther Krueger
+      start: '00:11:06.381'
+      end: '00:11:06.381'
+      u: The brush machines shined the shells.
+    - who: David Boder
+      start: '00:11:09.492'
+      end: '00:11:09.492'
+      u: Yes, the ammunition shells.
+    - who: Esther Krueger
+      start: '00:11:10.648'
+      end: '00:11:10.648'
+      u: The ammunition shells. And afterwards I was given more soup. The most important
+        thing in the lager was to keep oneself clean. Always clean, ne to keep oneself,
+        and too take care of the work.
+    - who: David Boder
+      start: '00:11:22.835'
+      end: '00:11:22.835'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:11:23.320'
+      end: '00:11:23.320'
+      u: And all that was by me in order. I conducted myself very well. Clean. I have...we
+        received [for every] seven people a kilo ninety (1.90) of bread. So I had
+        to, together with my friend -- I had one girl from home for a friend -- [we]
+        had to sell one portion of bread.
+    - who: David Boder
+      start: '00:11:40.226'
+      end: '00:11:40.226'
+      u: Yes?
+    - who: Esther Krueger
+      start: '00:11:40.820'
+      end: '00:11:40.820'
+      u: For that to buy soap.
+    - who: David Boder
+      start: '00:11:42.414'
+      end: '00:11:42.414'
+      u: What kind...
+    - who: Esther Krueger
+      start: '00:11:42.914'
+      end: '00:11:42.914'
+      u: For washing.
+    - who: David Boder
+      start: '00:11:43.352'
+      end: '00:11:43.352'
+      u: What kind of bread was it. Was it baked every day?
+    - who: Esther Krueger
+      start: '00:11:46.977'
+      end: '00:11:46.977'
+      u: 'It was so: Some days it night be fresh, but it could be moldy, too.'
+    - who: David Boder
+      start: '00:11:52.645'
+      end: '00:11:52.645'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:11:53.270'
+      end: '00:11:53.270'
+      u: Old bread.
+    - who: David Boder
+      start: '00:11:54.879'
+      end: '00:11:54.879'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:11:55.941'
+      end: '00:11:55.941'
+      u: It varied. So we...
+    - who: David Boder
+      start: '00:11:56.941'
+      end: '00:11:56.941'
+      u: So you sold the bread to buy soap.
+    - who: Esther Krueger
+      start: '00:11:58.128'
+      end: '00:11:58.128'
+      u: So we sold one portion of bread, two people [men] to buy soap.
+    - who: David Boder
+      start: '00:12:00.923'
+      end: '00:12:00.923'
+      u: You mean two women.
+    - who: Esther Krueger
+      start: '00:12:02.782'
+      end: '00:12:02.782'
+      u: Two.
+    - who: David Boder
+      start: '00:12:03.188'
+      end: '00:12:03.188'
+      u: Two girls. [Chuckle.] Yes.
+    - who: Esther Krueger
+      start: '00:12:04.000'
+      end: '00:12:04.000'
+      u: Yes, two girls. And one portion of bread we ate.
+    - who: David Boder
+      start: '00:12:04.781'
+      end: '00:12:04.781'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:12:05.187'
+      end: '00:12:05.187'
+      u: Everyday. We received the bread in the evening. We were very hungry, so we
+        ate it in the evening. And in the morning we had to wait till twelve o'clock
+        till dinner. The dinner varied. One day there was plain water. The next day
+        might be already a little pea soup or a little potatoes. The soup varied.
+    - who: David Boder
+      start: '00:12:29.663'
+      end: '00:12:29.663'
+      u: Did they give bread for dinner again?
+    - who: Esther Krueger
+      start: '00:12:31.818'
+      end: '00:12:31.818'
+      u: "[With emphasis] No. For dinner..."
+    - who: David Boder
+      start: '00:12:33.317'
+      end: '00:12:33.317'
+      u: The bread was given once for a whole day
+    - who: Esther Krueger
+      start: '00:12:35.332'
+      end: '00:12:35.332'
+      u: ". . . they didn't give us any more bread. In the evening we received bread
+        for the whole day. And twice a day we...and twice a week we received marmalade
+        with the bread."
+    - who: David Boder
+      start: '00:12:45.552'
+      end: '00:12:45.552'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:12:46.176'
+      end: '00:12:46.176'
+      u: One spoon of marmalade. And thus we lived all that time, a year and a half,
+        in Shop 'B.' And then...
+    - who: David Boder
+      start: '00:12:55.213'
+      end: '00:12:55.213'
+      u: In shop what?
+    - who: Esther Krueger
+      start: '00:12:56.915'
+      end: '00:12:56.915'
+      u: Shop 'B' It was...Skarzysko had three shops, Shop 'A', Shop 'B' and Shop
+        'C.'
+    - who: David Boder
+      start: '00:13:03.473'
+      end: '00:13:03.473'
+      u: Hm. And you lived in Shop 'B.'
+    - who: Esther Krueger
+      start: '00:13:04.831'
+      end: '00:13:04.831'
+      u: Shop 'B.'
+    - who: David Boder
+      start: '00:13:05.440'
+      end: '00:13:05.440'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:13:05.893'
+      end: '00:13:05.893'
+      u: 'The worst shop was Shop ''C.'' People worked with ''Pikrina'' at ''yellow
+        labor.'' [Note: On work ''C'' two ingredients were used in the manufacturing
+        or ammunition: ''Trotyl'' and ''Pikrina.'' From these substances people were
+        covered with bright yellow pigment. They were named ''canaries,'' hence the
+        ''yellow labor.'' B.W.] From this work many people died.'
+    - who: David Boder
+      start: '00:13:14.050'
+      end: '00:13:14.050'
+      u: What sort of labor?
+    - who: Esther Krueger
+      start: '00:13:15.081'
+      end: '00:13:15.081'
+      u: "'Pikrina.' This is such a 'yellow labor.'"
+    - who: David Boder
+      start: '00:13:17.205'
+      end: '00:13:17.205'
+      u: What does that mean?
+    - who: Esther Krueger
+      start: '00:13:18.455'
+      end: '00:13:18.455'
+      u: That is such a yellow...from which ammunition is manufactured.
+    - who: David Boder
+      start: '00:13:21.329'
+      end: '00:13:21.329'
+      u: Shells?.
+    - who: Esther Krueger
+      start: '00:13:22.485'
+      end: '00:13:22.485'
+      u: Such a yellow labor. Yellow. A man immediately become yellow from the work
+    - who: David Boder
+      start: '00:13:25.565'
+      end: '00:13:25.565'
+      u: Oh, one become yellow...
+    - who: Esther Krueger
+      start: '00:13:27.033'
+      end: '00:13:27.033'
+      u: Yes.
+    - who: David Boder
+      start: '00:13:27.486'
+      end: '00:13:27.486'
+      u: ". . . from that work. What sort of work is it that one becomes yellow?"
+    - who: Esther Krueger
+      start: '00:13:29.454'
+      end: '00:13:29.454'
+      u: I didn't work at that. I was in the second shop.
+    - who: David Boder
+      start: '00:13:32.312'
+      end: '00:13:32.312'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:13:32.890'
+      end: '00:13:32.890'
+      u: But I saw the people who were so yellow.
+    - who: David Boder
+      start: '00:13:34.936'
+      end: '00:13:34.936'
+      u: Aha. Nu.
+    - who: Esther Krueger
+      start: '00:13:35.811'
+      end: '00:13:35.811'
+      u: And our shop was not the worst, but the German foreman of our work were the
+        worst. There was foreman Herrick. Every day he used to beat Jews to death.
+        Many Jews did he kill. Every two...
+    - who: David Boder
+      start: '00:13:49.335'
+      end: '00:13:49.335'
+      u: Did he really beat to death?
+    - who: Esther Krueger
+      start: '00:13:51.382'
+      end: '00:13:51.382'
+      u: "[With Emphasis] Beat to death. When a Jew didn't do something right by the
+        machines, perhaps he made sabotage, they called it sabotage."
+    - who: David Boder
+      start: '00:13:58.671'
+      end: '00:13:58.671'
+      u: Yes?
+    - who: Esther Krueger
+      start: '00:13:59.249'
+      end: '00:13:59.249'
+      u: He didn't do it on purpose. He [ the foreman] would come running, and he
+        would kick him so hard in the stomach that his guts would drop down.
+    - who: David Boder
+      start: '00:14:06.149'
+      end: '00:14:06.149'
+      u: One moment. With what did he do that?
+    - who: Esther Krueger
+      start: '00:14:07.977'
+      end: '00:14:07.977'
+      u: Pardon?
+    - who: David Boder
+      start: '00:14:08.446'
+      end: '00:14:08.446'
+      u: With what did he do that?
+    - who: Esther Krueger
+      start: '00:14:09.821'
+      end: '00:14:09.821'
+      u: With the foot. With the boots.
+    - who: David Boder
+      start: '00:14:11.102'
+      end: '00:14:11.102'
+      u: With the foot.
+    - who: Esther Krueger
+      start: '00:14:11.477'
+      end: '00:14:11.477'
+      u: Yes.
+    - who: David Boder
+      start: '00:14:11.884'
+      end: '00:14:11.884'
+      u: With the boots.
+    - who: Esther Krueger
+      start: '00:14:12.384'
+      end: '00:14:12.384'
+      u: He would kick him so hard [his] guts would drop down, and then the person
+        dropped. He would live perhaps another three or four days.
+    - who: David Boder
+      start: '00:14:17.699'
+      end: '00:14:17.699'
+      u: And...
+    - who: Esther Krueger
+      start: '00:14:18.402'
+      end: '00:14:18.402'
+      u: Then he died.
+    - who: David Boder
+      start: '00:14:19.121'
+      end: '00:14:19.121'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:14:19.965'
+      end: '00:14:19.965'
+      u: And besides these things, also every two weeks there were also...eh...in
+        Polish it is...what is called...
+    - who: David Boder
+      start: '00:14:31.651'
+      end: '00:14:31.651'
+      u: Say it in Polish.
+    - who: Esther Krueger
+      start: '00:14:32.808'
+      end: '00:14:32.808'
+      u: Eh...Przebiurki [selections].
+    - who: David Boder
+      start: '00:14:35.386'
+      end: '00:14:35.386'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:14:36.230'
+      end: '00:14:36.230'
+      u: Every two weeks the people were re-sorted.
+    - who: David Boder
+      start: '00:14:38.195'
+      end: '00:14:38.195'
+      u: Hm. Selection.
+    - who: Esther Krueger
+      start: '00:14:39.132'
+      end: '00:14:39.132'
+      u: There were selections every two weeks. They were taken into the woods and
+        shot.
+    - who: David Boder
+      start: '00:14:43.304'
+      end: '00:14:43.304'
+      u: Right there?
+    - who: Esther Krueger
+      start: '00:14:44.882'
+      end: '00:14:44.882'
+      u: Yes, right in Shop 'B'
+    - who: David Boder
+      start: '00:14:46.492'
+      end: '00:14:46.492'
+      u: Who saw it?
+    - who: Esther Krueger
+      start: '00:14:47.398'
+      end: '00:14:47.398'
+      u: Many Jews saw it. When the two weeks came, he said, 'These, these,' because
+        maybe she would look bad...
+    - who: David Boder
+      start: '00:14:56.264'
+      end: '00:14:56.264'
+      u: Aha.
+    - who: Esther Krueger
+      start: '00:14:56.795'
+      end: '00:14:56.795'
+      u: ". . . or perhaps she wasn't dressed so nicely. Their numbers were written
+        down, because everyone had her [own] number..."
+    - who: David Boder
+      start: '00:15:03.366'
+      end: '00:15:03.366'
+      u: Yes?
+    - who: Esther Krueger
+      start: '00:15:03.804'
+      end: '00:15:03.804'
+      u: ". . . and written down by names. They all knew that she is being taken into
+        the woods to death. When there came the third day, there they came, the Jewish
+        police, and said, 'This name, this name,' and they all would be reported.
+        They would say good bye to the rest of the Jews and were led into the forest."
+    - who: David Boder
+      start: '00:15:22.489'
+      end: '00:15:22.489'
+      u: What did the Jewish police do there?
+    - who: Esther Krueger
+      start: '00:15:24.755'
+      end: '00:15:24.755'
+      u: There had to be Jewish police to lead out the Jews to work, to the factory...
+    - who: David Boder
+      start: '00:15:29.322'
+      end: '00:15:29.322'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:15:29.728'
+      end: '00:15:29.728'
+      u: ". . . and led them back in the evening..."
+    - who: David Boder
+      start: '00:15:31.368'
+      end: '00:15:31.368'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:15:31.868'
+      end: '00:15:31.868'
+      u: ". . . so that no Jew should escape from the lager."
+    - who: David Boder
+      start: '00:15:34.368'
+      end: '00:15:34.368'
+      u: Yes? Nu, what did the Jewish police have to do with the shootings?
+    - who: Esther Krueger
+      start: '00:15:38.118'
+      end: '00:15:38.118'
+      u: The Jewish police didn't shoot. They would take the Jews and lead them over,
+        with the shop guards, the Ukranians...
+    - who: David Boder
+      start: '00:15:43.712'
+      end: '00:15:43.712'
+      u: Yes?
+    - who: Esther Krueger
+      start: '00:15:44.400'
+      end: '00:15:44.400'
+      u: ". . . and would lead them into the forest, and afterwards we..."
+    - who: David Boder
+      start: '00:15:46.335'
+      end: '00:15:46.335'
+      u: The Jewish police had to do it?
+    - who: Esther Krueger
+      start: '00:15:48.007'
+      end: '00:15:48.007'
+      u: Yes. Then the Ukranians took over those Jews and shot them all.
+    - who: David Boder
+      start: '00:15:51.476'
+      end: '00:15:51.476'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:15:52.288'
+      end: '00:15:52.288'
+      u: We could here the shots and later...
+    - who: David Boder
+      start: '00:15:53.319'
+      end: '00:15:53.319'
+      u: You did hear the shots?
+    - who: Esther Krueger
+      start: '00:15:54.554'
+      end: '00:15:54.554'
+      u: We heard it in the barracks. It was not far from our barracks. And afterwards
+        they did not return any more.
+    - who: David Boder
+      start: '00:16:00.539'
+      end: '00:16:00.539'
+      u: Hm. And what does it mean 'look nice,' 'dressed nicely'? Did you have your
+        own clothing? Were you able to dress nicely?
+    - who: Esther Krueger
+      start: '00:16:07.055'
+      end: '00:16:07.055'
+      u: We had to [see] that the clothes which we did have should not be torn, dirty.
+    - who: David Boder
+      start: '00:16:12.393'
+      end: '00:16:12.393'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:16:12.877'
+      end: '00:16:12.877'
+      u: And a few, from hunger, could not keep themselves so...
+    - who: David Boder
+      start: '00:16:16.471'
+      end: '00:16:16.471'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:16:17.096'
+      end: '00:16:17.096'
+      u: ". . . clean"
+    - who: David Boder
+      start: '00:16:17.628'
+      end: '00:16:17.628'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:16:17.941'
+      end: '00:16:17.941'
+      u: They neglected themselves because they were badly starved. And I...I have...I
+        was already so used to it, and I only...because I knew that in the first place
+        one has to keep clean.
+    - who: David Boder
+      start: '00:16:29.926'
+      end: '00:16:29.926'
+      u: One moment.
+    - who: Esther Krueger
+      start: '00:16:31.051'
+      end: '00:16:31.051'
+      u: But not all were able to keep themselves so.
+    - who: David Boder
+      start: '00:16:32.660'
+      end: '00:16:32.660'
+      u: "[In English] Esther is chubby, good looking, now plump and young girl of
+        twenty. She is not understanding what I am saying. And I caught her...I got
+        her in interrupting her on the way towards washing, and she has put down here
+        on the table a piece of soap. She was going to do either some washing, to
+        groom herself, or to wash some....to do some laundry. She is very well groomed.
+        There is no rouge or anything, but she has a very healthy and pleasant look.
+        [In German] Well, go on. Did you understand what I said? No. [Chuckle. Words
+        not clear.] Go on. [In English] Her teeth are exceptionally good. [In German]
+        You have very nice teeth."
+    - who: Esther Krueger
+      start: '00:17:14.190'
+      end: '00:17:14.190'
+      u: "[Words not clear.]"
+    - who: David Boder
+      start: '00:17:15.283'
+      end: '00:17:15.283'
+      u: Nu, yes [words not clear]. Go on.
+    - who: Esther Krueger
+      start: '00:17:17.815'
+      end: '00:17:17.815'
+      u: "[Whispers. Sounds like] I was in the hospital."
+    - who: David Boder
+      start: '00:17:20.159'
+      end: '00:17:20.159'
+      u: And so they were shot.
+    - who: Esther Krueger
+      start: '00:17:21.378'
+      end: '00:17:21.378'
+      u: Yes.
+    - who: David Boder
+      start: '00:17:21.752'
+      end: '00:17:21.752'
+      u: The girls.
+    - who: Esther Krueger
+      start: '00:17:22.284'
+      end: '00:17:22.284'
+      u: 'It could happen also many times that a girl would be cooking some soup for
+        herself. She had received a few potatoes. She would take from the mill...there
+        was a mill for flakes. From these flakes soup would be made. [Note: On Shop
+        ''B'' was a mill in which potato flakes were made. Occasionally these flakes
+        were used to thicken the soup of the lager. B.W.]'
+    - who: David Boder
+      start: '00:17:33.900'
+      end: '00:17:33.900'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:17:34.525'
+      end: '00:17:34.525'
+      u: She would take a few potatoes, and she would cook a soup. She didn't know
+        a thing. She [her name] had been written down, but she didn't know which day
+        she would be called to death.
+    - who: David Boder
+      start: '00:17:42.562'
+      end: '00:17:42.562'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:17:43.124'
+      end: '00:17:43.124'
+      u: And while cooking...
+    - who: David Boder
+      start: '00:17:44.764'
+      end: '00:17:44.764'
+      u: Where did you cook? Eh...where did she cook the soup?
+    - who: Esther Krueger
+      start: '00:17:46.909'
+      end: '00:17:46.909'
+      u: Yes. By us in the barracks there were in the winter....We had small stoves
+        for heating...
+    - who: David Boder
+      start: '00:17:53.096'
+      end: '00:17:53.096'
+      u: Yes?
+    - who: Esther Krueger
+      start: '00:17:53.439'
+      end: '00:17:53.439'
+      u: ". . . so that it shouldn't be so cold."
+    - who: David Boder
+      start: '00:17:54.939'
+      end: '00:17:54.939'
+      u: Hm. Nu, go on.
+    - who: Esther Krueger
+      start: '00:17:56.236'
+      end: '00:17:56.236'
+      u: So we could cook. So she was cooking that little soup, and she didn't know
+        anything. In that moment comes in a Jewish policeman and says the [her] name.
+        She had to leave behind the soup. She knew that soup she will not eat any
+        more. It is not for her any more. She said good bye, and she had to leave
+        everything. She knew exactly that it is to death, but she had no way out.
+    - who: David Boder
+      start: '00:18:17.822'
+      end: '00:18:17.822'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:18:18.415'
+      end: '00:18:18.415'
+      u: There had also happened a few times that the Jewish boys would fight with
+        the police. When they were going to be taken into the wood, they would...
+    - who: David Boder
+      start: '00:18:26.510'
+      end: '00:18:26.510'
+      u: With the Jewish police?
+    - who: Esther Krueger
+      start: '00:18:27.947'
+      end: '00:18:27.947'
+      u: With the Jewish police. They didn't want to go , but the Jewish police couldn't
+        help anything. When the SS man said, 'You are to bring these and these people,'
+        they had to bring them immediately. And those boys knew that they are going
+        to death anyway, so they didn't want to go. So several times they fought with
+        the Jewish...
+    - who: David Boder
+      start: '00:18:44.097'
+      end: '00:18:44.097'
+      u: Did the Jewish police have revolvers, rifles?
+    - who: Esther Krueger
+      start: '00:18:47.283'
+      end: '00:18:47.283'
+      u: No. They had nothing whatsoever. But a piece...so...
+    - who: David Boder
+      start: '00:18:52.562'
+      end: '00:18:52.562'
+      u: Stick.
+    - who: Esther Krueger
+      start: '00:18:53.187'
+      end: '00:18:53.187'
+      u: A stick. Nothing more.
+    - who: David Boder
+      start: '00:18:54.436'
+      end: '00:18:54.436'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:18:55.248'
+      end: '00:18:55.248'
+      u: And so it was. Thus we were living, that was all. We didn't know how long
+        we would live. And the time could have come when I, too, will be picked out
+        for death. But I didn't make anything of it. I already knew, parents I didn't
+        have, sisters and brothers neither. From the family nobody remained but I
+        alone. So I didn't make anything of it. If to death, then to death. But today
+        [then] I live and what will happen tomorrow, I knew nothing. Later on Shop
+        'B' was transferred to Shop 'A,' also in Skarzysko. And I remained in Shop
+        'A.' Shop 'A' was much better because we could...I had learned to knit.
+    - who: David Boder
+      start: '00:19:42.989'
+      end: '00:19:42.989'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:19:44.348'
+      end: '00:19:44.348'
+      u: Handwork. Socks and mittens
+    - who: David Boder
+      start: '00:19:48.379'
+      end: '00:19:48.379'
+      u: Gloves.
+    - who: Esther Krueger
+      start: '00:19:48.910'
+      end: '00:19:48.910'
+      u: Gloves, yes. I earned a little and was already able to buy an additional
+        piece of bread and make a dress or to make something over, and I could buy
+        soap. I didn't have to sell the portion of bread anymore. And...
+    - who: David Boder
+      start: '00:20:02.839'
+      end: '00:20:02.839'
+      u: And so you had learned to knit in your spare time, not in the fact-...factory
+        you didn't knit.
+    - who: Esther Krueger
+      start: '00:20:09.390'
+      end: '00:20:09.390'
+      u: I had learned to knit in the barracks.
+    - who: David Boder
+      start: '00:20:12.483'
+      end: '00:20:12.483'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:20:12.936'
+      end: '00:20:12.936'
+      u: When I came from work at seven o'clock I learned knitting till nine o'clock,
+        two hours.
+    - who: David Boder
+      start: '00:20:18.576'
+      end: '00:20:18.576'
+      u: Did the Germans allow [one] to bring in wool or such things?
+    - who: Esther Krueger
+      start: '00:20:23.542'
+      end: '00:20:23.542'
+      u: This the Germans didn't know.
+    - who: David Boder
+      start: '00:20:25.291'
+      end: '00:20:25.291'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:20:25.728'
+      end: '00:20:25.728'
+      u: The Germans only watched at work in the factory, but when we returned home
+        we were guarded just by...[from] the first day we were guarded by Jewish police.
+    - who: David Boder
+      start: '00:20:36.207'
+      end: '00:20:36.207'
+      u: Men or women?
+    - who: Esther Krueger
+      start: '00:20:37.082'
+      end: '00:20:37.082'
+      u: Men. Only men.
+    - who: David Boder
+      start: '00:20:38.504'
+      end: '00:20:38.504'
+      u: Yes. And later on
+    - who: Esther Krueger
+      start: '00:20:39.785'
+      end: '00:20:39.785'
+      u: And later on I learned to knit. I would...with my...with my comrade, that
+        girl, too, thus earn. And thus I lived the whole time. I was also in the shop.
+    - who: David Boder
+      start: '00:20:53.037'
+      end: '00:20:53.037'
+      u: Did they pay for the work?
+    - who: Esther Krueger
+      start: '00:20:54.474'
+      end: '00:20:54.474'
+      u: Yes. For the work we would receive from the others [other prisoners?] bread
+        or we would get money, Polish money.
+    - who: David Boder
+      start: '00:21:02.389'
+      end: '00:21:02.389'
+      u: No, no. I mean for the work in the factory. Did they pay?
+    - who: Esther Krueger
+      start: '00:21:05.562'
+      end: '00:21:05.562'
+      u: No. For the work in the factory we didn't get anything. We prayed for only
+        one thing, [that] we should remain alive from the work.
+    - who: David Boder
+      start: '00:21:11.874'
+      end: '00:21:11.874'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:21:12.608'
+      end: '00:21:12.608'
+      u: Nothing more.
+    - who: David Boder
+      start: '00:21:13.139'
+      end: '00:21:13.139'
+      u: Nu. And so you had learned to knit.
+    - who: Esther Krueger
+      start: '00:21:15.732'
+      end: '00:21:15.732'
+      u: And later on we learned to knit. When I already knew how to knit, I earned
+        a little. I already had for soap to make some clothing, and I was able to
+        buy an additional piece of bread.
+    - who: David Boder
+      start: '00:21:29.402'
+      end: '00:21:29.402'
+      u: Nu?
+    - who: Esther Krueger
+      start: '00:21:30.089'
+      end: '00:21:30.089'
+      u: And then...
+    - who: David Boder
+      start: '00:21:32.339'
+      end: '00:21:32.339'
+      u: Where did you buy the bread?
+    - who: Esther Krueger
+      start: '00:21:35.308'
+      end: '00:21:35.308'
+      u: The bread was brought by the...the Poles. They brought it for themselves.
+        They would bring it so that the Germans would not know, and they sold it to
+        us for much more money than it cost in town.
+    - who: David Boder
+      start: '00:21:47.338'
+      end: '00:21:47.338'
+      u: What would you pay with, money or things?
+    - who: Esther Krueger
+      start: '00:21:49.650'
+      end: '00:21:49.650'
+      u: We would pay in money and things. Whoever had money gave money, and whoever
+        had things from home paid with things.
+    - who: David Boder
+      start: '00:21:58.150'
+      end: '00:21:58.150'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:21:58.759'
+      end: '00:21:58.759'
+      u: I also had things from home. Then I became sick with spotted typhus.
+    - who: David Boder
+      start: '00:22:03.915'
+      end: '00:22:03.915'
+      u: Spotted typhus.
+    - who: Esther Krueger
+      start: '00:22:04.821'
+      end: '00:22:04.821'
+      u: Spotted typhus.
+    - who: David Boder
+      start: '00:22:05.165'
+      end: '00:22:05.165'
+      u: Did you have lice?
+    - who: Esther Krueger
+      start: '00:22:06.430'
+      end: '00:22:06.430'
+      u: 'No. [Note: Skarzysko was crawling with lice. B.W.] It was so: When one had
+        it [typhus], and then got it from hunger or from filth, and the next one...My
+        girl friend became sick with spotted typhus, and then I got it, because I
+        was helping her very much. I accompanied her to the bath. I comber her. So
+        I took all that over from her.'
+    - who: David Boder
+      start: '00:22:24.991'
+      end: '00:22:24.991'
+      u: Did she have lice?
+    - who: Esther Krueger
+      start: '00:22:26.116'
+      end: '00:22:26.116'
+      u: Of course. When she got spotted typhus she was in the hospital. And I had
+        to go to work. I didn't have the time to be with her all day, because I had
+        to be at work. And she couldn't wash herself. I had to wash her.
+    - who: David Boder
+      start: '00:22:41.381'
+      end: '00:22:41.381'
+      u: In the hospital?
+    - who: Esther Krueger
+      start: '00:22:41.975'
+      end: '00:22:41.975'
+      u: In the hospital. Before, [when] she was lying in the barrack, then in the
+        hospital.
+    - who: David Boder
+      start: '00:22:46.053'
+      end: '00:22:46.053'
+      u: And where did you wash her? When she was in the hospital or when she...
+    - who: Esther Krueger
+      start: '00:22:49.069'
+      end: '00:22:49.069'
+      u: When she was in the barrack I washed her. And then she was taken to the hospital,
+        to the second shop.
+    - who: David Boder
+      start: '00:22:54.506'
+      end: '00:22:54.506'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:22:55.506'
+      end: '00:22:55.506'
+      u: And I came to...to her, to the hospital, also. I was already sick. I had
+        a forty degree fever. I came to her, to the hospital. She couldn't recognize
+        me. She had such high fever that she didn't know anything. Off her mind. She
+        knew nothing. She recognized me. She thought that I came to wash her. She
+        started screaming, 'Esther, wash me.' But I fell on the bad from the bad fever.
+    - who: David Boder
+      start: '00:23:25.708'
+      end: '00:23:25.708'
+      u: Did you sleep together with that girl in the barrack, or did you have separate
+        beds?
+    - who: Esther Krueger
+      start: '00:23:29.833'
+      end: '00:23:29.833'
+      u: No. In the barrack we slept together, two people [to a bed]. I slept with
+        her.
+    - who: David Boder
+      start: '00:23:35.239'
+      end: '00:23:35.239'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:23:36.177'
+      end: '00:23:36.177'
+      u: And...
+    - who: David Boder
+      start: '00:23:37.021'
+      end: '00:23:37.021'
+      u: How was it, in one bed, or how?
+    - who: Esther Krueger
+      start: '00:23:37.896'
+      end: '00:23:37.896'
+      u: In one bed, such plank beds.
+    - who: David Boder
+      start: '00:23:40.036'
+      end: '00:23:40.036'
+      u: Yes?
+    - who: Esther Krueger
+      start: '00:23:40.504'
+      end: '00:23:40.504'
+      u: Tierred, or two-tierred.
+    - who: David Boder
+      start: '00:23:43.113'
+      end: '00:23:43.113'
+      u: 'Yes'
+    - who: Esther Krueger
+      start: '00:23:43.488'
+      end: '00:23:43.488'
+      u: And in one bed two people slept.
+    - who: David Boder
+      start: '00:23:45.409'
+      end: '00:23:45.409'
+      u: Yes. Two women.
+    - who: Esther Krueger
+      start: '00:23:47.393'
+      end: '00:23:47.393'
+      u: Yes. And in the hospital there slept already ten people on one bunk.
+    - who: David Boder
+      start: '00:23:53.033'
+      end: '00:23:53.033'
+      u: On one bunk.
+    - who: Esther Krueger
+      start: '00:23:53.893'
+      end: '00:23:53.893'
+      u: On one bunk ten people. And...
+    - who: David Boder
+      start: '00:23:55.658'
+      end: '00:23:55.658'
+      u: How wide...how large was the bunk?
+    - who: Esther Krueger
+      start: '00:23:58.407'
+      end: '00:23:58.407'
+      u: That bunk might have been ten meters [wide].
+    - who: David Boder
+      start: '00:24:01.391'
+      end: '00:24:01.391'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:24:02.251'
+      end: '00:24:02.251'
+      u: The number of people varied. I had in the hospital a separate bed, because
+        when my girl friend came, there was one bed, so she slept [on it]. When she
+        became well, then I...that bed remained for me. Then I slept in that bed.
+    - who: David Boder
+      start: '00:24:16.875'
+      end: '00:24:16.875'
+      u: Did people otherwise sleep in the hospital two in a bed?
+    - who: Esther Krueger
+      start: '00:24:19.218'
+      end: '00:24:19.218'
+      u: Yes. In the hospital people slept five, six in the bed then.
+    - who: David Boder
+      start: '00:24:23.405'
+      end: '00:24:23.405'
+      u: Well, and who were the doctors?
+    - who: Esther Krueger
+      start: '00:24:25.905'
+      end: '00:24:25.905'
+      u: There were also Jewish orderlies and doctors. There were two or three doctors,
+        also Jewish. And every few days there were controls by Germans. They picked
+        out many for death.
+    - who: David Boder
+      start: '00:24:39.779'
+      end: '00:24:39.779'
+      u: What does that mean?
+    - who: Esther Krueger
+      start: '00:24:41.154'
+      end: '00:24:41.154'
+      u: When the sick one lay there five days or six, the Germans said he is not
+        recoverable any more. Immediately [they wrote] wrote down [his name] and afterwards
+        an auto came. [He was] taken on the auto, and [he] was driven to the woods
+        and did not return any more.
+    - who: David Boder
+      start: '00:24:53.031'
+      end: '00:24:53.031'
+      u: And so how were they...how were they murdered? Were they shot, or...
+    - who: Esther Krueger
+      start: '00:24:57.564'
+      end: '00:24:57.564'
+      u: That I don't know any more, because I was in work 'A' and they were taken
+        to work 'C.'
+    - who: David Boder
+      start: '00:25:02.658'
+      end: '00:25:02.658'
+      u: What does it mean 'they were taken to work 'C?'
+    - who: Esther Krueger
+      start: '00:25:05.221'
+      end: '00:25:05.221'
+      u: That was another shop in Skarzysko.
+    - who: David Boder
+      start: '00:25:07.158'
+      end: '00:25:07.158'
+      u: Yes, but you were in the hospital, in the sick ward. Were those people.
+    - who: Esther Krueger
+      start: '00:25:10.105'
+      end: '00:25:10.105'
+      u: Yes.
+    - who: David Boder
+      start: '00:25:10.793'
+      end: '00:25:10.793'
+      u: ". . . taken from the hospital?"
+    - who: Esther Krueger
+      start: '00:25:11.605'
+      end: '00:25:11.605'
+      u: They were taken alive, and...
+    - who: David Boder
+      start: '00:25:12.668'
+      end: '00:25:12.668'
+      u: And they were brought over where?
+    - who: Esther Krueger
+      start: '00:25:14.152'
+      end: '00:25:14.152'
+      u: Brought over to work 'C.'
+    - who: David Boder
+      start: '00:25:16.105'
+      end: '00:25:16.105'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:25:16.464'
+      end: '00:25:16.464'
+      u: 'And then they didn''t return any more. [Note: On work ''C'' were the execution
+        grounds and the mass graves. B.W.]'
+    - who: David Boder
+      start: '00:25:17.907'
+      end: '00:25:17.907'
+      u: Hm. And so you don't know if they were given injections, or you don't know
+        that?
+    - who: Esther Krueger
+      start: '00:25:20.800'
+      end: '00:25:20.800'
+      u: That I know nothing about.
+    - who: David Boder
+      start: '00:25:22.472'
+      end: '00:25:22.472'
+      u: And...
+    - who: Esther Krueger
+      start: '00:25:23.754'
+      end: '00:25:23.754'
+      u: That I have not seen.
+    - who: David Boder
+      start: '00:25:24.520'
+      end: '00:25:24.520'
+      u: Nu.
+    - who: Esther Krueger
+      start: '00:25:25.114'
+      end: '00:25:25.114'
+      u: And later I, too, recovered from typhus.
+    - who: David Boder
+      start: '00:25:30.332'
+      end: '00:25:30.332'
+      u: How long were you in the hospital?
+    - who: Esther Krueger
+      start: '00:25:31.739'
+      end: '00:25:31.739'
+      u: I was in the hospital fourteen days, until...
+    - who: David Boder
+      start: '00:25:33.911'
+      end: '00:25:33.911'
+      u: But you said that one couldn't be [there] more than five days.
+    - who: Esther Krueger
+      start: '00:25:38.208'
+      end: '00:25:38.208'
+      u: Nu, yes. I couldn't tell the Germans that I am there so long. When they came
+        I didn't look so bad, so I said that I am only three days.
+    - who: David Boder
+      start: '00:25:47.145'
+      end: '00:25:47.145'
+      u: And the nurse didn't tell?
+    - who: Esther Krueger
+      start: '00:25:48.895'
+      end: '00:25:48.895'
+      u: No, the Jewish nurses said, 'Don't say more than two, three days.'
+    - who: David Boder
+      start: '00:25:53.099'
+      end: '00:25:53.099'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:25:53.615'
+      end: '00:25:53.615'
+      u: But when she [a sick girl] looked already very bad, she couldn't say so,
+        because they could recognize. 'You look so bad. You are [here] more than three,
+        four days.'
+    - who: David Boder
+      start: '00:26:00.775'
+      end: '00:26:00.775'
+      u: Didn't the same ones come? Didn't they recognize you?
+    - who: Esther Krueger
+      start: '00:26:03.603'
+      end: '00:26:03.603'
+      u: No. They didn't know so well because there were so many, so many sick. There
+        were several hundred sick. They could not recognize.
+    - who: David Boder
+      start: '00:26:09.665'
+      end: '00:26:09.665'
+      u: "[In English] We see here that I am trying to give them some searching questions
+        when [it appears that] the horrible story does not make any sense. [In German]
+        Well go on. Yes? So you...in fourteen days you have recovered."
+    - who: Esther Krueger
+      start: '00:26:21.758'
+      end: '00:26:21.758'
+      u: Yes. The crisis had passed, and I recovered. I also sold my clothes that
+        I had from home for...for mush to have something to cook after the sickness.
+        I myself was doing the cooking. I was very weak, but I, myself was doing the
+        cooking.
+    - who: David Boder
+      start: '00:26:37.814'
+      end: '00:26:37.814'
+      u: Nu?
+    - who: Esther Krueger
+      start: '00:26:38.908'
+      end: '00:26:38.908'
+      u: |-
+        And later on I got well. I went back to work immediately. It was on work 'A' one year later, and on work 'B' a year and a half. It was already two and a half years. And then the lager
+                                Skarzysko was transferred to Czenstokhov.
+    - who: David Boder
+      start: '00:26:59.485'
+      end: '00:26:59.485'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:27:00.063'
+      end: '00:27:00.063'
+      u: When we heard that the Russians are approaching, the Germans took us, transferred
+        the whole factory to Skar-...to Czenstokhov.
+    - who: David Boder
+      start: '00:27:06.734'
+      end: '00:27:06.734'
+      u: Yes?
+    - who: Esther Krueger
+      start: '00:27:07.405'
+      end: '00:27:07.405'
+      u: Czenstokhov...
+    - who: David Boder
+      start: '00:27:08.217'
+      end: '00:27:08.217'
+      u: How were you transferred?
+    - who: Esther Krueger
+      start: '00:27:09.405'
+      end: '00:27:09.405'
+      u: From Skarzysko to Czenstokhov.
+    - who: David Boder
+      start: '00:27:11.483'
+      end: '00:27:11.483'
+      u: No I mean...
+    - who: Esther Krueger
+      start: '00:27:13.343'
+      end: '00:27:13.343'
+      u: By train.
+    - who: David Boder
+      start: '00:27:14.014'
+      end: '00:27:14.014'
+      u: By train?
+    - who: Esther Krueger
+      start: '00:27:15.936'
+      end: '00:27:15.936'
+      u: Yes, in railroad cards.
+    - who: David Boder
+      start: '00:27:17.186'
+      end: '00:27:17.186'
+      u: How many were loaded in RR-car?
+    - who: Esther Krueger
+      start: '00:27:18.920'
+      end: '00:27:18.920'
+      u: In one RR-car were loaded a hundred people, eighty...
+    - who: David Boder
+      start: '00:27:22.826'
+      end: '00:27:22.826'
+      u: A hundred girls, you mean?
+    - who: Esther Krueger
+      start: '00:27:23.920'
+      end: '00:27:23.920'
+      u: Yes. A hundred girls and then there were RR-cars for men, because it had
+        been a lager for girls and for...
+    - who: David Boder
+      start: '00:27:31.670'
+      end: '00:27:31.670'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:27:32.295'
+      end: '00:27:32.295'
+      u: ". . . men."
+    - who: David Boder
+      start: '00:27:32.732'
+      end: '00:27:32.732'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:27:33.060'
+      end: '00:27:33.060'
+      u: Together. We were traveling, and we were given for the journey a small piece
+        of bread. We were hungry on the journey, but that...
+    - who: David Boder
+      start: '00:27:40.229'
+      end: '00:27:40.229'
+      u: How long did you travel?
+    - who: Esther Krueger
+      start: '00:27:41.729'
+      end: '00:27:41.729'
+      u: We traveled only one day
+    - who: David Boder
+      start: '00:27:43.822'
+      end: '00:27:43.822'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:27:44.415'
+      end: '00:27:44.415'
+      u: One day and...half a night.
+    - who: David Boder
+      start: '00:27:47.305'
+      end: '00:27:47.305'
+      u: Did they let you out to go to the toilet or where?
+    - who: Esther Krueger
+      start: '00:27:50.008'
+      end: '00:27:50.008'
+      u: "[Pause.] No."
+    - who: David Boder
+      start: '00:27:53.164'
+      end: '00:27:53.164'
+      u: When people had to go out?
+    - who: Esther Krueger
+      start: '00:27:54.164'
+      end: '00:27:54.164'
+      u: No. Not at all. Everybody stayed locked in the RR-cars.
+    - who: David Boder
+      start: '00:27:57.539'
+      end: '00:27:57.539'
+      u: And what did people do when they had to go out?
+    - who: Esther Krueger
+      start: '00:28:00.289'
+      end: '00:28:00.289'
+      u: Oh, all that varied. They had pots from...from the lager yet, and they took
+        them for the road.
+    - who: David Boder
+      start: '00:28:05.969'
+      end: '00:28:05.969'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:28:06.907'
+      end: '00:28:06.907'
+      u: There were no boys...
+    - who: David Boder
+      start: '00:28:07.845'
+      end: '00:28:07.845'
+      u: What?
+    - who: Esther Krueger
+      start: '00:28:08.298'
+      end: '00:28:08.298'
+      u: Only women.
+    - who: David Boder
+      start: '00:28:09.095'
+      end: '00:28:09.095'
+      u: Only women.
+    - who: Esther Krueger
+      start: '00:28:09.642'
+      end: '00:28:09.642'
+      u: Yes. One wasn't embarassed in front of the other. There was no way out. Then
+        we came to Czenstokhov. We were taken to Warta. In Czenstokhov there were
+        also three works, Czenstokhovianka, Warta, and Pelcery. I remained located
+        in Warta. This is the work where there is the river Warta.
+    - who: David Boder
+      start: '00:28:31.219'
+      end: '00:28:31.219'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:28:31.969'
+      end: '00:28:31.969'
+      u: We also worked at the same machines as in Skarzysko. It was already much
+        better. We received half a kilo of bread for each person, usually every day
+        in the evening, and a better soup, a thicker one, and much more than in Skarzysko
+        . Life was already much better.
+    - who: David Boder
+      start: '00:28:53.093'
+      end: '00:28:53.093'
+      u: And who was guarding you?
+    - who: Esther Krueger
+      start: '00:28:54.092'
+      end: '00:28:54.092'
+      u: We were guar-...the Germans watched us from all sides.
+    - who: David Boder
+      start: '00:28:57.326'
+      end: '00:28:57.326'
+      u: Were they of the SS or the Wehrmacht?
+    - who: Esther Krueger
+      start: '00:28:59.341'
+      end: '00:28:59.341'
+      u: No. Wehrmacht. And Ukranians, factory guards.
+    - who: David Boder
+      start: '00:29:02.914'
+      end: '00:29:02.914'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:29:03.977'
+      end: '00:29:03.977'
+      u: And we...life was already much better than in Skarzysko . We already knew
+        that the front is coming closer and closer. Maybe we will be liberated. But
+        we didn't think...
+    - who: David Boder
+      start: '00:29:13.591'
+      end: '00:29:13.591'
+      u: Did they beat you?
+    - who: Esther Krueger
+      start: '00:29:15.169'
+      end: '00:29:15.169'
+      u: Not that much any more. We didn't get [beaten] as much as a Skarzysko . They
+        were already much better Germans than in Skarzysko .
+    - who: David Boder
+      start: '00:29:22.450'
+      end: '00:29:22.450'
+      u: Which year was that in?
+    - who: Esther Krueger
+      start: '00:29:24.215'
+      end: '00:29:24.215'
+      u: It was in the year '45.
+    - who: David Boder
+      start: '00:29:26.668'
+      end: '00:29:26.668'
+      u: In the year '45.
+    - who: Esther Krueger
+      start: '00:29:27.902'
+      end: '00:29:27.902'
+      u: Yes.
+    - who: David Boder
+      start: '00:29:28.246'
+      end: '00:29:28.246'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:29:28.683'
+      end: '00:29:28.683'
+      u: From '44 to '45. It was already towards the end of '45 [apparently '44],
+        because we were liberated in the year '45. And we were living that way in
+        Czenstokhov. Life wasn't as bad any more as is Skarzysko . We got much more
+        soup to eat, half a kilo of bread, and thus we lived. And then we also knew
+        that the front is coming always closer, and we will be liberated. But we didn't
+        believe that it is poss-...[a pause apparently due to something wrong with
+        the wire].
+    - who: David Boder
+      start: '00:29:59.453'
+      end: '00:29:59.453'
+      u: Nu?
+    - who: Esther Krueger
+      start: '00:30:00.172'
+      end: '00:30:00.172'
+      u: We didn't believe that we will live through it, because everybody was saying
+        to all the Jews, 'If freedom will come at twelve...at twelve o'clock, then
+        at half past eleven the Germans will make an end of all the Jews.
+    - who: David Boder
+      start: '00:30:13.693'
+      end: '00:30:13.693'
+      u: An end.
+    - who: Esther Krueger
+      start: '00:30:14.349'
+      end: '00:30:14.349'
+      u: Yes, an end. Then we didn't want to believe that we will survive this war.
+        But unexpectedly, [on] Monday it was, the Germans led all the Jews, men, out
+        to Germany. It was on the fifth the first [month].
+    - who: David Boder
+      start: '00:30:33.413'
+      end: '00:30:33.413'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:30:34.194'
+      end: '00:30:34.194'
+      u: And on Tuesday, on the second day, they were supposed to lead away all the
+        women. They locked us in the armories. There were severe frosts at that time,
+        very cold, but a miracle happened in that there were no RR-cars, [so] they
+        could not transport us away, and we remained in Czenstokhov. Later on, it
+        was at five o'clock in the evening, the bombardment began. We were bombed.
+        The Russian bombed all of Czenstokhov. And at night they entered Czenstokhov,
+        the Russians. The Germans abandoned the lager. There was great joy for the
+        Jews when the Russians arrived. I, myself, didn't want to believe. I could
+        see the Jews were taking and putting on rifles, but I didn't want to believe.
+        I could see the Jews were taking and putting on rifles, but I didn't want
+        to believe that all that is possible, and that it is true that we have survived
+        this war, this terrible war. But all that was true. In the morning we left
+        the lager. We got out on the street in Czenstokhov. We found many German soldiers,
+        all dead, and we saw freedom. Russians came. We met many Jewish...many Jewish
+        Russians who were in the Russian army. They told us that to us freedom had
+        arrived. We had survived all that, it is true, and we want to journey home
+        and look for our relatives, our family. For me it was very painful. I knew
+        I have no one from the family, but I thought maybe...perhaps...perhaps someone
+        did remain from my family. Three days later I traveled home. I entered our
+        house. There wa-...there was a Polish woman living there. He told me that
+        from my family nobody, not one, had remained. I remained living with this
+        Christian woman. I lived...I lived [there] a few months. And later on I found
+        out that there exist Kibbutzim for Jews.
+    - who: David Boder
+      start: '00:32:39.425'
+      end: '00:32:39.425'
+      u: You didn't know it before?
+    - who: Esther Krueger
+      start: '00:32:41.065'
+      end: '00:32:41.065'
+      u: I did...I did not know at all that there are Kibbutz.m. I didn't know what
+        to do, to remain by this Polish woman, or to go. I didn't know anything, but
+        later on I went to Kibbutz. I met [there] many Jews, many Jewish girls.
+    - who: David Boder
+      start: '00:32:57.794'
+      end: '00:32:57.794'
+      u: Where did you go to Kibbutz?
+    - who: Esther Krueger
+      start: '00:32:59.247'
+      end: '00:32:59.247'
+      u: I went to Sosnowie.
+    - who: David Boder
+      start: '00:33:02.231'
+      end: '00:33:02.231'
+      u: Oh, Sosnowie.
+    - who: Esther Krueger
+      start: '00:33:03.544'
+      end: '00:33:03.544'
+      u: Yes.
+    - who: David Boder
+      start: '00:33:03.856'
+      end: '00:33:03.856'
+      u: Yes?
+    - who: Esther Krueger
+      start: '00:33:04.263'
+      end: '00:33:04.263'
+      u: In Sosnowie I remained in the Kibbutz, well, all the...There were many girls
+        and boys. We started to settle down. The way...the way a Kibbutz had been
+        before today it was much better. There was enough food. Slowly we made for
+        ourselves everything.
+    - who: David Boder
+      start: '00:33:22.582'
+      end: '00:33:22.582'
+      u: Who gave that food?
+    - who: Esther Krueger
+      start: '00:33:23.831'
+      end: '00:33:23.831'
+      u: The food was...there was an official. He brought money, and we did our own
+        cooking and did all our buying.
+    - who: David Boder
+      start: '00:33:30.268'
+      end: '00:33:30.268'
+      u: And from where did he get the money?
+    - who: Esther Krueger
+      start: '00:33:31.768'
+      end: '00:33:31.768'
+      u: That I don't know.
+    - who: David Boder
+      start: '00:33:34.174'
+      end: '00:33:34.174'
+      u: You don't know.
+    - who: Esther Krueger
+      start: '00:33:34.923'
+      end: '00:33:34.923'
+      u: He [only] brought the money.
+    - who: David Boder
+      start: '00:33:36.251'
+      end: '00:33:36.251'
+      u: Yes. Nu? And then?
+    - who: Esther Krueger
+      start: '00:33:38.594'
+      end: '00:33:38.594'
+      u: And from America came money from Joint. And we...with that we bought. We
+        lived, received food and clothing. We were in Sosnowie a few months. Then
+        we went. We wanted to go to Italy, but we couldn't go to Italy.
+    - who: David Boder
+      start: '00:33:57.547'
+      end: '00:33:57.547'
+      u: Yes?
+    - who: Esther Krueger
+      start: '00:33:58.203'
+      end: '00:33:58.203'
+      u: The border was closed. So [we] remained in Austria. In Austria it was very
+        bad. We had no food. We got very little [food].
+    - who: David Boder
+      start: '00:34:07.140'
+      end: '00:34:07.140'
+      u: Who held Austria, the English or the Amer-...
+    - who: Esther Krueger
+      start: '00:34:09.639'
+      end: '00:34:09.639'
+      u: The English.
+    - who: David Boder
+      start: '00:34:10.076'
+      end: '00:34:10.076'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:34:10.811'
+      end: '00:34:10.811'
+      u: We had nothing to eat. We went around very hungry. We got as much as in the
+        lager during the times of Hitler.
+    - who: David Boder
+      start: '00:34:18.452'
+      end: '00:34:18.452'
+      u: You mean as little as in the lager.
+    - who: Esther Krueger
+      start: '00:34:19.733'
+      end: '00:34:19.733'
+      u: Very little. Little bread and little soup. Then we went from Austria to Germany.
+    - who: David Boder
+      start: '00:34:25.638'
+      end: '00:34:25.638'
+      u: Did they let you cross the border or did you steal across?
+    - who: Esther Krueger
+      start: '00:34:30.075'
+      end: '00:34:30.075'
+      u: We stole the border. Each border we would...
+    - who: David Boder
+      start: '00:34:32.716'
+      end: '00:34:32.716'
+      u: "[Words not clear.] How many people together?"
+    - who: Esther Krueger
+      start: '00:34:33.997'
+      end: '00:34:33.997'
+      u: It varied. Sometimes there would go...
+    - who: David Boder
+      start: '00:34:37.263'
+      end: '00:34:37.263'
+      u: You with your group.
+    - who: Esther Krueger
+      start: '00:34:38.934'
+      end: '00:34:38.934'
+      u: There had gone a hundred and twenty. We went across the mountains on foot.
+    - who: David Boder
+      start: '00:34:42.856'
+      end: '00:34:42.856'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:34:43.981'
+      end: '00:34:43.981'
+      u: Russian soldiers caught us. We went back and then once again across the mountains,
+        and we got through the border.
+    - who: David Boder
+      start: '00:34:50.465'
+      end: '00:34:50.465'
+      u: To where? To Germany?
+    - who: Esther Krueger
+      start: '00:34:52.731'
+      end: '00:34:52.731'
+      u: To Germany.
+    - who: David Boder
+      start: '00:34:53.497'
+      end: '00:34:53.497'
+      u: And where did you go from Germany?
+    - who: Esther Krueger
+      start: '00:34:55.106'
+      end: '00:34:55.106'
+      u: "[In] Germany we remained a few weeks, and then we went to Italy. And now
+        we are in Italy."
+    - who: David Boder
+      start: '00:35:03.168'
+      end: '00:35:03.168'
+      u: Hm. And now you are waiting. What is the name of your Kibbutz?
+    - who: Esther Krueger
+      start: '00:35:08.699'
+      end: '00:35:08.699'
+      u: Our Kibbutz is named Nocham.
+    - who: David Boder
+      start: '00:35:10.668'
+      end: '00:35:10.668'
+      u: The Kibbutz-Nocham.
+    - who: Esther Krueger
+      start: '00:35:11.825'
+      end: '00:35:11.825'
+      u: Nocham. Noah-Chalutzim Meichad.
+    - who: David Boder
+      start: '00:35:14.012'
+      end: '00:35:14.012'
+      u: Write it sown. [Pause.] Noah?
+    - who: Esther Krueger
+      start: '00:35:18.949'
+      end: '00:35:18.949'
+      u: Noah Chalutzim Meichad.
+    - who: David Boder
+      start: '00:35:21.027'
+      end: '00:35:21.027'
+      u: Hm. And what does it mean in German, in Yiddish?
+    - who: Esther Krueger
+      start: '00:35:24.434'
+      end: '00:35:24.434'
+      u: It is an...an...assembly of young Chalutzim.
+    - who: David Boder
+      start: '00:35:28.356'
+      end: '00:35:28.356'
+      u: Hm. And now you are waiting to go to...
+    - who: Esther Krueger
+      start: '00:35:31.638'
+      end: '00:35:31.638'
+      u: Now we are here. We don't know what will happen next.
+    - who: David Boder
+      start: '00:35:35.199'
+      end: '00:35:35.199'
+      u: And what do people do here all day?
+    - who: Esther Krueger
+      start: '00:35:36.933'
+      end: '00:35:36.933'
+      u: The whole day here? It varies. There is also an appell, and we...I also knit.
+        I make socks...
+    - who: David Boder
+      start: '00:35:47.120'
+      end: '00:35:47.120'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:35:47.714'
+      end: '00:35:47.714'
+      u: ". . . today [at present], too"
+    - who: David Boder
+      start: '00:35:48.869'
+      end: '00:35:48.869'
+      u: Hm.
+    - who: Esther Krueger
+      start: '00:35:49.244'
+      end: '00:35:49.244'
+      u: And various things. What job one has he does. He washes and...
+    - who: David Boder
+      start: '00:35:53.275'
+      end: '00:35:53.275'
+      u: Do you understand Hebrew? Do you understand Hebrew?
+    - who: Esther Krueger
+      start: '00:35:55.509'
+      end: '00:35:55.509'
+      u: I don't understand Hebrew so well. I studied it after the war, not for long.
+        I do read, but I do not understand too well.
+    - who: David Boder
+      start: '00:36:03.305'
+      end: '00:36:03.305'
+      u: "[In English] This concludes Spool one hundred...this concludes...this concludes
+        spool one hundred and nine. Esther Krueger who belongs to a Kibbutz, who went
+        through her...her work in a slave labor situation. She has no tatoo. She was
+        in reasonably clean conditions although she went through typhus, and she is
+        here in Tradate, Italy, expecting by...legally or illegally to reach Palestine."
+    - who: David Boder
+      start: '00:36:36.931'
+      end: '00:36:36.931'
+      u: "[In German] Are you married?"
+    - who: Esther Krueger
+      start: '00:36:37.803'
+      end: '00:36:37.803'
+      u: No.
+    - who: David Boder
+      start: '00:36:38.678'
+      end: '00:36:38.678'
+      u: No.
+    - who: Esther Krueger
+      start: '00:36:39.288'
+      end: '00:36:39.288'
+      u: All that has been related briefly.
+    - who: David Boder
+      start: '00:36:42.585'
+      end: '00:36:42.585'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:36:43.288'
+      end: '00:36:43.288'
+      u: About all the experiences.
+    - who: David Boder
+      start: '00:36:44.601'
+      end: '00:36:44.601'
+      u: Yes.
+    - who: Esther Krueger
+      start: '00:36:45.897'
+      end: '00:36:45.897'
+      u: But if one were to write it, one would have to write very much more.
+    - who: David Boder
+      start: '00:36:50.085'
+      end: '00:36:50.085'
+      u: Yes, of course. I would have liked you not to have been so brief, but I will
+        see. Maybe [we] will get together again. [A possible break in the wire.]...to
+        write.
+    - who: Esther Krueger
+      start: '00:37:00.053'
+      end: 
+      u: In the future we describe all that, make large books about all the experiences.
+transcript: {}
+translation: {}

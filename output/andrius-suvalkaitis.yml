@@ -26,5 +26,1048 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: ru
+    interview:
+    - who: David Boder
+      start: '00:00:00.000'
+      end: '00:00:00.000'
+      u: "[In English] Spool 9-143A and 9-143B. Mr. Suvalkaitis and Mrs. Bronė Skudaikienė,
+        respectively. October 7th 1950, Chicago, Boder. 143A in Lithuanian, 143B partly
+        in Lithuanian, partly German."
+    - who: David Boder
+      start: '00:01:01.197'
+      end: '00:01:01.197'
+      u: Spool 143. Spool 143. Munich, September the 21st 1946 at Lohengrinstrasse,
+        in a camp for displaced Baltics—Lithuanians, Latvians and Estonians. The interviewee
+        is Mr. Andrius Suvalkaitis, 41 years old [incorrect], Lithuanian. He will
+        speak German.
+    - who: David Boder
+      start: '00:01:29.211'
+      end: '00:01:29.211'
+      u: "[In German] Sie werden Deutsch sprechen, nicht wahr?"
+    - who: David Boder
+      start: '00:01:30.195'
+      end: '00:01:30.195'
+      u: "[In English] Of course it is not his language, but we will do the best we
+        can."
+    - who: David Boder
+      start: '00:01:34.952'
+      end: '00:01:34.952'
+      u: "[In German] Also, Herr Suvalkaitis, wollen Sie nochmal sagen, wie heißen
+        Sie, und wo sind Sie geboren und wie alt sind Sie?"
+    - who: Andrius Suvalkaitis
+      start: '00:01:40.614'
+      end: '00:01:40.614'
+      u: Ich war geboren in Vilkaviškis erste 1915 Jahre, erstes Kind geboren.
+    - who: David Boder
+      start: '00:01:48.147'
+      end: '00:01:48.147'
+      u: Also, welche Monat ist das?
+    - who: Andrius Suvalkaitis
+      start: '00:01:49.421'
+      end: '00:01:49.421'
+      u: 1 April
+    - who: David Boder
+      start: '00:01:50.278'
+      end: '00:01:50.278'
+      u: 1 April?
+    - who: Andrius Suvalkaitis
+      start: '00:01:52.016'
+      end: '00:01:52.016'
+      u: Ja.
+    - who: David Boder
+      start: '00:01:53.573'
+      end: '00:01:53.573'
+      u: Und wo waren Sie, Herr Suvalkaitis, wenn der Krieg angefangen hat?
+    - who: Andrius Suvalkaitis
+      start: '00:01:57.756'
+      end: '00:01:57.756'
+      u: Wenn der Krieg angefangen, ich war in Kaunas.
+    - who: David Boder
+      start: '00:02:01.366'
+      end: '00:02:01.366'
+      u: 'Also wollen wir sagen so: zuerst sind doch zu Ihnen die Sowjets gekommen,
+        nicht wahr?'
+    - who: Andrius Suvalkaitis
+      start: '00:02:06.636'
+      end: '00:02:06.636'
+      u: Die Sowjets wenn sie kommen bei uns in Litauen, ich war auch in Kaunas. Wir
+        haben gehabt ein Dienst in eine Büro—Beamter.
+    - who: David Boder
+      start: '00:02:13.354'
+      end: '00:02:13.354'
+      u: Als was- als was haben Sie gehabt den Dienst?
+    - who: Andrius Suvalkaitis
+      start: '00:02:16.051'
+      end: '00:02:16.051'
+      u: Ich hatte gehabt als die—eine—Abteilungsleiter.
+    - who: David Boder
+      start: '00:02:21.871'
+      end: '00:02:21.871'
+      u: In was für einem Büro?
+    - who: Andrius Suvalkaitis
+      start: '00:02:23.338'
+      end: '00:02:23.338'
+      u: Das war in litauische Militär in Kauno komendantūra.
+    - who: David Boder
+      start: '00:02:26.344'
+      end: '00:02:26.344'
+      u: Waren Sie Soldat?
+    - who: Andrius Suvalkaitis
+      start: '00:02:27.569'
+      end: '00:02:27.569'
+      u: Ich war Oberfeldwebel.
+    - who: David Boder
+      start: '00:02:31.299'
+      end: '00:02:31.299'
+      u: Sie waren Oberfeldwebel?
+    - who: Andrius Suvalkaitis
+      start: '00:02:32.977'
+      end: '00:02:32.977'
+      u: Ja.
+    - who: David Boder
+      start: '00:02:33.538'
+      end: '00:02:33.538'
+      u: Und dann sind die Sowjets gekommen. Was hat das denn passiert?
+    - who: Andrius Suvalkaitis
+      start: '00:02:36.876'
+      end: '00:02:36.876'
+      u: Wenn die Sowjets gekommen erst alle unsere—alle unsere Militärersten gemacht
+        eine Corps, und alle diese Korpsobersten geschickt nach Irland.
+    - who: David Boder
+      start: '00:02:47.367'
+      end: '00:02:47.367'
+      u: Die Russen haben ein Korps gemacht?
+    - who: Andrius Suvalkaitis
+      start: '00:02:48.713'
+      end: '00:02:48.713'
+      u: Die russische gemacht ein Korps, weil die litauische gar nicht in Militär.
+        Und unsere Ersten noch gewarten in Kaunas eine Liquidationskommission. In
+        diese Kommission ich auch erst gearbeiten—bis 23-igste Februar.
+    - who: David Boder
+      start: '00:03:07.051'
+      end: '00:03:07.051'
+      u: Also 23.Februar, welches Jahr?
+    - who: Andrius Suvalkaitis
+      start: '00:03:10.872'
+      end: '00:03:10.872'
+      u: Das war 41, Jahr.
+    - who: David Boder
+      start: '00:03:14.240'
+      end: '00:03:14.240'
+      u: Und, wie haben Sie gelebt, wenn die Russen in Litauen waren? Wilna war doch
+        Poland, nicht wahr?
+    - who: Andrius Suvalkaitis
+      start: '00:03:20.656'
+      end: '00:03:20.656'
+      u: Ja, die war Polen.
+    - who: David Boder
+      start: '00:03:22.576'
+      end: '00:03:22.576'
+      u: Aber ich dachte, die Stadt Wilna...
+    - who: Andrius Suvalkaitis
+      start: '00:03:24.314'
+      end: '00:03:24.314'
+      u: Ja, das war litauische Stadt.
+    - who: David Boder
+      start: '00:03:25.841'
+      end: '00:03:25.841'
+      u: Aber, bevor die Russen gekommen sind, haben doch die Polen gehabt, nicht
+        wahr?
+    - who: Andrius Suvalkaitis
+      start: '00:03:28.877'
+      end: '00:03:28.877'
+      u: Ja, das die Polen erst gehabt.
+    - who: David Boder
+      start: '00:03:30.133'
+      end: '00:03:30.133'
+      u: Und dann haben die Russen Wilna zurückgegeben zu Litauen.
+    - who: Andrius Suvalkaitis
+      start: '00:03:33.682'
+      end: '00:03:33.682'
+      u: Ja, das bestimmt.
+    - who: David Boder
+      start: '00:03:34.485'
+      end: '00:03:34.485'
+      u: Und ist jetzt Wilna in Litauen?
+    - who: Andrius Suvalkaitis
+      start: '00:03:36.646'
+      end: '00:03:36.646'
+      u: Ja, es ist auch in Litauen. Aber jetzt die ganze Litauen ist sowjetische...
+    - who: David Boder
+      start: '00:03:40.376'
+      end: '00:03:40.376'
+      u: Sowjetische.
+    - who: Andrius Suvalkaitis
+      start: '00:03:40.756'
+      end: '00:03:40.756'
+      u: Ja.
+    - who: David Boder
+      start: '00:03:41.468'
+      end: '00:03:41.468'
+      u: Aber die Polen haben nicht Wilna.
+    - who: Andrius Suvalkaitis
+      start: '00:03:43.689'
+      end: '00:03:43.689'
+      u: Nee, jetzt haben nicht.
+    - who: David Boder
+      start: '00:03:44.281'
+      end: '00:03:44.281'
+      u: Also weiter, was hat denn passiert?
+    - who: Andrius Suvalkaitis
+      start: '00:03:47.046'
+      end: '00:03:47.046'
+      u: 'Ja, das war. Und dann die ersten Abblasen—beim Militär—bei Kommission erste
+        alles in Ordnung gemacht- und dann in 25. Februar die ersten gesperrt in Gefängnis—die
+        Bolschewisten. [To the reader: In German, this passage does not make any sense
+        at all, it is just fragments.]'
+    - who: David Boder
+      start: '00:04:02.064'
+      end: '00:04:02.064'
+      u: Warum?
+    - who: Andrius Suvalkaitis
+      start: '00:04:04.195'
+      end: '00:04:04.195'
+      u: 'Warum? Ich weiß nicht warum. Ich habe gar nicht gemacht. Bei ersten ich
+        war nur ein bestimmender Büro-Beamter—war nicht mehr. Und dann die ersten
+        gesperrt—die ersten geschicken nach Kaunas—dritte in Kaunas gefangen—und dann,
+        wer er gar nicht gemacht für mich gericht—er ab zu wenig—gar nicht.. [To the
+        reader: In German, this passage does not make any sense at all, it is just
+        fragments. This is why they are switching to Lithuanian afterwards.]'
+    - who: David Boder
+      start: '00:04:27.627'
+      end: '00:04:27.627'
+      u: Herr Suvalkaitis, sprechen Sie Litauisch. Sprechen Sie Litauisch oder Polnisch?
+    - who: Andrius Suvalkaitis
+      start: '00:04:33.983'
+      end: '00:04:33.983'
+      u: Litauisch.
+    - who: David Boder
+      start: '00:04:34.575'
+      end: '00:04:34.575'
+      u: "[In English] Okay, go ahead."
+    - who: Andrius Suvalkaitis
+      start: '00:04:36.615'
+      end: '00:04:36.615'
+      u: "[In Lithuanian] Tai jie mane dvidešimt penktą vasario areštavo, patalpino
+        Kauno kalėjime. Kauno kalėjime sėdėjau, bet kadangi ten buvo per mažas įrodymas,
+        negalėjo sudaryt man teismo, per maža buvo įrodymų, tai jie mane tardė gana
+        ilgai—kas antra, trečia naktis iškviesdami tardymui. Iš karto tardė tardytojas
+        rusas, vėliau žydas, pagaliau lietuvis. Bet nė vienas tardytojas iš manęs
+        negalėjo nieko ištraukt rimto. Kadangi paro...įrodymų trūko, matydami, kad
+        negalės sudaryti man teismo, jie paėmė mane ir išsiuntė į Vilniaus kalėjimą,
+        tūkstantis devyni šimtai keturiasdešimts pirmais birželio trečią dieną. Ir
+        pagaliau palaikę Vilniaus kalėjime tris dienas nusiuntė į Minską. Minsko kalėjime
+        tikėjaus, kaip ir visi kiti teisiamieji, arba suimtieji, kuriems negalėjo
+        sudaryt teismo, sulaukt už akių sprendimo penkiolikos, dešimties, daugiau
+        ar mažiau metų katargos ir būt išsiųstas į Sibiro teiges. Bet laimė, tuo momentu
+        tūkstantis devyni šimtai keturiasdešimt pirmais metais birželio dvidešimt
+        antrą dieną kilęs karas, ir birželio dvidešimts ketvirtą dieną užskridę vokiečių
+        aviacijos lėktuvai bombardavo Minską, ir pataikė viena bomba į kalėjimą. Kadangi
+        ta bomba krito ant kalėjimo kampo, kalėjime kilo didelė panika."
+    - who: David Boder
+      start: '00:06:14.054'
+      end: '00:06:14.054'
+      u: "[In Russian] Это была немецкая бомба?"
+    - who: Andrius Suvalkaitis
+      start: '00:06:16.245'
+      end: '00:06:16.245'
+      u: Немецкая бомба.
+    - who: Andrius Suvalkaitis
+      start: '00:06:18.436'
+      end: '00:06:18.436'
+      u: |-
+        [In Lithuanian] Kalėjime kilo didelė panika. Visi kalėjimo sargai, enkavedistai, prižiūrėtojai puolė lakstyt po kalėjimą, visus suimtuosius išvarė lauk į kiemą. Kurie buvo nuteisti daugiau ar mažiau, visus iki vienam ir be teismo visus kalinius suvarė į kiemą. Kieme girdėjos ir koridoriuj šaudymas. Kalėjime visus nuteistuosius mirt arba didelėm bausmėm, sušaudė kalėjimo kieme, suvarę į antrą pusę. Mus visus sustatė į tvorą žiūrint, iškėlus rankas aukštyn, ir tuo momentu vaikščioj aplinkui visokie sargai enkavedistai ir šaukė. Mes manėm, kad ir mus tam kieme sušaudys, bet vėliau iš jų skaitymo kiek buvo galima suprast, atskaitė mus apie tūkstantį du šimtus žmonių—mūsų tarpe buvo daugiausia lietuvių, buvo dalis lenkų, keletas latvių,—ir varė visus gilyn į Rusi.. į Rusiją pėsčius. Ėjom pėsti tris paras, tris dienas ir tris naktis, maža valgę ir beveik nemigę. Valgyt gavom tik tą, ką enkavedistai išmesdavo iš mašinų, patys valgę. Iš paskui važiavo mašinos, mašinose važiavo enkavedistai, enkavedistai keitėsi pamainoms—kuomet vieni pavargdavo, sėsdavosi į mašinas, kiti eidavo. Pražygiavus gerą galą vienam miškely—miškelio pavadinimo dabar aš neprisimenu—buvo toks kaip ir postovis. Pailsėt davė tik tokiu momentu, kada krito minia ir negalėjo paeiti—didesnė pusė krisdavo, tada mums leisdavo šiek tiek pailsėt. Pagaliau tam miškely sušaudė gana daug žmonių, ir likusius visus varė tolyn. Pagaliau trečią dieną pavakariais pražygiavus pro Červenę prie vieno miškelio netolimai upelio panašaus į lietuvišką Nevėžį gilumo ir sriaunumo atžvilgiu, ir prie to upelio leido atseit poilsį. Ir tam poilsy—a mes kaip sykis nešėm kartu dviejuos—aš ir dar vienas prietelis pulkininką Petruitį—ant rankų, ir mes sumerkėm vis kojas į tą upelį, kad atgaut bent kiek, šiek tiek...atgaivint kraują, nes buvom privargę, nevalgę, išalkę ir be to, nuo tardymo iškankinti. Mano asmeniškai kojos buvo sudaužytos čia taip, kad vos į kelnes tilpo. Tuo momentu antrasis prietelis, kuris stovėjo, man sudavė per petį ranka ir pasakė—žiūrėk, Andriau, į užpakalį. Kuomet aš atsisukau į užpakalį pamačiau įstatytus aplinkui kulkosvaidžius. Ir po to mano tų enkavedistų vadas sukomandavo stot visiem ir gult. Po šito momento prasidėjo šaudymas. Sušaudė mūsų visą minią, kiek mūs buvo ten. Laimei, ant manęs iš karto užkrito negyvi lavonai. Buvo toks, matyt, laimės momentas, likimas—mes visi trys kai buvom, ir sugulėm į tokią vagą. Sugulėm visi, ir laimei krito ant mūs lavonai, paskiau tas egzekucija tęsėsi maždaug tris valandas. Po trijų valandų nurimo, nutilo kulkosvaidžių šaudymai, pasigirdo vaikščiojimas, keiksmas rusiškas enkavedistų, ir gyvus, kurie nebuvo visiškai nušauti, durtuvais subadė galvas arba kastuvėliais suskaldė pakaušius žmonėms. Po šito visai nurimus jiems, kada jau pasidarė tyla, pradėjo, aš pradėjau judintis, nes ant manęs kuomet gulėjo dvylika lavonų, aš buvau kraujy pasruvęs visas. Apie mane nieko nebuvo daugiau
+                                išskiriant svetimo kraujo. Tuo momentu aš pasijudinau, numečiau pirmuosius lavonus nuo galvos, pakėlęs galvą apsidairiau, ar nesimato kas nors,—nieko nesimatė, tik tuščias lavonų laukas. Tuo momentu aš pakėlęs galvą atsisėdau, pradėjau šaukt, pradėjau šaukt, išgirdau vieną duslų balsą. Ir štai atsikėlė vienas prietelis, mes atsikėlėm abudu, pradėjom vaikščiot po lavonų lauk,ą išgirdom duslų balsą. Išgirdę šį duslų balsą pribėgom, išgelbėjom tuojaus pulkininką Petruitį. Petruitis atsikėlė, mes tikiedamiesi, kad mes esam gyvi, yra dar ir daugiau gyvų, šaukėm ir vaikščiojom po minią, po ko.. šitą, lavonų lauką. Bet tuo momentu kitam krašte atsikėlė dar trys lietuviai ir du lenkai. Iš to dvylika šimtų mes atsikėlėm iš viso aštuoni žmonės, šeši lietuviai ir du lenkai. Paskiau, kada mes vaikščiojom tikiedamiesi surast daugiau ką nors, bet deja, tuo momentu enkavedistai pavažiavę toliau žemyn už krūmų laukė ir sekė mus. Pastebėję vaikščiojant žmones po lavonų lauką paleido mašiną ir kulkosvaidžių šūvius ir pradėjo važiuot artyn prie mūs, tikiedamiesi mus pagaut. Bet tuo momentu mes, k...kuomet jie paleido šūvius, nuo mūs buvo miškas maždaug du šimtai metrų, ir toj pusėj—kairėj pusėj kelio, ir čia grįžtant buvo rugių laukas. Per tą rugių lauką laimingai pasprukom apšaudomi į mišką. Ką bū darę toliau enkavedistai—aišku, būt mus ieškoję, bet tuo momentu užskrido vokiečių aviacijos lėktuvai, ir pradėjo apšaudyt jų mašinas.
+    - who: David Boder
+      start: '00:11:35.530'
+      end: '00:11:35.530'
+      u: "[In German] Ich will, dass Sie mir selbst erzählen sollen, was hat Ihnen
+        persönlich– Ihnen selbst passiert, wenn die Deutschen nach Litauen gekommen
+        sind."
+    - who: Andrius Suvalkaitis
+      start: '00:11:45.518'
+      end: '00:11:45.518'
+      u: Ja dass ich komme...
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Sprechen Sie Litauisch. Aber Ihnen persönlich, Sie brauchen nicht die ganze
+        Geschichte...wie ist es Ihnen gegangen? Ja, sprechen Deutsch.
+    - who: Andrius Suvalkaitis
+      start: '00:11:57.765'
+      end: '00:11:57.765'
+      u: Deutsch. Ich kann sprechen Sie. Wir hatten gekommen zu mich—ich hatte gefangen.
+        Ich dann ich kann sprechen—ich kann Sie sprechen über ich hatte gekommen zurück—von
+        die Gefangen- welche haben gemacht und welchen Beruf—in Deutsch.
+    - who: David Boder
+      start: '00:12:14.925'
+      end: '00:12:14.925'
+      u: Sprechen Sie Litauish.
+    - who: Andrius Suvalkaitis
+      start: '00:12:16.165'
+      end: '00:12:16.165'
+      u: Gut, spreche ich Litauisch wieder.
+    - who: Andrius Suvalkaitis
+      start: '00:12:19.345'
+      end: '00:12:19.345'
+      u: "[In Lithuanian] Kuomet mes grįžom į Lietuvą, iš tos Červenės, jau radau
+        vokiečius Lietuvoje. Vokiečiai Lietuvoj iš karto mums dar nieko ypatingo nedarė.
+        Aš grįžęs iš karto gavau tarnybą, kepyklos vedėju. Dirbau kepykloj, po to
+        perėjau į malūnų centrą. Malūnų centre buvau revizorium. Ir iš ten—patarnavau
+        iki keturiasdešimts ketvirtų metų gegužės penkioliktos dienos. Gegužės penkioliktą
+        dieną balševikai mane—ne tik mane, bet ir visus kitus—gaudydavo bažnyčiose
+        ir išveždavo. Tuo pačiu sugavo ir mane ir atvežė į Vokietiją."
+    - who: David Boder
+      start: '00:12:55.301'
+      end: '00:12:55.301'
+      u: "[In German] Langsam."
+    - who: Andrius Suvalkaitis
+      start: '00:12:56.778'
+      end: '00:12:56.778'
+      u: "[In Lithuanian] Atvežė į Vokietiją, ir visą laiką turėjau dirbt prie apkasų,
+        apkasų kasimuos. Dirbau Rytprūsiuos, ir taip palaipsniui atsiradau iki Karaliaučiaus.
+        Nuo Karaliaučiaus iš apkasų pabėgau, atvažiavau į Berlyną, iš Berlyno pusės
+        perėjęs į šią pusę mėnesį laiko—tai buvo kovo balandžio pradžia—mėnesį laiko
+        pasi...pasislapščius pas ūkininkus, vieną kitą dieną padirbus, užėjo amerikiečiai.
+        Užėjus amerikiečiams laimingai pakliuvau į Rytų lagerį ir šiandien dar tebegyvenu."
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: "[In German] Also, und wo waren Sie, wenn die Amerikaner gekommen?"
+    - who: Andrius Suvalkaitis
+      start: '00:13:39.055'
+      end: '00:13:39.055'
+      u: Wenn die Amerikaner ersten gekommen..
+    - who: David Boder
+      start: '00:13:40.572'
+      end: '00:13:40.572'
+      u: Litauisch.
+    - who: Andrius Suvalkaitis
+      start: '00:13:41.812'
+      end: '00:13:41.812'
+      u: "[In Lithuanian] Kai amerikonai atvažiavo, aš buvau Austrijoj."
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: "[In German] Und dann, wie sind Sie von Austria nach München gekommen?"
+    - who: Andrius Suvalkaitis
+      start: '00:13:49.955'
+      end: '00:13:49.955'
+      u: "[In Lithuanian] O tai iš Austrijos aš tuojaus nuėjau į Militėrvojinimentą
+        Zalcburge, prisistačiau ir ten jie mane tuojaus davė nurodymą, kad aš eič...eičiau
+        į Zalcburgo Glazenbako bendrai visų tautybių surinkimo lagerį. Ten aš ir nuvykau,
+        bet kuomet paaiškėjo, kad tas lageris yra tik tautoms, grįžtančioms į tėvynę,
+        o aš į tėvynę grįžt dar nenorėjau tol, kol Lietuvoj bus balševykinė diktatūra,
+        tai aš pa..paėmiau ir išvažiavau į Miuncheną. Atvažiavau į Miuncheną ir nuo
+        praeitų birželio dvidešimts devintos dienos tebegyvenu Miunchene Didi lageryje."
+    - who: David Boder
+      start: '00:14:28.394'
+      end: '00:14:28.394'
+      u: "[In Russian] Ну а что вы думаете, у вас тут что, семья есть...в лагере,
+        или вы один?"
+    - who: Andrius Suvalkaitis
+      start: '00:14:35.673'
+      end: '00:14:35.673'
+      u: "[In German] Bitte sprechen Sie Deutsch."
+    - who: David Boder
+      start: '00:14:36.635'
+      end: '00:14:36.635'
+      u: Ja ja. Haben Sie eine Familie im Lager oder sind Sie allein?
+    - who: Andrius Suvalkaitis
+      start: '00:14:39.705'
+      end: '00:14:39.705'
+      u: Nein, meine Familie ist in Litauer. Ich hab keine Familie. Ich bin verheiratet.
+        Meine Frau und zwei Kinder es in Litauen.
+    - who: David Boder
+      start: '00:14:46.489'
+      end: '00:14:46.489'
+      u: Haben sie geschrieben?
+    - who: Andrius Suvalkaitis
+      start: '00:14:47.768'
+      end: '00:14:47.768'
+      u: Nein, hat nicht geschrieben. Hat keine geschrieben. Meine Bruder von Amerika
+        hat Brief geschrieben in Litauen, aber er hat nicht gekriegt.
+    - who: David Boder
+      start: '00:14:55.087'
+      end: '00:14:55.087'
+      u: Hat keine Antwort bekommen?
+    - who: Andrius Suvalkaitis
+      start: '00:14:56.042'
+      end: '00:14:56.042'
+      u: Hab ich keine Antwort.
+    - who: David Boder
+      start: '00:14:57.084'
+      end: '00:14:57.084'
+      u: Und was denken Sie wird jetzt weiter passieren? Was werden Sie tun?
+    - who: Andrius Suvalkaitis
+      start: '00:15:00.541'
+      end: '00:15:00.541'
+      u: Jetzt...
+    - who: David Boder
+      start: '00:15:01.294'
+      end: '00:15:01.294'
+      u: Sie haben Bruder in Amerika.
+    - who: Andrius Suvalkaitis
+      start: '00:15:03.009'
+      end: '00:15:03.009'
+      u: Ich habe Bruder und Schwester in Amerika.
+    - who: David Boder
+      start: '00:15:04.478'
+      end: '00:15:04.478'
+      u: Werden die Sie rübernehmen?
+    - who: Andrius Suvalkaitis
+      start: '00:15:06.019'
+      end: '00:15:06.019'
+      u: Ja, ich habe jetzt Afidavit, aber ich weiß nicht, vielleicht ich kann nicht
+        fahren in Amerika.
+    - who: David Boder
+      start: '00:15:10.677'
+      end: '00:15:10.677'
+      u: Aha. Wenn Sie ein Afidavit haben, werden Sie schon bald fahren, in ein paar
+        Monate vielleicht. Diesen Dienstag fahren 400 Menschen weg—vom anderen Lager.
+    - who: Andrius Suvalkaitis
+      start: '00:15:20.942'
+      end: '00:15:20.942'
+      u: Na ja, die reste fahren. Ich auch jetzt hab Dienst—in Lager sind jetzt Ferien.
+    - who: David Boder
+      start: '00:15:25.141'
+      end: '00:15:25.141'
+      u: Und was tun Sie jetzt hier?
+    - who: Andrius Suvalkaitis
+      start: '00:15:26.662'
+      end: '00:15:26.662'
+      u: Ich jetzt hier—ich bin jetzt Feuerwehrmann.
+    - who: David Boder
+      start: '00:15:29.105'
+      end: '00:15:29.105'
+      u: Sie sind Feuerwehr. Was verstehen Sie zu tun? Weil womit können Sie was verdienen?
+    - who: Andrius Suvalkaitis
+      start: '00:15:33.528'
+      end: '00:15:33.528'
+      u: Ich bin Ökonomist– ich bin Buchhalter.
+    - who: David Boder
+      start: '00:15:36.794'
+      end: '00:15:36.794'
+      u: Was heißt—Ökonomist?
+    - who: Andrius Suvalkaitis
+      start: '00:15:38.315'
+      end: '00:15:38.315'
+      u: "[In Lithuanian] Ekonomika."
+    - who: Andrius Suvalkaitis
+      start: '00:15:39.875'
+      end: '00:15:39.875'
+      u: "[In German] Litauisch—Buchhalter"
+    - who: David Boder
+      start: '00:15:41.984'
+      end: '00:15:41.984'
+      u: Aha, Sie haben Ökonomie studiert?
+    - who: Andrius Suvalkaitis
+      start: '00:15:43.933'
+      end: '00:15:43.933'
+      u: Ja.
+    - who: David Boder
+      start: '00:15:44.280'
+      end: '00:15:44.280'
+      u: Wo?
+    - who: Andrius Suvalkaitis
+      start: '00:15:44.845'
+      end: '00:15:44.845'
+      u: In Kaunas.
+    - who: David Boder
+      start: '00:15:45.532'
+      end: '00:15:45.532'
+      u: In Kaunas. In der Universität. Oh. Wieviel Litauer sind hier in diesem Camp?
+    - who: Andrius Suvalkaitis
+      start: '00:15:54.076'
+      end: '00:15:54.076'
+      u: Hier? Ungefähr 800.
+    - who: David Boder
+      start: '00:15:56.079'
+      end: '00:15:56.079'
+      u: 800 Litauer.
+    - who: Andrius Suvalkaitis
+      start: '00:15:56.967'
+      end: '00:15:56.967'
+      u: Ja.
+    - who: David Boder
+      start: '00:15:57.289'
+      end: '00:15:57.289'
+      u: Männer, Frauen und Kinder?
+    - who: Andrius Suvalkaitis
+      start: '00:15:58.689'
+      end: '00:15:58.689'
+      u: Ja, alles zusammen.
+    - who: David Boder
+      start: '00:15:59.705'
+      end: '00:15:59.705'
+      u: Haben Sie eine Schule?
+    - who: Andrius Suvalkaitis
+      start: '00:16:01.105'
+      end: '00:16:01.105'
+      u: Ja, haben eine Schule.
+    - who: David Boder
+      start: '00:16:02.523'
+      end: '00:16:02.523'
+      u: Eine litauische Schule?
+    - who: Andrius Suvalkaitis
+      start: '00:16:03.320'
+      end: '00:16:03.320'
+      u: Ja, eine litauische Schule. Und eine litauische Gymnasium. Und das ist...
+    - who: David Boder
+      start: '00:16:08.685'
+      end: '00:16:08.685'
+      u: Und wo haben Sie Bücher bekommen?
+    - who: Andrius Suvalkaitis
+      start: '00:16:10.615'
+      end: '00:16:10.615'
+      u: Bücher? Jetzt...bisschen gekriecht von unseren Leuten, und geschickt jetzt
+        aus Amerika.
+    - who: David Boder
+      start: '00:16:18.392'
+      end: '00:16:18.392'
+      u: Und von Litauen haben Sie Bücher?
+    - who: Andrius Suvalkaitis
+      start: '00:16:19.455'
+      end: '00:16:19.455'
+      u: Nein, von Litauen nein, von Litauen gar nicht mehr gekriegt.
+    - who: David Boder
+      start: '00:16:22.938'
+      end: '00:16:22.938'
+      u: Also danke, Herr Suvalkaitis, das war ein sehr guter Report, und wir werden
+        übersetzen lassen, und ich denke, wir werden sehr interessant, ihn sehr interessant
+        finden.
+    - who: Andrius Suvalkaitis
+      start: '00:16:32.048'
+      end: '00:16:32.048'
+      u: Danke.
+    - who: David Boder
+      start: '00:16:32.398'
+      end: 
+      u: "[In English] This concludes the report of Mr. Andrius Suvalkaitis, given
+        mostly in Lithuanian, at Munich Baltic Center, at Lohengrinstrasse, September
+        the 21st, 1946."
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:00.000'
+      end: '00:00:00.000'
+      u: "[In English] Spool 9-143A and 9-143B. Mr. Suvalkaitis and Mrs. Bronė Skudaikienė,
+        respectively. October 7th 1950, Chicago, Boder. 143A in Lithuanian, 143B partly
+        in Lithuanian, partly German."
+    - who: David Boder
+      start: '00:01:01.197'
+      end: '00:01:01.197'
+      u: Spool 143. Spool 143. Munich, September the 21st 1946 at Lohengrinstrasse,
+        in a camp for displaced Baltics—Lithuanians, Latvians and Estonians. The interviewee
+        is Mr. Andrius Suvalkaitis, 41 years old [incorrect], Lithuanian. He will
+        speak German.
+    - who: David Boder
+      start: '00:01:29.211'
+      end: '00:01:29.211'
+      u: "[In German] You are going to speak German, aren't you?"
+    - who: David Boder
+      start: '00:01:30.195'
+      end: '00:01:30.195'
+      u: "[In English] Of course it is not his language, but we will do the best we
+        can."
+    - who: David Boder
+      start: '00:01:34.952'
+      end: '00:01:34.952'
+      u: "[In German] So, Mr. Suvalkaitis, would you please tell me your name, where
+        you were born and how old you are?"
+    - who: Andrius Suvalkaitis
+      start: '00:01:40.614'
+      end: '00:01:40.614'
+      u: I was born in Vilkaviškis, at the beginning of 1915, as the first child.
+    - who: David Boder
+      start: '00:01:48.147'
+      end: '00:01:48.147'
+      u: In which month?
+    - who: Andrius Suvalkaitis
+      start: '00:01:49.421'
+      end: '00:01:49.421'
+      u: On the 1st of April.
+    - who: David Boder
+      start: '00:01:50.278'
+      end: '00:01:50.278'
+      u: On the 1st of April?
+    - who: Andrius Suvalkaitis
+      start: '00:01:52.016'
+      end: '00:01:52.016'
+      u: Yeah.
+    - who: David Boder
+      start: '00:01:53.573'
+      end: '00:01:53.573'
+      u: And where had you been, Mr. Suvalkaitis, when the war began?
+    - who: Andrius Suvalkaitis
+      start: '00:01:57.756'
+      end: '00:01:57.756'
+      u: When the war started, I was in Kaunas.
+    - who: David Boder
+      start: '00:02:01.366'
+      end: '00:02:01.366'
+      u: So, isn't it true that first the Soviets came to you?
+    - who: Andrius Suvalkaitis
+      start: '00:02:06.636'
+      end: '00:02:06.636'
+      u: When the Soviets came to us in Lithuania, I was in Kaunas as well. I was
+        on duty in an office—as a clerk.
+    - who: David Boder
+      start: '00:02:13.354'
+      end: '00:02:13.354'
+      u: So, what was this duty like? What did you do?
+    - who: Andrius Suvalkaitis
+      start: '00:02:16.051'
+      end: '00:02:16.051'
+      u: I worked as a—department manager.
+    - who: David Boder
+      start: '00:02:21.871'
+      end: '00:02:21.871'
+      u: In which kind of office?
+    - who: Andrius Suvalkaitis
+      start: '00:02:23.338'
+      end: '00:02:23.338'
+      u: It was for the Lithuanian Army in the Kauno komendantūra.
+    - who: David Boder
+      start: '00:02:26.344'
+      end: '00:02:26.344'
+      u: You were a soldier?
+    - who: Andrius Suvalkaitis
+      start: '00:02:27.569'
+      end: '00:02:27.569'
+      u: I was a sergeant major.
+    - who: David Boder
+      start: '00:02:31.299'
+      end: '00:02:31.299'
+      u: You were a sergeant major?
+    - who: Andrius Suvalkaitis
+      start: '00:02:32.977'
+      end: '00:02:32.977'
+      u: Yeah.
+    - who: David Boder
+      start: '00:02:33.538'
+      end: '00:02:33.538'
+      u: And then the Soviets came. What happened then?
+    - who: Andrius Suvalkaitis
+      start: '00:02:36.876'
+      end: '00:02:36.876'
+      u: When the Soviets came, all of our—all our Colonels established a corps, and
+        all the commanders of this corps were sent to Ireland.
+    - who: David Boder
+      start: '00:02:47.367'
+      end: '00:02:47.367'
+      u: The Russians established a corps?
+    - who: Andrius Suvalkaitis
+      start: '00:02:48.713'
+      end: '00:02:48.713'
+      u: The Russians established a corps, as the Lithuanians hadn't been in the Army
+        at all. And our commanders waited in Kaunas for a liquidation committee. In
+        the beginning, I worked for this committee as well—until the 23rd of February.
+    - who: David Boder
+      start: '00:03:07.051'
+      end: '00:03:07.051'
+      u: So, the 23rd of February? Which year?
+    - who: Andrius Suvalkaitis
+      start: '00:03:10.872'
+      end: '00:03:10.872'
+      u: In the year 41.
+    - who: David Boder
+      start: '00:03:14.240'
+      end: '00:03:14.240'
+      u: And how did you live when the Russians were in Lithuania? Vilnius belonged
+        to Poland, didn't it?
+    - who: Andrius Suvalkaitis
+      start: '00:03:20.656'
+      end: '00:03:20.656'
+      u: Yeah, it was Polish.
+    - who: David Boder
+      start: '00:03:22.576'
+      end: '00:03:22.576'
+      u: But I thought that Vilnius...
+    - who: Andrius Suvalkaitis
+      start: '00:03:24.314'
+      end: '00:03:24.314'
+      u: Yeah, it was a Lithuanian town.
+    - who: David Boder
+      start: '00:03:25.841'
+      end: '00:03:25.841'
+      u: But before the Russians came, it belonged the Polish, didn't it?
+    - who: Andrius Suvalkaitis
+      start: '00:03:28.877'
+      end: '00:03:28.877'
+      u: Yeah, first it belonged to the Polish.
+    - who: David Boder
+      start: '00:03:30.133'
+      end: '00:03:30.133'
+      u: And then the Russians passed Vilnius back to the Lithuanians.
+    - who: Andrius Suvalkaitis
+      start: '00:03:33.682'
+      end: '00:03:33.682'
+      u: Yeah, that's right.
+    - who: David Boder
+      start: '00:03:34.485'
+      end: '00:03:34.485'
+      u: And is Vilnius now a part of Lithuania?
+    - who: Andrius Suvalkaitis
+      start: '00:03:36.646'
+      end: '00:03:36.646'
+      u: Yeah, it is in Lithuania. But all of Lithuania is now a Soviet...
+    - who: David Boder
+      start: '00:03:40.376'
+      end: '00:03:40.376'
+      u: Soviet.
+    - who: Andrius Suvalkaitis
+      start: '00:03:40.756'
+      end: '00:03:40.756'
+      u: Yeah.
+    - who: David Boder
+      start: '00:03:41.468'
+      end: '00:03:41.468'
+      u: But the Polish don't have Vilnius.
+    - who: Andrius Suvalkaitis
+      start: '00:03:43.689'
+      end: '00:03:43.689'
+      u: No, they don't have.
+    - who: David Boder
+      start: '00:03:44.281'
+      end: '00:03:44.281'
+      u: So, what happened further?
+    - who: Andrius Suvalkaitis
+      start: '00:03:47.046'
+      end: '00:03:47.046'
+      u: That's right. And then the commanders cancelled—at the Army—the committee
+        first arranged everything—and then, on the 25th of February, the first ones
+        were brought to jail—the Bolshevists.
+    - who: David Boder
+      start: '00:04:02.064'
+      end: '00:04:02.064'
+      u: For what reason?
+    - who: Andrius Suvalkaitis
+      start: '00:04:04.195'
+      end: '00:04:04.195'
+      u: For what reason? I have no idea. I didn't do anything. For the commanders
+        I just was a leading office-clerk—nothing more. And then the first ones were
+        arrested—the first ones were sent to Kaunas—the third ones captured in Kaunas—and
+        then, he didn't do anything for me—the court—he did not enough—at all.
+    - who: David Boder
+      start: '00:04:27.627'
+      end: '00:04:27.627'
+      u: Mr. Suvalkaitis, please speak Lithuanian. Do you speak Lithuanian or Polish?
+    - who: Andrius Suvalkaitis
+      start: '00:04:33.983'
+      end: '00:04:33.983'
+      u: Lithuanian.
+    - who: David Boder
+      start: '00:04:34.575'
+      end: '00:04:34.575'
+      u: "[In English] Okay, go ahead."
+    - who: Andrius Suvalkaitis
+      start: '00:04:36.615'
+      end: '00:04:36.615'
+      u: "[In Lithuanian] They arrested me on February 25, put me in a prison in Kaunas.
+        I was being kept there, but since they did not have enough evidence, they
+        could not bring me to trial, too little evidence, so they interrogated me
+        for quite a long time—they would take me out for interrogation once in two,
+        three nights. First, the interrogator was Russian, then a Jew, and finally
+        a Lithuanian. But none of them could get anything serious out of me. Since
+        they did not have sufficient testi—...evidence, seeing that they would not
+        be able to bring me to court, they took me and sent me away to Vilnius prison
+        on June 3, 1941. And finally, having kept me in Vilnius prison for three days,
+        they sent me to Minsk. Once in Minsk prison, I was expecting, just like every
+        suspect or arrestee, who could not be brought to trial, that a decision would
+        be made in absentia, and I would be sentenced to fifteen, ten, more or less
+        years of servitude and sent to the Siberian taiga. But lucky for me, the war
+        began on June 21, 1941, and on the 24th of June, German airplanes bombed Minsk,
+        and a bomb hit the prison building. Since the bomb fell on a corner of the
+        prison building, huge panic started inside the prison."
+    - who: David Boder
+      start: '00:06:14.054'
+      end: '00:06:14.054'
+      u: "[In Russian] Was it a German bomb?"
+    - who: Andrius Suvalkaitis
+      start: '00:06:16.245'
+      end: '00:06:16.245'
+      u: A German bomb.
+    - who: Andrius Suvalkaitis
+      start: '00:06:18.436'
+      end: '00:06:18.436'
+      u: |-
+        [In Lithuanian] Huge panic started inside the prison. All the guards, overseers, started running around, drove all the inmates out into the courtyard. Those who had been sentenced, and those who had not been tried yet—every prisoner was taken outside. Once outside, we could hear gunfire in the corridors. Everyone who was sentenced to death or to a long term of imprisonment was executed in the courtyard, on the other side of it. We were put face against the wall, with our hands up, and various guards from the NKVD were walking around, shouting. We thought they would execute us in that courtyard as well, but then what we figured from their count, they counted around twelve hundred people—most of us were Lithuanians, but there were also Poles, some Latvians—and we were all herded deep into Russ—...to Russia on foot. We walked for three full days, three days and three nights, with little to eat and almost no sleep. We would get to eat only any scraps the NKVD men would throw out of the cars, having eaten themselves. We were being followed by cars with NKVD men, they would do shifts—when some of them got tired, they would get into the cars, others would walk. After a good length of the march, we sort of camped in some forest—I cannot remember its name now. They only allowed us to rest when a lot of people had fallen, unable to go on—when more than one-half would fall, then we would be allowed some rest. Finally, quite a lot of people were executed in that forest, and the rest were pushed on. Then, in the evening of the third day, after we had passed Cherven, (by a forest and a river that looked like the Lithuanian Nevėžis, depth- and stream-wise) we were allowed some sort of rest. And during that break—and two of us—me and a friend of mine—were carrying Colonel Petruitis, and we put our feet into that stream, to regain some...to revive the blood, as we were tired, hungry and going mad from the interrogation. My own legs were so beaten up they could hardly fit in my pants. At that time, a second friend who was standing, slapped me on a shoulder and said, "Look, Andrius, behind you." When I looked around, I saw machine-guns set all around. And then the chief of the NKVD men commanded us to stand up and then lie down. After that, the shooting began. The whole lot of us were gunned down, whatever was left of us. Lucky for me, dead bodies fell on me right away. Apparently, that was a lucky moment, destiny—the three of us laid in some trench. We all lay, and lucky for us, dead bodies were falling onto us, that execution continued for around three hours. After three hours, everything fell quiet, the machine-gun fire ceased, we could hear footsteps, Russian swears from the NKVD men, and those who were still alive had their heads skewered with bayonets or cracked open with trowels. Then, after they all had quieted down, when silence had fallen, I
+                                started to wriggle because I had some twelve corpses on top of me and was all drenched in blood. Other people's blood was all that surrounded me. Then I moved, moved the first few bodies off my head, raised my head and took a look around—there was nobody around, only an empty field with bodies. At that time, after I raised my head I sat up, started yelling and heard a muffled voice. And then a friend of mine got up, we both got up, started walking around the field of bodies, heard a muffled voice. We ran to it and rescued Colonel Petruitis. Petruitis got up. We (hoping that as we had survived there would be more survivors as well) were yelling and walking around, around this field of corpses. But then three more Lithuanians and two Poles got up at the other end. Of the twelve hundred people, a total of eight survived—six Lithuanians and two Poles. Then we were walking in hopes of find more survivors, but unfortunately, the NKVD men had driven down behind bushes, watching us. Having spotted people walking around, they started up the engine and were coming at us, firing the machine-guns, hoping to get us. But then we...when they started shooting, the forest was about two hundred meters away, and on that side—on the left of the road, was a rye field. Under gunfire, we escaped, cutting through the rye to the woods. What would the NKVD men have done—of course, they would have looked for us, but at that time German airplanes came and started firing at their cars.
+    - who: David Boder
+      start: '00:11:35.530'
+      end: '00:11:35.530'
+      u: "[In German] I would like you to tell me, with your own words, what happened
+        to you—personally—when the Germans came to Lithuania."
+    - who: Andrius Suvalkaitis
+      start: '00:11:45.518'
+      end: '00:11:45.518'
+      u: Yeah, that I come to...
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Speak Lithuanian. But you personally—you don't need to tell the whole story—what
+        happened to you? Yeah, speak German.
+    - who: Andrius Suvalkaitis
+      start: '00:11:57.765'
+      end: '00:11:57.765'
+      u: German. I can tell you. We came back to my place—I had been arrested. Then
+        I can further tell you—I could tell you how I came back—from imprisonment—and
+        what I did or which job I had—in German.
+    - who: David Boder
+      start: '00:12:14.925'
+      end: '00:12:14.925'
+      u: Speak Lithuanian.
+    - who: Andrius Suvalkaitis
+      start: '00:12:16.165'
+      end: '00:12:16.165'
+      u: Okay, I will speak Lithuanian again.
+    - who: Andrius Suvalkaitis
+      start: '00:12:19.345'
+      end: '00:12:19.345'
+      u: "[In Lithuanian] When we returned to Lithuania from Cherven, I found Germans
+        in Lithuania. At the start, the Germans did nothing in particular to us. As
+        I returned, I immediately got a job as a bakery director. I worked at the
+        bakery, then moved to a mill hub. I worked as an auditor at the mill hub.
+        And there I served until the 15th of May, 1944. On May 15th, the Bolsheviks
+        were catching people in churches and taking them away. I was caught too, and
+        taken to Germany."
+    - who: David Boder
+      start: '00:12:55.301'
+      end: '00:12:55.301'
+      u: "[In German] Slowly."
+    - who: Andrius Suvalkaitis
+      start: '00:12:56.778'
+      end: '00:12:56.778'
+      u: "[In Lithuanian] I was brought to Germany and had to work all the time at
+        trenches, digging them. I worked in Eastern Prussia and ended up in Karaliaučiaus.
+        Once in Karaliaučiaus, I ran away from the trenches, came to Berlin, having
+        crossed to this side from Berlin—that was the beginning of March, April—after
+        hi—...hiding at some farm for a month, the Americans came at the end of one
+        working day. When they came, I was successfully put into the Eastern camp,
+        where I live to this day."
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: "[In German] So, where had you been when the Americans came?"
+    - who: Andrius Suvalkaitis
+      start: '00:13:39.055'
+      end: '00:13:39.055'
+      u: When the first Americans came...
+    - who: David Boder
+      start: '00:13:40.572'
+      end: '00:13:40.572'
+      u: Lithuanian.
+    - who: Andrius Suvalkaitis
+      start: '00:13:41.812'
+      end: '00:13:41.812'
+      u: "[In Lithuanian] When the American came, I was in Austria."
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: "[In German] And how did you get from Austria to Munich?"
+    - who: Andrius Suvalkaitis
+      start: '00:13:49.955'
+      end: '00:13:49.955'
+      u: "[In Lithuanian] Once in Austria, I immediately went to the Salzburg Militėrvojiniment,
+        reported there and they ordered me to go...to go to the Salzburg general displaced
+        persons camp of Glasenbach. I went there, but only to find out that that camp
+        was only for repatriating persons, and I did not want to go back home as long
+        as there was a Bolshevik dictatorship in Lithuania, so I picked up and went
+        to Munich. I came to Munich and have been living at the Didi camp since June
+        29 of last year."
+    - who: David Boder
+      start: '00:14:28.394'
+      end: '00:14:28.394'
+      u: "[In Russian] Do you think you have a family here...at the camp, or are you
+        here by yourself?"
+    - who: Andrius Suvalkaitis
+      start: '00:14:35.673'
+      end: '00:14:35.673'
+      u: "[In German] Please speak German."
+    - who: David Boder
+      start: '00:14:36.635'
+      end: '00:14:36.635'
+      u: Yeah, yeah.. Do you have a family in the camp or are you by yourself?
+    - who: Andrius Suvalkaitis
+      start: '00:14:39.705'
+      end: '00:14:39.705'
+      u: No, my family is in Lithuania. I don't have a family. I am married. My wife
+        and two children are in Lithuania.
+    - who: David Boder
+      start: '00:14:46.489'
+      end: '00:14:46.489'
+      u: Did they write to you?
+    - who: Andrius Suvalkaitis
+      start: '00:14:47.768'
+      end: '00:14:47.768'
+      u: No, she didn't write. Nobody wrote to me. My brother from America wrote a
+        letter to Lithuania, but didn't get any reply.
+    - who: David Boder
+      start: '00:14:55.087'
+      end: '00:14:55.087'
+      u: He didn't get an answer?
+    - who: Andrius Suvalkaitis
+      start: '00:14:56.042'
+      end: '00:14:56.042'
+      u: I didn't get an answer.
+    - who: David Boder
+      start: '00:14:57.084'
+      end: '00:14:57.084'
+      u: And what do you think will happen now? What are you going to do?
+    - who: Andrius Suvalkaitis
+      start: '00:15:00.541'
+      end: '00:15:00.541'
+      u: Now...
+    - who: David Boder
+      start: '00:15:01.294'
+      end: '00:15:01.294'
+      u: You have a brother in America.
+    - who: Andrius Suvalkaitis
+      start: '00:15:03.009'
+      end: '00:15:03.009'
+      u: I have a brother and a sister in America.
+    - who: David Boder
+      start: '00:15:04.478'
+      end: '00:15:04.478'
+      u: Will they take you over there?
+    - who: Andrius Suvalkaitis
+      start: '00:15:06.019'
+      end: '00:15:06.019'
+      u: Yeah, I now got an affidavit, but I don't know, maybe I won't be able to
+        go to America.
+    - who: David Boder
+      start: '00:15:10.677'
+      end: '00:15:10.677'
+      u: Uh. But since you got an affidavit you will soon be leaving, maybe as quickly
+        as in a few months. On Tuesday, about 400 people are leaving—from the other
+        camp.
+    - who: Andrius Suvalkaitis
+      start: '00:15:20.942'
+      end: '00:15:20.942'
+      u: So, the first ones leave. But I am on duty. Besides. there are holidays in
+        the camp right now.
+    - who: David Boder
+      start: '00:15:25.141'
+      end: '00:15:25.141'
+      u: And what do you do here?
+    - who: Andrius Suvalkaitis
+      start: '00:15:26.662'
+      end: '00:15:26.662'
+      u: I am now...I am now a fire fighter.
+    - who: David Boder
+      start: '00:15:29.105'
+      end: '00:15:29.105'
+      u: You are a fire fighter.And what profession did you learn? How did you earn
+        your living?
+    - who: Andrius Suvalkaitis
+      start: '00:15:33.528'
+      end: '00:15:33.528'
+      u: I am an economist...I am a bookkeeper.
+    - who: David Boder
+      start: '00:15:36.794'
+      end: '00:15:36.794'
+      u: What does this mean? Economist?
+    - who: Andrius Suvalkaitis
+      start: '00:15:38.315'
+      end: '00:15:38.315'
+      u: "[In Lithuanian] Economics."
+    - who: Andrius Suvalkaitis
+      start: '00:15:39.875'
+      end: '00:15:39.875'
+      u: "[In German] Lithuanian—bookkeeper."
+    - who: David Boder
+      start: '00:15:41.984'
+      end: '00:15:41.984'
+      u: Aha, you studied business economics?
+    - who: Andrius Suvalkaitis
+      start: '00:15:43.933'
+      end: '00:15:43.933'
+      u: Yeah.
+    - who: David Boder
+      start: '00:15:44.280'
+      end: '00:15:44.280'
+      u: Where?
+    - who: Andrius Suvalkaitis
+      start: '00:15:44.845'
+      end: '00:15:44.845'
+      u: In Kaunas
+    - who: David Boder
+      start: '00:15:45.532'
+      end: '00:15:45.532'
+      u: In Kaunas. At the university. Uhm. How many Lithuanians are living here in
+        this camp?
+    - who: Andrius Suvalkaitis
+      start: '00:15:54.076'
+      end: '00:15:54.076'
+      u: Here? About eight hundred.
+    - who: David Boder
+      start: '00:15:56.079'
+      end: '00:15:56.079'
+      u: Eight hundred Lithuanians.
+    - who: Andrius Suvalkaitis
+      start: '00:15:56.967'
+      end: '00:15:56.967'
+      u: Yeah.
+    - who: David Boder
+      start: '00:15:57.289'
+      end: '00:15:57.289'
+      u: Men, woman, and children?
+    - who: Andrius Suvalkaitis
+      start: '00:15:58.689'
+      end: '00:15:58.689'
+      u: Right, all together.
+    - who: David Boder
+      start: '00:15:59.705'
+      end: '00:15:59.705'
+      u: Do you have a school?
+    - who: Andrius Suvalkaitis
+      start: '00:16:01.105'
+      end: '00:16:01.105'
+      u: Yeah, we have a school.
+    - who: David Boder
+      start: '00:16:02.523'
+      end: '00:16:02.523'
+      u: A Lithuanian school?
+    - who: Andrius Suvalkaitis
+      start: '00:16:03.320'
+      end: '00:16:03.320'
+      u: A Lithuanian school. And a Lithuanian secondary school. And that is...
+    - who: David Boder
+      start: '00:16:08.685'
+      end: '00:16:08.685'
+      u: And where did you get books from?
+    - who: Andrius Suvalkaitis
+      start: '00:16:10.615'
+      end: '00:16:10.615'
+      u: Books? So...we got a few from our own people, and now they are sent from
+        America.
+    - who: David Boder
+      start: '00:16:18.392'
+      end: '00:16:18.392'
+      u: And did you get books from Lithuania?
+    - who: Andrius Suvalkaitis
+      start: '00:16:19.455'
+      end: '00:16:19.455'
+      u: No, not from Lithuania, we didn't get anything from Lithuania.
+    - who: David Boder
+      start: '00:16:22.938'
+      end: '00:16:22.938'
+      u: So, thank you, Mr. Suvalkaitis, that was a very good report, and we will
+        have it translated. I think it will be very interesting, we will find it very
+        interesting.
+    - who: Andrius Suvalkaitis
+      start: '00:16:32.048'
+      end: '00:16:32.048'
+      u: Thank you.
+    - who: David Boder
+      start: '00:16:32.398'
+      end: 
+      u: "[In English] This concludes the report of Mr. Andrius Suvalkaitis, given
+        mostly in Lithuanian, at Munich Baltic Center, at Lohengrinstrasse, September
+        the 21st, 1946."
+transcript: {}
+translation: {}

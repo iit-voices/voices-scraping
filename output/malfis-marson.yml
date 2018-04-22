@@ -26,5 +26,477 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: ru
+    interview:
+    - who: David Boder
+      start: '00:00:00.513'
+      end: '00:00:00.513'
+      u: "[In English] This begins a short interview with Monsieur Malfis Marson,
+        a French Jewish citizen."
+    - who: David Boder
+      start: '00:00:11.680'
+      end: '00:00:11.680'
+      u: "[In German] Monsieur Marson, äh, wo sind Sie geboren?"
+    - who: Malfis Marson
+      start: '00:00:15.815'
+      end: '00:00:15.815'
+      u: "[In French] Je suis né à Paris."
+    - who: David Boder
+      start: '00:00:19.316'
+      end: '00:00:19.316'
+      u: "[In German] Äh, wollen Sie mir bitte erzählen für unsere amerikanische Freunde,
+        äh, wie was Sie getan haben during the den Krieg und die deutsche Okkupation."
+    - who: Malfis Marson
+      start: '00:00:33.651'
+      end: '00:00:33.651'
+      u: "[In French] Durant la guerre, j'ai été comme tout Français mobilisé. J'ai
+        fait l'Occupa...j'ai fait...une partie de la guerre dans les Corps Francs.
+        Ensuite sur accident, j'ai été évacué dans le centre de la France. Jusqu'au
+        moment où, la grande offensive allemande s'est déclenchée, qui m'a trouvé
+        dans un hôpital de la région limousine, à Périgueux exactement. Je suis parti
+        ensuite en convalescence. Et au mois de...au début de juin, et j'ai rejoint
+        mon dépôt dans la Mayenne. Par la suite de l'avance des armées allemandes,
+        j'ai été évacué de ce dépôt, avec le reste du dépôt naturellement, et nous
+        nous sommes dirigés vers la Bretagne, où nous avons été faits prisonniers
+        le 18 juin exactement. Par la suite, je me suis évadé en septembre 40. Pour
+        rejoindre la zone libre, parce qu'étant...premièrement prisonnier de guerre
+        et deuxièmement juif, je ne pouvais pas rester à Paris sous l'Occupation.
+        Je suis...est-ce que je continue ?"
+    - who: David Boder
+      start: '00:01:38.583'
+      end: '00:01:38.583'
+      u: Continuez.
+    - who: Malfis Marson
+      start: '00:01:39.549'
+      end: '00:01:39.549'
+      u: Arrivé en zone libre après quelques péripéties, je me suis inquiété n'est-ce
+        pas, de pouvoir trouver une occupation, j'ai repris mon ancien trav...mon
+        ancien métier. Qui était tailleur avant la guerre, et j'ai travaillé...à Périgueux.
+        J'y suis resté jusqu'en '43. Je peux vous dire qu'entre temps, j'avais pris
+        contact avec les organisations de Résistance, en '42, l'organisation Francs
+        Tireurs zone sud, où je faisais pas mal de propagande-diffusion. Au début
+        '43, j'ai été contacté par le mouvement Combat, et j'ai pris à ce moment l'organisation
+        départementale des liaisons. La gestapo ayant réussi à nous...dépister, en
+        mai '43...j'ai réussi de justesse à leur échapper, et je me suis réfugié dans
+        le maquis.
+    - who: David Boder
+      start: '00:02:35.006'
+      end: '00:02:35.006'
+      u: "[In English] What I want to know...how did the Resistance movement form
+        itself? Was that the old French radical party...How did the Resistance movement
+        come about? How did it organize?"
+    - who: David Boder
+      start: '00:02:52.597'
+      end: '00:02:52.597'
+      u: "[In German] Wie hat sich die ganze [unverständlich]"
+    - who: Interpreter
+      start: '00:02:55.977'
+      end: '00:02:55.977'
+      u: "[In French] Quels mouvements politiques ont participé à la création de ce
+        [inaudible] ?"
+    - who: David Boder
+      start: '00:03:04.398'
+      end: '00:03:04.398'
+      u: "[In German] Ja, wie hat sich die Resistenz gebildet? Wer, waren es die alten
+        Partien? Ja, ja..."
+    - who: Malfis Marson
+      start: '00:03:14.509'
+      end: '00:03:14.509'
+      u: "[In French] La Résistance de mon point de vue, d'après l'expérience que
+        j'ai vécue par moi-même, a été surtout formée par des mouvements syndicaux
+        et politiques avancés. Par des mouvements politiques, qui étaient excessivement,
+        exceptionnellement antinaz...anti...antifascistes. Qui étaient...il y en avait
+        d'autres qui étaient nationalistes, mais qui étaient antigermaniques parce
+        qu'ils avaient subi l'occupation, et connu les Allemands en 14-18. Et par
+        des gens qui avaient l'esprit...porté à...la liberté tout court. Pour ma part,
+        j'ai premièrement été contacté par des hommes, qui avaient été brimés dans
+        leurs opinions, dans leurs origines, qui avaient...eu à pâtir de certaines
+        vexations. Et qui, de ce fait, estimaient que le premier des devoirs, pour
+        tout Français puisque nous étions en France, je dirais pour tout homme, était
+        de lutter contre l'envahisseur. Mais je peux dire une chose, c'est que...ceux
+        qui nous contactaient étaient des hommes sincères, des hommes qui ont cru
+        que la Résistance pouvait être utile pour que nous puissions être libérés
+        premièrement de l'Occupation, et deuxièmement arriver à devenir de meilleurs
+        hommes et des hommes libres surtout."
+    - who: David Boder
+      start: '00:04:47.046'
+      end: '00:04:47.046'
+      u: "[In English] Now, how was it...What elements of the population..."
+    - who: Malfis Marson
+      start: '00:04:55.346'
+      end: '00:04:55.346'
+      u: "[In French] Je ne comprends pas..."
+    - who: David Boder
+      start: '00:04:56.825'
+      end: '00:04:56.825'
+      u: "[In German] Was für Elemente der Bevölkerung haben angefangen zu kollaborieren,
+        haben meistens kollaboriert mit die den Deutschen?"
+    - who: Malfis Marson
+      start: '00:05:10.870'
+      end: '00:05:10.870'
+      u: "[In French] Les premiers collaborateurs à mon sens, étaient des ratés. Des
+        hommes qui ont cru à ce moment que leur heure était arrivée, de grands jaloux,
+        des hommes qui n'avaient eu aucun avenir devant eux, et qui se figuraient
+        que la bestialité de leurs sentiments, non pas de leurs sentiments mais de
+        leur appétit, de leurs instincts allait se trouver assouvie et qu'ils allaient
+        arriver, comme Hitler, à dominer, je ne dirais pas le monde, mais la France
+        et peut-être l'Europe avec l'aide d'Hitler. Par la suite, d'autres gens ont
+        été découragés par le manque de...je ne dirais pas de la résistance mais enfin...nous
+        nous sommes aperçus que les pays alliés n'étaient pas suffisamment préparés
+        à ce moment, et il y en a qui ont été découragés, qui ont cru que vraiment
+        l'Allemagne allait dominer le monde, et ils se sont, par faiblesse et par
+        lâcheté, donnés dans ce...accepté cette collaboration. Et il y en a eu d'autres,
+        par intérêt, à proprement parler, par..."
+    - who: David Boder
+      start: '00:06:19.032'
+      end: '00:06:19.032'
+      u: "[In Russian] Эээ...энд...эээ...мистер...эээ...господин [unintelligible]...эээ...спросите
+        его вот что: эээ...в этой...как относились к этой станции военные?"
+    - who: Interpreter
+      start: '00:06:39.768'
+      end: '00:06:39.768'
+      u: "[In French] Quelle était l'opinion des cercles militaires, et quelle était
+        leur participation dans les mouvements de résistance ?"
+    - who: Malfis Marson
+      start: '00:06:55.070'
+      end: '00:06:55.070'
+      u: Elle a été pour ainsi dire nulle au début. Parce que les militaires étaient,
+        à mon point de vue n'est-ce pas, les militaires étaient disciplinés, à part
+        quelques rares militaires français de carrière qui ont suivi de Gaulle, je
+        ne dirai pas au début mais dans les mois qui suivirent sa déclaration du 18
+        juin '40, ils étaient tous inféodés à Vichy parce que, le militaire par essence
+        même, est un être discipliné qui est obligé...qui obéit à son supérieur, et
+        pour eux le maréchal Pétain était le chef suprême de la force française. Par
+        la suite, ils se sont...grandis, ils ont...il y en a certains qui ont pas
+        mal saisi puisque les premiers fondateurs des mouvements de résistance et
+        en particulier de combat ont été des officiers de carrière évadés qui ont
+        pris une action...qui ont pris...qui ont fait...qui ont...qui ont accompli
+        une action assez forte en France. Mais jusqu'à...le débarquement en Algérie,
+        on peut dire que les militaires français de carrière n'ont absolument rien
+        fait dans les mouvements de résistance. Et que les mouvements de résistance
+        ont été uniquement montés par des membres civils, par des membres des partis
+        politiques et surtout les organisations syndicales et ouvrières françaises.
+    - who: David Boder
+      start: '00:08:11.617'
+      end: '00:08:11.617'
+      u: "[In Russian] Эээ...спросите его вот что: если он знает, как была интеллигенция,
+        например университетские профессора и...эээ...вообще профессиональные люди,
+        как адвокаты, врачи...и...эээ...эти...эээ...судьи и так далее?"
+    - who: Interpreter
+      start: '00:08:32.800'
+      end: '00:08:32.800'
+      u: "[In French] Quel était le rapport entre les mouvements de résistance et
+        quelle était l'action de résistance des intellectuels français, tels que les
+        simples universitaires, les avocats, les médecins, enfin tous les représentants
+        des professions libérales ?"
+    - who: Malfis Marson
+      start: '00:08:58.268'
+      end: '00:08:58.268'
+      u: Euh...la jeunesse étudiante française...au début de l'Occupation a réagi
+        vigoureusement. On a eu quelques manifestations le 11 novembre '40, pour préciser,
+        où il y a eu pas mal de bagarres entre les forces occupantes françaises...et
+        les...le quartier latin, je crois, tu t'en rappelles de ça ? Sur le boulevard
+        euh...sur le boulevard Saint-Michel. Par la suite on peut dire que, une grosse
+        partie des étudiants français ont été parmi les éléments dirigeants et parmi
+        les éléments les plus actifs de la Résistance française. Quant aux intellectuels
+        arrivés, il y en a eu je crois des deux côtés, et au début une grosse partie
+        a collaboré, malheureusement...Ah, certains professeurs...certains professeurs,
+        et on peut dire ça à leur honneur, ont été parmi les éléments les plus actifs
+        de la Collab...de la...de la Résistance. Il y en a eu d'autres, très peu,
+        qui ont collaboré.
+    - who: David Boder
+      start: '00:10:05.694'
+      end: '00:10:05.694'
+      u: "[In Russian] Эээ...[unintelligible]...и как фармеры...эээ...агрикультурное
+        население, как оно относилось к этой станции?"
+    - who: Interpreter
+      start: '00:10:19.547'
+      end: '00:10:19.547'
+      u: "[In French] Quelle était la position de la population paysanne...[inaudible]...envers
+        la Résistance ?"
+    - who: Malfis Marson
+      start: '00:10:26.881'
+      end: '00:10:26.881'
+      u: Envers la résistance ? La position paysanne envers la Résistance était encore
+        assez bonne dans son ensemble. Il faut dire une chose, c'est que le tempérament
+        du paysan français est un tempérament uniquement individualiste, et égoïste,
+        il ne voit que son intérêt. Mais je crois qu'il est surtout patriote, et ce
+        qu'il n'aimait pas, c'était certaines impositions forcées qu'on lui imposait,
+        n'est-ce pas. Mais dans le fond, je crois que...malgré le programme que Pétain
+        et Vichy avaient élaboré en sa faveur, il a aidé avec le maximum de chance,
+        les éléments de la Résistance qui se sont adressés à lui.
+    - who: David Boder
+      start: '00:11:23.202'
+      end: '00:11:23.202'
+      u: "[In English] How does he think will the situation now clear up in France
+        and how will life become organized and what he expects when will France be
+        back to normal?"
+    - who: David Boder
+      start: '00:11:37.294'
+      end: '00:11:37.294'
+      u: "[In Russian] Как он ожидает, как он думает теперь: все это положение придет
+        к нормальному и как скоро это будет нормально?"
+    - who: Interpreter
+      start: '00:11:49.035'
+      end: '00:11:49.035'
+      u: "[In French] Qu'est-ce que tu penses de la situation actuelle ? Quand penses-tu
+        que la situation actuelle va redevenir normale et par quels moyens ?"
+    - who: Malfis Marson
+      start: '00:12:04.499'
+      end: '00:12:04.499'
+      u: A la suite de la guerre, naturellement, il y a pas mal de...de désorganisation,
+        dans les moyens d'échange et de production en France. Je crois que, de mon
+        point de vue, tant qu'il n'y aura pas d'accord complet entre...les ouvriers
+        d'une part, les patrons de l'autre, au moyen des productions d'échange, et
+        pour essayer de limiter le marché noir et...de régulariser n'est-ce pas, la
+        distribution de tous les produits essentiels et nécessaires...à la...à la
+        vie, on ne pourra pas voir un retour...on ne pourra pas revenir, n'est-ce
+        pas, à la période que nous avons vécue en 38 et en 39. Pour ma part, je crois
+        qu'il faut qu'il y ait une collaboration féconde, je ne dirais pas non seulement
+        avec les Etats-Unis mais surtout l'Europe elle-même.
+    - who: David Boder
+      start: '00:13:05.417'
+      end: '00:13:05.417'
+      u: Merci beaucoup Monsieur Marson.
+    - who: David Boder
+      start: '00:13:12.788'
+      end: 
+      u: "[In English] This finishes a brief interview with Monsieur Malfis Marson
+        of the French Resistance Movement taken at the Schools of ORT on July 30,
+        1946. Eh...how old is he? [Ends abruptly]."
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:00.513'
+      end: '00:00:00.513'
+      u: "[In English] This begins a short interview with Monsieur Malfis Marson,
+        a French-Jewish citizen."
+    - who: David Boder
+      start: '00:00:11.680'
+      end: '00:00:11.680'
+      u: "[In German] Monsieur Marson, er, where were you born?"
+    - who: Malfis Marson
+      start: '00:00:15.815'
+      end: '00:00:15.815'
+      u: "[In French] I was born in Paris."
+    - who: David Boder
+      start: '00:00:19.316'
+      end: '00:00:19.316'
+      u: "[In German] Er, please would you tell me, for the benefit of our American
+        friends, er, what you did during the war and the German occupation?"
+    - who: Malfis Marson
+      start: '00:00:33.651'
+      end: '00:00:33.651'
+      u: "[In French] During the war, like every other Frenchmen, I was mobilized.
+        I did the Occupa—...I spent...some part of the war in the Unofficial Forces.
+        Then, by accident, I was moved to the centre of France; until the day the
+        large German offensive was launched, when I ended up in a hospital in the
+        Limousin region, in Périgueux to be more specific. Then, I spent some time
+        recovering. And by the month of...by early June, then I returned to my station
+        in the Mayenne county. As the German army progressed, I was moved away from
+        this station, with the other men from the station of course, and we headed
+        towards Brittany, where we were arrested on June 18th, to be precise. Later,
+        I escaped in September 1940. To reach the free zone, since I was...first a
+        prisoner of war and second a Jew, I could not stay in Paris during the Occupation.
+        I am...should I go on?"
+    - who: David Boder
+      start: '00:01:38.583'
+      end: '00:01:38.583'
+      u: Go on.
+    - who: Malfis Marson
+      start: '00:01:39.549'
+      end: '00:01:39.549'
+      u: Once I had reached the free zone after a number of incidents, I tried, right,
+        to find something to do. I resumed my former job...my former occupation. I
+        was a cutter, before the war, and I worked...in Périgueux. I stayed there
+        until 1943. I can tell you that, in the meantime, I had gotten in contact
+        with the Resistance organizations, in 1942, the southern zone Francs-tireurs
+        organization, where I would take part in a lot of propaganda and dissemination
+        actions. By early 1943, I was contacted by the Combat movement, and this is
+        when I started to run the local county liaisons. As the Gestapo had eventually...tracked
+        us down, in May 1943...I managed to narrowly get away from them and took refuge
+        in the Maquis.
+    - who: David Boder
+      start: '00:02:35.006'
+      end: '00:02:35.006'
+      u: "[In English] What I want to know...how did the Resistance movement form
+        itself? Was that the old French radical party...How did the Resistance movement
+        come about? How did it organize?"
+    - who: David Boder
+      start: '00:02:52.597'
+      end: '00:02:52.597'
+      u: "[In German] How did the entire [unintelligible]"
+    - who: Interpreter
+      start: '00:02:55.977'
+      end: '00:02:55.977'
+      u: "[In French] Which political movements contributed to the creation of this
+        [inaudible]?"
+    - who: David Boder
+      start: '00:03:04.398'
+      end: '00:03:04.398'
+      u: "[In German] Yes, how was the French Resistance movement formed? Who were
+        the original parties? Yes, yes..."
+    - who: Malfis Marson
+      start: '00:03:14.509'
+      end: '00:03:14.509'
+      u: "[In French] In my opinion, the Resistance movement, from my own experience,
+        was mainly formed by highly developed trade unions and political movements.
+        By political movements, which were acutely, remarkably anti-Naz—...anti...anti-fascist.
+        Which were...others were nationalist movements, but they were anti-German
+        because they had suffered from the Occupation and known the Germans during
+        the 1914-1918 war. And with people whose interest was...directed towards...the
+        idea of freedom only. As far as I am concerned, I was first contacted by men,
+        who had been looked down upon, in their opinions, in their origins, who had...suffered,
+        as a result of a number of humiliations. And who, as a consequence, believed
+        that the primary duty, of every Frenchmen since we were in France, I would
+        say of every man, was to fight against the invader. But I can tell you one
+        thing, that...those who contacted us were honest men, men who believed that
+        the Resistance movement could first, help set us free from the Occupation,
+        and second, help us become better men and, above all, free men."
+    - who: David Boder
+      start: '00:04:47.046'
+      end: '00:04:47.046'
+      u: "[In English] Now, how was it...What elements of the population..."
+    - who: Malfis Marson
+      start: '00:04:55.346'
+      end: '00:04:55.346'
+      u: "[In French] I don't understand..."
+    - who: David Boder
+      start: '00:04:56.825'
+      end: '00:04:56.825'
+      u: "[In German] What elements of the population started to collaborate, and
+        who collaborated closest with the Germans?"
+    - who: Malfis Marson
+      start: '00:05:10.870'
+      end: '00:05:10.870'
+      u: "[In French] As I see it, the first collaborationists were failures. Men
+        who then thought that their time had come, very jealous men, men who did not
+        have a great future ahead of them, imagining that their brutal feelings, not
+        their feelings but their appetite, their instincts, would get satisfied and
+        that they would, just like Hitler, manage to rule, I would not say the world,
+        but France and maybe Europe with the help of Hitler. Later, other people got
+        disheartened by the lack of...I would not say resistance but, well...we realized
+        that the allied countries were not prepared enough at that time, and some
+        got disheartened, they really thought that Germany would end up ruling the
+        world, and they devoted themselves, out of weakness and cowardice, to this...they
+        agreed to collaborate in this way. And there were others who, out of self-interest,
+        strictly speaking, out of..."
+    - who: David Boder
+      start: '00:06:19.032'
+      end: '00:06:19.032'
+      u: "[In Russian] Uh...and...uh...mister...uh...sir [unintelligible]...uh...could
+        you ask him about...uh...what...was the opinion of the military about this
+        station?"
+    - who: Interpreter
+      start: '00:06:39.768'
+      end: '00:06:39.768'
+      u: "[In French] What was the opinion of the military circles, and how did they
+        contribute to the resistance movements?"
+    - who: Malfis Marson
+      start: '00:06:55.070'
+      end: '00:06:55.070'
+      u: They, so to speak, did not contribute at all in the beginning, because servicemen
+        were, in my opinion, right, servicemen were obedient, except for a few rare
+        French career officers who followed de Gaulle, I would not say from the beginning,
+        but in the months following his June 18th 1940 speech, they were all subservient
+        to the Vichy regime because a serviceman, in essence, is an obedient being
+        who is compelled...who obeys his superior, and to them Marshal Pétain was
+        the supreme leader of the French forces. Later, they...grew up...some of them
+        did understand quite well, since the first founders of the resistance movements,
+        especially the fighting movements, were career officers who had escaped and
+        started an action...who took...who did...who...who performed rather strong
+        action. in France. But, until...the landings in Algeria, it can be said that
+        French career officers had not done anything within the resistance movements.
+        And that the resistance movements were set up only by civilians, by political
+        party members and mostly by the French trade unions and workers' organizations.
+    - who: David Boder
+      start: '00:08:11.617'
+      end: '00:08:11.617'
+      u: "[In Russian] Uh...could you ask him whether...he knows about the intellectuals
+        such as university professors and...uh...just professionals in general such
+        as lawyers, doctors...and...uh...these...uh...judges, etc.?"
+    - who: Interpreter
+      start: '00:08:32.800'
+      end: '00:08:32.800'
+      u: "[In French] What was the relationship between the resistance movements,
+        and what kind of resistance action was taken by French intellectuals, such
+        as simple university teachers, lawyers, physicians, well, all the representatives
+        from liberal professions?"
+    - who: Malfis Marson
+      start: '00:08:58.268'
+      end: '00:08:58.268'
+      u: Well...young French students...at the beginning of the Occupation, reacted
+        very strongly. There were some demonstrations on November 11th, 1940, to be
+        more specific, during which there were quite a number of fights between the
+        French occupying forces...and the...the Latin Quarter, I think, do you remember
+        this? On Boulevard, er...on Boulevard Saint-Michel. We can say that, later,
+        a large number of French students were among the leaders and among the most
+        active men in the French Resistance movement. In regards to intellectuals,
+        I believe they were divided between both sides, and at the beginning, many
+        of them collaborated, regrettably...Oh, some teachers...some teachers, and
+        this can be said to their credit, were part of the most active men in the
+        Collab...in the...in the Resistance movement. And others, very few of them,
+        collaborated.
+    - who: David Boder
+      start: '00:10:05.694'
+      end: '00:10:05.694'
+      u: "[In Russian] Uh...[unintelligible]...and farmers...uh...the agricultural
+        population, what was their opinion of this station?"
+    - who: Interpreter
+      start: '00:10:19.547'
+      end: '00:10:19.547'
+      u: "[In French] What stand did the rural population take...[inaudible]...on
+        the Resistance movement?"
+    - who: Malfis Marson
+      start: '00:10:26.881'
+      end: '00:10:26.881'
+      u: On the Resistance movement? The rural stance, with regard to the Resistance
+        movement, generally remained rather good. One thing should be said here, that
+        French peasants are of an individualistic and selfish nature, they are only
+        interested in their own profit; however, I believe that they are mostly patriots,
+        and that what they did not like was to be compelled to do things, right. But,
+        in the end, I think that...despite the plan developed by Pétain and the Vichy
+        regime in their favor, they helped as much as they could the men from the
+        Resistance movement asking for their support.
+    - who: David Boder
+      start: '00:11:23.202'
+      end: '00:11:23.202'
+      u: "[In English] How does he think will the situation now clear up in France,
+        and how will life become organized, and what he expects...when will France
+        be back to normal?"
+    - who: David Boder
+      start: '00:11:37.294'
+      end: '00:11:37.294'
+      u: "[In Russian] Does he expect, does he think now that this situation will
+        ever be normal again and when will it get normal?"
+    - who: Interpreter
+      start: '00:11:49.035'
+      end: '00:11:49.035'
+      u: "[In French] What is your opinion about the current situation? When do you
+        think the current situation will be back to normal, and how?"
+    - who: Malfis Marson
+      start: '00:12:04.499'
+      end: '00:12:04.499'
+      u: In the aftermath of the war, of course, there is a lot of...of disorganization,
+        in the trade and production resources in France. I think that, in my opinion,
+        until a complete agreement is reached between...the workers on one side and
+        the employers on the other side, by means of trade productions, and in order
+        to mitigate the black market and...to stabilize, right, the distribution of
+        all staples and goods that are essential...to...to live, we will see no return...we
+        shall not return, right, to the days we knew in 1938 and 1939. As far as I
+        am concerned, I think we need to build up a fruitful collaboration, I would
+        not say not only with the United States, but mainly with Europe as it is.
+    - who: David Boder
+      start: '00:13:05.417'
+      end: '00:13:05.417'
+      u: Thank you very much Mr. Marson.
+    - who: David Boder
+      start: '00:13:12.788'
+      end: 
+      u: "[In English] This finishes the brief interview with Monsieur Malfis Marson
+        of the French Resistance Movement taken at the Schools of ORT on July 30,
+        1946. Eh...how old is he? [Ends abruptly]."
+transcript: {}
+translation: {}

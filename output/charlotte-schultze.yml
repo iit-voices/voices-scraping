@@ -25,5 +25,3359 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: de
+    interview:
+    - who: David Boder
+      start: '00:00:00.001'
+      end: '00:00:00.001'
+      u: "[In English] Munich, September the 20th, 1946, at the transient UNRRA camp
+        at the Funkenkasernen. The interviewee is Miss...eh, is Mrs. Doctor Charlotte
+        Schultze, 47 years old, and she is a [words not clear]. She is an Aryan, married
+        to a Aryan physician who was here during the war, because they...for various
+        reasons we will hear. And her husband and eleven year old son are already
+        across, and she is expecting now, from week to week, her affidavits to go
+        over to the United States."
+    - who: David Boder
+      start: '00:00:48.767'
+      end: '00:00:48.767'
+      u: "[In German] Also Frau Doktor, Sie wollen englisch sprechen, stimmt das?"
+    - who: Charlotte Schultze
+      start: '00:00:52.169'
+      end: '00:00:52.169'
+      u: Nein, deutsch.
+    - who: David Boder
+      start: '00:00:53.833'
+      end: '00:00:53.833'
+      u: Sie wollen deutsch sprechen?
+    - who: Charlotte Schultze
+      start: '00:00:54.826'
+      end: '00:00:54.826'
+      u: Ja.
+    - who: David Boder
+      start: '00:00:55.497'
+      end: '00:00:55.497'
+      u: Gut. Kommen Sie ein bisschen näher, dann brauchen Sie nicht so laut zu sprechen.
+        Machen Sie es sich bequem. [unverständlich; spricht sehr leise; allem Anschein,
+        um das Mikrophon richtig zu plazieren]. Also Frau Doktor, wollen Sie mir nochmal
+        sagen, wie heißen Sie und wo sind Sie geboren?
+    - who: Charlotte Schultze
+      start: '00:01:06.434'
+      end: '00:01:06.434'
+      u: Charlotte Schultze—aus Dresden, also in Dresden geboren achtzehn hundert
+        neun und neunzig (1899).
+    - who: David Boder
+      start: '00:01:11.928'
+      end: '00:01:11.928'
+      u: Ja. Und wer waren Ihre Eltern?
+    - who: Charlotte Schultze
+      start: '00:01:16.001'
+      end: '00:01:16.001'
+      u: Direktor Bruno Zumack und...
+    - who: David Boder
+      start: '00:01:18.791'
+      end: '00:01:18.791'
+      u: Sie sind eine geborene Zumack?
+    - who: Charlotte Schultze
+      start: '00:01:20.672'
+      end: '00:01:20.672'
+      u: Zumack, ja
+    - who: David Boder
+      start: '00:01:21.423'
+      end: '00:01:21.423'
+      u: Und wer...was war die Beschäftigung Ihrer Eltern?
+    - who: Charlotte Schultze
+      start: '00:01:24.469'
+      end: '00:01:24.469'
+      u: Mein Vater war Fabrik Direktor.
+    - who: David Boder
+      start: '00:01:26.286'
+      end: '00:01:26.286'
+      u: Ja. Ein bisschen näher.
+    - who: Charlotte Schultze
+      start: '00:01:27.279'
+      end: '00:01:27.279'
+      u: Ja.
+    - who: David Boder
+      start: '00:01:27.871'
+      end: '00:01:27.871'
+      u: Und nun sagen Sie mir mal und wo waren Sie...wo waren Sie, wenn der Krieg
+        anfing?
+    - who: Charlotte Schultze
+      start: '00:01:37.610'
+      end: '00:01:37.610'
+      u: Als der Krieg anfing waren wir in Dresden und konnten nicht zurück, da mein
+        Sohn aus erster Ehe Deutscher war und nicht mehr aus dem Land gelassen wurde.
+    - who: David Boder
+      start: '00:01:48.000'
+      end: '00:01:48.000'
+      u: Aha.
+    - who: Charlotte Schultze
+      start: '00:01:48.381'
+      end: '00:01:48.381'
+      u: Weil er arbeitsfähig war.
+    - who: David Boder
+      start: '00:01:49.985'
+      end: '00:01:49.985'
+      u: Also hätte man nicht Sie selber rüber gelassen?
+    - who: Charlotte Schultze
+      start: '00:01:53.663'
+      end: '00:01:53.663'
+      u: Ja, mich hätte man rüber gelassen, aber ich wollte meinen Sohn nicht alleine
+        lassen, nicht wahr.
+    - who: David Boder
+      start: '00:01:57.412'
+      end: '00:01:57.412'
+      u: Sie wollten Ihren Sohn nicht allein lassen. Und war Ihr Mann damit einverstanden?
+    - who: Charlotte Schultze
+      start: '00:02:02.001'
+      end: '00:02:02.001'
+      u: Oh ja. [seufzt] Es ging ja nicht anders.
+    - who: David Boder
+      start: '00:02:05.537'
+      end: '00:02:05.537'
+      u: Also, nun sagen Sie mal...also, hm, wie lange...ich verstehe, dass Sie schon
+        einmal in Amerika gelebt haben.
+    - who: Charlotte Schultze
+      start: '00:02:13.292'
+      end: '00:02:13.292'
+      u: Ja.
+    - who: David Boder
+      start: '00:02:13.861'
+      end: '00:02:13.861'
+      u: Also wann sind Sie dann nach Deutschland zurück gekommen?
+    - who: Charlotte Schultze
+      start: '00:02:16.158'
+      end: '00:02:16.158'
+      u: Neunzehn hundert vier und dreißig (1934) weil meine Mutter starb und mein
+        Vater Sehnsucht hatte nach uns und wir unseren kleinen Jungen erwarteten und
+        [lacht etwas]...
+    - who: David Boder
+      start: '00:02:26.606'
+      end: '00:02:26.606'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:02:26.967'
+      end: '00:02:26.967'
+      u: ". . . und die Grosseltern ihn eben..."
+    - who: David Boder
+      start: '00:02:28.500'
+      end: '00:02:28.500'
+      u: Wollten.
+    - who: Charlotte Schultze
+      start: '00:02:28.838'
+      end: '00:02:28.838'
+      u: ". . . sehen wollten, nicht. [lacht etwas]"
+    - who: David Boder
+      start: '00:02:30.028'
+      end: '00:02:30.028'
+      u: Ja. Und da kamen Sie mit Ihrem Mann zurück?
+    - who: Charlotte Schultze
+      start: '00:02:33.072'
+      end: '00:02:33.072'
+      u: Ja.
+    - who: David Boder
+      start: '00:02:33.895'
+      end: '00:02:33.895'
+      u: Wo hat Herr Dr. Schultze studiert?
+    - who: Charlotte Schultze
+      start: '00:02:36.654'
+      end: '00:02:36.654'
+      u: In Leipzig.
+    - who: David Boder
+      start: '00:02:38.040'
+      end: '00:02:38.040'
+      u: In Leipzig hat er Medizin studiert?
+    - who: Charlotte Schultze
+      start: '00:02:40.124'
+      end: '00:02:40.124'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:02:40.929'
+      end: '00:02:40.929'
+      u: Ja. Nun und, hm, so kamen Sie alle zurück?
+    - who: Charlotte Schultze
+      start: '00:02:45.359'
+      end: '00:02:45.359'
+      u: Kamen wir alle zurück, ja.
+    - who: David Boder
+      start: '00:02:46.644'
+      end: '00:02:46.644'
+      u: Haben Sie was in Amerika hinterlassen?
+    - who: Charlotte Schultze
+      start: '00:02:49.457'
+      end: '00:02:49.457'
+      u: Wir haben, hm,...
+    - who: David Boder
+      start: '00:02:52.270'
+      end: '00:02:52.270'
+      u: Haben Sie welche Vermögen...
+    - who: Charlotte Schultze
+      start: '00:02:53.725'
+      end: '00:02:53.725'
+      u: Ja.
+    - who: David Boder
+      start: '00:02:55.241'
+      end: '00:02:55.241'
+      u: Wo haben Sie das gelassen, in Milwaukee?
+    - who: Charlotte Schultze
+      start: '00:02:57.521'
+      end: '00:02:57.521'
+      u: Ja, in New York.
+    - who: David Boder
+      start: '00:02:58.575'
+      end: '00:02:58.575'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:02:58.722'
+      end: '00:02:58.722'
+      u: Mein Mann hat...hat da eine Lebensversicherung drüben
+    - who: David Boder
+      start: '00:03:02.050'
+      end: '00:03:02.050'
+      u: War er im Stande die ganzen Zeit die Lebensversicherung weiter aufrecht zu
+        erhalten?
+    - who: Charlotte Schultze
+      start: '00:03:05.964'
+      end: '00:03:05.964'
+      u: Nein, das ging durch...durch, hm. Anleihen...hat sich das...
+    - who: David Boder
+      start: '00:03:10.335'
+      end: '00:03:10.335'
+      u: Oh, es konnte durch eine Anleihe auf die Versicherung...
+    - who: Charlotte Schultze
+      start: '00:03:13.947'
+      end: '00:03:13.947'
+      u: ". . . das zahlen."
+    - who: David Boder
+      start: '00:03:14.427'
+      end: '00:03:14.427'
+      u: ". . . das weiter..."
+    - who: Charlotte Schultze
+      start: '00:03:14.805'
+      end: '00:03:14.805'
+      u: ". . . das zahlen, nicht."
+    - who: David Boder
+      start: '00:03:16.854'
+      end: '00:03:16.854'
+      u: Nun und Sie kamen hier her und dann hat Ihr Mann die Praxis der Medizin wieder
+        aufgenommen?
+    - who: Charlotte Schultze
+      start: '00:03:22.456'
+      end: '00:03:22.456'
+      u: Erst hat er hier Sch...Kurse genommen, und deshalb waren wir eigentlich rüber
+        gekommen.
+    - who: David Boder
+      start: '00:03:27.863'
+      end: '00:03:27.863'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:03:28.544'
+      end: '00:03:28.544'
+      u: Wurden aber dann hier fest gehalten durch die Krankheit seines Vaters...
+    - who: David Boder
+      start: '00:03:31.605'
+      end: '00:03:31.605'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:03:32.210'
+      end: '00:03:32.210'
+      u: ". . . der eine Augen...eine schwere Augenoperation durchmachen musste und
+        wir dadurch nicht wieder zurück kehren konnten die erste Zeit."
+    - who: David Boder
+      start: '00:03:40.833'
+      end: '00:03:40.833'
+      u: Was ist dem Doktor seine Spezialität? Hat er welche?
+    - who: Charlotte Schultze
+      start: '00:03:44.290'
+      end: '00:03:44.290'
+      u: Nein, er war ein...
+    - who: David Boder
+      start: '00:03:44.893'
+      end: '00:03:44.893'
+      u: Allgemeine...allgemeine Praxis.
+    - who: Charlotte Schultze
+      start: '00:03:45.866'
+      end: '00:03:45.866'
+      u: Er war ein praktischer Arzt.
+    - who: David Boder
+      start: '00:03:47.889'
+      end: '00:03:47.889'
+      u: Also wollen Sie mir dann sagen, was hat dann passiert wenn der Krieg angefangen...anfing?
+    - who: Charlotte Schultze
+      start: '00:03:55.546'
+      end: '00:03:55.546'
+      u: Ja, wir blieben dann hier und...
+    - who: David Boder
+      start: '00:03:57.750'
+      end: '00:03:57.750'
+      u: Sie lebten in Dresden?
+    - who: Charlotte Schultze
+      start: '00:03:58.647'
+      end: '00:03:58.647'
+      u: Wir lebten in Dresden, mein Mann praktizierte da und...
+    - who: David Boder
+      start: '00:04:03.660'
+      end: '00:04:03.660'
+      u: Sie sagten mir bevor, dass etwas mit Ihrem Jungen...mit dem Ältesten vor
+        sich gegangen ist. Wollen Sie mir das sagen?
+    - who: Charlotte Schultze
+      start: '00:04:10.266'
+      end: '00:04:10.266'
+      u: Ja. Mein Sohn war dann der Einzige in der Schule, der nicht zur Hitler Jugend
+        gehörte und, hm, da mein Mann viele jüdische Patienten behandelte, hatte er
+        sich einen Freund angeschafft, der Jude war und dadurch hatten wir, hm, sehr
+        viele Schwierigkeiten. Und...nachdem ein Jahr Krieg war, versuchte er über
+        die Schweizer Grenze zu entkommen mit seinem Freund, um uns den Weg frei zu
+        machen wieder nach Amerika zu gehen, weil er wusste, dass er der...
+    - who: David Boder
+      start: '00:04:41.038'
+      end: '00:04:41.038'
+      u: Die Hinderung.
+    - who: Charlotte Schultze
+      start: '00:04:41.536'
+      end: '00:04:41.536'
+      u: ". . . Hinderungspunkt war, nicht."
+    - who: David Boder
+      start: '00:04:43.265'
+      end: '00:04:43.265'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:04:43.916'
+      end: '00:04:43.916'
+      u: Und da wurde er fest gehalten an der Schweizer Grenze. Die zwei Jungs wurden
+        drei Monate ins Gefängnis geschickt und dann habe ich die Beiden in Bregenz
+        wieder abgeholt.
+    - who: David Boder
+      start: '00:04:54.247'
+      end: '00:04:54.247'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:04:55.273'
+      end: '00:04:55.273'
+      u: Und von da an waren wir immer ziemlich unter Beobachtung der Gestapo.
+    - who: David Boder
+      start: '00:04:59.324'
+      end: '00:04:59.324'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:05:00.379'
+      end: '00:05:00.379'
+      u: Dann kam der Junge zum Arbeitsdienst. Da hat er nochmal versucht das Lager
+        zu verlassen, wurde aber dann wieder zurück geholt. Dann wurde er eingezogen
+        neunzehn hundert ein und vierzig (1941).
+    - who: David Boder
+      start: '00:05:13.436'
+      end: '00:05:13.436'
+      u: Als Soldat?
+    - who: Charlotte Schultze
+      start: '00:05:14.087'
+      end: '00:05:14.087'
+      u: Als Soldat. Und war dann so unglücklich, weil er eben glaubte, er kann nicht
+        für diese Sache dienen und...
+    - who: David Boder
+      start: '00:05:25.516'
+      end: '00:05:25.516'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:05:26.456'
+      end: '00:05:26.456'
+      u: Jedenfalls neunzehn hundert ein und vierzig (1941) hat er dann wieder die
+        Truppe verlassen und hat versucht über die italienische Grenze zu gehen, weil
+        ein amerikanischer Pfarrer, der in unserer Kirche war, mit dem er sehr befreundet
+        war, von dem er wusste, dass er in Rom in der Botschaftskirche—ein gewisser
+        Pfarrer [unverständlich] Wolf...
+    - who: David Boder
+      start: '00:05:46.011'
+      end: '00:05:46.011'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:05:46.969'
+      end: '00:05:46.969'
+      u: ". . . von Elmira."
+    - who: David Boder
+      start: '00:05:48.454'
+      end: '00:05:48.454'
+      u: War das ein amerikanischer Pfarrer?
+    - who: Charlotte Schultze
+      start: '00:05:49.997'
+      end: '00:05:49.997'
+      u: Ein amerikanischer Pfarrer.
+    - who: David Boder
+      start: '00:05:51.117'
+      end: '00:05:51.117'
+      u: Von Elmira, New Jersey.
+    - who: Charlotte Schultze
+      start: '00:05:52.254'
+      end: '00:05:52.254'
+      u: Ja, mit dem er sehr, sehr befreundet war.
+    - who: David Boder
+      start: '00:05:55.772'
+      end: '00:05:55.772'
+      u: Elmira, New York?
+    - who: Charlotte Schultze
+      start: '00:05:57.066'
+      end: '00:05:57.066'
+      u: Ja.
+    - who: David Boder
+      start: '00:05:57.350'
+      end: '00:05:57.350'
+      u: Ja, und?
+    - who: Charlotte Schultze
+      start: '00:05:58.505'
+      end: '00:05:58.505'
+      u: Und...also wir nehmen an, dass das der Grund war, warum er gerade über die
+        italienische Grenze ging.
+    - who: David Boder
+      start: '00:06:03.543'
+      end: '00:06:03.543'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:06:04.454'
+      end: '00:06:04.454'
+      u: Und von dort...von da an wissen wir nichts mehr. Uns hat dann die Gestapo
+        seine Sachen gebracht und behauptete er hätte sich erschossen.
+    - who: David Boder
+      start: '00:06:14.420'
+      end: '00:06:14.420'
+      u: Ach so, die Gestapo hat Ihnen seine Sachen gebracht?
+    - who: Charlotte Schultze
+      start: '00:06:16.336'
+      end: '00:06:16.336'
+      u: Ja, aber ich weiß heute noch nicht...
+    - who: David Boder
+      start: '00:06:19.406'
+      end: '00:06:19.406'
+      u: Hat er keinen Brief hinterlassen?
+    - who: Charlotte Schultze
+      start: '00:06:21.113'
+      end: '00:06:21.113'
+      u: Gar nichts.
+    - who: David Boder
+      start: '00:06:23.556'
+      end: '00:06:23.556'
+      u: Sagen Sie mir, warum hat sich die Gestapo überhaupt darum gekümmert seine
+        Sachen zu bringen?
+    - who: Charlotte Schultze
+      start: '00:06:27.149'
+      end: '00:06:27.149'
+      u: Hm. Ja, das wissen wir auch nicht. Jedenfalls haben wir erst nach drei (3)
+        Wochen, nachdem wir überall Vermissten Anzeigen gemacht haben und alles -
+        dann bekamen wir erst mal nach über drei (3) Wochen, da bekamen wir erst mal
+        Bescheid, dass er überhaupt tot war. Und man hatte ihn beerdigt auf italienischem
+        Boden.
+    - who: David Boder
+      start: '00:06:44.266'
+      end: '00:06:44.266'
+      u: Oh, auf italienischem Boden.
+    - who: Charlotte Schultze
+      start: '00:06:45.294'
+      end: '00:06:45.294'
+      u: Ja. Wahrscheinlich...[beide sprechen]
+    - who: David Boder
+      start: '00:06:45.891'
+      end: '00:06:45.891'
+      u: Ja, zu dieser Zeit waren die Italiener schon mit den Deutschen in Verbündnis,
+        nicht wahr? Es war Mussolini’s Italien.
+    - who: Charlotte Schultze
+      start: '00:06:53.397'
+      end: '00:06:53.397'
+      u: Ja. [seufzt]
+    - who: David Boder
+      start: '00:06:55.997'
+      end: '00:06:55.997'
+      u: Nun sagen Sie mal, Sie sind dann...und ihr jüngerer Junge, wie alt war der?
+    - who: Charlotte Schultze
+      start: '00:07:02.150'
+      end: '00:07:02.150'
+      u: Der Junge ist jetzt elf (11) Jahre alt.
+    - who: David Boder
+      start: '00:07:04.019'
+      end: '00:07:04.019'
+      u: Elf (11) Jahre, er war niemals in Amerika?
+    - who: Charlotte Schultze
+      start: '00:07:05.800'
+      end: '00:07:05.800'
+      u: Nein. Er ist also...wir sind im Oktober hier her und im Dezember ist er geboren
+        worden.
+    - who: David Boder
+      start: '00:07:11.147'
+      end: '00:07:11.147'
+      u: Und er ist im Dezember geboren.
+    - who: Charlotte Schultze
+      start: '00:07:12.441'
+      end: '00:07:12.441'
+      u: Hm.
+    - who: David Boder
+      start: '00:07:13.143'
+      end: '00:07:13.143'
+      u: Nun und was hat der Doktor die ganze Zeit getan?
+    - who: Charlotte Schultze
+      start: '00:07:16.022'
+      end: '00:07:16.022'
+      u: Er hat praktiziert in Dresden.
+    - who: David Boder
+      start: '00:07:17.699'
+      end: '00:07:17.699'
+      u: Er hat in Dresden als Arzt praktiziert.
+    - who: Charlotte Schultze
+      start: '00:07:19.092'
+      end: '00:07:19.092'
+      u: Praktiziert.
+    - who: David Boder
+      start: '00:07:20.085'
+      end: '00:07:20.085'
+      u: Konnten Sie ihn nicht einberufen?
+    - who: Charlotte Schultze
+      start: '00:07:22.145'
+      end: '00:07:22.145'
+      u: Nein. Er hat immer seine amerikanische Bürgerschaft aufrecht erhalten. Bekam
+        allerdings dadurch keine Krankenkassen zugewiesen und...
+    - who: David Boder
+      start: '00:07:29.773'
+      end: '00:07:29.773'
+      u: Ja. Ja. Und er ist ein geborener Amerikaner?
+    - who: Charlotte Schultze
+      start: '00:07:33.784'
+      end: '00:07:33.784'
+      u: Ja, er ist drüben geboren, ja.
+    - who: David Boder
+      start: '00:07:34.956'
+      end: '00:07:34.956'
+      u: Ja. Einem Deutschen würde man das nicht erlaubt haben. Sagen Sie mir, wenn
+        ein Deutscher nachher ein amerikanischer Bürger geworden wäre, dann hätten
+        die Deutschen das nicht anerkannt?
+    - who: Charlotte Schultze
+      start: '00:07:45.671'
+      end: '00:07:45.671'
+      u: Ja, er war naturalisiert. Er war zwar drüben geboren...
+    - who: David Boder
+      start: '00:07:48.579'
+      end: '00:07:48.579'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:07:48.705'
+      end: '00:07:48.705'
+      u: ". . . und ist dann als Kind wieder zurück gekommen."
+    - who: David Boder
+      start: '00:07:50.589'
+      end: '00:07:50.589'
+      u: Ja?
+    - who: Charlotte Schultze
+      start: '00:07:50.888'
+      end: '00:07:50.888'
+      u: Und hat sich dann erst naturalisieren lassen.
+    - who: David Boder
+      start: '00:07:53.634'
+      end: '00:07:53.634'
+      u: Nochmal?
+    - who: Charlotte Schultze
+      start: '00:07:54.565'
+      end: '00:07:54.565'
+      u: Ja.
+    - who: David Boder
+      start: '00:07:55.065'
+      end: '00:07:55.065'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:07:55.427'
+      end: '00:07:55.427'
+      u: Weil er dadurch seine Staatsbürgerschaft verloren hatte.
+    - who: David Boder
+      start: '00:07:57.932'
+      end: '00:07:57.932'
+      u: Ja. Weil er als Kind zurück gekommen ist?
+    - who: Charlotte Schultze
+      start: '00:08:00.949'
+      end: '00:08:00.949'
+      u: Wie bitte?
+    - who: David Boder
+      start: '00:08:01.466'
+      end: '00:08:01.466'
+      u: Weil er als Kind zurück gebracht wurde?
+    - who: Charlotte Schultze
+      start: '00:08:03.161'
+      end: '00:08:03.161'
+      u: Ja, weil...
+    - who: David Boder
+      start: '00:08:03.666'
+      end: '00:08:03.666'
+      u: Er wurde von seinen Eltern zurück gebracht?
+    - who: Charlotte Schultze
+      start: '00:08:05.373'
+      end: '00:08:05.373'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:08:06.120'
+      end: '00:08:06.120'
+      u: Aha, nun, also sagen Sie mir, Sie haben in Dresden gelebt?
+    - who: Charlotte Schultze
+      start: '00:08:11.211'
+      end: '00:08:11.211'
+      u: Ja.
+    - who: David Boder
+      start: '00:08:11.625'
+      end: '00:08:11.625'
+      u: Wie ist es in Dresden während des Krieges vorgegangen? Ich habe so viel gehört
+        von Leuten, die in Lagern waren, aber so wenig gehört von Leuten, die frei
+        waren. Wie ging das in Dresden vor sich?
+    - who: Charlotte Schultze
+      start: '00:08:24.388'
+      end: '00:08:24.388'
+      u: Oh, wir hatten so nichts.
+    - who: David Boder
+      start: '00:08:26.514'
+      end: '00:08:26.514'
+      u: Also, wie ist es dort zugegangen?
+    - who: Charlotte Schultze
+      start: '00:08:30.829'
+      end: '00:08:30.829'
+      u: Ja—für uns persönlich—wir durften nur die Stadt nicht verlassen.
+    - who: David Boder
+      start: '00:08:34.570'
+      end: '00:08:34.570'
+      u: Warum?
+    - who: Charlotte Schultze
+      start: '00:08:35.346'
+      end: '00:08:35.346'
+      u: Wegen der Staatsangehörigkeit.
+    - who: David Boder
+      start: '00:08:36.834'
+      end: '00:08:36.834'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:08:37.374'
+      end: '00:08:37.374'
+      u: Ah hm. Ja und sonst...es war...wir waren alle eben unter strenger Bewachung
+        [lacht etwas]. Niemand durfte sprechen, was er wollte [lacht].
+    - who: David Boder
+      start: '00:08:45.068'
+      end: '00:08:45.068'
+      u: So, ja. Haben Sie Ihr Radio behalten?
+    - who: Charlotte Schultze
+      start: '00:08:47.758'
+      end: '00:08:47.758'
+      u: Ja, wir konnten das Radio behalten.
+    - who: David Boder
+      start: '00:08:49.522'
+      end: '00:08:49.522'
+      u: Sie durften das Radio behalten?
+    - who: Charlotte Schultze
+      start: '00:08:49.958'
+      end: '00:08:49.958'
+      u: Ja, wir durften nur keine fremden Sender hören. Das heißt, ich hab’s getan,
+        indem ich Kopfhörer hatte. [lacht]
+    - who: David Boder
+      start: '00:08:55.997'
+      end: '00:08:55.997'
+      u: Ah, Sie hatten hm, hm, Ohren...[lacht]
+    - who: Charlotte Schultze
+      start: '00:08:58.588'
+      end: '00:08:58.588'
+      u: Kopfhörer. [lacht]
+    - who: David Boder
+      start: '00:08:59.507'
+      end: '00:08:59.507'
+      u: Kopfhörer...und so konnten Sie mehr oder weniger...haben Sie geglaubt, was
+        die ausländischen Sender...[beide sprechen]
+    - who: Charlotte Schultze
+      start: '00:09:05.253'
+      end: '00:09:05.253'
+      u: Die konnte ich jeden Abend hören und dadurch waren wir doch über alles orientiert.
+    - who: David Boder
+      start: '00:09:08.896'
+      end: '00:09:08.896'
+      u: Aha.
+    - who: Charlotte Schultze
+      start: '00:09:10.160'
+      end: '00:09:10.160'
+      u: Und dadurch, dass mein Mann sehr viele, hm, jüdische Patienten hatte, waren
+        wir auch orientiert über alles, was vorkam, indem er einen Patienten hatte,
+        der aus Buchenwald kam und seine Kopfschwarte vollkommen zerschlagen war und
+        alles. Ein gewisser Doktor Magen...
+    - who: David Boder
+      start: '00:09:27.717'
+      end: '00:09:27.717'
+      u: Ach, ein Doktor, der in Buchenwald war, nicht?
+    - who: Charlotte Schultze
+      start: '00:09:29.286'
+      end: '00:09:29.286'
+      u: Ja.
+    - who: David Boder
+      start: '00:09:29.804'
+      end: '00:09:29.804'
+      u: Wieso haben die ihn heraus gelassen?
+    - who: Charlotte Schultze
+      start: '00:09:32.154'
+      end: '00:09:32.154'
+      u: Gut, die haben ihn für eine kurze Zeit eingesperrt. Und zwar war er der Vater
+        des Jungen mit dem mein Sohn da...
+    - who: David Boder
+      start: '00:09:37.555'
+      end: '00:09:37.555'
+      u: Weg gegangen ist.
+    - who: Charlotte Schultze
+      start: '00:09:38.021'
+      end: '00:09:38.021'
+      u: ". . . über die Grenze gegangen war."
+    - who: David Boder
+      start: '00:09:39.785'
+      end: '00:09:39.785'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:09:40.807'
+      end: '00:09:40.807'
+      u: Und dieser Herr Dr. Magen war dann nach Buchenwal gekommen und dann haben
+        sie ihn wieder frei gelassen. Dann nach einem Jahr wieder eingesperrt. Und,
+        hm, damit war er so unglücklich und hat sich dann in der Zelle das Leben genommen,
+        indem er seine Wäsche zerrissen hat und sich aufgehängt hat.
+    - who: David Boder
+      start: '00:09:59.729'
+      end: '00:09:59.729'
+      u: Das war der Doktor Magen?
+    - who: Charlotte Schultze
+      start: '00:10:00.907'
+      end: '00:10:00.907'
+      u: Ja.
+    - who: David Boder
+      start: '00:10:01.774'
+      end: '00:10:01.774'
+      u: Und was hat seinem Sohn passiert?
+    - who: Charlotte Schultze
+      start: '00:10:03.929'
+      end: '00:10:03.929'
+      u: Und dessen Sohn hat dann später auch noch einmal versucht die Schweizer Grenze
+        zu erreichen, ist aber dann auch erwischt worden und man hat...
+    - who: David Boder
+      start: '00:10:13.084'
+      end: '00:10:13.084'
+      u: Haben sie...ja.
+    - who: Charlotte Schultze
+      start: '00:10:14.124'
+      end: '00:10:14.124'
+      u: ". . . ihn in ein Konzentrationslager gebracht und dann nach einigen Wochen
+        hat man der Mutter und der Tochter, die beide noch übrig blieben, die Wäsche
+        geschickt und den Vermerk, dass er gestorben wäre."
+    - who: David Boder
+      start: '00:10:25.208'
+      end: '00:10:25.208'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:10:26.358'
+      end: '00:10:26.358'
+      u: Und dann wurden die Mutter und die Tochter...die kamen dann in eine Baracke
+        und später nach Polen. Seitdem haben wir nie wieder etwas gehört von den beiden.
+    - who: David Boder
+      start: '00:10:35.880'
+      end: '00:10:35.880'
+      u: Und der Mann? Und er hat sich das Leben genommen?
+    - who: Charlotte Schultze
+      start: '00:10:37.592'
+      end: '00:10:37.592'
+      u: Ja, er hat sich das Leben genommen.
+    - who: David Boder
+      start: '00:10:38.971'
+      end: '00:10:38.971'
+      u: Wo?
+    - who: Charlotte Schultze
+      start: '00:10:40.114'
+      end: '00:10:40.114'
+      u: In Dresden, im Gefängnis, weil er hörte, dass er wieder in ein Konzentrations-Führungslager
+        kommen wird, nicht.
+    - who: David Boder
+      start: '00:10:46.360'
+      end: '00:10:46.360'
+      u: Aha.
+    - who: Charlotte Schultze
+      start: '00:10:46.946'
+      end: '00:10:46.946'
+      u: Da war er so verzweifelt, dass er...
+    - who: David Boder
+      start: '00:10:49.955'
+      end: '00:10:49.955'
+      u: Sagen Sie mal, wie war das im Allgemeinen mit Selbstmord? Gab es da viel
+        davon?
+    - who: Charlotte Schultze
+      start: '00:10:57.197'
+      end: '00:10:57.197'
+      u: Ich...ich könnte das nicht so sagen. Unter den jüdischen Leuten natürlich
+        sehr viel, mein Mann ist oft zu Patienten gerufen worden unter anderem zu
+        einer gewissen Frau Pick...
+    - who: David Boder
+      start: '00:11:09.081'
+      end: '00:11:09.081'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:11:09.252'
+      end: '00:11:09.252'
+      u: ". . . die bei uns in der Nähe wohnte, eine alte, sehr feine Dame von siebzig
+        (70) Jahren. Sie...meistens nahmen sie sich das Leben mit Veronal."
+    - who: David Boder
+      start: '00:11:18.449'
+      end: '00:11:18.449'
+      u: Mit Veronal, mit den Schlaftabletten?
+    - who: Charlotte Schultze
+      start: '00:11:19.598'
+      end: '00:11:19.598'
+      u: Ja, ja. [seufzt] Mein Mann ist auch zu einem Herrn Fisch gerufen worden,
+        der, als damals der Abtransport nach Polen war...
+    - who: David Boder
+      start: '00:11:28.440'
+      end: '00:11:28.440'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:11:29.099'
+      end: '00:11:29.099'
+      u: ". . . und der Mann war schwer krank und sollte noch in der Nacht nach Polen
+        verschickt werden. Und da hat mein Mann selbst die Gestapo angerufen und hat...und..."
+    - who: David Boder
+      start: '00:11:40.307'
+      end: '00:11:40.307'
+      u: Gesagt.
+    - who: Charlotte Schultze
+      start: '00:11:40.684'
+      end: '00:11:40.684'
+      u: ". . . und gemeldet hat, dass es unmöglich ist, diesem Mann..."
+    - who: David Boder
+      start: '00:11:43.764'
+      end: '00:11:43.764'
+      u: Mit zu nehmen.
+    - who: Charlotte Schultze
+      start: '00:11:44.204'
+      end: '00:11:44.204'
+      u: ". . . mit zu nehmen, nicht. Dann sind nur die Söhne abtransportiert worden,
+        weil die Polen waren, das heißt, die waren nie in Polen gewesen."
+    - who: David Boder
+      start: '00:11:51.762'
+      end: '00:11:51.762'
+      u: Ja—nur polnische Bürger.
+    - who: Charlotte Schultze
+      start: '00:11:52.291'
+      end: '00:11:52.291'
+      u: Sie waren in Deutschland geboren, nicht wahr. Die Leute wurden dann an der
+        Grenze dort abgesetzt und...
+    - who: David Boder
+      start: '00:11:58.227'
+      end: '00:11:58.227'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:11:58.592'
+      end: '00:11:58.592'
+      u: ". . . kein Mensch hat sich mehr um sie gekümmert."
+    - who: David Boder
+      start: '00:12:02.049'
+      end: '00:12:02.049'
+      u: Nun sagen Sie mal, Sie haben ja auch mit Deutschen verkehrt, nicht wahr?
+    - who: Charlotte Schultze
+      start: '00:12:06.509'
+      end: '00:12:06.509'
+      u: Ja.
+    - who: David Boder
+      start: '00:12:08.167'
+      end: '00:12:08.167'
+      u: Und wie haben sich die Deutschen zu der ganzen Hitler Geschichte verhalten?
+    - who: Charlotte Schultze
+      start: '00:12:12.977'
+      end: '00:12:12.977'
+      u: Ja, wir hatten jedenfalls das Gefühl, dass eher sehr, sehr Wenige für Hitler
+        waren...
+    - who: David Boder
+      start: '00:12:17.620'
+      end: '00:12:17.620'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:12:18.324'
+      end: '00:12:18.324'
+      u: ". . . denn ich weiß, dass in meines Mannes Praxis wohl kaum ein Prozent
+        Nazis waren."
+    - who: David Boder
+      start: '00:12:25.719'
+      end: '00:12:25.719'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:12:26.373'
+      end: '00:12:26.373'
+      u: Es kann natürlich auch sein, dass diejenigen, die zu uns kamen, nicht [lacht]...weil
+        sie wussten erstens, dass mein Mann Amerikaner ist und zweitens wussten sie
+        unsere Einstellung.
+    - who: David Boder
+      start: '00:12:37.388'
+      end: '00:12:37.388'
+      u: Nun sagen Sie mal, hat man gewusst, was in Konzentrationslagern vor geht?
+    - who: Charlotte Schultze
+      start: '00:12:44.342'
+      end: '00:12:44.342'
+      u: Ach doch, ich denke die Mehrzahl der Menschen nicht.
+    - who: David Boder
+      start: '00:12:47.753'
+      end: '00:12:47.753'
+      u: Sie glauben die Mehrzahl...
+    - who: Charlotte Schultze
+      start: '00:12:48.320'
+      end: '00:12:48.320'
+      u: Nein, nein, hat’s nicht gewusst.
+    - who: David Boder
+      start: '00:12:50.541'
+      end: '00:12:50.541'
+      u: Nun...
+    - who: Charlotte Schultze
+      start: '00:12:50.698'
+      end: '00:12:50.698'
+      u: Wenn wir...
+    - who: David Boder
+      start: '00:12:51.280'
+      end: '00:12:51.280'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:12:51.524'
+      end: '00:12:51.524'
+      u: Wenn wir nicht zufällig durch die Patientenschaft Vieles gehört hätten, hätten
+        wir es auch nicht gewusst.
+    - who: David Boder
+      start: '00:12:58.448'
+      end: '00:12:58.448'
+      u: Nun sind da nicht Gestapo Leute nach Hause gekommen und haben es ihren Verwandten
+        erzählt, Bekannten und so weiter?
+    - who: Charlotte Schultze
+      start: '00:13:06.391'
+      end: '00:13:06.391'
+      u: Hm, ja, es...
+    - who: David Boder
+      start: '00:13:06.776'
+      end: '00:13:06.776'
+      u: Man kann doch das nicht so [unverständlich].
+    - who: Charlotte Schultze
+      start: '00:13:08.888'
+      end: '00:13:08.888'
+      u: Ja, das weiß ich nicht. Jedenfalls stand ja bei jedem die Todesstrafe.
+    - who: David Boder
+      start: '00:13:14.308'
+      end: '00:13:14.308'
+      u: jedem Gestapo Mann?
+    - who: Charlotte Schultze
+      start: '00:13:15.863'
+      end: '00:13:15.863'
+      u: Ja, es konnte ja niemand sprechen. Man musste ja so vorsichtig sein. Auch
+        ich hatte oft Angst, wenn mein Mann spät aus der Praxis kam [seufzt und lacht
+        etwas], dass etwas passiert ist.
+    - who: David Boder
+      start: '00:13:27.220'
+      end: '00:13:27.220'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:13:28.630'
+      end: '00:13:28.630'
+      u: Weil er auch oft zu frei geredet hat. [lacht etwas]
+    - who: David Boder
+      start: '00:13:32.022'
+      end: '00:13:32.022'
+      u: Aha.
+    - who: Charlotte Schultze
+      start: '00:13:32.463'
+      end: '00:13:32.463'
+      u: Ja, es war ja alles so furchtbar gefährlich. Es kann sich gar niemand drüben
+        im Amerika einen Begriff davon machen, wie sehr man eben unter Kontrolle stand
+        und um welche Anzeichen die Bevölkerung lebte.
+    - who: David Boder
+      start: '00:13:45.908'
+      end: '00:13:45.908'
+      u: Nun...[Pause]...sagen Sie, haben Sie Ihre Dienstmädchen behalten während
+        des Krieges?
+    - who: Charlotte Schultze
+      start: '00:13:53.485'
+      end: '00:13:53.485'
+      u: Ja...ja.
+    - who: David Boder
+      start: '00:13:54.705'
+      end: '00:13:54.705'
+      u: Und was für eine Person war die? Was haben Sie von der zum Beispiel, was
+        für Ideen hat die geäußert?
+    - who: Charlotte Schultze
+      start: '00:14:02.312'
+      end: '00:14:02.312'
+      u: Oh, ich hatte ein sehr nettes Mädchen aus...aus Finster...na, na, aus der
+        Nähe von Finsterwalde—aus einem kleinen Ort da. Die Eltern hatten ein Gut
+        und waren auch vollkommen gegen Hitler eingestellt. Also in dieser Weise [lacht]
+        gab’s da keine Gefahr.
+    - who: David Boder
+      start: '00:14:20.148'
+      end: '00:14:20.148'
+      u: Es war nicht gefährlich?
+    - who: Charlotte Schultze
+      start: '00:14:21.800'
+      end: '00:14:21.800'
+      u: Nein, wir konnten da ganz offen reden, denn die Eltern waren genau so eingestellt
+        wie wir. Dadurch war in der Weise keine Gefahr. Ebenso hatte ich eine Aufwartefrau,
+        die meine Wäsche mit wusch und so weiter. Der ihr Mann war auch vollkommen
+        gegen Hitler und auch sie. Also es war eigentlich in unserer ganzen Nachbarschaft
+        und Bekanntschaft war niemand für das System.
+    - who: David Boder
+      start: '00:14:47.386'
+      end: '00:14:47.386'
+      u: Nun sagen Sie, wer war eigentlich für das System, dass es so...[klingt wie
+        das Ende vom Tonband]
+    - who: Herman Barnett
+      start: '00:14:53.528'
+      end: '00:14:53.528'
+      u: "[In English] Spool 137 recording starts in about one minute. Spool 137 recording
+        starts in about one minute. This is Herman Barnett."
+    - who: David Boder
+      start: '00:15:09.575'
+      end: '00:15:09.575'
+      u: Spool 9-137A. The conclusion of interview with Miss Charlotte Schultze. Spool
+        9-137B will contain the interview with Jürgen Bassfreund—a part of it.
+    - who: David Boder
+      start: '00:15:43.720'
+      end: '00:15:43.720'
+      u: Munich, September the 20th, 1946 in a transient camp maintained by the UNRRA.
+        The interviewee is Miss...Charlotte, Mrs. Charlotte Schultze, the wife pf
+        a physician already in the United States and we have yet a short conclusion.
+    - who: David Boder
+      start: '00:16:08.544'
+      end: '00:16:08.544'
+      u: "[In German] Also sagen Sie mir, wir sprechen nochmal darüber, hm, was die
+        Deutschen, sagen wir, wussten von Hitler und von Konzentrationslagern und
+        vom Krieg. Zum Beispiel, was haben Sie über den Krieg gedacht?"
+    - who: Charlotte Schultze
+      start: '00:16:24.999'
+      end: '00:16:24.999'
+      u: Ja, das ist so schwer zu sagen. Jeder hoffte nur, dass der Krieg bald zu
+        Ende...bald zum Ende kommen würde und jeder hoffte beinah, dass wir ihn nicht
+        gewinnen, weil jeder Angst davor hatte, was dann werden sollte, wenn die Nazis
+        gewinnen würden.
+    - who: David Boder
+      start: '00:16:40.964'
+      end: '00:16:40.964'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:16:41.853'
+      end: '00:16:41.853'
+      u: So traurig, wie das klingt, aber...es war wirklich in den meisten Fällen
+        so.
+    - who: David Boder
+      start: '00:16:48.068'
+      end: '00:16:48.068'
+      u: Haben Sie nicht gefühlt, dass Deutschland angegriffen wurde und sich jetzt
+        verteidigen mus?
+    - who: Charlotte Schultze
+      start: '00:16:54.417'
+      end: '00:16:54.417'
+      u: Nein, darüber war sich wohl fast jeder klar, dass Hitler derjenige war, der
+        angriff. [lacht etwas]
+    - who: David Boder
+      start: '00:17:02.658'
+      end: '00:17:02.658'
+      u: Nun sagen Sie mir, also wenn es solch eine Stimmung war, wie erklärt man
+        sich die Stärke, diese große Anzahl von SS und die große Anzahl von SA und,
+        hm, die großen Kundgebungen immer wenn Hitler sprach und so weiter?
+    - who: Charlotte Schultze
+      start: '00:17:22.596'
+      end: '00:17:22.596'
+      u: Ja, die Leute waren ja alle dazu befohlen.
+    - who: David Boder
+      start: '00:17:25.135'
+      end: '00:17:25.135'
+      u: Zum Beispiel, wer?
+    - who: Charlotte Schultze
+      start: '00:17:26.021'
+      end: '00:17:26.021'
+      u: Also die ganzen...die Schulen mussten kommen und mussten schreien. Die Hitler
+        Jugend war befohlen, die ganzen Betriebe mussten geschlossen marschieren und
+        mussten ,Heil Hitler’ schreien. Es hatte ja niemand mehr einen eigenen Willen
+        außer einigen freien Berufen.
+    - who: David Boder
+      start: '00:17:48.250'
+      end: '00:17:48.250'
+      u: Und welche freien Berufe waren das?
+    - who: Charlotte Schultze
+      start: '00:17:50.864'
+      end: '00:17:50.864'
+      u: Also Rechtsanwälte und irgend...Menschen, die nicht organisiert waren.
+    - who: David Boder
+      start: '00:17:58.622'
+      end: '00:17:58.622'
+      u: Nun was denken Sie...nun möchte ich Ihnen noch eine Frage stellen. Ist es,
+        wie Sie sich denken, ist es wahr, dass es den Deutschen eigentlich jetzt nicht
+        so schlecht geht?
+    - who: Charlotte Schultze
+      start: '00:18:16.574'
+      end: '00:18:16.574'
+      u: Ja, wir hier in der amerikanischen Zone, wir können uns ja schließlich nicht
+        beschweren.
+    - who: David Boder
+      start: '00:18:21.944'
+      end: '00:18:21.944'
+      u: "[beide sprechen] Ich meine das deutsche Publikum im Allgemeinen."
+    - who: Charlotte Schultze
+      start: '00:18:24.604'
+      end: '00:18:24.604'
+      u: Im Allgemeinen, ich meine der Feind ist sehr anständig zu uns; ganz im Gegensatz
+        dazu, wie wir wahrscheinlich in anderen Ländern waren.
+    - who: David Boder
+      start: '00:18:32.885'
+      end: '00:18:32.885'
+      u: Nun.
+    - who: Charlotte Schultze
+      start: '00:18:33.144'
+      end: '00:18:33.144'
+      u: Wir haben wohl Länder gekannt...
+    - who: David Boder
+      start: '00:18:35.013'
+      end: '00:18:35.013'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:18:35.419'
+      end: '00:18:35.419'
+      u: ". . . die fast verhungert sind, als unsere Besatzung drüben war, weil ja
+        alles weg ge...geschafft worden ist von anderen Ländern, weil bei uns der
+        Feind noch die Lebensmittel her bringt. [lacht etwas]"
+    - who: David Boder
+      start: '00:18:48.297'
+      end: '00:18:48.297'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:18:48.740'
+      end: '00:18:48.740'
+      u: "[kichert] In der Weise müssen wir ja hier sehr dankbar sein."
+    - who: David Boder
+      start: '00:18:52.124'
+      end: '00:18:52.124'
+      u: Nun sagen Sie mal, wie erklären Sie, dass die Hauptvaluta da sozusagen die
+        Zigarette ist? Wie ist das doch?
+    - who: Charlotte Schultze
+      start: '00:19:01.604'
+      end: '00:19:01.604'
+      u: Die...
+    - who: David Boder
+      start: '00:19:02.570'
+      end: '00:19:02.570'
+      u: Wollen die Leute wirklich so stark rauchen, dass sie so viel für Zigaretten
+        hingeben wollen?
+    - who: Charlotte Schultze
+      start: '00:19:10.122'
+      end: '00:19:10.122'
+      u: Ja, darüber kann ich schwer reden, weil ich selbst Nichtraucherin bin [lacht]
+        Und so...
+    - who: David Boder
+      start: '00:19:13.842'
+      end: '00:19:13.842'
+      u: Na ja. Aber, zum Beispiel, man bezahlt einen Träger mit zwei (2) Zigaretten.
+        Man gibt dem Mädel ein Trinkgeld mit zwei (2) Zigaretten. Was machen die damit?
+    - who: Charlotte Schultze
+      start: '00:19:23.813'
+      end: '00:19:23.813'
+      u: Ja, die verkauft das am „schwarzen Markt“ einfach.
+    - who: David Boder
+      start: '00:19:26.097'
+      end: '00:19:26.097'
+      u: Wer kauft sie?
+    - who: Charlotte Schultze
+      start: '00:19:29.307'
+      end: '00:19:29.307'
+      u: Das weiß ich nicht. [kichert] Ich nicht. [lacht]
+    - who: David Boder
+      start: '00:19:31.567'
+      end: '00:19:31.567'
+      u: Nun ja, sagen Sie mir was kann man austauschen für zwei (2) Zigaretten?
+    - who: Charlotte Schultze
+      start: '00:19:37.959'
+      end: '00:19:37.959'
+      u: Darüber kann ich sehr schwer Auskunft geben, weil ich eben nicht rauche.
+    - who: David Boder
+      start: '00:19:41.522'
+      end: '00:19:41.522'
+      u: Aber Sie bekommen ja auch hier mit Zigaretten bezahlt und so weiter.
+    - who: Charlotte Schultze
+      start: '00:19:45.829'
+      end: '00:19:45.829'
+      u: Ja, das ist vielleicht nicht richtig.
+    - who: David Boder
+      start: '00:19:49.020'
+      end: '00:19:49.020'
+      u: Ja, aber sie haben auch selber kein Geld und sagen, sie sagen, sie können
+        für das Geld nichts bekommen.
+    - who: Charlotte Schultze
+      start: '00:19:55.605'
+      end: '00:19:55.605'
+      u: Ja, das weiß ich auch nicht. [flüstert]
+    - who: David Boder
+      start: '00:19:58.199'
+      end: '00:19:58.199'
+      u: Na ja, tauschen die Bauern für Zigaretten?
+    - who: Charlotte Schultze
+      start: '00:20:01.643'
+      end: '00:20:01.643'
+      u: Auch—sicher, wenn sie starke Raucher sind.
+    - who: David Boder
+      start: '00:20:05.233'
+      end: '00:20:05.233'
+      u: Wenn...und die geben ziemlich viel dafür?
+    - who: Charlotte Schultze
+      start: '00:20:07.787'
+      end: '00:20:07.787'
+      u: Die geben viel dafür. Ich habe gehört, dass jemand neunzig (90) Mark für
+        ein Paket Zigaretten gezahlt hat.
+    - who: David Boder
+      start: '00:20:13.940'
+      end: '00:20:13.940'
+      u: Neunzig (90) Mark
+    - who: Charlotte Schultze
+      start: '00:20:14.568'
+      end: '00:20:14.568'
+      u: Neunzig (90) Mark.
+    - who: David Boder
+      start: '00:20:15.378'
+      end: '00:20:15.378'
+      u: Nun ja, man zahlt in Frankreich dafür hundert fünfzig (150), hundert fünf
+        und siebzig Franc.
+    - who: Charlotte Schultze
+      start: '00:20:21.304'
+      end: '00:20:21.304'
+      u: Ja, das ist etwas, was hier die meisten Leute nicht verstehen.
+    - who: David Boder
+      start: '00:20:25.491'
+      end: '00:20:25.491'
+      u: Hm. Sagen Sie mir jetzt noch, wie erklären Sie das, dass die meisten Deutschen
+        so gut gekleidet sind?
+    - who: Charlotte Schultze
+      start: '00:20:35.611'
+      end: '00:20:35.611'
+      u: Viele haben noch Vorräte gehabt, die die ihr Heim erhalten haben, aber die
+        Meisten gehen ja doch nicht mehr so gut gekleidet, hm? Sehen Sie, die Meisten
+        sind ja ausgebombt und irgendwie haben alles verloren, nicht.
+    - who: David Boder
+      start: '00:20:50.306'
+      end: '00:20:50.306'
+      u: Nun wo ist all die Kleidung geblieben, die man von den Juden weg genommen
+        hat, sagen wir in Theresienstadt und die man allen weg genommen hat, bevor
+        man sie alle transportiert hat?
+    - who: Charlotte Schultze
+      start: '00:20:59.722'
+      end: '00:20:59.722'
+      u: Hm, Sie müssen daran denken, dass die Städte alle ausgebrannt sind, nicht
+        wahr und dass doch die ganzen Sachen in Flammen aufgegangen sind.
+    - who: David Boder
+      start: '00:21:08.142'
+      end: '00:21:08.142'
+      u: So Sie denken, dass das alles...
+    - who: Charlotte Schultze
+      start: '00:21:08.598'
+      end: '00:21:08.598'
+      u: Schauen Sie, es ist doch alles weg. Nehmen Sie einmal Dresden...
+    - who: David Boder
+      start: '00:21:11.935'
+      end: '00:21:11.935'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:21:12.085'
+      end: '00:21:12.085'
+      u: Dresden ist doch vollkommen zerstört und damit doch auch die ganzen Kleidungsstücke
+        und alles. Wir sind, zum Beispiel, aus unserem Haus raus nur mit dem, was
+        ich auf dem Leib hatte. Alles Andere war weg.
+    - who: David Boder
+      start: '00:21:23.240'
+      end: '00:21:23.240'
+      u: Oh Sie wurden ausgebombt in Dresden?
+    - who: Charlotte Schultze
+      start: '00:21:24.824'
+      end: '00:21:24.824'
+      u: Vollkommen ausgebombt.
+    - who: David Boder
+      start: '00:21:26.674'
+      end: '00:21:26.674'
+      u: Wann hat das passiert?
+    - who: Charlotte Schultze
+      start: '00:21:27.621'
+      end: '00:21:27.621'
+      u: Am dreizehnten (13.) Februar fünf und vierzig (45).
+    - who: David Boder
+      start: '00:21:30.055'
+      end: '00:21:30.055'
+      u: Was war da? Eine Luftattacke? Von wem?
+    - who: Charlotte Schultze
+      start: '00:21:33.999'
+      end: '00:21:33.999'
+      u: Weiß nicht, es war nacht.
+    - who: David Boder
+      start: '00:21:35.726'
+      end: '00:21:35.726'
+      u: Bei Nacht?
+    - who: Charlotte Schultze
+      start: '00:21:36.261'
+      end: '00:21:36.261'
+      u: Eine Nachtattacke. [seufzt]
+    - who: David Boder
+      start: '00:21:38.439'
+      end: '00:21:38.439'
+      u: Und da war ein großes Bombardement?
+    - who: Charlotte Schultze
+      start: '00:21:40.940'
+      end: '00:21:40.940'
+      u: Ja, ein Großes...[beide sprechen]
+    - who: David Boder
+      start: '00:21:41.289'
+      end: '00:21:41.289'
+      u: Und wo haben Sie sich mit der Familie in Sicherheit gesetzt?
+    - who: Charlotte Schultze
+      start: '00:21:45.436'
+      end: '00:21:45.436'
+      u: Wir waren in einem Sammelschutzraum am Bahnhof.
+    - who: David Boder
+      start: '00:21:48.624'
+      end: '00:21:48.624'
+      u: Aha.
+    - who: Charlotte Schultze
+      start: '00:21:48.987'
+      end: '00:21:48.987'
+      u: Dresden hatte keinen einzigen Bunker, war also vollkommen ohne Schutz.
+    - who: David Boder
+      start: '00:21:53.812'
+      end: '00:21:53.812'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:21:54.108'
+      end: '00:21:54.108'
+      u: Nur der Stadthalter hatte einen großen Bunker für seine Familie. [beide sprechen]
+    - who: David Boder
+      start: '00:21:57.020'
+      end: '00:21:57.020'
+      u: Wieso gibt es das, dass [unverständlich; beide sprechen] gegraben hat?
+    - who: Charlotte Schultze
+      start: '00:22:00.354'
+      end: '00:22:00.354'
+      u: Ja, ich glaube, dass hängt wohl am...am Gauleiter.
+    - who: David Boder
+      start: '00:22:04.887'
+      end: '00:22:04.887'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:22:05.365'
+      end: '00:22:05.365'
+      u: Von ihm.
+    - who: David Boder
+      start: '00:22:05.823'
+      end: '00:22:05.823'
+      u: Nun also, sie gingen zur Station. Das war ja der gefährlichstePlatz!
+    - who: Charlotte Schultze
+      start: '00:22:11.229'
+      end: '00:22:11.229'
+      u: Ja, wir waren erst in unserem Keller bei dem ersten Angriff.
+    - who: David Boder
+      start: '00:22:14.256'
+      end: '00:22:14.256'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:22:14.902'
+      end: '00:22:14.902'
+      u: Und, hm, dabei wurde unser Haus nicht verletzt. Es fielen nur Brandbomben
+        in der Nähe.
+    - who: David Boder
+      start: '00:22:20.595'
+      end: '00:22:20.595'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:22:20.862'
+      end: '00:22:20.862'
+      u: Und dann gingen wir in die Neustadt, um nach unseren alten Eltern zu sehen.
+    - who: David Boder
+      start: '00:22:24.762'
+      end: '00:22:24.762'
+      u: Ihre Eltern oder die Ihres Mannes?
+    - who: Charlotte Schultze
+      start: '00:22:26.256'
+      end: '00:22:26.256'
+      u: Meine Eltern. Mein Schwiegervater starb dann mit vier und achtzig (84) Jahren
+        nach dem Angriff.
+    - who: David Boder
+      start: '00:22:31.853'
+      end: '00:22:31.853'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:22:32.188'
+      end: '00:22:32.188'
+      u: Und meine Schwiegermutter lebt noch mit acht und siebzig Jahren.
+    - who: David Boder
+      start: '00:22:35.371'
+      end: '00:22:35.371'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:22:36.175'
+      end: '00:22:36.175'
+      u: Und auch mein Vater. Und als wir von dort weg gingen, um nach Haus zu gehen,
+        kam der zweite (2.) Alarm und da erreichten...
+    - who: David Boder
+      start: '00:22:44.600'
+      end: '00:22:44.600'
+      u: "[unverständlich; beide sprechen]"
+    - who: Charlotte Schultze
+      start: '00:22:45.521'
+      end: '00:22:45.521'
+      u: ". . . erreichten wir unser Haus nicht mehr. Und mussten dann im Bahnhof
+        unterkommen, im Bahnhofschutzraum."
+    - who: David Boder
+      start: '00:22:51.788'
+      end: '00:22:51.788'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:22:52.772'
+      end: '00:22:52.772'
+      u: Und...
+    - who: David Boder
+      start: '00:22:53.612'
+      end: '00:22:53.612'
+      u: War dieser Bahnhofschutzraum unter der Erde?
+    - who: Charlotte Schultze
+      start: '00:22:55.728'
+      end: '00:22:55.728'
+      u: Unter der Erde, ja.
+    - who: David Boder
+      start: '00:22:56.532'
+      end: '00:22:56.532'
+      u: Oh, es waren diese Bahnstege, die unter der Erde für Fußgänger...
+    - who: Charlotte Schultze
+      start: '00:22:58.648'
+      end: '00:22:58.648'
+      u: Nein, nein. Es waren diese Sammelschutzräume der Eisenbahn-Direktion.
+    - who: David Boder
+      start: '00:23:02.942'
+      end: '00:23:02.942'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:23:03.241'
+      end: '00:23:03.241'
+      u: In einem ganz großen Backsteinhaus.
+    - who: David Boder
+      start: '00:23:05.871'
+      end: '00:23:05.871'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:23:06.317'
+      end: '00:23:06.317'
+      u: Da sind allerdings, ich glaube, hunderte von Menschen umgekommen. Und wie
+        durch ein Wunder sind wir heraus gekommen, da heißt, mein Sohn, mein Kleiner
+        und ich. Wir sind vielleicht nachts um zwei (2) Uhr durch eine Lucke heraus
+        geklettert...
+    - who: David Boder
+      start: '00:23:21.625'
+      end: '00:23:21.625'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:23:21.951'
+      end: '00:23:21.951'
+      u: ". . . und..."
+    - who: David Boder
+      start: '00:23:23.174'
+      end: '00:23:23.174'
+      u: Ihr Mann?
+    - who: Charlotte Schultze
+      start: '00:23:23.541'
+      end: '00:23:23.541'
+      u: Mein Mann erst am nächsten Morgen um acht (8).
+    - who: David Boder
+      start: '00:23:25.971'
+      end: '00:23:25.971'
+      u: Aha.
+    - who: Charlotte Schultze
+      start: '00:23:26.465'
+      end: '00:23:26.465'
+      u: So haben wir dann den ganzen Tag gedacht mein Mann war tot und er hat von
+        uns gedacht, wir wären tot.
+    - who: David Boder
+      start: '00:23:30.783'
+      end: '00:23:30.783'
+      u: Aha, Sie haben nicht...er hat nicht gewusst, dass die raus kamen.
+    - who: Charlotte Schultze
+      start: '00:23:33.105'
+      end: '00:23:33.105'
+      u: Nein. Wir haben uns dann erst am nächsten Abend getroffen.
+    - who: David Boder
+      start: '00:23:36.010'
+      end: '00:23:36.010'
+      u: Zu Hause?
+    - who: Charlotte Schultze
+      start: '00:23:36.838'
+      end: '00:23:36.838'
+      u: Nein, unser Haus war inzwischen auch weg.
+    - who: David Boder
+      start: '00:23:39.169'
+      end: '00:23:39.169'
+      u: Oh, das Haus war weg?
+    - who: Charlotte Schultze
+      start: '00:23:40.212'
+      end: '00:23:40.212'
+      u: Vollkommen zertrümmert.
+    - who: David Boder
+      start: '00:23:41.973'
+      end: '00:23:41.973'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:23:42.419'
+      end: '00:23:42.419'
+      u: Die Praxis war vollkommen zertrümmert
+    - who: David Boder
+      start: '00:23:44.705'
+      end: '00:23:44.705'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:23:45.291'
+      end: '00:23:45.291'
+      u: Das Haus unserer Schwiegereltern ist weg.
+    - who: David Boder
+      start: '00:23:47.371'
+      end: '00:23:47.371'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:23:47.578'
+      end: '00:23:47.578'
+      u: Als meines Vater. Also wir sind alle vollkommen ausgebombt.
+    - who: David Boder
+      start: '00:23:51.060'
+      end: '00:23:51.060'
+      u: War Dresden wirklich so schwer...
+    - who: Charlotte Schultze
+      start: '00:23:52.868'
+      end: '00:23:52.868'
+      u: Ja, es ist vollkommen zerstört.
+    - who: David Boder
+      start: '00:23:55.716'
+      end: '00:23:55.716'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:23:56.015'
+      end: '00:23:56.015'
+      u: Die ganze Innenstadt. Auch mein Bruder ist tot und alle meine Freundinnen.
+    - who: David Boder
+      start: '00:24:00.202'
+      end: '00:24:00.202'
+      u: Wieso, Ihr Bruder wurde im Bombardement getötet?
+    - who: Charlotte Schultze
+      start: '00:24:04.377'
+      end: '00:24:04.377'
+      u: Ja wurde er, er kam auch mit um, ja.
+    - who: David Boder
+      start: '00:24:06.520'
+      end: '00:24:06.520'
+      u: Und was ist mit Ihren alten Leuten passiert?
+    - who: Charlotte Schultze
+      start: '00:24:09.209'
+      end: '00:24:09.209'
+      u: Meine Schwiegereltern, die haben sich noch heraus ge...gewühlt aus, aus all
+        dem Schutt.
+    - who: David Boder
+      start: '00:24:15.894'
+      end: '00:24:15.894'
+      u: Also es war bombardiert das Haus und Sie haben ihnen heraus geholfen?
+    - who: Charlotte Schultze
+      start: '00:24:17.702'
+      end: '00:24:17.702'
+      u: Ja, heraus geholfen.
+    - who: David Boder
+      start: '00:24:19.498'
+      end: '00:24:19.498'
+      u: Und?
+    - who: Charlotte Schultze
+      start: '00:24:19.702'
+      end: '00:24:19.702'
+      u: Und sind dann bis nach Thüringen gekommen, ihre Heimat.
+    - who: David Boder
+      start: '00:24:23.064'
+      end: '00:24:23.064'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:24:23.662'
+      end: '00:24:23.662'
+      u: Und da ist dann mein Schwiegervater noch in der Nacht wegen Herzschwäche
+        zu Grunde gegangen. Es war eigentlich traurigerweise, da er als junger Mann
+        von 20 Jahren aus Thüringen weg gegangen ist, erst nach Schweden, dann nach
+        Amerika...
+    - who: David Boder
+      start: '00:24:37.413'
+      end: '00:24:37.413'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:24:38.119'
+      end: '00:24:38.119'
+      u: ". . . und ist an seinem Todestag..."
+    - who: David Boder
+      start: '00:24:40.035'
+      end: '00:24:40.035'
+      u: Wieder in Thüringen...
+    - who: Charlotte Schultze
+      start: '00:24:40.541'
+      end: '00:24:40.541'
+      u: ". . . wieder in Thüringen gelandet, um zu sterben. Ein eigenartiges Schicksal!"
+    - who: David Boder
+      start: '00:24:45.385'
+      end: '00:24:45.385'
+      u: Und Ihre Schwiegermutter?
+    - who: Charlotte Schultze
+      start: '00:24:46.739'
+      end: '00:24:46.739'
+      u: Meine Schwiegermutter lebt noch in Coburg.
+    - who: David Boder
+      start: '00:24:48.906'
+      end: '00:24:48.906'
+      u: Ah hm.
+    - who: Charlotte Schultze
+      start: '00:24:50.953'
+      end: '00:24:50.953'
+      u: Die haben wir dann nach Coburg gebracht, damit sie in der amerikanischen
+        Zone bleiben kann.
+    - who: David Boder
+      start: '00:24:55.997'
+      end: '00:24:55.997'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:24:56.308'
+      end: '00:24:56.308'
+      u: Sehen Sie, dass sie mit uns in Verbindung bleibt.
+    - who: David Boder
+      start: '00:24:58.391'
+      end: '00:24:58.391'
+      u: Aha.
+    - who: Charlotte Schultze
+      start: '00:24:58.714'
+      end: '00:24:58.714'
+      u: Und Dresden gehört zur russischen Zone.
+    - who: David Boder
+      start: '00:25:00.717'
+      end: '00:25:00.717'
+      u: Und wer unterstützt sie?
+    - who: Charlotte Schultze
+      start: '00:25:02.409'
+      end: '00:25:02.409'
+      u: Vorläufig hat sie genug zum Leben und wir hoffen, dass wir etwas von drüben
+        [lacht etwas] was zum Essen schicken können.
+    - who: David Boder
+      start: '00:25:09.132'
+      end: '00:25:09.132'
+      u: Aha.
+    - who: Charlotte Schultze
+      start: '00:25:09.499'
+      end: '00:25:09.499'
+      u: Vielleicht können wir auch...[unverständlich; beide sprechen]
+    - who: David Boder
+      start: '00:25:10.035'
+      end: '00:25:10.035'
+      u: Haben Ihre Bekannten in Amerika Ihnen was geschickt während dieser Zeit?
+    - who: Charlotte Schultze
+      start: '00:25:13.730'
+      end: '00:25:13.730'
+      u: Nein. Wir haben Briefe bekommen, aber weil alle hofften, dass wir schon eher
+        zurück kommen,...
+    - who: David Boder
+      start: '00:25:19.472'
+      end: '00:25:19.472'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:25:20.186'
+      end: '00:25:20.186'
+      u: ". . . haben sie gedacht, es lohnt sich nicht. [lacht]"
+    - who: David Boder
+      start: '00:25:22.769'
+      end: '00:25:22.769'
+      u: Nun, aber jetzt werden Sie ja schon bald in Amerika sein.
+    - who: Charlotte Schultze
+      start: '00:25:25.218'
+      end: '00:25:25.218'
+      u: Hoffentlich, ja. [lacht]
+    - who: David Boder
+      start: '00:25:25.763'
+      end: '00:25:25.763'
+      u: "[In English] This concludes the interview with Mrs. Charlotte Schultze,
+        wife of a physician, hm, what they call here a German Aryan, who is now in
+        the United States with the child, and will probably send over the affidavit
+        for the wife...for his wife. We conclude the interview at 8 minutes of the
+        counter index. An Illinois Institute of Technology wire recording. Munich,
+        Germany. September the 20th, 1946."
+    - who: David Boder
+      start: '00:25:56.859'
+      end: '00:25:56.859'
+      u: "[In German] Danke sehr, Frau Doktor."
+    - who: Charlotte Schultze
+      start: '00:25:59.146'
+      end: '00:25:59.146'
+      u: Na also dann...
+    - who: David Boder
+      start: '00:26:05.326'
+      end: 
+      u: "[In English] This concludes Spool 137A. The other part will be Spool 137B
+        and is the beginning of Bassfreund's story. It may be advisable since we have
+        only 8 minutes on this spool to combine this one with 136B and have Mrs. Charlotte
+        Schultze all on one spool. But we will leave that for further checkup. Boder.
+        October the 13th, 1950. MH156."
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:00.001'
+      end: '00:00:00.001'
+      u: "[In English] Munich, September the 20th, 1946 [exactly ten years ago at
+        the time of translation], at the transient UNRRA camp at the Funkenkasernen.
+        The interviewee is Miss...eh, is Mrs. Doctor Charlotte Schultze, 47 years
+        old, and she is a [words not clear]. She is an Aryan, married to a Aryan physician
+        who was here during the war, because they...for various reasons we will hear.
+        And her husband and eleven year old son are already across, and she is expecting
+        now, from week to week, her affidavits to go over to the United States."
+    - who: David Boder
+      start: '00:00:48.767'
+      end: '00:00:48.767'
+      u: "[In German] Now, Frau doctor. [Whispers] You want to talk English, true?"
+    - who: Charlotte Schultze
+      start: '00:00:52.169'
+      end: '00:00:52.169'
+      u: No, German.
+    - who: David Boder
+      start: '00:00:53.833'
+      end: '00:00:53.833'
+      u: You want to talk German.
+    - who: Charlotte Schultze
+      start: '00:00:54.826'
+      end: '00:00:54.826'
+      u: Yes [?].
+    - who: David Boder
+      start: '00:00:55.497'
+      end: '00:00:55.497'
+      u: Well, yes. Come a bit nearer so you won't have to talk too loud. Make yourself
+        comfortable. [A few words more in whispers, not clear.] Now Frau doctor, will
+        you please tell me again what is your name and where were you born?
+    - who: Charlotte Schultze
+      start: '00:01:06.434'
+      end: '00:01:06.434'
+      u: Charlotte Schultze, from Dresden, born in Dresden, 1899.
+    - who: David Boder
+      start: '00:01:11.928'
+      end: '00:01:11.928'
+      u: Yes. And who were your parents, Mrs. Shultze?
+    - who: Charlotte Schultze
+      start: '00:01:16.001'
+      end: '00:01:16.001'
+      u: Director Bruno Zomack and...
+    - who: David Boder
+      start: '00:01:18.791'
+      end: '00:01:18.791'
+      u: You are born [your maiden name is] what? Zomack?
+    - who: Charlotte Schultze
+      start: '00:01:20.672'
+      end: '00:01:20.672'
+      u: Zomack, yes.
+    - who: David Boder
+      start: '00:01:21.423'
+      end: '00:01:21.423'
+      u: And who...What was the occupation of your parents?
+    - who: Charlotte Schultze
+      start: '00:01:24.469'
+      end: '00:01:24.469'
+      u: Well, my father was the director of a factory [hence his title].
+    - who: David Boder
+      start: '00:01:26.286'
+      end: '00:01:26.286'
+      u: Yes. A bit nearer [to the microphone].
+    - who: Charlotte Schultze
+      start: '00:01:27.279'
+      end: '00:01:27.279'
+      u: Yes.
+    - who: David Boder
+      start: '00:01:27.871'
+      end: '00:01:27.871'
+      u: And...now tell me please, where were you...where were you when the war started?
+    - who: Charlotte Schultze
+      start: '00:01:37.610'
+      end: '00:01:37.610'
+      u: When the war started we were in Dresden. And we could not go back [to the
+        United States], because my son of [my] first marriage was a German, and was
+        not permitted any more to leave the country.
+    - who: David Boder
+      start: '00:01:48.000'
+      end: '00:01:48.000'
+      u: Aha.
+    - who: Charlotte Schultze
+      start: '00:01:48.381'
+      end: '00:01:48.381'
+      u: Because he was able to work.
+    - who: David Boder
+      start: '00:01:49.985'
+      end: '00:01:49.985'
+      u: Now, would they not have let you go across alone? Permitted you to go?
+    - who: Charlotte Schultze
+      start: '00:01:53.663'
+      end: '00:01:53.663'
+      u: I would have been permitted to go across, but I did not want to leave my
+        son alone. No?
+    - who: David Boder
+      start: '00:01:57.412'
+      end: '00:01:57.412'
+      u: You did not want to leave your son alone. And did your husband agree to it?
+    - who: Charlotte Schultze
+      start: '00:02:02.001'
+      end: '00:02:02.001'
+      u: Oh, yes. I am not [word not clear; she apparently weeps].
+    - who: David Boder
+      start: '00:02:05.537'
+      end: '00:02:05.537'
+      u: Now then, tell me please, how long...I understand that you have lived already
+        once in America?
+    - who: Charlotte Schultze
+      start: '00:02:13.292'
+      end: '00:02:13.292'
+      u: Yes.
+    - who: David Boder
+      start: '00:02:13.861'
+      end: '00:02:13.861'
+      u: So when did you return to Germany?
+    - who: Charlotte Schultze
+      start: '00:02:16.158'
+      end: '00:02:16.158'
+      u: In 1934, because my mother had died, and my father was nostalgic for us,
+        and we then expected our little boy, and [chuckle]...
+    - who: David Boder
+      start: '00:02:26.606'
+      end: '00:02:26.606'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:02:26.967'
+      end: '00:02:26.967'
+      u: ". . . the grandparents wanted to live to see him [chuckle], no?"
+    - who: David Boder
+      start: '00:02:30.028'
+      end: '00:02:30.028'
+      u: Yes. And so you returned with your husband?
+    - who: Charlotte Schultze
+      start: '00:02:33.072'
+      end: '00:02:33.072'
+      u: Yes.
+    - who: David Boder
+      start: '00:02:33.895'
+      end: '00:02:33.895'
+      u: Where did your Herr Doctor Schultze study?
+    - who: Charlotte Schultze
+      start: '00:02:36.654'
+      end: '00:02:36.654'
+      u: In Leipzig...doctor.
+    - who: David Boder
+      start: '00:02:38.040'
+      end: '00:02:38.040'
+      u: He has studied medicine in Leipzig?
+    - who: Charlotte Schultze
+      start: '00:02:40.124'
+      end: '00:02:40.124'
+      u: Yes, yes.
+    - who: David Boder
+      start: '00:02:40.929'
+      end: '00:02:40.929'
+      u: Yes. Now, so you all returned.
+    - who: Charlotte Schultze
+      start: '00:02:45.359'
+      end: '00:02:45.359'
+      u: We all returned, yes.
+    - who: David Boder
+      start: '00:02:46.644'
+      end: '00:02:46.644'
+      u: Did you leave anything behind in America?
+    - who: Charlotte Schultze
+      start: '00:02:49.457'
+      end: '00:02:49.457'
+      u: Well, we had [chuckle]...
+    - who: David Boder
+      start: '00:02:52.270'
+      end: '00:02:52.270'
+      u: Did you have any property?
+    - who: Charlotte Schultze
+      start: '00:02:53.725'
+      end: '00:02:53.725'
+      u: Yes, we left property behind.
+    - who: David Boder
+      start: '00:02:55.241'
+      end: '00:02:55.241'
+      u: Where did you leave it? In Milwaukee?
+    - who: Charlotte Schultze
+      start: '00:02:57.521'
+      end: '00:02:57.521'
+      u: Yes, in New York.
+    - who: David Boder
+      start: '00:02:58.575'
+      end: '00:02:58.575'
+      u: What?
+    - who: Charlotte Schultze
+      start: '00:02:58.722'
+      end: '00:02:58.722'
+      u: My husband had a life insurance there.
+    - who: David Boder
+      start: '00:03:02.050'
+      end: '00:03:02.050'
+      u: Aha. Was he able to keep up this life insurance all this time?
+    - who: Charlotte Schultze
+      start: '00:03:05.964'
+      end: '00:03:05.964'
+      u: No. That went on...on through loans. It...
+    - who: David Boder
+      start: '00:03:10.335'
+      end: '00:03:10.335'
+      u: Oh, it was possible through a loan on the insurance...
+    - who: Charlotte Schultze
+      start: '00:03:13.947'
+      end: '00:03:13.947'
+      u: To maintain it further in force.
+    - who: David Boder
+      start: '00:03:14.427'
+      end: '00:03:14.427'
+      u: ". . . to continue paying for it."
+    - who: Charlotte Schultze
+      start: '00:03:14.805'
+      end: '00:03:14.805'
+      u: Maintain it in force.
+    - who: David Boder
+      start: '00:03:16.854'
+      end: '00:03:16.854'
+      u: Yes. And you came here. And did your husband resume again the practice of
+        medicine?
+    - who: Charlotte Schultze
+      start: '00:03:22.456'
+      end: '00:03:22.456'
+      u: First he attended courses, true? That is what we had really come for.
+    - who: David Boder
+      start: '00:03:27.863'
+      end: '00:03:27.863'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:03:28.544'
+      end: '00:03:28.544'
+      u: But then we were detained here by the illness of his father...
+    - who: David Boder
+      start: '00:03:31.605'
+      end: '00:03:31.605'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:03:32.210'
+      end: '00:03:32.210'
+      u: ". . . who had to go through an eye...a difficult eye operation, and due
+        to that we at first could not return."
+    - who: David Boder
+      start: '00:03:40.833'
+      end: '00:03:40.833'
+      u: What is the doctor's speciality? Did he have any?
+    - who: Charlotte Schultze
+      start: '00:03:44.290'
+      end: '00:03:44.290'
+      u: No. He practiced...
+    - who: David Boder
+      start: '00:03:44.893'
+      end: '00:03:44.893'
+      u: General...general practice.
+    - who: Charlotte Schultze
+      start: '00:03:45.866'
+      end: '00:03:45.866'
+      u: In general, a practicing physician.
+    - who: David Boder
+      start: '00:03:47.889'
+      end: '00:03:47.889'
+      u: Now would you please tell me what happened when...when the war started?
+    - who: Charlotte Schultze
+      start: '00:03:55.546'
+      end: '00:03:55.546'
+      u: Yes. We remained here then, and...
+    - who: David Boder
+      start: '00:03:57.750'
+      end: '00:03:57.750'
+      u: You lived in Dresden?
+    - who: Charlotte Schultze
+      start: '00:03:58.647'
+      end: '00:03:58.647'
+      u: We lived in Dresden. My husband practiced, and...
+    - who: David Boder
+      start: '00:04:03.660'
+      end: '00:04:03.660'
+      u: You told me before that something happened with your boy, with your older
+        boy? Will you please tell me about it.
+    - who: Charlotte Schultze
+      start: '00:04:10.266'
+      end: '00:04:10.266'
+      u: Yes. My son was then the only one at school who did not belong to the Hitler
+        Youth, and since my husband treated many Jewish patients, so he [the son]
+        had a friend who was a Jew, and due to that we had a lot of trouble. And at
+        the end of the first year of war he attempted to cross the Swiss border with
+        his friend in order to open the road for us [to make it possible for us] to
+        return to America, because he knew that he was...
+    - who: David Boder
+      start: '00:04:41.038'
+      end: '00:04:41.038'
+      u: The obstacle.
+    - who: Charlotte Schultze
+      start: '00:04:41.536'
+      end: '00:04:41.536'
+      u: ". . . the obstacle. No?"
+    - who: David Boder
+      start: '00:04:43.265'
+      end: '00:04:43.265'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:04:43.916'
+      end: '00:04:43.916'
+      u: But he was arrested at the Swiss border. He was thrown in jail for three
+        months. Then I fetched them both in Bregenz.
+    - who: David Boder
+      start: '00:04:54.247'
+      end: '00:04:54.247'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:04:55.273'
+      end: '00:04:55.273'
+      u: And from then on we were more or less under the surveillance of the Gestapo.
+    - who: David Boder
+      start: '00:04:59.324'
+      end: '00:04:59.324'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:05:00.379'
+      end: '00:05:00.379'
+      u: Then the boy went into the labor service. There he made a second attempt
+        to leave the lager, but was again returned. Then he was drafted in 1941.
+    - who: David Boder
+      start: '00:05:13.436'
+      end: '00:05:13.436'
+      u: As a soldier?
+    - who: Charlotte Schultze
+      start: '00:05:14.087'
+      end: '00:05:14.087'
+      u: So. And he was so unhappy there. He believed [felt] he could not serve such
+        a cause.
+    - who: David Boder
+      start: '00:05:25.516'
+      end: '00:05:25.516'
+      u: So.
+    - who: Charlotte Schultze
+      start: '00:05:26.456'
+      end: '00:05:26.456'
+      u: At any rate, in 1941, he again left his platoon, attempted to cross the Italian
+        border, because an American clergyman who was there, the minister of the church
+        with whom he was very friendly, of whom he knew that he was serving in the
+        church of the embassy, a certain clergyman by the name [name not clear] Wolf...
+    - who: David Boder
+      start: '00:05:46.011'
+      end: '00:05:46.011'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:05:46.969'
+      end: '00:05:46.969'
+      u: ". . . from Elmira."
+    - who: David Boder
+      start: '00:05:48.454'
+      end: '00:05:48.454'
+      u: He was an American clergyman?
+    - who: Charlotte Schultze
+      start: '00:05:49.997'
+      end: '00:05:49.997'
+      u: An American clergyman?
+    - who: David Boder
+      start: '00:05:51.117'
+      end: '00:05:51.117'
+      u: From Elmira, New Jersey.
+    - who: Charlotte Schultze
+      start: '00:05:52.254'
+      end: '00:05:52.254'
+      u: Yes, with whom he was very, very friendly.
+    - who: David Boder
+      start: '00:05:55.772'
+      end: '00:05:55.772'
+      u: Yes. [Recollecting] Elmira, New York.
+    - who: Charlotte Schultze
+      start: '00:05:57.066'
+      end: '00:05:57.066'
+      u: Yes.
+    - who: David Boder
+      start: '00:05:57.350'
+      end: '00:05:57.350'
+      u: Nu, yes. And?
+    - who: Charlotte Schultze
+      start: '00:05:58.505'
+      end: '00:05:58.505'
+      u: And...now we assume that that was the reason that he went across the Italian
+        border.
+    - who: David Boder
+      start: '00:06:03.543'
+      end: '00:06:03.543'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:06:04.454'
+      end: '00:06:04.454'
+      u: Now from there on we don't know anything more. At any rate the Gestapo brought
+        us his things, and asserted that he had shot himself.
+    - who: David Boder
+      start: '00:06:14.420'
+      end: '00:06:14.420'
+      u: Oh. The Gestapo brought you his things.
+    - who: Charlotte Schultze
+      start: '00:06:16.336'
+      end: '00:06:16.336'
+      u: Yes. But I still don't know until this day...
+    - who: David Boder
+      start: '00:06:19.406'
+      end: '00:06:19.406'
+      u: Did he not leave a letter?
+    - who: Charlotte Schultze
+      start: '00:06:21.113'
+      end: '00:06:21.113'
+      u: Nothing. [Pause.]
+    - who: David Boder
+      start: '00:06:23.556'
+      end: '00:06:23.556'
+      u: Tell me, why did the Gestapo bother altogether to bring his things?
+    - who: Charlotte Schultze
+      start: '00:06:27.149'
+      end: '00:06:27.149'
+      u: Hm. That we don't know. At any rate, only after three weeks, after we had
+        made inquiries [word not clear], only after more than three weeks, we got
+        the first word just that he was dead, and that he was buried on Italian soil.
+    - who: David Boder
+      start: '00:06:44.266'
+      end: '00:06:44.266'
+      u: Oh, on Italian soil.
+    - who: Charlotte Schultze
+      start: '00:06:45.294'
+      end: '00:06:45.294'
+      u: Yes. Possibly...
+    - who: David Boder
+      start: '00:06:45.891'
+      end: '00:06:45.891'
+      u: Well, yes. At that time the Italians were already the allies of the Germans.
+        True? It was Mussolini's Italy.
+    - who: Charlotte Schultze
+      start: '00:06:53.397'
+      end: '00:06:53.397'
+      u: Yes.
+    - who: David Boder
+      start: '00:06:55.997'
+      end: '00:06:55.997'
+      u: Aha. Now tell me, you then...And your younger boy, how old was he?
+    - who: Charlotte Schultze
+      start: '00:07:02.150'
+      end: '00:07:02.150'
+      u: The boy is now eleven years old.
+    - who: David Boder
+      start: '00:07:04.019'
+      end: '00:07:04.019'
+      u: Eleven years. This one was never in America?
+    - who: Charlotte Schultze
+      start: '00:07:05.800'
+      end: '00:07:05.800'
+      u: No. We arrived here in October, and he was born in December.
+    - who: David Boder
+      start: '00:07:11.147'
+      end: '00:07:11.147'
+      u: He was born in December.
+    - who: Charlotte Schultze
+      start: '00:07:12.441'
+      end: '00:07:12.441'
+      u: Hm.
+    - who: David Boder
+      start: '00:07:13.143'
+      end: '00:07:13.143'
+      u: And what was the doctor doing here all the time?
+    - who: Charlotte Schultze
+      start: '00:07:16.022'
+      end: '00:07:16.022'
+      u: He practiced in Dresden.
+    - who: David Boder
+      start: '00:07:17.699'
+      end: '00:07:17.699'
+      u: He practiced in Dresden as a physician.
+    - who: Charlotte Schultze
+      start: '00:07:19.092'
+      end: '00:07:19.092'
+      u: Practiced.
+    - who: David Boder
+      start: '00:07:20.085'
+      end: '00:07:20.085'
+      u: Could they not draft him?
+    - who: Charlotte Schultze
+      start: '00:07:22.145'
+      end: '00:07:22.145'
+      u: No. He maintained all the time his American citizenship. For that reason
+        he did not get anything [any patients] assigned from the 'sickness insurance',
+        and...
+    - who: David Boder
+      start: '00:07:29.773'
+      end: '00:07:29.773'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:07:30.380'
+      end: '00:07:30.380'
+      u: Yes.
+    - who: David Boder
+      start: '00:07:31.759'
+      end: '00:07:31.759'
+      u: He was born an American?
+    - who: Charlotte Schultze
+      start: '00:07:33.784'
+      end: '00:07:33.784'
+      u: He was born there. Yes.
+    - who: David Boder
+      start: '00:07:34.956'
+      end: '00:07:34.956'
+      u: Yes. A German, he would not have been permitted...Tell me, if a German would
+        have become an American citizen, the Germans would not have recognized it?
+    - who: Charlotte Schultze
+      start: '00:07:45.671'
+      end: '00:07:45.671'
+      u: Yes. But he was naturalized [where?]. Although he was born there...
+    - who: David Boder
+      start: '00:07:48.579'
+      end: '00:07:48.579'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:07:48.705'
+      end: '00:07:48.705'
+      u: ". . . he had returned as a child."
+    - who: David Boder
+      start: '00:07:50.589'
+      end: '00:07:50.589'
+      u: Yes?
+    - who: Charlotte Schultze
+      start: '00:07:50.888'
+      end: '00:07:50.888'
+      u: And then he became naturalized. [She is apparently confused.]
+    - who: David Boder
+      start: '00:07:53.634'
+      end: '00:07:53.634'
+      u: Again?
+    - who: Charlotte Schultze
+      start: '00:07:54.565'
+      end: '00:07:54.565'
+      u: Yes.
+    - who: David Boder
+      start: '00:07:55.065'
+      end: '00:07:55.065'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:07:55.427'
+      end: '00:07:55.427'
+      u: Because due to that he had lost his citizenship.
+    - who: David Boder
+      start: '00:07:57.932'
+      end: '00:07:57.932'
+      u: Because he had returned as a child?
+    - who: Charlotte Schultze
+      start: '00:08:00.949'
+      end: '00:08:00.949'
+      u: Please? [Pardon?]
+    - who: David Boder
+      start: '00:08:01.466'
+      end: '00:08:01.466'
+      u: Because he was returned as a child?
+    - who: Charlotte Schultze
+      start: '00:08:03.161'
+      end: '00:08:03.161'
+      u: Yes. Because...
+    - who: David Boder
+      start: '00:08:03.666'
+      end: '00:08:03.666'
+      u: He was brought back by his parents?
+    - who: Charlotte Schultze
+      start: '00:08:05.373'
+      end: '00:08:05.373'
+      u: Yes, yes.
+    - who: David Boder
+      start: '00:08:06.120'
+      end: '00:08:06.120'
+      u: Aha. So. Now tell me, you say you lived in Dresden.
+    - who: Charlotte Schultze
+      start: '00:08:11.211'
+      end: '00:08:11.211'
+      u: Yes.
+    - who: David Boder
+      start: '00:08:11.625'
+      end: '00:08:11.625'
+      u: How were things going on in Dresden? I heard so much from people who were
+        in lagers. I have heard so little from people who were free.
+    - who: Charlotte Schultze
+      start: '00:08:24.388'
+      end: '00:08:24.388'
+      u: We had nothing. [Pause.]
+    - who: David Boder
+      start: '00:08:26.514'
+      end: '00:08:26.514'
+      u: How was life there?
+    - who: Charlotte Schultze
+      start: '00:08:30.829'
+      end: '00:08:30.829'
+      u: Well, for us personally, we just were not permitted to leave the city.
+    - who: David Boder
+      start: '00:08:34.570'
+      end: '00:08:34.570'
+      u: Why?
+    - who: Charlotte Schultze
+      start: '00:08:35.346'
+      end: '00:08:35.346'
+      u: On account of our citizenship.
+    - who: David Boder
+      start: '00:08:36.834'
+      end: '00:08:36.834'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:08:37.374'
+      end: '00:08:37.374'
+      u: True? Well, otherwise we were all under strict surveilance. [Chuckle.] Nobody
+        could say what he wanted.
+    - who: David Boder
+      start: '00:08:45.068'
+      end: '00:08:45.068'
+      u: So, yes. Did you keep your radio?
+    - who: Charlotte Schultze
+      start: '00:08:47.758'
+      end: '00:08:47.758'
+      u: Yes, we were permitted to keep the radio.
+    - who: David Boder
+      start: '00:08:49.522'
+      end: '00:08:49.522'
+      u: You could keep it.
+    - who: Charlotte Schultze
+      start: '00:08:49.958'
+      end: '00:08:49.958'
+      u: We were just not permitted to listen to foreign transmitters. That means
+        I used to do it, but I had a head-set. [Chuckle.]
+    - who: David Boder
+      start: '00:08:55.997'
+      end: '00:08:55.997'
+      u: Oh, you had ear...[phones].
+    - who: Charlotte Schultze
+      start: '00:08:58.588'
+      end: '00:08:58.588'
+      u: A head-set.
+    - who: David Boder
+      start: '00:08:59.507'
+      end: '00:08:59.507'
+      u: A head-set. And so you could more or less...Did you believe what the foreign
+        transmitter...
+    - who: Charlotte Schultze
+      start: '00:09:05.253'
+      end: '00:09:05.253'
+      u: I could listen to it every evening, and for that reason we were oriented
+        about everything.
+    - who: David Boder
+      start: '00:09:08.896'
+      end: '00:09:08.896'
+      u: Aha.
+    - who: Charlotte Schultze
+      start: '00:09:10.160'
+      end: '00:09:10.160'
+      u: And since my husband had very many Jewish patients we were also oriented
+        about everything that was going on. He had a patient who came from Buchenwald,
+        whose skull [scalp?] was completely battered up and so on. A certain doctor.
+        A certain Doctor Magen...
+    - who: David Boder
+      start: '00:09:27.717'
+      end: '00:09:27.717'
+      u: Oh, a doctor who was in Buchenwald?
+    - who: Charlotte Schultze
+      start: '00:09:29.286'
+      end: '00:09:29.286'
+      u: Yes.
+    - who: David Boder
+      start: '00:09:29.804'
+      end: '00:09:29.804'
+      u: How come they let him out?
+    - who: Charlotte Schultze
+      start: '00:09:32.154'
+      end: '00:09:32.154'
+      u: Well, they locked him up for a short time, since he was the father of the
+        boy with whom my son at times...
+    - who: David Boder
+      start: '00:09:37.555'
+      end: '00:09:37.555'
+      u: Has gone away.
+    - who: Charlotte Schultze
+      start: '00:09:38.021'
+      end: '00:09:38.021'
+      u: ". . . had crossed the border."
+    - who: David Boder
+      start: '00:09:39.785'
+      end: '00:09:39.785'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:09:40.807'
+      end: '00:09:40.807'
+      u: This Herr Doctor Magen was then sent to Buchenwald, and then they set him
+        free again. And a year later he was arrested again, and he was so unhappy
+        [in such despair] that he took his own life in his cell. He tore his underwear
+        and hanged himself.
+    - who: David Boder
+      start: '00:09:59.729'
+      end: '00:09:59.729'
+      u: That was that Doctor Magen.
+    - who: Charlotte Schultze
+      start: '00:10:00.907'
+      end: '00:10:00.907'
+      u: Yes.
+    - who: David Boder
+      start: '00:10:01.774'
+      end: '00:10:01.774'
+      u: And what happened to his son?
+    - who: Charlotte Schultze
+      start: '00:10:03.929'
+      end: '00:10:03.929'
+      u: And his son, too, attempted to reach again the Swiss border, but was caught
+        and was put...
+    - who: David Boder
+      start: '00:10:13.084'
+      end: '00:10:13.084'
+      u: Did you...Yes.
+    - who: Charlotte Schultze
+      start: '00:10:14.124'
+      end: '00:10:14.124'
+      u: ". . . into a concentration camp, and in a few weeks they sent to the mother
+        and the daughter, who had still survived, the underwear with a notice that
+        he had died."
+    - who: David Boder
+      start: '00:10:25.208'
+      end: '00:10:25.208'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:10:26.358'
+      end: '00:10:26.358'
+      u: And then the mother and daughter were taken to a barracks, and later on to
+        Poland. Since then we never heard anything from both of them.
+    - who: David Boder
+      start: '00:10:35.880'
+      end: '00:10:35.880'
+      u: And the husband? He took his life...
+    - who: Charlotte Schultze
+      start: '00:10:37.592'
+      end: '00:10:37.592'
+      u: He took his life.
+    - who: David Boder
+      start: '00:10:38.971'
+      end: '00:10:38.971'
+      u: Where?
+    - who: Charlotte Schultze
+      start: '00:10:40.114'
+      end: '00:10:40.114'
+      u: In jail [?], still in prison, because he learned that he would be taken again
+        to the concentration...concentration camp. No?
+    - who: David Boder
+      start: '00:10:46.360'
+      end: '00:10:46.360'
+      u: Aha.
+    - who: Charlotte Schultze
+      start: '00:10:46.946'
+      end: '00:10:46.946'
+      u: The man was in such despair that he...[pause]
+    - who: David Boder
+      start: '00:10:49.955'
+      end: '00:10:49.955'
+      u: Tell me please, how was it in general with sui-...suicide? Were there many?
+    - who: Charlotte Schultze
+      start: '00:10:57.197'
+      end: '00:10:57.197'
+      u: "[With deliberation] Well, about that I could not tell much. Among the Jewish
+        people naturally very many, because my husband was often called to patients,
+        and among them to a Frau Pick..."
+    - who: David Boder
+      start: '00:11:09.081'
+      end: '00:11:09.081'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:11:09.252'
+      end: '00:11:09.252'
+      u: ". . . who lived not far from us, an old, very fine lady of 70 years. Mostly
+        they took their lived with veronal."
+    - who: David Boder
+      start: '00:11:18.449'
+      end: '00:11:18.449'
+      u: With veronal, the sleep [remedy]...
+    - who: Charlotte Schultze
+      start: '00:11:19.598'
+      end: '00:11:19.598'
+      u: Yes, yes. My husband was also called to a Mr. Fisch at the time when there
+        was a transport to Poland.
+    - who: David Boder
+      start: '00:11:28.440'
+      end: '00:11:28.440'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:11:29.099'
+      end: '00:11:29.099'
+      u: And the man was gravely ill and was supposed to be sent away that night to
+        Poland. And so my husband personally called [telephoned] the Gestapo and...and...
+    - who: David Boder
+      start: '00:11:40.307'
+      end: '00:11:40.307'
+      u: Told [them].
+    - who: Charlotte Schultze
+      start: '00:11:40.684'
+      end: '00:11:40.684'
+      u: ". . . reported that it was impossible that this man..."
+    - who: David Boder
+      start: '00:11:43.764'
+      end: '00:11:43.764'
+      u: Be taken.
+    - who: Charlotte Schultze
+      start: '00:11:44.204'
+      end: '00:11:44.204'
+      u: ". . . be taken. No? So then only the sons were transported [sent away],
+        because they were Poles, that is they were never in Poland."
+    - who: David Boder
+      start: '00:11:51.762'
+      end: '00:11:51.762'
+      u: Yes. [Just] Polish citizens...
+    - who: Charlotte Schultze
+      start: '00:11:52.291'
+      end: '00:11:52.291'
+      u: They were born in Germany, no? The people were then disembarked there at
+        the border, and...[See Matzner, Chapter 10.]
+    - who: David Boder
+      start: '00:11:58.227'
+      end: '00:11:58.227'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:11:58.592'
+      end: '00:11:58.592'
+      u: ". . . and nobody cared about them."
+    - who: David Boder
+      start: '00:12:02.049'
+      end: '00:12:02.049'
+      u: Now tell me. You also associated [were friends] with Germans, true?
+    - who: Charlotte Schultze
+      start: '00:12:06.509'
+      end: '00:12:06.509'
+      u: Yes.
+    - who: David Boder
+      start: '00:12:08.167'
+      end: '00:12:08.167'
+      u: And what was the German attitude toward the whole Hitler affair.
+    - who: Charlotte Schultze
+      start: '00:12:12.977'
+      end: '00:12:12.977'
+      u: Yes. We had, of course, the feeling that very, very few were for Hitler.
+    - who: David Boder
+      start: '00:12:17.620'
+      end: '00:12:17.620'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:12:18.324'
+      end: '00:12:18.324'
+      u: Because I knew that, from the practice of my husband, hardly one per cent
+        were Nazis.
+    - who: David Boder
+      start: '00:12:25.719'
+      end: '00:12:25.719'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:12:26.373'
+      end: '00:12:26.373'
+      u: It is, of course, possible that these [chuckle] did not come to us.
+    - who: David Boder
+      start: '00:12:29.705'
+      end: '00:12:29.705'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:12:30.040'
+      end: '00:12:30.040'
+      u: No? [Chuckle.] Because they knew first of all that my husband was an American,
+        and secondly they knew our [political] orientation.
+    - who: David Boder
+      start: '00:12:37.388'
+      end: '00:12:37.388'
+      u: Hm. Now tell me, was it known what was going on in the concentration camps?
+    - who: Charlotte Schultze
+      start: '00:12:44.342'
+      end: '00:12:44.342'
+      u: Oh well. I think [to] the majority of people—no.
+    - who: David Boder
+      start: '00:12:47.753'
+      end: '00:12:47.753'
+      u: Hm. You believe the majority...
+    - who: Charlotte Schultze
+      start: '00:12:48.320'
+      end: '00:12:48.320'
+      u: No, no, they did not know.
+    - who: David Boder
+      start: '00:12:50.541'
+      end: '00:12:50.541'
+      u: Now...
+    - who: Charlotte Schultze
+      start: '00:12:50.698'
+      end: '00:12:50.698'
+      u: If we...
+    - who: David Boder
+      start: '00:12:51.280'
+      end: '00:12:51.280'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:12:51.524'
+      end: '00:12:51.524'
+      u: If we had not heard a great deal by accident from our patients, we, too,
+        would not have know it.
+    - who: David Boder
+      start: '00:12:58.448'
+      end: '00:12:58.448'
+      u: Didn't some Gestapo people come home and tell about it to their relatives?
+    - who: Charlotte Schultze
+      start: '00:13:06.391'
+      end: '00:13:06.391'
+      u: Yes. Well...
+    - who: David Boder
+      start: '00:13:06.776'
+      end: '00:13:06.776'
+      u: It is not possible to have covered it up so completely.
+    - who: Charlotte Schultze
+      start: '00:13:08.888'
+      end: '00:13:08.888'
+      u: That I don't know. At any rate, everyone was threatened with punishment by
+        death.
+    - who: David Boder
+      start: '00:13:14.308'
+      end: '00:13:14.308'
+      u: Every Gestapo man?
+    - who: Charlotte Schultze
+      start: '00:13:15.863'
+      end: '00:13:15.863'
+      u: "[Words not clear.] Nobody could speak [openly]. One had to be so cautious.
+        I, too, was often afraid when my husband would return late from his calls
+        [chuckle]. That something might have happened to him [chuckle]."
+    - who: David Boder
+      start: '00:13:27.220'
+      end: '00:13:27.220'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:13:28.630'
+      end: '00:13:28.630'
+      u: Because often he spoke too frankly.
+    - who: David Boder
+      start: '00:13:32.022'
+      end: '00:13:32.022'
+      u: Aha.
+    - who: Charlotte Schultze
+      start: '00:13:32.463'
+      end: '00:13:32.463'
+      u: It was...it was...everything was so frightfully dangerous. There across in
+        America no one can from for himself any idea about it, how [heavily] we stood
+        under control, and how the whole population lived.
+    - who: David Boder
+      start: '00:13:45.908'
+      end: '00:13:45.908'
+      u: Well. [Pause.] Tell me, did you retain your maids during the war?
+    - who: Charlotte Schultze
+      start: '00:13:53.485'
+      end: '00:13:53.485'
+      u: Yes, yes.
+    - who: David Boder
+      start: '00:13:54.705'
+      end: '00:13:54.705'
+      u: And what kind of a person was she? What, for example, did you learn from
+        her? What kind of ideas did she express?
+    - who: Charlotte Schultze
+      start: '00:14:02.312'
+      end: '00:14:02.312'
+      u: Oh, I had a very nice girl from Finster...from the proximity of Finsterwalde,
+        from a little village. The parents had a farm, and they were completely oriented
+        against Hitler. So that in this manner we did not have to gag our lips.
+    - who: David Boder
+      start: '00:14:20.148'
+      end: '00:14:20.148'
+      u: It was not dangerous [?]?
+    - who: Charlotte Schultze
+      start: '00:14:21.800'
+      end: '00:14:21.800'
+      u: No. We could speak very frankly, because her parents were oriented in the
+        same manner as she. From this angle we were not in danger. I also had a cleaning
+        woman who took care of the laundry and such things. Her husband was entirely
+        against Hitler, as well as she. In this manner, of all our neighbors, all
+        of our acquaintances, nobody was in favor of the system.
+    - who: David Boder
+      start: '00:14:47.386'
+      end: '00:14:47.386'
+      u: Now tell me, who then was for the system that it took on such [abrupt end
+        of Spool 136B]...
+    - who: Herman Barnett
+      start: '00:14:53.528'
+      end: '00:14:53.528'
+      u: "[In English] Spool 137 recording starts in about one minute. Spool 137 recording
+        starts in about one minute. This is Herman Barnett."
+    - who: David Boder
+      start: '00:15:09.575'
+      end: '00:15:09.575'
+      u: Spool 9-137A. The conclusion of interview with Miss Charlotte Schultze. Spool
+        9-137B will contain the interview with Jürgen Bassfreund—a part of it.
+    - who: David Boder
+      start: '00:15:43.720'
+      end: '00:15:43.720'
+      u: Munich, September the 20th, 1946 in a transient camp maintained by the UNRRA.
+        The interviewee is Miss...Charlotte, Mrs. Charlotte Schultze, the wife pf
+        a physician already in the United States and we have yet a short conclusion.
+    - who: David Boder
+      start: '00:16:08.544'
+      end: '00:16:08.544'
+      u: "[In German] Now tell me, we were discussing again the Germans, let us say,
+        what they knew about Hitler, the concentration camps, and the war. Now what
+        did they think about the war?"
+    - who: Charlotte Schultze
+      start: '00:16:24.999'
+      end: '00:16:24.999'
+      u: Now that is hard to tell. Everybody hoped that the war would be over soon...will
+        come to an end, and everybody hoped near and far that the events that may
+        come to be in case of Nazi victory, will fail to happen [the wire for the
+        last sentence is not clear].
+    - who: David Boder
+      start: '00:16:40.964'
+      end: '00:16:40.964'
+      u: Hmm.
+    - who: Charlotte Schultze
+      start: '00:16:41.853'
+      end: '00:16:41.853'
+      u: As sad as it may sound I was really in most cases...
+    - who: David Boder
+      start: '00:16:48.068'
+      end: '00:16:48.068'
+      u: Did they not feel that Germany was attacked and must now defend itself?
+    - who: Charlotte Schultze
+      start: '00:16:54.417'
+      end: '00:16:54.417'
+      u: No. About that it was clear to everybody that Hitler was the one who attacked.
+    - who: David Boder
+      start: '00:17:02.658'
+      end: '00:17:02.658'
+      u: Nu. Tell me, if the mood was such, how can one explain the strength, the
+        large number of SS [presumably volunteers], the large number of SA [volunteer
+        Storm Troupers], the constant large rallies when Hitler was speaking, and
+        so on?
+    - who: Charlotte Schultze
+      start: '00:17:22.596'
+      end: '00:17:22.596'
+      u: Well, the people were simply ordered to it [compelled to act that way].
+    - who: David Boder
+      start: '00:17:25.135'
+      end: '00:17:25.135'
+      u: For example, who?
+    - who: Charlotte Schultze
+      start: '00:17:26.021'
+      end: '00:17:26.021'
+      u: Well, all the schools had to come and had to yell. The Hitler Youth was ordered
+        out, all the industries had to march as closed units, and had to yell heil
+        Hitler. Nobody had, any more, his own will, except for some of the free [independent]
+        professions.
+    - who: David Boder
+      start: '00:17:48.250'
+      end: '00:17:48.250'
+      u: And what free professions were those?
+    - who: Charlotte Schultze
+      start: '00:17:50.864'
+      end: '00:17:50.864'
+      u: Well, the lawyers and people who were not organized.
+    - who: David Boder
+      start: '00:17:58.622'
+      end: '00:17:58.622'
+      u: Now, what to you think...Now I want to ask you one more question. Is it,
+        in your way of thinking, is it true that the Germans at present are actually
+        not so badly off?
+    - who: Charlotte Schultze
+      start: '00:18:16.574'
+      end: '00:18:16.574'
+      u: Well, of course. In the American Zone we have...we can't complain, after
+        all.
+    - who: David Boder
+      start: '00:18:21.944'
+      end: '00:18:21.944'
+      u: You mean the German public in general?
+    - who: Charlotte Schultze
+      start: '00:18:24.604'
+      end: '00:18:24.604'
+      u: In general, because I think that the enemy is very decent towards us, in
+        complete contrast to that which we were [how we behaved] in other countries.
+    - who: David Boder
+      start: '00:18:32.885'
+      end: '00:18:32.885'
+      u: Now...
+    - who: Charlotte Schultze
+      start: '00:18:33.144'
+      end: '00:18:33.144'
+      u: Because we have heard about countries...
+    - who: David Boder
+      start: '00:18:35.013'
+      end: '00:18:35.013'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:18:35.419'
+      end: '00:18:35.419'
+      u: ". . . which nearly perished from starvation when our occupation was there,
+        because everything was removed from other countries, while in our case there
+        is still something left [last words not clear; chuckle]."
+    - who: David Boder
+      start: '00:18:48.297'
+      end: '00:18:48.297'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:18:48.740'
+      end: '00:18:48.740'
+      u: "[Chuckle.] So we have to be very thankful."
+    - who: David Boder
+      start: '00:18:52.124'
+      end: '00:18:52.124'
+      u: Now tell me, how do you explain it, that the main value [of exchange] here
+        consists of cigarettes? [Pause.] How does that come about?
+    - who: Charlotte Schultze
+      start: '00:19:01.604'
+      end: '00:19:01.604'
+      u: The...
+    - who: David Boder
+      start: '00:19:02.570'
+      end: '00:19:02.570'
+      u: Do people have really such a strong desire to smoke that they are willing
+        to give so much [in return] for cigarettes?
+    - who: Charlotte Schultze
+      start: '00:19:10.122'
+      end: '00:19:10.122'
+      u: Now about that I can hardly speak, because I myself do not smoke. And so
+        I...
+    - who: David Boder
+      start: '00:19:13.842'
+      end: '00:19:13.842'
+      u: Well, yes. But, for example, one pays off a porter with two cigarettes [the
+        porters at the railroad stations as well as the other services were all on
+        fixed salaries]. One gives the waitress a tip of two cigarettes. What do they
+        do with them?
+    - who: Charlotte Schultze
+      start: '00:19:23.813'
+      end: '00:19:23.813'
+      u: She apparently sells them on the black market.
+    - who: David Boder
+      start: '00:19:26.097'
+      end: '00:19:26.097'
+      u: Who buys them.
+    - who: Charlotte Schultze
+      start: '00:19:29.307'
+      end: '00:19:29.307'
+      u: "[Chuckle.] That I don't know. Not I. [Laughter.]"
+    - who: David Boder
+      start: '00:19:31.567'
+      end: '00:19:31.567'
+      u: Well. Now tell me what can one barter out for two cigarettes.
+    - who: Charlotte Schultze
+      start: '00:19:37.959'
+      end: '00:19:37.959'
+      u: That I can hardly inform you about, because I just don't [one almost feels
+        that she is afraid that the interview may have some official purpose.]
+    - who: David Boder
+      start: '00:19:41.522'
+      end: '00:19:41.522'
+      u: Well, but you also get here [officially in the UNRRA camps] paid in cigarettes,
+        and so on.
+    - who: Charlotte Schultze
+      start: '00:19:45.829'
+      end: '00:19:45.829'
+      u: Well, maybe they [words not clear].
+    - who: David Boder
+      start: '00:19:49.020'
+      end: '00:19:49.020'
+      u: Yes, but they themselves [the DPs and German traders] do not want [to accept]
+        any money. They can't get anything for the money].
+    - who: Charlotte Schultze
+      start: '00:19:55.605'
+      end: '00:19:55.605'
+      u: "[Whispers] Well, I don't know that either."
+    - who: David Boder
+      start: '00:19:58.199'
+      end: '00:19:58.199'
+      u: Now well. Do the peasants barter for cigarettes?
+    - who: Charlotte Schultze
+      start: '00:20:01.643'
+      end: '00:20:01.643'
+      u: Surely they, too, because they are heavy smokers.
+    - who: David Boder
+      start: '00:20:05.233'
+      end: '00:20:05.233'
+      u: And they give quite a bit for them?
+    - who: Charlotte Schultze
+      start: '00:20:07.787'
+      end: '00:20:07.787'
+      u: They give a lot for them. I heard that someone paid 90 marks for a package
+        of cigarettes [the official exchange, as far as I remember, was about 10 marks
+        to the dollar, or less].
+    - who: David Boder
+      start: '00:20:13.940'
+      end: '00:20:13.940'
+      u: 90 marks?
+    - who: Charlotte Schultze
+      start: '00:20:14.568'
+      end: '00:20:14.568'
+      u: 30 [?] marks.
+    - who: David Boder
+      start: '00:20:15.378'
+      end: '00:20:15.378'
+      u: Nu, yes. One pays in France about 150 to 175 franks [official exchange of
+        117 franks to the dollar].
+    - who: Charlotte Schultze
+      start: '00:20:21.304'
+      end: '00:20:21.304'
+      u: Hm. Well, that is something that most people would be unable to understand.
+    - who: David Boder
+      start: '00:20:25.491'
+      end: '00:20:25.491'
+      u: Hm. Now tell me something else. How do you explain that most of the Germans
+        are so well dressed?
+    - who: Charlotte Schultze
+      start: '00:20:35.611'
+      end: '00:20:35.611'
+      u: Hm. Many still had reserves, those who have preserved their homes, but most
+        of the people are really not so well dressed any more. Most of the people
+        were bombed out and had lost everything.
+    - who: David Boder
+      start: '00:20:50.306'
+      end: '00:20:50.306'
+      u: Now what has become of all the clothing which was taken from the Jews, let
+        us say in Theresienstadt, and was taken away everywhere before they were transported?
+        [See Mr. Schlaefrig, Chapter 26.]
+    - who: Charlotte Schultze
+      start: '00:20:59.722'
+      end: '00:20:59.722'
+      u: Well, you must consider that the warehouses [?] were bombed out, that all
+        the things went up in flames.
+    - who: David Boder
+      start: '00:21:08.142'
+      end: '00:21:08.142'
+      u: So that you think...
+    - who: Charlotte Schultze
+      start: '00:21:08.598'
+      end: '00:21:08.598'
+      u: So everything is gone. Take for instance, Dresden.
+    - who: David Boder
+      start: '00:21:11.935'
+      end: '00:21:11.935'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:21:12.085'
+      end: '00:21:12.085'
+      u: Dresden is completely destroyed, and with it all the clothing and everything.
+        We, for instance, got out of our home only with that which I had on my body.
+        Everything else was gone.
+    - who: David Boder
+      start: '00:21:23.240'
+      end: '00:21:23.240'
+      u: Oh, you were bombed out in Dresden?
+    - who: Charlotte Schultze
+      start: '00:21:24.824'
+      end: '00:21:24.824'
+      u: Completely bombed out.
+    - who: David Boder
+      start: '00:21:26.674'
+      end: '00:21:26.674'
+      u: When did that happen?
+    - who: Charlotte Schultze
+      start: '00:21:27.621'
+      end: '00:21:27.621'
+      u: On the 13th of February, '45.
+    - who: David Boder
+      start: '00:21:30.055'
+      end: '00:21:30.055'
+      u: What was there, an air attack? By whom?
+    - who: Charlotte Schultze
+      start: '00:21:33.999'
+      end: '00:21:33.999'
+      u: I don't know. It was at night.
+    - who: David Boder
+      start: '00:21:35.726'
+      end: '00:21:35.726'
+      u: At night?
+    - who: Charlotte Schultze
+      start: '00:21:36.261'
+      end: '00:21:36.261'
+      u: And whooo!
+    - who: David Boder
+      start: '00:21:38.439'
+      end: '00:21:38.439'
+      u: And there was a big bombardment.
+    - who: Charlotte Schultze
+      start: '00:21:40.940'
+      end: '00:21:40.940'
+      u: There was a big bombardment.
+    - who: David Boder
+      start: '00:21:41.289'
+      end: '00:21:41.289'
+      u: And where did you and your family go for safety?
+    - who: Charlotte Schultze
+      start: '00:21:45.436'
+      end: '00:21:45.436'
+      u: We were in a common shelter at the railroad station.
+    - who: David Boder
+      start: '00:21:48.624'
+      end: '00:21:48.624'
+      u: Ah.
+    - who: Charlotte Schultze
+      start: '00:21:48.987'
+      end: '00:21:48.987'
+      u: Dresden had not a single bunker. It was completely without protection.
+    - who: David Boder
+      start: '00:21:53.812'
+      end: '00:21:53.812'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:21:54.108'
+      end: '00:21:54.108'
+      u: Only the governer had a large bunker for his family.
+    - who: David Boder
+      start: '00:21:57.020'
+      end: '00:21:57.020'
+      u: How come that here they had not dug bunkers?
+    - who: Charlotte Schultze
+      start: '00:22:00.354'
+      end: '00:22:00.354'
+      u: Well, that depended on...on the Gauleiter [governor appointed by the central
+        government].
+    - who: David Boder
+      start: '00:22:04.887'
+      end: '00:22:04.887'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:22:05.365'
+      end: '00:22:05.365'
+      u: On him [?].
+    - who: David Boder
+      start: '00:22:05.823'
+      end: '00:22:05.823'
+      u: Now then. You went to the railroad station. But that was the most dangerous
+        place?
+    - who: Charlotte Schultze
+      start: '00:22:11.229'
+      end: '00:22:11.229'
+      u: Well, yes. We were first in our cellar, at the first attack.
+    - who: David Boder
+      start: '00:22:14.256'
+      end: '00:22:14.256'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:22:14.902'
+      end: '00:22:14.902'
+      u: But then our house was not damaged. There fell only incendiaries in the neighborhood.
+    - who: David Boder
+      start: '00:22:20.595'
+      end: '00:22:20.595'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:22:20.862'
+      end: '00:22:20.862'
+      u: Then we went to the suburb to see our old parents.
+    - who: David Boder
+      start: '00:22:24.762'
+      end: '00:22:24.762'
+      u: Your parents or those of your husband?
+    - who: Charlotte Schultze
+      start: '00:22:26.256'
+      end: '00:22:26.256'
+      u: My husband's parents. My father-in-law had died then at the age of 84 after
+        the attack.
+    - who: David Boder
+      start: '00:22:31.853'
+      end: '00:22:31.853'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:22:32.188'
+      end: '00:22:32.188'
+      u: My mother-in-law is still alive at the age of 78.
+    - who: David Boder
+      start: '00:22:35.371'
+      end: '00:22:35.371'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:22:36.175'
+      end: '00:22:36.175'
+      u: Also my father [is still alive]. And when we went to the station [?] to get
+        home there was a second alarm.
+    - who: David Boder
+      start: '00:22:44.600'
+      end: '00:22:44.600'
+      u: "[Words not clear.]"
+    - who: Charlotte Schultze
+      start: '00:22:45.521'
+      end: '00:22:45.521'
+      u: There was no more time [words not clear]. So we had to take refuge in the
+        railroad station, in the railroad station's shelter.
+    - who: David Boder
+      start: '00:22:51.788'
+      end: '00:22:51.788'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:22:52.772'
+      end: '00:22:52.772'
+      u: And...
+    - who: David Boder
+      start: '00:22:53.612'
+      end: '00:22:53.612'
+      u: Was the railroad station's shelter underground?
+    - who: Charlotte Schultze
+      start: '00:22:55.728'
+      end: '00:22:55.728'
+      u: Underground.
+    - who: David Boder
+      start: '00:22:56.532'
+      end: '00:22:56.532'
+      u: Those must have been the tunnels [for pedestrians] which are [located] underground.
+    - who: Charlotte Schultze
+      start: '00:22:58.648'
+      end: '00:22:58.648'
+      u: No, no. These were the shelters of the administration of the government bank.
+    - who: David Boder
+      start: '00:23:02.942'
+      end: '00:23:02.942'
+      u: Ja.
+    - who: Charlotte Schultze
+      start: '00:23:03.241'
+      end: '00:23:03.241'
+      u: In a large all-brick house.
+    - who: David Boder
+      start: '00:23:05.871'
+      end: '00:23:05.871'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:23:06.317'
+      end: '00:23:06.317'
+      u: Very large. There stood [word not clear]. To be sure, hundreds of people
+        have perished. And by a miracle we got out, that is my son, my little one,
+        and I. We climbed out after all clear [?] through a break [in the floor?]...
+    - who: David Boder
+      start: '00:23:21.625'
+      end: '00:23:21.625'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:23:21.951'
+      end: '00:23:21.951'
+      u: And...
+    - who: David Boder
+      start: '00:23:23.174'
+      end: '00:23:23.174'
+      u: Your husband?
+    - who: Charlotte Schultze
+      start: '00:23:23.541'
+      end: '00:23:23.541'
+      u: My husband returned only the next morning at eight.
+    - who: David Boder
+      start: '00:23:25.971'
+      end: '00:23:25.971'
+      u: Aha.
+    - who: Charlotte Schultze
+      start: '00:23:26.465'
+      end: '00:23:26.465'
+      u: So all day we thought my husband was dead, and he thought that we were dead.
+    - who: David Boder
+      start: '00:23:30.783'
+      end: '00:23:30.783'
+      u: You didn't...he did not know that you got out.
+    - who: Charlotte Schultze
+      start: '00:23:33.105'
+      end: '00:23:33.105'
+      u: No. We met only the next evening.
+    - who: David Boder
+      start: '00:23:36.010'
+      end: '00:23:36.010'
+      u: At home.
+    - who: Charlotte Schultze
+      start: '00:23:36.838'
+      end: '00:23:36.838'
+      u: No. In the meantime our house, too, was gone.
+    - who: David Boder
+      start: '00:23:39.169'
+      end: '00:23:39.169'
+      u: Oh, the house was gone.
+    - who: Charlotte Schultze
+      start: '00:23:40.212'
+      end: '00:23:40.212'
+      u: Completely demolished.
+    - who: David Boder
+      start: '00:23:41.973'
+      end: '00:23:41.973'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:23:42.419'
+      end: '00:23:42.419'
+      u: His office was completely demolished.
+    - who: David Boder
+      start: '00:23:44.705'
+      end: '00:23:44.705'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:23:45.291'
+      end: '00:23:45.291'
+      u: The house of my parents-in-law was gone.
+    - who: David Boder
+      start: '00:23:47.371'
+      end: '00:23:47.371'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:23:47.578'
+      end: '00:23:47.578'
+      u: And the house of my father. We were all completely bombed out.
+    - who: David Boder
+      start: '00:23:51.060'
+      end: '00:23:51.060'
+      u: So Dresden was really so [badly] hit?
+    - who: Charlotte Schultze
+      start: '00:23:52.868'
+      end: '00:23:52.868'
+      u: Yes. It is completely destroyed.
+    - who: David Boder
+      start: '00:23:55.716'
+      end: '00:23:55.716'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:23:56.015'
+      end: '00:23:56.015'
+      u: The whole [word not clear] city. My brother, too, is dead, and all my women
+        friends...
+    - who: David Boder
+      start: '00:24:00.202'
+      end: '00:24:00.202'
+      u: How come? Was your brother killed in the bombardment?
+    - who: Charlotte Schultze
+      start: '00:24:04.377'
+      end: '00:24:04.377'
+      u: He, too, passed on. He, too, perished.
+    - who: David Boder
+      start: '00:24:06.520'
+      end: '00:24:06.520'
+      u: And what happened to the [your] old people?
+    - who: Charlotte Schultze
+      start: '00:24:09.209'
+      end: '00:24:09.209'
+      u: My parents-in-law still extricated themselves from the rubble.
+    - who: David Boder
+      start: '00:24:15.894'
+      end: '00:24:15.894'
+      u: Oh, the house was bombarded and you got them out?
+    - who: Charlotte Schultze
+      start: '00:24:17.702'
+      end: '00:24:17.702'
+      u: Yes, completely.
+    - who: David Boder
+      start: '00:24:19.498'
+      end: '00:24:19.498'
+      u: And?
+    - who: Charlotte Schultze
+      start: '00:24:19.702'
+      end: '00:24:19.702'
+      u: And then they came as far as Cologne, to their home city.
+    - who: David Boder
+      start: '00:24:23.064'
+      end: '00:24:23.064'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:24:23.662'
+      end: '00:24:23.662'
+      u: And there my father-in-law found one night his doom due to a weak heart.
+        Strangely enough he left Thuringia as a young man of 20 years [of age].
+    - who: David Boder
+      start: '00:24:35.061'
+      end: '00:24:35.061'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:24:35.318'
+      end: '00:24:35.318'
+      u: Then to Sweden.
+    - who: David Boder
+      start: '00:24:36.211'
+      end: '00:24:36.211'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:24:36.320'
+      end: '00:24:36.320'
+      u: Then to America.
+    - who: David Boder
+      start: '00:24:37.413'
+      end: '00:24:37.413'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:24:38.119'
+      end: '00:24:38.119'
+      u: And on the day of his death...
+    - who: David Boder
+      start: '00:24:40.035'
+      end: '00:24:40.035'
+      u: Again in Thuringia.
+    - who: Charlotte Schultze
+      start: '00:24:40.541'
+      end: '00:24:40.541'
+      u: ". . . landed again in Thuringia [incorrect: Cologne is not in Thuringia,
+        but is in the Rhine province] in order to die there."
+    - who: David Boder
+      start: '00:24:45.385'
+      end: '00:24:45.385'
+      u: And your mother-in-law?
+    - who: Charlotte Schultze
+      start: '00:24:46.739'
+      end: '00:24:46.739'
+      u: My mother-in-law still lived in Coburg.
+    - who: David Boder
+      start: '00:24:48.906'
+      end: '00:24:48.906'
+      u: Hm.
+    - who: Charlotte Schultze
+      start: '00:24:50.953'
+      end: '00:24:50.953'
+      u: We took her then to Coburg so that she could remain in the American Zone.
+    - who: David Boder
+      start: '00:24:55.997'
+      end: '00:24:55.997'
+      u: Yes.
+    - who: Charlotte Schultze
+      start: '00:24:56.308'
+      end: '00:24:56.308'
+      u: You see [?]? so that she would be in contact with us.
+    - who: David Boder
+      start: '00:24:58.391'
+      end: '00:24:58.391'
+      u: Aha.
+    - who: Charlotte Schultze
+      start: '00:24:58.714'
+      end: '00:24:58.714'
+      u: And Dresden belongs to the Russian Zone.
+    - who: David Boder
+      start: '00:25:00.717'
+      end: '00:25:00.717'
+      u: And who supports her?
+    - who: Charlotte Schultze
+      start: '00:25:02.409'
+      end: '00:25:02.409'
+      u: For the time being she has enough to live on, and we hope [chuckle] that
+        we will be able from there to send here somthing to eat. Maybe...
+    - who: David Boder
+      start: '00:25:09.132'
+      end: '00:25:09.132'
+      u: Aha. Did your acquaintances from America send you anything during this time
+        [after the armistace]?
+    - who: Charlotte Schultze
+      start: '00:25:13.730'
+      end: '00:25:13.730'
+      u: No. We received letters, but since everybody hoped that we shall soon return,
+        they thought it not worthwhile [hearty laughter], and that is why...
+    - who: David Boder
+      start: '00:25:22.769'
+      end: '00:25:22.769'
+      u: "[Cordially] Well, now, you will soon be in America."
+    - who: Charlotte Schultze
+      start: '00:25:25.218'
+      end: '00:25:25.218'
+      u: We hope...
+    - who: David Boder
+      start: '00:25:25.763'
+      end: '00:25:25.763'
+      u: "[In English] This concludes the interview with Mrs. Charlotte Schultze,
+        wife of a physician, hm, what they call here a German Aryan, who is now in
+        the United States with the child, and will probably send over the affidavit
+        for the wife...for his wife. We conclude the interview at 8 minutes of the
+        counter index. An Illinois Institute of Technology wire recording. Munich,
+        Germany. September the 20th, 1946."
+    - who: David Boder
+      start: '00:25:56.859'
+      end: '00:25:56.859'
+      u: "[In German] Thank you very much, Frau doctor."
+    - who: Charlotte Schultze
+      start: '00:25:59.146'
+      end: '00:25:59.146'
+      u: There you are then...
+    - who: David Boder
+      start: '00:26:05.326'
+      end: 
+      u: "[In English] This concludes Spool 137A. The other part will be Spool 137B
+        and is the beginning of Bassfreund's story. It may be advisable since we have
+        only 8 minutes on this spool to combine this one with 136B and have Mrs. Charlotte
+        Schultze all on one spool. But we will leave that for further checkup. Boder.
+        October the 13th, 1950. MH156."
+transcript: {}
+translation: {}

@@ -29,5 +29,4521 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:00.481'
+      end: '00:00:00.481'
+      u: "[In English] Geneva, August the 27th, 1946, at the ORT School of Mechanics,
+        the interviewee is Yanusch Deutsch, now seventeen and a half. That is a tall,
+        good-looking and neat-looking young man, and we shall interview him on his
+        experiences during the war."
+    - who: David Boder
+      start: '00:00:27.961'
+      end: '00:00:27.961'
+      u: "[In German] Also, Herr Deutsch, uh,"
+    - who: Yanusch Deutsch
+      start: '00:00:29.473'
+      end: '00:00:29.473'
+      u: Ja?
+    - who: David Boder
+      start: '00:00:30.060'
+      end: '00:00:30.060'
+      u: Sagen Sie mal, wo waren Sie, wenn der Krieg anfangen, anfing, und was ist
+        Ihnen während des Krieges passiert?
+    - who: Yanusch Deutsch
+      start: '00:00:39.824'
+      end: '00:00:39.824'
+      u: Als der Krieg ausgebrochen ist, ich war in Ungarn. Ich habe in einem, mit
+        meinen Eltern in einem kleinen Städt—, Stadt gewohnt, nicht weit von Budapest.
+        60 km von Budapest.
+    - who: David Boder
+      start: '00:00:53.199'
+      end: '00:00:53.199'
+      u: Wie viele Leute waren in Ihrer Familie?
+    - who: Yanusch Deutsch
+      start: '00:00:56.649'
+      end: '00:00:56.649'
+      u: Also meine Eltern, die sind alleine.
+    - who: David Boder
+      start: '00:00:58.979'
+      end: '00:00:58.979'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:00:59.352'
+      end: '00:00:59.352'
+      u: Also, war ich auch da.
+    - who: David Boder
+      start: '00:01:00.757'
+      end: '00:01:00.757'
+      u: Ja. Nun, was war Ihren Eltern Beschäftigung?
+    - who: Yanusch Deutsch
+      start: '00:01:04.296'
+      end: '00:01:04.296'
+      u: Mein Vater ist Architekt Ingenieur.
+    - who: David Boder
+      start: '00:01:06.839'
+      end: '00:01:06.839'
+      u: Ja. Wo ist Ihr Vater jetzt?
+    - who: Yanusch Deutsch
+      start: '00:01:08.505'
+      end: '00:01:08.505'
+      u: In der Schweiz.
+    - who: David Boder
+      start: '00:01:09.562'
+      end: '00:01:09.562'
+      u: In der Schweiz.
+    - who: Yanusch Deutsch
+      start: '00:01:10.592'
+      end: '00:01:10.592'
+      u: Und er arbeitet als Ingenieur.
+    - who: David Boder
+      start: '00:01:12.454'
+      end: '00:01:12.454'
+      u: Ja. Nun?
+    - who: Yanusch Deutsch
+      start: '00:01:14.794'
+      end: '00:01:14.794'
+      u: Und, mein Vater hat ein Büro...
+    - who: David Boder
+      start: '00:01:19.070'
+      end: '00:01:19.070'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:01:19.632'
+      end: '00:01:19.632'
+      u: Und wir konnten ruhig leben bis 1944.
+    - who: David Boder
+      start: '00:01:24.096'
+      end: '00:01:24.096'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:01:25.135'
+      end: '00:01:25.135'
+      u: Die [unverständlich; irgendetwas mit „Architekt-“? ] war nicht so groß in
+        Ungarn, wir konnten dort ruhig leben.
+    - who: David Boder
+      start: '00:01:30.254'
+      end: '00:01:30.254'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:01:30.918'
+      end: '00:01:30.918'
+      u: Und wir haben die Nachrichten gehört von Deutschland und von die besetzten
+        Zonen, wo die Deutschen waren. Was, was für schreckliche Sachen die mit die
+        Juden gemacht haben. Wir haben nie gedacht, dass die selbe mit uns auch passieren
+        kann.
+    - who: David Boder
+      start: '00:01:48.378'
+      end: '00:01:48.378'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:01:50.259'
+      end: '00:01:50.259'
+      u: In ´44, 20 März haben die Deutschen Ungarn erobert.
+    - who: David Boder
+      start: '00:01:56.837'
+      end: '00:01:56.837'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:01:57.885'
+      end: '00:01:57.885'
+      u: 'Hat überhaupt kein Gegenstand [Anm.: er meint „Widerstand“]'
+    - who: David Boder
+      start: '00:02:00.337'
+      end: '00:02:00.337'
+      u: Aha.
+    - who: Yanusch Deutsch
+      start: '00:02:00.955'
+      end: '00:02:00.955'
+      u: Und die Jud—, die Deutschen haben sofort natürlich Maßnahmen gegen die Juden
+        gemacht.
+    - who: David Boder
+      start: '00:02:07.084'
+      end: '00:02:07.084'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:02:07.430'
+      end: '00:02:07.430'
+      u: Ja, Stern und so [unverständlich]
+    - who: David Boder
+      start: '00:02:10.396'
+      end: '00:02:10.396'
+      u: "[english?]"
+    - who: Yanusch Deutsch
+      start: '00:02:11.912'
+      end: '00:02:11.912'
+      u: jeder Land ist die selbe. [unverständlich] in Deutschland gemacht hat nur
+        sehr, sehr viel schneller.
+    - who: David Boder
+      start: '00:02:17.854'
+      end: '00:02:17.854'
+      u: Also zum Beispiel was hat man gemacht? Vergessen wir, dass wir das wissen.
+    - who: Yanusch Deutsch
+      start: '00:02:21.363'
+      end: '00:02:21.363'
+      u: Ja, also, [unverständlich]
+    - who: David Boder
+      start: '00:02:25.359'
+      end: '00:02:25.359'
+      u: 'Wie hat man das annonciert, dass man die Sterne tragen [er meint: soll]?'
+    - who: Yanusch Deutsch
+      start: '00:02:30.758'
+      end: '00:02:30.758'
+      u: Zwölf Tage nach die deutschen
+    - who: David Boder
+      start: '00:02:33.247'
+      end: '00:02:33.247'
+      u: "[unverständlich]"
+    - who: Yanusch Deutsch
+      start: '00:02:33.509'
+      end: '00:02:33.509'
+      u: Ungarn überfallen,
+    - who: David Boder
+      start: '00:02:36.157'
+      end: '00:02:36.157'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:02:37.411'
+      end: '00:02:37.411'
+      u: sind, äh, in Zeitung Artikel gekommen, dass die Juden, äh, sechs, also Magen
+        David tragen müssen.
+    - who: David Boder
+      start: '00:02:47.835'
+      end: '00:02:47.835'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:02:49.267'
+      end: '00:02:49.267'
+      u: 10 Zentimeter groß aus gelbe, gelbe
+    - who: David Boder
+      start: '00:02:53.749'
+      end: '00:02:53.749'
+      u: Stoff?
+    - who: Yanusch Deutsch
+      start: '00:02:54.329'
+      end: '00:02:54.329'
+      u: Stoff.
+    - who: David Boder
+      start: '00:02:55.022'
+      end: '00:02:55.022'
+      u: Ja, aus gelbem Stoff.
+    - who: Yanusch Deutsch
+      start: '00:02:56.061'
+      end: '00:02:56.061'
+      u: Ja, gelbem Stoff.
+    - who: David Boder
+      start: '00:02:56.641'
+      end: '00:02:56.641'
+      u: Und wo hat man die bekommen? Hat man die verkauft, oder?
+    - who: Yanusch Deutsch
+      start: '00:03:00.038'
+      end: '00:03:00.038'
+      u: Wir mussten selbst machen und jüdische Händler, jüdische also Geschäftsleute
+        haben es verkauft.
+    - who: David Boder
+      start: '00:03:07.309'
+      end: '00:03:07.309'
+      u: Haben es verkauft?
+    - who: Yanusch Deutsch
+      start: '00:03:08.263'
+      end: '00:03:08.263'
+      u: Ja.
+    - who: David Boder
+      start: '00:03:08.661'
+      end: '00:03:08.661'
+      u: Was haben sie dafür genommen?
+    - who: Yanusch Deutsch
+      start: '00:03:10.616'
+      end: '00:03:10.616'
+      u: Also, ich weiß nicht, 20, 30 Drachmen, also...
+    - who: David Boder
+      start: '00:03:13.238'
+      end: '00:03:13.238'
+      u: 20, 30 Drachmen. Man hat...
+    - who: Yanusch Deutsch
+      start: '00:03:14.377'
+      end: '00:03:14.377'
+      u: "[unterbricht] Meistens nichts, meistens überhaupt nichts, weil sie haben
+        doch gewusst, dass wir haben nicht mehr lange Geschäft, und warum sollen sie
+        doch verdienen."
+    - who: David Boder
+      start: '00:03:22.734'
+      end: '00:03:22.734'
+      u: Ja. Nun?
+    - who: Yanusch Deutsch
+      start: '00:03:26.653'
+      end: '00:03:26.653'
+      u: Und dann es ist sehr schnell weitergegangen. Zuerst mussten die Geschäftsleute
+        ihre Geschäfte zusperren.
+    - who: David Boder
+      start: '00:03:34.555'
+      end: '00:03:34.555'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:03:35.426'
+      end: '00:03:35.426'
+      u: Und dann mussten sie Fotoapparate, Radioapparate, Schreibmaschinen, [unklar;
+        evtl. „Kleinoden“], alles abgeben.
+    - who: David Boder
+      start: '00:03:45.626'
+      end: '00:03:45.626'
+      u: "[unverständlich]"
+    - who: Yanusch Deutsch
+      start: '00:03:46.543'
+      end: '00:03:46.543'
+      u: "[unverständlich]"
+    - who: David Boder
+      start: '00:03:47.525'
+      end: '00:03:47.525'
+      u: Ja. Nun?
+    - who: Yanusch Deutsch
+      start: '00:03:53.158'
+      end: '00:03:53.158'
+      u: Und dann mussten wir sofort alle Gold und, wie sagt man, „jewelry“?
+    - who: David Boder
+      start: '00:03:59.244'
+      end: '00:03:59.244'
+      u: Schmucksachen.
+    - who: Yanusch Deutsch
+      start: '00:03:59.774'
+      end: '00:03:59.774'
+      u: Schmucksachen abgeben. Und Geld, was wir in Bank gehabt haben, wir haben
+        gespart und überhaupt kein von dem haben wir davon bekommen können.
+    - who: David Boder
+      start: '00:04:10.841'
+      end: '00:04:10.841'
+      u: Parlieren [evtl. „Probieren“] Sie Englisch, die Aussprache macht nichts,
+        gehen Sie weiter.
+    - who: Yanusch Deutsch
+      start: '00:04:15.442'
+      end: '00:04:15.442'
+      u: "[In English]...I'll try. But it was not only this loss against us but the
+        German SS soldiers came every day and they asked us...Do you know that in
+        every town there was a Judenrat [Jewish Council]—there were Judenräte with
+        Judenalteste. And they came every day and they asked us food...[break in tape]...jewels,
+        everything they liked."
+    - who: David Boder
+      start: '00:04:45.681'
+      end: '00:04:45.681'
+      u: Who? The Judenrat?
+    - who: Yanusch Deutsch
+      start: '00:04:47.061'
+      end: '00:04:47.061'
+      u: From the Judenrat, the SS soldiers and the Judenrat—it was the duty of the
+        Judenrat—to get these things.
+    - who: David Boder
+      start: '00:04:56.464'
+      end: '00:04:56.464'
+      u: Oh. The SS came to the Judenrat?
+    - who: Yanusch Deutsch
+      start: '00:04:59.400'
+      end: '00:04:59.400'
+      u: Yes.
+    - who: David Boder
+      start: '00:04:59.844'
+      end: '00:04:59.844'
+      u: And the Judenrat had to go to the Jews...
+    - who: Yanusch Deutsch
+      start: '00:05:02.012'
+      end: '00:05:02.012'
+      u: Yes.
+    - who: David Boder
+      start: '00:05:02.267'
+      end: '00:05:02.267'
+      u: ". . . to get it. Nu. All right. That's very good. Go ahead."
+    - who: Yanusch Deutsch
+      start: '00:05:05.814'
+      end: '00:05:05.814'
+      u: Yes. And after two month and a half who had to go to the ghetto.
+    - who: David Boder
+      start: '00:05:15.802'
+      end: '00:05:15.802'
+      u: Now how was that?
+    - who: Yanusch Deutsch
+      start: '00:05:16.888'
+      end: '00:05:16.888'
+      u: Well in all town it was like that. First we had to leave...there were only
+        some houses for the Jews and on the door of these houses there was—were a
+        big gold star.
+    - who: David Boder
+      start: '00:05:33.941'
+      end: '00:05:33.941'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:05:34.411'
+      end: '00:05:34.411'
+      u: A yellow star.
+    - who: David Boder
+      start: '00:05:36.247'
+      end: '00:05:36.247'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:05:37.772'
+      end: '00:05:37.772'
+      u: And we were living in our flat twenty-four persons. Before [unintelligible]
+        we had four rooms and we lived there twenty-four persons.
+    - who: David Boder
+      start: '00:05:49.802'
+      end: '00:05:49.802'
+      u: So they left you in your flat...
+    - who: Yanusch Deutsch
+      start: '00:05:51.299'
+      end: '00:05:51.299'
+      u: Yes.
+    - who: David Boder
+      start: '00:05:51.859'
+      end: '00:05:51.859'
+      u: But who got you the twenty-four persons? Who told you to take in the twenty-four
+        persons?
+    - who: Yanusch Deutsch
+      start: '00:05:58.387'
+      end: '00:05:58.387'
+      u: The SS soldiers told the Judenrat on Monday that for Friday they did had
+        these houses—I think it was hundred and twenty houses—and they must get there...still
+        Friday evening.
+    - who: David Boder
+      start: '00:06:18.441'
+      end: '00:06:18.441'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:06:20.044'
+      end: '00:06:20.044'
+      u: And it was very difficult business because we hadn't had any car and we had
+        to take the furnitures ourselves.
+    - who: David Boder
+      start: '00:06:30.538'
+      end: '00:06:30.538'
+      u: So you had to move out from your...
+    - who: Yanusch Deutsch
+      start: '00:06:32.637'
+      end: '00:06:32.637'
+      u: No. Fortunately we didn't move out—then. We lived that for one week. You
+        can imagine that..
+    - who: David Boder
+      start: '00:06:40.008'
+      end: '00:06:40.008'
+      u: That you took in other people?
+    - who: Yanusch Deutsch
+      start: '00:06:41.518'
+      end: '00:06:41.518'
+      u: Other...twenty-one persons. [speaking over each other] We were twenty-four.
+        Well you can imagine it because...
+    - who: David Boder
+      start: '00:06:48.412'
+      end: '00:06:48.412'
+      u: Well...
+    - who: Yanusch Deutsch
+      start: '00:06:49.565'
+      end: '00:06:49.565'
+      u: ". . . twenty-four people...brought with them their furnitures and their
+        things and the flat was crowded and we couldn't move and we had only one kitchen
+        and there were five or six familie—, families."
+    - who: David Boder
+      start: '00:07:03.593'
+      end: '00:07:03.593'
+      u: Yes. And how many rooms did you have?
+    - who: Yanusch Deutsch
+      start: '00:07:07.488'
+      end: '00:07:07.488'
+      u: Four big rooms.
+    - who: David Boder
+      start: '00:07:08.610'
+      end: '00:07:08.610'
+      u: What?
+    - who: Yanusch Deutsch
+      start: '00:07:09.100'
+      end: '00:07:09.100'
+      u: Four.
+    - who: David Boder
+      start: '00:07:09.623'
+      end: '00:07:09.623'
+      u: Four rooms and a kitchen.
+    - who: Yanusch Deutsch
+      start: '00:07:10.729'
+      end: '00:07:10.729'
+      u: Yes.
+    - who: David Boder
+      start: '00:07:11.164'
+      end: '00:07:11.164'
+      u: Yes. Nu.
+    - who: Yanusch Deutsch
+      start: '00:07:13.170'
+      end: '00:07:13.170'
+      u: And, for instance, my mother and I—and me—slept in the kitchen.
+    - who: David Boder
+      start: '00:07:19.408'
+      end: '00:07:19.408'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:07:20.064'
+      end: '00:07:20.064'
+      u: And they were cooking in the kitchen all day and night. We were cooking from
+        eight o'clock until ten o'clock, other families from ten o'clock until twelve...
+    - who: David Boder
+      start: '00:07:29.425'
+      end: '00:07:29.425'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:07:30.423'
+      end: '00:07:30.423'
+      u: ". . . other families in the afternoon. So we lived there for one week. We
+        knew...we knew that they would deport us and we had to get some food and we
+        wanted to eat it very quickly."
+    - who: David Boder
+      start: '00:07:46.638'
+      end: '00:07:46.638'
+      u: All right.
+    - who: Yanusch Deutsch
+      start: '00:07:49.561'
+      end: '00:07:49.561'
+      u: And, one morning...
+    - who: David Boder
+      start: '00:07:53.017'
+      end: '00:07:53.017'
+      u: You said you wanted to eat your food as quick as possible because you knew
+        that what?
+    - who: Yanusch Deutsch
+      start: '00:07:57.599'
+      end: '00:07:57.599'
+      u: Well, it very good things [?] and we were...I can say we were then happy.
+        It was the last happy days of my life.
+    - who: David Boder
+      start: '00:08:06.959'
+      end: '00:08:06.959'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:08:07.870'
+      end: '00:08:07.870'
+      u: And one morning, suddenly, at four o'clock German soldiers came in our house
+        and they ordered the men in the yard...on the yard.
+    - who: David Boder
+      start: '00:08:20.903'
+      end: '00:08:20.903'
+      u: Ja. Only the men?
+    - who: Yanusch Deutsch
+      start: '00:08:21.902'
+      end: '00:08:21.902'
+      u: Only the men. And they told them that they would give us one hour. In one
+        hour we must move out. We can take with us thirty kilos of baggages.
+    - who: David Boder
+      start: '00:08:36.057'
+      end: '00:08:36.057'
+      u: Each person?
+    - who: Yanusch Deutsch
+      start: '00:08:37.521'
+      end: '00:08:37.521'
+      u: Yes.
+    - who: David Boder
+      start: '00:08:38.155'
+      end: '00:08:38.155'
+      u: Ja. How old were you then?
+    - who: Yanusch Deutsch
+      start: '00:08:41.032'
+      end: '00:08:41.032'
+      u: I was then fifteen years old...and some months. Well, you can imagine we
+        hadn't had much time. We had to clothe—to dress ourselves—and we take some
+        food and some clothes and everything we knew—everything we knew it would be
+        useful. Then they take us on the yard and they...how do you say in English
+        [German phrase]?
+    - who: David Boder
+      start: '00:09:10.271'
+      end: '00:09:10.271'
+      u: And they searched you?
+    - who: Yanusch Deutsch
+      start: '00:09:11.116'
+      end: '00:09:11.116'
+      u: 'They searched us. They took the good things away from us: the chocolate,
+        the coffee, the sugar...confiture [jam], the jam, and we remained with very
+        little baggages.'
+    - who: David Boder
+      start: '00:09:25.026'
+      end: '00:09:25.026'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:09:26.475'
+      end: '00:09:26.475'
+      u: And then we had to remain there from six o'clock in the morning until two
+        o'clock in the night.
+    - who: David Boder
+      start: '00:09:32.639'
+      end: '00:09:32.639'
+      u: In the yard?
+    - who: Yanusch Deutsch
+      start: '00:09:33.653'
+      end: '00:09:33.653'
+      u: Yes. It was [great fun?].
+    - who: David Boder
+      start: '00:09:35.450'
+      end: '00:09:35.450'
+      u: The men alone or everybody?
+    - who: Yanusch Deutsch
+      start: '00:09:37.252'
+      end: '00:09:37.252'
+      u: Everybody—together. And you know the search was very...very strong...and
+        we had to undress and so everywhere and they give me slaps and they kick me.
+    - who: David Boder
+      start: '00:09:59.257'
+      end: '00:09:59.257'
+      u: Where did you have to undress?
+    - who: Yanusch Deutsch
+      start: '00:10:02.211'
+      end: '00:10:02.211'
+      u: In a room.
+    - who: David Boder
+      start: '00:10:03.306'
+      end: '00:10:03.306'
+      u: In a separate room?
+    - who: Yanusch Deutsch
+      start: '00:10:04.612'
+      end: '00:10:04.612'
+      u: A separate room, the men...separate from the women. And at two o'clock they
+        came and they took us to the [brick?] factory.
+    - who: David Boder
+      start: '00:10:16.322'
+      end: '00:10:16.322'
+      u: Two o'clock at night?
+    - who: Yanusch Deutsch
+      start: '00:10:17.340'
+      end: '00:10:17.340'
+      u: In the night.
+    - who: David Boder
+      start: '00:10:18.155'
+      end: '00:10:18.155'
+      u: In the night.
+    - who: Yanusch Deutsch
+      start: '00:10:18.743'
+      end: '00:10:18.743'
+      u: You know, in Hungary I think almost each town they take the Jews in a [brick?]
+        factory.
+    - who: David Boder
+      start: '00:10:27.427'
+      end: '00:10:27.427'
+      u: Why?
+    - who: Yanusch Deutsch
+      start: '00:10:28.722'
+      end: '00:10:28.722'
+      u: I don't know. Because, you how it looks like...
+    - who: David Boder
+      start: '00:10:34.764'
+      end: '00:10:34.764'
+      u: A [brick?] factory?
+    - who: Yanusch Deutsch
+      start: '00:10:35.613'
+      end: '00:10:35.613'
+      u: Yes. We were slept on the ground. We didn't have any straw—nothing to sleep
+        on and we hadn't food. We had even less food than in Bergen-Belsen.
+    - who: David Boder
+      start: '00:10:51.691'
+      end: '00:10:51.691'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:10:52.817'
+      end: '00:10:52.817'
+      u: And we were there...
+    - who: David Boder
+      start: '00:10:56.370'
+      end: '00:10:56.370'
+      u: Oh! You said you did...you had some food with you?
+    - who: Yanusch Deutsch
+      start: '00:10:59.262'
+      end: '00:10:59.262'
+      u: They took everything away [they saw?]. Almost everything. They give us food
+        for three days we were there for more than a fortnight.
+    - who: David Boder
+      start: '00:11:16.241'
+      end: '00:11:16.241'
+      u: They gave you food or they allowed you to have food?
+    - who: Yanusch Deutsch
+      start: '00:11:19.241'
+      end: '00:11:19.241'
+      u: Yes. And they took away the food.
+    - who: David Boder
+      start: '00:11:22.994'
+      end: '00:11:22.994'
+      u: Now let's have that clear. They gave you food—German food, bread and so on
+        or they allowed you to take food...
+    - who: Yanusch Deutsch
+      start: '00:11:29.788'
+      end: '00:11:29.788'
+      u: They allowed...they allowed us to take food with us and then they took away
+        the good things—the sugar, the chocolate, the coffee, although we had bread
+        and I don't know...
+    - who: David Boder
+      start: '00:11:41.847'
+      end: '00:11:41.847'
+      u: Tell me, and the Judenrat was also deported?
+    - who: Yanusch Deutsch
+      start: '00:11:45.477'
+      end: '00:11:45.477'
+      u: Everybody. And you know that in Hungary there was some people who fought
+        in the war and who were Jews but they had to go to the ghetto. But they had
+        to go to the [brick?] factory and they were deported too.
+    - who: David Boder
+      start: '00:12:02.197'
+      end: '00:12:02.197'
+      u: A-ha. Nu?
+    - who: Yanusch Deutsch
+      start: '00:12:03.615'
+      end: '00:12:03.615'
+      u: And in the [brick?] factory we had half a liter of soap in a day...
+    - who: David Boder
+      start: '00:12:10.947'
+      end: '00:12:10.947'
+      u: Soup?
+    - who: Yanusch Deutsch
+      start: '00:12:11.402'
+      end: '00:12:11.402'
+      u: ". . . of soup and hundred-fifty grams of bread."
+    - who: David Boder
+      start: '00:12:17.044'
+      end: '00:12:17.044'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:12:17.924'
+      end: '00:12:17.924'
+      u: Nothing more. And it was very bad too because we hadn't any...any stuff or
+        any fat. You know...fat. It was very bad.
+    - who: David Boder
+      start: '00:12:27.617'
+      end: '00:12:27.617'
+      u: What month was it?
+    - who: Yanusch Deutsch
+      start: '00:12:29.281'
+      end: '00:12:29.281'
+      u: It was...June.
+    - who: David Boder
+      start: '00:12:32.726'
+      end: '00:12:32.726'
+      u: June?
+    - who: Yanusch Deutsch
+      start: '00:12:33.867'
+      end: '00:12:33.867'
+      u: June.
+    - who: David Boder
+      start: '00:12:34.098'
+      end: '00:12:34.098'
+      u: And what was the name of your city?
+    - who: Yanusch Deutsch
+      start: '00:12:36.898'
+      end: '00:12:36.898'
+      u: Székesfehérvár, Stuhlweissenburg
+    - who: David Boder
+      start: '00:12:39.955'
+      end: '00:12:39.955'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:12:40.278'
+      end: '00:12:40.278'
+      u: ". . . in German."
+    - who: David Boder
+      start: '00:12:41.101'
+      end: '00:12:41.101'
+      u: Nu.
+    - who: Yanusch Deutsch
+      start: '00:12:42.150'
+      end: '00:12:42.150'
+      u: And then they took...one morning they said that they will take us away from
+        our town and we must get out from the [brick?] factory and we must go to the
+        station, the railway station. Well, the last minute there came a wire saying
+        that twenty-six people are going to Budapest are not going to the transport
+        but are going to Budapest and we were in this twenty-six people.
+    - who: David Boder
+      start: '00:13:15.046'
+      end: '00:13:15.046'
+      u: Why?
+    - who: Yanusch Deutsch
+      start: '00:13:17.140'
+      end: '00:13:17.140'
+      u: We have these Zionists.
+    - who: David Boder
+      start: '00:13:18.942'
+      end: '00:13:18.942'
+      u: Zionists. Yes.
+    - who: Yanusch Deutsch
+      start: '00:13:19.838'
+      end: '00:13:19.838'
+      u: Zionists. And you know that in every...in every country, the German...
+    - who: David Boder
+      start: '00:13:30.165'
+      end: '00:13:30.165'
+      u: The Gestapo?
+    - who: Yanusch Deutsch
+      start: '00:13:31.194'
+      end: '00:13:31.194'
+      u: ". . . the Gestapo...now how do you say it?"
+    - who: David Boder
+      start: '00:13:34.103'
+      end: '00:13:34.103'
+      u: "[clarifying in German]"
+    - who: Yanusch Deutsch
+      start: '00:13:36.578'
+      end: '00:13:36.578'
+      u: "[German phrase]"
+    - who: David Boder
+      start: '00:13:38.311'
+      end: '00:13:38.311'
+      u: The Germans have taken...
+    - who: Yanusch Deutsch
+      start: '00:13:40.246'
+      end: '00:13:40.246'
+      u: ". . . they have taken. There was a business with the Germans that they can
+        take us...I don't know, some Jews to Palestine. It was an Aliyah [immigration
+        or pilgrimage to Palestine], it was...made by the Joint."
+    - who: David Boder
+      start: '00:13:57.857'
+      end: '00:13:57.857'
+      u: Oh, the Germans had an arrangement that they can take to Palestine...
+    - who: Yanusch Deutsch
+      start: '00:14:01.687'
+      end: '00:14:01.687'
+      u: Ja.
+    - who: David Boder
+      start: '00:14:01.880'
+      end: '00:14:01.880'
+      u: ". . . some of the Jews. Nu."
+    - who: Yanusch Deutsch
+      start: '00:14:03.974'
+      end: '00:14:03.974'
+      u: And they have taken us to Budapest in a camp and we were there six hundred
+        people, later on we were nine hundred there.
+    - who: David Boder
+      start: '00:14:19.143'
+      end: '00:14:19.143'
+      u: And they told you that you would go to Palestine?
+    - who: Yanusch Deutsch
+      start: '00:14:21.048'
+      end: '00:14:21.048'
+      u: To Palestine. And then one day they took us and they deported us who were...they
+        had taken us to Bergen-Belsen. We were in a wagon seventy-nine people we couldn't
+        sleep, we couldn't sit, we could only stand. Because there was not any place.
+    - who: David Boder
+      start: '00:14:45.064'
+      end: '00:14:45.064'
+      u: Did you have a toilet in your car?
+    - who: Yanusch Deutsch
+      start: '00:14:47.588'
+      end: '00:14:47.588'
+      u: No.
+    - who: David Boder
+      start: '00:14:48.238'
+      end: '00:14:48.238'
+      u: What did you do?
+    - who: Yanusch Deutsch
+      start: '00:14:49.164'
+      end: '00:14:49.164'
+      u: It was wagon for the cows. You know?
+    - who: David Boder
+      start: '00:14:51.545'
+      end: '00:14:51.545'
+      u: Ja. So what did you do when you needed to go to the toilet?
+    - who: Yanusch Deutsch
+      start: '00:14:55.206'
+      end: '00:14:55.206'
+      u: Well, it was very bad because once a day the train stopped and we had to
+        make it then.
+    - who: David Boder
+      start: '00:15:03.552'
+      end: '00:15:03.552'
+      u: To go out?
+    - who: Yanusch Deutsch
+      start: '00:15:04.156'
+      end: '00:15:04.156'
+      u: To go out.
+    - who: David Boder
+      start: '00:15:05.267'
+      end: '00:15:05.267'
+      u: And if not...otherwise? Otherwise...?
+    - who: Yanusch Deutsch
+      start: '00:15:11.954'
+      end: '00:15:11.954'
+      u: Well, otherwise...we had jugs there...we had with us jugs...
+    - who: David Boder
+      start: '00:15:22.435'
+      end: '00:15:22.435'
+      u: And how would you do it? There were people around?
+    - who: Yanusch Deutsch
+      start: '00:15:26.111'
+      end: '00:15:26.111'
+      u: We had to do it.
+    - who: David Boder
+      start: '00:15:27.928'
+      end: '00:15:27.928'
+      u: Uh-huh And the women?
+    - who: Yanusch Deutsch
+      start: '00:15:30.575'
+      end: '00:15:30.575'
+      u: Women too.
+    - who: David Boder
+      start: '00:15:31.686'
+      end: '00:15:31.686'
+      u: Well the women too.
+    - who: Yanusch Deutsch
+      start: '00:15:32.582'
+      end: '00:15:32.582'
+      u: It was daytime was quite dark too because it was...the door was shut. You
+        know?
+    - who: David Boder
+      start: '00:15:40.175'
+      end: '00:15:40.175'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:15:40.687'
+      end: '00:15:40.687'
+      u: We couldn't see.
+    - who: David Boder
+      start: '00:15:42.059'
+      end: '00:15:42.059'
+      u: Ja, so they could...satisfy their needs, eliminate in that way.
+    - who: Yanusch Deutsch
+      start: '00:15:48.776'
+      end: '00:15:48.776'
+      u: And then. They have taken us to Vienna and from Vienna to Linz.
+    - who: David Boder
+      start: '00:15:56.830'
+      end: '00:15:56.830'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:15:57.142'
+      end: '00:15:57.142'
+      u: Well, in Linz it was a very strange thing because they take us...we arrived
+        at Linz at seven o'clock in the morning.
+    - who: David Boder
+      start: '00:16:07.070'
+      end: '00:16:07.070'
+      u: Ja, Linz is near the...Swiss Border isn't it?
+    - who: Yanusch Deutsch
+      start: '00:16:11.284'
+      end: '00:16:11.284'
+      u: Hundred fifty kilometers.
+    - who: David Boder
+      start: '00:16:12.564'
+      end: '00:16:12.564'
+      u: Ja. Nu?
+    - who: Yanusch Deutsch
+      start: '00:16:13.813'
+      end: '00:16:13.813'
+      u: And then they told us they will take us to bathe.
+    - who: David Boder
+      start: '00:16:18.011'
+      end: '00:16:18.011'
+      u: To where?
+    - who: Yanusch Deutsch
+      start: '00:16:18.487'
+      end: '00:16:18.487'
+      u: To bathe.
+    - who: David Boder
+      start: '00:16:19.367'
+      end: '00:16:19.367'
+      u: Where is that? To Bathe?
+    - who: Yanusch Deutsch
+      start: '00:16:20.995'
+      end: '00:16:20.995'
+      u: To bathe...baden.
+    - who: David Boder
+      start: '00:16:23.146'
+      end: '00:16:23.146'
+      u: A-ha. Yes.
+    - who: Yanusch Deutsch
+      start: '00:16:24.579'
+      end: '00:16:24.579'
+      u: And they took first the women.
+    - who: David Boder
+      start: '00:16:27.913'
+      end: '00:16:27.913'
+      u: To Switzerland?
+    - who: Yanusch Deutsch
+      start: '00:16:29.177'
+      end: '00:16:29.177'
+      u: No, it was to bathe...baden.
+    - who: David Boder
+      start: '00:16:32.434'
+      end: '00:16:32.434'
+      u: To bathe...to take a bath.
+    - who: Yanusch Deutsch
+      start: '00:16:35.096'
+      end: '00:16:35.096'
+      u: 'To take a bath. They took the women first at seven o''clock in the morning
+        and at three o''clock in the afternoon nobody came back. We were afraid: "What
+        did they do with the women?"'
+    - who: David Boder
+      start: '00:16:47.271'
+      end: '00:16:47.271'
+      u: Why didn't they take you or your father?
+    - who: Yanusch Deutsch
+      start: '00:16:49.933'
+      end: '00:16:49.933'
+      u: First they said they would take the women.
+    - who: David Boder
+      start: '00:16:52.191'
+      end: '00:16:52.191'
+      u: Oh, they took the women first?
+    - who: Yanusch Deutsch
+      start: '00:16:53.624'
+      end: '00:16:53.624'
+      u: Yes. Then at three o'clock they came back without the women and they took
+        us [Boder interrupts]...yes...with the women.
+    - who: David Boder
+      start: '00:17:05.184'
+      end: '00:17:05.184'
+      u: ". . . and what happened to them?"
+    - who: Yanusch Deutsch
+      start: '00:17:08.507'
+      end: '00:17:08.507'
+      u: We didn't see the women but the soldiers came back [unintelligible]. And
+        I was very afraid that they would take us in a vernichtungslager. I wanted
+        to escape. And I tried...
+    - who: David Boder
+      start: '00:17:20.685'
+      end: '00:17:20.685'
+      u: A vernichtungslager?
+    - who: Yanusch Deutsch
+      start: '00:17:22.144'
+      end: '00:17:22.144'
+      u: I tried to escape but I couldn't—there were a lot of soldiers.
+    - who: David Boder
+      start: '00:17:26.015'
+      end: '00:17:26.015'
+      u: A vernichtungslager is a destruction lager?
+    - who: Yanusch Deutsch
+      start: '00:17:28.739'
+      end: '00:17:28.739'
+      u: Yes.
+    - who: David Boder
+      start: '00:17:29.343'
+      end: '00:17:29.343'
+      u: Yes. Nu?
+    - who: Yanusch Deutsch
+      start: '00:17:30.377'
+      end: '00:17:30.377'
+      u: And then they took us in this camp—in this lager and...we saw the women.
+    - who: David Boder
+      start: '00:17:39.168'
+      end: '00:17:39.168'
+      u: What?
+    - who: Yanusch Deutsch
+      start: '00:17:39.629'
+      end: '00:17:39.629'
+      u: The women.
+    - who: David Boder
+      start: '00:17:40.248'
+      end: '00:17:40.248'
+      u: You saw the women...
+    - who: Yanusch Deutsch
+      start: '00:17:41.231'
+      end: '00:17:41.231'
+      u: 'They had to wait four or five hours because there were other people there.
+        And they had a bath—warm water—and it was very...very good—very...[unintelligible]...we
+        didn''t bathe since two month—nu? And then we had a bath and at six o''clock
+        in the afternoon we came back. The women told us that they had to go first
+        to a big room—where there a thousand women there and they saw big boxes—yellow
+        boxes—which was written: [Unintelligible]. Attention: [unintelligible] and
+        that a...totenkop.'
+    - who: David Boder
+      start: '00:18:33.050'
+      end: '00:18:33.050'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:18:33.853'
+      end: '00:18:33.853'
+      u: I don't know how they say in English.
+    - who: David Boder
+      start: '00:18:34.836'
+      end: '00:18:34.836'
+      u: What is [?]?
+    - who: Yanusch Deutsch
+      start: '00:18:36.280'
+      end: '00:18:36.280'
+      u: A totenkop
+    - who: David Boder
+      start: '00:18:37.202'
+      end: '00:18:37.202'
+      u: A skull?
+    - who: Yanusch Deutsch
+      start: '00:18:38.313'
+      end: '00:18:38.313'
+      u: A skull right on it.
+    - who: David Boder
+      start: '00:18:39.715'
+      end: '00:18:39.715'
+      u: "[unintelligible]"
+    - who: Yanusch Deutsch
+      start: '00:18:41.820'
+      end: '00:18:41.820'
+      u: They didn't know what it is...they know that...they thought that it's against
+        them. And then the women, they...
+    - who: David Boder
+      start: '00:18:51.223'
+      end: '00:18:51.223'
+      u: "[unverständlich]"
+    - who: Yanusch Deutsch
+      start: '00:18:52.789'
+      end: '00:18:52.789'
+      u: "[In German] Sie werden vernichten."
+    - who: David Boder
+      start: '00:18:54.095'
+      end: '00:18:54.095'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:18:54.290'
+      end: '00:18:54.290'
+      u: Die Frauen. Aber es waren nur die Kleider, die haben die Kleider desinfiziert.
+    - who: David Boder
+      start: '00:19:00.599'
+      end: '00:19:00.599'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:19:01.109'
+      end: '00:19:01.109'
+      u: Und es ist nichts passiert.
+    - who: David Boder
+      start: '00:19:02.823'
+      end: '00:19:02.823'
+      u: Nun?
+    - who: Yanusch Deutsch
+      start: '00:19:03.592'
+      end: '00:19:03.592'
+      u: Später sind wir weiter gegangen und die ganze Reise hat zehn Tage lang gedauert.
+    - who: David Boder
+      start: '00:19:08.548'
+      end: '00:19:08.548'
+      u: 10 Tage. Immer in demselben Waggon?
+    - who: Yanusch Deutsch
+      start: '00:19:10.846'
+      end: '00:19:10.846'
+      u: Dieselben Wagons.
+    - who: David Boder
+      start: '00:19:12.189'
+      end: '00:19:12.189'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:19:12.634'
+      end: '00:19:12.634'
+      u: Wir sind angekommen nach Bergen-Belsen. Das ist 70 Kilometer von Hannover,
+        ist Celle, ist ein kleines Städtchen und von dort wir mussten zu Fuß 6 Kilometer
+        gehen. Es ist, äh, 800 Meter hoch ungefähr über mehrere schöne Wälder, die
+        Umgebung ist sehr schön.
+    - who: David Boder
+      start: '00:19:35.626'
+      end: '00:19:35.626'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:19:36.265'
+      end: '00:19:36.265'
+      u: Das [unverständlich]-Lager haben sehr viele Leute gesehen, nicht nur Juden,
+        sondern auch Kriegsgefangene aus alle.
+    - who: David Boder
+      start: '00:19:42.991'
+      end: '00:19:42.991'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:19:44.075'
+      end: '00:19:44.075'
+      u: Und dann wir sind im Lager hineingegangen. Wir haben eine Barack bekommen.
+        Die Frauen haben ein Barack bekommen. Und die Männer einen halben Barack.
+    - who: David Boder
+      start: '00:19:58.128'
+      end: '00:19:58.128'
+      u: Und wer war im anderen halben Barack?
+    - who: Yanusch Deutsch
+      start: '00:20:00.546'
+      end: '00:20:00.546'
+      u: Das war, war, wir konnten nicht genau [unklar], das waren Polen, von, polnische
+        Juden.
+    - who: David Boder
+      start: '00:20:06.669'
+      end: '00:20:06.669'
+      u: Aha.
+    - who: Yanusch Deutsch
+      start: '00:20:07.021'
+      end: '00:20:07.021'
+      u: "[unverständlich] waren mit christlichen Papieren."
+    - who: David Boder
+      start: '00:20:09.884'
+      end: '00:20:09.884'
+      u: Oh. [überrascht] Polnische Juden mit christlichen Papieren?
+    - who: Yanusch Deutsch
+      start: '00:20:12.357'
+      end: '00:20:12.357'
+      u: Christliche Papiere. Aber die Deutschen glaubten, dass sie Juden sind, [verbessert
+        sich] dass sie Christen sind. Aber die waren Juden, die haben uns gesagt.
+    - who: David Boder
+      start: '00:20:19.944'
+      end: '00:20:19.944'
+      u: Ja. Nun?
+    - who: Yanusch Deutsch
+      start: '00:20:21.223'
+      end: '00:20:21.223'
+      u: Und, in einer Baracke haben tausend Leute gewohnt.
+    - who: David Boder
+      start: '00:20:26.290'
+      end: '00:20:26.290'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:20:28.226'
+      end: '00:20:28.226'
+      u: Es war ungefähr 150...
+    - who: David Boder
+      start: '00:20:30.301'
+      end: '00:20:30.301'
+      u: "[unterbricht] Wie viel waren dort polnische Juden mit christlichen Papieren?"
+    - who: Yanusch Deutsch
+      start: '00:20:33.386'
+      end: '00:20:33.386'
+      u: Also, dort waren ungefähr 200.
+    - who: David Boder
+      start: '00:20:36.749'
+      end: '00:20:36.749'
+      u: Und die Deutschen haben nicht gewusst, dass...
+    - who: Yanusch Deutsch
+      start: '00:20:38.315'
+      end: '00:20:38.315'
+      u: "[unterbricht] Nein."
+    - who: David Boder
+      start: '00:20:38.769'
+      end: '00:20:38.769'
+      u: dass sie Juden waren?
+    - who: Yanusch Deutsch
+      start: '00:20:39.204'
+      end: '00:20:39.204'
+      u: Also, ja. Also, ich glaube in Bergen-Belsen waren sehr viele [unverständlich],
+        nur ich weiß es nicht genau.
+    - who: David Boder
+      start: '00:20:45.031'
+      end: '00:20:45.031'
+      u: "[unverständlich]"
+    - who: Yanusch Deutsch
+      start: '00:20:46.467'
+      end: '00:20:46.467'
+      u: sonst, [unverständlich], vielleicht viel besser.
+    - who: David Boder
+      start: '00:20:49.385'
+      end: '00:20:49.385'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:20:51.497'
+      end: '00:20:51.497'
+      u: Und, ein Barack war ungefähr 150 Meter lang. Dort waren sechs sogenannte
+        „Box“. Sechs, sechs Teile geteilt. Und in einem Teil haben ungefähr 180, 150
+        Leute gewohnt. Und Betten in drei Stöcke.
+    - who: David Boder
+      start: '00:21:13.499'
+      end: '00:21:13.499'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:21:13.814'
+      end: '00:21:13.814'
+      u: 'Waren über-[überlegt]. In Nacht war sehr kalt. Es war Juli, aber es war
+        sehr, sehr kalt. Das war Nord [Anm.: nicht klar, was er hiermit meint; Nordwind
+        vielleicht?]. Und Tag war es sehr warm. Wir mussten nicht arbeiten. Es war
+        noch vielleicht schlimmer, weil das Essen war viel schlimmer, als die die
+        arbeiten.'
+    - who: David Boder
+      start: '00:21:34.916'
+      end: '00:21:34.916'
+      u: "[unverständlich]"
+    - who: Yanusch Deutsch
+      start: '00:21:35.518'
+      end: '00:21:35.518'
+      u: haben. Und wir konnten nichts zu tun den ganzen Tag.
+    - who: David Boder
+      start: '00:21:40.196'
+      end: '00:21:40.196'
+      u: Ja. Den ganzen Tag?
+    - who: Yanusch Deutsch
+      start: '00:21:41.104'
+      end: '00:21:41.104'
+      u: Ja. Frühstück haben wir bekommen 7 Uhr morgens. Ein schwarzes Wasser, man
+        hat gesagt, es war Kaffee, aber es war ein schwarzes, [unverständlich] schwarzes,
+        braunes Wasser. Um elf Uhr haben wir Mittagessen bekommen. Es war, ich weiß
+        nicht, es war Gemüse, oder Suppe, es war alles zusammen. War Rüben, [unverständlich],
+        ohne Fett, nur mit Schalen, in Wasser reingeworfen und gekocht.
+    - who: David Boder
+      start: '00:22:07.526'
+      end: '00:22:07.526'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:22:08.462'
+      end: '00:22:08.462'
+      u: Und manchmal haben wir kleine Fleischstücke bekommen.
+    - who: David Boder
+      start: '00:22:12.751'
+      end: '00:22:12.751'
+      u: Aha.
+    - who: Yanusch Deutsch
+      start: '00:22:13.400'
+      end: '00:22:13.400'
+      u: Es war sehr gut, diese Fleischstücke. Wir haben nicht gewusst, was für ein
+        Fleisch, äh, Fleisch ist das. Später ich habe in einer englischen Zeitung
+        gelesen, dass die Menschenfleich waren.
+    - who: David Boder
+      start: '00:22:24.934'
+      end: '00:22:24.934'
+      u: "[entsetzt] Dass es Menschenfleisch?"
+    - who: Yanusch Deutsch
+      start: '00:22:25.981'
+      end: '00:22:25.981'
+      u: Menschenfleisch.
+    - who: David Boder
+      start: '00:22:27.324'
+      end: '00:22:27.324'
+      u: "—fleisch in Belsen?"
+    - who: Yanusch Deutsch
+      start: '00:22:28.806'
+      end: '00:22:28.806'
+      u: uhum, ja. In Bergen-Belsen. Also in, in, in London Illustrierte Zeitung...
+    - who: David Boder
+      start: '00:22:36.570'
+      end: '00:22:36.570'
+      u: Die Londonsche Illustrierte Zeitung hat gesagt...
+    - who: Yanusch Deutsch
+      start: '00:22:39.191'
+      end: '00:22:39.191'
+      u: Ja.
+    - who: David Boder
+      start: '00:22:39.414'
+      end: '00:22:39.414'
+      u: ". . . dass man in Belsen-Belsen [sic!] Menschenfleisch..."
+    - who: Yanusch Deutsch
+      start: '00:22:40.665'
+      end: '00:22:40.665'
+      u: Ja.
+    - who: David Boder
+      start: '00:22:41.073'
+      end: '00:22:41.073'
+      u: ". . . gefüttert hat?"
+    - who: Yanusch Deutsch
+      start: '00:22:41.601'
+      end: '00:22:41.601'
+      u: Es war so wie Kalbfleisch, so gut, so klein und so...
+    - who: David Boder
+      start: '00:22:45.001'
+      end: '00:22:45.001'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:22:46.011'
+      end: '00:22:46.011'
+      u: War sehr gut.
+    - who: David Boder
+      start: '00:22:47.225'
+      end: '00:22:47.225'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:22:48.457'
+      end: '00:22:48.457'
+      u: Und wir haben nicht gewusst, was für ein Fleisch war. In Bergen-Belsen gibt
+        man uns Kalbfleisch. Ja. Und vier Uhr nachmittag haben wir Nachtessen bekommen.
+        Die, haben wir das schwarzes Kaffee wieder bekommen. Und außerdem habe ich
+        täglich 300 Gramm Brot bekommen. Aber diese 300 Gramm Brot war sehr klein.
+        So, so klein wie hier 50 Gramm. Es war schwer, es war sehr schwer, es war
+        nicht aus Weizen gemacht.
+    - who: David Boder
+      start: '00:23:15.431'
+      end: '00:23:15.431'
+      u: Aus was war denn?
+    - who: Yanusch Deutsch
+      start: '00:23:16.987'
+      end: '00:23:16.987'
+      u: Ich weiß nicht. Ich glaube, auf Deutsch weiter kann ich nicht sagen.
+    - who: David Boder
+      start: '00:23:21.631'
+      end: '00:23:21.631'
+      u: Nun?
+    - who: Yanusch Deutsch
+      start: '00:23:22.659'
+      end: '00:23:22.659'
+      u: Und außerdem manchmal haben wir Konfitüre bekommen. Pro Woche, 20 Gramm Konfitüre
+        pro Woche.
+    - who: David Boder
+      start: '00:23:31.525'
+      end: '00:23:31.525'
+      u: Was für eine Konfitüre?
+    - who: Yanusch Deutsch
+      start: '00:23:32.979'
+      end: '00:23:32.979'
+      u: Sehr gute Konfitüre. Konfitüre wie in der Schweiz.
+    - who: David Boder
+      start: '00:23:36.259'
+      end: '00:23:36.259'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:23:36.602'
+      end: '00:23:36.602'
+      u: Gute Konfitüre. Und Margarine haben wir auch bekommen manchmal. 20, 30 Gramm
+        pro Woche, war auch sehr gut. Gute Butter.
+    - who: David Boder
+      start: '00:23:45.116'
+      end: '00:23:45.116'
+      u: Aha.
+    - who: Yanusch Deutsch
+      start: '00:23:45.737'
+      end: '00:23:45.737'
+      u: Wir Kinder haben Milch bekommen. Unser Lager hat Milch bekommen und Kakao,
+        das hat man für die Kinder gegeben. Und die Kinder bis sechs Jahren haben
+        halbes Liter Milch pro Tag bekommen.
+    - who: David Boder
+      start: '00:23:58.947'
+      end: '00:23:58.947'
+      u: War das wo? Im...
+    - who: Yanusch Deutsch
+      start: '00:24:00.855'
+      end: '00:24:00.855'
+      u: Die Deutschen haben es gegeben.
+    - who: David Boder
+      start: '00:24:02.894'
+      end: '00:24:02.894'
+      u: Wo, wo waren Kinder? Waren Kinder in Ihrem Block?
+    - who: Yanusch Deutsch
+      start: '00:24:08.128'
+      end: '00:24:08.128'
+      u: Ja. Die waren zusammen. Frauen und separat Kinder, [verbessert sich] separat
+        Männer. Und die Kinder, wenn, wenn sie klein waren, waren Männer, [verbessert
+        sich] wenn sie Mädchen waren, mit den Frauen.
+    - who: David Boder
+      start: '00:24:17.753'
+      end: '00:24:17.753'
+      u: Und man hat ihnen die Milch reingebracht?
+    - who: Yanusch Deutsch
+      start: '00:24:19.356'
+      end: '00:24:19.356'
+      u: Ja. Und von sechs, bis sechs Jahre hat man halbes Liter Milch gegeben pro
+        Tag, von sechs bis neun Jahre drei Deziliter, von 9 bis 14 zwei Deziliter
+        Milch.
+    - who: David Boder
+      start: '00:24:30.334'
+      end: '00:24:30.334'
+      u: Haben Sie Milch bekommen?
+    - who: Yanusch Deutsch
+      start: '00:24:31.511'
+      end: '00:24:31.511'
+      u: Nein. Ich war mehr als 14 Jahre alt.
+    - who: David Boder
+      start: '00:24:33.290'
+      end: '00:24:33.290'
+      u: Nun?
+    - who: Yanusch Deutsch
+      start: '00:24:34.596'
+      end: '00:24:34.596'
+      u: Und, kleine Kinder haben Kakao-Sache bekommen, das war kein natürlicher Kakao,
+        aber war auch sehr gut, einmal habe ich gekostet.
+    - who: David Boder
+      start: '00:24:41.433'
+      end: '00:24:41.433'
+      u: Nun?
+    - who: Yanusch Deutsch
+      start: '00:24:45.815'
+      end: '00:24:45.815'
+      u: Um sieben Uhr mussten wir aufstehen, aufstehen. Hygiene war sehr gut und
+        sehr groß in unserem Lager. Also die Deutschen waren immer reiche Leute, [verbessert
+        sich] reine Leute, nicht wahr? Haben Reinlichkeit gerne. Wir haben große Dusch,
+        Duschen gehabt. Wir konnten jeden Tag duschen. Kaltes Wasser..
+    - who: David Boder
+      start: '00:25:05.416'
+      end: '00:25:05.416'
+      u: "[unterbricht] In Ihrem Block?"
+    - who: Yanusch Deutsch
+      start: '00:25:06.555'
+      end: '00:25:06.555'
+      u: Ja, das Wasser natürlich war sehr angenehm. Und Seife haben wir bekommen.
+        Und Latrinen waren auch sehr gut und rein. Und, also um sieben Uhr mussten
+        wir aufstehen. Die Männer um sechs, und die Frauen um sieben Uhr. Um zehn
+        Uhr war Appell. Jeden Tag sind die Soldaten gekommen, uns zu zählen. Ob niemand
+        geflüchtet ist. Und danach haben wir nichts zu tun gehabt bis abends. Von
+        zehn Uhr abends bis sieben Uhr morgens niemand durfte von den Baracken hinaus
+        gehen. Wer hinausgegangen ist, hat man ihm erschossen. Von dem Turm. Rundherum
+        waren, jede zweihundert Meter war ein Turm mit Soldaten mit Gewehr.
+    - who: David Boder
+      start: '00:25:52.795'
+      end: '00:25:52.795'
+      u: Ja. Haben Sie die anderen Juden dort gesehen? Haben Sie die polnischen Juden...
+    - who: Yanusch Deutsch
+      start: '00:25:57.743'
+      end: '00:25:57.743'
+      u: "[fällt ins Wort] Ich habe, wir haben Juden gesehen, aber wir können nicht
+        sprechen mit andere Juden."
+    - who: David Boder
+      start: '00:26:02.922'
+      end: '00:26:02.922'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:26:03.209'
+      end: '00:26:03.209'
+      u: War verboten. Wir haben holländische Juden gesehen, Franzosen,
+    - who: David Boder
+      start: '00:26:08.499'
+      end: '00:26:08.499'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:26:08.916'
+      end: '00:26:08.916'
+      u: Russen, nicht Juden, Kriegsgefangene. Die waren in einem schlechten Zustand,
+        die russischen Kriegsgefangenen.
+    - who: David Boder
+      start: '00:26:15.984'
+      end: '00:26:15.984'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:26:16.707'
+      end: '00:26:16.707'
+      u: Und dann haben wir Franzosen gesehen und Engländer, Amerikaner, Kriegsgefangene.
+    - who: David Boder
+      start: '00:26:22.960'
+      end: '00:26:22.960'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:26:25.647'
+      end: '00:26:25.647'
+      u: Jede Woche einmal wir sind baden gegangen, duschen gegangen, wir haben Bade—,
+        warmes Bad bekommen. Und die andere Teil von diese Badegebäude war die Krematorium.
+        Zweimal haben wir gesehen, dass sie haben Leute gebracht zum Krematorium herein.
+    - who: David Boder
+      start: '00:26:48.268'
+      end: '00:26:48.268'
+      u: Lebendige?
+    - who: Yanusch Deutsch
+      start: '00:26:49.139'
+      end: '00:26:49.139'
+      u: Lebendige Leute.
+    - who: David Boder
+      start: '00:26:50.371'
+      end: '00:26:50.371'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:26:50.612'
+      end: '00:26:50.612'
+      u: ". . . gebracht. Sie haben geschrien und geweint und alles."
+    - who: David Boder
+      start: '00:26:54.086'
+      end: '00:26:54.086'
+      u: Wie war das? Erzählen Sie. Wann war das? Wie, wieso haben Sie [sich] gesehen?
+        Wo sind sie gegangen?
+    - who: Yanusch Deutsch
+      start: '00:26:58.598'
+      end: '00:26:58.598'
+      u: Jede Woche hat man uns, sie haben gesagt, baden gegangen. In dem Augenblick,
+        wo wir zum [unverständlich; laute Geräusche des Aufnahmegeräts].
+    - who: David Boder
+      start: '00:27:05.444'
+      end: '00:27:05.444'
+      u: Also, ich wollte wissen, nochmal. Sie sagen, Sie haben die Leute gesehen,
+        die man aufs Krematorium genommen hat?
+    - who: Yanusch Deutsch
+      start: '00:27:12.429'
+      end: '00:27:12.429'
+      u: Ja.
+    - who: David Boder
+      start: '00:27:12.642'
+      end: '00:27:12.642'
+      u: Also wollen Sie mir solch eine Begebenheit mit großen Einzelheiten beschreiben?
+        Nun?
+    - who: Yanusch Deutsch
+      start: '00:27:21.007'
+      end: '00:27:21.007'
+      u: Also wir sind im, im Badegebäude gegangen. Waren zwei große Räume. In einem
+        Raum wir mussten die Kleider runternehmen. Und nach, im, im Duschenzimmer
+        reingehen. Und wir, wir waren drin, und wir haben uns oben ausgezogen, als
+        zwei Autos gekommen sind mit Leute, jüdische Leute, ich weiß nicht aus was
+        für Nationalität.
+    - who: David Boder
+      start: '00:27:50.600'
+      end: '00:27:50.600'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:27:51.573'
+      end: '00:27:51.573'
+      u: Also, sie haben ihre Sterne getragen. Ich glaube, sie waren Holländer.
+    - who: David Boder
+      start: '00:27:55.640'
+      end: '00:27:55.640'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:27:55.964'
+      end: '00:27:55.964'
+      u: Waren sehr schlechter Zustand, sie konnten kaum gehen. Waren ältere Leute
+        auch drin.
+    - who: David Boder
+      start: '00:28:01.902'
+      end: '00:28:01.902'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:28:02.273'
+      end: '00:28:02.273'
+      u: Ältere und, und Kinder auch drin. Also, starke Leute habe ich überhaupt keine
+        gesehen.
+    - who: David Boder
+      start: '00:28:08.193'
+      end: '00:28:08.193'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:28:08.452'
+      end: '00:28:08.452'
+      u: Waren nur schwache und kranke Leute. Und dann..
+    - who: David Boder
+      start: '00:28:11.726'
+      end: '00:28:11.726'
+      u: Nur in diesem Transport, ja?
+    - who: Yanusch Deutsch
+      start: '00:28:13.331'
+      end: '00:28:13.331'
+      u: Ja. Und dann die Deutschen haben die Juden heruntergeworfen von dem Auto.
+        Und mit Gummistöcke gewor—, äh, geschlagen. Und sie sind reingegangen in dem
+        anderen, andere Gebäude.
+    - who: David Boder
+      start: '00:28:29.949'
+      end: '00:28:29.949'
+      u: Ja. Und Sie sagen, die Leute haben geschrien?
+    - who: Yanusch Deutsch
+      start: '00:28:33.407'
+      end: '00:28:33.407'
+      u: Geschrien und geweint und wahrscheinlich sie haben gewusst, was geschieht.
+        Mit dem wahrscheinlich nicht [unklar, was gemeint]. Und wir sind jede Woche
+        einmal in mehrere Transporte baden gegangen, weil sie waren dort 1600 Juden.
+        Und, und im Badezimmer konnten nur auf einmal 200 Leute gehen. Also, wir sind
+        um nachmittag um 3 Uhr gegangen, wir haben erst um halb vier gesehn. Und die
+        anderen sind später gegangen. Bis neun Uhr abends keiner ist von dort zurückgekommen.
+        Also wenn bis neun Uhr niemand kommt zurück, wahrscheinlich waren sie...
+    - who: David Boder
+      start: '00:29:08.204'
+      end: '00:29:08.204'
+      u: Naja, vielleicht sind sie nach anderen Block gegangen?
+    - who: Yanusch Deutsch
+      start: '00:29:10.736'
+      end: '00:29:10.736'
+      u: War kein, kein Ausgang mehr.
+    - who: David Boder
+      start: '00:29:12.745'
+      end: '00:29:12.745'
+      u: Aha.
+    - who: Yanusch Deutsch
+      start: '00:29:13.103'
+      end: '00:29:13.103'
+      u: Ich habe die Leute sehr gut gekannt.
+    - who: David Boder
+      start: '00:29:16.175'
+      end: '00:29:16.175'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:29:16.432'
+      end: '00:29:16.432'
+      u: Wir haben uns gut gekannt. Habe [unverständlich] dort gearbeitet.
+    - who: David Boder
+      start: '00:29:20.229'
+      end: '00:29:20.229'
+      u: Ja. Wo haben Sie dort gearbeitet?
+    - who: Yanusch Deutsch
+      start: '00:29:22.595'
+      end: '00:29:22.595'
+      u: Im, im Badegebäude.
+    - who: David Boder
+      start: '00:29:24.099'
+      end: '00:29:24.099'
+      u: Aha.
+    - who: Yanusch Deutsch
+      start: '00:29:24.393'
+      end: '00:29:24.393'
+      u: Also, im Garten habe ich gearbeitet, aber nicht für lange. Und was kann ich
+        noch erzählen aus Bergen-Belsen? Waren Soldaten dort, also keine Zeitungen
+        und alles gibt es nicht da hereinbekommen. Waren dort Soldaten, einige waren
+        anständige. Sie haben mit uns gesprochen.
+    - who: David Boder
+      start: '00:29:48.990'
+      end: '00:29:48.990'
+      u: SS-Leute?
+    - who: Yanusch Deutsch
+      start: '00:29:49.733'
+      end: '00:29:49.733'
+      u: SS-Leute. Waren Ungarn dort zum Beispiel. Sie waren keine Nazis.
+    - who: David Boder
+      start: '00:29:53.888'
+      end: '00:29:53.888'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:29:54.502'
+      end: '00:29:54.502'
+      u: Sondern die Deutschen haben, haben die weggeschleppt aus Ungarn und als Soldaten
+        gemacht. Und sie wollten nicht kämpfen im Front, also man hat sie in Bergen-Belsen
+        im Konzentrationslager als Wache, äh, gemacht. Und die waren keine Nazis,
+        sie haben uns geholfen. Und sie haben immer gesagt die politische Lage. Und
+        wir haben immer gefreut [evtl. „gefragt“], dass die, die, im, äh, In, da war
+        die Invasion in Frankreich. Im 6. Juni hat die Invasion in Frankreich begonnen
+        und die selbe Tag hat man uns deportiert aus Ungarn.
+    - who: David Boder
+      start: '00:30:34.283'
+      end: '00:30:34.283'
+      u: Aha.
+    - who: Yanusch Deutsch
+      start: '00:30:34.824'
+      end: '00:30:34.824'
+      u: 'Also, es war in August schon und wir haben gehört, was es gibt im, in Frankreich,
+        in Ungarn. Und man, sie haben uns Zeitungen hereingebracht und Zigaretten.
+        Wir haben Marken [Anm.: gemeint ist die Währung Mark] gehabt, deutsche Marken,
+        Reichsmarken noch aus Ungarn. Wir haben ihnen das Marken gege—'
+    - who: David Boder
+      start: '00:30:55.013'
+      end: '00:30:55.013'
+      u: "[unterbricht] War Ihnen erlaubt zu behalten die Marken?"
+    - who: Yanusch Deutsch
+      start: '00:30:57.694'
+      end: '00:30:57.694'
+      u: Man hat uns überhaupt nicht durchgesucht.
+    - who: David Boder
+      start: '00:31:00.488'
+      end: '00:31:00.488'
+      u: Wo? Im Lager?
+    - who: Yanusch Deutsch
+      start: '00:31:02.093'
+      end: '00:31:02.093'
+      u: In, von, von, äh, Budapest da hat man uns nicht durchgesucht.
+    - who: David Boder
+      start: '00:31:05.074'
+      end: '00:31:05.074'
+      u: Aber Sie haben doch alles abgeben müssen in Budapest?
+    - who: Yanusch Deutsch
+      start: '00:31:07.981'
+      end: '00:31:07.981'
+      u: 'Nicht in Budapest, in Stuhlweißenburg [Anm.: dt. Name von Székesfehérvár
+        ][Nachsilbe/ein Wort unverständlich].'
+    - who: David Boder
+      start: '00:31:09.898'
+      end: '00:31:09.898'
+      u: Aber haben Sie doch abgeben müssen?
+    - who: Yanusch Deutsch
+      start: '00:31:11.760'
+      end: '00:31:11.760'
+      u: Ja, aber, aber das haben wir noch in Budapest bekommen in Lager.
+    - who: David Boder
+      start: '00:31:16.080'
+      end: '00:31:16.080'
+      u: "[Unverständlich]?"
+    - who: Yanusch Deutsch
+      start: '00:31:17.391'
+      end: '00:31:17.391'
+      u: Oder war von Bekannten.
+    - who: David Boder
+      start: '00:31:18.941'
+      end: '00:31:18.941'
+      u: Aha.
+    - who: Yanusch Deutsch
+      start: '00:31:19.409'
+      end: '00:31:19.409'
+      u: Diese, äh, dieser Lager in Budapest galt sehr gut. Wir konnten sogar hinausgehen
+        von dem Lager.
+    - who: David Boder
+      start: '00:31:25.435'
+      end: '00:31:25.435'
+      u: Ja. Also warten Sie. Zuerst waren Sie im Lager in ihrer Stadt?
+    - who: Yanusch Deutsch
+      start: '00:31:29.480'
+      end: '00:31:29.480'
+      u: Ja.
+    - who: David Boder
+      start: '00:31:30.021'
+      end: '00:31:30.021'
+      u: Dann waren Sie...
+    - who: Yanusch Deutsch
+      start: '00:31:30.553'
+      end: '00:31:30.553'
+      u: Es war sehr schlecht. Es war schlechter als Bergen-Belsen. 3 Wochen lang.
+    - who: David Boder
+      start: '00:31:33.992'
+      end: '00:31:33.992'
+      u: Dann waren Sie...
+    - who: Yanusch Deutsch
+      start: '00:31:35.193'
+      end: '00:31:35.193'
+      u: In Budapest war ich in einem Lager, das war gut, wir konnten dort hinausgehen
+        mit Wache und, und bewacht, konnten reingehen. Das Essen war genug und viel.
+    - who: David Boder
+      start: '00:31:45.722'
+      end: '00:31:45.722'
+      u: Sie konnten herausgehen mit was?
+    - who: Yanusch Deutsch
+      start: '00:31:46.960'
+      end: '00:31:46.960'
+      u: Mit, mit, ja, mit deutsche Soldaten.
+    - who: David Boder
+      start: '00:31:49.125'
+      end: '00:31:49.125'
+      u: Aha.
+    - who: Yanusch Deutsch
+      start: '00:31:49.446'
+      end: '00:31:49.446'
+      u: Wir haben 100 Pengös, 100 ungarische Pengös bezahlt, und dann wir durften
+        hinausgehen.
+    - who: David Boder
+      start: '00:31:54.554'
+      end: '00:31:54.554'
+      u: Und im Linz?
+    - who: Yanusch Deutsch
+      start: '00:31:57.618'
+      end: '00:31:57.618'
+      u: Im Linz wir waren nur ein Tage lang, haben, wir haben gewartet.
+    - who: David Boder
+      start: '00:32:00.672'
+      end: '00:32:00.672'
+      u: Also, wo hat man alles abgeben müssen?
+    - who: Yanusch Deutsch
+      start: '00:32:03.350'
+      end: '00:32:03.350'
+      u: Im, im [unklar; entweder „meinem Stadt“ oder Ungarischer Name].
+    - who: David Boder
+      start: '00:32:05.331'
+      end: '00:32:05.331'
+      u: So, wie haben Sie wieder in Budapest das gehabt? Oh. Von Bekannte [unverständlich].
+    - who: Yanusch Deutsch
+      start: '00:32:08.614'
+      end: '00:32:08.614'
+      u: Ja. Verstehen Sie es?
+    - who: David Boder
+      start: '00:32:10.421'
+      end: '00:32:10.421'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:32:10.724'
+      end: '00:32:10.724'
+      u: Ist es klar?
+    - who: David Boder
+      start: '00:32:11.595'
+      end: '00:32:11.595'
+      u: Ja. Nun?
+    - who: Yanusch Deutsch
+      start: '00:32:12.843'
+      end: '00:32:12.843'
+      u: Und die haben mich vergesst gehabt. Ich weiß nicht genau, ich glaub, 500
+        deutsche Marken gehabt.
+    - who: David Boder
+      start: '00:32:18.979'
+      end: '00:32:18.979'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:32:19.392'
+      end: '00:32:19.392'
+      u: War nicht so groß der Geld, aber wir konnten nichts damit zu machen. Haben
+        20, 30 Marken für ein Zeitung gegeben und, ich weiß nicht was, Zigaretten.
+    - who: David Boder
+      start: '00:32:28.701'
+      end: '00:32:28.701'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:32:29.682'
+      end: '00:32:29.682'
+      u: Und ist sehr interessant, die jüdische Psychologen, der im Lager.
+    - who: David Boder
+      start: '00:32:35.497'
+      end: '00:32:35.497'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:32:36.607'
+      end: '00:32:36.607'
+      u: "[unklar] waren sehr viel Ärzte und Advokaten und Intellektuelle , mehrere,
+        die achtzig Prozent waren Intellektuelle."
+    - who: David Boder
+      start: '00:32:45.090'
+      end: '00:32:45.090'
+      u: "[fragt zwischen, unverständlich]?"
+    - who: Yanusch Deutsch
+      start: '00:32:46.319'
+      end: '00:32:46.319'
+      u: Ja. In diesem, unserem Transport.
+    - who: David Boder
+      start: '00:32:49.116'
+      end: '00:32:49.116'
+      u: Ja. Nun?
+    - who: Yanusch Deutsch
+      start: '00:32:50.033'
+      end: '00:32:50.033'
+      u: Bei 1600 Leuten.
+    - who: David Boder
+      start: '00:32:52.170'
+      end: '00:32:52.170'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:32:52.546'
+      end: '00:32:52.546'
+      u: Und als wir nach Bergen-Belsen angekommen sind, am ersten Tag alle haben
+        angefangen zu stehlen.
+    - who: David Boder
+      start: '00:33:02.497'
+      end: '00:33:02.497'
+      u: Zu stehlen?
+    - who: Yanusch Deutsch
+      start: '00:33:03.477'
+      end: '00:33:03.477'
+      u: Ja. Zu stehlen. Ich habe etwas dort gelassen, ein Fleischstück oder ich weiß
+        nicht was, nächsten Minuten es war schon nicht mehr dort.
+    - who: David Boder
+      start: '00:33:10.423'
+      end: '00:33:10.423'
+      u: Aha.
+    - who: Yanusch Deutsch
+      start: '00:33:11.086'
+      end: '00:33:11.086'
+      u: Und, alle haben gestohlen. Und war, nicht wahr, gest— und gestritten ganzen
+        Tag. Es war, die Nerven gehen sehr kaputt.
+    - who: David Boder
+      start: '00:33:20.302'
+      end: '00:33:20.302'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:33:21.437'
+      end: '00:33:21.437'
+      u: Und wir haben mit unseren Bekannten und, und, und mit allen da, den Verwandten
+        gestritten und geschimpft, den ganzen Tag. Und als die [unklar], wir waren
+        ein oder zwei Monate lang in Bergen-Belsen.
+    - who: David Boder
+      start: '00:33:42.285'
+      end: '00:33:42.285'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:33:42.911'
+      end: '00:33:42.911'
+      u: Zwei Monate lang.
+    - who: David Boder
+      start: '00:33:44.219'
+      end: '00:33:44.219'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:33:44.537'
+      end: '00:33:44.537'
+      u: Nur, also war es ziemlich nicht viel. Da hat man uns die Beschwerde gebracht,...
+    - who: David Boder
+      start: '00:33:49.558'
+      end: '00:33:49.558'
+      u: Hat wer?
+    - who: Yanusch Deutsch
+      start: '00:33:52.091'
+      end: '00:33:52.091'
+      u: Ein Morgen die deutschen Soldaten gekommen, wir müssen in einem anderen Lager
+        uns umziehen. [unklar] sind wir in Dachau oder nach Auschwitz eine weitere
+        Lager. Und wir sind wieder in Wagone eingegangen. Wir waren nur ganz, nur
+        300.
+    - who: David Boder
+      start: '00:34:11.185'
+      end: '00:34:11.185'
+      u: Ja? Männer und Frauen?
+    - who: Yanusch Deutsch
+      start: '00:34:13.146'
+      end: '00:34:13.146'
+      u: Männer und Frauen.
+    - who: David Boder
+      start: '00:34:14.581'
+      end: '00:34:14.581'
+      u: Waren Ihre [evtl. „Eltern da“]?
+    - who: Yanusch Deutsch
+      start: '00:34:15.711'
+      end: '00:34:15.711'
+      u: Ja. Mit meinen Eltern war. Gott sei Dank war mit meinen Eltern. Und dort
+        300 sind dort geblieben. Und wir sind dann in Wagonen hineingegangen. Auch
+        acht— oder neunzig in einem Wagon und vier oder fünf Tage lang haben wir da
+        rein, wir haben nicht gewusst, wohin und, und [unverständlich]. In Karlsruhe
+        wir haben eine deutsche Bombardierung erlebt, man hat Karlsruhe bombardiert.
+        Ist eine große Stadt und eine große Bahnhofstation.
+    - who: David Boder
+      start: '00:34:47.862'
+      end: '00:34:47.862'
+      u: Welche Stadt?
+    - who: Yanusch Deutsch
+      start: '00:34:48.750'
+      end: '00:34:48.750'
+      u: Karlsruhe.
+    - who: David Boder
+      start: '00:34:49.684'
+      end: '00:34:49.684'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:34:50.677'
+      end: '00:34:50.677'
+      u: Ja, und dann mussten wir ins Wiese gehen und alle könnten gehen, wenn wir
+        wollten. Weil überhaupt keine Wache, wir waren ohne Wachen. Ohne..
+    - who: David Boder
+      start: '00:35:00.686'
+      end: '00:35:00.686'
+      u: Ohne Soldaten?
+    - who: Yanusch Deutsch
+      start: '00:35:01.422'
+      end: '00:35:01.422'
+      u: Ohne Soldaten. Ja. Wir könnten wegziehen, wenn wir wollten. Ich weiß nicht,
+        wir wollten schon nicht weg, wir haben nicht gewusst, wohin wir gehen. Für
+        uns war schon egal, wohin wir gehen. Noch in die selbe Abend wir waren in
+        Basel.
+    - who: David Boder
+      start: '00:35:18.134'
+      end: '00:35:18.134'
+      u: Ja. In, in der Schweiz?
+    - who: Yanusch Deutsch
+      start: '00:35:20.425'
+      end: '00:35:20.425'
+      u: In der Schweiz.
+    - who: David Boder
+      start: '00:35:21.181'
+      end: '00:35:21.181'
+      u: Wie hat man Sie auf der Grenze rübergeführt?
+    - who: Yanusch Deutsch
+      start: '00:35:23.474'
+      end: '00:35:23.474'
+      u: 'Ja. Die letzte deutsche Station ist Weil [Anm.: am Rhein], das ist, war
+        ein Kilometer von Basel ungefähr vom deutsche.'
+    - who: David Boder
+      start: '00:35:30.966'
+      end: '00:35:30.966'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:35:31.363'
+      end: '00:35:31.363'
+      u: noch Deutschland. Dort hat man uns untergesucht. Hat man alle Papiere, was
+        wir gehabt haben, weggenommen.
+    - who: David Boder
+      start: '00:35:38.288'
+      end: '00:35:38.288'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:35:38.626'
+      end: '00:35:38.626'
+      u: Wenn jemand Geld gehabt hat oder so etwas, hat man nicht weggenommen. Zum
+        Beispiel jemand hat ein, ein Fotoapparat mit gehabt. Hat man nicht weggenommen.
+    - who: David Boder
+      start: '00:35:47.603'
+      end: '00:35:47.603'
+      u: Ja. Wieso hat man den Fotoapparat nicht weggenommen?
+    - who: Yanusch Deutsch
+      start: '00:35:51.191'
+      end: '00:35:51.191'
+      u: Das hat man nicht genommen. Also Papiere hat man, ja, weil sie auch haben
+        Angst gehabt von die Spionage.
+    - who: David Boder
+      start: '00:35:59.718'
+      end: '00:35:59.718'
+      u: Ja. Nun?
+    - who: Yanusch Deutsch
+      start: '00:36:01.327'
+      end: '00:36:01.327'
+      u: Und wir waren dort fünf, fünf Stunden lang. Und dann hat man uns geschwind,
+        sofort ins Wagone. Dann hat man die Wagone abgesperrt. Von [undeutlich,] in
+        drei Minuten wir waren in einem große Stadt. Waren Soldaten gekommen, sind
+        deutsche Soldaten [einige Worte unverständlich] deutsche Soldaten. Große Stadt,
+        viele Leute. Und hat man uns empfangen. Und Soldaten und Rot-Kreuz-Schwestern
+        und...
+    - who: David Boder
+      start: '00:36:39.281'
+      end: '00:36:39.281'
+      u: "[unterbricht] [unverständlich] Schwester?"
+    - who: Yanusch Deutsch
+      start: '00:36:41.965'
+      end: '00:36:41.965'
+      u: Sehr nett waren sie. Und hat man uns in einen Wartesaal geführt. Waren dort
+        Stühle. Dort wir haben nach zwei, nach drei oder vier Monaten zum ersten Mal
+        einen Stuhl gesehen. Und einen Lampen. Und ich hab Angst gehabt, in einem
+        Stuhl zu setzen. Ich wollte nur auf den Erde, auf den Boden sitzen.
+    - who: David Boder
+      start: '00:37:01.220'
+      end: '00:37:01.220'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:37:02.784'
+      end: '00:37:02.784'
+      u: Und dann haben wir Essen bekommen. Zuerst Suppe und dann leichtere Sachen,
+        dann später chocolat [einige Worte undeutlich]. Dann haben wir langsam, langsam
+        gewusst, dass wir in der Schweiz gekommen sind und wir sind gerettet.
+    - who: David Boder
+      start: '00:37:21.315'
+      end: '00:37:21.315'
+      u: Ihre ganze Familie?
+    - who: Yanusch Deutsch
+      start: '00:37:22.709'
+      end: '00:37:22.709'
+      u: Ja.
+    - who: David Boder
+      start: '00:37:23.712'
+      end: '00:37:23.712'
+      u: Und dann, was hat in der Schweiz passiert?
+    - who: Yanusch Deutsch
+      start: '00:37:26.454'
+      end: '00:37:26.454'
+      u: In der Schweiz wir waren in Auffangslager, in Montreux. War nicht sehr gut.
+        In einem anderen Auffangslager auch. Waren zwei Monate, drei Monate lang.
+        Und dann bin ich nach Engelberg gegangen, in einem Heim. Dort ist meine Mutter
+        auch. War in einem englischen Institut, dort war ich ein Jahr lang. In einem
+        englischen Institut.
+    - who: David Boder
+      start: '00:37:51.206'
+      end: '00:37:51.206'
+      u: Sie wohnen noch in Engelberg?
+    - who: Yanusch Deutsch
+      start: '00:37:52.502'
+      end: '00:37:52.502'
+      u: Ja.
+    - who: David Boder
+      start: '00:37:53.211'
+      end: '00:37:53.211'
+      u: Und Ihr Vater?
+    - who: Yanusch Deutsch
+      start: '00:37:54.150'
+      end: '00:37:54.150'
+      u: Mein Vater ist bei Zürich, arbeitet er als Ingenieur.
+    - who: David Boder
+      start: '00:37:57.322'
+      end: '00:37:57.322'
+      u: Ja. So, warum darf Ihre Mutter nicht mit ihm wohnen?
+    - who: Yanusch Deutsch
+      start: '00:38:00.840'
+      end: '00:38:00.840'
+      u: Also, mein, mein Vater verdient nicht so viel, dass meine Mutter auch dort
+        wohnen kann.
+    - who: David Boder
+      start: '00:38:06.039'
+      end: '00:38:06.039'
+      u: Aha. Und in Zürich ist er mit, mit wem?
+    - who: Yanusch Deutsch
+      start: '00:38:10.476'
+      end: '00:38:10.476'
+      u: In einer Firma, in einer Privatfirma arbeitet er.
+    - who: David Boder
+      start: '00:38:13.961'
+      end: '00:38:13.961'
+      u: Ach ja. Nun?
+    - who: Yanusch Deutsch
+      start: '00:38:15.648'
+      end: '00:38:15.648'
+      u: Er ist ein sehr guter Fachmann.
+    - who: David Boder
+      start: '00:38:17.299'
+      end: '00:38:17.299'
+      u: Wie weit ist Engelbrecht [sic!] von hier?
+    - who: Yanusch Deutsch
+      start: '00:38:20.788'
+      end: '00:38:20.788'
+      u: Engelberg ist bei der Vierwaldstättersee.
+    - who: David Boder
+      start: '00:38:24.915'
+      end: '00:38:24.915'
+      u: Im...?
+    - who: Yanusch Deutsch
+      start: '00:38:25.167'
+      end: '00:38:25.167'
+      u: Wissen Sie, wo Luzern ist?
+    - who: David Boder
+      start: '00:38:27.160'
+      end: '00:38:27.160'
+      u: Wie weit, äh,?
+    - who: Yanusch Deutsch
+      start: '00:38:28.675'
+      end: '00:38:28.675'
+      u: 300 Kilometer von hier.
+    - who: David Boder
+      start: '00:38:30.629'
+      end: '00:38:30.629'
+      u: Von hier. Kann man da per Bahn gehen?
+    - who: Yanusch Deutsch
+      start: '00:38:33.222'
+      end: '00:38:33.222'
+      u: Ja.
+    - who: David Boder
+      start: '00:38:34.402'
+      end: '00:38:34.402'
+      u: Sind dort viele Leute?
+    - who: Yanusch Deutsch
+      start: '00:38:35.815'
+      end: '00:38:35.815'
+      u: Es ist ein Kurort. Nicht wahr, eine der schönsten Kurort der Schweiz. Hat
+        ungefähr 1000 Einwohner. Aber [unverständlich] so nicht; gibt ungefähr fünf-,
+        sechstausend Kurgäste.
+    - who: David Boder
+      start: '00:38:48.843'
+      end: '00:38:48.843'
+      u: Ja. Aber wohnen Sie dort in einem Lager, oder?
+    - who: Yanusch Deutsch
+      start: '00:38:51.306'
+      end: '00:38:51.306'
+      u: In einem, in einem Hotel. Das [unverständlich] ist gut, das Essen ist gut,
+        ist zufrieden, bekommt etwas Geld, Taschengeld. Ich glaub, 50 oder 30, 40
+        Franken im Monat.
+    - who: David Boder
+      start: '00:39:03.676'
+      end: '00:39:03.676'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:39:04.779'
+      end: '00:39:04.779'
+      u: Und sie ist zufrieden dort, die Umgebung ist wunderbar.
+    - who: David Boder
+      start: '00:39:07.939'
+      end: '00:39:07.939'
+      u: Aha.
+    - who: Yanusch Deutsch
+      start: '00:39:10.015'
+      end: '00:39:10.015'
+      u: Und ich war im englischen Institut in Montreux. Und nachher bin ich hier
+        gekommen, in Genf, [unverständlich] Schule.
+    - who: David Boder
+      start: '00:39:20.160'
+      end: '00:39:20.160'
+      u: Sie studieren jetzt [wahrscheinlich „Mechanik“]?
+    - who: Yanusch Deutsch
+      start: '00:39:21.462'
+      end: '00:39:21.462'
+      u: Ja. Und abend vorbereite ich vor für die Maturité, für die [undeutlich] Maturité.
+    - who: David Boder
+      start: '00:39:27.485'
+      end: '00:39:27.485'
+      u: Für welche Maturité?
+    - who: Yanusch Deutsch
+      start: '00:39:28.845'
+      end: '00:39:28.845'
+      u: Ja, also. Erst für [einige Worte unverständlich]. Ich will [evtl. „ein Jahr“]
+        [einige Worte unverständlich] machen.
+    - who: David Boder
+      start: '00:39:36.049'
+      end: '00:39:36.049'
+      u: Wo? In England?
+    - who: Yanusch Deutsch
+      start: '00:39:37.119'
+      end: '00:39:37.119'
+      u: Nein, in der Schweiz, in Genf kann man das machen.
+    - who: David Boder
+      start: '00:39:39.292'
+      end: '00:39:39.292'
+      u: Und was wollen Sie nachher machen?
+    - who: Yanusch Deutsch
+      start: '00:39:41.415'
+      end: '00:39:41.415'
+      u: Nachher möchte ich auf Universität gehen, wenn es möglich ist.
+    - who: David Boder
+      start: '00:39:44.846'
+      end: '00:39:44.846'
+      u: Was wollen Sie denn studieren?
+    - who: Yanusch Deutsch
+      start: '00:39:47.599'
+      end: '00:39:47.599'
+      u: ähm, Maschineningenieur.
+    - who: David Boder
+      start: '00:39:49.786'
+      end: '00:39:49.786'
+      u: Maschineningenieur. Nun, da ist es Ihnen doch so sehr gut gegangen, dass
+        es bleibt verschieden, gerade verschieden, wie es den anderen Leuten gegangen
+        ist?
+    - who: Yanusch Deutsch
+      start: '00:39:59.873'
+      end: '00:39:59.873'
+      u: Ja.
+    - who: David Boder
+      start: '00:40:00.304'
+      end: '00:40:00.304'
+      u: Wie erklären Sie das? War das, weil Sie Zionisten waren? War das, weil Sie
+        Ungarn waren?
+    - who: Yanusch Deutsch
+      start: '00:40:04.349'
+      end: '00:40:04.349'
+      u: In Ungarn waren, in Ungarn waren wir große Zionisten.
+    - who: David Boder
+      start: '00:40:07.818'
+      end: '00:40:07.818'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:40:09.018'
+      end: '00:40:09.018'
+      u: Und die Deutschen haben die Zionisten gerettet. Also hat man, die Juden haben
+        gesehen, wer können, wer kommen können, in diese Transport. Und natürlich
+        haben sie die Zionisten gewählt, nicht wahr.
+    - who: David Boder
+      start: '00:40:22.955'
+      end: '00:40:22.955'
+      u: Aha.
+    - who: David Boder
+      start: '00:40:28.862'
+      end: '00:40:28.862'
+      u: Waren da mehrere reiche Leute mit Ihnen oder waren auch arme Leute?
+    - who: Yanusch Deutsch
+      start: '00:40:32.713'
+      end: '00:40:32.713'
+      u: 'Ganz verschieden. Waren sehr leicht, [korrigiert sich] waren sehr reiche
+        Leute, die auch sehr viel gezahlt haben, dass sie kommen können, dazu [oder:
+        „da zu“] die Zionisten.'
+    - who: David Boder
+      start: '00:40:42.490'
+      end: '00:40:42.490'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:40:43.226'
+      end: '00:40:43.226'
+      u: Waren auch sehr, aber die große Teil waren arme Leute, nicht wahr? Wir haben
+        zum Beispiel überhaupt nichts mehr [einige Worte undeutlich], äh, bezahlt,
+        nicht wahr?
+    - who: David Boder
+      start: '00:40:53.293'
+      end: '00:40:53.293'
+      u: Ja. Wie haben Sie das bezahlt?
+    - who: Yanusch Deutsch
+      start: '00:40:56.815'
+      end: '00:40:56.815'
+      u: Die jüdische, die Jud—, die Judenrat. Der Judenrat hat es dem, dem Joint
+        weitergegeben und das hat dann, Joint [unverständlich] gemacht.
+    - who: David Boder
+      start: '00:41:08.008'
+      end: '00:41:08.008'
+      u: Der Joint hat doch kein Geld mit Ihnen gemacht?
+    - who: Yanusch Deutsch
+      start: '00:41:11.723'
+      end: '00:41:11.723'
+      u: Also, ich weiß nicht, wie es gegangen ist. Ich, die Joint hat Geld bezahlt,
+        aber sie mussten auch vorher etwas zahlen dafür.
+    - who: David Boder
+      start: '00:41:23.396'
+      end: 
+      u: "[In English] This concludes Spool 80 of Yanusch Deutsch, a Hungarian, a
+        Hungarian Jewish child which was saved...eh, by special, by a special form
+        of deportation to Belsen, presumably a Zionist, which has to be verified."
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:00.481'
+      end: '00:00:00.481'
+      u: Geneva, August the 27th 1946, at the ORT School of Mechanics. The interviewee
+        is Yanusch Deutsch, now seventeen and a half...rather a tall, good-looking
+        and neat-looking young man. And we shall interview him on his experiences
+        during the war.
+    - who: David Boder
+      start: '00:00:27.961'
+      end: '00:00:27.961'
+      u: "[In German] So, Mr. Deutsch, eh..."
+    - who: Yanusch Deutsch
+      start: '00:00:29.473'
+      end: '00:00:29.473'
+      u: Yes?
+    - who: David Boder
+      start: '00:00:30.060'
+      end: '00:00:30.060'
+      u: Tell me, where were you when the war start, started, and what happened to
+        you during the war?
+    - who: Yanusch Deutsch
+      start: '00:00:39.824'
+      end: '00:00:39.824'
+      u: When the war broke out I was in Hungary. I lived in a, with my parents in
+        a little to—, town not far from Budapest. Sixty kilometers from Budapest.
+    - who: David Boder
+      start: '00:00:53.199'
+      end: '00:00:53.199'
+      u: How many people were there in your family?
+    - who: Yanusch Deutsch
+      start: '00:00:56.649'
+      end: '00:00:56.649'
+      u: Well, my parents, they are alone.
+    - who: David Boder
+      start: '00:00:58.979'
+      end: '00:00:58.979'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:00:59.352'
+      end: '00:00:59.352'
+      u: Well, I was there, too.
+    - who: David Boder
+      start: '00:01:00.757'
+      end: '00:01:00.757'
+      u: Yes. Now, what was your parents' occupation?
+    - who: Yanusch Deutsch
+      start: '00:01:04.296'
+      end: '00:01:04.296'
+      u: My father is architect engineer.
+    - who: David Boder
+      start: '00:01:06.839'
+      end: '00:01:06.839'
+      u: Yes. Where is your father now?
+    - who: Yanusch Deutsch
+      start: '00:01:08.505'
+      end: '00:01:08.505'
+      u: In Switzerland.
+    - who: David Boder
+      start: '00:01:09.562'
+      end: '00:01:09.562'
+      u: In Switzerland.
+    - who: Yanusch Deutsch
+      start: '00:01:10.592'
+      end: '00:01:10.592'
+      u: And he is working as an engineer.
+    - who: David Boder
+      start: '00:01:12.454'
+      end: '00:01:12.454'
+      u: Yes. Well?
+    - who: Yanusch Deutsch
+      start: '00:01:14.794'
+      end: '00:01:14.794'
+      u: And my father has an office...
+    - who: David Boder
+      start: '00:01:19.070'
+      end: '00:01:19.070'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:01:19.632'
+      end: '00:01:19.632'
+      u: And we could live calmly until 1944.
+    - who: David Boder
+      start: '00:01:24.096'
+      end: '00:01:24.096'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:01:25.135'
+      end: '00:01:25.135'
+      u: The [unintelligible; something with "architect"?] was not so big in Hungary,
+        so we could calmly live there.
+    - who: David Boder
+      start: '00:01:30.254'
+      end: '00:01:30.254'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:01:30.918'
+      end: '00:01:30.918'
+      u: And we heard the news from Germany and the occupied territories where the
+        Germans were. What, what terrible things they did to the Jews. We never thought
+        that the same could happen to us.
+    - who: David Boder
+      start: '00:01:48.378'
+      end: '00:01:48.378'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:01:50.259'
+      end: '00:01:50.259'
+      u: In '44, 20 March the Germans conquered Hungary.
+    - who: David Boder
+      start: '00:01:56.837'
+      end: '00:01:56.837'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:01:57.885'
+      end: '00:01:57.885'
+      u: 'There was no object.Translator''s note: He confuses the German words "Gegenstand"
+        and "Widerstand," meaning "object" and "resistance," respectively.1'
+    - who: David Boder
+      start: '00:02:00.337'
+      end: '00:02:00.337'
+      u: I see.
+    - who: Yanusch Deutsch
+      start: '00:02:00.955'
+      end: '00:02:00.955'
+      u: And the Jew—, the Germans, of course, immediately took measures against the
+        Jews.
+    - who: David Boder
+      start: '00:02:07.084'
+      end: '00:02:07.084'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:02:07.430'
+      end: '00:02:07.430'
+      u: Yes, Star [of David] and [inaudible].
+    - who: David Boder
+      start: '00:02:10.396'
+      end: '00:02:10.396'
+      u: "[unintelligible; possibly something in English?]"
+    - who: Yanusch Deutsch
+      start: '00:02:11.912'
+      end: '00:02:11.912'
+      u: Every country is the same. [unintelligible] what happened in Germany, only
+        much, much faster.
+    - who: David Boder
+      start: '00:02:17.854'
+      end: '00:02:17.854'
+      u: So, for example, what did they do? Let's forget that we already know that.
+    - who: Yanusch Deutsch
+      start: '00:02:21.363'
+      end: '00:02:21.363'
+      u: Yes, well, [unintelligible].
+    - who: David Boder
+      start: '00:02:25.359'
+      end: '00:02:25.359'
+      u: How was it announced that one was supposed to wear the Stars?
+    - who: Yanusch Deutsch
+      start: '00:02:30.758'
+      end: '00:02:30.758'
+      u: Twelve days after the Germans...
+    - who: David Boder
+      start: '00:02:33.247'
+      end: '00:02:33.247'
+      u: "[unintelligible]"
+    - who: Yanusch Deutsch
+      start: '00:02:33.509'
+      end: '00:02:33.509'
+      u: ". . . occupied Hungary,"
+    - who: David Boder
+      start: '00:02:36.157'
+      end: '00:02:36.157'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:02:37.411'
+      end: '00:02:37.411'
+      u: ". . . in the papers there appeared articles that the Jews, eh, six, I mean
+        have to wear Magen David."
+    - who: David Boder
+      start: '00:02:47.835'
+      end: '00:02:47.835'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:02:49.267'
+      end: '00:02:49.267'
+      u: Ten centimeters large, made from yellow, yellow...
+    - who: David Boder
+      start: '00:02:53.749'
+      end: '00:02:53.749'
+      u: Cloth?
+    - who: Yanusch Deutsch
+      start: '00:02:54.329'
+      end: '00:02:54.329'
+      u: Cloth.
+    - who: David Boder
+      start: '00:02:55.022'
+      end: '00:02:55.022'
+      u: Yes, out of yellow cloth.
+    - who: Yanusch Deutsch
+      start: '00:02:56.061'
+      end: '00:02:56.061'
+      u: Yes, yellow cloth.
+    - who: David Boder
+      start: '00:02:56.641'
+      end: '00:02:56.641'
+      u: And where did one get these? Were they sold, or what?
+    - who: Yanusch Deutsch
+      start: '00:03:00.038'
+      end: '00:03:00.038'
+      u: We had to make them ourselves, and Jewish merchants, Jewish, I mean, salesmen
+        sold it.
+    - who: David Boder
+      start: '00:03:07.309'
+      end: '00:03:07.309'
+      u: They sold it?
+    - who: Yanusch Deutsch
+      start: '00:03:08.263'
+      end: '00:03:08.263'
+      u: Yes.
+    - who: David Boder
+      start: '00:03:08.661'
+      end: '00:03:08.661'
+      u: How much did they take for it?
+    - who: Yanusch Deutsch
+      start: '00:03:10.616'
+      end: '00:03:10.616'
+      u: Well, I don't know, twenty, thirty drachmas, well...
+    - who: David Boder
+      start: '00:03:13.238'
+      end: '00:03:13.238'
+      u: Twenty, thirty drachmas. So they...
+    - who: Yanusch Deutsch
+      start: '00:03:14.377'
+      end: '00:03:14.377'
+      u: "[interrupts] Most often nothing, most often nothing at all, because they
+        knew, after all, that they not have their businesses much longer, so why should
+        they earn anything."
+    - who: David Boder
+      start: '00:03:22.734'
+      end: '00:03:22.734'
+      u: Yes. Well?
+    - who: Yanusch Deutsch
+      start: '00:03:26.653'
+      end: '00:03:26.653'
+      u: And then things proceeded quite rapidly. At first, the businessmen had to
+        lock their businesses.
+    - who: David Boder
+      start: '00:03:34.555'
+      end: '00:03:34.555'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:03:35.426'
+      end: '00:03:35.426'
+      u: And then they had to hand in cameras, radios, typewriters, [unintelligible;
+        possibly "little treasures"?], everything.
+    - who: David Boder
+      start: '00:03:45.626'
+      end: '00:03:45.626'
+      u: "[unintelligible]"
+    - who: Yanusch Deutsch
+      start: '00:03:46.543'
+      end: '00:03:46.543'
+      u: "[unintelligible]"
+    - who: David Boder
+      start: '00:03:47.525'
+      end: '00:03:47.525'
+      u: Yes. Well?
+    - who: Yanusch Deutsch
+      start: '00:03:53.158'
+      end: '00:03:53.158'
+      u: And then we immediately had to hand in all the gold and, how does one say,
+        "schmucksachen"?
+    - who: David Boder
+      start: '00:03:59.244'
+      end: '00:03:59.244'
+      u: Jewelry.
+    - who: Yanusch Deutsch
+      start: '00:03:59.774'
+      end: '00:03:59.774'
+      u: Jewelry. And money that we had in the bank, that we had saved, and absolutely
+        nothing of it we could receive.
+    - who: David Boder
+      start: '00:04:10.841'
+      end: '00:04:10.841'
+      u: 'Speak [possibly: "try"?] English, don''t mind the pronunciation, go on.'
+    - who: Yanusch Deutsch
+      start: '00:04:15.442'
+      end: '00:04:15.442'
+      u: "[In English]...I'll try. But it was not only this loss against us but the
+        German SS soldiers came every day and they asked us...Do you know that in
+        every town there was a Judenrat [Jewish Council]—there were Judenräte with
+        Judenalteste. And they came every day and they asked us food...[break in tape]...jewels,
+        everything they liked."
+    - who: David Boder
+      start: '00:04:45.681'
+      end: '00:04:45.681'
+      u: Who? The Judenrat?
+    - who: Yanusch Deutsch
+      start: '00:04:47.061'
+      end: '00:04:47.061'
+      u: From the Judenrat, the SS soldiers and the Judenrat—it was the duty of the
+        Judenrat—to get these things.
+    - who: David Boder
+      start: '00:04:56.464'
+      end: '00:04:56.464'
+      u: Oh. The SS came to the Judenrat?
+    - who: Yanusch Deutsch
+      start: '00:04:59.400'
+      end: '00:04:59.400'
+      u: Yes.
+    - who: David Boder
+      start: '00:04:59.844'
+      end: '00:04:59.844'
+      u: And the Judenrat had to go to the Jews...
+    - who: Yanusch Deutsch
+      start: '00:05:02.012'
+      end: '00:05:02.012'
+      u: Yes.
+    - who: David Boder
+      start: '00:05:02.267'
+      end: '00:05:02.267'
+      u: ". . . to get it. Nu. All right. That's very good. Go ahead."
+    - who: Yanusch Deutsch
+      start: '00:05:05.814'
+      end: '00:05:05.814'
+      u: Yes. And after two month and a half who had to go to the ghetto.
+    - who: David Boder
+      start: '00:05:15.802'
+      end: '00:05:15.802'
+      u: Now how was that?
+    - who: Yanusch Deutsch
+      start: '00:05:16.888'
+      end: '00:05:16.888'
+      u: Well in all town it was like that. First we had to leave...there were only
+        some houses for the Jews and on the door of these houses there was—were a
+        big gold star.
+    - who: David Boder
+      start: '00:05:33.941'
+      end: '00:05:33.941'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:05:34.411'
+      end: '00:05:34.411'
+      u: A yellow star.
+    - who: David Boder
+      start: '00:05:36.247'
+      end: '00:05:36.247'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:05:37.772'
+      end: '00:05:37.772'
+      u: And we were living in our flat twenty-four persons. Before [unintelligible]
+        we had four rooms and we lived there twenty-four persons.
+    - who: David Boder
+      start: '00:05:49.802'
+      end: '00:05:49.802'
+      u: So they left you in your flat...
+    - who: Yanusch Deutsch
+      start: '00:05:51.299'
+      end: '00:05:51.299'
+      u: Yes.
+    - who: David Boder
+      start: '00:05:51.859'
+      end: '00:05:51.859'
+      u: But who got you the twenty-four persons? Who told you to take in the twenty-four
+        persons?
+    - who: Yanusch Deutsch
+      start: '00:05:58.387'
+      end: '00:05:58.387'
+      u: The SS soldiers told the Judenrat on Monday that for Friday they did had
+        these houses—I think it was hundred and twenty houses—and they must get there...still
+        Friday evening.
+    - who: David Boder
+      start: '00:06:18.441'
+      end: '00:06:18.441'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:06:20.044'
+      end: '00:06:20.044'
+      u: And it was very difficult business because we hadn't had any car and we had
+        to take the furnitures ourselves.
+    - who: David Boder
+      start: '00:06:30.538'
+      end: '00:06:30.538'
+      u: So you had to move out from your...
+    - who: Yanusch Deutsch
+      start: '00:06:32.637'
+      end: '00:06:32.637'
+      u: No. Fortunately we didn't move out—then. We lived that for one week. You
+        can imagine that..
+    - who: David Boder
+      start: '00:06:40.008'
+      end: '00:06:40.008'
+      u: That you took in other people?
+    - who: Yanusch Deutsch
+      start: '00:06:41.518'
+      end: '00:06:41.518'
+      u: Other...twenty-one persons. [speaking over each other] We were twenty-four.
+        Well you can imagine it because...
+    - who: David Boder
+      start: '00:06:48.412'
+      end: '00:06:48.412'
+      u: Well...
+    - who: Yanusch Deutsch
+      start: '00:06:49.565'
+      end: '00:06:49.565'
+      u: ". . . twenty-four people...brought with them their furnitures and their
+        things and the flat was crowded and we couldn't move and we had only one kitchen
+        and there were five or six familie—, families."
+    - who: David Boder
+      start: '00:07:03.593'
+      end: '00:07:03.593'
+      u: Yes. And how many rooms did you have?
+    - who: Yanusch Deutsch
+      start: '00:07:07.488'
+      end: '00:07:07.488'
+      u: Four big rooms.
+    - who: David Boder
+      start: '00:07:08.610'
+      end: '00:07:08.610'
+      u: What?
+    - who: Yanusch Deutsch
+      start: '00:07:09.100'
+      end: '00:07:09.100'
+      u: Four.
+    - who: David Boder
+      start: '00:07:09.623'
+      end: '00:07:09.623'
+      u: Four rooms and a kitchen.
+    - who: Yanusch Deutsch
+      start: '00:07:10.729'
+      end: '00:07:10.729'
+      u: Yes.
+    - who: David Boder
+      start: '00:07:11.164'
+      end: '00:07:11.164'
+      u: Yes. Nu.
+    - who: Yanusch Deutsch
+      start: '00:07:13.170'
+      end: '00:07:13.170'
+      u: And, for instance, my mother and I—and me—slept in the kitchen.
+    - who: David Boder
+      start: '00:07:19.408'
+      end: '00:07:19.408'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:07:20.064'
+      end: '00:07:20.064'
+      u: And they were cooking in the kitchen all day and night. We were cooking from
+        eight o'clock until ten o'clock, other families from ten o'clock until twelve...
+    - who: David Boder
+      start: '00:07:29.425'
+      end: '00:07:29.425'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:07:30.423'
+      end: '00:07:30.423'
+      u: ". . . other families in the afternoon. So we lived there for one week. We
+        knew...we knew that they would deport us and we had to get some food and we
+        wanted to eat it very quickly."
+    - who: David Boder
+      start: '00:07:46.638'
+      end: '00:07:46.638'
+      u: All right.
+    - who: Yanusch Deutsch
+      start: '00:07:49.561'
+      end: '00:07:49.561'
+      u: And, one morning...
+    - who: David Boder
+      start: '00:07:53.017'
+      end: '00:07:53.017'
+      u: You said you wanted to eat your food as quick as possible because you knew
+        that what?
+    - who: Yanusch Deutsch
+      start: '00:07:57.599'
+      end: '00:07:57.599'
+      u: Well, it very good things [?] and we were...I can say we were then happy.
+        It was the last happy days of my life.
+    - who: David Boder
+      start: '00:08:06.959'
+      end: '00:08:06.959'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:08:07.870'
+      end: '00:08:07.870'
+      u: And one morning, suddenly, at four o'clock German soldiers came in our house
+        and they ordered the men in the yard...on the yard.
+    - who: David Boder
+      start: '00:08:20.903'
+      end: '00:08:20.903'
+      u: Ja. Only the men?
+    - who: Yanusch Deutsch
+      start: '00:08:21.902'
+      end: '00:08:21.902'
+      u: Only the men. And they told them that they would give us one hour. In one
+        hour we must move out. We can take with us thirty kilos of baggages.
+    - who: David Boder
+      start: '00:08:36.057'
+      end: '00:08:36.057'
+      u: Each person?
+    - who: Yanusch Deutsch
+      start: '00:08:37.521'
+      end: '00:08:37.521'
+      u: Yes.
+    - who: David Boder
+      start: '00:08:38.155'
+      end: '00:08:38.155'
+      u: Ja. How old were you then?
+    - who: Yanusch Deutsch
+      start: '00:08:41.032'
+      end: '00:08:41.032'
+      u: I was then fifteen years old...and some months. Well, you can imagine we
+        hadn't had much time. We had to clothe—to dress ourselves—and we take some
+        food and some clothes and everything we knew—everything we knew it would be
+        useful. Then they take us on the yard and they...how do you say in English
+        [German phrase]?
+    - who: David Boder
+      start: '00:09:10.271'
+      end: '00:09:10.271'
+      u: And they searched you?
+    - who: Yanusch Deutsch
+      start: '00:09:11.116'
+      end: '00:09:11.116'
+      u: 'They searched us. They took the good things away from us: the chocolate,
+        the coffee, the sugar...confiture [jam], the jam, and we remained with very
+        little baggages.'
+    - who: David Boder
+      start: '00:09:25.026'
+      end: '00:09:25.026'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:09:26.475'
+      end: '00:09:26.475'
+      u: And then we had to remain there from six o'clock in the morning until two
+        o'clock in the night.
+    - who: David Boder
+      start: '00:09:32.639'
+      end: '00:09:32.639'
+      u: In the yard?
+    - who: Yanusch Deutsch
+      start: '00:09:33.653'
+      end: '00:09:33.653'
+      u: Yes. It was [great fun?].
+    - who: David Boder
+      start: '00:09:35.450'
+      end: '00:09:35.450'
+      u: The men alone or everybody?
+    - who: Yanusch Deutsch
+      start: '00:09:37.252'
+      end: '00:09:37.252'
+      u: Everybody—together. And you know the search was very...very strong...and
+        we had to undress and so everywhere and they give me slaps and they kick me.
+    - who: David Boder
+      start: '00:09:59.257'
+      end: '00:09:59.257'
+      u: Where did you have to undress?
+    - who: Yanusch Deutsch
+      start: '00:10:02.211'
+      end: '00:10:02.211'
+      u: In a room.
+    - who: David Boder
+      start: '00:10:03.306'
+      end: '00:10:03.306'
+      u: In a separate room?
+    - who: Yanusch Deutsch
+      start: '00:10:04.612'
+      end: '00:10:04.612'
+      u: A separate room, the men...separate from the women. And at two o'clock they
+        came and they took us to the [brick?] factory.
+    - who: David Boder
+      start: '00:10:16.322'
+      end: '00:10:16.322'
+      u: Two o'clock at night?
+    - who: Yanusch Deutsch
+      start: '00:10:17.340'
+      end: '00:10:17.340'
+      u: In the night.
+    - who: David Boder
+      start: '00:10:18.155'
+      end: '00:10:18.155'
+      u: In the night.
+    - who: Yanusch Deutsch
+      start: '00:10:18.743'
+      end: '00:10:18.743'
+      u: You know, in Hungary I think almost each town they take the Jews in a [brick?]
+        factory.
+    - who: David Boder
+      start: '00:10:27.427'
+      end: '00:10:27.427'
+      u: Why?
+    - who: Yanusch Deutsch
+      start: '00:10:28.722'
+      end: '00:10:28.722'
+      u: I don't know. Because, you how it looks like...
+    - who: David Boder
+      start: '00:10:34.764'
+      end: '00:10:34.764'
+      u: A [brick?] factory?
+    - who: Yanusch Deutsch
+      start: '00:10:35.613'
+      end: '00:10:35.613'
+      u: Yes. We were slept on the ground. We didn't have any straw—nothing to sleep
+        on and we hadn't food. We had even less food than in Bergen-Belsen.
+    - who: David Boder
+      start: '00:10:51.691'
+      end: '00:10:51.691'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:10:52.817'
+      end: '00:10:52.817'
+      u: And we were there...
+    - who: David Boder
+      start: '00:10:56.370'
+      end: '00:10:56.370'
+      u: Oh! You said you did...you had some food with you?
+    - who: Yanusch Deutsch
+      start: '00:10:59.262'
+      end: '00:10:59.262'
+      u: They took everything away [they saw?]. Almost everything. They give us food
+        for three days we were there for more than a fortnight.
+    - who: David Boder
+      start: '00:11:16.241'
+      end: '00:11:16.241'
+      u: They gave you food or they allowed you to have food?
+    - who: Yanusch Deutsch
+      start: '00:11:19.241'
+      end: '00:11:19.241'
+      u: Yes. And they took away the food.
+    - who: David Boder
+      start: '00:11:22.994'
+      end: '00:11:22.994'
+      u: Now let's have that clear. They gave you food—German food, bread and so on
+        or they allowed you to take food...
+    - who: Yanusch Deutsch
+      start: '00:11:29.788'
+      end: '00:11:29.788'
+      u: They allowed...they allowed us to take food with us and then they took away
+        the good things—the sugar, the chocolate, the coffee, although we had bread
+        and I don't know...
+    - who: David Boder
+      start: '00:11:41.847'
+      end: '00:11:41.847'
+      u: Tell me, and the Judenrat was also deported?
+    - who: Yanusch Deutsch
+      start: '00:11:45.477'
+      end: '00:11:45.477'
+      u: Everybody. And you know that in Hungary there was some people who fought
+        in the war and who were Jews but they had to go to the ghetto. But they had
+        to go to the [brick?] factory and they were deported too.
+    - who: David Boder
+      start: '00:12:02.197'
+      end: '00:12:02.197'
+      u: A-ha. Nu?
+    - who: Yanusch Deutsch
+      start: '00:12:03.615'
+      end: '00:12:03.615'
+      u: And in the [brick?] factory we had half a liter of soap in a day...
+    - who: David Boder
+      start: '00:12:10.947'
+      end: '00:12:10.947'
+      u: Soup?
+    - who: Yanusch Deutsch
+      start: '00:12:11.402'
+      end: '00:12:11.402'
+      u: ". . . of soup and hundred-fifty grams of bread."
+    - who: David Boder
+      start: '00:12:17.044'
+      end: '00:12:17.044'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:12:17.924'
+      end: '00:12:17.924'
+      u: Nothing more. And it was very bad too because we hadn't any...any stuff or
+        any fat. You know...fat. It was very bad.
+    - who: David Boder
+      start: '00:12:27.617'
+      end: '00:12:27.617'
+      u: What month was it?
+    - who: Yanusch Deutsch
+      start: '00:12:29.281'
+      end: '00:12:29.281'
+      u: It was...June.
+    - who: David Boder
+      start: '00:12:32.726'
+      end: '00:12:32.726'
+      u: June?
+    - who: Yanusch Deutsch
+      start: '00:12:33.867'
+      end: '00:12:33.867'
+      u: June.
+    - who: David Boder
+      start: '00:12:34.098'
+      end: '00:12:34.098'
+      u: And what was the name of your city?
+    - who: Yanusch Deutsch
+      start: '00:12:36.898'
+      end: '00:12:36.898'
+      u: Székesfehérvár, Stuhlweissenburg
+    - who: David Boder
+      start: '00:12:39.955'
+      end: '00:12:39.955'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:12:40.278'
+      end: '00:12:40.278'
+      u: ". . . in German."
+    - who: David Boder
+      start: '00:12:41.101'
+      end: '00:12:41.101'
+      u: Nu.
+    - who: Yanusch Deutsch
+      start: '00:12:42.150'
+      end: '00:12:42.150'
+      u: And then they took...one morning they said that they will take us away from
+        our town and we must get out from the [brick?] factory and we must go to the
+        station, the railway station. Well, the last minute there came a wire saying
+        that twenty-six people are going to Budapest are not going to the transport
+        but are going to Budapest and we were in this twenty-six people.
+    - who: David Boder
+      start: '00:13:15.046'
+      end: '00:13:15.046'
+      u: Why?
+    - who: Yanusch Deutsch
+      start: '00:13:17.140'
+      end: '00:13:17.140'
+      u: We have these Zionists.
+    - who: David Boder
+      start: '00:13:18.942'
+      end: '00:13:18.942'
+      u: Zionists. Yes.
+    - who: Yanusch Deutsch
+      start: '00:13:19.838'
+      end: '00:13:19.838'
+      u: Zionists. And you know that in every...in every country, the German...
+    - who: David Boder
+      start: '00:13:30.165'
+      end: '00:13:30.165'
+      u: The Gestapo?
+    - who: Yanusch Deutsch
+      start: '00:13:31.194'
+      end: '00:13:31.194'
+      u: ". . . the Gestapo...now how do you say it?"
+    - who: David Boder
+      start: '00:13:34.103'
+      end: '00:13:34.103'
+      u: "[clarifying in German]"
+    - who: Yanusch Deutsch
+      start: '00:13:36.578'
+      end: '00:13:36.578'
+      u: "[German phrase]"
+    - who: David Boder
+      start: '00:13:38.311'
+      end: '00:13:38.311'
+      u: The Germans have taken...
+    - who: Yanusch Deutsch
+      start: '00:13:40.246'
+      end: '00:13:40.246'
+      u: ". . . they have taken. There was a business with the Germans that they can
+        take us...I don't know, some Jews to Palestine. It was an Aliyah [immigration
+        or pilgrimage to Palestine], it was...made by the Joint."
+    - who: David Boder
+      start: '00:13:57.857'
+      end: '00:13:57.857'
+      u: Oh, the Germans had an arrangement that they can take to Palestine...
+    - who: Yanusch Deutsch
+      start: '00:14:01.687'
+      end: '00:14:01.687'
+      u: Ja.
+    - who: David Boder
+      start: '00:14:01.880'
+      end: '00:14:01.880'
+      u: ". . . some of the Jews. Nu."
+    - who: Yanusch Deutsch
+      start: '00:14:03.974'
+      end: '00:14:03.974'
+      u: And they have taken us to Budapest in a camp and we were there six hundred
+        people, later on we were nine hundred there.
+    - who: David Boder
+      start: '00:14:19.143'
+      end: '00:14:19.143'
+      u: And they told you that you would go to Palestine?
+    - who: Yanusch Deutsch
+      start: '00:14:21.048'
+      end: '00:14:21.048'
+      u: To Palestine. And then one day they took us and they deported us who were...they
+        had taken us to Bergen-Belsen. We were in a wagon seventy-nine people we couldn't
+        sleep, we couldn't sit, we could only stand. Because there was not any place.
+    - who: David Boder
+      start: '00:14:45.064'
+      end: '00:14:45.064'
+      u: Did you have a toilet in your car?
+    - who: Yanusch Deutsch
+      start: '00:14:47.588'
+      end: '00:14:47.588'
+      u: No.
+    - who: David Boder
+      start: '00:14:48.238'
+      end: '00:14:48.238'
+      u: What did you do?
+    - who: Yanusch Deutsch
+      start: '00:14:49.164'
+      end: '00:14:49.164'
+      u: It was wagon for the cows. You know?
+    - who: David Boder
+      start: '00:14:51.545'
+      end: '00:14:51.545'
+      u: Ja. So what did you do when you needed to go to the toilet?
+    - who: Yanusch Deutsch
+      start: '00:14:55.206'
+      end: '00:14:55.206'
+      u: Well, it was very bad because once a day the train stopped and we had to
+        make it then.
+    - who: David Boder
+      start: '00:15:03.552'
+      end: '00:15:03.552'
+      u: To go out?
+    - who: Yanusch Deutsch
+      start: '00:15:04.156'
+      end: '00:15:04.156'
+      u: To go out.
+    - who: David Boder
+      start: '00:15:05.267'
+      end: '00:15:05.267'
+      u: And if not...otherwise? Otherwise...?
+    - who: Yanusch Deutsch
+      start: '00:15:11.954'
+      end: '00:15:11.954'
+      u: Well, otherwise...we had jugs there...we had with us jugs...
+    - who: David Boder
+      start: '00:15:22.435'
+      end: '00:15:22.435'
+      u: And how would you do it? There were people around?
+    - who: Yanusch Deutsch
+      start: '00:15:26.111'
+      end: '00:15:26.111'
+      u: We had to do it.
+    - who: David Boder
+      start: '00:15:27.928'
+      end: '00:15:27.928'
+      u: Uh-huh And the women?
+    - who: Yanusch Deutsch
+      start: '00:15:30.575'
+      end: '00:15:30.575'
+      u: Women too.
+    - who: David Boder
+      start: '00:15:31.686'
+      end: '00:15:31.686'
+      u: Well the women too.
+    - who: Yanusch Deutsch
+      start: '00:15:32.582'
+      end: '00:15:32.582'
+      u: It was daytime was quite dark too because it was...the door was shut. You
+        know?
+    - who: David Boder
+      start: '00:15:40.175'
+      end: '00:15:40.175'
+      u: Ja.
+    - who: Yanusch Deutsch
+      start: '00:15:40.687'
+      end: '00:15:40.687'
+      u: We couldn't see.
+    - who: David Boder
+      start: '00:15:42.059'
+      end: '00:15:42.059'
+      u: Ja, so they could...satisfy their needs, eliminate in that way.
+    - who: Yanusch Deutsch
+      start: '00:15:48.776'
+      end: '00:15:48.776'
+      u: And then. They have taken us to Vienna and from Vienna to Linz.
+    - who: David Boder
+      start: '00:15:56.830'
+      end: '00:15:56.830'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:15:57.142'
+      end: '00:15:57.142'
+      u: Well, in Linz it was a very strange thing because they take us...we arrived
+        at Linz at seven o'clock in the morning.
+    - who: David Boder
+      start: '00:16:07.070'
+      end: '00:16:07.070'
+      u: Ja, Linz is near the...Swiss Border isn't it?
+    - who: Yanusch Deutsch
+      start: '00:16:11.284'
+      end: '00:16:11.284'
+      u: Hundred fifty kilometers.
+    - who: David Boder
+      start: '00:16:12.564'
+      end: '00:16:12.564'
+      u: Ja. Nu?
+    - who: Yanusch Deutsch
+      start: '00:16:13.813'
+      end: '00:16:13.813'
+      u: And then they told us they will take us to bathe.
+    - who: David Boder
+      start: '00:16:18.011'
+      end: '00:16:18.011'
+      u: To where?
+    - who: Yanusch Deutsch
+      start: '00:16:18.487'
+      end: '00:16:18.487'
+      u: To bathe.
+    - who: David Boder
+      start: '00:16:19.367'
+      end: '00:16:19.367'
+      u: Where is that? To Bathe?
+    - who: Yanusch Deutsch
+      start: '00:16:20.995'
+      end: '00:16:20.995'
+      u: To bathe...baden.
+    - who: David Boder
+      start: '00:16:23.146'
+      end: '00:16:23.146'
+      u: A-ha. Yes.
+    - who: Yanusch Deutsch
+      start: '00:16:24.579'
+      end: '00:16:24.579'
+      u: And they took first the women.
+    - who: David Boder
+      start: '00:16:27.913'
+      end: '00:16:27.913'
+      u: To Switzerland?
+    - who: Yanusch Deutsch
+      start: '00:16:29.177'
+      end: '00:16:29.177'
+      u: No, it was to bathe...baden.
+    - who: David Boder
+      start: '00:16:32.434'
+      end: '00:16:32.434'
+      u: To bathe...to take a bath.
+    - who: Yanusch Deutsch
+      start: '00:16:35.096'
+      end: '00:16:35.096'
+      u: 'To take a bath. They took the women first at seven o''clock in the morning
+        and at three o''clock in the afternoon nobody came back. We were afraid: "What
+        did they do with the women?"'
+    - who: David Boder
+      start: '00:16:47.271'
+      end: '00:16:47.271'
+      u: Why didn't they take you or your father?
+    - who: Yanusch Deutsch
+      start: '00:16:49.933'
+      end: '00:16:49.933'
+      u: First they said they would take the women.
+    - who: David Boder
+      start: '00:16:52.191'
+      end: '00:16:52.191'
+      u: Oh, they took the women first?
+    - who: Yanusch Deutsch
+      start: '00:16:53.624'
+      end: '00:16:53.624'
+      u: Yes. Then at three o'clock they came back without the women and they took
+        us [Boder interrupts]...yes...with the women.
+    - who: David Boder
+      start: '00:17:05.184'
+      end: '00:17:05.184'
+      u: ". . . and what happened to them?"
+    - who: Yanusch Deutsch
+      start: '00:17:08.507'
+      end: '00:17:08.507'
+      u: We didn't see the women but the soldiers came back [unintelligible]. And
+        I was very afraid that they would take us in a vernichtungslager. I wanted
+        to escape. And I tried...
+    - who: David Boder
+      start: '00:17:20.685'
+      end: '00:17:20.685'
+      u: A vernichtungslager?
+    - who: Yanusch Deutsch
+      start: '00:17:22.144'
+      end: '00:17:22.144'
+      u: I tried to escape but I couldn't—there were a lot of soldiers.
+    - who: David Boder
+      start: '00:17:26.015'
+      end: '00:17:26.015'
+      u: A vernichtungslager is a destruction lager?
+    - who: Yanusch Deutsch
+      start: '00:17:28.739'
+      end: '00:17:28.739'
+      u: Yes.
+    - who: David Boder
+      start: '00:17:29.343'
+      end: '00:17:29.343'
+      u: Yes. Nu?
+    - who: Yanusch Deutsch
+      start: '00:17:30.377'
+      end: '00:17:30.377'
+      u: And then they took us in this camp—in this lager and...we saw the women.
+    - who: David Boder
+      start: '00:17:39.168'
+      end: '00:17:39.168'
+      u: What?
+    - who: Yanusch Deutsch
+      start: '00:17:39.629'
+      end: '00:17:39.629'
+      u: The women.
+    - who: David Boder
+      start: '00:17:40.248'
+      end: '00:17:40.248'
+      u: You saw the women...
+    - who: Yanusch Deutsch
+      start: '00:17:41.231'
+      end: '00:17:41.231'
+      u: 'They had to wait four or five hours because there were other people there.
+        And they had a bath—warm water—and it was very...very good—very...[unintelligible]...we
+        didn''t bathe since two month—nu? And then we had a bath and at six o''clock
+        in the afternoon we came back. The women told us that they had to go first
+        to a big room—where there a thousand women there and they saw big boxes—yellow
+        boxes—which was written: [Unintelligible]. Attention: [unintelligible] and
+        that a...totenkop.'
+    - who: David Boder
+      start: '00:18:33.050'
+      end: '00:18:33.050'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:18:33.853'
+      end: '00:18:33.853'
+      u: I don't know how they say in English.
+    - who: David Boder
+      start: '00:18:34.836'
+      end: '00:18:34.836'
+      u: What is [?]?
+    - who: Yanusch Deutsch
+      start: '00:18:36.280'
+      end: '00:18:36.280'
+      u: A totenkop
+    - who: David Boder
+      start: '00:18:37.202'
+      end: '00:18:37.202'
+      u: A skull?
+    - who: Yanusch Deutsch
+      start: '00:18:38.313'
+      end: '00:18:38.313'
+      u: A skull right on it.
+    - who: David Boder
+      start: '00:18:39.715'
+      end: '00:18:39.715'
+      u: "[unintelligible]"
+    - who: Yanusch Deutsch
+      start: '00:18:41.820'
+      end: '00:18:41.820'
+      u: They didn't know what it is...they know that...they thought that it's against
+        them. And then the women, they...
+    - who: David Boder
+      start: '00:18:51.223'
+      end: '00:18:51.223'
+      u: "[In German] [unintelligible]"
+    - who: Yanusch Deutsch
+      start: '00:18:52.789'
+      end: '00:18:52.789'
+      u: They will annihilate.
+    - who: David Boder
+      start: '00:18:54.095'
+      end: '00:18:54.095'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:18:54.290'
+      end: '00:18:54.290'
+      u: The women. But it was only the clothes, they disinfected the clothes.
+    - who: David Boder
+      start: '00:19:00.599'
+      end: '00:19:00.599'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:19:01.109'
+      end: '00:19:01.109'
+      u: And nothing happened.
+    - who: David Boder
+      start: '00:19:02.823'
+      end: '00:19:02.823'
+      u: Well?
+    - who: Yanusch Deutsch
+      start: '00:19:03.592'
+      end: '00:19:03.592'
+      u: Later, we went on and the entire journey took us ten days.
+    - who: David Boder
+      start: '00:19:08.548'
+      end: '00:19:08.548'
+      u: Ten days. All in the same railway car?
+    - who: Yanusch Deutsch
+      start: '00:19:10.846'
+      end: '00:19:10.846'
+      u: The same cars.
+    - who: David Boder
+      start: '00:19:12.189'
+      end: '00:19:12.189'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:19:12.634'
+      end: '00:19:12.634'
+      u: We arrived in Bergen-Belsen. That is seventy kilometers from Hannover, is
+        Celle, is a small city, and from there we had to walk six kilometers on foot.
+        It is, eh, about eight hundred meters high above several beautiful forests,
+        the environment is very beautiful.
+    - who: David Boder
+      start: '00:19:35.626'
+      end: '00:19:35.626'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:19:36.265'
+      end: '00:19:36.265'
+      u: A lot of people saw the "[unintelligible]-Lager", not only Jews, but also
+        prisoners of war from all [nationalities].
+    - who: David Boder
+      start: '00:19:42.991'
+      end: '00:19:42.991'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:19:44.075'
+      end: '00:19:44.075'
+      u: And then we went into the camp. We got a barrack. The women got a barrack.
+        And the men got half a barrack.
+    - who: David Boder
+      start: '00:19:58.128'
+      end: '00:19:58.128'
+      u: And who was in the other half of the barrack?
+    - who: Yanusch Deutsch
+      start: '00:20:00.546'
+      end: '00:20:00.546'
+      u: That was, was, we could not exactly [unintelligible]. Those were Poles, of,
+        Polish Jews.
+    - who: David Boder
+      start: '00:20:06.669'
+      end: '00:20:06.669'
+      u: I see.
+    - who: Yanusch Deutsch
+      start: '00:20:07.021'
+      end: '00:20:07.021'
+      u: "[unintelligible] were with Christian papers."
+    - who: David Boder
+      start: '00:20:09.884'
+      end: '00:20:09.884'
+      u: Oh. [somewhat surprised] Polish Jews with Christian papers.
+    - who: Yanusch Deutsch
+      start: '00:20:12.357'
+      end: '00:20:12.357'
+      u: Christian papers. But the Germans believed that they were Jews, [corrects
+        himself] that they were Christians. But they were Jews, they told us.
+    - who: David Boder
+      start: '00:20:19.944'
+      end: '00:20:19.944'
+      u: Yes. Well?
+    - who: Yanusch Deutsch
+      start: '00:20:21.223'
+      end: '00:20:21.223'
+      u: And, in one barrack there lived one thousand people.
+    - who: David Boder
+      start: '00:20:26.290'
+      end: '00:20:26.290'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:20:28.226'
+      end: '00:20:28.226'
+      u: There were about a hundred and fifty...
+    - who: David Boder
+      start: '00:20:30.301'
+      end: '00:20:30.301'
+      u: "[interrupts] How many Polish Jews with Christian papers were there?"
+    - who: Yanusch Deutsch
+      start: '00:20:33.386'
+      end: '00:20:33.386'
+      u: Well, there were about two hundred.
+    - who: David Boder
+      start: '00:20:36.749'
+      end: '00:20:36.749'
+      u: And the Germans didn't know that...
+    - who: Yanusch Deutsch
+      start: '00:20:38.315'
+      end: '00:20:38.315'
+      u: "[interrupts] No."
+    - who: David Boder
+      start: '00:20:38.769'
+      end: '00:20:38.769'
+      u: ". . . that they were Jews?"
+    - who: Yanusch Deutsch
+      start: '00:20:39.204'
+      end: '00:20:39.204'
+      u: Well, yes. Well, I believe there were many [several words unintelligible]
+        in Bergen-Belsen, only I do not know exactly.
+    - who: David Boder
+      start: '00:20:45.031'
+      end: '00:20:45.031'
+      u: "[unintelligible]"
+    - who: Yanusch Deutsch
+      start: '00:20:46.467'
+      end: '00:20:46.467'
+      u: "[unintelligible], maybe much better."
+    - who: David Boder
+      start: '00:20:49.385'
+      end: '00:20:49.385'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:20:51.497'
+      end: '00:20:51.497'
+      u: And, a barrack was about a hundred and fifty meters long. There were six
+        so-called box. Six, six parts divided. And in each part there lived about
+        a hundred and eighty, a hundred and fifty people. And beds in three stories.
+    - who: David Boder
+      start: '00:21:13.499'
+      end: '00:21:13.499'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:21:13.814'
+      end: '00:21:13.814'
+      u: Were over-about [he probably means "on top of one another"]. At night, it
+        was very cold. It was July, but it was very, very cold. It was North. And
+        days it was very warm. We did not have to work. This was maybe even worse,
+        because the food was much worse than those who were work—
+    - who: David Boder
+      start: '00:21:34.916'
+      end: '00:21:34.916'
+      u: "[unintelligible]"
+    - who: Yanusch Deutsch
+      start: '00:21:35.518'
+      end: '00:21:35.518'
+      u: ". . . working. And we had nothing to do all day."
+    - who: David Boder
+      start: '00:21:40.196'
+      end: '00:21:40.196'
+      u: Yes. All day?
+    - who: Yanusch Deutsch
+      start: '00:21:41.104'
+      end: '00:21:41.104'
+      u: Yes. We were given breakfast at seven in the morning. A black water, they
+        said it was coffee, but it was a black, [unintelligible] black, brown water.
+        At eleven we were given lunch. It was, I don't know, it was vegetables, or
+        soup, it was all together. Were beets, [unintelligible], no fat/grease, only
+        the peelings, thrown into water and boiled.
+    - who: David Boder
+      start: '00:22:07.526'
+      end: '00:22:07.526'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:22:08.462'
+      end: '00:22:08.462'
+      u: And sometimes we were given little pieces of meat.
+    - who: David Boder
+      start: '00:22:12.751'
+      end: '00:22:12.751'
+      u: I see.
+    - who: Yanusch Deutsch
+      start: '00:22:13.400'
+      end: '00:22:13.400'
+      u: It was very good, these pieces of meat. We didn't know what kind of meat,
+        eh, meat this was. Later, I read in an English newspaper that it was human
+        flesh.
+    - who: David Boder
+      start: '00:22:24.934'
+      end: '00:22:24.934'
+      u: "[appalled] That it was human flesh?"
+    - who: Yanusch Deutsch
+      start: '00:22:25.981'
+      end: '00:22:25.981'
+      u: Human flesh.
+    - who: David Boder
+      start: '00:22:27.324'
+      end: '00:22:27.324'
+      u: ". . . flesh in Belsen?"
+    - who: Yanusch Deutsch
+      start: '00:22:28.806'
+      end: '00:22:28.806'
+      u: Yes. In Bergen-Belsen. Well, in, in, London Illustrated Paper...
+    - who: David Boder
+      start: '00:22:36.570'
+      end: '00:22:36.570'
+      u: The London Illustrated Paper wrote that...
+    - who: Yanusch Deutsch
+      start: '00:22:39.191'
+      end: '00:22:39.191'
+      u: Yes.
+    - who: David Boder
+      start: '00:22:39.414'
+      end: '00:22:39.414'
+      u: ". . . that in Belsen-Belsen [sic] human flesh..."
+    - who: Yanusch Deutsch
+      start: '00:22:40.665'
+      end: '00:22:40.665'
+      u: Yes.
+    - who: David Boder
+      start: '00:22:41.073'
+      end: '00:22:41.073'
+      u: ". . . was fed?"
+    - who: Yanusch Deutsch
+      start: '00:22:41.601'
+      end: '00:22:41.601'
+      u: It was just like veal, so good, so small, and so...
+    - who: David Boder
+      start: '00:22:45.001'
+      end: '00:22:45.001'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:22:46.011'
+      end: '00:22:46.011'
+      u: Was very good.
+    - who: David Boder
+      start: '00:22:47.225'
+      end: '00:22:47.225'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:22:48.457'
+      end: '00:22:48.457'
+      u: And we didn't know what kind of meat it was. In Bergen-Belsen we are given
+        veal. Yes. At four in the afternoon we got our night meal. The, we were given
+        that black coffee again. And I also received three hundred grams of bread
+        every day. But these three hundred grams of bread were very small. So, as
+        small as fifty grams are here. It was heavy, it was very heavy, it was not
+        made from wheat.
+    - who: David Boder
+      start: '00:23:15.431'
+      end: '00:23:15.431'
+      u: From what was it made then?
+    - who: Yanusch Deutsch
+      start: '00:23:16.987'
+      end: '00:23:16.987'
+      u: I don't know. I think in German I cannot say anymore.
+    - who: David Boder
+      start: '00:23:21.631'
+      end: '00:23:21.631'
+      u: Well?
+    - who: Yanusch Deutsch
+      start: '00:23:22.659'
+      end: '00:23:22.659'
+      u: And also sometimes they gave us confiture. Per week, twenty grams of confiture
+        per week.
+    - who: David Boder
+      start: '00:23:31.525'
+      end: '00:23:31.525'
+      u: What kind of confiture?
+    - who: Yanusch Deutsch
+      start: '00:23:32.979'
+      end: '00:23:32.979'
+      u: Very good confiture. Confiture just as in Switzerland.
+    - who: David Boder
+      start: '00:23:36.259'
+      end: '00:23:36.259'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:23:36.602'
+      end: '00:23:36.602'
+      u: Good confiture. And sometimes we also received margarine. Twenty, thirty
+        grams per week; that was also very good. Good butter.
+    - who: David Boder
+      start: '00:23:45.116'
+      end: '00:23:45.116'
+      u: I see.
+    - who: Yanusch Deutsch
+      start: '00:23:45.737'
+      end: '00:23:45.737'
+      u: We children got milk. Our camp received milk and cacao that was given to
+        the children. And the children under the age of six received half a liter
+        of milk per day.
+    - who: David Boder
+      start: '00:23:58.947'
+      end: '00:23:58.947'
+      u: Where was that? In...
+    - who: Yanusch Deutsch
+      start: '00:24:00.855'
+      end: '00:24:00.855'
+      u: The Germans gave it.
+    - who: David Boder
+      start: '00:24:02.894'
+      end: '00:24:02.894'
+      u: Where, where were children? Were there children in your block?
+    - who: Yanusch Deutsch
+      start: '00:24:08.128'
+      end: '00:24:08.128'
+      u: Yes. They were together. Women and, separately, children. [corrects himself]
+        Separately, men. And the children when, when they were small, were men, [corrects
+        himself] when they were girls were with the women.
+    - who: David Boder
+      start: '00:24:17.753'
+      end: '00:24:17.753'
+      u: And they brought the milk in for you?
+    - who: Yanusch Deutsch
+      start: '00:24:19.356'
+      end: '00:24:19.356'
+      u: Yes. And from six, up to the age of six they gave half a liter per day, between
+        six and nine years three deciliters, from nine to fourteen two deciliters
+        of milk.
+    - who: David Boder
+      start: '00:24:30.334'
+      end: '00:24:30.334'
+      u: Did you get any milk?
+    - who: Yanusch Deutsch
+      start: '00:24:31.511'
+      end: '00:24:31.511'
+      u: No, I was more than fourteen years old.
+    - who: David Boder
+      start: '00:24:33.290'
+      end: '00:24:33.290'
+      u: Well?
+    - who: Yanusch Deutsch
+      start: '00:24:34.596'
+      end: '00:24:34.596'
+      u: And little children got cacao-thing, that wasn't natural cacao, but was also
+        very good, one time I tried it.
+    - who: David Boder
+      start: '00:24:41.433'
+      end: '00:24:41.433'
+      u: Well?
+    - who: Yanusch Deutsch
+      start: '00:24:45.815'
+      end: '00:24:45.815'
+      u: At seven o'clock we had to get up, get up. Hygiene was very good and very
+        big in this camp. Well, the Germans always have been rich people, [corrects
+        himself] clean people, haven't they? They like cleanliness. We had big show—,
+        showers. We could shower every day. Cold water...
+    - who: David Boder
+      start: '00:25:05.416'
+      end: '00:25:05.416'
+      u: "[interrupts] In your block?"
+    - who: Yanusch Deutsch
+      start: '00:25:06.555'
+      end: '00:25:06.555'
+      u: Yes, the water, of course, was very pleasant. And we got soap. And the latrines
+        also were very good and clean. And, so at seven o'clock we had to get up.
+        The men at six, and the women at seven. At ten, there was roll call. Every
+        day the soldiers came to count us. If nobody had run away. And after that
+        we had nothing to do until night. Between ten at night and seven in the morning
+        nobody was allowed to leave the barracks. Anybody who went outside was shot.
+        From the tower. All around were, every two hundred meters there were towers
+        with soldiers and guns.
+    - who: David Boder
+      start: '00:25:52.795'
+      end: '00:25:52.795'
+      u: Yes. Did you see the other Jews there? Did you [no verb] the Polish Jews...
+    - who: Yanusch Deutsch
+      start: '00:25:57.743'
+      end: '00:25:57.743'
+      u: "[interrupts] I did, we saw Jews, but we could not speak with other Jews."
+    - who: David Boder
+      start: '00:26:03.209'
+      end: '00:26:03.209'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:26:03.209'
+      end: '00:26:03.209'
+      u: Was prohibited. We saw Dutch Jews, French...
+    - who: David Boder
+      start: '00:26:08.499'
+      end: '00:26:08.499'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:26:08.916'
+      end: '00:26:08.916'
+      u: Russians, not Jews, prisoners of war. They were in bad condition, the Russian
+        prisoners of war were.
+    - who: David Boder
+      start: '00:26:15.984'
+      end: '00:26:15.984'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:26:16.707'
+      end: '00:26:16.707'
+      u: And then we saw French men and English, Americans, prisoners of war.
+    - who: David Boder
+      start: '00:26:22.960'
+      end: '00:26:22.960'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:26:25.647'
+      end: '00:26:25.647'
+      u: Once every week we had a bath, a shower, we had bath, eh, a warm bath. And
+        the other part of this bathing facility was the crematory. Twice we saw them
+        bring people into the crematory.
+    - who: David Boder
+      start: '00:26:48.268'
+      end: '00:26:48.268'
+      u: Living?
+    - who: Yanusch Deutsch
+      start: '00:26:49.139'
+      end: '00:26:49.139'
+      u: Living people.
+    - who: David Boder
+      start: '00:26:50.371'
+      end: '00:26:50.371'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:26:50.612'
+      end: '00:26:50.612'
+      u: ". . . were brought. They were screaming and crying and everything."
+    - who: David Boder
+      start: '00:26:54.086'
+      end: '00:26:54.086'
+      u: How was that? Tell. When was that? How, why did you see them? Where did they
+        go?
+    - who: Yanusch Deutsch
+      start: '00:26:58.598'
+      end: '00:26:58.598'
+      u: Every week we were, they told us, we went bathing. The moment at which [the
+        rest is inaudible because of loud noises from the recorder]
+    - who: David Boder
+      start: '00:27:05.444'
+      end: '00:27:05.444'
+      u: Well, I wanted to know, again. You say that you saw the people that were
+        brought into the crematory?
+    - who: Yanusch Deutsch
+      start: '00:27:12.429'
+      end: '00:27:12.429'
+      u: Yes.
+    - who: David Boder
+      start: '00:27:12.642'
+      end: '00:27:12.642'
+      u: So, will you tell me such an incident in great detail? Well?
+    - who: Yanusch Deutsch
+      start: '00:27:21.007'
+      end: '00:27:21.007'
+      u: Well, we went to, to the bathing house. Was two big rooms. In one room we
+        had to take off our clothes. And go to, to, into the shower room. And we,
+        we were inside, and we undressed on top [he probably means that they were
+        undressing their upper bodies], when two cars arrived with people, Jewish
+        people, I don't know what nationality.
+    - who: David Boder
+      start: '00:27:50.600'
+      end: '00:27:50.600'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:27:51.573'
+      end: '00:27:51.573'
+      u: So, they were wearing their stars. I believe they were Dutch.
+    - who: David Boder
+      start: '00:27:55.640'
+      end: '00:27:55.640'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:27:55.964'
+      end: '00:27:55.964'
+      u: Were very bad condition, they could barely walk. Were older people there
+        as well.
+    - who: David Boder
+      start: '00:28:01.902'
+      end: '00:28:01.902'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:28:02.273'
+      end: '00:28:02.273'
+      u: Older people, and, and children, too. Well, strong people I did not see at
+        all.
+    - who: David Boder
+      start: '00:28:08.193'
+      end: '00:28:08.193'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:28:08.452'
+      end: '00:28:08.452'
+      u: Were only weak and sick people. And then...
+    - who: David Boder
+      start: '00:28:11.726'
+      end: '00:28:11.726'
+      u: Only in this transport, right?
+    - who: Yanusch Deutsch
+      start: '00:28:13.331'
+      end: '00:28:13.331'
+      u: Yes. And then the Germans threw the Jews down off the car. And beat them
+        with truncheons. And they went into, into the other building.
+    - who: David Boder
+      start: '00:28:29.949'
+      end: '00:28:29.949'
+      u: Yes. And you say these people were screaming?
+    - who: Yanusch Deutsch
+      start: '00:28:33.407'
+      end: '00:28:33.407'
+      u: Screaming and crying, and they probably knew what was going to happen. With
+        this probably not. And each week we went bathing in multiple transports because
+        there were sixteen hundred Jews there. And, and in the bathroom only two hundred
+        people could go at a time. Well, we went at three in the afternoon, we only
+        saw at three-thirty. And the others went later. Until nine o'clock at night
+        nobody returned from there. Well, if nobody returns by nine o'clock, they
+        probably are...
+    - who: David Boder
+      start: '00:29:08.204'
+      end: '00:29:08.204'
+      u: Well, you know, maybe they went to a different block?
+    - who: Yanusch Deutsch
+      start: '00:29:10.736'
+      end: '00:29:10.736'
+      u: There was no, no other exit.
+    - who: David Boder
+      start: '00:29:12.745'
+      end: '00:29:12.745'
+      u: I see.
+    - who: Yanusch Deutsch
+      start: '00:29:13.103'
+      end: '00:29:13.103'
+      u: I knew these people very well.
+    - who: David Boder
+      start: '00:29:16.175'
+      end: '00:29:16.175'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:29:16.432'
+      end: '00:29:16.432'
+      u: We knew each other well. I worked there [unintelligible].
+    - who: David Boder
+      start: '00:29:20.229'
+      end: '00:29:20.229'
+      u: Yes. Where did you work there?
+    - who: Yanusch Deutsch
+      start: '00:29:22.595'
+      end: '00:29:22.595'
+      u: In, in the bathing house.
+    - who: David Boder
+      start: '00:29:24.099'
+      end: '00:29:24.099'
+      u: I see.
+    - who: Yanusch Deutsch
+      start: '00:29:24.393'
+      end: '00:29:24.393'
+      u: Well, I worked in the garden, but not for very long. And what more can I
+        tell from Bergen-Belsen? There were soldiers there, so there were no newspapers
+        and everything to be gotten in there. There were soldiers, some of them were
+        decent. They talked to us.
+    - who: David Boder
+      start: '00:29:48.990'
+      end: '00:29:48.990'
+      u: SS-people?
+    - who: Yanusch Deutsch
+      start: '00:29:49.733'
+      end: '00:29:49.733'
+      u: SS-people. Were Hungarians there, for example. They weren't Nazis.
+    - who: David Boder
+      start: '00:29:53.888'
+      end: '00:29:53.888'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:29:54.502'
+      end: '00:29:54.502'
+      u: 'Rather, the Germans depor—, deported them from Hungary and made them soldiers.
+        And they did not want to fight at the front, so they were, eh, made guards
+        at the concentration camp Bergen-Belsen. And they were no Nazis, they helped
+        us. And they always told us the political situation. And we were always delighted
+        [possibly: "we were always asking"?] that the, the, eh, in, in, eh, there
+        was the invasion in France. On June 6, the invasion in France started and
+        that same day we were deported from Hungary.'
+    - who: David Boder
+      start: '00:30:34.283'
+      end: '00:30:34.283'
+      u: I see.
+    - who: Yanusch Deutsch
+      start: '00:30:34.824'
+      end: '00:30:34.824'
+      u: Well, it was already August, and we heard what there was, in, in France,
+        in Hungary. And we, they brought in newspapers and cigarettes for us. We had
+        marks, German marks, Reich marks from Hungary still. We gave them the marks...
+    - who: David Boder
+      start: '00:30:55.013'
+      end: '00:30:55.013'
+      u: "[interrupts] Were you allowed to keep the marks?"
+    - who: Yanusch Deutsch
+      start: '00:30:57.694'
+      end: '00:30:57.694'
+      u: We were not searched at all.
+    - who: David Boder
+      start: '00:31:00.488'
+      end: '00:31:00.488'
+      u: Where? In the camp?
+    - who: Yanusch Deutsch
+      start: '00:31:02.093'
+      end: '00:31:02.093'
+      u: In, from, from, eh, Budapest there we had not been searched.
+    - who: David Boder
+      start: '00:31:05.074'
+      end: '00:31:05.074'
+      u: But didn't you have to hand in everything in Budapest?
+    - who: Yanusch Deutsch
+      start: '00:31:07.981'
+      end: '00:31:07.981'
+      u: Not in Budapest, in Stuhlweissenburg
+    - who: David Boder
+      start: '00:31:09.898'
+      end: '00:31:09.898'
+      u: But you had to hand it in, didn't you?
+    - who: Yanusch Deutsch
+      start: '00:31:11.760'
+      end: '00:31:11.760'
+      u: Yes, but, but this we received in Budapest in the camp.
+    - who: David Boder
+      start: '00:31:16.080'
+      end: '00:31:16.080'
+      u: "[unintelligible]?"
+    - who: Yanusch Deutsch
+      start: '00:31:17.391'
+      end: '00:31:17.391'
+      u: Or was from acquaintances.
+    - who: David Boder
+      start: '00:31:18.941'
+      end: '00:31:18.941'
+      u: I see.
+    - who: Yanusch Deutsch
+      start: '00:31:19.409'
+      end: '00:31:19.409'
+      u: This, eh, this camp in Budapest was very good. We could even go out of the
+        camp.
+    - who: David Boder
+      start: '00:31:25.435'
+      end: '00:31:25.435'
+      u: Yes. But wait. First, you were in a camp in your city?
+    - who: Yanusch Deutsch
+      start: '00:31:29.480'
+      end: '00:31:29.480'
+      u: Yes.
+    - who: David Boder
+      start: '00:31:30.021'
+      end: '00:31:30.021'
+      u: Then you were...
+    - who: Yanusch Deutsch
+      start: '00:31:30.553'
+      end: '00:31:30.553'
+      u: It was very bad. It was worse than Bergen-Belsen; for three weeks.
+    - who: David Boder
+      start: '00:31:33.992'
+      end: '00:31:33.992'
+      u: Then you were...
+    - who: Yanusch Deutsch
+      start: '00:31:35.193'
+      end: '00:31:35.193'
+      u: In Budapest I was in a camp that was good. We could go outside with a guard
+        and, and guarded, could go inside. The food was enough and much.
+    - who: David Boder
+      start: '00:31:45.722'
+      end: '00:31:45.722'
+      u: Go outside with what?
+    - who: Yanusch Deutsch
+      start: '00:31:46.960'
+      end: '00:31:46.960'
+      u: With, with, eh, German soldier.
+    - who: David Boder
+      start: '00:31:49.125'
+      end: '00:31:49.125'
+      u: I see.
+    - who: Yanusch Deutsch
+      start: '00:31:49.446'
+      end: '00:31:49.446'
+      u: We paid one hundred pengös, one hundred Hungarian pengös, and then we could
+        go outside.
+    - who: David Boder
+      start: '00:31:54.554'
+      end: '00:31:54.554'
+      u: And in Linz?
+    - who: Yanusch Deutsch
+      start: '00:31:57.618'
+      end: '00:31:57.618'
+      u: In Linz we only were one day, we were waiting.
+    - who: David Boder
+      start: '00:32:00.672'
+      end: '00:32:00.672'
+      u: So, where did you have to hand in everything?
+    - who: Yanusch Deutsch
+      start: '00:32:03.350'
+      end: '00:32:03.350'
+      u: In, in [unintelligible; could either be "my city," or a Hungarian place name].
+    - who: David Boder
+      start: '00:32:05.331'
+      end: '00:32:05.331'
+      u: So, how did you have it again Budapest? Oh. From acquaintances [unintelligible].
+    - who: Yanusch Deutsch
+      start: '00:32:08.614'
+      end: '00:32:08.614'
+      u: Yes. Do you understand it?
+    - who: David Boder
+      start: '00:32:10.421'
+      end: '00:32:10.421'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:32:10.724'
+      end: '00:32:10.724'
+      u: Is it clear?
+    - who: David Boder
+      start: '00:32:11.595'
+      end: '00:32:11.595'
+      u: Yes. Well?
+    - who: Yanusch Deutsch
+      start: '00:32:12.843'
+      end: '00:32:12.843'
+      u: And they forgot about me. I don't know exactly, I think I had five hundred
+        German marks.
+    - who: David Boder
+      start: '00:32:18.979'
+      end: '00:32:18.979'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:32:19.392'
+      end: '00:32:19.392'
+      u: The money was not big [he may mean, "it was not much money"], but we could
+        not do anything with it. We gave twenty, thirty marks for a newspaper and,
+        I know not what, cigarettes.
+    - who: David Boder
+      start: '00:32:28.701'
+      end: '00:32:28.701'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:32:29.682'
+      end: '00:32:29.682'
+      u: And, is very interesting, the Jewish psychologist who [no verb] in the camp.
+    - who: David Boder
+      start: '00:32:35.497'
+      end: '00:32:35.497'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:32:36.607'
+      end: '00:32:36.607'
+      u: "[unintelligible] there were many doctors and advocates and intellectuals,
+        many, eighty percent were intellectuals."
+    - who: David Boder
+      start: '00:32:45.090'
+      end: '00:32:45.090'
+      u: "[asks back, unintelligible]?"
+    - who: Yanusch Deutsch
+      start: '00:32:46.319'
+      end: '00:32:46.319'
+      u: Yes. In this, our transport.
+    - who: David Boder
+      start: '00:32:49.116'
+      end: '00:32:49.116'
+      u: Yes. Well?
+    - who: Yanusch Deutsch
+      start: '00:32:50.033'
+      end: '00:32:50.033'
+      u: Out of Sixteen hundred people.
+    - who: David Boder
+      start: '00:32:52.170'
+      end: '00:32:52.170'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:32:52.546'
+      end: '00:32:52.546'
+      u: And when we came to Bergen-Belsen, the very first day everybody started stealing.
+    - who: David Boder
+      start: '00:33:02.497'
+      end: '00:33:02.497'
+      u: doubtful] Stealing?
+    - who: Yanusch Deutsch
+      start: '00:33:03.477'
+      end: '00:33:03.477'
+      u: Yes. Stealing. I would leave something there, a piece of meat or I don't
+        know what, and a few minutes later it would not be there anymore.
+    - who: David Boder
+      start: '00:33:10.423'
+      end: '00:33:10.423'
+      u: I see.
+    - who: Yanusch Deutsch
+      start: '00:33:11.086'
+      end: '00:33:11.086'
+      u: And, everybody was stealing. And was, they were all arguing all day long.
+        It was, the nerves fall apart.
+    - who: David Boder
+      start: '00:33:20.302'
+      end: '00:33:20.302'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:33:21.437'
+      end: '00:33:21.437'
+      u: And we were arguing with our friends and, and, and with everybody, the relatives,
+        and we were cursing, all day long. And when the [unintelligible], we were
+        one or two months in Bergen-Belsen.
+    - who: David Boder
+      start: '00:33:42.285'
+      end: '00:33:42.285'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:33:42.911'
+      end: '00:33:42.911'
+      u: Two months.
+    - who: David Boder
+      start: '00:33:44.219'
+      end: '00:33:44.219'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:33:44.537'
+      end: '00:33:44.537'
+      u: Only, well, it was not very much. Then we were given the complaint [meaning
+        unclear]...
+    - who: David Boder
+      start: '00:33:49.558'
+      end: '00:33:49.558'
+      u: Who brought that?
+    - who: Yanusch Deutsch
+      start: '00:33:52.091'
+      end: '00:33:52.091'
+      u: One morning the German soldiers came. We had to move to a different camp.
+        [unintelligible] we were in Dachau or to Auschwitz, another camp. And, again,
+        we went into railway cars. We were only, only three hundred.
+    - who: David Boder
+      start: '00:34:11.185'
+      end: '00:34:11.185'
+      u: Yes. Men and women?
+    - who: Yanusch Deutsch
+      start: '00:34:13.146'
+      end: '00:34:13.146'
+      u: Men and women.
+    - who: David Boder
+      start: '00:34:14.581'
+      end: '00:34:14.581'
+      u: Were your parents there?
+    - who: Yanusch Deutsch
+      start: '00:34:15.711'
+      end: '00:34:15.711'
+      u: Yes. Was with my parents. Thank God was with my parents. And there three
+        hundred remained there. And then we went into the railway cars. Again eighty
+        or ninety in a car, and four or five days we were in there, and we didn't
+        know where to and, and [unintelligible]. In Karlsruhe we experienced a German
+        bombardment, Karlsruhe was bombarded. It's a big city and a big train station.
+    - who: David Boder
+      start: '00:34:47.862'
+      end: '00:34:47.862'
+      u: What city?
+    - who: Yanusch Deutsch
+      start: '00:34:48.750'
+      end: '00:34:48.750'
+      u: Karlsruhe.
+    - who: David Boder
+      start: '00:34:49.684'
+      end: '00:34:49.684'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:34:50.677'
+      end: '00:34:50.677'
+      u: Yes. And then we had to go onto a meadow and everybody could leave if they
+        wanted to. Because no guards whatsoever, we were without guards. Without...
+    - who: David Boder
+      start: '00:35:00.686'
+      end: '00:35:00.686'
+      u: Without soldiers?
+    - who: Yanusch Deutsch
+      start: '00:35:01.422'
+      end: '00:35:01.422'
+      u: Without soldiers, yes. We could move away, if we wanted to. I don't know,
+        we did not want to go away, we didn't know where to go. For us, it made no
+        difference anymore where we would be going. That same evening we were in Basel.
+    - who: David Boder
+      start: '00:35:18.134'
+      end: '00:35:18.134'
+      u: Yes. In, in Switzerland?
+    - who: Yanusch Deutsch
+      start: '00:35:20.425'
+      end: '00:35:20.425'
+      u: In Switzerland.
+    - who: David Boder
+      start: '00:35:21.181'
+      end: '00:35:21.181'
+      u: How were you taken across the border?
+    - who: Yanusch Deutsch
+      start: '00:35:23.474'
+      end: '00:35:23.474'
+      u: Yes. The last German station is Weil. That is, was roughly one kilometer
+        from Basel, from the German.
+    - who: David Boder
+      start: '00:35:30.966'
+      end: '00:35:30.966'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:35:31.363'
+      end: '00:35:31.363'
+      u: Still Germany. There we were inspected. They took away all papers that we
+        had.
+    - who: David Boder
+      start: '00:35:38.288'
+      end: '00:35:38.288'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:35:38.626'
+      end: '00:35:38.626'
+      u: In case somebody had money or something like that, this was not taken away.
+        For example, someone had a, a camera with him. This was not taken away.
+    - who: David Boder
+      start: '00:35:47.603'
+      end: '00:35:47.603'
+      u: Yes. Why did they not take the camera away?
+    - who: Yanusch Deutsch
+      start: '00:35:51.191'
+      end: '00:35:51.191'
+      u: That was not taken. Well, papers were taken away, yes, because they were
+        also afraid of espionage.
+    - who: David Boder
+      start: '00:35:59.718'
+      end: '00:35:59.718'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:36:01.327'
+      end: '00:36:01.327'
+      u: And we were there five, five hours. And then we were quickly, immediately
+        in the railway cars. Then the cars were locked. From [unintelligible] within
+        three minutes we were in a big city. Soldiers had come, German soldiers came
+        [unintelligible], German soldiers. Big city, many people. And we were received.
+        And soldiers and Red Cross Sisters and...
+    - who: David Boder
+      start: '00:36:39.281'
+      end: '00:36:39.281'
+      u: "[interrupts] [unintelligible] Sister?"
+    - who: Yanusch Deutsch
+      start: '00:36:41.965'
+      end: '00:36:41.965'
+      u: Very nice they were. And they led us into a waiting room. There were chairs.
+        There, we saw a chair for the first time after two, after three or four months.
+        And a lamp. And I was afraid to sit in a chair. I just wanted to sit on the
+        earth, on the ground.
+    - who: David Boder
+      start: '00:37:01.220'
+      end: '00:37:01.220'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:37:02.784'
+      end: '00:37:02.784'
+      u: And then we received food. First soup and then lighter things, then later
+        chocolate [several words unintelligible]. Then we slowly, slowly understood
+        that we have come to Switzerland and that we are saved.
+    - who: David Boder
+      start: '00:37:21.315'
+      end: '00:37:21.315'
+      u: Your entire family?
+    - who: Yanusch Deutsch
+      start: '00:37:22.709'
+      end: '00:37:22.709'
+      u: Yes.
+    - who: David Boder
+      start: '00:37:23.712'
+      end: '00:37:23.712'
+      u: And then, what happened in Switzerland?
+    - who: Yanusch Deutsch
+      start: '00:37:26.454'
+      end: '00:37:26.454'
+      u: In Switzerland we were in an "Auffanglager" [refugee camp] in Montreux. Was
+        not very good. In another "Auffanglager" as well. Was for two months, for
+        three months. And then I went to Engelberg, in an asylum. My mother was there,
+        too. Was in an English Institute, was there for one year. In an English Institute.
+    - who: David Boder
+      start: '00:37:51.206'
+      end: '00:37:51.206'
+      u: Are you still living in Engelberg?
+    - who: Yanusch Deutsch
+      start: '00:37:52.502'
+      end: '00:37:52.502'
+      u: Yes.
+    - who: David Boder
+      start: '00:37:53.211'
+      end: '00:37:53.211'
+      u: And your father?
+    - who: Yanusch Deutsch
+      start: '00:37:54.150'
+      end: '00:37:54.150'
+      u: My father is in the Zürich area, working as an engineer.
+    - who: David Boder
+      start: '00:37:57.322'
+      end: '00:37:57.322'
+      u: Yes. So, why can your mother not live with him?
+    - who: Yanusch Deutsch
+      start: '00:38:00.840'
+      end: '00:38:00.840'
+      u: Well, my, my father does not earn enough so that my mother can live there,
+        too.
+    - who: David Boder
+      start: '00:38:06.039'
+      end: '00:38:06.039'
+      u: I see. And in Zürich, he is with, with whom?
+    - who: Yanusch Deutsch
+      start: '00:38:10.476'
+      end: '00:38:10.476'
+      u: In a company, he works in a private company.
+    - who: David Boder
+      start: '00:38:13.961'
+      end: '00:38:13.961'
+      u: I see. Well?
+    - who: Yanusch Deutsch
+      start: '00:38:15.648'
+      end: '00:38:15.648'
+      u: He is a very good professional.
+    - who: David Boder
+      start: '00:38:17.299'
+      end: '00:38:17.299'
+      u: How far is Engelbrecht [mistaking the name] from here?
+    - who: Yanusch Deutsch
+      start: '00:38:20.788'
+      end: '00:38:20.788'
+      u: Engelberg is close to the Vierwaldstättersee [Lake Lucerne].
+    - who: David Boder
+      start: '00:38:24.915'
+      end: '00:38:24.915'
+      u: In...?
+    - who: Yanusch Deutsch
+      start: '00:38:25.167'
+      end: '00:38:25.167'
+      u: Do you know where Lucerne is at?
+    - who: David Boder
+      start: '00:38:27.160'
+      end: '00:38:27.160'
+      u: How far, eh,...?
+    - who: Yanusch Deutsch
+      start: '00:38:28.675'
+      end: '00:38:28.675'
+      u: Three hundred kilometers from here.
+    - who: David Boder
+      start: '00:38:30.629'
+      end: '00:38:30.629'
+      u: From here. Can one take the train to there?
+    - who: Yanusch Deutsch
+      start: '00:38:33.222'
+      end: '00:38:33.222'
+      u: Yes.
+    - who: David Boder
+      start: '00:38:34.402'
+      end: '00:38:34.402'
+      u: Are there many people there?
+    - who: Yanusch Deutsch
+      start: '00:38:35.815'
+      end: '00:38:35.815'
+      u: It is a spa town. You know, one of the most beautiful spa towns in Switzerland.
+        Has approximately one thousand inhabitants. But [unintelligible] not so; there
+        are about five, six thousand spa guests.
+    - who: David Boder
+      start: '00:38:48.843'
+      end: '00:38:48.843'
+      u: Yes. But do you live in a camp there, or...?
+    - who: Yanusch Deutsch
+      start: '00:38:51.306'
+      end: '00:38:51.306'
+      u: In a, in a hotel. The [unintelligible] is good, the food is good, is content,
+        gets some money there, pocket money. I believe fifty or thirty, forty francs
+        per month.
+    - who: David Boder
+      start: '00:39:03.676'
+      end: '00:39:03.676'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:39:04.779'
+      end: '00:39:04.779'
+      u: And she is content there, the environment is wonderful.
+    - who: David Boder
+      start: '00:39:07.939'
+      end: '00:39:07.939'
+      u: I see.
+    - who: Yanusch Deutsch
+      start: '00:39:10.015'
+      end: '00:39:10.015'
+      u: And I was in the English Institute in Montreux. And later I came here to
+        Geneva, [unintelligible] school.
+    - who: David Boder
+      start: '00:39:20.160'
+      end: '00:39:20.160'
+      u: You are studying [mechanics?] now?
+    - who: Yanusch Deutsch
+      start: '00:39:21.462'
+      end: '00:39:21.462'
+      u: Yes, and at night I prepare for the maturité [similar to a high school diploma],
+        for the [unintelligible] maturité.
+    - who: David Boder
+      start: '00:39:27.485'
+      end: '00:39:27.485'
+      u: For what maturité?
+    - who: Yanusch Deutsch
+      start: '00:39:28.845'
+      end: '00:39:28.845'
+      u: Yes, well. First, for [unintelligible]. I want to [several words unintelligible;
+        "one year"?].
+    - who: David Boder
+      start: '00:39:36.049'
+      end: '00:39:36.049'
+      u: Where? In England?
+    - who: Yanusch Deutsch
+      start: '00:39:37.119'
+      end: '00:39:37.119'
+      u: No, in Switzerland, in Geneva one can do that.
+    - who: David Boder
+      start: '00:39:39.292'
+      end: '00:39:39.292'
+      u: And what do you want to do after that?
+    - who: Yanusch Deutsch
+      start: '00:39:41.415'
+      end: '00:39:41.415'
+      u: Afterwards, I want to go to university, if that is possible.
+    - who: David Boder
+      start: '00:39:44.846'
+      end: '00:39:44.846'
+      u: What do you want to study?
+    - who: Yanusch Deutsch
+      start: '00:39:47.599'
+      end: '00:39:47.599'
+      u: Eh, mechanical engineer.
+    - who: David Boder
+      start: '00:39:49.786'
+      end: '00:39:49.786'
+      u: Mechanical engineer. Well, then you must have fared quite well, that it remains
+        different, quite different from how the other people have fared?
+    - who: Yanusch Deutsch
+      start: '00:39:59.873'
+      end: '00:39:59.873'
+      u: Yes.
+    - who: David Boder
+      start: '00:40:00.304'
+      end: '00:40:00.304'
+      u: How do you explain this? Was that because you were Zionists? Was that because
+        you were Hungarians?
+    - who: Yanusch Deutsch
+      start: '00:40:04.349'
+      end: '00:40:04.349'
+      u: In Hungary, in Hungary we were big Zionists.
+    - who: David Boder
+      start: '00:40:07.818'
+      end: '00:40:07.818'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:40:09.018'
+      end: '00:40:09.018'
+      u: And the Germans saved the Zionists. So one did, the Jews saw who can, who
+        can come, in these transports. And of course they chose the Zionists. You
+        know?
+    - who: David Boder
+      start: '00:40:22.955'
+      end: '00:40:22.955'
+      u: I see.
+    - who: David Boder
+      start: '00:40:28.862'
+      end: '00:40:28.862'
+      u: Were there many rich people with you or were there poor people, too?
+    - who: Yanusch Deutsch
+      start: '00:40:32.713'
+      end: '00:40:32.713'
+      u: That differed widely. There were very easy, [corrects himself] very rich
+        people who paid a lot so that they could come, in addition there were the
+        Zionists.
+    - who: David Boder
+      start: '00:40:42.490'
+      end: '00:40:42.490'
+      u: Yes.
+    - who: Yanusch Deutsch
+      start: '00:40:43.226'
+      end: '00:40:43.226'
+      u: Were a lot, but the majority were poor people, you know? We, for example,
+        paid nothing [several words unintelligible] at all, you know?
+    - who: David Boder
+      start: '00:40:53.293'
+      end: '00:40:53.293'
+      u: Yes. How did you pay?
+    - who: Yanusch Deutsch
+      start: '00:40:56.815'
+      end: '00:40:56.815'
+      u: The Jewish, the Juden—, the Judenrat. The Judenrat gave it to, to the Joint
+        and that, in turn, [unintelligible] made.
+    - who: David Boder
+      start: '00:41:08.008'
+      end: '00:41:08.008'
+      u: The Joint did not make any money out of you, did it?
+    - who: Yanusch Deutsch
+      start: '00:41:11.723'
+      end: '00:41:11.723'
+      u: Well, I don't know how it came about. I, the Joint paid the money but they
+        had to pay something for it beforehand.
+    - who: David Boder
+      start: '00:41:23.396'
+      end: 
+      u: "[In English] This concludes Spool 80 of Yanusch Deutsch, a Hungarian, a
+        Hungarian Jewish child which was saved...eh, by special, by a special form
+        of deportation to Belsen, presumably a Zionist, which has to be verified."
+transcript: {}
+translation: {}

@@ -28,5 +28,4117 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: de
+    interview:
+    - who: David Boder
+      start: '00:00:43.417'
+      end: '00:00:43.417'
+      u: "[In English] This is Spool number 6. A young man, Marko Moskovitz, a pupil
+        of the ORT. The record is being taken on July 30, 1946."
+    - who: David Boder
+      start: '00:01:00.934'
+      end: '00:01:00.934'
+      u: "[In German] Hm, was sagen Sie ist Ihr Name?"
+    - who: Marko Moskovitz
+      start: '00:01:05.398'
+      end: '00:01:05.398'
+      u: Moskovitz, Marko.
+    - who: David Boder
+      start: '00:01:07.041'
+      end: '00:01:07.041'
+      u: Moskovitz, Marko. Und wie lange sind Sie in Paris?
+    - who: Marko Moskovitz
+      start: '00:01:12.091'
+      end: '00:01:12.091'
+      u: Zwei Wochen.
+    - who: David Boder
+      start: '00:01:13.372'
+      end: '00:01:13.372'
+      u: Und wo sind Sie gekommen von Paris?
+    - who: Marko Moskovitz
+      start: '00:01:15.437'
+      end: '00:01:15.437'
+      u: Von Deutschland dann nach Italien und von Italien nach Paris.
+    - who: David Boder
+      start: '00:01:22.130'
+      end: '00:01:22.130'
+      u: Von Deutschland nach Italien und von Italien nach Paris.
+    - who: Marko Moskovitz
+      start: '00:01:25.055'
+      end: '00:01:25.055'
+      u: Ja.
+    - who: David Boder
+      start: '00:01:25.392'
+      end: '00:01:25.392'
+      u: Und wo sind Sie geboren, Marko?
+    - who: Marko Moskovitz
+      start: '00:01:27.477'
+      end: '00:01:27.477'
+      u: In den Karpaten.
+    - who: David Boder
+      start: '00:01:29.060'
+      end: '00:01:29.060'
+      u: In den Karpaten.
+    - who: Marko Moskovitz
+      start: '00:01:29.557'
+      end: '00:01:29.557'
+      u: Karpaten, hm, ja.
+    - who: David Boder
+      start: '00:01:30.844'
+      end: '00:01:30.844'
+      u: Und wann sind Sie gekommen nach Deutschland?
+    - who: Marko Moskovitz
+      start: '00:01:33.764'
+      end: '00:01:33.764'
+      u: Nach Deutschland deportiert.
+    - who: David Boder
+      start: '00:01:36.643'
+      end: '00:01:36.643'
+      u: Deportiert?
+    - who: Marko Moskovitz
+      start: '00:01:37.237'
+      end: '00:01:37.237'
+      u: Ja.
+    - who: David Boder
+      start: '00:01:37.710'
+      end: '00:01:37.710'
+      u: In welchem Jahr?
+    - who: Marko Moskovitz
+      start: '00:01:39.233'
+      end: '00:01:39.233'
+      u: In 1942 deportiert.
+    - who: David Boder
+      start: '00:01:42.494'
+      end: '00:01:42.494'
+      u: Deportiert. Wie alt sind Sie jetzt?
+    - who: Marko Moskovitz
+      start: '00:01:44.823'
+      end: '00:01:44.823'
+      u: Neunzehn Jahre.
+    - who: David Boder
+      start: '00:01:45.828'
+      end: '00:01:45.828'
+      u: Neunzehn Jahre. So wie alt waren Sie wenn man Sie deportiert?
+    - who: Marko Moskovitz
+      start: '00:01:49.823'
+      end: '00:01:49.823'
+      u: Ich war da siebzehn Jahre.
+    - who: David Boder
+      start: '00:01:53.875'
+      end: '00:01:53.875'
+      u: Sie waren siebzehn Jahre alt. Also erzählen Sie mir, wer, hm, wer waren Ihre
+        Eltern, wer ist Ihre Familie und alles Weitere?
+    - who: Marko Moskovitz
+      start: '00:02:02.965'
+      end: '00:02:02.965'
+      u: Meine..., hm, also...
+    - who: David Boder
+      start: '00:02:06.589'
+      end: '00:02:06.589'
+      u: Hm?
+    - who: Marko Moskovitz
+      start: '00:02:07.729'
+      end: '00:02:07.729'
+      u: Hersh war mein Vater und meine Mutter Debora und ich habe 5 Geschwister und...
+    - who: David Boder
+      start: '00:02:15.678'
+      end: '00:02:15.678'
+      u: Aha.
+    - who: Marko Moskovitz
+      start: '00:02:16.115'
+      end: '00:02:16.115'
+      u: Und dass wir dann deportiert sind und jetzt ich bin alleine.
+    - who: David Boder
+      start: '00:02:19.014'
+      end: '00:02:19.014'
+      u: Und was war Ihres Vaters Beschäftigung?
+    - who: Marko Moskovitz
+      start: '00:02:23.754'
+      end: '00:02:23.754'
+      u: Hm, ein Feldarbeiter.
+    - who: David Boder
+      start: '00:02:26.081'
+      end: '00:02:26.081'
+      u: Ein Feldarbeiter. In welcher Stadt?
+    - who: Marko Moskovitz
+      start: '00:02:28.861'
+      end: '00:02:28.861'
+      u: Solotvyna.
+    - who: David Boder
+      start: '00:02:30.042'
+      end: '00:02:30.042'
+      u: Solotvyna. Was war das Polen?
+    - who: Marko Moskovitz
+      start: '00:02:32.057'
+      end: '00:02:32.057'
+      u: Nein, das war Tschechoslowakei. Im 39’er Jahr.
+    - who: David Boder
+      start: '00:02:36.877'
+      end: '00:02:36.877'
+      u: Und dann wer hat es bekommen?
+    - who: Marko Moskovitz
+      start: '00:02:38.611'
+      end: '00:02:38.611'
+      u: Es war dann bei Ungarn.
+    - who: David Boder
+      start: '00:02:40.284'
+      end: '00:02:40.284'
+      u: Ja.
+    - who: Marko Moskovitz
+      start: '00:02:40.757'
+      end: '00:02:40.757'
+      u: Und jetzt sind dort die Russen.
+    - who: David Boder
+      start: '00:02:42.463'
+      end: '00:02:42.463'
+      u: Und jetzt sind dort die Russen, aber die Ungarn haben es genommen?
+    - who: Marko Moskovitz
+      start: '00:02:45.232'
+      end: '00:02:45.232'
+      u: Ja.
+    - who: David Boder
+      start: '00:02:45.448'
+      end: '00:02:45.448'
+      u: Erzählen Sie mir, wie hat das passiert, wenn die Ungarn haben genommen die
+        Tschechos..., hm, die,...ihre Stadt?
+    - who: Marko Moskovitz
+      start: '00:02:52.009'
+      end: '00:02:52.009'
+      u: Hm, die waren gekommen, hm, [unverständlich] die sind herein gekommen im
+        39’er Jahr und...
+    - who: David Boder
+      start: '00:02:59.035'
+      end: '00:02:59.035'
+      u: Ja.
+    - who: Marko Moskovitz
+      start: '00:02:59.553'
+      end: '00:02:59.553'
+      u: dann hat es schon angefangen die Juden zu deportieren und—nicht zu deportieren,
+        sondern gemacht auf Arbeit zu gehen.
+    - who: David Boder
+      start: '00:03:07.101'
+      end: '00:03:07.101'
+      u: Was heißt man hat sie gemacht auf Arbeit zu gehen? Erzählen Sie mir
+    - who: Marko Moskovitz
+      start: '00:03:14.975'
+      end: '00:03:14.975'
+      u: Also die gelben Bänder, wir haben angefangen zu tragen die gelben Bänder
+        da, und mein Vater hat auch einen...
+    - who: David Boder
+      start: '00:03:19.300'
+      end: '00:03:19.300'
+      u: Hat auch?
+    - who: Marko Moskovitz
+      start: '00:03:19.793'
+      end: '00:03:19.793'
+      u: Mein Vater hat auch einen gelben Stern getragen.
+    - who: David Boder
+      start: '00:03:21.913'
+      end: '00:03:21.913'
+      u: Und Sie?
+    - who: Marko Moskovitz
+      start: '00:03:22.792'
+      end: '00:03:22.792'
+      u: Ich nicht.
+    - who: David Boder
+      start: '00:03:23.767'
+      end: '00:03:23.767'
+      u: Warum nicht?
+    - who: Marko Moskovitz
+      start: '00:03:24.853'
+      end: '00:03:24.853'
+      u: Ich war noch...ich war noch jung.
+    - who: David Boder
+      start: '00:03:27.708'
+      end: '00:03:27.708'
+      u: Sie waren noch jung.
+    - who: Marko Moskovitz
+      start: '00:03:28.356'
+      end: '00:03:28.356'
+      u: Ja.
+    - who: David Boder
+      start: '00:03:28.793'
+      end: '00:03:28.793'
+      u: Und die Frauen?
+    - who: Marko Moskovitz
+      start: '00:03:30.125'
+      end: '00:03:30.125'
+      u: Die Frauen auch.
+    - who: David Boder
+      start: '00:03:31.296'
+      end: '00:03:31.296'
+      u: Die Frauen auch.
+    - who: Marko Moskovitz
+      start: '00:03:31.602'
+      end: '00:03:31.602'
+      u: Die Frauen sind geblieben.
+    - who: David Boder
+      start: '00:03:35.049'
+      end: '00:03:35.049'
+      u: Was heißt, die Frauen sind geblieben?
+    - who: Marko Moskovitz
+      start: '00:03:36.170'
+      end: '00:03:36.170'
+      u: Die Frauen haben, sind dort geblieben. Die Frauen waren im Ghetto und haben
+        Sterne getragen.
+    - who: David Boder
+      start: '00:03:47.494'
+      end: '00:03:47.494'
+      u: Aha. Wie haben sie gemacht ein Ghetto?
+    - who: Marko Moskovitz
+      start: '00:03:51.027'
+      end: '00:03:51.027'
+      u: Zu Hause.
+    - who: David Boder
+      start: '00:03:52.530'
+      end: '00:03:52.530'
+      u: Aber, wo...wie hat man das gemacht, Mark?
+    - who: Marko Moskovitz
+      start: '00:03:55.440'
+      end: '00:03:55.440'
+      u: Man hat ausgerufen auf den Märkten, dass jeder Mensch...und dann hat man
+        gesagt, dass alle Juden sollen in eine Gasse rein gehen.
+    - who: David Boder
+      start: '00:04:04.902'
+      end: '00:04:04.902'
+      u: Ja.
+    - who: Marko Moskovitz
+      start: '00:04:05.445'
+      end: '00:04:05.445'
+      u: Und da sind die rein gegangen und die Gendarmerie, die Ungarische, war dann
+        rund um das Ghetto. Wir waren dann 4 Wochen in dem Ghetto zusammen und dann
+        deportiert nach Auschwitz.
+    - who: David Boder
+      start: '00:04:17.365'
+      end: '00:04:17.365'
+      u: Nach Auschwitz?
+    - who: Marko Moskovitz
+      start: '00:04:18.194'
+      end: '00:04:18.194'
+      u: Ja.
+    - who: David Boder
+      start: '00:04:18.566'
+      end: '00:04:18.566'
+      u: Warum nach Auschwitz.
+    - who: Marko Moskovitz
+      start: '00:04:20.179'
+      end: '00:04:20.179'
+      u: Na so—alle Juden nach Auschwitz.
+    - who: David Boder
+      start: '00:04:22.666'
+      end: '00:04:22.666'
+      u: Sind Sie auch gewesen in Auschwitz?
+    - who: Marko Moskovitz
+      start: '00:04:23.968'
+      end: '00:04:23.968'
+      u: Ja.
+    - who: David Boder
+      start: '00:04:24.616'
+      end: '00:04:24.616'
+      u: Alright, also erzählen Sie mir, Mark, wie hat man dort gelebt in Auschwitz?
+        Was ist dort passiert?
+    - who: Marko Moskovitz
+      start: '00:04:30.272'
+      end: '00:04:30.272'
+      u: Also man ist dort rein gekommen, mir war nicht bewusst - ich war noch jung,
+        ich war nicht .[unverständlich]
+    - who: David Boder
+      start: '00:04:35.732'
+      end: '00:04:35.732'
+      u: Warum nicht?
+    - who: Marko Moskovitz
+      start: '00:04:35.898'
+      end: '00:04:35.898'
+      u: Ich war nicht ganz richtig im Kopf.
+    - who: David Boder
+      start: '00:04:39.009'
+      end: '00:04:39.009'
+      u: Was heißt das?
+    - who: Marko Moskovitz
+      start: '00:04:39.431'
+      end: '00:04:39.431'
+      u: Drei Tage hab ich gar nichts gewusst, nicht ob Nacht, nicht ob Tag war, ich
+        habe nichts gewusst.
+    - who: David Boder
+      start: '00:04:45.175'
+      end: '00:04:45.175'
+      u: Warum haben Sie nichts gewusst?
+    - who: Marko Moskovitz
+      start: '00:04:46.240'
+      end: '00:04:46.240'
+      u: Ah so, es war also ein Rauch von dem Krematorium, ich konnte gar nichts anderes
+        wissen.
+    - who: David Boder
+      start: '00:04:53.411'
+      end: '00:04:53.411'
+      u: Wie Sie angekommen sind in Auschwitz?
+    - who: Marko Moskovitz
+      start: '00:04:54.964'
+      end: '00:04:54.964'
+      u: 'Ja, da haben sie gesagt: „Heraustreten die Fachleute“. Da bin ich rausgetreten,
+        denn ich war ein Tischler. Da bin ich vorgetreten und mein Vater hat gesagt:
+        „Warum bist Du herausgetreten? Jetzt ist klar, dass mir allein und Du wirst
+        wechseln.“ Aber es...zurücktreten hab ich auch nicht mehr können.'
+    - who: David Boder
+      start: '00:05:11.863'
+      end: '00:05:11.863'
+      u: Aha, und wo war Ihre Mutter?
+    - who: Marko Moskovitz
+      start: '00:05:13.948'
+      end: '00:05:13.948'
+      u: Die Mutter war schon...kaputt.
+    - who: David Boder
+      start: '00:05:17.139'
+      end: '00:05:17.139'
+      u: Wann?
+    - who: Marko Moskovitz
+      start: '00:05:17.827'
+      end: '00:05:17.827'
+      u: An diesem Tag.
+    - who: David Boder
+      start: '00:05:19.631'
+      end: '00:05:19.631'
+      u: Na, warten Sie mal. Man hat Sie genommen nach Auschwitz?
+    - who: Marko Moskovitz
+      start: '00:05:22.802'
+      end: '00:05:22.802'
+      u: Ja.
+    - who: David Boder
+      start: '00:05:23.134'
+      end: '00:05:23.134'
+      u: Erzählen Sie mir die ganze Geschichte.
+    - who: Marko Moskovitz
+      start: '00:05:24.395'
+      end: '00:05:24.395'
+      u: Man hat die herausgenommen aus unserem Waggon. Dann hat man gesagt Frauen
+        separat und Kinder von—bis 12, 13 und 14 Jahre sollen bleiben mit der Mutter
+        und, hm,
+    - who: David Boder
+      start: '00:05:36.284'
+      end: '00:05:36.284'
+      u: Ja.
+    - who: Marko Moskovitz
+      start: '00:05:36.697'
+      end: '00:05:36.697'
+      u: ". . . und die Älteren, die arbeiten können, sollen bleiben, ja, sollen bleiben
+        auf der anderen Seite."
+    - who: David Boder
+      start: '00:05:46.080'
+      end: '00:05:46.080'
+      u: Und die Mutter?
+    - who: Marko Moskovitz
+      start: '00:05:47.170'
+      end: '00:05:47.170'
+      u: Und die Mutter war schon separat, denn sie hatte meine Geschwister, meinen
+        Bruder von 10 Jahren und meine Schwester von 11 Jahren.
+    - who: David Boder
+      start: '00:05:56.049'
+      end: '00:05:56.049'
+      u: Ja?
+    - who: Marko Moskovitz
+      start: '00:05:56.351'
+      end: '00:05:56.351'
+      u: Und die gingen mit der Mutter. Und ich mit meinem Vater und noch einem Bruder
+        gingen auf die andere Seite.
+    - who: David Boder
+      start: '00:06:02.084'
+      end: '00:06:02.084'
+      u: Ja.
+    - who: Marko Moskovitz
+      start: '00:06:02.517'
+      end: '00:06:02.517'
+      u: Und haben gesagt arbeiten nun und dann sind wir rein gekommen in einen Block
+        und haben gesagt „Fachleute heraus treten“. Mein Vater hat geglaubt, dass
+        ich bleiben werde in diesem Lager Auschwitz.
+    - who: David Boder
+      start: '00:06:15.188'
+      end: '00:06:15.188'
+      u: Ja.
+    - who: Marko Moskovitz
+      start: '00:06:15.399'
+      end: '00:06:15.399'
+      u: Da bin ich heraus getreten und kam gleich in einen anderen Block und dann
+        hat man mich nach Oberschlesien transportiert, nach Breslau.
+    - who: David Boder
+      start: '00:06:25.133'
+      end: '00:06:25.133'
+      u: Ja. Und wann haben Sie zuletzt gesehen Ihre Mutter?
+    - who: Marko Moskovitz
+      start: '00:06:28.889'
+      end: '00:06:28.889'
+      u: Hm, wenn man uns herausgenommen hat von dem Waggon, da habe ich zum letzten
+        Mal gesehen meine Mutter.
+    - who: David Boder
+      start: '00:06:37.162'
+      end: '00:06:37.162'
+      u: Und Sie sind überzeugt, dass man...
+    - who: Marko Moskovitz
+      start: '00:06:39.127'
+      end: '00:06:39.127'
+      u: Ja, was ich gesehen habe.
+    - who: David Boder
+      start: '00:06:42.127'
+      end: '00:06:42.127'
+      u: Was haben Sie gesehen?
+    - who: Marko Moskovitz
+      start: '00:06:43.097'
+      end: '00:06:43.097'
+      u: Man hat sie rein geschmissen.
+    - who: David Boder
+      start: '00:06:45.052'
+      end: '00:06:45.052'
+      u: Wo?
+    - who: Marko Moskovitz
+      start: '00:06:45.821'
+      end: '00:06:45.821'
+      u: Ins Krematorium.
+    - who: David Boder
+      start: '00:06:47.102'
+      end: '00:06:47.102'
+      u: Man hat sie dort reingeschmissen—lebendig?
+    - who: Marko Moskovitz
+      start: '00:06:49.278'
+      end: '00:06:49.278'
+      u: Also, man...sie haben gesagt...und man hört Schreien und dann haben sie gehört
+        das Schreien und dann haben sie gehört das Schreien wird lauter. Und dann
+        auf einmal werden die Türen von sie Gaskammern auf und das Schreien in der
+        Gaskammer.
+    - who: David Boder
+      start: '00:07:07.017'
+      end: '00:07:07.017'
+      u: Aha. In die Gaskammer gingen sie rein. Und dann?
+    - who: Marko Moskovitz
+      start: '00:07:07.962'
+      end: '00:07:07.962'
+      u: Ja. Und die Kranken, was von [unverständlich] nicht laufen konnte, dann mit
+        der Maschine.
+    - who: David Boder
+      start: '00:07:14.277'
+      end: '00:07:14.277'
+      u: Welche Maschine?
+    - who: Marko Moskovitz
+      start: '00:07:15.156'
+      end: '00:07:15.156'
+      u: Von der SS Maschinen—reingeschmissen - in die Gaskammer—ins Krematorium.
+    - who: David Boder
+      start: '00:07:19.759'
+      end: '00:07:19.759'
+      u: Lebendig?
+    - who: Marko Moskovitz
+      start: '00:07:20.498'
+      end: '00:07:20.498'
+      u: Ja.
+    - who: David Boder
+      start: '00:07:21.136'
+      end: '00:07:21.136'
+      u: Die Kranken?
+    - who: Marko Moskovitz
+      start: '00:07:22.146'
+      end: '00:07:22.146'
+      u: Ja.
+    - who: David Boder
+      start: '00:07:23.513'
+      end: '00:07:23.513'
+      u: Wie kann man das, war das Krematorium so gross, dass man Leute lebendig rein
+        geben konnte?
+    - who: Marko Moskovitz
+      start: '00:07:26.629'
+      end: '00:07:26.629'
+      u: Es war sechzig Kilometer, es war 40 Kilometer, Quadratkilometer.
+    - who: David Boder
+      start: '00:07:31.001'
+      end: '00:07:31.001'
+      u: Was?
+    - who: Marko Moskovitz
+      start: '00:07:31.715'
+      end: '00:07:31.715'
+      u: ". . . war gross das Krematorium, wo man reingeschmissen hat."
+    - who: David Boder
+      start: '00:07:35.901'
+      end: '00:07:35.901'
+      u: Was?
+    - who: Marko Moskovitz
+      start: '00:07:36.052'
+      end: '00:07:36.052'
+      u: Es war in einem Wald.
+    - who: David Boder
+      start: '00:07:37.733'
+      end: '00:07:37.733'
+      u: Ja?
+    - who: Marko Moskovitz
+      start: '00:07:37.849'
+      end: '00:07:37.849'
+      u: In einem großen Wald.
+    - who: David Boder
+      start: '00:07:38.326'
+      end: '00:07:38.326'
+      u: Aber...?
+    - who: Marko Moskovitz
+      start: '00:07:38.668'
+      end: '00:07:38.668'
+      u: Was war in dem Wald und da war eine große Gruft.
+    - who: David Boder
+      start: '00:07:43.195'
+      end: '00:07:43.195'
+      u: Ja
+    - who: Marko Moskovitz
+      start: '00:07:43.456'
+      end: '00:07:43.456'
+      u: ". . . und in die Gruft hat man herein geschmissen den schwarzen Schmarren."
+    - who: David Boder
+      start: '00:07:47.019'
+      end: '00:07:47.019'
+      u: Was?
+    - who: Marko Moskovitz
+      start: '00:07:47.858'
+      end: '00:07:47.858'
+      u: Einen schwarzen Schmarren geschüttet , das ist was man auf die Strassen gibt,
+        das hat man herein geschüttet.
+    - who: David Boder
+      start: '00:07:54.396'
+      end: '00:07:54.396'
+      u: Ja.
+    - who: Marko Moskovitz
+      start: '00:07:54.658'
+      end: '00:07:54.658'
+      u: Und das hat man angezündet und das hat gebrannt Tag und Nacht. Und die Menschen
+        hat man rein geschmissen immer.
+    - who: David Boder
+      start: '00:08:01.161'
+      end: '00:08:01.161'
+      u: Oh. Dort hat man verbrannt...verbrannt die Toten?
+    - who: Marko Moskovitz
+      start: '00:08:03.910'
+      end: '00:08:03.910'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:08:04.547'
+      end: '00:08:04.547'
+      u: Verbrannt?
+    - who: Marko Moskovitz
+      start: '00:08:05.145'
+      end: '00:08:05.145'
+      u: Ja, ja. Die Toten und [unverständlich] oft manche die noch leben.
+    - who: David Boder
+      start: '00:08:10.678'
+      end: '00:08:10.678'
+      u: Oh, nicht in die Ofen?
+    - who: Marko Moskovitz
+      start: '00:08:12.613'
+      end: '00:08:12.613'
+      u: Ach, von dem Transport diese würden in the Ofen geschmissen, diese waren,
+        die bei der Arbeit waren, die schon Muselmann waren vom Arbeiten, diese hat
+        man gebracht nach Auschwitz, diese - dass man die da rein schmeißt in die
+        Gaskammern und in diese Ofen.
+    - who: David Boder
+      start: '00:08:27.925'
+      end: '00:08:27.925'
+      u: Ah?
+    - who: Marko Moskovitz
+      start: '00:08:28.051'
+      end: '00:08:28.051'
+      u: Also bitte, der erste Transport, der muss [unverständlich] gehen. Also da
+        kommt ein Transport von sechzig tausend Gefangene und so ein kleiner Ofen
+        dort und so viele Gefangene.
+    - who: David Boder
+      start: '00:08:38.290'
+      end: '00:08:38.290'
+      u: Sie konnten nicht...?
+    - who: Marko Moskovitz
+      start: '00:08:39.285'
+      end: '00:08:39.285'
+      u: Und da hat man sie in die Gruft rein geschmissen.
+    - who: David Boder
+      start: '00:08:41.675'
+      end: '00:08:41.675'
+      u: In die Gruft?
+    - who: Marko Moskovitz
+      start: '00:08:42.694'
+      end: '00:08:42.694'
+      u: Ja.
+    - who: David Boder
+      start: '00:08:42.785'
+      end: '00:08:42.785'
+      u: Und was wurde in der Gruft verbrannt?
+    - who: Marko Moskovitz
+      start: '00:08:43.869'
+      end: '00:08:43.869'
+      u: Menschen wurden...
+    - who: David Boder
+      start: '00:08:44.774'
+      end: '00:08:44.774'
+      u: Ja, aber...
+    - who: Marko Moskovitz
+      start: '00:08:45.045'
+      end: '00:08:45.045'
+      u: Holz, Holz hat man da reingelegt und auch Teer.
+    - who: David Boder
+      start: '00:08:48.001'
+      end: '00:08:48.001'
+      u: Holz und Teer?
+    - who: Marko Moskovitz
+      start: '00:08:48.886'
+      end: '00:08:48.886'
+      u: Ja.
+    - who: David Boder
+      start: '00:08:50.057'
+      end: '00:08:50.057'
+      u: Was haben Sie vorher gesagt—ein Muselmann?
+    - who: Marko Moskovitz
+      start: '00:08:52.230'
+      end: '00:08:52.230'
+      u: Ja, das ist Muselmann, der arbeitet, der arbeitet im Lager.
+    - who: David Boder
+      start: '00:08:56.813'
+      end: '00:08:56.813'
+      u: Ja?
+    - who: Marko Moskovitz
+      start: '00:08:57.090'
+      end: '00:08:57.090'
+      u: Und sie waren mager, nur Haut und Bein.
+    - who: David Boder
+      start: '00:09:00.920'
+      end: '00:09:00.920'
+      u: Ja.
+    - who: Marko Moskovitz
+      start: '00:09:01.251'
+      end: '00:09:01.251'
+      u: Und die Deutschen haben gesagt, die sind Muselmann.
+    - who: David Boder
+      start: '00:09:03.151'
+      end: '00:09:03.151'
+      u: Ja?
+    - who: Marko Moskovitz
+      start: '00:09:03.452'
+      end: '00:09:03.452'
+      u: Und sie werden gebracht nach Auschwitz und sie werden in die Ofen.
+    - who: David Boder
+      start: '00:09:09.302'
+      end: '00:09:09.302'
+      u: Hm.
+    - who: Marko Moskovitz
+      start: '00:09:09.814'
+      end: '00:09:09.814'
+      u: Aber die Transport Massen werden in die Gruft rein geschoben.
+    - who: David Boder
+      start: '00:09:14.593'
+      end: '00:09:14.593'
+      u: So, das war in Auschwitz.
+    - who: Marko Moskovitz
+      start: '00:09:15.844'
+      end: '00:09:15.844'
+      u: Ja.
+    - who: David Boder
+      start: '00:09:16.100'
+      end: '00:09:16.100'
+      u: Und so haben Sie...wie Sie weg sind, haben sie gesagt „die Arbeitsleute voraus“
+        und Sie...
+    - who: Marko Moskovitz
+      start: '00:09:22.040'
+      end: '00:09:22.040'
+      u: Ja, ich bin ausgetreten.
+    - who: David Boder
+      start: '00:09:22.618'
+      end: '00:09:22.618'
+      u: Was hat Ihr Vater gesagt?
+    - who: Marko Moskovitz
+      start: '00:09:24.814'
+      end: '00:09:24.814'
+      u: Mein Vater hat geglaubt, ich soll bleiben in diesem Lager—in Auschwitz.
+    - who: Marko Moskovitz
+      start: '00:09:28.335'
+      end: '00:09:28.335'
+      u: Aha.
+    - who: David Boder
+      start: '00:09:28.762'
+      end: '00:09:28.762'
+      u: Das war Birkenau. Hier in Birkenau bin ich gekommen.
+    - who: Marko Moskovitz
+      start: '00:09:35.421'
+      end: '00:09:35.421'
+      u: Nun so haben Sie Ihren Vater allein gelassen?
+    - who: David Boder
+      start: '00:09:38.708'
+      end: '00:09:38.708'
+      u: Ja.
+    - who: Marko Moskovitz
+      start: '00:09:39.286'
+      end: '00:09:39.286'
+      u: Und?
+    - who: Marko Moskovitz
+      start: '00:09:39.693'
+      end: '00:09:39.693'
+      u: Mit dem Bruder, ein Bruder auch mit dem Vater.
+    - who: David Boder
+      start: '00:09:42.572'
+      end: '00:09:42.572'
+      u: Wie alt war Ihr Bruder?
+    - who: Marko Moskovitz
+      start: '00:09:44.034'
+      end: '00:09:44.034'
+      u: Dreizehn Jahre.
+    - who: David Boder
+      start: '00:09:45.492'
+      end: '00:09:45.492'
+      u: Oh, so er konnte nicht arbeiten?
+    - who: Marko Moskovitz
+      start: '00:09:47.206'
+      end: '00:09:47.206'
+      u: Er war gewohnt von, von zu Hause, er...er war bei der Arbeit von Mai bis
+        August, bis, hm, Jänner.
+    - who: David Boder
+      start: '00:09:57.554'
+      end: '00:09:57.554'
+      u: Hm.
+    - who: Marko Moskovitz
+      start: '00:09:57.790'
+      end: '00:09:57.790'
+      u: ". . . bis ins nächste Jahr. Dann wurde er transportiert von Buna nach Monowitz.
+        Das ist in Polen, eine große Fabrik, er..."
+    - who: David Boder
+      start: '00:10:07.961'
+      end: '00:10:07.961'
+      u: Hat man den Bruder weggenommen von dem Vater?
+    - who: Marko Moskovitz
+      start: '00:10:09.966'
+      end: '00:10:09.966'
+      u: Ja. Nein, der Bruder war mit dem Vater zusammen.
+    - who: David Boder
+      start: '00:10:13.805'
+      end: '00:10:13.805'
+      u: Und der Vater war in der Fabrik?
+    - who: Marko Moskovitz
+      start: '00:10:15.242'
+      end: '00:10:15.242'
+      u: Ja, mit dem Bruder, hat man sie transportiert und evakuiert. Die Russen sind
+        da gekommen.
+    - who: David Boder
+      start: '00:10:21.109'
+      end: '00:10:21.109'
+      u: Hm?
+    - who: Marko Moskovitz
+      start: '00:10:21.335'
+      end: '00:10:21.335'
+      u: Und man hat sie geschickt nach Gleiwitz.
+    - who: David Boder
+      start: '00:10:23.340'
+      end: '00:10:23.340'
+      u: Hm.
+    - who: Marko Moskovitz
+      start: '00:10:23.832'
+      end: '00:10:23.832'
+      u: In Gleiwitz und...in Gleiwitz waren sie.
+    - who: David Boder
+      start: '00:10:25.626'
+      end: '00:10:25.626'
+      u: Aha. Im ersten Lager wohin Sie gekommen sind, wo sie haben Ihre Mutter verloren,
+        welches Lager war das?
+    - who: Marko Moskovitz
+      start: '00:10:33.103'
+      end: '00:10:33.103'
+      u: Das ist Birkenau.
+    - who: David Boder
+      start: '00:10:34.591'
+      end: '00:10:34.591'
+      u: Birkenau?
+    - who: Marko Moskovitz
+      start: '00:10:35.275'
+      end: '00:10:35.275'
+      u: Ja, Birkenau.
+    - who: David Boder
+      start: '00:10:36.174'
+      end: '00:10:36.174'
+      u: Und dort ist ihre Mutter geblieben—mit wem, mit ihrer Schwester?
+    - who: Marko Moskovitz
+      start: '00:10:38.697'
+      end: '00:10:38.697'
+      u: Mit einer Schwester und einem Bruder von 8 Jahren.
+    - who: David Boder
+      start: '00:10:42.014'
+      end: '00:10:42.014'
+      u: Aha. So diese sind verschwunden da?
+    - who: Marko Moskovitz
+      start: '00:10:44.567'
+      end: '00:10:44.567'
+      u: Ja.
+    - who: David Boder
+      start: '00:10:45.195'
+      end: '00:10:45.195'
+      u: Und dann erst Ihr Vater mit Ihrem Bruder...
+    - who: Marko Moskovitz
+      start: '00:10:46.868'
+      end: '00:10:46.868'
+      u: Ja, der Vater mit dem Bruder, hm, sind weg - in einer Fabrik arbeiten.
+    - who: David Boder
+      start: '00:10:51.193'
+      end: '00:10:51.193'
+      u: In einer Fabrik?
+    - who: Marko Moskovitz
+      start: '00:10:51.786'
+      end: '00:10:51.786'
+      u: Ja.
+    - who: David Boder
+      start: '00:10:52.067'
+      end: '00:10:52.067'
+      u: In welcher Fabrik haben sie gearbeitet?
+    - who: Marko Moskovitz
+      start: '00:10:53.399'
+      end: '00:10:53.399'
+      u: In Buna.
+    - who: David Boder
+      start: '00:10:54.349'
+      end: '00:10:54.349'
+      u: In Buna.
+    - who: Marko Moskovitz
+      start: '00:10:54.786'
+      end: '00:10:54.786'
+      u: In Buna.
+    - who: David Boder
+      start: '00:10:55.218'
+      end: '00:10:55.218'
+      u: Und wie lange waren sie dort?
+    - who: Marko Moskovitz
+      start: '00:10:57.374'
+      end: '00:10:57.374'
+      u: Sie waren von Mai...
+    - who: David Boder
+      start: '00:11:01.326'
+      end: '00:11:01.326'
+      u: Ja. Bis?
+    - who: Marko Moskovitz
+      start: '00:11:02.427'
+      end: '00:11:02.427'
+      u: ". . . bis Jänner. Im Jänner hat man begonnen mit Evakuieren."
+    - who: David Boder
+      start: '00:11:06.067'
+      end: '00:11:06.067'
+      u: Aha?
+    - who: Marko Moskovitz
+      start: '00:11:06.318'
+      end: '00:11:06.318'
+      u: Sie sind gegangen bis Gleiwitz Eins. In Gleiwitz Eins—in Gleiwitz Eins und
+        mehr—dann weiß ich nicht.
+    - who: David Boder
+      start: '00:11:12.857'
+      end: '00:11:12.857'
+      u: Aha. Woher wissen Sie, wo sie waren? Haben sie geschrieben?
+    - who: Marko Moskovitz
+      start: '00:11:16.983'
+      end: '00:11:16.983'
+      u: Ich habe einen Cousin.
+    - who: David Boder
+      start: '00:11:19.550'
+      end: '00:11:19.550'
+      u: Hm.
+    - who: Marko Moskovitz
+      start: '00:11:19.786'
+      end: '00:11:19.786'
+      u: Der war mit ihnen zusammen.
+    - who: David Boder
+      start: '00:11:21.490'
+      end: '00:11:21.490'
+      u: Oh, einen Cousin haben Sie, der war mit Ihnen zusammen?
+    - who: Marko Moskovitz
+      start: '00:11:23.917'
+      end: '00:11:23.917'
+      u: Nein, er war mit meinem Vater zusammen.
+    - who: David Boder
+      start: '00:11:26.236'
+      end: '00:11:26.236'
+      u: Mit ihrem Vater?
+    - who: Marko Moskovitz
+      start: '00:11:26.945'
+      end: '00:11:26.945'
+      u: Ja.
+    - who: David Boder
+      start: '00:11:27.071'
+      end: '00:11:27.071'
+      u: Und er hat Ihnen das gesagt?
+    - who: Marko Moskovitz
+      start: '00:11:28.936'
+      end: '00:11:28.936'
+      u: Ja.
+    - who: David Boder
+      start: '00:11:29.876'
+      end: '00:11:29.876'
+      u: Ja. Und wo haben Sie gearbeitet?
+    - who: Marko Moskovitz
+      start: '00:11:33.636'
+      end: '00:11:33.636'
+      u: Ich hab gearbeitet in Oberschlesien.
+    - who: David Boder
+      start: '00:11:35.752'
+      end: '00:11:35.752'
+      u: In Oberschlesien. Ja. In was für einer Fabrik haben Sie gearbeitet?
+    - who: Marko Moskovitz
+      start: '00:11:38.038'
+      end: '00:11:38.038'
+      u: Das war eine Station.
+    - who: David Boder
+      start: '00:11:40.887'
+      end: '00:11:40.887'
+      u: Was?
+    - who: Marko Moskovitz
+      start: '00:11:42.186'
+      end: '00:11:42.186'
+      u: Das war eine Station. Das hat eine, hm, ja, wir haben gemacht eine Station.
+    - who: David Boder
+      start: '00:11:47.159'
+      end: '00:11:47.159'
+      u: Eine, eine Eisenbahn -...
+    - who: Marko Moskovitz
+      start: '00:11:48.154'
+      end: '00:11:48.154'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:11:48.335'
+      end: '00:11:48.335'
+      u: Station.
+    - who: Marko Moskovitz
+      start: '00:11:48.646'
+      end: '00:11:48.646'
+      u: Ja.
+    - who: David Boder
+      start: '00:11:48.716'
+      end: '00:11:48.716'
+      u: Sie haben gebaut?
+    - who: Marko Moskovitz
+      start: '00:11:50.134'
+      end: '00:11:50.134'
+      u: Ja.
+    - who: David Boder
+      start: '00:11:50.304'
+      end: '00:11:50.304'
+      u: Sie sind ein Tischler?
+    - who: Marko Moskovitz
+      start: '00:11:51.224'
+      end: '00:11:51.224'
+      u: Nein. Da ist das egal. Ein Tischler, hm, die Goldarbeiter ist egal, sie alle
+        tragen Zement—und, hm, [unverständlich].
+    - who: David Boder
+      start: '00:12:01.106'
+      end: '00:12:01.106'
+      u: Nun und, hm, wie hat man Sie behandelt dort im Lager?
+    - who: Marko Moskovitz
+      start: '00:12:06.332'
+      end: '00:12:06.332'
+      u: Sie geben für acht Mann ein Brot.
+    - who: David Boder
+      start: '00:12:08.463'
+      end: '00:12:08.463'
+      u: Ja?
+    - who: Marko Moskovitz
+      start: '00:12:08.850'
+      end: '00:12:08.850'
+      u: Das Brot war ein Kilo vierzig.
+    - who: David Boder
+      start: '00:12:10.925'
+      end: '00:12:10.925'
+      u: Ja.
+    - who: Marko Moskovitz
+      start: '00:12:11.337'
+      end: '00:12:11.337'
+      u: Und wir kriegen einen schwarzen Kaffee. Und für mittags dann eine klare Suppe
+        und abends dann eine klare Suppe und dann [unverständlich].
+    - who: David Boder
+      start: '00:12:21.131'
+      end: '00:12:21.131'
+      u: Aha. Und nun wenn jemand war krank?
+    - who: Marko Moskovitz
+      start: '00:12:23.789'
+      end: '00:12:23.789'
+      u: Na, dann hilft nicht. Wenn jemand ist krank, dann muss es von selbst gut
+        werden. Wenn nicht, dann geht er nach Auschwitz.
+    - who: David Boder
+      start: '00:12:34.055'
+      end: '00:12:34.055'
+      u: Und hat das passiert?
+    - who: Marko Moskovitz
+      start: '00:12:35.447'
+      end: '00:12:35.447'
+      u: Hm, das passiert von unserem Lager in drei Viertel, es bleibt ein Viertel.
+    - who: David Boder
+      start: '00:12:42.201'
+      end: '00:12:42.201'
+      u: Und man hat die Anderen genommen—nach was? Nach Auschwitz?
+    - who: Marko Moskovitz
+      start: '00:12:44.116'
+      end: '00:12:44.116'
+      u: Ja, hat man—nach Auschwitz - hat jeder verbrennt.
+    - who: David Boder
+      start: '00:12:51.847'
+      end: '00:12:51.847'
+      u: Und wo haben Sie gearbeitet dort?
+    - who: Marko Moskovitz
+      start: '00:12:54.455'
+      end: '00:12:54.455'
+      u: Ich arbeit Dies, Jenes.
+    - who: David Boder
+      start: '00:12:57.897'
+      end: '00:12:57.897'
+      u: Im Januar.
+    - who: Marko Moskovitz
+      start: '00:12:58.380'
+      end: '00:12:58.380'
+      u: Im Januar, ja.
+    - who: David Boder
+      start: '00:12:59.129'
+      end: '00:12:59.129'
+      u: Ja.
+    - who: Marko Moskovitz
+      start: '00:12:59.616'
+      end: '00:12:59.616'
+      u: Im Januar hatten sie uns evakuiert bis Prag.
+    - who: David Boder
+      start: '00:13:04.209'
+      end: '00:13:04.209'
+      u: Ja?
+    - who: Marko Moskovitz
+      start: '00:13:04.465'
+      end: '00:13:04.465'
+      u: Und von Prag nach Groß-Rosen - alles per Fuß. Und dann hat man uns reinwagoniert
+        in die Wagon, 120 Mann nach Flossenbürg. In Flossenbürg war, waren wir 2 Monate,
+        dann hat man uns nach Offenburg. Von Offenburg hat man uns eingeladen in die
+        Wagon, weil die Amerikaner sind gekommen. Hat man unterwegs, hat man den,
+        hat man geschossen und nur einige wenige Leute sind geblieben am Leben. Und
+        dann sind wir aus dem großen Wagon gerannt in den großen Wald, in den Schwarzwald
+        und dort waren auch freie andere Franzosen.
+    - who: David Boder
+      start: '00:13:43.742'
+      end: '00:13:43.742'
+      u: Franzosen?
+    - who: Marko Moskovitz
+      start: '00:13:44.702'
+      end: '00:13:44.702'
+      u: Ja.
+    - who: David Boder
+      start: '00:13:45.250'
+      end: '00:13:45.250'
+      u: Nun und dann wohin sind sie gegangen von dort??
+    - who: Marko Moskovitz
+      start: '00:13:48.119'
+      end: '00:13:48.119'
+      u: Von dort konnte ich, hm, gehen, aber ich war sehr schwach. zweiunddreißig
+        (32) Kilo hab ich nur gehabt. Aber ich konnte gehen, aber nicht sehr weit
+        gehen.
+    - who: David Boder
+      start: '00:13:58.987'
+      end: '00:13:58.987'
+      u: Sie haben sich selbst gewogen.
+    - who: Marko Moskovitz
+      start: '00:14:00.228'
+      end: '00:14:00.228'
+      u: Ja.
+    - who: David Boder
+      start: '00:14:00.500'
+      end: '00:14:00.500'
+      u: Mit zweiunddreißig (32) Kilo?
+    - who: Marko Moskovitz
+      start: '00:14:01.258'
+      end: '00:14:01.258'
+      u: Ja.
+    - who: David Boder
+      start: '00:14:01.816'
+      end: '00:14:01.816'
+      u: Wie hoch sind Sie?
+    - who: Marko Moskovitz
+      start: '00:14:03.188'
+      end: '00:14:03.188'
+      u: Ich bin einen Meter siebzig.
+    - who: David Boder
+      start: '00:14:04.902'
+      end: '00:14:04.902'
+      u: Sie sind einen Meter siebzig?
+    - who: Marko Moskovitz
+      start: '00:14:06.284'
+      end: '00:14:06.284'
+      u: Ja.
+    - who: David Boder
+      start: '00:14:06.842'
+      end: '00:14:06.842'
+      u: Und Sie haben gewogen zweiunddreißig (32) Kilo
+    - who: Marko Moskovitz
+      start: '00:14:08.184'
+      end: '00:14:08.184'
+      u: Ja.
+    - who: David Boder
+      start: '00:14:09.968'
+      end: '00:14:09.968'
+      u: Nun?
+    - who: Marko Moskovitz
+      start: '00:14:11.259'
+      end: '00:14:11.259'
+      u: Und ich war drei Monate...
+    - who: David Boder
+      start: '00:14:13.636'
+      end: '00:14:13.636'
+      u: Wo?
+    - who: Marko Moskovitz
+      start: '00:14:14.294'
+      end: '00:14:14.294'
+      u: Dort in dem...Immendingen hat es geheißen, das Dorf da in Bayern, ja.
+    - who: David Boder
+      start: '00:14:19.730'
+      end: '00:14:19.730'
+      u: Ja?
+    - who: Marko Moskovitz
+      start: '00:14:20.212'
+      end: '00:14:20.212'
+      u: Und dann...
+    - who: David Boder
+      start: '00:14:21.111'
+      end: '00:14:21.111'
+      u: Wer hat sie ernährt dort?
+    - who: Marko Moskovitz
+      start: '00:14:23.538'
+      end: '00:14:23.538'
+      u: Wir waren es. Und dann...
+    - who: David Boder
+      start: '00:14:25.262'
+      end: '00:14:25.262'
+      u: Was heißt das? Wer war mit Ihnen da?
+    - who: Marko Moskovitz
+      start: '00:14:27.890'
+      end: '00:14:27.890'
+      u: Andere, Russen waren, Soldaten von verschiedene Firmen.
+    - who: David Boder
+      start: '00:14:32.386'
+      end: '00:14:32.386'
+      u: Und wie haben Sie sich ernährt?
+    - who: Marko Moskovitz
+      start: '00:14:34.065'
+      end: '00:14:34.065'
+      u: Also, wir sind rein, die Deutschen waren alle weg. Wein haben wir in der
+        Stube gefunden und Essen.
+    - who: David Boder
+      start: '00:14:40.216'
+      end: '00:14:40.216'
+      u: Ah, die Deutschen waren weg?
+    - who: Marko Moskovitz
+      start: '00:14:41.869'
+      end: '00:14:41.869'
+      u: Ja.
+    - who: David Boder
+      start: '00:14:43.583'
+      end: '00:14:43.583'
+      u: Ja und nun?
+    - who: Marko Moskovitz
+      start: '00:14:45.317'
+      end: '00:14:45.317'
+      u: Dann sind wir gefahren nach Regensburg, nach Regensburg. Von Regensburg nach
+        München war ich schon bis zur letzten Zeit. Dann bin ich nach Italien.
+    - who: David Boder
+      start: '00:14:56.457'
+      end: '00:14:56.457'
+      u: Wie sind Sie gegangen von München nach Italien? Hat man Ihnen erlaubt zu
+        gehen?
+    - who: Marko Moskovitz
+      start: '00:15:00.362'
+      end: '00:15:00.362'
+      u: Ja. Wir sind mit dem Transport nach Italien.
+    - who: David Boder
+      start: '00:15:02.488'
+      end: '00:15:02.488'
+      u: Wer hat es erlaubt?
+    - who: Marko Moskovitz
+      start: '00:15:03.488'
+      end: '00:15:03.488'
+      u: Die Amerikaner haben es erlaubt.
+    - who: David Boder
+      start: '00:15:06.016'
+      end: '00:15:06.016'
+      u: Und sie gingen wohin? Nach Italien?
+    - who: Marko Moskovitz
+      start: '00:15:07.076'
+      end: '00:15:07.076'
+      u: Nach Italien, ja.
+    - who: David Boder
+      start: '00:15:08.930'
+      end: '00:15:08.930'
+      u: Was, Sie haben Ihnen erlaubt zu gehen nach Italien?
+    - who: Marko Moskovitz
+      start: '00:15:10.342'
+      end: '00:15:10.342'
+      u: Ja.
+    - who: David Boder
+      start: '00:15:11.262'
+      end: '00:15:11.262'
+      u: Was haben Sie gedacht, warum nach Italien?
+    - who: Marko Moskovitz
+      start: '00:15:13.900'
+      end: '00:15:13.900'
+      u: Weil man hat mir erzählt, dass niemand mehr zu Hause sei und warum dann nach
+        Hause. So bin ich nach Italien.
+    - who: David Boder
+      start: '00:15:21.206'
+      end: '00:15:21.206'
+      u: Oh, ansonsten wären Sie gegangen nach Hause?
+    - who: Marko Moskovitz
+      start: '00:15:23.553'
+      end: '00:15:23.553'
+      u: Ja.
+    - who: David Boder
+      start: '00:15:24.442'
+      end: '00:15:24.442'
+      u: Aha.
+    - who: Marko Moskovitz
+      start: '00:15:24.654'
+      end: '00:15:24.654'
+      u: Weil niemand zu Haus.
+    - who: David Boder
+      start: '00:15:26.247'
+      end: '00:15:26.247'
+      u: Wie sind Sie gekommen nach Italien? Haben Sie genommen einen Zug?
+    - who: Marko Moskovitz
+      start: '00:15:29.426'
+      end: '00:15:29.426'
+      u: Wir bekommen einen Transport, ganze Transport.
+    - who: David Boder
+      start: '00:15:33.296'
+      end: '00:15:33.296'
+      u: Waren da viele,...viele Juden, ja?
+    - who: Marko Moskovitz
+      start: '00:15:35.603'
+      end: '00:15:35.603'
+      u: Ja, wir waren zweihundert (200).
+    - who: David Boder
+      start: '00:15:38.402'
+      end: '00:15:38.402'
+      u: Und wo sind die Anderen hin gegangen?
+    - who: Marko Moskovitz
+      start: '00:15:40.136'
+      end: '00:15:40.136'
+      u: Die Anderen sind gegangen, sie haben gefunden Arbeit und blieben in Italien,
+        manche kommen nach Frankreich. Viele haben..., in Amerika haben sie Freund...
+    - who: David Boder
+      start: '00:15:51.322'
+      end: '00:15:51.322'
+      u: Aha.
+    - who: Marko Moskovitz
+      start: '00:15:51.749'
+      end: '00:15:51.749'
+      u: ". . . und sie bekommen Affidavit und sind nach dort gekommen, ja."
+    - who: David Boder
+      start: '00:15:55.684'
+      end: '00:15:55.684'
+      u: Sagen Sie mal, wo waren Sie in Italien?
+    - who: Marko Moskovitz
+      start: '00:15:58.232'
+      end: '00:15:58.232'
+      u: In Torino.
+    - who: David Boder
+      start: '00:15:59.624'
+      end: '00:15:59.624'
+      u: In Torino und, hm, wen..., wer..., wo haben Sie gegessen
+    - who: Marko Moskovitz
+      start: '00:16:03.580'
+      end: '00:16:03.580'
+      u: Im UNRRA Camp.
+    - who: David Boder
+      start: '00:16:05.123'
+      end: '00:16:05.123'
+      u: Die UNRRA.
+    - who: Marko Moskovitz
+      start: '00:16:05.741'
+      end: '00:16:05.741'
+      u: Ja.
+    - who: David Boder
+      start: '00:16:06.012'
+      end: '00:16:06.012'
+      u: "[unverständlich] zu leben?"
+    - who: Marko Moskovitz
+      start: '00:16:08.223'
+      end: '00:16:08.223'
+      u: Ja, zu essen und zu schlafen.
+    - who: David Boder
+      start: '00:16:11.133'
+      end: '00:16:11.133'
+      u: Ah, hm. Und denn? Warum sind sie gekommen nach Frankreich?
+    - who: Marko Moskovitz
+      start: '00:16:15.228'
+      end: '00:16:15.228'
+      u: Weil ich war noch jung, ich wollte lernen ein Fach.
+    - who: David Boder
+      start: '00:16:18.354'
+      end: '00:16:18.354'
+      u: Aha. Und in Italien geht das nicht?
+    - who: Marko Moskovitz
+      start: '00:16:20.841'
+      end: '00:16:20.841'
+      u: Nein, in Italien gibt’s keine Fach [unverständlich].
+    - who: David Boder
+      start: '00:16:23.921'
+      end: '00:16:23.921'
+      u: Aha. Und wer hat Ihnen gesagt, dass Sie gehen sollen nach Frankreich?
+    - who: Marko Moskovitz
+      start: '00:16:28.504'
+      end: '00:16:28.504'
+      u: Andere Leute sind gegangen, so bin ich auch gegangen...
+    - who: David Boder
+      start: '00:16:31.454'
+      end: '00:16:31.454'
+      u: Wie sind Sie gegangen nach Frankreich—per Eisenbahn?
+    - who: Marko Moskovitz
+      start: '00:16:34.886'
+      end: '00:16:34.886'
+      u: Nein
+    - who: David Boder
+      start: '00:16:35.655'
+      end: '00:16:35.655'
+      u: Wie denn?
+    - who: Marko Moskovitz
+      start: '00:16:36.112'
+      end: '00:16:36.112'
+      u: Über Alpen.
+    - who: David Boder
+      start: '00:16:38.851'
+      end: '00:16:38.851'
+      u: Sie sind über die Alpen gegangen?
+    - who: Marko Moskovitz
+      start: '00:16:40.072'
+      end: '00:16:40.072'
+      u: Ja.
+    - who: David Boder
+      start: '00:16:41.645'
+      end: '00:16:41.645'
+      u: Warum?
+    - who: Marko Moskovitz
+      start: '00:16:43.037'
+      end: '00:16:43.037'
+      u: Warum? Ich muss so kommen, weil ich habe kein Geld für gehen mit dem Zug,
+        war zu viel Geld...[unverständlich]
+    - who: David Boder
+      start: '00:16:49.787'
+      end: '00:16:49.787'
+      u: Sind zu Fuß über die Alpen gegangen?
+    - who: Marko Moskovitz
+      start: '00:16:52.787'
+      end: '00:16:52.787'
+      u: Ja.
+    - who: David Boder
+      start: '00:16:53.315'
+      end: '00:16:53.315'
+      u: Wie lange hat das gedauert?
+    - who: Marko Moskovitz
+      start: '00:16:54.938'
+      end: '00:16:54.938'
+      u: Zwei Tage und eine Nacht.
+    - who: David Boder
+      start: '00:16:57.054'
+      end: '00:16:57.054'
+      u: So—zu gehen über die Alpen?
+    - who: Marko Moskovitz
+      start: '00:16:58.014'
+      end: '00:16:58.014'
+      u: Ja.
+    - who: David Boder
+      start: '00:16:58.582'
+      end: '00:16:58.582'
+      u: Haben die Franzosen Sie reingelassen?
+    - who: Marko Moskovitz
+      start: '00:17:00.989'
+      end: '00:17:00.989'
+      u: Wir waren da rein gekommen im französischen Dorf haben wir gegessen und geschlafen.
+        Dann haben wir gebeten bei einem Komitee um Geld und sind dann gekommen nach
+        Paris.
+    - who: David Boder
+      start: '00:17:11.851'
+      end: '00:17:11.851'
+      u: Haben Sie ein Einreise-Visum bekommen?
+    - who: Marko Moskovitz
+      start: '00:17:14.381'
+      end: '00:17:14.381'
+      u: Ja.
+    - who: David Boder
+      start: '00:17:15.285'
+      end: '00:17:15.285'
+      u: Und wer hat Ihnen das gegeben?
+    - who: Marko Moskovitz
+      start: '00:17:17.454'
+      end: '00:17:17.454'
+      u: Wir sind so rein gekommen.
+    - who: David Boder
+      start: '00:17:19.081'
+      end: '00:17:19.081'
+      u: Was?
+    - who: Marko Moskovitz
+      start: '00:17:19.714'
+      end: '00:17:19.714'
+      u: Kein Einreise-Visum.
+    - who: David Boder
+      start: '00:17:20.859'
+      end: '00:17:20.859'
+      u: "[lacht etwas] Sie haben kein Visum gehabt! Wie haben die Franzosen Sie herein
+        gelassen?"
+    - who: Marko Moskovitz
+      start: '00:17:24.654'
+      end: '00:17:24.654'
+      u: Gut. Wir haben gesagt, wir sind Deportierte und wir haben kein...niemand
+        zu Hause, wo sollen wir da hin? Wir wollen zum Arbeiten nach Paris, zum Fach
+        lernen.
+    - who: David Boder
+      start: '00:17:35.177'
+      end: '00:17:35.177'
+      u: Aha.
+    - who: Marko Moskovitz
+      start: '00:17:35.780'
+      end: '00:17:35.780'
+      u: Fach lernen.
+    - who: David Boder
+      start: '00:17:37.256'
+      end: '00:17:37.256'
+      u: Alright, so sind sie gekommen nach Paris.
+    - who: Marko Moskovitz
+      start: '00:17:39.123'
+      end: '00:17:39.123'
+      u: Ja.
+    - who: David Boder
+      start: '00:17:39.485'
+      end: '00:17:39.485'
+      u: Und wie haben Sie gefunden die Menschen?
+    - who: Marko Moskovitz
+      start: '00:17:41.081'
+      end: '00:17:41.081'
+      u: 'Also gefunden habe ich einen Mensch, ein Jud, er war im Zug von mir und
+        ist auch gekommen. Ich hab ihn gefragt, wo ich kann bleiben in Paris und er
+        hat gesagt: „Ich nehm Dich heim für zwei, drei Tag’.'
+    - who: David Boder
+      start: '00:17:55.281'
+      end: '00:17:55.281'
+      u: Hier?
+    - who: Marko Moskovitz
+      start: '00:17:56.004'
+      end: '00:17:56.004'
+      u: Ja, Paris.
+    - who: David Boder
+      start: '00:17:57.179'
+      end: '00:17:57.179'
+      u: Und?
+    - who: Marko Moskovitz
+      start: '00:17:58.625'
+      end: '00:17:58.625'
+      u: Und ich war dort zwei oder drei Tage. Dann bin ich weg nach (Venesse a gis?)
+        und von dort hat man geschickt nach Pert (?).
+    - who: David Boder
+      start: '00:18:06.848'
+      end: '00:18:06.848'
+      u: Nach wo?
+    - who: Marko Moskovitz
+      start: '00:18:07.511'
+      end: '00:18:07.511'
+      u: Pert.
+    - who: David Boder
+      start: '00:18:08.415'
+      end: '00:18:08.415'
+      u: Wo ist das?
+    - who: Marko Moskovitz
+      start: '00:18:09.198'
+      end: '00:18:09.198'
+      u: Nahe bei Paris.
+    - who: David Boder
+      start: '00:18:10.704'
+      end: '00:18:10.704'
+      u: Aha! Nun und denn?
+    - who: Marko Moskovitz
+      start: '00:18:12.692'
+      end: '00:18:12.692'
+      u: Und da hat man mir gegeben zu essen und zu schlafen. Und ich habe gesagt,
+        dass ich ein Fach lernen will.
+    - who: David Boder
+      start: '00:18:21.728'
+      end: '00:18:21.728'
+      u: Aha. Und wo haben Sie gefunden Ihren Cousin?
+    - who: Marko Moskovitz
+      start: '00:18:25.493'
+      end: '00:18:25.493'
+      u: Mit meinem Cousin komme ich zusammen von Italien.
+    - who: David Boder
+      start: '00:18:28.987'
+      end: '00:18:28.987'
+      u: Aber wo haben Sie ihn gefunden?
+    - who: Marko Moskovitz
+      start: '00:18:30.674'
+      end: '00:18:30.674'
+      u: Wir waren noch in Deutschland zusammen, nach der Befreiung habe ich ihn gefunden.
+    - who: David Boder
+      start: '00:18:34.831'
+      end: '00:18:34.831'
+      u: Oh, nach der Befreiung?
+    - who: Marko Moskovitz
+      start: '00:18:35.825'
+      end: '00:18:35.825'
+      u: Ja.
+    - who: David Boder
+      start: '00:18:36.367'
+      end: '00:18:36.367'
+      u: Und erzählen Sie mir, wie haben Sie sich gefunden? Bitte.
+    - who: Marko Moskovitz
+      start: '00:18:40.032'
+      end: '00:18:40.032'
+      u: Ich bin gekommen nach Regensburg.
+    - who: David Boder
+      start: '00:18:43.064'
+      end: '00:18:43.064'
+      u: Ja.
+    - who: Marko Moskovitz
+      start: '00:18:43.446'
+      end: '00:18:43.446'
+      u: Man hat mir gesagt, er ist in München. Und ich komme nach München und habe
+        ihn gefunden in der Kaserne.
+    - who: David Boder
+      start: '00:18:51.520'
+      end: '00:18:51.520'
+      u: In der Kaserne.
+    - who: Marko Moskovitz
+      start: '00:18:52.052'
+      end: '00:18:52.052'
+      u: Ja.
+    - who: David Boder
+      start: '00:18:52.946'
+      end: '00:18:52.946'
+      u: Und war er von Ihrer Stadt?
+    - who: Marko Moskovitz
+      start: '00:18:55.044'
+      end: '00:18:55.044'
+      u: Ja.
+    - who: David Boder
+      start: '00:18:55.908'
+      end: '00:18:55.908'
+      u: War er zusammen mit Ihnen?
+    - who: Marko Moskovitz
+      start: '00:18:57.063'
+      end: '00:18:57.063'
+      u: Nein, mit meinem Vater.
+    - who: David Boder
+      start: '00:18:58.599'
+      end: '00:18:58.599'
+      u: Wieso, hm, war...war er mit Ihrem Vater? Wieso?
+    - who: Marko Moskovitz
+      start: '00:19:01.932'
+      end: '00:19:01.932'
+      u: Wieso?
+    - who: David Boder
+      start: '00:19:02.879'
+      end: '00:19:02.879'
+      u: Ist er der junge Mann, der war mit Ihnen?
+    - who: Marko Moskovitz
+      start: '00:19:04.706'
+      end: '00:19:04.706'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:19:05.309'
+      end: '00:19:05.309'
+      u: Ja?
+    - who: Marko Moskovitz
+      start: '00:19:06.915'
+      end: '00:19:06.915'
+      u: Er war mit dem Vater zusammen. Und sein Vater war mit mir zusammen in Flossenbürg.
+    - who: David Boder
+      start: '00:19:12.592'
+      end: '00:19:12.592'
+      u: Ihr Vater war mit ihm zusammen?
+    - who: Marko Moskovitz
+      start: '00:19:15.486'
+      end: '00:19:15.486'
+      u: Ja, und mein...
+    - who: David Boder
+      start: '00:19:16.320'
+      end: '00:19:16.320'
+      u: Und sein Vater war mit Ihnen in Flossenbürg.
+    - who: Marko Moskovitz
+      start: '00:19:17.967'
+      end: '00:19:17.967'
+      u: Ja, In Flossenbürg.
+    - who: David Boder
+      start: '00:19:19.694'
+      end: '00:19:19.694'
+      u: Aha. Nun, haben sie Verwandte hier in Paris?
+    - who: Marko Moskovitz
+      start: '00:19:24.065'
+      end: '00:19:24.065'
+      u: Nein.
+    - who: David Boder
+      start: '00:19:24.637'
+      end: '00:19:24.637'
+      u: Sie haben keine.
+    - who: Marko Moskovitz
+      start: '00:19:25.521'
+      end: '00:19:25.521'
+      u: In Amerika habe ich, aber ich weiß keine Adresse.
+    - who: David Boder
+      start: '00:19:28.382'
+      end: '00:19:28.382'
+      u: In welcher Stadt?
+    - who: Marko Moskovitz
+      start: '00:19:29.951'
+      end: '00:19:29.951'
+      u: Das weiß ich nicht. Ich weiß den Namen von, hm, den Namen.
+    - who: David Boder
+      start: '00:19:35.975'
+      end: '00:19:35.975'
+      u: Haben Sie gesprochen mit HIAS?
+    - who: Marko Moskovitz
+      start: '00:19:38.338'
+      end: '00:19:38.338'
+      u: Was ist das? Mit wem?
+    - who: David Boder
+      start: '00:19:40.256'
+      end: '00:19:40.256'
+      u: Das ist die amerikanische Vermittlung in Paris. Haben Sie damit gesprochen?
+    - who: Marko Moskovitz
+      start: '00:19:43.358'
+      end: '00:19:43.358'
+      u: Nein, nein, noch nicht.
+    - who: David Boder
+      start: '00:19:44.766'
+      end: '00:19:44.766'
+      u: Warum suchen Sie die nicht auf und reden mit denen?
+    - who: Marko Moskovitz
+      start: '00:19:47.146'
+      end: '00:19:47.146'
+      u: Weil ich weiß vor dem Krieg haben wir gekriegt jede zwei Wochen—haben wir
+        gekriegt Post. Aber wie wir nach Auschwitz deportiert sind alle, haben sie
+        verbrennt alle Dokumente und ich weiß die Adresse nicht.
+    - who: David Boder
+      start: '00:20:00.245'
+      end: '00:20:00.245'
+      u: Ja, aber...
+    - who: Marko Moskovitz
+      start: '00:20:00.807'
+      end: '00:20:00.807'
+      u: Ich war da noch zu jung und habe mir nichts gemerkt. Ich weiß nicht.
+    - who: David Boder
+      start: '00:20:03.156'
+      end: '00:20:03.156'
+      u: Ja, aber wissen Sie nicht in welcher Stadt er lebt?
+    - who: Marko Moskovitz
+      start: '00:20:05.174'
+      end: '00:20:05.174'
+      u: Nein.
+    - who: David Boder
+      start: '00:20:05.766'
+      end: '00:20:05.766'
+      u: Wissen Sie, dass es dieses Komitee, ein amerikanisches Komitee, gibt hier
+        das sucht Verwandte?
+    - who: Marko Moskovitz
+      start: '00:20:11.503'
+      end: '00:20:11.503'
+      u: Wo? Hier in Paris?
+    - who: David Boder
+      start: '00:20:12.306'
+      end: '00:20:12.306'
+      u: Hier in Paris, yes, ein sehr feines Komitee.
+    - who: Marko Moskovitz
+      start: '00:20:15.560'
+      end: '00:20:15.560'
+      u: Ich weiß die Adresse nicht.
+    - who: David Boder
+      start: '00:20:16.209'
+      end: '00:20:16.209'
+      u: Man nennt es die HIAS.
+    - who: Marko Moskovitz
+      start: '00:20:18.890'
+      end: '00:20:18.890'
+      u: Die HIAS?
+    - who: David Boder
+      start: '00:20:19.964'
+      end: '00:20:19.964'
+      u: Ja.
+    - who: Marko Moskovitz
+      start: '00:20:20.607'
+      end: '00:20:20.607'
+      u: Und wie lange kann das dauern? Wie lange...
+    - who: David Boder
+      start: '00:20:22.153'
+      end: '00:20:22.153'
+      u: Dauern...drei Monate, es kann dauern sechs Monate, aber den finden sie gewöhnlich.
+        Hm, hm, dieses Komitee ist hier in Paris. Sie fragen Herrn Bramson. Er wird
+        sich mit denen in Verbindung setzen; und sie geben ihm den Namen und sie...
+    - who: Marko Moskovitz
+      start: '00:20:44.604'
+      end: '00:20:44.604'
+      u: Den Namen des Onkels?
+    - who: David Boder
+      start: '00:20:45.237'
+      end: '00:20:45.237'
+      u: ". . . geben das in die News—in die Zeitungen und dann wird schon."
+    - who: Marko Moskovitz
+      start: '00:20:47.289'
+      end: '00:20:47.289'
+      u: Ja.
+    - who: David Boder
+      start: '00:20:48.002'
+      end: '00:20:48.002'
+      u: ". . . dann wird schon jemand gefunden. Verstehen Sie?"
+    - who: Marko Moskovitz
+      start: '00:20:51.368'
+      end: '00:20:51.368'
+      u: Ja.
+    - who: David Boder
+      start: '00:20:52.643'
+      end: '00:20:52.643'
+      u: Und sonst—wo denken Sie zu bleiben? Wohin wollen Sie gehen, wenn Sie haben
+        gelernt ein Fach?
+    - who: Marko Moskovitz
+      start: '00:20:57.767'
+      end: '00:20:57.767'
+      u: Vielleicht wenn man findet meinen Onkel in Amerika, vielleicht werd ich dort
+        gehen.
+    - who: David Boder
+      start: '00:21:02.912'
+      end: '00:21:02.912'
+      u: Und sonst?
+    - who: Marko Moskovitz
+      start: '00:21:03.846'
+      end: '00:21:03.846'
+      u: Und sonst—hab nirgendwo hin zu gehen. Muss bleiben in Paris.
+    - who: David Boder
+      start: '00:21:12.581'
+      end: '00:21:12.581'
+      u: 'Alright. Ich habe hier ein paar Bilder und ich will, dass Sie mir sagen,
+        was ihre Meinung von die Bilder ist. Zum Beispiel: was ist das?'
+    - who: Marko Moskovitz
+      start: '00:21:24.199'
+      end: '00:21:24.199'
+      u: Das ist ein Bild.
+    - who: David Boder
+      start: '00:21:26.187'
+      end: '00:21:26.187'
+      u: Ja, aber beschreiben Sie. Was ist es? Was denken Sie ist es?
+    - who: Marko Moskovitz
+      start: '00:21:46.941'
+      end: '00:21:46.941'
+      u: Das ist eine Frau.
+    - who: David Boder
+      start: '00:21:48.317'
+      end: '00:21:48.317'
+      u: Ja, hm?
+    - who: Marko Moskovitz
+      start: '00:21:49.428'
+      end: '00:21:49.428'
+      u: Eine Arbeitsfrau.
+    - who: David Boder
+      start: '00:21:51.175'
+      end: '00:21:51.175'
+      u: Ja.
+    - who: Marko Moskovitz
+      start: '00:21:52.761'
+      end: '00:21:52.761'
+      u: Und ist sehr verklärt.
+    - who: David Boder
+      start: '00:21:55.132'
+      end: '00:21:55.132'
+      u: Ist verklärt?
+    - who: Marko Moskovitz
+      start: '00:21:55.935'
+      end: '00:21:55.935'
+      u: Ja.
+    - who: David Boder
+      start: '00:21:56.497'
+      end: '00:21:56.497'
+      u: Was denken Sie, denkt sie?
+    - who: Marko Moskovitz
+      start: '00:21:58.907'
+      end: '00:21:58.907'
+      u: Sie denkt an ihren Mann und an ihre Kinder.
+    - who: David Boder
+      start: '00:22:02.599'
+      end: '00:22:02.599'
+      u: Hm, alright, was ist das?
+    - who: Marko Moskovitz
+      start: '00:22:14.497'
+      end: '00:22:14.497'
+      u: Das war im Lager.
+    - who: David Boder
+      start: '00:22:16.274'
+      end: '00:22:16.274'
+      u: Ja?
+    - who: Marko Moskovitz
+      start: '00:22:17.961'
+      end: '00:22:17.961'
+      u: 'Ein Bruder zum Anderen hat gesagt: ‚Ah, ich bin jetzt krank, aber vielleicht
+        wirst du nach Hause gehen, um zu sagen dem Vater, ich muss sterben.’ Also
+        passiert in einem Lager.'
+    - who: David Boder
+      start: '00:22:32.899'
+      end: '00:22:32.899'
+      u: Was ist das? Moment, bitte—was ist dies?
+    - who: Marko Moskovitz
+      start: '00:22:40.158'
+      end: '00:22:40.158'
+      u: Das ist zwei Mal Damen.
+    - who: David Boder
+      start: '00:22:41.995'
+      end: '00:22:41.995'
+      u: Ja. Erzählen Sie mir, was kommt da vor?
+    - who: Marko Moskovitz
+      start: '00:22:47.809'
+      end: '00:22:47.809'
+      u: Die sehen aus wie zwei Schwestern.
+    - who: David Boder
+      start: '00:22:50.309'
+      end: '00:22:50.309'
+      u: Ja. Was hat passiert?
+    - who: Marko Moskovitz
+      start: '00:22:55.670'
+      end: '00:22:55.670'
+      u: Sie haben vielleicht nach dem Krieg...Einem mit dem Anderen (zu leise—murmelt—unverständlich)
+    - who: David Boder
+      start: '00:23:02.630'
+      end: '00:23:02.630'
+      u: Sprechen Sie lauter! Ja. Und was ist das?
+    - who: Marko Moskovitz
+      start: '00:23:15.577'
+      end: '00:23:15.577'
+      u: Das ist ein Mensch.
+    - who: David Boder
+      start: '00:23:16.963'
+      end: '00:23:16.963'
+      u: Ja. Und was?
+    - who: Marko Moskovitz
+      start: '00:23:20.246'
+      end: '00:23:20.246'
+      u: Er sieht aus wie ein Muselmann.
+    - who: David Boder
+      start: '00:23:22.957'
+      end: '00:23:22.957'
+      u: Ja? Sprechen Sie lauter. Wie sieht er aus?
+    - who: Marko Moskovitz
+      start: '00:23:26.602'
+      end: '00:23:26.602'
+      u: Wie ein Muselmann.
+    - who: David Boder
+      start: '00:23:27.945'
+      end: '00:23:27.945'
+      u: Ja? Was ist ein Muselmann?
+    - who: Marko Moskovitz
+      start: '00:23:30.638'
+      end: '00:23:30.638'
+      u: Ein Muselmann ist ein Mensch Haut und Bein.
+    - who: David Boder
+      start: '00:23:34.011'
+      end: '00:23:34.011'
+      u: Wer hat ihn genannt den Muselmann?
+    - who: Marko Moskovitz
+      start: '00:23:35.939'
+      end: '00:23:35.939'
+      u: Was?
+    - who: David Boder
+      start: '00:23:36.632'
+      end: '00:23:36.632'
+      u: Wer hat sie genannt Muselmann?
+    - who: Marko Moskovitz
+      start: '00:23:38.650'
+      end: '00:23:38.650'
+      u: Die Deutschen.
+    - who: David Boder
+      start: '00:23:40.066'
+      end: '00:23:40.066'
+      u: Und was haben sie getan mit dem Muselmann?
+    - who: Marko Moskovitz
+      start: '00:23:41.873'
+      end: '00:23:41.873'
+      u: 'Sie haben gesagt: ‚Du bist ein Muselmann, du hast kein Recht zum Leben.’'
+    - who: David Boder
+      start: '00:23:45.819'
+      end: '00:23:45.819'
+      u: Und dann?
+    - who: Marko Moskovitz
+      start: '00:23:46.783'
+      end: '00:23:46.783'
+      u: 'Und danach reden: „Steh auf, Mensch, Du darfst nicht leben. Geh nach Krematorium.’'
+    - who: David Boder
+      start: '00:23:54.193'
+      end: '00:23:54.193'
+      u: Ah hm. Und was ist das?
+    - who: Marko Moskovitz
+      start: '00:24:00.609'
+      end: '00:24:00.609'
+      u: Und das ist zwei Frauen und ein Mann—arbeiten—im Feld arbeiten.
+    - who: David Boder
+      start: '00:24:06.874'
+      end: '00:24:06.874'
+      u: Ja?
+    - who: Marko Moskovitz
+      start: '00:24:13.654'
+      end: '00:24:13.654'
+      u: Und das - vielleicht sind sie in Amerika.
+    - who: David Boder
+      start: '00:24:18.895'
+      end: '00:24:18.895'
+      u: Hm. Alright. Und was ist das?
+    - who: Marko Moskovitz
+      start: '00:24:30.552'
+      end: '00:24:30.552'
+      u: Das ist ein Kind. Was der Doktor dem gelernt hat ist eine Fiedel. Und er
+        kann es spielen, weil er gut war.
+    - who: David Boder
+      start: '00:24:40.462'
+      end: '00:24:40.462'
+      u: Was war er?
+    - who: Marko Moskovitz
+      start: '00:24:41.214'
+      end: '00:24:41.214'
+      u: Weil er gut war, kann er es spielen.
+    - who: David Boder
+      start: '00:24:44.256'
+      end: '00:24:44.256'
+      u: Aha, nun?
+    - who: David Boder
+      start: '00:24:49.801'
+      end: 
+      u: "[In English] This concludes the interview with Mark Moskovski on July 30,
+        1946, a boy of, hm, Czechoslovakia, age 19."
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:43.417'
+      end: '00:00:43.417'
+      u: "[In English] This is Spool number 6, a young man, Marko Moskovitz, a pupil
+        at the ORT. The record is being taken on July 30th, 1946."
+    - who: David Boder
+      start: '00:01:00.934'
+      end: '00:01:00.934'
+      u: "[In German] What do you say is your name?"
+    - who: Marko Moskovitz
+      start: '00:01:05.398'
+      end: '00:01:05.398'
+      u: Moskovitz, Marko.
+    - who: David Boder
+      start: '00:01:07.041'
+      end: '00:01:07.041'
+      u: Moskovitz, Marko. And...and how long have you been in Paris?
+    - who: Marko Moskovitz
+      start: '00:01:12.091'
+      end: '00:01:12.091'
+      u: Two weeks.
+    - who: David Boder
+      start: '00:01:13.372'
+      end: '00:01:13.372'
+      u: From where did you come to Paris? [Words not clear.]
+    - who: Marko Moskovitz
+      start: '00:01:15.437'
+      end: '00:01:15.437'
+      u: From Germany. From Germany I went to Italy. From Italy to Paris.
+    - who: David Boder
+      start: '00:01:22.130'
+      end: '00:01:22.130'
+      u: From Germany to Italy.
+    - who: Marko Moskovitz
+      start: '00:01:23.602'
+      end: '00:01:23.602'
+      u: Yes.
+    - who: David Boder
+      start: '00:01:23.683'
+      end: '00:01:23.683'
+      u: And from Italy to Paris.
+    - who: Marko Moskovitz
+      start: '00:01:25.055'
+      end: '00:01:25.055'
+      u: Yes.
+    - who: David Boder
+      start: '00:01:25.392'
+      end: '00:01:25.392'
+      u: And where were you born, Marko?
+    - who: Marko Moskovitz
+      start: '00:01:27.477'
+      end: '00:01:27.477'
+      u: In the Carpathians.
+    - who: David Boder
+      start: '00:01:29.060'
+      end: '00:01:29.060'
+      u: In the Carpathians.
+    - who: Marko Moskovitz
+      start: '00:01:29.557'
+      end: '00:01:29.557'
+      u: In Carpatho-Rus-...[Ruthenia?]
+    - who: David Boder
+      start: '00:01:30.844'
+      end: '00:01:30.844'
+      u: And when did you come to Germany?
+    - who: Marko Moskovitz
+      start: '00:01:33.764'
+      end: '00:01:33.764'
+      u: In Germany...since the deportation.
+    - who: David Boder
+      start: '00:01:36.643'
+      end: '00:01:36.643'
+      u: Deported?
+    - who: Marko Moskovitz
+      start: '00:01:37.237'
+      end: '00:01:37.237'
+      u: Yes.
+    - who: David Boder
+      start: '00:01:37.710'
+      end: '00:01:37.710'
+      u: In what year?
+    - who: Marko Moskovitz
+      start: '00:01:39.233'
+      end: '00:01:39.233'
+      u: In thousand nine hundred and forty-two [1942] I was deported.
+    - who: David Boder
+      start: '00:01:42.494'
+      end: '00:01:42.494'
+      u: You were deported. How old are you now?
+    - who: Marko Moskovitz
+      start: '00:01:44.823'
+      end: '00:01:44.823'
+      u: Nineteen years.
+    - who: David Boder
+      start: '00:01:45.828'
+      end: '00:01:45.828'
+      u: You are nineteen years old. So how old were you when you were deported?
+    - who: Marko Moskovitz
+      start: '00:01:49.823'
+      end: '00:01:49.823'
+      u: I was seventeen years [old].
+    - who: David Boder
+      start: '00:01:51.602'
+      end: '00:01:51.602'
+      u: You were with your family [?]?
+    - who: Marko Moskovitz
+      start: '00:01:53.070'
+      end: '00:01:53.070'
+      u: Yes.
+    - who: David Boder
+      start: '00:01:53.875'
+      end: '00:01:53.875'
+      u: You were seventeen years old.
+    - who: Marko Moskovitz
+      start: '00:01:55.699'
+      end: '00:01:55.699'
+      u: Yes.
+    - who: David Boder
+      start: '00:01:56.101'
+      end: '00:01:56.101'
+      u: All right. Now tell me, who were your parents? Who were your family, and
+        all that?
+    - who: Marko Moskovitz
+      start: '00:02:02.965'
+      end: '00:02:02.965'
+      u: My...
+    - who: David Boder
+      start: '00:02:04.954'
+      end: '00:02:04.954'
+      u: Nu?
+    - who: Marko Moskovitz
+      start: '00:02:05.502'
+      end: '00:02:05.502'
+      u: Yes. Hirsh was my father, and my mother Dwoira. I had five siblings.
+    - who: David Boder
+      start: '00:02:15.678'
+      end: '00:02:15.678'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:02:16.115'
+      end: '00:02:16.115'
+      u: And all were deported. And I have remained alone.
+    - who: David Boder
+      start: '00:02:19.014'
+      end: '00:02:19.014'
+      u: Aha. And now, what was your father's occupation?
+    - who: Marko Moskovitz
+      start: '00:02:23.754'
+      end: '00:02:23.754'
+      u: An agricultural worker.
+    - who: David Boder
+      start: '00:02:26.081'
+      end: '00:02:26.081'
+      u: He was an agricultural worker.
+    - who: Marko Moskovitz
+      start: '00:02:27.232'
+      end: '00:02:27.232'
+      u: Yes.
+    - who: David Boder
+      start: '00:02:27.358'
+      end: '00:02:27.358'
+      u: In which town?
+    - who: Marko Moskovitz
+      start: '00:02:28.861'
+      end: '00:02:28.861'
+      u: Solotvyna.
+    - who: David Boder
+      start: '00:02:30.042'
+      end: '00:02:30.042'
+      u: Solotvyna.
+    - who: Marko Moskovitz
+      start: '00:02:30.871'
+      end: '00:02:30.871'
+      u: Yes.
+    - who: David Boder
+      start: '00:02:30.982'
+      end: '00:02:30.982'
+      u: Was that Poland?
+    - who: Marko Moskovitz
+      start: '00:02:32.057'
+      end: '00:02:32.057'
+      u: No. That was Czechoslovakia...in the '39th year.
+    - who: David Boder
+      start: '00:02:36.877'
+      end: '00:02:36.877'
+      u: And then what did it become?
+    - who: Marko Moskovitz
+      start: '00:02:38.611'
+      end: '00:02:38.611'
+      u: Then the Hungarians...
+    - who: David Boder
+      start: '00:02:40.284'
+      end: '00:02:40.284'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:02:40.757'
+      end: '00:02:40.757'
+      u: And now the Russians.
+    - who: David Boder
+      start: '00:02:42.463'
+      end: '00:02:42.463'
+      u: Now the Russians are there.
+    - who: Marko Moskovitz
+      start: '00:02:43.518'
+      end: '00:02:43.518'
+      u: Yes.
+    - who: David Boder
+      start: '00:02:43.699'
+      end: '00:02:43.699'
+      u: But the Hungarians had taken it.
+    - who: Marko Moskovitz
+      start: '00:02:45.232'
+      end: '00:02:45.232'
+      u: Yes.
+    - who: David Boder
+      start: '00:02:45.448'
+      end: '00:02:45.448'
+      u: Tell me, what happened when the Hungarians took your place?
+    - who: Marko Moskovitz
+      start: '00:02:52.009'
+      end: '00:02:52.009'
+      u: "[They] entered...Two weeks before Pesach they entered."
+    - who: David Boder
+      start: '00:02:56.964'
+      end: '00:02:56.964'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:02:57.110'
+      end: '00:02:57.110'
+      u: In the '39th year.
+    - who: David Boder
+      start: '00:02:59.035'
+      end: '00:02:59.035'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:02:59.553'
+      end: '00:02:59.553'
+      u: Then they began to deport the Jews. Not to deport, but to [make them] go
+        to work.
+    - who: David Boder
+      start: '00:03:07.101'
+      end: '00:03:07.101'
+      u: Aha. What does it mean, they were made to go to work? Tell me...
+    - who: Marko Moskovitz
+      start: '00:03:10.101'
+      end: '00:03:10.101'
+      u: And so, to wear...
+    - who: David Boder
+      start: '00:03:10.583'
+      end: '00:03:10.583'
+      u: ". . . everything the way it..."
+    - who: Marko Moskovitz
+      start: '00:03:12.679'
+      end: '00:03:12.679'
+      u: ". . . yellow bands."
+    - who: David Boder
+      start: '00:03:14.533'
+      end: '00:03:14.533'
+      u: You have...
+    - who: Marko Moskovitz
+      start: '00:03:14.975'
+      end: '00:03:14.975'
+      u: They began to wear yellow bands. And my father had also...
+    - who: David Boder
+      start: '00:03:19.300'
+      end: '00:03:19.300'
+      u: Had also...
+    - who: Marko Moskovitz
+      start: '00:03:19.793'
+      end: '00:03:19.793'
+      u: Yes, also wore a yellow star.
+    - who: David Boder
+      start: '00:03:21.913'
+      end: '00:03:21.913'
+      u: And you?
+    - who: Marko Moskovitz
+      start: '00:03:22.792'
+      end: '00:03:22.792'
+      u: Not I [?].
+    - who: David Boder
+      start: '00:03:23.767'
+      end: '00:03:23.767'
+      u: Why?
+    - who: Marko Moskovitz
+      start: '00:03:24.853'
+      end: '00:03:24.853'
+      u: I was still...I was still young.
+    - who: David Boder
+      start: '00:03:27.708'
+      end: '00:03:27.708'
+      u: You were still young.
+    - who: Marko Moskovitz
+      start: '00:03:28.356'
+      end: '00:03:28.356'
+      u: Yes.
+    - who: David Boder
+      start: '00:03:28.793'
+      end: '00:03:28.793'
+      u: And the women?
+    - who: Marko Moskovitz
+      start: '00:03:30.125'
+      end: '00:03:30.125'
+      u: The women, too.
+    - who: David Boder
+      start: '00:03:31.296'
+      end: '00:03:31.296'
+      u: The women, too.
+    - who: Marko Moskovitz
+      start: '00:03:31.602'
+      end: '00:03:31.602'
+      u: The women had remained.
+    - who: David Boder
+      start: '00:03:33.295'
+      end: '00:03:33.295'
+      u: Aha.
+    - who: Marko Moskovitz
+      start: '00:03:33.677'
+      end: '00:03:33.677'
+      u: And then they [word not clear].
+    - who: David Boder
+      start: '00:03:35.049'
+      end: '00:03:35.049'
+      u: What does it mean, they had remained?
+    - who: Marko Moskovitz
+      start: '00:03:36.170'
+      end: '00:03:36.170'
+      u: The women were not yet taken.
+    - who: David Boder
+      start: '00:03:38.587'
+      end: '00:03:38.587'
+      u: Aha.
+    - who: Marko Moskovitz
+      start: '00:03:39.371'
+      end: '00:03:39.371'
+      u: And then a ghetto was made.
+    - who: David Boder
+      start: '00:03:43.421'
+      end: '00:03:43.421'
+      u: Yes. Tell please...
+    - who: Marko Moskovitz
+      start: '00:03:45.386'
+      end: '00:03:45.386'
+      u: They started to wear the stars.
+    - who: David Boder
+      start: '00:03:47.494'
+      end: '00:03:47.494'
+      u: Aha. How did they make the ghetto?
+    - who: Marko Moskovitz
+      start: '00:03:51.027'
+      end: '00:03:51.027'
+      u: In Solotvyna [Sighet Ghetto].
+    - who: David Boder
+      start: '00:03:52.530'
+      end: '00:03:52.530'
+      u: Yes, but how was it done? Was it...
+    - who: Marko Moskovitz
+      start: '00:03:55.440'
+      end: '00:03:55.440'
+      u: It was announced that every person must report.
+    - who: David Boder
+      start: '00:03:59.073'
+      end: '00:03:59.073'
+      u: Yes.
+    - who: Marko Moskovitz
+      start: '00:03:59.626'
+      end: '00:03:59.626'
+      u: And then it was ordered that all Jews must go into one street.
+    - who: David Boder
+      start: '00:04:04.902'
+      end: '00:04:04.902'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:04:05.445'
+      end: '00:04:05.445'
+      u: They went in. Then they were surrounded by Hungarian gendarmerie. The ghetto
+        was surrrounded. We were four weeks in the ghetto. Then we were transported
+        to Auschwitz.
+    - who: David Boder
+      start: '00:04:17.365'
+      end: '00:04:17.365'
+      u: To Auschwitz?
+    - who: Marko Moskovitz
+      start: '00:04:18.194'
+      end: '00:04:18.194'
+      u: Yes.
+    - who: David Boder
+      start: '00:04:18.566'
+      end: '00:04:18.566'
+      u: What for to Auschwitz?
+    - who: Marko Moskovitz
+      start: '00:04:20.179'
+      end: '00:04:20.179'
+      u: Just so. All Jews to Auschwitz.
+    - who: David Boder
+      start: '00:04:22.666'
+      end: '00:04:22.666'
+      u: Have you, too, been in Auschwitz?
+    - who: Marko Moskovitz
+      start: '00:04:23.968'
+      end: '00:04:23.968'
+      u: Yes.
+    - who: David Boder
+      start: '00:04:24.616'
+      end: '00:04:24.616'
+      u: All right. Now tell me, how did people live in Auschwitz? What happened there?
+    - who: Marko Moskovitz
+      start: '00:04:30.272'
+      end: '00:04:30.272'
+      u: The first day when we arrived I did not know...I was still young [word not
+        clear]...
+    - who: David Boder
+      start: '00:04:35.732'
+      end: '00:04:35.732'
+      u: Why [not]?
+    - who: Marko Moskovitz
+      start: '00:04:35.898'
+      end: '00:04:35.898'
+      u: I was so mixed up in my head [confused].
+    - who: David Boder
+      start: '00:04:39.009'
+      end: '00:04:39.009'
+      u: What is that?
+    - who: Marko Moskovitz
+      start: '00:04:39.431'
+      end: '00:04:39.431'
+      u: For three days I did not know anything, whether night or day...
+    - who: David Boder
+      start: '00:04:45.175'
+      end: '00:04:45.175'
+      u: Why did you not know?
+    - who: Marko Moskovitz
+      start: '00:04:46.240'
+      end: '00:04:46.240'
+      u: Just so. There was such a smoke from the crematory that one could not know
+        anything.
+    - who: David Boder
+      start: '00:04:53.411'
+      end: '00:04:53.411'
+      u: When you arrived in Auschwitz?
+    - who: Marko Moskovitz
+      start: '00:04:54.964'
+      end: '00:04:54.964'
+      u: Yes. Then it was said, 'Craftsmen, step forward.' So I reported as a carpenter.
+        I stepped forward. Then my father said, 'Why did you step forward? Now you
+        will leave and I will remain here alone.' I wanted to go back, but I could
+        not go back any more.
+    - who: David Boder
+      start: '00:05:11.863'
+      end: '00:05:11.863'
+      u: Aha. And where was the mother?
+    - who: Marko Moskovitz
+      start: '00:05:13.948'
+      end: '00:05:13.948'
+      u: The mother was already...kaput.
+    - who: David Boder
+      start: '00:05:17.139'
+      end: '00:05:17.139'
+      u: When?
+    - who: Marko Moskovitz
+      start: '00:05:17.827'
+      end: '00:05:17.827'
+      u: Then, the same day.
+    - who: David Boder
+      start: '00:05:19.631'
+      end: '00:05:19.631'
+      u: Wait a moment. You were taken to Auschwitz.
+    - who: Marko Moskovitz
+      start: '00:05:22.802'
+      end: '00:05:22.802'
+      u: Yes.
+    - who: David Boder
+      start: '00:05:23.134'
+      end: '00:05:23.134'
+      u: Tell me the whole story.
+    - who: Marko Moskovitz
+      start: '00:05:24.395'
+      end: '00:05:24.395'
+      u: We were taken out of the RR-cars. We were told women separately and children
+        from...up to twelve, thirteen years, fifteen years should go with their mothers.
+    - who: David Boder
+      start: '00:05:36.284'
+      end: '00:05:36.284'
+      u: Yes.
+    - who: Marko Moskovitz
+      start: '00:05:36.697'
+      end: '00:05:36.697'
+      u: And the...the older ones who are able to work should go...
+    - who: David Boder
+      start: '00:05:41.454'
+      end: '00:05:41.454'
+      u: "[Word not clear.]"
+    - who: Marko Moskovitz
+      start: '00:05:41.926'
+      end: '00:05:41.926'
+      u: Yes. Should go to the other side.
+    - who: David Boder
+      start: '00:05:46.080'
+      end: '00:05:46.080'
+      u: And the mother?
+    - who: Marko Moskovitz
+      start: '00:05:47.170'
+      end: '00:05:47.170'
+      u: And the mother was already separated, because she had my siblings, my brother
+        of eight and my sister of eleven years.
+    - who: David Boder
+      start: '00:05:56.049'
+      end: '00:05:56.049'
+      u: Yes.
+    - who: Marko Moskovitz
+      start: '00:05:56.351'
+      end: '00:05:56.351'
+      u: They went with the mother.
+    - who: David Boder
+      start: '00:05:57.713'
+      end: '00:05:57.713'
+      u: Aha.
+    - who: Marko Moskovitz
+      start: '00:05:58.391'
+      end: '00:05:58.391'
+      u: And I with my father and another brother went to the other side.
+    - who: David Boder
+      start: '00:06:02.084'
+      end: '00:06:02.084'
+      u: Yes.
+    - who: Marko Moskovitz
+      start: '00:06:02.517'
+      end: '00:06:02.517'
+      u: |-
+        We were all taken to labor. Then we came into a block. We were told, 'Craftsmen, step forward.' My father believed that I will remain in the lager
+                                Auschwitz.
+    - who: David Boder
+      start: '00:06:15.188'
+      end: '00:06:15.188'
+      u: Yes.
+    - who: Marko Moskovitz
+      start: '00:06:15.399'
+      end: '00:06:15.399'
+      u: So I stepped forward, [reported] that I am a carpenter.
+    - who: David Boder
+      start: '00:06:18.268'
+      end: '00:06:18.268'
+      u: Yes.
+    - who: Marko Moskovitz
+      start: '00:06:18.550'
+      end: '00:06:18.550'
+      u: "[When] I stepped forward, I was taken to another block. And then I was transported
+        to Upper Silesia, to Breslau."
+    - who: David Boder
+      start: '00:06:25.133'
+      end: '00:06:25.133'
+      u: Yes. Nu, when have you last seen your mother?
+    - who: Marko Moskovitz
+      start: '00:06:28.889'
+      end: '00:06:28.889'
+      u: Since we were taken out of the RR-cars, since then, I have not seen my mother.
+    - who: David Boder
+      start: '00:06:37.162'
+      end: '00:06:37.162'
+      u: And you are certain that she was...
+    - who: Marko Moskovitz
+      start: '00:06:39.127'
+      end: '00:06:39.127'
+      u: Yes. We saw all that, everything.
+    - who: David Boder
+      start: '00:06:42.127'
+      end: '00:06:42.127'
+      u: What did you see?
+    - who: Marko Moskovitz
+      start: '00:06:43.097'
+      end: '00:06:43.097'
+      u: How they were thrown in.
+    - who: David Boder
+      start: '00:06:45.052'
+      end: '00:06:45.052'
+      u: Where?
+    - who: Marko Moskovitz
+      start: '00:06:45.821'
+      end: '00:06:45.821'
+      u: In the crematory.
+    - who: David Boder
+      start: '00:06:47.102'
+      end: '00:06:47.102'
+      u: But they were not thrown in alive.
+    - who: Marko Moskovitz
+      start: '00:06:49.278'
+      end: '00:06:49.278'
+      u: Just so. They were...they were told...When they began to scream...and then
+        we heard that they scream louder. Suddenly the gates of the gas chamber were
+        opened.
+    - who: David Boder
+      start: '00:07:02.796'
+      end: '00:07:02.796'
+      u: Hm.
+    - who: Marko Moskovitz
+      start: '00:07:05.506'
+      end: '00:07:05.506'
+      u: "[They] entered. We heard not one word more."
+    - who: David Boder
+      start: '00:07:07.017'
+      end: '00:07:07.017'
+      u: They entered the gas chambers.
+    - who: Marko Moskovitz
+      start: '00:07:07.962'
+      end: '00:07:07.962'
+      u: Yes. And then the sick who could not walk were instantly with the machines...
+    - who: David Boder
+      start: '00:07:14.277'
+      end: '00:07:14.277'
+      u: What machines?
+    - who: Marko Moskovitz
+      start: '00:07:15.156'
+      end: '00:07:15.156'
+      u: From the SS machines [autos? mobile gas chambers?] thrown in, tossed straight
+        in the crematory.
+    - who: David Boder
+      start: '00:07:19.759'
+      end: '00:07:19.759'
+      u: Alive?
+    - who: Marko Moskovitz
+      start: '00:07:20.498'
+      end: '00:07:20.498'
+      u: Yes.
+    - who: David Boder
+      start: '00:07:21.136'
+      end: '00:07:21.136'
+      u: The sick.
+    - who: Marko Moskovitz
+      start: '00:07:22.146'
+      end: '00:07:22.146'
+      u: Yes.
+    - who: David Boder
+      start: '00:07:23.513'
+      end: '00:07:23.513'
+      u: How can one...was the crematory so big that one could throw in live people?
+    - who: Marko Moskovitz
+      start: '00:07:26.629'
+      end: '00:07:26.629'
+      u: It was...it was forty square kilometers.
+    - who: David Boder
+      start: '00:07:31.001'
+      end: '00:07:31.001'
+      u: What?
+    - who: Marko Moskovitz
+      start: '00:07:31.715'
+      end: '00:07:31.715'
+      u: Forty-kilometers square was the [word not clear].
+    - who: David Boder
+      start: '00:07:35.901'
+      end: '00:07:35.901'
+      u: What...
+    - who: Marko Moskovitz
+      start: '00:07:36.052'
+      end: '00:07:36.052'
+      u: There was a forest.
+    - who: David Boder
+      start: '00:07:37.733'
+      end: '00:07:37.733'
+      u: Yes.
+    - who: Marko Moskovitz
+      start: '00:07:37.849'
+      end: '00:07:37.849'
+      u: A large forest.
+    - who: David Boder
+      start: '00:07:38.326'
+      end: '00:07:38.326'
+      u: But...
+    - who: Marko Moskovitz
+      start: '00:07:38.668'
+      end: '00:07:38.668'
+      u: There was a...a forest, and in that forest there was a huge pit.
+    - who: David Boder
+      start: '00:07:43.195'
+      end: '00:07:43.195'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:07:43.456'
+      end: '00:07:43.456'
+      u: And in that pit black pitch was always poured.
+    - who: David Boder
+      start: '00:07:47.019'
+      end: '00:07:47.019'
+      u: What?
+    - who: Marko Moskovitz
+      start: '00:07:47.858'
+      end: '00:07:47.858'
+      u: Such a black tar which...which is poured on streets.
+    - who: David Boder
+      start: '00:07:52.597'
+      end: '00:07:52.597'
+      u: Yes, which...
+    - who: Marko Moskovitz
+      start: '00:07:53.135'
+      end: '00:07:53.135'
+      u: This was poured in.
+    - who: David Boder
+      start: '00:07:54.396'
+      end: '00:07:54.396'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:07:54.658'
+      end: '00:07:54.658'
+      u: This was ignited, and this was burning day and night. And the people were
+        being continuously thrown in.
+    - who: David Boder
+      start: '00:08:01.161'
+      end: '00:08:01.161'
+      u: Oh. Thus the dead were...
+    - who: Marko Moskovitz
+      start: '00:08:03.051'
+      end: '00:08:03.051'
+      u: Yes.
+    - who: David Boder
+      start: '00:08:03.332'
+      end: '00:08:03.332'
+      u: ". . . burned."
+    - who: Marko Moskovitz
+      start: '00:08:03.910'
+      end: '00:08:03.910'
+      u: Yes, yes.
+    - who: David Boder
+      start: '00:08:04.547'
+      end: '00:08:04.547'
+      u: But not alive.
+    - who: Marko Moskovitz
+      start: '00:08:05.145'
+      end: '00:08:05.145'
+      u: Dead. Often alive, who still had years, [who] could still live.
+    - who: David Boder
+      start: '00:08:10.678'
+      end: '00:08:10.678'
+      u: Oh. Not in an oven?
+    - who: Marko Moskovitz
+      start: '00:08:12.613'
+      end: '00:08:12.613'
+      u: Ach...the transports which...these were thrown in the oven who were at work.
+        [Those who] were already Mussulmen [people emaciated to the bone], could not
+        work any more, these were brought to Auschwitz, and these were thrown in the
+        gas chamber and into the oven.
+    - who: David Boder
+      start: '00:08:27.925'
+      end: '00:08:27.925'
+      u: Aha.
+    - who: Marko Moskovitz
+      start: '00:08:28.051'
+      end: '00:08:28.051'
+      u: But the first transports could not go...so many...so many...There would arrive
+        a transport of sixty thousand people. It was impossible in the oven, a small
+        oven. It was...
+    - who: David Boder
+      start: '00:08:38.290'
+      end: '00:08:38.290'
+      u: So they could not...
+    - who: Marko Moskovitz
+      start: '00:08:39.285'
+      end: '00:08:39.285'
+      u: They were always thrown into the pit.
+    - who: David Boder
+      start: '00:08:41.675'
+      end: '00:08:41.675'
+      u: A pit?
+    - who: Marko Moskovitz
+      start: '00:08:42.694'
+      end: '00:08:42.694'
+      u: Yes.
+    - who: David Boder
+      start: '00:08:42.785'
+      end: '00:08:42.785'
+      u: 'And what was being burned in the pit? [Footnote: The interviewer has apparently
+        become confused if not perplexed by the story which was recorded the second
+        day after his arrival. It is one of the early reports, his first face to face
+        contact with eyewitnesses from Auschwitz.]'
+    - who: Marko Moskovitz
+      start: '00:08:43.869'
+      end: '00:08:43.869'
+      u: People were...
+    - who: David Boder
+      start: '00:08:44.774'
+      end: '00:08:44.774'
+      u: Yes, but...
+    - who: Marko Moskovitz
+      start: '00:08:45.045'
+      end: '00:08:45.045'
+      u: Wood...wood was put in and tar.
+    - who: David Boder
+      start: '00:08:48.001'
+      end: '00:08:48.001'
+      u: Wood and tar.
+    - who: Marko Moskovitz
+      start: '00:08:48.886'
+      end: '00:08:48.886'
+      u: Yes.
+    - who: David Boder
+      start: '00:08:50.057'
+      end: '00:08:50.057'
+      u: What did you say before, a Mussulman?
+    - who: Marko Moskovitz
+      start: '00:08:52.230'
+      end: '00:08:52.230'
+      u: Yes. These Mussulmen, who worked...were working in the lager.
+    - who: David Boder
+      start: '00:08:56.813'
+      end: '00:08:56.813'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:08:57.090'
+      end: '00:08:57.090'
+      u: And they became thin people, just skin and bones.
+    - who: David Boder
+      start: '00:09:00.920'
+      end: '00:09:00.920'
+      u: Yes.
+    - who: Marko Moskovitz
+      start: '00:09:01.251'
+      end: '00:09:01.251'
+      u: The Germans called them Mussulmen.
+    - who: David Boder
+      start: '00:09:03.151'
+      end: '00:09:03.151'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:09:03.452'
+      end: '00:09:03.452'
+      u: And they were taken to Auschwitz, and they were thrown in the oven.
+    - who: David Boder
+      start: '00:09:09.302'
+      end: '00:09:09.302'
+      u: Hm.
+    - who: Marko Moskovitz
+      start: '00:09:09.814'
+      end: '00:09:09.814'
+      u: But the transports were tossed into pits.
+    - who: David Boder
+      start: '00:09:14.593'
+      end: '00:09:14.593'
+      u: So that was in Auschwitz.
+    - who: Marko Moskovitz
+      start: '00:09:15.844'
+      end: '00:09:15.844'
+      u: Yes.
+    - who: David Boder
+      start: '00:09:16.100'
+      end: '00:09:16.100'
+      u: And so did you...And then when you departed...they ordered, 'Workers, step
+        forward,' and you left...
+    - who: Marko Moskovitz
+      start: '00:09:22.040'
+      end: '00:09:22.040'
+      u: Yes, I left.
+    - who: David Boder
+      start: '00:09:22.618'
+      end: '00:09:22.618'
+      u: What did your father say?
+    - who: Marko Moskovitz
+      start: '00:09:24.814'
+      end: '00:09:24.814'
+      u: The father believed that I will remain in this lager, in Auschwitz.
+    - who: David Boder
+      start: '00:09:28.335'
+      end: '00:09:28.335'
+      u: Aha.
+    - who: Marko Moskovitz
+      start: '00:09:28.762'
+      end: '00:09:28.762'
+      u: It was Birkenau. There in Birkenau [words not clear].
+    - who: David Boder
+      start: '00:09:35.421'
+      end: '00:09:35.421'
+      u: Nu, then you left your father alone.
+    - who: Marko Moskovitz
+      start: '00:09:38.708'
+      end: '00:09:38.708'
+      u: Yes.
+    - who: David Boder
+      start: '00:09:39.286'
+      end: '00:09:39.286'
+      u: And...
+    - who: Marko Moskovitz
+      start: '00:09:39.693'
+      end: '00:09:39.693'
+      u: With the brother. A brother, too, with the father.
+    - who: David Boder
+      start: '00:09:42.572'
+      end: '00:09:42.572'
+      u: How old was the brother?
+    - who: Marko Moskovitz
+      start: '00:09:44.034'
+      end: '00:09:44.034'
+      u: Thirteen years [old].
+    - who: David Boder
+      start: '00:09:45.492'
+      end: '00:09:45.492'
+      u: Oh. So he could not be a worker.
+    - who: David Boder
+      start: '00:09:47.206'
+      end: '00:09:47.206'
+      u: Since home he was used to...he...he was at work since May until August...[correction]
+        until January...
+    - who: David Boder
+      start: '00:09:57.554'
+      end: '00:09:57.554'
+      u: Hm.
+    - who: Marko Moskovitz
+      start: '00:09:57.790'
+      end: '00:09:57.790'
+      u: ". . . in the year '45[?]. He was transported from...He was in Buna, in Monowitz.
+        It is in Poland, a large factory, so he [?]..."
+    - who: David Boder
+      start: '00:10:07.961'
+      end: '00:10:07.961'
+      u: Had he been taken away from the father?
+    - who: David Boder
+      start: '00:10:09.966'
+      end: '00:10:09.966'
+      u: Yes...no, the brother was together with the father.
+    - who: David Boder
+      start: '00:10:13.805'
+      end: '00:10:13.805'
+      u: And the father was in a factory?
+    - who: Marko Moskovitz
+      start: '00:10:15.242'
+      end: '00:10:15.242'
+      u: Yes, with the brother. He was transported...evacuated. The Russians had arrived.
+    - who: David Boder
+      start: '00:10:21.109'
+      end: '00:10:21.109'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:10:21.335'
+      end: '00:10:21.335'
+      u: They were sent to Gleiwitz.
+    - who: David Boder
+      start: '00:10:23.340'
+      end: '00:10:23.340'
+      u: Hm.
+    - who: Marko Moskovitz
+      start: '00:10:23.832'
+      end: '00:10:23.832'
+      u: In Gleiwitz. And in Gleiwitz there they were...
+    - who: David Boder
+      start: '00:10:25.626'
+      end: '00:10:25.626'
+      u: Aha. The first lager you arrived at, where you lost your mother, which lager
+        was that?
+    - who: Marko Moskovitz
+      start: '00:10:33.103'
+      end: '00:10:33.103'
+      u: That is Birkenau.
+    - who: David Boder
+      start: '00:10:34.591'
+      end: '00:10:34.591'
+      u: Birkenau.
+    - who: Marko Moskovitz
+      start: '00:10:35.275'
+      end: '00:10:35.275'
+      u: Yes, Birkenau.
+    - who: David Boder
+      start: '00:10:36.174'
+      end: '00:10:36.174'
+      u: And there your mother remained. With whom, with your sister?
+    - who: Marko Moskovitz
+      start: '00:10:38.697'
+      end: '00:10:38.697'
+      u: With the sister and a little brother eight years old.
+    - who: David Boder
+      start: '00:10:42.014'
+      end: '00:10:42.014'
+      u: Aha. They disappeared there.
+    - who: Marko Moskovitz
+      start: '00:10:44.567'
+      end: '00:10:44.567'
+      u: Yes.
+    - who: David Boder
+      start: '00:10:45.195'
+      end: '00:10:45.195'
+      u: And then your father with your brother...
+    - who: Marko Moskovitz
+      start: '00:10:46.868'
+      end: '00:10:46.868'
+      u: The father with the brother left to work in a factory.
+    - who: David Boder
+      start: '00:10:51.193'
+      end: '00:10:51.193'
+      u: To work in a factory.
+    - who: Marko Moskovitz
+      start: '00:10:51.786'
+      end: '00:10:51.786'
+      u: Yes.
+    - who: David Boder
+      start: '00:10:52.067'
+      end: '00:10:52.067'
+      u: In what factory did they work?
+    - who: Marko Moskovitz
+      start: '00:10:53.399'
+      end: '00:10:53.399'
+      u: In Buna.
+    - who: David Boder
+      start: '00:10:54.349'
+      end: '00:10:54.349'
+      u: Buna.
+    - who: Marko Moskovitz
+      start: '00:10:54.786'
+      end: '00:10:54.786'
+      u: Buna.
+    - who: David Boder
+      start: '00:10:55.218'
+      end: '00:10:55.218'
+      u: And how long were they there?
+    - who: Marko Moskovitz
+      start: '00:10:57.374'
+      end: '00:10:57.374'
+      u: They were...May...
+    - who: David Boder
+      start: '00:11:01.326'
+      end: '00:11:01.326'
+      u: Yes. Until?
+    - who: Marko Moskovitz
+      start: '00:11:02.427'
+      end: '00:11:02.427'
+      u: Until January. In January the evacuation began.
+    - who: David Boder
+      start: '00:11:06.067'
+      end: '00:11:06.067'
+      u: Aha.
+    - who: Marko Moskovitz
+      start: '00:11:06.318'
+      end: '00:11:06.318'
+      u: They walked as far as Gleiwitz I (One). In Gleiwitz I (One)...any more I
+        don't know.
+    - who: David Boder
+      start: '00:11:12.857'
+      end: '00:11:12.857'
+      u: Aha. How do you know where...where they had been? Did you write...
+    - who: Marko Moskovitz
+      start: '00:11:16.983'
+      end: '00:11:16.983'
+      u: There is here a cousin.
+    - who: David Boder
+      start: '00:11:19.550'
+      end: '00:11:19.550'
+      u: Oh.
+    - who: Marko Moskovitz
+      start: '00:11:19.786'
+      end: '00:11:19.786'
+      u: He was together with them.
+    - who: David Boder
+      start: '00:11:21.490'
+      end: '00:11:21.490'
+      u: Oh. A cousin was together with you...
+    - who: Marko Moskovitz
+      start: '00:11:23.917'
+      end: '00:11:23.917'
+      u: No, he was together with my father.
+    - who: David Boder
+      start: '00:11:26.236'
+      end: '00:11:26.236'
+      u: He was together...
+    - who: Marko Moskovitz
+      start: '00:11:26.945'
+      end: '00:11:26.945'
+      u: Yes.
+    - who: David Boder
+      start: '00:11:27.071'
+      end: '00:11:27.071'
+      u: ". . . with your father."
+    - who: Marko Moskovitz
+      start: '00:11:27.840'
+      end: '00:11:27.840'
+      u: Yes.
+    - who: David Boder
+      start: '00:11:27.946'
+      end: '00:11:27.946'
+      u: And he told you that.
+    - who: Marko Moskovitz
+      start: '00:11:28.936'
+      end: '00:11:28.936'
+      u: Yes.
+    - who: David Boder
+      start: '00:11:29.876'
+      end: '00:11:29.876'
+      u: Yes. Nu, and where did you work?
+    - who: Marko Moskovitz
+      start: '00:11:33.636'
+      end: '00:11:33.636'
+      u: I was working in Upper Silesia.
+    - who: David Boder
+      start: '00:11:35.752'
+      end: '00:11:35.752'
+      u: In Upper Silesia, yes. In what kind of factory did you work?
+    - who: Marko Moskovitz
+      start: '00:11:38.038'
+      end: '00:11:38.038'
+      u: There was a station.
+    - who: David Boder
+      start: '00:11:40.887'
+      end: '00:11:40.887'
+      u: What...
+    - who: Marko Moskovitz
+      start: '00:11:42.186'
+      end: '00:11:42.186'
+      u: Well, a station. We were making a station.
+    - who: David Boder
+      start: '00:11:47.159'
+      end: '00:11:47.159'
+      u: A railway...
+    - who: Marko Moskovitz
+      start: '00:11:48.154'
+      end: '00:11:48.154'
+      u: Yes.
+    - who: David Boder
+      start: '00:11:48.335'
+      end: '00:11:48.335'
+      u: ". . . station?"
+    - who: Marko Moskovitz
+      start: '00:11:48.646'
+      end: '00:11:48.646'
+      u: Yes.
+    - who: David Boder
+      start: '00:11:48.716'
+      end: '00:11:48.716'
+      u: You were building.
+    - who: Marko Moskovitz
+      start: '00:11:50.134'
+      end: '00:11:50.134'
+      u: Yes.
+    - who: David Boder
+      start: '00:11:50.304'
+      end: '00:11:50.304'
+      u: You are a carpenter.
+    - who: Marko Moskovitz
+      start: '00:11:51.224'
+      end: '00:11:51.224'
+      u: No. Who cared [?]? The carpenters and the jewelers [?], they were all taken
+        to carry cement and...
+    - who: David Boder
+      start: '00:11:59.830'
+      end: '00:11:59.830'
+      u: That were...
+    - who: Marko Moskovitz
+      start: '00:12:00.162'
+      end: '00:12:00.162'
+      u: ". . . other work."
+    - who: David Boder
+      start: '00:12:01.106'
+      end: '00:12:01.106'
+      u: Yes. Nu, and how were you treated there in the lager?
+    - who: Marko Moskovitz
+      start: '00:12:06.332'
+      end: '00:12:06.332'
+      u: "[We] were given a bread for eight people."
+    - who: David Boder
+      start: '00:12:08.463'
+      end: '00:12:08.463'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:12:08.850'
+      end: '00:12:08.850'
+      u: The bread weighed a kilo [and] forty [deka].
+    - who: David Boder
+      start: '00:12:10.925'
+      end: '00:12:10.925'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:12:11.337'
+      end: '00:12:11.337'
+      u: And in the morning black coffee, and for dinner clear water [soup?], and
+        in the evening [words not clear].
+    - who: David Boder
+      start: '00:12:21.131'
+      end: '00:12:21.131'
+      u: Aha. Nu, and when someone was sick?
+    - who: Marko Moskovitz
+      start: '00:12:23.789'
+      end: '00:12:23.789'
+      u: Nu, that is of no use. When someone is sick if it healed by itself, good,
+        if not, then one goes to Auschwitz.
+    - who: David Boder
+      start: '00:12:34.055'
+      end: '00:12:34.055'
+      u: And did that happen?
+    - who: Marko Moskovitz
+      start: '00:12:35.447'
+      end: '00:12:35.447'
+      u: Ach...it happened to three quarters of our lager. One quarter remained.
+    - who: David Boder
+      start: '00:12:42.201'
+      end: '00:12:42.201'
+      u: And the others were taken -- where to? To Auschwitz?
+    - who: David Boder
+      start: '00:12:44.116'
+      end: '00:12:44.116'
+      u: Yes. Everything to Auschwitz.
+    - who: David Boder
+      start: '00:12:45.357'
+      end: '00:12:45.357'
+      u: And Auschwitz was what?
+    - who: Marko Moskovitz
+      start: '00:12:46.608'
+      end: '00:12:46.608'
+      u: In Auschwitz, there they were burned.
+    - who: David Boder
+      start: '00:12:51.847'
+      end: '00:12:51.847'
+      u: "[Pause.] And the...Thus you worked for how long [?]?"
+    - who: Marko Moskovitz
+      start: '00:12:54.455'
+      end: '00:12:54.455'
+      u: Yes. Worked until January.
+    - who: David Boder
+      start: '00:12:57.897'
+      end: '00:12:57.897'
+      u: January.
+    - who: Marko Moskovitz
+      start: '00:12:58.380'
+      end: '00:12:58.380'
+      u: January, yes.
+    - who: David Boder
+      start: '00:12:59.129'
+      end: '00:12:59.129'
+      u: Yes.
+    - who: Marko Moskovitz
+      start: '00:12:59.616'
+      end: '00:12:59.616'
+      u: In January we were evacuated as far as Prague.
+    - who: David Boder
+      start: '00:13:04.209'
+      end: '00:13:04.209'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:13:04.465'
+      end: '00:13:04.465'
+      u: From Prague to Grossrosen. Everything on foot. Then we were packed in RR-cars,
+        a hundred and twenty people in each, for Flossenburg. In Flossenburg I was
+        two months. Then we were [sent] to Offenburg [?]. From Offenburg...from Offenburg
+        I was...we were...we were loaded in RR-cars, because the Americans were already
+        arriving. We were...en route we were shot at. Very few people remained alive.
+        And we got out of the RR-cars. We ran into a forest, the Black Forest, and
+        there we were liberated by the French.
+    - who: David Boder
+      start: '00:13:43.742'
+      end: '00:13:43.742'
+      u: By the French?
+    - who: Marko Moskovitz
+      start: '00:13:44.702'
+      end: '00:13:44.702'
+      u: Yes.
+    - who: David Boder
+      start: '00:13:45.250'
+      end: '00:13:45.250'
+      u: Nu, and then where did you go from there?
+    - who: Marko Moskovitz
+      start: '00:13:48.119'
+      end: '00:13:48.119'
+      u: From there...I was...I could walk. I was very weak. I had thirty-two kilos.
+        I could not walk.
+    - who: David Boder
+      start: '00:13:56.374'
+      end: '00:13:56.374'
+      u: What do you mean you had thirty-two kilos?
+    - who: Marko Moskovitz
+      start: '00:13:58.108'
+      end: '00:13:58.108'
+      u: Just so. I was so...
+    - who: David Boder
+      start: '00:13:58.987'
+      end: '00:13:58.987'
+      u: You weighed...
+    - who: David Boder
+      start: '00:14:00.228'
+      end: '00:14:00.228'
+      u: ". . . thirty-two kilos."
+    - who: Marko Moskovitz
+      start: '00:14:01.258'
+      end: '00:14:01.258'
+      u: Yes.
+    - who: David Boder
+      start: '00:14:01.816'
+      end: '00:14:01.816'
+      u: How tall are you?
+    - who: Marko Moskovitz
+      start: '00:14:03.188'
+      end: '00:14:03.188'
+      u: One meter, seventy [centimeters].
+    - who: David Boder
+      start: '00:14:04.902'
+      end: '00:14:04.902'
+      u: You are one meter, seventy.
+    - who: Marko Moskovitz
+      start: '00:14:06.284'
+      end: '00:14:06.284'
+      u: Yes.
+    - who: David Boder
+      start: '00:14:06.842'
+      end: '00:14:06.842'
+      u: And you weighed thirty-two kilos.
+    - who: Marko Moskovitz
+      start: '00:14:08.184'
+      end: '00:14:08.184'
+      u: Thirty-two kilos, yes.
+    - who: David Boder
+      start: '00:14:09.968'
+      end: '00:14:09.968'
+      u: Nu?
+    - who: Marko Moskovitz
+      start: '00:14:11.259'
+      end: '00:14:11.259'
+      u: And I was three months...
+    - who: David Boder
+      start: '00:14:13.636'
+      end: '00:14:13.636'
+      u: Where?
+    - who: Marko Moskovitz
+      start: '00:14:14.294'
+      end: '00:14:14.294'
+      u: ". . . there in that...the name of it is Immendingen, a village , a German
+        village in Bavaria."
+    - who: David Boder
+      start: '00:14:19.730'
+      end: '00:14:19.730'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:14:20.212'
+      end: '00:14:20.212'
+      u: And then...
+    - who: David Boder
+      start: '00:14:21.111'
+      end: '00:14:21.111'
+      u: Who fed you there?
+    - who: Marko Moskovitz
+      start: '00:14:23.538'
+      end: '00:14:23.538'
+      u: We ourselves. And then...
+    - who: David Boder
+      start: '00:14:25.262'
+      end: '00:14:25.262'
+      u: What does it mean, 'we ourselves'? Who else was with you?
+    - who: Marko Moskovitz
+      start: '00:14:27.890'
+      end: '00:14:27.890'
+      u: Others. There were Russians. There were Poles, various nationalities.
+    - who: David Boder
+      start: '00:14:32.386'
+      end: '00:14:32.386'
+      u: And how did you get food?
+    - who: Marko Moskovitz
+      start: '00:14:34.065'
+      end: '00:14:34.065'
+      u: So. We got into...the Germans had all fled. Then we got in the houses. We
+        found food.
+    - who: David Boder
+      start: '00:14:40.216'
+      end: '00:14:40.216'
+      u: Aha. The Germans had run away?
+    - who: Marko Moskovitz
+      start: '00:14:41.869'
+      end: '00:14:41.869'
+      u: Yes.
+    - who: David Boder
+      start: '00:14:43.583'
+      end: '00:14:43.583'
+      u: Yes. Nu?
+    - who: Marko Moskovitz
+      start: '00:14:45.317'
+      end: '00:14:45.317'
+      u: And when we went to Regensburg. From Regensburg I went back to Munich. In
+        Munich I remained till the end. Then I went to Italy.
+    - who: David Boder
+      start: '00:14:56.457'
+      end: '00:14:56.457'
+      u: How did you go from Munich to Italy? Were you allowed to go?
+    - who: Marko Moskovitz
+      start: '00:15:00.362'
+      end: '00:15:00.362'
+      u: Yes. There were provided transports.
+    - who: David Boder
+      start: '00:15:02.488'
+      end: '00:15:02.488'
+      u: Who provided you?
+    - who: Marko Moskovitz
+      start: '00:15:03.488'
+      end: '00:15:03.488'
+      u: The Americans permitted us.
+    - who: David Boder
+      start: '00:15:05.649'
+      end: '00:15:05.649'
+      u: To go where, to Italy?
+    - who: Marko Moskovitz
+      start: '00:15:07.076'
+      end: '00:15:07.076'
+      u: To Italy, yes.
+    - who: David Boder
+      start: '00:15:08.930'
+      end: '00:15:08.930'
+      u: What? They let you go to Italy.
+    - who: Marko Moskovitz
+      start: '00:15:10.342'
+      end: '00:15:10.342'
+      u: Yes.
+    - who: David Boder
+      start: '00:15:11.262'
+      end: '00:15:11.262'
+      u: What did you say, you wanted to do in Italy?
+    - who: Marko Moskovitz
+      start: '00:15:13.900'
+      end: '00:15:13.900'
+      u: Because I was told that I have no one at home. Then...what shall I go home
+        for? So I came to Italy.
+    - who: David Boder
+      start: '00:15:21.206'
+      end: '00:15:21.206'
+      u: Oh. Otherwise you would have gone home?
+    - who: Marko Moskovitz
+      start: '00:15:23.553'
+      end: '00:15:23.553'
+      u: Yes.
+    - who: David Boder
+      start: '00:15:24.442'
+      end: '00:15:24.442'
+      u: Aha.
+    - who: Marko Moskovitz
+      start: '00:15:24.654'
+      end: '00:15:24.654'
+      u: I have no one at home.
+    - who: David Boder
+      start: '00:15:26.247'
+      end: '00:15:26.247'
+      u: How did you get to Italy? Did you take the train?
+    - who: Marko Moskovitz
+      start: '00:15:29.426'
+      end: '00:15:29.426'
+      u: We got a transport, a whole transport.
+    - who: David Boder
+      start: '00:15:33.296'
+      end: '00:15:33.296'
+      u: Were there many...many Jews?
+    - who: Marko Moskovitz
+      start: '00:15:35.603'
+      end: '00:15:35.603'
+      u: Yes. We were two hundred people.
+    - who: David Boder
+      start: '00:15:38.402'
+      end: '00:15:38.402'
+      u: And where did the others go?
+    - who: Marko Moskovitz
+      start: '00:15:40.136'
+      end: '00:15:40.136'
+      u: The others...some went...many found work and remained in Italy. Some went
+        to France. Many have friends in America.
+    - who: David Boder
+      start: '00:15:51.322'
+      end: '00:15:51.322'
+      u: Aha.
+    - who: Marko Moskovitz
+      start: '00:15:51.749'
+      end: '00:15:51.749'
+      u: They received affidavits...
+    - who: David Boder
+      start: '00:15:53.523'
+      end: '00:15:53.523'
+      u: "[Words not clear.]"
+    - who: Marko Moskovitz
+      start: '00:15:54.443'
+      end: '00:15:54.443'
+      u: Yes.
+    - who: David Boder
+      start: '00:15:55.684'
+      end: '00:15:55.684'
+      u: Tell me, where were you in Italy?
+    - who: Marko Moskovitz
+      start: '00:15:58.232'
+      end: '00:15:58.232'
+      u: In Turin.
+    - who: David Boder
+      start: '00:15:59.624'
+      end: '00:15:59.624'
+      u: In Turin. And where did you eat...
+    - who: Marko Moskovitz
+      start: '00:16:03.580'
+      end: '00:16:03.580'
+      u: In an UNRRA camp.
+    - who: David Boder
+      start: '00:16:05.123'
+      end: '00:16:05.123'
+      u: The UNRRA...
+    - who: Marko Moskovitz
+      start: '00:16:05.741'
+      end: '00:16:05.741'
+      u: Yes.
+    - who: David Boder
+      start: '00:16:06.012'
+      end: '00:16:06.012'
+      u: They supported you?
+    - who: Marko Moskovitz
+      start: '00:16:08.223'
+      end: '00:16:08.223'
+      u: Yes, [they gave us] to eat,, to sleep.
+    - who: David Boder
+      start: '00:16:11.133'
+      end: '00:16:11.133'
+      u: Hm. And then...Why did you come to France?
+    - who: Marko Moskovitz
+      start: '00:16:15.228'
+      end: '00:16:15.228'
+      u: Why? I am still young. I want to learn a trade.
+    - who: David Boder
+      start: '00:16:18.354'
+      end: '00:16:18.354'
+      u: Aha. Could you not learn that in Italy?
+    - who: Marko Moskovitz
+      start: '00:16:20.841'
+      end: '00:16:20.841'
+      u: No. In Italy there are no trade schools [for DPs].
+    - who: David Boder
+      start: '00:16:23.921'
+      end: '00:16:23.921'
+      u: Aha. And who told you to go to France?
+    - who: Marko Moskovitz
+      start: '00:16:28.504'
+      end: '00:16:28.504'
+      u: Others came, so I came too.
+    - who: David Boder
+      start: '00:16:31.454'
+      end: '00:16:31.454'
+      u: Oh. How did you come to France, by train?
+    - who: Marko Moskovitz
+      start: '00:16:34.886'
+      end: '00:16:34.886'
+      u: No.
+    - who: David Boder
+      start: '00:16:35.655'
+      end: '00:16:35.655'
+      u: How then?
+    - who: Marko Moskovitz
+      start: '00:16:36.112'
+      end: '00:16:36.112'
+      u: "[Crossed] the Alps."
+    - who: David Boder
+      start: '00:16:38.851'
+      end: '00:16:38.851'
+      u: You crossed the Alps?
+    - who: Marko Moskovitz
+      start: '00:16:40.072'
+      end: '00:16:40.072'
+      u: Yes.
+    - who: David Boder
+      start: '00:16:41.645'
+      end: '00:16:41.645'
+      u: Why?
+    - who: Marko Moskovitz
+      start: '00:16:43.037'
+      end: '00:16:43.037'
+      u: Why? It had to be so. I had no money for the train, so I had to go that way
+        [?].
+    - who: David Boder
+      start: '00:16:49.787'
+      end: '00:16:49.787'
+      u: You crossed the Alps on foot?
+    - who: Marko Moskovitz
+      start: '00:16:52.787'
+      end: '00:16:52.787'
+      u: Yes.
+    - who: David Boder
+      start: '00:16:53.315'
+      end: '00:16:53.315'
+      u: How long did it take?
+    - who: Marko Moskovitz
+      start: '00:16:54.938'
+      end: '00:16:54.938'
+      u: Two days and a night.
+    - who: David Boder
+      start: '00:16:57.054'
+      end: '00:16:57.054'
+      u: To cross the Alps.
+    - who: Marko Moskovitz
+      start: '00:16:58.014'
+      end: '00:16:58.014'
+      u: Yes.
+    - who: David Boder
+      start: '00:16:58.582'
+      end: '00:16:58.582'
+      u: Did the French let you in?
+    - who: Marko Moskovitz
+      start: '00:17:00.989'
+      end: '00:17:00.989'
+      u: Then, when we came into a French village, we ate, slept. We went to a Committee
+        and asked for money. So we embarked and came to Paris.
+    - who: David Boder
+      start: '00:17:11.851'
+      end: '00:17:11.851'
+      u: Did you have an entry visa?
+    - who: Marko Moskovitz
+      start: '00:17:14.381'
+      end: '00:17:14.381'
+      u: Yes.
+    - who: David Boder
+      start: '00:17:15.285'
+      end: '00:17:15.285'
+      u: Oh. Who issued it to you?
+    - who: Marko Moskovitz
+      start: '00:17:17.454'
+      end: '00:17:17.454'
+      u: We came so...
+    - who: David Boder
+      start: '00:17:19.081'
+      end: '00:17:19.081'
+      u: What?
+    - who: Marko Moskovitz
+      start: '00:17:19.714'
+      end: '00:17:19.714'
+      u: No visa.
+    - who: David Boder
+      start: '00:17:20.859'
+      end: '00:17:20.859'
+      u: "[Chuckle.] You had no visa. How did the French let you in?"
+    - who: Marko Moskovitz
+      start: '00:17:24.654'
+      end: '00:17:24.654'
+      u: Good. We said...we told them we are deportees and we have no...no one at
+        home. Where should we go? We want to go to Paris to work.
+    - who: David Boder
+      start: '00:17:35.177'
+      end: '00:17:35.177'
+      u: Aha.
+    - who: Marko Moskovitz
+      start: '00:17:35.780'
+      end: '00:17:35.780'
+      u: To learn a trade.
+    - who: David Boder
+      start: '00:17:37.256'
+      end: '00:17:37.256'
+      u: All right. So then you came to Paris.
+    - who: Marko Moskovitz
+      start: '00:17:39.123'
+      end: '00:17:39.123'
+      u: Yes.
+    - who: David Boder
+      start: '00:17:39.485'
+      end: '00:17:39.485'
+      u: Where did you find the people?
+    - who: Marko Moskovitz
+      start: '00:17:41.081'
+      end: '00:17:41.081'
+      u: I found one man, a Jew. He was in the train. He came with me. So I asked
+        him where I can stay for a few days until I get to know Paris. So he said,
+        'I will take you home for two, three days.'
+    - who: David Boder
+      start: '00:17:55.281'
+      end: '00:17:55.281'
+      u: Here?
+    - who: Marko Moskovitz
+      start: '00:17:56.004'
+      end: '00:17:56.004'
+      u: Yes, in Paris.
+    - who: David Boder
+      start: '00:17:57.179'
+      end: '00:17:57.179'
+      u: And?
+    - who: Marko Moskovitz
+      start: '00:17:58.625'
+      end: '00:17:58.625'
+      u: And after staying there two, three days I left for [words not clear]. From
+        [word not clear] I was sent to [word not clear].
+    - who: David Boder
+      start: '00:18:06.848'
+      end: '00:18:06.848'
+      u: Where?
+    - who: Marko Moskovitz
+      start: '00:18:07.511'
+      end: '00:18:07.511'
+      u: "[Words not clear.]"
+    - who: David Boder
+      start: '00:18:08.415'
+      end: '00:18:08.415'
+      u: Where is that?
+    - who: Marko Moskovitz
+      start: '00:18:09.198'
+      end: '00:18:09.198'
+      u: Near Paris.
+    - who: David Boder
+      start: '00:18:10.704'
+      end: '00:18:10.704'
+      u: Aha. Nu? And then?
+    - who: Marko Moskovitz
+      start: '00:18:12.692'
+      end: '00:18:12.692'
+      u: Then...
+    - who: David Boder
+      start: '00:18:13.927'
+      end: '00:18:13.927'
+      u: Louder.
+    - who: Marko Moskovitz
+      start: '00:18:14.740'
+      end: '00:18:14.740'
+      u: There I was given to eat, to sleep. I told them I want to go and learn a
+        trade, so I came here.
+    - who: David Boder
+      start: '00:18:21.728'
+      end: '00:18:21.728'
+      u: Aha. and where did you find your cousin?
+    - who: Marko Moskovitz
+      start: '00:18:25.493'
+      end: '00:18:25.493'
+      u: The cousin? I came together with him from Italy.
+    - who: David Boder
+      start: '00:18:28.987'
+      end: '00:18:28.987'
+      u: But where did you find him?
+    - who: Marko Moskovitz
+      start: '00:18:30.674'
+      end: '00:18:30.674'
+      u: We were yet together in Germany. After the liberation we found each other.
+    - who: David Boder
+      start: '00:18:34.831'
+      end: '00:18:34.831'
+      u: Oh. After the liberation...
+    - who: Marko Moskovitz
+      start: '00:18:35.825'
+      end: '00:18:35.825'
+      u: Yes.
+    - who: David Boder
+      start: '00:18:36.367'
+      end: '00:18:36.367'
+      u: ". . . you found each other."
+    - who: Marko Moskovitz
+      start: '00:18:36.879'
+      end: '00:18:36.879'
+      u: Yes.
+    - who: David Boder
+      start: '00:18:37.090'
+      end: '00:18:37.090'
+      u: ". . . Tell me, how did you find your cousin?"
+    - who: Marko Moskovitz
+      start: '00:18:40.032'
+      end: '00:18:40.032'
+      u: I came to Regensburg.
+    - who: David Boder
+      start: '00:18:43.064'
+      end: '00:18:43.064'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:18:43.446'
+      end: '00:18:43.446'
+      u: I was told that he is in Munich. I went to Munich and found him in the armory.
+    - who: David Boder
+      start: '00:18:51.520'
+      end: '00:18:51.520'
+      u: In the armory.
+    - who: Marko Moskovitz
+      start: '00:18:52.052'
+      end: '00:18:52.052'
+      u: Yes.
+    - who: David Boder
+      start: '00:18:52.946'
+      end: '00:18:52.946'
+      u: And is he from your town?
+    - who: Marko Moskovitz
+      start: '00:18:55.044'
+      end: '00:18:55.044'
+      u: Yes.
+    - who: David Boder
+      start: '00:18:55.908'
+      end: '00:18:55.908'
+      u: Had he been together with you...
+    - who: Marko Moskovitz
+      start: '00:18:57.063'
+      end: '00:18:57.063'
+      u: No. With my father.
+    - who: David Boder
+      start: '00:18:58.599'
+      end: '00:18:58.599'
+      u: How did he...He was with your father? How...how...
+    - who: Marko Moskovitz
+      start: '00:19:01.932'
+      end: '00:19:01.932'
+      u: He...so...
+    - who: David Boder
+      start: '00:19:02.879'
+      end: '00:19:02.879'
+      u: Is he the young man who was here with you?
+    - who: Marko Moskovitz
+      start: '00:19:04.706'
+      end: '00:19:04.706'
+      u: Yes, yes.
+    - who: David Boder
+      start: '00:19:05.309'
+      end: '00:19:05.309'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:19:06.915'
+      end: '00:19:06.915'
+      u: He was together with the father. And his father was together with me in Flossenburg.
+    - who: David Boder
+      start: '00:19:12.592'
+      end: '00:19:12.592'
+      u: Aha. Your father was with him together...
+    - who: Marko Moskovitz
+      start: '00:19:15.486'
+      end: '00:19:15.486'
+      u: Yes. And my...
+    - who: David Boder
+      start: '00:19:16.320'
+      end: '00:19:16.320'
+      u: And his father was with you in Flossenburg.
+    - who: Marko Moskovitz
+      start: '00:19:17.967'
+      end: '00:19:17.967'
+      u: Flossenburg.
+    - who: David Boder
+      start: '00:19:19.694'
+      end: '00:19:19.694'
+      u: Aha. Nu, do you have relatives here in Paris?
+    - who: Marko Moskovitz
+      start: '00:19:24.065'
+      end: '00:19:24.065'
+      u: No.
+    - who: David Boder
+      start: '00:19:24.637'
+      end: '00:19:24.637'
+      u: You have none.
+    - who: Marko Moskovitz
+      start: '00:19:25.521'
+      end: '00:19:25.521'
+      u: In America I have, but I don't know the address.
+    - who: David Boder
+      start: '00:19:28.382'
+      end: '00:19:28.382'
+      u: In what city?
+    - who: Marko Moskovitz
+      start: '00:19:29.951'
+      end: '00:19:29.951'
+      u: I don't know. I know his name and...and...and...his name.
+    - who: David Boder
+      start: '00:19:35.975'
+      end: '00:19:35.975'
+      u: Did you inquire in the HIAS [Hebrew immigrant Aid Society]?
+    - who: Marko Moskovitz
+      start: '00:19:38.338'
+      end: '00:19:38.338'
+      u: How...To whom?
+    - who: David Boder
+      start: '00:19:40.256'
+      end: '00:19:40.256'
+      u: There is an American committee here in Paris. Did you inquire there?
+    - who: Marko Moskovitz
+      start: '00:19:43.358'
+      end: '00:19:43.358'
+      u: No, no. Not yet.
+    - who: David Boder
+      start: '00:19:44.766'
+      end: '00:19:44.766'
+      u: Well, look them up and talk to them.
+    - who: Marko Moskovitz
+      start: '00:19:47.146'
+      end: '00:19:47.146'
+      u: Because I know before the war we received...every two weeks we received mail.
+        But when we were deported to Auschwitz all the documents were burned, and
+        now I don't know the address.
+    - who: David Boder
+      start: '00:20:00.245'
+      end: '00:20:00.245'
+      u: Yes, but...
+    - who: Marko Moskovitz
+      start: '00:20:00.807'
+      end: '00:20:00.807'
+      u: I was then too young. I didn't know...
+    - who: David Boder
+      start: '00:20:03.156'
+      end: '00:20:03.156'
+      u: Yes, but don't you know in which city he lives?
+    - who: Marko Moskovitz
+      start: '00:20:05.174'
+      end: '00:20:05.174'
+      u: No.
+    - who: David Boder
+      start: '00:20:05.766'
+      end: '00:20:05.766'
+      u: Well, do you know that there is a committee, an American committee, here
+        which searches for relatives?
+    - who: Marko Moskovitz
+      start: '00:20:11.503'
+      end: '00:20:11.503'
+      u: Where, here in Paris?
+    - who: David Boder
+      start: '00:20:12.306'
+      end: '00:20:12.306'
+      u: Here in Paris. Yes. A very fine committee.
+    - who: Marko Moskovitz
+      start: '00:20:15.560'
+      end: '00:20:15.560'
+      u: I don't know the address.
+    - who: David Boder
+      start: '00:20:16.209'
+      end: '00:20:16.209'
+      u: It is called HIAS.
+    - who: Marko Moskovitz
+      start: '00:20:18.890'
+      end: '00:20:18.890'
+      u: The HIAS.
+    - who: David Boder
+      start: '00:20:19.964'
+      end: '00:20:19.964'
+      u: Yes.
+    - who: Marko Moskovitz
+      start: '00:20:20.607'
+      end: '00:20:20.607'
+      u: And how long will it take? How long will it take?
+    - who: David Boder
+      start: '00:20:22.153'
+      end: '00:20:22.153'
+      u: Oh, it may take three months, and it may take six months, but they find them
+        usually. This committee is here in Paris. You ask Mr. Bramson. He will get
+        in touch with them. You give them the name and they...
+    - who: Marko Moskovitz
+      start: '00:20:44.604'
+      end: '00:20:44.604'
+      u: My uncle's name.
+    - who: David Boder
+      start: '00:20:45.237'
+      end: '00:20:45.237'
+      u: ". . . put it in the papers..."
+    - who: Marko Moskovitz
+      start: '00:20:47.289'
+      end: '00:20:47.289'
+      u: Yes.
+    - who: David Boder
+      start: '00:20:48.002'
+      end: '00:20:48.002'
+      u: and one is usually found. Do you understand?
+    - who: Marko Moskovitz
+      start: '00:20:51.368'
+      end: '00:20:51.368'
+      u: Yes.
+    - who: David Boder
+      start: '00:20:52.643'
+      end: '00:20:52.643'
+      u: And otherwise where do you intend to remain? Where do you want to go when
+        you have learned a trade?
+    - who: Marko Moskovitz
+      start: '00:20:57.767'
+      end: '00:20:57.767'
+      u: Perhaps if I find my...my uncle in America, perhaps I will go there.
+    - who: David Boder
+      start: '00:21:02.912'
+      end: '00:21:02.912'
+      u: And if not?
+    - who: Marko Moskovitz
+      start: '00:21:03.846'
+      end: '00:21:03.846'
+      u: And if not, I don't have anywhere to go. I must remain in Paris.
+    - who: David Boder
+      start: '00:21:12.581'
+      end: '00:21:12.581'
+      u: "[An attempt to give a modified TAT test follows.] All right. I have here
+        a few pictures. I would like you to tell me what is the meaning of these pictures.
+        For instance, what is this?"
+    - who: Marko Moskovitz
+      start: '00:21:24.199'
+      end: '00:21:24.199'
+      u: This is a picture.
+    - who: David Boder
+      start: '00:21:26.187'
+      end: '00:21:26.187'
+      u: Yes, but...Describe it. [Pause.] What is it? What do you think it is?
+    - who: Marko Moskovitz
+      start: '00:21:46.941'
+      end: '00:21:46.941'
+      u: This is a woman.
+    - who: David Boder
+      start: '00:21:48.317'
+      end: '00:21:48.317'
+      u: Well, yes, but...
+    - who: Marko Moskovitz
+      start: '00:21:49.428'
+      end: '00:21:49.428'
+      u: A working woman.
+    - who: David Boder
+      start: '00:21:51.175'
+      end: '00:21:51.175'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:21:52.761'
+      end: '00:21:52.761'
+      u: And she is wrapped in thoughts.
+    - who: David Boder
+      start: '00:21:55.132'
+      end: '00:21:55.132'
+      u: She is wrapped in thoughts.
+    - who: Marko Moskovitz
+      start: '00:21:55.935'
+      end: '00:21:55.935'
+      u: Yes.
+    - who: David Boder
+      start: '00:21:56.497'
+      end: '00:21:56.497'
+      u: What do you think she is thinking about?
+    - who: Marko Moskovitz
+      start: '00:21:58.907'
+      end: '00:21:58.907'
+      u: She thinks of her husband or of her children.
+    - who: David Boder
+      start: '00:22:02.599'
+      end: '00:22:02.599'
+      u: Hm. All right. What is this?
+    - who: Marko Moskovitz
+      start: '00:22:14.497'
+      end: '00:22:14.497'
+      u: This happened in a lager.
+    - who: David Boder
+      start: '00:22:16.274'
+      end: '00:22:16.274'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:22:17.961'
+      end: '00:22:17.961'
+      u: One brother [?] would say to the other, 'Oh, I am sick now, but perhaps you
+        will survive. Tell my father then that I died.' This would happen in a lager.
+    - who: David Boder
+      start: '00:22:32.899'
+      end: '00:22:32.899'
+      u: What is this? [Aside] 9GF. What is this? [Given by mistake.]
+    - who: Marko Moskovitz
+      start: '00:22:40.158'
+      end: '00:22:40.158'
+      u: This is two ladies.
+    - who: David Boder
+      start: '00:22:41.995'
+      end: '00:22:41.995'
+      u: Yes? Tell me what is happening here.
+    - who: Marko Moskovitz
+      start: '00:22:47.809'
+      end: '00:22:47.809'
+      u: They look like two sisters.
+    - who: David Boder
+      start: '00:22:50.309'
+      end: '00:22:50.309'
+      u: Yes? What had happened?
+    - who: Marko Moskovitz
+      start: '00:22:55.670'
+      end: '00:22:55.670'
+      u: They have, perhaps, after the war [words not clear]...so one to the other...
+    - who: David Boder
+      start: '00:23:02.630'
+      end: '00:23:02.630'
+      u: Speak louder. Yes. What is this? [Aside] 15.
+    - who: Marko Moskovitz
+      start: '00:23:15.577'
+      end: '00:23:15.577'
+      u: This is a man.
+    - who: David Boder
+      start: '00:23:16.963'
+      end: '00:23:16.963'
+      u: Yes? And what...
+    - who: Marko Moskovitz
+      start: '00:23:20.246'
+      end: '00:23:20.246'
+      u: He looks like a Mussulman.
+    - who: David Boder
+      start: '00:23:22.957'
+      end: '00:23:22.957'
+      u: Yes? Speak louder. What does he look like?
+    - who: Marko Moskovitz
+      start: '00:23:26.602'
+      end: '00:23:26.602'
+      u: Like a Mussulman.
+    - who: David Boder
+      start: '00:23:27.945'
+      end: '00:23:27.945'
+      u: Ja? What is a Muselmann?
+    - who: Marko Moskovitz
+      start: '00:23:30.638'
+      end: '00:23:30.638'
+      u: A Mussulman is a man [just] skin and bones.
+    - who: David Boder
+      start: '00:23:34.011'
+      end: '00:23:34.011'
+      u: Who called him a Mussulman?
+    - who: Marko Moskovitz
+      start: '00:23:35.939'
+      end: '00:23:35.939'
+      u: What?
+    - who: David Boder
+      start: '00:23:36.632'
+      end: '00:23:36.632'
+      u: Who named him 'Mussulman'?
+    - who: Marko Moskovitz
+      start: '00:23:38.650'
+      end: '00:23:38.650'
+      u: The Germans.
+    - who: David Boder
+      start: '00:23:40.066'
+      end: '00:23:40.066'
+      u: And what did they do with the Mussulmen?
+    - who: Marko Moskovitz
+      start: '00:23:41.873'
+      end: '00:23:41.873'
+      u: They said, 'You are a Mussulman. You are not to [have no right to] live any
+        more.'
+    - who: David Boder
+      start: '00:23:45.819'
+      end: '00:23:45.819'
+      u: And then?
+    - who: Marko Moskovitz
+      start: '00:23:46.783'
+      end: '00:23:46.783'
+      u: And then he was told, 'Get up [?], man. You are not to live any more. You
+        go to the crematory.'
+    - who: David Boder
+      start: '00:23:54.193'
+      end: '00:23:54.193'
+      u: Hm. And what is this?
+    - who: Marko Moskovitz
+      start: '00:24:00.609'
+      end: '00:24:00.609'
+      u: This is two women and a man. They are doing farm work.
+    - who: David Boder
+      start: '00:24:06.874'
+      end: '00:24:06.874'
+      u: Yes?
+    - who: Marko Moskovitz
+      start: '00:24:13.654'
+      end: '00:24:13.654'
+      u: This perhaps is happening in America.
+    - who: David Boder
+      start: '00:24:18.895'
+      end: '00:24:18.895'
+      u: Hm. [A long pause.] All right. And what is this?
+    - who: Marko Moskovitz
+      start: '00:24:30.552'
+      end: '00:24:30.552'
+      u: This is a child. Looks at the violin and thinks he can go on playing, because
+        he had been good.
+    - who: David Boder
+      start: '00:24:40.462'
+      end: '00:24:40.462'
+      u: What had he been?
+    - who: Marko Moskovitz
+      start: '00:24:41.214'
+      end: '00:24:41.214'
+      u: He had been good and he can go on playing.
+    - who: David Boder
+      start: '00:24:44.256'
+      end: '00:24:44.256'
+      u: Aha. Nu?
+    - who: David Boder
+      start: '00:24:49.801'
+      end: 
+      u: "[In English] This concludes the interview with Mark Moskovski on July 30,
+        1946, a boy of, hm, Czechoslovakia, age 19."
+transcript: {}
+translation: {}

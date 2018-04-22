@@ -101,6 +101,7 @@ Utterance = Struct.new(:who,:start,:end,:u)
 Transcript = Struct.new(:language,:interview)
 
 
+
 # Set a file pattern (temporary)
 @files = "#{ENV['HOME']}/Voices/voices.iit.edu/voices.iit.edu/interviewee\?doc=*"
 Dir.glob(@files).each do |file|
@@ -108,6 +109,14 @@ Dir.glob(@files).each do |file|
   @doc = File.open(file) do |f|
     Nokogiri::HTML(f)
   end
+
+  # Create an outer hash in service of the YAML structure
+  record_hash = {
+    'interviewee': {},
+    'recording': {},
+    'transcript': {},
+    'translation': {}
+  }
 
   # Use a struct to build the record
   @interviewee = Interviewee.new
@@ -153,20 +162,48 @@ Dir.glob(@files).each do |file|
   # TODO: Pull audio file name from the transcript file
   # @recording.audio[:file] =
 
+  @doc.css('#transcript a').each do |t|
+    puts t['href'].strip
+    @t = File.open("#{ENV['HOME']}/Voices/voices.iit.edu/voices.iit.edu/#{t['href'].strip}") do |f|
+      Nokogiri::HTML(f)
+    end
+
+    @trans = Transcript.new
+    # Grab the language from the last two letters in the file name
+    @trans.language = t['href'].strip.slice(-2,2)
+    # Create an array to hold each utterance in the interview
+    @trans.interview = []
+    @t.css('#content > ul + ul > li').each do |li|
+      # If there's a previous record, set its start as the end for the current record
+      if @trans.interview.length > 0
+        @trans.interview.last[:end] = @u.start
+      end
+      # TODO: Use the 'mp3info' gem to extract the length of the actual MP3 file; use that
+      # on the metadata for the recording
+      @u = Utterance.new
+      @u.who = li.css('.who span text()').to_s.strip
+      @u.start = time_marker(li.css('.utterance').attr('start')).to_s.strip
+      # Subtitute ugly ` . . . ` ellipsis with `...`
+      @u.u = li.css('.utterance text()').to_s.strip.gsub(/\s\.\s\.\s\.\s?/,'...')
+      # Add the utterance onto the end of the transcript array
+      @trans.interview.push(@u.to_h)
+    end
+
+    if t.text.match?(/Transcript/)
+      @recording.transcript = @trans.to_h.deep_stringify_keys
+    else
+      @recording.translation = @trans.to_h.deep_stringify_keys
+    end
+
+  end
 
 
 
-
-
-
-  # Create an outer hash in service of the YAML structure
-  record_hash = {
-    'interviewee': @interviewee.to_h.deep_stringify_keys,
-    'recording': @recording.to_h.deep_stringify_keys
-  }
+  record_hash['interviewee'] = @interviewee.to_h.deep_stringify_keys
+  record_hash['recording'] = @recording.to_h.deep_stringify_keys
 
   # Diagnostic line for CLI sanity checking
-  puts record_hash.deep_stringify_keys.to_yaml
+  # puts record_hash.deep_stringify_keys.to_yaml
 
   # Write the YAML file
   File.open("output/#{@interviewee.identifier}.yml",'w') do |f|

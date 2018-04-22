@@ -24,5 +24,3175 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: es
+    interview:
+    - who: David Boder
+      start: '00:00:04.173'
+      end: '00:00:04.173'
+      u: "[In English] München, September the 20th, 1946, in a UNRRA transient camp
+        in Funkenkasernen. The interviewee is Mr. Ernesto Moelller-Arnold, fifty-one
+        years old, nacido de...born in Chile. I am beginning to mix the language."
+    - who: David Boder
+      start: '00:00:31.250'
+      end: '00:00:31.250'
+      u: "[In Spanish] Señor Moeller-Arnold, venga Ud. más próximo para que...[Ininteligible]."
+    - who: Ernesto Moeller-Arnold
+      start: '00:00:42.907'
+      end: '00:00:42.907'
+      u: Sí, estoy...estoy sentado bastante cómodo.
+    - who: David Boder
+      start: '00:00:46.125'
+      end: '00:00:46.125'
+      u: Yo prefiero que hable Ud. en voz normal...
+    - who: Ernesto Moeller-Arnold
+      start: '00:00:48.625'
+      end: '00:00:48.625'
+      u: Sí.
+    - who: David Boder
+      start: '00:00:49.547'
+      end: '00:00:49.547'
+      u: ". . . Entonces se recorda mejor. Haría Ud. el favor de decirnos otra vez
+        cómo se nombra Ud., cómo es su nombre, cuántos años tiene, dónde nació."
+    - who: Ernesto Moeller-Arnold
+      start: '00:01:00.594'
+      end: '00:01:00.594'
+      u: Yo...mi nombre es Ernesto Moeller-Arnold y soy nacido en Santiago de Chile,
+        en el año mil novecientos...1894.
+    - who: David Boder
+      start: '00:01:15.390'
+      end: '00:01:15.390'
+      u: Sí. Y dígame...entonces ¿dónde estuvo Ud. Señor Arnold cuando comenzó la
+        guerra?
+    - who: Ernesto Moeller-Arnold
+      start: '00:01:25.530'
+      end: '00:01:25.530'
+      u: Al comenzar la guerra, yo tenía un puesto como gerente de haciendas en...Alta
+        Silesia, estaba administrando haciendas que pertenecían a gente que tenía
+        a la vez sus haciendas en territorio polaco, en territorio checoslovaco y
+        territorio alemán. Y, por consecuencia de eso, era muy difícil encontrar personas
+        para administrarlas que tenían la confianza de todo, de todas partes.
+    - who: David Boder
+      start: '00:02:07.917'
+      end: '00:02:07.917'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:02:08.636'
+      end: '00:02:08.636'
+      u: Una persona tal fui yo como chileno, como persona neutral, de un país muy
+        lejano.
+    - who: David Boder
+      start: '00:02:15.701'
+      end: '00:02:15.701'
+      u: Pues señor Arnold, dígame ¿cómo Ud. llegó a Europa en primer lugar? ¿Cuándo?
+    - who: Ernesto Moeller-Arnold
+      start: '00:02:23.184'
+      end: '00:02:23.184'
+      u: Yo la primera vez que llegué a Europa, yo llegué a Viena a estudiar...en
+        la famosa...Hochschule der Bodenkultur. Ya, como me había decidido de aprender
+        la agronomía.
+    - who: David Boder
+      start: '00:02:39.433'
+      end: '00:02:39.433'
+      u: Sí. Y entonces, ¿se quedó Ud. en Europa desde entonces?
+    - who: Ernesto Moeller-Arnold
+      start: '00:02:44.438'
+      end: '00:02:44.438'
+      u: No, yo volví a Chile y estuve un buen tiempo en Chile pero...durante la crisis
+        mundial del '28 que estalló en esos años, yo...no podía, no tenía los...el
+        dinero bastante para comprarme una buena hacienda. Y como se me ofreció este...un
+        puesto bueno en la Alta Silesia, dónde había conocido yo a gente de allá durante
+        mi estudio en Viena, yo lo acepté.
+    - who: David Boder
+      start: '00:03:22.778'
+      end: '00:03:22.778'
+      u: Bueno. Bueno, entonces, ¿quiénes eran dueños de esta hacienda en Alta Silesia?
+    - who: Ernesto Moeller-Arnold
+      start: '00:03:31.965'
+      end: '00:03:31.965'
+      u: Eran varios. Eran entre otros, la...la compañía minera (ininteligible) en
+        Gleiwitz, la compañía minera Godula en Katowice, la compañía minera Henkel
+        Limited en Londres, y...
+    - who: David Boder
+      start: '00:03:53.589'
+      end: '00:03:53.589'
+      u: Entonces ¿cómo...fueron...fueron haciendas agrícolas?
+    - who: Ernesto Moeller-Arnold
+      start: '00:03:58.667'
+      end: '00:03:58.667'
+      u: Eran haciendas que pertenecían a esas compañías y que esas compañías tenían
+        para alimentar a sus trabajadores, que tenían...
+    - who: David Boder
+      start: '00:04:09.166'
+      end: '00:04:09.166'
+      u: "¿Qué tenían en sus minas?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:04:10.447'
+      end: '00:04:10.447'
+      u: Sí.
+    - who: David Boder
+      start: '00:04:10.932'
+      end: '00:04:10.932'
+      u: "¡Oh! Bueno, entonces, ¿Ud. administraba esas haciendas de qué año?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:04:18.150'
+      end: '00:04:18.150'
+      u: Desde el año '29...'29, '30, '31, '32.
+    - who: David Boder
+      start: '00:04:28.884'
+      end: '00:04:28.884'
+      u: Bueno. ¿Y hasta qué tiempo?
+    - who: Ernesto Moeller-Arnold
+      start: '00:04:31.415'
+      end: '00:04:31.415'
+      u: Hasta el último momento, hasta el...enero '45 cuando esas haciendas fueron
+        ocupadas por el ejército ruso.
+    - who: David Boder
+      start: '00:04:42.821'
+      end: '00:04:42.821'
+      u: Ajá. Bueno, entonces dígame señor, ¿dónde estuvo Ud. cuando comenzó la guerra?
+    - who: Ernesto Moeller-Arnold
+      start: '00:04:48.727'
+      end: '00:04:48.727'
+      u: Yo estuve en Alta Silesia, justamente ahí dónde trabajaba.
+    - who: David Boder
+      start: '00:04:53.461'
+      end: '00:04:53.461'
+      u: Sí, bueno. ¿Y...qué le pasó durante la guerra?
+    - who: Ernesto Moeller-Arnold
+      start: '00:04:58.789'
+      end: '00:04:58.789'
+      u: Durante la guerra no me pasó mucho, yo tuve muchas dificultades con las autoridades
+        alemanas sobre todo con las autoridades militares.
+    - who: David Boder
+      start: '00:05:12.370'
+      end: '00:05:12.370'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:05:13.307'
+      end: '00:05:13.307'
+      u: Esas dificultades al estallar la guerra no fueron muy grandes porque al fin
+        y al cabo se necesitaba algo de comer para la gente y por eso me dejaron al
+        principio en paz.
+    - who: David Boder
+      start: '00:05:26.915'
+      end: '00:05:26.915'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:05:27.743'
+      end: '00:05:27.743'
+      u: Pero como yo me empeñaba también a proteger gente perseguida y...como yo
+        me empeñaba sobre todo de alimentar tanto mejor posible a los trabajadores
+        que traían como prisioneros extranjeros y a...garantizarles mejores raciones,
+        tuve bastantes dificultades con lo tipos que gobernaban en ese tiempo.
+    - who: David Boder
+      start: '00:05:59.569'
+      end: '00:05:59.569'
+      u: Ajá. Bueno, dígame, de modo que para trabajar en su hacienda, las haciendas
+        a su cargo, le trajeron...es...obreros extranjeros.
+    - who: Ernesto Moeller-Arnold
+      start: '00:06:10.709'
+      end: '00:06:10.709'
+      u: No, no. Los obreros extranjeros trabajaban en las minas.
+    - who: David Boder
+      start: '00:06:14.876'
+      end: '00:06:14.876'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:06:15.345'
+      end: '00:06:15.345'
+      u: Y yo tenía que...
+    - who: David Boder
+      start: '00:06:16.407'
+      end: '00:06:16.407'
+      u: "¡Oh! [Ininteligible]"
+    - who: Ernesto Moeller-Arnold
+      start: '00:06:17.688'
+      end: '00:06:17.688'
+      u: Que...encargarme de...
+    - who: David Boder
+      start: '00:06:19.657'
+      end: '00:06:19.657'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:06:20.532'
+      end: '00:06:20.532'
+      u: ". . . de darles de comer, no directamente sino de...de entregar los víveres
+        necesarios a las cocinas y a las cantinas que los alimentaban."
+    - who: David Boder
+      start: '00:06:35.203'
+      end: '00:06:35.203'
+      u: "¿Qué...ellos vivían qué...en lagers, en barraks? ¿Cómo vivían?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:06:39.234'
+      end: '00:06:39.234'
+      u: Era diferente, parte de ellos vivía en barracas y en lagers, y parte de ellos
+        vivía...vivía en...privadamente.
+    - who: David Boder
+      start: '00:06:53.624'
+      end: '00:06:53.624'
+      u: Ubicados en casas privadas. Pues, dígame señor, entonces...¿qué clase de
+        gente tuvo Ud.... tuvieron ellos para trabajar en las minas? ¿De qué nacionalidad?
+        ¿De qué religión?
+    - who: Ernesto Moeller-Arnold
+      start: '00:07:09.888'
+      end: '00:07:09.888'
+      u: Tenían gente de casi toda nacionalidad. Tenían prisioneros ingleses, tenían
+        gente de todos los países, pero la mayor parte eran ucranianos que trajeron
+        de la Rusia.
+    - who: David Boder
+      start: '00:07:26.512'
+      end: '00:07:26.512'
+      u: Gente ucraniana, ¿mujeres también?
+    - who: Ernesto Moeller-Arnold
+      start: '00:07:31.246'
+      end: '00:07:31.246'
+      u: Mujeres, no. En las minas no he visto mujeres en ese tiempo...
+    - who: David Boder
+      start: '00:07:36.198'
+      end: '00:07:36.198'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:07:36.917'
+      end: '00:07:36.917'
+      u: ". . . allá."
+    - who: David Boder
+      start: '00:07:38.074'
+      end: '00:07:38.074'
+      u: Bueno, y...indirectamente Ud. tuvo la responsabilidad de la alimentación.
+        Bueno, ¿y quién trabajó en los campos en sus haciendas?
+    - who: Ernesto Moeller-Arnold
+      start: '00:07:47.401'
+      end: '00:07:47.401'
+      u: En los campos trabajaron...quedaron la mayor parte de los trabajadores que
+        habían trabajado antes. Trabajaron también en los tiempos de guerra porque...la
+        mayor parte en la Alta Silesia de trabajadores son las mujeres...
+    - who: David Boder
+      start: '00:08:03.588'
+      end: '00:08:03.588'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:08:04.556'
+      end: '00:08:04.556'
+      u: Los hombres se van a las minas y las mujeres quedan en las haciendas, así
+        ya era mucho tiempo antes de la guerra.
+    - who: David Boder
+      start: '00:08:12.727'
+      end: '00:08:12.727'
+      u: Y esa es la tradición. Bueno, y entonces cuando...llegó el ejército ruso,
+        entonces ¿qué pasó?
+    - who: Ernesto Moeller-Arnold
+      start: '00:08:22.914'
+      end: '00:08:22.914'
+      u: Sí. Cuando llegó el ejército ruso fuimos primeramente evacuados de allá todos
+        los que habitábamos ahí por los alemanes. Nos mandaron a Turingia.
+    - who: David Boder
+      start: '00:08:34.960'
+      end: '00:08:34.960'
+      u: Sí. ¿Y dónde los pusieron en Turingia?
+    - who: Ernesto Moeller-Arnold
+      start: '00:08:40.350'
+      end: '00:08:40.350'
+      u: Yo me...dejé mi familia en Turingia que fue metida en una aldea allá, en
+        muy mal alojamiento, pero como yo quería tratar de continuar mi trabajo también
+        con los rusos, yo volví a Silesia.
+    - who: David Boder
+      start: '00:08:57.771'
+      end: '00:08:57.771'
+      u: Sí. ¿Y entonces qué pasó?
+    - who: Ernesto Moeller-Arnold
+      start: '00:09:01.380'
+      end: '00:09:01.380'
+      u: Yo encontré las haciendas más o menos todas devastadas y destruidas con...sobre
+        todo habían arrastrado a todas las máquinas, a todos los caballos.
+    - who: David Boder
+      start: '00:09:14.301'
+      end: '00:09:14.301'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:09:15.098'
+      end: '00:09:15.098'
+      u: Y las...haciendas mismas estaban confiscadas por las autoridades polacas.
+    - who: David Boder
+      start: '00:09:21.129'
+      end: '00:09:21.129'
+      u: Ajá. ¿Las confiscaron para distribuirlas entre la gente como ejidos?
+    - who: Ernesto Moeller-Arnold
+      start: '00:09:28.113'
+      end: '00:09:28.113'
+      u: Sí, dijeron que querían distribuirlas pero...yo quedé más o menos, tratando
+        de...seguir mi trabajo, más con una ayuda muy amable por parte de los polacos.
+        No puedo quejarme de ellos, pero como no había ningún medio para trabajar,
+        era imposible hacer algo y solamente sentarse como jefe ahí sin...sin verdadero
+        trabajo. Yo no quería seguir, era una farsa lo que hacía.
+    - who: David Boder
+      start: '00:10:04.314'
+      end: '00:10:04.314'
+      u: "¿Dónde está su familia ahora Don Ernesto?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:10:06.689'
+      end: '00:10:06.689'
+      u: Mi familia está también en el campamento aquí conmigo.
+    - who: David Boder
+      start: '00:10:10.548'
+      end: '00:10:10.548'
+      u: "¿En el campamento de UNRRA, aquí? Bueno. Ahora dígame, ¿entonces cómo...cuando
+        se separó Ud. de esas haciendas y de los rusos?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:10:18.923'
+      end: '00:10:18.923'
+      u: Sí, los rusos me dijeron francamente y netamente que yo como extranjero,
+        de nacionalidad americana, para los rusos no tenía que ver nada más allá,
+        sino que tenía que volver a mi país natal.
+    - who: David Boder
+      start: '00:10:37.062'
+      end: '00:10:37.062'
+      u: Bueno.
+    - who: Ernesto Moeller-Arnold
+      start: '00:10:37.812'
+      end: '00:10:37.812'
+      u: Y...
+    - who: David Boder
+      start: '00:10:38.796'
+      end: '00:10:38.796'
+      u: "[Ininteligible]."
+    - who: Ernesto Moeller-Arnold
+      start: '00:10:39.921'
+      end: '00:10:39.921'
+      u: Trataron de despacharme primero vía Odessa, como a muchos otros extranjeros
+        franceses y belgas, con qué estaba junto.
+    - who: David Boder
+      start: '00:10:49.888'
+      end: '00:10:49.888'
+      u: Sí. ¿Cómo dice que estaba junto? ¿Qué le pusieron en un lager?
+    - who: Ernesto Moeller-Arnold
+      start: '00:10:54.854'
+      end: '00:10:54.854'
+      u: No, no, habitaba. Y a los belgas y franceses estaban...los habían encerrado
+        en campamentos, allá.
+    - who: David Boder
+      start: '00:11:04.150'
+      end: '00:11:04.150'
+      u: Y a Ud....
+    - who: Ernesto Moeller-Arnold
+      start: '00:11:04.759'
+      end: '00:11:04.759'
+      u: Pero yo al principio no estuve en...en campamento. Me trataron de persuadir
+        de irme a un campamento allá, pero como me dijeron que iban a repatriarme
+        vía Odessa...
+    - who: David Boder
+      start: '00:11:18.461'
+      end: '00:11:18.461'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:11:19.508'
+      end: '00:11:19.508'
+      u: Eso me parecía un poco extraño.
+    - who: David Boder
+      start: '00:11:21.758'
+      end: '00:11:21.758'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:11:22.320'
+      end: '00:11:22.320'
+      u: Y yo me puse en camino primero por mi propia cuenta...
+    - who: David Boder
+      start: '00:11:25.617'
+      end: '00:11:25.617'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:11:26.148'
+      end: '00:11:26.148'
+      u: Con algunos belgas también que no creían a esa repatriación vía Odessa.
+    - who: David Boder
+      start: '00:11:31.897'
+      end: '00:11:31.897'
+      u: Ajá. Bueno, su familia estuvo en Turingia, de modo que estuvo Ud. solo y
+        no tuvo mucha dificultad de marchar.
+    - who: Ernesto Moeller-Arnold
+      start: '00:11:37.634'
+      end: '00:11:37.634'
+      u: No.
+    - who: David Boder
+      start: '00:11:38.118'
+      end: '00:11:38.118'
+      u: "¿Entonces cómo se salió Ud. de allá?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:11:41.274'
+      end: '00:11:41.274'
+      u: Yo salí con nuevos prisioneros belgas que marchamos juntos...
+    - who: David Boder
+      start: '00:11:49.090'
+      end: '00:11:49.090'
+      u: "¿Ilegalmente?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:11:50.214'
+      end: '00:11:50.214'
+      u: Ilegalmente. No tuvimos muchas dificultades por parte de los rusos hasta
+        me ayudaron...
+    - who: David Boder
+      start: '00:11:56.276'
+      end: '00:11:56.276'
+      u: Um.
+    - who: Ernesto Moeller-Arnold
+      start: '00:11:56.589'
+      end: '00:11:56.589'
+      u: ". . . de vez en cuando, y me marché con ellos hasta la Turingia."
+    - who: David Boder
+      start: '00:12:02.433'
+      end: '00:12:02.433'
+      u: Ajá. De modo, ¿cuánto tiempo marcharon Ud. por territorio polaco o ruso?
+    - who: Ernesto Moeller-Arnold
+      start: '00:12:12.339'
+      end: '00:12:12.339'
+      u: Sí, eso no me recuerdo bien, pero a lo menos unos, desde Alta Silesia hasta...hasta...hasta
+        donde lo dejé...hasta Wurzen en Sajonia...
+    - who: David Boder
+      start: '00:12:26.276'
+      end: '00:12:26.276'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:12:27.026'
+      end: '00:12:27.026'
+      u: ". . . empleé unas tres semanas más o menos."
+    - who: David Boder
+      start: '00:12:29.698'
+      end: '00:12:29.698'
+      u: Ajá. Y...
+    - who: Ernesto Moeller-Arnold
+      start: '00:12:30.932'
+      end: '00:12:30.932'
+      u: Y a veces en camión, a veces de a pie, a veces en...
+    - who: David Boder
+      start: '00:12:35.447'
+      end: '00:12:35.447'
+      u: En...en...
+    - who: Ernesto Moeller-Arnold
+      start: '00:12:37.494'
+      end: '00:12:37.494'
+      u: ". . . por ferrocarril, en carros de papa."
+    - who: David Boder
+      start: '00:12:40.619'
+      end: '00:12:40.619'
+      u: "¿Tuvo Ud. algo de dinero?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:12:43.400'
+      end: '00:12:43.400'
+      u: No, el dinero me lo quitaron soldados en el camino que estaban pillando.
+    - who: David Boder
+      start: '00:12:51.415'
+      end: '00:12:51.415'
+      u: "¿Cómo...le...le buscaron...?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:12:56.133'
+      end: '00:12:56.133'
+      u: Sí, había siempre soldados que hacían sus propios negocios por allá.
+    - who: David Boder
+      start: '00:13:01.914'
+      end: '00:13:01.914'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:02.508'
+      end: '00:13:02.508'
+      u: De todas las naciones que había.
+    - who: David Boder
+      start: '00:13:04.383'
+      end: '00:13:04.383'
+      u: Soldados de todas las naciones.
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:05.711'
+      end: '00:13:05.711'
+      u: Sí, pero esos ¡lástima! eran rusos.
+    - who: David Boder
+      start: '00:13:08.804'
+      end: '00:13:08.804'
+      u: Ajá. Bueno...
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:11.397'
+      end: '00:13:11.397'
+      u: Buenos amigos rusos.
+    - who: David Boder
+      start: '00:13:13.662'
+      end: '00:13:13.662'
+      u: Sí, entonces llegó Ud. a Turingia. ¿Y cómo de Turingia llegó Ud. para acá,
+        para este campo?
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:21.898'
+      end: '00:13:21.898'
+      u: En Turingia, las autoridades rusas, por su parte, declararon otra vez que
+        teníamos que dejar su zona.
+    - who: David Boder
+      start: '00:13:31.146'
+      end: '00:13:31.146'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:31.849'
+      end: '00:13:31.849'
+      u: Y yo reuní a mi familia y entré en un campamento ruso, y fui transportado
+        por los rusos a la zona americana y entregado a la UNRRA americana por los
+        rusos mismos.
+    - who: David Boder
+      start: '00:13:46.348'
+      end: '00:13:46.348'
+      u: "¡Oh! Del campamento ruso, bueno. ¿Y la UNRRA lo trajo para acá?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:52.223'
+      end: '00:13:52.223'
+      u: La UNRRA me mandó para acá.
+    - who: David Boder
+      start: '00:13:53.785'
+      end: '00:13:53.785'
+      u: "¿Y Turingia es en la región rusa?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:56.707'
+      end: '00:13:56.707'
+      u: Turingia es región rusa.
+    - who: David Boder
+      start: '00:13:59.300'
+      end: '00:13:59.300'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:59.987'
+      end: '00:13:59.987'
+      u: Al principio era región americana pero desde principios de julio de 1945
+        es región rusa.
+    - who: David Boder
+      start: '00:14:07.565'
+      end: '00:14:07.565'
+      u: Entonces lo mandaron para acá. Bueno, ahora ¿cuánto tiempo ya está Ud. aquí?
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:12.393'
+      end: '00:14:12.393'
+      u: Oh, casi un año.
+    - who: David Boder
+      start: '00:14:13.956'
+      end: '00:14:13.956'
+      u: "¿Y por qué le toma tanto tiempo?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:16.221'
+      end: '00:14:16.221'
+      u: Porque hasta ahora no dejaron salir a ningún sudamericano de acá oficialmente.
+        Se pudieron marchar solamente la gente que se marchó negra, y un...padre de
+        familia no puede marcharse negro.
+    - who: David Boder
+      start: '00:14:34.395'
+      end: '00:14:34.395'
+      u: "¡Oh! Negro...Ud. llama a...el camino ilegal."
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:39.628'
+      end: '00:14:39.628'
+      u: Sí.
+    - who: David Boder
+      start: '00:14:40.128'
+      end: '00:14:40.128'
+      u: Ajá. Bueno, ¿cuántas personas son en su familia?
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:44.503'
+      end: '00:14:44.503'
+      u: Yo tengo cinco niños, menores de edad.
+    - who: David Boder
+      start: '00:14:47.738'
+      end: '00:14:47.738'
+      u: Y su esposa.
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:48.956'
+      end: '00:14:48.956'
+      u: Y mi esposa, sí.
+    - who: David Boder
+      start: '00:14:50.924'
+      end: '00:14:50.924'
+      u: "¿Es chilena su esposa?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:52.330'
+      end: '00:14:52.330'
+      u: No, es de descendencia danesa.
+    - who: David Boder
+      start: '00:14:55.127'
+      end: '00:14:55.127'
+      u: "¿Qué?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:56.096'
+      end: '00:14:56.096'
+      u: Danesa.
+    - who: David Boder
+      start: '00:14:56.815'
+      end: '00:14:56.815'
+      u: "¿Danesa? ¿Se casó Ud. aquí en Europa?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:59.440'
+      end: '00:14:59.440'
+      u: Sí, me casé en Europa.
+    - who: David Boder
+      start: '00:15:00.815'
+      end: '00:15:00.815'
+      u: "¡Oh! Bueno, dígame, y...si se va Ud. ahora para Chile ¿quién paga su...su
+        transporte?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:15:15.439'
+      end: '00:15:15.439'
+      u: Yo podría...habría podido pagarlo, a lo menos...veinte veces con los dineros
+        que tenía a mi disposición, pero como parte de ello se ha perdido y la otra
+        parte no vale nada...
+    - who: David Boder
+      start: '00:15:31.282'
+      end: '00:15:31.282'
+      u: "¿Qué dinero es?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:15:32.579'
+      end: '00:15:32.579'
+      u: Es dinero alemán porque todo el otro dinero fue confiscado por los alemanes...por
+        los alemanes, que tenía todavía en Sudamérica...
+    - who: David Boder
+      start: '00:15:41.501'
+      end: '00:15:41.501'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:15:42.063'
+      end: '00:15:42.063'
+      u: Me quedó solamente...
+    - who: David Boder
+      start: '00:15:44.297'
+      end: '00:15:44.297'
+      u: "¿Su dinero que Ud. tuvo en Sudamérica...?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:15:47.078'
+      end: '00:15:47.078'
+      u: En Sudamérica.
+    - who: David Boder
+      start: '00:15:47.609'
+      end: '00:15:47.609'
+      u: ". . . ¿fue confiscado?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:15:48.453'
+      end: '00:15:48.453'
+      u: Sí, fue confiscado por las [ininteligible] alemanas.
+    - who: David Boder
+      start: '00:15:51.781'
+      end: '00:15:51.781'
+      u: Espérese, Ud. tuvo Americ...dinero en Chile.
+    - who: Ernesto Moeller-Arnold
+      start: '00:15:56.780'
+      end: '00:15:56.780'
+      u: Tenía dinero en Chile, sí.
+    - who: David Boder
+      start: '00:15:58.764'
+      end: '00:15:58.764'
+      u: Bueno, entonces ¿qué pueden los alemanes decir sobre su dinero en Chile?
+    - who: Ernesto Moeller-Arnold
+      start: '00:16:02.951'
+      end: '00:16:02.951'
+      u: Sí, podían, exigían una declaración de los bienes que uno tenía en el extranjero,
+        bajo juramento.
+    - who: David Boder
+      start: '00:16:09.747'
+      end: '00:16:09.747'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:16:10.184'
+      end: '00:16:10.184'
+      u: Y ese dinero fue...para esos dineros...ofrecieron en cambio...
+    - who: David Boder
+      start: '00:16:16.231'
+      end: '00:16:16.231'
+      u: Marks.
+    - who: Ernesto Moeller-Arnold
+      start: '00:16:16.856'
+      end: '00:16:16.856'
+      u: Marks, y...se lo llevaron.
+    - who: David Boder
+      start: '00:16:19.340'
+      end: '00:16:19.340'
+      u: Bueno, pero Ud. estuvo ciudadano chileno.
+    - who: Ernesto Moeller-Arnold
+      start: '00:16:22.293'
+      end: '00:16:22.293'
+      u: Sí, no importaba.
+    - who: David Boder
+      start: '00:16:23.699'
+      end: '00:16:23.699'
+      u: "¿El cónsul no podía defenderlo de ningún modo?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:16:27.059'
+      end: '00:16:27.059'
+      u: No, no podía defenderlo porque...todo lo que pertenec...lo que estaba aquí
+        en el...en el territorio alemán estaba sujeto a las leyes alemanas como me
+        declaraban y no podía evitarlo.
+    - who: David Boder
+      start: '00:16:44.948'
+      end: '00:16:44.948'
+      u: Pero miré, parece que Chile estuvo en la guerra de parte de los Aliados,
+        ¿no?
+    - who: Ernesto Moeller-Arnold
+      start: '00:16:50.385'
+      end: '00:16:50.385'
+      u: Sí, pero declaró la guerra...
+    - who: David Boder
+      start: '00:16:53.322'
+      end: '00:16:53.322'
+      u: Más tarde.
+    - who: Ernesto Moeller-Arnold
+      start: '00:16:55.807'
+      end: '00:16:55.807'
+      u: ". . . el 12 de abril '45."
+    - who: David Boder
+      start: '00:16:59.525'
+      end: '00:16:59.525'
+      u: "¡Oh! Tan tarde. De modo...(risas)...de modo que...antes ellos podían tener...tomar
+        su dinero."
+    - who: Ernesto Moeller-Arnold
+      start: '00:17:10.337'
+      end: '00:17:10.337'
+      u: No, desde '43, había las relaciones diplomáticas...
+    - who: David Boder
+      start: '00:17:16.524'
+      end: '00:17:16.524'
+      u: Interrumpidas.
+    - who: Ernesto Moeller-Arnold
+      start: '00:17:17.789'
+      end: '00:17:17.789'
+      u: Estaban interrumpidas.
+    - who: David Boder
+      start: '00:17:19.461'
+      end: '00:17:19.461'
+      u: Entonces, ¿cómo se llegaron a su dinero?
+    - who: Ernesto Moeller-Arnold
+      start: '00:17:21.601'
+      end: '00:17:21.601'
+      u: No...mm...¿a mi dinero?
+    - who: David Boder
+      start: '00:17:25.429'
+      end: '00:17:25.429'
+      u: "[Ininteligible]"
+    - who: Ernesto Moeller-Arnold
+      start: '00:17:26.898'
+      end: '00:17:26.898'
+      u: No, eso lo habían confiscado ya antes.
+    - who: David Boder
+      start: '00:17:28.710'
+      end: '00:17:28.710'
+      u: "¿Antes?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:17:29.429'
+      end: '00:17:29.429'
+      u: Sí.
+    - who: David Boder
+      start: '00:17:29.850'
+      end: '00:17:29.850'
+      u: Entonces, bueno ¿qué? ¿la UNRRA le paga el pasaje a la gente?
+    - who: Ernesto Moeller-Arnold
+      start: '00:17:37.693'
+      end: '00:17:37.693'
+      u: No, no creemos que la UNRRA vaya a pagar pasaje para nosotros, contamos...que
+        nuestro gobierno nos va a ayudar.
+    - who: David Boder
+      start: '00:17:45.130'
+      end: '00:17:45.130'
+      u: Bueno, ¿sabe Ud. algo todavía de su gobierno?
+    - who: Ernesto Moeller-Arnold
+      start: '00:17:48.645'
+      end: '00:17:48.645'
+      u: No, sé muy poco porque hasta ahora era muy difícil ponerse en comunicación
+        con nuestro gobierno.
+    - who: David Boder
+      start: '00:17:54.004'
+      end: '00:17:54.004'
+      u: "¿No tiene consulado chileno en Alemania?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:17:57.332'
+      end: '00:17:57.332'
+      u: No hay todavía consulado chileno en Alemania.
+    - who: David Boder
+      start: '00:17:59.832'
+      end: '00:17:59.832'
+      u: Entonces, ¿el consulado más próximo es dónde?
+    - who: Ernesto Moeller-Arnold
+      start: '00:18:01.942'
+      end: '00:18:01.942'
+      u: El...los consulados más próximos están en Zurich y en París.
+    - who: David Boder
+      start: '00:18:08.454'
+      end: '00:18:08.454'
+      u: En París. ¿Y qué, tienen algún representante que los vino a ver aquí o...?
+    - who: Ernesto Moeller-Arnold
+      start: '00:18:13.360'
+      end: '00:18:13.360'
+      u: No, hasta ahora nadie.
+    - who: David Boder
+      start: '00:18:14.876'
+      end: '00:18:14.876'
+      u: "¿Cuántos chilenos hay aquí en este campo?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:18:17.501'
+      end: '00:18:17.501'
+      u: En este campo hay setenta y seis chilenos.
+    - who: David Boder
+      start: '00:18:21.188'
+      end: '00:18:21.188'
+      u: "¡¿Setenta y seis chilenos?!"
+    - who: Ernesto Moeller-Arnold
+      start: '00:18:23.282'
+      end: '00:18:23.282'
+      u: Sí.
+    - who: David Boder
+      start: '00:18:23.907'
+      end: '00:18:23.907'
+      u: "¡Es un número bastante grande!"
+    - who: Ernesto Moeller-Arnold
+      start: '00:18:28.422'
+      end: '00:18:28.422'
+      u: Sí, porque están reunidos casi todos de la zona americana aquí.
+    - who: David Boder
+      start: '00:18:32.687'
+      end: '00:18:32.687'
+      u: Bueno, dígame otra cosa. De modo que Ud. estuvo una persona relativamente
+        libre en Alemania durante la guerra. ¿Cómo Ud. aprecia toda la situación?
+        Ud. conocía alemanes y tuvo amigos alemanes o...
+    - who: Ernesto Moeller-Arnold
+      start: '00:18:50.764'
+      end: '00:18:50.764'
+      u: Sí.
+    - who: David Boder
+      start: '00:18:51.295'
+      end: '00:18:51.295'
+      u: Bueno. ¿Qué...cuál fue la...opinión...la actitud, por decir así, de ellos
+        sobre todo lo que pasaba aquí en Alemania durante la guerra?
+    - who: Ernesto Moeller-Arnold
+      start: '00:19:05.592'
+      end: '00:19:05.592'
+      u: Sí, en...yo conozco sobre todo la situación como se...se puede entender en
+        Alta Silesia porque estuve en Alta Silesia.
+    - who: David Boder
+      start: '00:19:16.966'
+      end: '00:19:16.966'
+      u: Sí, bueno.
+    - who: Ernesto Moeller-Arnold
+      start: '00:19:17.966'
+      end: '00:19:17.966'
+      u: En Alta Silesia.
+    - who: David Boder
+      start: '00:19:18.591'
+      end: '00:19:18.591'
+      u: Alta Silesia es un poco polaco.
+    - who: Ernesto Moeller-Arnold
+      start: '00:19:20.450'
+      end: '00:19:20.450'
+      u: Sí, Alta Silesia es una cosa que...una cosa por sí.
+    - who: David Boder
+      start: '00:19:25.403'
+      end: '00:19:25.403'
+      u: Sí, bueno dígame.
+    - who: Ernesto Moeller-Arnold
+      start: '00:19:26.778'
+      end: '00:19:26.778'
+      u: No se puede considerar como representante, digamos de toda la mentalidad
+        alemana porque...digamos...hablan entre sí, hablan el polaco...
+    - who: David Boder
+      start: '00:19:39.700'
+      end: '00:19:39.700'
+      u: Um.
+    - who: Ernesto Moeller-Arnold
+      start: '00:19:40.638'
+      end: '00:19:40.638'
+      u: Y entre ellos es claro que la...una buena parte de ellos no tenía muchas
+        ganas de participar en la guerra y...eran hostiles a...a todo lo que se pasaba...
+    - who: David Boder
+      start: '00:20:00.043'
+      end: '00:20:00.043'
+      u: Bueno.
+    - who: Ernesto Moeller-Arnold
+      start: '00:20:03.231'
+      end: '00:20:03.231'
+      u: A toda la política, justamente porque se consideraban...medio polacos.
+    - who: David Boder
+      start: '00:20:10.950'
+      end: '00:20:10.950'
+      u: Ajá. Bueno, estuvo allá...un grupo que se consideraba Reichsdeutsch.
+    - who: Ernesto Moeller-Arnold
+      start: '00:20:16.965'
+      end: '00:20:16.965'
+      u: "¡Sí! Pero no había muchos. La gente que venía allá sobre todo como digamos...como
+        ingenieros de minas, venía de Westphalia."
+    - who: David Boder
+      start: '00:20:31.745'
+      end: '00:20:31.745'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:20:33.042'
+      end: '00:20:33.042'
+      u: Y era gente católica que estaba también en una cierta oposición, como Alta
+        Silesia es un país muy buen católico...
+    - who: David Boder
+      start: '00:20:44.854'
+      end: '00:20:44.854'
+      u: Um. Entonces.
+    - who: Ernesto Moeller-Arnold
+      start: '00:20:47.229'
+      end: '00:20:47.229'
+      u: Ellos nunca querían eh...trabajar con los prusianos que no eran católicos.
+    - who: David Boder
+      start: '00:20:55.385'
+      end: '00:20:55.385'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:20:56.213'
+      end: '00:20:56.213'
+      u: Y preferían a sacarse la gente de Westphalia y como la gente de Westphalia
+        es también gente minera...
+    - who: David Boder
+      start: '00:21:02.592'
+      end: '00:21:02.592'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:21:03.186'
+      end: '00:21:03.186'
+      u: ". . . eso estaba muy en orden."
+    - who: David Boder
+      start: '00:21:06.170'
+      end: '00:21:06.170'
+      u: Ajá. Pues, dígame señor, ¿Ud. sabe la situación en que se encontró el pueblo
+        judío? Pues usted como una persona de lado, como de observador. ¿Qué sabe
+        Ud. de está situación y cómo la aprecia Ud.?
+    - who: Ernesto Moeller-Arnold
+      start: '00:21:25.105'
+      end: '00:21:25.105'
+      u: Sí. La...
+    - who: David Boder
+      start: '00:21:26.120'
+      end: '00:21:26.120'
+      u: Francamente.
+    - who: Ernesto Moeller-Arnold
+      start: '00:21:27.011'
+      end: '00:21:27.011'
+      u: La situación del pueblo judío fue terrible. No teníamos lejos de allá el
+        campamento de...el campamento de Auschwitz.
+    - who: David Boder
+      start: '00:21:36.135'
+      end: '00:21:36.135'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:21:36.947'
+      end: '00:21:36.947'
+      u: Nunca se sabía algo de lo que se pasaba allá, verdaderamente estaba muy bien
+        isolado.
+    - who: David Boder
+      start: '00:21:43.509'
+      end: '00:21:43.509'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:21:44.322'
+      end: '00:21:44.322'
+      u: Pero se sabía eso, que...la gente fue tratada muy mal y sufrieron bastante
+        los pobrecitos que...que fueron transportados por allá y que nosotros vimos
+        que fueron transportados. No vimos mucho porque esos transportes siempre se
+        pasaban o por la noche o por caminos que uno no podía observar.
+    - who: David Boder
+      start: '00:22:11.269'
+      end: '00:22:11.269'
+      u: Um.
+    - who: Ernesto Moeller-Arnold
+      start: '00:22:12.238'
+      end: '00:22:12.238'
+      u: Corrían solamente bolas sobre ellos y uno no sabía lo que era verdad y lo
+        que era exagerado, pero sabíamos bastante que sufrían.
+    - who: David Boder
+      start: '00:22:22.800'
+      end: '00:22:22.800'
+      u: Bueno, allá próximo de Auschwitz estuvo Birkenau, ¿no?
+    - who: Ernesto Moeller-Arnold
+      start: '00:22:28.550'
+      end: '00:22:28.550'
+      u: Sí, Birkenau no está lejos.
+    - who: David Boder
+      start: '00:22:30.597'
+      end: '00:22:30.597'
+      u: Bueno, dicen que en Birkenau se encontraban los crematorios y que...se pusieron
+        allá a la gente...en las cámaras de gas y todo. ¿Se sabían en...la gente allá
+        cercana, se sabía que se hacen esas cosas en Birkenau?
+    - who: Ernesto Moeller-Arnold
+      start: '00:22:50.471'
+      end: '00:22:50.471'
+      u: No, en nuestra región, dónde yo trabajaba, estaba más o menos a...digamos...50
+        Km. de Auschwitz.
+    - who: David Boder
+      start: '00:23:05.720'
+      end: '00:23:05.720'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:23:06.423'
+      end: '00:23:06.423'
+      u: Y ahí verdaderamente no se sabía nada de las cámaras de gas y de esos crematorios.
+        Se sabía solamente que llevaban mucha gente por allá y dónde quedaba no se
+        sabía exactamente nada.
+    - who: David Boder
+      start: '00:23:19.953'
+      end: '00:23:19.953'
+      u: Bueno, no había gente que...
+    - who: Ernesto Moeller-Arnold
+      start: '00:23:23.015'
+      end: '00:23:23.015'
+      u: Sabíamos solamente que la gente por ejemplo que...trabajaba...había también
+        judíos por ejemplo, que trabajaban en los caminos allá.
+    - who: David Boder
+      start: '00:23:33.699'
+      end: '00:23:33.699'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:23:34.761'
+      end: '00:23:34.761'
+      u: Y que esos fueron tratados muy mal, eso lo sabíamos, porque eso lo veíamos.
+        Eso se podía observar, mientras tanto que todo lo otro, solamente se oía de
+        vez en cuando un rumor pero más no.
+    - who: David Boder
+      start: '00:23:50.744'
+      end: '00:23:50.744'
+      u: Ajá. Bueno, ¿no hubo alemanes, polacos que trabajaban en Auschwitz que tenían...que
+        estuvieron allá de soldados y eso...que se regresaban y decían algo de esto?
+    - who: Ernesto Moeller-Arnold
+      start: '00:24:04.712'
+      end: '00:24:04.712'
+      u: No...por nuestra parte yo no hemos encontrado tales soldados, puede ser que...yo
+        no sé si los impidieron a ponerse en contacto con el...
+    - who: David Boder
+      start: '00:24:17.770'
+      end: '00:24:17.770'
+      u: "[Ininteligible]"
+    - who: Ernesto Moeller-Arnold
+      start: '00:24:19.504'
+      end: '00:24:19.504'
+      u: ". . . Con el resto del mundo, o cómo lo hicieron pero..."
+    - who: David Boder
+      start: '00:24:21.988'
+      end: '00:24:21.988'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:24:23.770'
+      end: '00:24:23.770'
+      u: ". . . No me recuerdo de tal cosa. Sé solamente que se hablaba de que se
+        llevaba a la gente allá y lo que yo mismo he visto son gente que sufría mucho
+        bajo condiciones de trabajo...monstruosas, en los caminos."
+    - who: David Boder
+      start: '00:24:39.754'
+      end: '00:24:39.754'
+      u: Y la...
+    - who: Ernesto Moeller-Arnold
+      start: '00:24:41.020'
+      end: '00:24:41.020'
+      u: En una...exactamente en una vía ferroviaria donde lo pudo...lo pude observar.
+    - who: David Boder
+      start: '00:24:47.942'
+      end: '00:24:47.942'
+      u: "¿Puede Ud. describir un poco lo que yo...lo que Ud. ha visto?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:24:52.582'
+      end: '00:24:52.582'
+      u: Sí, yo he visto que la gente trabajaba en...con...muy mala alimentada y eso...es
+        lo que sobre todo se podía ver y que era...tenían...cabos que los trataban
+        bastante mal.
+    - who: David Boder
+      start: '00:25:15.378'
+      end: '00:25:15.378'
+      u: "¿Cabos?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:25:15.925'
+      end: '00:25:15.925'
+      u: Sí.
+    - who: David Boder
+      start: '00:25:16.331'
+      end: '00:25:16.331'
+      u: "¿Los maltrataban físicamente?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:25:20.519'
+      end: '00:25:20.519'
+      u: Sí, eso también se veía de vez en cuando, no mucho, pero se veía de vez en
+        cuando que los maltrataban.
+    - who: David Boder
+      start: '00:25:30.628'
+      end: '00:25:30.628'
+      u: Bueno. Ud...
+    - who: Ernesto Moeller-Arnold
+      start: '00:25:32.722'
+      end: '00:25:32.722'
+      u: Bastaba para una persona que tiene un sentimiento humano, bastaba.
+    - who: David Boder
+      start: '00:25:39.456'
+      end: '00:25:39.456'
+      u: Bastaba. ¿Ud. estuvo próximo de Katowice, Sosnowiec?
+    - who: Ernesto Moeller-Arnold
+      start: '00:25:43.471'
+      end: '00:25:43.471'
+      u: Digamos, entre Katowice y Gleiwitz.
+    - who: David Boder
+      start: '00:25:47.909'
+      end: '00:25:47.909'
+      u: Katowice y Gleiwitz.
+    - who: Ernesto Moeller-Arnold
+      start: '00:25:49.550'
+      end: '00:25:49.550'
+      u: Sí.
+    - who: David Boder
+      start: '00:25:49.831'
+      end: '00:25:49.831'
+      u: Sería próximo de dónde Ud. estuvo. Bueno, ¿Ud. supo que las ciudades como
+        Katowice o Sosnowiec que se construyeron los guetos?
+    - who: Ernesto Moeller-Arnold
+      start: '00:26:00.924'
+      end: '00:26:00.924'
+      u: En Katowice no sé que había gueto. No había gueto en Katowice, creo que llevaron
+        a los judíos a...
+    - who: David Boder
+      start: '00:26:10.393'
+      end: '00:26:10.393'
+      u: "[Ininteligible] A otro lugar."
+    - who: Ernesto Moeller-Arnold
+      start: '00:26:11.487'
+      end: '00:26:11.487'
+      u: A otro lugar.
+    - who: David Boder
+      start: '00:26:12.768'
+      end: '00:26:12.768'
+      u: Sí. A Katowice lo declar...lo hicieron...cómo se llama...Judenrein.
+    - who: Ernesto Moeller-Arnold
+      start: '00:26:17.252'
+      end: '00:26:17.252'
+      u: Sí.
+    - who: David Boder
+      start: '00:26:17.674'
+      end: '00:26:17.674'
+      u: Sí. Y...
+    - who: Ernesto Moeller-Arnold
+      start: '00:26:19.424'
+      end: '00:26:19.424'
+      u: Allá no había judíos.
+    - who: David Boder
+      start: '00:26:21.549'
+      end: '00:26:21.549'
+      u: Sí, no había judíos desde el advenimiento de Hitler. Bueno, ahora, los otros
+        chilenos que tiene Ud. aquí ¿qué clase de gente son, cómo ellos llegaron para
+        acá?
+    - who: Ernesto Moeller-Arnold
+      start: '00:26:34.799'
+      end: '00:26:34.799'
+      u: Sí, es muy diferente. Entre ellos hay gente que vino para curarse, por ejemplo
+        uno, que tenía una enfermedad terrible de sus ojos.
+    - who: David Boder
+      start: '00:26:48.580'
+      end: '00:26:48.580'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:26:49.002'
+      end: '00:26:49.002'
+      u: Muchos estaban aquí para estudiar porque...era usual de mandar sus hijos
+        y sus niños a Europa.
+    - who: David Boder
+      start: '00:26:58.970'
+      end: '00:26:58.970'
+      u: "¿De Chile?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:26:59.907'
+      end: '00:26:59.907'
+      u: De Chile, algún tiempo a lo menos. No todo el tiempo, sino unos dos, tres
+        años a Europa.
+    - who: David Boder
+      start: '00:27:05.985'
+      end: '00:27:05.985'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:27:06.703'
+      end: '00:27:06.703'
+      u: Y otros que vinieron por acá para visitar a sus parientes.
+    - who: David Boder
+      start: '00:27:10.656'
+      end: '00:27:10.656'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:27:11.187'
+      end: '00:27:11.187'
+      u: Tenían padres...o...
+    - who: David Boder
+      start: '00:27:12.797'
+      end: '00:27:12.797'
+      u: Um.
+    - who: Ernesto Moeller-Arnold
+      start: '00:27:15.610'
+      end: '00:27:15.610'
+      u: ". . . abuelos aquí que querían visitar, aquí o en Austria y en Europa Central."
+    - who: David Boder
+      start: '00:27:22.594'
+      end: '00:27:22.594'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:27:24.016'
+      end: '00:27:24.016'
+      u: Y también gente que estaba justamente aquí por sus negocios, por ejemplo
+        trabajando, perfeccionándose como ingeniero y cosa tal, para emplear lo que
+        habían aprendido en su patria.
+    - who: David Boder
+      start: '00:27:40.999'
+      end: '00:27:40.999'
+      u: "¿Cómo? ¿Los forzaron de entrar al ejército? ¿Estuvo en el ejército?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:27:44.755'
+      end: '00:27:44.755'
+      u: A una...a algunos de ellos, a algunos jóvenes de ellos...seguramente los
+        forzaron a entrar al ejército, aunque algunos podían evitarlo.
+    - who: David Boder
+      start: '00:27:57.598'
+      end: '00:27:57.598'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:27:58.129'
+      end: '00:27:58.129'
+      u: Pero pocos supieron evitarlo. Los que tenemos aquí son sobre todo...hay pocos
+        jóvenes, entre ellos muchachos, son sobre todo niñas que tenemos aquí, algunos
+        pocos jóvenes.
+    - who: David Boder
+      start: '00:28:11.578'
+      end: '00:28:11.578'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:28:12.172'
+      end: '00:28:12.172'
+      u: Tenemos también algunos que...primero estuvieron en el ejército pero lograron
+        salir otra vez de él y encontraron un empleo en el país mismo.
+    - who: David Boder
+      start: '00:28:28.312'
+      end: '00:28:28.312'
+      u: Um. Bueno, y...ellos se...hay algunos que son medio alemanes, medio chilenos.
+    - who: Ernesto Moeller-Arnold
+      start: '00:28:39.797'
+      end: '00:28:39.797'
+      u: Hay gente, sobre todo de seguro, es gente de descendencia alemana a lo menos.
+    - who: David Boder
+      start: '00:28:46.250'
+      end: '00:28:46.250'
+      u: Sí. ¿Los hubo mucho en Chile?
+    - who: Ernesto Moeller-Arnold
+      start: '00:28:47.938'
+      end: '00:28:47.938'
+      u: No, hay bastante gente de descendencia alemana sobre todo en el sur de Chile
+        que fue colonizado por gente de...
+    - who: David Boder
+      start: '00:29:01.266'
+      end: '00:29:01.266'
+      u: "¡Oh!"
+    - who: Ernesto Moeller-Arnold
+      start: '00:29:01.890'
+      end: '00:29:01.890'
+      u: ". . . de descendencia alemana. En Valdivia, Osorno, Temuco, son ciudades
+        donde uno encuentra muchos nombres alemanes."
+    - who: David Boder
+      start: '00:29:10.707'
+      end: '00:29:10.707'
+      u: Pues allá parece que estuvieron en América del Sur ciudadanos muy buenos,
+        muy útiles.
+    - who: Ernesto Moeller-Arnold
+      start: '00:29:17.472'
+      end: '00:29:17.472'
+      u: Sí, claro, hasta el estallido de la guerra esa gente tenía muy buen renombre
+        en Chile y nunca se metió en la política chilena y...disturbó la política.
+        Tampoco durante la guerra yo no he oído nada de eso y, por eso, tampoco hubo
+        grandes canjes como las hubo por ejemplo en las Americas Centrales.
+    - who: David Boder
+      start: '00:29:45.533'
+      end: '00:29:45.533'
+      u: Sí. Pues dígame, Ud. dice que salió de Chile ¿en qué año?
+    - who: Ernesto Moeller-Arnold
+      start: '00:29:50.939'
+      end: '00:29:50.939'
+      u: "'28."
+    - who: David Boder
+      start: '00:29:52.064'
+      end: '00:29:52.064'
+      u: "'28. Bueno, entonces...aquel tiempo ¿y vino Ud. para Alemania...para Silesia
+        en este tiempo?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:30:03.672'
+      end: '00:30:03.672'
+      u: Yo vine primero a Austria en ese tiempo.
+    - who: David Boder
+      start: '00:30:07.687'
+      end: '00:30:07.687'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:30:08.374'
+      end: '00:30:08.374'
+      u: Y después tuve mi domicilio en el país que...podía juzgarse que era un país
+        por el cual se peleaba todo el mundo.
+    - who: David Boder
+      start: '00:30:23.670'
+      end: '00:30:23.670'
+      u: "¿Qué era?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:30:24.842'
+      end: '00:30:24.842'
+      u: Alta Silesia.
+    - who: David Boder
+      start: '00:30:26.045'
+      end: '00:30:26.045'
+      u: Alta Silesia, ¿pero en aquel tiempo esto estuvo en las manos de quién? ¿De
+        los checos?
+    - who: Ernesto Moeller-Arnold
+      start: '00:30:31.529'
+      end: '00:30:31.529'
+      u: Parte pertenecía a los checos, parte pertenecía a los polacos y parte a los
+        alemanes, y tenían una jurisdicción especial.
+    - who: David Boder
+      start: '00:30:41.107'
+      end: '00:30:41.107'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:30:41.732'
+      end: '00:30:41.732'
+      u: Estaban...pertenecían a esos estados pero estaba restricta esa...
+    - who: David Boder
+      start: '00:30:41.732'
+      end: '00:30:41.732'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:30:50.967'
+      end: '00:30:50.967'
+      u: ". . . soberanía por leyes administrativas sobre todo y leyes económicas
+        sobre todo. Por ejemplo, no necesitaba pagar impuesto para algunos productos
+        que canjeaban..."
+    - who: David Boder
+      start: '00:31:08.216'
+      end: '00:31:08.216'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:31:08.903'
+      end: '00:31:08.903'
+      u: ". . . de un lado al otro."
+    - who: David Boder
+      start: '00:31:10.325'
+      end: '00:31:10.325'
+      u: Dígame esto, Ud. es agricultor ¿cómo le parece a Ud. la agricultura alemana
+        ha sufrido mucho durante la guerra?
+    - who: Ernesto Moeller-Arnold
+      start: '00:31:19.949'
+      end: '00:31:19.949'
+      u: Yo conozco solamente, porque no se podía hacer viajes durante la guerra,
+        la agricultura en Alta Silesia.
+    - who: David Boder
+      start: '00:31:34.292'
+      end: '00:31:34.292'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:31:34.839'
+      end: '00:31:34.839'
+      u: Y esa, se puede decir está destruida.
+    - who: David Boder
+      start: '00:31:39.729'
+      end: '00:31:39.729'
+      u: "¿Eso por qué? ¿Se llevaron las máquinas o los animales, o qué?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:31:43.565'
+      end: '00:31:43.565'
+      u: Se llevó todo lo que había que se podía llevar, los animales y las máquinas
+        y las siembras, todo lo que había, se desapareció.
+    - who: David Boder
+      start: '00:31:54.331'
+      end: '00:31:54.331'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:31:54.924'
+      end: '00:31:54.924'
+      u: Y las batallas no hicieron gran daño y tampoco los raids aéreos hicieron
+        allá gran daño porque no hubo muchos raids. Los rusos no hicieron...
+    - who: David Boder
+      start: '00:32:11.861'
+      end: '00:32:11.861'
+      u: Raids.
+    - who: Ernesto Moeller-Arnold
+      start: '00:32:12.642'
+      end: '00:32:12.642'
+      u: Ataques aéreos.
+    - who: David Boder
+      start: '00:32:13.751'
+      end: '00:32:13.751'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:32:14.407'
+      end: '00:32:14.407'
+      u: Pero...el fin de la guerra hizo el mayor daño.
+    - who: David Boder
+      start: '00:32:19.860'
+      end: '00:32:19.860'
+      u: Bueno, y por lo que Ud. tuvo la oportunidad, Ud. habla alemán, tuvo Ud. la
+        oportunidad de hablar con los alemanes ahora, ¿cuál es el sentimiento? ¿Qué
+        creen ellos que pasará con Alemania?
+    - who: Ernesto Moeller-Arnold
+      start: '00:32:37.147'
+      end: '00:32:37.147'
+      u: Sí, yo conozco entre los alemanes, conozco sobre todo la gente Silesiaca
+        que fue echada afuera de Silesia. Ellos no tienen otro sentimiento que el
+        deseo de volver a su patria nativa dónde estuvieron...
+    - who: David Boder
+      start: '00:32:53.692'
+      end: '00:32:53.692'
+      u: "¿A Silesia?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:32:54.598'
+      end: '00:32:54.598'
+      u: A Silesia, sí.
+    - who: David Boder
+      start: '00:32:56.254'
+      end: '00:32:56.254'
+      u: "¿Y quieren volverse a Silesia?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:32:58.378'
+      end: '00:32:58.378'
+      u: Quisieran volver a Silesia dónde...
+    - who: David Boder
+      start: '00:33:01.799'
+      end: '00:33:01.799'
+      u: "¿Y por qué no vuelven?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:33:04.377'
+      end: '00:33:04.377'
+      u: Porque...porque según los tratados ahora fueron desplazados por los polacos,
+        los echaron afuera.
+    - who: David Boder
+      start: '00:33:15.377'
+      end: '00:33:15.377'
+      u: Ud. dice de la gente que se consideraba alemana.
+    - who: Ernesto Moeller-Arnold
+      start: '00:33:18.909'
+      end: '00:33:18.909'
+      u: Los polacos consideran a todos los que habitaban antes allá, como alemanes.
+    - who: David Boder
+      start: '00:33:24.862'
+      end: '00:33:24.862'
+      u: Alemanes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:33:25.206'
+      end: '00:33:25.206'
+      u: Bueno, no tomaron parte en el...
+    - who: David Boder
+      start: '00:33:27.581'
+      end: '00:33:27.581'
+      u: "¿No pasó esto que Hitler importó a muchos alemanes a Silesia durante la
+        guerra?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:33:34.487'
+      end: '00:33:34.487'
+      u: No, porque Silesia estaba bastante poblada también durante...
+    - who: David Boder
+      start: '00:33:39.081'
+      end: '00:33:39.081'
+      u: Ajá.
+    - who: Ernesto Moeller-Arnold
+      start: '00:33:40.784'
+      end: '00:33:40.784'
+      u: Y ya antes no había lugar para importar alemanes. Los alemanes que fueron
+        importados, fueron importados en...en Wartagau...y cómo se llamaba...en la
+        provincia Posen y allá, allá, metieron alemanes...
+    - who: David Boder
+      start: '00:33:54.905'
+      end: '00:33:54.905'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:33:55.811'
+      end: '00:33:55.811'
+      u: Pero en Silesia no llevaron ni una persona, no había ni un metro cuadrado
+        para esta gente.
+    - who: David Boder
+      start: '00:33:59.508'
+      end: '00:33:59.508'
+      u: "¿Y dónde está ahora esa gente?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:34:01.539'
+      end: '00:34:01.539'
+      u: Esos están sobre todo en la zona rusa, en la parte alemana de la zona rusa
+        y en la zona británica y algunos también, quizás unos cien mil, estarán en
+        la zona americana.
+    - who: David Boder
+      start: '00:34:17.054'
+      end: '00:34:17.054'
+      u: "¡¿Unos cien mil?! ¿Pues cuántos ellos expulsaron?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:34:21.069'
+      end: '00:34:21.069'
+      u: Expulsaron a ver...a más o menos la Silesia estaba habitada por más o menos
+        siete millones de personas, todos fueron expulsados. Ahora queda solamente,
+        más o menos un millón pero que...
+    - who: David Boder
+      start: '00:34:36.178'
+      end: '00:34:36.178'
+      u: Que se consideraban verdaderamente polacos.
+    - who: Ernesto Moeller-Arnold
+      start: '00:34:38.256'
+      end: '00:34:38.256'
+      u: No, es que quieren expulsar todavía. Toda la gente fue expulsada...
+    - who: David Boder
+      start: '00:34:44.849'
+      end: '00:34:44.849'
+      u: "[Ininteligible]"
+    - who: Ernesto Moeller-Arnold
+      start: '00:34:45.974'
+      end: '00:34:45.974'
+      u: Hasta el último de Silesia, sí.
+    - who: David Boder
+      start: '00:34:48.068'
+      end: '00:34:48.068'
+      u: "¿Y qué...cuando los expulsan les dan algo de su propiedad, les dan algo
+        de...?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:34:54.182'
+      end: '00:34:54.182'
+      u: Los que fueron expulsados hasta ahora, fueron expulsados como pobrecitos,
+        sin nada.
+    - who: David Boder
+      start: '00:35:01.088'
+      end: '00:35:01.088'
+      u: Pues se dice que Sudeten, por ejemplo, los expulsan a los alemanes que hay
+        una comisión que vea que les dan a cada uno cincuenta kilos tanto de...de
+        su propie...de efectos personales y todo. ¿Pero no se hizo lo mismo en Silesia?
+    - who: Ernesto Moeller-Arnold
+      start: '00:35:20.993'
+      end: '00:35:20.993'
+      u: En Silesia, hasta el año pasado o hasta este año, lo que he oído, lo que
+        me contó la gente silesiaca que he hablado, no pudo llevar nada.
+    - who: David Boder
+      start: '00:35:34.539'
+      end: '00:35:34.539'
+      u: Bueno, entonces, ¿a quién ellos culpan? ¿A Hitler o a los...polacos?
+    - who: Ernesto Moeller-Arnold
+      start: '00:35:42.399'
+      end: '00:35:42.399'
+      u: Los sentimientos en...por...
+    - who: David Boder
+      start: '00:35:47.101'
+      end: '00:35:47.101'
+      u: "¿Por los rusos?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:35:48.289'
+      end: '00:35:48.289'
+      u: ". . . por los rusos y los polacos no son muy amables porque fueron tratados
+        bastante mal por ellos."
+    - who: David Boder
+      start: '00:35:54.804'
+      end: '00:35:54.804'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:35:55.523'
+      end: '00:35:55.523'
+      u: Y es claro que el que trata mal...
+    - who: David Boder
+      start: '00:35:57.038'
+      end: '00:35:57.038'
+      u: Sí.
+    - who: Ernesto Moeller-Arnold
+      start: '00:35:57.882'
+      end: '00:35:57.882'
+      u: ". . . tiene que pagarlo con malos sentimientos."
+    - who: David Boder
+      start: '00:36:01.101'
+      end: '00:36:01.101'
+      u: Sí, claro, pero por otro modo ellos pueden...podrían pensar o entender, si
+        Hitler no hubiera comenzado todo...
+    - who: Ernesto Moeller-Arnold
+      start: '00:36:11.101'
+      end: '00:36:11.101'
+      u: Eso es claro, eso se dice la gente la gente que piensa, pero la mayoría de
+        la gente no piensa sino sufre solamente en el momento y ve al que le hace
+        sufrir y eso es una cosa que hace bastante daño. Uno puede pegar a un otro
+        y decirle "Hitler tiene la culpa porque me pegó a mí," pero él al que pega
+        siempre ve solamente al que está delante de sí, no ve a las causas que están
+        más lejanas.
+    - who: David Boder
+      start: '00:36:47.146'
+      end: '00:36:47.146'
+      u: Pues esa es una observación muy interesante Don Ernesto, porque a veces nosotros
+        pensamos si la humanidad hubiera aprendido alguna lección de toda esta catástrofe,
+        ¿qué piensa Ud.?
+    - who: Ernesto Moeller-Arnold
+      start: '00:37:04.568'
+      end: '00:37:04.568'
+      u: Sí, la lección que debiera aprender es simplemente acabar un día con las
+        hostilidades y uno tiene que empezar por acabar, porque s iempre cuando se...se
+        va pagando la cuenta, eso continúa hasta el último juicio.
+    - who: David Boder
+      start: '00:37:30.660'
+      end: '00:37:30.660'
+      u: Pues Don Ernesto, muchísimas gracias. Yo quisiera tener algún reporte, información,
+        de persona que estuvo en Alemania durante todo el tiempo y que podía observar
+        las cosas un poco como un extranjero. Yo creo que a todos nos interesará mucho
+        estudiar lo que Ud. a dicho.
+    - who: David Boder
+      start: '00:37:56.049'
+      end: '00:37:56.049'
+      u: "[In English] This concludes Spool 135. The interviewee was Don Ernesto Moeller-Arnold,
+        a Chilean by birth who spent during the time of the war in Germany as a manager
+        of various etstates, agricultural properties, and had some opportunity to
+        observer...had some opportunity to observe—I am mixing my Spanish with my
+        English—what has happened. Muenchen, September the 20th, 1946. Spool 135,
+        Illinois Institute of Technology wire recording. Thank you very much, Mr.
+        Moeller."
+    - who: Ernesto Moeller-Arnold
+      start: '00:37:56.049'
+      end: 
+      u: "[In Spanish] No hay de qué, señor."
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:04.173'
+      end: '00:00:04.173'
+      u: "[In English] München, September the 20th, 1946, in an UNRRA transient camp
+        in the Funkenkasernen [former armories of the German signal corps]. The interviewee
+        is Mr. Ernesto Moeller-Arnold, fifty-one years old, nacido en...[chuckle,
+        correction] born in Chile. I am beginning to mix the languages. Also...ah..."
+    - who: David Boder
+      start: '00:00:31.250'
+      end: '00:00:31.250'
+      u: "[in Spanish] Senor Moeller-Arnold, come, please, nearer so that...no [words
+        not clear]."
+    - who: Ernesto Moeller-Arnold
+      start: '00:00:42.907'
+      end: '00:00:42.907'
+      u: I am sitting quite comfortably...
+    - who: David Boder
+      start: '00:00:46.125'
+      end: '00:00:46.125'
+      u: I wish that you speak in a normal voice...
+    - who: Ernesto Moeller-Arnold
+      start: '00:00:48.625'
+      end: '00:00:48.625'
+      u: Yes.
+    - who: David Boder
+      start: '00:00:49.547'
+      end: '00:00:49.547'
+      u: ". . . since then the recording will come out better."
+    - who: Ernesto Moeller-Arnold
+      start: '00:00:52.344'
+      end: '00:00:52.344'
+      u: Yes.
+    - who: David Boder
+      start: '00:00:52.906'
+      end: '00:00:52.906'
+      u: Will you do us the favor of telling us again your name...what your name is,
+        how old you are, and where you were born?
+    - who: Ernesto Moeller-Arnold
+      start: '00:01:00.594'
+      end: '00:01:00.594'
+      u: My name is Ernesto Moeller-Arnold, and I was born in Santiago, Chile, in
+        the year nineteen hundred...[correction] 1894.
+    - who: David Boder
+      start: '00:01:15.390'
+      end: '00:01:15.390'
+      u: Now tell me then, where were you, Sr. Moeller-Arnold, when the war started?
+    - who: Ernesto Moeller-Arnold
+      start: '00:01:25.530'
+      end: '00:01:25.530'
+      u: At the start of the war I had a post as manager of [farm-] estates in Upper
+        Silesia. I was administering the estates which belonged to people who simultaneously
+        owned estates in Polish territory, Czechoslovak territory, and in German territory.
+        And in consequence it was very difficult to find a person to administer them
+        who would have the confidence of all, in all these countries.
+    - who: David Boder
+      start: '00:02:07.917'
+      end: '00:02:07.917'
+      u: Aha.
+    - who: Ernesto Moeller-Arnold
+      start: '00:02:08.636'
+      end: '00:02:08.636'
+      u: And I was such a person, as a Chilean, as a neutral person from a faraway
+        country.
+    - who: David Boder
+      start: '00:02:15.701'
+      end: '00:02:15.701'
+      u: Now, Sr. Moeller-Arnold, tell me, how did you get to Europe in the first
+        place? When?
+    - who: Ernesto Moeller-Arnold
+      start: '00:02:23.184'
+      end: '00:02:23.184'
+      u: When I came the first time to Europe, I came to Vienna to study in the famous
+        Hochschule der Bodenkultur [Institute of Agriculture], because I had decided
+        to study agronomy.
+    - who: David Boder
+      start: '00:02:39.433'
+      end: '00:02:39.433'
+      u: Yes? So then you remained in Europe from that...
+    - who: Ernesto Moeller-Arnold
+      start: '00:02:44.438'
+      end: '00:02:44.438'
+      u: No. I returned to Chile. I spent a considerable time in Chile, but during
+        the world crisis in '28 [onset of the depression] which happened in those
+        years, I did not have enough money to buy a good [farm-] estate, and since
+        I was offered a good position in Upper Silesia, where I know some local people
+        [whom I met] during my studies in Vienna, I accepted it.
+    - who: David Boder
+      start: '00:03:22.778'
+      end: '00:03:22.778'
+      u: Well...well now, who were the proprietors of that estate in Upper Silesia?
+    - who: Ernesto Moeller-Arnold
+      start: '00:03:31.965'
+      end: '00:03:31.965'
+      u: There were various [ones]. There was among others the mining company Shakoch
+        [?] in Gleiwitz, the mining company Godula in Katowice, the mining company
+        Henkel [?] Limited in London.
+    - who: David Boder
+      start: '00:03:53.589'
+      end: '00:03:53.589'
+      u: Now then...yes? How...Now were these farm-estates?
+    - who: Ernesto Moeller-Arnold
+      start: '00:03:58.667'
+      end: '00:03:58.667'
+      u: Those were estates which belonged to the companies, and which the companies
+        maintained to feed their workers, whom they had...
+    - who: David Boder
+      start: '00:04:09.166'
+      end: '00:04:09.166'
+      u: Oh, whom they had in their mines.
+    - who: Ernesto Moeller-Arnold
+      start: '00:04:10.447'
+      end: '00:04:10.447'
+      u: Yes.
+    - who: David Boder
+      start: '00:04:10.932'
+      end: '00:04:10.932'
+      u: Oh well. And so? You administered these estates. From what year?
+    - who: Ernesto Moeller-Arnold
+      start: '00:04:18.150'
+      end: '00:04:18.150'
+      u: From the year '29...'29, '30, '31, '32.
+    - who: David Boder
+      start: '00:04:28.884'
+      end: '00:04:28.884'
+      u: Good. And until what time?
+    - who: Ernesto Moeller-Arnold
+      start: '00:04:31.415'
+      end: '00:04:31.415'
+      u: To the last moment. Until January '45 when these estates were occupied by...by
+        the Russian army.
+    - who: David Boder
+      start: '00:04:42.821'
+      end: '00:04:42.821'
+      u: Aha. Well, now tell me, sir, where were you when the war started?
+    - who: Ernesto Moeller-Arnold
+      start: '00:04:48.727'
+      end: '00:04:48.727'
+      u: I was in Upper Silesia, exactly there where I worked.
+    - who: David Boder
+      start: '00:04:53.461'
+      end: '00:04:53.461'
+      u: Yes. And what happened to you during the war?
+    - who: Ernesto Moeller-Arnold
+      start: '00:04:58.789'
+      end: '00:04:58.789'
+      u: During the war not much happened to me. I had plenty of difficulties with
+        the German authorities, above all with the military authorities.
+    - who: David Boder
+      start: '00:05:12.370'
+      end: '00:05:12.370'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:05:13.307'
+      end: '00:05:13.307'
+      u: The difficulties on account of the war were very great, because it came to
+        a great need for food for the people. And for that reason, at the beginning,
+        I was left in peace [unmolested].
+    - who: David Boder
+      start: '00:05:26.915'
+      end: '00:05:26.915'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:05:27.743'
+      end: '00:05:27.743'
+      u: But because I also endeavored to protect persecuted individuals, and because,
+        above all, I endeavored to feed as well as possible the workers who were brought
+        over as foreign prisoners, and to guarantee them better rations, I had sufficient
+        difficulties with the types [kinds of people] who ruled in those times.
+    - who: David Boder
+      start: '00:05:59.569'
+      end: '00:05:59.569'
+      u: Aha. Well tell me, in order to work at your estates, at the estates in your
+        charge, foreign workers were brought in?
+    - who: Ernesto Moeller-Arnold
+      start: '00:06:10.709'
+      end: '00:06:10.709'
+      u: No, no. The foreign workers worked in the mines.
+    - who: David Boder
+      start: '00:06:14.876'
+      end: '00:06:14.876'
+      u: Aha.
+    - who: Ernesto Moeller-Arnold
+      start: '00:06:15.345'
+      end: '00:06:15.345'
+      u: And I had...
+    - who: David Boder
+      start: '00:06:16.407'
+      end: '00:06:16.407'
+      u: Oh, you...
+    - who: Ernesto Moeller-Arnold
+      start: '00:06:17.688'
+      end: '00:06:17.688'
+      u: ". . . to take charge..."
+    - who: David Boder
+      start: '00:06:19.657'
+      end: '00:06:19.657'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:06:20.532'
+      end: '00:06:20.532'
+      u: ". . . of feeding them. Not directly, but to supply them with the provisions
+        needed for the kitchens of for the canteens which fed them."
+    - who: David Boder
+      start: '00:06:35.203'
+      end: '00:06:35.203'
+      u: Now how did they live? In lagers, in barracks? How did they live?
+    - who: Ernesto Moeller-Arnold
+      start: '00:06:39.234'
+      end: '00:06:39.234'
+      u: It was different. Part of them lived in barracks and in lagers [? sounds
+        like lavas], and part of them lived...lived privately.
+    - who: David Boder
+      start: '00:06:53.624'
+      end: '00:06:53.624'
+      u: ". . . were billeted in private homes? Now tell me, sir, what kind of people
+        did you have...did they have to work in the mines? Of what nationality, of
+        what religion?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:07:09.888'
+      end: '00:07:09.888'
+      u: Oh, they had people of nearly all nationalities. They had English prisoners.
+        They had people of all countries, but mostly there were Ukranians which they
+        had brought from Russia.
+    - who: David Boder
+      start: '00:07:26.512'
+      end: '00:07:26.512'
+      u: Ukranian people. Women, too?
+    - who: Ernesto Moeller-Arnold
+      start: '00:07:31.246'
+      end: '00:07:31.246'
+      u: Women, no. I have not seen women at that time in the mines...
+    - who: David Boder
+      start: '00:07:36.198'
+      end: '00:07:36.198'
+      u: Aha.
+    - who: Ernesto Moeller-Arnold
+      start: '00:07:36.917'
+      end: '00:07:36.917'
+      u: ". . . there."
+    - who: David Boder
+      start: '00:07:38.074'
+      end: '00:07:38.074'
+      u: Well, and indirectly you had the responsibility for their feeding. And who
+        worked in the fields of your estate?
+    - who: Ernesto Moeller-Arnold
+      start: '00:07:47.401'
+      end: '00:07:47.401'
+      u: In the fields worked...the remainder, mostly the workers who worked before.
+        They also worked in the time of war, because the major part of [field] workers
+        in Upper Silesia are the women. The men are [working] in the mines, and the
+        women work on the estates. So it was for a long time before the war.
+    - who: David Boder
+      start: '00:08:12.727'
+      end: '00:08:12.727'
+      u: And that was a tradition. Good. And then when the Russian army arrived, then
+        what happened?
+    - who: Ernesto Moeller-Arnold
+      start: '00:08:22.914'
+      end: '00:08:22.914'
+      u: Yes. When the Russian army arrived, all of us who lived there were evacuated
+        by the Germans. We were ordered to Thruingia.
+    - who: David Boder
+      start: '00:08:34.960'
+      end: '00:08:34.960'
+      u: Yes. And where did you live in Thuringia? In...
+    - who: Ernesto Moeller-Arnold
+      start: '00:08:40.350'
+      end: '00:08:40.350'
+      u: I was located with my family in Thuringia. I was thrown there in a village
+        into very bad quarters, but since I intended to negotiate with the Russians
+        about continuing my work also with them, I returned to Silensia.
+    - who: David Boder
+      start: '00:08:57.771'
+      end: '00:08:57.771'
+      u: Yes. And what happened then?
+    - who: Ernesto Moeller-Arnold
+      start: '00:09:01.380'
+      end: '00:09:01.380'
+      u: I found all the estates more or less devastated and destroyed. Moreover,
+        all the machinery was taken away, all the horses.
+    - who: David Boder
+      start: '00:09:14.301'
+      end: '00:09:14.301'
+      u: Hm.
+    - who: Ernesto Moeller-Arnold
+      start: '00:09:15.098'
+      end: '00:09:15.098'
+      u: And the estates proper were confiscated by the Polish authorities.
+    - who: David Boder
+      start: '00:09:21.129'
+      end: '00:09:21.129'
+      u: Aha. They were confiscated in order to distribute them among the people as
+        homesteads?
+    - who: Ernesto Moeller-Arnold
+      start: '00:09:28.113'
+      end: '00:09:28.113'
+      u: Yes. They said that they wanted to distribute them, but I wanted somehow
+        to negotiate the continuation of my work and met with very pleasant cooperation
+        of the part of the Poles. I cannot complain about them. But since there were
+        no means [facilities] whatsoever to work with, it was not possible to do anything.
+        And to sit there only as a chief without doing any real work, I did not want
+        to continue. To do that was just a farce.
+    - who: David Boder
+      start: '00:10:04.314'
+      end: '00:10:04.314'
+      u: Where is your family now, don Ernesto?
+    - who: Ernesto Moeller-Arnold
+      start: '00:10:06.689'
+      end: '00:10:06.689'
+      u: My family, too, is here in the camp with me.
+    - who: David Boder
+      start: '00:10:10.548'
+      end: '00:10:10.548'
+      u: An UNRRA camp here. Well. Now tell me, how...when did you leave those estates,
+        [and] the Russians?
+    - who: Ernesto Moeller-Arnold
+      start: '00:10:18.923'
+      end: '00:10:18.923'
+      u: The Russians told me frankly and clearly that I as a foreigner of an American
+        [Chilean] nationality have nothing to do there but to return to my native
+        country.
+    - who: David Boder
+      start: '00:10:37.062'
+      end: '00:10:37.062'
+      u: Good.
+    - who: Ernesto Moeller-Arnold
+      start: '00:10:37.812'
+      end: '00:10:37.812'
+      u: And...
+    - who: David Boder
+      start: '00:10:38.796'
+      end: '00:10:38.796'
+      u: "[Words not clear.]"
+    - who: Ernesto Moeller-Arnold
+      start: '00:10:39.921'
+      end: '00:10:39.921'
+      u: They attempted at first to ship me home via Odessa, like so many other foreigners,
+        French and Belgians, with whom I was together.
+    - who: David Boder
+      start: '00:10:49.888'
+      end: '00:10:49.888'
+      u: Yes. How come you say you were together? Were you placed in a lager?
+    - who: Ernesto Moeller-Arnold
+      start: '00:10:54.854'
+      end: '00:10:54.854'
+      u: No. I just lived ther. The Belgians and the French were...they had been locked
+        up there in camps, but I for the short time was not in a camp. They endeavored
+        to persuade me to go there to a camp. But since they told me that they intended
+        to repatriate me via Odessa, that appeared to me a bit strange, and I took
+        to the road at first on my own...
+    - who: David Boder
+      start: '00:11:25.617'
+      end: '00:11:25.617'
+      u: Hm.
+    - who: Ernesto Moeller-Arnold
+      start: '00:11:26.148'
+      end: '00:11:26.148'
+      u: ". . . with some Belgians who too had no faith in the repatriation through
+        Odessa."
+    - who: David Boder
+      start: '00:11:31.897'
+      end: '00:11:31.897'
+      u: Well. Your family was already in Thuringia, so that you were alone and had
+        not much difficulty in marching through?
+    - who: Ernesto Moeller-Arnold
+      start: '00:11:37.634'
+      end: '00:11:37.634'
+      u: No.
+    - who: David Boder
+      start: '00:11:38.118'
+      end: '00:11:38.118'
+      u: Now then, how did you get out of there?
+    - who: Ernesto Moeller-Arnold
+      start: '00:11:41.274'
+      end: '00:11:41.274'
+      u: I left with some Belgian prisoners.
+    - who: David Boder
+      start: '00:11:46.032'
+      end: '00:11:46.032'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:11:46.751'
+      end: '00:11:46.751'
+      u: We marched together.
+    - who: David Boder
+      start: '00:11:49.090'
+      end: '00:11:49.090'
+      u: Illegally.
+    - who: Ernesto Moeller-Arnold
+      start: '00:11:50.214'
+      end: '00:11:50.214'
+      u: Illegally, but we had no great difficulty. Even the Russians helped me...
+    - who: David Boder
+      start: '00:11:56.276'
+      end: '00:11:56.276'
+      u: Hm.
+    - who: Ernesto Moeller-Arnold
+      start: '00:11:56.589'
+      end: '00:11:56.589'
+      u: ". . . from time to time, and I marched with them [the Belgians] as far as
+        Thuringia."
+    - who: David Boder
+      start: '00:12:02.433'
+      end: '00:12:02.433'
+      u: Aha. Now how long did you march in this manner through Polish or Russian
+        territory?
+    - who: Ernesto Moeller-Arnold
+      start: '00:12:12.339'
+      end: '00:12:12.339'
+      u: I do not remember well. It took at least, from Upper Silesia as far...as
+        far...as far...where should I say?...as far as Wurzen in Saxony...
+    - who: David Boder
+      start: '00:12:26.276'
+      end: '00:12:26.276'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:12:27.026'
+      end: '00:12:27.026'
+      u: ". . . it took me about three weeks, more or less."
+    - who: David Boder
+      start: '00:12:29.698'
+      end: '00:12:29.698'
+      u: Aha. Oh...
+    - who: Ernesto Moeller-Arnold
+      start: '00:12:30.932'
+      end: '00:12:30.932'
+      u: And at times by bus, at times on foot, at times...
+    - who: David Boder
+      start: '00:12:35.447'
+      end: '00:12:35.447'
+      u: By...by...
+    - who: Ernesto Moeller-Arnold
+      start: '00:12:37.494'
+      end: '00:12:37.494'
+      u: ". . . by train, in freight cars."
+    - who: David Boder
+      start: '00:12:40.619'
+      end: '00:12:40.619'
+      u: Did you have any money?
+    - who: Ernesto Moeller-Arnold
+      start: '00:12:43.400'
+      end: '00:12:43.400'
+      u: No. The money was taken away from me en route by soldiers who were pillaging.
+    - who: David Boder
+      start: '00:12:51.415'
+      end: '00:12:51.415'
+      u: How? Did they search you?
+    - who: Ernesto Moeller-Arnold
+      start: '00:12:56.133'
+      end: '00:12:56.133'
+      u: Yes. There were always soldiers who were doing there business on their own.
+    - who: David Boder
+      start: '00:13:01.914'
+      end: '00:13:01.914'
+      u: Hm.
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:02.508'
+      end: '00:13:02.508'
+      u: Of all nations, that there were.
+    - who: David Boder
+      start: '00:13:04.383'
+      end: '00:13:04.383'
+      u: Soldiers of all nations.
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:05.711'
+      end: '00:13:05.711'
+      u: But these, regretfully, were Russians. [Both laugh.]
+    - who: David Boder
+      start: '00:13:08.804'
+      end: '00:13:08.804'
+      u: Aha. Well.
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:11.397'
+      end: '00:13:11.397'
+      u: They were Russian friends [chuckle].
+    - who: David Boder
+      start: '00:13:13.662'
+      end: '00:13:13.662'
+      u: And so you reached Thuringia? And how did you get here, from Thuringia to
+        this place?
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:21.898'
+      end: '00:13:21.898'
+      u: In Thuringia the Russian authorities declared again on their part that we
+        had to leave their zone.
+    - who: David Boder
+      start: '00:13:31.146'
+      end: '00:13:31.146'
+      u: Hm.
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:31.849'
+      end: '00:13:31.849'
+      u: And I assembled my family and entered a Russian [DP] camp, and I was transported
+        by the Russians to the Amer-...American Zone and handed over by the Russians
+        themselves to the American UNRRA.
+    - who: David Boder
+      start: '00:13:46.348'
+      end: '00:13:46.348'
+      u: Oh. From the Russian camp. Well. And the UNRRA brought you here.
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:52.223'
+      end: '00:13:52.223'
+      u: And the UNRRA sent me here.
+    - who: David Boder
+      start: '00:13:53.785'
+      end: '00:13:53.785'
+      u: And Thuringia? Is that in the Russian Zone?
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:56.707'
+      end: '00:13:56.707'
+      u: Thuringia is in the Russian Zone.
+    - who: David Boder
+      start: '00:13:59.300'
+      end: '00:13:59.300'
+      u: Aha.
+    - who: Ernesto Moeller-Arnold
+      start: '00:13:59.987'
+      end: '00:13:59.987'
+      u: At the start it was an American region, but from the beginning of July, 1945
+        it has been a Russian region.
+    - who: David Boder
+      start: '00:14:07.565'
+      end: '00:14:07.565'
+      u: Russian. And so you were sent over here. Well, now how much time have you
+        already been here?
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:12.393'
+      end: '00:14:12.393'
+      u: I? Nearly a year.
+    - who: David Boder
+      start: '00:14:13.956'
+      end: '00:14:13.956'
+      u: And why does it take you so much time?
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:16.221'
+      end: '00:14:16.221'
+      u: Because up to now they did not permit a single South American to leave officially.
+        Only those people could leave who left on the black [illegally]. And a father
+        of a family cannot travel on the black.
+    - who: David Boder
+      start: '00:14:34.395'
+      end: '00:14:34.395'
+      u: Oh. By black is meant the illegal route.
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:39.628'
+      end: '00:14:39.628'
+      u: Yes.
+    - who: David Boder
+      start: '00:14:40.128'
+      end: '00:14:40.128'
+      u: Well. How many people are in your family?
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:44.503'
+      end: '00:14:44.503'
+      u: I have five children, all minors.
+    - who: David Boder
+      start: '00:14:47.738'
+      end: '00:14:47.738'
+      u: And your wife?
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:48.956'
+      end: '00:14:48.956'
+      u: And my wife. Yes.
+    - who: David Boder
+      start: '00:14:50.924'
+      end: '00:14:50.924'
+      u: And your wife is a Chilean?
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:52.330'
+      end: '00:14:52.330'
+      u: Of Danish descent.
+    - who: David Boder
+      start: '00:14:55.127'
+      end: '00:14:55.127'
+      u: What?
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:56.096'
+      end: '00:14:56.096'
+      u: Danish.
+    - who: David Boder
+      start: '00:14:56.815'
+      end: '00:14:56.815'
+      u: Danish. Did you get married here in Europe?
+    - who: Ernesto Moeller-Arnold
+      start: '00:14:59.440'
+      end: '00:14:59.440'
+      u: Yes. I married in Europe.
+    - who: David Boder
+      start: '00:15:00.815'
+      end: '00:15:00.815'
+      u: Oh. Well. Tell me, you are going not to Chile? Who pays your...your transportation?
+    - who: Ernesto Moeller-Arnold
+      start: '00:15:15.439'
+      end: '00:15:15.439'
+      u: I could...could have paid for it at least twenty-fold with the money that
+        I had at my disposal. But since part of it was lost, and the other part is
+        worth nothing...
+    - who: David Boder
+      start: '00:15:31.282'
+      end: '00:15:31.282'
+      u: What kind of money is it?
+    - who: Ernesto Moeller-Arnold
+      start: '00:15:32.579'
+      end: '00:15:32.579'
+      u: It is German money, because all other money was confiscated by the Germans...by
+        the Germans, [the funds] that I still had in South America, and only...
+    - who: David Boder
+      start: '00:15:41.501'
+      end: '00:15:41.501'
+      u: "[With suprise] Money that you had in South America..."
+    - who: Ernesto Moeller-Arnold
+      start: '00:15:47.078'
+      end: '00:15:47.078'
+      u: South America.
+    - who: David Boder
+      start: '00:15:47.609'
+      end: '00:15:47.609'
+      u: ". . . was confiscated?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:15:48.453'
+      end: '00:15:48.453'
+      u: Yes.
+    - who: David Boder
+      start: '00:15:48.797'
+      end: '00:15:48.797'
+      u: How did they do that?
+    - who: Ernesto Moeller-Arnold
+      start: '00:15:49.610'
+      end: '00:15:49.610'
+      u: It was confiscated by the German currency control [surrender of foreign deposits].
+    - who: David Boder
+      start: '00:15:51.781'
+      end: '00:15:51.781'
+      u: Now wait. You had Amer-...money in Chile.
+    - who: Ernesto Moeller-Arnold
+      start: '00:15:56.780'
+      end: '00:15:56.780'
+      u: I had money in Chile.
+    - who: David Boder
+      start: '00:15:58.764'
+      end: '00:15:58.764'
+      u: What could the Germans have to say over your money in Chile?
+    - who: Ernesto Moeller-Arnold
+      start: '00:16:02.951'
+      end: '00:16:02.951'
+      u: Yes. They demanded a declaration about money kept abroad—under oath.
+    - who: David Boder
+      start: '00:16:09.747'
+      end: '00:16:09.747'
+      u: And this money...
+    - who: Ernesto Moeller-Arnold
+      start: '00:16:10.184'
+      end: '00:16:10.184'
+      u: For this they offered in exchang...
+    - who: David Boder
+      start: '00:16:16.231'
+      end: '00:16:16.231'
+      u: Marks?
+    - who: Ernesto Moeller-Arnold
+      start: '00:16:16.856'
+      end: '00:16:16.856'
+      u: ". . . marks, and they took it away."
+    - who: David Boder
+      start: '00:16:19.340'
+      end: '00:16:19.340'
+      u: Well. But you were a Chilean citizen.
+    - who: Ernesto Moeller-Arnold
+      start: '00:16:22.293'
+      end: '00:16:22.293'
+      u: Yes, but that meant nothing.
+    - who: David Boder
+      start: '00:16:23.699'
+      end: '00:16:23.699'
+      u: The consul could not protect you in any way?
+    - who: Ernesto Moeller-Arnold
+      start: '00:16:27.059'
+      end: '00:16:27.059'
+      u: No. He could not protect me, because everybody who belonged...found himself
+        here in Ger-...German territory was subject to the German laws, as I was notified,
+        and I could not avoid it.
+    - who: David Boder
+      start: '00:16:44.948'
+      end: '00:16:44.948'
+      u: But look here. It seems that Chile was in the war on the side of the Allies,
+        no?
+    - who: Ernesto Moeller-Arnold
+      start: '00:16:50.385'
+      end: '00:16:50.385'
+      u: Yes, but it declared war the twelfth of April, '45 [this appears at least
+        approximately correct].
+    - who: David Boder
+      start: '00:16:59.525'
+      end: '00:16:59.525'
+      u: Oh. That late? [Both laugh heartily.] Consequently before that they could
+        get your power of attorney and take your money.
+    - who: Ernesto Moeller-Arnold
+      start: '00:17:10.337'
+      end: '00:17:10.337'
+      u: No. From 1943 the diplomatic relations were...
+    - who: David Boder
+      start: '00:17:16.524'
+      end: '00:17:16.524'
+      u: Interrupted.
+    - who: Ernesto Moeller-Arnold
+      start: '00:17:17.789'
+      end: '00:17:17.789'
+      u: ". . . were interrupted."
+    - who: David Boder
+      start: '00:17:19.461'
+      end: '00:17:19.461'
+      u: Now how can you say that they got hold of your money?
+    - who: Ernesto Moeller-Arnold
+      start: '00:17:21.601'
+      end: '00:17:21.601'
+      u: But...Of my money? That they got hold of still before.
+    - who: David Boder
+      start: '00:17:28.710'
+      end: '00:17:28.710'
+      u: Before.
+    - who: Ernesto Moeller-Arnold
+      start: '00:17:29.429'
+      end: '00:17:29.429'
+      u: Yes.
+    - who: David Boder
+      start: '00:17:29.850'
+      end: '00:17:29.850'
+      u: Well, does the UNRRA supply passage for people?
+    - who: Ernesto Moeller-Arnold
+      start: '00:17:37.693'
+      end: '00:17:37.693'
+      u: No. I don't think that the UNRRA will supply the passage for us. We figure
+        that our government will help us.
+    - who: David Boder
+      start: '00:17:45.130'
+      end: '00:17:45.130'
+      u: Well, have you heard already anything from your government?
+    - who: Ernesto Moeller-Arnold
+      start: '00:17:48.645'
+      end: '00:17:48.645'
+      u: No. I know very little, because up to now it was very difficult to establish
+        communication with the government.
+    - who: David Boder
+      start: '00:17:54.004'
+      end: '00:17:54.004'
+      u: Don't you have a Chilean consulate in Germany?
+    - who: Ernesto Moeller-Arnold
+      start: '00:17:57.332'
+      end: '00:17:57.332'
+      u: There is no Chilean consulate in Germany yet.
+    - who: David Boder
+      start: '00:17:59.832'
+      end: '00:17:59.832'
+      u: Now then, the nearest consulate is where?
+    - who: Ernesto Moeller-Arnold
+      start: '00:18:01.942'
+      end: '00:18:01.942'
+      u: The nearest consulate...consulates are in Zurich and in Paris.
+    - who: David Boder
+      start: '00:18:08.454'
+      end: '00:18:08.454'
+      u: In Paris. And what? Do they have a kind of representative who came to see
+        you here?
+    - who: Ernesto Moeller-Arnold
+      start: '00:18:13.360'
+      end: '00:18:13.360'
+      u: No, up to this time—nobody.
+    - who: David Boder
+      start: '00:18:14.876'
+      end: '00:18:14.876'
+      u: And how many Chileans are there in this camp?
+    - who: Ernesto Moeller-Arnold
+      start: '00:18:17.501'
+      end: '00:18:17.501'
+      u: In this camp there are seventy-six Chileans.
+    - who: David Boder
+      start: '00:18:21.188'
+      end: '00:18:21.188'
+      u: "[Suprised] Seventy-six Chileans?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:18:23.282'
+      end: '00:18:23.282'
+      u: Yes.
+    - who: David Boder
+      start: '00:18:23.907'
+      end: '00:18:23.907'
+      u: That is rather a large number.
+    - who: Ernesto Moeller-Arnold
+      start: '00:18:28.422'
+      end: '00:18:28.422'
+      u: Yes, because there are assembled here almost all [Chileans] from the American
+        Zone.
+    - who: David Boder
+      start: '00:18:32.687'
+      end: '00:18:32.687'
+      u: Now tell me something else. Since you were a person relatively free in Germany
+        during the war, how do you appraise the whole situation? You knew Germans.
+        You had German friends or [the like].
+    - who: Ernesto Moeller-Arnold
+      start: '00:18:50.764'
+      end: '00:18:50.764'
+      u: Yes.
+    - who: David Boder
+      start: '00:18:51.295'
+      end: '00:18:51.295'
+      u: What was their opinion, their attitude so to speak, to all that which took
+        place in Germany during the war?
+    - who: Ernesto Moeller-Arnold
+      start: '00:19:05.592'
+      end: '00:19:05.592'
+      u: Yes. I know the situation as it was understood in Upper Silesia, because
+        I was in Upper Silesia.
+    - who: David Boder
+      start: '00:19:16.966'
+      end: '00:19:16.966'
+      u: Well.
+    - who: Ernesto Moeller-Arnold
+      start: '00:19:17.966'
+      end: '00:19:17.966'
+      u: In Upper Silesia...
+    - who: David Boder
+      start: '00:19:18.591'
+      end: '00:19:18.591'
+      u: Upper Silesia is somewhat Polish.
+    - who: Ernesto Moeller-Arnold
+      start: '00:19:20.450'
+      end: '00:19:20.450'
+      u: Yes, Upper Silesia is something per se.
+    - who: David Boder
+      start: '00:19:25.403'
+      end: '00:19:25.403'
+      u: Yes, well. Tell me.
+    - who: Ernesto Moeller-Arnold
+      start: '00:19:26.778'
+      end: '00:19:26.778'
+      u: It cannot be considered as representative, let us say, of the total German
+        mentality, because, let us say, they talk among themselves...they talk Polish.
+    - who: David Boder
+      start: '00:19:39.700'
+      end: '00:19:39.700'
+      u: Hm.
+    - who: Ernesto Moeller-Arnold
+      start: '00:19:40.638'
+      end: '00:19:40.638'
+      u: And among them, of course, a great part of them were not very eager to participate
+        in the war, and were hostile towards everything that was going on, towards
+        all politics, and justifiably so, because they considered themselves in fact
+        [?] Poles.
+    - who: David Boder
+      start: '00:20:10.950'
+      end: '00:20:10.950'
+      u: Aha. Well, there was a group which considered themselves Reichsdeutsch [possible
+        wanted to say Volksdeutsch], or something of the kind.
+    - who: Ernesto Moeller-Arnold
+      start: '00:20:16.965'
+      end: '00:20:16.965'
+      u: Yes. Those were not many. The people who came there, first of all the engineers
+        of the mines, had come from Westphalia. These were Catholic people who, too,
+        were in a certain...certain opposition, since Upper Silesia is indeed a very
+        Catholic country.
+    - who: David Boder
+      start: '00:20:44.854'
+      end: '00:20:44.854'
+      u: Hm. And then...
+    - who: Ernesto Moeller-Arnold
+      start: '00:20:47.229'
+      end: '00:20:47.229'
+      u: They never wanted...did not want to work with the Prussians who were not
+        Catholics.
+    - who: David Boder
+      start: '00:20:55.385'
+      end: '00:20:55.385'
+      u: Aha.
+    - who: Ernesto Moeller-Arnold
+      start: '00:20:47.229'
+      end: '00:20:47.229'
+      u: And they preferred to associate [?] with people from Westphalia. And since
+        the people from Westphalia are mining people as well, that appeared very appropriate.
+    - who: David Boder
+      start: '00:21:06.170'
+      end: '00:21:06.170'
+      u: Now tell me, sir, you know the situation in which the Jewish people found
+        themselves. Now you as a person from the side, as an observer...
+    - who: Ernesto Moeller-Arnold
+      start: '00:21:21.018'
+      end: '00:21:21.018'
+      u: Well.
+    - who: David Boder
+      start: '00:21:21.487'
+      end: '00:21:21.487'
+      u: ". . . what do you know about the situation, and how do you appraise it?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:21:25.105'
+      end: '00:21:25.105'
+      u: Yes. The...
+    - who: David Boder
+      start: '00:21:26.120'
+      end: '00:21:26.120'
+      u: Frankly.
+    - who: Ernesto Moeller-Arnold
+      start: '00:21:27.011'
+      end: '00:21:27.011'
+      u: |-
+        The situation of the Jewish people was terrible. We had not far from there the lager
+                                Auschwitz.
+    - who: David Boder
+      start: '00:21:36.135'
+      end: '00:21:36.135'
+      u: Aha.
+    - who: Ernesto Moeller-Arnold
+      start: '00:21:36.947'
+      end: '00:21:36.947'
+      u: Never did anything come out from there, anything about what happened there.
+        It was indeed well isolated.
+    - who: David Boder
+      start: '00:21:43.509'
+      end: '00:21:43.509'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:21:44.322'
+      end: '00:21:44.322'
+      u: But still it came out from there that the people are being treated very badly,
+        and they suffered a great deal, those poor people who were transported there,
+        and whom we saw being transported. We did not see much, because these transports
+        passed either by night or by roads that one could not observe.
+    - who: David Boder
+      start: '00:22:11.269'
+      end: '00:22:11.269'
+      u: Hm.
+    - who: Ernesto Moeller-Arnold
+      start: '00:22:12.238'
+      end: '00:22:12.238'
+      u: There were only rumors [?] about them, and one did not know whether they
+        were true or were exaggerated, but we knew enough that they suffered.
+    - who: David Boder
+      start: '00:22:22.800'
+      end: '00:22:22.800'
+      u: Well. Near to Auschwitz was Birkenau. Well. Go on.
+    - who: Ernesto Moeller-Arnold
+      start: '00:22:22.800'
+      end: '00:22:22.800'
+      u: Yes, Birkenau was not far from there.
+    - who: David Boder
+      start: '00:22:29.987'
+      end: '00:22:29.987'
+      u: Well.
+    - who: Ernesto Moeller-Arnold
+      start: '00:22:30.597'
+      end: '00:22:30.597'
+      u: Yes.
+    - who: David Boder
+      start: '00:22:31.128'
+      end: '00:22:31.128'
+      u: It is said that in Birkenau were located the crematories, and that there
+        people were led through gas chambers and all that. Was it known by the people
+        around there? Was it known that such things were done in Birkenau?
+    - who: Ernesto Moeller-Arnold
+      start: '00:22:50.471'
+      end: '00:22:50.471'
+      u: No. In our region where I worked...It was more or less, let us say fifty
+        kilometers from...from Auschwitz.
+    - who: David Boder
+      start: '00:23:05.720'
+      end: '00:23:05.720'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:23:06.423'
+      end: '00:23:06.423'
+      u: And there [in our region], frankly, nothing was known about those gas chambers
+        and those crematories. It only was known that a lot of people went there,
+        and where they remained—nothing was exactly known.
+    - who: David Boder
+      start: '00:23:19.953'
+      end: '00:23:19.953'
+      u: Well, were there no people...
+    - who: Ernesto Moeller-Arnold
+      start: '00:23:23.015'
+      end: '00:23:23.015'
+      u: We only knew that the people who worked...There were also Jews among the
+        people who worked there on the roads.
+    - who: David Boder
+      start: '00:23:33.699'
+      end: '00:23:33.699'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:23:34.761'
+      end: '00:23:34.761'
+      u: And that these were treated very badly. This we know, because this we saw.
+        This was possible to observe, while about all the other [things] one only
+        heard now and then a rumor, and nothing else.
+    - who: David Boder
+      start: '00:23:50.744'
+      end: '00:23:50.744'
+      u: Hm. Well, were there no Germans, Poles who worked in Auschwitz who had...who
+        were there as soldiers, and when they returned did they not report anything
+        about that?
+    - who: Ernesto Moeller-Arnold
+      start: '00:24:04.712'
+      end: '00:24:04.712'
+      u: No. In our parts we did not meet such soldiers. Well, I don't kow whether
+        they were impeded in establishing contact with the rest...
+    - who: David Boder
+      start: '00:24:17.770'
+      end: '00:24:17.770'
+      u: "[Words not clear.]"
+    - who: Ernesto Moeller-Arnold
+      start: '00:24:19.504'
+      end: '00:24:19.504'
+      u: ". . . of the world. How that was done—I do not remember these things. I
+        know only that it was said that people have been taken there, and what I personally
+        have seen is that they were people who have suffered much under conditions
+        of monstrous work, on the roads..."
+    - who: David Boder
+      start: '00:24:39.754'
+      end: '00:24:39.754'
+      u: "[Words not clear.]"
+    - who: Ernesto Moeller-Arnold
+      start: '00:24:41.020'
+      end: '00:24:41.020'
+      u: ". . . on a road, precisely on a railroad, where I could observe it."
+    - who: David Boder
+      start: '00:24:47.942'
+      end: '00:24:47.942'
+      u: Could you describe a bit what I...[correction] you have seen?
+    - who: Ernesto Moeller-Arnold
+      start: '00:24:52.582'
+      end: '00:24:52.582'
+      u: Yes. I saw that the people worked in...with...[were] nourished very badly,
+        and...that...what...most of all it could be observed...and they were [ditch]
+        diggers, that they were treated rather badly.
+    - who: David Boder
+      start: '00:25:16.331'
+      end: '00:25:16.331'
+      u: Diggers? Were they physically mistreated?
+    - who: Ernesto Moeller-Arnold
+      start: '00:25:20.519'
+      end: '00:25:20.519'
+      u: Yes. This too could be observed. One saw it happen from time to time, not
+        often, but from time to time one observed that they were mistreated.
+    - who: David Boder
+      start: '00:25:30.628'
+      end: '00:25:30.628'
+      u: Well. You...
+    - who: Ernesto Moeller-Arnold
+      start: '00:25:32.722'
+      end: '00:25:32.722'
+      u: It was enough, for a person with human sentiment, for him, it was enough.
+    - who: David Boder
+      start: '00:25:39.456'
+      end: '00:25:39.456'
+      u: Hm. Was enough. You were near Katowice, Sosnowiec?
+    - who: Ernesto Moeller-Arnold
+      start: '00:25:43.471'
+      end: '00:25:43.471'
+      u: Let us say between Katowice and Gleiwitz.
+    - who: David Boder
+      start: '00:25:47.909'
+      end: '00:25:47.909'
+      u: |-
+        Near [?] Katowice and Gleiwitz. There is where you were approximately. Well. Did you know that in the cities like Katowice or Sosnowiec
+                                ghettos were built?
+    - who: Ernesto Moeller-Arnold
+      start: '00:26:00.924'
+      end: '00:26:00.924'
+      u: In Katowice I don't know whether there was a ghetto. There was no ghetto.in
+        Katowice. I believe they were taken...
+    - who: David Boder
+      start: '00:26:10.393'
+      end: '00:26:10.393'
+      u: Were taken to another...another place?
+    - who: Ernesto Moeller-Arnold
+      start: '00:26:11.643'
+      end: '00:26:11.643'
+      u: Another place. Yes.
+    - who: David Boder
+      start: '00:26:12.768'
+      end: '00:26:12.768'
+      u: Yes. And Katowice was made—what was it called?—Judenrein [literally, "clean
+        of Jews"].
+    - who: Ernesto Moeller-Arnold
+      start: '00:26:17.252'
+      end: '00:26:17.252'
+      u: Yes.
+    - who: David Boder
+      start: '00:26:17.674'
+      end: '00:26:17.674'
+      u: Yes. And there were no Jews.
+    - who: Ernesto Moeller-Arnold
+      start: '00:26:21.549'
+      end: '00:26:21.549'
+      u: There were no Jews since the advent of Hitler.
+    - who: David Boder
+      start: '00:26:24.955'
+      end: '00:26:24.955'
+      u: Well, [about] the other Chileans that you have here. What kind of people
+        are they? How did they get here?
+    - who: Ernesto Moeller-Arnold
+      start: '00:26:34.799'
+      end: '00:26:34.799'
+      u: They vary a great deal. There are among them people who had come for medical
+        treatment. For example, one...
+    - who: David Boder
+      start: '00:26:41.985'
+      end: '00:26:41.985'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:26:42.516'
+      end: '00:26:42.516'
+      u: ". . . who had a terrible disease of his eyes..."
+    - who: David Boder
+      start: '00:26:48.580'
+      end: '00:26:48.580'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:26:49.002'
+      end: '00:26:49.002'
+      u: Many were here to study [go to school], because it was customary to send
+        their sons, their children to Europe...
+    - who: David Boder
+      start: '00:26:58.970'
+      end: '00:26:58.970'
+      u: From Chile?
+    - who: Ernesto Moeller-Arnold
+      start: '00:26:59.907'
+      end: '00:26:59.907'
+      u: ". . . from Chile. For a time, at least for some time. Not for all the time,
+        but for some two, three years, to Europe. And others have come here to visit
+        their parents."
+    - who: David Boder
+      start: '00:27:10.656'
+      end: '00:27:10.656'
+      u: Aha. They were...
+    - who: Ernesto Moeller-Arnold
+      start: '00:27:12.797'
+      end: '00:27:12.797'
+      u: They had here parents...parents..
+    - who: David Boder
+      start: '00:27:14.953'
+      end: '00:27:14.953'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:27:15.610'
+      end: '00:27:15.610'
+      u: ". . . or grandparents whom they desired to visit, here or in Austria."
+    - who: David Boder
+      start: '00:27:20.153'
+      end: '00:27:20.153'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:27:20.934'
+      end: '00:27:20.934'
+      u: And in central Europe.
+    - who: David Boder
+      start: '00:27:22.688'
+      end: '00:27:22.688'
+      u: Hm.
+    - who: Ernesto Moeller-Arnold
+      start: '00:27:24.016'
+      end: '00:27:24.016'
+      u: There were still some who were here on their own business...
+    - who: David Boder
+      start: '00:27:29.575'
+      end: '00:27:29.575'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:27:30.169'
+      end: '00:27:30.169'
+      u: ". . . for instance, working, perfecting themselves as engineers and similar
+        things, in order to employ what they have learned in their own country."
+    - who: David Boder
+      start: '00:27:40.999'
+      end: '00:27:40.999'
+      u: And how? Were they forced to enter the army? Were they dragged into service?
+    - who: Ernesto Moeller-Arnold
+      start: '00:27:44.755'
+      end: '00:27:44.755'
+      u: Some of them. Some...some of them, some young people among them, were certainly
+        forced to join the army, although some of them could avoid it.
+    - who: David Boder
+      start: '00:27:57.598'
+      end: '00:27:57.598'
+      u: Aha.
+    - who: Ernesto Moeller-Arnold
+      start: '00:27:58.129'
+      end: '00:27:58.129'
+      u: But only a few knew how to avoid it. Of those that we have here, most of
+        them...there are but a few young ones among them, boys and mostly girls that
+        we have here, only a few young ones.
+    - who: David Boder
+      start: '00:28:11.578'
+      end: '00:28:11.578'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:28:12.172'
+      end: '00:28:12.172'
+      u: We have also here a few who first were in the army, but managed to get out
+        of it, and had found employment in the country in general.
+    - who: David Boder
+      start: '00:28:28.312'
+      end: '00:28:28.312'
+      u: Hm. Well, they...there are some among them who are half German, half Chilean?
+    - who: Ernesto Moeller-Arnold
+      start: '00:28:39.797'
+      end: '00:28:39.797'
+      u: Oh, yes, surely. They [some of them] are first of all, at least of German
+        descent.
+    - who: David Boder
+      start: '00:28:46.250'
+      end: '00:28:46.250'
+      u: Yes. Were there many [such] in Chile?
+    - who: Ernesto Moeller-Arnold
+      start: '00:28:47.938'
+      end: '00:28:47.938'
+      u: No. Oh, there are...are quite a few. Still there were people of German descent
+        first of all in the south of Chile, which was colonized...
+    - who: David Boder
+      start: '00:29:01.266'
+      end: '00:29:01.266'
+      u: Oh...
+    - who: Ernesto Moeller-Arnold
+      start: '00:29:01.890'
+      end: '00:29:01.890'
+      u: ". . . by people of German descent. In the provinces, Osorno, Temu-...Temuco
+        are cities where one finds many German names."
+    - who: David Boder
+      start: '00:29:10.707'
+      end: '00:29:10.707'
+      u: But it appears that they [the Germans] were, in South America, very good
+        and useful citizens, and...
+    - who: Ernesto Moeller-Arnold
+      start: '00:29:17.472'
+      end: '00:29:17.472'
+      u: Yes, certainly. Even...up to now, up to the war these people had in Chile
+        a very good name, and they never interfered in Chilean politics, or disturbed
+        the politics. Neither during the war did I hear something of that sort, and
+        for that reason there were no great discords [?] among the people like, for
+        example, existed in the Central Americas.
+    - who: David Boder
+      start: '00:29:45.533'
+      end: '00:29:45.533'
+      u: Yes. Now tell me, you say you left Chile in what year?
+    - who: Ernesto Moeller-Arnold
+      start: '00:29:50.939'
+      end: '00:29:50.939'
+      u: "'28."
+    - who: David Boder
+      start: '00:29:52.064'
+      end: '00:29:52.064'
+      u: "'28. Well then, at that time...and you came to Germany, to Silesia, at that
+        time?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:30:03.672'
+      end: '00:30:03.672'
+      u: I came at that time first to Austria.
+    - who: David Boder
+      start: '00:30:07.687'
+      end: '00:30:07.687'
+      u: Aha.
+    - who: Ernesto Moeller-Arnold
+      start: '00:30:08.374'
+      end: '00:30:08.374'
+      u: And afterwards I established my home in the country which played a part...which
+        was the country over which the whole world was fighting. [Laughter.]
+    - who: David Boder
+      start: '00:30:23.670'
+      end: '00:30:23.670'
+      u: Which was that?
+    - who: Ernesto Moeller-Arnold
+      start: '00:30:24.842'
+      end: '00:30:24.842'
+      u: Upper Sile-...Upper Silesia.
+    - who: David Boder
+      start: '00:30:26.045'
+      end: '00:30:26.045'
+      u: Upper Silesia. But at that time you were in whose hands? Of the Czechs?
+    - who: Ernesto Moeller-Arnold
+      start: '00:30:31.529'
+      end: '00:30:31.529'
+      u: Part belonged to the Czechs, part belonged to the Poles, and part to the
+        Germans. And they [these regions] were of special [separate] jurisdiction.
+    - who: David Boder
+      start: '00:30:41.107'
+      end: '00:30:41.107'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:30:41.732'
+      end: '00:30:41.732'
+      u: They were...they belonged to those countries, but...
+    - who: David Boder
+      start: '00:30:50.373'
+      end: '00:30:50.373'
+      u: Yes.
+    - who: Ernesto Moeller-Arnold
+      start: '00:30:50.967'
+      end: '00:30:50.967'
+      u: ". . . the sovereignty [of these countries] was restricted, especially by
+        administrative laws, and especially by economic laws. For instance, they did
+        not have to pay taxes on certain products which they transported..."
+    - who: David Boder
+      start: '00:31:08.216'
+      end: '00:31:08.216'
+      u: Aha.
+    - who: Ernesto Moeller-Arnold
+      start: '00:31:08.903'
+      end: '00:31:08.903'
+      u: ". . . from one side to the other."
+    - who: David Boder
+      start: '00:31:10.325'
+      end: '00:31:10.325'
+      u: Tell me this. You are an agronomist. How does it appear to you? Has German
+        agriculture suffered much during the war?
+    - who: Ernesto Moeller-Arnold
+      start: '00:31:19.949'
+      end: '00:31:19.949'
+      u: "[Pause.] I know only—because it was not possible to travel during the war—the
+        agriculture in Upper Silesia."
+    - who: David Boder
+      start: '00:31:34.292'
+      end: '00:31:34.292'
+      u: Hm.
+    - who: Ernesto Moeller-Arnold
+      start: '00:31:34.839'
+      end: '00:31:34.839'
+      u: And this one [agriculture] one may say is ruined.
+    - who: David Boder
+      start: '00:31:39.729'
+      end: '00:31:39.729'
+      u: And that is why? Because the machinery was taken away [by the Allies, Russians],
+        or...[words not clear].
+    - who: Ernesto Moeller-Arnold
+      start: '00:31:43.565'
+      end: '00:31:43.565'
+      u: Because everything was taken away that was possible to take. The animals,
+        the machinery, the seed, everything that there was has disappeared.
+    - who: David Boder
+      start: '00:31:54.331'
+      end: '00:31:54.331'
+      u: Hm.
+    - who: Ernesto Moeller-Arnold
+      start: '00:31:54.924'
+      end: '00:31:54.924'
+      u: The battles did not cause great damage, and the aerial raids did not cause
+        great damage, because there were not many raids. The Russians did not launch...launch
+        raids...
+    - who: David Boder
+      start: '00:32:11.861'
+      end: '00:32:11.861'
+      u: Air attacks.
+    - who: Ernesto Moeller-Arnold
+      start: '00:32:13.751'
+      end: '00:32:13.751'
+      u: ". . . by air. Yes. But the termination of the war created the greatest damage."
+    - who: David Boder
+      start: '00:32:19.860'
+      end: '00:32:19.860'
+      u: Good. Well. Since you had the opportunity, you speak German, you had the
+        opportunity to talk to the Germans now, what is the sentiment, what do they
+        thing is going to happ-...happen to Germany?
+    - who: Ernesto Moeller-Arnold
+      start: '00:32:37.147'
+      end: '00:32:37.147'
+      u: Yes. I know...among the Germans I know predominantly the unfortunate people
+        who were thrown out of Silesia, They have no other sentiment than the desire
+        to return to their native homeland where they were...
+    - who: David Boder
+      start: '00:32:53.692'
+      end: '00:32:53.692'
+      u: To Silesia.
+    - who: Ernesto Moeller-Arnold
+      start: '00:32:54.598'
+      end: '00:32:54.598'
+      u: "[Chuckle.] To Silesia, yes."
+    - who: David Boder
+      start: '00:32:56.254'
+      end: '00:32:56.254'
+      u: They desire to return to Silesia?
+    - who: Ernesto Moeller-Arnold
+      start: '00:32:58.378'
+      end: '00:32:58.378'
+      u: They desi-...they would like to return to silesia where...
+    - who: David Boder
+      start: '00:33:01.799'
+      end: '00:33:01.799'
+      u: So why don't they return?
+    - who: Ernesto Moeller-Arnold
+      start: '00:33:04.377'
+      end: '00:33:04.377'
+      u: Because...according to present treaties they have been de-classed [deprived
+        of status] by the Poles. They were thrown out.
+    - who: David Boder
+      start: '00:33:15.377'
+      end: '00:33:15.377'
+      u: You are talking about people who [during the war] considered themselves Germans
+        [in Polish territory].
+    - who: Ernesto Moeller-Arnold
+      start: '00:33:18.909'
+      end: '00:33:18.909'
+      u: The Poles considered everybody who lived there before as Germans. [Words
+        not clear.]
+    - who: David Boder
+      start: '00:33:27.581'
+      end: '00:33:27.581'
+      u: Did it not happen that Hitler imported many Germans to Silesia during the
+        war?
+    - who: Ernesto Moeller-Arnold
+      start: '00:33:34.487'
+      end: '00:33:34.487'
+      u: No. Because Silesia was sufficiently populated already before...
+    - who: David Boder
+      start: '00:33:39.081'
+      end: '00:33:39.081'
+      u: Aha.
+    - who: Ernesto Moeller-Arnold
+      start: '00:33:40.784'
+      end: '00:33:40.784'
+      u: There was no room for the importation of Germans. The Germans who were imported
+        were imported to Wartagau [region of the Warta River] or what was called the
+        Posen [Poznan] province. There...there Germans were pressed in, but to Silesia
+        they did not bring a single person.
+    - who: David Boder
+      start: '00:33:58.690'
+      end: '00:33:58.690'
+      u: And...
+    - who: Ernesto Moeller-Arnold
+      start: '00:33:59.508'
+      end: '00:33:59.508'
+      u: There was not a single one of those people.
+    - who: David Boder
+      start: '00:33:59.508'
+      end: '00:33:59.508'
+      u: 'Where [words not on wire; apparently: these Germans at present]?'
+    - who: Ernesto Moeller-Arnold
+      start: '00:34:00.758'
+      end: '00:34:00.758'
+      u: They are mostly in the Russian Zone, in the German part of the Russian Zone,
+        and in the British Zone, and some of them, possibly a hundred thousand, are
+        in the American Zone.
+    - who: David Boder
+      start: '00:34:17.054'
+      end: '00:34:17.054'
+      u: "[Suprised] A hundred thousand? Well, how many did they expel?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:34:21.069'
+      end: '00:34:21.069'
+      u: They expelled more or less...Silesia was inhabited more or less by seven
+        million people. All were expelled. Now there are left only, more or less,
+        one million [the numbers are apparently incorrect].
+    - who: David Boder
+      start: '00:34:36.178'
+      end: '00:34:36.178'
+      u: Who were considered, in fact Polish?
+    - who: Ernesto Moeller-Arnold
+      start: '00:34:38.256'
+      end: '00:34:38.256'
+      u: No, whom they still want to expel from there. All the people [Germans?] were
+        expelled up to [word not clear].
+    - who: David Boder
+      start: '00:34:44.849'
+      end: '00:34:44.849'
+      u: From Silesia?
+    - who: Ernesto Moeller-Arnold
+      start: '00:34:45.974'
+      end: '00:34:45.974'
+      u: From Silesia, yes.
+    - who: David Boder
+      start: '00:34:48.068'
+      end: '00:34:48.068'
+      u: And then, when they are being expelled, are they given something of their
+        property, are they given something of...
+    - who: Ernesto Moeller-Arnold
+      start: '00:34:54.182'
+      end: '00:34:54.182'
+      u: What they are able [to carry?]...Those who were expelled until now were expelled
+        like paupers, without anything.
+    - who: David Boder
+      start: '00:35:01.088'
+      end: '00:35:01.088'
+      u: Well, it is being said about the Sudeten, for instance, that in connection
+        with the expulsion of the Germans there is a commissar...commission which
+        sees to it that everybody has fifty kilos or so of his proper-...of his personal
+        belongings.
+    - who: Ernesto Moeller-Arnold
+      start: '00:35:17.485'
+      end: '00:35:17.485'
+      u: Yes.
+    - who: David Boder
+      start: '00:35:18.079'
+      end: '00:35:18.079'
+      u: But the same thing was not done in Silesia?
+    - who: Ernesto Moeller-Arnold
+      start: '00:35:20.993'
+      end: '00:35:20.993'
+      u: In Silesia up to last year, or up to this year—what I have heard, what I
+        was told by Silesian people with whom I talked—they were unable to take anything.
+    - who: David Boder
+      start: '00:35:34.539'
+      end: '00:35:34.539'
+      u: Well. Now who do they blame, Hitler or the...or the Poles?
+    - who: Ernesto Moeller-Arnold
+      start: '00:35:42.399'
+      end: '00:35:42.399'
+      u: Their sentiments in their hearts [?] are...
+    - who: David Boder
+      start: '00:35:47.101'
+      end: '00:35:47.101'
+      u: ". . . for the Russians...?"
+    - who: Ernesto Moeller-Arnold
+      start: '00:35:48.289'
+      end: '00:35:48.289'
+      u: ". . . for the Russians and for the Poles are not very friendly, because
+        they were treated quite badly by them. It is clear the one who treats [people]
+        badly much pay for it with bad sentiments [against him]."
+    - who: David Boder
+      start: '00:36:01.101'
+      end: '00:36:01.101'
+      u: Yes, surely. But on the other hand they could think, could understand, that
+        if Hitler had not started all that...
+    - who: Ernesto Moeller-Arnold
+      start: '00:36:11.101'
+      end: '00:36:11.101'
+      u: That is clear. That is said by people who think, but the majority of the
+        people do not think, but they suffer only at the moment [of misfortune] and
+        see only the one who makes them suffer. And that is the thing that causes
+        great harm. One may beat the other and say you are guilty because you have
+        beaten me. But the one who is beaten sees only the one who is right in front
+        of him [who does the beating]. He does not see the causes which are more distant.
+    - who: David Boder
+      start: '00:36:47.146'
+      end: '00:36:47.146'
+      u: Now this is a very interesting observation, don Ernesto, because at times
+        we think whether humanity would have learned a lesson from this catastrophe.
+        What do you think?
+    - who: Ernesto Moeller-Arnold
+      start: '00:37:04.568'
+      end: '00:37:04.568'
+      u: Yes. The lesson that must be learned is simply that one day the hostilities
+        [animosities] must be ended. and one has to start with ending them, because
+        if we are to continue with the payment of accounts [retaliations] that would
+        last until the Last Judgment [Judgment Day].
+    - who: David Boder
+      start: '00:37:30.660'
+      end: '00:37:30.660'
+      u: Well, don Ernesto. Thank you so much. I wanted an informative report from
+        a person who lived in Germany during all the time and could observe the events
+        somewhat like a foreigner [outsider]. I believe that all of us would be very
+        interested in studying what you have told us.
+    - who: David Boder
+      start: '00:37:56.049'
+      end: '00:37:56.049'
+      u: "[In English] This concludes Spool 135. The interviewee was don Ernesto Moeller-Arnold,
+        a Chilean by birth who spent during the time...time of the war as manager
+        of various estates, agricultural properties, and had some opportunity to observar...[chuckle
+        and correction] to observe—I am mixing my Spanish with my English—what has
+        happened. Muenchen, September the 20th, 1946. Spool 135, An Illinois Institute
+        of Technology wire recording. Thank you very much Mr. Moeller."
+    - who: Ernesto Moeller-Arnold
+      start: '00:38:42.829'
+      end: 
+      u: "[In Spanish] Don't mention it. [He apparently understood the last sentence
+        spoken in English.]"
+transcript: {}
+translation: {}

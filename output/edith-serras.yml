@@ -30,4 +30,4474 @@ recording:
     file: ''
     mime-type: audio/mp3
   transcript: 
-  translation: 
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:06.199'
+      end: '00:00:06.199'
+      u: "[In English] This is Spool 34. Mrs. Edith Serras..."
+    - who: David Boder
+      start: '00:00:13.134'
+      end: '00:00:13.134'
+      u: "[In German]...how old are you?"
+    - who: Edith Serras
+      start: '00:00:14.886'
+      end: '00:00:14.886'
+      u: Thirty-six.
+    - who: David Boder
+      start: '00:00:16.770'
+      end: '00:00:16.770'
+      u: "[In English] Thirty-six...Thirty-six years old."
+    - who: David Boder
+      start: '00:00:22.111'
+      end: '00:00:22.111'
+      u: "[In German] Would you please..."
+    - who: David Boder
+      start: '00:00:26.885'
+      end: '00:00:26.885'
+      u: "[in English] She carries an exceedingly large tattoo, rather large in size,
+        larger...about twice as large as the usual tattoos that we see...50306 and
+        the usual triangle indicating the Jewish faith underneath."
+    - who: David Boder
+      start: '00:00:54.031'
+      end: '00:00:54.031'
+      u: "[In German] Tell me, Mrs. Serras, why is your tattoo so large? The others
+        have it much smaller."
+    - who: Edith Serras
+      start: '00:01:00.604'
+      end: '00:01:00.604'
+      u: Oh. That were the first, the first ones to be deported. They...they were
+        very large [??]...
+    - who: David Boder
+      start: '00:01:07.484'
+      end: '00:01:07.484'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:01:08.859'
+      end: '00:01:08.859'
+      u: ". . . and the others were already smaller."
+    - who: David Boder
+      start: '00:01:11.094'
+      end: '00:01:11.094'
+      u: Aha...
+    - who: Edith Serras
+      start: '00:01:11.625'
+      end: '00:01:11.625'
+      u: From the beginning they learned how to make the tattoos.
+    - who: David Boder
+      start: '00:01:14.735'
+      end: '00:01:14.735'
+      u: Aha. Now then...Tell me where you were born, Mrs. Serras.
+    - who: Edith Serras
+      start: '00:01:22.875'
+      end: '00:01:22.875'
+      u: In Yedintsy [?], in Yedintsy.
+    - who: David Boder
+      start: '00:01:25.344'
+      end: '00:01:25.344'
+      u: In Lebeni...where is that?
+    - who: Edith Serras
+      start: '00:01:27.844'
+      end: '00:01:27.844'
+      u: Yedintsy [?]?
+    - who: David Boder
+      start: '00:01:30.641'
+      end: '00:01:30.641'
+      u: Yedintsy [?]. Where is that?
+    - who: Edith Serras
+      start: '00:01:35.610'
+      end: '00:01:35.610'
+      u: In Bessarabia [?].
+    - who: David Boder
+      start: '00:01:36.454'
+      end: '00:01:36.454'
+      u: That is in Bessarabia [?]? And where were you when the war started?
+    - who: Edith Serras
+      start: '00:01:42.235'
+      end: '00:01:42.235'
+      u: ". . . Paris."
+    - who: David Boder
+      start: '00:01:43.047'
+      end: '00:01:43.047'
+      u: You were in Paris when the war started. How did you [happen to] come to Paris?
+    - who: Edith Serras
+      start: '00:01:47.969'
+      end: '00:01:47.969'
+      u: I got there legally [?] with a passport...
+    - who: David Boder
+      start: '00:01:51.687'
+      end: '00:01:51.687'
+      u: Yes, but I mean, why did you come to Paris from Bessarabia?
+    - who: Edith Serras
+      start: '00:01:56.000'
+      end: '00:01:56.000'
+      u: I intended to study. I am a teacher...
+    - who: David Boder
+      start: '00:01:59.375'
+      end: '00:01:59.375'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:02:00.281'
+      end: '00:02:00.281'
+      u: ". . . and I wanted to study further, in education."
+    - who: David Boder
+      start: '00:02:03.359'
+      end: '00:02:03.359'
+      u: And did you come to Paris alone?
+    - who: Edith Serras
+      start: '00:02:06.093'
+      end: '00:02:06.093'
+      u: Yes...I came with my sister.
+    - who: David Boder
+      start: '00:02:08.139'
+      end: '00:02:08.139'
+      u: Aha...
+    - who: Edith Serras
+      start: '00:02:09.139'
+      end: '00:02:09.139'
+      u: We planned to study...We were five children...[some word not clear]
+    - who: David Boder
+      start: '00:02:12.951'
+      end: '00:02:12.951'
+      u: What year did you come to Paris? [About three sentences are not clear—possibly
+        faulty reproduction]
+    - who: David Boder
+      start: '00:02:41.221'
+      end: '00:02:41.221'
+      u: In what language did you teach?
+    - who: Edith Serras
+      start: '00:02:44.049'
+      end: '00:02:44.049'
+      u: In Yiddish.
+    - who: David Boder
+      start: '00:02:45.362'
+      end: '00:02:45.362'
+      u: You taught in Yiddish. Now then, better speak Yiddish and it will be understood
+        better there, and...the...Now will you then continue speaking in Yiddish,
+        if you can speak Yiddish well? [Continues in Yiddish] Now tell me, what were
+        you doing in Paris when the Germans arrived?
+    - who: Edith Serras
+      start: '00:03:03.177'
+      end: '00:03:03.177'
+      u: When the Germans came it was a duty to fight against Germany. We did everything
+        to fight Fascism, and I placed Jewish children in the villages...
+    - who: David Boder
+      start: '00:03:11.201'
+      end: '00:03:11.201'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:03:11.701'
+      end: '00:03:11.701'
+      u: They did everything to exterminate...to take hold of Jewish children and
+        Jewish families, so the task was to hide the children. That was my occupation;
+        and I was also in the resistance.
+    - who: David Boder
+      start: '00:03:37.643'
+      end: '00:03:37.643'
+      u: Now, where did you hide the children?
+    - who: Edith Serras
+      start: '00:03:40.237'
+      end: '00:03:40.237'
+      u: In the villages.
+    - who: David Boder
+      start: '00:03:41.315'
+      end: '00:03:41.315'
+      u: With whom?
+    - who: Edith Serras
+      start: '00:03:42.581'
+      end: '00:03:42.581'
+      u: With Catholic people.
+    - who: David Boder
+      start: '00:03:45.956'
+      end: '00:03:45.956'
+      u: Did the Catholic people know that they were Jewish children?
+    - who: Edith Serras
+      start: '00:03:49.924'
+      end: '00:03:49.924'
+      u: Yes. Quite a few knew—the majority knew that they were Jewish children. I
+        returned and found the Jewish children [to have been kept] very well.
+    - who: David Boder
+      start: '00:03:58.087'
+      end: '00:03:58.087'
+      u: Now, were they paid for keeping the children?
+    - who: Edith Serras
+      start: '00:04:00.977'
+      end: '00:04:00.977'
+      u: Yes. We had organizations which worked all the time, and the children were
+        paid for all the time.
+    - who: David Boder
+      start: '00:04:06.462'
+      end: '00:04:06.462'
+      u: Aha. What kind of organizations were these?
+    - who: Edith Serras
+      start: '00:04:09.431'
+      end: '00:04:09.431'
+      u: These were organizations that called themselves anti-Fascist, to fight Fascism...
+    - who: David Boder
+      start: '00:04:12.853'
+      end: '00:04:12.853'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:04:15.368'
+      end: '00:04:15.368'
+      u: And these organizations consisted of both Jews and Christians.
+    - who: David Boder
+      start: '00:04:18.180'
+      end: '00:04:18.180'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:04:18.664'
+      end: '00:04:18.664'
+      u: ". . . and they helped the Jewish children."
+    - who: David Boder
+      start: '00:04:22.835'
+      end: '00:04:22.835'
+      u: And you had a child...You, yourself, had a child?
+    - who: Edith Serras
+      start: '00:04:27.069'
+      end: '00:04:27.069'
+      u: I myself...I also hid my child.
+    - who: David Boder
+      start: '00:04:29.256'
+      end: '00:04:29.256'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:04:29.615'
+      end: '00:04:29.615'
+      u: And I also hid other children.
+    - who: David Boder
+      start: '00:04:31.475'
+      end: '00:04:31.475'
+      u: How old is your child now?
+    - who: Edith Serras
+      start: '00:04:32.943'
+      end: '00:04:32.943'
+      u: My child is now nine years old.
+    - who: David Boder
+      start: '00:04:34.662'
+      end: '00:04:34.662'
+      u: Nine years. Now tell me what happened to you afterwards.
+    - who: Edith Serras
+      start: '00:04:39.256'
+      end: '00:04:39.256'
+      u: Now...I belonged to a group of the resistance, and...a child was arrested...a
+        fourteen year old one...and the child...he was badly beaten...and the child
+        reported who had hidden him. In this manner I was arrested...When I was arrested
+        I was badly beaten...
+    - who: David Boder
+      start: '00:05:02.320'
+      end: '00:05:02.320'
+      u: You were not hiding [keeping] the child. Now...What did he report?
+    - who: Edith Serras
+      start: '00:05:05.211'
+      end: '00:05:05.211'
+      u: The child...he was asked, 'Who has hidden you?'
+    - who: David Boder
+      start: '00:05:08.445'
+      end: '00:05:08.445'
+      u: And the child was with you?
+    - who: Edith Serras
+      start: '00:05:09.538'
+      end: '00:05:09.538'
+      u: No, not with me...
+    - who: David Boder
+      start: '00:05:10.850'
+      end: '00:05:10.850'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:05:11.318'
+      end: '00:05:11.318'
+      u: Somewhere else.
+    - who: David Boder
+      start: '00:05:11.849'
+      end: '00:05:11.849'
+      u: Aha...
+    - who: Edith Serras
+      start: '00:05:12.349'
+      end: '00:05:12.349'
+      u: So he said that such and such a woman has given me the chance, me and my
+        mother, to hide ourselves.
+    - who: David Boder
+      start: '00:05:18.598'
+      end: '00:05:18.598'
+      u: Oh, the mother, too?
+    - who: Edith Serras
+      start: '00:05:19.535'
+      end: '00:05:19.535'
+      u: The mother too. The mother was already arrested.
+    - who: David Boder
+      start: '00:05:21.379'
+      end: '00:05:21.379'
+      u: Yes...and the mother was already arrested?
+    - who: Edith Serras
+      start: '00:05:23.582'
+      end: '00:05:23.582'
+      u: The mother did not want to betray me; but he, as a child...
+    - who: David Boder
+      start: '00:05:27.377'
+      end: '00:05:27.377'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:05:28.035'
+      end: '00:05:28.035'
+      u: ". . . being a child, he told..."
+    - who: David Boder
+      start: '00:05:29.223'
+      end: '00:05:29.223'
+      u: Yes...So...
+    - who: Edith Serras
+      start: '00:05:30.114'
+      end: '00:05:30.114'
+      u: The police looked for me already for...for five months; I was already betrayed...as
+        a person who was fighting against Fascism in France...And they did not know
+        my address. Here they found out my address and they came and arrested me.
+    - who: David Boder
+      start: '00:05:44.186'
+      end: '00:05:44.186'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:05:44.967'
+      end: '00:05:44.967'
+      u: I was severely beaten so that I would report the addresses of the children,
+        and to report the other people who were working on the same [objective]. Of
+        course, I did not tell; and in this manner I was deported.
+    - who: David Boder
+      start: '00:05:55.385'
+      end: '00:05:55.385'
+      u: What did you tell them? Did you...
+    - who: Edith Serras
+      start: '00:05:58.010'
+      end: '00:05:58.010'
+      u: I told them it is a lie; I told them just that I hid them away, that was
+        correct. Why did I hide them? Not for ideological reasons, because I had to...
+    - who: David Boder
+      start: '00:06:05.882'
+      end: '00:06:05.882'
+      u: Yes.
+    - who: Edith Serras
+      start: '00:06:06.257'
+      end: '00:06:06.257'
+      u: ". . . convince [?] them..."
+    - who: David Boder
+      start: '00:06:06.554'
+      end: '00:06:06.554'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:06:07.226'
+      end: '00:06:07.226'
+      u: ". . . because, had I told them that the reasons were ideological...it would
+        mean [that there is] an organization. Then I would have to betray the others.
+        So I told them that this came not from an ideology, but it came from my great
+        compassion for the mother—the mother was my friend."
+    - who: David Boder
+      start: '00:06:21.742'
+      end: '00:06:21.742'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:06:22.321'
+      end: '00:06:22.321'
+      u: ". . . and so I have found them a place to hide. For this sort of reason
+        I have done it."
+    - who: David Boder
+      start: '00:06:26.699'
+      end: '00:06:26.699'
+      u: Nu...
+    - who: Edith Serras
+      start: '00:06:27.371'
+      end: '00:06:27.371'
+      u: But the police already knew about me, that I also belonged to a revolutionary
+        group, and they have looked for me for a long time.
+    - who: David Boder
+      start: '00:06:36.543'
+      end: '00:06:36.543'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:06:38.684'
+      end: '00:06:38.684'
+      u: So I was arrested, and under such circumstances I was deported.
+    - who: David Boder
+      start: '00:06:43.465'
+      end: '00:06:43.465'
+      u: How long were you...were you taken first...What do they call that place near
+        Paris?
+    - who: Edith Serras
+      start: '00:06:49.950'
+      end: '00:06:49.950'
+      u: Drancy?
+    - who: David Boder
+      start: '00:06:51.809'
+      end: '00:06:51.809'
+      u: Drancy. Did they...
+    - who: Edith Serras
+      start: '00:06:54.215'
+      end: '00:06:54.215'
+      u: I was in the depot. I was first in the depot for six weeks.
+    - who: David Boder
+      start: '00:06:57.199'
+      end: '00:06:57.199'
+      u: In Drancy...
+    - who: Edith Serras
+      start: '00:06:57.855'
+      end: '00:06:57.855'
+      u: Depot...
+    - who: David Boder
+      start: '00:06:58.418'
+      end: '00:06:58.418'
+      u: In the depot. What do you call the 'depot'?
+    - who: Edith Serras
+      start: '00:07:00.621'
+      end: '00:07:00.621'
+      u: The depot? There they centralized all the deportees; and until they were
+        interrogated, they were interviewed [She says 'interveniert.']
+    - who: David Boder
+      start: '00:07:10.027'
+      end: '00:07:10.027'
+      u: All those who they intended to deport?
+    - who: Edith Serras
+      start: '00:07:11.355'
+      end: '00:07:11.355'
+      u: All those who they intended to deport...So here was the center where they
+        were assembled.
+    - who: David Boder
+      start: '00:07:15.912'
+      end: '00:07:15.912'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:07:16.698'
+      end: '00:07:16.698'
+      u: In my case it lasted six weeks, because they had a great deal to question
+        me about. They believed they would reach a point where I would report the
+        others. When they saw that there would be no betrayal—so their only decision
+        was to deport me. Deportation meant to exterminate the people. They said,
+        of course, that I could be assigned to the courts, but they said a court would
+        be too good [for me], while deportation, he said, is such a thing that a human
+        being 'croaks'[?] When he is being deported...I don't know...
+    - who: David Boder
+      start: '00:07:49.601'
+      end: '00:07:49.601'
+      u: What...What is that?
+    - who: Edith Serras
+      start: '00:07:51.523'
+      end: '00:07:51.523'
+      u: That means a person...a person comes to the lager, 'You will be deported,
+        and there you will perish gradually like a dog. It will come to the stage
+        that you will fall on your knees and you will pray for your death;' and then,
+        he said, 'You will see what it means to fight against Hitler!
+    - who: David Boder
+      start: '00:08:07.114'
+      end: '00:08:07.114'
+      u: Aha...Who said that? A German or a Frenchman?
+    - who: Edith Serras
+      start: '00:08:10.051'
+      end: '00:08:10.051'
+      u: That was said by a German.
+    - who: David Boder
+      start: '00:08:10.958'
+      end: '00:08:10.958'
+      u: A German?
+    - who: Edith Serras
+      start: '00:08:11.583'
+      end: '00:08:11.583'
+      u: A German.
+    - who: David Boder
+      start: '00:08:12.052'
+      end: '00:08:12.052'
+      u: Now...
+    - who: Edith Serras
+      start: '00:08:12.552'
+      end: '00:08:12.552'
+      u: Then I was sent to Drancy as a anti-fascist [enemy of the race ?]
+    - who: David Boder
+      start: '00:08:18.505'
+      end: '00:08:18.505'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:08:19.146'
+      end: '00:08:19.146'
+      u: And from there I arrived as a deportee to Birkenau. En route...we...
+    - who: David Boder
+      start: '00:08:24.380'
+      end: '00:08:24.380'
+      u: Birkenau is Auschwitz?
+    - who: Edith Serras
+      start: '00:08:25.115'
+      end: '00:08:25.115'
+      u: Auschwitz...
+    - who: David Boder
+      start: '00:08:25.771'
+      end: '00:08:25.771'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:08:26.271'
+      end: '00:08:26.271'
+      u: About eighteen [hundred; see below] people were there.
+    - who: David Boder
+      start: '00:08:29.256'
+      end: '00:08:29.256'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:08:29.756'
+      end: '00:08:29.756'
+      u: En Route we were kept in locked cars. In twenty-four hours we European [civilized]
+        people were converted into beasts.
+    - who: David Boder
+      start: '00:08:41.663'
+      end: '00:08:41.663'
+      u: Into what?
+    - who: Edith Serras
+      start: '00:08:42.554'
+      end: '00:08:42.554'
+      u: Into beasts [The word did not sound clear].
+    - who: David Boder
+      start: '00:08:44.241'
+      end: '00:08:44.241'
+      u: You mean, into animals?
+    - who: Edith Serras
+      start: '00:08:44.678'
+      end: '00:08:44.678'
+      u: Into animals.
+    - who: David Boder
+      start: '00:08:45.146'
+      end: '00:08:45.146'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:08:45.552'
+      end: '00:08:45.552'
+      u: People traveled with children, men, women. There was no air. In the middle
+        of the car stood a large tub in which we had to satisfy our needs. And the
+        air was very terrible. There were cases where people got deadly sick. We arrived
+        at the lager—we traveled this way three days and three nights...
+    - who: David Boder
+      start: '00:09:09.784'
+      end: '00:09:09.784'
+      u: Now, excuse me, Mrs. Serras. Where was your husband?
+    - who: Edith Serras
+      start: '00:09:13.752'
+      end: '00:09:13.752'
+      u: My husband was in the Zone libre.
+    - who: David Boder
+      start: '00:09:15.549'
+      end: '00:09:15.549'
+      u: Where?
+    - who: Edith Serras
+      start: '00:09:16.408'
+      end: '00:09:16.408'
+      u: In Zone libre.
+    - who: David Boder
+      start: '00:09:17.080'
+      end: '00:09:17.080'
+      u: Oh...He went across to the Free Zone.
+    - who: Edith Serras
+      start: '00:09:19.892'
+      end: '00:09:19.892'
+      u: To the free zone.
+    - who: David Boder
+      start: '00:09:20.548'
+      end: '00:09:20.548'
+      u: How did that happen—that he went alone and you remained here?
+    - who: Edith Serras
+      start: '00:09:25.611'
+      end: '00:09:25.611'
+      u: I wanted to be in the Resistance.
+    - who: David Boder
+      start: '00:09:27.518'
+      end: '00:09:27.518'
+      u: You wanted to remain with the Resistance.
+    - who: Edith Serras
+      start: '00:09:30.049'
+      end: '00:09:30.049'
+      u: Yes.
+    - who: David Boder
+      start: '00:09:30.518'
+      end: '00:09:30.518'
+      u: He went alone...
+    - who: Edith Serras
+      start: '00:09:31.924'
+      end: '00:09:31.924'
+      u: Yes.
+    - who: David Boder
+      start: '00:09:32.314'
+      end: '00:09:32.314'
+      u: Did he take the child?
+    - who: Edith Serras
+      start: '00:09:33.674'
+      end: '00:09:33.674'
+      u: 'No. I did not want to give away the child [Footnote 1: Here follows a few
+        hard-to-understand sentences. The interviewer often said ''Yes,'' to the obscure
+        statements, expcting apparently to clear them up from subsequent passages.
+        —D.P.B.]...because going across one had to establish his existence [?]'
+    - who: David Boder
+      start: '00:09:33.674'
+      end: '00:09:33.674'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:09:40.315'
+      end: '00:09:40.315'
+      u: ". . . and I did not want to establish the existence [?] of the child, because
+        I knew, that if I would place the child in Catholic hands..."
+    - who: David Boder
+      start: '00:09:45.096'
+      end: '00:09:45.096'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:09:45.690'
+      end: '00:09:45.690'
+      u: The child would be safer then to undertake such a journey [to the free Zone?].
+    - who: David Boder
+      start: '00:09:48.987'
+      end: '00:09:48.987'
+      u: Aha. So you arrived at Auschwitz.
+    - who: Edith Serras
+      start: '00:09:52.690'
+      end: '00:09:52.690'
+      u: Yes.
+    - who: David Boder
+      start: '00:09:53.253'
+      end: '00:09:53.253'
+      u: And in what month and year was it?
+    - who: Edith Serras
+      start: '00:09:55.034'
+      end: '00:09:55.034'
+      u: That was in Julie.
+    - who: David Boder
+      start: '00:09:57.081'
+      end: '00:09:57.081'
+      u: That is...
+    - who: Edith Serras
+      start: '00:09:57.675'
+      end: '00:09:57.675'
+      u: In July...
+    - who: David Boder
+      start: '00:09:58.988'
+      end: '00:09:58.988'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:09:59.426'
+      end: '00:09:59.426'
+      u: ". . . 1943."
+    - who: David Boder
+      start: '00:10:01.035'
+      end: '00:10:01.035'
+      u: So you were together with Mrs. [Miss] Frydman, with the girl from...
+    - who: Edith Serras
+      start: '00:10:05.972'
+      end: '00:10:05.972'
+      u: The one that works here...?
+    - who: David Boder
+      start: '00:10:07.582'
+      end: '00:10:07.582'
+      u: Yes. [See story of Henya Frydman.]
+    - who: Edith Serras
+      start: '00:10:07.957'
+      end: '00:10:07.957'
+      u: She got there ahead of me.
+    - who: David Boder
+      start: '00:10:09.692'
+      end: '00:10:09.692'
+      u: Oh. She went ahead...Well...and then...
+    - who: Edith Serras
+      start: '00:10:12.395'
+      end: '00:10:12.395'
+      u: And so, we arrived at the station.
+    - who: David Boder
+      start: '00:10:15.801'
+      end: '00:10:15.801'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:10:16.614'
+      end: '00:10:16.614'
+      u: So there was a 'selection.'
+    - who: David Boder
+      start: '00:10:19.457'
+      end: '00:10:19.457'
+      u: Yes...What is a 'selection?
+    - who: Edith Serras
+      start: '00:10:21.301'
+      end: '00:10:21.301'
+      u: A 'selection' means that they selected the people who were to go into the
+        lager, to work, and the people who were to go, to make 'experiences' on them...
+    - who: David Boder
+      start: '00:10:31.926'
+      end: '00:10:31.926'
+      u: Experiments?
+    - who: Edith Serras
+      start: '00:10:32.770'
+      end: '00:10:32.770'
+      u: 'Experiments. And which people were to go into the gas[Footnote 2: The Yiddish
+        word ''gass'' means ''street, outdoors, ''German ''gasse''. The expression
+        gehn in gass, means ''to go out, to go for a walk, etc. But in the lagers
+        it coincided with ''going to the gas chambers, assignment to gas-killing.
+        Since the word gas for volatiles is homophonic with gass for street, the interviewer
+        was prone to confuse the two, more so that he could not help often fail to
+        perceive correctly the meaning of the expression ''ghen in gas'', as ''gas-killing''.
+        —D.P.B.].'
+    - who: David Boder
+      start: '00:10:35.817'
+      end: '00:10:35.817'
+      u: Into what?
+    - who: Edith Serras
+      start: '00:10:35.817'
+      end: '00:10:35.817'
+      u: ". . . into the gas...That means—into the gas chambers."
+    - who: David Boder
+      start: '00:10:40.410'
+      end: '00:10:40.410'
+      u: Oh...They went to the gas chambers?
+    - who: Edith Serras
+      start: '00:10:41.989'
+      end: '00:10:41.989'
+      u: Yes. I had three women friends...
+    - who: David Boder
+      start: '00:10:43.677'
+      end: '00:10:43.677'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:10:44.099'
+      end: '00:10:44.099'
+      u: Russian women.
+    - who: David Boder
+      start: '00:10:44.974'
+      end: '00:10:44.974'
+      u: Jewish-Russian...?
+    - who: Edith Serras
+      start: '00:10:47.521'
+      end: '00:10:47.521'
+      u: No. Christian-Russian, who were married to Jewish men.
+    - who: David Boder
+      start: '00:10:52.318'
+      end: '00:10:52.318'
+      u: In France?
+    - who: Edith Serras
+      start: '00:10:52.927'
+      end: '00:10:52.927'
+      u: The Jewish men were of the 'highest men' [socially or intellectually] to
+        be deported.
+    - who: David Boder
+      start: '00:10:57.630'
+      end: '00:10:57.630'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:10:58.193'
+      end: '00:10:58.193'
+      u: And they remained...They were arrested with their children. Why?—because
+        the police had found out that their little boys were [hesitates]...
+    - who: David Boder
+      start: '00:11:06.453'
+      end: '00:11:06.453'
+      u: What?
+    - who: Edith Serras
+      start: '00:11:07.146'
+      end: '00:11:07.146'
+      u: ". . . are Jewish [reference to circumcision]."
+    - who: David Boder
+      start: '00:11:08.412'
+      end: '00:11:08.412'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:11:08.990'
+      end: '00:11:08.990'
+      u: So the women were taken to Drancy [transit concentration camp near Paris].
+    - who: David Boder
+      start: '00:11:11.771'
+      end: '00:11:11.771'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:11:12.458'
+      end: '00:11:12.458'
+      u: From Drancy we came...Knowing, the women knew me as an educator—and we imagined
+        that the deportation camp was not an extermination camp, but just a work camp
+        [two words not clear]. We didn't know—[so they said] 'You will help our children
+        with their schooling while we will work...'
+    - who: David Boder
+      start: '00:11:21.914'
+      end: '00:11:21.914'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:11:22.525'
+      end: '00:11:22.525'
+      u: So when we arrived there...So I told them to take the youngsters [with them].
+    - who: David Boder
+      start: '00:11:27.830'
+      end: '00:11:27.830'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:11:28.885'
+      end: '00:11:28.885'
+      u: So they took the children and they were assigned to a camion. This truck
+        was the 'death camion,' a known camion, which used to transport hundreds of
+        people to the gas.
+    - who: David Boder
+      start: '00:11:44.894'
+      end: '00:11:44.894'
+      u: Camion is a large...
+    - who: Edith Serras
+      start: '00:11:46.268'
+      end: '00:11:46.268'
+      u: ". . . A large"
+    - who: David Boder
+      start: '00:11:46.894'
+      end: '00:11:46.894'
+      u: ". . . automobile?"
+    - who: Edith Serras
+      start: '00:11:47.474'
+      end: '00:11:47.474'
+      u: ". . . Automobile. The women with the three children were on the automobile
+        with older people, with sick people. There were women [she apparently begins
+        to weep] in their twenties. If she had a child—she would go into the gas chamber.
+        If there was a woman in her thirties with a child—she would go into the gas
+        chamber."
+    - who: David Boder
+      start: '00:12:08.771'
+      end: '00:12:08.771'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:12:09.810'
+      end: '00:12:09.810'
+      u: When I saw that they were taken on the camion...They started yelling to me
+        that I should come along with them.
+    - who: David Boder
+      start: '00:12:13.293'
+      end: '00:12:13.293'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:12:13.966'
+      end: '00:12:13.966'
+      u: I started running. I did not know that that was death, so the German told
+        me that I have to croak [die] in the lager...
+    - who: David Boder
+      start: '00:12:18.240'
+      end: '00:12:18.240'
+      u: Oh...
+    - who: Edith Serras
+      start: '00:12:18.762'
+      end: '00:12:18.762'
+      u: And he put me in the line to go into the lager. When we entered the lager
+        we found ourselves—out of sixteen hundred—only three hundred and sixty women.
+        All the others went to the gas and a part of them went for experiments.
+    - who: David Boder
+      start: '00:12:33.362'
+      end: '00:12:33.362'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:12:34.837'
+      end: '00:12:34.837'
+      u: After entering the lager we were completely stripped. We remained lying for
+        five days completely naked.
+    - who: David Boder
+      start: '00:12:42.137'
+      end: '00:12:42.137'
+      u: Only women...?
+    - who: Edith Serras
+      start: '00:12:42.921'
+      end: '00:12:42.921'
+      u: Only women.
+    - who: David Boder
+      start: '00:12:43.382'
+      end: '00:12:43.382'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:12:43.843'
+      end: '00:12:43.843'
+      u: The heads were shaven.... . . tatooed. And we were not given any food, and
+        we were beaten all the time without any [for what] without any reason].
+    - who: David Boder
+      start: '00:12:51.665'
+      end: '00:12:51.665'
+      u: Why did they beat you?
+    - who: Edith Serras
+      start: '00:12:53.586'
+      end: '00:12:53.586'
+      u: For every word. If one would utter, 'Oh, Mamma,'—one would not cry [?; next
+        word not clear]; when they would observe that one does not express contentment.
+        So there a woman stood, an SS woman, and...
+    - who: David Boder
+      start: '00:13:06.414'
+      end: '00:13:06.414'
+      u: A German?
+    - who: Edith Serras
+      start: '00:13:07.198'
+      end: '00:13:07.198'
+      u: And we were beaten all the time, without any 'for what' [without any reason].
+        Afterwards we were transferred to the blocks, where we remained in the quarantine.
+        Quarantine was called...they were afraid that we might have microbes—we should
+        not bring diseases with us.
+    - who: David Boder
+      start: '00:13:21.138'
+      end: '00:13:21.138'
+      u: Oh...
+    - who: Edith Serras
+      start: '00:13:22.090'
+      end: '00:13:22.090'
+      u: But that was the greatest death sentence for us. Being in quarantine we had
+        to remain six weeks without going out. The made appells from three o'clock
+        in the morning until seven.
+    - who: David Boder
+      start: '00:13:33.932'
+      end: '00:13:33.932'
+      u: What are appells?
+    - who: Edith Serras
+      start: '00:13:34.823'
+      end: '00:13:34.823'
+      u: Appells meant, we were shoved outdoors naked and barefooted at three o'clock—we
+        had to stand in fives and fives [line up five in a row].
+    - who: David Boder
+      start: '00:13:42.004'
+      end: '00:13:42.004'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:13:42.558'
+      end: '00:13:42.558'
+      u: And we had to [stand] until seven o'clock. [Then] came the SS man-woman.
+        [They did not use to say, SS woman, but used to attach a feminine ending to
+        the word man, viz SS manke.] She counted us and we further remained standing.
+    - who: David Boder
+      start: '00:13:50.380'
+      end: '00:13:50.380'
+      u: An SS what? An SS...?
+    - who: Edith Serras
+      start: '00:13:51.487'
+      end: '00:13:51.487'
+      u: An SS woman.
+    - who: David Boder
+      start: '00:13:52.578'
+      end: '00:13:52.578'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:13:53.116'
+      end: '00:13:53.116'
+      u: She counted us...
+    - who: David Boder
+      start: '00:13:53.915'
+      end: '00:13:53.915'
+      u: What did you say before?
+    - who: Edith Serras
+      start: '00:13:54.944'
+      end: '00:13:54.944'
+      u: An SS man.
+    - who: David Boder
+      start: '00:13:55.605'
+      end: '00:13:55.605'
+      u: Man?
+    - who: Edith Serras
+      start: '00:13:56.358'
+      end: '00:13:56.358'
+      u: Manke
+    - who: David Boder
+      start: '00:13:57.065'
+      end: '00:13:57.065'
+      u: Mank you called her. [Both laugh—she giggles rather cheerfully] a woman was
+        called 'manke;' Well, all right...
+    - who: Edith Serras
+      start: '00:14:01.568'
+      end: '00:14:01.568'
+      u: "[Still giggling, possibly aware of the grammatical peculiarities of the
+        makeshift word of the concentration camp lingo for the first time] She counted
+        us [again], counted how many were present. There was that time a great [word
+        not clear—possibly epidemic], because we got diarrhea..."
+    - who: David Boder
+      start: '00:14:09.329'
+      end: '00:14:09.329'
+      u: What? You got diarrhea. Now...
+    - who: Edith Serras
+      start: '00:14:11.373'
+      end: '00:14:11.373'
+      u: And that is such a disease in which a man [an adult] becomes like a small
+        child. One does not feel...[hesitates] and...we...we were sick and they did
+        not let us go to the toilet...
+    - who: David Boder
+      start: '00:14:24.094'
+      end: '00:14:24.094'
+      u: So what did one do?
+    - who: Edith Serras
+      start: '00:14:25.818'
+      end: '00:14:25.818'
+      u: One did there like a small child. That is a sickness which 'goes out by itself.'
+    - who: David Boder
+      start: '00:14:31.251'
+      end: '00:14:31.251'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:14:32.121'
+      end: '00:14:32.121'
+      u: And they clubbed and beat us for it. and we pleaded, 'Let us go to the toilet.'
+        So they said, 'No, you won't go to the toilet, but you will croak here and
+        you must be clean, you must be tidy.' Now then, the women became demoralized...
+    - who: David Boder
+      start: '00:14:42.218'
+      end: '00:14:42.218'
+      u: Nu...
+    - who: Edith Serras
+      start: '00:14:44.579'
+      end: '00:14:44.579'
+      u: ". . . under such conditions, and in a few weeks, in six—seven weeks, we
+        were only but a few women there from the eighteen hundred [the statistics
+        are slightly inconsistent—but that is more than understandable]."
+    - who: David Boder
+      start: '00:14:55.731'
+      end: '00:14:55.731'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:14:57.424'
+      end: '00:14:57.424'
+      u: And returned [after liberation?] from the eighteen hundred, have two more
+        [besides herself]. I worked in a detail of...of...[which was] drying-out swamps.
+    - who: David Boder
+      start: '00:15:08.948'
+      end: '00:15:08.948'
+      u: Drying out what?
+    - who: Edith Serras
+      start: '00:15:10.476'
+      end: '00:15:10.476'
+      u: Drying out swamps.
+    - who: David Boder
+      start: '00:15:11.272'
+      end: '00:15:11.272'
+      u: Oh, drying out swamps...
+    - who: Edith Serras
+      start: '00:15:12.784'
+      end: '00:15:12.784'
+      u: I shall show you the bites from the SS dogs...
+    - who: David Boder
+      start: '00:15:15.201'
+      end: '00:15:15.201'
+      u: ". . . the bites of the dogs. [In English] She now says that there remained
+        very few [of her original contingent of deportees] and they had to drain swamps.
+        She shows, high on the thigh, the dog bite from the SS dogs. [In German] How
+        come that they have bitten [one word not clear]?"
+    - who: Edith Serras
+      start: '00:15:38.574'
+      end: '00:15:38.574'
+      u: At seven o'clock we would come to dry the swamps. It was muddy and dirty
+        there.
+    - who: David Boder
+      start: '00:15:42.332'
+      end: '00:15:42.332'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:15:42.612'
+      end: '00:15:42.612'
+      u: There were leeches.
+    - who: David Boder
+      start: '00:15:46.760'
+      end: '00:15:46.760'
+      u: Leeches...?
+    - who: Edith Serras
+      start: '00:15:47.774'
+      end: '00:15:47.774'
+      u: Leeches.
+    - who: David Boder
+      start: '00:15:48.320'
+      end: '00:15:48.320'
+      u: "[repeats in English] leeches."
+    - who: Edith Serras
+      start: '00:15:49.536'
+      end: '00:15:49.536'
+      u: "[She repeats the English word as if she knew it] Leeches. And there were
+        little snakes. We were bitten by all the insects..."
+    - who: David Boder
+      start: '00:15:56.989'
+      end: '00:15:56.989'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:15:57.862'
+      end: '00:15:57.862'
+      u: And from seven o'clock...In October we were still going barefooted, and the
+        cold was very great and we had to enter the water deep to the neck.
+    - who: David Boder
+      start: '00:16:06.593'
+      end: '00:16:06.593'
+      u: Deep to what?
+    - who: Edith Serras
+      start: '00:16:07.981'
+      end: '00:16:07.981'
+      u: Deep to the neck.
+    - who: David Boder
+      start: '00:16:08.823'
+      end: '00:16:08.823'
+      u: Deep to the neck?
+    - who: Edith Serras
+      start: '00:16:09.369'
+      end: '00:16:09.369'
+      u: Yes.
+    - who: David Boder
+      start: '00:16:09.774'
+      end: '00:16:09.774'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:16:10.040'
+      end: '00:16:10.040'
+      u: So it was too cold at seven o'clock...at seven o'clock. So we would start
+        walking a detail of fifteen hundred, of sixteen hundred women, gradually,
+        just to get accustomed to the water. But the SS men did not want it, so they
+        set their dogs on us, so that we would run fast into the water. The women
+        would start to run fast into the water. They became demoralized—they started
+        yelling. A lot of women fell into the water and we...not knowing it, would
+        kill the drowning ones with our feet because one was running [trampling] over
+        the other. Returning from work we pulled out the dead bodies, and we had to
+        carry them on our shoulders to the crematories to burn them. There was no
+        day when there were no dead. And in such a manner we were bitten by the dogs.
+        There was no sensitivity [?]. We did not even know that we were being bitten.
+        We noticed that the mud would become red from our...
+    - who: David Boder
+      start: '00:17:00.533'
+      end: '00:17:00.533'
+      u: Blood?
+    - who: Edith Serras
+      start: '00:17:01.173'
+      end: '00:17:01.173'
+      u: ". . . from our blood. Leaving the work, we would take the bodies [?] on
+        our shoulders and carry them to the crematories. The SS men beat us [demanding]
+        that we have respect[??; may also mean, That we take care of] for the dead
+        bodies—we should carry them well [properly]. But we, ourselves, were so weak;
+        we, ourselves, could not walk on our feet from such a day's work on a half
+        a liter of soup...of water."
+    - who: David Boder
+      start: '00:17:22.206'
+      end: '00:17:22.206'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:17:23.283'
+      end: '00:17:23.283'
+      u: And he delivered lectures to us, 'You, the dirty Jews; you, who have deprived
+        us for years of bread [this sentence is not clear], you have become rich,
+        you have everything, [gorging yourselves with] food and drink, and now we
+        have brought you here, to punish you. To go to the crematories is too good
+        [for you],' he said. 'We shall make you croak little by little. You will plead
+        for death, but death will not come so soon. Death would be too good a thing
+        for you.' And in this manner we were beaten until twelve o'clock. Women got
+        sick...
+    - who: David Boder
+      start: '00:18:17.775'
+      end: '00:18:17.775'
+      u: Why was that on days when there were no dead?
+    - who: Edith Serras
+      start: '00:18:20.726'
+      end: '00:18:20.726'
+      u: That was on such days...because the SS man who could prove that he has 'produced'
+        dead women in the detail was considered a good worker. He mastered his trade
+        well.
+    - who: David Boder
+      start: '00:18:33.329'
+      end: '00:18:33.329'
+      u: Yes.
+    - who: Edith Serras
+      start: '00:18:33.782'
+      end: '00:18:33.782'
+      u: But on a day when we helped each other morally, and we had run into the water
+        from seven o'clock, and we were not scared by the cold; so there were no dead—the
+        dogs would not bite us. So then he forced us to make genuflections, and we
+        would get demoralized. And in this way we would get sick. And to a lot of
+        women—he tore their heart apart [aggravated them]. They got sick from not
+        eating and from the cold, and so they went to the crematories anyhow. That
+        was an extermination detail of a sort [Pause].
+    - who: David Boder
+      start: '00:19:08.327'
+      end: '00:19:08.327'
+      u: Now...go on.
+    - who: Edith Serras
+      start: '00:19:10.966'
+      end: '00:19:10.966'
+      u: "[Pause] The...[pause again. She apparently weeps.] The conditions for us
+        were very bad. At every instant they told us that we have come here to die.
+        When one would forget herself, and break out in laughter during the work,
+        the SS women would tell us, 'Don't laugh'. You have come here to die—to croak.
+        You will never get out of here. You won't see liberty.' We noticed that the
+        lager was an extermination lager, and that we shall not come out of there
+        alive. So we started to organize ourselves around the BUND [a Jewish-Lithuanian,
+        and Jewish-Russian social-democratic organization, which originated still
+        in the time of the Zcar]. Only political women who have come to the lager
+        and who knew that they live to fight against Fascism and Hitlerism. So we
+        started to organize resistance in the lager. We could not accomplish much
+        with our work, because we had nothing in our hands. When a woman would get
+        sick in the winter—we were permitted to wear only one shirt and one dress,
+        and not [?] a little piece of warm underwear. So when we would see that one
+        has become sick—she would get pneumonia or some other disease—the healthier
+        women would take off their underwear and give it to the sick one. And so we
+        all kept up the spirit of each other [???]. When one would get sick, and we
+        did not want her to die, so we gave a little piece of bread. Everyone had
+        to give a little piece of her own in order to help to support her health.
+        And thanks to such an organization in which we have committed ourselves to
+        help one another, we saw that we would be able to save ourselves. And we also
+        knew that they would exterminate us, so we saw...we started to organize ourselves
+        and to make propaganda that we should defend ourselves against Sommer? could
+        that be the name of the SS commander] in the lager. For what reason? We should
+        not permit them to 'gas' us."
+    - who: David Boder
+      start: '00:21:09.514'
+      end: '00:21:09.514'
+      u: Not to permit what?
+    - who: Edith Serras
+      start: '00:21:10.794'
+      end: '00:21:10.794'
+      u: ". . . to gas [-kill-—to take us into the gas chambers]. We should not let
+        them take us into the gas [chambers]. We formed an organization..."
+    - who: David Boder
+      start: '00:21:15.776'
+      end: '00:21:15.776'
+      u: ". . . to the gas chambers."
+    - who: Edith Serras
+      start: '00:21:16.447'
+      end: '00:21:16.447'
+      u: ". . . to the gas chambers. We formed an organization together with the men.
+        We 'organized' [we stole] scissors. [The word 'organize' meant stealing in
+        the lager lingo. In this particular section of the interview the word is rather
+        confusing.]"
+    - who: David Boder
+      start: '00:21:20.960'
+      end: '00:21:20.960'
+      u: You organized what?
+    - who: Edith Serras
+      start: '00:21:25.725'
+      end: '00:21:25.725'
+      u: Scissors, to cut the wires...
+    - who: David Boder
+      start: '00:21:27.584'
+      end: '00:21:27.584'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:21:28.084'
+      end: '00:21:28.084'
+      u: ". . . of the lager."
+    - who: David Boder
+      start: '00:21:28.772'
+      end: '00:21:28.772'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:21:29.350'
+      end: '00:21:29.350'
+      u: We 'organized' [stole] knives. We made large excavations outside the block
+        and hid a lot of things—clubs, [one word not clear]. So if they should come
+        to exterminate us, block by block, we should defend ourselves, and we should
+        tear the wires, and cut the electricity, and we should blow up the crematories.
+        That happened in the winter [?] of '44. When they came to take a detail for
+        gas-killing in the gas chambers, our men with whom we were organized together—thanks
+        to our organization- they blew up two gas chambers. And since that day they
+        did not gas-kill [?] anymore. [See story of Anna Kovitzka, Spools no. 164B,
+        165, 166A.]
+    - who: David Boder
+      start: '00:22:07.891'
+      end: '00:22:07.891'
+      u: What was done to the men who blew up the gas chamber?
+    - who: Edith Serras
+      start: '00:22:11.062'
+      end: '00:22:11.062'
+      u: They were all shot.
+    - who: David Boder
+      start: '00:22:12.749'
+      end: '00:22:12.749'
+      u: They were shot?
+    - who: Edith Serras
+      start: '00:22:14.030'
+      end: '00:22:14.030'
+      u: Yes. The men had cut the wires and [word not clear]...
+    - who: David Boder
+      start: '00:22:16.920'
+      end: '00:22:16.920'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:22:17.576'
+      end: '00:22:17.576'
+      u: So that the women could run away. We did not know about it because we were
+        outside—ten kilometers away from the lager. And when the SS men had come to
+        exterminate a detail of women [corrects herself], a detail of men, so the
+        men locked themselves in...in the gas [?] chamber and said, 'We are not coming
+        out...We don't want to be exterminated.'
+    - who: David Boder
+      start: '00:22:37.306'
+      end: '00:22:37.306'
+      u: Wait a moment. They locked themselves in...in the gas chamber?
+    - who: Edith Serras
+      start: '00:22:39.540'
+      end: '00:22:39.540'
+      u: In the yard.
+    - who: David Boder
+      start: '00:22:40.712'
+      end: '00:22:40.712'
+      u: They locked themselves in...in the yard, and they said, 'We won't go out...?'
+    - who: Edith Serras
+      start: '00:22:43.992'
+      end: '00:22:43.992'
+      u: "'We won't go out, we don't want to be exterminated! We know that you intend
+        to lead us into the 'gas.''"
+    - who: David Boder
+      start: '00:22:48.147'
+      end: '00:22:48.147'
+      u: Nu...
+    - who: Edith Serras
+      start: '00:22:48.616'
+      end: '00:22:48.616'
+      u: So the SS men said, 'We are taking you for 'transport.' But the men said
+        that a 'transport' meant gas. 'We are already too long in the lager not to
+        know where you will lead us. Everytime when you say 'transport' it means gas.
+        You either lead [the people] to a gas chamber in Auschwitz, or you lead them
+        to the gas chamber in another lager. [She is very agitated and is not clear
+        in places]. -You think [?] to take us into the gas and burn us in Birkenau.
+        We don't want to.' And so the SS men started shooting at the men, and the
+        men shot at them.
+    - who: David Boder
+      start: '00:23:15.653'
+      end: '00:23:15.653'
+      u: Where did they steal...get the arms?
+    - who: Edith Serras
+      start: '00:23:17.465'
+      end: '00:23:17.465'
+      u: They had them—they 'organized' [stole].
+    - who: David Boder
+      start: '00:23:19.230'
+      end: '00:23:19.230'
+      u: Aha.
+    - who: Edith Serras
+      start: '00:23:20.323'
+      end: '00:23:20.323'
+      u: They...
+    - who: David Boder
+      start: '00:23:21.135'
+      end: '00:23:21.135'
+      u: Where could one get them...They organized...?
+    - who: Edith Serras
+      start: '00:23:23.025'
+      end: '00:23:23.025'
+      u: There was gunpowder...There was a factory called Ulian [??]
+    - who: David Boder
+      start: '00:23:26.852'
+      end: '00:23:26.852'
+      u: "[called] what?"
+    - who: Edith Serras
+      start: '00:23:27.789'
+      end: '00:23:27.789'
+      u: Ulion [?] factory.
+    - who: David Boder
+      start: '00:23:28.257'
+      end: '00:23:28.257'
+      u: Union Factory?
+    - who: Edith Serras
+      start: '00:23:29.116'
+      end: '00:23:29.116'
+      u: The Union factory made bombs, and explosive materials.
+    - who: David Boder
+      start: '00:23:32.412'
+      end: '00:23:32.412'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:23:32.787'
+      end: '00:23:32.787'
+      u: And the women, together with the men who worked there, have stolen explosive
+        materials from there and given to the men who worked in the crematories. So
+        that when the moment should come that they would start exterminating the lager,
+        they would blow up the crematories. And the men made a good showing. They
+        blew up both crematories; they cut the wires; and they ran away. But the SS
+        men ran after them—they shot at them. Many were apprehended; they were beaten
+        and clubbed and afterwards shot, and the majority were shot on the road. When
+        their two crematories were destroyed no more people were gas-killed in the
+        lager. And there were no more transports by that time. That was in 1944.
+    - who: David Boder
+      start: '00:24:17.397'
+      end: '00:24:17.397'
+      u: Nu...And then...
+    - who: Edith Serras
+      start: '00:24:19.803'
+      end: '00:24:19.803'
+      u: The...in 1945 the great evacuation of the lager occurred.
+    - who: David Boder
+      start: '00:24:30.739'
+      end: '00:24:30.739'
+      u: Yes. Where were they taken?
+    - who: Edith Serras
+      start: '00:24:32.349'
+      end: '00:24:32.349'
+      u: We were taken from all the lagers around Auschwitz and we were made...we
+        were made to go. We made one hundred twenty kilometers on foot in snow. We
+        discarded everything from ourselves that we were dressed in, because it was
+        impossible to walk in snow without food, without drink.
+    - who: David Boder
+      start: '00:24:47.751'
+      end: '00:24:47.751'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:24:48.204'
+      end: '00:24:48.204'
+      u: I then worked in a sick-ward.
+    - who: David Boder
+      start: '00:24:49.938'
+      end: '00:24:49.938'
+      u: Where?
+    - who: Edith Serras
+      start: '00:24:51.219'
+      end: '00:24:51.219'
+      u: ". . . in a hospital."
+    - who: David Boder
+      start: '00:24:51.719'
+      end: '00:24:51.719'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:24:52.141'
+      end: '00:24:52.141'
+      u: In Auschwitz we had with us many women, women partizans from...[as if recollecting]
+        from Yugoslavia...
+    - who: David Boder
+      start: '00:25:02.984'
+      end: '00:25:02.984'
+      u: From Yugoslavia, Christian...?
+    - who: Edith Serras
+      start: '00:25:04.406'
+      end: '00:25:04.406'
+      u: Christian women. All the five were there to give birth to their children.
+    - who: David Boder
+      start: '00:25:08.905'
+      end: '00:25:08.905'
+      u: What?
+    - who: Edith Serras
+      start: '00:25:09.749'
+      end: '00:25:09.749'
+      u: They were pregnant women.
+    - who: David Boder
+      start: '00:25:12.057'
+      end: '00:25:12.057'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:25:12.686'
+      end: '00:25:12.686'
+      u: We traveled on foot one hundred twenty kilometers. They shot men, women and
+        children. Beside the roads [?] mountains of people were lying, shot, because
+        they were unable to walk. Whoever went near the roadside [??] was also shot.
+        Those who could walk, walked. And those who remained behind were shot. The
+        majority were shot. And that is how we arrived in Breslau. Breslau is the
+        border [town] between Poland and Germany. We were loaded into open railroad
+        cars [gondolas or flat cars]. That was the eighteenth of January. In the summer,
+        the time of the great deportations, we were loaded into closed, stuffy cars.
+        In the wintertime we were placed in open cars. It snowed over us. Three days...
+    - who: David Boder
+      start: '00:26:03.851'
+      end: '00:26:03.851'
+      u: In open cars...?
+    - who: Edith Serras
+      start: '00:26:05.101'
+      end: '00:26:05.101'
+      u: In open cars. It snowed all over us three days and three nights. I found
+        myself in a car, in an open one, with the five women, with sick little children,
+        and with sick women, because I had the people [?] from the sickroom. The five
+        women gave birth to their babies. That was a picture which I shall not be
+        able to forget in my lifetime.
+    - who: David Boder
+      start: '00:26:24.190'
+      end: '00:26:24.190'
+      u: They gave birth to the children in the cars?
+    - who: Edith Serras
+      start: '00:26:26.628'
+      end: '00:26:26.628'
+      u: They came down in labor [Few words not clear]. They were lying stretched
+        out, half-naked, to give birth to their babies. They could not be active [proceed
+        with labor], and so were not able to give birth to the babies.
+    - who: David Boder
+      start: '00:26:42.223'
+      end: '00:26:42.223'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:26:42.942'
+      end: '00:26:42.942'
+      u: A woman when she is about to have a baby must be active, she must expell
+        the child from her body. The woman had no strength; she was frozen. It snowed
+        over her—it showed over her body [abdomen]. The babies—there were moments
+        when we pleaded with the women...We took off our dresses and threw them over
+        her, over the sick woman, so she could...she was frozen...
+    - who: David Boder
+      start: '00:27:03.559'
+      end: '00:27:03.559'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:27:04.215'
+      end: '00:27:04.215'
+      u: And we pleaded with the women! 'Be active, deliver your child, gather strength,'
+        but the women [?] was so weakened and said, 'I [We] can't. [There is a constant
+        mixture of singular and plural. She speaks of one and the five pregnant women
+        interchangeably.] I...we are cold.' We saw the baby emerging with a half-head
+        outside and it goes back. The baby is...cannot come out. Finally, it lasted
+        three days and three nights, and the women gave birth to their children—live
+        children on the snow.
+    - who: David Boder
+      start: '00:27:34.121'
+      end: '00:27:34.121'
+      u: All five?
+    - who: Edith Serras
+      start: '00:27:35.589'
+      end: '00:27:35.589'
+      u: All five.
+    - who: David Boder
+      start: '00:27:36.620'
+      end: '00:27:36.620'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:27:37.214'
+      end: '00:27:37.214'
+      u: All alive [?]. It lasted three days and three nights. And in a corner of
+        the car little children were lying and saw how women have children.
+    - who: David Boder
+      start: '00:27:46.808'
+      end: '00:27:46.808'
+      u: Hm...
+    - who: David Boder
+      start: '00:29:19.470'
+      end: '00:29:19.470'
+      u: "[Drop in attention] Where was that, in...in what lager?"
+    - who: Edith Serras
+      start: '00:29:23.261'
+      end: '00:29:23.261'
+      u: In Ravensbrueck.
+    - who: David Boder
+      start: '00:29:24.292'
+      end: '00:29:24.292'
+      u: In Ravensbrueck?
+    - who: Edith Serras
+      start: '00:29:25.057'
+      end: '00:29:25.057'
+      u: Yes. We were put in a large...There were lying all the Auschwitz people,
+        without food—all without drink. At night we were given one...one bread for
+        ten people.
+    - who: David Boder
+      start: '00:29:37.338'
+      end: '00:29:37.338'
+      u: Hm.
+    - who: Edith Serras
+      start: '00:29:38.119'
+      end: '00:29:38.119'
+      u: We got no soup like [we got] in the other lagers—[there] we got soup. We
+        were not given water to wash. We had no toilet—just nothing. And they began
+        to assign us—all the women who had come from Auschwitz, to transports. Very
+        many women perished from [one word not clear] hunger and very many of them
+        did not return. They went on the transports; because each transport meant
+        that more than half of the people will die out.
+    - who: David Boder
+      start: '00:30:06.954'
+      end: '00:30:06.954'
+      u: How many?
+    - who: Edith Serras
+      start: '00:30:08.063'
+      end: '00:30:08.063'
+      u: More than half perished in each transport.
+    - who: David Boder
+      start: '00:30:11.156'
+      end: '00:30:11.156'
+      u: "[In English] This concludes Spool 34. We are changing now to Spool 35. August
+        7, 1946. The interviewee is Mrs. Edith Serras [name may possibly be fictitious].
+        A tattoo number 50306. The Illinois Institute of Technology."
+    - who: David Boder
+      start: '00:30:32.265'
+      end: '00:30:32.265'
+      u: This is Spool Number 35, continuation of 34, an interview with Mrs. Edith
+        Sear...Serras. Serras.
+    - who: David Boder
+      start: '00:30:42.670'
+      end: '00:30:42.670'
+      u: "[In Yiddish] Now then, we were [talking] about you remaining on the railroad
+        cars wtih the women, with the SS, and the five women gave birth to their children
+        there, in the open railroad cars. In what month was that?"
+    - who: Edith Serras
+      start: '00:30:56.039'
+      end: '00:30:56.039'
+      u: That was the 18th...that was the 18th of January.
+    - who: David Boder
+      start: '00:31:02.975'
+      end: '00:31:02.975'
+      u: January. What year?
+    - who: Edith Serras
+      start: '00:31:03.832'
+      end: '00:31:03.832'
+      u: "'45."
+    - who: David Boder
+      start: '00:31:04.221'
+      end: '00:31:04.221'
+      u: In '45. Now then...
+    - who: Edith Serras
+      start: '00:31:05.561'
+      end: '00:31:05.561'
+      u: The women arrived with their children [babies] at Ravensbrueck. And the children
+        did not live, because the girl...because the lagers did not provide milk to
+        raise the children—to maintain their existence.
+    - who: David Boder
+      start: '00:31:18.403'
+      end: '00:31:18.403'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:31:18.980'
+      end: '00:31:18.980'
+      u: And the women...All the time I repeatedly saw that the women were sick, and
+        when we were redeemed...
+    - who: David Boder
+      start: '00:31:27.586'
+      end: '00:31:27.586'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:31:28.238'
+      end: '00:31:28.238'
+      u: ". . . I learned that three women [of the five] have died."
+    - who: David Boder
+      start: '00:31:31.293'
+      end: '00:31:31.293'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:31:31.714'
+      end: '00:31:31.714'
+      u: And the two, sick like the others, possibly perished. I also want to note
+        that in Auschwitz, that was in the year '44, there came to the lager about
+        fifteen to twenty railroad cars with children.
+    - who: David Boder
+      start: '00:31:51.118'
+      end: '00:31:51.118'
+      u: What? Railroad cars...?
+    - who: Edith Serras
+      start: '00:31:52.177'
+      end: '00:31:52.177'
+      u: Railroad cars, with children gathered form all over Europe. Polish children...from
+        all the lagers which were maintained in Poland...
+    - who: David Boder
+      start: '00:32:00.095'
+      end: '00:32:00.095'
+      u: Not only Jewish?
+    - who: Edith Serras
+      start: '00:32:01.217'
+      end: '00:32:01.217'
+      u: Jewish.
+    - who: David Boder
+      start: '00:32:02.043'
+      end: '00:32:02.043'
+      u: All Jewish?
+    - who: Edith Serras
+      start: '00:32:02.822'
+      end: '00:32:02.822'
+      u: All Jewish. And there were several railroad cars, probably with their mothers,
+        but not together with the children. That happened that from the street to
+        the crematory...
+    - who: David Boder
+      start: '00:32:16.755'
+      end: '00:32:16.755'
+      u: From the station?
+    - who: Edith Serras
+      start: '00:32:17.519'
+      end: '00:32:17.519'
+      u: From the station to the crematory a line [of people] was stretched out directly
+        into the crematories. And all the "work" [events] would take place when we
+        were returning from work. We saw and were able to analyze how they were bringing
+        in the children of our sisters and brothers.
+    - who: David Boder
+      start: '00:32:36.550'
+      end: '00:32:36.550'
+      u: What was done to the children, first of all?
+    - who: Edith Serras
+      start: '00:32:37.937'
+      end: '00:32:37.937'
+      u: The children looked out from the railroad cars, with pale little faces, for
+        a long time...
+    - who: David Boder
+      start: '00:32:43.189'
+      end: '00:32:43.189'
+      u: But what was done to the children?
+    - who: Edith Serras
+      start: '00:32:44.623'
+      end: '00:32:44.623'
+      u: The children were led directly to the crematory, to be murdered [?].
+    - who: David Boder
+      start: '00:32:47.772'
+      end: '00:32:47.772'
+      u: Yes, but...not to the gas chamber?
+    - who: Edith Serras
+      start: '00:32:49.751'
+      end: '00:32:49.751'
+      u: To the gas chamber.
+    - who: David Boder
+      start: '00:32:50.562'
+      end: '00:32:50.562'
+      u: To the gas chamber...
+    - who: Edith Serras
+      start: '00:32:51.372'
+      end: '00:32:51.372'
+      u: To the gas chamber.
+    - who: David Boder
+      start: '00:32:52.291'
+      end: '00:32:52.291'
+      u: Nu...
+    - who: Edith Serras
+      start: '00:32:52.743'
+      end: '00:32:52.743'
+      u: And the children asked us, 'Are you Jewish women?'
+    - who: David Boder
+      start: '00:32:56.359'
+      end: '00:32:56.359'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:32:56.983'
+      end: '00:32:56.983'
+      u: "'Are they leading us to the gas chamber? Or will we still live?'"
+    - who: David Boder
+      start: '00:33:01.067'
+      end: '00:33:01.067'
+      u: How old were the children?
+    - who: Edith Serras
+      start: '00:33:01.847'
+      end: '00:33:01.847'
+      u: There were various ages. There were children up to seventeen-eighteen years,
+        and five years and three years and two years; and six years, and eight years,
+        and ten years.
+    - who: David Boder
+      start: '00:33:11.542'
+      end: '00:33:11.542'
+      u: And they were separated from their mothers?
+    - who: Edith Serras
+      start: '00:33:13.880'
+      end: '00:33:13.880'
+      u: The mothers were in other RR-cars and the children, too, were in other RR-cars.
+    - who: David Boder
+      start: '00:33:19.310'
+      end: '00:33:19.310'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:33:19.871'
+      end: '00:33:19.871'
+      u: And the children had asked us whether we were Jewish women.
+    - who: David Boder
+      start: '00:33:23.581'
+      end: '00:33:23.581'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:33:24.033'
+      end: '00:33:24.033'
+      u: And whether they are led...We should tell them whether they are being led
+        to the gas chamber or whether they are being led to live on.
+    - who: David Boder
+      start: '00:33:30.984'
+      end: '00:33:30.984'
+      u: Nu...
+    - who: Edith Serras
+      start: '00:33:31.468'
+      end: '00:33:31.468'
+      u: And the children did not cry. With dried [?] out eyes, with pale little faces,
+        they understood that they were going towards death. I want to note also...That
+        happened...
+    - who: David Boder
+      start: '00:33:42.519'
+      end: '00:33:42.519'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:33:44.530'
+      end: '00:33:44.530'
+      u: ". . . with the large transports from Hungary."
+    - who: David Boder
+      start: '00:33:46.136'
+      end: '00:33:46.136'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:33:46.666'
+      end: '00:33:46.666'
+      u: They shipped Jewish transports—women, men and children. Children who were
+        going around nicely dressed, whom their parents had taken out for a walk [??].
+        Mothers beautifully dressed—young mothers led their little tots in their...in
+        their buggies.
+    - who: David Boder
+      start: '00:34:05.478'
+      end: '00:34:05.478'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:34:06.522'
+      end: '00:34:06.522'
+      u: In buggies they have led the children, dressed up; and they pushed the buggies
+        going directly to the crematories. It lasted several months. The crematories
+        burned through the nights. And the pits were burning. There were four crematories
+        and four large pits.
+    - who: David Boder
+      start: '00:34:22.264'
+      end: '00:34:22.264'
+      u: Yes. Tell me about the pits.
+    - who: Edith Serras
+      start: '00:34:23.791'
+      end: '00:34:23.791'
+      u: The four large pits were located in Yesinka [the spelling is probably incorrect].
+    - who: David Boder
+      start: '00:34:27.313'
+      end: '00:34:27.313'
+      u: "[Transcribers note: No text found in original text.]"
+    - who: Edith Serras
+      start: '00:34:28.311'
+      end: '00:34:28.311'
+      u: Yes. And there were older people burned and also children.
+    - who: David Boder
+      start: '00:34:37.585'
+      end: '00:34:37.585'
+      u: Yes. How were they put to death?
+    - who: Edith Serras
+      start: '00:34:39.643'
+      end: '00:34:39.643'
+      u: They were...There are very many [people] who say that very many were burned
+        alive because there was no gas [See Matzner's story].
+    - who: David Boder
+      start: '00:34:47.015'
+      end: '00:34:47.015'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:34:48.184'
+      end: '00:34:48.184'
+      u: All the people who were gassed...
+    - who: David Boder
+      start: '00:34:50.116'
+      end: '00:34:50.116'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:34:50.865'
+      end: '00:34:50.865'
+      u: It was done so fast—when they would take six or ten...let us say, they took
+        ten 'bidon' of gass...
+    - who: David Boder
+      start: '00:34:58.424'
+      end: '00:34:58.424'
+      u: Ten what?
+    - who: Edith Serras
+      start: '00:34:59.952'
+      end: '00:34:59.952'
+      u: Ten 'bidon'—that is...those were large...such large containers.
+    - who: David Boder
+      start: '00:35:05.095'
+      end: '00:35:05.095'
+      u: Yes...Tin...tin boxes?
+    - who: Edith Serras
+      start: '00:35:07.432'
+      end: '00:35:07.432'
+      u: Yes.
+    - who: David Boder
+      start: '00:35:09.895'
+      end: '00:35:09.895'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:35:10.331'
+      end: '00:35:10.331'
+      u: So they would take a thousand bundles [? of clothing] to clean them—thousand
+        bundles [?] of ours.
+    - who: David Boder
+      start: '00:35:18.249'
+      end: '00:35:18.249'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:35:18.779'
+      end: '00:35:18.779'
+      u: We were contaminated with lice.
+    - who: David Boder
+      start: '00:35:19.855'
+      end: '00:35:19.855'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:35:20.307'
+      end: '00:35:20.307'
+      u: We were full of vermin in our clothes [?].
+    - who: David Boder
+      start: '00:35:23.252'
+      end: '00:35:23.252'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:35:23.751'
+      end: '00:35:23.751'
+      u: They would eat us alive.
+    - who: David Boder
+      start: '00:35:24.717'
+      end: '00:35:24.717'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:35:25.247'
+      end: '00:35:25.247'
+      u: So they would make a...
+    - who: David Boder
+      start: '00:35:26.057'
+      end: '00:35:26.057'
+      u: ". . . a disinfection [fumigation]?"
+    - who: Edith Serras
+      start: '00:35:28.395'
+      end: '00:35:28.395'
+      u: ". . . a disinfection."
+    - who: David Boder
+      start: '00:35:29.206'
+      end: '00:35:29.206'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:35:29.767'
+      end: '00:35:29.767'
+      u: So they would take poison [?] gas...
+    - who: David Boder
+      start: '00:35:31.934'
+      end: '00:35:31.934'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:35:32.417'
+      end: '00:35:32.417'
+      u: ". . . to disinfect our things."
+    - who: David Boder
+      start: '00:35:33.445'
+      end: '00:35:33.445'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:35:34.100'
+      end: '00:35:34.100'
+      u: And in the same manner as they would take ten containers of gas...
+    - who: David Boder
+      start: '00:35:36.126'
+      end: '00:35:36.126'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:35:36.562'
+      end: '00:35:36.562'
+      u: ". . . for hundr[ed]...for thousands of people...for the clothes of a thousand
+        people."
+    - who: David Boder
+      start: '00:35:41.019'
+      end: '00:35:41.019'
+      u: ". . . people..."
+    - who: Edith Serras
+      start: '00:35:41.393'
+      end: '00:35:41.393'
+      u: They would take five for gas killing...They would take five containers of
+        gas to gas-kill a thousand people.
+    - who: David Boder
+      start: '00:35:46.334'
+      end: '00:35:46.334'
+      u: Now...
+    - who: Edith Serras
+      start: '00:35:46.926'
+      end: '00:35:46.926'
+      u: That means that the people, in order to be killed by the gas...
+    - who: David Boder
+      start: '00:35:50.701'
+      end: '00:35:50.701'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:35:51.200'
+      end: '00:35:51.200'
+      u: ". . . needed a minimum of three quarters of an hour."
+    - who: David Boder
+      start: '00:35:50.734'
+      end: '00:35:50.734'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:35:53.973'
+      end: '00:35:53.973'
+      u: But there was no time...three quarters of an hour.
+    - who: David Boder
+      start: '00:35:55.984'
+      end: '00:35:55.984'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:35:56.592'
+      end: '00:35:56.592'
+      u: The people were gassed every ten minutes, and in the next...after [?] they
+        were gassed, there would open...
+    - who: David Boder
+      start: '00:36:06.006'
+      end: '00:36:06.006'
+      u: ". . . the door?"
+    - who: Edith Serras
+      start: '00:36:09.138'
+      end: '00:36:09.138'
+      u: ". . . the door, in two [the floor would part in two], and they would fall
+        down into the celar and other thousands would come in their place."
+    - who: David Boder
+      start: '00:36:16.526'
+      end: '00:36:16.526'
+      u: Fall down where?
+    - who: Edith Serras
+      start: '00:36:17.430'
+      end: '00:36:17.430'
+      u: The gassed...
+    - who: David Boder
+      start: '00:36:18.428'
+      end: '00:36:18.428'
+      u: ". . . into the celar?"
+    - who: Edith Serras
+      start: '00:36:19.269'
+      end: '00:36:19.269'
+      u: ". . . into the cellar."
+    - who: David Boder
+      start: '00:36:19.752'
+      end: '00:36:19.752'
+      u: Were they dead?
+    - who: Edith Serras
+      start: '00:36:20.765'
+      end: '00:36:20.765'
+      u: No.
+    - who: David Boder
+      start: '00:36:21.311'
+      end: '00:36:21.311'
+      u: They were only...
+    - who: Edith Serras
+      start: '00:36:22.729'
+      end: '00:36:22.729'
+      u: They were only...put to sleep.
+    - who: David Boder
+      start: '00:36:25.425'
+      end: '00:36:25.425'
+      u: Just stunned? Yes, and then...
+    - who: Edith Serras
+      start: '00:36:26.531'
+      end: '00:36:26.531'
+      u: And then they would take another thousand...
+    - who: David Boder
+      start: '00:36:28.479'
+      end: '00:36:28.479'
+      u: And what was done with those who were in the cellar?
+    - who: Edith Serras
+      start: '00:36:30.583'
+      end: '00:36:30.583'
+      u: They were removed with such a machine...
+    - who: David Boder
+      start: '00:36:33.996'
+      end: '00:36:33.996'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:36:34.572'
+      end: '00:36:34.572'
+      u: ". . . which is used to load coal."
+    - who: David Boder
+      start: '00:36:35.881'
+      end: '00:36:35.881'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:36:36.349'
+      end: '00:36:36.349'
+      u: And the bodies were pulled out, and they were put in the crematories.
+    - who: David Boder
+      start: '00:36:40.339'
+      end: '00:36:40.339'
+      u: Now, how many could they put into a crematory?
+    - who: Edith Serras
+      start: '00:36:42.755'
+      end: '00:36:42.755'
+      u: Into the crematory? I know very well [exactly] about the crematories, because
+        I have read a letter from a bridegroom from [to] a bride...
+    - who: David Boder
+      start: '00:36:49.833'
+      end: '00:36:49.833'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:36:50.300'
+      end: '00:36:50.300'
+      u: ". . . from Poland."
+    - who: David Boder
+      start: '00:36:50.893'
+      end: '00:36:50.893'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:36:51.532'
+      end: '00:36:51.532'
+      u: He has written in Hebrew...
+    - who: David Boder
+      start: '00:36:53.698'
+      end: '00:36:53.698'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:36:54.228'
+      end: '00:36:54.228'
+      u: ". . . and the bride did not know Hebrew too well."
+    - who: David Boder
+      start: '00:36:56.504'
+      end: '00:36:56.504'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:36:57.018'
+      end: '00:36:57.018'
+      u: But I have read the letter, and that is how I learned what was happening
+        in the crematories.
+    - who: David Boder
+      start: '00:37:02.379'
+      end: '00:37:02.379'
+      u: Yes...And who saw it?
+    - who: Edith Serras
+      start: '00:37:04.358'
+      end: '00:37:04.358'
+      u: I wrote a letter to him and I asked him to tell me how the gas killing occurred.
+        And he told me everything.
+    - who: David Boder
+      start: '00:37:10.701'
+      end: '00:37:10.701'
+      u: And who was he in the crematory, the one who had written that?
+    - who: Edith Serras
+      start: '00:37:14.769'
+      end: '00:37:14.769'
+      u: He was a prisoner.
+    - who: David Boder
+      start: '00:37:16.701'
+      end: '00:37:16.701'
+      u: He was one of those who worked there?
+    - who: Edith Serras
+      start: '00:37:18.306'
+      end: '00:37:18.306'
+      u: ". . . who worked there; who was assigned [?] to work there."
+    - who: David Boder
+      start: '00:37:20.956'
+      end: '00:37:20.956'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:37:21.517'
+      end: '00:37:21.517'
+      u: So he wrote to me about the way the people were gas-killed there.
+    - who: David Boder
+      start: '00:37:24.478'
+      end: '00:37:24.478'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:37:24.915'
+      end: '00:37:24.915'
+      u: And I also talked to a girl who...she was already in the gas chamber...
+    - who: David Boder
+      start: '00:37:30.573'
+      end: '00:37:30.573'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:37:31.166'
+      end: '00:37:31.166'
+      u: But she was taken out.
+    - who: David Boder
+      start: '00:37:33.161'
+      end: '00:37:33.161'
+      u: How come?
+    - who: Edith Serras
+      start: '00:37:33.707'
+      end: '00:37:33.707'
+      u: Due to great connections.
+    - who: David Boder
+      start: '00:37:34.938'
+      end: '00:37:34.938'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:37:35.422'
+      end: '00:37:35.422'
+      u: So she was taken out to remain alive.
+    - who: David Boder
+      start: '00:37:37.433'
+      end: '00:37:37.433'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:37:37.932'
+      end: '00:37:37.932'
+      u: And she was with me in the same detail. Unfortunately...
+    - who: David Boder
+      start: '00:37:40.566'
+      end: '00:37:40.566'
+      u: From where was she taken out from the cellar?
+    - who: Edith Serras
+      start: '00:37:41.984'
+      end: '00:37:41.984'
+      u: From the gas, from the gas chamber.
+    - who: David Boder
+      start: '00:37:42.888'
+      end: '00:37:42.888'
+      u: While the gas chamber...After they were...When did that...?
+    - who: Edith Serras
+      start: '00:37:46.472'
+      end: '00:37:46.472'
+      u: The gas chamber...The gas chamber was a very large hall.
+    - who: David Boder
+      start: '00:37:48.716'
+      end: '00:37:48.716'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:37:49.261'
+      end: '00:37:49.261'
+      u: The thousand people could get into it.
+    - who: David Boder
+      start: '00:37:51.381'
+      end: '00:37:51.381'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:37:52.036'
+      end: '00:37:52.036'
+      u: The people were completely naked—men and women.
+    - who: David Boder
+      start: '00:37:55.558'
+      end: '00:37:55.558'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:37:56.197'
+      end: '00:37:56.197'
+      u: Now enters an SS man with a gas mask on his face...
+    - who: David Boder
+      start: '00:37:59.486'
+      end: '00:37:59.486'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:38:00.639'
+      end: '00:38:00.639'
+      u: ". . . and says that they should sing...or they should yell."
+    - who: David Boder
+      start: '00:38:03.413'
+      end: '00:38:03.413'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:38:03.771'
+      end: '00:38:03.771'
+      u: So that they could die quicker.
+    - who: David Boder
+      start: '00:38:06.125'
+      end: '00:38:06.125'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:38:06.842'
+      end: '00:38:06.842'
+      u: In that instant she...she was already in the gas chamber.
+    - who: David Boder
+      start: '00:38:11.300'
+      end: '00:38:11.300'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:38:11.908'
+      end: '00:38:11.908'
+      u: And a telephone call came to get her out, because she has great connections.
+    - who: David Boder
+      start: '00:38:14.292'
+      end: '00:38:14.292'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:38:14.744'
+      end: '00:38:14.744'
+      u: So she told how things happened.
+    - who: David Boder
+      start: '00:38:16.022'
+      end: '00:38:16.022'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:38:16.583'
+      end: '00:38:16.583'
+      u: The women started yelling and crying to riot and to fight, but the gas overcomes
+        them and the people...in a few seconds they are gassed...
+    - who: David Boder
+      start: '00:38:30.781'
+      end: '00:38:30.781'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:38:31.265'
+      end: '00:38:31.265'
+      u: Stunned.
+    - who: David Boder
+      start: '00:38:31.764'
+      end: '00:38:31.764'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:38:32.262'
+      end: '00:38:32.262'
+      u: And then the floor opens and they fall down into the cellar.
+    - who: David Boder
+      start: '00:38:34.756'
+      end: '00:38:34.756'
+      u: And...
+    - who: Edith Serras
+      start: '00:38:35.567'
+      end: '00:38:35.567'
+      u: And they are not yet dead.
+    - who: David Boder
+      start: '00:38:37.141'
+      end: '00:38:37.141'
+      u: And from there...?
+    - who: Edith Serras
+      start: '00:38:38.450'
+      end: '00:38:38.450'
+      u: And from there they were thrown into the fire; and the people were...were
+        not actually dead people. That happened with the great transports from Hungary—because
+        in six weeks they burned twenties of thousands of people [she uses a plural
+        of twenty as we would use the plural of ten, viz. tens of thousands]. They
+        had no time that the people be completely dead...
+    - who: David Boder
+      start: '00:38:57.372'
+      end: '00:38:57.372'
+      u: And they were burned in the ovens and in the pits?
+    - who: Edith Serras
+      start: '00:39:00.177'
+      end: '00:39:00.177'
+      u: In the pits...four pits and four crematories. They worked day and night,
+        and in the lager...
+    - who: David Boder
+      start: '00:39:05.865'
+      end: '00:39:05.865'
+      u: What were these pits? Large ditches?
+    - who: Edith Serras
+      start: '00:39:08.857'
+      end: '00:39:08.857'
+      u: Large, rectangular ditches with [two words not clear]
+    - who: David Boder
+      start: '00:39:11.241'
+      end: '00:39:11.241'
+      u: ". . . and then..."
+    - who: Edith Serras
+      start: '00:39:12.409'
+      end: '00:39:12.409'
+      u: ". . . and so deep."
+    - who: David Boder
+      start: '00:39:13.438'
+      end: '00:39:13.438'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:39:13.905'
+      end: '00:39:13.905'
+      u: And they were smeared with a kind of grease.
+    - who: David Boder
+      start: '00:39:16.991'
+      end: '00:39:16.991'
+      u: Oh...
+    - who: Edith Serras
+      start: '00:39:18.129'
+      end: '00:39:18.129'
+      u: And the people were thrown in...
+    - who: David Boder
+      start: '00:39:19.609'
+      end: '00:39:19.609'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:39:20.295'
+      end: '00:39:20.295'
+      u: ". . . and inflamable material thrown over them."
+    - who: David Boder
+      start: '00:39:23.553'
+      end: '00:39:23.553'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:39:24.020'
+      end: '00:39:24.020'
+      u: And so the pits burned incessantly day and night, without letting up.
+    - who: David Boder
+      start: '00:39:27.449'
+      end: '00:39:27.449'
+      u: Did they make new pits for the others of did they wait until these...
+    - who: Edith Serras
+      start: '00:39:32.421'
+      end: '00:39:32.421'
+      u: These were burned out, and the sand [dust or ashes] was taken out, and with
+        the sand...come winter the sand was sprinkled over the fields to 'fatten'
+        the fields.
+    - who: David Boder
+      start: '00:39:43.924'
+      end: '00:39:43.924'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:39:44.329'
+      end: '00:39:44.329'
+      u: And in this manner the annihilated the transports from Hungary.
+    - who: David Boder
+      start: '00:39:48.787'
+      end: '00:39:48.787'
+      u: And these were Jews?
+    - who: Edith Serras
+      start: '00:39:51.359'
+      end: '00:39:51.359'
+      u: These were Jews.
+    - who: David Boder
+      start: '00:39:52.356'
+      end: '00:39:52.356'
+      u: Now...
+    - who: Edith Serras
+      start: '00:39:53.590'
+      end: '00:39:53.590'
+      u: We heard—my block was the twenty-seventh block, across from the gas chamber.
+        We heard the screams of the men and women being gassed.
+    - who: David Boder
+      start: '00:40:03.737'
+      end: '00:40:03.737'
+      u: And why was your block not taken?
+    - who: Edith Serras
+      start: '00:40:07.011'
+      end: '00:40:07.011'
+      u: There had remained a fixed contingent [these words are an inference, they
+        are not clear] in the lager. That is, it held a definite 'percentage' [quantity]
+        of people.
+    - who: David Boder
+      start: '00:40:12.353'
+      end: '00:40:12.353'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:40:13.277'
+      end: '00:40:13.277'
+      u: If that percentage was surpassed, then people were taken from the lager and
+        also gassed.
+    - who: David Boder
+      start: '00:40:20.197'
+      end: '00:40:20.197'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:40:20.851'
+      end: '00:40:20.851'
+      u: It happened...
+    - who: David Boder
+      start: '00:40:23.796'
+      end: '00:40:23.796'
+      u: Oh, they gassed those [newly] brought in.
+    - who: Edith Serras
+      start: '00:40:26.196'
+      end: '00:40:26.196'
+      u: ". . . brought in from...from the outside."
+    - who: David Boder
+      start: '00:40:28.159'
+      end: '00:40:28.159'
+      u: Aha, those who were gassed were...were not [previously] in the lager?
+    - who: Edith Serras
+      start: '00:40:31.868'
+      end: '00:40:31.868'
+      u: Were not yet...were not yet in the lager.
+    - who: David Boder
+      start: '00:40:34.658'
+      end: '00:40:34.658'
+      u: Oh...
+    - who: Edith Serras
+      start: '00:40:35.141'
+      end: '00:40:35.141'
+      u: I shall tell you about a wedding, when they took people from France. That
+        was in the last transport of the year '44.
+    - who: David Boder
+      start: '00:40:41.998'
+      end: '00:40:41.998'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:40:42.527'
+      end: '00:40:42.527'
+      u: They exterminated the last Jewish transport, with two brides.
+    - who: David Boder
+      start: '00:40:45.644'
+      end: '00:40:45.644'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:40:46.346'
+      end: '00:40:46.346'
+      u: They were still dressed up in their [wedding] dresses, with their...with
+        their...
+    - who: David Boder
+      start: '00:40:49.884'
+      end: '00:40:49.884'
+      u: long veil?
+    - who: Edith Serras
+      start: '00:40:53.032'
+      end: '00:40:53.032'
+      u: ". . . long veil; and the little tots who carry the veil...[the word apparently
+        means 'train'] also perished. They arrested two weddings, the brides with
+        the groom [s], with the parents and the invited..."
+    - who: David Boder
+      start: '00:41:04.878'
+      end: '00:41:04.878'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:41:05.517'
+      end: '00:41:05.517'
+      u: ". . . and they all went into the gas [Here the Yiddish word gas, meaning
+        'street' conflicts conspicuously with the German-Yiddish word gas meaning
+        the same as the English word 'gas, a volatile chemical'], and the music played
+        in the lager."
+    - who: David Boder
+      start: '00:41:09.143'
+      end: '00:41:09.143'
+      u: "'Gas' means 'street?'"
+    - who: Edith Serras
+      start: '00:41:10.625'
+      end: '00:41:10.625'
+      u: Into the gas chamber.
+    - who: David Boder
+      start: '00:41:11.776'
+      end: '00:41:11.776'
+      u: Yes...And the music played?
+    - who: Edith Serras
+      start: '00:41:14.062'
+      end: '00:41:14.062'
+      u: The music played at the transport.
+    - who: David Boder
+      start: '00:41:15.639'
+      end: '00:41:15.639'
+      u: What kind of music was there?
+    - who: Edith Serras
+      start: '00:41:17.562'
+      end: '00:41:17.562'
+      u: There was in the lager a...
+    - who: David Boder
+      start: '00:41:19.691'
+      end: '00:41:19.691'
+      u: An orchestra?
+    - who: Edith Serras
+      start: '00:41:21.189'
+      end: '00:41:21.189'
+      u: a band...an orchestra.
+    - who: David Boder
+      start: '00:41:22.608'
+      end: '00:41:22.608'
+      u: Of whom? Of prisoners?
+    - who: Edith Serras
+      start: '00:41:23.491'
+      end: '00:41:23.491'
+      u: Of prisoners.
+    - who: David Boder
+      start: '00:41:23.980'
+      end: '00:41:23.980'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:41:24.390'
+      end: '00:41:24.390'
+      u: And when the people would arrive at the lager, to go into the gas chamber,
+        so they did not know that they were going to the gas chamber, and the music
+        played Chopin—the music played classical...
+    - who: David Boder
+      start: '00:41:35.049'
+      end: '00:41:35.049'
+      u: Where was the music standing?
+    - who: Edith Serras
+      start: '00:41:36.957'
+      end: '00:41:36.957'
+      u: The music was standing in the lager.
+    - who: David Boder
+      start: '00:41:38.975'
+      end: '00:41:38.975'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:41:39.668'
+      end: '00:41:39.668'
+      u: And they played.
+    - who: David Boder
+      start: '00:41:40.882'
+      end: '00:41:40.882'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:41:41.386'
+      end: '00:41:41.386'
+      u: And the people who were coming to the lager to go into the gas chamber...
+    - who: David Boder
+      start: '00:41:44.938'
+      end: '00:41:44.938'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:41:45.501'
+      end: '00:41:45.501'
+      u: ". . . heard music playing—classical music. And from the distance one could
+        even see the flames within the smoke..."
+    - who: David Boder
+      start: '00:41:52.265'
+      end: '00:41:52.265'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:41:52.738'
+      end: '00:41:52.738'
+      u: ". . . Red flames, which were going up as far as the sky. One recognized,
+        one sensed the burning flesh of people—human flesh was burning. But it was
+        done so quickly, and the music played so [well] and its tunes were so cheerful
+        [?], that the people could not understand that they were going into the chamber
+        of death."
+    - who: David Boder
+      start: '00:42:14.577'
+      end: '00:42:14.577'
+      u: And those were Jewish prisoners who played.
+    - who: Edith Serras
+      start: '00:42:15.964'
+      end: '00:42:15.964'
+      u: Those were Jewish prisoners.
+    - who: David Boder
+      start: '00:42:17.461'
+      end: '00:42:17.461'
+      u: Where did they g...g...get the instruments?
+    - who: Edith Serras
+      start: '00:42:19.747'
+      end: '00:42:19.747'
+      u: That was given by the Germans. All the valuables...which they have taken
+        possession, they have collected all the valuables from the Jews.
+    - who: David Boder
+      start: '00:42:33.040'
+      end: '00:42:33.040'
+      u: Yes.
+    - who: Edith Serras
+      start: '00:42:33.892'
+      end: '00:42:33.892'
+      u: And they brought it to the lagers. In the lager the things were cleaned up
+        [sorted out], the things were [word not clear] sent over to Germany.
+    - who: David Boder
+      start: '00:42:40.751'
+      end: '00:42:40.751'
+      u: Aha.
+    - who: Edith Serras
+      start: '00:42:41.256'
+      end: '00:42:41.256'
+      u: They had everything [?]. The SS men were running, to take away the earrings,
+        the finger rings from the women; to pull out the teeth [obviously those with
+        gold crowns, or golden dentures]—that was the greatest loot—the greatest profit
+        for the SS men who were stationed in the lagers. I, myself...
+    - who: David Boder
+      start: '00:42:55.889'
+      end: '00:42:55.889'
+      u: When did they pull out the teeth?
+    - who: Edith Serras
+      start: '00:42:57.071'
+      end: '00:42:57.071'
+      u: After the gassing.
+    - who: David Boder
+      start: '00:42:58.301'
+      end: '00:42:58.301'
+      u: After the gassing.
+    - who: Edith Serras
+      start: '00:42:59.215'
+      end: '00:42:59.215'
+      u: Yes. They often did it to the people alive.
+    - who: David Boder
+      start: '00:43:02.118'
+      end: '00:43:02.118'
+      u: Nu...
+    - who: Edith Serras
+      start: '00:43:02.904'
+      end: '00:43:02.904'
+      u: They did it to the prisoners who were in the lagers while alive, too. I,
+        myself, went through eighteen selections.
+    - who: David Boder
+      start: '00:43:09.339'
+      end: '00:43:09.339'
+      u: Nu...
+    - who: Edith Serras
+      start: '00:43:10.545'
+      end: '00:43:10.545'
+      u: The eighteen selections were to chose a 'percentage' of the people to go
+        into the gas.
+    - who: David Boder
+      start: '00:43:16.557'
+      end: '00:43:16.557'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:43:17.590'
+      end: '00:43:17.590'
+      u: Why did they have to take them to the gas? They would say that we were infested
+        [this word is not clear].
+    - who: David Boder
+      start: '00:43:21.723'
+      end: '00:43:21.723'
+      u: Ah...
+    - who: Edith Serras
+      start: '00:43:23.743'
+      end: '00:43:23.743'
+      u: We were covered with itchy sores from the lice. We were very dirty—so we
+        were taken into the gas.
+    - who: David Boder
+      start: '00:43:29.755'
+      end: '00:43:29.755'
+      u: ". . . into the gas chamber?"
+    - who: Edith Serras
+      start: '00:43:30.883'
+      end: '00:43:30.883'
+      u: ". . . into the gas chamber."
+    - who: David Boder
+      start: '00:43:31.666'
+      end: '00:43:31.666'
+      u: because 'gas' means a street.
+    - who: Edith Serras
+      start: '00:43:33.388'
+      end: '00:43:33.388'
+      u: A street [both chuckle slightly]. If they had to annihilate the whole lager
+        because we had lice, since we were dirty, they should have annihilated the
+        whole lager.
+    - who: David Boder
+      start: '00:43:43.157'
+      end: '00:43:43.157'
+      u: Nu...
+    - who: Edith Serras
+      start: '00:43:43.720'
+      end: '00:43:43.720'
+      u: But it was not in their interest to annihilate the whole lager—They needed
+        the lager to exist; they needed to show to Berlin that they were doing some
+        work. This all was a bluff [she uses the English word] because we...we were
+        not performing any useful work. We were doing punitive work—extermination
+        work. This was done to exterminate us. We would carry rocks. From one place
+        to another we would carry rocks. We wondered [?] a lot why we were carrying
+        rocks. Why were we doing that kind of work? Would Hitler get richer from it?
+        Would we...get stronger [as a consequence of exercise]? But that was done
+        with the intent to exterminate us.
+    - who: David Boder
+      start: '00:44:20.949'
+      end: '00:44:20.949'
+      u: Nu...
+    - who: Edith Serras
+      start: '00:44:21.794'
+      end: '00:44:21.794'
+      u: We also worked on the...where we made ditches, trenches...
+    - who: David Boder
+      start: '00:44:27.806'
+      end: '00:44:27.806'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:44:28.354'
+      end: '00:44:28.354'
+      u: ". . . for the soldiers."
+    - who: David Boder
+      start: '00:44:29.197'
+      end: '00:44:29.197'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:44:29.450'
+      end: '00:44:29.450'
+      u: That we...we have made, too. We made streets...
+    - who: David Boder
+      start: '00:44:31.767'
+      end: '00:44:31.767'
+      u: See here. You went through eighteen selections.
+    - who: Edith Serras
+      start: '00:44:37.638'
+      end: '00:44:37.638'
+      u: Yes, I have...
+    - who: David Boder
+      start: '00:44:38.358'
+      end: '00:44:38.358'
+      u: How did that happen that you...that you were not taken?
+    - who: Edith Serras
+      start: '00:44:42.225'
+      end: '00:44:42.225'
+      u: Now then...once...it was fate, it was fate [she gives the word in Hebrew—a
+        gourl—both times].
+    - who: David Boder
+      start: '00:44:46.718'
+      end: '00:44:46.718'
+      u: What is a 'gourl?'
+    - who: Edith Serras
+      start: '00:44:47.187'
+      end: '00:44:47.187'
+      u: A 'gourl'—I was not taken. Other women were also not taken. We were in a
+        block of two thousand women. They would take out people from the block to
+        go bathing...bathing...Of course, we did not bathe. But when it was necessary
+        to go into the gas...chamber...
+    - who: David Boder
+      start: '00:45:01.954'
+      end: '00:45:01.954'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:45:02.549'
+      end: '00:45:02.549'
+      u: ". . . then we were told that we would be going bathing. Then we would undress
+        naked. A doctor would come. There stood Zell [?] who was the chief of Auschwitz,
+        and there stood Mandel, that was a woman SS-man who was a chief in Auschwitz,
+        who with her own hands used to lead the children to the gas chamber. That
+        was one of her most important services to lend them. And so the selection
+        proceeded of those who had to go [??], and when they happened to be chosen
+        [?? the last two sentences are not clear] they took the number from the hand..."
+    - who: David Boder
+      start: '00:45:35.664'
+      end: '00:45:35.664'
+      u: How did they take the number from the hand?
+    - who: Edith Serras
+      start: '00:45:37.335'
+      end: '00:45:37.335'
+      u: The number...
+    - who: David Boder
+      start: '00:45:38.053'
+      end: '00:45:38.053'
+      u: Oh, they wrote it down?
+    - who: Edith Serras
+      start: '00:45:39.209'
+      end: '00:45:39.209'
+      u: ". . . wrote it down, the number; and that such and such a number must go
+        into the gas [chamber]."
+    - who: David Boder
+      start: '00:45:41.880'
+      end: '00:45:41.880'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:45:42.520'
+      end: '00:45:42.520'
+      u: Once my number too was taken. But the doctor said, in German...
+    - who: David Boder
+      start: '00:45:48.017'
+      end: '00:45:48.017'
+      u: Nu...
+    - who: Edith Serras
+      start: '00:45:48.563'
+      end: '00:45:48.563'
+      u: "'She can still croak for a few weeks. So have her marked down [??] she will
+        then go into the gas [?].'"
+    - who: David Boder
+      start: '00:45:54.315'
+      end: '00:45:54.315'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:45:55.127'
+      end: '00:45:55.127'
+      u: And in that manner the SS man gave me two big blows over the head, and called
+        me a dirty sow, and ordered me to step aside as fast as possible, to go away.
+        In Ravensbrueck I also was taken once to be gassed; because, although I was
+        only thirty-four years old and I looked like a woman of fifty or fifty-five
+        years. There was a very great selection of the people who had come from Auschwitz.
+        We were all driven outside and the elder of the lager, and he stood and selected
+        the older women, who were to go in gas, and the younger women, who were to
+        remain for work in the front trenches. He asked me how old I was. I told him
+        I was thirty-four years, so he slapped me twice. He threw me to the ground;
+        he trampled me with his feet; he beat me and he said to me, 'You dirty woman
+        that you are. You believe that you may present yourself as a young child.
+        You shall go into the gas chamber with all...the old women.' And he put me
+        among the old women. I made every effort to wiggle myself out. I wiggled myself
+        out from their hands and ran away. I was able to run away because at that
+        day there was a mass raid [?] for the gas chamber and they had no time to
+        take the younger ones. They put the older women aside [kept them] until night,
+        and at night they were led away to the gas chamber—to the Jew lager, as it
+        was called. And so I extricated [wiggled] myself because I had run away, and
+        I took my place again in line, in the following line, so that I could pass
+        by again.
+    - who: David Boder
+      start: '00:47:32.172'
+      end: '00:47:32.172'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:47:32.796'
+      end: '00:47:32.796'
+      u: And this time he assigned me [??] not to go to the gas chamber.
+    - who: David Boder
+      start: '00:47:38.970'
+      end: '00:47:38.970'
+      u: But he could recognize you?
+    - who: Edith Serras
+      start: '00:47:40.703'
+      end: '00:47:40.703'
+      u: In such an instance one does not think much. One thinks only of one thing—one
+        has to save himself...
+    - who: David Boder
+      start: '00:47:45.465'
+      end: '00:47:45.465'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:47:46.450'
+      end: '00:47:46.450'
+      u: ". . . from this detail. Besides I knew that not all will pass by. It was
+        impossible. They passed by [?] in blocks. I got into the last row..."
+    - who: David Boder
+      start: '00:47:49.118'
+      end: '00:47:49.118'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:47:49.758'
+      end: '00:47:49.758'
+      u: And I was waiting until night. And then I did not go anymore. I went over
+        to the sick ward. I joined the 'political' women, French 'political' women
+        who also were arrested. And I told them 'You should know I was taken to be
+        gassed. They have beaten me.' I was badly beaten up and very sick from his
+        blows, and they hid me so that I should go for selections no more.
+    - who: David Boder
+      start: '00:48:18.230'
+      end: '00:48:18.230'
+      u: Nu...
+    - who: Edith Serras
+      start: '00:48:19.135'
+      end: '00:48:19.135'
+      u: And in this manner I remained. This lasted a few weeks, and then we were
+        delivered. It was already the end of the war, that is why they were so set
+        to exterminate us. They did everything that not many people should get out
+        of the lager.
+    - who: David Boder
+      start: '00:48:33.831'
+      end: '00:48:33.831'
+      u: Now then...And how did your liberation come about? The last few days...
+    - who: Edith Serras
+      start: '00:48:39.417'
+      end: '00:48:39.417'
+      u: The SS men had become very downcast the last few days before liberation.
+        They were no longer the great heroes as we imagined them to be. They were
+        the great SS men when Jewish homestead [possibly the word means a makeshift
+        plural of ghettos] were being destroyed; and they would come in to rob and
+        to assault [commit violence]. They appeared to us to be powerful, when we
+        had no weapons to fight against them. They were powerful when we had no food,
+        no drink and we were thrown into the gas chambers. That all, they were capable
+        of doing. But when they saw that there is already shooting in Berlin, and
+        that Berlin was being bombarded; and now we were in Ravensbrueck, eighty kilometers
+        from Berlin, the great heroes [?] who were beating and trampling [people]
+        with their feet had become very 'little' men...
+    - who: David Boder
+      start: '00:49:22.626'
+      end: '00:49:22.626'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:49:23.234'
+      end: '00:49:23.234'
+      u: And they would not beat so badly anymore as before. They became very demoralized.
+    - who: David Boder
+      start: '00:49:28.023'
+      end: '00:49:28.023'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:49:28.990'
+      end: '00:49:28.990'
+      u: And orders came from the 'Red Relief' from Sweden.
+    - who: David Boder
+      start: '00:49:32.234'
+      end: '00:49:32.234'
+      u: Yes...from the Red Cross [It is possible that they were avoiding the word
+        Cross in Jewish. It is obvious the word 'Red' did not mean in this case, 'Russian'].
+    - who: Edith Serras
+      start: '00:49:34.746'
+      end: '00:49:34.746'
+      u: From the Red Cross, that they requested the release of French women, Dutch
+        women, Belgian women and Finnish women. Afterwards they were taking Polish
+        women.
+    - who: David Boder
+      start: '00:49:46.835'
+      end: '00:49:46.835'
+      u: Yes. And you were considered a French woman.
+    - who: Edith Serras
+      start: '00:49:51.421'
+      end: '00:49:51.421'
+      u: I was considered a French woman. All women who were deported from France
+        have become...were considered as French women.
+    - who: David Boder
+      start: '00:50:00.219'
+      end: '00:50:00.219'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:50:00.780'
+      end: '00:50:00.780'
+      u: And I was liberated by the French 'Red Relief'...
+    - who: David Boder
+      start: '00:50:04.898'
+      end: '00:50:04.898'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:50:05.584'
+      end: '00:50:05.584'
+      u: I came to Sweden.
+    - who: David Boder
+      start: '00:50:06.817'
+      end: '00:50:06.817'
+      u: Nu...
+    - who: Edith Serras
+      start: '00:50:07.893'
+      end: '00:50:07.893'
+      u: When we arrived in Sweden, when...the majority of the women were very sick.
+    - who: David Boder
+      start: '00:50:13.353'
+      end: '00:50:13.353'
+      u: Through the Swedish Red Cross?
+    - who: Edith Serras
+      start: '00:50:14.695'
+      end: '00:50:14.695'
+      u: Red Cross.
+    - who: David Boder
+      start: '00:50:15.505'
+      end: '00:50:15.505'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:50:15.896'
+      end: '00:50:15.896'
+      u: ". . . They were very sick. They gave us great care [?] there."
+    - who: David Boder
+      start: '00:50:19.375'
+      end: '00:50:19.375'
+      u: Were you too taken to Sweden [This question is again an apparent result of
+        the entrancement of the interviewer/?
+    - who: Edith Serras
+      start: '00:50:20.206'
+      end: '00:50:20.206'
+      u: Yes.
+    - who: David Boder
+      start: '00:50:20.717'
+      end: '00:50:20.717'
+      u: Oh. Who handed you over to Sweden? The SS men...?
+    - who: Edith Serras
+      start: '00:50:24.180'
+      end: '00:50:24.180'
+      u: The SS men transferred us into the hands of the Swedes...
+    - who: David Boder
+      start: '00:50:27.222'
+      end: '00:50:27.222'
+      u: How many women were there?
+    - who: Edith Serras
+      start: '00:50:29.125'
+      end: '00:50:29.125'
+      u: As many as there were French women. We had...
+    - who: David Boder
+      start: '00:50:32.026'
+      end: '00:50:32.026'
+      u: For instance, how many?
+    - who: Edith Serras
+      start: '00:50:33.741'
+      end: '00:50:33.741'
+      u: We were...I can't tell you exactly...
+    - who: David Boder
+      start: '00:50:38.606'
+      end: '00:50:38.606'
+      u: Now about...one railroad car, two railroad cars, how many?
+    - who: Edith Serras
+      start: '00:50:41.959'
+      end: '00:50:41.959'
+      u: More. We did not travel in railroad cars. We were a group of three hundred
+        and seventy-five women in one lager [in Sweden?]. There were various...
+    - who: David Boder
+      start: '00:50:51.378'
+      end: '00:50:51.378'
+      u: How did you travel to Sweden [word not clear]?
+    - who: Edith Serras
+      start: '00:50:52.813'
+      end: '00:50:52.813'
+      u: We...we were taken in large busses of the Red Cross.
+    - who: David Boder
+      start: '00:50:56.587'
+      end: '00:50:56.587'
+      u: Oh.
+    - who: Edith Serras
+      start: '00:50:57.772'
+      end: '00:50:57.772'
+      u: We traveled in the busses of the Red Cross. The busses came into the lager.
+    - who: David Boder
+      start: '00:51:03.594'
+      end: '00:51:03.594'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:51:04.281'
+      end: '00:51:04.281'
+      u: And took out all the French women.
+    - who: David Boder
+      start: '00:51:06.417'
+      end: '00:51:06.417'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:51:06.979'
+      end: '00:51:06.979'
+      u: Afterwards they took all the Dutch women, Polish women. And there we were
+        given the proper first aid...to the prisoners. They started to rehabilitate
+        [save] us because we were all demoralized and sick. We knew that if the war
+        would have lasted two weeks longer, not a single prisoner would have come
+        to be liberated. There were women who weighed thirty-three kilos, thirty-four
+        kilos. They made the last selection...
+    - who: David Boder
+      start: '00:51:35.777'
+      end: '00:51:35.777'
+      u: And what did the SS men say when you were taken?
+    - who: Edith Serras
+      start: '00:51:38.288'
+      end: '00:51:38.288'
+      u: They said that they wanted to release only the French [?]. They did not want
+        to release the Jewish women.
+    - who: David Boder
+      start: '00:51:43.184'
+      end: '00:51:43.184'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:51:43.637'
+      end: '00:51:43.637'
+      u: They said that they wanted to release only Aryan women.
+    - who: David Boder
+      start: '00:51:46.007'
+      end: '00:51:46.007'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:51:46.350'
+      end: '00:51:46.350'
+      u: On the first transports they sent exclusively Aryan [women] and no Jewish
+        [women]; but the Red Cross protested...
+    - who: David Boder
+      start: '00:51:53.820'
+      end: '00:51:53.820'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:51:54.490'
+      end: '00:51:54.490'
+      u: And they said that they were an international organization, they wanted to
+        take out all who had suffered.
+    - who: David Boder
+      start: '00:51:59.621'
+      end: '00:51:59.621'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:52:00.089'
+      end: '00:52:00.089'
+      u: And at that instant they handed over the Jewish ones also.
+    - who: David Boder
+      start: '00:52:03.255'
+      end: '00:52:03.255'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:52:03.848'
+      end: '00:52:03.848'
+      u: But unfortunately, there were not many to be liberated because the SS men
+        did everything possible to kill the majority. And unfortunately the majority
+        were killed in the lager.
+    - who: David Boder
+      start: '00:52:14.218'
+      end: '00:52:14.218'
+      u: And so you arrived in Sweden?
+    - who: Edith Serras
+      start: '00:52:17.571'
+      end: '00:52:17.571'
+      u: I arrived in Sweden with the others [?].
+    - who: David Boder
+      start: '00:52:19.240'
+      end: '00:52:19.240'
+      u: 'I was in Sweden two and a half months. We were given a very fine reception.
+        They were very courteous and very concerned.[Transcribers note: This is text
+        associated with Serras, but Boder is indicated as speaker in the interview.]'
+    - who: David Boder
+      start: '00:52:29.434'
+      end: '00:52:29.434'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:52:30.370'
+      end: '00:52:30.370'
+      u: And the population [last word in French pronunciation]...the population did
+        everything for us—we were their darlings, like children to them. We have...
+    - who: David Boder
+      start: '00:52:38.089'
+      end: '00:52:38.089'
+      u: Where were you, in a lager or where...?
+    - who: Edith Serras
+      start: '00:52:41.769'
+      end: '00:52:41.769'
+      u: We were...They located us in a quarantine lager...
+    - who: David Boder
+      start: '00:52:46.338'
+      end: '00:52:46.338'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:52:46.883'
+      end: '00:52:46.883'
+      u: ". . . that was near a bathouse [?? Last two words not clear], because it
+        was necessary...Sweden is a very..."
+    - who: David Boder
+      start: '00:52:52.980'
+      end: '00:52:52.980'
+      u: Clean?
+    - who: Edith Serras
+      start: '00:52:55.506'
+      end: '00:52:55.506'
+      u: A very clean country...
+    - who: David Boder
+      start: '00:52:56.878'
+      end: '00:52:56.878'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:52:57.564'
+      end: '00:52:57.564'
+      u: And we were dirty from the lager...
+    - who: David Boder
+      start: '00:52:59.420'
+      end: '00:52:59.420'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:53:00.106'
+      end: '00:53:00.106'
+      u: We had there sicknesses—typhus, scarlet fever, lice, and various 'microbes'
+        [infections]. So we were taken to a lager, we were given inoculations. They
+        examined us, who was sick and who wasn't sick. Those who were sick were taken
+        to hospitals, and in this manner there remained only healthy women who had
+        no 'microbes' [infections]. And we were given the right to come in contact
+        with the population. But it took six weeks before we could come in contact
+        with the civilian population.
+    - who: David Boder
+      start: '00:53:35.503'
+      end: '00:53:35.503'
+      u: Hm...and then, how did you return to...
+    - who: Edith Serras
+      start: '00:53:38.248'
+      end: '00:53:38.248'
+      u: And then I returned to Paris.
+    - who: David Boder
+      start: '00:53:40.025'
+      end: '00:53:40.025'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:53:40.477'
+      end: '00:53:40.477'
+      u: I came [with pride in her voice] by plane.
+    - who: David Boder
+      start: '00:53:43.502'
+      end: '00:53:43.502'
+      u: By plane? You flew?
+    - who: Edith Serras
+      start: '00:53:44.141'
+      end: '00:53:44.141'
+      u: "[Still with pride] Oui [Yes], I flew."
+    - who: David Boder
+      start: '00:53:45.762'
+      end: '00:53:45.762'
+      u: Nu...and France was already free?
+    - who: Edith Serras
+      start: '00:53:49.427'
+      end: '00:53:49.427'
+      u: France was already free. We came in the year '45. France was already free
+        for about a year.
+    - who: David Boder
+      start: '00:53:57.691'
+      end: '00:53:57.691'
+      u: 'And when did you find out that you husband has...has gone with another woman
+        [Footnote 3: This question must have been brought up previously before the
+        recording started or during the change of spool. —D.P.B.]?'
+    - who: Edith Serras
+      start: '00:54:04.162'
+      end: '00:54:04.162'
+      u: When I returned I came to my husband, not knowing anything. My apartment
+        was already occupied by another family—we had an apartment no more. He was
+        staying in an apartment as a border [?] and when I asked him how he lived
+        and how he was, I saw that he had a very bad attitude towards me. In fact,
+        my husband was annoyed with me because I participated in the struggle against
+        Fascism, and he is not a [word not clear. She chuckles—translation is a guess]
+        socially conscious individual[??].
+    - who: David Boder
+      start: '00:54:36.741'
+      end: '00:54:36.741'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:54:37.521'
+      end: '00:54:37.521'
+      u: So he was a little against that. And he came to forget me, I having been
+        deported for two years.
+    - who: David Boder
+      start: '00:54:43.212'
+      end: '00:54:43.212'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:54:43.851'
+      end: '00:54:43.851'
+      u: So he has forgotten [me]. This is a kind of a scourge. Among all the deported,
+        ninety-nine percent find their families...
+    - who: David Boder
+      start: '00:54:51.258'
+      end: '00:54:51.258'
+      u: What?
+    - who: Edith Serras
+      start: '00:54:52.568'
+      end: '00:54:52.568'
+      u: Ninety-nine percent do not find their families in shape, because we were
+        deported—we were 'dead' people.
+    - who: David Boder
+      start: '00:55:01.269'
+      end: '00:55:01.269'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:55:01.690'
+      end: '00:55:01.690'
+      u: They did not count on us.
+    - who: David Boder
+      start: '00:55:03.592'
+      end: '00:55:03.592'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:55:03.998'
+      end: '00:55:03.998'
+      u: And in this manner my husband explained to me that he had another woman.
+    - who: David Boder
+      start: '00:55:08.645'
+      end: '00:55:08.645'
+      u: Hm...And so you have to get a divorce from him?
+    - who: Edith Serras
+      start: '00:55:13.180'
+      end: '00:55:13.180'
+      u: Yes...
+    - who: David Boder
+      start: '00:55:13.866'
+      end: '00:55:13.866'
+      u: And how did your mother get to America?
+    - who: Edith Serras
+      start: '00:55:17.546'
+      end: '00:55:17.546'
+      u: My mother went there in the year '34, to my sister; and from there...she
+        was there...
+    - who: David Boder
+      start: '00:55:24.032'
+      end: '00:55:24.032'
+      u: Was that the sister with whom you have come to Paris
+    - who: Edith Serras
+      start: '00:55:27.796'
+      end: '00:55:27.796'
+      u: No. I have a sister ninety kilometers from Paris.
+    - who: David Boder
+      start: '00:55:30.447'
+      end: '00:55:30.447'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:55:31.071'
+      end: '00:55:31.071'
+      u: ". . . And my mother lives in New York with a sister who is already for years
+        in America."
+    - who: David Boder
+      start: '00:55:35.842'
+      end: '00:55:35.842'
+      u: Did your mother live in Paris, too?
+    - who: Edith Serras
+      start: '00:55:38.571'
+      end: '00:55:38.571'
+      u: No, my mother was in Paris only en route...through Paris.
+    - who: David Boder
+      start: '00:55:42.828'
+      end: '00:55:42.828'
+      u: And she traveled to America directly from...?
+    - who: Edith Serras
+      start: '00:55:44.169'
+      end: '00:55:44.169'
+      u: She went directly from Bessarabia.
+    - who: David Boder
+      start: '00:55:46.414'
+      end: '00:55:46.414'
+      u: ". . . from Bessarabia"
+    - who: Edith Serras
+      start: '00:55:47.162'
+      end: '00:55:47.162'
+      u: And she has lived there for years, since the year '34. She lives with my
+        sister there...
+    - who: David Boder
+      start: '00:55:51.512'
+      end: '00:55:51.512'
+      u: ". . . and, do they help you in any way...Silverstein from New York?"
+    - who: Edith Serras
+      start: '00:55:57.001'
+      end: '00:55:57.001'
+      u: In New York?
+    - who: David Boder
+      start: '00:55:57.546'
+      end: '00:55:57.546'
+      u: Did she help you out in someway when she heard from you?
+    - who: Edith Serras
+      start: '00:56:01.647'
+      end: '00:56:01.647'
+      u: Yes, Yes. She sent me a bit of clothing, since I had nothing...
+    - who: David Boder
+      start: '00:56:06.949'
+      end: '00:56:06.949'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:56:07.698'
+      end: '00:56:07.698'
+      u: And she has helped me out morally and a bit materially.
+    - who: David Boder
+      start: '00:56:11.752'
+      end: '00:56:11.752'
+      u: And what are you doing now in Paris?
+    - who: Edith Serras
+      start: '00:56:13.826'
+      end: '00:56:13.826'
+      u: Now, I had the duty to save my child. When I arrived I was very weak. I could
+        not work yet. I went to a hostelry [?] getting ready [?] to work. My eyes
+        had become very sick in the lager.
+    - who: David Boder
+      start: '00:56:31.882'
+      end: '00:56:31.882'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:56:32.475'
+      end: '00:56:32.475'
+      u: I have very weak eyes. I can't...I can't...I don't see well.
+    - who: David Boder
+      start: '00:56:36.747'
+      end: '00:56:36.747'
+      u: You don't see well?
+    - who: Edith Serras
+      start: '00:56:37.605'
+      end: '00:56:37.605'
+      u: I don't see well, because I had a trepanation on my head.
+    - who: David Boder
+      start: '00:56:40.053'
+      end: '00:56:40.053'
+      u: 'When: Before...'
+    - who: Edith Serras
+      start: '00:56:42.314'
+      end: '00:56:42.314'
+      u: Before I was deported I had an operation on the head.
+    - who: David Boder
+      start: '00:56:45.806'
+      end: '00:56:45.806'
+      u: Oh...
+    - who: Edith Serras
+      start: '00:56:47.506'
+      end: '00:56:47.506'
+      u: A trepanation.
+    - who: David Boder
+      start: '00:56:48.239'
+      end: '00:56:48.239'
+      u: Why did you have a trepanation?
+    - who: Edith Serras
+      start: '00:56:50.032'
+      end: '00:56:50.032'
+      u: That is when I had my baby. I had...the blood went to my head...the milk
+        went to my head...
+    - who: David Boder
+      start: '00:56:56.394'
+      end: '00:56:56.394'
+      u: Nu...
+    - who: Edith Serras
+      start: '00:56:57.065'
+      end: '00:56:57.065'
+      u: And I had a [the French word is not clear] temporal congestion [? on the
+        temporal side]. And for that reason they made a trepanation on my head...
+    - who: David Boder
+      start: '00:56:59.248'
+      end: '00:56:59.248'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:56:59.856'
+      end: '00:56:59.856'
+      u: From then on I had somewhat weak eyes. And the lager, too, had a strong effect
+        on me.
+    - who: David Boder
+      start: '00:57:08.833'
+      end: '00:57:08.833'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:57:09.679'
+      end: '00:57:09.679'
+      u: I was unable to work.
+    - who: David Boder
+      start: '00:57:10.428'
+      end: '00:57:10.428'
+      u: So did you get any assistance when you returned? Did your sister do something?
+    - who: Edith Serras
+      start: '00:57:13.593'
+      end: '00:57:13.593'
+      u: When I returned my sister helped me out a bit.
+    - who: David Boder
+      start: '00:57:15.870'
+      end: '00:57:15.870'
+      u: How did that happen, that your sister was not deported?
+    - who: Edith Serras
+      start: '00:57:18.910'
+      end: '00:57:18.910'
+      u: My sister is married to a Christian.
+    - who: David Boder
+      start: '00:57:21.763'
+      end: '00:57:21.763'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:57:22.433'
+      end: '00:57:22.433'
+      u: And there...She did not reveal herself as being Jewish. And I...when I was
+        arrested, it was not a question whether I was a Jewess or was not a Jewess.
+        The question was that I was a rebel [? a conspirator?], that I was fighting
+        against the Hitler idea in France.
+    - who: David Boder
+      start: '00:57:38.010'
+      end: '00:57:38.010'
+      u: Tell me something. There were some songs and poetry in the lager. Do you
+        remember any?
+    - who: Edith Serras
+      start: '00:57:44.965'
+      end: '00:57:44.965'
+      u: There were very many songs...But no, I don't remember...No.
+    - who: David Boder
+      start: '00:57:50.579'
+      end: '00:57:50.579'
+      u: Nu...
+    - who: Edith Serras
+      start: '00:57:51.031'
+      end: '00:57:51.031'
+      u: I may quote you...
+    - who: David Boder
+      start: '00:57:53.183'
+      end: '00:57:53.183'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:57:54.851'
+      end: '00:57:54.851'
+      u: ". . . without reading a letter which I have read."
+    - who: David Boder
+      start: '00:57:58.016'
+      end: '00:57:58.016'
+      u: All right...quote the letter.
+    - who: Edith Serras
+      start: '00:57:59.404'
+      end: '00:57:59.404'
+      u: I shall quote for you a letter, a letter in Hebrew, but I shall tell it in
+        Yiddish...
+    - who: David Boder
+      start: '00:58:03.989'
+      end: '00:58:03.989'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:58:04.410'
+      end: '00:58:04.410'
+      u: There was a bride [betrothed]. I was with her in the same block. And her
+        fiance had worked for three years in the crematories. Unfortunately I don't
+        remember the name, because it is very hard to remember [one word not clear].
+    - who: David Boder
+      start: '00:58:21.427'
+      end: '00:58:21.427'
+      u: Your memory...
+    - who: Edith Serras
+      start: '00:58:23.157'
+      end: '00:58:23.157'
+      u: I have...I badly wanted to know how things happen in the crematory—what do
+        they do, how do they work there, and why he worked there. For a long time
+        he did not want to write. But when I wrote to him, that I know all about it,
+        and that I also know that we [too] are extermination material in the lager,
+        so I am entitled to know, as well as he knows it. So he wrote to me about
+        how things proceed there...
+    - who: David Boder
+      start: '00:58:49.017'
+      end: '00:58:49.017'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:58:49.423'
+      end: '00:58:49.423'
+      u: How they are being gas-killed [gassed], how they get into the crematories,
+        and how they are being burned.
+    - who: David Boder
+      start: '00:58:55.535'
+      end: '00:58:55.535'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:58:56.595'
+      end: '00:58:56.595'
+      u: He later requested a suit, that is a working...
+    - who: David Boder
+      start: '00:59:00.494'
+      end: '00:59:00.494'
+      u: ". . . suit?"
+    - who: Edith Serras
+      start: '00:59:02.723'
+      end: '00:59:02.723'
+      u: I asked him, 'Why must you have a blue work suit [? overalls]??' So he replied
+        that he deals [?] a lot with blood. We did not understand him, what does it
+        mean, he deals [?] with blood.
+    - who: David Boder
+      start: '00:59:10.775'
+      end: '00:59:10.775'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:59:12.016'
+      end: '00:59:12.016'
+      u: So he explained to us why he dealt with blood. So he said, "When people are
+        being gassed, the people die very hard."
+    - who: David Boder
+      start: '00:59:14.308'
+      end: '00:59:14.308'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:59:15.056'
+      end: '00:59:15.056'
+      u: That is the worst death—the people choke, they are being...suffocated.
+    - who: David Boder
+      start: '00:59:29.266'
+      end: '00:59:29.266'
+      u: Suffocated?
+    - who: Edith Serras
+      start: '00:59:30.872'
+      end: '00:59:30.872'
+      u: But they cannot die. Blood breaks out from the eyes, the mouth and the ears,
+        and from the mouth.
+    - who: David Boder
+      start: '00:59:37.250'
+      end: '00:59:37.250'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:59:37.827'
+      end: '00:59:37.827'
+      u: And when they take the bodies to burn...
+    - who: David Boder
+      start: '00:59:40.384'
+      end: '00:59:40.384'
+      u: They are covered with blood. All the body is covered with blood, too. He
+        also told me [about] the work lager. The chief...
+    - who: David Boder
+      start: '00:59:50.956'
+      end: '00:59:50.956'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:59:51.673'
+      end: '00:59:51.673'
+      u: ". . . Zell [?] was his name. He was a wild beast. A big man. He was big
+        and very strong. And he was beating badly. He beat us all most bitterly. When
+        they were gassing the people he would stand and watch through a small little
+        window, which was installed just for him."
+    - who: David Boder
+      start: '01:00:12.011'
+      end: '01:00:12.011'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:00:12.676'
+      end: '01:00:12.676'
+      u: 'And he drank champagne when they choked...when the people were choking to
+        death he was drinking champagne through [at] the little window. Such a brutal
+        person he was. And he tells us of a case, he writes it: "Already is is three
+        years that I work on this job. I am already transformed into an animal. I
+        have already gassed my mother; I have already gassed my father; I have already
+        gassed my sisters and my brothers, and the whole people, the Jewish [people].
+        And...what happened to me today. Today..." he says, "I have lost...I cried
+        a great deal. I thought of myself already as a scoundrel—I thought of myself
+        as a criminal. I already thought that I have not a heart anymore like other
+        people have a heart, when I have seen so many children and so many women,
+        and so many men perishing. But no," he says, "that is not the case. Today,"
+        he says, "I have seen that I have," he says, "still in me a bit of the human.
+        Because they led in my Rebbe [Hebrew teacher, who is not necessarily a rabbi]."
+        He [the writer of the letter] had studied in a Yeshiva [an institution of
+        higher Hebrew, mostly Talmudic learning]. "He was taken...[The spool apparently
+        ran out in the middle of a sentence. The interviewer apparently there and
+        then spliced together the end of this spool with another spool and continued
+        the interview, expecting it to last only a few minutes more. See Note at the
+        end. —D.P.B.]'
+    - who: David Boder
+      start: '01:01:38.373'
+      end: '01:01:38.373'
+      u: "[In English]...an additional splice on the wire, after the thirty-three
+        minutes are over."
+    - who: David Boder
+      start: '01:01:44.635'
+      end: '01:01:44.635'
+      u: "[In Yiddish] Now, will you please start again the history of the Rebbe.
+        So he wrote..."
+    - who: Edith Serras
+      start: '01:01:48.633'
+      end: '01:01:48.633'
+      u: So he wrote, "Today I felt that I have not yet become a scoundrel, that I
+        have still in me a human spirit. I have seen [spotted] in the gas chamber...
+    - who: David Boder
+      start: '01:02:07.188'
+      end: '01:02:07.188'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:02:07.905'
+      end: '01:02:07.905'
+      u: I have seen my rebbe from the Yeshiva, who has arrived with twenty students
+        or so
+    - who: David Boder
+      start: '01:02:18.461'
+      end: '01:02:18.461'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:02:19.584'
+      end: '01:02:19.584'
+      u: And the Rebbe recognized me...
+    - who: David Boder
+      start: '01:02:21.611'
+      end: '01:02:21.611'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:02:22.313'
+      end: '01:02:22.313'
+      u: And when I saw that the rebbe, who had twenty students or so with him, is
+        there in the gas chamber, I," he says, "cursed myself, and I see that I have
+        turned back the last Jewish oar [?] helm [? the word is not clear; may also
+        mean "spirit"] which was still alive, and which would still remain of us."
+        Such a sad letter from him I have read...
+    - who: David Boder
+      start: '01:02:49.767'
+      end: '01:02:49.767'
+      u: When did he see...Did the rebbe die there?
+    - who: Edith Serras
+      start: '01:02:52.839'
+      end: '01:02:52.839'
+      u: The rebbe went, together with the students, into the gas chamber.
+    - who: David Boder
+      start: '01:02:55.661'
+      end: '01:02:55.661'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:02:56.082'
+      end: '01:02:56.082'
+      u: And he had seen the rebbe with whom he was in the Yeshiva.
+    - who: David Boder
+      start: '01:03:00.978'
+      end: '01:03:00.978'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:03:01.477'
+      end: '01:03:01.477'
+      u: He saw him in the gas...going into the gas chamber. And at that instant he
+        cried.
+    - who: David Boder
+      start: '01:03:05.562'
+      end: '01:03:05.562'
+      u: So...
+    - who: Edith Serras
+      start: '01:03:06.046'
+      end: '01:03:06.046'
+      u: He had already seen so many people perish—his heart already could not cry.
+        It was already natural that...that women and men, children as well, would
+        perish. We were a death supply; he, too, was [a part] of the death supply
+        [consignment to die—material for death]; but when he saw the rebbe perishing
+        with his bright students, then, he says, "I broke out crying. Today I have
+        recognized that I have a human spirit in me [?] like all people."
+    - who: David Boder
+      start: '01:03:31.976'
+      end: '01:03:31.976'
+      u: Hm...And what happened to him afterwards? Was he liberated?
+    - who: Edith Serras
+      start: '01:03:37.901'
+      end: '01:03:37.901'
+      u: Afterwards...Afterwards he was among those...among those men who blew up
+        the two crematories, and he perished...
+    - who: David Boder
+      start: '01:03:45.495'
+      end: '01:03:45.495'
+      u: Aha...He perished?
+    - who: Edith Serras
+      start: '01:03:47.631'
+      end: '01:03:47.631'
+      u: He perished. He was shot because their labor [their aim] was afterwards a
+        secret labor—to annihilate the crematory. We also had a very beautiful song...
+    - who: David Boder
+      start: '01:03:58.375'
+      end: '01:03:58.375'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:03:59.169'
+      end: '01:03:59.169'
+      u: ". . . about a woman who was a young girl in her early twenties. Mala."
+    - who: David Boder
+      start: '01:04:03.940'
+      end: '01:04:03.940'
+      u: Who?
+    - who: Edith Serras
+      start: '01:04:05.125'
+      end: '01:04:05.125'
+      u: Mala from Belgium.
+    - who: David Boder
+      start: '01:04:06.497'
+      end: '01:04:06.497'
+      u: On...[In English] What was her name...? [In Yiddish] Her name,...which Mala
+        was that? [This episode was also told by Henya Frydman].
+    - who: Edith Serras
+      start: '01:04:10.847'
+      end: '01:04:10.847'
+      u: From Belgium.
+    - who: David Boder
+      start: '01:04:13.186'
+      end: '01:04:13.186'
+      u: She was afterwards...She has...
+    - who: Edith Serras
+      start: '01:04:14.885'
+      end: '01:04:14.885'
+      u: They tore here...She killed herself.
+    - who: David Boder
+      start: '01:04:17.801'
+      end: '01:04:17.801'
+      u: Aha...Tell me about Mala.
+    - who: Edith Serras
+      start: '01:04:20.031'
+      end: '01:04:20.031'
+      u: Mala was a girl. She was in her twenties.
+    - who: David Boder
+      start: '01:04:24.428'
+      end: '01:04:24.428'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:04:25.114'
+      end: '01:04:25.114'
+      u: She worked for the SS men as a runner [messenger].
+    - who: David Boder
+      start: '01:04:27.210'
+      end: '01:04:27.210'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:04:27.827'
+      end: '01:04:27.827'
+      u: You know what it means, "a runner?"
+    - who: David Boder
+      start: '01:04:31.102'
+      end: '01:04:31.102'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:04:31.757'
+      end: '01:04:31.757'
+      u: And she was very nice. She was very smart and very beautiful, and she was
+        very nice, and logical.
+    - who: David Boder
+      start: '01:04:45.026'
+      end: '01:04:45.026'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:04:45.494'
+      end: '01:04:45.494'
+      u: She used her intelligence and her niceness not for her own existence and
+        her own selfishness [selfish aims] but for the good of the women who have
+        come to the lager and who were to be killed...
+    - who: David Boder
+      start: '01:04:59.419'
+      end: '01:04:59.419'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:05:00.292'
+      end: '01:05:00.292'
+      u: "[Two words not clear.]"
+    - who: David Boder
+      start: '01:05:01.025'
+      end: '01:05:01.025'
+      u: What was Mala's last name? Don't you remember?
+    - who: Edith Serras
+      start: '01:05:03.894'
+      end: '01:05:03.894'
+      u: No. Her name...She was called Mala. I know her very well, I have talked with
+        her a great deal...
+    - who: David Boder
+      start: '01:05:13.203'
+      end: '01:05:13.203'
+      u: Was it not Mala Zellenbaum?
+    - who: Edith Serras
+      start: '01:05:14.591'
+      end: '01:05:14.591'
+      u: "[Pause] I could not tell you."
+    - who: David Boder
+      start: '01:05:18.458'
+      end: '01:05:18.458'
+      u: Yes...Now then, what happened to Mala?
+    - who: Edith Serras
+      start: '01:05:21.670'
+      end: '01:05:21.670'
+      u: To help...Mala made use of her beauty, her nobility [of spirit] and her intelligence
+        in order to help us...
+    - who: David Boder
+      start: '01:05:28.500'
+      end: '01:05:28.500'
+      u: Oh...
+    - who: Edith Serras
+      start: '01:05:29.716'
+      end: '01:05:29.716'
+      u: ". . . She, who was a political prisoner..."
+    - who: David Boder
+      start: '01:05:32.039'
+      end: '01:05:32.039'
+      u: That was...
+    - who: Edith Serras
+      start: '01:05:33.037'
+      end: '01:05:33.037'
+      u: A political internee...
+    - who: David Boder
+      start: '01:05:34.269'
+      end: '01:05:34.269'
+      u: ". . . In Burkenau?"
+    - who: Edith Serras
+      start: '01:05:34.659'
+      end: '01:05:34.659'
+      u: That was in Birkenau.
+    - who: David Boder
+      start: '01:05:36.032'
+      end: '01:05:36.032'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:05:36.361'
+      end: '01:05:36.361'
+      u: She was also a political internee.
+    - who: David Boder
+      start: '01:05:39.090'
+      end: '01:05:39.090'
+      u: Where was she from? From Belgium?
+    - who: Edith Serras
+      start: '01:05:40.281'
+      end: '01:05:40.281'
+      u: From Belgium.
+    - who: David Boder
+      start: '01:05:40.767'
+      end: '01:05:40.767'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:05:41.237'
+      end: '01:05:41.237'
+      u: Every Sunday she took...She 'organized' [meaning stole] soup for us.
+    - who: David Boder
+      start: '01:05:46.678'
+      end: '01:05:46.678'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:05:47.885'
+      end: '01:05:47.885'
+      u: And gave everybody an additional liter of soup for us to eat. Now where did
+        she get that soup? The soup was ordered for people, for the SS men. Very good
+        soup, but they never ate that soup. She would take the soup and bring it to
+        us, so that we could eat it.
+    - who: David Boder
+      start: '01:06:08.189'
+      end: '01:06:08.189'
+      u: And why didn't they eat it?
+    - who: Edith Serras
+      start: '01:06:08.189'
+      end: '01:06:08.189'
+      u: Because they ate meat, they ate butter and they had much better things—they
+        did not have to eat this.
+    - who: David Boder
+      start: '01:06:15.462'
+      end: '01:06:15.462'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:06:16.180'
+      end: '01:06:16.180'
+      u: So she used to give it to us.
+    - who: David Boder
+      start: '01:06:17.085'
+      end: '01:06:17.085'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:06:17.788'
+      end: '01:06:17.788'
+      u: And with that she helped us a great deal. There were very many women who
+        had become sick—who were lying in the sickward in the hospital...
+    - who: David Boder
+      start: '01:06:30.337'
+      end: '01:06:30.337'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:06:30.836'
+      end: '01:06:30.836'
+      u: They were listed to go into the gas. She knew that these women were historical
+        [historically important] women...
+    - who: David Boder
+      start: '01:06:36.954'
+      end: '01:06:36.954'
+      u: ". . . to go to the gas..."
+    - who: Edith Serras
+      start: '01:06:38.015'
+      end: '01:06:38.015'
+      u: ". . . to the gas chamber."
+    - who: David Boder
+      start: '01:06:38.639'
+      end: '01:06:38.639'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:06:39.247'
+      end: '01:06:39.247'
+      u: She knew that these women were historical [history making] women. These are
+        women who had given their lives—these are women who brought [served] freedom.
+    - who: David Boder
+      start: '01:06:47.577'
+      end: '01:06:47.577'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:06:48.388'
+      end: '01:06:48.388'
+      u: ". . . and were interested in liberty for other people [??]"
+    - who: David Boder
+      start: '01:06:51.290'
+      end: '01:06:51.290'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:06:51.587'
+      end: '01:06:51.587'
+      u: ". . . So she would take their numbers in the hospital...One could not lay
+        sick for long..."
+    - who: David Boder
+      start: '01:06:59.446'
+      end: '01:06:59.446'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:07:00.541'
+      end: '01:07:00.541'
+      u: One would lay for a few days. Then they would come, their numbers would be
+        taken, and they were sent to the gas chamber. But she used to erase their
+        numbers.
+    - who: David Boder
+      start: '01:07:08.513'
+      end: '01:07:08.513'
+      u: Erased the tatto number, or from the paper?
+    - who: Edith Serras
+      start: '01:07:10.947'
+      end: '01:07:10.947'
+      u: ". . . from the paper..."
+    - who: David Boder
+      start: '01:07:12.132'
+      end: '01:07:12.132'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:07:12.662'
+      end: '01:07:12.662'
+      u: And these women would not go into the gas. And such women have come to be
+        liberated.
+    - who: David Boder
+      start: '01:07:19.027'
+      end: '01:07:19.027'
+      u: So...
+    - who: Edith Serras
+      start: '01:07:19.386'
+      end: '01:07:19.386'
+      u: In 1944...
+    - who: David Boder
+      start: '01:07:20.993'
+      end: '01:07:20.993'
+      u: So, what was the song about her?
+    - who: Edith Serras
+      start: '01:07:22.896'
+      end: '01:07:22.896'
+      u: That was a song about her heroism which she...which she has demonstrated.
+        She demonstr...She led such a work of solidarity among us that if she would
+        have been caught at such work she could have been shot. But she did not stop.
+        She did everything to help us.
+    - who: David Boder
+      start: '01:07:43.316'
+      end: '01:07:43.316'
+      u: "[Words not in the text]"
+    - who: Edith Serras
+      start: '01:07:44.283'
+      end: '01:07:44.283'
+      u: That was Mala, Mala, the great Jewish heroine who did not scare before the
+        SS men. I don't remember so exactly the text [?].
+    - who: David Boder
+      start: '01:07:56.793'
+      end: '01:07:56.793'
+      u: Yes...Yes...
+    - who: Edith Serras
+      start: '01:07:57.635'
+      end: '01:07:57.635'
+      u: And that was sung...Her heroism and the way she died.
+    - who: David Boder
+      start: '01:08:02.237'
+      end: '01:08:02.237'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:08:02.767'
+      end: '01:08:02.767'
+      u: I shall tell you how she died in the lager. In 1944 we were told that the
+        lager would be annihilated.
+    - who: David Boder
+      start: '01:08:11.144'
+      end: '01:08:11.144'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:08:11.815'
+      end: '01:08:11.815'
+      u: An order had come from Berlin to annihilate the lager. Transports from the
+        outside are not arriving anymore; at the front, there are battles already
+        in Berlin; France is already free; Belgium is already free. There are battles
+        only on the Russian fronts and on the Polish fronts.
+    - who: David Boder
+      start: '01:08:28.163'
+      end: '01:08:28.163'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:08:28.662'
+      end: '01:08:28.662'
+      u: 'And now since there are no more people to be brought in for annihilation
+        from the outside, so the lager [itself] may already be exterminated. So she
+        told to us: ''Children! Up to now I was here in the lager to help you. My
+        life had no value for myself. You have seen that enough. I saw that I am able
+        to help you. When I saw that I was able to erase numbers so that the children
+        should not go into the gas, I did so. Now I cannot serve you anymore...'
+    - who: David Boder
+      start: '01:08:57.718'
+      end: '01:08:57.718'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:08:58.732'
+      end: '01:08:58.732'
+      u: ". . . because we shall all be annihilated now. And one early morning Mala
+        donned the clothes of an SS woman...of a woman SS-man...And together with
+        a man she escaped from the lager."
+    - who: David Boder
+      start: '01:09:13.785'
+      end: '01:09:13.785'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:09:14.565'
+      end: '01:09:14.565'
+      u: She was already gone for a few weeks. She was already very far. But she was
+        a person who was of great political value.
+    - who: David Boder
+      start: '01:09:24.143'
+      end: '01:09:24.143'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:09:25.001'
+      end: '01:09:25.001'
+      u: She did not seek just to save her own life...
+    - who: David Boder
+      start: '01:09:26.842'
+      end: '01:09:26.842'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:09:27.903'
+      end: '01:09:27.903'
+      u: But she wanted contact with liberty [with the free world].
+    - who: David Boder
+      start: '01:09:30.555'
+      end: '01:09:30.555'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:09:31.459'
+      end: '01:09:31.459'
+      u: To tell about our sufferings.
+    - who: David Boder
+      start: '01:09:33.197'
+      end: '01:09:33.197'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:09:33.689'
+      end: '01:09:33.689'
+      u: And she had maintained a great deal of connections on the 'outside'—to transmit
+        letters, to tell how the gassing proceeds, because we thought in the lager
+        that we have been cut off from the whole world; and that the whole world does
+        not know that people are being burned day and night...
+    - who: David Boder
+      start: '01:09:48.763'
+      end: '01:09:48.763'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:09:49.309'
+      end: '01:09:49.309'
+      u: And for that reason she was caught.
+    - who: David Boder
+      start: '01:09:53.614'
+      end: '01:09:53.614'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:09:54.674'
+      end: '01:09:54.674'
+      u: Because if she would not have been concerned with us also when at liberty...
+    - who: David Boder
+      start: '01:09:58.994'
+      end: '01:09:58.994'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:09:59.509'
+      end: '01:09:59.509'
+      u: If she would have escaped abroad, to Switzer...To Sweden...
+    - who: David Boder
+      start: '01:10:02.722'
+      end: '01:10:02.722'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:10:03.409'
+      end: '01:10:03.409'
+      u: Or to Belgium, or to...But she was devoted to us, to make propaganda, to
+        make propaganda in such a manner that we should be saved as soon as possible...because
+        we did not know about our fate what we know now.
+    - who: David Boder
+      start: '01:10:16.256'
+      end: '01:10:16.256'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:10:17.005'
+      end: '01:10:17.005'
+      u: We thought that we were chattle [material] in a corner of Europe, which is
+        unknown to the whole world. And Mala had escaped to make known that this last
+        'handful' of people were to be killed.
+    - who: David Boder
+      start: '01:10:29.513'
+      end: '01:10:29.513'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:10:30.496'
+      end: '01:10:30.496'
+      u: That was her ideal [aim].
+    - who: David Boder
+      start: '01:10:31.697'
+      end: '01:10:31.697'
+      u: Now...
+    - who: Edith Serras
+      start: '01:10:32.539'
+      end: '01:10:32.539'
+      u: And when she was caught with that man, the man was hanged.
+    - who: David Boder
+      start: '01:10:37.281'
+      end: '01:10:37.281'
+      u: Where, in the lager?
+    - who: Edith Serras
+      start: '01:10:38.622'
+      end: '01:10:38.622'
+      u: In the lager.
+    - who: David Boder
+      start: '01:10:39.621'
+      end: '01:10:39.621'
+      u: Have you seen it?
+    - who: Edith Serras
+      start: '01:10:40.400'
+      end: '01:10:40.400'
+      u: We know it. Men have seen it in the mens' lager.
+    - who: David Boder
+      start: '01:10:43.878'
+      end: '01:10:43.878'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:10:44.658'
+      end: '01:10:44.658'
+      u: So he was hanged.
+    - who: David Boder
+      start: '01:10:45.391'
+      end: '01:10:45.391'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:10:45.859'
+      end: '01:10:45.859'
+      u: And she was supposed to be hanged in the womens' lager.
+    - who: David Boder
+      start: '01:10:47.824'
+      end: '01:10:47.824'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:10:48.385'
+      end: '01:10:48.385'
+      u: They held her several weeks. She was clubbed and beaten, she should tell
+        how she managed to escape, with whom she had political connections on the
+        outside. But she told them nothing...One day, we all returned in the evening
+        from work. We were lined up in the lager, and in the middle of the lager was
+        erected a...on what they hang...
+    - who: David Boder
+      start: '01:11:14.136'
+      end: '01:11:14.136'
+      u: A gallows?
+    - who: Edith Serras
+      start: '01:11:14.916'
+      end: '01:11:14.916'
+      u: A gallows, to hang...
+    - who: David Boder
+      start: '01:11:16.819'
+      end: '01:11:16.819'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:11:17.567'
+      end: '01:11:17.567'
+      u: And Mandel, the SS woman who mistreated the whole lager, and she was a very
+        mean woman. But that woman liked [?] Mala very much. So she said, 'This Mala,
+        in whom we had such great confidence, has escaped [two words not clear].
+    - who: David Boder
+      start: '01:11:41.321'
+      end: '01:11:41.321'
+      u: Nu...
+    - who: Edith Serras
+      start: '01:11:42.085'
+      end: '01:11:42.085'
+      u: So there has come an order from German, from Berlin, that a Jewish woman
+        who dares to escape from our lager must be hanged."
+    - who: David Boder
+      start: '01:11:52.394'
+      end: '01:11:52.394'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:11:53.268'
+      end: '01:11:53.268'
+      u: In that moment—Mala had a razor knife [razor blade?]...
+    - who: David Boder
+      start: '01:11:57.167'
+      end: '01:11:57.167'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:11:57.790'
+      end: '01:11:57.790'
+      u: ". . . in her hand. And she cut several of her arteries..."
+    - who: David Boder
+      start: '01:12:00.894'
+      end: '01:12:00.894'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:12:01.580'
+      end: '01:12:01.580'
+      u: When the leader of the work service saw that she was cutting up her arteries
+        because she did not want to go to her death...
+    - who: David Boder
+      start: '01:12:09.581'
+      end: '01:12:09.581'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:12:10.174'
+      end: '01:12:10.174'
+      u: ". . . by their hands, but that she wanted to die of her own death—so the
+        leader of the work service ran over to her, grabbed her by both hands, and
+        twisted her hands so that the blood should not run out..."
+    - who: David Boder
+      start: '01:12:21.373'
+      end: '01:12:21.373'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:12:21.872'
+      end: '01:12:21.872'
+      u: So she stood up and slapped him twice.
+    - who: David Boder
+      start: '01:12:24.102'
+      end: '01:12:24.102'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:12:27.065'
+      end: '01:12:27.065'
+      u: And she said, 'I take on you the last vengeance for my sisters and brothers
+        and [children, who have innocently perished.]'
+    - who: David Boder
+      start: '01:12:36.266'
+      end: '01:12:36.266'
+      u: What language did she speak?
+    - who: Edith Serras
+      start: '01:12:37.014'
+      end: '01:12:37.014'
+      u: German.
+    - who: David Boder
+      start: '01:12:38.106'
+      end: '01:12:38.106'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:12:38.761'
+      end: '01:12:38.761'
+      u: And we heard it, and we saw it. So they gave...the work service leader gave
+        an order...
+    - who: David Boder
+      start: '01:12:47.059'
+      end: '01:12:47.059'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:12:47.589'
+      end: '01:12:47.589'
+      u: She was bleeding...
+    - who: David Boder
+      start: '01:12:49.352'
+      end: '01:12:49.352'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:12:49.929'
+      end: '01:12:49.929'
+      u: She was dying...
+    - who: David Boder
+      start: '01:12:50.943'
+      end: '01:12:50.943'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:12:52.737'
+      end: '01:12:52.737'
+      u: ". . . that she should be...'killed alive,' that is, she should be burned
+        alive, she should be conscious of her death."
+    - who: David Boder
+      start: '01:13:00.847'
+      end: '01:13:00.847'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:13:01.175'
+      end: '01:13:01.175'
+      u: So she was taken in a...a little cart.
+    - who: David Boder
+      start: '01:13:06.275'
+      end: '01:13:06.275'
+      u: Hm...
+    - who: Edith Serras
+      start: '01:13:06.867'
+      end: '01:13:06.867'
+      u: Her body was taken to the crematory. But in the crematory she was shot to
+        death by a person who worked in the crematory.
+    - who: David Boder
+      start: '01:13:15.710'
+      end: '01:13:15.710'
+      u: A prisoner?
+    - who: Edith Serras
+      start: '01:13:17.347'
+      end: '01:13:17.347'
+      u: A prisoner.
+    - who: David Boder
+      start: '01:13:18.033'
+      end: '01:13:18.033'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:13:18.766'
+      end: '01:13:18.766'
+      u: Because he said, 'Mala does not deserve [the suffering] to burn alive.' That
+        she was the greatest Jewish heroine, who has done so much good. And since
+        she was so preoccupied with us, we cannot permit that she be doomed to such
+        sufferings.
+    - who: David Boder
+      start: '01:13:32.687'
+      end: '01:13:32.687'
+      u: He shot her out of compassion?
+    - who: Edith Serras
+      start: '01:13:34.184'
+      end: '01:13:34.184'
+      u: Out of compassion. He gave her a bullet in the head. That was [that he considered]
+        his duty, not to permit Mala to suffer. Mala deserved [the mercy] to be shot
+        and not to be burned alive. When we heard that Mala was shot by one of our
+        people, we were very happy because we would have been very unhappy if we would
+        have to 'see' that Mala was burning alive.
+    - who: David Boder
+      start: '01:14:01.196'
+      end: '01:14:01.196'
+      u: How...did he have to revolver...or what...?
+    - who: Edith Serras
+      start: '01:14:03.785'
+      end: '01:14:03.785'
+      u: That...the men who worked in the crematories, as I told you already...
+    - who: David Boder
+      start: '01:14:08.201'
+      end: '01:14:08.201'
+      u: Yes...
+    - who: Edith Serras
+      start: '01:14:09.012'
+      end: '01:14:09.012'
+      u: ". . . were organized, so that one day they could fight the SS men. [Audio
+        ends abruptly]"
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Aha...So was it found out that he had done it?
+    - who: Edith Serras
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: No.
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Aha...
+    - who: Edith Serras
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: And when they blew up the cremat...This was the great Jewish heroine, Mala...
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: I shall tell you about six Jewish heroes. How they have stolen materials,
+        and sent them to the crematories to blow up the crematory. And the SS men
+        have found out that in Bunio [? name of a nearby factory, possibly Buna] Jewish
+        women were working who were politically well-trained, and that they had stolen
+        the explosive materials for the crematory. So they arrested six girls who
+        were betrayed. Because one was most horribly beaten, all six girls were...were
+        beaten; but one did not behave well [one could not hold out] and betrayed
+        the others.
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: And all six girls were hanged, and...
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: In the lager?
+    - who: Edith Serras
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: In the lager.
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: You have seen it.
+    - who: Edith Serras
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: I have seen it. I had to carry their bodies...I then worked in Auschwitz.
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: In the sick room...
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Hm...
+    - who: Edith Serras
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: One sister was sick. And her sister had to be hanged that day.
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Yes...
+    - who: Edith Serras
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: And I had to take care of the sister, and help her and comfort her.
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Nu...[a pause] Nu...
+    - who: Edith Serras
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: And when the six girls were hanged—the large lager had to look on at how
+        they were being led to the 'guillotine' [the interview took place in France].
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: You mean the 'gallows?'
+    - who: Edith Serras
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Yes. When they were hanged they stepped up [to the scaffold] with shouts
+        and stamping feet...[triumphantly]
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: The girls?
+    - who: Edith Serras
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: They were going not like to their death, but they were going like six heroes,
+        laughingly. And they jumped on the table and they shouted 'Vengeance!'
+    - who: David Boder
+      start: '00:00:00.'
+      end: 
+      u: "[In English] This concludes Spool Number 35, which is oversize—thirty-eight
+        minutes long. A spool by Mrs. Serras, Edith Serras, who lives now in Paris.
+        She was a French deportee."
+transcript: {}
+translation: {}

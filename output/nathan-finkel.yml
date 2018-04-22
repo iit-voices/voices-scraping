@@ -27,5 +27,1534 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: ru
+    interview:
+    - who: David Boder
+      start: '00:00:00.416'
+      end: '00:00:00.416'
+      u: "[In English] Munich, September the 24th, 193—, 1946, at the UNNRA University
+        for displaced persons at the Deutsches Museum. The interviewee is now Nathan
+        Finkel from Rovno, a Jewish student at the university. He will speak Russian."
+    - who: David Boder
+      start: '00:00:21.128'
+      end: '00:00:21.128'
+      u: "[In Russian] Аг, скол...Сколько вам лет?"
+    - who: Nathan Finkel
+      start: '00:00:23.625'
+      end: '00:00:23.625'
+      u: Мне 26 лет.
+    - who: David Boder
+      start: '00:00:25.414'
+      end: '00:00:25.414'
+      u: Так. Ну, [садитесь и?] [неразборчиво] а говорите так, что [неразборчиво].
+        Скажите пожалуйста где вы были когда война началась.
+    - who: Nathan Finkel
+      start: '00:00:37.641'
+      end: '00:00:37.641'
+      u: Когда война началась, я был в Ровне.
+    - who: David Boder
+      start: '00:00:39.747'
+      end: '00:00:39.747'
+      u: Так. А были Русские в Ровне перед войной?
+    - who: Nathan Finkel
+      start: '00:00:43.702'
+      end: '00:00:43.702'
+      u: "[неразборчиво]"
+    - who: David Boder
+      start: '00:00:46.628'
+      end: '00:00:46.628'
+      u: Нет, нет, нет. Я думаю [неразборчиво] когда Ровно было в Польше.
+    - who: Nathan Finkel
+      start: '00:00:51.370'
+      end: '00:00:51.370'
+      u: Да. В Польше было.
+    - who: David Boder
+      start: '00:00:52.355'
+      end: '00:00:52.355'
+      u: Ну, так. Когда немцы вошли [заикающийся] в западную Польшу. Русские вошли,
+        аг, немцы вошли в Ровно или русские вошли в Ровно?
+    - who: Nathan Finkel
+      start: '00:01:03.308'
+      end: '00:01:03.308'
+      u: В западную Польшу вошли в 39-ом году немцы.
+    - who: David Boder
+      start: '00:01:05.751'
+      end: '00:01:05.751'
+      u: Нет, они зашли...они зашли в восточную Польшу.
+    - who: Nathan Finkel
+      start: '00:01:11.583'
+      end: '00:01:11.583'
+      u: В восточную [неразборчиво].
+    - who: David Boder
+      start: '00:01:12.952'
+      end: '00:01:12.952'
+      u: 'Так и по-этому я и говорю: Русские вошли в восточную Польшу. Ну, хорошо.
+        Вы [неразборчиво] этого времени и продолжайте тогда, скажите мне что с вами
+        случилось?'
+    - who: Nathan Finkel
+      start: '00:01:24.196'
+      end: '00:01:24.196'
+      u: С 39-ого года я занимался в Ровне, потом уехал в 40-ом году в [неразборчиво].
+    - who: David Boder
+      start: '00:01:29.559'
+      end: '00:01:29.559'
+      u: Ну, подождите-ка. Русские вошли в Ровно когда?
+    - who: Nathan Finkel
+      start: '00:01:34.276'
+      end: '00:01:34.276'
+      u: В сентябре 39-ого года.
+    - who: David Boder
+      start: '00:01:35.962'
+      end: '00:01:35.962'
+      u: Стоп! Что тогда произошел?
+    - who: Nathan Finkel
+      start: '00:01:40.132'
+      end: '00:01:40.132'
+      u: Тогда я из семьи [неразборчиво]. Мы все остались на месте.
+    - who: David Boder
+      start: '00:01:46.149'
+      end: '00:01:46.149'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:01:47.130'
+      end: '00:01:47.130'
+      u: Опять получил работу. Я уехал в Львов заниматься. Учился в политехнике в
+        Львове.
+    - who: David Boder
+      start: '00:01:55.845'
+      end: '00:01:55.845'
+      u: И русские взяли Львов тоже?
+    - who: Nathan Finkel
+      start: '00:01:57.928'
+      end: '00:01:57.928'
+      u: Тоже. И тоже западную Украину.
+    - who: David Boder
+      start: '00:02:00.077'
+      end: '00:02:00.077'
+      u: Так. [прерывая друг друга] Западная Украина и...
+    - who: Nathan Finkel
+      start: '00:02:02.894'
+      end: '00:02:02.894'
+      u: "[прерывающий] Западная Украина и восточная Польша."
+    - who: David Boder
+      start: '00:02:04.660'
+      end: '00:02:04.660'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:02:04.971'
+      end: '00:02:04.971'
+      u: "[неразборчиво]"
+    - who: David Boder
+      start: '00:02:05.956'
+      end: '00:02:05.956'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:02:07.576'
+      end: '00:02:07.576'
+      u: В 41-ом году, в июне когда началась война между Германией а Россией, я на
+        [неразборчиво] после начала войны, я ушел в Ровно. В Ровне был 3 месяцы всего,
+        потому что начались очень большие преследования [неразборчиво] немцами...Немцами.
+    - who: David Boder
+      start: '00:02:30.527'
+      end: '00:02:30.527'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:02:31.922'
+      end: '00:02:31.922'
+      u: Все убрали до работы уже 6 месяцев после начала войны. Аг. В декабре месяце
+        они уже 17,000 в течение [недели одней?] убили евреев.
+    - who: David Boder
+      start: '00:02:46.495'
+      end: '00:02:46.495'
+      u: Как они убили их?
+    - who: Nathan Finkel
+      start: '00:02:48.274'
+      end: '00:02:48.274'
+      u: Они [делили?] с утра всем собраться на площади только с [неразборчиво] и
+        больше ничего нельзя было взять с собой.
+    - who: David Boder
+      start: '00:02:57.043'
+      end: '00:02:57.043'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:02:57.645'
+      end: '00:02:57.645'
+      u: И после всех [неразборчиво] [только вышел?], это были те которые не работали.
+    - who: David Boder
+      start: '00:03:01.833'
+      end: '00:03:01.833'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:03:02.494'
+      end: '00:03:02.494'
+      u: И [неразборчиво] уйти, значит от эссэсс, эссэссов [сошли?]
+    - who: David Boder
+      start: '00:03:09.400'
+      end: '00:03:09.400'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:03:10.081'
+      end: '00:03:10.081'
+      u: Их возили 6 километров за город. Там уже были приготовлены место для них
+        и 3 дня стреляли и всех уже [в ям?], в ямы там, скинули и закопали.
+    - who: David Boder
+      start: '00:03:23.642'
+      end: '00:03:23.642'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:03:25.432'
+      end: '00:03:25.432'
+      u: Я...
+    - who: David Boder
+      start: '00:03:25.739'
+      end: '00:03:25.739'
+      u: "[прерывающий] Кто копал эти ямы и кто..."
+    - who: Nathan Finkel
+      start: '00:03:27.865'
+      end: '00:03:27.865'
+      u: "[прерывающий] Явно копали украинцы."
+    - who: David Boder
+      start: '00:03:29.536'
+      end: '00:03:29.536'
+      u: Так...Ну, дальше.
+    - who: Nathan Finkel
+      start: '00:03:30.891'
+      end: '00:03:30.891'
+      u: "[Им?] занимались украинцы только, а немцы только [стреляли?]. [То есть,
+        немцы?] приказывали. Немцы имели [неразборчиво]."
+    - who: David Boder
+      start: '00:03:39.714'
+      end: '00:03:39.714'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:03:40.024'
+      end: '00:03:40.024'
+      u: Они только приказывали. Немци [так?].
+    - who: David Boder
+      start: '00:03:43.266'
+      end: '00:03:43.266'
+      u: Так. Ну, дальше.
+    - who: Nathan Finkel
+      start: '00:03:44.755'
+      end: '00:03:44.755'
+      u: Ну я уже в Ровне тогда не был.
+    - who: David Boder
+      start: '00:03:46.505'
+      end: '00:03:46.505'
+      u: А, где вы были?
+    - who: Nathan Finkel
+      start: '00:03:47.257'
+      end: '00:03:47.257'
+      u: Я тогда убежал и еще на месяц от этого, убежал в западную Польшу.
+    - who: David Boder
+      start: '00:03:52.725'
+      end: '00:03:52.725'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:03:53.091'
+      end: '00:03:53.091'
+      u: Там с евреями было немного лучше, потому что...
+    - who: David Boder
+      start: '00:03:56.127'
+      end: '00:03:56.127'
+      u: "[прерывающий] В западную Польшу [неразборчиво]?"
+    - who: Nathan Finkel
+      start: '00:03:57.186'
+      end: '00:03:57.186'
+      u: В западную Польшу. Я убежал в город Сосновиец.
+    - who: David Boder
+      start: '00:04:01.230'
+      end: '00:04:01.230'
+      u: "[неразборчиво]. Так."
+    - who: Nathan Finkel
+      start: '00:04:02.328'
+      end: '00:04:02.328'
+      u: Да, на Силезию. Там уже гетто было, я находился в гетте полтора года. Работал
+        в [Скопе?], это по-немецки называли ее.
+    - who: David Boder
+      start: '00:04:13.225'
+      end: '00:04:13.225'
+      u: Да.
+    - who: Nathan Finkel
+      start: '00:04:14.164'
+      end: '00:04:14.164'
+      u: С утра до вечера очень тяжело и нам была особенно с пищей очень плохо.
+    - who: David Boder
+      start: '00:04:20.067'
+      end: '00:04:20.067'
+      u: Ну...
+    - who: Nathan Finkel
+      start: '00:04:21.006'
+      end: '00:04:21.006'
+      u: Так. , потому что немцы очень мало для геттов оставляли. Уже в э— [заикающийся]
+        в этом времени начинали [взять?] в концлагеря. Этих местностей [брали?] arbeitslagerы,
+        значит там работали мы. [Мне?] также в 43-ем году собрали мы вместе с братом
+        и находился я в лагере Гросс Росен на Силезии. Все время работал. Работал
+        очень тяжело. Конечно [в селе?] [неразборчиво] [мы уже стали плохие-то?] только
+        могут быть два человека. В бараках мы жили. Пище было очень плохо, заболевали
+        и сотни умирали там. В одной комнате могут находиться по 100 человек, а на
+        заводе, на фабрике, где мы работали были такие площадки мы [строили заботы?].
+        Очень тяжело. С нами немцы очень плохо относились.
+    - who: Nathan Finkel
+      start: '00:05:24.563'
+      end: '00:05:24.563'
+      u: Работал я [всего же не имел?]. Последние два месяца перед концом войны, я
+        уже думал, что конец со мной,, потому что несколько раз заболел, только [из-за
+        их?] [неразборчиво] из-за слишком тяжелой работы. Работал на площадке.
+    - who: David Boder
+      start: '00:05:49.559'
+      end: '00:05:49.559'
+      u: Что значит "на площадке"?
+    - who: Nathan Finkel
+      start: '00:05:50.261'
+      end: '00:05:50.261'
+      u: На площадке этого строительства. Строительство военного завода. Со мной были
+        несколько товарищей и они все погибли, потому что я был немного [попятствее??],
+        мне удалось пережить. Мы питали кавы. Там много было кавы, это [шараговая?]
+        кавы. Из этого [неразборчиво] гораздо заболевал...
+    - who: David Boder
+      start: '00:06:12.217'
+      end: '00:06:12.217'
+      u: "[прерывающий] вы думаете?"
+    - who: Nathan Finkel
+      start: '00:06:12.524'
+      end: '00:06:12.524'
+      u: "[прерывающий] Кофе, кофе. Да."
+    - who: David Boder
+      start: '00:06:14.245'
+      end: '00:06:14.245'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:06:14.828'
+      end: '00:06:14.828'
+      u: И до этого очень много умирали. [и мешали геморрои?], а после операции не
+        [делали?] и умирали. В другом, на Силезии там было очень много лагерей.
+    - who: David Boder
+      start: '00:06:26.047'
+      end: '00:06:26.047'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:06:28.766'
+      end: '00:06:28.766'
+      u: Работали там девушки. Большинства, они работали на фабриках...
+    - who: David Boder
+      start: '00:06:34.214'
+      end: '00:06:34.214'
+      u: "[неразборчиво]?"
+    - who: Nathan Finkel
+      start: '00:06:41.205'
+      end: '00:06:41.205'
+      u: Я в лагере этом в Гросс Росен находился до марта 45-ого года. В марте начали
+        немцы нас [неразборчиво].
+    - who: David Boder
+      start: '00:06:53.492'
+      end: '00:06:53.492'
+      u: "[Сколько?] этот раз вы были в Гросс Росене?"
+    - who: Nathan Finkel
+      start: '00:06:55.598'
+      end: '00:06:55.598'
+      u: В этом раз я был в Росене полтора года.
+    - who: David Boder
+      start: '00:06:57.922'
+      end: '00:06:57.922'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:06:59.316'
+      end: '00:06:59.316'
+      u: "[Эвакуировали?] нас на запад. Я попал в Бухенвальд."
+    - who: David Boder
+      start: '00:07:04.843'
+      end: '00:07:04.843'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:07:05.585'
+      end: '00:07:05.585'
+      u: В Бухенвальде ужасно было. Там сотни, тысячи людей, все находились там в
+        ужасных условиях, потому что тогда переводились и не был в лагере здоровых,
+        другой, потому что немцы бежали перед русскими. Все боялись. Мы в Бухенвальде
+        тоже почти день и ночь находились под [огнем неба?], потому что помещений
+        для нас не было. Так сам [успешно?] [неразборчиво] хуже. [Есть ожидает до
+        время?] до марта 45-ого года многие сохранились [свои жизни?]. Так, последний
+        месяц, особенно в последние дни [тысяча?] погибали [в день?], потому что [неразборчиво]
+        не нас возили [мы с ним ехали?], а ходили пешком. Так, по дороге кто только
+        оказывал слабость [неразборчиво], сразу убивали. Убивали. Так, что по дороге
+        все меньше и меньше остано...остановились.
+    - who: David Boder
+      start: '00:08:07.273'
+      end: '00:08:07.273'
+      u: Так, вот, аг, аг, вы были в Бухенвальде.
+    - who: Nathan Finkel
+      start: '00:08:10.606'
+      end: '00:08:10.606'
+      u: Да. Только полтора месяца был.
+    - who: David Boder
+      start: '00:08:12.376'
+      end: '00:08:12.376'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:08:12.742'
+      end: '00:08:12.742'
+      u: "[Я был там в конце войны?]. [Качество записи становится хуже.] Ну, тогда
+        нас освободили и я конечно находился здесь в американской зоне."
+    - who: David Boder
+      start: '00:08:21.187'
+      end: '00:08:21.187'
+      u: Так. Ну сейчас [неразборчиво] в американской зоне [неразборчиво] расскажите
+        подробно [неразборчиво].
+    - who: Nathan Finkel
+      start: '00:08:33.468'
+      end: '00:08:33.468'
+      u: Я с самого начала освобождения находился в лагере Фельдафинг. Это был специальный
+        лагерь для евреев. Там находился [неразборчиво] [6,000?]. Условия были [неразборчиво]
+        [нехороший?] [неразборчиво]. Американцы старались [во всяком?] [неразборчиво]
+        [со мной?].
+    - who: David Boder
+      start: '00:08:53.271'
+      end: '00:08:53.271'
+      u: Кто основал Фельдафинг?
+    - who: Nathan Finkel
+      start: '00:08:55.278'
+      end: '00:08:55.278'
+      u: Фельдафинг основали Американцы.
+    - who: David Boder
+      start: '00:08:57.819'
+      end: '00:08:57.819'
+      u: Вы знаете [неразборчиво].
+    - who: Nathan Finkel
+      start: '00:09:00.459'
+      end: '00:09:00.459'
+      u: Нет, не знаю.
+    - who: David Boder
+      start: '00:09:01.467'
+      end: '00:09:01.467'
+      u: Так, [неразборчиво.]
+    - who: Nathan Finkel
+      start: '00:09:04.720'
+      end: '00:09:04.720'
+      u: "[неразборчиво] Ну, потому что я пришел [позже?], я [не избежал самого начала?]
+        и [тоже?] тогда не было."
+    - who: David Boder
+      start: '00:09:10.386'
+      end: '00:09:10.386'
+      u: Так. Да.
+    - who: Nathan Finkel
+      start: '00:09:10.851'
+      end: '00:09:10.851'
+      u: Я там находился в этом же лагере до января 46-ого года. В январе 46-ого года
+        я узнал, что здесь [неразборчиво] университет. Я решил сюда приехать Мюнхен,
+        чтобы заниматься. Получил квартиру и марта месяца [прерывая друг друга]. Частную
+        квартиру получил.
+    - who: David Boder
+      start: '00:09:36.857'
+      end: '00:09:36.857'
+      u: Вам назначали немцы?
+    - who: Nathan Finkel
+      start: '00:09:38.034'
+      end: '00:09:38.034'
+      u: Мне назначали немцы, да, частную квартиру. Хорошую комнату.
+    - who: David Boder
+      start: '00:09:42.058'
+      end: '00:09:42.058'
+      u: Вы что, холостяк?
+    - who: Nathan Finkel
+      start: '00:09:43.571'
+      end: '00:09:43.571'
+      u: Я холостяк. Имею брата здесь. Больше никого из семи не имею.
+    - who: David Boder
+      start: '00:09:47.734'
+      end: '00:09:47.734'
+      u: Откуда же брата [взял?]?
+    - who: Nathan Finkel
+      start: '00:09:49.682'
+      end: '00:09:49.682'
+      u: Брат был все время со мной, в лагере тоже. [Из Щечина?] были вместе. И здесь
+        так [неразборчиво] все время...
+    - who: David Boder
+      start: '00:09:57.127'
+      end: '00:09:57.127'
+      u: "[прерывающий] Брат что делает?"
+    - who: Nathan Finkel
+      start: '00:09:58.472'
+      end: '00:09:58.472'
+      u: Брат тоже занимается здесь в университете [неразборчиво] [на втором?]...
+    - who: David Boder
+      start: '00:10:02.538'
+      end: '00:10:02.538'
+      u: "[прерывающий] Аг, вы чему учитесь?"
+    - who: Nathan Finkel
+      start: '00:10:04.011'
+      end: '00:10:04.011'
+      u: Я учусь архитектуре.
+    - who: David Boder
+      start: '00:10:05.659'
+      end: '00:10:05.659'
+      u: Так, что...хорошо...значит, брат [неразборчиво] [по следующей пошли?]?
+    - who: Nathan Finkel
+      start: '00:10:13.966'
+      end: '00:10:13.966'
+      u: Заниматься.
+    - who: David Boder
+      start: '00:10:18.261'
+      end: '00:10:18.261'
+      u: Так...Ну, а как [эти?] условия в университете, вы, аг, что...
+    - who: Nathan Finkel
+      start: '00:10:23.267'
+      end: '00:10:23.267'
+      u: Условия в университете не очень так хорошие потому, теперь [неразборчиво],
+        но раньше [с пищей?] не было так хорошо. Что касается занятий, это основной.
+        У нас на архитектуре студентов здесь всего 70. Профессора всего несколько
+        хороших, остальные не [учет нас очень многими?] до исключения нескольких.
+    - who: David Boder
+      start: '00:10:50.420'
+      end: '00:10:50.420'
+      u: А, как отношение между студентами?
+    - who: Nathan Finkel
+      start: '00:10:53.409'
+      end: '00:10:53.409'
+      u: Между студентами отношение довольно корректное. Хотя я еврей, [и чувствую?]
+    - who: David Boder
+      start: '00:11:02.492'
+      end: '00:11:02.492'
+      u: "[неразборчиво]."
+    - who: Nathan Finkel
+      start: '00:11:04.907'
+      end: '00:11:04.907'
+      u: И чувствую, что здесь очень много есть моих самых, аг, таких врагов, самых
+        таких [зарядившихся?] врагов, ну все-таки, я этого никогда не чувствую.
+    - who: David Boder
+      start: '00:11:15.939'
+      end: '00:11:15.939'
+      u: Вы как? Вы чувствуете или не чувствуете?
+    - who: Nathan Finkel
+      start: '00:11:17.490'
+      end: '00:11:17.490'
+      u: Я чувствую, потому что знаю, что они [неразборчиво], ни это [не доказывают?]
+        отношение ко мне. [Наруже?] этого не видит.
+    - who: David Boder
+      start: '00:11:25.410'
+      end: '00:11:25.410'
+      u: Так...Может быть это просто ваша подозрительность?
+    - who: Nathan Finkel
+      start: '00:11:28.317'
+      end: '00:11:28.317'
+      u: Это...Может быть вся моя подозрительность, но так как я узнаю, что здесь
+        украинцы, что здесь литовцы. Они были наши убийцы, потому что нас не немцы
+        убивали, а только украинцы и литовцы и все.
+    - who: David Boder
+      start: '00:11:39.016'
+      end: '00:11:39.016'
+      u: Но литовцы только беженцы?
+    - who: Nathan Finkel
+      start: '00:11:43.342'
+      end: '00:11:43.342'
+      u: Не все бежы.
+    - who: David Boder
+      start: '00:11:47.297'
+      end: '00:11:47.297'
+      u: Ну, понял...дальше.
+    - who: David Boder
+      start: '00:11:49.799'
+      end: '00:11:49.799'
+      u: Ну, и что вы ожидаете от этого университета? У вас родственники в Америке
+        есть?
+    - who: Nathan Finkel
+      start: '00:11:54.080'
+      end: '00:11:54.080'
+      u: У меня есть родственники, но я о них очень мало знаю. И как [исправление]
+        пока не связался еще с ними. Я думаю заниматься, пока что здесь условия есть
+        лучшие чем [те где-нибудь в стране?], так я хочу здесь учиться.
+    - who: David Boder
+      start: '00:12:07.370'
+      end: '00:12:07.370'
+      u: Ага, а почему [ведь на местный?] университет не пойдете?
+    - who: Nathan Finkel
+      start: '00:12:10.099'
+      end: '00:12:10.099'
+      u: Я теперь поступаю.
+    - who: David Boder
+      start: '00:12:11.572'
+      end: '00:12:11.572'
+      u: Какой?
+    - who: Nathan Finkel
+      start: '00:12:12.393'
+      end: '00:12:12.393'
+      u: С немецкими [сейчас Мюнхен?] после второго семестра.
+    - who: David Boder
+      start: '00:12:15.147'
+      end: '00:12:15.147'
+      u: В архитектуре?
+    - who: Nathan Finkel
+      start: '00:12:16.007'
+      end: '00:12:16.007'
+      u: В архитектуре, да.
+    - who: David Boder
+      start: '00:12:16.749'
+      end: '00:12:16.749'
+      u: А кто это для вас платить будет?
+    - who: Nathan Finkel
+      start: '00:12:18.519'
+      end: '00:12:18.519'
+      u: "[Для нас платить мы?] освободили."
+    - who: David Boder
+      start: '00:12:20.835'
+      end: '00:12:20.835'
+      u: И...
+    - who: Nathan Finkel
+      start: '00:12:21.102'
+      end: '00:12:21.102'
+      u: "[прерывающий] Всех еврейских студентов [освобожден?] оплатить."
+    - who: David Boder
+      start: '00:12:24.187'
+      end: '00:12:24.187'
+      u: Кто это освободил вас?
+    - who: Nathan Finkel
+      start: '00:12:25.364'
+      end: '00:12:25.364'
+      u: Освободил нас наш союз студенческий, который здесь находится.
+    - who: David Boder
+      start: '00:12:29.401'
+      end: '00:12:29.401'
+      u: "[Этот союз?] еврейский?"
+    - who: Nathan Finkel
+      start: '00:12:30.874'
+      end: '00:12:30.874'
+      u: Это специальный еврейский союз находится здесь 210 студентов евреев. Раньше
+        все почти были здесь на УННРА университете. Теперь большинство [перенесет?]
+        в немецкий университет. Так как сам и условия на у— [остановками], условия
+        лучше
+    - who: David Boder
+      start: '00:12:46.075'
+      end: '00:12:46.075'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:12:48.058'
+      end: '00:12:48.058'
+      u: Здесь не всех приспособлений не нужно, потому что этот университет [здесь
+        нарастает остальных?]...
+    - who: David Boder
+      start: '00:12:51.725'
+      end: '00:12:51.725'
+      u: Да.
+    - who: Nathan Finkel
+      start: '00:12:52.180'
+      end: '00:12:52.180'
+      u: ". . . переставят. А там уже [все?] на местные профессора [во первых лучше?]."
+    - who: David Boder
+      start: '00:12:57.126'
+      end: '00:12:57.126'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:12:57.445'
+      end: '00:12:57.445'
+      u: С другой стороны там [неразборчиво] [учиться?] так как мы [находимся в связей?]
+        немцы.
+    - who: David Boder
+      start: '00:13:03.330'
+      end: '00:13:03.330'
+      u: А вы думаете, что немецкие студенты такие же плохие как они были при Гитлере?
+    - who: Nathan Finkel
+      start: '00:13:09.372'
+      end: '00:13:09.372'
+      u: Они остались все-таки [эти скисания?] , потому что [есть они?] явно этого
+        не заговаривают, но чувствуется их [неразборчиво].
+    - who: David Boder
+      start: '00:13:18.342'
+      end: '00:13:18.342'
+      u: "[Кто это?] высказывает? Может быть вы просто подозрительные люди."
+    - who: Nathan Finkel
+      start: '00:13:22.147'
+      end: '00:13:22.147'
+      u: Высказывается [в том?], что очень часто даже замечается как один указывает
+        на другого что здесь слишком много [живущих?] евреев.
+    - who: David Boder
+      start: '00:13:32.642'
+      end: '00:13:32.642'
+      u: А между прочим это освобождение отплаты, что [студенческий союз?] платить
+        или немцы освободили отплаты?
+    - who: Nathan Finkel
+      start: '00:13:38.281'
+      end: '00:13:38.281'
+      u: Немцы, государство баварское...
+    - who: David Boder
+      start: '00:13:40.801'
+      end: '00:13:40.801'
+      u: Так.
+    - who: Nathan Finkel
+      start: '00:13:41.339'
+      end: '00:13:41.339'
+      u: ". . . освободило нас. Это [неразборчиво] [бундес-?] министр освободил..."
+    - who: David Boder
+      start: '00:13:45.891'
+      end: '00:13:45.891'
+      u: "[прерывающий] А Украинцы не свободны от платы?"
+    - who: Nathan Finkel
+      start: '00:13:49.121'
+      end: '00:13:49.121'
+      u: Не все. [Не как?] [неразборчиво] мы.
+    - who: David Boder
+      start: '00:13:51.375'
+      end: '00:13:51.375'
+      u: Или поляки?
+    - who: Nathan Finkel
+      start: '00:13:52.643'
+      end: '00:13:52.643'
+      u: Тоже [они, но не все?], а еврейские освободили.
+    - who: David Boder
+      start: '00:13:56.077'
+      end: '00:13:56.077'
+      u: Так, что вы думаете переместить в Мюнхенский университет?
+    - who: Nathan Finkel
+      start: '00:13:58.568'
+      end: '00:13:58.568'
+      u: Да. Я уже [записался?]
+    - who: David Boder
+      start: '00:13:59.946'
+      end: '00:13:59.946'
+      u: Есть ли что-нибудь, который вы захотели сказать американским или еврейским
+        студентам в Америке?
+    - who: Nathan Finkel
+      start: '00:14:06.208'
+      end: '00:14:06.208'
+      u: Есть.
+    - who: David Boder
+      start: '00:14:07.038'
+      end: '00:14:07.038'
+      u: Скажите.
+    - who: Nathan Finkel
+      start: '00:14:07.941'
+      end: '00:14:07.941'
+      u: Нам очень [неразборчиво] надо помочь. Особенно у нас нет книг. Если эта возможность
+        у американских студентов, чтоб нам эти книги [переслать?]. Кроме того, мы
+        хотим [набежать?] с ними отношения [писать им?], чтобы они нам тоже писали.
+        [Менять опытом?]. Мы очень много конечно отстаем, так как 6 лет не занимались
+        и [отстали вообще?] культуры и хотим все это теперь делать. У нас отношения
+        [и условия?] очень, аг...
+    - who: David Boder
+      start: '00:14:42.985'
+      end: '00:14:42.985'
+      u: Душевные.
+    - who: Nathan Finkel
+      start: '00:14:43.304'
+      end: '00:14:43.304'
+      u: ". . . душевные. Очень долго [занимают?]."
+    - who: David Boder
+      start: '00:14:45.576'
+      end: '00:14:45.576'
+      u: Скажите вот что. Вы знаете что такое Гилели фонд?
+    - who: Nathan Finkel
+      start: '00:14:49.198'
+      end: '00:14:49.198'
+      u: Что такое Гилели фонд очень хорошо знаю, потому что здесь при [неразборчиво]
+        Мюнхен. Этот представитель был Мистер [Десло?]. Он очень много [неразборчиво]
+        себе еврейских студентов и говорил он им о Гилели фонд. Некоторые записали,
+        особенно те, которые хорошо знают английский язык.
+    - who: David Boder
+      start: '00:15:14.991'
+      end: '00:15:14.991'
+      u: А может быть [они в том?] [неразборчиво] записаться [неразборчиво].
+    - who: Nathan Finkel
+      start: '00:15:16.807'
+      end: '00:15:16.807'
+      u: "[прерывающий] Да."
+    - who: David Boder
+      start: '00:15:17.090'
+      end: '00:15:17.090'
+      u: Гилели фонд ведь могло быть что-нибудь делать для вас всех.
+    - who: Nathan Finkel
+      start: '00:15:21.524'
+      end: '00:15:21.524'
+      u: Пока очень мало сделали, за исключением того, что Мистер, Мистер [Десло?]
+        нам рассказывал об этом и студенты записывали. До сих пор еще ничего...
+    - who: David Boder
+      start: '00:15:32.125'
+      end: '00:15:32.125'
+      u: "[прерывающий] Они организации тут не устроил."
+    - who: Nathan Finkel
+      start: '00:15:34.087'
+      end: '00:15:34.087'
+      u: Не устроили ничего. А нам [неразборчиво] очень много нам надо помочь, потому
+        что никаких почти условий [неразборчиво] нет. Теперь УННРЫ помогает нам. Все
+        будет после этого...
+    - who: David Boder
+      start: '00:15:50.451'
+      end: 
+      u: "[прерывающий] Ну, я думаю, что это как [студенческий интервью?]. Я бы хотел
+        с вами говорить значительно дольше. Ну, время...[запись заканчивается внезапно]"
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:00.416'
+      end: '00:00:00.416'
+      u: "[In English] Munich, September the 24th, 193—, 1946, at the UNRRA University
+        for displaced persons at the Deutsches Museum. The interviewee is now Nathan
+        Finkel from Rovno, a Jewish student at the university. He will speak Russian."
+    - who: David Boder
+      start: '00:00:21.128'
+      end: '00:00:21.128'
+      u: "[In Russian] Ah, how...How old are you?"
+    - who: Nathan Finkel
+      start: '00:00:23.625'
+      end: '00:00:23.625'
+      u: I am 26 years old.
+    - who: David Boder
+      start: '00:00:25.414'
+      end: '00:00:25.414'
+      u: So. Well, [sit down and?] [unintelligible] and speak like so, that [unintelligible].
+        Tell me please where you were when the war began.
+    - who: Nathan Finkel
+      start: '00:00:37.641'
+      end: '00:00:37.641'
+      u: When the war began, I was in Rovno.
+    - who: David Boder
+      start: '00:00:39.747'
+      end: '00:00:39.747'
+      u: So. And were the Russians in Rovno before the war?
+    - who: Nathan Finkel
+      start: '00:00:43.702'
+      end: '00:00:43.702'
+      u: "[unintelligible]"
+    - who: David Boder
+      start: '00:00:46.628'
+      end: '00:00:46.628'
+      u: No, no, no. I am thinking [unintelligible] when Rovno was in Poland.
+    - who: Nathan Finkel
+      start: '00:00:51.370'
+      end: '00:00:51.370'
+      u: Yes. It was in Poland.
+    - who: David Boder
+      start: '00:00:52.355'
+      end: '00:00:52.355'
+      u: Well, so. When the Germans entered [stutters] western Poland. Did the Russians
+        enter, ah, did the Germans enter Rovno or did the Russians enter Rovno?
+    - who: Nathan Finkel
+      start: '00:01:03.308'
+      end: '00:01:03.308'
+      u: The Germans entered western Poland in 1939.
+    - who: David Boder
+      start: '00:01:05.751'
+      end: '00:01:05.751'
+      u: No, they got...they got to eastern Poland.
+    - who: Nathan Finkel
+      start: '00:01:11.583'
+      end: '00:01:11.583'
+      u: To eastern [unintelligible].
+    - who: David Boder
+      start: '00:01:12.952'
+      end: '00:01:12.952'
+      u: 'So, therefore, I am also saying: The Russians entered eastern Poland. Well,
+        okay. You [unintelligible] of this time and continue then, tell me what happened
+        to you?'
+    - who: Nathan Finkel
+      start: '00:01:24.196'
+      end: '00:01:24.196'
+      u: I was working in Rovno from 1939, then I left in 1940 for [unintelligible].
+    - who: David Boder
+      start: '00:01:29.559'
+      end: '00:01:29.559'
+      u: Well, wait a bit. When did the Russians enter Rovno?
+    - who: Nathan Finkel
+      start: '00:01:34.276'
+      end: '00:01:34.276'
+      u: In September 1939.
+    - who: David Boder
+      start: '00:01:35.962'
+      end: '00:01:35.962'
+      u: Stop! What happened then?
+    - who: Nathan Finkel
+      start: '00:01:40.132'
+      end: '00:01:40.132'
+      u: Then I [unintelligible] from [my] family. We all stayed put.
+    - who: David Boder
+      start: '00:01:46.149'
+      end: '00:01:46.149'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:01:47.130'
+      end: '00:01:47.130'
+      u: I got work again. I left for L'vov to get a job. I studied at the Polytechnical
+        in L'vov.
+    - who: David Boder
+      start: '00:01:55.845'
+      end: '00:01:55.845'
+      u: And did the Russian also capture L'vov?
+    - who: Nathan Finkel
+      start: '00:01:57.928'
+      end: '00:01:57.928'
+      u: Also. And also western Ukraine.
+    - who: David Boder
+      start: '00:02:00.077'
+      end: '00:02:00.077'
+      u: So. [both talking at once] Western Ukraine and...
+    - who: Nathan Finkel
+      start: '00:02:02.894'
+      end: '00:02:02.894'
+      u: "[interrupting] Western Ukraine and eastern Poland."
+    - who: David Boder
+      start: '00:02:04.660'
+      end: '00:02:04.660'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:02:04.971'
+      end: '00:02:04.971'
+      u: "[unintelligible]"
+    - who: David Boder
+      start: '00:02:05.956'
+      end: '00:02:05.956'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:02:07.576'
+      end: '00:02:07.576'
+      u: In 1941, in June when the war had begun between Germany and Russian, I [unintelligible]
+        after the start of the war, I went to Rovno. I was in Rovno three months in
+        all, because very great persecutions had begun [unintelligible] by the Germans...By
+        the Germans.
+    - who: David Boder
+      start: '00:02:30.527'
+      end: '00:02:30.527'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:02:31.922'
+      end: '00:02:31.922'
+      u: Everyone was taken for work as soon as six months after the start of the
+        war. Ah. In the month of December they already had killed seventeen thousand
+        Jews in [about one week?].
+    - who: David Boder
+      start: '00:02:46.495'
+      end: '00:02:46.495'
+      u: How did they kill them?
+    - who: Nathan Finkel
+      start: '00:02:48.274'
+      end: '00:02:48.274'
+      u: They [divided?] from the morning all to gather in the square with [unintelligible]
+        and it was forbidden to bring anything larger with themselves.
+    - who: David Boder
+      start: '00:02:57.043'
+      end: '00:02:57.043'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:02:57.645'
+      end: '00:02:57.645'
+      u: And after everyone [unintelligible] [he only left?], it was those who didn't
+        work.
+    - who: David Boder
+      start: '00:03:01.833'
+      end: '00:03:01.833'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:03:02.494'
+      end: '00:03:02.494'
+      u: And [unintelligible] to leave, that is from the SS, the SS [they got off?]
+    - who: David Boder
+      start: '00:03:09.400'
+      end: '00:03:09.400'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:03:10.081'
+      end: '00:03:10.081'
+      u: They were taken six kilometers outside of town. A place was already prepared
+        there for them and they shot [them] for three days and they threw them already
+        [into a hole?], into holes there and buried [them].
+    - who: David Boder
+      start: '00:03:23.642'
+      end: '00:03:23.642'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:03:25.432'
+      end: '00:03:25.432'
+      u: I...
+    - who: David Boder
+      start: '00:03:25.739'
+      end: '00:03:25.739'
+      u: "[interrupting] Who dug these holes and who..."
+    - who: Nathan Finkel
+      start: '00:03:27.865'
+      end: '00:03:27.865'
+      u: "[interrupting] It is evident the Ukrainians did the digging."
+    - who: David Boder
+      start: '00:03:29.536'
+      end: '00:03:29.536'
+      u: So...Well, go on.
+    - who: Nathan Finkel
+      start: '00:03:30.891'
+      end: '00:03:30.891'
+      u: Only the Ukrainians were involved [with them?], and the Germans only [did
+        the shooting?]. [That it, the Germans?] gave the orders. The Germans had [unintelligible].
+    - who: David Boder
+      start: '00:03:39.714'
+      end: '00:03:39.714'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:03:40.024'
+      end: '00:03:40.024'
+      u: The only gave the orders. The Germans [so?].
+    - who: David Boder
+      start: '00:03:43.266'
+      end: '00:03:43.266'
+      u: So. Well, go on.
+    - who: Nathan Finkel
+      start: '00:03:44.755'
+      end: '00:03:44.755'
+      u: Well, I was no longer in Rovno then.
+    - who: David Boder
+      start: '00:03:46.505'
+      end: '00:03:46.505'
+      u: And where were you?
+    - who: Nathan Finkel
+      start: '00:03:47.257'
+      end: '00:03:47.257'
+      u: I had fled them and again a month after this I fled to western Poland.
+    - who: David Boder
+      start: '00:03:52.725'
+      end: '00:03:52.725'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:03:53.091'
+      end: '00:03:53.091'
+      u: There it was a little better with the Jews, that...
+    - who: David Boder
+      start: '00:03:56.127'
+      end: '00:03:56.127'
+      u: "[interrupting] To western Poland [unintelligible]?"
+    - who: Nathan Finkel
+      start: '00:03:57.186'
+      end: '00:03:57.186'
+      u: To western Poland. I fled to the city of Sosnowiec.
+    - who: David Boder
+      start: '00:04:01.230'
+      end: '00:04:01.230'
+      u: "[unintelligible]. So."
+    - who: Nathan Finkel
+      start: '00:04:02.328'
+      end: '00:04:02.328'
+      u: Yes, to Silesia. There was already a ghetto there, and I was in the ghetto
+        a year and a half. I was working in [Skopje?], this is how they called it
+        in German.
+    - who: David Boder
+      start: '00:04:13.225'
+      end: '00:04:13.225'
+      u: Yes.
+    - who: Nathan Finkel
+      start: '00:04:14.164'
+      end: '00:04:14.164'
+      u: It was very hard from morning to evening and it was especially bad for us
+        with the food.
+    - who: David Boder
+      start: '00:04:20.067'
+      end: '00:04:20.067'
+      u: Well...
+    - who: Nathan Finkel
+      start: '00:04:21.006'
+      end: '00:04:21.006'
+      u: So. Because the Germans left very little for the ghettos. As early as [stammers]
+        at this time they began [to take us?] to concentration camps. They [were bringing?]
+        these places arbeitslagers [forced labor camps], that means we worked there.
+        [For me?] my brother and I gathered and I was in the Gross-Rosen camp in Silesia.
+        I worked all the time. I worked very hard. Of course [in the village?] [unintelligible]
+        [we already had gotten bad?] only perhaps two men. We live in barracks. The
+        food was very bad, we got ill and hundreds died there. A hundred men can be
+        located in one room, and at the plant, at the factory, where we work there
+        were such squares [we formed anxiety?]. It was very hard. The Germans treated
+        us very badly.
+    - who: Nathan Finkel
+      start: '00:05:24.563'
+      end: '00:05:24.563'
+      u: I was working [of everything I didn't have?] The last two months before the
+        end of the war, I already was thinking that it would be my end, because I
+        got sick several times, only [because of their?] [unintelligible] from too
+        difficult work. I worked in the square.
+    - who: David Boder
+      start: '00:05:49.559'
+      end: '00:05:49.559'
+      u: What does it mean, "in the square"?
+    - who: Nathan Finkel
+      start: '00:05:50.261'
+      end: '00:05:50.261'
+      u: In the square of this construction area. A military plant construction area.
+        Several comrades were with me and they all died because I was somewhat [unintelligible],
+        I managed to survive. We supplied kava. there was a lot of kava there, it
+        was [camp?] kava. I got considerably ill [unintelligible] from it...
+    - who: David Boder
+      start: '00:06:12.217'
+      end: '00:06:12.217'
+      u: "[interrupting] [unintelligible] you think?"
+    - who: Nathan Finkel
+      start: '00:06:12.524'
+      end: '00:06:12.524'
+      u: Coffee, coffee. Yes.
+    - who: David Boder
+      start: '00:06:14.245'
+      end: '00:06:14.245'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:06:14.828'
+      end: '00:06:14.828'
+      u: And very many died before it. [And hemorrhoids interfered?], and after the
+        operation they did not [do?] and they died. At the other, in Silesia there
+        were very many camps.
+    - who: David Boder
+      start: '00:06:26.047'
+      end: '00:06:26.047'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:06:28.766'
+      end: '00:06:28.766'
+      u: The girls worked there. The majority, they worked in the factories...
+    - who: David Boder
+      start: '00:06:34.214'
+      end: '00:06:34.214'
+      u: "[unintelligible]"
+    - who: Nathan Finkel
+      start: '00:06:41.205'
+      end: '00:06:41.205'
+      u: I was in this camp in Gross-Rosen until March 1945. The Germans started to
+        [unintelligible] us in March.
+    - who: David Boder
+      start: '00:06:53.492'
+      end: '00:06:53.492'
+      u: "[How long?] were you in Gross-Rosen this time?"
+    - who: Nathan Finkel
+      start: '00:06:55.598'
+      end: '00:06:55.598'
+      u: This time I was in Rosen a year and a half.
+    - who: David Boder
+      start: '00:06:57.922'
+      end: '00:06:57.922'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:06:59.316'
+      end: '00:06:59.316'
+      u: "[They evacuated?] us to the west. I ended up in Buchenwald."
+    - who: David Boder
+      start: '00:07:04.843'
+      end: '00:07:04.843'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:07:05.585'
+      end: '00:07:05.585'
+      u: It was horrible in Buchenwald. There were hundreds, thousands of people,
+        and all were in horrible conditions there because then there were being transferred
+        and no one in the camp was healthy, the other [was] because the Germans were
+        running before the Russians. Everyone was afraid. We were under [the fire
+        of the sky?] in Buchenwald almost day and night, because there were no facilities
+        for us. So I myself [successfully?] [unintelligible] worse. [Had to wait to
+        the time?] until March 1945, many were spared [their lives?]. So, the final
+        month, especially in the final days, [thousands?] died [a day], because [unintelligible]
+        they didn't take us [we went with it?], and we walked. So, on the road, who
+        only showed weakness [unintelligible], they killed immediately. They killed
+        [them]. So, there were fewer and fewer left on the road...
+    - who: David Boder
+      start: '00:08:07.273'
+      end: '00:08:07.273'
+      u: So, well, ah, ah, you were in Buchenwald.
+    - who: Nathan Finkel
+      start: '00:08:10.606'
+      end: '00:08:10.606'
+      u: Yes. I was there only a month and a half.
+    - who: David Boder
+      start: '00:08:12.376'
+      end: '00:08:12.376'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:08:12.742'
+      end: '00:08:12.742'
+      u: "[I was there at the end of the war?]. [Quality of recording suddenly gets
+        much worse here.] Well, then they liberated us and I of course was here in
+        the American zone."
+    - who: David Boder
+      start: '00:08:21.187'
+      end: '00:08:21.187'
+      u: So. Well right now [weak and unintelligible] in the American zone [too weak
+        and unintelligible], tell [me] in detail [weak and unintelligible].
+    - who: Nathan Finkel
+      start: '00:08:33.468'
+      end: '00:08:33.468'
+      u: From the very beginning of liberation I was in the Feldafing camp. It was
+        a special camp for Jews. There were [six thousand?] [unintelligible]. Conditions
+        were [unintelligible] [poor?]. [Unintelligible]. The American endeavored [in
+        any?] [unintelligible] [with me?].
+    - who: David Boder
+      start: '00:08:53.271'
+      end: '00:08:53.271'
+      u: Who founded Feldafing?
+    - who: Nathan Finkel
+      start: '00:08:55.278'
+      end: '00:08:55.278'
+      u: The Americans founded Feldafing.
+    - who: David Boder
+      start: '00:08:57.819'
+      end: '00:08:57.819'
+      u: You know [unintelligible].
+    - who: Nathan Finkel
+      start: '00:09:00.459'
+      end: '00:09:00.459'
+      u: No, I don't.
+    - who: David Boder
+      start: '00:09:01.467'
+      end: '00:09:01.467'
+      u: So, [unintelligible].
+    - who: Nathan Finkel
+      start: '00:09:04.720'
+      end: '00:09:04.720'
+      u: "[unintelligible]. Well, because I arrived [later?], I [did not avoid the
+        very beginning?] and [also?] then it wasn't."
+    - who: David Boder
+      start: '00:09:10.386'
+      end: '00:09:10.386'
+      u: So. Yes.
+    - who: Nathan Finkel
+      start: '00:09:10.851'
+      end: '00:09:10.851'
+      u: I was in this very camp until January 1946. In January 1946, I found out
+        that [unintelligible] university here. I decided to come here to Munich to
+        get involved. I got an apartment and in March [both talking at once]. I got
+        a private apartment.
+    - who: David Boder
+      start: '00:09:36.857'
+      end: '00:09:36.857'
+      u: Did the German assign [it] to you?
+    - who: Nathan Finkel
+      start: '00:09:38.034'
+      end: '00:09:38.034'
+      u: Yes, the Germans assigned [it] to me, a private apartment. A good room.
+    - who: David Boder
+      start: '00:09:42.058'
+      end: '00:09:42.058'
+      u: You are what, a bachelor?
+    - who: Nathan Finkel
+      start: '00:09:43.571'
+      end: '00:09:43.571'
+      u: I'm a bachelor. I have a brother here. I have no one else from the family.
+    - who: David Boder
+      start: '00:09:47.734'
+      end: '00:09:47.734'
+      u: From where did [he take?] [your] brother?
+    - who: Nathan Finkel
+      start: '00:09:49.682'
+      end: '00:09:49.682'
+      u: My brother has been with me all the time, in the camp, too. We have been
+        together since Szczecin. And here [unintelligible] all the time...
+    - who: David Boder
+      start: '00:09:57.127'
+      end: '00:09:57.127'
+      u: "[interrupting]What does your brother do?"
+    - who: Nathan Finkel
+      start: '00:09:58.472'
+      end: '00:09:58.472'
+      u: My brother is also here at the university [unintelligible] [on the second?]...
+    - who: David Boder
+      start: '00:10:02.538'
+      end: '00:10:02.538'
+      u: "[interrupting] Ah, what are you studying?"
+    - who: Nathan Finkel
+      start: '00:10:04.011'
+      end: '00:10:04.011'
+      u: I am studying architecture.
+    - who: David Boder
+      start: '00:10:05.659'
+      end: '00:10:05.659'
+      u: So...okay...That means your brother [unintelligible] [you went after?]?
+    - who: Nathan Finkel
+      start: '00:10:13.966'
+      end: '00:10:13.966'
+      u: To be involved.
+    - who: David Boder
+      start: '00:10:18.261'
+      end: '00:10:18.261'
+      u: So...Well, and how are [these?] conditions at the university, you, ah, what...
+    - who: Nathan Finkel
+      start: '00:10:23.267'
+      end: '00:10:23.267'
+      u: Conditions at the university are not so very good, now [unintelligible],
+        but earlier it wasn't so good [with the food?]. What touches on the lessons,
+        that's the main thing. We have a total of about seventy students in architecture.
+        Only several professors are good, the rest do not [teach us very much?] to
+        the exclusion of several.
+    - who: David Boder
+      start: '00:10:50.420'
+      end: '00:10:50.420'
+      u: And how is the relationship between the students?
+    - who: Nathan Finkel
+      start: '00:10:53.409'
+      end: '00:10:53.409'
+      u: The relationship is rather correct between the students. Although I am a
+        Jew, [and I feel?]
+    - who: David Boder
+      start: '00:11:02.492'
+      end: '00:11:02.492'
+      u: "[unintelligible]."
+    - who: Nathan Finkel
+      start: '00:11:04.907'
+      end: '00:11:04.907'
+      u: And I feel that here are very many of my worst ah, enemies, very [inspired?]
+        enemies, well, nonetheless, I never feel it.
+    - who: David Boder
+      start: '00:11:15.939'
+      end: '00:11:15.939'
+      u: You how? Do you feel it or not feel it?
+    - who: Nathan Finkel
+      start: '00:11:17.490'
+      end: '00:11:17.490'
+      u: I feel it because I know that they [unintelligible], nor this [they do not
+        show?] relationship toward me. [Outwardly?] it isn't seen.
+    - who: David Boder
+      start: '00:11:25.410'
+      end: '00:11:25.410'
+      u: So...Perhaps this is just your suspiciousness?
+    - who: Nathan Finkel
+      start: '00:11:28.317'
+      end: '00:11:28.317'
+      u: It is...Maybe all my suspiciousness, but since I know that there are Ukrainians
+        here, that there are Lithuanians here. They were our killers, because the
+        Germans didn't kill us, but only the Ukrainians and the Lithuanians, and all.
+    - who: David Boder
+      start: '00:11:39.016'
+      end: '00:11:39.016'
+      u: But the Lithuanians are also refugees?
+    - who: Nathan Finkel
+      start: '00:11:43.342'
+      end: '00:11:43.342'
+      u: Not all of them are refugees.
+    - who: David Boder
+      start: '00:11:47.297'
+      end: '00:11:47.297'
+      u: Well, I understand...go on.
+    - who: David Boder
+      start: '00:11:49.799'
+      end: '00:11:49.799'
+      u: Well, and what do you expect from this university? Don you have any relatives
+        in America?
+    - who: Nathan Finkel
+      start: '00:11:54.080'
+      end: '00:11:54.080'
+      u: I have relatives, but I know very little about them. And how [corrects himself]
+        I still haven't gotten in touch with them. I think being involved, for the
+        time being the conditions are better here than [those somewhere in the country?],
+        so I want to study here.
+    - who: David Boder
+      start: '00:12:07.370'
+      end: '00:12:07.370'
+      u: Aha, and why won't you go [to a local?] university?
+    - who: Nathan Finkel
+      start: '00:12:10.099'
+      end: '00:12:10.099'
+      u: I am dealing with that now.
+    - who: David Boder
+      start: '00:12:11.572'
+      end: '00:12:11.572'
+      u: Which one?
+    - who: Nathan Finkel
+      start: '00:12:12.393'
+      end: '00:12:12.393'
+      u: With the Germans [now Munich?] after the second semester.
+    - who: David Boder
+      start: '00:12:15.147'
+      end: '00:12:15.147'
+      u: In architecture?
+    - who: Nathan Finkel
+      start: '00:12:16.007'
+      end: '00:12:16.007'
+      u: In architecture, yes.
+    - who: David Boder
+      start: '00:12:16.749'
+      end: '00:12:16.749'
+      u: And who will pay this for you?
+    - who: Nathan Finkel
+      start: '00:12:18.519'
+      end: '00:12:18.519'
+      u: "[We?] have been exempted [of payment for us?]"
+    - who: David Boder
+      start: '00:12:20.835'
+      end: '00:12:20.835'
+      u: And...
+    - who: Nathan Finkel
+      start: '00:12:21.102'
+      end: '00:12:21.102'
+      u: "[interrupting] All Jewish students [are exempt from?] payment."
+    - who: David Boder
+      start: '00:12:24.187'
+      end: '00:12:24.187'
+      u: Who exempted you from it?
+    - who: Nathan Finkel
+      start: '00:12:25.364'
+      end: '00:12:25.364'
+      u: Our student alliance that is here exempted us.
+    - who: David Boder
+      start: '00:12:29.401'
+      end: '00:12:29.401'
+      u: "[This alliance?] is Jewish?"
+    - who: Nathan Finkel
+      start: '00:12:30.874'
+      end: '00:12:30.874'
+      u: It is a special Jewish alliance located here of two hundred and ten Jewish
+        students. Earlier almost everyone was here at the UNRRA University. Now the
+        majority [will transfer?] to a German university. Since oneself and the conditions
+        at [stops], the conditions are better.
+    - who: David Boder
+      start: '00:12:46.075'
+      end: '00:12:46.075'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:12:48.058'
+      end: '00:12:48.058'
+      u: Not all the devices are needed here because this university [is forming the
+        rest here?]...
+    - who: David Boder
+      start: '00:12:51.725'
+      end: '00:12:51.725'
+      u: Yes.
+    - who: Nathan Finkel
+      start: '00:12:52.180'
+      end: '00:12:52.180'
+      u: ". . . they will swap. And there already [everyone?] for the local professors
+        [firstly is better?]"
+    - who: David Boder
+      start: '00:12:57.126'
+      end: '00:12:57.126'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:12:57.445'
+      end: '00:12:57.445'
+      u: On the other hand, there [unintelligible] [to study?] since we [are located
+        in contact?] the Germans.
+    - who: David Boder
+      start: '00:13:03.330'
+      end: '00:13:03.330'
+      u: And do you think that the German students are just as bad as they were during
+        Hitler's time?
+    - who: Nathan Finkel
+      start: '00:13:09.372'
+      end: '00:13:09.372'
+      u: They have been left nonetheless [these sour things?] , because [they?] clearly
+        don't address it, but it is felt their [unintelligible].
+    - who: David Boder
+      start: '00:13:18.342'
+      end: '00:13:18.342'
+      u: "[Who?] expresses [this?]? Perhaps you are simply suspicious people."
+    - who: Nathan Finkel
+      start: '00:13:22.147'
+      end: '00:13:22.147'
+      u: It is expressed [in the fact?] that very often it is even noted as one indicates
+        to the other that there are too many [living?] Jews here.
+    - who: David Boder
+      start: '00:13:32.642'
+      end: '00:13:32.642'
+      u: And by the way, this exemption from payment that the [student alliance?]
+        to pay or the Germans exempted the payment?
+    - who: Nathan Finkel
+      start: '00:13:38.281'
+      end: '00:13:38.281'
+      u: The Germans, the Bavarian government...
+    - who: David Boder
+      start: '00:13:40.801'
+      end: '00:13:40.801'
+      u: So.
+    - who: Nathan Finkel
+      start: '00:13:41.339'
+      end: '00:13:41.339'
+      u: ". . . it exempted us. It is [unintelligible] [Bundes-?] minister exempted..."
+    - who: David Boder
+      start: '00:13:45.891'
+      end: '00:13:45.891'
+      u: "[interrupting] And the Ukrainians have not been exempted from payment?"
+    - who: Nathan Finkel
+      start: '00:13:49.121'
+      end: '00:13:49.121'
+      u: Not all. [Not how?] we [unintelligible].
+    - who: David Boder
+      start: '00:13:51.375'
+      end: '00:13:51.375'
+      u: Or the Poles?
+    - who: Nathan Finkel
+      start: '00:13:52.643'
+      end: '00:13:52.643'
+      u: Also [they, but not all?], but the Jewish exempted.
+    - who: David Boder
+      start: '00:13:56.077'
+      end: '00:13:56.077'
+      u: So, what do you think about relocating to a Munich university?
+    - who: Nathan Finkel
+      start: '00:13:58.568'
+      end: '00:13:58.568'
+      u: Yes. I have already [signed up?].
+    - who: David Boder
+      start: '00:13:59.946'
+      end: '00:13:59.946'
+      u: Is there something you would like to say to American or Jewish students in
+        America?
+    - who: Nathan Finkel
+      start: '00:14:06.208'
+      end: '00:14:06.208'
+      u: There is.
+    - who: David Boder
+      start: '00:14:07.038'
+      end: '00:14:07.038'
+      u: Tell me.
+    - who: Nathan Finkel
+      start: '00:14:07.941'
+      end: '00:14:07.941'
+      u: We really need [unintelligible] help. We especially don't have any books.
+        If there is the possibility for American students to [send?] us these books.
+        Moreover, we want [run?] relationships with them [to write them?] so that
+        also write us. [To exchange experience?]. We are very much behind of course,
+        since we have not been involved for six years and [generally we have left?]
+        culture and want to do all this now. We have relationships [and conditions?]
+        are very, ah...
+    - who: David Boder
+      start: '00:14:42.985'
+      end: '00:14:42.985'
+      u: Emotional.
+    - who: Nathan Finkel
+      start: '00:14:43.304'
+      end: '00:14:43.304'
+      u: ". . . emotional. [They have been occupying?] for a very long time."
+    - who: David Boder
+      start: '00:14:45.576'
+      end: '00:14:45.576'
+      u: 'Tell me. Do you know what the Hillel Foundation is?Hillel: The Foundation
+        for Jewish Campus Life was founded in 1923 in the United States, and is the
+        world''s largest Jewish campus organization.1'
+    - who: Nathan Finkel
+      start: '00:14:49.198'
+      end: '00:14:49.198'
+      u: I know very well what the Hillel Foundation is, because here with [unintelligible]
+        Munich. This representative was Mr. [Deslo?]. He [unintelligible] very much
+        for himself the Jewish students and told them about the Hillel Foundation.
+        Some have signed up, especially those who know English well.
+    - who: David Boder
+      start: '00:15:14.991'
+      end: '00:15:14.991'
+      u: And perhaps [they in that?] [unintelligible] to be signed up [unintelligible]...
+    - who: Nathan Finkel
+      start: '00:15:16.807'
+      end: '00:15:16.807'
+      u: "[interrupting] Yes."
+    - who: David Boder
+      start: '00:15:17.090'
+      end: '00:15:17.090'
+      u: "[continuing]...so the Hiller Foundation may have been something to do for
+        all of you."
+    - who: Nathan Finkel
+      start: '00:15:21.524'
+      end: '00:15:21.524'
+      u: So far they have done very little, with the exception that Mr., Mr. [Deslo?]
+        told us about it and the students signed up. Up to now still nothing...
+    - who: David Boder
+      start: '00:15:32.125'
+      end: '00:15:32.125'
+      u: "[interrupting] They haven't built any organization here."
+    - who: Nathan Finkel
+      start: '00:15:34.087'
+      end: '00:15:34.087'
+      u: They haven't built anything. But for us [unintelligible] it is necessary
+        to help us very much because there almost are no [unintelligible] conditions.
+        Now the UNRRA people are helping us. Everything will be after this...
+    - who: David Boder
+      start: '00:15:50.451'
+      end: 
+      u: "[interrupting] Well, I think that this is like a [student interview?]. I
+        would like to talk with you significantly further. Well, time...[recording
+        ends abruptly]"
+transcript: {}
+translation: {}

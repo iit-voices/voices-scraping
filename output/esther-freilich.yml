@@ -25,5 +25,2138 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: de
+    interview:
+    - who: David Boder
+      start: '00:00:25.407'
+      end: '00:00:25.407'
+      u: '[In English] Chicago, November the 16th, 1950. This is spool 9-40. The...a
+        short interview with a child, Esther Freilich, the daughter of Mrs. Frieda
+        Freilich...of whom we have that long interview, reported in the book as, eh..."Mrs.
+        Freich." Boder.'
+    - who: David Boder
+      start: '00:00:25.407'
+      end: '00:00:25.407'
+      u: Now for a short statement...eh...Esther...Esther Frieden...was hat?
+    - who: Esther Freilich
+      start: '00:00:37.650'
+      end: '00:00:37.650'
+      u: Freilich.
+    - who: David Boder
+      start: '00:00:38.298'
+      end: '00:00:38.298'
+      u: Esther Freilich, whose mother has covered Spool 36, 37 and 38. Esther is
+        13 years old.
+    - who: David Boder
+      start: '00:00:48.430'
+      end: '00:00:48.430'
+      u: "[In German] Also, Esther, sag mal, [unverständlich] wie heisst du und wie
+        alt bist du?"
+    - who: Esther Freilich
+      start: '00:00:54.359'
+      end: '00:00:54.359'
+      u: Ich, ich heiss Esther Freilich. Ich bin [unverständlich, auch schon?] dreizehn
+        Jahr.
+    - who: David Boder
+      start: '00:00:58.670'
+      end: '00:00:58.670'
+      u: Du bist [unverständlich]. Wenn war dein Geburtstag?
+    - who: Esther Freilich
+      start: '00:01:01.658'
+      end: '00:01:01.658'
+      u: Im 11. März.
+    - who: David Boder
+      start: '00:01:03.214'
+      end: '00:01:03.214'
+      u: Im 11. März warst du dreizehn Jahre alt.
+    - who: Esther Freilich
+      start: '00:01:06.747'
+      end: '00:01:06.747'
+      u: Ja.
+    - who: David Boder
+      start: '00:01:07.167'
+      end: '00:01:07.167'
+      u: Ja. Also, Esther, erzähl mir, äh, du warst mit deiner Mutter genommen worden
+        wie viele Mal?
+    - who: Esther Freilich
+      start: '00:01:12.661'
+      end: '00:01:12.661'
+      u: Oh, drei, vier Mal.
+    - who: David Boder
+      start: '00:01:15.540'
+      end: '00:01:15.540'
+      u: Drei, vier Mal.
+    - who: Esther Freilich
+      start: '00:01:16.505'
+      end: '00:01:16.505'
+      u: Ja.
+    - who: David Boder
+      start: '00:01:17.096'
+      end: '00:01:17.096'
+      u: Äh, erzähl mir, wie war's...wie war es in, in der Drancy. Warst du in der
+        Drancy.
+    - who: Esther Freilich
+      start: '00:01:23.803'
+      end: '00:01:23.803'
+      u: Ja. Ich war in der Drancy.
+    - who: David Boder
+      start: '00:01:24.444'
+      end: '00:01:24.444'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:01:25.080'
+      end: '00:01:25.080'
+      u: Ich komme in ein [unverständlich] um zweie bei Nacht. In [unverständlich]
+        und machen wir im Kommissariat. Im, äh, Kommissariat machen bereit. Und nachher
+        mal nehmen wir in Zug und wir fahren bis Drancy.
+    - who: David Boder
+      start: '00:01:39.523'
+      end: '00:01:39.523'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:01:40.146'
+      end: '00:01:40.146'
+      u: Wir gehen.
+    - who: David Boder
+      start: '00:01:40.737'
+      end: '00:01:40.737'
+      u: Also, wer ist gekommen zu Hause, euch nehmen und wenn war es?
+    - who: Esther Freilich
+      start: '00:01:44.395'
+      end: '00:01:44.395'
+      u: Die französische Poli, Police.
+    - who: David Boder
+      start: '00:01:46.123'
+      end: '00:01:46.123'
+      u: Die Police ist gekommen. Um wieviel Uhr?
+    - who: Esther Freilich
+      start: '00:01:47.819'
+      end: '00:01:47.819'
+      u: Zwei Uhr von Nacht.
+    - who: David Boder
+      start: '00:01:48.831'
+      end: '00:01:48.831'
+      u: Um zwei Uhr bei Nacht.
+    - who: Esther Freilich
+      start: '00:01:50.030'
+      end: '00:01:50.030'
+      u: Ja.
+    - who: David Boder
+      start: '00:01:50.372'
+      end: '00:01:50.372'
+      u: Und was haben sie gesagt?
+    - who: Esther Freilich
+      start: '00:01:51.632'
+      end: '00:01:51.632'
+      u: Sie haben mir gesagt, dass [unverständlich]. Wir sollen machen unsere Paketen,
+        wo sie [unverständlich]. Wo [unverständlich]...
+    - who: David Boder
+      start: '00:01:56.161'
+      end: '00:01:56.161'
+      u: "[unverständlich]"
+    - who: Esther Freilich
+      start: '00:01:57.794'
+      end: '00:01:57.794'
+      u: Ja.
+    - who: David Boder
+      start: '00:02:00.030'
+      end: '00:02:00.030'
+      u: Nun, und was für eine Paketen habt ihr gemacht?
+    - who: Esther Freilich
+      start: '00:02:01.543'
+      end: '00:02:01.543'
+      u: Ähm, wir haben genehmt, was man gedacht, das Nötige.
+    - who: David Boder
+      start: '00:02:05.209'
+      end: '00:02:05.209'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:02:05.770'
+      end: '00:02:05.770'
+      u: Aber sie haben gesagt, man darf nicht [unverständlich]...
+    - who: David Boder
+      start: '00:02:07.486'
+      end: '00:02:07.486'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:02:08.235'
+      end: '00:02:08.235'
+      u: Weil, äh, [unverständlich]
+    - who: David Boder
+      start: '00:02:09.077'
+      end: '00:02:09.077'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:02:10.980'
+      end: '00:02:10.980'
+      u: Wir haben doch verstanden, wenn wir gegangen, haben wir genehmt, was man
+        gedacht, hat gemeint, man darf...
+    - who: David Boder
+      start: '00:02:16.565'
+      end: '00:02:16.565'
+      u: Hm, hm. Und wo ist der Vater gewesen? Wo ist der...
+    - who: Esther Freilich
+      start: '00:02:19.047'
+      end: '00:02:19.047'
+      u: Unser Vater, er hat gearbeitet bei Nacht.
+    - who: David Boder
+      start: '00:02:20.780'
+      end: '00:02:20.780'
+      u: Aha. Nun und wer ist gegangen denn, Ihre Mutter und wer noch?
+    - who: Esther Freilich
+      start: '00:02:24.917'
+      end: '00:02:24.917'
+      u: Die Mutter, der Brother und ich.
+    - who: David Boder
+      start: '00:02:27.025'
+      end: '00:02:27.025'
+      u: Ja, und du. Nun, und man hat dich genommen auf dem Kommissariat.
+    - who: Esther Freilich
+      start: '00:02:30.600'
+      end: '00:02:30.600'
+      u: Ja. Auf dem Kommissariat hat man uns angeschaut den [unverständlich]
+    - who: David Boder
+      start: '00:02:34.253'
+      end: '00:02:34.253'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:02:35.034'
+      end: '00:02:35.034'
+      u: Die [unverständlich]
+    - who: David Boder
+      start: '00:02:35.815'
+      end: '00:02:35.815'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:02:36.142'
+      end: '00:02:36.142'
+      u: "[Unverständlich]"
+    - who: David Boder
+      start: '00:02:36.828'
+      end: '00:02:36.828'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:02:37.812'
+      end: '00:02:37.812'
+      u: Ich gegangen mit Mama, die war dann weg nach Drancy.
+    - who: David Boder
+      start: '00:02:40.747'
+      end: '00:02:40.747'
+      u: Und der Bruder?
+    - who: Esther Freilich
+      start: '00:02:41.998'
+      end: '00:02:41.998'
+      u: Mit dem Bruder.
+    - who: David Boder
+      start: '00:02:42.700'
+      end: '00:02:42.700'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:02:43.385'
+      end: '00:02:43.385'
+      u: Sind wegfahren nach Drancy.. Ich war ein großer [unverständlich]
+    - who: David Boder
+      start: '00:02:48.099'
+      end: '00:02:48.099'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:02:48.768'
+      end: '00:02:48.768'
+      u: Groß! Und...
+    - who: David Boder
+      start: '00:02:49.530'
+      end: '00:02:49.530'
+      u: Ja, wie seit ihr gefahren nach Drancy?
+    - who: Esther Freilich
+      start: '00:02:51.179'
+      end: '00:02:51.179'
+      u: Mit dem Autobus.
+    - who: David Boder
+      start: '00:02:52.921'
+      end: '00:02:52.921'
+      u: Mit dem Autobus. Ja, nun?
+    - who: Esther Freilich
+      start: '00:02:54.290'
+      end: '00:02:54.290'
+      u: Sind wir angekommen nach Drancy. Hat [unverständlich] auch genommen, die,
+        durch die Gebot.
+    - who: David Boder
+      start: '00:03:00.154'
+      end: '00:03:00.154'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:03:00.558'
+      end: '00:03:00.558'
+      u: Und haben gewartet in eine, äh, eine große, äh, Haus. Und [unverständlich]
+        alle Sachen.
+    - who: David Boder
+      start: '00:03:05.524'
+      end: '00:03:05.524'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:03:05.960'
+      end: '00:03:05.960'
+      u: Sie nimmt alles. Und [unverständlich], die Männ.., die Männer, da ham sie
+        gesagt, die [unverständlich]
+    - who: David Boder
+      start: '00:03:10.085'
+      end: '00:03:10.085'
+      u: Ja, und wo hat man genommen deinen Bruder?
+    - who: Esther Freilich
+      start: '00:03:15.129'
+      end: '00:03:15.129'
+      u: Der Bruder?
+    - who: David Boder
+      start: '00:03:15.923'
+      end: '00:03:15.923'
+      u: Mit den Männ...?
+    - who: Esther Freilich
+      start: '00:03:16.982'
+      end: '00:03:16.982'
+      u: Ja, mit den Männern.
+    - who: David Boder
+      start: '00:03:17.885'
+      end: '00:03:17.885'
+      u: Und du bist geblieben mit...
+    - who: Esther Freilich
+      start: '00:03:19.426'
+      end: '00:03:19.426'
+      u: Mit der Mutter.
+    - who: David Boder
+      start: '00:03:20.205'
+      end: '00:03:20.205'
+      u: Ja. Nun, erzähl mir, was ist dorten passiert?
+    - who: Esther Freilich
+      start: '00:03:23.069'
+      end: '00:03:23.069'
+      u: Das war, dorten...da hab ich...[unverständlich]...hat gelegen ein Bett auf
+        dem anderen
+    - who: David Boder
+      start: '00:03:32.066'
+      end: '00:03:32.066'
+      u: Ja. Mit wem bist du geschlafen?
+    - who: Esther Freilich
+      start: '00:03:34.074'
+      end: '00:03:34.074'
+      u: Mit der Mutter.
+    - who: David Boder
+      start: '00:03:34.837'
+      end: '00:03:34.837'
+      u: Du hast geschlafen mit der Mutter.
+    - who: Esther Freilich
+      start: '00:03:36.020'
+      end: '00:03:36.020'
+      u: Ja.
+    - who: David Boder
+      start: '00:03:36.534'
+      end: '00:03:36.534'
+      u: Und was hat man euch zu essen gegeben?
+    - who: Esther Freilich
+      start: '00:03:38.184'
+      end: '00:03:38.184'
+      u: Ich hab erst mit der Mutter...[unverständlich]...
+    - who: David Boder
+      start: '00:03:41.624'
+      end: '00:03:41.624'
+      u: Hmm, ja, mit der Mutter bei [unverständlich]
+    - who: Esther Freilich
+      start: '00:03:43.804'
+      end: '00:03:43.804'
+      u: Mit dabei war und [unverständlich] Kinder. Hat man dann [unverständlich]
+        an das Rote Kreuz und [unverständlich, klingt wie „Aral“?] geschickt.
+    - who: David Boder
+      start: '00:03:49.097'
+      end: '00:03:49.097'
+      u: Hmm.
+    - who: Esther Freilich
+      start: '00:03:49.657'
+      end: '00:03:49.657'
+      u: Hat man, äh, Aral [?] geschickt, weil die Kinder krank sind. Die Kinder sind
+        in ein großes Lager, mit alle Kinder sind ´gangen. Mit dem...gibt, gibt ein
+        Kaffee, mit Müller...
+    - who: David Boder
+      start: '00:03:57.783'
+      end: '00:03:57.783'
+      u: Hmm. Ja.
+    - who: Esther Freilich
+      start: '00:03:58.732'
+      end: '00:03:58.732'
+      u: Und hat gegeben Brot...
+    - who: David Boder
+      start: '00:03:59.619'
+      end: '00:03:59.619'
+      u: Ach so...
+    - who: Esther Freilich
+      start: '00:04:00.211'
+      end: '00:04:00.211'
+      u: Und eine kleine [unverständlich, klingt wie „polnische“] Puppe.
+    - who: David Boder
+      start: '00:04:01.410'
+      end: '00:04:01.410'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:04:01.461'
+      end: '00:04:01.461'
+      u: Und, äh, dann hat, äh, deportiert.
+    - who: David Boder
+      start: '00:04:03.842'
+      end: '00:04:03.842'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:04:04.386'
+      end: '00:04:04.386'
+      u: 'Hat man gi...gibt, ein bisserl, äh, Meial [gemeint ist: „Mehl“] für die
+        Kinder'
+    - who: David Boder
+      start: '00:04:07.608'
+      end: '00:04:07.608'
+      u: Ein bisschen Mehl
+    - who: Esther Freilich
+      start: '00:04:08.573'
+      end: '00:04:08.573'
+      u: Ja.
+    - who: David Boder
+      start: '00:04:08.978'
+      end: '00:04:08.978'
+      u: Für die deportierte Kinder?
+    - who: Esther Freilich
+      start: '00:04:09.896'
+      end: '00:04:09.896'
+      u: Ja.
+    - who: David Boder
+      start: '00:04:10.301'
+      end: '00:04:10.301'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:04:10.876'
+      end: '00:04:10.876'
+      u: Nu...
+    - who: David Boder
+      start: '00:04:11.623'
+      end: '00:04:11.623'
+      u: Nun, und äh, was hat dir passiert denn?
+    - who: Esther Freilich
+      start: '00:04:13.506'
+      end: '00:04:13.506'
+      u: Mir? Man hat, ja, äh, [unverständlich, klingt wie „arretiert“ oder „avertiert“]...
+    - who: David Boder
+      start: '00:04:19.763'
+      end: '00:04:19.763'
+      u: Was denn [unverständlich]
+    - who: Esther Freilich
+      start: '00:04:21.382'
+      end: '00:04:21.382'
+      u: Die Police. Hat extra [unverständlich] und hat dort ihr [unverständlich]
+    - who: David Boder
+      start: '00:04:27.271'
+      end: '00:04:27.271'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:04:27.723'
+      end: '00:04:27.723'
+      u: Stollwitz [?] Hat mir das rausgemacht.
+    - who: David Boder
+      start: '00:04:29.935'
+      end: '00:04:29.935'
+      u: Hmm.
+    - who: Esther Freilich
+      start: '00:04:30.745'
+      end: '00:04:30.745'
+      u: Und der Typ hat mir den rausgegangen, von Drancy hat man deportiert nach
+        Deutschland.
+    - who: David Boder
+      start: '00:04:33.752'
+      end: '00:04:33.752'
+      u: Wen? Die anderen Leute?
+    - who: Esther Freilich
+      start: '00:04:35.248'
+      end: '00:04:35.248'
+      u: Ja.
+    - who: David Boder
+      start: '00:04:35.684'
+      end: '00:04:35.684'
+      u: Und du und dein Bruder seid gegangen.
+    - who: Esther Freilich
+      start: '00:04:37.476'
+      end: '00:04:37.476'
+      u: Ich mit dem Bruder, mit der, ah, ah, Mutter, mit anderen Familie sind wir
+        rausgegangen und noch ein kleine Tier.
+    - who: David Boder
+      start: '00:04:41.776'
+      end: '00:04:41.776'
+      u: Ja, warum seid ihr rausgegangen?
+    - who: Esther Freilich
+      start: '00:04:43.334'
+      end: '00:04:43.334'
+      u: Weil mein Vater David da hat [unverständlich] gelernt.
+    - who: David Boder
+      start: '00:04:46.403'
+      end: '00:04:46.403'
+      u: Aha.
+    - who: Esther Freilich
+      start: '00:04:47.384'
+      end: '00:04:47.384'
+      u: Und während, während der, äh, Grippe hat gelacht außer [unverständlich],
+        verstehst?
+    - who: David Boder
+      start: '00:04:50.499'
+      end: '00:04:50.499'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:04:51.029'
+      end: '00:04:51.029'
+      u: Oder?
+    - who: David Boder
+      start: '00:04:51.574'
+      end: '00:04:51.574'
+      u: Nun? Und was noch willst du von erzählen?
+    - who: Esther Freilich
+      start: '00:04:53.661'
+      end: '00:04:53.661'
+      u: Ich will dir erzählen, hat mich wegen [unverständlich] aus Paris. Hat mich
+        [unverständlich] Ich bin [unverständlich, klingt wie „gewöhnt“]. Also, ich
+        hab gesehen, die Kinder spielen in den Gassen.
+    - who: David Boder
+      start: '00:05:03.315'
+      end: '00:05:03.315'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:05:03.938'
+      end: '00:05:03.938'
+      u: "[unverständlich] leid. Ich hab mich [unverständlich]"
+    - who: David Boder
+      start: '00:05:06.322'
+      end: '00:05:06.322'
+      u: Warum nicht?
+    - who: Esther Freilich
+      start: '00:05:06.945'
+      end: '00:05:06.945'
+      u: Die Police hat nicht gelassen. In Deutschland verboten. Kinder [unverständlich]
+        in dem Kino.
+    - who: David Boder
+      start: '00:05:10.358'
+      end: '00:05:10.358'
+      u: Ja. Die jüdischen Kinder.
+    - who: Esther Freilich
+      start: '00:05:12.041'
+      end: '00:05:12.041'
+      u: Ja, jüdische Kinder.
+    - who: David Boder
+      start: '00:05:12.992'
+      end: '00:05:12.992'
+      u: Hast du getroffen, äh, [unverständlich]
+    - who: Esther Freilich
+      start: '00:05:15.501'
+      end: '00:05:15.501'
+      u: "[unverständlich]"
+    - who: David Boder
+      start: '00:05:16.997'
+      end: '00:05:16.997'
+      u: 'Die [klingt wie: „gelle Lake?“] hast du getroffen?'
+    - who: Esther Freilich
+      start: '00:05:18.961'
+      end: '00:05:18.961'
+      u: 'Ja. Ich hab auch...[klingt wie: Kopf]...ich hab noch...[klingt wie: „eine
+        gelle Lake“]'
+    - who: David Boder
+      start: '00:05:20.301'
+      end: '00:05:20.301'
+      u: Ja, musst du mir nächstes Mal zeigen.
+    - who: Esther Freilich
+      start: '00:05:21.734'
+      end: '00:05:21.734'
+      u: Ich wird das zeigen...[unverständlich] gehabt [unverständlich]
+    - who: David Boder
+      start: '00:05:23.916'
+      end: '00:05:23.916'
+      u: Ja. Und, äh, man hat dir nicht gelassen spielen im Garten.
+    - who: Esther Freilich
+      start: '00:05:26.643'
+      end: '00:05:26.643'
+      u: Nein, man hat nicht.
+    - who: David Boder
+      start: '00:05:28.669'
+      end: '00:05:28.669'
+      u: Bist du gegangen zur Schule?
+    - who: Esther Freilich
+      start: '00:05:28.669'
+      end: '00:05:28.669'
+      u: Nur die vier Tag. [unverständlich]...die letzte Moment hat mir nicht [unverständlich].
+        Ich hab [unverständlich] weil, äh, [unverständlich]...in die Schule [unverständlich].
+        Und mir, mir hat ja nicht gewusst, dass [unverständlich]...hat man mich herausgenehmt.
+    - who: David Boder
+      start: '00:05:44.839'
+      end: '00:05:44.839'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:05:45.263'
+      end: '00:05:45.263'
+      u: Verstehen Sie? Bin ich nicht gegangen.
+    - who: David Boder
+      start: '00:05:47.927'
+      end: '00:05:47.927'
+      u: Aha. [unverständlich] Dort habt ihr gelebt? Wer wart ihr denn dort? Der Vater
+        oder die Mutter?
+    - who: Esther Freilich
+      start: '00:05:53.194'
+      end: '00:05:53.194'
+      u: Nein, ich war allein. Zwei Jahre ich gefahren allein.
+    - who: David Boder
+      start: '00:05:55.828'
+      end: '00:05:55.828'
+      u: "[Unverständlich] Zwei Jahre warst du allein?"
+    - who: Esther Freilich
+      start: '00:05:57.277'
+      end: '00:05:57.277'
+      u: Ohne wissen was meine Elteren...[unverständlich]
+    - who: David Boder
+      start: '00:05:58.758'
+      end: '00:05:58.758'
+      u: Wieso? Wer hat die geschickt die da?
+    - who: Esther Freilich
+      start: '00:06:01.252'
+      end: '00:06:01.252'
+      u: "[unverständlich]"
+    - who: David Boder
+      start: '00:06:03.247'
+      end: '00:06:03.247'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:06:04.587'
+      end: '00:06:04.587'
+      u: Hat sie ihr nicht gesagt, dass...sie kennt eine junge Frau.
+    - who: David Boder
+      start: '00:06:09.387'
+      end: '00:06:09.387'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:06:09.917'
+      end: '00:06:09.917'
+      u: "[unverständlich] behaupten"
+    - who: David Boder
+      start: '00:06:10.821'
+      end: '00:06:10.821'
+      u: Ja, ja.
+    - who: Esther Freilich
+      start: '00:06:11.678'
+      end: '00:06:11.678'
+      u: "[unverständlich]"
+    - who: David Boder
+      start: '00:06:12.271'
+      end: '00:06:12.271'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:06:12.676'
+      end: '00:06:12.676'
+      u: Ja, bin ich gefahren. Die Mutter, [unverständlich], ich ja nicht gewusst,
+        was die Mutter denn gemacht...Ich hab gemeint, die Mutter sind schon lang
+        nach Deutschland.
+    - who: David Boder
+      start: '00:06:19.437'
+      end: '00:06:19.437'
+      u: Welche Mutter?
+    - who: Esther Freilich
+      start: '00:06:20.502'
+      end: '00:06:20.502'
+      u: Meine Mutter.
+    - who: David Boder
+      start: '00:06:21.129'
+      end: '00:06:21.129'
+      u: Wieso?
+    - who: Esther Freilich
+      start: '00:06:21.724'
+      end: '00:06:21.724'
+      u: Weil ich hab nicht gewusst, was die Mutter...ich hab nicht gekonnt schreiben.
+    - who: David Boder
+      start: '00:06:25.090'
+      end: '00:06:25.090'
+      u: Oh! Du hast nicht gekonnt schreiben!
+    - who: Esther Freilich
+      start: '00:06:26.875'
+      end: '00:06:26.875'
+      u: Ja! Weil, äh, die Mutter hat mir geschrieben [unverständlich]...äh, ich hab
+        geschrieben, also meine, äh, Briefe...
+    - who: David Boder
+      start: '00:06:33.222'
+      end: '00:06:33.222'
+      u: Ja, ja.
+    - who: Esther Freilich
+      start: '00:06:34.537'
+      end: '00:06:34.537'
+      u: Die Frau es hat die Lager, sie hat geschrieben, wann ich kommen. Alle, äh,
+        auf die "gare" [franz. Bahnhof?] mit gefälschten Papieren
+    - who: David Boder
+      start: '00:06:38.159'
+      end: '00:06:38.159'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:06:38.843'
+      end: '00:06:38.843'
+      u: "[unverständlich]"
+    - who: David Boder
+      start: '00:06:39.814'
+      end: '00:06:39.814'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:06:40.237'
+      end: '00:06:40.237'
+      u: Und ich, ich [unverständlich] ihr gewinnt einen Korb und dazu von viertausend
+        Soldaten
+    - who: David Boder
+      start: '00:06:44.448'
+      end: '00:06:44.448'
+      u: Wer hat das behauptet?
+    - who: Esther Freilich
+      start: '00:06:46.515'
+      end: '00:06:46.515'
+      u: Ich. Ich bin [unverständlich]
+    - who: David Boder
+      start: '00:06:53.796'
+      end: '00:06:53.796'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:06:54.720'
+      end: '00:06:54.720'
+      u: "[unverständlich]"
+    - who: David Boder
+      start: '00:06:57.945'
+      end: '00:06:57.945'
+      u: Und so du bist dann weggekommen?
+    - who: Esther Freilich
+      start: '00:06:59.855'
+      end: '00:06:59.855'
+      u: Ja.
+    - who: David Boder
+      start: '00:07:00.262'
+      end: '00:07:00.262'
+      u: Wohin?
+    - who: Esther Freilich
+      start: '00:07:00.997'
+      end: '00:07:00.997'
+      u: Ich bin nach Hause. Die Mutter mir gekommen mit den Sachen.
+    - who: David Boder
+      start: '00:07:05.044'
+      end: '00:07:05.044'
+      u: Aha. Und?
+    - who: Esther Freilich
+      start: '00:07:05.544'
+      end: '00:07:05.544'
+      u: Nach zwei Jahren. Ich bin zurückgekommen nach Paris.
+    - who: David Boder
+      start: '00:07:07.497'
+      end: '00:07:07.497'
+      u: Aha. Wenn ist die Mutter gekommen suchen? Wenn die Deutschen sind schon weggegangen?
+    - who: Esther Freilich
+      start: '00:07:11.029'
+      end: '00:07:11.029'
+      u: Nein. Dazu [unverständlich]
+    - who: David Boder
+      start: '00:07:14.964'
+      end: '00:07:14.964'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:07:15.464'
+      end: '00:07:15.464'
+      u: "[unverständlich]"
+    - who: David Boder
+      start: '00:07:17.546'
+      end: '00:07:17.546'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:07:18.074'
+      end: '00:07:18.074'
+      u: Ja, ich hab vergessen zu sagen, [unverständlich]
+    - who: David Boder
+      start: '00:07:22.528'
+      end: '00:07:22.528'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:07:22.872'
+      end: '00:07:22.872'
+      u: Bin ich gefahren nach [unverständlich]
+    - who: David Boder
+      start: '00:07:25.545'
+      end: '00:07:25.545'
+      u: Du bist gefahren nach [unverständlich] mit wem?
+    - who: Esther Freilich
+      start: '00:07:26.483'
+      end: '00:07:26.483'
+      u: Ja. Mit die, äh, Mutter, mit dem, äh, mit dem Bruder und mit der Schwester.
+        Die andere...
+    - who: David Boder
+      start: '00:07:30.562'
+      end: '00:07:30.562'
+      u: Mit die andere Schwester.
+    - who: Esther Freilich
+      start: '00:07:31.250'
+      end: '00:07:31.250'
+      u: Andere Schwester. Mit andere Schwester.
+    - who: David Boder
+      start: '00:07:31.984'
+      end: '00:07:31.984'
+      u: Ja, und was hat dort passiert?
+    - who: Esther Freilich
+      start: '00:07:33.109'
+      end: '00:07:33.109'
+      u: Da [unverständlich]
+    - who: David Boder
+      start: '00:07:36.513'
+      end: '00:07:36.513'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:07:43.403'
+      end: '00:07:43.403'
+      u: 'Versteht? Den Zug von [unverständlich, klingt wie: „hat man uns da reingemacht...“]'
+    - who: David Boder
+      start: '00:07:44.356'
+      end: '00:07:44.356'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:07:44.777'
+      end: '00:07:44.777'
+      u: Und wir fahren den ganzen Tag und ganze Nacht...ohne zu kennen, äh, ohne
+        sie geben etwas womit man nicht...
+    - who: David Boder
+      start: '00:07:50.747'
+      end: '00:07:50.747'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:07:51.449'
+      end: '00:07:51.449'
+      u: "[unverständlich]"
+    - who: David Boder
+      start: '00:07:53.732'
+      end: '00:07:53.732'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:07:54.263'
+      end: '00:07:54.263'
+      u: Ich hab [unverständlich]...Ich hatte ein Plastik, äh, platz...sitz.
+    - who: David Boder
+      start: '00:07:57.870'
+      end: '00:07:57.870'
+      u: Hmm.
+    - who: Esther Freilich
+      start: '00:07:58.760'
+      end: '00:07:58.760'
+      u: "[unverständlich] und nachher bin ich raus."
+    - who: David Boder
+      start: '00:08:01.914'
+      end: '00:08:01.914'
+      u: In [unverständlich]?
+    - who: Esther Freilich
+      start: '00:08:02.445'
+      end: '00:08:02.445'
+      u: Ja.
+    - who: David Boder
+      start: '00:08:02.695'
+      end: '00:08:02.695'
+      u: Hmm.
+    - who: Esther Freilich
+      start: '00:08:03.195'
+      end: '00:08:03.195'
+      u: Und nachher bin ich raus, bin ich, hab ja weggelaufen von dem Hopital, hab
+        ja nicht gewusst, was [unverständlich]
+    - who: David Boder
+      start: '00:08:07.551'
+      end: '00:08:07.551'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:08:08.066'
+      end: '00:08:08.066'
+      u: Viel Glück in dem Tag, da hat man schon wieder rausglaufen, weil, äh, man
+        wollte mich [unverständlich, klingt wie „separieren“].
+    - who: David Boder
+      start: '00:08:12.750'
+      end: '00:08:12.750'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:08:13.500'
+      end: '00:08:13.500'
+      u: Und ich bin dann weggelaufen. Von der, äh...
+    - who: David Boder
+      start: '00:08:14.671'
+      end: '00:08:14.671'
+      u: Und zu wem bist du gelaufen?
+    - who: Esther Freilich
+      start: '00:08:15.717'
+      end: '00:08:15.717'
+      u: Zu der Mama.
+    - who: David Boder
+      start: '00:08:16.450'
+      end: '00:08:16.450'
+      u: Aha.
+    - who: Esther Freilich
+      start: '00:08:16.918'
+      end: '00:08:16.918'
+      u: "[unverständlich]"
+    - who: David Boder
+      start: '00:08:19.354'
+      end: '00:08:19.354'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:08:19.838'
+      end: '00:08:19.838'
+      u: Und, äh, und der Sache. Und wir sind die Nacht rausgegangen, [unverständlich]
+    - who: David Boder
+      start: '00:08:24.319'
+      end: '00:08:24.319'
+      u: Ja, man hat das wieder [unverständlich]
+    - who: Esther Freilich
+      start: '00:08:26.973'
+      end: '00:08:26.973'
+      u: Ja. Sind wir dann raus und der Tag, ich hab gesehen, wie man deportiert die
+        Schwester...
+    - who: David Boder
+      start: '00:08:31.313'
+      end: '00:08:31.313'
+      u: Deine Schwester?
+    - who: Esther Freilich
+      start: '00:08:32.343'
+      end: '00:08:32.343'
+      u: 'Und hat sie gerufen die Neime [gemeint: Namen?], ne?'
+    - who: Esther Freilich
+      start: '00:08:35.262'
+      end: '00:08:35.262'
+      u: Ich hab gesehen, wie man gerufen die Name, die Schwester weggefahren und
+        hab gesagt, ich geb dir was [unverständlich].
+    - who: David Boder
+      start: '00:08:49.231'
+      end: '00:08:49.231'
+      u: Aha.
+    - who: Esther Freilich
+      start: '00:08:49.855'
+      end: '00:08:49.855'
+      u: Bin ich gelaufen [unverständlich] und sie getragen. Nachher der Bruder ist
+        wieder raus, hat man gedacht ihn nicht deportieren.
+    - who: David Boder
+      start: '00:08:57.962'
+      end: '00:08:57.962'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:08:58.602'
+      end: '00:08:58.602'
+      u: Die Mutter mit anderen Kinder darf deportieren. [unverständlich]
+    - who: David Boder
+      start: '00:09:01.162'
+      end: '00:09:01.162'
+      u: Und was machst du jetzt?
+    - who: Esther Freilich
+      start: '00:09:05.128'
+      end: '00:09:05.128'
+      u: Ich weiß nicht? Jetzt?
+    - who: David Boder
+      start: '00:09:06.549'
+      end: '00:09:06.549'
+      u: Ja.
+    - who: Esther Freilich
+      start: '00:09:07.111'
+      end: '00:09:07.111'
+      u: Was ich will machen?
+    - who: David Boder
+      start: '00:09:07.720'
+      end: '00:09:07.720'
+      u: Ja. Was?
+    - who: Esther Freilich
+      start: '00:09:08.282'
+      end: '00:09:08.282'
+      u: "[unverständlich]"
+    - who: David Boder
+      start: '00:09:08.954'
+      end: '00:09:08.954'
+      u: Ja, aber gehste jetzt zur Schule? Studierst d...
+    - who: Esther Freilich
+      start: '00:09:11.765'
+      end: '00:09:11.765'
+      u: Nee, jetzt geh ich zur Schule für D...
+    - who: David Boder
+      start: '00:09:13.467'
+      end: '00:09:13.467'
+      u: Ja, aber bevor du kamst, bist du gegangen zur...
+    - who: Esther Freilich
+      start: '00:09:15.497'
+      end: '00:09:15.497'
+      u: Die Schule.
+    - who: David Boder
+      start: '00:09:16.184'
+      end: '00:09:16.184'
+      u: In welche Schule?
+    - who: Esther Freilich
+      start: '00:09:16.808'
+      end: '00:09:16.808'
+      u: Ich bin ge...äh, die [unverständlich]
+    - who: David Boder
+      start: '00:09:19.275'
+      end: '00:09:19.275'
+      u: Ja, in der französischen Schule?
+    - who: Esther Freilich
+      start: '00:09:20.712'
+      end: '00:09:20.712'
+      u: Ja.
+    - who: David Boder
+      start: '00:09:21.040'
+      end: '00:09:21.040'
+      u: Mit französischen Kindern?
+    - who: Esther Freilich
+      start: '00:09:22.039'
+      end: '00:09:22.039'
+      u: Ja.
+    - who: David Boder
+      start: '00:09:22.461'
+      end: '00:09:22.461'
+      u: Und sind sie gut zu, äh, zu dir?
+    - who: Esther Freilich
+      start: '00:09:24.163'
+      end: '00:09:24.163'
+      u: Sie sind, also...der eine hat geschrieben, du schmutziger Jude...
+    - who: David Boder
+      start: '00:09:28.831'
+      end: '00:09:28.831'
+      u: No. Und der Lehr...wer ist der Lehrer?
+    - who: Esther Freilich
+      start: '00:09:31.485'
+      end: '00:09:31.485'
+      u: Der Lehrer hat mir...ein französische Frau hat mir nicht lieb.
+    - who: David Boder
+      start: '00:09:34.389'
+      end: '00:09:34.389'
+      u: Warum nicht?
+    - who: Esther Freilich
+      start: '00:09:35.060'
+      end: '00:09:35.060'
+      u: Ich weiß nicht. Sie hat nicht lieb jeden.
+    - who: David Boder
+      start: '00:09:38.120'
+      end: '00:09:38.120'
+      u: Oh! Wie viele Juden seit ihr in Klass....[unverständlich]
+    - who: Esther Freilich
+      start: '00:09:40.977'
+      end: '00:09:40.977'
+      u: In meiner Klasse sind vier Juden [unverständlich]
+    - who: David Boder
+      start: '00:09:43.959'
+      end: '00:09:43.959'
+      u: Vier Juden [unverständlich]. Und das hat keiner bemerkt [unverständlich]?
+    - who: Esther Freilich
+      start: '00:09:47.909'
+      end: '00:09:47.909'
+      u: Nein.
+    - who: David Boder
+      start: '00:09:48.299'
+      end: '00:09:48.299'
+      u: Nu, und, äh, wie lange musst du noch gehen zur Schule?
+    - who: Esther Freilich
+      start: '00:09:52.296'
+      end: '00:09:52.296'
+      u: Ein Jahr.
+    - who: David Boder
+      start: '00:09:52.546'
+      end: '00:09:52.546'
+      u: Ein Jahr und denn was wirst du tun?
+    - who: Esther Freilich
+      start: '00:09:54.045'
+      end: '00:09:54.045'
+      u: Und dann will ich gehen in die andere Schule, deutsche Schule.
+    - who: David Boder
+      start: '00:09:57.011'
+      end: '00:09:57.011'
+      u: Was tust du lernen?
+    - who: Esther Freilich
+      start: '00:09:57.917'
+      end: '00:09:57.917'
+      u: Ich [unverständlich], ah, was ich gelernt hab? Die Maschine.
+    - who: David Boder
+      start: '00:10:00.352'
+      end: '00:10:00.352'
+      u: Was für eine Maschine?
+    - who: Esther Freilich
+      start: '00:10:01.976'
+      end: '00:10:01.976'
+      u: Äh, Steno.
+    - who: David Boder
+      start: '00:10:02.944'
+      end: '00:10:02.944'
+      u: Oh! Zum Schreiben machst du Maschine?
+    - who: Esther Freilich
+      start: '00:10:04.739'
+      end: '00:10:04.739'
+      u: Ja.
+    - who: David Boder
+      start: '00:10:05.114'
+      end: '00:10:05.114'
+      u: Nu, das wirst du schon auch lernen.
+    - who: Esther Freilich
+      start: '00:10:07.627'
+      end: '00:10:07.627'
+      u: Ja.
+    - who: David Boder
+      start: '00:10:08.360'
+      end: 
+      u: "[In English] Alright. This concludes a short [unintelligible]...Freilich,
+        whose mother insisted that the child be interview— [unintelligible]...appeal.
+        And, eh [unintelligible] now all her difficulties at school are due to the
+        fact that she is Jewish. Eh, this is, eh, August the 9th, taken at...number
+        9 Rue de Patin, the home for aged Jews. The child is a child of a concierge
+        here at the place. And, umm, this concludes the recording...wire recording
+        of Illinois Institute of Technology."
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:25.407'
+      end: '00:00:25.407'
+      u: '[In English] Chicago, November the 16th, 1950. This is spool 9-40. The...a
+        short interview with a child, Esther Freilich, the daughter of Mrs. Frieda
+        Freilich...of whom we have that long interview, reported in the book as, eh..."Mrs.
+        Freich." Boder.'
+    - who: David Boder
+      start: '00:00:25.407'
+      end: '00:00:25.407'
+      u: Now for a short statement...eh...Esther...Esther Frieden...was hat?
+    - who: Esther Freilich
+      start: '00:00:37.650'
+      end: '00:00:37.650'
+      u: Freilich.
+    - who: David Boder
+      start: '00:00:38.298'
+      end: '00:00:38.298'
+      u: Esther Freilich, whose mother has covered Spool 36, 37 and 38. Esther is
+        13 years old.
+    - who: David Boder
+      start: '00:00:48.430'
+      end: '00:00:48.430'
+      u: "[In German] So, Esther, tell me [unintelligible] what is your name and how
+        old are you?"
+    - who: Esther Freilich
+      start: '00:00:54.359'
+      end: '00:00:54.359'
+      u: My, my name is Esther Freilich. I am [unintelligible, already?] thirteen
+        years old.
+    - who: David Boder
+      start: '00:00:58.670'
+      end: '00:00:58.670'
+      u: You are [unintelligible]. When was your birthday?
+    - who: Esther Freilich
+      start: '00:01:01.658'
+      end: '00:01:01.658'
+      u: On March 11th.
+    - who: David Boder
+      start: '00:01:03.214'
+      end: '00:01:03.214'
+      u: On March 11th, you turned thirteen years old.
+    - who: Esther Freilich
+      start: '00:01:06.747'
+      end: '00:01:06.747'
+      u: Yes.
+    - who: David Boder
+      start: '00:01:07.167'
+      end: '00:01:07.167'
+      u: Yes. So, Esther, tell me, err, you have been taken with your mother how many
+        times?
+    - who: Esther Freilich
+      start: '00:01:12.661'
+      end: '00:01:12.661'
+      u: Oh, three, four times.
+    - who: David Boder
+      start: '00:01:15.540'
+      end: '00:01:15.540'
+      u: Three, four times
+    - who: Esther Freilich
+      start: '00:01:16.505'
+      end: '00:01:16.505'
+      u: Yes.
+    - who: David Boder
+      start: '00:01:17.096'
+      end: '00:01:17.096'
+      u: Err, tell me, how was...how was it in Drancy. Were you in Drancy?
+    - who: Esther Freilich
+      start: '00:01:23.803'
+      end: '00:01:23.803'
+      u: Yes. I was in the Drancy.
+    - who: David Boder
+      start: '00:01:24.444'
+      end: '00:01:24.444'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:01:25.080'
+      end: '00:01:25.080'
+      u: I come at [unintelligible] at two o'clock at night. In [unintelligible] and
+        we do in the Commissariat. In, err, Commissariat is preparing. And afterwards
+        we do take the train and we ride to Drancy.
+    - who: David Boder
+      start: '00:01:39.523'
+      end: '00:01:39.523'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:01:40.146'
+      end: '00:01:40.146'
+      u: We are walking.
+    - who: David Boder
+      start: '00:01:40.737'
+      end: '00:01:40.737'
+      u: So, who came to your home, to get you and when was this?
+    - who: Esther Freilich
+      start: '00:01:44.395'
+      end: '00:01:44.395'
+      u: The French Poli...Police.
+    - who: David Boder
+      start: '00:01:46.123'
+      end: '00:01:46.123'
+      u: The Police came. At what time?
+    - who: Esther Freilich
+      start: '00:01:47.819'
+      end: '00:01:47.819'
+      u: Two o'clock of the night.
+    - who: David Boder
+      start: '00:01:48.831'
+      end: '00:01:48.831'
+      u: At two o'clock at night.
+    - who: Esther Freilich
+      start: '00:01:50.030'
+      end: '00:01:50.030'
+      u: Yes.
+    - who: David Boder
+      start: '00:01:50.372'
+      end: '00:01:50.372'
+      u: And what did they tell you?
+    - who: Esther Freilich
+      start: '00:01:51.632'
+      end: '00:01:51.632'
+      u: The told me that [unintelligible]. We were to prepare our packages, where
+        they [unintelligible]. Where [unintelligible]...
+    - who: David Boder
+      start: '00:01:56.161'
+      end: '00:01:56.161'
+      u: "[unintelligible]"
+    - who: Esther Freilich
+      start: '00:01:57.794'
+      end: '00:01:57.794'
+      u: Yes.
+    - who: David Boder
+      start: '00:02:00.030'
+      end: '00:02:00.030'
+      u: Well, and what kind of packages did you prepare?
+    - who: Esther Freilich
+      start: '00:02:01.543'
+      end: '00:02:01.543'
+      u: Err, we taked, what one thinks, the necessary.
+    - who: David Boder
+      start: '00:02:05.209'
+      end: '00:02:05.209'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:02:05.770'
+      end: '00:02:05.770'
+      u: But they said, we could not [unintelligible]...
+    - who: David Boder
+      start: '00:02:07.486'
+      end: '00:02:07.486'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:02:08.235'
+      end: '00:02:08.235'
+      u: Because, err, [unintelligible]
+    - who: David Boder
+      start: '00:02:09.077'
+      end: '00:02:09.077'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:02:10.980'
+      end: '00:02:10.980'
+      u: We had understood, when we went...we taked, what they thought...meant...we
+        could...
+    - who: David Boder
+      start: '00:02:16.565'
+      end: '00:02:16.565'
+      u: Uh, hm. And where was your father? Where is the...?
+    - who: Esther Freilich
+      start: '00:02:19.047'
+      end: '00:02:19.047'
+      u: Our father, he worked at nights.
+    - who: David Boder
+      start: '00:02:20.780'
+      end: '00:02:20.780'
+      u: I see. Well, and who went then, your mother and who else?
+    - who: Esther Freilich
+      start: '00:02:24.917'
+      end: '00:02:24.917'
+      u: Mother, my brother and I.
+    - who: David Boder
+      start: '00:02:27.025'
+      end: '00:02:27.025'
+      u: Yes, and you. Well? Then you were taken to the Commissariat.
+    - who: Esther Freilich
+      start: '00:02:30.600'
+      end: '00:02:30.600'
+      u: Yes. At the Commissariat they looked at [unintelligible]
+    - who: David Boder
+      start: '00:02:34.253'
+      end: '00:02:34.253'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:02:35.034'
+      end: '00:02:35.034'
+      u: The [unintelligible]
+    - who: David Boder
+      start: '00:02:35.815'
+      end: '00:02:35.815'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:02:36.142'
+      end: '00:02:36.142'
+      u: "[unintelligible]"
+    - who: David Boder
+      start: '00:02:36.828'
+      end: '00:02:36.828'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:02:37.812'
+      end: '00:02:37.812'
+      u: I went with Mama...she was then gone to Drancy...
+    - who: David Boder
+      start: '00:02:40.747'
+      end: '00:02:40.747'
+      u: And the brother?
+    - who: Esther Freilich
+      start: '00:02:41.998'
+      end: '00:02:41.998'
+      u: With the brother.
+    - who: David Boder
+      start: '00:02:42.700'
+      end: '00:02:42.700'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:02:43.385'
+      end: '00:02:43.385'
+      u: They left to Drancy. I was a big [unintelligible]....
+    - who: David Boder
+      start: '00:02:48.099'
+      end: '00:02:48.099'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:02:48.768'
+      end: '00:02:48.768'
+      u: Big! And...
+    - who: David Boder
+      start: '00:02:49.530'
+      end: '00:02:49.530'
+      u: Yes, how did you go to Drancy?
+    - who: Esther Freilich
+      start: '00:02:51.179'
+      end: '00:02:51.179'
+      u: By autobus.
+    - who: David Boder
+      start: '00:02:52.921'
+      end: '00:02:52.921'
+      u: By autobus. Yes and then?
+    - who: Esther Freilich
+      start: '00:02:54.290'
+      end: '00:02:54.290'
+      u: Then we came to Drancy. Had [unintelligible] also taken, the...because of
+        the command.
+    - who: David Boder
+      start: '00:03:00.154'
+      end: '00:03:00.154'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:03:00.558'
+      end: '00:03:00.558'
+      u: And we waited in a, err, a big, err, house. And [unintelligible] all things.
+    - who: David Boder
+      start: '00:03:05.524'
+      end: '00:03:05.524'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:03:05.960'
+      end: '00:03:05.960'
+      u: She took everything. And [unintelligible], the me...the men, they said then,
+        the women...
+    - who: David Boder
+      start: '00:03:10.085'
+      end: '00:03:10.085'
+      u: Yes, and where did they take your brother?
+    - who: Esther Freilich
+      start: '00:03:15.129'
+      end: '00:03:15.129'
+      u: The brother?
+    - who: David Boder
+      start: '00:03:15.923'
+      end: '00:03:15.923'
+      u: To the men...?
+    - who: Esther Freilich
+      start: '00:03:16.982'
+      end: '00:03:16.982'
+      u: Yes, to the men.
+    - who: David Boder
+      start: '00:03:17.885'
+      end: '00:03:17.885'
+      u: And you stayed with...
+    - who: Esther Freilich
+      start: '00:03:19.426'
+      end: '00:03:19.426'
+      u: With mother.
+    - who: David Boder
+      start: '00:03:20.205'
+      end: '00:03:20.205'
+      u: Yes. Well, tell me, what is there happened?
+    - who: Esther Freilich
+      start: '00:03:23.069'
+      end: '00:03:23.069'
+      u: That was...there...then I...[unintelligible]...one bed on top of the other..
+    - who: David Boder
+      start: '00:03:32.066'
+      end: '00:03:32.066'
+      u: Yes. Where did you sleep?
+    - who: Esther Freilich
+      start: '00:03:34.074'
+      end: '00:03:34.074'
+      u: With mother.
+    - who: David Boder
+      start: '00:03:34.837'
+      end: '00:03:34.837'
+      u: You slept by your mother.
+    - who: Esther Freilich
+      start: '00:03:36.020'
+      end: '00:03:36.020'
+      u: Yes.
+    - who: David Boder
+      start: '00:03:36.534'
+      end: '00:03:36.534'
+      u: And what did they give you to eat?
+    - who: Esther Freilich
+      start: '00:03:38.184'
+      end: '00:03:38.184'
+      u: At first I was with mother [unintelligible]...
+    - who: David Boder
+      start: '00:03:41.624'
+      end: '00:03:41.624'
+      u: Hmm, yes, with your mother at [unintelligible]...
+    - who: Esther Freilich
+      start: '00:03:43.804'
+      end: '00:03:43.804'
+      u: Also there and [unintelligible] children. Then they were all [unintelligible]
+        sent to the Red Cross and [unintelligible, sounds like "Aral"]...
+    - who: David Boder
+      start: '00:03:49.097'
+      end: '00:03:49.097'
+      u: Hmm.
+    - who: Esther Freilich
+      start: '00:03:49.657'
+      end: '00:03:49.657'
+      u: They, err, all sent to [unintelligible, sounds like "Aral"], because the
+        children were sick. The children had a big camp, all children went with. With
+        the...there, there was coffee and a miller...
+    - who: David Boder
+      start: '00:03:57.783'
+      end: '00:03:57.783'
+      u: Hmm. Yes...
+    - who: Esther Freilich
+      start: '00:03:58.732'
+      end: '00:03:58.732'
+      u: And there was bread...
+    - who: David Boder
+      start: '00:03:59.619'
+      end: '00:03:59.619'
+      u: I see...
+    - who: Esther Freilich
+      start: '00:04:00.211'
+      end: '00:04:00.211'
+      u: And a little [unintelligible, sounds like "Polish"] doll.
+    - who: David Boder
+      start: '00:04:01.410'
+      end: '00:04:01.410'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:04:01.461'
+      end: '00:04:01.461'
+      u: And, err, then they, err, deported.
+    - who: David Boder
+      start: '00:04:03.842'
+      end: '00:04:03.842'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:04:04.386'
+      end: '00:04:04.386'
+      u: They gi...give a little, err, flour to the children.
+    - who: David Boder
+      start: '00:04:07.608'
+      end: '00:04:07.608'
+      u: A little bit of flour.
+    - who: Esther Freilich
+      start: '00:04:08.573'
+      end: '00:04:08.573'
+      u: Yes.
+    - who: David Boder
+      start: '00:04:08.978'
+      end: '00:04:08.978'
+      u: For the deported children?
+    - who: Esther Freilich
+      start: '00:04:09.896'
+      end: '00:04:09.896'
+      u: Yes.
+    - who: David Boder
+      start: '00:04:10.301'
+      end: '00:04:10.301'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:04:10.876'
+      end: '00:04:10.876'
+      u: Well....
+    - who: David Boder
+      start: '00:04:11.623'
+      end: '00:04:11.623'
+      u: Well, and err, what happened to you then?
+    - who: Esther Freilich
+      start: '00:04:13.506'
+      end: '00:04:13.506'
+      u: To me? We were...yes, err...[unintelligible, sounds like "averted"]
+    - who: David Boder
+      start: '00:04:19.763'
+      end: '00:04:19.763'
+      u: What [unintelligible]...
+    - who: Esther Freilich
+      start: '00:04:21.382'
+      end: '00:04:21.382'
+      u: The Police. Did just [unintelligible] and had there their...[unintelligible]
+    - who: David Boder
+      start: '00:04:27.271'
+      end: '00:04:27.271'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:04:27.723'
+      end: '00:04:27.723'
+      u: '[Unintelligible, sounds like "Stollwitz"]. Took it from me.'
+    - who: David Boder
+      start: '00:04:29.935'
+      end: '00:04:29.935'
+      u: Hmm.
+    - who: Esther Freilich
+      start: '00:04:30.745'
+      end: '00:04:30.745'
+      u: And this guy left...from Drancy...was deported to Germany.
+    - who: David Boder
+      start: '00:04:33.752'
+      end: '00:04:33.752'
+      u: Who? The other people?
+    - who: Esther Freilich
+      start: '00:04:35.248'
+      end: '00:04:35.248'
+      u: Yes.
+    - who: David Boder
+      start: '00:04:35.684'
+      end: '00:04:35.684'
+      u: And you and your brother left.
+    - who: Esther Freilich
+      start: '00:04:37.476'
+      end: '00:04:37.476'
+      u: I with my brother, with the, err, err, mother, with other family...we left...and
+        also a little animal.
+    - who: David Boder
+      start: '00:04:41.776'
+      end: '00:04:41.776'
+      u: Yes, why did you leave?
+    - who: Esther Freilich
+      start: '00:04:43.334'
+      end: '00:04:43.334'
+      u: Because my father David had [unintelligible] learned...
+    - who: David Boder
+      start: '00:04:46.403'
+      end: '00:04:46.403'
+      u: I see.
+    - who: Esther Freilich
+      start: '00:04:47.384'
+      end: '00:04:47.384'
+      u: And while, while the, err, flu...laughed except [unintelligible], you understand?
+    - who: David Boder
+      start: '00:04:50.499'
+      end: '00:04:50.499'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:04:51.029'
+      end: '00:04:51.029'
+      u: No?
+    - who: David Boder
+      start: '00:04:51.574'
+      end: '00:04:51.574'
+      u: Well? What else to you want to tell me?
+    - who: Esther Freilich
+      start: '00:04:53.661'
+      end: '00:04:53.661'
+      u: I want tell you....me...because [unintelligible] of Paris. I was [unintelligible].
+        I was used to...[unintelligible]. So, I saw that children are playing in the
+        streets.
+    - who: David Boder
+      start: '00:05:03.315'
+      end: '00:05:03.315'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:05:03.938'
+      end: '00:05:03.938'
+      u: "[Unintelligible]...sorry. I didn't [unintelligible]..."
+    - who: David Boder
+      start: '00:05:06.322'
+      end: '00:05:06.322'
+      u: Why not?
+    - who: Esther Freilich
+      start: '00:05:06.945'
+      end: '00:05:06.945'
+      u: The police didn't let me. Forbidden in Germany. Children [unintelligible]
+        in the cinema.
+    - who: David Boder
+      start: '00:05:10.358'
+      end: '00:05:10.358'
+      u: Yes. The Jewish children.
+    - who: Esther Freilich
+      start: '00:05:12.041'
+      end: '00:05:12.041'
+      u: Yes, Jewish children.
+    - who: David Boder
+      start: '00:05:12.992'
+      end: '00:05:12.992'
+      u: Did you meet, err...[unintelligible]?
+    - who: Esther Freilich
+      start: '00:05:15.501'
+      end: '00:05:15.501'
+      u: "[Unintelligible]."
+    - who: David Boder
+      start: '00:05:16.997'
+      end: '00:05:16.997'
+      u: The [unintelligible] you met?
+    - who: Esther Freilich
+      start: '00:05:18.961'
+      end: '00:05:18.961'
+      u: Yes. I also [unintelligible, sounds like "head"]...I still have...[unintelligible]
+    - who: David Boder
+      start: '00:05:20.301'
+      end: '00:05:20.301'
+      u: Yes, you have to show me next time.
+    - who: Esther Freilich
+      start: '00:05:21.734'
+      end: '00:05:21.734'
+      u: I will show...[unintelligible]...had [unintelligible]
+    - who: David Boder
+      start: '00:05:23.916'
+      end: '00:05:23.916'
+      u: Yes. And, err, did they let you play in the garden?
+    - who: Esther Freilich
+      start: '00:05:26.643'
+      end: '00:05:26.643'
+      u: No, no, they didn't.
+    - who: David Boder
+      start: '00:05:28.669'
+      end: '00:05:28.669'
+      u: Did you go to school?
+    - who: Esther Freilich
+      start: '00:05:28.669'
+      end: '00:05:28.669'
+      u: Only four days. [Unintelligible]...the last moment I was [unintelligible].
+        I had [unintelligible], because, err, [unintelligible]...in school [unintelligible].
+        And me, I didn't know that [unintelligible]
+    - who: David Boder
+      start: '00:05:44.839'
+      end: '00:05:44.839'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:05:45.263'
+      end: '00:05:45.263'
+      u: Do you understand? I didn't go then.
+    - who: David Boder
+      start: '00:05:47.927'
+      end: '00:05:47.927'
+      u: I see. [Unintelligible]. That is where you lived. Who was there? Your father
+        or your mother?
+    - who: Esther Freilich
+      start: '00:05:53.194'
+      end: '00:05:53.194'
+      u: No, I was there alone. Two years I was alone.
+    - who: David Boder
+      start: '00:05:55.828'
+      end: '00:05:55.828'
+      u: "[Unintelligible]...Two years you were alone?"
+    - who: Esther Freilich
+      start: '00:05:57.277'
+      end: '00:05:57.277'
+      u: "[My parents no know...unintelligible]"
+    - who: David Boder
+      start: '00:05:58.758'
+      end: '00:05:58.758'
+      u: Why? Who sent those to you there?
+    - who: Esther Freilich
+      start: '00:06:01.252'
+      end: '00:06:01.252'
+      u: "[Unintelligible]."
+    - who: David Boder
+      start: '00:06:03.247'
+      end: '00:06:03.247'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:06:04.587'
+      end: '00:06:04.587'
+      u: Didn't tell her that...she knows a young woman...
+    - who: David Boder
+      start: '00:06:09.387'
+      end: '00:06:09.387'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:06:09.917'
+      end: '00:06:09.917'
+      u: "[Unintelligible]...claimed"
+    - who: David Boder
+      start: '00:06:10.821'
+      end: '00:06:10.821'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:06:12.676'
+      end: '00:06:12.676'
+      u: Yes, I traveled. Mother...[unintelligible]...because I didn't know what mother
+        had done...I thought, mother was long gone to Germany.
+    - who: David Boder
+      start: '00:06:19.437'
+      end: '00:06:19.437'
+      u: Which mother?
+    - who: Esther Freilich
+      start: '00:06:20.502'
+      end: '00:06:20.502'
+      u: My mother.
+    - who: David Boder
+      start: '00:06:21.129'
+      end: '00:06:21.129'
+      u: Why?
+    - who: Esther Freilich
+      start: '00:06:21.724'
+      end: '00:06:21.724'
+      u: Because I didn't know what mother...I didn't know how to write.
+    - who: David Boder
+      start: '00:06:25.090'
+      end: '00:06:25.090'
+      u: Oh! You didn't know how to write!
+    - who: Esther Freilich
+      start: '00:06:26.875'
+      end: '00:06:26.875'
+      u: Yes! Because, err, mother had written [unintelligible]...err, I wrote...well,
+        my, err...letters...
+    - who: David Boder
+      start: '00:06:33.222'
+      end: '00:06:33.222'
+      u: Yes, yes.
+    - who: Esther Freilich
+      start: '00:06:34.537'
+      end: '00:06:34.537'
+      u: 'The woman in the camp, she wrote, when I was coming. All, err, to the "gare"
+        [she probably means: train station] with false documents.'
+    - who: David Boder
+      start: '00:06:38.159'
+      end: '00:06:38.159'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:06:38.843'
+      end: '00:06:38.843'
+      u: "[Unintelligible]"
+    - who: David Boder
+      start: '00:06:39.814'
+      end: '00:06:39.814'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:06:40.237'
+      end: '00:06:40.237'
+      u: And I, I [unintelligible] you win a basket and there were four thousand soldiers.
+    - who: David Boder
+      start: '00:06:44.448'
+      end: '00:06:44.448'
+      u: Who said that?
+    - who: Esther Freilich
+      start: '00:06:46.515'
+      end: '00:06:46.515'
+      u: I did. I am [unintelligible].
+    - who: David Boder
+      start: '00:06:53.796'
+      end: '00:06:53.796'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:06:54.720'
+      end: '00:06:54.720'
+      u: "[Unintelligible]."
+    - who: David Boder
+      start: '00:06:57.945'
+      end: '00:06:57.945'
+      u: And so then you left?
+    - who: Esther Freilich
+      start: '00:06:59.855'
+      end: '00:06:59.855'
+      u: Yes.
+    - who: David Boder
+      start: '00:07:00.262'
+      end: '00:07:00.262'
+      u: To where?
+    - who: Esther Freilich
+      start: '00:07:00.997'
+      end: '00:07:00.997'
+      u: I went home. Mother came with the things.
+    - who: David Boder
+      start: '00:07:05.044'
+      end: '00:07:05.044'
+      u: I see. And then?
+    - who: Esther Freilich
+      start: '00:07:05.544'
+      end: '00:07:05.544'
+      u: After two years. I came back from Paris.
+    - who: David Boder
+      start: '00:07:07.497'
+      end: '00:07:07.497'
+      u: I see. When did your mother come to look for you? When the Germans had already
+        left?
+    - who: Esther Freilich
+      start: '00:07:11.029'
+      end: '00:07:11.029'
+      u: No, and [unintelligible].
+    - who: David Boder
+      start: '00:07:14.964'
+      end: '00:07:14.964'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:07:15.464'
+      end: '00:07:15.464'
+      u: "[Unintelligible]."
+    - who: David Boder
+      start: '00:07:17.546'
+      end: '00:07:17.546'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:07:18.074'
+      end: '00:07:18.074'
+      u: Yes, I forgot to say...[unintelligible].
+    - who: David Boder
+      start: '00:07:22.528'
+      end: '00:07:22.528'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:07:22.872'
+      end: '00:07:22.872'
+      u: So then I went to [unintelligible]...
+    - who: David Boder
+      start: '00:07:25.545'
+      end: '00:07:25.545'
+      u: You went to [unintelligible] with whom?
+    - who: Esther Freilich
+      start: '00:07:26.483'
+      end: '00:07:26.483'
+      u: Yes. With the, err, with mother, with the, err, with my brother and with
+        the sister. The other one...
+    - who: David Boder
+      start: '00:07:30.562'
+      end: '00:07:30.562'
+      u: With the other sister.
+    - who: Esther Freilich
+      start: '00:07:31.250'
+      end: '00:07:31.250'
+      u: Other sister. With the other sister.
+    - who: David Boder
+      start: '00:07:31.984'
+      end: '00:07:31.984'
+      u: Yes, and what happened there?
+    - who: Esther Freilich
+      start: '00:07:33.109'
+      end: '00:07:33.109'
+      u: There [unintelligible]...
+    - who: David Boder
+      start: '00:07:36.513'
+      end: '00:07:36.513'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:07:43.403'
+      end: '00:07:43.403'
+      u: You understand? The train from [unintelligible]...put us on...[unintelligible]
+    - who: David Boder
+      start: '00:07:44.356'
+      end: '00:07:44.356'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:07:44.777'
+      end: '00:07:44.777'
+      u: And we rode all day and all night...and we couldn't, err...without we know,
+        without they give us something to...
+    - who: David Boder
+      start: '00:07:50.747'
+      end: '00:07:50.747'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:07:51.449'
+      end: '00:07:51.449'
+      u: "[Unintelligible]."
+    - who: David Boder
+      start: '00:07:53.732'
+      end: '00:07:53.732'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:07:54.263'
+      end: '00:07:54.263'
+      u: I had [unintelligible]...I had a plastic...err, seat...
+    - who: David Boder
+      start: '00:07:57.870'
+      end: '00:07:57.870'
+      u: Hmm...
+    - who: Esther Freilich
+      start: '00:07:58.760'
+      end: '00:07:58.760'
+      u: "[Unintelligible] and then I went outside."
+    - who: David Boder
+      start: '00:08:01.914'
+      end: '00:08:01.914'
+      u: In [unintelligible]?
+    - who: Esther Freilich
+      start: '00:08:02.445'
+      end: '00:08:02.445'
+      u: Yes.
+    - who: David Boder
+      start: '00:08:02.695'
+      end: '00:08:02.695'
+      u: Hmm...
+    - who: Esther Freilich
+      start: '00:08:03.195'
+      end: '00:08:03.195'
+      u: And then I went outside, I, I had left the hospital...I didn't know, what
+        [unintelligible]...
+    - who: David Boder
+      start: '00:08:07.551'
+      end: '00:08:07.551'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:08:08.066'
+      end: '00:08:08.066'
+      u: What good luck...she already left again, because, err...they wanted to [unintelligible,
+        sounds like "separate"] me...
+    - who: David Boder
+      start: '00:08:12.750'
+      end: '00:08:12.750'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:08:13.500'
+      end: '00:08:13.500'
+      u: And then I left. The...err...
+    - who: David Boder
+      start: '00:08:14.671'
+      end: '00:08:14.671'
+      u: And to whom did you go?
+    - who: Esther Freilich
+      start: '00:08:15.717'
+      end: '00:08:15.717'
+      u: To Mama.
+    - who: David Boder
+      start: '00:08:16.450'
+      end: '00:08:16.450'
+      u: I see.
+    - who: Esther Freilich
+      start: '00:08:16.918'
+      end: '00:08:16.918'
+      u: "[Unintelligible]."
+    - who: David Boder
+      start: '00:08:19.354'
+      end: '00:08:19.354'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:08:19.838'
+      end: '00:08:19.838'
+      u: And, err, and the thing. And we left at night...they took us out [unintelligible]...
+    - who: David Boder
+      start: '00:08:24.319'
+      end: '00:08:24.319'
+      u: Yes, that was again...
+    - who: Esther Freilich
+      start: '00:08:26.973'
+      end: '00:08:26.973'
+      u: Yes. We left and the day, I saw, how my sister was deported...
+    - who: David Boder
+      start: '00:08:31.313'
+      end: '00:08:31.313'
+      u: Your sister?
+    - who: Esther Freilich
+      start: '00:08:32.343'
+      end: '00:08:32.343'
+      u: And she called my name!
+    - who: Esther Freilich
+      start: '00:08:35.262'
+      end: '00:08:35.262'
+      u: I saw, how they called the name...my sister left...and I said, I give you
+        something [unintelligible]...
+    - who: David Boder
+      start: '00:08:49.231'
+      end: '00:08:49.231'
+      u: I see.
+    - who: Esther Freilich
+      start: '00:08:49.855'
+      end: '00:08:49.855'
+      u: I left [unintelligible] and carried her. Afterward the brother went outside
+        again, thought, they are going to deport him...
+    - who: David Boder
+      start: '00:08:57.962'
+      end: '00:08:57.962'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:08:58.602'
+      end: '00:08:58.602'
+      u: The mother with the other kids could deported. [Unintelligible].
+    - who: David Boder
+      start: '00:09:01.162'
+      end: '00:09:01.162'
+      u: And what are you doing now?
+    - who: Esther Freilich
+      start: '00:09:05.128'
+      end: '00:09:05.128'
+      u: I don't know? Now?
+    - who: David Boder
+      start: '00:09:06.549'
+      end: '00:09:06.549'
+      u: Yes.
+    - who: Esther Freilich
+      start: '00:09:07.111'
+      end: '00:09:07.111'
+      u: What do I want to do?
+    - who: David Boder
+      start: '00:09:07.720'
+      end: '00:09:07.720'
+      u: Yes. What?
+    - who: Esther Freilich
+      start: '00:09:08.282'
+      end: '00:09:08.282'
+      u: "[Unintelligible]."
+    - who: David Boder
+      start: '00:09:08.954'
+      end: '00:09:08.954'
+      u: Yes, but are you going to school right now? Are you studying...?
+    - who: Esther Freilich
+      start: '00:09:11.765'
+      end: '00:09:11.765'
+      u: Naw, now I go to school for Ge....
+    - who: David Boder
+      start: '00:09:13.467'
+      end: '00:09:13.467'
+      u: Yes, but before you came, did you go to...
+    - who: Esther Freilich
+      start: '00:09:15.497'
+      end: '00:09:15.497'
+      u: School.
+    - who: David Boder
+      start: '00:09:16.184'
+      end: '00:09:16.184'
+      u: Which school?
+    - who: Esther Freilich
+      start: '00:09:16.808'
+      end: '00:09:16.808'
+      u: I went to...err, the [unintelligible].
+    - who: David Boder
+      start: '00:09:19.275'
+      end: '00:09:19.275'
+      u: Yes, to French school?
+    - who: Esther Freilich
+      start: '00:09:20.712'
+      end: '00:09:20.712'
+      u: Yes.
+    - who: David Boder
+      start: '00:09:21.040'
+      end: '00:09:21.040'
+      u: With French kids?
+    - who: Esther Freilich
+      start: '00:09:22.039'
+      end: '00:09:22.039'
+      u: Yes.
+    - who: David Boder
+      start: '00:09:22.461'
+      end: '00:09:22.461'
+      u: And are they good to, err, to you?
+    - who: Esther Freilich
+      start: '00:09:24.163'
+      end: '00:09:24.163'
+      u: They are...well, one kid wrote, "you dirty Jew"...
+    - who: David Boder
+      start: '00:09:28.831'
+      end: '00:09:28.831'
+      u: No! And the teach...who is the teacher?
+    - who: Esther Freilich
+      start: '00:09:31.485'
+      end: '00:09:31.485'
+      u: The teacher doesn't...a French woman...she doesn't like me.
+    - who: David Boder
+      start: '00:09:34.389'
+      end: '00:09:34.389'
+      u: Why not?
+    - who: Esther Freilich
+      start: '00:09:35.060'
+      end: '00:09:35.060'
+      u: I don't know. She doesn't like everybody.
+    - who: David Boder
+      start: '00:09:38.120'
+      end: '00:09:38.120'
+      u: Oh! How many Jews are there in your class?
+    - who: Esther Freilich
+      start: '00:09:40.977'
+      end: '00:09:40.977'
+      u: In my class, there are four Jews...[unintelligible].
+    - who: David Boder
+      start: '00:09:43.959'
+      end: '00:09:43.959'
+      u: Four Jews. And nobody noticed that [unintelligible]?
+    - who: Esther Freilich
+      start: '00:09:47.909'
+      end: '00:09:47.909'
+      u: No.
+    - who: David Boder
+      start: '00:09:48.299'
+      end: '00:09:48.299'
+      u: Well, and, err, how long do you have to go to school for?
+    - who: Esther Freilich
+      start: '00:09:52.296'
+      end: '00:09:52.296'
+      u: One year.
+    - who: David Boder
+      start: '00:09:52.546'
+      end: '00:09:52.546'
+      u: One year and then what will you do?
+    - who: Esther Freilich
+      start: '00:09:54.045'
+      end: '00:09:54.045'
+      u: And then I'll go to the other school, a German school.
+    - who: David Boder
+      start: '00:09:57.011'
+      end: '00:09:57.011'
+      u: What do you learn?
+    - who: Esther Freilich
+      start: '00:09:57.917'
+      end: '00:09:57.917'
+      u: I [unintelligible], err, what I'm learning? The machine.
+    - who: David Boder
+      start: '00:10:00.352'
+      end: '00:10:00.352'
+      u: What machine?
+    - who: Esther Freilich
+      start: '00:10:01.976'
+      end: '00:10:01.976'
+      u: Err, shorthand.
+    - who: David Boder
+      start: '00:10:02.944'
+      end: '00:10:02.944'
+      u: Oh! You are learning the machine in order to write?
+    - who: Esther Freilich
+      start: '00:10:04.739'
+      end: '00:10:04.739'
+      u: Yes.
+    - who: David Boder
+      start: '00:10:05.114'
+      end: '00:10:05.114'
+      u: Well, you'll learn that.
+    - who: Esther Freilich
+      start: '00:10:07.627'
+      end: '00:10:07.627'
+      u: Yes.
+    - who: David Boder
+      start: '00:10:08.360'
+      end: 
+      u: "[In English] Alright. This concludes a short [unintelligible]...Freilich,
+        whose mother insisted that the child be interview— [unintelligible]...appeal.
+        And, eh [unintelligible] now all her difficulties at school are due to the
+        fact that she is Jewish. Eh, this is, eh, August the 9th, taken at...number
+        9 Rue de Patin, the home for aged Jews. The child is a child of a concierge
+        here at the place. And, umm, this concludes the recording...wire recording
+        of Illinois Institute of Technology."
+transcript: {}
+translation: {}

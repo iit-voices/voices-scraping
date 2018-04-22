@@ -30,5 +30,5139 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: de
+    interview:
+    - who: David Boder
+      start: '00:00:01.593'
+      end: '00:00:01.593'
+      u: "(In English) This is Spool 81. Geneva, August 27th, 1946. The interview
+        is with Adolph Heisler, eighteen (18) years old, from the Czech territory,
+        which presumably has become Russian now. He carries a tattoo number A 4470.
+        (A four, four ,seven, zero)"
+    - who: David Boder
+      start: '00:00:29.093'
+      end: '00:00:29.093'
+      u: Also, Herr Heisler, also wollen Sie uns noch einmal sagen Ihren ganzen Namen
+        und wo sind Sie geboren. Sprechen Sie laut, langsam und ziemlich laut, nun?
+    - who: Adolph Heisler
+      start: '00:00:38.323'
+      end: '00:00:38.323'
+      u: Also, mein Name ist Adolph Heisler und ich ....
+    - who: David Boder
+      start: '00:00:41.790'
+      end: '00:00:41.790'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:00:41.951'
+      end: '00:00:41.951'
+      u: "...und ich komme aus der Tschechoslowakei, aus Karpathen Russland. Achtzehn
+        (18) Jahre bin ich alt und ich bin deportiert worden später nach Auschwitz."
+    - who: David Boder
+      start: '00:00:51.997'
+      end: '00:00:51.997'
+      u: Ja. Also erzählen Sie mir, wo waren Sie und was ist Ihnen passiert, wie der
+        Krieg angefangen hat.
+    - who: Adolph Heisler
+      start: '00:01:00.066'
+      end: '00:01:00.066'
+      u: Wenn der Krieg angefangen hat, hat man uns genommen in ein Ghetto and da
+        hat man uns sehr mies behandelt. Und nach dem Ghetto ... in dem Ghetto waren
+        wir ein Monat und nach einem Monat hat man uns deportiert mit dem Zug nach
+        Auschwitz.
+    - who: David Boder
+      start: '00:01:15.106'
+      end: '00:01:15.106'
+      u: Nun warten Sie mal. Ich will diese ganze Geschichte wissen. Das ist doch
+        nicht so schnell gegangen. Wie hat man bekannt gemacht, wie ... Wer waren
+        Ihre Eltern? Was war Ihr Vater und Ihre Mutter?
+    - who: Adolph Heisler
+      start: '00:01:27.746'
+      end: '00:01:27.746'
+      u: Also wir hatten eine große Landwirtschaft und mein Vater hatte ein großes
+        Holzunternehmen, da hat man in die Wälder ....
+    - who: David Boder
+      start: '00:01:36.353'
+      end: '00:01:36.353'
+      u: Ja, nun?
+    - who: Adolph Heisler
+      start: '00:01:37.874'
+      end: '00:01:37.874'
+      u: Alles ... und da hat man uns alles zugenommen ...
+    - who: David Boder
+      start: '00:01:42.448'
+      end: '00:01:42.448'
+      u: Nun, Ihr Vater war ein Holzhändler und hatte .. war Landwirt?
+    - who: Adolph Heisler
+      start: '00:01:45.662'
+      end: '00:01:45.662'
+      u: Ja und ...
+    - who: David Boder
+      start: '00:01:46.677'
+      end: '00:01:46.677'
+      u: In der Stadt oder neben der Stadt?
+    - who: Adolph Heisler
+      start: '00:01:48.230'
+      end: '00:01:48.230'
+      u: In der Nähe der Stadt.
+    - who: David Boder
+      start: '00:01:49.261'
+      end: '00:01:49.261'
+      u: In der Nähe der Stadt. Und haben Sie Brüder und Schwestern gehabt?
+    - who: Adolph Heisler
+      start: '00:01:53.848'
+      end: '00:01:53.848'
+      u: Ja, ich hatte zwei (2) Brüder. Ein Bruder lebt noch jetzt, er ist im russischen
+        Territorium – bei der Tante lebt er.
+    - who: David Boder
+      start: '00:01:59.956'
+      end: '00:01:59.956'
+      u: In Russland?
+    - who: Adolph Heisler
+      start: '00:02:00.655'
+      end: '00:02:00.655'
+      u: Ja.
+    - who: David Boder
+      start: '00:02:01.288'
+      end: '00:02:01.288'
+      u: Und der Andere?
+    - who: Adolph Heisler
+      start: '00:02:02.525'
+      end: '00:02:02.525'
+      u: Der Andere .... von dem Anderen weiß ich nichts und von die Eltern weiß ich
+        auch nichts.
+    - who: David Boder
+      start: '00:02:05.928'
+      end: '00:02:05.928'
+      u: Sie wissen nichts von Ihren Eltern?
+    - who: Adolph Heisler
+      start: '00:02:07.320'
+      end: '00:02:07.320'
+      u: Nein.
+    - who: David Boder
+      start: '00:02:07.921'
+      end: '00:02:07.921'
+      u: Haben Sie von Ihrem Bruder im russischen Territorium einen Brief bekommen?
+    - who: Adolph Heisler
+      start: '00:02:12.194'
+      end: '00:02:12.194'
+      u: Von meinem Bruder nicht, aber ein Mädel hat mir geschrieben, ein bekanntes
+        Mädel, sie wohnte nah bei, hm, neben uns, sie hat mir geschrieben, dass sie
+        hat gesprochen mit meinem Bruder. Und ich hab auch einmal telegraphiert und
+        alles, aber Antwort hab ich nicht bekommen. Ich weiß nicht ... ich kann nicht
+        in Verbindung kommen mit Russland und ich weiß auch nicht wies ihm geht und
+        alles.
+    - who: David Boder
+      start: '00:02:35.301'
+      end: '00:02:35.301'
+      u: Ja, nun also in der Stadt gelebt, wie hat die Stadt geheißen?
+    - who: Adolph Heisler
+      start: '00:02:41.504'
+      end: '00:02:41.504'
+      u: Chynadiyovo.
+    - who: David Boder
+      start: '00:02:42.662'
+      end: '00:02:42.662'
+      u: Chynadiyovo.
+    - who: Adolph Heisler
+      start: '00:02:43.851'
+      end: '00:02:43.851'
+      u: Ja.
+    - who: David Boder
+      start: '00:02:44.168'
+      end: '00:02:44.168'
+      u: Wie schreibt man das?
+    - who: Adolph Heisler
+      start: '00:02:45.879'
+      end: '00:02:45.879'
+      u: C.
+    - who: David Boder
+      start: '00:02:47.018'
+      end: '00:02:47.018'
+      u: Ah, C.
+    - who: Adolph Heisler
+      start: '00:02:48.872'
+      end: '00:02:48.872'
+      u: Z
+    - who: David Boder
+      start: '00:02:49.049'
+      end: '00:02:49.049'
+      u: Czyna ....
+    - who: Adolph Heisler
+      start: '00:02:50.096'
+      end: '00:02:50.096'
+      u: Chynadiyovo.
+    - who: David Boder
+      start: '00:02:51.254'
+      end: '00:02:51.254'
+      u: Chynadiyovo.
+    - who: Adolph Heisler
+      start: '00:02:52.428'
+      end: '00:02:52.428'
+      u: Ja, das ist eine tschechische Stadt bei (unverständlich).
+    - who: David Boder
+      start: '00:02:53.870'
+      end: '00:02:53.870'
+      u: Nun, als erzählen Sie mir, die Deutschen sind dorthin gekommen. Wie sind
+        sie da rein gekommen?
+    - who: Adolph Heisler
+      start: '00:03:01.591'
+      end: '00:03:01.591'
+      u: Ja, also sie sind sofort hereingekommen, wir haben gesehen die deutsche Besetzung
+        mit dem Militär und es ist auf einmal schwarz geworden vor den Juden ihre
+        Augen. Und nach zwei (2) Wochen am Morgen sind sie gekommen und man hat nichts
+        gewusst, sie besetzen die Häuser und das war dann in 2 Stunden alles zusammen
+        gepackt und deportiert worden. Man hat nicht gewusst wohin. Wir wurden geführt
+        zu einem Haus, in diesem Haus hat man zusammen getrieben und man ... alle
+        mit den Autos in das Ghetto.
+    - who: David Boder
+      start: '00:03:33.645'
+      end: '00:03:33.645'
+      u: Ja. Wo ... wo war das Ghetto? Wie hat man das Ghetto gemacht?
+    - who: Adolph Heisler
+      start: '00:03:37.283'
+      end: '00:03:37.283'
+      u: Das Mukachevo Ghetto. Das waren große Barracken von einer Ziegelfabrik. Dort
+        waren große Barracken von Holz, die voll waren mit Ziegel, die man dort gelagert.
+        Und es war sehr (unverständlich) konnte es nicht aushalten, denn es waren
+        schrecklich viele Menschen. In einer Baracke wohnten drei tausend (3000) Mann,
+        da war kein Platz und schrecklich viele Menschen und ...
+    - who: David Boder
+      start: '00:04:01.160'
+      end: '00:04:01.160'
+      u: Männer und Frauen und Kinder alles zusammen?
+    - who: Adolph Heisler
+      start: '00:04:03.251'
+      end: '00:04:03.251'
+      u: Alles zusammen. Die Familien waren ... dort waren noch die Familien zusammen.
+    - who: David Boder
+      start: '00:04:07.619'
+      end: '00:04:07.619'
+      u: Ja, nun, und Sie waren der Ältes....., ja, sie haben einen Bruder und eine
+        ...
+    - who: Adolph Heisler
+      start: '00:04:12.427'
+      end: '00:04:12.427'
+      u: Ja, zwei Brüder.
+    - who: David Boder
+      start: '00:04:13.031'
+      end: '00:04:13.031'
+      u: Zwei Brüder haben Sie gehabt?
+    - who: Adolph Heisler
+      start: '00:04:14.125'
+      end: '00:04:14.125'
+      u: Ja.
+    - who: David Boder
+      start: '00:04:14.521'
+      end: '00:04:14.521'
+      u: Waren die älter oder jünger?
+    - who: Adolph Heisler
+      start: '00:04:16.074'
+      end: '00:04:16.074'
+      u: Jüngere Brüder.
+    - who: David Boder
+      start: '00:04:17.189'
+      end: '00:04:17.189'
+      u: Jüngere Brüder. Nun, und, hm, wie lange sind Sie gewesen dort in dieser Ziegelfabrik?
+    - who: Adolph Heisler
+      start: '00:04:23.972'
+      end: '00:04:23.972'
+      u: In der Ziegelfabrik waren wir vier, vier (4) Wochen.
+    - who: David Boder
+      start: '00:04:26.966'
+      end: '00:04:26.966'
+      u: Ja, und wer hat Ihnen zu Essen gegeben, was hat man zu Essen gegeben?
+    - who: Adolph Heisler
+      start: '00:04:30.445'
+      end: '00:04:30.445'
+      u: Ja, die Kehille haben sich selbst ausgehalten noch von dieser Verpflegung,
+        weil wir haben gehabt die Lebensmittel und alles haben sie weg transportieren
+        von zu Hause. Die Operation hat alles zugenommen und ....
+    - who: David Boder
+      start: '00:04:41.612'
+      end: '00:04:41.612'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:04:43.024'
+      end: '00:04:43.024'
+      u: "... und es war nicht genug, was man gebracht hat von der Stadt."
+    - who: David Boder
+      start: '00:04:47.442'
+      end: '00:04:47.442'
+      u: Ja. Und wer war die Kehille?
+    - who: Adolph Heisler
+      start: '00:04:51.059'
+      end: '00:04:51.059'
+      u: Das war die jüdische Gemeinde, weil die haben gesagt, dass man soll (unverständlich)
+        haben noch nicht zugenommen das Geld, Protektion und sie waren (unverständlich)
+        zum Transportieren Lebensmittel.
+    - who: David Boder
+      start: '00:05:04.956'
+      end: '00:05:04.956'
+      u: Lebensmittel. Nun, und nach, hm, .....das hat gedauert, sagen Sie, vier (4)
+        Wochen?
+    - who: Adolph Heisler
+      start: '00:05:09.813'
+      end: '00:05:09.813'
+      u: Vier (4) Wochen.
+    - who: David Boder
+      start: '00:05:10.583'
+      end: '00:05:10.583'
+      u: Und was ist dann passiert? Sagen Sie mir die ganzen Einzelheiten, wie es
+        war.
+    - who: Adolph Heisler
+      start: '00:05:15.001'
+      end: '00:05:15.001'
+      u: Also sie kommen an einem Morgen und sie haben gesagt, wer die Rechte hat
+        von dieser Stadt, die Zugehörigkeit, dann ist es möglich, dass er da bleiben
+        darf und ... dass er nach Hause gelassen werden. Und so haben wir gebracht
+        alle Papiere, wir haben auch gezeigt Papiere, alles gute Papiere. Und sie
+        haben die zugenommen. Und auf einmal sieht man ein großes Feuer von den Papieren.
+        Sie haben sie nur über uns Spaß gemacht. Und am anderen Tag .....
+    - who: David Boder
+      start: '00:05:41.086'
+      end: '00:05:41.086'
+      u: Also Sie sagen, man hat die Papiere gesammelt und was hat man dann getan?
+    - who: Adolph Heisler
+      start: '00:05:45.191'
+      end: '00:05:45.191'
+      u: Man hat sie verbrennt, weil sie wollen selber, dass sie damit wir nicht haben
+        um auszureisen ....
+    - who: David Boder
+      start: '00:05:51.720'
+      end: '00:05:51.720'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:05:52.237'
+      end: '00:05:52.237'
+      u: "... und am anderen Tag an Morgen hat man nicht erlaubt, dass man verlässt
+        die Baracke und man soll hinein kommen in einen Haufen Wagons. Und dann haben
+        sie gepackt diese Wagonen zu hundert (100) hat man in einen Wagon, ohne Essen,
+        ohne Allem und man hat uns transportiert ... wir wurden transportiert, wohin
+        aber hat niemand gewusst. Wir fahren .... wir fahren zwei (2) Wochen auf dem
+        Zug. Und dann sind wir rausgekommen nach Auschwitz. Wir wussten nicht ......"
+    - who: David Boder
+      start: '00:06:17.340'
+      end: '00:06:17.340'
+      u: Ja, noch ....
+    - who: Adolph Heisler
+      start: '00:06:18.126'
+      end: '00:06:18.126'
+      u: Wir wussten nichts von Auschwitz .... von der Vernich...., weil wir haben
+        gesehen, die Arbeiter ... Leute in Häftlingskleider, aber wir haben nicht
+        gewusst, was das bedeutet. Dann aber ... dann haben wir die ganze Geschichte
+        gehört.
+    - who: David Boder
+      start: '00:06:31.080'
+      end: '00:06:31.080'
+      u: Also, wollen wir ein bisserl zurück gehen. Man hat sie auf ....alle hinein
+        gesetzt in die Wagons.
+    - who: Adolph Heisler
+      start: '00:06:37.174'
+      end: '00:06:37.174'
+      u: Ja.
+    - who: David Boder
+      start: '00:06:37.302'
+      end: '00:06:37.302'
+      u: Was für Wagons waren das?
+    - who: Adolph Heisler
+      start: '00:06:38.840'
+      end: '00:06:38.840'
+      u: Das waren Lastwagen Wagons für die Vieh. Sehr viele Personen waren da, es
+        war sehr voll gestopft, ohne Wasser. Man hat kein Wasser uns nicht gegeben.
+        Das Essen war gar nichts, weil von zu Hause hat man nicht mehr, wir waren
+        doch schon vier (4) Wochen in dem Ghetto, alles was wir hatten war weg.
+    - who: David Boder
+      start: '00:06:57.949'
+      end: '00:06:57.949'
+      u: Und wie viele Personen waren in einem Wagon?
+    - who: Adolph Heisler
+      start: '00:07:00.833'
+      end: '00:07:00.833'
+      u: Wir waren ein hundert (100) Leute in einem Wagon.
+    - who: David Boder
+      start: '00:07:02.981'
+      end: '00:07:02.981'
+      u: Waren dort Stühle, waren dort Bänke ......
+    - who: Adolph Heisler
+      start: '00:07:05.001'
+      end: '00:07:05.001'
+      u: Nein, nein, da waren keine. Die Decken hat man zugenommen, alles hat man
+        zugenommen, wir liegen auf die Holzbretter.
+    - who: David Boder
+      start: '00:07:11.063'
+      end: '00:07:11.063'
+      u: Waren Ihre Mutter und Ihr Vater mit Ihnen?
+    - who: Adolph Heisler
+      start: '00:07:13.289'
+      end: '00:07:13.289'
+      u: Ja, war noch in dem Wagon auch, aber .....
+    - who: David Boder
+      start: '00:07:15.184'
+      end: '00:07:15.184'
+      u: Und die zwei (2) Brüder?
+    - who: Adolph Heisler
+      start: '00:07:16.612'
+      end: '00:07:16.612'
+      u: Auch, also alle waren zusammen. Nur in Auschwitz – wie wir sind dran gekommen,
+        hat man uns verteilt alle.
+    - who: David Boder
+      start: '00:07:22.753'
+      end: '00:07:22.753'
+      u: Ein Moment .... also hat man sie reingeschoben in die Wagons. War da eine
+        Toilette?
+    - who: Adolph Heisler
+      start: '00:07:29.708'
+      end: '00:07:29.708'
+      u: Nichts, nichts.
+    - who: David Boder
+      start: '00:07:30.838'
+      end: '00:07:30.838'
+      u: So wie hat man das getan, wenn man hat wollen gehen ... zum, hm, zum ...
+        Bidet oder?
+    - who: Adolph Heisler
+      start: '00:07:36.506'
+      end: '00:07:36.506'
+      u: Wir hatten einige Töpfe, so hatten wir ....
+    - who: David Boder
+      start: '00:07:39.278'
+      end: '00:07:39.278'
+      u: Ja?
+    - who: Adolph Heisler
+      start: '00:07:39.704'
+      end: '00:07:39.704'
+      u: "... Toiletten gemacht und dann ausgeschüttet."
+    - who: David Boder
+      start: '00:07:42.995'
+      end: '00:07:42.995'
+      u: Ausgeschüttet wo?
+    - who: Adolph Heisler
+      start: '00:07:44.436'
+      end: '00:07:44.436'
+      u: Hinaus aus dem Wagon.
+    - who: David Boder
+      start: '00:07:45.723'
+      end: '00:07:45.723'
+      u: Waren die Wagons offen?
+    - who: Adolph Heisler
+      start: '00:07:47.357'
+      end: '00:07:47.357'
+      u: Da war eine kleine Öffnung, durch das Fenster....
+    - who: David Boder
+      start: '00:07:50.290'
+      end: '00:07:50.290'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:07:50.650'
+      end: '00:07:50.650'
+      u: "... und mit Draht ..."
+    - who: David Boder
+      start: '00:07:51.971'
+      end: '00:07:51.971'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:07:52.129'
+      end: '00:07:52.129'
+      u: "... und da hat man kaum die Hand durch."
+    - who: David Boder
+      start: '00:07:54.256'
+      end: '00:07:54.256'
+      u: Und wie haben die Männer und Frauen ... die Frauen diese Töpfe benutzt?
+    - who: Adolph Heisler
+      start: '00:07:58.165'
+      end: '00:07:58.165'
+      u: Ja, da war alles gleich, egal ... man hat da nicht sehr viel geschaut, da.
+    - who: David Boder
+      start: '00:08:02.180'
+      end: '00:08:02.180'
+      u: Ja, also und wir lange sind man gefahren?
+    - who: Adolph Heisler
+      start: '00:08:08.678'
+      end: '00:08:08.678'
+      u: Zwei (2) Wochen.
+    - who: David Boder
+      start: '00:08:09.782'
+      end: '00:08:09.782'
+      u: Zwei (2) Wochen?
+    - who: Adolph Heisler
+      start: '00:08:10.607'
+      end: '00:08:10.607'
+      u: Ja.
+    - who: David Boder
+      start: '00:08:11.122'
+      end: '00:08:11.122'
+      u: Und hat man die Wagons da jeden Tag los gemacht?
+    - who: Adolph Heisler
+      start: '00:08:13.496'
+      end: '00:08:13.496'
+      u: Nein.
+    - who: David Boder
+      start: '00:08:15.784'
+      end: '00:08:15.784'
+      u: Und Wasser?
+    - who: Adolph Heisler
+      start: '00:08:17.249'
+      end: '00:08:17.249'
+      u: Auch nicht. Wir hatten ... jeder hat sich noch mitgenommen vom Ghetto einen
+        Eimer Wasser und wir haben bekommen Brot, das heißt zwei (2) Kilo Brot und
+        mit diesem hat man gelebt die ganze Zeit ...
+    - who: David Boder
+      start: '00:08:27.308'
+      end: '00:08:27.308'
+      u: Also?
+    - who: Adolph Heisler
+      start: '00:08:27.866'
+      end: '00:08:27.866'
+      u: "... pro Person."
+    - who: David Boder
+      start: '00:08:28.790'
+      end: '00:08:28.790'
+      u: Haben Sie und Ihre Familie genug zu essen gehabt?
+    - who: Adolph Heisler
+      start: '00:08:32.169'
+      end: '00:08:32.169'
+      u: Von genug ist leider da nicht, aber was kann man machen?
+    - who: David Boder
+      start: '00:08:35.339'
+      end: '00:08:35.339'
+      u: Ja, nun .... sind sie alle .... was haben die Menschen den ganzen Tag im
+        Wagon getan?
+    - who: Adolph Heisler
+      start: '00:08:42.610'
+      end: '00:08:42.610'
+      u: Gar nichts. Wir haben uns gesetzt, Einer hat gesagt, das passiert. Und Einer
+        hat gesagt, das wird sein. Wir haben absolut nichts gewusst und wir waren
+        ganz nervös. Wir waren alle nicht mehr normal von der Geschichte was ist vorher
+        gegangen.
+    - who: David Boder
+      start: '00:08:56.073'
+      end: '00:08:56.073'
+      u: Aha. Und nun wann sind Sie angekommen und wann? In Auschwitz?
+    - who: Adolph Heisler
+      start: '00:08:59.424'
+      end: '00:08:59.424'
+      u: In Auschwitz.
+    - who: David Boder
+      start: '00:09:00.320'
+      end: '00:09:00.320'
+      u: Erzählen Sie, wenn der Zug ist angekommen, was ist dann passiert? Also was
+        hat dort passiert?
+    - who: Adolph Heisler
+      start: '00:09:06.935'
+      end: '00:09:06.935'
+      u: Also wir sind dort angekommen.
+    - who: David Boder
+      start: '00:09:08.556'
+      end: '00:09:08.556'
+      u: "(Lärm im Mikrophon) Also warten Sie mal ………….nun?"
+    - who: Adolph Heisler
+      start: '00:09:10.944'
+      end: '00:09:10.944'
+      u: Wir sind dort angekommen nach Auschwitz. Es ist dort gestanden ein SS Sturm
+        Führer und der hat aussortiert die alten Menschen und die Kinder auf eine
+        Seite und die Arbeitsfähigen, die die sehr gut und arbeitsfähig ausgesehen
+        haben, die hat er auf die andere Seite. Die Anderen, die haben sie weg geführt
+        und wohin wir haben nicht gewusst. Nur am anderen Tag haben wir gesehen die
+        große Flamme mit Rauch vom Krematorium, wo man hat sie verbrannt. Und wir
+        sind gegangen in Baracken.
+    - who: David Boder
+      start: '00:09:37.944'
+      end: '00:09:37.944'
+      u: 'Wer sind das: wir?'
+    - who: Adolph Heisler
+      start: '00:09:39.632'
+      end: '00:09:39.632'
+      u: Wir – die Arbeitsfähigen, ich war auch unter ihnen und ich habe ...
+    - who: David Boder
+      start: '00:09:43.332'
+      end: '00:09:43.332'
+      u: Also was ist passiert mit Ihrer Familie, wenn sie kamen nach Auschwitz?
+    - who: Adolph Heisler
+      start: '00:09:47.855'
+      end: '00:09:47.855'
+      u: Zu meiner Familie hat passiert, dass mein Bruder und ich sind wir gestanden
+        auf einer Seite und die Übrigen sind gestanden ....
+    - who: David Boder
+      start: '00:09:54.805'
+      end: '00:09:54.805'
+      u: Wer war die Übrigen?
+    - who: Adolph Heisler
+      start: '00:09:55.910'
+      end: '00:09:55.910'
+      u: Die Mutter. Der Vater war nicht da, denn den Vater hat man zugenommen zum,
+        hm, Dienst, zum militärischen Dienst, noch zu Hause.
+    - who: David Boder
+      start: '00:10:04.855'
+      end: '00:10:04.855'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:10:05.316'
+      end: '00:10:05.316'
+      u: Und die Mutter mit dem kleinen Bruder ist, hm, ..... ist gegang ... wurde
+        genommen auf die andere Seite mit ... so mit den nicht Arbeitsfähigen.
+    - who: David Boder
+      start: '00:10:13.843'
+      end: '00:10:13.843'
+      u: Also das habe ich nicht gewusst! Ihr Vater ist nicht mit Ihnen gewählt worden,
+        Ihr Vater wurde genommen zum militärischen Dienst. War Ihr Vater mit Ihnen
+        im Ghetto dabei?
+    - who: Adolph Heisler
+      start: '00:10:23.179'
+      end: '00:10:23.179'
+      u: Nein.
+    - who: David Boder
+      start: '00:10:23.768'
+      end: '00:10:23.768'
+      u: Nein, also wo war er da? War er in der ungarischen Armee?
+    - who: Adolph Heisler
+      start: '00:10:27.217'
+      end: '00:10:27.217'
+      u: Ja.
+    - who: David Boder
+      start: '00:10:27.555'
+      end: '00:10:27.555'
+      u: Hm, war er in der tschechischen Armee?
+    - who: Adolph Heisler
+      start: '00:10:29.330'
+      end: '00:10:29.330'
+      u: Ja, er war in der tschechischen Armee. Und da wurde er einberufen und diese
+        starken Menschen, die gut arbeitsfähig waren zu graben, Schützengraben zu
+        graben.
+    - who: David Boder
+      start: '00:10:39.740'
+      end: '00:10:39.740'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:10:40.146'
+      end: '00:10:40.146'
+      u: Und er ist auch dort geblieben. Und wir waren im Ghetto.
+    - who: David Boder
+      start: '00:10:43.802'
+      end: '00:10:43.802'
+      u: Aha. Und Sie haben ihn nicht .... er hat sie nicht gesehen bevor Sie weggefahren
+        sind.
+    - who: Adolph Heisler
+      start: '00:10:47.056'
+      end: '00:10:47.056'
+      u: Nein.
+    - who: David Boder
+      start: '00:10:47.709'
+      end: '00:10:47.709'
+      u: Ja und Sie haben nichts von ihm gehört.
+    - who: Adolph Heisler
+      start: '00:10:49.191'
+      end: '00:10:49.191'
+      u: Nein.
+    - who: David Boder
+      start: '00:10:49.803'
+      end: '00:10:49.803'
+      u: Also die Mutter und der kleine Junge haben sie in Auschwitz auf die andere
+        Seite gestellt?
+    - who: Adolph Heisler
+      start: '00:10:53.236'
+      end: '00:10:53.236'
+      u: Ja.
+    - who: David Boder
+      start: '00:10:54.057'
+      end: '00:10:54.057'
+      u: Nun, also weiter.
+    - who: Adolph Heisler
+      start: '00:10:56.247'
+      end: '00:10:56.247'
+      u: Und der Bruder und ich sind gegangen – wie sagt man – baden.
+    - who: David Boder
+      start: '00:11:01.343'
+      end: '00:11:01.343'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:11:01.667'
+      end: '00:11:01.667'
+      u: Und nach dem Baden hat man abgeschoren alles und hat man uns geführt in eine
+        Baracke.
+    - who: David Boder
+      start: '00:11:06.306'
+      end: '00:11:06.306'
+      u: Was meinen Sie, man hat abgeschoren alles? War das ....
+    - who: Adolph Heisler
+      start: '00:11:08.322'
+      end: '00:11:08.322'
+      u: Die Haare und alles abgeschoren.
+    - who: David Boder
+      start: '00:11:09.692'
+      end: '00:11:09.692'
+      u: Am ganzen Körper.
+    - who: Adolph Heisler
+      start: '00:11:10.490'
+      end: '00:11:10.490'
+      u: Am ganzen Körper.
+    - who: David Boder
+      start: '00:11:11.549'
+      end: '00:11:11.549'
+      u: 'Also weiter (Läuten, wie ein Telefon) Dr. Boder (in English): that was a
+        telephone interruption. (Auf deutsch): Nun?'
+    - who: Adolph Heisler
+      start: '00:11:16.561'
+      end: '00:11:16.561'
+      u: Und dann hat man uns - nach dem Abscheren und nach dem Bad - hat man uns
+        angezogen die Häftlingsanzüge, sie waren so wie die Anderen. Wir haben nicht
+        gewusst, was da los ist. Und wie wir sind rausgekommen, haben wir gesehen,
+        wie die Stecken geflogen sind bei die Häftling über die Rücken und Köpfe.
+    - who: David Boder
+      start: '00:11:34.065'
+      end: '00:11:34.065'
+      u: Also wer hat sie geschlagen?
+    - who: Adolph Heisler
+      start: '00:11:35.837'
+      end: '00:11:35.837'
+      u: Es waren die SS und es waren die deutschen Kriegs... nicht Kriegsverbrecher,
+        sondern Verbrecher, die im sechs und dreißiger (36) Jahr noch nicht in den
+        Konzentrationslagern waren und die waren noch ärger als die SS selbst.
+    - who: David Boder
+      start: '00:11:51.714'
+      end: '00:11:51.714'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:11:52.009'
+      end: '00:11:52.009'
+      u: Und diese hat man genommen als ‚capos’, das heißt sie haben absolute Kraft
+        über die Häftlinge gehabt in dem Lager, selbst haben das gehabt bei dem Kommando,
+        sie haben gehabt (unverständlich).
+    - who: David Boder
+      start: '00:12:04.940'
+      end: '00:12:04.940'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:12:06.002'
+      end: '00:12:06.002'
+      u: Und dann hat man uns getrieben in die Baracken. Und dann wenn kommt der andere
+        Tag – auch nichts zu essen und schlafen haben wir überhaupt nicht können,
+        denn es war kalt und es waren die Steine, eine Baracke von Steine und da ....
+    - who: David Boder
+      start: '00:12:22.929'
+      end: '00:12:22.929'
+      u: Ein Steinboden?
+    - who: Adolph Heisler
+      start: '00:12:24.661'
+      end: '00:12:24.661'
+      u: Ja. Und da sind wir gesessen. Das war in Birkenau selbst.
+    - who: David Boder
+      start: '00:12:28.019'
+      end: '00:12:28.019'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:12:28.141'
+      end: '00:12:28.141'
+      u: Das war noch nicht in Auschwitz, das war, hm, das Quarantäne Lager für Auschwitz.
+    - who: David Boder
+      start: '00:12:32.322'
+      end: '00:12:32.322'
+      u: Ja. Das war was für ein Lager?
+    - who: Adolph Heisler
+      start: '00:12:34.052'
+      end: '00:12:34.052'
+      u: Quarantäne Lager.
+    - who: David Boder
+      start: '00:12:35.151'
+      end: '00:12:35.151'
+      u: Ein Quarantäne Lager für Auschwitz?
+    - who: Adolph Heisler
+      start: '00:12:36.109'
+      end: '00:12:36.109'
+      u: Die Leute wurden dort gebadet und abgeschoren und angezogen. Und Auschwitz
+        war schon ....es war nahe von Auschwitz und Auschwitz war ein Arbeitslager.
+    - who: David Boder
+      start: '00:12:44.591'
+      end: '00:12:44.591'
+      u: Ja, nun?
+    - who: Adolph Heisler
+      start: '00:12:46.543'
+      end: '00:12:46.543'
+      u: Und dort hat man uns dann gefragt, was wir (unverständlich) und sie haben
+        gesagt, wir müssen arbeiten.
+    - who: David Boder
+      start: '00:12:54.769'
+      end: '00:12:54.769'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:12:55.507'
+      end: '00:12:55.507'
+      u: Und so habe ich gesagt, ich bin ein Schlosser, denn ich habe gewusst, dass
+        es immer besser ist zu sagen, dass man irgend eine Arbeit hat, als im Feld
+        zu arbeiten, aber ...
+    - who: David Boder
+      start: '00:13:04.253'
+      end: '00:13:04.253'
+      u: Haben Sie verstanden Schlosserei?
+    - who: Adolph Heisler
+      start: '00:13:06.438'
+      end: '00:13:06.438'
+      u: Ja, ich bin dort in die Schule und zu Haus ich habe immer gern gehabt, so
+        mit dieser Sache herum zu spielen.
+    - who: David Boder
+      start: '00:13:10.768'
+      end: '00:13:10.768'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:13:10.901'
+      end: '00:13:10.901'
+      u: Und ich wusste ganz genau, dass sie gebraucht haben einen Schlosser da, ....
+        und da habe ich eine Ahnung und so habe ich mich dazu beworben.
+    - who: David Boder
+      start: '00:13:20.260'
+      end: '00:13:20.260'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:13:21.625'
+      end: '00:13:21.625'
+      u: Und so habe ich mich dazu beworben. Also, ich habe selber kein Glück gehabt
+        für das, weil ....weil ich bin ... sie haben mich nicht zugenommen dazu.
+    - who: David Boder
+      start: '00:13:29.081'
+      end: '00:13:29.081'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:13:30.118'
+      end: '00:13:30.118'
+      u: Und am nächsten Tag hat man uns hinaus gerufen. Wir haben .... wir haben
+        schon gehabt die .... die Nummern haben wir noch nicht gehabt.
+    - who: David Boder
+      start: '00:13:38.201'
+      end: '00:13:38.201'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:13:38.696'
+      end: '00:13:38.696'
+      u: Und wir wurden heraus gerufen und man hat uns geführt nach Auschwitz, zum
+        Lager Auschwitz. Dort wie wir sind angekommen hat man uns gegeben eine Supp
+        zu essen. Es war schon am dritten (3.) Tag und so wir haben bekommen einen
+        (1) Liter Supp und man hat uns geführt zum nummerieren.
+    - who: David Boder
+      start: '00:13:57.269'
+      end: '00:13:57.269'
+      u: Zum Tätowieren.
+    - who: Adolph Heisler
+      start: '00:13:58.234'
+      end: '00:13:58.234'
+      u: Ja.
+    - who: David Boder
+      start: '00:13:58.598'
+      end: '00:13:58.598'
+      u: Wenn jeder hat bekommen einen (1) Liter Supp, worin hat man die Supp gegeben?
+    - who: Adolph Heisler
+      start: '00:14:02.506'
+      end: '00:14:02.506'
+      u: Das waren solche Schüssel, die Schüssel ... zerbrochene Schüssel, was waren
+        von die Transporte zusammen geholt, weil sie mitgenommen haben die Töpfe ...
+    - who: David Boder
+      start: '00:14:10.420'
+      end: '00:14:10.420'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:14:10.567'
+      end: '00:14:10.567'
+      u: "... von den Wagonen ...."
+    - who: David Boder
+      start: '00:14:11.836'
+      end: '00:14:11.836'
+      u: Ja, nun?
+    - who: Adolph Heisler
+      start: '00:14:12.236'
+      end: '00:14:12.236'
+      u: "... und die haben sie zusammen gesammelt und haben in diesen die Suppe gegeben
+        ..."
+    - who: David Boder
+      start: '00:14:16.191'
+      end: '00:14:16.191'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:14:16.432'
+      end: '00:14:16.432'
+      u: "... zu essen."
+    - who: David Boder
+      start: '00:14:17.139'
+      end: '00:14:17.139'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:14:18.455'
+      end: '00:14:18.455'
+      u: Und nachdem wir bekommen haben die Suppe, und danach tätowiert. Wir sind
+        dann noch geblieben zwei (2) Tage und am dritten (3.) Tag hat man uns weg
+        genommen und man hat geteilt vom Bruder und ich mich hat man weggenommen in
+        einer Kohlengrube zu arbeiten. Das war acht (8) Kilometer von Auschwitz, in
+        Jawischowitz (Jawiszowice).
+    - who: David Boder
+      start: '00:14:36.409'
+      end: '00:14:36.409'
+      u: Jawischowitz?
+    - who: Adolph Heisler
+      start: '00:14:37.283'
+      end: '00:14:37.283'
+      u: Ja.
+    - who: David Boder
+      start: '00:14:37.689'
+      end: '00:14:37.689'
+      u: In einer Kohlengrube.
+    - who: Adolph Heisler
+      start: '00:14:38.766'
+      end: '00:14:38.766'
+      u: Ja.
+    - who: David Boder
+      start: '00:14:39.053'
+      end: '00:14:39.053'
+      u: Und hat man Ihnen gegeben Hammer und hat man Ihnen gegeben ....
+    - who: Adolph Heisler
+      start: '00:14:42.434'
+      end: '00:14:42.434'
+      u: Ja, so wie jeder .... wie jeder Arbeiter hab ich ......
+    - who: David Boder
+      start: '00:14:44.801'
+      end: '00:14:44.801'
+      u: Und eine Lampe auf dem Kopf?
+    - who: Adolph Heisler
+      start: '00:14:46.332'
+      end: '00:14:46.332'
+      u: Nicht auf dem .... wir haben gehabt in die Hände Lampen. Und zwar hat sechs
+        (6) Kilo die Lampe und selbst haben wir getragen.
+    - who: David Boder
+      start: '00:14:53.631'
+      end: '00:14:53.631'
+      u: Warum, warum war die Lampe so schwer? Was war das?
+    - who: Adolph Heisler
+      start: '00:14:56.459'
+      end: '00:14:56.459'
+      u: Es war ... ich weiß nicht, es waren die ... die Karbid – nicht Karbid Lampen,
+        aber ....
+    - who: David Boder
+      start: '00:15:01.274'
+      end: '00:15:01.274'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:15:01.999'
+      end: '00:15:01.999'
+      u: "... solche Laternen, elektrische Akkumulator-Laterne."
+    - who: David Boder
+      start: '00:15:05.257'
+      end: '00:15:05.257'
+      u: Oh, das waren ... ja.
+    - who: Adolph Heisler
+      start: '00:15:06.740'
+      end: '00:15:06.740'
+      u: Und das waren ....
+    - who: David Boder
+      start: '00:15:06.977'
+      end: '00:15:06.977'
+      u: Mit Batterien?
+    - who: Adolph Heisler
+      start: '00:15:07.879'
+      end: '00:15:07.879'
+      u: Ja.
+    - who: David Boder
+      start: '00:15:08.535'
+      end: '00:15:08.535'
+      u: Ja?
+    - who: Adolph Heisler
+      start: '00:15:08.903'
+      end: '00:15:08.903'
+      u: Das waren solche Lampen damit sie es auch aushalten zwölf (12) Stunden, weil
+        wir haben acht (8) Stunden Arbeit ...
+    - who: David Boder
+      start: '00:15:15.525'
+      end: '00:15:15.525'
+      u: Aha.
+    - who: Adolph Heisler
+      start: '00:15:15.678'
+      end: '00:15:15.678'
+      u: "... aber (unverständlich) musste leuchten, weil wir ..."
+    - who: David Boder
+      start: '00:15:20.097'
+      end: '00:15:20.097'
+      u: Ja?
+    - who: Adolph Heisler
+      start: '00:15:20.250'
+      end: '00:15:20.250'
+      u: "... die Appells hatten und das und das."
+    - who: David Boder
+      start: '00:15:22.369'
+      end: '00:15:22.369'
+      u: Und dann hat man die Lampen jede Nacht wieder chargiert?
+    - who: Adolph Heisler
+      start: '00:15:25.595'
+      end: '00:15:25.595'
+      u: Ja, abgegeben. Jeder hat eine Lampen Nummer und jeder ...
+    - who: David Boder
+      start: '00:15:28.919'
+      end: '00:15:28.919'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:15:29.046'
+      end: '00:15:29.046'
+      u: "... hat abgegeben die Lampe."
+    - who: David Boder
+      start: '00:15:30.240'
+      end: '00:15:30.240'
+      u: Ja. Und haben Sie zuvor gearbeitet mit Kohlen?
+    - who: Adolph Heisler
+      start: '00:15:34.923'
+      end: '00:15:34.923'
+      u: Nein.
+    - who: David Boder
+      start: '00:15:35.436'
+      end: '00:15:35.436'
+      u: Nein.
+    - who: Adolph Heisler
+      start: '00:15:35.568'
+      end: '00:15:35.568'
+      u: Ich habe ... ich habe ....
+    - who: David Boder
+      start: '00:15:36.134'
+      end: '00:15:36.134'
+      u: Wie alt waren Sie damals?
+    - who: Adolph Heisler
+      start: '00:15:37.455'
+      end: '00:15:37.455'
+      u: Sechzehn (16) Jahre.
+    - who: David Boder
+      start: '00:15:38.540'
+      end: '00:15:38.540'
+      u: Aha. Und mit wem sind Sie gegangen? Alle Häftlinge oder waren Sie ...
+    - who: Adolph Heisler
+      start: '00:15:41.734'
+      end: '00:15:41.734'
+      u: Alle Häftlinge.
+    - who: David Boder
+      start: '00:15:42.949'
+      end: '00:15:42.949'
+      u: Ja. Und wie tief sind sie runter gegangen.
+    - who: Adolph Heisler
+      start: '00:15:45.983'
+      end: '00:15:45.983'
+      u: Das war vier und sechzig (64) Meter in die Tiefe.
+    - who: David Boder
+      start: '00:15:48.451'
+      end: '00:15:48.451'
+      u: Vier und sechzig (64) Meter in die Tiefe.
+    - who: Adolph Heisler
+      start: '00:15:49.591'
+      end: '00:15:49.591'
+      u: Ja.
+    - who: David Boder
+      start: '00:15:49.817'
+      end: '00:15:49.817'
+      u: ist man runter gegangen in was? In einem?
+    - who: Adolph Heisler
+      start: '00:15:51.777'
+      end: '00:15:51.777'
+      u: In einem Lift.
+    - who: David Boder
+      start: '00:15:52.907'
+      end: '00:15:52.907'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:15:53.047'
+      end: '00:15:53.047'
+      u: Ist man runter gegangen in einem Lift.
+    - who: David Boder
+      start: '00:15:54.064'
+      end: '00:15:54.064'
+      u: Wer hat Ihnen gezeigt wie zu arbeiten?
+    - who: Adolph Heisler
+      start: '00:15:56.134'
+      end: '00:15:56.134'
+      u: Ja, da war überall ein polnischer Zivilist, ein Vorarbeiter.
+    - who: David Boder
+      start: '00:15:59.887'
+      end: '00:15:59.887'
+      u: Ja. Waren die gut zu Ihnen?
+    - who: Adolph Heisler
+      start: '00:16:02.274'
+      end: '00:16:02.274'
+      u: Ja, aber die waren doch halbe Verbrecher selbst.
+    - who: David Boder
+      start: '00:16:04.909'
+      end: '00:16:04.909'
+      u: Warum?
+    - who: Adolph Heisler
+      start: '00:16:05.483'
+      end: '00:16:05.483'
+      u: Sie haben uns noch viel ärger behandelt als die Deutschen selbst. Sie haben
+        ein ... Anzeigen gemacht, sie haben geschlagen und es war schrecklich, wie
+        die Polen behandelt haben uns ...
+    - who: David Boder
+      start: '00:16:15.540'
+      end: '00:16:15.540'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:16:15.619'
+      end: '00:16:15.619'
+      u: "... in der Kohlengrube."
+    - who: David Boder
+      start: '00:16:16.827'
+      end: '00:16:16.827'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:16:18.189'
+      end: '00:16:18.189'
+      u: Und sie haben tot geschlagen die Menschen, die Häftlinge.
+    - who: David Boder
+      start: '00:16:22.461'
+      end: '00:16:22.461'
+      u: Haben Sie nicht einmal probiert zurück zu schlagen?
+    - who: Adolph Heisler
+      start: '00:16:24.972'
+      end: '00:16:24.972'
+      u: Ja, wer hat gehabt die Kraft. Wir waren doch ganz abgeplagt und total verhungert
+        von dem Liter Suppe und zwei hundert (200) Gramm Brot, das wir haben bekommen
+        und wir haben in der Kohlengrube gearbeitet. Und sie haben uns tot geschlagen.
+    - who: David Boder
+      start: '00:16:36.350'
+      end: '00:16:36.350'
+      u: Nun weiter. Wie lange haben Sie dort gearbeitet in den Kohlengruben? Und
+        wo ist Ihr Bruder hin gegangen?
+    - who: Adolph Heisler
+      start: '00:16:42.718'
+      end: '00:16:42.718'
+      u: Vom Bruder habe ich gewusst nix mehr.
+    - who: David Boder
+      start: '00:16:44.865'
+      end: '00:16:44.865'
+      u: Aha.
+    - who: Adolph Heisler
+      start: '00:16:45.307'
+      end: '00:16:45.307'
+      u: Von dem Bruder habe ich erst jetzt von dem Mädel ....
+    - who: David Boder
+      start: '00:16:47.510'
+      end: '00:16:47.510'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:16:47.665'
+      end: '00:16:47.665'
+      u: ".... eine Nachricht bekommen."
+    - who: David Boder
+      start: '00:16:49.429'
+      end: '00:16:49.429'
+      u: Also wie lange hat das gedauert?
+    - who: Adolph Heisler
+      start: '00:16:52.083'
+      end: '00:16:52.083'
+      u: Es hat gedauert bis zum Jahr ... Jahr, wo die Russen sind hinein gekommen.
+        Dann nach Auschwitz haben sie angefangen zu überfallen Ober Schlesien, das
+        war in 45.
+    - who: David Boder
+      start: '00:17:02.160'
+      end: '00:17:02.160'
+      u: Und wie lange waren Sie in Auschwitz?
+    - who: Adolph Heisler
+      start: '00:17:05.006'
+      end: '00:17:05.006'
+      u: Zwei (2) Jahre.
+    - who: David Boder
+      start: '00:17:05.812'
+      end: '00:17:05.812'
+      u: Haben Sie die ganze Zeit in den Kohlengruben gearbeitet?
+    - who: Adolph Heisler
+      start: '00:17:08.168'
+      end: '00:17:08.168'
+      u: Ja.
+    - who: David Boder
+      start: '00:17:09.051'
+      end: '00:17:09.051'
+      u: Als Kohlenarbeiter.
+    - who: Adolph Heisler
+      start: '00:17:10.077'
+      end: '00:17:10.077'
+      u: Ja.
+    - who: David Boder
+      start: '00:17:10.682'
+      end: '00:17:10.682'
+      u: Sind Sie jetzt ein guter Kohlenarbeiter, nicht?
+    - who: Adolph Heisler
+      start: '00:17:13.057'
+      end: '00:17:13.057'
+      u: Ja, ziemlich ein Guter (lacht etwas).
+    - who: David Boder
+      start: '00:17:14.782'
+      end: '00:17:14.782'
+      u: Ja. Nun und ...und dann, hm, wenn Sie sind heraus gekommen von den Minen,
+        was ist dann passiert?
+    - who: Adolph Heisler
+      start: '00:17:23.522'
+      end: '00:17:23.522'
+      u: Wenn wir heraus gekommen sind, hat man uns gezählt, hat jeder geschaut, es
+        fehlt jemand nicht, und dann man uns geführt durchs Lager und dann hat man
+        uns geführt ins Lager. Dann hat man uns gebadet. Jeder hat ...
+    - who: David Boder
+      start: '00:17:33.409'
+      end: '00:17:33.409'
+      u: Jeden Abend?
+    - who: Adolph Heisler
+      start: '00:17:34.397'
+      end: '00:17:34.397'
+      u: Jeden Abend gebadet.
+    - who: David Boder
+      start: '00:17:35.749'
+      end: '00:17:35.749'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:17:36.239'
+      end: '00:17:36.239'
+      u: Das war eine gute Sache, dass wir haben können baden jeden Abend baden. Und
+        nach dem Baden hat man uns ....
+    - who: David Boder
+      start: '00:17:41.718'
+      end: '00:17:41.718'
+      u: Ja?
+    - who: Adolph Heisler
+      start: '00:17:41.931'
+      end: '00:17:41.931'
+      u: "... wir haben bekommen das Nachtessen. Das war ein Stückchen Brot und ein
+        Schale schwarzer Kaffee und dann sind wir alle ins Bett."
+    - who: David Boder
+      start: '00:17:48.338'
+      end: '00:17:48.338'
+      u: Ja. Was für Betten haben Sie gehabt?
+    - who: Adolph Heisler
+      start: '00:17:50.925'
+      end: '00:17:50.925'
+      u: Das waren hölzerne Pritschen, die waren gestapelt, die Betten waren 4 Stock
+        hoch. Auf die Bretter wir geschlafen haben. Jeder ...
+    - who: David Boder
+      start: '00:17:57.580'
+      end: '00:17:57.580'
+      u: Jeder Mensch auf ihren Pritschen?
+    - who: Adolph Heisler
+      start: '00:18:00.009'
+      end: '00:18:00.009'
+      u: Ja, da waren auf .... ungefähr einem (1) Meter haben geschlafen vier, fünf
+        (4, 5) Leut. Das waren ....
+    - who: David Boder
+      start: '00:18:04.952'
+      end: '00:18:04.952'
+      u: Habe Sie Ihre Kleider abgezogen?
+    - who: Adolph Heisler
+      start: '00:18:06.954'
+      end: '00:18:06.954'
+      u: Nein, es war doch zu kalt die Kleider auszuziehen.
+    - who: David Boder
+      start: '00:18:09.838'
+      end: '00:18:09.838'
+      u: Hat man eine Decke gehabt?
+    - who: Adolph Heisler
+      start: '00:18:11.451'
+      end: '00:18:11.451'
+      u: Eine Decke hat man gehabt zu zweit, manchmal auch nicht.
+    - who: David Boder
+      start: '00:18:14.750'
+      end: '00:18:14.750'
+      u: Haben Sie Läuse gehabt?
+    - who: Adolph Heisler
+      start: '00:18:16.392'
+      end: '00:18:16.392'
+      u: Das ist gar keine Frage, wir hatten sehr viel Läuse.
+    - who: David Boder
+      start: '00:18:18.697'
+      end: '00:18:18.697'
+      u: Bitte langsam. Sie hatten viele Läuse?
+    - who: Adolph Heisler
+      start: '00:18:20.718'
+      end: '00:18:20.718'
+      u: Ja.
+    - who: David Boder
+      start: '00:18:22.456'
+      end: '00:18:22.456'
+      u: Also Sie sagen Sie haben Läuse gehabt, aber Sie haben jeden Tag gebadet.
+        Nun?
+    - who: Adolph Heisler
+      start: '00:18:27.681'
+      end: '00:18:27.681'
+      u: Ja, wir haben gebadet, aber es waren Läuse da, leider. Wir haben ... wir
+        haben nicht gehabt genug Seife und in die Pritschen, in diese Betten sind
+        immer geblieben die Läuse. Und wenn wir sind nach Hause gekommen, haben wir
+        uns immer in das Selbe gelegt.
+    - who: David Boder
+      start: '00:18:41.792'
+      end: '00:18:41.792'
+      u: Nun und was hat man dagegen getan?
+    - who: Adolph Heisler
+      start: '00:18:44.383'
+      end: '00:18:44.383'
+      u: Also man hat nichts getan dagegen .... dafür, weil es waren sehr viele Massen
+        von Menschen in den Baracken. In einer Baracke waren zwei, drei hundert (2,
+        300) Leute schon. Und wir haben schon aufgepasst selber, dass sie weg kommen,
+        aber man kann nicht dafür sorgen genug.
+    - who: David Boder
+      start: '00:19:01.757'
+      end: '00:19:01.757'
+      u: Nun und was ist passiert, wenn Einer krank geworden ist?
+    - who: Adolph Heisler
+      start: '00:19:04.940'
+      end: '00:19:04.940'
+      u: Wenn Einer krank geworden ist, hat man ihn weg genommen oder man hat ihm
+        (unverständlich), dass er hat er stirbt schneller. Und wenn nicht ....
+    - who: David Boder
+      start: '00:19:12.048'
+      end: '00:19:12.048'
+      u: Man hat ihm gegeben was?
+    - who: Adolph Heisler
+      start: '00:19:13.551'
+      end: '00:19:13.551'
+      u: Zugestellt hat man, dass sie schneller tot werden.
+    - who: David Boder
+      start: '00:19:15.804'
+      end: '00:19:15.804'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:19:16.050'
+      end: '00:19:16.050'
+      u: Das haben sie auch selbst verlangt, das Leben war nicht gut und es war kein
+        Verlangen gesund zu werden.
+    - who: David Boder
+      start: '00:19:22.630'
+      end: '00:19:22.630'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:19:25.804'
+      end: '00:19:25.804'
+      u: Und wenn Einer so schwer krank war, dass ... das war ein Krankenhaus. Und
+        wenn Einer Wunden hatte, Wunden wenn jemand hat sich zerschlagen selber oder
+        was.
+    - who: David Boder
+      start: '00:19:36.213'
+      end: '00:19:36.213'
+      u: Aha. Nun? Und so haben Sie die ganze Zeit gearbeitet in den ....
+    - who: Adolph Heisler
+      start: '00:19:41.545'
+      end: '00:19:41.545'
+      u: Ja, wir haben gearbeitet, wir haben nicht gehabt einen Samstag oder Sonntag.
+    - who: David Boder
+      start: '00:19:47.196'
+      end: '00:19:47.196'
+      u: Keinen Sonntag?
+    - who: Adolph Heisler
+      start: '00:19:48.322'
+      end: '00:19:48.322'
+      u: Nein, nichts!
+    - who: David Boder
+      start: '00:19:49.206'
+      end: '00:19:49.206'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:19:49.769'
+      end: '00:19:49.769'
+      u: Immer nur arbeiten.
+    - who: David Boder
+      start: '00:19:50.634'
+      end: '00:19:50.634'
+      u: War da ein Feiertag wo Sie nicht gearbeitet haben?
+    - who: Adolph Heisler
+      start: '00:19:54.108'
+      end: '00:19:54.108'
+      u: Ja, es war Neujahr ... da haben wir frei gehabt, ja.
+    - who: David Boder
+      start: '00:19:57.422'
+      end: '00:19:57.422'
+      u: Neujahr.
+    - who: Adolph Heisler
+      start: '00:19:57.942'
+      end: '00:19:57.942'
+      u: Neujahr.
+    - who: David Boder
+      start: '00:19:58.382'
+      end: '00:19:58.382'
+      u: Oder Weihnachten?
+    - who: Adolph Heisler
+      start: '00:20:00.223'
+      end: '00:20:00.223'
+      u: Weihnachten nicht.
+    - who: David Boder
+      start: '00:20:01.273'
+      end: '00:20:01.273'
+      u: Aber Neujahr, ja.
+    - who: Adolph Heisler
+      start: '00:20:02.046'
+      end: '00:20:02.046'
+      u: Neujahr, ja.
+    - who: David Boder
+      start: '00:20:02.921'
+      end: '00:20:02.921'
+      u: So was haben Sie an diesem Tag getan?
+    - who: Adolph Heisler
+      start: '00:20:05.106'
+      end: '00:20:05.106'
+      u: Was wir ... da waren immer drei (3) Schichten. Ich habe immer gearbeitet
+        die Mittagschicht. So sind wir aufgestanden um acht (8) Uhr morgens ...
+    - who: David Boder
+      start: '00:20:12.494'
+      end: '00:20:12.494'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:20:12.747'
+      end: '00:20:12.747'
+      u: Und wir haben sich gewaschen und wir haben bekommen eine Kaffee, einen schwarzen
+        Kaffee und bis Mittags hat man sich herum gedreht.
+    - who: David Boder
+      start: '00:20:21.428'
+      end: '00:20:21.428'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:20:21.625'
+      end: '00:20:21.625'
+      u: Und dann bin ich ... ich war noch jung und ich war (unverständlich) und ich
+        konnte mich selber halten, so bin ich in einen Block ausfegen geholfen. Und
+        ich hab gehabt ein wenig Protektion von dem Block Ältesten und hab bekommen
+        immer noch ein wenig Supp dazu.
+    - who: David Boder
+      start: '00:20:35.561'
+      end: '00:20:35.561'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:20:35.656'
+      end: '00:20:35.656'
+      u: Und das hat mich immer gehalten eine Weil.
+    - who: David Boder
+      start: '00:20:37.572'
+      end: '00:20:37.572'
+      u: Aha. Sie haben aber dafür gearbeitet.
+    - who: Adolph Heisler
+      start: '00:20:39.332'
+      end: '00:20:39.332'
+      u: Ja, dafür gearbeitet in dem Lager.
+    - who: David Boder
+      start: '00:20:41.954'
+      end: '00:20:41.954'
+      u: Aha. Nun dann?
+    - who: Adolph Heisler
+      start: '00:20:44.269'
+      end: '00:20:44.269'
+      u: Und dann ist gekommen ....
+    - who: David Boder
+      start: '00:20:44.966'
+      end: '00:20:44.966'
+      u: Sind Sie acht (8) Kilometer jeden Tag gegangen zur Arbeit?
+    - who: Adolph Heisler
+      start: '00:20:48.675'
+      end: '00:20:48.675'
+      u: Nein, die Arbeit war nicht so weit weg. Es waren drei (3) Kilometer.
+    - who: David Boder
+      start: '00:20:51.706'
+      end: '00:20:51.706'
+      u: Drei (3) Kilometer hin.
+    - who: Adolph Heisler
+      start: '00:20:52.637'
+      end: '00:20:52.637'
+      u: Ja.
+    - who: David Boder
+      start: '00:20:52.720'
+      end: '00:20:52.720'
+      u: Und drei (3) Kilometer zurück.
+    - who: Adolph Heisler
+      start: '00:20:53.939'
+      end: '00:20:53.939'
+      u: Ja.
+    - who: David Boder
+      start: '00:20:54.529'
+      end: '00:20:54.529'
+      u: Bitte weiter.
+    - who: Adolph Heisler
+      start: '00:20:55.458'
+      end: '00:20:55.458'
+      u: Und um 11 Uhr hat man Mittag gegessen und da bekommt ein Jeder einen (1)
+        Liter Supp ... und dann sind wir hinunter gegangen zu die Arbeit. Und wir
+        sind vorbei bei dem Detail, dem Kommando bewacht bei der SS und bis zum runter
+        gehen.
+    - who: David Boder
+      start: '00:21:07.639'
+      end: '00:21:07.639'
+      u: Haben Sie gesungen, wie sie sind zur Arbeit?
+    - who: Adolph Heisler
+      start: '00:21:09.867'
+      end: '00:21:09.867'
+      u: Nein, (unverständlich) gesungen auch ohne unserem Singen.
+    - who: David Boder
+      start: '00:21:13.539'
+      end: '00:21:13.539'
+      u: Also, was meinen Sie damit?
+    - who: Adolph Heisler
+      start: '00:21:15.767'
+      end: '00:21:15.767'
+      u: Es war nicht in unserem Sinn zu singen.
+    - who: David Boder
+      start: '00:21:17.535'
+      end: '00:21:17.535'
+      u: Ja, aber man sagte, die SS hat es verlangt.
+    - who: Adolph Heisler
+      start: '00:21:19.845'
+      end: '00:21:19.845'
+      u: Von uns haben sie es nicht verlangt. Es waren Lager, da haben es verlangt,
+        aber nur um Spaß zu machen, aber nicht von uns.
+    - who: David Boder
+      start: '00:21:26.643'
+      end: '00:21:26.643'
+      u: Aha.
+    - who: Adolph Heisler
+      start: '00:21:27.105'
+      end: '00:21:27.105'
+      u: 'Sie haben nur geschrien ..., wenn die Leut sind gefallen auf die Füß, haben
+        sie geschrien: „Links zwei, links zwei“ um zu halten Schritt.'
+    - who: David Boder
+      start: '00:21:33.472'
+      end: '00:21:33.472'
+      u: Nun und dann?
+    - who: Adolph Heisler
+      start: '00:21:35.764'
+      end: '00:21:35.764'
+      u: Und dann sind wir runter gefahren. Da unten hat jeder gewusst seinen Arbeitsplatz.
+    - who: David Boder
+      start: '00:21:40.013'
+      end: '00:21:40.013'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:21:40.328'
+      end: '00:21:40.328'
+      u: Also wir sind gekommen. Die Arbeit war in die .... in die Stege, Träger.
+        Das heißt die Kohlen .... es war sechzig (60) Meter hoch. Das heißt wir müssen
+        arbeiten abgebogen ... sechzig (60) Zentimeter ..
+    - who: David Boder
+      start: '00:21:53.080'
+      end: '00:21:53.080'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:21:53.567'
+      end: '00:21:53.567'
+      u: ".... hoch. Und da müssen wir liegend arbeiten die acht (8) Stunden."
+    - who: David Boder
+      start: '00:21:57.448'
+      end: '00:21:57.448'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:21:57.878'
+      end: '00:21:57.878'
+      u: Und zwar die Schaufeln darüber. Und das hat gedauert acht (8) Stunden ohne
+        ... ohne nichts. Also wir haben gearbeitet acht (8) Stunden, in acht (8) Stunden
+        war Arbeitsschluss, da sind die Anderen gekommen und wir sind weg gegangen
+        und wir sind ins Lager and wie ich hab gesagt, wir haben sich gebadet und
+        sind weiter ins Bett gegangen.
+    - who: David Boder
+      start: '00:22:19.352'
+      end: '00:22:19.352'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:22:19.990'
+      end: '00:22:19.990'
+      u: Und das hat so gedauert bis tausend neun .... bis vier und vierzig (44).
+    - who: David Boder
+      start: '00:22:23.880'
+      end: '00:22:23.880'
+      u: Also Sie haben mir gesagt, Sie haben Neujahr einen Tag frei gehabt.
+    - who: Adolph Heisler
+      start: '00:22:27.260'
+      end: '00:22:27.260'
+      u: Ja.
+    - who: David Boder
+      start: '00:22:27.517'
+      end: '00:22:27.517'
+      u: Was hat man an dem Tag getan?
+    - who: Adolph Heisler
+      start: '00:22:29.759'
+      end: '00:22:29.759'
+      u: Was? Man hat sich ausgeschlafen. Wir haben uns gefreut, man kann sich ausruhen.
+    - who: David Boder
+      start: '00:22:34.113'
+      end: '00:22:34.113'
+      u: Ja. Nun?
+    - who: Adolph Heisler
+      start: '00:22:34.833'
+      end: '00:22:34.833'
+      u: Jeder hat geschlafen den ganzen Tag.
+    - who: David Boder
+      start: '00:22:37.075'
+      end: '00:22:37.075'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:22:37.359'
+      end: '00:22:37.359'
+      u: Das haben wir getan.
+    - who: David Boder
+      start: '00:22:39.956'
+      end: '00:22:39.956'
+      u: Also und das hat gedauert wie lang?
+    - who: Adolph Heisler
+      start: '00:22:42.116'
+      end: '00:22:42.116'
+      u: Das hat gedauert bis .... ich glaube fünf und vierzig (45). Da sind die Russen
+        ....
+    - who: David Boder
+      start: '00:22:46.716'
+      end: '00:22:46.716'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:22:47.073'
+      end: '00:22:47.073'
+      u: Im Dezember vier und vierzig (44) sind die Russen über Nacht herein gekommen
+        und wir haben angefangen zu ... hm, weg zu gehen von dort. Dann haben wir
+        verlassen die Kohlengruben .und .....
+    - who: David Boder
+      start: '00:22:56.813'
+      end: '00:22:56.813'
+      u: Was meinen Sie, wer hat verlassen? Man hat Sie weggeführt?
+    - who: Adolph Heisler
+      start: '00:22:58.508'
+      end: '00:22:58.508'
+      u: Ja, weg genommen.
+    - who: David Boder
+      start: '00:22:59.592'
+      end: '00:22:59.592'
+      u: Nun und wohin hat man Sie geführt?
+    - who: Adolph Heisler
+      start: '00:23:01.496'
+      end: '00:23:01.496'
+      u: Also wir wurden gebracht, wir mussten zu Fuß gehen.
+    - who: David Boder
+      start: '00:23:04.626'
+      end: '00:23:04.626'
+      u: Was haben die getan mit den Kohlengruben? Haben sie die Minen .....
+    - who: Adolph Heisler
+      start: '00:23:07.053'
+      end: '00:23:07.053'
+      u: Zugemacht.
+    - who: David Boder
+      start: '00:23:07.866'
+      end: '00:23:07.866'
+      u: Ja, zugemacht.
+    - who: Adolph Heisler
+      start: '00:23:08.813'
+      end: '00:23:08.813'
+      u: Also wir waren acht (8) Kilometer von Auschwitz und da haben wir gesehen,
+        wie Auschwitz verbrennt. Die haben alles angezündet, sie sind durch das ganze
+        Lager durch, beim Appell und haben zerschlagen alles. Und wir sind gegangen
+        zu Fuß und also jeder hat sich genommen in den paar letzten Minuten mit dem
+        Rücken zum Feuer genommen Brot und alles Mögliche, weil alles war offen und
+        so hat jeder ....
+    - who: David Boder
+      start: '00:23:28.488'
+      end: '00:23:28.488'
+      u: Also sie konnten Brot stehlen?
+    - who: Adolph Heisler
+      start: '00:23:29.671'
+      end: '00:23:29.671'
+      u: Ja.
+    - who: David Boder
+      start: '00:23:30.250'
+      end: '00:23:30.250'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:23:30.838'
+      end: '00:23:30.838'
+      u: Und jeder hat sich genommen ein Brot. Man hat sich tot geschlagen nach einem
+        Stückchen Brot.
+    - who: David Boder
+      start: '00:23:35.852'
+      end: '00:23:35.852'
+      u: Nun.
+    - who: Adolph Heisler
+      start: '00:23:36.359'
+      end: '00:23:36.359'
+      u: Und wir sind gegangen auf dem Weg. Es war Schnee von fünfzig Zentimeter,
+        einen halben (½) Meter hat es geschneit.
+    - who: David Boder
+      start: '00:23:42.851'
+      end: '00:23:42.851'
+      u: Langsam, ja.
+    - who: Adolph Heisler
+      start: '00:23:44.665'
+      end: '00:23:44.665'
+      u: Und wir waren da nicht gut angezogen und natürlich haben wir da sehr schnell
+        gehen müssen, weil sie haben Angst gehabt vor den Russen, dass die Russen
+        werden uns erwischen.
+    - who: David Boder
+      start: '00:23:53.771'
+      end: '00:23:53.771'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:23:54.393'
+      end: '00:23:54.393'
+      u: Und wir haben gewusst ...
+    - who: David Boder
+      start: '00:23:55.945'
+      end: '00:23:55.945'
+      u: Warum haben sie nicht gewollt die Russen sollen die Häftlinge nehmen?
+    - who: Adolph Heisler
+      start: '00:23:59.615'
+      end: '00:23:59.615'
+      u: Warum? Warum, weil sie haben Angst gehabt, dass wir ihnen das erzählen, die
+        ganze Geschichten, so dass die ganze Welt weiß das. Jetzt weiß die ganzen
+        Geschichten die Welt, ... aber damals haben sie uns benutzt, um zu arbeiten.
+        Dann haben sie uns transportiert nach Buchenwald.
+    - who: David Boder
+      start: '00:24:15.213'
+      end: '00:24:15.213'
+      u: Aha. Also sind sie gegangen. Wie weit sind Sie gegangen?
+    - who: Adolph Heisler
+      start: '00:24:18.260'
+      end: '00:24:18.260'
+      u: Wir sind gegangen einhundert vierzig (140) Kilometer zu Fuß. Das war in 2
+        Tagen.
+    - who: David Boder
+      start: '00:24:22.697'
+      end: '00:24:22.697'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:24:23.315'
+      end: '00:24:23.315'
+      u: Und eine Nacht haben wir geschlafen, weil die SS haben auch nicht mehr gehen
+        können. Die waren gesund, aber die auch nicht mehr Kraft gehabt nach achtzig
+        (80) Kilometer.
+    - who: David Boder
+      start: '00:24:33.473'
+      end: '00:24:33.473'
+      u: Langsam.
+    - who: Adolph Heisler
+      start: '00:24:34.733'
+      end: '00:24:34.733'
+      u: Und nach achtzig (80) Kilometer sind wir angekommen und sie haben uns genommen
+        auf ein Feld ...
+    - who: David Boder
+      start: '00:24:40.472'
+      end: '00:24:40.472'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:24:40.786'
+      end: '00:24:40.786'
+      u: "... von Schnee und dort hat man angefangen zu schießen und da haben sie
+        gesagt, alle sollen sich hin legen, weil sie haben nicht wollen, dass man
+        noch steht."
+    - who: David Boder
+      start: '00:24:49.542'
+      end: '00:24:49.542'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:24:49.669'
+      end: '00:24:49.669'
+      u: Es war keine ... es war kein Platz zum Stehen auf dem Feld. Und sie haben
+        gesagt sich hin legen. Und dann haben sie angefangen zu schreien. Und Einer
+        ist auf den Anderen gefallen, weil sie haben geschossen über die Köpfe. Viele
+        sind damals gefallen.
+    - who: David Boder
+      start: '00:25:02.992'
+      end: '00:25:02.992'
+      u: Warum haben sie wollen, man soll sich hin legen?
+    - who: Adolph Heisler
+      start: '00:25:05.180'
+      end: '00:25:05.180'
+      u: Sie haben alle Phantasien im Kopf.
+    - who: David Boder
+      start: '00:25:07.385'
+      end: '00:25:07.385'
+      u: Und?
+    - who: Adolph Heisler
+      start: '00:25:08.199'
+      end: '00:25:08.199'
+      u: Und alle sind hin gelegt und hat geschneit und ein großer Frost war. Die
+        Nacht war schrecklich kalt. Ich habe mich selbst gewundert, wie ich habe das
+        ausgehalten – eine ganze Nacht. Ich bin in den Schnee reingefallen und dann
+        hab ich geschlafen. Dann in der Früh bin ich auf ganz nass, weil der Schnee
+        hat geschmolzen. Ich wundere mich heute, wie ich hab durch diese Nacht gekommen.
+        Und morgens sind wir aufgestanden und die, hm, .... fünfzig (50) Perzent sind
+        geblieben liegen da im dem Schnee. Und wir, die sind über geblieben haben
+        müssen sie dort begraben, und ausgraben Graben zum Begraben und dann sind
+        wir weiter gegangen.
+    - who: David Boder
+      start: '00:25:47.896'
+      end: '00:25:47.896'
+      u: Mit was haben Sie ausgegraben da?
+    - who: Adolph Heisler
+      start: '00:25:49.629'
+      end: '00:25:49.629'
+      u: Sie haben ... sie haben gehabt Werkzeuge.
+    - who: David Boder
+      start: '00:25:52.119'
+      end: '00:25:52.119'
+      u: Sie haben gebracht Werkzeuge?
+    - who: Adolph Heisler
+      start: '00:25:52.860'
+      end: '00:25:52.860'
+      u: Ja.
+    - who: David Boder
+      start: '00:25:53.540'
+      end: '00:25:53.540'
+      u: Und mit die, die da gelegen sind und die nicht tot waren, was hat man da
+        getan?
+    - who: Adolph Heisler
+      start: '00:25:57.692'
+      end: '00:25:57.692'
+      u: Also wir haben sie gemusst begraben.
+    - who: David Boder
+      start: '00:26:00.478'
+      end: '00:26:00.478'
+      u: Die Lebendigen?
+    - who: Adolph Heisler
+      start: '00:26:02.336'
+      end: '00:26:02.336'
+      u: Nein, die Lebendigen haben begraben die Toten.
+    - who: David Boder
+      start: '00:26:05.156'
+      end: '00:26:05.156'
+      u: Ja, aber wenn das welche waren, die Kranke waren?
+    - who: Adolph Heisler
+      start: '00:26:07.130'
+      end: '00:26:07.130'
+      u: Hat man auch lebendig, lebendig geworfen in das Grab. Wer hat nicht gekonnt
+        gehen, hat man geschossen und in das Grab rein.
+    - who: David Boder
+      start: '00:26:13.551'
+      end: '00:26:13.551'
+      u: Erschossen und in das Grab.
+    - who: Adolph Heisler
+      start: '00:26:15.599'
+      end: '00:26:15.599'
+      u: Ja, aber viele Menschen waren schon am Weg, die konnten nicht gehen, sie
+        haben sich genommen ein Betttuch über den Kopf gelegt und sich hin gesetzt
+        ...
+    - who: David Boder
+      start: '00:26:22.258'
+      end: '00:26:22.258'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:26:22.437'
+      end: '00:26:22.437'
+      u: "... und der SS Mann ist gekommen und hat ihn zugeschossen."
+    - who: David Boder
+      start: '00:26:25.678'
+      end: '00:26:25.678'
+      u: Hat er wenigstens gesehen, ob der Mann tot war, nachdem er ihn erschossen
+        hat?
+    - who: Adolph Heisler
+      start: '00:26:28.669'
+      end: '00:26:28.669'
+      u: Wenn er ist nicht tot gewesen ist er so geblieben. Und haben gewartet bis
+        er gestorben war.
+    - who: David Boder
+      start: '00:26:33.713'
+      end: '00:26:33.713'
+      u: Hm, nun?
+    - who: Adolph Heisler
+      start: '00:26:36.231'
+      end: '00:26:36.231'
+      u: Und am anderen Tag nachdem wir haben sie begraben, sind wir dann weiter gegangen.
+        Sie haben uns gesagt, wir haben noch fünfzig (50) Kilometer bis zu einem Zug.
+        Und dort können wir einsteigen in den Zug, denn hier haben sie keine freie
+        (unverständlich)
+    - who: David Boder
+      start: '00:26:47.289'
+      end: '00:26:47.289'
+      u: Ein Moment! Also weiter. Es waren fünfzig (50) Kilometer bis zum Zug.
+    - who: Adolph Heisler
+      start: '00:26:51.137'
+      end: '00:26:51.137'
+      u: Ja und wir sind auch diese fünfzig (50) Kilometer gegangen zu Fuß. Viele
+        Leute sind gefallen auf dem Weg, weil sie haben nicht .... nicht mehr gekonnt
+        zu gehen. Sie würden erschossen auf dem Weg und gerade so lassen sie liegen
+        auf dem Weg. Und wir, wer noch kann zu gehen, wir sind dorthin gekommen auf
+        den Bahnhof, das war in Breslau, glaube ich. Und dort haben wir gewartet auf
+        Wagons. Und in einigen Stunden sind – wo wir gesessen haben im Schnee – in
+        einigen Stunden sind gekommen Wagonen und wir sind eingestiegen in die Wagons.
+        Aber die Wagons waren auch schrecklich, weil die Wagons waren oben ganz offen
+        ohne Dächer. Es waren die halben Wagonen. Und dort war sehr viel Schnee und
+        wir haben ... wir mussten uns in den Schnee setzen.
+    - who: David Boder
+      start: '00:27:33.839'
+      end: '00:27:33.839'
+      u: Die Wagonen innen haben Schnee gehabt?
+    - who: Adolph Heisler
+      start: '00:27:35.884'
+      end: '00:27:35.884'
+      u: Ja, weil sie waren ohne Dächer.
+    - who: David Boder
+      start: '00:27:37.822'
+      end: '00:27:37.822'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:27:38.456'
+      end: '00:27:38.456'
+      u: Und wir sind also gesessen im Schnee. Und die Fahrt hat gedauert acht (8)
+        Tage bis nach Buchenwald. Wir haben nicht gewusst ...
+    - who: David Boder
+      start: '00:27:46.103'
+      end: '00:27:46.103'
+      u: Waren welchen SS mit Ihnen in den Wagonen?
+    - who: Adolph Heisler
+      start: '00:27:48.476'
+      end: '00:27:48.476'
+      u: Ja, da war ein SS Mann in jedem Wagon.
+    - who: David Boder
+      start: '00:27:50.191'
+      end: '00:27:50.191'
+      u: Und ist der SS Mann selbst auch gestanden im Schnee?
+    - who: Adolph Heisler
+      start: '00:27:52.888'
+      end: '00:27:52.888'
+      u: Ja, aber er war doch gut angezogen.
+    - who: David Boder
+      start: '00:27:54.755'
+      end: '00:27:54.755'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:27:55.123'
+      end: '00:27:55.123'
+      u: Und zwei Mal am Tag hat die Wache und jede Station hat ein Anderer aufgetreten.
+    - who: David Boder
+      start: '00:28:00.891'
+      end: '00:28:00.891'
+      u: Aha.
+    - who: Adolph Heisler
+      start: '00:28:01.253'
+      end: '00:28:01.253'
+      u: Und am Ende waren zwei (2) Wagon, die waren geheizt.
+    - who: David Boder
+      start: '00:28:05.287'
+      end: '00:28:05.287'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:28:05.481'
+      end: '00:28:05.481'
+      u: Und die SS hat dort gewohnt.
+    - who: David Boder
+      start: '00:28:07.218'
+      end: '00:28:07.218'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:28:07.509'
+      end: '00:28:07.509'
+      u: Und sie haben immer die Wache getauscht.
+    - who: David Boder
+      start: '00:28:09.342'
+      end: '00:28:09.342'
+      u: Nun, hat man nicht, wenn man so viel Tage zusammen ist, hat man nicht mit
+        der SS geredet, haben Sie nicht mit ihm gesprochen? Hat er mit sich selbst
+        geredet?
+    - who: Adolph Heisler
+      start: '00:28:16.820'
+      end: '00:28:16.820'
+      u: Ja, er hat gesagt .... es war ein Guter, der hat gewollt reden. Und dann
+        war ein Schlechter, der war böse und hat genommen das Gewehr und hat geschlagen,
+        wenn man was gesagt .....
+    - who: David Boder
+      start: '00:28:24.964'
+      end: '00:28:24.964'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:28:25.036'
+      end: '00:28:25.036'
+      u: "....das war die Antwort, wenn man sich getraut hat den Mund aufmachen zu
+        dürfen."
+    - who: David Boder
+      start: '00:28:29.013'
+      end: '00:28:29.013'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:28:29.455'
+      end: '00:28:29.455'
+      u: Das haben sie gemacht im Lager auch. Ein Häftling ist gegangen und hat er
+        ihn gegrüßt, dann hat er zu ihm gesagt, ob er sein Kamerad sei, dass er grüßt
+        ihn. Hat er nicht gegrüßt, hat er gesagt, warum er grüßt ihn nicht. So hat
+        er ihn auch geschlagen. Da hat man selbst nicht gewusst, was zu machen.
+    - who: David Boder
+      start: '00:28:46.183'
+      end: '00:28:46.183'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:28:46.320'
+      end: '00:28:46.320'
+      u: Wenn es war ein Guter und er hat geredet, dann hat man ihn gefragt, wo man
+        führt uns hin.
+    - who: David Boder
+      start: '00:28:50.044'
+      end: '00:28:50.044'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:28:50.432'
+      end: '00:28:50.432'
+      u: Und er hat gesagt, er weiß das selbst nicht. Eben er hat auch einen Befehl
+        vom (unverständlich) bekommen und mehr und wohin weiß er auch nicht.
+    - who: David Boder
+      start: '00:28:58.875'
+      end: '00:28:58.875'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:28:59.225'
+      end: '00:28:59.225'
+      u: Also dann haben wir gesehen, dass wir kommen nach Buchenwald – wie wir sind
+        angekommen.
+    - who: David Boder
+      start: '00:29:02.859'
+      end: '00:29:02.859'
+      u: Ja?
+    - who: Adolph Heisler
+      start: '00:29:03.058'
+      end: '00:29:03.058'
+      u: Das war nach acht (8) Tagen auf dem Zug gefahren ...
+    - who: David Boder
+      start: '00:29:06.712'
+      end: '00:29:06.712'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:29:07.749'
+      end: '00:29:07.749'
+      u: "...wir sind nach Buchenwald und wir waren noch sehr schwach so von der Reise."
+    - who: David Boder
+      start: '00:29:11.920'
+      end: '00:29:11.920'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:29:12.405'
+      end: '00:29:12.405'
+      u: Mir selbst hat es den Kopf auch verdreht nach dem Bad. Wir haben uns dort
+        selbst gebadet, weil sie haben die Deutschen, die gekommen sind, in ein anderes
+        Lager ... hat man gebadet.
+    - who: David Boder
+      start: '00:29:22.878'
+      end: '00:29:22.878'
+      u: Nun, also was soll das bedeuten.....
+    - who: Adolph Heisler
+      start: '00:29:23.501'
+      end: '00:29:23.501'
+      u: Zur Desinfektion.
+    - who: David Boder
+      start: '00:29:24.113'
+      end: '00:29:24.113'
+      u: "... und Sie sagen Ihr Kopf war verdreht?"
+    - who: Adolph Heisler
+      start: '00:29:25.300'
+      end: '00:29:25.300'
+      u: Ja, ich hab mich da selbst .... ich bin nicht zu mir da selbst gekommen.
+    - who: David Boder
+      start: '00:29:28.273'
+      end: '00:29:28.273'
+      u: Was soll das heißen?
+    - who: Adolph Heisler
+      start: '00:29:29.403'
+      end: '00:29:29.403'
+      u: Ich war schwach geworden nach dem Baden. Ich war sehr schwach und habe ein
+        heißes Bad bekommen....
+    - who: David Boder
+      start: '00:29:34.864'
+      end: '00:29:34.864'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:29:34.992'
+      end: '00:29:34.992'
+      u: "... und das hat mich, mein Beine zerstört, denn ich war doch ganz erfroren."
+    - who: David Boder
+      start: '00:29:38.911'
+      end: '00:29:38.911'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:29:39.088'
+      end: '00:29:39.088'
+      u: Ich hab kaum können zum Bad zu gehen.
+    - who: David Boder
+      start: '00:29:41.919'
+      end: '00:29:41.919'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:29:42.293'
+      end: '00:29:42.293'
+      u: Und danach bin ich ... nach dem heißen Bad, hat es mir den Kopf verdreht.
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:29:45.757'
+      end: '00:29:45.757'
+      u: Also, dann habe ich mich ein wenig hin gesetzt und bin zu mir ein bisschen
+        gekommen.
+    - who: David Boder
+      start: '00:29:49.799'
+      end: '00:29:49.799'
+      u: Aha.
+    - who: Adolph Heisler
+      start: '00:29:50.183'
+      end: '00:29:50.183'
+      u: Und dann hat man und dann geschickt.... nach dem Bad wieder geschickt und
+        die Haare wurden noch einmal abgeschoren alles. Die ganzen Haare abgeschoren,
+        ja, .... und dann hat man uns geführt in Blocken in die Baracken. Und dort
+        waren wir einige ... zwei (2) Tage in den Baracken. Und dann haben wir gehört,
+        wir gehen wieder in die Arbeit - irgendwo anderen Platz. Und auf dem anderen
+        Platz hat man uns heraus getrieben einen Morgen Tag in den Schnee (unverständlich).
+        Und man hat uns nicht gesagt wohin man geht und das war auch ein kalter Tag
+        und man hat uns hinaus gepackt in Wagons. Und wir sind gefahren einen Tag,
+        es war gut, dass es war nicht mehr.
+    - who: David Boder
+      start: '00:30:31.291'
+      end: '00:30:31.291'
+      u: Wieder von Buchenwald?
+    - who: Adolph Heisler
+      start: '00:30:32.432'
+      end: '00:30:32.432'
+      u: Von Buchenwald, Deutschland zu einem anderen ... das war in Thüringen.
+    - who: David Boder
+      start: '00:30:36.309'
+      end: '00:30:36.309'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:30:36.993'
+      end: '00:30:36.993'
+      u: Trawniki.
+    - who: David Boder
+      start: '00:30:37.854'
+      end: '00:30:37.854'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:30:38.539'
+      end: '00:30:38.539'
+      u: Und wir sind angekommen im Lager. Also das war noch viel ärger wie die Kohlengruben.
+    - who: David Boder
+      start: '00:30:43.867'
+      end: '00:30:43.867'
+      u: Ja?
+    - who: Adolph Heisler
+      start: '00:30:44.230'
+      end: '00:30:44.230'
+      u: Das war ein Lager in (unverständlich) und dort waren Depots von Munition
+        und im Keller haben wir gewohnt – unter die Erde in Bunkern.
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:30:52.671'
+      end: '00:30:52.671'
+      u: In einem Wald.
+    - who: David Boder
+      start: '00:30:53.783'
+      end: '00:30:53.783'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:30:54.001'
+      end: '00:30:54.001'
+      u: Und dort war das ... das Behandeln noch viel ärger wie überall.
+    - who: David Boder
+      start: '00:30:58.014'
+      end: '00:30:58.014'
+      u: Warum?
+    - who: Adolph Heisler
+      start: '00:30:59.321'
+      end: '00:30:59.321'
+      u: Weil da hat man nicht gebadet. In anderen Lagern da konnte man da vielleicht
+        noch baden. Wir haben kein Wasser gehabt. Das hat gedauert – in 3 Monaten
+        also wir haben nicht gehabt kein Wasser auf dem Gesicht überhaupt – für waschen
+        sich. Und die Läuse haben uns aufgegessen im Ganzen.
+    - who: David Boder
+      start: '00:31:14.703'
+      end: '00:31:14.703'
+      u: Und was haben Sie dort denn getan?
+    - who: Adolph Heisler
+      start: '00:31:16.542'
+      end: '00:31:16.542'
+      u: Gearbeitet, gegraben verschiedene Graben, Munition geladen.
+    - who: David Boder
+      start: '00:31:21.040'
+      end: '00:31:21.040'
+      u: Aha.
+    - who: Adolph Heisler
+      start: '00:31:21.573'
+      end: '00:31:21.573'
+      u: Und sie haben gebaut eine große Fabrik in einem ... unter dem Wald.
+    - who: David Boder
+      start: '00:31:25.800'
+      end: '00:31:25.800'
+      u: Schon in fünf und vierzig (45)?
+    - who: Adolph Heisler
+      start: '00:31:27.069'
+      end: '00:31:27.069'
+      u: In fünf und vierzig (45).
+    - who: David Boder
+      start: '00:31:27.601'
+      end: '00:31:27.601'
+      u: Eine unterirdische Fabrik ....
+    - who: Adolph Heisler
+      start: '00:31:29.020'
+      end: '00:31:29.020'
+      u: Ja.
+    - who: David Boder
+      start: '00:31:29.281'
+      end: '00:31:29.281'
+      u: "... haben sie gebaut. Nun?"
+    - who: Adolph Heisler
+      start: '00:31:31.670'
+      end: '00:31:31.670'
+      u: Und dort war es doch was Schreckliches. Ich habe dort unterhalten mit Leuten,
+        sie waren Einige von Polen, die waren sechs (6) Jahre schon darin. Haben sie
+        gesagt, dass sie in die ärgsten Lager so wie Majdanek, Treblinka waren, aber
+        in so einem Lager waren sie noch nicht.
+    - who: David Boder
+      start: '00:31:48.197'
+      end: '00:31:48.197'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:31:48.944'
+      end: '00:31:48.944'
+      u: Und dort waren wir ... und dann bin ich auch noch krank geworden von die
+        vielen Läuse – die letzten zwei (2) Woche bevor die Befreiung.
+    - who: David Boder
+      start: '00:31:57.961'
+      end: '00:31:57.961'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:31:58.913'
+      end: '00:31:58.913'
+      u: Und dort bin ich krank geworden und bin ich ganze Zeit beim Arzt – acht (8)
+        Tage. Ich bin hingegangen jeden Abend und hab gesagt, ich kann nicht arbeiten,
+        aber er wollte mir nicht glauben.
+    - who: David Boder
+      start: '00:32:07.923'
+      end: '00:32:07.923'
+      u: War es ein jüdischer Arzt?
+    - who: Adolph Heisler
+      start: '00:32:09.164'
+      end: '00:32:09.164'
+      u: Ja.
+    - who: David Boder
+      start: '00:32:09.752'
+      end: '00:32:09.752'
+      u: Ja?
+    - who: Adolph Heisler
+      start: '00:32:10.238'
+      end: '00:32:10.238'
+      u: Von Polen, ein Jude. Das war ein sehr ein Schlechter. Da waren unter die
+        Juden auch sehr schlechte Menschen, weil sie haben sehr .... sehr gemeine
+        Leute.
+    - who: David Boder
+      start: '00:32:19.959'
+      end: '00:32:19.959'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:32:21.341'
+      end: '00:32:21.341'
+      u: Und hat er mich dann.... er hat mich geschoben, ich war damals jung – ich
+        war siebzehn (17) Jahre alt – und er hat mich dann gegeben ins Spital, das
+        im Revier. Dort war ich acht (8) Tage. Da hat man mich geschickt dann - mit
+        einem Transport auch nach (unverständlich).
+    - who: David Boder
+      start: '00:32:41.606'
+      end: '00:32:41.606'
+      u: Wo waren die Krematorien denn?
+    - who: Adolph Heisler
+      start: '00:32:43.296'
+      end: '00:32:43.296'
+      u: Das war in der Nähe – acht (8) Kilometer weiter von dort war auch ein Lager,
+        ein großes Lager Ohrdorf. Und dort haben sie auch gehabt ein Krematorium hergerichtet.
+    - who: David Boder
+      start: '00:32:53.183'
+      end: '00:32:53.183'
+      u: Haben sie dort die Leute vergast?
+    - who: Adolph Heisler
+      start: '00:32:55.600'
+      end: '00:32:55.600'
+      u: Nein, sie haben sie nur getötet, aus .... sie waren sowieso schon halb tot.
+        Sie haben sie tot geschlagen mit Gewehr oder was sonst, hm, ......................
+        aber das war unser Glück, dass die Amerikaner sind schon ....
+    - who: David Boder
+      start: '00:33:10.227'
+      end: '00:33:10.227'
+      u: Nun wo waren Sie, wenn die Amerikaner sind gekommen?
+    - who: Adolph Heisler
+      start: '00:33:14.314'
+      end: '00:33:14.314'
+      u: Wir waren da in diesem .....in diesem Lager, wo man hat uns genommen zum
+        Pulver .... zum Vergasen. Und wir ....
+    - who: David Boder
+      start: '00:33:21.517'
+      end: '00:33:21.517'
+      u: Was heißt das Lager ... welches Lager war das?
+    - who: Adolph Heisler
+      start: '00:33:23.654'
+      end: '00:33:23.654'
+      u: Das war in Ohrdorf. Nachdem ich krank war, hat man mich weg geführt von dort.
+    - who: David Boder
+      start: '00:33:27.508'
+      end: '00:33:27.508'
+      u: Wohin?
+    - who: Adolph Heisler
+      start: '00:33:28.617'
+      end: '00:33:28.617'
+      u: Acht (8) Kilometer weiter war das Lager wo die Leute sollen .... war ein
+        Krematorium. Die Leute waren... die dort hin kamen waren viele krank, weil
+        .... es war schrecklich dort ...
+    - who: David Boder
+      start: '00:33:37.342'
+      end: '00:33:37.342'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:33:38.527'
+      end: '00:33:38.527'
+      u: Die hat man getötet und verbrannt.
+    - who: David Boder
+      start: '00:33:41.979'
+      end: '00:33:41.979'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:33:43.298'
+      end: '00:33:43.298'
+      u: Und ... und wie wir sind gekommen schon, das war schon der letzte Transport.
+        Sie haben nicht mehr Zeit gehabt, dass ... dafür. Sie waren schon mit sich
+        selbst zu tun, weil die Amerikaner haben sich schon genähert da.
+    - who: David Boder
+      start: '00:33:53.778'
+      end: '00:33:53.778'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:33:54.593'
+      end: '00:33:54.593'
+      u: Und wir sind hier gelegen wieder acht (8) Tage. Und es hat geheißen, dass
+        wir bleiben dort bis sie erschießen die ganzen Leute, aufschießen oder explodieren
+        das Lager, oder was immer.
+    - who: David Boder
+      start: '00:34:09.145'
+      end: '00:34:09.145'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:34:09.650'
+      end: '00:34:09.650'
+      u: Und zum Glück hat man uns genommen nach, hm, ... transportiert nach Buchenwald.
+    - who: David Boder
+      start: '00:34:16.182'
+      end: '00:34:16.182'
+      u: Zurück transportiert nach Buchenwald?
+    - who: Adolph Heisler
+      start: '00:34:16.942'
+      end: '00:34:16.942'
+      u: Ja, aber ...
+    - who: David Boder
+      start: '00:34:18.443'
+      end: '00:34:18.443'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:34:19.029'
+      end: '00:34:19.029'
+      u: Es war aber ein besonderes Glück mit mir, dass – ich weiß nicht – wie ich
+        das (unverständlich) die ganze Geschichte, weil .... uns alle hat man transportiert
+        mit die Wagon, .....mit ....... zu Fuß.
+    - who: David Boder
+      start: '00:34:31.977'
+      end: '00:34:31.977'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:34:32.161'
+      end: '00:34:32.161'
+      u: Und ich hab mir gesagt – da waren auch andere kranke Menschen – ich gehe
+        nicht mehr zu Fuß; sie sollen mich hier töten. Ich soll zu Fuß gehen und dann
+        sterben? Hab mich hierher gestellt, um hier zu sterben auf diesem Platz.
+    - who: David Boder
+      start: '00:34:43.282'
+      end: '00:34:43.282'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:34:44.307'
+      end: '00:34:44.307'
+      u: Und dann ist gekommen im letzten Moment Autobus und so die Kranken wurden
+        ein .... eingeladen in die Autos und hat man sie weggeführt.
+    - who: David Boder
+      start: '00:34:52.910'
+      end: '00:34:52.910'
+      u: Nach Buchenwald?
+    - who: Adolph Heisler
+      start: '00:34:53.734'
+      end: '00:34:53.734'
+      u: Ja.
+    - who: David Boder
+      start: '00:34:54.311'
+      end: '00:34:54.311'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:34:54.760'
+      end: '00:34:54.760'
+      u: Und das war unser Glück. Wie wir sind gekommen nach Buchenwald ... da haben
+        wir geglaubt .... In Buchenwald hat man uns in die Nähe des Krematoriums und
+        so haben wir geglaubt, dass wir ins das Krematorium genommen werden, aber
+        zum Glück ....
+    - who: David Boder
+      start: '00:35:06.748'
+      end: '00:35:06.748'
+      u: Ja?
+    - who: Adolph Heisler
+      start: '00:35:07.471'
+      end: '00:35:07.471'
+      u: "... hat man uns doch nicht ins Krematorium gebracht, sondern in dem alten
+        Lager dort von die Menschen, die gekommen waren in Quarantäne. Und dort hat
+        man uns gehalten einige Tage."
+    - who: David Boder
+      start: '00:35:19.060'
+      end: '00:35:19.060'
+      u: Und dann?
+    - who: Adolph Heisler
+      start: '00:35:20.176'
+      end: '00:35:20.176'
+      u: Wir haben gewusst, dass die Amerikaner sind schon nahe, weil sie sind schnell
+        vorwärts, wir haben jede Nacht gehört die Schießerei. Und von Buchenwald hat
+        man auch angefangen zu evakuieren .... weg zu führen viele Leute.
+    - who: David Boder
+      start: '00:35:32.553'
+      end: '00:35:32.553'
+      u: Wohin?
+    - who: Adolph Heisler
+      start: '00:35:34.309'
+      end: '00:35:34.309'
+      u: Also ich weiß nicht wohin.
+    - who: David Boder
+      start: '00:35:36.148'
+      end: '00:35:36.148'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:35:36.330'
+      end: '00:35:36.330'
+      u: Weil ich bin dort geblieben und es hat geheißen, dass die ... wer kann gehen,
+        kann gehen und wer nicht gehen kann, der ... denn das Lager wird zerstört.
+    - who: David Boder
+      start: '00:35:45.412'
+      end: '00:35:45.412'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:35:45.659'
+      end: '00:35:45.659'
+      u: In letzter Stunde.
+    - who: David Boder
+      start: '00:35:46.950'
+      end: '00:35:46.950'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:35:47.522'
+      end: '00:35:47.522'
+      u: Und ... die gesunden Leute sind gegangen, aber unser Block hat gesagt, wir
+        gehen nicht. Und sie sollen uns töten, wir werden hier bleiben.
+    - who: David Boder
+      start: '00:35:56.295'
+      end: '00:35:56.295'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:35:57.205'
+      end: '00:35:57.205'
+      u: Und ... die SS ist gekommen am anderen Tag ... es war ein Sonntag ... da
+        sind gekommen die SS und sie haben angefangen hinaus zu schmeißen aus die
+        Fenster und zu treiben.
+    - who: David Boder
+      start: '00:36:08.943'
+      end: '00:36:08.943'
+      u: Hinaus zu schmeißen – was?
+    - who: Adolph Heisler
+      start: '00:36:10.960'
+      end: '00:36:10.960'
+      u: Durch die Fenster.
+    - who: David Boder
+      start: '00:36:12.060'
+      end: '00:36:12.060'
+      u: Ja, sie haben die Menschen raus geschmissen ....
+    - who: Adolph Heisler
+      start: '00:36:13.653'
+      end: '00:36:13.653'
+      u: Ja.
+    - who: David Boder
+      start: '00:36:13.998'
+      end: '00:36:13.998'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:36:14.190'
+      end: '00:36:14.190'
+      u: Durch die Fenster. Und sie haben angefangen sie zu treiben auf den Appell
+        Platz und von dort hat man uns wollen evakuieren.
+    - who: David Boder
+      start: '00:36:20.137'
+      end: '00:36:20.137'
+      u: Auf welchem Stock war es?
+    - who: Adolph Heisler
+      start: '00:36:22.199'
+      end: '00:36:22.199'
+      u: Es war ... es waren nicht mit Stockwerk.
+    - who: David Boder
+      start: '00:36:25.994'
+      end: '00:36:25.994'
+      u: Warum durch die Fenster, warum nicht durch die Türen?
+    - who: Adolph Heisler
+      start: '00:36:28.690'
+      end: '00:36:28.690'
+      u: Weil niemand hat nicht wollen gehen!
+    - who: David Boder
+      start: '00:36:30.359'
+      end: '00:36:30.359'
+      u: Aha, und?
+    - who: Adolph Heisler
+      start: '00:36:31.403'
+      end: '00:36:31.403'
+      u: Jeder hat sich geweigert vor der Evakuierung.
+    - who: David Boder
+      start: '00:36:33.926'
+      end: '00:36:33.926'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:36:34.528'
+      end: '00:36:34.528'
+      u: Und sie haben geschüttet Wasser über die Menschen. Niemand hat .... sie haben
+        aber nichts ausgeführt. Die Leute haben sich gesagt, dass ..... sollen sie
+        (unverständlich) ... sollen sie schießen.
+    - who: David Boder
+      start: '00:36:44.266'
+      end: '00:36:44.266'
+      u: Nun?
+    - who: Adolph Heisler
+      start: '00:36:44.993'
+      end: '00:36:44.993'
+      u: Und sie haben doch nicht geschossen, ich weiß nicht warum. Und am anderen
+        Tag – wieder die selbe Geschichte. Und dann doch haben sie heraus gekriegt
+        und haben die Leute versammelt am Appell Platz.
+    - who: David Boder
+      start: '00:36:56.328'
+      end: '00:36:56.328'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:36:57.237'
+      end: '00:36:57.237'
+      u: Und ich bin auch dort hinaus gekommen. Und hab ich gesehen, dass da ein Transport
+        steht mit Jugendliche.
+    - who: David Boder
+      start: '00:37:03.587'
+      end: '00:37:03.587'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:37:03.769'
+      end: '00:37:03.769'
+      u: Und das war der Grund, sie wurden aussortiert – sie bleiben hier im Lager
+        – sie sind nicht transportfähig. Und dann habe ich mich dorthin zu gestellt.
+        Ich war ja auch Junge.
+    - who: David Boder
+      start: '00:37:13.830'
+      end: '00:37:13.830'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:37:14.465'
+      end: '00:37:14.465'
+      u: Und hab mich hinzu gestellt und hab mich rein gemischt und bin zurück gegangen
+        ins Lager C und die andere Leute sind weg mit den Transport. Und das war Dienstag
+        schon. Und Mittwoch ... das war der achte Tage wo wir waren ganz ohne Essen.
+        Am Mittwoch hat man gehört eine große Schießerei und um zehn (10) haben wir
+        gehört den Feind-Alarm, der kam an, weil da kam ein amerikanischer Tank. Sie
+        sind zurück gefahren und um elf (11) Uhr haben wir gehört die Flieger. Und
+        um halb vier (4) sind wir befreit worden von die Amerikaner, das waren die
+        ersten Amerikaner. Die ganzen Deutschen haben verlassen das ganze Lager.
+    - who: David Boder
+      start: '00:37:57.872'
+      end: '00:37:57.872'
+      u: Und wann haben die Deutschen das Lager verlassen?
+    - who: Adolph Heisler
+      start: '00:38:00.181'
+      end: '00:38:00.181'
+      u: Sie haben es verlassen um ein (1) Uhr Nachmittag.
+    - who: David Boder
+      start: '00:38:02.029'
+      end: '00:38:02.029'
+      u: Und was haben sie gesagt?
+    - who: Adolph Heisler
+      start: '00:38:03.736'
+      end: '00:38:03.736'
+      u: 'Nichts, man hat nur gesehen sie laufen sie weg von der Wache. Es war so.
+        Wir haben nachher dann gewusst ... gehört, dass der von Weimar, der Lager
+        Kommandant hat, hm, telefoniert, sie sollen sprengen die Lager – eine Stunde
+        nach der Befreiung. Er hat noch nicht gewusst damals, dass das Lager ist befreit
+        worden. Es war halb fünf. Und der Lager Älteste – es war ein Häftling – hat
+        geantwortet: ‚Ja, ja, wir werden zersprengen ihre Köpfe.’ Also, wenn wir eine
+        Stunde vorher noch nicht befreit gewesen wären, hätten sie gesprengt das Lager.'
+    - who: David Boder
+      start: '00:38:39.572'
+      end: '00:38:39.572'
+      u: Was hat er ihm geantwortet?
+    - who: Adolph Heisler
+      start: '00:38:41.631'
+      end: '00:38:41.631'
+      u: Dass es, hm, dass er telefonieren sollte zum Heiland und nicht zu uns hier.
+    - who: David Boder
+      start: '00:38:46.101'
+      end: '00:38:46.101'
+      u: Aha, nun?
+    - who: Adolph Heisler
+      start: '00:38:48.527'
+      end: '00:38:48.527'
+      u: Und das war die Befreiung. Und nach der Befreiung die Menschen haben sich
+        vorgestellt dann so Geschichten, ganze Beglückung, aber viele sind auch gestorben
+        nach der Befreiung, weil sie haben bekommen das Essen, das Fett und die ganze
+        Nahrung und haben sich verdorben den Magen. Und sie haben bekommen Bauchschmerzen
+        und sind gestorben davon auch.
+    - who: David Boder
+      start: '00:39:08.996'
+      end: '00:39:08.996'
+      u: Ja. Und dann wurde ...
+    - who: Adolph Heisler
+      start: '00:39:12.855'
+      end: '00:39:12.855'
+      u: Und dann hat man mich weg genommen von dem jugendlichen Block, dort war ich
+        eine Zeit lang. Dann bin ich krank geworden mit Fleck-Typhus.
+    - who: David Boder
+      start: '00:39:22.741'
+      end: '00:39:22.741'
+      u: Nach der Befreiung haben Sie Fleck-Typhus bekommen?
+    - who: Adolph Heisler
+      start: '00:39:24.532'
+      end: '00:39:24.532'
+      u: Ja.
+    - who: David Boder
+      start: '00:39:24.998'
+      end: '00:39:24.998'
+      u: Ja.
+    - who: Adolph Heisler
+      start: '00:39:25.812'
+      end: 
+      u: Und dort bin ich gelegen vier (4) Wochen krank. Und dann habe ich gehört
+        von dem Transport in die Schweiz und hab ich mich auch gemeldet dafür zu fahren
+        in die Schweiz.
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:01.593'
+      end: '00:00:01.593'
+      u: "[In English:] This is Spool 81. Geneva, August 27th, 1946. The interviewee
+        is Abraham [?] Heisler, eighteen years old, from the Czech territory which
+        presumably has become Russian now. He carries a tattoo number A [A is possibly
+        just a triangle] 4470. [In German:] And so Mr. Eis-...Heisler, would you tell
+        us again your full name and where you were born. Speak slowly and [words not
+        clear]. Nu?"
+    - who: Adolph Heisler
+      start: '00:00:38.323'
+      end: '00:00:38.323'
+      u: Well, my name is Adolph Heisler.
+    - who: David Boder
+      start: '00:00:41.790'
+      end: '00:00:41.790'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:00:41.951'
+      end: '00:00:41.951'
+      u: And I come from Czechoslovakia, from Carpatho-Russia. I am eighteen years
+        of age, and was later deported to Auschwitz.
+    - who: David Boder
+      start: '00:00:51.997'
+      end: '00:00:51.997'
+      u: Yes. And so, tell me, where were you and what had happened to you when the
+        war began?
+    - who: Adolph Heisler
+      start: '00:01:00.066'
+      end: '00:01:00.066'
+      u: When the war began we were put into a ghetto, and there we were very much
+        mistreated. And after the ghetto...we were in the ghetto one month, and after
+        a month we were transported away by train to Auschwitz.
+    - who: David Boder
+      start: '00:01:15.106'
+      end: '00:01:15.106'
+      u: Now wait a moment. I want to know the whole story. That did not go that fast.
+        And so how did they make it known? How were you...Who were your parents? What
+        did you father and mother do?
+    - who: Adolph Heisler
+      start: '00:01:27.746'
+      end: '00:01:27.746'
+      u: And so, we had a large farm and my father had a large lumber business. We
+        were working the forests [?].
+    - who: David Boder
+      start: '00:01:36.353'
+      end: '00:01:36.353'
+      u: Yes. Nu?
+    - who: Adolph Heisler
+      start: '00:01:37.874'
+      end: '00:01:37.874'
+      u: And it was...and all that was then taken away from us...
+    - who: David Boder
+      start: '00:01:42.448'
+      end: '00:01:42.448'
+      u: Now wait. Your father was a lumber merchant, and he [also] had a farm?
+    - who: Adolph Heisler
+      start: '00:01:45.662'
+      end: '00:01:45.662'
+      u: Yes. and also [?]...
+    - who: David Boder
+      start: '00:01:46.677'
+      end: '00:01:46.677'
+      u: In the town or near the town?
+    - who: Adolph Heisler
+      start: '00:01:48.230'
+      end: '00:01:48.230'
+      u: Near the town.
+    - who: David Boder
+      start: '00:01:49.261'
+      end: '00:01:49.261'
+      u: Near the town. Did you have any brothers and sisters?
+    - who: Adolph Heisler
+      start: '00:01:53.848'
+      end: '00:01:53.848'
+      u: Yes, I had two brothers. One brother is still alive today. He is in the Russian
+        territory. He is living with an aunt.
+    - who: David Boder
+      start: '00:01:59.956'
+      end: '00:01:59.956'
+      u: In Russia.
+    - who: Adolph Heisler
+      start: '00:02:00.655'
+      end: '00:02:00.655'
+      u: Yes.
+    - who: David Boder
+      start: '00:02:01.288'
+      end: '00:02:01.288'
+      u: And the other one?
+    - who: Adolph Heisler
+      start: '00:02:02.525'
+      end: '00:02:02.525'
+      u: The other one...about the other one I know nothing, and about the parents
+        I neither know anything.
+    - who: David Boder
+      start: '00:02:05.928'
+      end: '00:02:05.928'
+      u: You know nothing about your parents.
+    - who: Adolph Heisler
+      start: '00:02:07.320'
+      end: '00:02:07.320'
+      u: No.
+    - who: David Boder
+      start: '00:02:07.921'
+      end: '00:02:07.921'
+      u: No. Did you receive any letters from your brother in the Russian territory?
+    - who: Adolph Heisler
+      start: '00:02:12.194'
+      end: '00:02:12.194'
+      u: Not from him personally, but a girl wrote to me, a girl, an acquaintance.
+        She was there. She was...she had lived as a neighbor next to us, so she wrote
+        me that she had talked with my brother. I also sent once a telegram and everything,
+        but I received no answer. I do not know...I cannot get in good communication
+        with Russia, and I do not know how he is getting along and all that.
+    - who: David Boder
+      start: '00:02:35.301'
+      end: '00:02:35.301'
+      u: Yes. Nu, and so you were living there in your town. What was the name of
+        the town?
+    - who: Adolph Heisler
+      start: '00:02:41.504'
+      end: '00:02:41.504'
+      u: Chynadiyovo
+    - who: David Boder
+      start: '00:02:42.662'
+      end: '00:02:42.662'
+      u: Chynadiyovo
+    - who: Adolph Heisler
+      start: '00:02:43.851'
+      end: '00:02:43.851'
+      u: Yes.
+    - who: David Boder
+      start: '00:02:44.168'
+      end: '00:02:44.168'
+      u: How is it spelled?
+    - who: Adolph Heisler
+      start: '00:02:45.879'
+      end: '00:02:45.879'
+      u: C...
+    - who: David Boder
+      start: '00:02:47.018'
+      end: '00:02:47.018'
+      u: Aha. C...
+    - who: Adolph Heisler
+      start: '00:02:48.872'
+      end: '00:02:48.872'
+      u: "...Z..."
+    - who: David Boder
+      start: '00:02:49.049'
+      end: '00:02:49.049'
+      u: Chyna...
+    - who: Adolph Heisler
+      start: '00:02:50.096'
+      end: '00:02:50.096'
+      u: Chynadiyovo.
+    - who: David Boder
+      start: '00:02:51.254'
+      end: '00:02:51.254'
+      u: Chynadiyovo.
+    - who: Adolph Heisler
+      start: '00:02:52.428'
+      end: '00:02:52.428'
+      u: Yes. That is a Czech city at the [word not clear].
+    - who: David Boder
+      start: '00:02:53.870'
+      end: '00:02:53.870'
+      u: Yes. and so, good. Now tell me. The Germans arrived. How did they enter [the
+        city]?
+    - who: Adolph Heisler
+      start: '00:03:01.591'
+      end: '00:03:01.591'
+      u: Right away the army entered. We saw the German occupation with the army,
+        and all of a sudden it became black before the Jews' eyes. And two weeks later
+        one morning they came, and we did not know why the houses were occupied, and
+        they said in two hours everybody has to be packed up to be taken away. We
+        did not know where to. The men [people] were led into a building. They were
+        driven together into a large building, and they were taken in trucks to the
+        ghetto.
+    - who: David Boder
+      start: '00:03:33.645'
+      end: '00:03:33.645'
+      u: Yes. Where...where was the ghetto? Where did they make the ghetto?
+    - who: Adolph Heisler
+      start: '00:03:37.283'
+      end: '00:03:37.283'
+      u: The Mukachevo Ghetto. There were large barracks of a brick factory. There
+        were large wooden barracks where the bricks were stored, and there we were
+        quartered. It was very crowded there. We could not stand it, because there
+        were terribly many people. In one barrack lived three thousand persons, because
+        there was no room. And they crowded the people terribly, and...
+    - who: David Boder
+      start: '00:04:01.160'
+      end: '00:04:01.160'
+      u: Men, women, and children together?
+    - who: Adolph Heisler
+      start: '00:04:03.251'
+      end: '00:04:03.251'
+      u: Everything together. The families still were...the families were still together.
+    - who: David Boder
+      start: '00:04:07.619'
+      end: '00:04:07.619'
+      u: 'Yes. Nu, and you were the olde-...yes, you have a brother and a [feminine
+        ending: eine]...'
+    - who: Adolph Heisler
+      start: '00:04:12.427'
+      end: '00:04:12.427'
+      u: Yes, the two brothers.
+    - who: David Boder
+      start: '00:04:13.031'
+      end: '00:04:13.031'
+      u: You had two brothers.
+    - who: Adolph Heisler
+      start: '00:04:14.125'
+      end: '00:04:14.125'
+      u: Yes.
+    - who: David Boder
+      start: '00:04:14.521'
+      end: '00:04:14.521'
+      u: Were they older or younger?
+    - who: Adolph Heisler
+      start: '00:04:16.074'
+      end: '00:04:16.074'
+      u: Younger brothers.
+    - who: David Boder
+      start: '00:04:17.189'
+      end: '00:04:17.189'
+      u: Younger brothers. Now, and how long were you there, in that brick factory?
+    - who: Adolph Heisler
+      start: '00:04:23.972'
+      end: '00:04:23.972'
+      u: In the brick factory we were four...four weeks.
+    - who: David Boder
+      start: '00:04:26.966'
+      end: '00:04:26.966'
+      u: Yes? Who gave you to eat? What were you given to eat?
+    - who: Adolph Heisler
+      start: '00:04:30.445'
+      end: '00:04:30.445'
+      u: Yes, the Kehille [community] still supported itself. All the food supplies
+        which we still had, had to be moved [taken along?]. We did not have much any
+        more, because everything had been taken away.
+    - who: David Boder
+      start: '00:04:41.612'
+      end: '00:04:41.612'
+      u: Hm. Yes?
+    - who: Adolph Heisler
+      start: '00:04:43.024'
+      end: '00:04:43.024'
+      u: And what was short [insufficient] was brought from the town.
+    - who: David Boder
+      start: '00:04:47.442'
+      end: '00:04:47.442'
+      u: Yes. And who was the Kehille?
+    - who: Adolph Heisler
+      start: '00:04:51.059'
+      end: '00:04:51.059'
+      u: That was the Jewish Community [Council?] which took care that there should
+        be sufficient. Everything was still not taken away due to money protection
+        [bribery] and so forth. They were in [words not clear], so they permitted
+        to bring in some food supplies.
+    - who: David Boder
+      start: '00:05:04.956'
+      end: '00:05:04.956'
+      u: Food supplies. Nu, and after...that lasted, you say, four weeks.
+    - who: Adolph Heisler
+      start: '00:05:09.813'
+      end: '00:05:09.813'
+      u: Four weeks, yes.
+    - who: David Boder
+      start: '00:05:10.583'
+      end: '00:05:10.583'
+      u: What happened then? Tell me all the details. How was it?
+    - who: Adolph Heisler
+      start: '00:05:15.001'
+      end: '00:05:15.001'
+      u: And so one morning comes, and it was said that whoever has citizen's rights
+        of that and that city, the citizenship, then it is possible for him to remain
+        there...for him to be released home. And so everybody brought his papers.
+        We, too, showed [ours], all good [valid] papers. They were taken away. And
+        suddenly we see he makes a big fire with those papers. They were just making
+        fun of us. And the next day...
+    - who: David Boder
+      start: '00:05:41.086'
+      end: '00:05:41.086'
+      u: And so you say that the papers were collected, and then what did they do?
+    - who: Adolph Heisler
+      start: '00:05:45.191'
+      end: '00:05:45.191'
+      u: And they were burned. They only said so [about citizenship], because they
+        did not want us to have anything to show [identification] for the right to
+        travel.
+    - who: David Boder
+      start: '00:05:51.720'
+      end: '00:05:51.720'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:05:52.237'
+      end: '00:05:52.237'
+      u: And on the next day in the morning we were not permitted to leave the barracks.
+        We saw a great number of RR-cars arriving. And they packed in many [?] people
+        in those RR-cars, a hundred people to a wagon, without food, without anything,
+        and we were transported...where we are being transported to nobody knew. We
+        were riding and riding, two weeks in the train. And then we arrived in Auschwitz.
+        We did not know...
+    - who: David Boder
+      start: '00:06:17.340'
+      end: '00:06:17.340'
+      u: Yes? Nu...
+    - who: Adolph Heisler
+      start: '00:06:18.126'
+      end: '00:06:18.126'
+      u: We did not know about any Auschwitz, about extermina-....We saw people dressed
+        in prisoner clothes, but we did not know what it meant. Only afterwards we
+        found out the entire story.
+    - who: David Boder
+      start: '00:06:31.080'
+      end: '00:06:31.080'
+      u: All right. And so let us go back a little. You were put into RR-cars.
+    - who: Adolph Heisler
+      start: '00:06:37.174'
+      end: '00:06:37.174'
+      u: Yes.
+    - who: David Boder
+      start: '00:06:37.302'
+      end: '00:06:37.302'
+      u: What kind of RR-cars were they?
+    - who: Adolph Heisler
+      start: '00:06:38.840'
+      end: '00:06:38.840'
+      u: They were those freight cars for cattle.
+    - who: David Boder
+      start: '00:06:42.303'
+      end: '00:06:42.303'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:06:42.757'
+      end: '00:06:42.757'
+      u: Not passenger cars. And they were very crowded, without water. They did not
+        supply any water. Food, there was none, because from home we had not been
+        able any more to bring any food along. Because we had already been four weeks
+        in that ghetto, everything had given out.
+    - who: David Boder
+      start: '00:06:57.949'
+      end: '00:06:57.949'
+      u: How many persons were you in one wagon?
+    - who: Adolph Heisler
+      start: '00:07:00.833'
+      end: '00:07:00.833'
+      u: We were a hundred people in a wagon.
+    - who: David Boder
+      start: '00:07:02.981'
+      end: '00:07:02.981'
+      u: Were there any seats, any benches?
+    - who: Adolph Heisler
+      start: '00:07:05.001'
+      end: '00:07:05.001'
+      u: No, no, just so. They had taken away the bundles. They had taken away everything.
+        We lay on the bare boards.
+    - who: David Boder
+      start: '00:07:11.063'
+      end: '00:07:11.063'
+      u: Was your father and mother with you?
+    - who: Adolph Heisler
+      start: '00:07:13.289'
+      end: '00:07:13.289'
+      u: Yes, still there in the RR-car, but...
+    - who: David Boder
+      start: '00:07:15.184'
+      end: '00:07:15.184'
+      u: And the two brothers?
+    - who: Adolph Heisler
+      start: '00:07:16.612'
+      end: '00:07:16.612'
+      u: Also. All of us were still together. Only in Auschwitz, when we arrived,
+        were we all dispersed [separated].
+    - who: David Boder
+      start: '00:07:22.753'
+      end: '00:07:22.753'
+      u: One moment. And so you were shoved into the RR-cars. Was there a toilet?
+    - who: Adolph Heisler
+      start: '00:07:29.708'
+      end: '00:07:29.708'
+      u: Nothing, nothing.
+    - who: David Boder
+      start: '00:07:30.838'
+      end: '00:07:30.838'
+      u: So then, how did one do it when one wanted to go to...to...to relieve oneself
+        or...?
+    - who: Adolph Heisler
+      start: '00:07:36.506'
+      end: '00:07:36.506'
+      u: We had a few pots, so we...
+    - who: David Boder
+      start: '00:07:39.278'
+      end: '00:07:39.278'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:07:39.704'
+      end: '00:07:39.704'
+      u: "...made a toilet in the pots and poured it out."
+    - who: David Boder
+      start: '00:07:42.995'
+      end: '00:07:42.995'
+      u: Poured it out where?
+    - who: Adolph Heisler
+      start: '00:07:44.436'
+      end: '00:07:44.436'
+      u: Out of the RR-car, outside [?].
+    - who: David Boder
+      start: '00:07:45.723'
+      end: '00:07:45.723'
+      u: Were the RR-cars open?
+    - who: Adolph Heisler
+      start: '00:07:47.357'
+      end: '00:07:47.357'
+      u: There was a small opening, through the window...
+    - who: David Boder
+      start: '00:07:50.290'
+      end: '00:07:50.290'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:07:50.650'
+      end: '00:07:50.650'
+      u: "...and covered with wire."
+    - who: David Boder
+      start: '00:07:51.971'
+      end: '00:07:51.971'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:07:52.129'
+      end: '00:07:52.129'
+      u: We could barely put the hand through.
+    - who: David Boder
+      start: '00:07:54.256'
+      end: '00:07:54.256'
+      u: And how did the men and women use the pots?
+    - who: Adolph Heisler
+      start: '00:07:58.165'
+      end: '00:07:58.165'
+      u: Well, everything was the same [did not matter]. People there did not look
+        [care] so much any more.
+    - who: David Boder
+      start: '00:08:02.180'
+      end: '00:08:02.180'
+      u: Nu. And so, how long did the journey last?
+    - who: Adolph Heisler
+      start: '00:08:08.678'
+      end: '00:08:08.678'
+      u: Two weeks.
+    - who: David Boder
+      start: '00:08:09.782'
+      end: '00:08:09.782'
+      u: "[With surprise:] Two weeks?"
+    - who: Adolph Heisler
+      start: '00:08:10.607'
+      end: '00:08:10.607'
+      u: Yes.
+    - who: David Boder
+      start: '00:08:11.122'
+      end: '00:08:11.122'
+      u: Were the wagons opened every day?
+    - who: Adolph Heisler
+      start: '00:08:13.496'
+      end: '00:08:13.496'
+      u: No.
+    - who: David Boder
+      start: '00:08:15.784'
+      end: '00:08:15.784'
+      u: And water?
+    - who: Adolph Heisler
+      start: '00:08:17.249'
+      end: '00:08:17.249'
+      u: Neither. We had...everybody had taken along a bucket of water from the ghetto,
+        and we had received a bread, that means two kilos of bread, and on this we
+        lived the whole time...
+    - who: David Boder
+      start: '00:08:27.308'
+      end: '00:08:27.308'
+      u: And so?
+    - who: Adolph Heisler
+      start: '00:08:27.866'
+      end: '00:08:27.866'
+      u: "...per person [apparently still referring to the bread]."
+    - who: David Boder
+      start: '00:08:28.790'
+      end: '00:08:28.790'
+      u: Did you and your family have enough to eat?
+    - who: Adolph Heisler
+      start: '00:08:32.169'
+      end: '00:08:32.169'
+      u: From enough it was very far, but what could one do?
+    - who: David Boder
+      start: '00:08:35.339'
+      end: '00:08:35.339'
+      u: Yes. Nu, did all of you.... What did the people do all day in the RR-cars?
+    - who: Adolph Heisler
+      start: '00:08:42.610'
+      end: '00:08:42.610'
+      u: Nothing. We were sitting. One said we are being taken there, and one said
+        this will happen. We did not know ourselves. We were completely mixed up.
+        We were already not normal from all the 'story' that had happened.
+    - who: David Boder
+      start: '00:08:56.073'
+      end: '00:08:56.073'
+      u: Aha. Nu, and thus you arrived where? In Auschwitz?
+    - who: Adolph Heisler
+      start: '00:08:59.424'
+      end: '00:08:59.424'
+      u: In Auschwitz.
+    - who: David Boder
+      start: '00:09:00.320'
+      end: '00:09:00.320'
+      u: Now tell, when the train arrived, what happened then? And so what happened
+        there?
+    - who: Adolph Heisler
+      start: '00:09:06.935'
+      end: '00:09:06.935'
+      u: And so we arrived there.
+    - who: David Boder
+      start: '00:09:08.556'
+      end: '00:09:08.556'
+      u: "[Testing the microphone.] Wait a moment. Nu?"
+    - who: Adolph Heisler
+      start: '00:09:10.944'
+      end: '00:09:10.944'
+      u: We arrived there in Auschwitz. An SS Storm leader was standing there, and
+        he separated the older people and the children to one side, and those capable
+        of working, those who looked very capable of working, they put to the other
+        side. About the others, where they were led, no on knew only the next day
+        we saw the huge flames and the smoke from the crematory where they were being
+        burned. And we went into barracks.
+    - who: David Boder
+      start: '00:09:37.944'
+      end: '00:09:37.944'
+      u: Who is the we?
+    - who: Adolph Heisler
+      start: '00:09:39.632'
+      end: '00:09:39.632'
+      u: We the capable of working. I was also among them.
+    - who: David Boder
+      start: '00:09:43.332'
+      end: '00:09:43.332'
+      u: And so what happened to your family when you arrived in Auschwitz?
+    - who: Adolph Heisler
+      start: '00:09:47.855'
+      end: '00:09:47.855'
+      u: To my family happened that, that my brother and I stood on one side and the
+        remaining stood...
+    - who: David Boder
+      start: '00:09:54.805'
+      end: '00:09:54.805'
+      u: Who were the remaining?
+    - who: Adolph Heisler
+      start: '00:09:55.910'
+      end: '00:09:55.910'
+      u: The mother. The father was not there, because the father had been drafted
+        for service, for military service, still at home.
+    - who: David Boder
+      start: '00:10:04.855'
+      end: '00:10:04.855'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:10:05.316'
+      end: '00:10:05.316'
+      u: And the mother with the smaller brother was...went...were taken away to the
+        other side to...with those...those not capable of working.
+    - who: David Boder
+      start: '00:10:13.843'
+      end: '00:10:13.843'
+      u: And so, I did not know that. Your father then was not with... When, where
+        was your father taken for military service? Was your father there with you
+        in the ghetto?
+    - who: Adolph Heisler
+      start: '00:10:23.179'
+      end: '00:10:23.179'
+      u: No.
+    - who: David Boder
+      start: '00:10:23.768'
+      end: '00:10:23.768'
+      u: No. And so where was he? Was he in the Hungarian army?
+    - who: Adolph Heisler
+      start: '00:10:27.217'
+      end: '00:10:27.217'
+      u: Yes.
+    - who: David Boder
+      start: '00:10:27.555'
+      end: '00:10:27.555'
+      u: In the Czech army?
+    - who: Adolph Heisler
+      start: '00:10:29.330'
+      end: '00:10:29.330'
+      u: He was in the Czech army. And then they called the strong people, those who
+        were well capable of working [word not clear] to dig trenches.
+    - who: David Boder
+      start: '00:10:39.740'
+      end: '00:10:39.740'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:10:40.146'
+      end: '00:10:40.146'
+      u: And he still remained there. And we were in the ghetto.
+    - who: David Boder
+      start: '00:10:43.802'
+      end: '00:10:43.802'
+      u: Aha. And you...he did not see you before you left?
+    - who: Adolph Heisler
+      start: '00:10:47.056'
+      end: '00:10:47.056'
+      u: No.
+    - who: David Boder
+      start: '00:10:47.709'
+      end: '00:10:47.709'
+      u: And you did not hear from him at all?
+    - who: Adolph Heisler
+      start: '00:10:49.191'
+      end: '00:10:49.191'
+      u: No.
+    - who: David Boder
+      start: '00:10:49.803'
+      end: '00:10:49.803'
+      u: And so your mother with the small boy went in Auschwitz to the other side?
+    - who: Adolph Heisler
+      start: '00:10:53.236'
+      end: '00:10:53.236'
+      u: 'Yes'
+    - who: David Boder
+      start: '00:10:54.057'
+      end: '00:10:54.057'
+      u: Nu, go on.
+    - who: Adolph Heisler
+      start: '00:10:56.247'
+      end: '00:10:56.247'
+      u: And the brother and I, we went to bathe.
+    - who: David Boder
+      start: '00:11:01.343'
+      end: '00:11:01.343'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:11:01.667'
+      end: '00:11:01.667'
+      u: And after we were bathed, everything was shorn off, and we were led into
+        a barrack.
+    - who: David Boder
+      start: '00:11:06.306'
+      end: '00:11:06.306'
+      u: What do you mean, everything shorn off?
+    - who: Adolph Heisler
+      start: '00:11:08.322'
+      end: '00:11:08.322'
+      u: The hair, everything shorn off.
+    - who: David Boder
+      start: '00:11:09.692'
+      end: '00:11:09.692'
+      u: From the whole body?
+    - who: Adolph Heisler
+      start: '00:11:10.490'
+      end: '00:11:10.490'
+      u: From the whole body.
+    - who: David Boder
+      start: '00:11:11.549'
+      end: '00:11:11.549'
+      u: "[A ringing noise.] And so, go on. [In English:] There was a telephone interruption.
+        [In german:] Nu?"
+    - who: Adolph Heisler
+      start: '00:11:16.561'
+      end: '00:11:16.561'
+      u: And there we were...after the shearing off, in the bath, we were dressed
+        in the prisoner uniforms just like the others. We did not know what was going
+        on there. When we came out we already saw the sticks [clubs] flying over the
+        backs and over the heads, those beatings there.
+    - who: David Boder
+      start: '00:11:34.065'
+      end: '00:11:34.065'
+      u: Who was beating you?
+    - who: Adolph Heisler
+      start: '00:11:35.837'
+      end: '00:11:35.837'
+      u: There were the SS, and there were the German war-...not war criminals, but
+        professional criminals who yet in the year '36 were put in concentration camps.
+        They were worse yet than the SS men themselves.
+    - who: David Boder
+      start: '00:11:51.714'
+      end: '00:11:51.714'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:11:52.009'
+      end: '00:11:52.009'
+      u: And they were appointed there as capos. That means in the lager they would
+        be over the prisoners. So in the lager proper they had detail, and they had
+        [were in charge of] the supervision.
+    - who: David Boder
+      start: '00:12:04.940'
+      end: '00:12:04.940'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:12:06.002'
+      end: '00:12:06.002'
+      u: There we were driven into a barrack. And the second day we still did not
+        get anything to eat, and sleep we could neither, because it was cold. It was
+        on the stones, a barrack of stones. And there we...
+    - who: David Boder
+      start: '00:12:22.929'
+      end: '00:12:22.929'
+      u: A stone floor.
+    - who: Adolph Heisler
+      start: '00:12:24.661'
+      end: '00:12:24.661'
+      u: Yes. And there we sat. It was still in Birkenau proper.
+    - who: David Boder
+      start: '00:12:28.019'
+      end: '00:12:28.019'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:12:28.141'
+      end: '00:12:28.141'
+      u: It [Birkenau] was not yet in Auschwitz. It was the quarantine lager for Auschwitz.
+    - who: David Boder
+      start: '00:12:32.322'
+      end: '00:12:32.322'
+      u: Yes. What kind of a lager was it?
+    - who: Adolph Heisler
+      start: '00:12:34.052'
+      end: '00:12:34.052'
+      u: Quarantine lager.
+    - who: David Boder
+      start: '00:12:35.151'
+      end: '00:12:35.151'
+      u: A quarantine lager for Auschwitz [?]?
+    - who: Adolph Heisler
+      start: '00:12:36.109'
+      end: '00:12:36.109'
+      u: There people were bathed, had their hair shorn off, and dressed [were outfitted].
+        And Auschwitz was already.... It was near Auschwitz, and Auschwitz was already
+        the work lager.
+    - who: David Boder
+      start: '00:12:44.591'
+      end: '00:12:44.591'
+      u: Yes. Nu?
+    - who: Adolph Heisler
+      start: '00:12:46.543'
+      end: '00:12:46.543'
+      u: And we were then asked there [about] the occupations, what occupation one
+        has. And they said we will be sent to work.
+    - who: David Boder
+      start: '00:12:54.769'
+      end: '00:12:54.769'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:12:55.507'
+      end: '00:12:55.507'
+      u: And I reported as...that I was a locksmith [metal worker], because I knew
+        that it is always better to have a trade than to work some place on a field,
+        but...
+    - who: David Boder
+      start: '00:13:04.253'
+      end: '00:13:04.253'
+      u: Did you know anything about locksmithing?
+    - who: Adolph Heisler
+      start: '00:13:06.438'
+      end: '00:13:06.438'
+      u: Yes. I went to a school at home. I always liked to play around with these
+        things.
+    - who: David Boder
+      start: '00:13:10.768'
+      end: '00:13:10.768'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:13:10.901'
+      end: '00:13:10.901'
+      u: And I knew exactly that they are calling for locksmiths, then they need locksmiths,
+        then...then one can somehow...if one has some sort of idea, when one understands
+        [?]...
+    - who: David Boder
+      start: '00:13:20.260'
+      end: '00:13:20.260'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:13:21.625'
+      end: '00:13:21.625'
+      u: And I presented myself for it. And anyway I had no luck with it, because
+        I was...I was not accepted for it.
+    - who: David Boder
+      start: '00:13:29.081'
+      end: '00:13:29.081'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:13:30.118'
+      end: '00:13:30.118'
+      u: And on the next day we were called out. We had...we already had the...we
+        had no numbers yet.
+    - who: David Boder
+      start: '00:13:38.201'
+      end: '00:13:38.201'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:13:38.696'
+      end: '00:13:38.696'
+      u: |-
+        We were just called out, and we were led to Auschwitz, to Lager
+                                Auschwitz. Arriving there, we were given a soup to eat. It was already the third day, so everyone received a liter of soup, and we were led to be numbered...to tattoo the numbers.
+    - who: David Boder
+      start: '00:13:57.269'
+      end: '00:13:57.269'
+      u: To be tattooed.
+    - who: Adolph Heisler
+      start: '00:13:58.234'
+      end: '00:13:58.234'
+      u: Yes.
+    - who: David Boder
+      start: '00:13:58.598'
+      end: '00:13:58.598'
+      u: If everyone received a liter of soup, in what was the liter of soup given?
+    - who: Adolph Heisler
+      start: '00:14:02.506'
+      end: '00:14:02.506'
+      u: There were there such bowls, various broken bowls which had been collected
+        from the transports, because they had taken along pots...
+    - who: David Boder
+      start: '00:14:10.420'
+      end: '00:14:10.420'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:14:10.567'
+      end: '00:14:10.567'
+      u: "...from the RR-cars."
+    - who: David Boder
+      start: '00:14:11.836'
+      end: '00:14:11.836'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:14:12.236'
+      end: '00:14:12.236'
+      u: Then they collected them. And in them the soup was given...
+    - who: David Boder
+      start: '00:14:16.191'
+      end: '00:14:16.191'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:14:16.432'
+      end: '00:14:16.432'
+      u: "...to eat."
+    - who: David Boder
+      start: '00:14:17.139'
+      end: '00:14:17.139'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:14:18.455'
+      end: '00:14:18.455'
+      u: And after getting the liter of soup, we were tattooed. We still stayed there
+        two days, and on the third day we were taken away. I was separated from the
+        brother, and I was taken away to work in a coal mine. It was eight kilometers
+        from Auschwitz, in Jawiszowice.
+    - who: David Boder
+      start: '00:14:36.409'
+      end: '00:14:36.409'
+      u: Jawiszowice.
+    - who: Adolph Heisler
+      start: '00:14:37.283'
+      end: '00:14:37.283'
+      u: Yes.
+    - who: David Boder
+      start: '00:14:37.689'
+      end: '00:14:37.689'
+      u: In a coal mine.
+    - who: Adolph Heisler
+      start: '00:14:38.766'
+      end: '00:14:38.766'
+      u: Yes.
+    - who: David Boder
+      start: '00:14:39.053'
+      end: '00:14:39.053'
+      u: And so, were you given hammers? Were you given...
+    - who: Adolph Heisler
+      start: '00:14:42.434'
+      end: '00:14:42.434'
+      u: Yes. The same as everybody, the same as every worker, I was given...
+    - who: David Boder
+      start: '00:14:44.801'
+      end: '00:14:44.801'
+      u: And a lamp on the head?
+    - who: Adolph Heisler
+      start: '00:14:46.332'
+      end: '00:14:46.332'
+      u: Not on the.... We had to carry lamps in the hands. The lamp weighed six kilo.
+        The lamp itself was taking one's strength.
+    - who: David Boder
+      start: '00:14:53.631'
+      end: '00:14:53.631'
+      u: Why? How come the lamp was that heavy? What was it?
+    - who: Adolph Heisler
+      start: '00:14:56.459'
+      end: '00:14:56.459'
+      u: It was...I don't know. They were those carbide...not carbide lamps, but...
+    - who: David Boder
+      start: '00:15:01.274'
+      end: '00:15:01.274'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:15:01.999'
+      end: '00:15:01.999'
+      u: "...such a lantern, an electric lantern [?]."
+    - who: David Boder
+      start: '00:15:05.257'
+      end: '00:15:05.257'
+      u: Oh, they were...yes.
+    - who: Adolph Heisler
+      start: '00:15:06.740'
+      end: '00:15:06.740'
+      u: And they were...
+    - who: David Boder
+      start: '00:15:06.977'
+      end: '00:15:06.977'
+      u: With batteries.
+    - who: Adolph Heisler
+      start: '00:15:07.879'
+      end: '00:15:07.879'
+      u: Yes.
+    - who: David Boder
+      start: '00:15:08.535'
+      end: '00:15:08.535'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:15:08.903'
+      end: '00:15:08.903'
+      u: And they were large lamps so as to last the twelve hours. We only worked
+        eight hours...
+    - who: David Boder
+      start: '00:15:15.525'
+      end: '00:15:15.525'
+      u: Aha.
+    - who: Adolph Heisler
+      start: '00:15:15.678'
+      end: '00:15:15.678'
+      u: "...but they had to light [burn] for ten hours, to come out..."
+    - who: David Boder
+      start: '00:15:20.097'
+      end: '00:15:20.097'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:15:20.250'
+      end: '00:15:20.250'
+      u: "...and the appells, and that and that."
+    - who: David Boder
+      start: '00:15:22.369'
+      end: '00:15:22.369'
+      u: And then the lamps were re-charged every night?
+    - who: Adolph Heisler
+      start: '00:15:25.595'
+      end: '00:15:25.595'
+      u: Yes, returned. Everybody had a lamp number, and everybody...
+    - who: David Boder
+      start: '00:15:28.919'
+      end: '00:15:28.919'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:15:29.046'
+      end: '00:15:29.046'
+      u: "...returned the lamp."
+    - who: David Boder
+      start: '00:15:30.240'
+      end: '00:15:30.240'
+      u: Aha. Had you every worked before by coal?
+    - who: Adolph Heisler
+      start: '00:15:34.923'
+      end: '00:15:34.923'
+      u: No.
+    - who: David Boder
+      start: '00:15:35.436'
+      end: '00:15:35.436'
+      u: No.
+    - who: Adolph Heisler
+      start: '00:15:35.568'
+      end: '00:15:35.568'
+      u: I have...I have...
+    - who: David Boder
+      start: '00:15:36.134'
+      end: '00:15:36.134'
+      u: How old were you then?
+    - who: Adolph Heisler
+      start: '00:15:37.455'
+      end: '00:15:37.455'
+      u: Sixteen years.
+    - who: David Boder
+      start: '00:15:38.540'
+      end: '00:15:38.540'
+      u: Aha. And with whom did you go? All the prisoners or were you...
+    - who: Adolph Heisler
+      start: '00:15:41.734'
+      end: '00:15:41.734'
+      u: All prisoners.
+    - who: David Boder
+      start: '00:15:42.949'
+      end: '00:15:42.949'
+      u: Yes? And how deep did you go down?
+    - who: Adolph Heisler
+      start: '00:15:45.983'
+      end: '00:15:45.983'
+      u: That was...it was four hundred and sixty meters deep.
+    - who: David Boder
+      start: '00:15:48.451'
+      end: '00:15:48.451'
+      u: 'Four [hundred] and sixty [mistake: sounds like 64] meters deep.'
+    - who: Adolph Heisler
+      start: '00:15:49.591'
+      end: '00:15:49.591'
+      u: Yes.
+    - who: David Boder
+      start: '00:15:49.817'
+      end: '00:15:49.817'
+      u: You went down in what? In an elevator?
+    - who: Adolph Heisler
+      start: '00:15:51.777'
+      end: '00:15:51.777'
+      u: In a lift.
+    - who: David Boder
+      start: '00:15:52.907'
+      end: '00:15:52.907'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:15:53.047'
+      end: '00:15:53.047'
+      u: We went down in a lift.
+    - who: David Boder
+      start: '00:15:54.064'
+      end: '00:15:54.064'
+      u: Who showed you how to work?
+    - who: Adolph Heisler
+      start: '00:15:56.134'
+      end: '00:15:56.134'
+      u: Yes, there was everywhere a Polish civilian, a foreman.
+    - who: David Boder
+      start: '00:15:59.887'
+      end: '00:15:59.887'
+      u: Yes? Were they good to you?
+    - who: Adolph Heisler
+      start: '00:16:02.274'
+      end: '00:16:02.274'
+      u: Yes, they were still worse than the Germans themselves.
+    - who: David Boder
+      start: '00:16:04.909'
+      end: '00:16:04.909'
+      u: Why?
+    - who: Adolph Heisler
+      start: '00:16:05.483'
+      end: '00:16:05.483'
+      u: They treated us much worse than the Germans. They informed on us. They beat
+        [us]. It was terrible the way the Poles treated us there...
+    - who: David Boder
+      start: '00:16:15.540'
+      end: '00:16:15.540'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:16:15.619'
+      end: '00:16:15.619'
+      u: "...in the coal mines."
+    - who: David Boder
+      start: '00:16:16.827'
+      end: '00:16:16.827'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:16:18.189'
+      end: '00:16:18.189'
+      u: And they beat us, the prisoners, to death.
+    - who: David Boder
+      start: '00:16:22.461'
+      end: '00:16:22.461'
+      u: Did you not try sometimes to hit back?
+    - who: Adolph Heisler
+      start: '00:16:24.972'
+      end: '00:16:24.972'
+      u: But who had the strength? We were completely worn out. Completely starved
+        from that liter of soup and two hundred grams of bread, and working in a coal
+        mine, we had no mine [?] any more to fight back.
+    - who: David Boder
+      start: '00:16:36.350'
+      end: '00:16:36.350'
+      u: Nu, go on. How long did you work there in the coal mines? And where did your
+        brother go?
+    - who: Adolph Heisler
+      start: '00:16:42.718'
+      end: '00:16:42.718'
+      u: I knew nothing more about the brother.
+    - who: David Boder
+      start: '00:16:44.865'
+      end: '00:16:44.865'
+      u: Aha.
+    - who: Adolph Heisler
+      start: '00:16:45.307'
+      end: '00:16:45.307'
+      u: From the brother I have only now through that girl...
+    - who: David Boder
+      start: '00:16:47.510'
+      end: '00:16:47.510'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:16:47.665'
+      end: '00:16:47.665'
+      u: "...received news."
+    - who: David Boder
+      start: '00:16:49.429'
+      end: '00:16:49.429'
+      u: And so how long did it last?
+    - who: Adolph Heisler
+      start: '00:16:52.083'
+      end: '00:16:52.083'
+      u: It lasted until the year...year...until the Russians arrived. Then [?] in
+        Auschwitz...they started attacking Upper Silesia. That was in '45.
+    - who: David Boder
+      start: '00:17:02.160'
+      end: '00:17:02.160'
+      u: Then how long were you in Auschwitz?
+    - who: Adolph Heisler
+      start: '00:17:05.006'
+      end: '00:17:05.006'
+      u: Two years.
+    - who: David Boder
+      start: '00:17:05.812'
+      end: '00:17:05.812'
+      u: Did you work in the coal mines all the time?
+    - who: Adolph Heisler
+      start: '00:17:08.168'
+      end: '00:17:08.168'
+      u: Yes.
+    - who: David Boder
+      start: '00:17:09.051'
+      end: '00:17:09.051'
+      u: As a coal miner
+    - who: Adolph Heisler
+      start: '00:17:10.077'
+      end: '00:17:10.077'
+      u: Yes.
+    - who: David Boder
+      start: '00:17:10.682'
+      end: '00:17:10.682'
+      u: "[Jokingly:] So you are now a good coal miner, no?"
+    - who: Adolph Heisler
+      start: '00:17:13.057'
+      end: '00:17:13.057'
+      u: Yes, a pretty good one.
+    - who: David Boder
+      start: '00:17:14.782'
+      end: '00:17:14.782'
+      u: Yes. Nu, and...and then when you came out from the mines, what would happen
+        then?
+    - who: Adolph Heisler
+      start: '00:17:23.522'
+      end: '00:17:23.522'
+      u: When we came out we were counted [to see] if everybody is present, if none
+        is missing, and we were led into the lager. There we bathed. Everyone had...
+    - who: David Boder
+      start: '00:17:33.409'
+      end: '00:17:33.409'
+      u: Every evening?
+    - who: Adolph Heisler
+      start: '00:17:34.397'
+      end: '00:17:34.397'
+      u: Bathed every evening.
+    - who: David Boder
+      start: '00:17:35.749'
+      end: '00:17:35.749'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:17:36.239'
+      end: '00:17:36.239'
+      u: That was a good thing, that bath, that we were still able to bathe. And after
+        the bath we were...
+    - who: David Boder
+      start: '00:17:41.718'
+      end: '00:17:41.718'
+      u: Yes...[?]
+    - who: Adolph Heisler
+      start: '00:17:41.931'
+      end: '00:17:41.931'
+      u: We got the supper which was a piece of bread and a [portion of] black coffee,
+        and we went to bed.
+    - who: David Boder
+      start: '00:17:48.338'
+      end: '00:17:48.338'
+      u: Yes. What kind of beds did you have?
+    - who: Adolph Heisler
+      start: '00:17:50.925'
+      end: '00:17:50.925'
+      u: They were wooden plank-beds, such tiered beds, four stories high. We slept
+        on the boards. Every...
+    - who: David Boder
+      start: '00:17:57.580'
+      end: '00:17:57.580'
+      u: How many people to a plank-bed?
+    - who: Adolph Heisler
+      start: '00:18:00.009'
+      end: '00:18:00.009'
+      u: Yes. There were...on...approximately on one meter slept four, five people.
+        There were...
+    - who: David Boder
+      start: '00:18:04.952'
+      end: '00:18:04.952'
+      u: Did you take off your clothes?
+    - who: Adolph Heisler
+      start: '00:18:06.954'
+      end: '00:18:06.954'
+      u: No, it was too cold for undressing.
+    - who: Adolph Heisler
+      start: '00:18:09.838'
+      end: '00:18:09.838'
+      u: Did you have any blankets?
+    - who: Adolph Heisler
+      start: '00:18:11.451'
+      end: '00:18:11.451'
+      u: We had one blanket for [number not clear], and sometimes not even one.
+    - who: David Boder
+      start: '00:18:14.750'
+      end: '00:18:14.750'
+      u: Did you have lice?
+    - who: Adolph Heisler
+      start: '00:18:16.392'
+      end: '00:18:16.392'
+      u: There is no question about it. We had very many lice.
+    - who: David Boder
+      start: '00:18:18.697'
+      end: '00:18:18.697'
+      u: And so, slowly. You had many lice.
+    - who: Adolph Heisler
+      start: '00:18:20.718'
+      end: '00:18:20.718'
+      u: Yes.
+    - who: David Boder
+      start: '00:18:22.456'
+      end: '00:18:22.456'
+      u: And so you say you had many lice, but you said you were bathed every day.
+        Nu?
+    - who: Adolph Heisler
+      start: '00:18:27.681'
+      end: '00:18:27.681'
+      u: Yes, we bathed and still there were lice. For the reason...because we did...we
+        did not have enough soap, and in the underwear and in the beds the lice always
+        remained. When we would come home, at home we always lay down in the same
+        things.
+    - who: David Boder
+      start: '00:18:41.792'
+      end: '00:18:41.792'
+      u: Nu, what was done about it?
+    - who: Adolph Heisler
+      start: '00:18:44.383'
+      end: '00:18:44.383'
+      u: And so, not much was done about it, because there was a very great crowd
+        of people. In one barrack there were two, three hundred people. And there
+        could not...care was taken so that it should go away [rid ourselves], but
+        not enough care could be taken.
+    - who: David Boder
+      start: '00:19:01.757'
+      end: '00:19:01.757'
+      u: Nu, what happened when someone became sick?
+    - who: Adolph Heisler
+      start: '00:19:04.940'
+      end: '00:19:04.940'
+      u: When someone became sick he was taken away, or he was given a thrust [injection]
+        to make him die faster. And if not...
+    - who: David Boder
+      start: '00:19:12.048'
+      end: '00:19:12.048'
+      u: What does that mean? He was given what?
+    - who: Adolph Heisler
+      start: '00:19:13.551'
+      end: '00:19:13.551'
+      u: Given a push [injection?, booster?] to make him die faster.
+    - who: David Boder
+      start: '00:19:15.804'
+      end: '00:19:15.804'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:19:16.050'
+      end: '00:19:16.050'
+      u: He would even...even request it himself, because he would...life was not
+        that good that he should desire to recover.
+    - who: David Boder
+      start: '00:19:22.630'
+      end: '00:19:22.630'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:19:25.804'
+      end: '00:19:25.804'
+      u: And if one was not so critically ill, there was a...a sick-ward. It was a
+        hospital. And the wounds would be bandaged when one would hurt himself, or
+        something like that.
+    - who: David Boder
+      start: '00:19:36.213'
+      end: '00:19:36.213'
+      u: Aha. Nu? And thus you worked all the time in the...
+    - who: Adolph Heisler
+      start: '00:19:41.545'
+      end: '00:19:41.545'
+      u: Yes, we worked. We had no free Saturday nor Sunday.
+    - who: David Boder
+      start: '00:19:47.196'
+      end: '00:19:47.196'
+      u: No Sunday?
+    - who: Adolph Heisler
+      start: '00:19:48.322'
+      end: '00:19:48.322'
+      u: No, nothing.
+    - who: David Boder
+      start: '00:19:49.206'
+      end: '00:19:49.206'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:19:49.769'
+      end: '00:19:49.769'
+      u: Always working.
+    - who: David Boder
+      start: '00:19:50.634'
+      end: '00:19:50.634'
+      u: Was there any holiday that you did not work?
+    - who: Adolph Heisler
+      start: '00:19:54.108'
+      end: '00:19:54.108'
+      u: Yes, on New Year's we had a free day.
+    - who: David Boder
+      start: '00:19:57.422'
+      end: '00:19:57.422'
+      u: New Year.
+    - who: Adolph Heisler
+      start: '00:19:57.942'
+      end: '00:19:57.942'
+      u: New Year.
+    - who: David Boder
+      start: '00:19:58.382'
+      end: '00:19:58.382'
+      u: Or Christmas?
+    - who: Adolph Heisler
+      start: '00:20:00.223'
+      end: '00:20:00.223'
+      u: Christmas, no.
+    - who: David Boder
+      start: '00:20:01.273'
+      end: '00:20:01.273'
+      u: But New Year.
+    - who: Adolph Heisler
+      start: '00:20:02.046'
+      end: '00:20:02.046'
+      u: New Year, yes.
+    - who: David Boder
+      start: '00:20:02.921'
+      end: '00:20:02.921'
+      u: So what did you do that day?
+    - who: Adolph Heisler
+      start: '00:20:05.106'
+      end: '00:20:05.106'
+      u: What we...There were three shifts. I always worked on the noon shift. So
+        we got up at eight o'clock in the morning.
+    - who: David Boder
+      start: '00:20:12.494'
+      end: '00:20:12.494'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:20:12.747'
+      end: '00:20:12.747'
+      u: And we washed up and got a coffee, a black coffee. And until dinner we idled
+        around.
+    - who: David Boder
+      start: '00:20:21.428'
+      end: '00:20:21.428'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:20:21.625'
+      end: '00:20:21.625'
+      u: And I went...I was not...I was young, and I was able to get along [?], so
+        I went there to a block to sweep up. I had a little protection [favoritism]
+        from the block elder, so I would always get a little extra soup.
+    - who: David Boder
+      start: '00:20:35.561'
+      end: '00:20:35.561'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:20:35.656'
+      end: '00:20:35.656'
+      u: And that kept me going.
+    - who: David Boder
+      start: '00:20:37.572'
+      end: '00:20:37.572'
+      u: Aha. But you worked for it.
+    - who: Adolph Heisler
+      start: '00:20:39.332'
+      end: '00:20:39.332'
+      u: Yes, for that I did extra work in the lager.
+    - who: David Boder
+      start: '00:20:41.954'
+      end: '00:20:41.954'
+      u: Aha. Nu, and then?
+    - who: Adolph Heisler
+      start: '00:20:44.269'
+      end: '00:20:44.269'
+      u: And then came...
+    - who: David Boder
+      start: '00:20:44.966'
+      end: '00:20:44.966'
+      u: From there you walked every day eight kilometers to work?
+    - who: Adolph Heisler
+      start: '00:20:48.675'
+      end: '00:20:48.675'
+      u: No. The work was not so far. We walked three kilometers.
+    - who: David Boder
+      start: '00:20:51.706'
+      end: '00:20:51.706'
+      u: Three kilometers there.
+    - who: Adolph Heisler
+      start: '00:20:52.637'
+      end: '00:20:52.637'
+      u: Yes.
+    - who: David Boder
+      start: '00:20:52.720'
+      end: '00:20:52.720'
+      u: And three kilometer back.
+    - who: Adolph Heisler
+      start: '00:20:53.939'
+      end: '00:20:53.939'
+      u: Yes.
+    - who: David Boder
+      start: '00:20:54.529'
+      end: '00:20:54.529'
+      u: Go on.
+    - who: Adolph Heisler
+      start: '00:20:55.458'
+      end: '00:20:55.458'
+      u: At eleven o'clock we ate dinner. Everyone got the liter...the liter of soup,
+        and we went down to work. We marched out by details, guarded...guarded by
+        the SS, and we went down.
+    - who: David Boder
+      start: '00:21:07.639'
+      end: '00:21:07.639'
+      u: Did you sing while going to work?
+    - who: Adolph Heisler
+      start: '00:21:09.867'
+      end: '00:21:09.867'
+      u: "[Bitterly:] It was already singing for us. - - - - without...without our
+        singing."
+    - who: David Boder
+      start: '00:21:13.539'
+      end: '00:21:13.539'
+      u: What do you mean by that?
+    - who: Adolph Heisler
+      start: '00:21:15.767'
+      end: '00:21:15.767'
+      u: We had no mood for singing.
+    - who: David Boder
+      start: '00:21:17.535'
+      end: '00:21:17.535'
+      u: Yes, but it is said that the SS demanded it.
+    - who: Adolph Heisler
+      start: '00:21:19.845'
+      end: '00:21:19.845'
+      u: From us they did not demand it. There were some lagers, yes. There were lagers
+        where they did demand it just to make fun, but not from us.
+    - who: David Boder
+      start: '00:21:26.643'
+      end: '00:21:26.643'
+      u: Aha.
+    - who: Adolph Heisler
+      start: '00:21:27.105'
+      end: '00:21:27.105'
+      u: They just yelled all the time. The people were falling on their feet, so
+        they would call, 'Left, two, left, two,' to keep in step.
+    - who: David Boder
+      start: '00:21:33.472'
+      end: '00:21:33.472'
+      u: Nu, and then?
+    - who: Adolph Heisler
+      start: '00:21:35.764'
+      end: '00:21:35.764'
+      u: And then we would ride down. There [in the mine] everyone knew his work-place.
+    - who: David Boder
+      start: '00:21:40.013'
+      end: '00:21:40.013'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:21:40.328'
+      end: '00:21:40.328'
+      u: We arrived there. The civilian [foreman] arrived, too, and we worked in the...in
+        the props. That means in the coal...it was sixty meters high. There we had
+        to bend down...[corrects himself] sixty centimeters...
+    - who: David Boder
+      start: '00:21:53.080'
+      end: '00:21:53.080'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:21:53.567'
+      end: '00:21:53.567'
+      u: "...high. And there we had to work lying down the whole eight hours."
+    - who: David Boder
+      start: '00:21:57.448'
+      end: '00:21:57.448'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:21:57.878'
+      end: '00:21:57.878'
+      u: And to throw, shovel beneath yourself. And that lasted for eight hours without...without
+        rest. Nothing. Thus we worked the eight hours. Every eight hours the shift
+        was changed. The others came, and we left. We arrived in the lager, and like
+        I said, we bathed and went again to bed.
+    - who: David Boder
+      start: '00:22:19.352'
+      end: '00:22:19.352'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:22:19.990'
+      end: '00:22:19.990'
+      u: Thus it went on until [one] thousand, nine...until '44.
+    - who: David Boder
+      start: '00:22:23.880'
+      end: '00:22:23.880'
+      u: You told me you had a free day on New Year.
+    - who: Adolph Heisler
+      start: '00:22:27.260'
+      end: '00:22:27.260'
+      u: Yes.
+    - who: David Boder
+      start: '00:22:27.517'
+      end: '00:22:27.517'
+      u: What did you do on that day?
+    - who: Adolph Heisler
+      start: '00:22:29.759'
+      end: '00:22:29.759'
+      u: What? We caught up on our sleep. We were very happy that we could get some
+        rest.
+    - who: David Boder
+      start: '00:22:34.113'
+      end: '00:22:34.113'
+      u: Yes. Nu?
+    - who: Adolph Heisler
+      start: '00:22:34.833'
+      end: '00:22:34.833'
+      u: Everyone slept the whole day.
+    - who: David Boder
+      start: '00:22:37.075'
+      end: '00:22:37.075'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:22:37.359'
+      end: '00:22:37.359'
+      u: Whatever one could.
+    - who: David Boder
+      start: '00:22:39.956'
+      end: '00:22:39.956'
+      u: And so that lasted how long?
+    - who: Adolph Heisler
+      start: '00:22:42.116'
+      end: '00:22:42.116'
+      u: That lasted until, I believe, '45. Then the Russians...
+    - who: David Boder
+      start: '00:22:46.716'
+      end: '00:22:46.716'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:22:47.073'
+      end: '00:22:47.073'
+      u: In December of '44 the Russians made an attack on the region. So we started
+        to go away from there. We left the coal mines, and...
+    - who: David Boder
+      start: '00:22:56.813'
+      end: '00:22:56.813'
+      u: What do you mean, you left? You were led away?
+    - who: Adolph Heisler
+      start: '00:22:58.508'
+      end: '00:22:58.508'
+      u: Yes, taken away.
+    - who: David Boder
+      start: '00:22:59.592'
+      end: '00:22:59.592'
+      u: Nu, and where were you led?
+    - who: Adolph Heisler
+      start: '00:23:01.496'
+      end: '00:23:01.496'
+      u: And so, we took to the road on foot.
+    - who: David Boder
+      start: '00:23:04.626'
+      end: '00:23:04.626'
+      u: What did they do with the coal mines? Were the mines...
+    - who: Adolph Heisler
+      start: '00:23:07.053'
+      end: '00:23:07.053'
+      u: Abandoned.
+    - who: David Boder
+      start: '00:23:07.866'
+      end: '00:23:07.866'
+      u: Yes, abandoned.
+    - who: Adolph Heisler
+      start: '00:23:08.813'
+      end: '00:23:08.813'
+      u: And so we...we had...we were eight kilometers from Auschwitz, so we saw Auschwitz
+        burning. They set everything on fire, the entire lager. The crematories were
+        bombed [blasted]. They demolished everything. And we walked on foot. And so
+        everyone had...in the last moments everybody was able to loot bread and everything,
+        because everything was open. So everyone...
+    - who: David Boder
+      start: '00:23:28.488'
+      end: '00:23:28.488'
+      u: You could steal bread?
+    - who: Adolph Heisler
+      start: '00:23:29.671'
+      end: '00:23:29.671'
+      u: Yes.
+    - who: David Boder
+      start: '00:23:30.250'
+      end: '00:23:30.250'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:23:30.838'
+      end: '00:23:30.838'
+      u: And everyone grabbed a loaf. We killed each other for a piece of bread.
+    - who: David Boder
+      start: '00:23:35.852'
+      end: '00:23:35.852'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:23:36.359'
+      end: '00:23:36.359'
+      u: And we walked on the road. There was snow of forty centimeters, a half meter
+        of snow.
+    - who: David Boder
+      start: '00:23:42.851'
+      end: '00:23:42.851'
+      u: Slowly. Yes.
+    - who: Adolph Heisler
+      start: '00:23:44.665'
+      end: '00:23:44.665'
+      u: And we were not dressed well. But of course we had to walk very fast, because
+        they were afraid of the Russians, that the Russians will catch up with us.
+    - who: David Boder
+      start: '00:23:53.771'
+      end: '00:23:53.771'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:23:54.393'
+      end: '00:23:54.393'
+      u: And we had to...
+    - who: David Boder
+      start: '00:23:55.945'
+      end: '00:23:55.945'
+      u: Why did they not want the Russians to get hold of the prisoners?
+    - who: Adolph Heisler
+      start: '00:23:59.615'
+      end: '00:23:59.615'
+      u: Why? Why should they want [that]? They were afraid, of course, that we would
+        tell all those stories so that the whole world would know. Now the whole world
+        does know all the stories, but...and then we were of use to them for work.
+        We were then transported to Buchenwald.
+    - who: David Boder
+      start: '00:24:15.213'
+      end: '00:24:15.213'
+      u: Aha. And so you were walking. How far did you walk on foot?
+    - who: Adolph Heisler
+      start: '00:24:18.260'
+      end: '00:24:18.260'
+      u: We walked a hundred and forty kilometers on foot. It was in two days.
+    - who: David Boder
+      start: '00:24:22.697'
+      end: '00:24:22.697'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:24:23.315'
+      end: '00:24:23.315'
+      u: And one night we slept, because the SS themselves could not walk any more.
+        They were healthy, it is true, but they, too, had no more strength, because
+        we made eighty kilometers.
+    - who: David Boder
+      start: '00:24:33.473'
+      end: '00:24:33.473'
+      u: Slowly.
+    - who: Adolph Heisler
+      start: '00:24:34.733'
+      end: '00:24:34.733'
+      u: "[After] the eighty kilometers we arrived there. We were chased into a field..."
+    - who: David Boder
+      start: '00:24:40.472'
+      end: '00:24:40.472'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:24:40.786'
+      end: '00:24:40.786'
+      u: "...of snow, and there they began to shoot, and then they said for everybody
+        to lie down, because they did not want us to stand."
+    - who: David Boder
+      start: '00:24:49.542'
+      end: '00:24:49.542'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:24:49.669'
+      end: '00:24:49.669'
+      u: And there was no room to stand on that field. And they said to lie down.
+        And they began to yell. One simply fell on top of another, because they were
+        shooting over our heads. Many also fell there.
+    - who: David Boder
+      start: '00:25:02.992'
+      end: '00:25:02.992'
+      u: Why did they want you to lie down?
+    - who: Adolph Heisler
+      start: '00:25:05.180'
+      end: '00:25:05.180'
+      u: They had such a fantasy in their heads.
+    - who: David Boder
+      start: '00:25:07.385'
+      end: '00:25:07.385'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:25:08.199'
+      end: '00:25:08.199'
+      u: And everything [everybody] lay down. And there was snow and a severe frost.
+        The night was terribly cold. I myself was surprised how I lived through it
+        a whole night. I had fallen into the snow, and I slept there. In the morning
+        I arose completely wet, because the snow had melted. I am surprised today
+        how I pulled through that night. And in the morning we got up, and fifty per
+        cent remained lying there in the snow. And the rest that had remained, we
+        had to bury them there, dig ditches and bury them. And we went on.
+    - who: David Boder
+      start: '00:25:47.896'
+      end: '00:25:47.896'
+      u: With what did you dig the ditches?
+    - who: Adolph Heisler
+      start: '00:25:49.629'
+      end: '00:25:49.629'
+      u: They had brought tools.
+    - who: David Boder
+      start: '00:25:52.119'
+      end: '00:25:52.119'
+      u: They had brought tools.
+    - who: Adolph Heisler
+      start: '00:25:52.860'
+      end: '00:25:52.860'
+      u: Yes.
+    - who: David Boder
+      start: '00:25:53.540'
+      end: '00:25:53.540'
+      u: And what was done to those who were not yet dead?
+    - who: Adolph Heisler
+      start: '00:25:57.692'
+      end: '00:25:57.692'
+      u: We had to bury them?
+    - who: David Boder
+      start: '00:26:00.478'
+      end: '00:26:00.478'
+      u: The living?
+    - who: Adolph Heisler
+      start: '00:26:02.336'
+      end: '00:26:02.336'
+      u: No. The living had to bury the dead.
+    - who: David Boder
+      start: '00:26:05.156'
+      end: '00:26:05.156'
+      u: Yes, but the ones who were sick?
+    - who: Adolph Heisler
+      start: '00:26:07.130'
+      end: '00:26:07.130'
+      u: They were also while still ali-...alive thrown into the grave. Who...whoever
+        was not able to walk was shot and thrown into the grave.
+    - who: David Boder
+      start: '00:26:13.551'
+      end: '00:26:13.551'
+      u: Shot and thrown into the grave.
+    - who: Adolph Heisler
+      start: '00:26:15.599'
+      end: '00:26:15.599'
+      u: Yes. But there were also many people on the road who were not able to walk
+        any more, so they would take a blanket over the head, put the head in it...
+    - who: David Boder
+      start: '00:26:22.258'
+      end: '00:26:22.258'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:26:22.437'
+      end: '00:26:22.437'
+      u: "...and sit down. The SS man would pass by and finish him off with a shot."
+    - who: David Boder
+      start: '00:26:25.678'
+      end: '00:26:25.678'
+      u: Did he at least see if the man was dead when he shot him?
+    - who: Adolph Heisler
+      start: '00:26:28.669'
+      end: '00:26:28.669'
+      u: If he was not dead he remained that way. He waited until he died [?].
+    - who: David Boder
+      start: '00:26:33.713'
+      end: '00:26:33.713'
+      u: Hm. Nu?
+    - who: Adolph Heisler
+      start: '00:26:36.231'
+      end: '00:26:36.231'
+      u: And the next day, after we buried them, we walked on. They said we still
+        have fifty kilometers to a train. And there we will board a train, because
+        here they do not have a free [proper] railroad station for...
+    - who: David Boder
+      start: '00:26:47.289'
+      end: '00:26:47.289'
+      u: One moment. [Adjusting the equipment.] And so go on. It was fifty kilometers
+        to the train.
+    - who: Adolph Heisler
+      start: '00:26:51.137'
+      end: '00:26:51.137'
+      u: Yes. And we walked the fifty kilometers still on foot. Many people fell on
+        the way, because they could not...not make it. So they were shot there on
+        the road, and left lying thus on the road. And we, who were still able to
+        make it, arrived there, at a railroad station. It was in Breslau, I believe.
+        And there we waited for RR-cars. And after several hours -- we sat there in
+        the snow -- after several hours rr- cars arrived, and we boarded the RR-cars.
+        But the RR-cars were also terrible, because the RR-cars were, of course, completely
+        open, without roofs. They were those half-RR-cars [flat cars or gondolas].
+        There was much snow, and we had to sit in the snow.
+    - who: David Boder
+      start: '00:27:33.839'
+      end: '00:27:33.839'
+      u: There was snow in the RR-cars?
+    - who: Adolph Heisler
+      start: '00:27:35.884'
+      end: '00:27:35.884'
+      u: Yes, because they were without roofs.
+    - who: David Boder
+      start: '00:27:37.822'
+      end: '00:27:37.822'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:27:38.456'
+      end: '00:27:38.456'
+      u: And we sat there in the snow. And the journey to Buchenwald took eight days.
+        We did not know...
+    - who: David Boder
+      start: '00:27:46.103'
+      end: '00:27:46.103'
+      u: Were there any SS with you in the RR-cars?
+    - who: Adolph Heisler
+      start: '00:27:48.476'
+      end: '00:27:48.476'
+      u: Yes. There was an SS man in each RR-car.
+    - who: David Boder
+      start: '00:27:50.191'
+      end: '00:27:50.191'
+      u: And where was the SS standing, also in the snow?
+    - who: Adolph Heisler
+      start: '00:27:52.888'
+      end: '00:27:52.888'
+      u: Yes, but he, of course, was well dressed.
+    - who: David Boder
+      start: '00:27:54.755'
+      end: '00:27:54.755'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:27:55.123'
+      end: '00:27:55.123'
+      u: And they were constantly changing [the guard]. On ever...every stations others
+        would take over.
+    - who: David Boder
+      start: '00:28:00.891'
+      end: '00:28:00.891'
+      u: Aha.
+    - who: Adolph Heisler
+      start: '00:28:01.253'
+      end: '00:28:01.253'
+      u: And at the end there were two RR-cars, passenger cars, which were heated.
+    - who: David Boder
+      start: '00:28:05.287'
+      end: '00:28:05.287'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:28:05.481'
+      end: '00:28:05.481'
+      u: And the SS were living there.
+    - who: David Boder
+      start: '00:28:07.218'
+      end: '00:28:07.218'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:28:07.509'
+      end: '00:28:07.509'
+      u: And the guards would always be changed.
+    - who: David Boder
+      start: '00:28:09.342'
+      end: '00:28:09.342'
+      u: Well, if you were together for so many days, didn't people talk to the SS
+        man? Didn't people talk with him? Didn't he himself talk?
+    - who: Adolph Heisler
+      start: '00:28:16.820'
+      end: '00:28:16.820'
+      u: Yes, he said.... There would be a good one. So he wanted to talk, and there
+        would be a mean one who would take the rifle and beat one if one said a word
+        to him.
+    - who: David Boder
+      start: '00:28:24.964'
+      end: '00:28:24.964'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:28:25.036'
+      end: '00:28:25.036'
+      u: It was the response [?] if one still dared to open [one's mouth] to say a
+        word to him.
+    - who: David Boder
+      start: '00:28:29.013'
+      end: '00:28:29.013'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:28:29.455'
+      end: '00:28:29.455'
+      u: The same trick they would also do in the lager. One would be walking along,
+        and he [the prisoner] greated him. So he [the SS] would come over to him and
+        ask whether he is his comrade [implying that such an idea was, of course,
+        presumptuous] that he greets him. If he [the prisoner] did not greet, then
+        he would ask why he does not greet him. So he would also beat him. So we would
+        not know ourselves what to do.
+    - who: David Boder
+      start: '00:28:46.183'
+      end: '00:28:46.183'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:28:46.320'
+      end: '00:28:46.320'
+      u: If there was a good one, he would talk. So we would ask him where we were
+        being taken.
+    - who: David Boder
+      start: '00:28:50.044'
+      end: '00:28:50.044'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:28:50.432'
+      end: '00:28:50.432'
+      u: So he said he does not know himself. He also has [just] an order from the
+        headquarters, and he does not know either where we are being taken.
+    - who: David Boder
+      start: '00:28:58.875'
+      end: '00:28:58.875'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:28:59.225'
+      end: '00:28:59.225'
+      u: But then we saw that we are arriving in Buchenwald.
+    - who: David Boder
+      start: '00:29:01.739'
+      end: '00:29:01.739'
+      u: How?
+    - who: Adolph Heisler
+      start: '00:29:01.915'
+      end: '00:29:01.915'
+      u: When we arrived...
+    - who: David Boder
+      start: '00:29:02.859'
+      end: '00:29:02.859'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:29:03.058'
+      end: '00:29:03.058'
+      u: "...there, after eight days riding on the...on the train..."
+    - who: David Boder
+      start: '00:29:06.712'
+      end: '00:29:06.712'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:29:07.749'
+      end: '00:29:07.749'
+      u: We arrived there in Buchenwald. But we were already very weak from the journey.
+    - who: David Boder
+      start: '00:29:11.920'
+      end: '00:29:11.920'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:29:12.405'
+      end: '00:29:12.405'
+      u: My own head was spinning after the bath. We were bathed there, because by
+        the Germans the ones arriving in an...another lager were bathed.
+    - who: David Boder
+      start: '00:29:22.878'
+      end: '00:29:22.878'
+      u: Nu, what does it mean...
+    - who: Adolph Heisler
+      start: '00:29:23.501'
+      end: '00:29:23.501'
+      u: Disinfection.
+    - who: David Boder
+      start: '00:29:24.113'
+      end: '00:29:24.113'
+      u: "...your head was spinning?"
+    - who: Adolph Heisler
+      start: '00:29:25.300'
+      end: '00:29:25.300'
+      u: Yes. I could not...I could not come to myself.
+    - who: David Boder
+      start: '00:29:28.273'
+      end: '00:29:28.273'
+      u: What does that mean?
+    - who: Adolph Heisler
+      start: '00:29:29.403'
+      end: '00:29:29.403'
+      u: I became weak after the bath. I was very weak and after a hot bath...
+    - who: David Boder
+      start: '00:29:34.864'
+      end: '00:29:34.864'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:29:34.992'
+      end: '00:29:34.992'
+      u: That sort of melted my bones, because I was completely frozen.
+    - who: David Boder
+      start: '00:29:38.911'
+      end: '00:29:38.911'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:29:39.088'
+      end: '00:29:39.088'
+      u: I was hardly able to walk over to the bath.
+    - who: David Boder
+      start: '00:29:41.919'
+      end: '00:29:41.919'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:29:42.293'
+      end: '00:29:42.293'
+      u: And then I was...after a hot bath my head was spinning. So I sat down for
+        a little while and more or less came to myself.
+    - who: David Boder
+      start: '00:29:49.799'
+      end: '00:29:49.799'
+      u: Aha.
+    - who: Adolph Heisler
+      start: '00:29:45.757'
+      end: '00:29:45.757'
+      u: Then we were sent...after the bath we were sent into.... There they again
+        shore us everywhere [?]. The hair was shorn off all over, and we were led
+        into blocks...into barracks. And there we were for two days in the barracks.
+        And suddenly we hear [that] we are going to work again, to another place.
+        And in the other place we were chased out one early morning in the snow. The
+        whole block was called out, and we were not told where we were going, and
+        it was also a cold day, and we were packed into RR-cars. And we rode one day.
+        It was good that it did not take any longer.
+    - who: David Boder
+      start: '00:30:31.291'
+      end: '00:30:31.291'
+      u: Again from Buchenwald?
+    - who: Adolph Heisler
+      start: '00:30:32.432'
+      end: '00:30:32.432'
+      u: From Buchenwald to ano-...it was in Germany itself, in Thuringia.
+    - who: David Boder
+      start: '00:30:36.309'
+      end: '00:30:36.309'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:30:36.993'
+      end: '00:30:36.993'
+      u: Karawinki [or Trawinki -- the recording is not clear; both names appear incorrect
+        unless we deal with a makeshift name invented by the prisoners].
+    - who: David Boder
+      start: '00:30:37.854'
+      end: '00:30:37.854'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:30:38.539'
+      end: '00:30:38.539'
+      u: And we arrived in a lager. And so there [it] was much worse yet than in the
+        coal mines.
+    - who: David Boder
+      start: '00:30:43.867'
+      end: '00:30:43.867'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:30:44.230'
+      end: '00:30:44.230'
+      u: It was a lager [word not clear]. There were munition depots. And we lived
+        in a cellar, in underground bunkers.
+    - who: David Boder
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:30:52.671'
+      end: '00:30:52.671'
+      u: In a forest.
+    - who: David Boder
+      start: '00:30:53.783'
+      end: '00:30:53.783'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:30:54.001'
+      end: '00:30:54.001'
+      u: And there the...the...the treatment was much worse than anywhere else.
+    - who: David Boder
+      start: '00:30:58.014'
+      end: '00:30:58.014'
+      u: Why?
+    - who: Adolph Heisler
+      start: '00:30:59.321'
+      end: '00:30:59.321'
+      u: Because there we did not bathe. There [in other camps] one still could bathe.
+        We had no water. Three months passed that we did not have any water on our
+        faces whatsoever with which to wash ourselves. And the lice ate us up completely.
+    - who: David Boder
+      start: '00:31:14.703'
+      end: '00:31:14.703'
+      u: What did you do there?
+    - who: Adolph Heisler
+      start: '00:31:16.542'
+      end: '00:31:16.542'
+      u: Worked. Dug various ditches. Loaded munitions.
+    - who: David Boder
+      start: '00:31:21.040'
+      end: '00:31:21.040'
+      u: Aha.
+    - who: Adolph Heisler
+      start: '00:31:21.573'
+      end: '00:31:21.573'
+      u: They were building there a large factory in a...underneath a forest.
+    - who: David Boder
+      start: '00:31:25.800'
+      end: '00:31:25.800'
+      u: In '45 already?
+    - who: Adolph Heisler
+      start: '00:31:27.069'
+      end: '00:31:27.069'
+      u: In '45.
+    - who: David Boder
+      start: '00:31:27.601'
+      end: '00:31:27.601'
+      u: An underground factory...
+    - who: Adolph Heisler
+      start: '00:31:29.020'
+      end: '00:31:29.020'
+      u: Yes.
+    - who: David Boder
+      start: '00:31:29.281'
+      end: '00:31:29.281'
+      u: "...they were building there. Nu?"
+    - who: Adolph Heisler
+      start: '00:31:31.670'
+      end: '00:31:31.670'
+      u: And there it was something terrible. I talked there to some people from Poland
+        who had been there already for six years. They said they had gone through
+        the worst lagers, Majdanek, Treblinka, but they were never in such a place.
+    - who: David Boder
+      start: '00:31:48.197'
+      end: '00:31:48.197'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:31:48.944'
+      end: '00:31:48.944'
+      u: And there we were.... Then I, too, became sick from the many lice, in the
+        last two weeks before the liberation.
+    - who: David Boder
+      start: '00:31:57.961'
+      end: '00:31:57.961'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:31:58.913'
+      end: '00:31:58.913'
+      u: When I became sick, I went to a doctor for eight days. Would always go in
+        the evenings, pleading that I cannot work. He did not want to believe me.
+    - who: David Boder
+      start: '00:32:07.923'
+      end: '00:32:07.923'
+      u: Was he a Jewish doctor?
+    - who: Adolph Heisler
+      start: '00:32:09.164'
+      end: '00:32:09.164'
+      u: Yes.
+    - who: David Boder
+      start: '00:32:09.752'
+      end: '00:32:09.752'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:32:10.238'
+      end: '00:32:10.238'
+      u: From Poland, a Jew. He...he was a very mean one. There were also among the
+        Jews themselves very bad people. Because they would...very brutal persons.
+    - who: David Boder
+      start: '00:32:19.959'
+      end: '00:32:19.959'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:32:21.341'
+      end: '00:32:21.341'
+      u: And then he...he spared me, because, after all, I was young. I was then seventeen
+        years old. And he put me in the hospital, in the sick-ward. There I was eight
+        days. Then I was sent on a transport that was being sent to the crematory.
+    - who: David Boder
+      start: '00:32:41.606'
+      end: '00:32:41.606'
+      u: Where were the crematories there?
+    - who: Adolph Heisler
+      start: '00:32:43.296'
+      end: '00:32:43.296'
+      u: They were near. Eight kilometers from there was also a lager, a big lager,
+        Ohrdurf [?]. And there they also had set up a crematory.
+    - who: David Boder
+      start: '00:32:53.183'
+      end: '00:32:53.183'
+      u: Did they gas the people there?
+    - who: Adolph Heisler
+      start: '00:32:55.600'
+      end: '00:32:55.600'
+      u: No, they would just kill them, finish.... They were anyway already half dead.
+        So they would just kill them with rifles or what not [?]. But it was our luck
+        that the Americans were already...
+    - who: David Boder
+      start: '00:33:10.227'
+      end: '00:33:10.227'
+      u: Now where were you when the Americans arrived?
+    - who: Adolph Heisler
+      start: '00:33:14.314'
+      end: '00:33:14.314'
+      u: We were there in that...in that lager where we had been taken to be pulver-...to
+        be gassed. And we...
+    - who: David Boder
+      start: '00:33:21.517'
+      end: '00:33:21.517'
+      u: What does it mean, in a lager to be.... In which lager was it?
+    - who: Adolph Heisler
+      start: '00:33:23.654'
+      end: '00:33:23.654'
+      u: It was in Ohrdurf. After I became sick I was naturally taken away from there.
+    - who: David Boder
+      start: '00:33:27.508'
+      end: '00:33:27.508'
+      u: Where to?
+    - who: Adolph Heisler
+      start: '00:33:28.617'
+      end: '00:33:28.617'
+      u: Eight kilometers away there was a lager where people would be...there was
+        a crematory. The people who...from there would come very many sick people.
+        Because of the...it was terrible there.
+    - who: David Boder
+      start: '00:33:37.342'
+      end: '00:33:37.342'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:33:38.527'
+      end: '00:33:38.527'
+      u: So they were there killed and burned.
+    - who: David Boder
+      start: '00:33:41.979'
+      end: '00:33:41.979'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:33:43.298'
+      end: '00:33:43.298'
+      u: And when we arrived, it was already the last transport. They did not have
+        any more time for it. They...they were already busy with themselves, because
+        the Americans were already approaching it [the lager].
+    - who: David Boder
+      start: '00:33:53.778'
+      end: '00:33:53.778'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:33:54.593'
+      end: '00:33:54.593'
+      u: And we lay there another eight days. And we were supposed to remain there
+        until the lager will be shot...all the people there will be shot, or they
+        will blast the lager [with explosives], or something like that.
+    - who: David Boder
+      start: '00:34:09.145'
+      end: '00:34:09.145'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:34:09.650'
+      end: '00:34:09.650'
+      u: And luckily we were taken and transported to Buchenwald from there.
+    - who: David Boder
+      start: '00:34:16.182'
+      end: '00:34:16.182'
+      u: Transported back to Buchenwald.
+    - who: Adolph Heisler
+      start: '00:34:16.942'
+      end: '00:34:16.942'
+      u: Yes, and so...
+    - who: David Boder
+      start: '00:34:18.443'
+      end: '00:34:18.443'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:34:19.029'
+      end: '00:34:19.029'
+      u: But with me it was a special stroke of luck. I don't know how I succeeded
+        in that whole affair, because all were transported in the rr-... [correcting
+        himself] on foot.
+    - who: David Boder
+      start: '00:34:31.977'
+      end: '00:34:31.977'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:34:32.161'
+      end: '00:34:32.161'
+      u: And I had told myself -- there were [other] sick people -- I am not going
+        on foot any more. Let them kill me here. I have to go and suffer and then
+        die? I decided to die here on the spot.
+    - who: David Boder
+      start: '00:34:43.282'
+      end: '00:34:43.282'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:34:44.307'
+      end: '00:34:44.307'
+      u: And then there came, in the last moment, trucks, and the sick were loaded
+        on the trucks, and they were taken away.
+    - who: David Boder
+      start: '00:34:52.910'
+      end: '00:34:52.910'
+      u: To Buchenwald?
+    - who: Adolph Heisler
+      start: '00:34:53.734'
+      end: '00:34:53.734'
+      u: Yes.
+    - who: David Boder
+      start: '00:34:54.311'
+      end: '00:34:54.311'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:34:54.760'
+      end: '00:34:54.760'
+      u: 'And that was our luck. [The following note was inserted in the first-draft
+        translation by Mr. Bernard Wolf who himself was in Buchenwald at that time:
+        He is probably referring here to the death march from Ohrdurf to Buchenwald.
+        ''Twelve thousand prisoners left Ohrdurf, less than half arrived in Buchenwald.'']
+        From there we came to Buchenwald, and we were pushed into.... We believed
+        that.... In Buchenwald we were put near the crematory, so we believed that
+        we were being taken to the crematory, but luckily...'
+    - who: David Boder
+      start: '00:35:06.748'
+      end: '00:35:06.748'
+      u: Yes?
+    - who: Adolph Heisler
+      start: '00:35:07.471'
+      end: '00:35:07.471'
+      u: "...we were not [taken] to the crematory, but were [taken] to the old lager,
+        among the people who were in quarantine. And we were lodged there for a few
+        days."
+    - who: David Boder
+      start: '00:35:19.060'
+      end: '00:35:19.060'
+      u: And then?
+    - who: Adolph Heisler
+      start: '00:35:20.176'
+      end: '00:35:20.176'
+      u: But we knew that the Americans were already near, because they were advancing
+        rapidly. Every night we could hear the shooting. And Buchenwald, too, began
+        to be evacuated to...to take away the people.
+    - who: David Boder
+      start: '00:35:32.553'
+      end: '00:35:32.553'
+      u: Where to?
+    - who: Adolph Heisler
+      start: '00:35:34.309'
+      end: '00:35:34.309'
+      u: Well, I don't know where to.
+    - who: David Boder
+      start: '00:35:36.148'
+      end: '00:35:36.148'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:35:36.330'
+      end: '00:35:36.330'
+      u: Because I remained there still. And it was said that those who could walk,
+        go, and who cannot walk, he...then the lager will be destroyed.
+    - who: David Boder
+      start: '00:35:45.412'
+      end: '00:35:45.412'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:35:45.659'
+      end: '00:35:45.659'
+      u: In the last hour.
+    - who: David Boder
+      start: '00:35:46.950'
+      end: '00:35:46.950'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:35:47.522'
+      end: '00:35:47.522'
+      u: And the healthy people went, but our block said we are not going. They should
+        kill us here, and we shall remain here.
+    - who: David Boder
+      start: '00:35:56.295'
+      end: '00:35:56.295'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:35:57.205'
+      end: '00:35:57.205'
+      u: And...but still on the next day -- it was on Sunday -- the SS came and began
+        to throw [us] out through the windows and to chase.
+    - who: David Boder
+      start: '00:36:08.943'
+      end: '00:36:08.943'
+      u: Threw out, what?
+    - who: Adolph Heisler
+      start: '00:36:10.960'
+      end: '00:36:10.960'
+      u: Threw us out the windows.
+    - who: David Boder
+      start: '00:36:12.060'
+      end: '00:36:12.060'
+      u: Yes. They threw out the people?
+    - who: Adolph Heisler
+      start: '00:36:13.653'
+      end: '00:36:13.653'
+      u: Yes.
+    - who: David Boder
+      start: '00:36:13.998'
+      end: '00:36:13.998'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:36:14.190'
+      end: '00:36:14.190'
+      u: Through the windows. And started to drive [them] to the appell square, and
+        from there we should be taken for evacuation.
+    - who: David Boder
+      start: '00:36:20.137'
+      end: '00:36:20.137'
+      u: On what story [floor] was it [in the hospital]?
+    - who: Adolph Heisler
+      start: '00:36:22.199'
+      end: '00:36:22.199'
+      u: It was on...it had no stories.
+    - who: David Boder
+      start: '00:36:25.994'
+      end: '00:36:25.994'
+      u: Why through the windows and not through the doors?
+    - who: Adolph Heisler
+      start: '00:36:28.690'
+      end: '00:36:28.690'
+      u: Because nobody wanted to go.
+    - who: David Boder
+      start: '00:36:30.359'
+      end: '00:36:30.359'
+      u: Aha. And?
+    - who: Adolph Heisler
+      start: '00:36:31.403'
+      end: '00:36:31.403'
+      u: Everyone was reluctant to be evacuated.
+    - who: David Boder
+      start: '00:36:33.926'
+      end: '00:36:33.926'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:36:34.528'
+      end: '00:36:34.528'
+      u: And they poured water over these people. Nobody wan-...they still did not
+        carry it out, because the people told themselves.... They called to their
+        faces to shoot them.
+    - who: David Boder
+      start: '00:36:44.266'
+      end: '00:36:44.266'
+      u: Nu?
+    - who: Adolph Heisler
+      start: '00:36:44.993'
+      end: '00:36:44.993'
+      u: But they did not shoot. I do not know why. And on the next day, the same
+        story. Finally they succeeded. They assembled the people on the appell square.
+    - who: David Boder
+      start: '00:36:56.328'
+      end: '00:36:56.328'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:36:57.237'
+      end: '00:36:57.237'
+      u: And I went up there, too. And I saw standing there a transport of youths
+        [youngsters].
+    - who: David Boder
+      start: '00:37:03.587'
+      end: '00:37:03.587'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:37:03.769'
+      end: '00:37:03.769'
+      u: And that was for a reason [?]. They had been selected to remain in the lager.
+        They were not suitable for transport. And so I went over there. I, of course,
+        am young too.
+    - who: David Boder
+      start: '00:37:13.830'
+      end: '00:37:13.830'
+      u: Hm.
+    - who: Adolph Heisler
+      start: '00:37:14.465'
+      end: '00:37:14.465'
+      u: And I went over and mingled in, and returned to the lager. And these people
+        left on a transport. And this was on Tuesday already. And on Wednesday...that
+        day was the eighth day that we were completely without food. Wednesday morning
+        we heard the shooting on the part of the Germans [?], and at ten o'clock we
+        heard an enemy...enemy alarm [to be sounded on the approach of the enemy].
+        The Americans had arrived, one American tank, and went back. And by eleven
+        o'clock planes came over. And at three-thirty we were liberated by the Americans.
+        The first Americans had arrived. The Germans had abandoned the lager entirely.
+    - who: David Boder
+      start: '00:37:57.872'
+      end: '00:37:57.872'
+      u: When did the Germans abandon the lager?
+    - who: Adolph Heisler
+      start: '00:38:00.181'
+      end: '00:38:00.181'
+      u: They left at one o'clock in the afternoon.
+    - who: David Boder
+      start: '00:38:02.029'
+      end: '00:38:02.029'
+      u: What did they say?
+    - who: Adolph Heisler
+      start: '00:38:03.736'
+      end: '00:38:03.736'
+      u: Nothing. We only saw them leaving the watchtowers. It was so. Afterwards
+        we dis-...dis-...discovered...heard that from Weimar the lager commander had
+        telephoned to demolish the lager, [he telephoned] one hour after the liberation.
+        He did not know yet that the lager had already been liberated. It was at half
+        past four. So the lager elder -- he was a prisoner -- answered him, 'Yes,
+        yes, we will demolish their heads.' If we had not been liberated an hour before,
+        they would have demolished the lager.
+    - who: David Boder
+      start: '00:38:39.572'
+      end: '00:38:39.572'
+      u: What did he answer him?
+    - who: Adolph Heisler
+      start: '00:38:41.631'
+      end: '00:38:41.631'
+      u: That [now] he should already telephone to Lord God and not to us.
+    - who: David Boder
+      start: '00:38:46.101'
+      end: '00:38:46.101'
+      u: Aha. Nu?
+    - who: Adolph Heisler
+      start: '00:38:48.527'
+      end: '00:38:48.527'
+      u: And thus we were liberated. And so, [about] this liberation, people had imagined
+        whole stories, great happiness, but many people also died after the liberation,
+        because they received very fat food. And they completely ruined their stomachs.
+        They got stomach aches, and they died from that, too.
+    - who: David Boder
+      start: '00:39:08.996'
+      end: '00:39:08.996'
+      u: Yes. And then where...
+    - who: Adolph Heisler
+      start: '00:39:12.855'
+      end: '00:39:12.855'
+      u: And then I was taken away to a youth block, and there I was for a certain
+        time. There I became sick with spotted typhus.
+    - who: David Boder
+      start: '00:39:22.741'
+      end: '00:39:22.741'
+      u: After the liberation you had spotted typhus?
+    - who: Adolph Heisler
+      start: '00:39:24.532'
+      end: '00:39:24.532'
+      u: Yes.
+    - who: David Boder
+      start: '00:39:24.998'
+      end: '00:39:24.998'
+      u: Yes.
+    - who: Adolph Heisler
+      start: '00:39:25.812'
+      end: 
+      u: There I lay four weeks, and then I heard about the transport going to Switzerland.
+        So I reported for it, to go to Switzerland.
+transcript: {}
+translation: {}

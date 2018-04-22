@@ -24,5 +24,891 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: de
+    interview:
+    - who: David Boder
+      start: '00:00:04.980'
+      end: '00:00:04.980'
+      u: "[In English] August 28, 1946. Geneva, at the school of the ORT. I shall
+        try now to interview two instructors. [Unintelligible]...a good Russian name,
+        that makes one homesick, and Mr. Joseph Freinhoffer. eh, Mrs. Borgman is,
+        eh, Mrs. Borgman is the secretary of the, eh, place and Mr. Freinhoffer is
+        the chief of the, eh, shop."
+    - who: David Boder
+      start: '00:01:01.167'
+      end: '00:01:01.167'
+      u: "[In German] Also, Herr, äh, Freinhoffer. Können Sie mal sagen, wie lange
+        arbeiten Sie jetzt hier in der ORT Schule?"
+    - who: Joseph Freinhoffer
+      start: '00:01:09.243'
+      end: '00:01:09.243'
+      u: Seit Anfang Mai 1944.
+    - who: David Boder
+      start: '00:01:13.590'
+      end: '00:01:13.590'
+      u: Sind Sie Schweizer, Herr Freinhoffer?
+    - who: Joseph Freinhoffer
+      start: '00:01:15.389'
+      end: '00:01:15.389'
+      u: Jawohl.
+    - who: David Boder
+      start: '00:01:16.735'
+      end: '00:01:16.735'
+      u: Und was war Ihre Beschäftigung, bevor Sie hier angefangen haben?
+    - who: Joseph Freinhoffer
+      start: '00:01:20.357'
+      end: '00:01:20.357'
+      u: Vorher war ich an der Gewerbeschule Zürich Fachlehrer.
+    - who: David Boder
+      start: '00:01:24.570'
+      end: '00:01:24.570'
+      u: Also Sie sind ein geschulter Fachlehrer?
+    - who: Joseph Freinhoffer
+      start: '00:01:29.067'
+      end: '00:01:29.067'
+      u: Das heißt ein, äh, geschulter Fachmann, der sich weitergebildet hat zum Fachlehrer.
+    - who: David Boder
+      start: '00:01:34.470'
+      end: '00:01:34.470'
+      u: Aha. Ist das in der Schweiz etwas Verschiedenes?
+    - who: Joseph Freinhoffer
+      start: '00:01:39.468'
+      end: '00:01:39.468'
+      u: Nein, im Grunde genommen nicht. Ein Fachlehrer bildet sich aus einem guten
+        Fachmann.
+    - who: David Boder
+      start: '00:01:46.005'
+      end: '00:01:46.005'
+      u: Aha. Nun, sagen Sie mir, äh, und, äh, Frau Borgman, wie lange sind Sie mit
+        der Schule?
+    - who: "[first name unknown] Borgman"
+      start: '00:01:54.064'
+      end: '00:01:54.064'
+      u: Ich bin seit dem 15. August 1944 hier.
+    - who: David Boder
+      start: '00:01:58.096'
+      end: '00:01:58.096'
+      u: Aha. Wie alt ist denn die Schule im Ganzen?
+    - who: "[first name unknown] Borgman"
+      start: '00:02:01.144'
+      end: '00:02:01.144'
+      u: Die Schule hat angefangen Ende April 1944.
+    - who: David Boder
+      start: '00:02:04.223'
+      end: '00:02:04.223'
+      u: Aha. Und das ist eine ORT Schule?
+    - who: "[first name unknown] Borgman"
+      start: '00:02:07.259'
+      end: '00:02:07.259'
+      u: Ja.
+    - who: David Boder
+      start: '00:02:08.587'
+      end: '00:02:08.587'
+      u: Nun, sagen Sie mal, Herr Freinhoffer, wie viel Jungen haben Sie?
+    - who: Joseph Freinhoffer
+      start: '00:02:13.718'
+      end: '00:02:13.718'
+      u: Jetzt haben wir 36 Jungen.
+    - who: David Boder
+      start: '00:02:16.211'
+      end: '00:02:16.211'
+      u: Ja. Waren Sie auch Lehrer, bevor Sie hergekommen sind, nicht wahr?
+    - who: Joseph Freinhoffer
+      start: '00:02:20.424'
+      end: '00:02:20.424'
+      u: Das heißt ja an der Gewerbeschule Zürich.
+    - who: David Boder
+      start: '00:02:22.809'
+      end: '00:02:22.809'
+      u: An der Gewerbeschule Zürich. Sagen Sie, finden Sie, welch ein Unterschied
+        zwischen den Schülern, die Sie an der Gewerbeschule gehabt hatten, und den
+        Jungen, die Sie hier haben?
+    - who: Joseph Freinhoffer
+      start: '00:02:34.326'
+      end: '00:02:34.326'
+      u: In Sachen Fleiß kann ich nur das sagen, dass die Schu—, die, äh, die Schüler
+        hier, die aus den, äh, Lagern gekommen sind, fleißiger sind als die ich in
+        Zürich gehabt habe, als die Schüler, die bei ihren Eltern wohnen und, äh,
+        in geregelten Verhältnissen aufgewachsen sind.
+    - who: David Boder
+      start: '00:02:54.958'
+      end: '00:02:54.958'
+      u: Nun sagen Sie aber, die Jungen waren ja, wie Sie es nennen, in ganz ungeregelten
+        Verhältnissen. Was ist Ihre Idee, was für einen Eindruck und was für ein allgemeine
+        Charaktereindruck sozusagen, denken Sie, hat das Konzentrationslager auf diese
+        Jungen gemacht?
+    - who: Joseph Freinhoffer
+      start: '00:03:19.181'
+      end: '00:03:19.181'
+      u: Diese Jungens finden jetzt zum größten Teil, dass sie viele Jahre verloren
+        haben. Deshalb, äh, schauen sie, dass sie sich so schnell als möglich vorwärts
+        arbeiten können und, äh, einen Beruf zu lernen, um freie Menschen zu werden.
+        Um ihr Brot selbständig verdienen zu können und nicht von, äh, Organisationen
+        weiter abhängig zu sein.
+    - who: David Boder
+      start: '00:03:44.934'
+      end: '00:03:44.934'
+      u: Nun sagen Sie mal da, die fühlen wirklich, dass sie Zeit verloren haben?
+    - who: Joseph Freinhoffer
+      start: '00:03:50.448'
+      end: '00:03:50.448'
+      u: Jawohl.
+    - who: David Boder
+      start: '00:03:52.941'
+      end: '00:03:52.941'
+      u: Wie steht es mit dieser Bildung von diesen Jungen? Können die lesen, können
+        die schreiben? Haben sie was im Lager doch gelernt?
+    - who: Joseph Freinhoffer
+      start: '00:04:02.859'
+      end: '00:04:02.859'
+      u: Der Großteil von ihnen musste mit elf bis zwölf Jahren die Schule verlassen
+        und hat seither keine theoretische Ausbildung mehr gehabt. Was die praktische
+        Ausbildung anbelangt, so war es auch sehr [unverständlich], da sie in den
+        Lagern nur Handlangerarbeit an Maschinen und, äh, und, äh, im Freien gemacht
+        haben.
+    - who: David Boder
+      start: '00:04:28.549'
+      end: '00:04:28.549'
+      u: Sagen Sie mir dies, äh, wie haben Sie beobachtet [unverständlich]? Die Jungen
+        waren manche zwei, drei Jahre in Deutschland in verschiedenen Lagern. Sprechen
+        die Jungen Deutsch?
+    - who: Joseph Freinhoffer
+      start: '00:04:43.446'
+      end: '00:04:43.446'
+      u: Sie sprechen alle Deutsch aber, äh, immer schlechtes Deutsch.
+    - who: David Boder
+      start: '00:04:47.611'
+      end: '00:04:47.611'
+      u: Ja.
+    - who: Joseph Freinhoffer
+      start: '00:04:48.517'
+      end: '00:04:48.517'
+      u: Das heißt, man kann sich doch mit ihnen verständigen.
+    - who: David Boder
+      start: '00:04:52.338'
+      end: '00:04:52.338'
+      u: Ja, aber, Sie werden das nicht richtig Deutsch nennen, nicht wahr?
+    - who: Joseph Freinhoffer
+      start: '00:04:55.646'
+      end: '00:04:55.646'
+      u: Nein. Ein gutes Deutsch ist es nicht.
+    - who: David Boder
+      start: '00:04:57.837'
+      end: '00:04:57.837'
+      u: Ja. Denn sehen Sie mal, wenn ein anderer junger Junge, sagen wir, zwei, drei
+        Jahre in Deutschland wäre, dann hätte er die Sprache gelernt, nicht wahr?
+    - who: Joseph Freinhoffer
+      start: '00:05:05.956'
+      end: '00:05:05.956'
+      u: Natürlich. Er hat, äh, sie hatten natürlich nur die Gelegenheit, die Sprache
+        zu lernen, äh, weil sie eben, äh, reden mussten. Sie mussten reden können
+        und haben es dabei gelernt. Aber dabei war ihnen natürlich niemand behilflich.
+    - who: David Boder
+      start: '00:05:20.642'
+      end: '00:05:20.642'
+      u: Was sagen Sie, Frau Borgman?
+    - who: "[first name unknown] Borgman"
+      start: '00:05:22.332'
+      end: '00:05:22.332'
+      u: Ich glaube, sie waren im Lager nur unter Juden...
+    - who: David Boder
+      start: '00:05:26.256'
+      end: '00:05:26.256'
+      u: Ja?
+    - who: "[first name unknown] Borgman"
+      start: '00:05:26.757'
+      end: '00:05:26.757'
+      u: und haben Jüdisch gesprochen. Und Jüdisch ist eigentlich ihre Heimatsprache,
+        ob sie von Polen oder von der Tschechoslowakei oder von Rumänien kommen,...
+    - who: David Boder
+      start: '00:05:35.721'
+      end: '00:05:35.721'
+      u: Ja?
+    - who: "[first name unknown] Borgman"
+      start: '00:05:36.222'
+      end: '00:05:36.222'
+      u: und so hat sich daraus eine Art Jüdisch-Deutsch gebildet.
+    - who: David Boder
+      start: '00:05:39.331'
+      end: '00:05:39.331'
+      u: Aha. Naja, die Kapos waren ja auch [unverständlich]. Ja, und dann, sie haben
+        überhaupt nicht sehr viel gesprochen.
+    - who: "[first name unknown] Borgman"
+      start: '00:05:46.291'
+      end: '00:05:46.291'
+      u: Mit den Deutschen hatten sie überhaupt nicht zu sprechen. Sie hatten nur
+        Befehle zu bekommen und sie hatten ‚ja’ oder ‚nein’ zu antworten. Dabei kann
+        man kein Deutsch lernen.
+    - who: David Boder
+      start: '00:05:53.613'
+      end: '00:05:53.613'
+      u: Aha. Nun, sagen Sie mir dieses. Ich werde Ihnen eine Frage fragen, die ich,
+        von die ich eigentlich die Antwort habe. Aber dennoch, äh, die Jungen, die
+        Sie haben, [unverständlich] wie haben die ihr Fach ausgewählt? Warum sind
+        die nach dieser Abteilung gekommen, sagen wir, oder nicht nach der Schreinerei
+        oder so weiter?
+    - who: Joseph Freinhoffer
+      start: '00:06:18.167'
+      end: '00:06:18.167'
+      u: Also, ein Großteil hat schon in Fabriken gearbeitet. In Deutschland irgendwo
+        in den Konzentrationslagern und in Munitionsfabriken natürlich. Aber, äh,
+        mehr als we—, mehr oder weniger als Handlanger.
+    - who: David Boder
+      start: '00:06:33.698'
+      end: '00:06:33.698'
+      u: Ja.
+    - who: Joseph Freinhoffer
+      start: '00:06:34.453'
+      end: '00:06:34.453'
+      u: Natürlich haben sie gesehen, äh, wie das Metall gearbeitet wird, und das
+        hat ihnen, äh, [unverständlich] als freie Menschen arbeiten und lernen können,
+        wird der Beruf interessant sein.
+    - who: David Boder
+      start: '00:06:47.117'
+      end: '00:06:47.117'
+      u: Aha. Sind die begabt für Mechanik?
+    - who: Joseph Freinhoffer
+      start: '00:06:51.300'
+      end: '00:06:51.300'
+      u: Der größte Teil ist begabt zur Mechanik. Diejenigen, die weniger genau arbeiten,
+        die werden [unverständlich], können noch gute Schlosser werden, Bauschlosser.
+    - who: David Boder
+      start: '00:07:02.497'
+      end: '00:07:02.497'
+      u: Und, äh, wie sind die Leute hier in der Schule? Ich habe gestern eine Klasse
+        am Morgen gesehen, die letzten paar Minuten. Es war sehr interessant. Also,
+        wie viel theoretische Bildung bekommen hier die Jungen?
+    - who: Joseph Freinhoffer
+      start: '00:07:19.105'
+      end: '00:07:19.105'
+      u: An theoretischer Bildung haben die Jungen hier Zeichnen, dann Rechnen und
+        Berufskunde. Außer der Berufskunde, die, äh, zwei Stunden ist pro Woche, haben
+        sie die Werkstattkunde. Das heißt die, äh, Berufskunde, die gegeben wird während
+        der Arbeit.
+    - who: David Boder
+      start: '00:07:40.898'
+      end: '00:07:40.898'
+      u: Aha. Was nennen Sie Berufskunde?
+    - who: Joseph Freinhoffer
+      start: '00:07:43.584'
+      end: '00:07:43.584'
+      u: Das heißt das theoretische Wissen, das, äh, mit der Arbeit im Zusammenhang
+        steht.
+    - who: David Boder
+      start: '00:07:50.363'
+      end: '00:07:50.363'
+      u: Sagen Sie aber, wenn die Jungen fertig sind, werden sie im Stande sein, eine
+        Zeichnung zu nehmen und nach der Zeichnung eine Arbeit zu machen? Wir nennen
+        „blueprint“ in Amerika.
+    - who: Joseph Freinhoffer
+      start: '00:08:00.039'
+      end: '00:08:00.039'
+      u: Die Jungens müssen von Anfang an lernen, eine Zeichnung lesen und nach Zeichnungen
+        arbeiten. Die kleinen, äh, die einfachsten Arbeiten des Grundlehrplanes werden
+        diktiert und nach der Skizze wird gearbeitet.
+    - who: David Boder
+      start: '00:08:18.396'
+      end: '00:08:18.396'
+      u: Sagen Sie, wenigstens am Anfang, wie haben Sie die Jungen gefunden? [unverständlich].
+        Waren sie friedlich, waren sie freundlich und wie sind sie jetzt?
+    - who: Joseph Freinhoffer
+      start: '00:08:31.012'
+      end: '00:08:31.012'
+      u: Sie waren natürlich, je nach der Behandlung, die sie, äh, genossen haben,
+        waren die Kinder verschieden. Es waren solche, die waren so scheu wie ein
+        Wild. Die, äh, getrauten sich nicht, zu jemand in die Nähe zu kommen oder
+        zu sprechen. Es waren andere, die waren etwas freier. Es war [unverständlich].
+        [unverständlich] das kann ich nicht sagen, dass einer war. Aber, die waren
+        eben ganz verschieden in ihrer, äh, Freiheit der Bewegung und der Rede.
+    - who: David Boder
+      start: '00:09:03.175'
+      end: '00:09:03.175'
+      u: Sagen Sie mal, sind die Jungen ehrlich?
+    - who: Joseph Freinhoffer
+      start: '00:09:07.841'
+      end: '00:09:07.841'
+      u: Ich hab den Eindruck, dass sie ehrlich sind. So ich kann, ich überlass ihnen
+        alle Werkzeuge...
+    - who: David Boder
+      start: '00:09:14.469'
+      end: '00:09:14.469'
+      u: Ja.
+    - who: Joseph Freinhoffer
+      start: '00:09:14.940'
+      end: '00:09:14.940'
+      u: ". . . ohne eine, äh, strenge Kontrolle, die, das heißt die Kontrolle findet
+        nur von Zeit zu Zeit statt. Und ich muss konta—, konstatieren, dass noch nichts
+        weggekommen ist von uns und all den Werkzeugen, die in der, äh, Werkstatt
+        vorhanden sind."
+    - who: David Boder
+      start: '00:09:32.976'
+      end: '00:09:32.976'
+      u: Sind die Jungen im Allgemeinen gesund?
+    - who: Joseph Freinhoffer
+      start: '00:09:36.688'
+      end: '00:09:36.688'
+      u: Man, äh, sie sind, man kann sagen ja im Allgemeinen. Aber man merkt die Folgen
+        des Konzentrationslagers. Der eine hat dieses, der andere hat jenes. Krankheiten,
+        die bei, äh, Jungens, die in einem normalen, in einem normalen Leben aufwachsen,
+        nicht vorkommen oder weniger, äh, oft.
+    - who: David Boder
+      start: '00:10:00.533'
+      end: '00:10:00.533'
+      u: Nun, äh, sagen Sie mal, also wenn die Jungen hier beenden, werden die hier,
+        äh, was sein, in dieser Abteilung?
+    - who: Joseph Freinhoffer
+      start: '00:10:10.662'
+      end: '00:10:10.662'
+      u: Ein Teil, die besser begabten, die werden Maschinenschlosser sein, und die
+        anderen Bauschlosser.
+    - who: David Boder
+      start: '00:10:18.618'
+      end: '00:10:18.618'
+      u: Aha.
+    - who: Joseph Freinhoffer
+      start: '00:10:19.028'
+      end: '00:10:19.028'
+      u: Außerdem können beide Gruppen Schweißen lernen. Autogen und elektrisch schweißen,
+        was ein sehr großer Vorteil ist. Für Maschinenschlosser ist es ein, äh, ein
+        Vorteil, den sie irgendwo anders in einer anderen Lehre nicht genießen können,
+        und für Bauschlosser ist es natürlich eine unbedingte Notwendigkeit.
+    - who: David Boder
+      start: '00:10:41.151'
+      end: '00:10:41.151'
+      u: Sagen Sie, wenn solch ein Junge nach Brasilien geht oder nach Argentinien
+        oder wo, könnte er für sich ein kleines Geschäft anfangen oder müsste er in
+        einer Fabrik arbeiten?
+    - who: Joseph Freinhoffer
+      start: '00:10:55.960'
+      end: '00:10:55.960'
+      u: Wenn ein Schüler aus der Schule kommt, dann ist er als ein junger Arbeiter,
+        der natürlich, äh, noch nicht so selbstständig ist wie ein erfahrener Arbeiter,
+        ein erfahrener Arbeiter, der schon einige Jahre Praxis hinter sich hat. Eine
+        Schulausbildung im Beruf ist nicht das ganz gleiche wie eine Ausbildung in
+        einer Werkstatt.
+    - who: David Boder
+      start: '00:11:24.541'
+      end: '00:11:24.541'
+      u: Und die meisten Jungen denken, sie werden die zweieinhalb Jahre aushalten
+        in [unverständlich], nicht wahr?
+    - who: Joseph Freinhoffer
+      start: '00:11:32.768'
+      end: '00:11:32.768'
+      u: Jawohl, der größte Teil.
+    - who: David Boder
+      start: '00:11:34.730'
+      end: '00:11:34.730'
+      u: Sind da welche, die aufgegeben haben, die angefangen haben und weggegangen
+        sind?
+    - who: Joseph Freinhoffer
+      start: '00:11:39.348'
+      end: '00:11:39.348'
+      u: Das war früher ziemlich oft der Fall, weil, äh, das waren noch Jungens, die
+        ihre Eltern hatten und meistens nicht durch die, äh, Konzentrationslager gingen.
+        Die ihre Eltern hatten hier in der Schweiz oder anderswo oder sie, äh, aufgefunden
+        haben in der Zwischenzeit und dann mit diesen, äh, weggefahren sind nach anderen
+        Ländern, wo die, ihre Eltern wieder eine neue Existenz aufgebaut haben. Diese
+        Jungen, die jetzt noch da sind, die sind meistens elternlos und, äh, haben
+        den festen Willen, einen Beruf zu lernen, um auf eigenen Füßen stehen zu können.
+    - who: David Boder
+      start: '00:12:19.615'
+      end: '00:12:19.615'
+      u: Also, sagen Sie mir jetzt, Frau Borgman, was würden Sie zu dieser Unterre—,
+        zu diesem Interview hinzufügen? Wie haben Sie mit den Jungen, kommen mit den
+        Jungen in welcher Weise in Berührung?
+    - who: "[first name unknown] Borgman"
+      start: '00:12:35.058'
+      end: '00:12:35.058'
+      u: Ich seh die Jungen hier in meinem Büro, wenn sie eine Verletzung haben, dann
+        kommen sie hierher, um sich pflegen zu lassen, wenn sie irgendetwas brauchen,
+        oder wenn sie irgendeinen Wunsch vorzutragen haben, dann kommen sie erst,
+        zuerst zu mir, und ich mache Herrn, teile das dann Herrn Freinhoffer mit.
+        Außerdem sehe ich die Jungs, weil ich ihnen französischen Unterricht gebe.
+    - who: David Boder
+      start: '00:12:55.431'
+      end: '00:12:55.431'
+      u: Aha. Wie lernen die Französisch?
+    - who: "[first name unknown] Borgman"
+      start: '00:12:58.920'
+      end: '00:12:58.920'
+      u: Die meisten von den Jungen sind außerordentlich begabt. Die lernen sehr schnell.
+        Aber ich weiß nicht, ob es daran liegt, dass sie, äh, in den Lagern gelitten
+        haben. Sie lernen sehr schnell und sie vergessen sehr schnell. Sie haben nicht
+        mehr das Gedächtnis.
+    - who: David Boder
+      start: '00:13:17.107'
+      end: '00:13:17.107'
+      u: Und sie beobachten, dass die kein Gedächtnis, kein gutes Gedächtnis haben?
+    - who: "[first name unknown] Borgman"
+      start: '00:13:22.117'
+      end: '00:13:22.117'
+      u: Nicht alle, manche unter ihnen,...
+    - who: David Boder
+      start: '00:13:24.092'
+      end: '00:13:24.092'
+      u: "[unterbricht] Ja,"
+    - who: "[first name unknown] Borgman"
+      start: '00:13:24.484'
+      end: '00:13:24.484'
+      u: ". . . was praktische Arbeit anbelangt."
+    - who: David Boder
+      start: '00:13:26.114'
+      end: '00:13:26.114'
+      u: "[unterbricht] Aber es könnte auch in anderen Schulen vorkommen, nicht wahr?"
+    - who: "[first name unknown] Borgman"
+      start: '00:13:29.132'
+      end: '00:13:29.132'
+      u: Ja, ich hab hier ja auch Jungs, die in andere Schulen gegangen sind,...
+    - who: David Boder
+      start: '00:13:32.965'
+      end: '00:13:32.965'
+      u: Ja.
+    - who: "[first name unknown] Borgman"
+      start: '00:13:33.931'
+      end: '00:13:33.931'
+      u: ". . . und bei denen hab ich das nicht so festgestellt. Während diese Jungs
+        sind speziell für praktische Arbeit besonders begabt. Es gibt Jungs, die vor
+        vier Monaten eingetreten sind, und manche Schüler schon überholt haben, an
+        praktischem Können."
+    - who: David Boder
+      start: '00:13:48.086'
+      end: 
+      u: Ja, nun? [endet abrupt]
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:04.980'
+      end: '00:00:04.980'
+      u: "[In English] August 28, 1946. Geneva, at the school of the ORT. I shall
+        try now to interview two instructors. [Unintelligible]...a good Russian name,
+        that makes one homesick, and Mr. Joseph Freinhoffer. Eh, Mrs. Borgman is,
+        eh, Mrs. Borgman is the secretary of the, eh, place and Mr. Freinhoffer is
+        the chief of the, eh, shop."
+    - who: David Boder
+      start: '00:01:01.167'
+      end: '00:01:01.167'
+      u: "[In German] So, Mr., eh, Freinhoffer. Can you tell me how long you've been
+        working here at the ORT school?"
+    - who: Joseph Freinhoffer
+      start: '00:01:09.243'
+      end: '00:01:09.243'
+      u: Since the beginning of May 1944.
+    - who: David Boder
+      start: '00:01:13.590'
+      end: '00:01:13.590'
+      u: You are Swiss, Mr. Freinhoffer?
+    - who: Joseph Freinhoffer
+      start: '00:01:15.389'
+      end: '00:01:15.389'
+      u: That's right.
+    - who: David Boder
+      start: '00:01:16.735'
+      end: '00:01:16.735'
+      u: And what was your job before you began your work here?
+    - who: Joseph Freinhoffer
+      start: '00:01:20.357'
+      end: '00:01:20.357'
+      u: I was a technical instructor at the vocational school, Zurich.
+    - who: David Boder
+      start: '00:01:24.570'
+      end: '00:01:24.570'
+      u: You are a trained technical instructor, then?
+    - who: Joseph Freinhoffer
+      start: '00:01:29.067'
+      end: '00:01:29.067'
+      u: A trained, eh, professional, that is, who further qualified himself as a
+        technical instructor.
+    - who: David Boder
+      start: '00:01:34.470'
+      end: '00:01:34.470'
+      u: I see. Are these two different things in Switzerland?
+    - who: Joseph Freinhoffer
+      start: '00:01:39.468'
+      end: '00:01:39.468'
+      u: No, basically not. A technical instructor is made out of a good professional.
+    - who: David Boder
+      start: '00:01:46.005'
+      end: '00:01:46.005'
+      u: I see. Now, tell me, eh, and, eh, Mrs. Borgman, how long have you been with
+        the school?
+    - who: "[first name unknown] Borgman"
+      start: '00:01:54.064'
+      end: '00:01:54.064'
+      u: I have been here since August 15, 1944.
+    - who: David Boder
+      start: '00:01:58.096'
+      end: '00:01:58.096'
+      u: I see. How old is your school, then, altogether?
+    - who: Joseph Freinhoffer
+      start: '00:02:01.144'
+      end: '00:02:01.144'
+      u: The school opened its doors at the end of 1944.
+    - who: David Boder
+      start: '00:02:04.223'
+      end: '00:02:04.223'
+      u: I see. And it is an ORT school?
+    - who: Joseph Freinhoffer
+      start: '00:02:07.259'
+      end: '00:02:07.259'
+      u: Yes.
+    - who: David Boder
+      start: '00:02:08.587'
+      end: '00:02:08.587'
+      u: Now, tell me Mr. Freinhoffer, how many boys do you have?
+    - who: Joseph Freinhoffer
+      start: '00:02:13.718'
+      end: '00:02:13.718'
+      u: We have thirty-six boys now.
+    - who: David Boder
+      start: '00:02:16.211'
+      end: '00:02:16.211'
+      u: Yes. You were also a teacher before you came here, weren't you?
+    - who: Joseph Freinhoffer
+      start: '00:02:20.424'
+      end: '00:02:20.424'
+      u: That is, yes, at the vocational school Zurich.
+    - who: David Boder
+      start: '00:02:22.809'
+      end: '00:02:22.809'
+      u: At the vocational school, Zurich. Tell me, do you find a difference between
+        the students you had at the vocational school and the boys that you have here?
+    - who: Joseph Freinhoffer
+      start: '00:02:34.326'
+      end: '00:02:34.326'
+      u: I can only say that when it comes to effort, the stu—, the eh, students here,
+        who have come out of the camps, work harder than those I have taught in Zurich,
+        than those students who live with their parents and grew up in, eh, comfortable
+        circumstances.
+    - who: David Boder
+      start: '00:02:54.958'
+      end: '00:02:54.958'
+      u: But tell me then, the boys were in circumstances that were entirely adverse.
+        What idea do you have, what impact, what general impact did the concentration
+        camp have on the character of the boys?
+    - who: Joseph Freinhoffer
+      start: '00:03:19.181'
+      end: '00:03:19.181'
+      u: These boys largely find that they have lost many years. That is why they
+        see to it that they can progress quickly and, eh, learn a trade in order to
+        become free men, in order to be able to earn their own bread and not be further
+        dependent on, eh, organizations.
+    - who: David Boder
+      start: '00:03:44.934'
+      end: '00:03:44.934'
+      u: Now tell me then, they really feel that they have lost time?
+    - who: Joseph Freinhoffer
+      start: '00:03:50.448'
+      end: '00:03:50.448'
+      u: That's right.
+    - who: David Boder
+      start: '00:03:52.941'
+      end: '00:03:52.941'
+      u: What's the situation regarding the education of these boys? Are they able
+        to read, to write? Have they nevertheless learned something in the camp?
+    - who: Joseph Freinhoffer
+      start: '00:04:02.859'
+      end: '00:04:02.859'
+      u: Most of them had to leave school at age eleven to twelve and have not had
+        a theoretical education since. As to on-the-job training, that was also very
+        [unintelligible], since they only performed handy-man work at the machines
+        and, eh, outside.
+    - who: David Boder
+      start: '00:04:28.549'
+      end: '00:04:28.549'
+      u: Tell me this, eh, what is your observation [unintelligible]? Some of the
+        boys spent two, three years in Germany in several camps. Do they speak German?
+    - who: Joseph Freinhoffer
+      start: '00:04:43.446'
+      end: '00:04:43.446'
+      u: They all speak German but, eh, always bad German.
+    - who: David Boder
+      start: '00:04:47.611'
+      end: '00:04:47.611'
+      u: Yes?
+    - who: Joseph Freinhoffer
+      start: '00:04:48.517'
+      end: '00:04:48.517'
+      u: One can communicate with them, that is.
+    - who: David Boder
+      start: '00:04:52.338'
+      end: '00:04:52.338'
+      u: Yes, but you wouldn't really call that German, would you?
+    - who: Joseph Freinhoffer
+      start: '00:04:55.646'
+      end: '00:04:55.646'
+      u: No, it is not good German.
+    - who: David Boder
+      start: '00:04:57.837'
+      end: '00:04:57.837'
+      u: Yes. For, you see, if some other young boy was in Germany, say, for two or
+        three years he would have learned the language, wouldn't he?
+    - who: Joseph Freinhoffer
+      start: '00:05:05.956'
+      end: '00:05:05.956'
+      u: Of course. He had, eh, they only had the opportunity to learn, eh, the language
+        because they simply had to talk. They had to be able to talk and learned it
+        in the process. Nobody helped them, though.
+    - who: David Boder
+      start: '00:05:20.642'
+      end: '00:05:20.642'
+      u: What do you say, Mrs. Borgman?
+    - who: "[first name unknown] Borgman"
+      start: '00:05:22.332'
+      end: '00:05:22.332'
+      u: In the camp, they were only among Jews, I think...
+    - who: David Boder
+      start: '00:05:26.256'
+      end: '00:05:26.256'
+      u: Yes?
+    - who: "[first name unknown] Borgman"
+      start: '00:05:26.757'
+      end: '00:05:26.757'
+      u: ". . . and spoke Jewish. And Jewish actually is their native language, whether
+        they are from Poland or Czechoslovakia or Romania..."
+    - who: David Boder
+      start: '00:05:35.721'
+      end: '00:05:35.721'
+      u: Yes?
+    - who: "[first name unknown] Borgman"
+      start: '00:05:36.222'
+      end: '00:05:36.222'
+      u: ". . . and so it developed into a kind of Jewish-German."
+    - who: David Boder
+      start: '00:05:39.331'
+      end: '00:05:39.331'
+      u: I see. Well, the "capos" were also [unintelligible]. Yes, and then, they
+        never spoke much anyway.
+    - who: "[first name unknown] Borgman"
+      start: '00:05:46.291'
+      end: '00:05:46.291'
+      u: They weren't to talk to the Germans at all. They only had to receive orders
+        and answer with "yes" or "no." You cannot learn German like that.
+    - who: David Boder
+      start: '00:05:53.613'
+      end: '00:05:53.613'
+      u: I see. Well, tell me this. I will ask you a question that I, to which I already
+        know the answer. But anyways; eh, the boys that you have, how did they choose
+        their subjects? Why did they come to your department and not, say, to the
+        joinery?
+    - who: Joseph Freinhoffer
+      start: '00:06:18.167'
+      end: '00:06:18.167'
+      u: Well, a majority have already worked in factories. In Germany somewhere in
+        the concentration camps and in ordnance factories, of course. But more than
+        le—, more or less as handy-men.
+    - who: David Boder
+      start: '00:06:33.698'
+      end: '00:06:33.698'
+      u: 'Yes'
+    - who: Joseph Freinhoffer
+      start: '00:06:34.453'
+      end: '00:06:34.453'
+      u: Of course they saw, eh, how the metal was worked with and that gave them
+        [unintelligible] to work as free people and be able to learn, the job will
+        be interesting.
+    - who: David Boder
+      start: '00:06:47.117'
+      end: '00:06:47.117'
+      u: I see. Do they have a talent for mechanics?
+    - who: Joseph Freinhoffer
+      start: '00:06:51.300'
+      end: '00:06:51.300'
+      u: The majority have a talent for mechanics. Those who work less precisely will
+        [unintelligible], and they can still become good fitters, building fitters.
+    - who: David Boder
+      start: '00:07:02.497'
+      end: '00:07:02.497'
+      u: And, eh, how are the people here at school? Yesterday morning, I observed
+        a class for the last few minutes. It was very interesting. How much theoretical
+        education do the boys get here, then?
+    - who: Joseph Freinhoffer
+      start: '00:07:19.105'
+      end: '00:07:19.105'
+      u: As regards theoretical education the boys are educated in drawing, arithmetic
+        and occupational studies. Apart from occupational studies, which they have,
+        eh, two hours a week, they have workshop studies. That is, on-the-job education
+        they are given while they work.
+    - who: David Boder
+      start: '00:07:40.898'
+      end: '00:07:40.898'
+      u: I see. What do you understand by occupational studies?
+    - who: Joseph Freinhoffer
+      start: '00:07:43.584'
+      end: '00:07:43.584'
+      u: That is the theoretical knowledge that, eh, is related to the job.
+    - who: David Boder
+      start: '00:07:50.363'
+      end: '00:07:50.363'
+      u: But tell me, when the boys finish their training, will they be able to take
+        a drawing and construct something according to that drawing? We call it "blueprint"
+        [he uses the English word] in America.
+    - who: Joseph Freinhoffer
+      start: '00:08:00.039'
+      end: '00:08:00.039'
+      u: From the very beginning the boys have to learn to read a drawing and to work
+        according to drawings. The small, eh, the simplest tasks of the basic curriculum
+        are dictated and from this sketch, they are asked to work.
+    - who: David Boder
+      start: '00:08:18.396'
+      end: '00:08:18.396'
+      u: Tell me, at least in the beginning, how did you find the boys? [unintelligible]
+        Were they quiet, were they friendly, and how are they now?
+    - who: Joseph Freinhoffer
+      start: '00:08:31.012'
+      end: '00:08:31.012'
+      u: They were, of course, different, depending on how they had been, eh, treated.
+        Some were shy as deer. They didn't dare come near anyone or talk. There were
+        others that were more open. It was [unintelligible]. [Unintelligible] I cannot
+        say that someone was. But they were simply very different in their, eh, freedom
+        of movement and speech.
+    - who: David Boder
+      start: '00:09:03.175'
+      end: '00:09:03.175'
+      u: Tell me, are the boys honest?
+    - who: Joseph Freinhoffer
+      start: '00:09:07.841'
+      end: '00:09:07.841'
+      u: I believe they are honest. They have access to all tools...
+    - who: David Boder
+      start: '00:09:14.469'
+      end: '00:09:14.469'
+      u: 'Yes'
+    - who: Joseph Freinhoffer
+      start: '00:09:14.940'
+      end: '00:09:14.940'
+      u: ". . . without strict control, that is, they're only checked on from time
+        to time. And I have to sa—, to say that nothing of ours and none of the tools
+        that are in the, eh, workshop have disappeared so far."
+    - who: David Boder
+      start: '00:09:32.976'
+      end: '00:09:32.976'
+      u: Are the boys generally healthy?
+    - who: Joseph Freinhoffer
+      start: '00:09:36.688'
+      end: '00:09:36.688'
+      u: You, eh, they are, generally, you can say yes. But you can see the consequences
+        of the concentration camps. One suffers from this, the other from that. Illnesses
+        that boys who have grown up in a normal, a normal life don't suffer from or
+        less often.
+    - who: David Boder
+      start: '00:10:00.533'
+      end: '00:10:00.533'
+      u: Well, tell me, when the boys are done here, they will be, eh, what in this
+        department?
+    - who: Joseph Freinhoffer
+      start: '00:10:10.662'
+      end: '00:10:10.662'
+      u: Those who are more talented will be machine fitters and the others building
+        fitters.
+    - who: David Boder
+      start: '00:10:18.618'
+      end: '00:10:18.618'
+      u: I see.
+    - who: Joseph Freinhoffer
+      start: '00:10:19.028'
+      end: '00:10:19.028'
+      u: Both groups can also learn how to weld. Gas fusion and electric welding,
+        which is a great advantage. It is an advantage for machine fitters that they
+        don't enjoy anywhere else in another apprenticeship, and for building fitters
+        it is, of course, an absolute necessity.
+    - who: David Boder
+      start: '00:10:41.151'
+      end: '00:10:41.151'
+      u: Tell me, if such a boy were to go to Brazil or to Argentina or wherever,
+        could he set up a small workshop or would he have to work in a factory?
+    - who: Joseph Freinhoffer
+      start: '00:10:55.960'
+      end: '00:10:55.960'
+      u: When a student leaves school, then he is of course a young worker who is,
+        of course, eh, not as independent as an experienced worker who has already
+        gained a few years of practical experience. Vocational school education is
+        not quite the same as vocational training in a workshop.
+    - who: David Boder
+      start: '00:11:24.541'
+      end: '00:11:24.541'
+      u: And most boys think that they will make it through these two-and-a-half years
+        in [unintelligible], don't they?
+    - who: Joseph Freinhoffer
+      start: '00:11:32.768'
+      end: '00:11:32.768'
+      u: That's right, the majority.
+    - who: David Boder
+      start: '00:11:34.730'
+      end: '00:11:34.730'
+      u: Are there any who have given up, who began here and went away?
+    - who: Joseph Freinhoffer
+      start: '00:11:39.348'
+      end: '00:11:39.348'
+      u: Previously, this used to be the case, because, eh, those were boys who had
+        their parents and mostly didn't go through the concentration camps. Who had
+        their parents here in Switzerland or somewhere else or found them in the meantime
+        and then drove off with them to other countries where the parents established
+        themselves again. The boys that are here now are mostly without parents and,
+        eh, have set their minds on learning the trade to be able to stand on their
+        own two feet.
+    - who: David Boder
+      start: '00:12:19.615'
+      end: '00:12:19.615'
+      u: So, tell me, Mrs. Borgman, what would you add to this conver—, to this interview?
+        How do you have with the boys, in what way do you come in contact with the
+        boys?
+    - who: "[first name unknown] Borgman"
+      start: '00:12:35.058'
+      end: '00:12:35.058'
+      u: I see the boys here in my office when they have injured themselves. Then
+        they come to me for treatment, when they need anything or if they desire anything,
+        they come to me first and then I inform Mr. Freinhoffer. I also see the boys,
+        because I give them lessons in French.
+    - who: David Boder
+      start: '00:12:55.431'
+      end: '00:12:55.431'
+      u: I see. How do they learn French?
+    - who: "[first name unknown] Borgman"
+      start: '00:12:58.920'
+      end: '00:12:58.920'
+      u: Most of them are extraordinarily talented. They learn very quickly. But,
+        I don't know whether it's because they, eh, suffered in the camp. They learn
+        very quickly and they forget very quickly. They no longer have the memory.
+    - who: David Boder
+      start: '00:13:17.107'
+      end: '00:13:17.107'
+      u: And you've observed that they have no memory, no good memory?
+    - who: "[first name unknown] Borgman"
+      start: '00:13:22.117'
+      end: '00:13:22.117'
+      u: Not all but some of them...
+    - who: David Boder
+      start: '00:13:24.092'
+      end: '00:13:24.092'
+      u: "[interrupts] Yes..."
+    - who: "[first name unknown] Borgman"
+      start: '00:13:24.484'
+      end: '00:13:24.484'
+      u: ". . . regarding practical work"
+    - who: David Boder
+      start: '00:13:26.114'
+      end: '00:13:26.114'
+      u: "[interrupts] But this could also occur at other schools, couldn't it?"
+    - who: "[first name unknown] Borgman"
+      start: '00:13:29.132'
+      end: '00:13:29.132'
+      u: Of course, I also have boys here who've gone to other schools...
+    - who: David Boder
+      start: '00:13:32.965'
+      end: '00:13:32.965'
+      u: Yes?
+    - who: "[first name unknown] Borgman"
+      start: '00:13:33.931'
+      end: '00:13:33.931'
+      u: ". . . and I didn't observe anything similar with them. These boys, on the
+        other hand, are especially talented to do practical work. There are boys who
+        arrived here four months ago and have already exceeded some students, regarding
+        practical competence."
+    - who: David Boder
+      start: '00:13:48.086'
+      end: 
+      u: Yes, and? [The spool ends abruptly.]
+transcript: {}
+translation: {}

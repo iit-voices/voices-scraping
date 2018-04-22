@@ -27,5 +27,2345 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: de
+    interview:
+    - who: David Boder
+      start: '00:00:02.352'
+      end: '00:00:02.352'
+      u: "[In English] Paris, August 26th. This is Spool 74, starting at about thirteen
+        minutes. The interviewee is David Hirsch, at the ORT School for Boys. Oh,
+        this isn't Paris, excuse me, this is Geneva."
+    - who: David Boder
+      start: '00:00:27.196'
+      end: '00:00:27.196'
+      u: "[In German] Also Herr Hirsch, können Sie mir sagen, wo waren Sie wenn der
+        Krieg hat angefangen und was ist Ihnen passiert?"
+    - who: David Hirsch
+      start: '00:00:35.020'
+      end: '00:00:35.020'
+      u: Also...
+    - who: David Boder
+      start: '00:00:36.106'
+      end: '00:00:36.106'
+      u: Sagen Sie nochmal Ihren Namen. Was ist Ihr Name?
+    - who: David Hirsch
+      start: '00:00:38.895'
+      end: '00:00:38.895'
+      u: Mein Name ist David Hirsch.
+    - who: David Boder
+      start: '00:00:39.845'
+      end: '00:00:39.845'
+      u: "[unverständlich]"
+    - who: David Hirsch
+      start: '00:00:40.885'
+      end: '00:00:40.885'
+      u: Mein Name ist David Hirsch.
+    - who: David Boder
+      start: '00:00:42.664'
+      end: '00:00:42.664'
+      u: Wie alt sind Sie denn?
+    - who: David Hirsch
+      start: '00:00:43.900'
+      end: '00:00:43.900'
+      u: 18 Jahre.
+    - who: David Boder
+      start: '00:00:45.106'
+      end: '00:00:45.106'
+      u: 18 Jahre. Also wo waren Sie wenn der Krieg hat angefangen?
+    - who: David Hirsch
+      start: '00:00:48.664'
+      end: '00:00:48.664'
+      u: Beim Beginn des Krieges war ich noch in Deutschland, und zwar in Mannheim.
+    - who: David Boder
+      start: '00:00:52.855'
+      end: '00:00:52.855'
+      u: In Mannheim. Sind Sie geboren in Deutschland?
+    - who: David Hirsch
+      start: '00:00:55.086'
+      end: '00:00:55.086'
+      u: Jawohl.
+    - who: David Boder
+      start: '00:00:55.659'
+      end: '00:00:55.659'
+      u: Sind Sie deutsch geboren, nicht wahr?
+    - who: David Hirsch
+      start: '00:00:57.046'
+      end: '00:00:57.046'
+      u: Jawohl.
+    - who: David Boder
+      start: '00:00:58.071'
+      end: '00:00:58.071'
+      u: Wann, äh, was war Ihre Elterns Beschäftigung?
+    - who: David Hirsch
+      start: '00:01:02.232'
+      end: '00:01:02.232'
+      u: Meine Eltern, äh, sind schon ziemlich früh aus Deutschland weg, also, ich
+        weiß eigentlich gar nicht genau, was sie machten da in Deutschland. Ich war
+        später mit meinen Großeltern.
+    - who: David Boder
+      start: '00:01:12.830'
+      end: '00:01:12.830'
+      u: Aha. Wann sind ungefähr Ihre Eltern von Deutschland weggegangen?
+    - who: David Hirsch
+      start: '00:01:16.523'
+      end: '00:01:16.523'
+      u: Siebenunddreißig.
+    - who: David Boder
+      start: '00:01:17.760'
+      end: '00:01:17.760'
+      u: Sie sind's in siebenunddreißig, und wissen Sie nicht, erinnern Sie sich nicht
+        was Ihre Elterns Geschäft war?
+    - who: David Hirsch
+      start: '00:01:22.298'
+      end: '00:01:22.298'
+      u: Also, mein Vater hat früher Tischlerei, oder... [unverständlich]
+    - who: David Boder
+      start: '00:01:26.775'
+      end: '00:01:26.775'
+      u: Ja. Was tut Ihr Vater jetzt?
+    - who: David Hirsch
+      start: '00:01:30.152'
+      end: '00:01:30.152'
+      u: Jetzt ist er in Argentinien. Buenos Aires.
+    - who: David Boder
+      start: '00:01:33.258'
+      end: '00:01:33.258'
+      u: Oh, er ist in Argentinien.
+    - who: David Hirsch
+      start: 00:01:34.570x
+      end: 00:01:34.570x
+      u: Ja.
+    - who: David Boder
+      start: '00:01:35.098'
+      end: '00:01:35.098'
+      u: Mit Ihrer Mutter?
+    - who: David Hirsch
+      start: '00:01:36.259'
+      end: '00:01:36.259'
+      u: Jawohl.
+    - who: David Boder
+      start: '00:01:36.937'
+      end: '00:01:36.937'
+      u: Gehen Sie auch nach Argentinien?
+    - who: David Hirsch
+      start: '00:01:38.385'
+      end: '00:01:38.385'
+      u: Jawohl.
+    - who: David Boder
+      start: '00:01:39.033'
+      end: '00:01:39.033'
+      u: Wenn?
+    - who: David Hirsch
+      start: '00:01:40.330'
+      end: '00:01:40.330'
+      u: Ich rechne so in einigen Monaten. Beantrage gerade mein Visum, nicht?
+    - who: David Boder
+      start: '00:01:44.657'
+      end: '00:01:44.657'
+      u: Ja. Also Sie sind dann mit Ihren Großeltern in Mannheim geblieben, ja?
+    - who: David Hirsch
+      start: '00:01:48.833'
+      end: '00:01:48.833'
+      u: Ja.
+    - who: David Boder
+      start: '00:01:49.391'
+      end: '00:01:49.391'
+      u: Alright. Und was war dann passiert wie der Krieg anfing?
+    - who: David Hirsch
+      start: '00:01:52.542'
+      end: '00:01:52.542'
+      u: Also, äh, das erste Kriegsjahr waren wir noch in Mannheim, bis 1940. 1940
+        wurden ja alle Pfälzer und Badenser Juden nach Frankreich, beziehungsweise
+        nach Gurs deportiert.
+    - who: David Boder
+      start: '00:02:06.095'
+      end: '00:02:06.095'
+      u: Obwohl Frankreich hat schon den Waffenstillstand erklärt.
+    - who: David Hirsch
+      start: '00:02:09.065'
+      end: '00:02:09.065'
+      u: Ja, ja. Im Oktober war das.
+    - who: David Boder
+      start: '00:02:09.774'
+      end: '00:02:09.774'
+      u: Und dann wurden was? Die deutschen Juden wurden wohin deportiert?
+    - who: David Hirsch
+      start: '00:02:13.467'
+      end: '00:02:13.467'
+      u: Nach Frankreich.
+    - who: David Boder
+      start: '00:02:14.704'
+      end: '00:02:14.704'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:02:15.292'
+      end: '00:02:15.292'
+      u: Camp de Gurs.
+    - who: David Boder
+      start: '00:02:16.513'
+      end: '00:02:16.513'
+      u: Ja. Und so, wer wurde von Ihnen deportiert?
+    - who: David Hirsch
+      start: '00:02:21.247'
+      end: '00:02:21.247'
+      u: Bitte?
+    - who: David Boder
+      start: '00:02:21.986'
+      end: '00:02:21.986'
+      u: Also, wer wurde deportiert? Ihre Großeltern...
+    - who: David Hirsch
+      start: '00:02:24.654'
+      end: '00:02:24.654'
+      u: Und ich.
+    - who: David Boder
+      start: '00:02:25.408'
+      end: '00:02:25.408'
+      u: Ja. Ihre Großeltern und Sie.
+    - who: David Hirsch
+      start: '00:02:26.885'
+      end: '00:02:26.885'
+      u: Jawohl.
+    - who: David Boder
+      start: '00:02:27.458'
+      end: '00:02:27.458'
+      u: Waren da noch andere Kinder oder auch andere mit Ihnen?
+    - who: David Hirsch
+      start: '00:02:30.021'
+      end: '00:02:30.021'
+      u: Jawohl, da waren noch, äh, ähm, drei, äh, Tanten, und, äh, das ist alles.
+    - who: David Boder
+      start: '00:02:37.860'
+      end: '00:02:37.860'
+      u: Alles. Und Ihre Eltern waren schon in Argentinien?
+    - who: David Hirsch
+      start: '00:02:40.815'
+      end: '00:02:40.815'
+      u: Jawohl.
+    - who: David Boder
+      start: '00:02:41.358'
+      end: '00:02:41.358'
+      u: Ja, also. Nun, was war dann passiert?
+    - who: David Hirsch
+      start: '00:02:44.539'
+      end: '00:02:44.539'
+      u: Nun war ich dann ein Jahr im KZ in Frankreich...
+    - who: David Boder
+      start: '00:02:49.650'
+      end: '00:02:49.650'
+      u: Was war das? Im...
+    - who: David Hirsch
+      start: '00:02:50.871'
+      end: '00:02:50.871'
+      u: KZ, Konzentrationslager.
+    - who: David Boder
+      start: '00:02:52.529'
+      end: '00:02:52.529'
+      u: Oh, KZ, nennen Sie das. Sie waren in Frankreich im Konzentrationslager.
+    - who: David Hirsch
+      start: '00:02:56.509'
+      end: '00:02:56.509'
+      u: Ja.
+    - who: David Boder
+      start: '00:02:56.690'
+      end: '00:02:56.690'
+      u: In welcher Stadt?
+    - who: David Hirsch
+      start: '00:02:57.866'
+      end: '00:02:57.866'
+      u: In Gurs.
+    - who: David Boder
+      start: '00:02:59.268'
+      end: '00:02:59.268'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:03:00.625'
+      end: '00:03:00.625'
+      u: Und, äh...
+    - who: David Boder
+      start: '00:03:01.153'
+      end: '00:03:01.153'
+      u: Mit Ihren Großeltern?
+    - who: David Hirsch
+      start: '00:03:02.947'
+      end: '00:03:02.947'
+      u: Jawohl.
+    - who: David Boder
+      start: '00:03:04.771'
+      end: '00:03:04.771'
+      u: Mit Ihren Großeltern zusammen waren Sie im Konzentrationslager?
+    - who: David Hirsch
+      start: '00:03:08.118'
+      end: '00:03:08.118'
+      u: Ja.
+    - who: David Boder
+      start: '00:03:10.877'
+      end: '00:03:10.877'
+      u: Nun, [unverständlich], äh, beschreiben Sie mal, was für ein Lager war das
+        und wie haben Sie dort gelebt?
+    - who: David Hirsch
+      start: '00:03:17.103'
+      end: '00:03:17.103'
+      u: Also, die ersten fünf Monate war ich da in einem Lager, das, äh, früher schon
+        von Rotspaniern aufgebaut wurde.
+    - who: David Boder
+      start: '00:03:27.686'
+      end: '00:03:27.686'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:03:28.802'
+      end: '00:03:28.802'
+      u: Mit, äh, Stacheldraht umgeben, in der Mitte führt die Lagerstraße durch.
+    - who: David Boder
+      start: '00:03:35.028'
+      end: '00:03:35.028'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:03:35.420'
+      end: '00:03:35.420'
+      u: Und, äh, jede Abteilung, das heißt, von A bis M hat verschiedene Abteilungen.
+        Die sind extra mit Stacheldraht, äh, umzaunt, die Männer sind, äh, in extra
+        Abteilungen und die Frauen in extra Abteilungen.
+    - who: David Boder
+      start: '00:03:51.159'
+      end: '00:03:51.159'
+      u: Also, wurde dann Ihr Großvater von Ihrer Großmutter, sepa..., äh,...
+    - who: David Hirsch
+      start: '00:03:54.521'
+      end: '00:03:54.521'
+      u: Jawohl.
+    - who: David Boder
+      start: '00:03:55.199'
+      end: '00:03:55.199'
+      u: Abgetrennt, ab..., ja. Und, Ihre Tanten sind mit Ihrer Mutter ge...
+    - who: David Hirsch
+      start: '00:03:59.571'
+      end: '00:03:59.571'
+      u: Jawohl.
+    - who: David Boder
+      start: '00:03:59.933'
+      end: '00:03:59.933'
+      u: Ja. Nun, was, äh, mit Ihrer Großmutter...
+    - who: David Hirsch
+      start: '00:04:02.194'
+      end: '00:04:02.194'
+      u: Ja.
+    - who: David Boder
+      start: '00:04:02.707'
+      end: '00:04:02.707'
+      u: Nun, was hat denn passiert?
+    - who: David Hirsch
+      start: '00:04:05.466'
+      end: '00:04:05.466'
+      u: Also, was das Leben anbetrifft war es nicht, äh, besonders gut.
+    - who: David Boder
+      start: '00:04:10.365'
+      end: '00:04:10.365'
+      u: Wer hat sie aufgepasst, Deutsche oder Franzosen?
+    - who: David Hirsch
+      start: '00:04:12.567'
+      end: '00:04:12.567'
+      u: Franzosen.
+    - who: David Boder
+      start: '00:04:13.728'
+      end: '00:04:13.728'
+      u: Ja. Nun, haben Sie arbeiten müssen?
+    - who: David Hirsch
+      start: '00:04:17.633'
+      end: '00:04:17.633'
+      u: Nein, nicht arbeiten.
+    - who: David Boder
+      start: '00:04:19.879'
+      end: '00:04:19.879'
+      u: Also, wie lange hat das gedauert und was hat nachher passiert?
+    - who: David Hirsch
+      start: '00:04:23.015'
+      end: '00:04:23.015'
+      u: Also, hier waren wir fünf Monate...
+    - who: David Boder
+      start: '00:04:25.322'
+      end: '00:04:25.322'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:04:25.789'
+      end: '00:04:25.789'
+      u: "... bis Monat März '41."
+    - who: David Boder
+      start: '00:04:27.809'
+      end: '00:04:27.809'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:04:28.292'
+      end: '00:04:28.292'
+      u: Von hier aus sind wir dann nach Camp de Rivesaltes verschickt worden.
+    - who: David Boder
+      start: '00:04:32.347'
+      end: '00:04:32.347'
+      u: Alle?
+    - who: David Hirsch
+      start: '00:04:33.433'
+      end: '00:04:33.433'
+      u: Nicht alle.
+    - who: David Boder
+      start: '00:04:34.413'
+      end: '00:04:34.413'
+      u: Aber Sie mit Ihrer Familie?
+    - who: David Hirsch
+      start: '00:04:35.363'
+      end: '00:04:35.363'
+      u: Jawohl.
+    - who: David Boder
+      start: '00:04:35.951'
+      end: '00:04:35.951'
+      u: "[unverständlich] Während Sie im Lager waren, haben Sie Ihre Großeltern sehen
+        können?"
+    - who: David Hirsch
+      start: '00:04:40.971'
+      end: '00:04:40.971'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:04:41.634'
+      end: '00:04:41.634'
+      u: Ja, nun? Dann?
+    - who: David Hirsch
+      start: '00:04:44.318'
+      end: '00:04:44.318'
+      u: Dann waren wir also sieben Monate in Rivesaltes. Rivesaltes ist so ungefähr
+        ein Lager, fünfundzwanzig, äh, Quadratkilometer Fläche.
+    - who: David Boder
+      start: '00:04:55.338'
+      end: '00:04:55.338'
+      u: Ja. Und. Was waren das, Gebäude, Häuser, Barracken?
+    - who: David Hirsch
+      start: '00:04:59.318'
+      end: '00:04:59.318'
+      u: Ähm. Steinbarracken.
+    - who: David Boder
+      start: '00:05:01.338'
+      end: '00:05:01.338'
+      u: Ja. Die hat man doch nicht jetzt gebaut?
+    - who: David Hirsch
+      start: '00:05:03.931'
+      end: '00:05:03.931'
+      u: Nein, die waren schon früher. Es waren früher Militärlager gewesen.
+    - who: David Boder
+      start: '00:05:07.549'
+      end: '00:05:07.549'
+      u: Ja. Nun?
+    - who: David Hirsch
+      start: '00:05:09.687'
+      end: '00:05:09.687'
+      u: Und, äh, hier wurden wir dann ungefähr zu hundertzwanzigst in Barracken,
+        einer Person nach der anderen, nicht, äh...
+    - who: David Boder
+      start: '00:05:18.566'
+      end: '00:05:18.566'
+      u: Wie viele Betten waren...
+    - who: David Hirsch
+      start: '00:05:20.556'
+      end: '00:05:20.556'
+      u: Die Betten, ja, ja.
+    - who: David Boder
+      start: '00:05:21.793'
+      end: '00:05:21.793'
+      u: Und wieviel Leute in einem Bett?
+    - who: David Hirsch
+      start: '00:05:25.667'
+      end: '00:05:25.667'
+      u: Äh, im ganzen waren hundertzwanzig. Das war eine Reihe lang.
+    - who: David Boder
+      start: '00:05:29.497'
+      end: '00:05:29.497'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:05:29.633'
+      end: '00:05:29.633'
+      u: War nicht direkt die Reihe ein Bett pro Person, sondern eine Reihe durch
+        mit Stroh.
+    - who: David Boder
+      start: '00:05:33.869'
+      end: '00:05:33.869'
+      u: Ja. Nun?
+    - who: David Hirsch
+      start: '00:05:36.161'
+      end: '00:05:36.161'
+      u: Hier war ich also sieben Monaten und wurde dann, äh, befreit durch die OSE.
+    - who: David Boder
+      start: '00:05:43.684'
+      end: '00:05:43.684'
+      u: Wie ist das? Wieso hat Sie die OSE befreit?
+    - who: David Hirsch
+      start: '00:05:46.232'
+      end: '00:05:46.232'
+      u: Alle Jugendliche wurden, äh, viele Jugendliche auf jeden Fall, wurden durch
+        die OSE befreit... Aus den französischen Lagern.
+    - who: David Boder
+      start: '00:05:54.539'
+      end: '00:05:54.539'
+      u: Oh. War es nicht von den Deutschen eingenommen das Lager?
+    - who: David Hirsch
+      start: '00:05:58.021'
+      end: '00:05:58.021'
+      u: Nein, das war noch von, von der französischen Behörde im unbesetzten Gebiet...
+    - who: David Boder
+      start: '00:06:03.449'
+      end: '00:06:03.449'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:06:03.796'
+      end: '00:06:03.796'
+      u: "... äh, war das bewacht gewesen, nicht?"
+    - who: David Boder
+      start: '00:06:06.826'
+      end: '00:06:06.826'
+      u: Oh, äh, und die Franzosen, die OSE hat alle Jugendlichen weggelassen? Also
+        was...
+    - who: David Hirsch
+      start: '00:06:12.464'
+      end: '00:06:12.464'
+      u: Von allen... Sie hat versucht, ähm, so viel als möglich zu befreien.
+    - who: David Boder
+      start: '00:06:16.927'
+      end: '00:06:16.927'
+      u: Ja. Nun, und was ist von Ihren Großeltern geworden?
+    - who: David Hirsch
+      start: '00:06:20.440'
+      end: '00:06:20.440'
+      u: Die waren dann noch ungefähr bis August '42, waren die noch in diesem selben
+        Lager und wurden dann irgendwohin, ahm, verschickt. Entweder nach Deutschland
+        oder in Polen.
+    - who: David Boder
+      start: '00:06:36.736'
+      end: '00:06:36.736'
+      u: Und Sie haben niemals von denen gehört?
+    - who: David Hirsch
+      start: '00:06:38.244'
+      end: '00:06:38.244'
+      u: Niemals etwas gehört ...bislang.
+    - who: David Boder
+      start: '00:06:40.747'
+      end: '00:06:40.747'
+      u: Haben Sie jetzt Aufspürungen gesucht, haben Sie nach gesucht?
+    - who: David Hirsch
+      start: '00:06:44.591'
+      end: '00:06:44.591'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:06:45.677'
+      end: '00:06:45.677'
+      u: Und was... Sie haben nichts...
+    - who: David Hirsch
+      start: '00:06:47.652'
+      end: '00:06:47.652'
+      u: Nichts.
+    - who: David Boder
+      start: '00:06:48.180'
+      end: '00:06:48.180'
+      u: Äh, sprechen Sie noch lauter. Sie haben nichts von denen gehört?
+    - who: David Hirsch
+      start: '00:06:51.240'
+      end: '00:06:51.240'
+      u: Nichts gehört.
+    - who: David Boder
+      start: '00:06:52.507'
+      end: '00:06:52.507'
+      u: Also, was hat die OSE mit Ihnen gemacht, wenn sie Sie befreit hat?
+    - who: David Hirsch
+      start: '00:06:55.658'
+      end: '00:06:55.658'
+      u: Also, ich kam dann in ein Kinderheim, und ...
+    - who: David Boder
+      start: '00:06:59.321'
+      end: '00:06:59.321'
+      u: Ja, wie alt waren Sie dann?
+    - who: David Hirsch
+      start: '00:07:01.613'
+      end: '00:07:01.613'
+      u: Dreizehn.
+    - who: David Boder
+      start: '00:07:02.623'
+      end: '00:07:02.623'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:07:03.980'
+      end: '00:07:03.980'
+      u: Bei Limoges. Das war also sehr gut, hier war ich zwei Jahre.
+    - who: David Boder
+      start: '00:07:09.121'
+      end: '00:07:09.121'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:07:09.739'
+      end: '00:07:09.739'
+      u: Nicht ganz zwei Jahre.
+    - who: David Boder
+      start: '00:07:11.397'
+      end: '00:07:11.397'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:07:12.302'
+      end: '00:07:12.302'
+      u: Und, äh, schließlich hat‘s dann für mich wieder angefangen, dass ich das
+        Alter von fünfzehn Jahre gehabt habe, und, äh, von der französischen Polizei
+        gesucht wurde.
+    - who: David Boder
+      start: '00:07:23.262'
+      end: '00:07:23.262'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:07:23.790'
+      end: '00:07:23.790'
+      u: Und von einem, äh...
+    - who: David Boder
+      start: '00:07:24.724'
+      end: '00:07:24.724'
+      u: Sogar wie in dem Heim von [unverständlich]?
+    - who: David Hirsch
+      start: '00:07:27.146'
+      end: '00:07:27.146'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:07:27.640'
+      end: '00:07:27.640'
+      u: Lebten Sie in einem Heim, wie viel Jungens waren Sie zusammen?
+    - who: David Hirsch
+      start: '00:07:31.327'
+      end: '00:07:31.327'
+      u: Wir waren Jungens und Mädels, ungefähr im Ganzen hundert.
+    - who: David Boder
+      start: '00:07:36.520'
+      end: '00:07:36.520'
+      u: Ja. Was haben Sie dort im Heim getan?
+    - who: David Hirsch
+      start: '00:07:39.785'
+      end: '00:07:39.785'
+      u: Gärtnerei- und Lederarbeiten.
+    - who: David Boder
+      start: '00:07:42.616'
+      end: '00:07:42.616'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:07:43.791'
+      end: '00:07:43.791'
+      u: Und sonst noch bisschen studiert, Englisch, Deutsch gemacht, nicht?
+    - who: David Boder
+      start: '00:07:47.887'
+      end: '00:07:47.887'
+      u: Ja, man hat unterrichtet. Nun, und, äh, wer waren die Lehrer?
+    - who: David Hirsch
+      start: '00:07:53.159'
+      end: '00:07:53.159'
+      u: Die Lehrer waren alles Juden.
+    - who: David Boder
+      start: '00:07:55.400'
+      end: '00:07:55.400'
+      u: Und man hat die nicht weggeschickt?
+    - who: David Hirsch
+      start: '00:07:58.063'
+      end: '00:07:58.063'
+      u: Nein, vorerst, äh, konnten sie noch bleiben, aber später wurde es dann, im
+        Jahre dreiundv..., äh, Ende '42, Anfang '43, wurde es dann für die genauso
+        schlimm.
+    - who: David Boder
+      start: '00:08:09.099'
+      end: '00:08:09.099'
+      u: Und dann?
+    - who: David Hirsch
+      start: '00:08:11.599'
+      end: '00:08:11.599'
+      u: Also, ich war dann bis Mai '43 eben in diesem Heim...
+    - who: David Boder
+      start: '00:08:16.870'
+      end: '00:08:16.870'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:08:17.503'
+      end: '00:08:17.503'
+      u: "... und, äh, musste dann noch mit einigen Kameraden das Heim verlassen."
+    - who: David Boder
+      start: '00:08:21.551'
+      end: '00:08:21.551'
+      u: Warum?
+    - who: David Hirsch
+      start: '00:08:23.328'
+      end: '00:08:23.328'
+      u: Eben weil wir gesucht wurden von der Polizei.
+    - who: David Boder
+      start: '00:08:25.889'
+      end: '00:08:25.889'
+      u: Sie wurden gesucht von der Polizei?
+    - who: David Hirsch
+      start: '00:08:27.136'
+      end: '00:08:27.136'
+      u: Ja, nicht direkt, noch, so dass wir auf der Liste waren, sondern wir, äh,
+        wir waren, wir hätten jeden Moment, äh, geholt werden können, nicht?
+    - who: David Boder
+      start: '00:08:37.148'
+      end: '00:08:37.148'
+      u: Ja. Und?
+    - who: David Hirsch
+      start: '00:08:38.383'
+      end: '00:08:38.383'
+      u: Von hier aus bin ich dann nach Südfrankreich.
+    - who: David Boder
+      start: '00:08:42.220'
+      end: '00:08:42.220'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:08:43.305'
+      end: '00:08:43.305'
+      u: Und, äh...
+    - who: David Boder
+      start: '00:08:44.281'
+      end: '00:08:44.281'
+      u: Sind Sie mit den Jungen einfach weggelaufen?
+    - who: David Hirsch
+      start: '00:08:46.642'
+      end: '00:08:46.642'
+      u: Nein, wir wurden alle, äh, wir wurden, äh, weg...
+    - who: David Boder
+      start: '00:08:52.215'
+      end: '00:08:52.215'
+      u: Ausgerüstet?
+    - who: David Hirsch
+      start: '00:08:53.191'
+      end: '00:08:53.191'
+      u: Ausgerüstet...
+    - who: David Boder
+      start: '00:08:54.378'
+      end: '00:08:54.378'
+      u: Die Schule hat es gewusst, ja?
+    - who: David Hirsch
+      start: '00:08:55.896'
+      end: '00:08:55.896'
+      u: Ja, ja. Wir wurden da bis nach Grenoble und von hier aus wurden wir dann
+        bei Bauern versteckt.
+    - who: David Boder
+      start: '00:09:01.589'
+      end: '00:09:01.589'
+      u: Ja. Und, äh, wie lange hat das gedauert?
+    - who: David Hirsch
+      start: '00:09:05.788'
+      end: '00:09:05.788'
+      u: Das heißt ich war dann während sechs Monaten als guter Franzose mit falschen
+        Papieren...
+    - who: David Boder
+      start: '00:09:11.071'
+      end: '00:09:11.071'
+      u: Ja. Wer hat die Papiere für Sie gemacht?
+    - who: David Hirsch
+      start: '00:09:13.812'
+      end: '00:09:13.812'
+      u: Die hab ich mir auf dem Bürgermeisteramt geholt. In dem Dorf wo ich war.
+    - who: David Boder
+      start: '00:09:17.457'
+      end: '00:09:17.457'
+      u: Wieso, Sie haben gesagt Ihren Namen...
+    - who: David Hirsch
+      start: '00:09:19.065'
+      end: '00:09:19.065'
+      u: Ich hab irgendeinen Namen erfunden, und, äh, hab mich dort vorgstellt, hab‘
+        Fotos gemacht, und äh [unverständlich]...
+    - who: David Boder
+      start: '00:09:26.005'
+      end: '00:09:26.005'
+      u: Hat Ihnen Papiere gegeben?
+    - who: David Hirsch
+      start: '00:09:26.981'
+      end: '00:09:26.981'
+      u: Hat mir meine Papiere...
+    - who: David Boder
+      start: '00:09:27.626'
+      end: '00:09:27.626'
+      u: Und welche Religion haben Sie angegeben?
+    - who: David Hirsch
+      start: '00:09:30.138'
+      end: '00:09:30.138'
+      u: Religion hab ich keine angegeben. Gar nichts.
+    - who: David Boder
+      start: '00:09:33.662'
+      end: '00:09:33.662'
+      u: Nun, und dann haben Sie was? Auf dem Dorfe gelebt? Haben Sie gearbeitet?
+    - who: David Hirsch
+      start: '00:09:37.487'
+      end: '00:09:37.487'
+      u: Ich hab gearbeitet, für den Bauer.
+    - who: David Boder
+      start: '00:09:39.837'
+      end: '00:09:39.837'
+      u: Und dann?
+    - who: David Hirsch
+      start: '00:09:42.198'
+      end: '00:09:42.198'
+      u: Und dann... ich wurde da von der jüdischen Organisation, Pfadfinderorganisation,
+        die die jungen Leute eben versteckt hatte, wurd‘ ich öfters mal von, äh, von
+        diesen Leuten aufgesucht.
+    - who: David Boder
+      start: '00:09:57.439'
+      end: '00:09:57.439'
+      u: Was haben Sie diese Organisation genannt?
+    - who: David Hirsch
+      start: '00:10:00.512'
+      end: '00:10:00.512'
+      u: Pfadfinder.
+    - who: David Boder
+      start: '00:10:01.307'
+      end: '00:10:01.307'
+      u: Was?
+    - who: David Hirsch
+      start: '00:10:01.940'
+      end: '00:10:01.940'
+      u: Pfadfinder.
+    - who: David Boder
+      start: '00:10:02.795'
+      end: '00:10:02.795'
+      u: Pfadfinder, ja?
+    - who: David Hirsch
+      start: '00:10:04.783'
+      end: '00:10:04.783'
+      u: Ja. Die, die, das heißt, die jüdische Widerstandsbewegung in Frankreich.
+    - who: David Boder
+      start: '00:10:08.458'
+      end: '00:10:08.458'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:10:09.121'
+      end: '00:10:09.121'
+      u: Die die jungen Leute eben versteckt hat beim Bauern.
+    - who: David Boder
+      start: '00:10:13.651'
+      end: '00:10:13.651'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:10:14.374'
+      end: '00:10:14.374'
+      u: Und, äh, die machten dann einige Besuche während der Zeit als ich dort war.
+    - who: David Boder
+      start: '00:10:19.555'
+      end: '00:10:19.555'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:10:19.989'
+      end: '00:10:19.989'
+      u: Und, äh...
+    - who: David Boder
+      start: '00:10:21.537'
+      end: '00:10:21.537'
+      u: Was war das für eine Organisation?
+    - who: David Hirsch
+      start: '00:10:24.549'
+      end: '00:10:24.549'
+      u: Das war IJF.Gemeint sind mit hoher Wahrscheinlichkeit die EIF (Eclaireurs
+        Israélites de France), die jüdische Pfadfinderorganisation Frankreichs, die
+        sich im 2. Weltkrieg beispielsweise für die Befreiung jüdischer Kinder und
+        Jugendlicher aus den Arbeits- und Konzentrationslagern einsetzte.1
+    - who: David Boder
+      start: '00:10:27.802'
+      end: '00:10:27.802'
+      u: Wie?
+    - who: David Hirsch
+      start: '00:10:28.676'
+      end: '00:10:28.676'
+      u: I, i - schi - i - j - ...
+    - who: David Boder
+      start: '00:10:36.068'
+      end: '00:10:36.068'
+      u: J?
+    - who: David Hirsch
+      start: '00:10:37.014'
+      end: '00:10:37.014'
+      u: I.
+    - who: David Boder
+      start: '00:10:38.954'
+      end: '00:10:38.954'
+      u: I?
+    - who: David Boder
+      start: '00:10:46.599'
+      end: '00:10:46.599'
+      u: Äh, nur die Jugend...
+    - who: David Hirsch
+      start: '00:10:51.539'
+      end: '00:10:51.539'
+      u: Äh, nein, des war der, der, die ganzen Vereine in Frankreich, alle Juden,
+        des war dann so 'n, äh, ...
+    - who: David Boder
+      start: '00:11:00.045'
+      end: '00:11:00.045'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:11:00.467'
+      end: '00:11:00.467'
+      u: "... ich weiß nicht genau."
+    - who: David Boder
+      start: '00:11:00.467'
+      end: '00:11:00.467'
+      u: Ja, und wie haben die sich geheimgehalten und so?
+    - who: David Hirsch
+      start: '00:11:03.925'
+      end: '00:11:03.925'
+      u: Ja, das war unter, das war unter, äh, OSE glaub ich gestanden.
+    - who: David Boder
+      start: '00:11:07.901'
+      end: '00:11:07.901'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:11:08.323'
+      end: '00:11:08.323'
+      u: Eben diese Organisation.
+    - who: David Boder
+      start: '00:11:09.419'
+      end: '00:11:09.419'
+      u: Ja, und wie lange haben Sie dort gelebt?
+    - who: David Hirsch
+      start: '00:11:13.034'
+      end: '00:11:13.034'
+      u: Ich hab dort sechs Monate gelebt...
+    - who: David Boder
+      start: '00:11:15.215'
+      end: '00:11:15.215'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:11:15.619'
+      end: '00:11:15.619'
+      u: "... und, äh, konnte zufälligerweise durch so einen Besuch mal vorsprechen
+        wie's eigentlich steht mit den anderen Jungens und Mädels, die, äh, soviel
+        ich, äh, gehört hatte damals, in die Schweiz, äh, gehen konnten."
+    - who: David Boder
+      start: '00:11:30.842'
+      end: '00:11:30.842'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:11:31.336'
+      end: '00:11:31.336'
+      u: So sagt man mir, sie wissen im Moment überhaupt nichts, und, äh, drei Wochen
+        später bekam ich dann einen Brief...
+    - who: David Boder
+      start: '00:11:40.595'
+      end: '00:11:40.595'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:11:40.926'
+      end: '00:11:40.926'
+      u: "... dass, äh, dass ich mich bereit machen soll, ich fahr dann in eine Schule
+        nach Lyon, eine Großschule..."
+    - who: David Boder
+      start: '00:11:50.203'
+      end: '00:11:50.203'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:11:51.197'
+      end: '00:11:51.197'
+      u: "... und ich weiß nicht, damals, ich dachte gerade ich könnte vielleicht
+        in die Schweiz rein, nicht, schließlich schreibt man alles, äh, etwas per
+        Brief..."
+    - who: David Boder
+      start: '00:11:59.974'
+      end: '00:11:59.974'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:12:00.366'
+      end: '00:12:00.366'
+      u: "... damit's nicht rauskommt. Und so wars schließlich, dass ich in die Schweiz
+        gekommen bin mit noch einem Kameraden, und wir dann zusammen..."
+    - who: David Boder
+      start: '00:12:06.914'
+      end: '00:12:06.914'
+      u: Vorher sind Sie nach Lyon gegangen?
+    - who: David Hirsch
+      start: '00:12:08.541'
+      end: '00:12:08.541'
+      u: Nein, nach Lyon bin ich nicht gefahren, das war nur, äh, im Brief gestanden.
+    - who: David Boder
+      start: '00:12:13.402'
+      end: '00:12:13.402'
+      u: Ja. Aber es hat gemeint, dass was?
+    - who: David Hirsch
+      start: '00:12:15.541'
+      end: '00:12:15.541'
+      u: Ja, dass wir nach der Schweiz fahren.
+    - who: David Boder
+      start: '00:12:17.559'
+      end: '00:12:17.559'
+      u: Nun?
+    - who: David Hirsch
+      start: '00:12:18.101'
+      end: '00:12:18.101'
+      u: So sind wir bis nach Annecy gefahren...
+    - who: David Boder
+      start: '00:12:21.083'
+      end: '00:12:21.083'
+      u: Wie, äh, per Bahn oder...
+    - who: David Hirsch
+      start: '00:12:22.559'
+      end: '00:12:22.559'
+      u: Per Bahn.
+    - who: David Boder
+      start: '00:12:23.192'
+      end: '00:12:23.192'
+      u: Ja. Und niemand hat Sie nicht, äh, abgehalten?
+    - who: David Hirsch
+      start: '00:12:25.734'
+      end: '00:12:25.734'
+      u: Doch, wir sind einige Mal von Deutschen kontrolliert worden, aber da wir,
+        äh, unsere Papiere gehabt haben...
+    - who: David Boder
+      start: '00:12:32.029'
+      end: '00:12:32.029'
+      u: Ja, und Sie haben Französisch gesprochen?
+    - who: David Hirsch
+      start: '00:12:33.837'
+      end: '00:12:33.837'
+      u: Französische Papiere...
+    - who: David Boder
+      start: '00:12:35.295'
+      end: '00:12:35.295'
+      u: Ja, haben Sie gesagt, dass Sie Deutsch können?
+    - who: David Hirsch
+      start: '00:12:37.415'
+      end: '00:12:37.415'
+      u: Nein, nein.
+    - who: David Boder
+      start: '00:12:37.897'
+      end: '00:12:37.897'
+      u: Und die haben nicht gefragt, ob Sie Juden waren?
+    - who: David Hirsch
+      start: '00:12:40.126'
+      end: '00:12:40.126'
+      u: Nein, nein.
+    - who: David Boder
+      start: '00:12:40.819'
+      end: '00:12:40.819'
+      u: Nun?
+    - who: David Hirsch
+      start: '00:12:41.241'
+      end: '00:12:41.241'
+      u: Sie haben, äh, die Papiere, die richtigen Papiere eben gesehen, da haben
+        Sie uns durchgelassen, nicht?
+    - who: David Boder
+      start: '00:12:45.861'
+      end: '00:12:45.861'
+      u: Ja. Und so gingen Sie wie weit?
+    - who: David Hirsch
+      start: '00:12:47.940'
+      end: '00:12:47.940'
+      u: So ging ich bis an die Schweizer Grenze, bis nach, ähm, Annecy...
+    - who: David Boder
+      start: '00:12:54.518'
+      end: '00:12:54.518'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:12:55.603'
+      end: '00:12:55.603'
+      u: In Annecy suchten wir dann am selben Tag jemand auf, der uns da eben die
+        Stelle sagen sollte [unverständlich].
+    - who: David Boder
+      start: '00:13:03.085'
+      end: '00:13:03.085'
+      u: Und, äh, wie haben Sie versucht den aufzusuchen?
+    - who: David Hirsch
+      start: '00:13:05.760'
+      end: '00:13:05.760'
+      u: Eben auch durch die Organisation.
+    - who: David Boder
+      start: '00:13:08.079'
+      end: '00:13:08.079'
+      u: Die OSE?
+    - who: David Hirsch
+      start: '00:13:09.254'
+      end: '00:13:09.254'
+      u: Nicht die OSE, die, äh [unverständlich]...
+    - who: David Boder
+      start: '00:13:11.091'
+      end: '00:13:11.091'
+      u: Die jüdische, die IJF?
+    - who: David Hirsch
+      start: '00:13:13.875'
+      end: '00:13:13.875'
+      u: Die, äh, die hat vielmehr die Sechste geheißen. Diese, äh, denn OSE war dritte,
+        und so war es in mehrere Gruppen eingeteilt, denn OSE hat für die Kinder gesorgt,
+        nicht, äh, was Gesundheit anbetrifft und so waren so mehrere Gruppen da.
+    - who: David Boder
+      start: '00:13:27.863'
+      end: '00:13:27.863'
+      u: Ja. Nun, und?
+    - who: David Hirsch
+      start: '00:13:31.188'
+      end: '00:13:31.188'
+      u: Und, äh, wir fanden dann niemand und mussten schließlich nach Chambéry während
+        acht Tage zurück, um uns in Chambéry acht Tage zu verstecken.
+    - who: David Boder
+      start: '00:13:41.730'
+      end: '00:13:41.730'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:13:42.363'
+      end: '00:13:42.363'
+      u: Hier, äh, waren wir dann in einem Dachboden oben gelegen mit noch anderen
+        Juden zusammen...
+    - who: David Boder
+      start: '00:13:51.309'
+      end: '00:13:51.309'
+      u: Ja. Was waren diese, auch junge Leute?
+    - who: David Hirsch
+      start: '00:13:53.640'
+      end: '00:13:53.640'
+      u: Junge und ältere Leute.
+    - who: David Boder
+      start: '00:13:54.845'
+      end: '00:13:54.845'
+      u: Ja. Und wessen Dachboden war das?
+    - who: David Hirsch
+      start: '00:13:57.990'
+      end: '00:13:57.990'
+      u: Das wussten wir überhaupt nicht, man hat uns einfach hier oben rauf getan.
+        So lagen wir ungefähr fünf Tage auf dem Dachboden...
+    - who: David Boder
+      start: '00:14:04.990'
+      end: '00:14:04.990'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:14:05.833'
+      end: '00:14:05.833'
+      u: "... und plötzlich ist dann..."
+    - who: David Boder
+      start: '00:14:08.538'
+      end: '00:14:08.538'
+      u: Sie waren auf dem Dachboden und dann?
+    - who: David Hirsch
+      start: '00:14:10.357'
+      end: '00:14:10.357'
+      u: Und plötzlich, äh, kam nach fünf Tagen der Besitzer. Der...
+    - who: David Boder
+      start: '00:14:15.478'
+      end: '00:14:15.478'
+      u: Oh, der Besitzer hat nicht gewusst [unverständlich]...
+    - who: David Hirsch
+      start: '00:14:17.207'
+      end: '00:14:17.207'
+      u: Der wusste überhaupt nichts. Und, äh, sagte uns dann wir können ruhig bleiben,
+        aber, äh, wir sollen das Zimmer auf unseren Namen nehmen.
+    - who: David Boder
+      start: '00:14:26.346'
+      end: '00:14:26.346'
+      u: Auf welchen Namen nehmen?
+    - who: David Hirsch
+      start: '00:14:27.804'
+      end: '00:14:27.804'
+      u: Äh, polizeilich auf unseren Namen einschreiben.
+    - who: David Boder
+      start: '00:14:31.370'
+      end: '00:14:31.370'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:14:31.912'
+      end: '00:14:31.912'
+      u: Das wollten wir natürlich nicht, und, äh...
+    - who: David Boder
+      start: '00:14:34.503'
+      end: '00:14:34.503'
+      u: Wie viel Leute waren dort im Zimmer?
+    - who: David Hirsch
+      start: '00:14:36.172'
+      end: '00:14:36.172'
+      u: Ungefähr zehn Leute.
+    - who: David Boder
+      start: '00:14:37.720'
+      end: '00:14:37.720'
+      u: In einem Zimmer?
+    - who: David Hirsch
+      start: '00:14:38.594'
+      end: '00:14:38.594'
+      u: Ja, also aufm Dach oben.
+    - who: David Boder
+      start: '00:14:40.534'
+      end: '00:14:40.534'
+      u: Ja. Waren da auch Frauen?
+    - who: David Hirsch
+      start: '00:14:42.263'
+      end: '00:14:42.263'
+      u: Nein.
+    - who: David Boder
+      start: '00:14:42.877'
+      end: '00:14:42.877'
+      u: Ja, nun?
+    - who: David Hirsch
+      start: '00:14:44.594'
+      end: '00:14:44.594'
+      u: Nun, haben wir das Haus da verlassen...
+    - who: David Boder
+      start: '00:14:48.450'
+      end: '00:14:48.450'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:14:49.366'
+      end: '00:14:49.366'
+      u: "... und, äh, haben uns dann noch eine Nacht in einem Hotel dort aufgehalten..."
+    - who: David Boder
+      start: '00:14:55.221'
+      end: '00:14:55.221'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:14:55.944'
+      end: '00:14:55.944'
+      u: "... und, äh, nächsten Tag fuhren wir dann..."
+    - who: David Boder
+      start: '00:14:58.746'
+      end: '00:14:58.746'
+      u: "(Ungläubig) In einem Hotel?"
+    - who: David Hirsch
+      start: '00:14:59.993'
+      end: '00:14:59.993'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:15:00.818'
+      end: '00:15:00.818'
+      u: Haben Sie bezahlt?
+    - who: David Hirsch
+      start: '00:15:02.595'
+      end: '00:15:02.595'
+      u: Ja...
+    - who: David Boder
+      start: '00:15:02.897'
+      end: '00:15:02.897'
+      u: Konnten Sie das?
+    - who: David Hirsch
+      start: '00:15:03.602'
+      end: '00:15:03.602'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:15:04.849'
+      end: '00:15:04.849'
+      u: Und wie hat das Hotel Sie reingelassen ohne der Polizei mitzuteilen?
+    - who: David Hirsch
+      start: '00:15:09.138'
+      end: '00:15:09.138'
+      u: Ähm, ich war doch Franzose gewesen damals, nicht?
+    - who: David Boder
+      start: '00:15:11.488'
+      end: '00:15:11.488'
+      u: Oh, ja. Ja.
+    - who: David Hirsch
+      start: '00:15:12.855'
+      end: '00:15:12.855'
+      u: "(Lacht.)"
+    - who: David Boder
+      start: '00:15:13.247'
+      end: '00:15:13.247'
+      u: Und die anderen Leute? Sind die mit Ihnen mitgegangen?
+    - who: David Hirsch
+      start: '00:15:15.355'
+      end: '00:15:15.355'
+      u: Nein, wir waren nur zu zweit...
+    - who: David Boder
+      start: '00:15:16.861'
+      end: '00:15:16.861'
+      u: Aha.
+    - who: David Hirsch
+      start: '00:15:17.223'
+      end: '00:15:17.223'
+      u: "... mein Kamerad und ich."
+    - who: David Boder
+      start: '00:15:18.048'
+      end: '00:15:18.048'
+      u: Ja. Und?
+    - who: David Hirsch
+      start: '00:15:19.343'
+      end: '00:15:19.343'
+      u: Und, äh, nächsten Tag hab ich dann 'ne Gruppe Jungens und Mädels getroffen,
+        in Annecy, wieder, wir sind also am nächsten wieder hingefahren nach Annecy,
+        und, äh, abends gegen halb sieben haben wir dann den Omnibus genommen...
+    - who: David Boder
+      start: '00:15:35.187'
+      end: '00:15:35.187'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:15:35.518'
+      end: '00:15:35.518'
+      u: "... bis, äh, Saint-Julien...Saint-Julien-en-Genevois (Hochsavoyen)2"
+    - who: David Boder
+      start: '00:15:37.217'
+      end: '00:15:37.217'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:15:37.771'
+      end: '00:15:37.771'
+      u: "... direkt an der Grenze..."
+    - who: David Boder
+      start: '00:15:39.458'
+      end: '00:15:39.458'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:15:39.862'
+      end: '00:15:39.862'
+      u: "... hier sind wir dann in ein Bauernhaus, das ungefähr 200 Meter von der
+        Grenze ist..."
+    - who: David Boder
+      start: '00:15:44.904'
+      end: '00:15:44.904'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:15:45.235'
+      end: '00:15:45.235'
+      u: "... und, äh, der Bauer, natürlich, hat sich zuerst umgeschaut, ob niemand
+        da ist, und, äh, so sind wir zu acht über die Grenze gekommen. Und da war
+        noch ein kleines Mädchen von fünf Jahren, und, äh..."
+    - who: David Boder
+      start: '00:15:59.663'
+      end: '00:15:59.663'
+      u: Wie ist das mit Ihnen gekommen?
+    - who: David Hirsch
+      start: '00:16:01.681'
+      end: '00:16:01.681'
+      u: Ja.
+    - who: David Boder
+      start: '00:16:02.314'
+      end: '00:16:02.314'
+      u: Wo haben Sie die anderen sechs gefunden? Sie waren doch zwei?
+    - who: David Hirsch
+      start: '00:16:06.422'
+      end: '00:16:06.422'
+      u: Die anderen sechs, die haben wir dann eben in Annecy gefunden. In Annecy
+        ist 'n Transport, also 'n Kindertransport aus Paris nach Annecy, angeblich
+        in den Ferien...
+    - who: David Boder
+      start: '00:16:15.669'
+      end: '00:16:15.669'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:16:16.272'
+      end: '00:16:16.272'
+      u: "... gefahren. Und die haben wir dort mitgenommen. Von dort aus."
+    - who: David Boder
+      start: '00:16:19.236'
+      end: '00:16:19.236'
+      u: Aha. Und wer hat Ihnen das Bauernhaus angezeigt?
+    - who: David Hirsch
+      start: '00:16:23.405'
+      end: '00:16:23.405'
+      u: War jemand mit uns.
+    - who: David Boder
+      start: '00:16:24.682'
+      end: '00:16:24.682'
+      u: Der hat gewusst?
+    - who: David Hirsch
+      start: '00:16:25.556'
+      end: '00:16:25.556'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:16:26.050'
+      end: '00:16:26.050'
+      u: Wer war das?
+    - who: David Hirsch
+      start: '00:16:27.056'
+      end: '00:16:27.056'
+      u: Ich kenn keinen Namen.
+    - who: David Boder
+      start: '00:16:28.170'
+      end: '00:16:28.170'
+      u: Ist es ein Fran... Nein, ich wollte keinen Namen. War es ein Franzose, ein
+        Jude, wer war das?
+    - who: David Hirsch
+      start: '00:16:33.170'
+      end: '00:16:33.170'
+      u: Keine Ahnung.
+    - who: David Boder
+      start: '00:16:34.044'
+      end: '00:16:34.044'
+      u: Keine Ah...?
+    - who: David Hirsch
+      start: '00:16:34.658'
+      end: '00:16:34.658'
+      u: Hab den Mann niemals vorher gesehen.
+    - who: David Boder
+      start: '00:16:36.466'
+      end: '00:16:36.466'
+      u: Und wie haben Sie ihn erkannt?
+    - who: David Hirsch
+      start: '00:16:38.255'
+      end: '00:16:38.255'
+      u: "[unverständlich] vorgestellt."
+    - who: David Boder
+      start: '00:16:42.864'
+      end: '00:16:42.864'
+      u: Als was? Dass Sie weggehen müssen?
+    - who: David Hirsch
+      start: '00:16:45.075'
+      end: '00:16:45.075'
+      u: Der Mann mit mir kommt.
+    - who: David Boder
+      start: '00:16:47.617'
+      end: '00:16:47.617'
+      u: Na, ich versteh das nicht. Äh, Sie waren da in der kleinen Stadt, ja?
+    - who: David Hirsch
+      start: '00:16:52.858'
+      end: '00:16:52.858'
+      u: Ja.
+    - who: David Boder
+      start: '00:16:53.159'
+      end: '00:16:53.159'
+      u: Und...
+    - who: David Hirsch
+      start: '00:16:53.581'
+      end: '00:16:53.581'
+      u: Wir haben die anderen...
+    - who: David Boder
+      start: '00:16:54.364'
+      end: '00:16:54.364'
+      u: "... wie haben Sie den Mann erkannt?"
+    - who: David Hirsch
+      start: '00:16:54.997'
+      end: '00:16:54.997'
+      u: "... die anderen getroffen, nicht, die..."
+    - who: David Boder
+      start: '00:16:57.087'
+      end: '00:16:57.087'
+      u: Ah, Sie haben auf andere getroffen, die den Mann gekannt.
+    - who: David Hirsch
+      start: '00:17:00.160'
+      end: '00:17:00.160'
+      u: Nein! Mit diesen Kindern...
+    - who: David Boder
+      start: '00:17:02.250'
+      end: '00:17:02.250'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:17:02.793'
+      end: '00:17:02.793'
+      u: "... ist doch jemand mitgekommen als Begleitung, es..."
+    - who: David Boder
+      start: '00:17:05.185'
+      end: '00:17:05.185'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:17:05.438'
+      end: '00:17:05.438'
+      u: "... waren doch meistens kleine Kinder..."
+    - who: David Boder
+      start: '00:17:06.643'
+      end: '00:17:06.643'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:17:06.806'
+      end: '00:17:06.806'
+      u: "... aus Paris."
+    - who: David Boder
+      start: '00:17:07.631'
+      end: '00:17:07.631'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:17:08.384'
+      end: '00:17:08.384'
+      u: Und diese haben den Mann gekannt.
+    - who: David Boder
+      start: '00:17:10.854'
+      end: '00:17:10.854'
+      u: Oh [unverständlich].
+    - who: David Hirsch
+      start: '00:17:11.758'
+      end: '00:17:11.758'
+      u: Und die, äh, folgendes wusst‘ ich gar nicht, der Mann ist einfach mitgekommen
+        und...
+    - who: David Boder
+      start: '00:17:16.017'
+      end: '00:17:16.017'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:17:16.378'
+      end: '00:17:16.378'
+      u: "... hatte uns das angezeigt."
+    - who: David Boder
+      start: '00:17:18.125'
+      end: '00:17:18.125'
+      u: Ja, und?
+    - who: David Hirsch
+      start: '00:17:19.029'
+      end: '00:17:19.029'
+      u: Hab ich natürlich hier in der Schweiz nicht gesagt, als ich ...
+    - who: David Boder
+      start: '00:17:21.409'
+      end: '00:17:21.409'
+      u: Ja, ja, ich verstehe.
+    - who: David Hirsch
+      start: '00:17:21.542'
+      end: '00:17:21.542'
+      u: "...angekommen bin."
+    - who: David Boder
+      start: '00:17:22.759'
+      end: '00:17:22.759'
+      u: Und? Dann hat er Sie ins Bauernhaus genommen?
+    - who: David Hirsch
+      start: '00:17:25.994'
+      end: '00:17:25.994'
+      u: Ja.
+    - who: David Boder
+      start: '00:17:26.536'
+      end: '00:17:26.536'
+      u: Ja. Und dann?
+    - who: David Hirsch
+      start: '00:17:27.892'
+      end: '00:17:27.892'
+      u: Und dann, als der Bauer gesehen hat, dass keine Deutschen in der Nähe sind
+        an der...
+    - who: David Boder
+      start: '00:17:32.814'
+      end: '00:17:32.814'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:17:33.880'
+      end: '00:17:33.880'
+      u: "... Grenze, sind wir dann sofort los, und, äh, sind übern Stacheldraht,
+        äh, in die Schweiz rüber."
+    - who: David Boder
+      start: '00:17:39.513'
+      end: '00:17:39.513'
+      u: Also die, und die Schweizer Wache, wo hat die Schweizer Wache...
+    - who: David Hirsch
+      start: '00:17:42.627'
+      end: '00:17:42.627'
+      u: Die Schweizer Wache hatte uns erst nach, äh, zwei Kilometer Marsch in, auf
+        Schweizer Gebiet, äh, angehalten.
+    - who: David Boder
+      start: '00:17:49.465'
+      end: '00:17:49.465'
+      u: Und da war ein kleines Mädchen von fünf Jahren mit...
+    - who: David Hirsch
+      start: '00:17:51.796'
+      end: '00:17:51.796'
+      u: Ja.
+    - who: David Boder
+      start: '00:17:52.158'
+      end: '00:17:52.158'
+      u: "... Ihnen? Wessen Kind war das?"
+    - who: David Hirsch
+      start: '00:17:53.857'
+      end: '00:17:53.857'
+      u: Ich weiß nicht. Hat noch drei Geschwister gehabt.
+    - who: David Boder
+      start: '00:17:56.670'
+      end: '00:17:56.670'
+      u: Oh, die waren auch mit?
+    - who: David Hirsch
+      start: '00:17:58.267'
+      end: '00:17:58.267'
+      u: Ja.
+    - who: David Boder
+      start: '00:17:58.701'
+      end: '00:17:58.701'
+      u: Oh ja, da waren drei Geschwister mit einem kleinen Kind?
+    - who: David Hirsch
+      start: '00:18:01.605'
+      end: '00:18:01.605'
+      u: Ja.
+    - who: David Boder
+      start: '00:18:02.099'
+      end: '00:18:02.099'
+      u: Sprechen Sie, äh... ja. Und dann sind Sie, haben sich der Schweizer Polizei
+        vorgestellt? Nun erzählen Sie weiter, was hat in der Schweiz passiert?
+    - who: David Hirsch
+      start: '00:18:09.912'
+      end: '00:18:09.912'
+      u: Nun, äh, hat uns eben die Schweizer Wache angehalten, man hat uns aufs nächste
+        Zollamt gebracht...
+    - who: David Boder
+      start: '00:18:16.539'
+      end: '00:18:16.539'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:18:17.274'
+      end: '00:18:17.274'
+      u: "... und, äh, von da aus in einem Auto mit noch mehreren Leuten, die in der
+        selben Nacht da erwischt worden sind..."
+    - who: David Boder
+      start: '00:18:24.214'
+      end: '00:18:24.214'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:18:24.678'
+      end: '00:18:24.678'
+      u: "... hierher nach Genf gebracht."
+    - who: David Boder
+      start: '00:18:26.286'
+      end: '00:18:26.286'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:18:26.768'
+      end: '00:18:26.768'
+      u: In Genf wurden alle Personalien aufgenommen und so weiter.
+    - who: David Boder
+      start: '00:18:31.407'
+      end: '00:18:31.407'
+      u: Wer hat das getan?
+    - who: David Hirsch
+      start: '00:18:33.467'
+      end: '00:18:33.467'
+      u: Schweizer.
+    - who: David Boder
+      start: '00:18:34.160'
+      end: '00:18:34.160'
+      u: Ja, waren keine Juden dabei?
+    - who: David Hirsch
+      start: '00:18:35.124'
+      end: '00:18:35.124'
+      u: Äh, Militärpolizei.
+    - who: David Boder
+      start: '00:18:36.582'
+      end: '00:18:36.582'
+      u: Was?
+    - who: David Hirsch
+      start: '00:18:37.166'
+      end: '00:18:37.166'
+      u: Militärpolizei.
+    - who: David Boder
+      start: '00:18:38.221'
+      end: '00:18:38.221'
+      u: Militärpolizei hat Ihre Namen aufgenommen und dann?
+    - who: David Hirsch
+      start: '00:18:41.245'
+      end: '00:18:41.245'
+      u: Namen, Personalien, alles, nicht?
+    - who: David Boder
+      start: '00:18:43.745'
+      end: '00:18:43.745'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:18:44.197'
+      end: '00:18:44.197'
+      u: Woher, und so weiter. Und, äh, dann wurden wir nachts endlich mal um zwei
+        Uhr auf Stroh geworfen...
+    - who: David Boder
+      start: '00:18:51.799'
+      end: '00:18:51.799'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:18:52.281'
+      end: '00:18:52.281'
+      u: "... mit verschlossenen Türen..."
+    - who: David Boder
+      start: '00:18:53.817'
+      end: '00:18:53.817'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:18:54.691'
+      end: '00:18:54.691'
+      u: Und, äh, so waren wir den ganzen Tag dort zu gewesen, bis nächsten Tag, äh,
+        musst ich nochmal vorsprechen beim, beim zivilen Beamten.
+    - who: David Boder
+      start: '00:19:07.052'
+      end: '00:19:07.052'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:19:07.625'
+      end: '00:19:07.625'
+      u: Und, äh, da ich keine Papiere hatte...
+    - who: David Boder
+      start: '00:19:10.800'
+      end: '00:19:10.800'
+      u: Mhm.
+    - who: David Hirsch
+      start: '00:19:11.384'
+      end: '00:19:11.384'
+      u: "... wollte der liebe Mann mich dann sofort wieder aus der Schweiz rausschmeißen."
+    - who: David Boder
+      start: '00:19:16.987'
+      end: '00:19:16.987'
+      u: Also, wieso hatten Sie keine Papiere? Sie sagten Sie hatten französische
+        Papiere?
+    - who: David Hirsch
+      start: '00:19:20.132'
+      end: '00:19:20.132'
+      u: Jawohl, solange ich in Frankreich war.
+    - who: David Boder
+      start: '00:19:23.066'
+      end: '00:19:23.066'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:19:23.952'
+      end: '00:19:23.952'
+      u: Die Papiere hab ich so, sofort als ich über die Grenze gegangen bin in Frankreich
+        zurückgelassen. Demjen..., dem Mann da, der mit uns gekommen ist, gegeben.
+    - who: David Boder
+      start: '00:19:32.669'
+      end: '00:19:32.669'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:19:33.103'
+      end: '00:19:33.103'
+      u: Damit die Papiere jemand anders dann wieder...
+    - who: David Boder
+      start: '00:19:35.103'
+      end: '00:19:35.103'
+      u: Oh, damit jemand anders [unverständlich]
+    - who: David Hirsch
+      start: '00:19:36.248'
+      end: '00:19:36.248'
+      u: "... zu, äh, zu Gut kommen können."
+    - who: David Boder
+      start: '00:19:38.730'
+      end: '00:19:38.730'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:19:39.194'
+      end: '00:19:39.194'
+      u: Schließlich muss er dann nur 's Foto wechseln.
+    - who: David Boder
+      start: '00:19:41.164'
+      end: '00:19:41.164'
+      u: Was?
+    - who: David Hirsch
+      start: '00:19:41.839'
+      end: '00:19:41.839'
+      u: Schließlich muss er nur 's Foto wechseln.
+    - who: David Boder
+      start: '00:19:43.357'
+      end: '00:19:43.357'
+      u: Ja. Und dann?
+    - who: David Hirsch
+      start: '00:19:44.020'
+      end: '00:19:44.020'
+      u: Stempel und alles ist da.
+    - who: David Boder
+      start: '00:19:45.478'
+      end: '00:19:45.478'
+      u: Ja? Und so, so hatten Sie überhaupt keine Papiere, und zu was hat der...
+    - who: David Hirsch
+      start: '00:19:50.189'
+      end: '00:19:50.189'
+      u: So hatte ich keine Papiere und bin hier in die Schweiz gekommen auf meinen
+        alten Namen...
+    - who: David Boder
+      start: '00:19:57.038'
+      end: '00:19:57.038'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:19:57.520'
+      end: '00:19:57.520'
+      u: "... und, äh, meine alten Daten, wie sie eigentlich in Richtigkeit waren."
+    - who: David Boder
+      start: '00:20:01.797'
+      end: '00:20:01.797'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:20:02.309'
+      end: '00:20:02.309'
+      u: Nicht?
+    - who: David Boder
+      start: '00:20:02.671'
+      end: '00:20:02.671'
+      u: Und so wurden Sie...
+    - who: David Hirsch
+      start: '00:20:03.978'
+      end: '00:20:03.978'
+      u: Und, äh, die wollten mich dann wieder rauswerfen.
+    - who: David Boder
+      start: '00:20:06.538'
+      end: '00:20:06.538'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:20:07.382'
+      end: '00:20:07.382'
+      u: Das heißt, ich hab, äh, ich hab mich nicht, äh, ich bin nicht gewichen.
+    - who: David Boder
+      start: '00:20:11.400'
+      end: '00:20:11.400'
+      u: Was?
+    - who: David Hirsch
+      start: '00:20:11.912'
+      end: '00:20:11.912'
+      u: Ich bin, äh, ich bin im Büro geblieben, ich habe mich nicht rausschmeißen
+        lassen...
+    - who: David Boder
+      start: '00:20:16.912'
+      end: '00:20:16.912'
+      u: Wie rausschmeißen? Sie haben sich nicht rausschmeißen lassen?
+    - who: David Hirsch
+      start: '00:20:19.683'
+      end: '00:20:19.683'
+      u: Nein, er hat mich zur, er hat mir die Tür gewiesen.
+    - who: David Boder
+      start: '00:20:22.364'
+      end: '00:20:22.364'
+      u: Nach wo?
+    - who: David Hirsch
+      start: '00:20:23.430'
+      end: '00:20:23.430'
+      u: Und, äh...
+    - who: David Boder
+      start: '00:20:23.822'
+      end: '00:20:23.822'
+      u: Sind Sie rausgegangen?
+    - who: David Hirsch
+      start: '00:20:25.310'
+      end: '00:20:25.310'
+      u: Nein.
+    - who: David Boder
+      start: '00:20:26.075'
+      end: '00:20:26.075'
+      u: Nun?
+    - who: David Hirsch
+      start: '00:20:27.099'
+      end: '00:20:27.099'
+      u: Nun, ich hab gesagt "Ich geh nicht!".
+    - who: David Boder
+      start: '00:20:29.388'
+      end: '00:20:29.388'
+      u: Oh.
+    - who: David Hirsch
+      start: '00:20:29.961'
+      end: '00:20:29.961'
+      u: Ich hab ihm dann einen Brief von meinen Eltern gezeigt, um ihm zu beweisen,
+        dass ich eben, meine Aussagen, äh, meine, betreffs meiner Eltern, dass sie
+        in Buenos Aires sind, äh, dass er mir die glauben kann, nicht?
+    - who: David Boder
+      start: '00:20:43.497'
+      end: '00:20:43.497'
+      u: Was haben Sie ihm gezeigt?
+    - who: David Hirsch
+      start: '00:20:44.822'
+      end: '00:20:44.822'
+      u: Einen alten Brief von meinen Eltern.
+    - who: David Boder
+      start: '00:20:46.901'
+      end: '00:20:46.901'
+      u: Oh. Den hatten Sie doch noch mit?
+    - who: David Hirsch
+      start: '00:20:48.540'
+      end: '00:20:48.540'
+      u: Den hatt‘ ich noch mit.
+    - who: David Boder
+      start: '00:20:49.124'
+      end: '00:20:49.124'
+      u: Haben Sie nicht Angst gehabt, das mit sich zu tragen?
+    - who: David Hirsch
+      start: '00:20:51.654'
+      end: '00:20:51.654'
+      u: Nein, nein.
+    - who: David Boder
+      start: '00:20:52.799'
+      end: '00:20:52.799'
+      u: Nun, und?
+    - who: David Hirsch
+      start: '00:20:54.094'
+      end: '00:20:54.094'
+      u: Nun, äh, hat er mich also aufgeschrieben...
+    - who: David Boder
+      start: '00:20:57.679'
+      end: '00:20:57.679'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:20:59.348'
+      end: '00:20:59.348'
+      u: "... und, äh, als alles soweit war, sollt ich doch mit sechs anderen zurückgeschickt
+        werden."
+    - who: David Boder
+      start: '00:21:04.571'
+      end: '00:21:04.571'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:21:05.095'
+      end: '00:21:05.095'
+      u: Über die Grenze also zurückgestellt.
+    - who: David Boder
+      start: '00:21:07.414'
+      end: '00:21:07.414'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:21:08.107'
+      end: '00:21:08.107'
+      u: Und, äh, ich verstand das einfach nicht. Alle anderen mussten vortreten um
+        durchsucht zu werden, und ich war noch mit sechs anderen...
+    - who: David Boder
+      start: '00:21:17.836'
+      end: '00:21:17.836'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:21:18.198'
+      end: '00:21:18.198'
+      u: "... wovon auch 'n Mann darunter war, der zum sechsten Mal zurückgeschickt
+        worden ist..."
+    - who: David Boder
+      start: '00:21:22.065'
+      end: '00:21:22.065'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:21:23.210'
+      end: '00:21:23.210'
+      u: "... und, äh,..."
+    - who: David Boder
+      start: '00:21:23.843'
+      end: '00:21:23.843'
+      u: War das ein jüdischer Mann?
+    - who: David Hirsch
+      start: '00:21:26.204'
+      end: '00:21:26.204'
+      u: Ich weiß nicht.
+    - who: David Boder
+      start: '00:21:27.319'
+      end: '00:21:27.319'
+      u: Und wie hat man Sie zurückgeschickt? Einfach über die Grenze geschoben...
+    - who: David Hirsch
+      start: '00:21:29.952'
+      end: '00:21:29.952'
+      u: Einfach über die Grenze geschoben.
+    - who: David Boder
+      start: '00:21:31.229'
+      end: '00:21:31.229'
+      u: "... oder sind Sie der Polizei dort abgegeben?"
+    - who: David Hirsch
+      start: '00:21:33.518'
+      end: '00:21:33.518'
+      u: Nein, über die Grenze geschoben.
+    - who: David Boder
+      start: '00:21:35.777'
+      end: '00:21:35.777'
+      u: An einer Stelle, wo keiner war?
+    - who: David Hirsch
+      start: '00:21:37.344'
+      end: '00:21:37.344'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:21:38.290'
+      end: '00:21:38.290'
+      u: Ja, nun?
+    - who: David Hirsch
+      start: '00:21:39.417'
+      end: '00:21:39.417'
+      u: Nun, äh, konnte ich mich noch arrangieren irgendwie durch die Tür da zu wischen,
+        und mich der Menge da anschließen.
+    - who: David Boder
+      start: '00:21:48.917'
+      end: '00:21:48.917'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:21:49.339'
+      end: '00:21:49.339'
+      u: Und mich so, äh...
+    - who: David Boder
+      start: '00:21:50.375'
+      end: '00:21:50.375'
+      u: Lauter bitte. Ja.
+    - who: David Hirsch
+      start: '00:21:51.068'
+      end: '00:21:51.068'
+      u: Und so später dann ins Büro einbrechen, als alle, äh, durch waren, bin ich
+        dann auch ins Büro nochmal reingegangen...
+    - who: David Boder
+      start: '00:21:58.520'
+      end: '00:21:58.520'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:21:59.104'
+      end: '00:21:59.104'
+      u: "... und, äh, hab gefragt, was da, ob da irgendein Fehler vielleicht vorgekommen
+        ist wegen meiner Sache, sagte der doch vorhin, dass es jetzt in Ordnung wär,
+        nicht?"
+    - who: David Boder
+      start: '00:22:09.165'
+      end: '00:22:09.165'
+      u: Wieso?
+    - who: David Hirsch
+      start: '00:22:10.322'
+      end: '00:22:10.322'
+      u: Ja, zuerst wollt er mich rausschmeißen, nachdem ich den Brief gezeigt hab...
+    - who: David Boder
+      start: '00:22:13.979'
+      end: '00:22:13.979'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:22:14.383'
+      end: '00:22:14.383'
+      u: "... hat er gesagt die Sache ist doch in Ordnung..."
+    - who: David Boder
+      start: '00:22:16.232'
+      end: '00:22:16.232'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:22:16.624'
+      end: '00:22:16.624'
+      u: "... er hat mir dann geglaubt. Dann ist die Sache nochmal so gewesen, dass
+        ich schon aufm, fast aufm Weg war, um zurückgewiesen zu werden."
+    - who: David Boder
+      start: '00:22:25.540'
+      end: '00:22:25.540'
+      u: Ja. Und dann?
+    - who: David Hirsch
+      start: '00:22:26.395'
+      end: '00:22:26.395'
+      u: Äh, ich bin dann nochmal zu ihm gegangen aufs Büro, hab ihm die Sache noch
+        einmal erklärt...
+    - who: David Boder
+      start: '00:22:31.516'
+      end: '00:22:31.516'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:22:31.950'
+      end: '00:22:31.950'
+      u: "... ob vielleicht jetzt in Zwischenzeit wieder'n Irrtum vorgekommen ist..."
+    - who: David Boder
+      start: '00:22:35.155'
+      end: '00:22:35.155'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:22:35.980'
+      end: '00:22:35.980'
+      u: So...
+    - who: David Boder
+      start: '00:22:36.733'
+      end: '00:22:36.733'
+      u: Hat er Ihnen was gesagt?
+    - who: David Hirsch
+      start: '00:22:37.998'
+      end: '00:22:37.998'
+      u: Hat er mir also... die Sache genehmigt...
+    - who: David Boder
+      start: '00:22:42.306'
+      end: '00:22:42.306'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:22:43.011'
+      end: '00:22:43.011'
+      u: "... ich hab mein Geld abliefern müssen, mein französisches, was ich dabei
+        gehabt hab."
+    - who: David Boder
+      start: '00:22:46.668'
+      end: '00:22:46.668'
+      u: Wieviel hatten Sie?
+    - who: David Hirsch
+      start: '00:22:47.885'
+      end: '00:22:47.885'
+      u: Siebenun... siebenhundertfünfzig Franken...
+    - who: David Boder
+      start: '00:22:50.156'
+      end: '00:22:50.156'
+      u: Wo haben Sie das bekommen?
+    - who: David Hirsch
+      start: '00:22:52.234'
+      end: '00:22:52.234'
+      u: "... französische. Da wo ich gearbeitet habe."
+    - who: David Boder
+      start: '00:22:54.012'
+      end: '00:22:54.012'
+      u: Wo?
+    - who: David Hirsch
+      start: '00:22:54.988'
+      end: '00:22:54.988'
+      u: Beim Bauern.
+    - who: David Boder
+      start: '00:22:55.783'
+      end: '00:22:55.783'
+      u: Oh, der Bauer hat Ihnen bezahlt?
+    - who: David Hirsch
+      start: '00:22:58.193'
+      end: '00:22:58.193'
+      u: Er hätte mir nicht bezahlen sollen, aber die, äh, die waren sehr nett, die
+        Leute. Und da hat er mir jede, äh, vierzehn Tag etwas bezahlt.
+    - who: David Boder
+      start: '00:23:06.669'
+      end: '00:23:06.669'
+      u: Und Sie haben das gespart?
+    - who: David Hirsch
+      start: '00:23:08.157'
+      end: '00:23:08.157'
+      u: Ja.
+    - who: David Boder
+      start: '00:23:09.675'
+      end: '00:23:09.675'
+      u: Oh. Und dann haben Sie das Geld den Schweizern abgegeben und?
+    - who: David Hirsch
+      start: '00:23:13.410'
+      end: '00:23:13.410'
+      u: Und, äh...
+    - who: David Boder
+      start: '00:23:14.073'
+      end: '00:23:14.073'
+      u: Haben Sie das nachher zurückbekommen?
+    - who: David Hirsch
+      start: '00:23:15.320'
+      end: '00:23:15.320'
+      u: "... hab es, äh, später in Fran..., in Schweizer Franken zurückbekommen."
+    - who: David Boder
+      start: '00:23:18.344'
+      end: '00:23:18.344'
+      u: Ja. Nun, und?
+    - who: David Hirsch
+      start: '00:23:20.091'
+      end: '00:23:20.091'
+      u: Nun bin ich dann, ne halbe Stunde später, äh, auf Transport gegangen in ein
+        anderes Lager...
+    - who: David Boder
+      start: '00:23:26.868'
+      end: '00:23:26.868'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:23:27.471'
+      end: '00:23:27.471'
+      u: "... auch hier in Genf."
+    - who: David Boder
+      start: '00:23:28.477'
+      end: '00:23:28.477'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:23:28.838'
+      end: '00:23:28.838'
+      u: Hier war ich dann, ähm, drei Wochen.
+    - who: David Boder
+      start: '00:23:32.573'
+      end: '00:23:32.573'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:23:32.965'
+      end: '00:23:32.965'
+      u: Von Genf aus bin ich dann nach Les Avants gekommen...
+    - who: David Boder
+      start: '00:23:37.345'
+      end: '00:23:37.345'
+      u: Ja.
+    - who: David Hirsch
+      start: '00:23:37.809'
+      end: '00:23:37.809'
+      u: "... bei Montreux."
+    - who: David Boder
+      start: '00:23:39.176'
+      end: '00:23:39.176'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:23:39.478'
+      end: '00:23:39.478'
+      u: Hier war ich vier Wochen und dann wurd' ich dann durch die Kinderhilfe befreit
+        und...
+    - who: David Boder
+      start: '00:23:44.129'
+      end: '00:23:44.129'
+      u: Welche Kinderhilfe?
+    - who: David Hirsch
+      start: '00:23:45.316'
+      end: '00:23:45.316'
+      u: Schweizer...
+    - who: David Boder
+      start: '00:23:46.021'
+      end: '00:23:46.021'
+      u: Ja, und?
+    - who: David Hirsch
+      start: '00:23:47.148'
+      end: '00:23:47.148'
+      u: "... Kinderhilfe. Und kam, äh, nach, äh, Speicher im Kanton Appenzell, bei
+        St. Gallen."
+    - who: David Boder
+      start: '00:23:53.455'
+      end: '00:23:53.455'
+      u: Aha. Und?
+    - who: David Hirsch
+      start: '00:23:54.630'
+      end: '00:23:54.630'
+      u: Hier war ich also unter weniger günstigen Verhältnissen in einem Kinderheim...
+    - who: David Boder
+      start: '00:24:00.666'
+      end: '00:24:00.666'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:24:00.877'
+      end: '00:24:00.877'
+      u: "... während dreieinhalb Monaten. Und, äh, konnte dann dank meiner Kameraden,
+        die ich hier in Genf hatte, in Pont de la Forêt, konnte ich dann hierher kommen."
+    - who: David Boder
+      start: '00:24:10.979'
+      end: '00:24:10.979'
+      u: Was ist das?
+    - who: David Hirsch
+      start: '00:24:12.275'
+      end: '00:24:12.275'
+      u: Pont de la Forêt.
+    - who: David Boder
+      start: '00:24:13.612'
+      end: '00:24:13.612'
+      u: Was ist das?
+    - who: David Hirsch
+      start: '00:24:14.727'
+      end: '00:24:14.727'
+      u: Das ist, äh, ein Kinderheim.
+    - who: David Boder
+      start: '00:24:17.269'
+      end: '00:24:17.269'
+      u: Ein jüdisches?
+    - who: David Hirsch
+      start: '00:24:18.384'
+      end: '00:24:18.384'
+      u: Ja.
+    - who: David Boder
+      start: '00:24:21.498'
+      end: '00:24:21.498'
+      u: Wie schreibt man das? Schreiben Sie es mal auf. (Hirsch schreibt es auf.)
+        Wieso haben Sie Kameraden im Pont de La Forêt gehabt?
+    - who: David Hirsch
+      start: '00:24:30.926'
+      end: '00:24:30.926'
+      u: Eben mein Kamerad, der mit mir war.
+    - who: David Boder
+      start: '00:24:33.004'
+      end: '00:24:33.004'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:24:33.185'
+      end: '00:24:33.185'
+      u: Wurde hier in Genf gleich befreit und kam in das Heim, und ich kam weiter.
+    - who: David Boder
+      start: '00:24:38.456'
+      end: '00:24:38.456'
+      u: Aha. Und dann?
+    - who: David Hirsch
+      start: '00:24:39.721'
+      end: '00:24:39.721'
+      u: Dadurch, äh, traf er dort noch andere Kameraden...
+    - who: David Boder
+      start: '00:24:43.899'
+      end: '00:24:43.899'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:24:44.321'
+      end: '00:24:44.321'
+      u: "... mit denen wir in Frankreich zusammen waren."
+    - who: David Boder
+      start: '00:24:46.038'
+      end: '00:24:46.038'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:24:46.622'
+      end: '00:24:46.622'
+      u: In dem OSE-Heim.
+    - who: David Boder
+      start: '00:24:48.008'
+      end: '00:24:48.008'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:24:48.773'
+      end: '00:24:48.773'
+      u: Ist ganz komisch. (Lacht.) Man trifft sich hier wieder.
+    - who: David Boder
+      start: '00:24:51.544'
+      end: '00:24:51.544'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:24:51.966'
+      end: '00:24:51.966'
+      u: "... und, äh, die wollten dann absolut, dass ich hierher komme."
+    - who: David Boder
+      start: '00:24:54.689'
+      end: '00:24:54.689'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:24:55.273'
+      end: '00:24:55.273'
+      u: Und so hab' ich es durchgesetzt hierher zu kommen. War dann für zwei Monate
+        hier und hab, äh, gleich hier angefangen, äh...
+    - who: David Boder
+      start: '00:25:02.111'
+      end: '00:25:02.111'
+      u: Zu lernen?
+    - who: David Hirsch
+      start: '00:25:02.846'
+      end: '00:25:02.846'
+      u: "... zu lernen."
+    - who: David Boder
+      start: '00:25:03.822'
+      end: '00:25:03.822'
+      u: Und was, äh, wollen Sie jetzt tun?
+    - who: David Hirsch
+      start: '00:25:07.449'
+      end: '00:25:07.449'
+      u: Jetzt, äh, will ich ungefähr noch... will ich hier erstmal noch fertigmachen.
+        Das heißt, ich hab hier noch zwei Monate...
+    - who: David Boder
+      start: '00:25:14.750'
+      end: '00:25:14.750'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:25:15.142'
+      end: '00:25:15.142'
+      u: "... um meine Schlussprüfung zu machen."
+    - who: David Boder
+      start: '00:25:17.022'
+      end: '00:25:17.022'
+      u: Ja?
+    - who: David Hirsch
+      start: '00:25:17.124'
+      end: '00:25:17.124'
+      u: Und will dann so schnell als möglich nach Buenos Aires.
+    - who: David Boder
+      start: '00:25:20.438'
+      end: '00:25:20.438'
+      u: Haben Sie von Ihren Eltern Brief offen?
+    - who: David Hirsch
+      start: '00:25:23.492'
+      end: '00:25:23.492'
+      u: Ja.
+    - who: David Boder
+      start: '00:25:23.884'
+      end: '00:25:23.884'
+      u: Ja? Und haben Sie die Genehmigung nach Buenos Aires zu gehen?
+    - who: David Hirsch
+      start: '00:25:28.444'
+      end: '00:25:28.444'
+      u: Ich erwarte jetzt mein Visum.
+    - who: David Boder
+      start: '00:25:30.312'
+      end: '00:25:30.312'
+      u: Sie erwarten Ihr...
+    - who: David Hirsch
+      start: '00:25:30.926'
+      end: '00:25:30.926'
+      u: Das Visum liegt seit, äh, Mai auf dem Ministerium in...
+    - who: David Boder
+      start: '00:25:34.451'
+      end: '00:25:34.451'
+      u: Hier?
+    - who: David Hirsch
+      start: '00:25:34.704'
+      end: '00:25:34.704'
+      u: "... Buenos Aires."
+    - who: David Boder
+      start: '00:25:35.186'
+      end: '00:25:35.186'
+      u: In Buenos Aires?
+    - who: David Hirsch
+      start: '00:25:36.011'
+      end: '00:25:36.011'
+      u: Ja. Muss nur noch genehmigt werden.
+    - who: David Boder
+      start: '00:25:38.361'
+      end: '00:25:38.361'
+      u: Äh, wissen Sie, dass da jetzt von Argentinien ein Ortsvertreter da ist?
+    - who: David Hirsch
+      start: '00:25:43.403'
+      end: '00:25:43.403'
+      u: Ja?
+    - who: David Boder
+      start: '00:25:44.156'
+      end: '00:25:44.156'
+      u: Haben Sie das nicht gewusst?
+    - who: David Hirsch
+      start: '00:25:45.361'
+      end: '00:25:45.361'
+      u: Nein.
+    - who: David Boder
+      start: '00:25:46.054'
+      end: '00:25:46.054'
+      u: Oh, ich werde ihn wahrscheinlich, äh, man wird ihn in Paris sehen. Äh, er
+        ist ein Advokat, schreiben Sie Ihren Namen auf und man kann, vielleicht kann
+        er was tun... [unverständlich]. Naja, Sie werden, man wird das schon besorgen.
+    - who: David Hirsch
+      start: '00:26:02.454'
+      end: '00:26:02.454'
+      u: Ja.
+    - who: David Boder
+      start: '00:26:02.816'
+      end: '00:26:02.816'
+      u: Nun, äh, die Zeit ist sehr kurz, also ich danke Ihnen sehr!
+    - who: David Boder
+      start: '00:26:07.725'
+      end: 
+      u: "[In English] This concludes the, err, short interview with David Hirsch.
+        This concludes the short interview with David Hirsch. [Ends abruptly]."
+  translation:
+    language: en
+    interview: []
+transcript: {}
+translation: {}

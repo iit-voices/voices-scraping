@@ -26,5 +26,928 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: ru
+    interview:
+    - who: David Boder
+      start: '00:00:00.555'
+      end: '00:00:00.555'
+      u: "[In English] Paris, July 30th. July 30th, 1946. I am interviewing now a
+        gentleman, a Polish refugee, Mr. Bolesław Czolopicki."
+    - who: David Boder
+      start: '00:00:17.055'
+      end: '00:00:17.055'
+      u: "[In Russian] Холост, сорока трех лет."
+    - who: David Boder
+      start: '00:00:22.142'
+      end: '00:00:22.142'
+      u: "[In English] Alright, er, you understand English?"
+    - who: Boleslaw Czolopicki
+      start: '00:00:30.487'
+      end: '00:00:30.487'
+      u: Yes. I understand a little.
+    - who: David Boder
+      start: '00:00:33.269'
+      end: '00:00:33.269'
+      u: Now, I will ask you in English, if you would please answer in Polish. understand?
+        You can answer in Polish, because we want to have it in the language you can
+        best speak. You understand? Er...Where were you born, Mr. Czolopicki?
+    - who: Boleslaw Czolopicki
+      start: '00:00:52.813'
+      end: '00:00:52.813'
+      u: In Poland?
+    - who: David Boder
+      start: '00:00:53.828'
+      end: '00:00:53.828'
+      u: Yes.
+    - who: Boleslaw Czolopicki
+      start: '00:00:55.003'
+      end: '00:00:55.003'
+      u: I must speak. In Poland?
+    - who: David Boder
+      start: '00:00:56.809'
+      end: '00:00:56.809'
+      u: No, no, you speak Polish. Where were you born?
+    - who: Boleslaw Czolopicki
+      start: '00:01:00.510'
+      end: '00:01:00.510'
+      u: "[In Polish] Urodziłem się w Warszawie."
+    - who: David Boder
+      start: '00:01:02.106'
+      end: '00:01:02.106'
+      u: "[In Russian] В Варшаве. Есть у Вас жена, дети?"
+    - who: Boleslaw Czolopicki
+      start: '00:01:06.974'
+      end: '00:01:06.974'
+      u: "[In Polish] Nie. Nie."
+    - who: David Boder
+      start: '00:01:08.474'
+      end: '00:01:08.474'
+      u: "[In Russian] Вы понимаете меня по-русски?"
+    - who: Boleslaw Czolopicki
+      start: '00:01:10.537'
+      end: '00:01:10.537'
+      u: "[In Polish] Rozumiem."
+    - who: David Boder
+      start: '00:01:11.903'
+      end: '00:01:11.903'
+      u: "[In Russian] Я буду говорить по-русски. Вы будете отвечать по-польски. Когда
+        Вы уехали из России? Из Польши?"
+    - who: Boleslaw Czolopicki
+      start: '00:01:23.864'
+      end: '00:01:23.864'
+      u: "[In Polish] Było to po powstaniu w Warszawie w roku czterdziestym-czwartym"
+    - who: David Boder
+      start: '00:01:30.072'
+      end: '00:01:30.072'
+      u: "[In Russian] О, в тридцать четвертом году? Куда Вы поехали?"
+    - who: Boleslaw Czolopicki
+      start: '00:01:34.860'
+      end: '00:01:34.860'
+      u: "[In Polish] Byłem deportowany przez Niemców."
+    - who: David Boder
+      start: '00:01:38.860'
+      end: '00:01:38.860'
+      u: "[In Russian] В тридцать четвертом?"
+    - who: Boleslaw Czolopicki
+      start: '00:01:39.990'
+      end: '00:01:39.990'
+      u: "[In Polish] Nie w czterdziestym-trzecim. W czterdzieści-czwartym."
+    - who: David Boder
+      start: '00:01:44.135'
+      end: '00:01:44.135'
+      u: "[In Russian] А, в сорок четвертом Вы выбрались из Варшавы? Почему Вы уехали
+        из Варшавы?"
+    - who: Boleslaw Czolopicki
+      start: '00:01:50.636'
+      end: '00:01:50.636'
+      u: "[In Polish] No, Niemcy wszystkich deportowali z Warszawy."
+    - who: David Boder
+      start: '00:01:55.798'
+      end: '00:01:55.798'
+      u: "[In Russian] И куда Вас депортировали,"
+    - who: Boleslaw Czolopicki
+      start: '00:01:58.485'
+      end: '00:01:58.485'
+      u: "[In Polish] Deportowali do Nadrenii."
+    - who: David Boder
+      start: '00:02:00.854'
+      end: '00:02:00.854'
+      u: "[In Russian] Хорошо. Теперь Вы мне расскажите по-польски все, что с Вами
+        было с того момента, как немцы взяли Варшаву, и до того дня, как Вас освободили
+        в Париже. Идите—говорите. .И не сокращайте, во всех деталях."
+    - who: Boleslaw Czolopicki
+      start: '00:02:24.516'
+      end: '00:02:24.516'
+      u: "[In Polish] Z chwilą kiedy piatego pażdrziernika czterdziestego-czwartego
+        roku Niemcy całą ludność Warszawy...er...deportowali...do Niemiec. Jest dla
+        mnie troche trudno..."
+    - who: David Boder
+      start: '00:02:58.503'
+      end: '00:02:58.503'
+      u: Po Polsku powiedzić?
+    - who: Boleslaw Czolopicki
+      start: '00:02:59.636'
+      end: '00:02:59.636'
+      u: Nie. Tylko wogóle taką forme ująć . .
+    - who: David Boder
+      start: '00:03:02.989'
+      end: '00:03:02.989'
+      u: "[In Russian] Говорите как хотите. Говорите, как Вы будете говорить с кем-нибудь
+        другим. Вы сейчас разговариваете. Это все."
+    - who: Boleslaw Czolopicki
+      start: '00:03:12.661'
+      end: '00:03:12.661'
+      u: "[In Polish]...Więc...odesłano nas, znaczy dano nam możność...er...spakowania
+        rzeczy swoich, tyle tylko to co no siębie można było...er...pieszą przejść
+        do Ursusa,znaczy miejsca pare kilometrów odalonego od Warszawy. Tam nas trzymano
+        koło dwóch dni I następnie w pociągach towarowych...er...z eskortą oczywiście...Niemiecką.
+        Wieziono nas przez blisko pieć dni i nocy w gląb Niemiec do Nadrenii."
+    - who: David Boder
+      start: '00:04:13.336'
+      end: '00:04:13.336'
+      u: "[In English] And then?"
+    - who: Boleslaw Czolopicki
+      start: '00:04:17.286'
+      end: '00:04:17.286'
+      u: "[In Polish]...Oczywiście ludzie byłi mięszani- znaczy kobiety, dzieci, męszczyzni,
+        wszyscy rażem. Warunki były okropne dlatego ze wogóle, powięcmy, w wagonach
+        towarowych nie było...odpowiednych wygód...czasami przystawali źeby moźna
+        było zrobic toalete. Oczywiście wszystko to pod straża, wspólnie rażem męszczyzni
+        i kobietami, bo inaczej nie moźna było. . . No, wyźywienie Oczywiście było
+        też bardzo kiepskie, raż jesc na dzien. . . Kiedy znależmyśmy się juz na [Wanne?]
+        kolo Bochum wtedy przyjechaliśmy akurat na moment kiedy Bochum było bombardowane
+        przez...Anglików. Nalotu tego był wynik taki ze pięć wagonów zostało spalonych,
+        kilka osob też spalonych, zabitych.....Reszta nas została odwieziona do obózu,
+        do obózu rozdzielczego...pod Wessen. Tam trzymano nas też w warunkach Oczywiście
+        bardzo primitywnych, [niezrozumiały] w podłodze, scisku, jeden na drugim,
+        nie mial swoje posłanie. Trzymano nas...zdajesię mieśiąc czy dwa mieśiąca.
+        Potem rodzielano Oczywiście do róźnych fabryk albo też na liscie do pracy
+        na wsi. Ja dostałem się do. . . pod Geldern-Kapellen gdzie...byłem zatrudniony
+        przy obózie ktory był —znajdowlisię deportowani, I przy pracy, przy kopaniu
+        okopu...Tam spędziłem. . . pozostałem, czas aż do....uwolnienia przez Amerykan.
+        3 marca...1945 zostałismy uwolnieni przez Amerikan...No i wowczas deportacja
+        Niemiecka się skonczyla. Czy mam jeszcze mowic dalsze...?"
+    - who: David Boder
+      start: '00:08:36.797'
+      end: '00:08:36.797'
+      u: "[In Russian] Tak, tak. Так, так."
+    - who: Boleslaw Czolopicki
+      start: '00:08:42.781'
+      end: '00:08:42.781'
+      u: "[In Polish]...Nastepnie z Amerykanami...napisalem się do Amerikan tam do
+        pracy i z Amerykanami przyjechalem do Francji. Jakis czas pracowalem we Francji
+        z Amerikanami. Nastepnie zwolnilem się , przyjechalem do Paryza gdzie rozpoczelem
+        dalsze studia w szkole desen."
+    - who: David Boder
+      start: '00:09:32.848'
+      end: '00:09:32.848'
+      u: "[In Russian] Скажите мне вот что. Вы все время работали в концентрационном
+        лагере?"
+    - who: Boleslaw Czolopicki
+      start: '00:09:55.022'
+      end: '00:09:55.022'
+      u: "[In Polish] Nie to nie był właściwie konzentracyjny obóz tylko obóz deportowanych
+        do—właściwie do pracy."
+    - who: David Boder
+      start: '00:10:06.828'
+      end: '00:10:06.828'
+      u: "[In Russian] Ага! Вы работали, а как они вас кормили?"
+    - who: Boleslaw Czolopicki
+      start: '00:10:13.010'
+      end: '00:10:13.010'
+      u: "[In Polish] Wyźywienie było oczywiście...brukiew, było [szumy tła; niezrozumiały]
+        wyźywienie."
+    - who: David Boder
+      start: '00:10:20.596'
+      end: '00:10:20.596'
+      u: "[In Russian] Ага! Кто были вашими начальниками—немцы или они имели поляков?
+        Nie. Więc Niemcy. Ci ze słuźby w tych źółtych mundurach. To było Ich—nie pamietam
+        jak to się nażywalo—partynicy z Volkspartii Niemieckiej."
+    - who: David Boder
+      start: '00:10:50.486'
+      end: '00:10:50.486'
+      u: "[In Russian] Ага, ага."
+    - who: Boleslaw Czolopicki
+      start: '00:10:53.315'
+      end: '00:10:53.315'
+      u: "[In Polish] W źółtych mundurach z takimi opaskami."
+    - who: David Boder
+      start: '00:10:56.087'
+      end: '00:10:56.087'
+      u: "[In Russian] Ага, ага, СС свастика."
+    - who: Boleslaw Czolopicki
+      start: '00:10:59.905'
+      end: '00:10:59.905'
+      u: "[In Polish] Zdajesię ze to było [szumy tła; niezrozumiały]. . . co jeszcze
+        potrwa."
+    - who: David Boder
+      start: '00:11:06.463'
+      end: '00:11:06.463'
+      u: "[In Russian] А где Вас американцы освободили? В каком городе?"
+    - who: Boleslaw Czolopicki
+      start: '00:11:10.864'
+      end: '00:11:10.864'
+      u: "[In Polish] [niezrozumiały] Moers."
+    - who: David Boder
+      start: '00:11:12.476'
+      end: '00:11:12.476'
+      u: "[In Russian] в Мерс...над Рейн?"
+    - who: Boleslaw Czolopicki
+      start: '00:11:14.870'
+      end: '00:11:14.870'
+      u: Tak.
+    - who: David Boder
+      start: '00:11:15.463'
+      end: '00:11:15.463'
+      u: Ага. Вы что—собираетесь вернуться в Польшу?
+    - who: Boleslaw Czolopicki
+      start: '00:11:22.484'
+      end: '00:11:22.484'
+      u: "[In Polish] Narażie mialem zamiar konczyc tutaj studia [inaudible] Co jeszcze
+        potrwa."
+    - who: David Boder
+      start: '00:11:32.631'
+      end: '00:11:32.631'
+      u: "[In Russian] А что Вы учитесь теперь?"
+    - who: Boleslaw Czolopicki
+      start: '00:11:35.700'
+      end: '00:11:35.700'
+      u: "[In Polish] Teraż ucze się wlasnie radia."
+    - who: David Boder
+      start: '00:11:38.522'
+      end: '00:11:38.522'
+      u: "[In Russian] Радио. Вы платите что-нибудь в этой школе?"
+    - who: Boleslaw Czolopicki
+      start: '00:11:46.798'
+      end: '00:11:46.798'
+      u: "[In Polish] Do tej pory w tamtej szkole place."
+    - who: David Boder
+      start: '00:11:50.276'
+      end: '00:11:50.276'
+      u: "[In Russian] Вы платите?"
+    - who: Boleslaw Czolopicki
+      start: '00:11:51.825'
+      end: '00:11:51.825'
+      u: "[In Polish] Ale tutaj mam byc oplacany. W tej szkole..."
+    - who: David Boder
+      start: '00:11:59.340'
+      end: '00:11:59.340'
+      u: "[In Russian] А Вы учитесь тут днем? Вы работаете в Париже?"
+    - who: Boleslaw Czolopicki
+      start: '00:12:04.433'
+      end: '00:12:04.433'
+      u: "[In Polish] Nie. Znaczy do tej pory pracowalem , teraż ponieważ zapisalem
+        się na ten kurs więc przestalem pracowac. No it tutaj ma byc ten kurs platny."
+    - who: David Boder
+      start: '00:12:17.326'
+      end: '00:12:17.326'
+      u: "[In Russian] Ага, а где Вы живете в Париже?"
+    - who: Boleslaw Czolopicki
+      start: '00:12:23.341'
+      end: '00:12:23.341'
+      u: "[In Polish] Ja na Le Bonoir [?]"
+    - who: David Boder
+      start: '00:12:26.733'
+      end: '00:12:26.733'
+      u: "[In Russian] Частным образом? Много там поляков вместе живете?"
+    - who: Boleslaw Czolopicki
+      start: '00:12:35.133'
+      end: '00:12:35.133'
+      u: "[In Polish] Nie, ja mieszkam w hotelu."
+    - who: David Boder
+      start: '00:12:38.287'
+      end: '00:12:38.287'
+      u: "[In Russian] Есть у Вас родственники в Америке? Есть ли у Вас родные в Америке?"
+    - who: Boleslaw Czolopicki
+      start: '00:12:48.370'
+      end: '00:12:48.370'
+      u: "[In Polish] Nie. Nie posiadam zadnych krewnych w Ameryce."
+    - who: David Boder
+      start: '00:12:50.900'
+      end: '00:12:50.900'
+      u: "[In Russian] Нет родственников в Америке. А что Вы собираетесь: остаться
+        во Франции или что Вы собираетесь делать?"
+    - who: Boleslaw Czolopicki
+      start: '00:12:57.936'
+      end: '00:12:57.936'
+      u: "[In Polish] Ja chcialbym najchetnie emigrowac."
+    - who: David Boder
+      start: '00:13:03.044'
+      end: '00:13:03.044'
+      u: "[In Russian] Куда?"
+    - who: Boleslaw Czolopicki
+      start: '00:13:04.399'
+      end: '00:13:04.399'
+      u: "[In Polish] Powięcmy wlasznie do Ameryki."
+    - who: David Boder
+      start: '00:13:06.287'
+      end: '00:13:06.287'
+      u: "[In Russian] В Америку?"
+    - who: Boleslaw Czolopicki
+      start: '00:13:06.820'
+      end: '00:13:06.820'
+      u: "[In Polish] Jezeli by była mozliwosc."
+    - who: David Boder
+      start: '00:13:15.785'
+      end: '00:13:15.785'
+      u: "[In Russian] А скажите, когда Вы были в Варшаве, до сорок четвертого года,
+        Вы были там, когда был этот погром в гетто?"
+    - who: Boleslaw Czolopicki
+      start: '00:13:27.679'
+      end: '00:13:27.679'
+      u: "[In Polish] Owszem. Byłem. Caly czas byłem aż do czterdziestego-czwartego
+        roku. Byłem w Warszawie przez caly okres wojny. Oczywiście też musialem się
+        przed Niemcami stale ukrywac."
+    - who: David Boder
+      start: '00:13:39.912'
+      end: '00:13:39.912'
+      u: "[In Russian] Ага."
+    - who: Boleslaw Czolopicki
+      start: '00:13:42.418'
+      end: '00:13:42.418'
+      u: "[In Polish] Nawet...pod cudzym nażwiskiem. W czasię tego Pogromu...w Warszawie
+        byłem I...ciagle walke getta Oczywiście z daleka obserwowalem I widzialem."
+    - who: David Boder
+      start: '00:14:18.611'
+      end: '00:14:18.611'
+      u: "[In Russian] А...Вы думаете, что Вам удастся поехать в Америку—без рожственников?
+        Хотели бы Вы поехать в South, в Южную Америку?"
+    - who: Boleslaw Czolopicki
+      start: '00:14:31.305'
+      end: '00:14:31.305'
+      u: "[In Polish] Brażilia."
+    - who: David Boder
+      start: '00:14:32.430'
+      end: '00:14:32.430'
+      u: "[In Russian] Бразилия. Вы говорите по-французски хорошо?"
+    - who: Boleslaw Czolopicki
+      start: '00:14:38.375'
+      end: '00:14:38.375'
+      u: "[In Polish] Troszke. Znaczy rozumiem."
+    - who: David Boder
+      start: '00:14:42.090'
+      end: '00:14:42.090'
+      u: "[In Russian] Ага"
+    - who: Boleslaw Czolopicki
+      start: '00:14:42.959'
+      end: '00:14:42.959'
+      u: "[In Polish] Moge czytac. . ."
+    - who: David Boder
+      start: '00:14:44.169'
+      end: '00:14:44.169'
+      u: "[In Russian] Можете читать?"
+    - who: Boleslaw Czolopicki
+      start: '00:14:45.455'
+      end: '00:14:45.455'
+      u: "[In Polish] pisze dosc dobrze,"
+    - who: David Boder
+      start: '00:14:46.352'
+      end: '00:14:46.352'
+      u: "[In Russian] Ага."
+    - who: Boleslaw Czolopicki
+      start: '00:14:47.685'
+      end: '00:14:47.685'
+      u: "[In Polish] tylko rozmowa, jesli chodzi o rozmawianie jeszcze pewne trudnosci
+        mi to sprawia...[szumy tła]. bardzo szybko."
+    - who: David Boder
+      start: '00:15:01.192'
+      end: '00:15:01.192'
+      u: "[In Russian] Спасибо, господин Хлопицки. Это было очень интересно—то, что
+        Вы мне рассказали. Я хочу один маленький эксперимент...У меня тут имеются
+        кое-какие картины. Что Вы думаете, что эта картина представляет?"
+    - who: Boleslaw Czolopicki
+      start: '00:15:38.121'
+      end: '00:15:38.121'
+      u: "[In Polish] Jest to fotografia kobiety. [szumy tła]"
+    - who: David Boder
+      start: '00:15:41.363'
+      end: '00:15:41.363'
+      u: "[In Russian] Говорите громко. Да, и что это представляет собой?"
+    - who: Boleslaw Czolopicki
+      start: '00:16:04.596'
+      end: '00:16:04.596'
+      u: "[In Polish]...chlopca, zamyslonego, siędzacego na [szumy tła; niezrozumiały]"
+    - who: David Boder
+      start: '00:16:13.245'
+      end: '00:16:13.245'
+      u: "[In Russian] Хорошо. Что эта картина собой представляет?"
+    - who: Boleslaw Czolopicki
+      start: '00:16:21.478'
+      end: '00:16:21.478'
+      u: "[In Polish] [pauza] A to przedstawia...osobe chora, umarla, czy zmarla,
+        a nad nia stoi..."
+    - who: David Boder
+      start: '00:16:39.611'
+      end: '00:16:39.611'
+      u: "[In Russian] Ага. А что тут происходит?"
+    - who: Boleslaw Czolopicki
+      start: '00:17:09.027'
+      end: '00:17:09.027'
+      u: "[In Polish] Wyglada tak jak przed jakims nalotem uciekaly kobiety."
+    - who: David Boder
+      start: '00:17:13.748'
+      end: '00:17:13.748'
+      u: "[In Russian] Ага. А эта?"
+    - who: Boleslaw Czolopicki
+      start: '00:17:20.960'
+      end: '00:17:20.960'
+      u: "[In Polish] [szumy tła] To praca na wsi. Z jednej strony...praca przy ogrodce
+        ziemi, mycie oraż [szumy tła; niezrozumiały]...z drugiej strony jakis ten
+        goral nauczy z ksiaszka w reku. Kobieta...[niezrozumiały]"
+    - who: David Boder
+      start: '00:17:57.756'
+      end: 
+      u: "[In English] Alright..."
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:00.555'
+      end: '00:00:00.555'
+      u: "[In English] Paris, July 30th. July 30th, 1946. I am interviewing now a
+        gentleman, a Polish refugee, Mr. Boleslaw Czolopicki."
+    - who: David Boder
+      start: '00:00:17.055'
+      end: '00:00:17.055'
+      u: "[In Russian] No family, forty-three years old."
+    - who: David Boder
+      start: '00:00:22.142'
+      end: '00:00:22.142'
+      u: "[In English] Alright, er, you understand English?"
+    - who: Boleslaw Czolopicki
+      start: '00:00:30.487'
+      end: '00:00:30.487'
+      u: Yes. I understand a little.
+    - who: David Boder
+      start: '00:00:33.269'
+      end: '00:00:33.269'
+      u: "[In English] Now, I will ask you in English, and you please answer in Polish.
+        Understand? You can answer in Polish, because we want to have it in the language
+        you can best speak. You understand? Where were you born, Mr. Czolopicki?"
+    - who: Boleslaw Czolopicki
+      start: '00:00:52.813'
+      end: '00:00:52.813'
+      u: In Poland?
+    - who: David Boder
+      start: '00:00:53.828'
+      end: '00:00:53.828'
+      u: Yes.
+    - who: Boleslaw Czolopicki
+      start: '00:00:55.003'
+      end: '00:00:55.003'
+      u: I must speak...in Poland?
+    - who: David Boder
+      start: '00:00:56.809'
+      end: '00:00:56.809'
+      u: No, no, you speak Polish. Where were you born?
+    - who: Boleslaw Czolopicki
+      start: '00:01:00.510'
+      end: '00:01:00.510'
+      u: "[In Polish] I was born in Warsaw."
+    - who: David Boder
+      start: '00:01:02.106'
+      end: '00:01:02.106'
+      u: "[In Russian] In Warsaw? Do you have a wife, children?"
+    - who: Boleslaw Czolopicki
+      start: '00:01:06.974'
+      end: '00:01:06.974'
+      u: "[In Polish] No. No."
+    - who: David Boder
+      start: '00:01:08.474'
+      end: '00:01:08.474'
+      u: "[In Russian] Do you understand my Russian?"
+    - who: Boleslaw Czolopicki
+      start: '00:01:10.537'
+      end: '00:01:10.537'
+      u: "[In Polish] I understand."
+    - who: David Boder
+      start: '00:01:11.903'
+      end: '00:01:11.903'
+      u: "[In Russian] I will speak in Russian, and you will answer in Polish. When
+        did you leave Russia? Poland?"
+    - who: Boleslaw Czolopicki
+      start: '00:01:23.864'
+      end: '00:01:23.864'
+      u: '[In Polish] It was after the Warsaw Uprising in ''44.The Polish uprising
+        against the German occupiers of Warsaw began on August 1, 1944. It was led
+        by the Polish Home Army, allied with the Polish government-in-exile in London.
+        The Home Army was joined by the smaller People''s Army, a leftist Polish resistance
+        organization which included some Jews who had fought in the Warsaw Ghetto
+        rebellion of April 19-May 16, 1943. The aim of the uprising was to seize the
+        city of Warsaw before the approaching Red Army could conquer it. The unequal
+        struggle ended on October 2, 1943 with the defeat of the insurgents.During
+        the uprising some 150,000 civilians were killed including several thousand
+        Jews who had been living in hiding in "Aryan" Warsaw after the collapse of
+        the Warsaw Ghetto rebellion and some 16,000-20,000 Polish insurgents.1'
+    - who: David Boder
+      start: '00:01:30.072'
+      end: '00:01:30.072'
+      u: "[In Russian] Oh, in '43. And where did you go?"
+    - who: Boleslaw Czolopicki
+      start: '00:01:34.860'
+      end: '00:01:34.860'
+      u: "[In Polish] I was deported by the Germans."
+    - who: David Boder
+      start: '00:01:38.860'
+      end: '00:01:38.860'
+      u: "[In Russian] In '43?"
+    - who: Boleslaw Czolopicki
+      start: '00:01:39.990'
+      end: '00:01:39.990'
+      u: "[In Polish] Not in '43. In '44."
+    - who: David Boder
+      start: '00:01:44.135'
+      end: '00:01:44.135'
+      u: "[In Russian] Oh, you left Warsaw in '44? Why did you leave Warsaw?"
+    - who: Boleslaw Czolopicki
+      start: '00:01:50.636'
+      end: '00:01:50.636'
+      u: "[In Polish] Well, the Germans were deporting everybody out of Warsaw."
+    - who: David Boder
+      start: '00:01:55.798'
+      end: '00:01:55.798'
+      u: "[In Russian] And where did they deport you?"
+    - who: Boleslaw Czolopicki
+      start: '00:01:58.485'
+      end: '00:01:58.485'
+      u: "[In Polish] They deported us to the Rhineland.The Rhineland is located in
+        western Germany and is named for the Rhine river. After World War I, it was
+        a buffer zone between Germany and the West with Allied troops occupying it
+        from 1918-1930. It was then a demilitarized zone until occupied by Germany
+        in 1936. Though this occupation was in defiance of the Versailles Treaty,
+        there was no meaningful Allied response to it in keeping with the policy of
+        appeasement at the time.2"
+    - who: David Boder
+      start: '00:02:00.854'
+      end: '00:02:00.854'
+      u: "[In Russian] Well...Now I want you to tell me everything that happened to
+        you from the moment when the Nazis had taken Warsaw to the moment when you
+        had been liberated in Paris. Tell me...And don't skip anything, tell me all
+        the details."
+    - who: Boleslaw Czolopicki
+      start: '00:02:24.516'
+      end: '00:02:24.516'
+      u: "[In Polish] The moment that on the 5th of October 1944 the Germans deported...the
+        entire population of Warsaw...er...to Germany.With the collapse of the Polish
+        uprising, the Germans expelled the bulk of the population of Warsaw to nearby
+        detention camps and razed what was left of the city. About 100,000, including
+        Mr. Czolopicki, were conscripted for forced labor, 65,000 were sent to concentration
+        camps and the rest were deported  to the Generalgouvernement, the Polish administrative
+        unit established by the Germans in October, 1939 and comprised of those parts
+        of the country not incorporated into the Third Reich.3 It's a bit hard for
+        me..."
+    - who: David Boder
+      start: '00:02:58.503'
+      end: '00:02:58.503'
+      u: To speak in Polish?
+    - who: Boleslaw Czolopicki
+      start: '00:02:59.636'
+      end: '00:02:59.636'
+      u: No. Just what form to take...
+    - who: David Boder
+      start: '00:03:02.989'
+      end: '00:03:02.989'
+      u: "[In Russian] Speak freely. Speak as if you were chatting with somebody else.
+        That's all."
+    - who: Boleslaw Czolopicki
+      start: '00:03:12.661'
+      end: '00:03:12.661'
+      u: "[In Polish] So...we were sent, I mean we were given the opportunity...to
+        pack our things, just what we could put on ourselves...to walk on foot to
+        Ursus, a place a few kilometers out of Warsaw. There, we were kept for about
+        two days, and then in freight trains...er...under German...escort. They transported
+        us for almost five days and nights into the heart of Germany, to the Rhineland."
+    - who: David Boder
+      start: '00:04:13.336'
+      end: '00:04:13.336'
+      u: "[In English] And then?"
+    - who: Boleslaw Czolopicki
+      start: '00:04:17.286'
+      end: '00:04:17.286'
+      u: "[In Polish]...Of course the people were very mixed—meaning women, children,
+        men, everybody together. The conditions were dreadful because, for example,
+        in the freight cars there were no...suitable facilities...they sometimes stopped
+        so that one could go to the toilet. All of this, of course, under supervision
+        by the guards, men and women together, nothing else was possible...And the
+        food was also very poor, we ate just once a day...When we found ourselves
+        in [Wanne?] near BochumBochum is located in northwestern  western Germany
+        \ northwest of the city of Essen and in the heart of the Ruhr district, the
+        industrial heartland of Germany and one of the world's largest single industrial
+        regions with ironworks, steelworks and coal mines.4 we arrived at the precise
+        moment that Bochum was being bombarded by...the English. The result of this
+        air-strike was that five of our wagons were burned, several people burned
+        too, killed...The rest of us were transported to a camp, to a distributing
+        camp...near Essen.Essen is located in northwestern western Germany. It was
+        the largest industrial city in the Ruhr coalfield. It suffered a great deal
+        of destruction from Allied bombing during World War II as a center of the
+        German war industry.5 There, of course, we were also kept under very primitive
+        conditions. [Unintelligible] in the floor, crowded conditions, one person
+        on top of another, no bedding. There we were kept...a month, or two months,
+        I think. Then, we were taken to various factories, or else placed on a list
+        for farm work. I found myself...in Geldern-KapellenGeldern-Kappellen is located
+        in the same area as Bochum and Essen.6...I was employed at a camp which...deportees
+        worked there, digging trenches...There, I spent...remained, until...liberation
+        by the Americans. March 3, 1945 we were liberated by the AmericansIn early
+        March, 1945, General Eisenhower's armies began an all-out advance towards
+        the Rhine during which Mr. Czolopicki was liberated.7...So at that time German
+        deportations ceased. Am I to go on to talk of further..."
+    - who: David Boder
+      start: '00:08:36.797'
+      end: '00:08:36.797'
+      u: "[In Russian] Yes, yes."
+    - who: Boleslaw Czolopicki
+      start: '00:08:42.781'
+      end: '00:08:42.781'
+      u: "[In Polish]...Then with the Americans...I signed up to work for the Americans
+        and came to France with the Americans. For a while, I worked with Americans
+        in France. Then I resigned, came to Paris where I began further studies at
+        the school of design."
+    - who: David Boder
+      start: '00:09:32.848'
+      end: '00:09:32.848'
+      u: '[In Russian] Tell me the following. Did you work [or] did they keep you
+        in "concentration camps"? Konzentrationslager?'
+    - who: Boleslaw Czolopicki
+      start: '00:09:55.022'
+      end: '00:09:55.022'
+      u: "[In Polish] No, it wasn't really a concentration camp, but a camp for those
+        deported specifically to work."
+    - who: David Boder
+      start: '00:10:06.828'
+      end: '00:10:06.828'
+      u: "[In Russian] Aha, you were working. How was the food?"
+    - who: Boleslaw Czolopicki
+      start: '00:10:13.010'
+      end: '00:10:13.010'
+      u: "[In Polish] The food was, of course...rutabaga, it was [background noise;
+        unintelligible]. Food."
+    - who: David Boder
+      start: '00:10:20.596'
+      end: '00:10:20.596'
+      u: "[In Russian] Aha, and who were your supervisors: Germans or Poles?"
+    - who: Boleslaw Czolopicki
+      start: '00:10:27.994'
+      end: '00:10:27.994'
+      u: "[In Polish] No. Germans, of course. Those who served in those yellow uniforms.
+        It was their—I can't remember what it was called—members of the German People's
+        Party.It is unclear to which party Mr. Czolopicki is referring since at this
+        time Germany was a one party Nazi (National Socialist German Workers Party)
+        state established in 1933. The Storm troopers of the party wore brown uniforms.8"
+    - who: David Boder
+      start: '00:10:50.486'
+      end: '00:10:50.486'
+      u: "[In Russian] Aha, aha."
+    - who: Boleslaw Czolopicki
+      start: '00:10:53.315'
+      end: '00:10:53.315'
+      u: "[In Polish] In yellow uniforms with those armbands"
+    - who: David Boder
+      start: '00:10:56.087'
+      end: '00:10:56.087'
+      u: "[In Russian] Aha, aha, SS swastikas."
+    - who: Boleslaw Czolopicki
+      start: '00:10:59.905'
+      end: '00:10:59.905'
+      u: "[In Polish] It probably was [background noise; unintelligible]...which will
+        go on for a while."
+    - who: David Boder
+      start: '00:11:06.463'
+      end: '00:11:06.463'
+      u: "[In Russian] And where did the Americans liberate you? In which town?"
+    - who: Boleslaw Czolopicki
+      start: '00:11:10.864'
+      end: '00:11:10.864'
+      u: "[In Polish] [Inaudible] Moers.Moers is a town located in the Ruhr just west
+        of Duisberg. It is west of the Rhine river. American troops did not cross
+        the Rhine until March 7, 1945. Contrary to what is indicated in the interview,
+        Moers is not over the Rhine. 9"
+    - who: David Boder
+      start: '00:11:12.476'
+      end: '00:11:12.476'
+      u: "[In Russian] Moers...over the Rhine?"
+    - who: Boleslaw Czolopicki
+      start: '00:11:14.870'
+      end: '00:11:14.870'
+      u: Yes.
+    - who: David Boder
+      start: '00:11:15.463'
+      end: '00:11:15.463'
+      u: Aha. Do you plan to return to Poland?
+    - who: Boleslaw Czolopicki
+      start: '00:11:22.484'
+      end: '00:11:22.484'
+      u: "[In Polish] At present I plan to finish my studies here [inaudible]. Which
+        will still take a while."
+    - who: David Boder
+      start: '00:11:32.631'
+      end: '00:11:32.631'
+      u: "[In Russian] And what are you studying now?"
+    - who: Boleslaw Czolopicki
+      start: '00:11:35.700'
+      end: '00:11:35.700'
+      u: "[In Polish] At the moment I'm learning the radio."
+    - who: David Boder
+      start: '00:11:38.522'
+      end: '00:11:38.522'
+      u: "[In Russian] The radio. Are you paying to study at this school?"
+    - who: Boleslaw Czolopicki
+      start: '00:11:46.798'
+      end: '00:11:46.798'
+      u: "[In Polish] Up to now, I'm paying at that school."
+    - who: David Boder
+      start: '00:11:50.276'
+      end: '00:11:50.276'
+      u: "[In Russian] You're paying?"
+    - who: Boleslaw Czolopicki
+      start: '00:11:51.825'
+      end: '00:11:51.825'
+      u: "[In Polish] But here, I'm to be paid for. In this school..."
+    - who: David Boder
+      start: '00:11:59.340'
+      end: '00:11:59.340'
+      u: "[In Russian] And your school, is it a day school? Do you have some job in
+        Paris?"
+    - who: Boleslaw Czolopicki
+      start: '00:12:04.433'
+      end: '00:12:04.433'
+      u: "[In Polish] No. I mean, so far, I worked, but now, because I signed up for
+        that course, I've stopped working. And here that course will be paid for.Mr.
+        Czolopiciki indicated earlier that he had begun studying at a school for design.
+        It was for this school that he was paying. He then switched to the study of
+        radio. There is no indication as to which organization was paying for his
+        training in this area. It is possible that he was enrolled in an ORT training
+        program.10"
+    - who: David Boder
+      start: '00:12:17.326'
+      end: '00:12:17.326'
+      u: "[In Russian] Aha, and where in Paris do you live?"
+    - who: Boleslaw Czolopicki
+      start: '00:12:23.341'
+      end: '00:12:23.341'
+      u: "[In Polish] At Le Bonoir [?]"
+    - who: David Boder
+      start: '00:12:26.733'
+      end: '00:12:26.733'
+      u: "[In Russian] Do you pay for your lodgings, or is it communal living for
+        many Poles?"
+    - who: Boleslaw Czolopicki
+      start: '00:12:35.133'
+      end: '00:12:35.133'
+      u: "[In Polish] No, I live in a hotel."
+    - who: David Boder
+      start: '00:12:38.287'
+      end: '00:12:38.287'
+      u: "[In Russian] Have you any relatives in America? Any members of your family
+        in the U.S.?"
+    - who: Boleslaw Czolopicki
+      start: '00:12:48.370'
+      end: '00:12:48.370'
+      u: "[In Polish] No. I have no relatives in America."
+    - who: David Boder
+      start: '00:12:50.900'
+      end: '00:12:50.900'
+      u: "[In Russian] You have no relatives in America. And what do you plan to do:
+        will you stay in France, or something else?"
+    - who: Boleslaw Czolopicki
+      start: '00:12:57.936'
+      end: '00:12:57.936'
+      u: "[In Polish] I would most like to emigrate."
+    - who: David Boder
+      start: '00:13:03.044'
+      end: '00:13:03.044'
+      u: "[In Russian] Where to?"
+    - who: Boleslaw Czolopicki
+      start: '00:13:04.399'
+      end: '00:13:04.399'
+      u: "[In Polish] Let's say precisely to America."
+    - who: David Boder
+      start: '00:13:06.287'
+      end: '00:13:06.287'
+      u: "[In Russian] To America?"
+    - who: Boleslaw Czolopicki
+      start: '00:13:06.820'
+      end: '00:13:06.820'
+      u: "[In Polish] If it were possible."
+    - who: David Boder
+      start: '00:13:15.785'
+      end: '00:13:15.785'
+      u: "[In Russian] Tell me something. When you lived in Warsaw up to '44, were
+        you there during the destruction of the Jewish ghetto?"
+    - who: Boleslaw Czolopicki
+      start: '00:13:27.679'
+      end: '00:13:27.679'
+      u: "[In Polish] Yes. I was. I was there the whole time up to '44. I was in Warsaw
+        during the entire period of the war. Of course, I also had to keep hiding
+        from the Germans."
+    - who: David Boder
+      start: '00:13:39.912'
+      end: '00:13:39.912'
+      u: "[In Russian] Aha."
+    - who: Boleslaw Czolopicki
+      start: '00:13:42.418'
+      end: '00:13:42.418'
+      u: '[In Polish] Even...under an assumed name.Was  Mr. Czolopicki living under
+        an assumed name because he was Jewish or because as a non-Jewish able-bodied
+        Polish male he feared deportation by the Germans for forced labor? The battle
+        of the Warsaw Ghetto, the first urban uprising in German occupied Europe,
+        was the longest of any Jewish uprising against the Germans.11 At the time
+        of that Pogrom...I was in Warsaw. And...I kept observing and seeing, of course,
+        the battle of the ghetto.It is interesting that Mr. Czolopicki refers to the
+        battle of the Warsaw ghetto aa as "pogrom", a Yiddish word derived from the
+        Russian meaning an organized massacre of Jews.12'
+    - who: David Boder
+      start: '00:14:18.611'
+      end: '00:14:18.611'
+      u: "[In Russian] And you think that having no relatives in America, it would
+        be possible for you to travel there? Would you like to go to South America?"
+    - who: Boleslaw Czolopicki
+      start: '00:14:31.305'
+      end: '00:14:31.305'
+      u: "[In Polish] Brazil."
+    - who: David Boder
+      start: '00:14:32.430'
+      end: '00:14:32.430'
+      u: "[In Russian] Brazil. Do you speak French well?"
+    - who: Boleslaw Czolopicki
+      start: '00:14:38.375'
+      end: '00:14:38.375'
+      u: "[In Polish] A bit. I understand it, I mean."
+    - who: David Boder
+      start: '00:14:42.090'
+      end: '00:14:42.090'
+      u: "[In Russian] Aha."
+    - who: Boleslaw Czolopicki
+      start: '00:14:42.959'
+      end: '00:14:42.959'
+      u: "[In Polish] I can read it..."
+    - who: David Boder
+      start: '00:14:44.169'
+      end: '00:14:44.169'
+      u: "[In Russian] You can read it?"
+    - who: Boleslaw Czolopicki
+      start: '00:14:45.455'
+      end: '00:14:45.455'
+      u: "[In Polish] I write it quite well..."
+    - who: David Boder
+      start: '00:14:46.352'
+      end: '00:14:46.352'
+      u: "[In Russian] Aha."
+    - who: Boleslaw Czolopicki
+      start: '00:14:47.685'
+      end: '00:14:47.685'
+      u: "[In Polish] It's just that speaking...when it comes to speaking it still
+        presents certain problems...[background noise; unintelligible]...very quickly"
+    - who: David Boder
+      start: '00:15:01.192'
+      end: '00:15:01.192'
+      u: "[In Russian] Thank you, Mr. Czolopicki. I was very interesting to talk to
+        you. I would like to propose one small experiment...I have some pictures.
+        What do you think this picture represents?As a psychologist, Boder was interested
+        in Mr. Czolopicki's reactions to the pictures he showed him, a variation on
+        the Rorschach test.13"
+    - who: Boleslaw Czolopicki
+      start: '00:15:38.121'
+      end: '00:15:38.121'
+      u: "[In Polish] It's a photograph of a woman [background noise; unintelligible]"
+    - who: David Boder
+      start: '00:15:41.363'
+      end: '00:15:41.363'
+      u: "[In Russian] Speak up. Well, and what does it represent?"
+    - who: Boleslaw Czolopicki
+      start: '00:16:04.596'
+      end: '00:16:04.596'
+      u: "[In Polish]...a boy, lost in thought, sitting on [unintelligible]"
+    - who: David Boder
+      start: '00:16:13.245'
+      end: '00:16:13.245'
+      u: "[In Russian] Good. What does this picture represent?"
+    - who: Boleslaw Czolopicki
+      start: '00:16:21.478'
+      end: '00:16:21.478'
+      u: "[In Polish]...[long pause] And this represents...a sick person, dead, or
+        dying, and above her stands..."
+    - who: David Boder
+      start: '00:16:39.611'
+      end: '00:16:39.611'
+      u: "[In Russian] Aha, and what is happening in this picture?"
+    - who: Boleslaw Czolopicki
+      start: '00:17:09.027'
+      end: '00:17:09.027'
+      u: "[In Polish] It looks as though women are running away from some air raid."
+    - who: David Boder
+      start: '00:17:13.748'
+      end: '00:17:13.748'
+      u: "[In Russian] Aha, and this one?"
+    - who: Boleslaw Czolopicki
+      start: '00:17:20.960'
+      end: '00:17:20.960'
+      u: "[In Polish] [background noise] It's farm work. On one side...work on a piece
+        of land, cleaning or [background noise; unintelligible]...on the other side
+        some mountaineer with a book in his hand is teaching. A woman [unintelligible]."
+    - who: David Boder
+      start: '00:17:57.756'
+      end: 
+      u: "[In English] Alright."
+transcript: {}
+translation: {}

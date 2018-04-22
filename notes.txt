@@ -80,3 +80,11 @@ t_str = "#{Time.at(t[0].to_i).utc.strftime("%H:%M:%S")}.#{t[1]}"
 Taking MM:SS.DDD and converting to seconds
 
 t = "00:01:44.332"
+
+## Transcripts and Translations
+
+audio.php?doc=sochamiH -> unstructured HTML (no metadata), broken characters
+audio?doc=sochamiH -> same as the audio.php file
+interview?doc=sochamiH&display=sochamiH_en -> English, with metadata (end marks are 'x' though)
+interview?doc=sochamiH&display=sochamiH_es -> Spanish, in this case, also metadata/missing end marks
+interviewee?doc=sochamiH

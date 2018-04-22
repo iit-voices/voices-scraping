@@ -24,5 +24,268 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
+  transcript:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:00.391'
+      end: '00:00:00.391'
+      u: "[In English] Spool 9-45A and 9-45B. It had some irrelevant material on the
+        start. Possibly in duplication a, um...previously used wire was used again.
+        The spool is for the time being 9-45A, containing the...interview with a...Polish,
+        English-speaking marine, who trains Jewish sailors and fisherman, and 9-45B
+        the beginning of the interview with Mr. Bramson at the ORT school. There is
+        some other irrelevant material on the spool—apparently the apparatus, how
+        it often happened was demonstrated to some visitors at the place of interview
+        before privacy could be obtained with the actual interviewee."
+    - who: David Boder
+      start: '00:03:00.136'
+      end: '00:03:00.136'
+      u: What is your name sir?
+    - who: "[first name unknown] Feneger"
+      start: '00:03:02.333'
+      end: '00:03:02.333'
+      u: Feneger [?].
+    - who: David Boder
+      start: '00:03:03.786'
+      end: '00:03:03.786'
+      u: Feneger [?].
+    - who: "[first name unknown] Feneger"
+      start: '00:03:04.809'
+      end: '00:03:04.809'
+      u: Feneger [?]. F...F-E—
+    - who: David Boder
+      start: '00:03:07.521'
+      end: '00:03:07.521'
+      u: That's all right. You are a Frenchman?
+    - who: "[first name unknown] Feneger"
+      start: '00:03:09.564'
+      end: '00:03:09.564'
+      u: No I am Polish.
+    - who: David Boder
+      start: '00:03:10.536'
+      end: '00:03:10.536'
+      u: You are Polish?
+    - who: "[first name unknown] Feneger"
+      start: '00:03:11.237'
+      end: '00:03:11.237'
+      u: My father was come from of [?] Poland to Berlin. And I lived in Berlin.
+    - who: David Boder
+      start: '00:03:15.991'
+      end: '00:03:15.991'
+      u: Aha, and you lived in Berlin?
+    - who: "[first name unknown] Feneger"
+      start: '00:03:17.556'
+      end: '00:03:17.556'
+      u: Ya.
+    - who: David Boder
+      start: '00:03:18.158'
+      end: '00:03:18.158'
+      u: Now I understand that you are now with the ORT?
+    - who: "[first name unknown] Feneger"
+      start: '00:03:21.838'
+      end: '00:03:21.838'
+      u: I...we are working with the ORT and with other organizations in order to
+        form a Jewish Marine.
+    - who: David Boder
+      start: '00:03:27.555'
+      end: '00:03:27.555'
+      u: A Jewish Marine?
+    - who: "[first name unknown] Feneger"
+      start: '00:03:28.518'
+      end: '00:03:28.518'
+      u: Marine, yes.
+    - who: David Boder
+      start: '00:03:29.391'
+      end: '00:03:29.391'
+      u: And where do you have your headquarters?
+    - who: "[first name unknown] Feneger"
+      start: '00:03:31.386'
+      end: '00:03:31.386'
+      u: We have our headquarters in London.
+    - who: David Boder
+      start: '00:03:33.562'
+      end: '00:03:33.562'
+      u: In London?
+    - who: "[first name unknown] Feneger"
+      start: '00:03:34.594'
+      end: '00:03:34.594'
+      u: Yes, it's a Zebulon...Zebulon organization.
+    - who: David Boder
+      start: '00:03:37.332'
+      end: '00:03:37.332'
+      u: Yes.
+    - who: "[first name unknown] Feneger"
+      start: '00:03:37.723'
+      end: '00:03:37.723'
+      u: A Palestinian sea-faring organization...
+    - who: David Boder
+      start: '00:03:40.371'
+      end: '00:03:40.371'
+      u: Yes...
+    - who: "[first name unknown] Feneger"
+      start: '00:03:40.672'
+      end: '00:03:40.672'
+      u: A Palestinian sea-faring organization who works, who works in London and
+        in Palestine and in the United States, in the States and they were formed
+        there, they were formed there the Marine...
+    - who: David Boder
+      start: '00:03:52.347'
+      end: '00:03:52.347'
+      u: Yes. Are you in Marseille, stationed now?
+    - who: "[first name unknown] Feneger"
+      start: '00:03:55.055'
+      end: '00:03:55.055'
+      u: Now? No. I am in Paris here.
+    - who: David Boder
+      start: '00:03:57.314'
+      end: '00:03:57.314'
+      u: You are here in Paris. What are you the general-director or something?
+    - who: "[first name unknown] Feneger"
+      start: '00:04:00.865'
+      end: '00:04:00.865'
+      u: Yes, the technical director.
+    - who: David Boder
+      start: '00:04:01.927'
+      end: '00:04:01.927'
+      u: The technical director, now tell me what are you really doing? For instance
+        I understand you have a marine school in Marseille.
+    - who: "[first name unknown] Feneger"
+      start: '00:04:08.818'
+      end: '00:04:08.818'
+      u: Yes, we have twenty-seven people there.
+    - who: David Boder
+      start: '00:04:11.595'
+      end: '00:04:11.595'
+      u: Yes and what are you training them?
+    - who: "[first name unknown] Feneger"
+      start: '00:04:13.551'
+      end: '00:04:13.551'
+      u: We are training fishery...for fisheries.
+    - who: David Boder
+      start: '00:04:16.711'
+      end: '00:04:16.711'
+      u: For fisheries?
+    - who: "[first name unknown] Feneger"
+      start: '00:04:17.442'
+      end: '00:04:17.442'
+      u: Yes.
+    - who: David Boder
+      start: '00:04:17.954'
+      end: '00:04:17.954'
+      u: Yes, and...
+    - who: "[first name unknown] Feneger"
+      start: '00:04:19.317'
+      end: '00:04:19.317'
+      u: We are buying boats and we are training them as French fisherman.
+    - who: David Boder
+      start: '00:04:24.252'
+      end: '00:04:24.252'
+      u: Oh.
+    - who: "[first name unknown] Feneger"
+      start: '00:04:24.923'
+      end: '00:04:24.923'
+      u: And French instructors...for nine months and then they will go to sea and
+        for the fisheries of the high—great sea, you know?
+    - who: David Boder
+      start: '00:04:35.124'
+      end: '00:04:35.124'
+      u: Yes...uh...deep-sea fishing?
+    - who: "[first name unknown] Feneger"
+      start: '00:04:37.360'
+      end: '00:04:37.360'
+      u: Deep-sea fishing.
+    - who: "[first name unknown] Feneger"
+      start: '00:04:38.663'
+      end: '00:04:38.663'
+      u: Then they will go to Palestine.
+    - who: David Boder
+      start: '00:04:40.899'
+      end: '00:04:40.899'
+      u: Yes. Now tell me are you training marines also for other purposes than fishery?
+    - who: "[first name unknown] Feneger"
+      start: '00:04:46.174'
+      end: '00:04:46.174'
+      u: Yes, for navigation. For the Marine...
+    - who: David Boder
+      start: '00:04:49.192'
+      end: '00:04:49.192'
+      u: Generally...in other words you are training Jewish seamen.
+    - who: "[first name unknown] Feneger"
+      start: '00:04:53.414'
+      end: '00:04:53.414'
+      u: Jewish seaman, yes.
+    - who: David Boder
+      start: '00:04:54.296'
+      end: '00:04:54.296'
+      u: Aha.
+    - who: "[first name unknown] Feneger"
+      start: '00:04:55.388'
+      end: '00:04:55.388'
+      u: And with the collaboration of the Palestine school of Zebulon.
+    - who: David Boder
+      start: '00:04:59.902'
+      end: '00:04:59.902'
+      u: Oh, the Zebulon? What is the Zebulon school in Palestine?
+    - who: "[first name unknown] Feneger"
+      start: '00:05:03.401'
+      end: '00:05:03.401'
+      u: Zebulon school in Palestine is the same school as we are here forming [unintelligible]
+        fishery and the merchant marine.
+    - who: David Boder
+      start: '00:05:11.135'
+      end: '00:05:11.135'
+      u: A merchant marine.
+    - who: "[first name unknown] Feneger"
+      start: '00:05:12.227'
+      end: '00:05:12.227'
+      u: Merchant marine.
+    - who: David Boder
+      start: '00:05:13.100'
+      end: '00:05:13.100'
+      u: Yes...merchant marine.
+    - who: "[first name unknown] Feneger"
+      start: '00:05:15.817'
+      end: '00:05:15.817'
+      u: And an instructor from Palestine will come here.
+    - who: David Boder
+      start: '00:05:19.669'
+      end: '00:05:19.669'
+      u: When? To the ORT convention?
+    - who: "[first name unknown] Feneger"
+      start: '00:05:21.544'
+      end: '00:05:21.544'
+      u: No, um.... To our school...[wire break]
+    - who: David Boder
+      start: '00:05:32.205'
+      end: '00:05:32.205'
+      u: ". . . your students. And do you have only men at your...[wire break]...and
+        do you have already graduates?"
+    - who: "[first name unknown] Feneger"
+      start: '00:05:43.769'
+      end: '00:05:43.769'
+      u: No, no, no. We are beginning...not quite yet.
+    - who: David Boder
+      start: '00:05:46.607'
+      end: '00:05:46.607'
+      u: You are just beginning and the plan is to create a Jewish Marine.
+    - who: "[first name unknown] Feneger"
+      start: '00:05:50.227'
+      end: '00:05:50.227'
+      u: A Marine, yes.
+    - who: David Boder
+      start: '00:05:52.162'
+      end: '00:05:52.162'
+      u: Well, I think that is very interesting.
+    - who: David Boder
+      start: '00:05:59.483'
+      end: 
+      u: This concludes spool 9-45A. An interview with Mr. Fenger in English, an instructor
+        in the new formed—or newly formed—navigation school which had its branches
+        in Paris. It was the Zebulon school. And in France and, I understand even
+        in England. Chicago, November the 14th 1950, Boder. This concludes Spool 9-45A
+        and eh,...on another spool we have 9-45B the beginning of the interview with
+        Mr. Bramson in Russian.
   translation: 
+transcript: {}
+translation: {}

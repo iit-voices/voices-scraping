@@ -25,5 +25,3425 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: de
+    interview:
+    - who: David Boder
+      start: '00:00:00.633'
+      end: '00:00:00.633'
+      u: "[In English] München, September the 20th, 1946, at Funkenkasernen, a camp
+        for transient displaced people. I have here before me Mrs. Hildegarde Franz
+        who is expecting to go to the United States."
+    - who: David Boder
+      start: '00:00:17.182'
+      end: '00:00:17.182'
+      u: "[In German] Also, Frau Franz, drehen Sie sich mal um und machen Sie sich's
+        bequem. Sie werden es warm haben, nehmen Sie den Mantel ab. Und in die Richtung
+        sprechen, nicht wahr!"
+    - who: Hildegarde Franz
+      start: '00:00:23.337'
+      end: '00:00:23.337'
+      u: Ja.
+    - who: David Boder
+      start: '00:00:24.087'
+      end: '00:00:24.087'
+      u: Also, Frau Franz, wollen Sie mir nochmal sagen, wie ist Ihr voller Name?
+    - who: Hildegarde Franz
+      start: '00:00:28.118'
+      end: '00:00:28.118'
+      u: Hildegard Franz.
+    - who: David Boder
+      start: '00:00:29.228'
+      end: '00:00:29.228'
+      u: Und wie alt sind Sie, darf man das wissen?
+    - who: Hildegarde Franz
+      start: '00:00:30.916'
+      end: '00:00:30.916'
+      u: Fünf und siebzig Jahre.
+    - who: David Boder
+      start: '00:00:32.354'
+      end: '00:00:32.354'
+      u: Nooooo.
+    - who: Hildegarde Franz
+      start: '00:00:33.541'
+      end: '00:00:33.541'
+      u: Ja.
+    - who: David Boder
+      start: '00:00:34.197'
+      end: '00:00:34.197'
+      u: Fünf und siebzig Jahre?
+    - who: Hildegarde Franz
+      start: '00:00:36.950'
+      end: '00:00:36.950'
+      u: Ja.
+    - who: David Boder
+      start: '00:00:37.943'
+      end: '00:00:37.943'
+      u: Das ist doch nicht möglich. Sie sehen doch so jung aus
+    - who: Hildegarde Franz
+      start: '00:00:40.001'
+      end: '00:00:40.001'
+      u: Ja, aber ich bin...
+    - who: David Boder
+      start: '00:00:41.219'
+      end: '00:00:41.219'
+      u: Fünf und siebzig Jahre alt!
+    - who: Hildegarde Franz
+      start: '00:00:42.688'
+      end: '00:00:42.688'
+      u: Ja, ja, ja, ha, hm, hm.
+    - who: David Boder
+      start: '00:00:43.798'
+      end: '00:00:43.798'
+      u: Also. Nun Frau Franz, wollen Sie so gut sein und mir sagen, wo waren Sie,
+        wenn der Krieg anfing?
+    - who: Hildegarde Franz
+      start: '00:00:51.766'
+      end: '00:00:51.766'
+      u: Mein...
+    - who: David Boder
+      start: '00:00:52.704'
+      end: '00:00:52.704'
+      u: Und dann so allmählich was hat Ihnen nach dem bis jetzt passiert?
+    - who: Hildegarde Franz
+      start: '00:00:59.422'
+      end: '00:00:59.422'
+      u: Also ich war in Nürnberg, wir waren mit meinen Söhnen und meinem Mann, die
+        waren beschäftigt bei meinen Angehörigen im Schloss Althen...
+    - who: David Boder
+      start: '00:01:08.599'
+      end: '00:01:08.599'
+      u: Bei Ihren Angehörigen, ja?
+    - who: Hildegarde Franz
+      start: '00:01:09.803'
+      end: '00:01:09.803'
+      u: Ja., bei Schloss Althen in Nürnberg—Konfektion...
+    - who: David Boder
+      start: '00:01:13.127'
+      end: '00:01:13.127'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:01:13.638'
+      end: '00:01:13.638'
+      u: ". . . und im Jahre vier und dreißig mussten wir das Geschäft verkaufen,
+        weil wir eben Juden waren, nicht..."
+    - who: David Boder
+      start: '00:01:19.927'
+      end: '00:01:19.927'
+      u: Schon so weit zurück in vier und dreißig?
+    - who: Hildegarde Franz
+      start: '00:01:21.842'
+      end: '00:01:21.842'
+      u: ". . . in vier und dreißig mussten wir..."
+    - who: David Boder
+      start: '00:01:23.123'
+      end: '00:01:23.123'
+      u: Also der Hitler wurde dann gewählt.
+    - who: Hildegarde Franz
+      start: '00:01:24.670'
+      end: '00:01:24.670'
+      u: in drei und dreißig.
+    - who: David Boder
+      start: '00:01:25.358'
+      end: '00:01:25.358'
+      u: Ja, also, wenn man denkt, er ist zur Kraft gekommen in drei und dreißig.
+    - who: Hildegarde Franz
+      start: '00:01:28.264'
+      end: '00:01:28.264'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:01:28.920'
+      end: '00:01:28.920'
+      u: Und in vier und dreißig müssen Sie...
+    - who: Hildegarde Franz
+      start: '00:01:30.623'
+      end: '00:01:30.623'
+      u: ". . . mussten wir unser Geschäft verkaufen—aus diesen Gründen, weil unser
+        Personal nationalsozialistisch eingestellt war vollständig und hat jeden Kunden,
+        der bei uns gekauft hat, das im Braunhaus gemeldet, so dass die Leute, die
+        Kundschaft also, hm,..."
+    - who: David Boder
+      start: '00:01:50.026'
+      end: '00:01:50.026'
+      u: Aufgegeben haben...
+    - who: Hildegarde Franz
+      start: '00:01:50.728'
+      end: '00:01:50.728'
+      u: ". . . aufgegeben haben, Angst gehabt haben bei uns zu kaufen."
+    - who: David Boder
+      start: '00:01:53.538'
+      end: '00:01:53.538'
+      u: Was für ein Geschäft war das?
+    - who: Hildegarde Franz
+      start: '00:01:54.940'
+      end: '00:01:54.940'
+      u: Konfektion, Damenkonfektion, schon ganz große Damenkonfektion. Damenkonfektion.
+    - who: David Boder
+      start: '00:01:58.860'
+      end: '00:01:58.860'
+      u: Haben Sie auch selber die, die, hm, Kleider fabriziert?
+    - who: Hildegarde Franz
+      start: '00:02:03.307'
+      end: '00:02:03.307'
+      u: Nein, nein, das nicht.
+    - who: David Boder
+      start: '00:02:04.573'
+      end: '00:02:04.573'
+      u: Sie haben von Fabriken gekauft...
+    - who: Hildegarde Franz
+      start: '00:02:06.354'
+      end: '00:02:06.354'
+      u: Ja, gekauft.
+    - who: David Boder
+      start: '00:02:06.854'
+      end: '00:02:06.854'
+      u: Und dann fertig verkauft?
+    - who: Hildegarde Franz
+      start: '00:02:08.229'
+      end: '00:02:08.229'
+      u: Verkauft, ja.
+    - who: David Boder
+      start: '00:02:08.667'
+      end: '00:02:08.667'
+      u: Und das war in Heidelberg?
+    - who: Hildegarde Franz
+      start: '00:02:09.714'
+      end: '00:02:09.714'
+      u: Das war in Nürnberg.
+    - who: David Boder
+      start: '00:02:11.167'
+      end: '00:02:11.167'
+      u: In Nürnberg, entschuldigen Sie mal.
+    - who: Hildegarde Franz
+      start: '00:02:12.151'
+      end: '00:02:12.151'
+      u: Ja.
+    - who: David Boder
+      start: '00:02:12.760'
+      end: '00:02:12.760'
+      u: Das ist gerade jetzt dort, wo die Gerichtsverhandlung stattfindet, die, hm,
+    - who: Hildegarde Franz
+      start: '00:02:17.533'
+      end: '00:02:17.533'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:02:18.220'
+      end: '00:02:18.220'
+      u: ". . . für die Nazis."
+    - who: Hildegarde Franz
+      start: '00:02:18.721'
+      end: '00:02:18.721'
+      u: Ja, ja. Also...
+    - who: David Boder
+      start: '00:02:19.659'
+      end: '00:02:19.659'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:02:20.050'
+      end: '00:02:20.050'
+      u: ". . . dann durfte mein Mann...ich habe in Mischehe gelebt, net wahr, da..."
+    - who: David Boder
+      start: '00:02:24.372'
+      end: '00:02:24.372'
+      u: Ihr Mann war Christ?
+    - who: Hildegarde Franz
+      start: '00:02:25.653'
+      end: '00:02:25.653'
+      u: Ja, mein Mann wurde mit meinen Söhnen—einfach weil ich Jüdin war—entlassen—auf
+        der Strasse gesetzt so zu sagen.
+    - who: David Boder
+      start: '00:02:32.734'
+      end: '00:02:32.734'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:02:33.734'
+      end: '00:02:33.734'
+      u: Na ja, und dann haben wir eben, dann sind eben meine Söhne nach Amerika ausgewandert.
+    - who: David Boder
+      start: '00:02:39.093'
+      end: '00:02:39.093'
+      u: Ach, im Jahre vier und dreißig hatten Ihre Söhne die Moeglichkleit nach Amerika
+        auszuwandern?
+    - who: Hildegarde Franz
+      start: '00:02:42.749'
+      end: '00:02:42.749'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:02:43.812'
+      end: '00:02:43.812'
+      u: Wer hat ihnen das Affidavit geschickt?
+    - who: Hildegarde Franz
+      start: '00:02:44.906'
+      end: '00:02:44.906'
+      u: Mein Sohn hat einen Herren kennengelernt auf der, hm,...
+    - who: David Boder
+      start: '00:02:48.531'
+      end: '00:02:48.531'
+      u: Ja, da sie haben keine Verwandten also...
+    - who: Hildegarde Franz
+      start: '00:02:50.329'
+      end: '00:02:50.329'
+      u: Nein. Der hat meinem Sohn ein Besuchsvisum, mit ist er nach Amerika.
+    - who: David Boder
+      start: '00:02:54.407'
+      end: '00:02:54.407'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:02:55.172'
+      end: '00:02:55.172'
+      u: Und er ist dort ein Jahr geblieben und von da aus ist er, hat er...
+    - who: David Boder
+      start: '00:02:58.297'
+      end: '00:02:58.297'
+      u: Nach?
+    - who: Hildegarde Franz
+      start: '00:02:58.828'
+      end: '00:02:58.828'
+      u: ". . . hat er seine Einreise für Amerika bekommen..."
+    - who: David Boder
+      start: '00:03:00.328'
+      end: '00:03:00.328'
+      u: Affidavit.
+    - who: Hildegarde Franz
+      start: '00:03:01.406'
+      end: '00:03:01.406'
+      u: Ja, bekommen und ist seit dem in Amerika in einem Geschäft,...seit zehn Jahren
+        ist er in einem Geschäft
+    - who: David Boder
+      start: '00:03:09.925'
+      end: '00:03:09.925'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:03:10.438'
+      end: '00:03:10.438'
+      u: Bei Kresge beschäftigt.
+    - who: David Boder
+      start: '00:03:12.906'
+      end: '00:03:12.906'
+      u: Kresge?
+    - who: Hildegarde Franz
+      start: '00:03:13.671'
+      end: '00:03:13.671'
+      u: Ja, Kresge.
+    - who: David Boder
+      start: '00:03:14.733'
+      end: '00:03:14.733'
+      u: Ist das nicht das Fünf und Zehn Geschäft?
+    - who: Hildegarde Franz
+      start: '00:03:17.139'
+      end: '00:03:17.139'
+      u: Das ganz Grosse.
+    - who: David Boder
+      start: '00:03:18.435'
+      end: '00:03:18.435'
+      u: Das ganz große Fünf und Zehn Geschäft.
+    - who: Hildegarde Franz
+      start: '00:03:19.413'
+      end: '00:03:19.413'
+      u: Seit zehn Jahren ist er dort beschäftigt.
+    - who: David Boder
+      start: '00:03:21.173'
+      end: '00:03:21.173'
+      u: Ja, ja. Das ist ein Sohn ist dort. Sie haben noch mehr in Amerika?
+    - who: Hildegarde Franz
+      start: '00:03:25.108'
+      end: '00:03:25.108'
+      u: Ein Sohn ist in Colorado, also im Staat Colorado.
+    - who: David Boder
+      start: '00:03:29.608'
+      end: '00:03:29.608'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:03:30.248'
+      end: '00:03:30.248'
+      u: In Durango und hat und ist auch seit sechs Jahren in einer Stellung.
+    - who: David Boder
+      start: '00:03:34.451'
+      end: '00:03:34.451'
+      u: Aha. Sind sie dort verheiratet?
+    - who: Hildegarde Franz
+      start: '00:03:36.608'
+      end: '00:03:36.608'
+      u: Mein einer Sohn ist verheiratet.
+    - who: David Boder
+      start: '00:03:38.640'
+      end: '00:03:38.640'
+      u: Ja. Er hat seine Frau mitgenommen?
+    - who: Hildegarde Franz
+      start: '00:03:39.890'
+      end: '00:03:39.890'
+      u: Doch, seine Frau ist dort.
+    - who: David Boder
+      start: '00:03:41.344'
+      end: '00:03:41.344'
+      u: Er hat sie von hier mitgenommen?
+    - who: Hildegarde Franz
+      start: '00:03:43.640'
+      end: '00:03:43.640'
+      u: Nein, einer hat in Amerika geheiratet.
+    - who: David Boder
+      start: '00:03:44.314'
+      end: '00:03:44.314'
+      u: Er hat in Amerika geheiratet.
+    - who: Hildegarde Franz
+      start: '00:03:45.923'
+      end: '00:03:45.923'
+      u: Ja.
+    - who: David Boder
+      start: '00:03:46.360'
+      end: '00:03:46.360'
+      u: Nun, also mit wem sind Sie dann hier, Frau Franz?
+    - who: Hildegarde Franz
+      start: '00:03:48.907'
+      end: '00:03:48.907'
+      u: Ich bin ganz alleine.
+    - who: David Boder
+      start: '00:03:50.141'
+      end: '00:03:50.141'
+      u: Und was hat mit Ihrem Mann passiert?
+    - who: Hildegarde Franz
+      start: '00:03:52.000'
+      end: '00:03:52.000'
+      u: Mein Mann ist gestorben.
+    - who: David Boder
+      start: '00:03:53.360'
+      end: '00:03:53.360'
+      u: Wann?
+    - who: Hildegarde Franz
+      start: '00:03:53.829'
+      end: '00:03:53.829'
+      u: Mein Mann war sehr, sehr leidend durch all die Unannehmlichkeiten und die
+        Schwere, was auf uns gelegen hat. Dann ist mein Mann sehr, sehr leidend geworden,
+        net wahr...
+    - who: David Boder
+      start: '00:04:05.610'
+      end: '00:04:05.610'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:04:06.188'
+      end: '00:04:06.188'
+      u: ". . . und dann durch die Luftangriffe..."
+    - who: David Boder
+      start: '00:04:08.766'
+      end: '00:04:08.766'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:04:09.328'
+      end: '00:04:09.328'
+      u: ". . . die wir mitgemacht haben, war es nachher so...ich bin fast ein ganzes
+        halbes Jahr nicht aus die Kleider gekommen, nur um meinem kranken Mann immer
+        zu helfen, wenn die Luftangriffe kamen, dass ich ihn in den Keller bringen
+        konnte. Da bin ich ein ganzes halbes Jahr nicht aus die Kleider."
+    - who: David Boder
+      start: '00:04:24.273'
+      end: '00:04:24.273'
+      u: Wo waren Sie während dieser Zeit?
+    - who: Hildegarde Franz
+      start: '00:04:25.335'
+      end: '00:04:25.335'
+      u: In Nürnberg.
+    - who: David Boder
+      start: '00:04:26.616'
+      end: '00:04:26.616'
+      u: In Nürnberg.
+    - who: Hildegarde Franz
+      start: '00:00:00.'
+      end: '00:00:00.'
+      u: In Nürnberg.
+    - who: David Boder
+      start: '00:04:27.319'
+      end: '00:04:27.319'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:04:27.504'
+      end: '00:04:27.504'
+      u: Ja, dann in 43 war ich...
+    - who: David Boder
+      start: '00:04:29.203'
+      end: '00:04:29.203'
+      u: Ein Moment bitte. [Pause] Also weiter! Was hat dann in 43 passiert?
+    - who: Hildegarde Franz
+      start: '00:04:34.234'
+      end: '00:04:34.234'
+      u: In 43 ist es dann...wie es so furchtbar war, bin ich mit meinem Mann für
+        einige Wochen aufs Land. Da wurde er sehr, sehr krank und musste sich einer
+        Operation, dann musste ich ihn wieder nach Nürnberg bringen, um ihn einer
+        Operation zu unterziehen.
+    - who: David Boder
+      start: '00:04:48.268'
+      end: '00:04:48.268'
+      u: Nun und ihr Mann war Christ?
+    - who: Hildegarde Franz
+      start: '00:04:50.242'
+      end: '00:04:50.242'
+      u: Ja und...
+    - who: David Boder
+      start: '00:04:50.804'
+      end: '00:04:50.804'
+      u: Er war Deutscher? Und...
+    - who: Hildegarde Franz
+      start: '00:04:51.554'
+      end: '00:04:51.554'
+      u: Und er ist in Nürnberg dann gestorben.
+    - who: David Boder
+      start: '00:04:53.655'
+      end: '00:04:53.655'
+      u: Wann ist er in Nürnberg gestorben...
+    - who: Hildegarde Franz
+      start: '00:04:54.967'
+      end: '00:04:54.967'
+      u: In drei und...am 19. Oktober 43 starb mein Mann und am 17. Januar 44 hat
+        man mich binnen 2 Tagen von meiner Wohnung raus...[weint]
+    - who: David Boder
+      start: '00:05:08.076'
+      end: '00:05:08.076'
+      u: Was heißt das binnen 2 Tagen?
+    - who: Hildegarde Franz
+      start: '00:05:10.591'
+      end: '00:05:10.591'
+      u: ". . . musste ich meine Wohnung verlassen [weint und schluchzt] und bin ins
+        KZ gekommen wo...wie schrecklich mit 73 Jahr [weint und schluchzt sehr]. [Pause]
+        Ich muss mich erst ein bisschen fassen. [Pause] Mit 73 Jahren bin ich dann
+        nach dem Tod meines Mannes nach zwei Monaten verschleppt worden nach Theresienstadt."
+    - who: David Boder
+      start: '00:05:32.004'
+      end: '00:05:32.004'
+      u: Na, was haben die gesagt, warum das?
+    - who: Hildegarde Franz
+      start: '00:05:34.439'
+      end: '00:05:34.439'
+      u: Gar nichts. Ich bin Jüdin.
+    - who: David Boder
+      start: '00:05:36.501'
+      end: '00:05:36.501'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:05:37.048'
+      end: '00:05:37.048'
+      u: Und weil ich Jüdin bin, bin ich einfach verschleppt worden.
+    - who: David Boder
+      start: '00:05:39.610'
+      end: '00:05:39.610'
+      u: Also sagen Sie mir, Sie sagen, sie haben Ihnen zwei Tage gegeben, Ihre Wohnung
+        .zu liquidieren?
+    - who: Hildegarde Franz
+      start: '00:05:43.655'
+      end: '00:05:43.655'
+      u: Ja, und...ich konnte ja nicht die Wohnung räumen, ich musste ja alles stehen
+        und liegen lassen. Und ich bin eben einfach...
+    - who: David Boder
+      start: '00:05:50.250'
+      end: '00:05:50.250'
+      u: Bitte lauter.
+    - who: Hildegarde Franz
+      start: '00:05:50.922'
+      end: '00:05:50.922'
+      u: Und ich bin eben einfach verschleppt worden...nach Theresienstadt.
+    - who: David Boder
+      start: '00:05:54.511'
+      end: '00:05:54.511'
+      u: Also sagen Sie mal, wie viele Leute von Ihnen sind nach Theresienstadt gefahren?
+    - who: Hildegarde Franz
+      start: '00:05:58.167'
+      end: '00:05:58.167'
+      u: Mit meinem Transport?
+    - who: David Boder
+      start: '00:06:00.354'
+      end: '00:06:00.354'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:06:00.839'
+      end: '00:06:00.839'
+      u: Zehn...fünfzehn Personen es waren.
+    - who: David Boder
+      start: '00:06:02.761'
+      end: '00:06:02.761'
+      u: Und wie hat man Sie nach Theresienstadt geschickt?
+    - who: Hildegarde Franz
+      start: '00:06:04.979'
+      end: '00:06:04.979'
+      u: Man hat uns mit der Eisenbahn nach Theresienstadt...
+    - who: David Boder
+      start: '00:06:06.799'
+      end: '00:06:06.799'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:06:07.161'
+      end: '00:06:07.161'
+      u: geschickt und unter, hm, also Deckung also unter...von...ja, von SA, von
+        der Gestapo.
+    - who: David Boder
+      start: '00:06:12.718'
+      end: '00:06:12.718'
+      u: War das ein Passagier-Wagon?
+    - who: Hildegarde Franz
+      start: '00:06:14.453'
+      end: '00:06:14.453'
+      u: Es war ein Last Wagon.
+    - who: David Boder
+      start: '00:06:16.968'
+      end: '00:06:16.968'
+      u: Ein Last Wagon?
+    - who: Hildegarde Franz
+      start: '00:06:17.468'
+      end: '00:06:17.468'
+      u: Ja.
+    - who: David Boder
+      start: '00:06:17.952'
+      end: '00:06:17.952'
+      u: Und wer waren die anderen Leute mit Ihnen?
+    - who: Hildegarde Franz
+      start: '00:06:19.749'
+      end: '00:06:19.749'
+      u: Das war ein Herr Kaufmann, hm, eine...ich weiß net...eine Frau Dessauer...er
+        ist auch gestorben, Dessauer, Kaufmann, eine Frau Doktor Rodler...
+    - who: David Boder
+      start: '00:06:32.053'
+      end: '00:06:32.053'
+      u: Ein bisschen lauter.
+    - who: Hildegarde Franz
+      start: '00:06:32.912'
+      end: '00:06:32.912'
+      u: Eine Frau Dr. Rodler, eine, hm,...
+    - who: David Boder
+      start: '00:06:35.819'
+      end: '00:06:35.819'
+      u: Na ja, ich meine, was für Leute waren da, die überhaupt so lange noch in
+        Nürnberg geblieben sind?
+    - who: Hildegarde Franz
+      start: '00:06:41.511'
+      end: '00:06:41.511'
+      u: Die waren alle, alle in Mischehen.
+    - who: David Boder
+      start: '00:06:44.433'
+      end: '00:06:44.433'
+      u: Ah so, das waren Mischehen Leute.
+    - who: Hildegarde Franz
+      start: '00:06:46.933'
+      end: '00:06:46.933'
+      u: Ja und die sind dann alle in 43, in 44 dann nach Theresienstadt verschleppt
+        worden.
+    - who: David Boder
+      start: '00:06:51.886'
+      end: '00:06:51.886'
+      u: Aber von diesen Mischehen, da hat man bloß die jüdische Hälfte genommen?
+    - who: Hildegarde Franz
+      start: '00:06:55.605'
+      end: '00:06:55.605'
+      u: Ja, ja nur die jüdische Hälfte...
+    - who: David Boder
+      start: '00:06:56.198'
+      end: '00:06:56.198'
+      u: Die jüdische Hälfte von den, Mischehen.
+    - who: Hildegarde Franz
+      start: '00:06:58.448'
+      end: '00:06:58.448'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:06:59.760'
+      end: '00:06:59.760'
+      u: Und die sind dann nach Theresienstadt verschleppt worden.
+    - who: Hildegarde Franz
+      start: '00:07:01.088'
+      end: '00:07:01.088'
+      u: Ja, die jüdische Hälfte.
+    - who: David Boder
+      start: '00:07:01.541'
+      end: '00:07:01.541'
+      u: Nun erzählen Sie mir, wie haben Sie Theresienstadt damals vorgefunden?
+    - who: Hildegarde Franz
+      start: '00:07:04.791'
+      end: '00:07:04.791'
+      u: Na, wir haben Theresienstadt...wir haben...
+    - who: David Boder
+      start: '00:07:06.337'
+      end: '00:07:06.337'
+      u: Es waren ja verschiedene Zeiten in Theresienstadt.
+    - who: Hildegarde Franz
+      start: '00:07:07.916'
+      end: '00:07:07.916'
+      u: Ja.
+    - who: David Boder
+      start: '00:07:09.244'
+      end: '00:07:09.244'
+      u: Also was für ein Platz wurde Ihnen angewiesen. Wie ist...
+    - who: Hildegarde Franz
+      start: '00:07:12.295'
+      end: '00:07:12.295'
+      u: Uns wurde oben ein Boden angewiesen.
+    - who: David Boder
+      start: '00:07:15.357'
+      end: '00:07:15.357'
+      u: Ein Boden von einem Hause?
+    - who: Hildegarde Franz
+      start: '00:07:17.091'
+      end: '00:07:17.091'
+      u: Von einem Hause, wo wir wohnen...schlafen und wohnen mussten. Und...
+    - who: David Boder
+      start: '00:07:20.653'
+      end: '00:07:20.653'
+      u: Und wer lebte unten?
+    - who: Hildegarde Franz
+      start: '00:07:21.840'
+      end: '00:07:21.840'
+      u: Unten war ein Siechenheim, wo Kranke gelegen haben, oben auf den Boden sind
+        wir gekommen.
+    - who: David Boder
+      start: '00:07:28.101'
+      end: '00:07:28.101'
+      u: Was für ein Heim?
+    - who: Hildegarde Franz
+      start: '00:07:28.835'
+      end: '00:07:28.835'
+      u: Ein Siechenheim, wo nur Kranke waren.
+    - who: David Boder
+      start: '00:07:30.820'
+      end: '00:07:30.820'
+      u: Warum hat das Siechenheim geheißen?
+    - who: Hildegarde Franz
+      start: '00:07:32.554'
+      end: '00:07:32.554'
+      u: Das ist halt so genannt, ich weiß es nicht.
+    - who: David Boder
+      start: '00:07:34.101'
+      end: '00:07:34.101'
+      u: Wie buchstabieren Sie das?
+    - who: Hildegarde Franz
+      start: '00:07:36.726'
+      end: '00:07:36.726'
+      u: "[Sie buchstabiert] S...S-i-e-c-h..."
+    - who: David Boder
+      start: '00:07:39.451'
+      end: '00:07:39.451'
+      u: S?
+    - who: Hildegarde Franz
+      start: '00:07:40.014'
+      end: '00:07:40.014'
+      u: Siechen. [Sie buchstabiert] S-I-e-c-h-e-n-Heim, Siechenheim.
+    - who: David Boder
+      start: '00:07:45.822'
+      end: '00:07:45.822'
+      u: Ja. Und Sie haben dann auf dem Boden ober diesem Siechenheim gewohnt.
+    - who: Hildegarde Franz
+      start: '00:07:47.620'
+      end: '00:07:47.620'
+      u: Ja, oben.
+    - who: David Boder
+      start: '00:07:50.761'
+      end: '00:07:50.761'
+      u: Also wie viele Leute waren in einem Zimmer?
+    - who: Hildegarde Franz
+      start: '00:07:52.464'
+      end: '00:07:52.464'
+      u: Also in dem Boden waren ungefähr 35 Menschen untergebracht.
+    - who: David Boder
+      start: '00:07:56.464'
+      end: '00:07:56.464'
+      u: Frauen allein?
+    - who: Hildegarde Franz
+      start: '00:07:58.370'
+      end: '00:07:58.370'
+      u: Nur...Frauen und Männer...alles durcheinand.
+    - who: David Boder
+      start: '00:08:00.365'
+      end: '00:08:00.365'
+      u: Im selben Zimmer?
+    - who: Hildegarde Franz
+      start: '00:08:01.349'
+      end: '00:08:01.349'
+      u: Alles im selben Zimmer
+    - who: David Boder
+      start: '00:08:02.442'
+      end: '00:08:02.442'
+      u: Und wir haben Sie dort geschlafen?
+    - who: Hildegarde Franz
+      start: '00:08:03.692'
+      end: '00:08:03.692'
+      u: Na ja, wir haben geschlafen so in einem Kasten mit einem Strohsack.
+    - who: David Boder
+      start: '00:08:07.155'
+      end: '00:08:07.155'
+      u: Aha, für jeden Einen, ein Bett für jeden so zu sagen.
+    - who: Hildegarde Franz
+      start: '00:08:10.653'
+      end: '00:08:10.653'
+      u: Ein Bett, ja.
+    - who: David Boder
+      start: '00:08:11.668'
+      end: '00:08:11.668'
+      u: Mit einem Strohsack.
+    - who: Hildegarde Franz
+      start: '00:08:12.621'
+      end: '00:08:12.621'
+      u: Mit einem Strohsack, ja. ?
+    - who: David Boder
+      start: '00:08:13.636'
+      end: '00:08:13.636'
+      u: Nun was für sagen haben Sie für sich mitgenommen?
+    - who: Hildegarde Franz
+      start: '00:08:15.479'
+      end: '00:08:15.479'
+      u: Eine Kleinig...Ich durfte nur mitnehmen ein...also, das Notwendigste. Einen
+        Koffer mit Kleider, also was ich gerade gebraucht hab und etwas Wäsche, eine
+        Decke und ein Kissen.
+    - who: David Boder
+      start: '00:08:27.327'
+      end: '00:08:27.327'
+      u: Aha! Und das hat man Ihnen in Theresienstadt gelassen?
+    - who: Hildegarde Franz
+      start: '00:08:30.093'
+      end: '00:08:30.093'
+      u: Mir hat man es gelassen, aber Vielen...da hab ich Glück gehabt, aber Vielen
+        ist es auch noch gestohlen worden, dass sie gar nichts gehabt haben. Viele...
+    - who: David Boder
+      start: '00:08:37.235'
+      end: '00:08:37.235'
+      u: Und nun? Haben Sie..., hm, wie war es dann nachher in Theresienstadt?
+    - who: Hildegarde Franz
+      start: '00:08:43.800'
+      end: '00:08:43.800'
+      u: Na ja...
+    - who: David Boder
+      start: '00:08:44.641'
+      end: '00:08:44.641'
+      u: Wie lange waren Sie dort? Und...
+    - who: Hildegarde Franz
+      start: '00:08:45.437'
+      end: '00:08:45.437'
+      u: Ein einhalb Jahr—bis die Befreiung durch die Russen kam.
+    - who: David Boder
+      start: '00:08:48.922'
+      end: '00:08:48.922'
+      u: Waren Sie gesund?
+    - who: Hildegarde Franz
+      start: '00:08:50.484'
+      end: '00:08:50.484'
+      u: Sieben Wochen hab ich im Krankenhaus gelegen.
+    - who: David Boder
+      start: '00:08:53.574'
+      end: '00:08:53.574'
+      u: Im selben Siechenheim?
+    - who: Hildegarde Franz
+      start: '00:08:54.886'
+      end: '00:08:54.886'
+      u: Nein, nein. In einem Krankenhaus, also das ‚Grand Hotel' hat es geheißen.
+    - who: David Boder
+      start: '00:08:58.901'
+      end: '00:08:58.901'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:08:59.619'
+      end: '00:08:59.619'
+      u: Und da war ich sieben Wochen gelegen, weil ich so schnell abgemagert bin.
+    - who: David Boder
+      start: 00:09:03.522x
+      end: 00:09:03.522x
+      u: Hm.
+    - who: Hildegarde Franz
+      start: '00:09:04.022'
+      end: '00:09:04.022'
+      u: In der Zeit von drei Monaten, vier Monate habe ich vierzig Pfund abgenommen.
+        Das war zu viel. Da haben die ganzen inneren Organe, Herz und alles, darunter
+        gelitten, net wahr.
+    - who: David Boder
+      start: '00:09:15.577'
+      end: '00:09:15.577'
+      u: Hm.
+    - who: Hildegarde Franz
+      start: '00:09:16.249'
+      end: '00:09:16.249'
+      u: Da war ich also sieben Wochen im Krankenhaus.
+    - who: David Boder
+      start: '00:09:17.984'
+      end: '00:09:17.984'
+      u: Und was hat man dort für Sie getan?
+    - who: Hildegarde Franz
+      start: '00:09:20.546'
+      end: '00:09:20.546'
+      u: Was kann man auch? [wimmert] Ach Du lieber Gott, was konnten sie schon viel
+        tun? Ich hab eben im Krankenaus gelegen und bin behandelt worden, net wahr,
+        und bin eigentlich zu früh entlassen worden, weil das Krankenhaus für nur
+        Lungenkranke gebraucht worden ist.
+    - who: David Boder
+      start: '00:09:34.155'
+      end: '00:09:34.155'
+      u: Ahm.
+    - who: Hildegarde Franz
+      start: '00:09:34.827'
+      end: '00:09:34.827'
+      u: Und dann bin ich wieder auf meinen Boden zurückgekommen.
+    - who: David Boder
+      start: '00:09:37.526'
+      end: '00:09:37.526'
+      u: Wer waren die Ärzte im Krankenhaus?
+    - who: Hildegarde Franz
+      start: '00:09:39.651'
+      end: '00:09:39.651'
+      u: Das war ein Dr. Gutmann.
+    - who: David Boder
+      start: '00:09:42.557'
+      end: '00:09:42.557'
+      u: ". Waren die jüdische Ärzte?"
+    - who: Hildegarde Franz
+      start: '00:09:44.291'
+      end: '00:09:44.291'
+      u: Das waren jüdische Ärzte, es waren ja nur Juden dort.
+    - who: David Boder
+      start: '00:09:46.276'
+      end: '00:09:46.276'
+      u: Ja, ich verstehe. Und die Ärzte waren jüdisch, nicht wahr?
+    - who: Hildegarde Franz
+      start: '00:09:49.710'
+      end: '00:09:49.710'
+      u: Die waren jüdisch, ja.
+    - who: David Boder
+      start: '00:09:51.085'
+      end: '00:09:51.085'
+      u: Nun sagen Sie, wie die Zeit voran ging und es nahe zur Niederlage kam, haben
+        sich die Dinge zum Besseren in Theresienstadt geändert?
+    - who: Hildegarde Franz
+      start: '00:09:59.767'
+      end: '00:09:59.767'
+      u: Nein, also ich mein, wir haben sie jetzt gar net mehr daran geglaubt, dass
+        wir überhaupt, wie soll ich sagen—befreit werden, weil wir vollständig von
+        der Welt abgeschlossen waren. Wir haben ja keine Nachrichten und nichts bekommen.
+    - who: David Boder
+      start: '00:10:13.316'
+      end: '00:10:13.316'
+      u: Keine Zeitungen und keine Magazine?
+    - who: Hildegarde Franz
+      start: '00:10:14.801'
+      end: '00:10:14.801'
+      u: Gar nichts. Nichts. Keine Zeitung, kein Radio, ein offener Brief, der in
+        einem Paketchen gelegen hat, der ist auch weggenommen worden.
+    - who: David Boder
+      start: '00:10:22.763'
+      end: '00:10:22.763'
+      u: Haben Sie irgendwelche Pakete bekommen?
+    - who: Hildegarde Franz
+      start: '00:10:24.545'
+      end: '00:10:24.545'
+      u: Ich nicht, nicht ein Paketchen.
+    - who: David Boder
+      start: '00:10:26.413'
+      end: '00:10:26.413'
+      u: Warum?
+    - who: Hildegarde Franz
+      start: '00:10:26.991'
+      end: '00:10:26.991'
+      u: Ich habe nichts bekommen, [wimmert oder weint] niemand hat mir was geschickt.
+    - who: David Boder
+      start: '00:10:29.913'
+      end: '00:10:29.913'
+      u: Hatten sie irgendwelche Freunde in Heidelberg...
+    - who: Hildegarde Franz
+      start: '00:10:32.381'
+      end: '00:10:32.381'
+      u: In Nürnberg.
+    - who: David Boder
+      start: '00:10:33.787'
+      end: '00:10:33.787'
+      u: In Nürnberg, irgendwelche Bekannte, die dort geblieben sind?
+    - who: Hildegarde Franz
+      start: '00:10:36.303'
+      end: '00:10:36.303'
+      u: Ja, aber ich war...die haben mir alle nichts geschickt. Ich habe auch nichts
+        verlangt, weil ich die Leute nicht in Ungelegenheit bringen wollte, net wahr,
+        denn es war ja auch streng verboten, dass die Juden irgend etwas geschickt
+        bekommen sollen.
+    - who: David Boder
+      start: '00:10:49.643'
+      end: '00:10:49.643'
+      u: Nun sagen Sie mal, haben Sie noch etwas Geld gehabt?
+    - who: Hildegarde Franz
+      start: '00:10:52.721'
+      end: '00:10:52.721'
+      u: In Theresienstadt—nein, keinen Pfennig.
+    - who: David Boder
+      start: '00:10:54.784'
+      end: '00:10:54.784'
+      u: Wieso?
+    - who: Hildegarde Franz
+      start: '00:10:55.613'
+      end: '00:10:55.613'
+      u: Ich hab kein Geld mitnehmen dürfen.
+    - who: David Boder
+      start: '00:10:57.738'
+      end: '00:10:57.738'
+      u: Oh, haben Sie welches Geld in...
+    - who: Hildegarde Franz
+      start: '00:10:59.816'
+      end: '00:10:59.816'
+      u: Aber in Theresienstadt da war—schade, ich habe keines dabei—da hat man ein
+        Ghetto Geld gehabt, net wahr.
+    - who: David Boder
+      start: '00:11:04.637'
+      end: '00:11:04.637'
+      u: Ja. Und wer hat das bekommen?
+    - who: Hildegarde Franz
+      start: '00:11:08.012'
+      end: '00:11:08.012'
+      u: Das haben wir bekommen, da konnte man...
+    - who: David Boder
+      start: '00:11:09.652'
+      end: '00:11:09.652'
+      u: Wofür?
+    - who: Hildegarde Franz
+      start: '00:11:10.450'
+      end: '00:11:10.450'
+      u: ". . . dass man irgend etwas kaufen konnte."
+    - who: David Boder
+      start: '00:11:12.278'
+      end: '00:11:12.278'
+      u: Ja, aber Sie haben das Geld umsonst bekommen? Oder...
+    - who: Hildegarde Franz
+      start: '00:11:14.747'
+      end: '00:11:14.747'
+      u: Das haben wir jeden Monat bekommen—50 Kronen, net wahr...
+    - who: David Boder
+      start: '00:11:17.537'
+      end: '00:11:17.537'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:11:18.115'
+      end: '00:11:18.115'
+      u: Ghetto Geld.
+    - who: David Boder
+      start: '00:11:18.912'
+      end: '00:11:18.912'
+      u: Ja, mit diesem Mooses Bild drauf.
+    - who: Hildegarde Franz
+      start: '00:11:20.177'
+      end: '00:11:20.177'
+      u: Mooses Bild drauf, ja, ja. Da hab ich einen Satz davon mir aufgehoben.
+    - who: David Boder
+      start: '00:11:23.493'
+      end: '00:11:23.493'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:11:24.493'
+      end: '00:11:24.493'
+      u: Ja, und da mussten wir den Juden Stern alle tragen, net.
+    - who: David Boder
+      start: '00:11:26.634'
+      end: '00:11:26.634'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:11:27.384'
+      end: '00:11:27.384'
+      u: Und man hat uns...also...die Ernährung war mehr wie wenig.
+    - who: David Boder
+      start: '00:11:33.884'
+      end: '00:11:33.884'
+      u: Wie haben Sie ernährt? Haben Sie in Ihrem Hause dort gekocht oder...?
+    - who: Hildegarde Franz
+      start: '00:11:37.169'
+      end: '00:11:37.169'
+      u: Nein, wir waren von einer Küche gespeist.
+    - who: David Boder
+      start: '00:11:41.834'
+      end: '00:11:41.834'
+      u: Und wer hat das Essen abgeholt?
+    - who: Hildegarde Franz
+      start: '00:11:43.387'
+      end: '00:11:43.387'
+      u: Das mussten wir uns alle holen. Da haben wir uns anstellen müssen und uns
+        das Essen holen.
+    - who: David Boder
+      start: '00:11:48.637'
+      end: '00:11:48.637'
+      u: Standen Sie in einem [unverständlich]?
+    - who: Hildegarde Franz
+      start: '00:11:50.527'
+      end: '00:11:50.527'
+      u: Nein, es waren Strassen, net wahr.
+    - who: David Boder
+      start: '00:11:52.652'
+      end: '00:11:52.652'
+      u: Und da haben Sie sich das Essen geholt und wo haben Sie gegessen?
+    - who: Hildegarde Franz
+      start: '00:11:55.496'
+      end: '00:11:55.496'
+      u: Das hat man sich gewöhnlich mit heimgenommen und ich hab mich auf mein Bett
+        hingesetzt und ich hab es gegessen. Einen Tisch haben wir ja net gekannt,
+        einen Tisch hat es ja in unserem Zimmer net gegeben. Und man musste sich immer
+        auf sein Bett hinsetzen.
+    - who: David Boder
+      start: '00:12:08.022'
+      end: '00:12:08.022'
+      u: Nun—und haben Sie Ihre Bettwäsche behalten?
+    - who: Hildegarde Franz
+      start: '00:12:12.162'
+      end: '00:12:12.162'
+      u: Ja, ich hab also meine eigenen Bettwäsche gehabt, die hatte ich mit genommen
+        und die hab ich mir dann immer gewaschen.
+    - who: David Boder
+      start: '00:12:19.647'
+      end: '00:12:19.647'
+      u: Aha. Haben Sie genug Seife gehabt?
+    - who: Hildegarde Franz
+      start: '00:12:21.725'
+      end: '00:12:21.725'
+      u: Seife—eigentlich, wie sagt man—das war eine Schmierseife, die wir bekommen
+        haben.
+    - who: David Boder
+      start: '00:12:26.515'
+      end: '00:12:26.515'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:12:27.187'
+      end: '00:12:27.187'
+      u: Aber das war auch sehr wenig, nicht.
+    - who: David Boder
+      start: '00:12:28.531'
+      end: '00:12:28.531'
+      u: Ja und dann, ist es gegen das Ende ein bisschen besser geworden?
+    - who: Hildegarde Franz
+      start: '00:12:32.264'
+      end: '00:12:32.264'
+      u: Oh, ja also, da sind ab und zu Kommissionen gekommen.
+    - who: David Boder
+      start: '00:12:35.060'
+      end: '00:12:35.060'
+      u: Ja. .
+    - who: Hildegarde Franz
+      start: '00:12:36.029'
+      end: '00:12:36.029'
+      u: Ja, so von Schweden und der Schweiz.
+    - who: David Boder
+      start: '00:12:37.979'
+      end: '00:12:37.979'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:12:38.745'
+      end: '00:12:38.745'
+      u: Ja und dann musste es uns ein bisschen besser...
+    - who: David Boder
+      start: '00:12:40.917'
+      end: '00:12:40.917'
+      u: Hm.
+    - who: Hildegarde Franz
+      start: '00:12:41.385'
+      end: '00:12:41.385'
+      u: Ja und dann ist dann alles also was sie zeigen wollen und die Nazi haben
+        gezeigt, dass sie alles in Ordnung gebracht haben und das Andere ist geblieben,
+        wie es war. Dann haben wir wohl ein bisschen Essen mehr bekommen und wenn
+        sie weg waren, die Kommissionen, dann haben sie es wieder abgezogen. Dann
+        haben wir schon wieder weniger bekommen, nicht.
+    - who: David Boder
+      start: '00:12:56.421'
+      end: '00:12:56.421'
+      u: Nun sagen Sie, wer waren die Nazis mit denen Sie in Kontakt kamen?
+    - who: Hildegarde Franz
+      start: '00:13:00.374'
+      end: '00:13:00.374'
+      u: Wir kamen eigentlich mit den Nazis weniger in Kontakt. Das war der Ältestenrat,
+        der hat die Befehle von den Nazis bekommen und der Ältestenrat musste dann
+        das ausführen.
+    - who: David Boder
+      start: '00:13:12.070'
+      end: '00:13:12.070'
+      u: Erinnern Sie sich an die Leute vom Ältestenrat?
+    - who: Hildegarde Franz
+      start: '00:13:14.679'
+      end: '00:13:14.679'
+      u: Vom Ältestenrat...ich hab eigentlich...warten Sie mal...ein...einen—wie hat
+        der geheißen? Einen Herrn Meier kennengelernt. Ansonsten niemanden.
+    - who: David Boder
+      start: '00:13:23.571'
+      end: '00:13:23.571'
+      u: Niemand, hm.
+    - who: Hildegarde Franz
+      start: '00:13:24.055'
+      end: '00:13:24.055'
+      u: Weil ich einmal vorgeladen war zur Kommandantur, wo man mir ein Testament,
+        was ich mit meinem Mann verfasst hatte im Jahre 32. Und da hat man mir gesagt
+        auf der Kommandantur, ob mein Mann das handschriftlich geschrieben hätte,
+        das Testament. Und man wollte, ich sollte es umstoßen.
+    - who: David Boder
+      start: '00:13:45.377'
+      end: '00:13:45.377'
+      u: Warum umstoßen?
+    - who: Hildegarde Franz
+      start: '00:13:46.361'
+      end: '00:13:46.361'
+      u: Ja, ich weiß es nicht. Ich hab mich damit nicht verstanden. Ich hab nur gesagt,
+        ich hab mit meinem Mann in einer sehr glücklichen Ehe gelebt, einer drei und
+        vierzig [43] jährigen, sehr glücklichen Ehe. Und meinem Mann sein Wille war
+        mir heilig, das hab ich ihnen auch erklärt. Das...
+    - who: David Boder
+      start: '00:14:00.031'
+      end: '00:14:00.031'
+      u: War das eine jüdische Gruppe, die Ihnen das gesagt...
+    - who: Hildegarde Franz
+      start: '00:14:02.126'
+      end: '00:14:02.126'
+      u: Nein, das waren die...
+    - who: David Boder
+      start: '00:14:03.251'
+      end: '00:14:03.251'
+      u: Die SS...
+    - who: Hildegarde Franz
+      start: '00:14:04.189'
+      end: '00:14:04.189'
+      u: Die SS. Das war die Gestapo, die mich da...nicht die SS...
+    - who: David Boder
+      start: '00:14:07.717'
+      end: '00:14:07.717'
+      u: Ja, was war denn dort in dem Testament, das denen nicht gefallen hat?
+    - who: Hildegarde Franz
+      start: '00:14:10.764'
+      end: '00:14:10.764'
+      u: Ja, jedenfalls, dass ich alles, also von da war alles auf den Namen meines
+        Mannes, net.
+    - who: David Boder
+      start: '00:14:16.202'
+      end: '00:14:16.202'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:14:16.546'
+      end: '00:14:16.546'
+      u: Und wenn ich eben das jedenfalls umgestoßen hätte, dann hätten sie eben alles
+        bewohnt, net, und so...
+    - who: David Boder
+      start: '00:14:21.744'
+      end: '00:14:21.744'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:14:22.385'
+      end: '00:14:22.385'
+      u: Und so war es...
+    - who: David Boder
+      start: '00:14:23.073'
+      end: '00:14:23.073'
+      u: Also was war denn da zu bewohnen?
+    - who: Hildegarde Franz
+      start: '00:14:24.261'
+      end: '00:14:24.261'
+      u: Also mein Mann...wir haben da ja etwas Grund gehabt, net wahr, und die Wohnung...
+    - who: David Boder
+      start: '00:14:28.245'
+      end: '00:14:28.245'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:14:28.729'
+      end: '00:14:28.729'
+      u: ". . . und dass die Möbel und was alles da war. Und da waren sie doch sehr
+        scharf drauf, um das wieder weiter auf ihre Nazi zu verteilen und deshalb
+        war es ihnen auch sehr darum zu tun und das konnten sie eben nicht, weil alles
+        auf den Namen meines Mannes gegangen ist, net. . ."
+    - who: David Boder
+      start: '00:14:42.004'
+      end: '00:14:42.004'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:14:42.598'
+      end: '00:14:42.598'
+      u: Und ich hab mich nicht einverstanden, es frei zu geben.
+    - who: David Boder
+      start: '00:14:46.741'
+      end: '00:14:46.741'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:14:47.210'
+      end: '00:14:47.210'
+      u: Net wahr!
+    - who: David Boder
+      start: '00:14:48.100'
+      end: '00:14:48.100'
+      u: Haben sie Ihnen nicht gedroht?
+    - who: Hildegarde Franz
+      start: '00:14:49.584'
+      end: '00:14:49.584'
+      u: Nein, ich hab nur gesagt zu ihnen, ich würde mich unter keinen Umständen
+        dazu verstehen, dass ich den Willen meines Mannes zuwiderhandeln kann und
+        ich...es muss so bleiben, wie es ist und es jetzt ist.
+    - who: David Boder
+      start: '00:15:03.952'
+      end: '00:15:03.952'
+      u: Nun sagen Sie dann, Frau Franz, hm, wie kam die Befreiung?
+    - who: Hildegarde Franz
+      start: '00:15:08.720'
+      end: '00:15:08.720'
+      u: Die Befreiung kam durch die Russen.
+    - who: David Boder
+      start: '00:15:10.829'
+      end: '00:15:10.829'
+      u: Hm, wie sind die herein gekommen?
+    - who: Hildegarde Franz
+      start: '00:15:13.219'
+      end: '00:15:13.219'
+      u: Das war am achten, neunten Mai; am achten, neunten Mai kamen die.
+    - who: David Boder
+      start: '00:15:15.551'
+      end: '00:15:15.551'
+      u: 45?
+    - who: Hildegarde Franz
+      start: '00:15:16.328'
+      end: '00:15:16.328'
+      u: '45.'
+    - who: David Boder
+      start: '00:15:17.484'
+      end: '00:15:17.484'
+      u: Und was hat dann passiert?
+    - who: Hildegarde Franz
+      start: '00:15:18.437'
+      end: '00:15:18.437'
+      u: Dann gingen die fluchtartig weg, die noch da waren, net wahr—die sind abgerückt
+        natürlich und haben alles in einem Durcheinander liegen gelassen.
+    - who: David Boder
+      start: '00:15:23.591'
+      end: '00:15:23.591'
+      u: Ja.
+    - who: Hildegarde Franz
+      start: '00:15:28.029'
+      end: '00:15:28.029'
+      u: Und die Russen haben uns anständig behandelt.
+    - who: David Boder
+      start: '00:15:30.809'
+      end: '00:15:30.809'
+      u: Hm.
+    - who: Hildegarde Franz
+      start: '00:15:31.230'
+      end: '00:15:31.230'
+      u: Wir haben Essen bekommen mehr und sind auch richtig verpflegt worden.
+    - who: David Boder
+      start: '00:15:35.230'
+      end: '00:15:35.230'
+      u: So—und wann sind Sie nach Nürnberg zurück gekommen?
+    - who: Hildegarde Franz
+      start: '00:15:36.948'
+      end: '00:15:36.948'
+      u: Na, wir sind zurück gekommen am 2. Juli 45; sind wir - von den Amerikanern
+        in, in Theresienstadt abgeholt.
+    - who: David Boder
+      start: '00:15:46.323'
+      end: '00:15:46.323'
+      u: In Camion, Autobussen?
+    - who: Hildegarde Franz
+      start: '00:15:49.526'
+      end: '00:15:49.526'
+      u: In Autobussen—in so Lastwagen sind wir abgeholt worden.
+    - who: David Boder
+      start: '00:15:53.167'
+      end: '00:15:53.167'
+      u: Und was haben Sie in Nürnberg vorgefunden von Ihrem Eigentum?
+    - who: Hildegarde Franz
+      start: '00:15:55.995'
+      end: '00:15:55.995'
+      u: Nichts mehr. [Pause] Das Haus ist ausgebombt...
+    - who: David Boder
+      start: '00:16:01.329'
+      end: '00:16:01.329'
+      u: War es Ihr eigenes Haus?
+    - who: Hildegarde Franz
+      start: '00:16:02.439'
+      end: '00:16:02.439'
+      u: Nein, es war nicht mein eigenes Haus. Ich hab—nein, von meiner ganzen Wohnung
+        habe ich fast nichts mehr gerettet. Die Leute, die bei mir in Untermiete gewohnt
+        haben, die haben sich ziemlich gütlich daran getan.
+    - who: David Boder
+      start: '00:16:16.032'
+      end: '00:16:16.032'
+      u: Haben Sie welche Kleidung gefunden, haben Sie...
+    - who: Hildegarde Franz
+      start: '00:16:18.626'
+      end: '00:16:18.626'
+      u: Gar nichts! Ich hatte nur einige Sachen, die hatte ich verlagert, was ein
+        paar Wertsachen waren, beim einem Dr. Mombert...
+    - who: David Boder
+      start: '00:16:26.527'
+      end: '00:16:26.527'
+      u: Einem Christen?
+    - who: Hildegarde Franz
+      start: '00:16:27.417'
+      end: '00:16:27.417'
+      u: Ja. Er hat mir das blendend aufgehoben, während in meiner Wohnung eine Mischehe
+        gewohnt hat, die gerade das Gegenteil waren. Ich aber die Leute nicht...
+    - who: David Boder
+      start: '00:16:36.016'
+      end: '00:16:36.016'
+      u: Na ja, Sie wollen sich nicht beklagen...
+    - who: Hildegarde Franz
+      start: '00:16:37.328'
+      end: '00:16:37.328'
+      u: Nein, ich will ihnen nichts anhaben, sie haben mich um Vieles gebracht...
+    - who: David Boder
+      start: '00:16:41.919'
+      end: '00:16:41.919'
+      u: Das war eine Mischehe, die dort gelebt haben?
+    - who: Hildegarde Franz
+      start: '00:16:43.653'
+      end: '00:16:43.653'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:16:44.247'
+      end: '00:16:44.247'
+      u: Und denen hat nichts passiert während...
+    - who: Hildegarde Franz
+      start: '00:16:46.059'
+      end: '00:16:46.059'
+      u: Die sind, hm, dann von der Wohnung weg, also es ist...eine Bombe gestürzt,
+        net wahr...
+    - who: David Boder
+      start: '00:16:52.168'
+      end: '00:16:52.168'
+      u: Hm und dann?
+    - who: Hildegarde Franz
+      start: '00:16:53.792'
+      end: '00:16:53.792'
+      u: ". . . und die hat eine Wand abgerissen, aber die sagen, die Möbel sind dort
+        stehen geblieben, net..."
+    - who: David Boder
+      start: '00:16:58.019'
+      end: '00:16:58.019'
+      u: Ah hm.
+    - who: Hildegarde Franz
+      start: '00:16:58.550'
+      end: '00:16:58.550'
+      u: ". . . zumindestens ein großer Teil. Und wo die hingekommen sind—ich hab
+        wohl Einiges zurück bekommen, aber größtenteils sagen sie...haben sie gesagt,
+        sie haben nichts mehr."
+    - who: David Boder
+      start: '00:17:08.082'
+      end: '00:17:08.082'
+      u: Und von Ihrem Bankkonto? Haben Sie das zurück bekommen?
+    - who: Hildegarde Franz
+      start: '00:17:10.942'
+      end: '00:17:10.942'
+      u: Das habe ich zurück bekommen.
+    - who: David Boder
+      start: '00:17:12.083'
+      end: '00:17:12.083'
+      u: Das haben Ihnen die Amerikaner zurück gegeben?
+    - who: Hildegarde Franz
+      start: '00:17:13.317'
+      end: '00:17:13.317'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:17:13.911'
+      end: '00:17:13.911'
+      u: Und sie erlauben es Ihnen, es raus zu nehmen?
+    - who: Hildegarde Franz
+      start: '00:17:16.043'
+      end: '00:17:16.043'
+      u: Das hat man eigentlich auch bekommen.
+    - who: David Boder
+      start: '00:17:17.684'
+      end: '00:17:17.684'
+      u: Ja, also das war dann sicher?
+    - who: Hildegarde Franz
+      start: '00:17:19.512'
+      end: '00:17:19.512'
+      u: Ja, das war sicher. Aber meine Wohnungseinrichtung...da habe ich sehr, sehr
+        viel verloren.
+    - who: David Boder
+      start: '00:17:24.794'
+      end: '00:17:24.794'
+      u: Nun, sagen Sie mal, hatten Sie dann schnell Kontakt mit Ihren...mit Ihren
+        Söhnen, hm? [lacht etwas]
+    - who: Hildegarde Franz
+      start: '00:17:30.411'
+      end: '00:17:30.411'
+      u: Ja, ich hab es durch einen Amerikaner bekommen—Kontakt mit...mit...
+    - who: David Boder
+      start: '00:17:34.297'
+      end: '00:17:34.297'
+      u: Haben Sie telegraphiert oder so?
+    - who: Hildegarde Franz
+      start: '00:17:35.957'
+      end: '00:17:35.957'
+      u: Nein, mein Sohn hat mir erst eine Depesche geschickt, weil ich einen Brief
+        ihm geschrieben hab. Dann bekam ich eine, hm, eine Depesche, wo er sich kolossal
+        gefreut hat, dass ich noch am Leben bin.
+    - who: David Boder
+      start: '00:17:46.863'
+      end: '00:17:46.863'
+      u: Hm.
+    - who: Hildegarde Franz
+      start: '00:17:47.395'
+      end: '00:17:47.395'
+      u: Die haben nicht damit gerechnet, dass ich noch lebe.
+    - who: David Boder
+      start: '00:17:49.739'
+      end: '00:17:49.739'
+      u: Also wann denken Sie, dass Sie fahren?
+    - who: Hildegarde Franz
+      start: '00:17:52.427'
+      end: '00:17:52.427'
+      u: Ich fahr jetzt am vier und zwanzigsten...
+    - who: David Boder
+      start: '00:17:54.255'
+      end: '00:17:54.255'
+      u: Welchen vier und zwanzigsten?
+    - who: Hildegarde Franz
+      start: '00:17:56.240'
+      end: '00:17:56.240'
+      u: ". . . vier und zwanzigsten September mit dem Transport."
+    - who: David Boder
+      start: '00:17:58.136'
+      end: '00:17:58.136'
+      u: Wohin?
+    - who: Hildegarde Franz
+      start: '00:17:58.698'
+      end: '00:17:58.698'
+      u: Nach Bremen.
+    - who: David Boder
+      start: '00:17:59.604'
+      end: '00:17:59.604'
+      u: Oh, und dann geht das Schiff von Bremen?
+    - who: Hildegarde Franz
+      start: '00:18:02.526'
+      end: '00:18:02.526'
+      u: Das Schiff geht von Bremen, ja!
+    - who: David Boder
+      start: '00:18:04.432'
+      end: '00:18:04.432'
+      u: Oh, ja, denn ich dachte, dass Sie vielleicht nach Paris fahren, denn ich
+        fahre am neun und zwanzigsten.
+    - who: Hildegarde Franz
+      start: '00:18:08.729'
+      end: '00:18:08.729'
+      u: Nein, nein.
+    - who: David Boder
+      start: '00:18:09.433'
+      end: '00:18:09.433'
+      u: Auf der Washington?
+    - who: Hildegarde Franz
+      start: '00:18:10.012'
+      end: '00:18:10.012'
+      u: Ja, ja.
+    - who: David Boder
+      start: '00:18:10.778'
+      end: '00:18:10.778'
+      u: Da fahren Sie auf einem militärischen Schiff?
+    - who: Hildegarde Franz
+      start: '00:18:12.184'
+      end: '00:18:12.184'
+      u: Ja, ja, ahm.
+    - who: David Boder
+      start: '00:18:13.059'
+      end: '00:18:13.059'
+      u: Nun das ist eigentlich ein gutes Ende zu einem bösen Spiel.
+    - who: Hildegarde Franz
+      start: '00:18:18.731'
+      end: '00:18:18.731'
+      u: Ja. Ich habe viel, viel gelitten!
+    - who: David Boder
+      start: '00:18:21.324'
+      end: '00:18:21.324'
+      u: Ja, das...das weiß man schon. Das...
+    - who: Hildegarde Franz
+      start: '00:18:23.434'
+      end: '00:18:23.434'
+      u: Ich hab furchtbar gelitten [weint] ich darf gar nicht daran denken, [Pause]...wie
+        schwer ich es gehabt hab.
+    - who: David Boder
+      start: '00:18:32.059'
+      end: '00:18:32.059'
+      u: Wohin gehen Sie? Nach Newark?
+    - who: Hildegarde Franz
+      start: '00:18:33.856'
+      end: '00:18:33.856'
+      u: Zu meinem Sohn.
+    - who: David Boder
+      start: '00:18:34.559'
+      end: '00:18:34.559'
+      u: Ja, nach Newark. Und der Andere—sagen Sie—ist in...
+    - who: Hildegarde Franz
+      start: '00:18:36.871'
+      end: '00:18:36.871'
+      u: Ist in Durango, Colorado, im Staate Colorado.
+    - who: David Boder
+      start: '00:18:39.745'
+      end: '00:18:39.745'
+      u: Ja, es wird Ihnen auch dort gefallen, es ist warm und schön...
+    - who: Hildegarde Franz
+      start: '00:18:42.401'
+      end: '00:18:42.401'
+      u: Die Kinder freuen sich natürlich, [weint]...dass sie eine Mutter noch haben.
+    - who: David Boder
+      start: '00:18:45.479'
+      end: '00:18:45.479'
+      u: Na ja, die sollen sich auch freuen!
+    - who: Hildegarde Franz
+      start: '00:18:47.541'
+      end: '00:18:47.541'
+      u: Es ist furchtbar gewesen, ich kann Ihnen das gar nicht erklären, [flüstert]
+        wie schrecklich das alles war.
+    - who: David Boder
+      start: '00:18:51.385'
+      end: '00:18:51.385'
+      u: Hm.
+    - who: Hildegarde Franz
+      start: '00:18:53.448'
+      end: '00:18:53.448'
+      u: Ich bin...mit siebzig Pfund bin ich zurück gekommen
+    - who: David Boder
+      start: '00:18:58.010'
+      end: '00:18:58.010'
+      u: Wieviel haben Sie gewogen?
+    - who: Hildegarde Franz
+      start: '00:19:00.131'
+      end: '00:19:00.131'
+      u: Ich habe fünfzig Pfund zu...
+    - who: David Boder
+      start: '00:19:00.884'
+      end: '00:19:00.884'
+      u: Wieviel wiegen Sie jetzt?
+    - who: Hildegarde Franz
+      start: '00:19:02.057'
+      end: '00:19:02.057'
+      u: Jetzt werde ich ungefähr mein altes Gewicht haben.
+    - who: David Boder
+      start: '00:19:04.057'
+      end: '00:19:04.057'
+      u: Wieviel?
+    - who: Hildegarde Franz
+      start: '00:19:04.620'
+      end: '00:19:04.620'
+      u: Zwischen einhundert fünfzehn und einhundert zwanzig Pfund, aber wie ich von
+        Theresienstadt zurück gekommen bin, habe ich nur 70 Pfund gewogen.
+    - who: David Boder
+      start: '00:19:09.849'
+      end: '00:19:09.849'
+      u: Sagen Sie mal, waren in Theresienstadt welche Selektionen, dass man Leute
+        weg geschickt hat von dort?
+    - who: Hildegarde Franz
+      start: '00:19:14.835'
+      end: '00:19:14.835'
+      u: Hm, ja, Transporte meinen Sie?
+    - who: David Boder
+      start: '00:19:16.663'
+      end: '00:19:16.663'
+      u: Ja, von Theresienstadt.
+    - who: Hildegarde Franz
+      start: '00:19:17.991'
+      end: '00:19:17.991'
+      u: Ohhhhh, Gott im Himmel!
+    - who: David Boder
+      start: '00:19:19.679'
+      end: '00:19:19.679'
+      u: Erzählen Sie uns davon.
+    - who: Hildegarde Franz
+      start: '00:19:20.866'
+      end: '00:19:20.866'
+      u: Also, in meinem, wie ich...da hat man viele, viele Menschen nach Polen geschickt.
+    - who: David Boder
+      start: '00:19:26.397'
+      end: '00:19:26.397'
+      u: Aus welchem Grund, wie hat man die gewählt?
+    - who: Hildegarde Franz
+      start: '00:19:29.038'
+      end: '00:19:29.038'
+      u: Einfach, die sind einfach...die Transportabteilung, da sind viele Menschen,
+        die sind mit dem Transport alle nach Polen gegangen—teils nach Auschwitz,
+        teils nach Belsen-Bergen. Nach, nach, na, [unverständlich; murmelt]...na,
+        wie die ganzen KZ Lager da geheißen haben und diese Menschen sind größtenteils
+        alle umgekommen. Dann ist ein Transport—das war der Letzte—im Oktober, da
+        sind achtzehn tausend Menschen von Theresienstadt verschleppt worden.
+    - who: David Boder
+      start: '00:19:52.913'
+      end: '00:19:52.913'
+      u: Achtzehn tausend?
+    - who: Hildegarde Franz
+      start: '00:19:55.444'
+      end: '00:19:55.444'
+      u: Achtzehn tausend Menschen sind von Theresienstadt verschleppt worden nach
+        Polen.
+    - who: David Boder
+      start: '00:19:59.288'
+      end: '00:19:59.288'
+      u: Wie haben sie diese gewählt? Sind welche Reichsdeutsche darunter—unter Denen
+        gewesen?
+    - who: Hildegarde Franz
+      start: '00:20:03.466'
+      end: '00:20:03.466'
+      u: Deutsche...und alle mögliche...alle möglichen Nationen.
+    - who: David Boder
+      start: '00:20:06.763'
+      end: '00:20:06.763'
+      u: Und wie ist es Ihnen gelungen dort zu bleiben?
+    - who: Hildegarde Franz
+      start: '00:20:08.966'
+      end: '00:20:08.966'
+      u: Wo? Ich?
+    - who: David Boder
+      start: '00:20:10.872'
+      end: '00:20:10.872'
+      u: In Theresienstadt, ja.
+    - who: Hildegarde Franz
+      start: '00:20:11.731'
+      end: '00:20:11.731'
+      u: In Theresienstadt. Das weiß ich nicht—ich bin halt nicht darunter gewesen.
+    - who: David Boder
+      start: '00:20:14.387'
+      end: '00:20:14.387'
+      u: Was?
+    - who: Hildegarde Franz
+      start: '00:20:14.981'
+      end: '00:20:14.981'
+      u: Ich war halt nicht drunter. Ich bin nicht dazu gekommen...
+    - who: David Boder
+      start: '00:20:17.690'
+      end: '00:20:17.690'
+      u: Sie haben Glück gehabt!
+    - who: Hildegarde Franz
+      start: '00:20:18.628'
+      end: '00:20:18.628'
+      u: Ich hab Glück gehabt!
+    - who: David Boder
+      start: '00:20:19.597'
+      end: '00:20:19.597'
+      u: Welche von ihren Transporten von...die mit Ihnen, die von Nürnberg weg gegangen
+        sind?
+    - who: Hildegarde Franz
+      start: '00:20:26.113'
+      end: '00:20:26.113'
+      u: Wurden mit nach Polen geschickt, ja, nach Auschwitz.
+    - who: David Boder
+      start: '00:20:29.144'
+      end: '00:20:29.144'
+      u: Aha.
+    - who: Hildegarde Franz
+      start: '00:20:29.909'
+      end: '00:20:29.909'
+      u: Und von diesen ist eine Einzige zurück gekommen. Es war noch ein jüngerer
+        Mensch, die Anderen sind alle umgekommen.
+    - who: David Boder
+      start: '00:20:36.737'
+      end: '00:20:36.737'
+      u: "[In English] There is a correction: four people from her transport were
+        sent to Poland, and one returned of these four, a younger person."
+    - who: David Boder
+      start: '00:20:54.319'
+      end: 
+      u: This concludes the interview with Miss Hildegarde— [correction] with Mrs.
+        Hildegarde Franz, age seventy-five, born in Nuremberg, or who lived in Nuremberg
+        in a mixed marriage with a Christian husband, and who after his death was
+        sent to Theresienstadt. She is now in the UNRRA camp at Funkenkasernen in
+        Munich. And the 24th of this month—that means in four days—Bremen, and from
+        Bremen sailing to the United States to her son in Newark, and to the other
+        one in Colorado. This concludes the interview with Miss [Mrs.] Hildegarde
+        Franz at twenty minutes of the spool. An Illinois Institute of Technology
+        wire recording.
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:00.633'
+      end: '00:00:00.633'
+      u: "[In English] München, September the 20th, 1946, at Funkenkasernen, a camp
+        for transient displaced people [such who are ready to leave for overseas in
+        the more or less near future]. I have here before me Mrs. Hildegarde Franz
+        who is expecting to go to the United States."
+    - who: David Boder
+      start: '00:00:17.182'
+      end: '00:00:17.182'
+      u: "[In German] Now, Mrs. Franz, please turn around, make yourself comfortable.
+        You will be warm. Take off your coat. [Speak] in this direction. Right?"
+    - who: Hildegarde Franz
+      start: '00:00:23.337'
+      end: '00:00:23.337'
+      u: Yes.
+    - who: David Boder
+      start: '00:00:24.087'
+      end: '00:00:24.087'
+      u: Now, Mrs. Franz, will you tell me again, what is your full name?
+    - who: Hildegarde Franz
+      start: '00:00:28.118'
+      end: '00:00:28.118'
+      u: Hildegarde Franz.
+    - who: David Boder
+      start: '00:00:29.228'
+      end: '00:00:29.228'
+      u: How old are you, if one may know?
+    - who: Hildegarde Franz
+      start: '00:00:30.916'
+      end: '00:00:30.916'
+      u: Seventy-five years old.
+    - who: David Boder
+      start: '00:00:32.354'
+      end: '00:00:32.354'
+      u: "[surprised] No-o-o!"
+    - who: Hildegarde Franz
+      start: '00:00:33.541'
+      end: '00:00:33.541'
+      u: Yes.
+    - who: David Boder
+      start: '00:00:34.197'
+      end: '00:00:34.197'
+      u: That is impossible. You look so young [and that was indeed so].
+    - who: Hildegarde Franz
+      start: '00:00:40.001'
+      end: '00:00:40.001'
+      u: Yes. I am.
+    - who: David Boder
+      start: '00:00:41.219'
+      end: '00:00:41.219'
+      u: You are seventy-five years old?
+    - who: Hildegarde Franz
+      start: '00:00:42.688'
+      end: '00:00:42.688'
+      u: "[in a soft, fading voice] Yes, yes, yes, yes."
+    - who: David Boder
+      start: '00:00:43.798'
+      end: '00:00:43.798'
+      u: Now then, Mrs. Franz, will you be so kind and tell me where you were when
+        the war started?
+    - who: Hildegarde Franz
+      start: '00:00:51.766'
+      end: '00:00:51.766'
+      u: My...
+    - who: David Boder
+      start: '00:00:52.704'
+      end: '00:00:52.704'
+      u: And then what happened to you afterwards until now.
+    - who: Hildegarde Franz
+      start: '00:00:59.422'
+      end: '00:00:59.422'
+      u: I was in Nuremberg. With my sons and my husband we were working with my relatives
+        at Schloss Ardien [?] near Nuremberg, in a "ready to wear" [business].
+    - who: David Boder
+      start: '00:01:13.127'
+      end: '00:01:13.127'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:01:13.638'
+      end: '00:01:13.638'
+      u: And in the '34 we were compelled to sell the business since we were Jews,
+        no?
+    - who: David Boder
+      start: '00:01:19.927'
+      end: '00:01:19.927'
+      u: Already so far back, '34?
+    - who: Hildegarde Franz
+      start: '00:01:21.842'
+      end: '00:01:21.842'
+      u: "'34."
+    - who: David Boder
+      start: '00:01:23.123'
+      end: '00:01:23.123'
+      u: Now, Hitler was elected when?
+    - who: Hildegarde Franz
+      start: '00:01:24.670'
+      end: '00:01:24.670'
+      u: In '33.
+    - who: David Boder
+      start: '00:01:25.358'
+      end: '00:01:25.358'
+      u: Yes, if one figures that way. He came to power in '33.
+    - who: Hildegarde Franz
+      start: '00:01:28.264'
+      end: '00:01:28.264'
+      u: Yes, yes.
+    - who: David Boder
+      start: '00:01:28.920'
+      end: '00:01:28.920'
+      u: And in '34 you were compelled...
+    - who: Hildegarde Franz
+      start: '00:01:30.623'
+      end: '00:01:30.623'
+      u: We were compelled to sell our business for certain reasons, because our employees
+        were completely of National Socialist [Nazi] orientation and reported every
+        customer who purchased from us to the Braunhaus [Nazi headquarters], so that
+        the people...
+    - who: David Boder
+      start: '00:01:50.026'
+      end: '00:01:50.026'
+      u: Withdrew? [German word order does not permit verbatim translation of this
+        sentence].
+    - who: Hildegarde Franz
+      start: '00:01:50.728'
+      end: '00:01:50.728'
+      u: ". . . withdrew their patronage. They were afraid to buy from us."
+    - who: David Boder
+      start: '00:01:53.538'
+      end: '00:01:53.538'
+      u: What kind of a business did you say it was?
+    - who: Hildegarde Franz
+      start: '00:01:54.940'
+      end: '00:01:54.940'
+      u: '"Ready-to-wear" for ladies. A very large business of ladies'' "ready-to-wear".'
+    - who: David Boder
+      start: '00:01:58.860'
+      end: '00:01:58.860'
+      u: A "ready-to-wear" establishment. Did you yourselves also manufacture the
+        dresses?
+    - who: Hildegarde Franz
+      start: '00:02:03.307'
+      end: '00:02:03.307'
+      u: No, no, not that.
+    - who: David Boder
+      start: '00:02:04.573'
+      end: '00:02:04.573'
+      u: You simply purchased them from the manufacturer...
+    - who: Hildegarde Franz
+      start: '00:02:06.354'
+      end: '00:02:06.354'
+      u: Purchased.
+    - who: David Boder
+      start: '00:02:06.854'
+      end: '00:02:06.854'
+      u: ". . . and then sold them ready-made."
+    - who: Hildegarde Franz
+      start: '00:02:08.229'
+      end: '00:02:08.229'
+      u: Sold.
+    - who: David Boder
+      start: '00:02:08.667'
+      end: '00:02:08.667'
+      u: And that was in Heidelberg?
+    - who: Hildegarde Franz
+      start: '00:02:09.714'
+      end: '00:02:09.714'
+      u: That was in Nuremberg.
+    - who: David Boder
+      start: '00:02:11.167'
+      end: '00:02:11.167'
+      u: In Nuremberg, excuse me.
+    - who: Hildegarde Franz
+      start: '00:02:12.151'
+      end: '00:02:12.151'
+      u: Of course.
+    - who: David Boder
+      start: '00:02:12.760'
+      end: '00:02:12.760'
+      u: That is exactly there where now the trial takes place of the...
+    - who: Hildegarde Franz
+      start: '00:02:17.533'
+      end: '00:02:17.533'
+      u: Yes, yes.
+    - who: David Boder
+      start: '00:02:18.220'
+      end: '00:02:18.220'
+      u: ". . . of the Nazis."
+    - who: Hildegarde Franz
+      start: '00:02:18.721'
+      end: '00:02:18.721'
+      u: Yes, yes. And so...
+    - who: David Boder
+      start: '00:02:19.659'
+      end: '00:02:19.659'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:02:20.050'
+      end: '00:02:20.050'
+      u: ". . . then my husband...Ours was a mixed marriage. It was...So my husband
+        wanted..."
+    - who: David Boder
+      start: '00:02:24.372'
+      end: '00:02:24.372'
+      u: Your husband was a Christian?
+    - who: Hildegarde Franz
+      start: '00:02:25.653'
+      end: '00:02:25.653'
+      u: Yes. Because I was a Jewess, my husband with my sons had to be discharged,
+        simply put out on the street, so to speak. No?
+    - who: David Boder
+      start: '00:02:32.734'
+      end: '00:02:32.734'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:02:33.734'
+      end: '00:02:33.734'
+      u: Nu, yes. The sons then emigrated to America.
+    - who: David Boder
+      start: '00:02:39.093'
+      end: '00:02:39.093'
+      u: Oh, in 1934 your sons still had a chance to emigrate to America?
+    - who: Hildegarde Franz
+      start: '00:02:42.749'
+      end: '00:02:42.749'
+      u: Yes, yes.
+    - who: David Boder
+      start: '00:02:43.812'
+      end: '00:02:43.812'
+      u: Who sent them the affidavits?
+    - who: Hildegarde Franz
+      start: '00:02:44.906'
+      end: '00:02:44.906'
+      u: My son happened to meet a gentleman at...
+    - who: David Boder
+      start: '00:02:48.531'
+      end: '00:02:48.531'
+      u: You, you have no relatives [in the United States], so they were...
+    - who: Hildegarde Franz
+      start: '00:02:50.329'
+      end: '00:02:50.329'
+      u: ". . . the Leipzig Fair.She refers to the Leipzig Trade Fair, a major European
+        trade fair which began in the Middle Ages and still continues today.1 He provided
+        for my son a contact with America."
+    - who: David Boder
+      start: '00:02:54.407'
+      end: '00:02:54.407'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:02:55.172'
+      end: '00:02:55.172'
+      u: And he remained there [where?] for a year, and from there [?] he...
+    - who: David Boder
+      start: '00:02:58.297'
+      end: '00:02:58.297'
+      u: To...
+    - who: Hildegarde Franz
+      start: '00:02:58.828'
+      end: '00:02:58.828'
+      u: ". . . he got his..."
+    - who: David Boder
+      start: '00:03:00.328'
+      end: '00:03:00.328'
+      u: Affidavit.
+    - who: Hildegarde Franz
+      start: '00:03:01.406'
+      end: '00:03:01.406'
+      u: ". . . his entrance [permit]..."
+    - who: David Boder
+      start: '00:03:03.052'
+      end: '00:03:03.052'
+      u: To America.
+    - who: Hildegarde Franz
+      start: '00:03:03.630'
+      end: '00:03:03.630'
+      u: ". . . was obtained. Since then he is in America with one and the same firm,
+        since ten years ago, since ten years ago with the same firm."
+    - who: David Boder
+      start: '00:03:08.797'
+      end: '00:03:08.797'
+      u: With the same firm, yes.
+    - who: Hildegarde Franz
+      start: '00:03:10.438'
+      end: '00:03:10.438'
+      u: Employed by Kresge.
+    - who: David Boder
+      start: '00:03:12.906'
+      end: '00:03:12.906'
+      u: Kresge?
+    - who: Hildegarde Franz
+      start: '00:03:13.671'
+      end: '00:03:13.671'
+      u: Kresge, yes.
+    - who: David Boder
+      start: '00:03:14.733'
+      end: '00:03:14.733'
+      u: What is that, the five-and-ten firm. Or...
+    - who: Hildegarde Franz
+      start: '00:03:17.139'
+      end: '00:03:17.139'
+      u: A very large firm.
+    - who: David Boder
+      start: '00:03:18.435'
+      end: '00:03:18.435'
+      u: That very large five-and-ten [firm?]
+    - who: Hildegarde Franz
+      start: '00:03:19.413'
+      end: '00:03:19.413'
+      u: Employed already for ten years.
+    - who: David Boder
+      start: '00:03:21.173'
+      end: '00:03:21.173'
+      u: Yes. Yes. Now that means one son is there.
+    - who: Hildegarde Franz
+      start: '00:03:23.125'
+      end: '00:03:23.125'
+      u: Yes.
+    - who: David Boder
+      start: '00:03:23.812'
+      end: '00:03:23.812'
+      u: And do you have any more in America?
+    - who: Hildegarde Franz
+      start: '00:03:25.108'
+      end: '00:03:25.108'
+      u: One son is in the state of Colorado. Yes, Colorado.
+    - who: David Boder
+      start: '00:03:29.608'
+      end: '00:03:29.608'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:03:30.248'
+      end: '00:03:30.248'
+      u: In Durango. And for six years he holds the same position.
+    - who: David Boder
+      start: '00:03:34.451'
+      end: '00:03:34.451'
+      u: Aha. Are they married there?
+    - who: Hildegarde Franz
+      start: '00:03:36.608'
+      end: '00:03:36.608'
+      u: One of my sons is married.
+    - who: David Boder
+      start: '00:03:38.640'
+      end: '00:03:38.640'
+      u: He did not take his wife with him?
+    - who: Hildegarde Franz
+      start: '00:03:39.890'
+      end: '00:03:39.890'
+      u: Yes. His wife is there.
+    - who: David Boder
+      start: '00:03:41.344'
+      end: '00:03:41.344'
+      u: He took her with him from here?
+    - who: Hildegarde Franz
+      start: '00:03:43.640'
+      end: '00:03:43.640'
+      u: "[words not clear; they speak simultaneously] No. He got married in America."
+    - who: David Boder
+      start: '00:03:44.314'
+      end: '00:03:44.314'
+      u: He got married in America.
+    - who: Hildegarde Franz
+      start: '00:03:45.923'
+      end: '00:03:45.923'
+      u: Yes.
+    - who: David Boder
+      start: '00:03:46.360'
+      end: '00:03:46.360'
+      u: Now with whom then are you here, Mrs. Franz?
+    - who: Hildegarde Franz
+      start: '00:03:48.907'
+      end: '00:03:48.907'
+      u: I am all alone.
+    - who: David Boder
+      start: '00:03:50.141'
+      end: '00:03:50.141'
+      u: What happened to your husband?
+    - who: Hildegarde Franz
+      start: '00:03:52.000'
+      end: '00:03:52.000'
+      u: My husband died.
+    - who: David Boder
+      start: '00:03:53.360'
+      end: '00:03:53.360'
+      u: When?
+    - who: Hildegarde Franz
+      start: '00:03:53.829'
+      end: '00:03:53.829'
+      u: My husband was very, very ill due to all these harassments and the hardships
+        that we endured. Then my husband became very, very ill, true [you see?]?
+    - who: David Boder
+      start: '00:04:05.610'
+      end: '00:04:05.610'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:04:06.188'
+      end: '00:04:06.188'
+      u: And due to the air raids...
+    - who: David Boder
+      start: '00:04:08.766'
+      end: '00:04:08.766'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:04:09.328'
+      end: '00:04:09.328'
+      u: ". . . which we lived through. It was afterwards, so [that] I for nearly
+        a full half-year hardly got out of my clothes, only in order to help my sick
+        husband, when the [air] attacks would start, so that I could take him to the
+        cellar. For a full half-year I did not take off my clothes."
+    - who: David Boder
+      start: '00:04:24.273'
+      end: '00:04:24.273'
+      u: Where were you during all that time?
+    - who: Hildegarde Franz
+      start: '00:04:25.335'
+      end: '00:04:25.335'
+      u: In Nuremberg, in Nuremberg.
+    - who: David Boder
+      start: '00:04:26.616'
+      end: '00:04:26.616'
+      u: In Nuremberg.
+    - who: Hildegarde Franz
+      start: '00:04:27.319'
+      end: '00:04:27.319'
+      u: Yes. Then in '43 I was...
+    - who: David Boder
+      start: '00:04:29.203'
+      end: '00:04:29.203'
+      u: Now one moment [apparently adjustment of the equipment]. Now go on. What
+        happened then in '43?
+    - who: Hildegarde Franz
+      start: '00:04:34.234'
+      end: '00:04:34.234'
+      u: Now in '43 it was...when it [the war] became so frightful, I went with my
+        husband for a few weeks to the country. There he became very, very sick. I
+        had [to provide for] an operation. I had to return him to Nuremberg in order
+        to submit him to an operation.
+    - who: David Boder
+      start: '00:04:48.268'
+      end: '00:04:48.268'
+      u: Now your husband was a Christian?
+    - who: Hildegarde Franz
+      start: '00:04:50.242'
+      end: '00:04:50.242'
+      u: Yes, and...
+    - who: David Boder
+      start: '00:04:50.804'
+      end: '00:04:50.804'
+      u: He was a German?
+    - who: Hildegarde Franz
+      start: '00:04:51.554'
+      end: '00:04:51.554'
+      u: He was German. And then he died in Nuremberg.
+    - who: David Boder
+      start: '00:04:53.655'
+      end: '00:04:53.655'
+      u: And he died in Nuremberg.
+    - who: Hildegarde Franz
+      start: '00:04:54.967'
+      end: '00:04:54.967'
+      u: In 40—...on the 19th of October, '43, my husband died, and on the 17th of
+        January, '44, I was, within two days, from my apartment remo—...[she weeps
+        silently]
+    - who: David Boder
+      start: '00:05:08.076'
+      end: '00:05:08.076'
+      u: What do you mean by "within two days"?
+    - who: Hildegarde Franz
+      start: '00:05:10.591'
+      end: '00:05:10.591'
+      u: "[choking with tears] I had to vacate my apartment and was moved to the KZ,
+        where...horribly...[she cries bitterly] Let me take hold of myself a bit.
+        [Pause.] At the age of seventy-three, after two months I was dragged away
+        to Theresienstadt."
+    - who: David Boder
+      start: '00:05:32.004'
+      end: '00:05:32.004'
+      u: Now well, what did they say? Why?
+    - who: Hildegarde Franz
+      start: '00:05:34.439'
+      end: '00:05:34.439'
+      u: Just nothing. I am a Jewess.
+    - who: David Boder
+      start: '00:05:36.501'
+      end: '00:05:36.501'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:05:37.048'
+      end: '00:05:37.048'
+      u: So I was...was simply dragged off.
+    - who: David Boder
+      start: '00:05:39.610'
+      end: '00:05:39.610'
+      u: Now tell me. You say they gave you two days to liquidate your apartment.
+    - who: Hildegarde Franz
+      start: '00:05:43.655'
+      end: '00:05:43.655'
+      u: They wanted...yes. I could not move any more from the apartment. I was compelled
+        to leave everything as it stood and lay. No? [in a fading voice] I was simply...
+    - who: David Boder
+      start: '00:05:50.250'
+      end: '00:05:50.250'
+      u: "[whispers] A bit louder."
+    - who: Hildegarde Franz
+      start: '00:05:50.922'
+      end: '00:05:50.922'
+      u: "[in full voice] I was simply dragged away to Theresienstadt."
+    - who: David Boder
+      start: '00:05:54.511'
+      end: '00:05:54.511'
+      u: Now tell me, how many people went with you to Theresienstadt?
+    - who: Hildegarde Franz
+      start: '00:05:58.167'
+      end: '00:05:58.167'
+      u: With my transport...
+    - who: David Boder
+      start: '00:06:00.354'
+      end: '00:06:00.354'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:06:00.839'
+      end: '00:06:00.839'
+      u: ". . . went fifteen people."
+    - who: David Boder
+      start: '00:06:02.761'
+      end: '00:06:02.761'
+      u: And how were you transported to Theresienstadt?
+    - who: Hildegarde Franz
+      start: '00:06:04.979'
+      end: '00:06:04.979'
+      u: We were [sent] to Theresienstadt by train under guard, that is under the
+        SA [Sturmabteilung, also sometimes known as Brown Shirts or Storm Troopers]...
+    - who: David Boder
+      start: '00:06:10.967'
+      end: '00:06:10.967'
+      u: From...
+    - who: Hildegarde Franz
+      start: '00:06:11.561'
+      end: '00:06:11.561'
+      u: ". . . of the Gestapo."
+    - who: David Boder
+      start: '00:06:12.718'
+      end: '00:06:12.718'
+      u: Was that a passenger RR-car?
+    - who: Hildegarde Franz
+      start: '00:06:14.453'
+      end: '00:06:14.453'
+      u: It was a third class RR-car [an ordinary passenger car, normally decent transportation].
+    - who: David Boder
+      start: '00:06:16.968'
+      end: '00:06:16.968'
+      u: A third class RR-car?
+    - who: Hildegarde Franz
+      start: '00:06:17.468'
+      end: '00:06:17.468'
+      u: Yes.
+    - who: David Boder
+      start: '00:06:17.952'
+      end: '00:06:17.952'
+      u: Who were the other people with you?
+    - who: Hildegarde Franz
+      start: '00:06:19.749'
+      end: '00:06:19.749'
+      u: There was a Mr. Kaufman, a...also a [Mrs.] Dessauer—he, too, had died [her
+        husband]—Dessauer, Kaufman, a Mr. Krengel, a Frau Dr. Rodmar [?]...
+    - who: David Boder
+      start: '00:06:32.053'
+      end: '00:06:32.053'
+      u: "[whispers] A bit louder."
+    - who: Hildegarde Franz
+      start: '00:06:32.912'
+      end: '00:06:32.912'
+      u: A Frau Dr. Rodmar, a...
+    - who: David Boder
+      start: '00:06:35.819'
+      end: '00:06:35.819'
+      u: Now well, I mean what kind of people were they that they had remained in
+        Nuremberg so long in the first place?
+    - who: Hildegarde Franz
+      start: '00:06:41.511'
+      end: '00:06:41.511'
+      u: They all were of mixed marriages.
+    - who: David Boder
+      start: '00:06:44.433'
+      end: '00:06:44.433'
+      u: Oh, they were people of mixed marriages [Jew-Christian].
+    - who: Hildegarde Franz
+      start: '00:06:46.933'
+      end: '00:06:46.933'
+      u: Yes, and they were all in '3...[correction] '44 dragged away to Theresienstadt.
+    - who: David Boder
+      start: '00:06:51.886'
+      end: '00:06:51.886'
+      u: But of these mixed marriages they took only the Jewish half?
+    - who: Hildegarde Franz
+      start: '00:06:55.605'
+      end: '00:06:55.605'
+      u: Yes, yes.
+    - who: David Boder
+      start: '00:06:56.198'
+      end: '00:06:56.198'
+      u: The Jewish half of the mixed marriages.
+    - who: Hildegarde Franz
+      start: '00:06:58.448'
+      end: '00:06:58.448'
+      u: The Jewish half of the mixed marriages, yes, yes.
+    - who: David Boder
+      start: '00:06:59.760'
+      end: '00:06:59.760'
+      u: These were then [possibly after the death of the Christian half] sent away
+        to Theresienstadt.
+    - who: Hildegarde Franz
+      start: '00:07:01.088'
+      end: '00:07:01.088'
+      u: Only the Jews.
+    - who: David Boder
+      start: '00:07:01.541'
+      end: '00:07:01.541'
+      u: Now tell me, how did you find Theresienstadt at that time? [See Mr. Schlaefrig,
+        Chapter 26.]Boder's note refers to the interview with Friedrich Schläfrig,
+        conducted on August 23, 1946 in Paris, France. Schläfrig was also imprisoned
+        in the ghetto for older adults at Theresienstadt.2
+    - who: Hildegarde Franz
+      start: '00:07:04.791'
+      end: '00:07:04.791'
+      u: Well, we have Theresienstadt...we were...
+    - who: David Boder
+      start: '00:07:06.337'
+      end: '00:07:06.337'
+      u: There were various periods in Theresienstadt.
+    - who: Hildegarde Franz
+      start: '00:07:07.916'
+      end: '00:07:07.916'
+      u: Yes.
+    - who: David Boder
+      start: '00:07:09.244'
+      end: '00:07:09.244'
+      u: Now then, where, what kind of a place [accommodations] was assigned to you?
+        Where...
+    - who: Hildegarde Franz
+      start: '00:07:12.295'
+      end: '00:07:12.295'
+      u: They assigned to us an attic.
+    - who: David Boder
+      start: '00:07:15.357'
+      end: '00:07:15.357'
+      u: An attic? Of a building?
+    - who: Hildegarde Franz
+      start: '00:07:17.091'
+      end: '00:07:17.091'
+      u: Of a building, where we had to live...sleep and live. And...
+    - who: David Boder
+      start: '00:07:20.653'
+      end: '00:07:20.653'
+      u: And who lived below?
+    - who: Hildegarde Franz
+      start: '00:07:21.840'
+      end: '00:07:21.840'
+      u: Below was a Siechenheim where sick people were lying. [The interviewer did
+        not get the word "Siechenhiem." It sounded somewhat like "Ziegenheim," goat
+        home, hence the confusion below.]
+    - who: David Boder
+      start: '00:07:28.101'
+      end: '00:07:28.101'
+      u: What kind of a home?
+    - who: Hildegarde Franz
+      start: '00:07:28.835'
+      end: '00:07:28.835'
+      u: Siechenheim, where only sick [people] were lying.
+    - who: David Boder
+      start: '00:07:30.820'
+      end: '00:07:30.820'
+      u: Why is it called Ziegenheim?
+    - who: Hildegarde Franz
+      start: '00:07:32.554'
+      end: '00:07:32.554'
+      u: That's what they called it. I don't know.
+    - who: David Boder
+      start: '00:07:34.101'
+      end: '00:07:34.101'
+      u: Aha. How do you spell it?
+    - who: Hildegarde Franz
+      start: '00:07:36.726'
+      end: '00:07:36.726'
+      u: S...S-I-E-C-H...
+    - who: David Boder
+      start: '00:07:39.451'
+      end: '00:07:39.451'
+      u: S?
+    - who: Hildegarde Franz
+      start: '00:07:40.014'
+      end: '00:07:40.014'
+      u: Siechen. S-I-E-C-H-E-N-H-E-I-M. Siechenheim.
+    - who: David Boder
+      start: '00:07:44.150'
+      end: '00:07:44.150'
+      u: Siechenhiem [the word "Siech" meaning chronic, incurable, or incapacitating
+        illness].
+    - who: Hildegarde Franz
+      start: '00:07:45.275'
+      end: '00:07:45.275'
+      u: Yes.
+    - who: David Boder
+      start: '00:07:45.822'
+      end: '00:07:45.822'
+      u: Yes. And you lived there upstairs...
+    - who: Hildegarde Franz
+      start: '00:07:47.620'
+      end: '00:07:47.620'
+      u: Upstairs.
+    - who: David Boder
+      start: '00:07:48.417'
+      end: '00:07:48.417'
+      u: ". . . Above that home for the incurables [Siechenheim]."
+    - who: Hildegarde Franz
+      start: '00:07:49.334'
+      end: '00:07:49.334'
+      u: We lived...
+    - who: David Boder
+      start: '00:07:50.761'
+      end: '00:07:50.761'
+      u: Now how many people were you in one room?
+    - who: Hildegarde Franz
+      start: '00:07:52.464'
+      end: '00:07:52.464'
+      u: About thirty-five people were lodged in that attic.
+    - who: David Boder
+      start: '00:07:56.464'
+      end: '00:07:56.464'
+      u: Only women?
+    - who: Hildegarde Franz
+      start: '00:07:58.370'
+      end: '00:07:58.370'
+      u: Only...[correction] women and men. Everybody together.
+    - who: David Boder
+      start: '00:08:00.365'
+      end: '00:08:00.365'
+      u: In the same room?
+    - who: Hildegarde Franz
+      start: '00:08:01.349'
+      end: '00:08:01.349'
+      u: Everything in the same room.
+    - who: David Boder
+      start: '00:08:02.442'
+      end: '00:08:02.442'
+      u: So how did you sleep there?
+    - who: Hildegarde Franz
+      start: '00:08:03.692'
+      end: '00:08:03.692'
+      u: Now, well, we slept in a kind of box with a paillasse [sack of straw].
+    - who: David Boder
+      start: '00:08:07.155'
+      end: '00:08:07.155'
+      u: Aha. For each one separately? A bed for each one, so to speak?
+    - who: Hildegarde Franz
+      start: '00:08:10.653'
+      end: '00:08:10.653'
+      u: A bed, yes.
+    - who: David Boder
+      start: '00:08:11.668'
+      end: '00:08:11.668'
+      u: With a paillasse.
+    - who: Hildegarde Franz
+      start: '00:08:12.621'
+      end: '00:08:12.621'
+      u: Paillasse, yes.
+    - who: David Boder
+      start: '00:08:13.636'
+      end: '00:08:13.636'
+      u: Now what kind of things did you take with you?
+    - who: Hildegarde Franz
+      start: '00:08:15.479'
+      end: '00:08:15.479'
+      u: A little...I was permitted to take with me only the most indispensable. A
+        coffer with clothes, which I had been using at the time, a little underwear,
+        a blanket and a pillow.
+    - who: David Boder
+      start: '00:08:27.327'
+      end: '00:08:27.327'
+      u: Aha. And that they let you keep in Theresienstadt?
+    - who: Hildegarde Franz
+      start: '00:08:30.093'
+      end: '00:08:30.093'
+      u: I was allowed to keep it. But many...I happened to be lucky, but from many
+        it was stolen, so that they had nothing. They...
+    - who: David Boder
+      start: '00:08:37.235'
+      end: '00:08:37.235'
+      u: So. And tell me, how was it afterwards in Theresienstadt?
+    - who: Hildegarde Franz
+      start: '00:08:43.800'
+      end: '00:08:43.800'
+      u: Nu, yes...
+    - who: David Boder
+      start: '00:08:44.641'
+      end: '00:08:44.641'
+      u: How long were you there, and...
+    - who: Hildegarde Franz
+      start: '00:08:45.437'
+      end: '00:08:45.437'
+      u: A year and a half. Until the liberation by the Russians had come.
+    - who: David Boder
+      start: '00:08:48.922'
+      end: '00:08:48.922'
+      u: Were you well?
+    - who: Hildegarde Franz
+      start: '00:08:50.484'
+      end: '00:08:50.484'
+      u: For seven weeks I lay in the hospital.
+    - who: David Boder
+      start: '00:08:53.574'
+      end: '00:08:53.574'
+      u: In the same Siechenheim?
+    - who: Hildegarde Franz
+      start: '00:08:54.886'
+      end: '00:08:54.886'
+      u: No, no. In a hospital. "The Grand Hotel" it was called.
+    - who: David Boder
+      start: '00:08:58.901'
+      end: '00:08:58.901'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:08:59.619'
+      end: '00:08:59.619'
+      u: And there I lay for seven weeks, because I lost weight so quickly.
+    - who: David Boder
+      start: '00:09:03.522'
+      end: '00:09:03.522'
+      u: Hm.
+    - who: Hildegarde Franz
+      start: '00:09:04.022'
+      end: '00:09:04.022'
+      u: Within three months, four months, I lost forty pounds. That was too much.
+        So all my inner organs, heart and everything, were affected by it. True?
+    - who: David Boder
+      start: '00:09:15.577'
+      end: '00:09:15.577'
+      u: Hm.
+    - who: Hildegarde Franz
+      start: '00:09:16.249'
+      end: '00:09:16.249'
+      u: And so I lay for seven weeks in the hospital.
+    - who: David Boder
+      start: '00:09:17.984'
+      end: '00:09:17.984'
+      u: And what did they do for you?
+    - who: Hildegarde Franz
+      start: '00:09:20.546'
+      end: '00:09:20.546'
+      u: "[weeping] In the hospital? Oh, dear God. How much could they do? I was lying
+        in the hospital. I was treated with [unclear; still in tears]. I was discharged
+        too early, because this hospital was really used only for people sick of the
+        lungs."
+    - who: David Boder
+      start: '00:09:34.155'
+      end: '00:09:34.155'
+      u: Aha.
+    - who: Hildegarde Franz
+      start: '00:09:34.827'
+      end: '00:09:34.827'
+      u: And so I was returned to my attic.
+    - who: David Boder
+      start: '00:09:37.526'
+      end: '00:09:37.526'
+      u: Who were the physicians in this hospital?
+    - who: Hildegarde Franz
+      start: '00:09:39.651'
+      end: '00:09:39.651'
+      u: That was a Dr. Guttman.
+    - who: David Boder
+      start: '00:09:42.557'
+      end: '00:09:42.557'
+      u: Were they Jewish physicians?
+    - who: Hildegarde Franz
+      start: '00:09:44.291'
+      end: '00:09:44.291'
+      u: They were Jewish physicians. There were only Jews there.
+    - who: David Boder
+      start: '00:09:46.276'
+      end: '00:09:46.276'
+      u: Yes, and the...
+    - who: Hildegarde Franz
+      start: '00:09:46.619'
+      end: '00:09:46.619'
+      u: Only Jewish...
+    - who: David Boder
+      start: '00:09:47.291'
+      end: '00:09:47.291'
+      u: Yes, I understand. And the physicians were Jewish, true?
+    - who: Hildegarde Franz
+      start: '00:09:49.710'
+      end: '00:09:49.710'
+      u: They were Jewish, yes.
+    - who: David Boder
+      start: '00:09:51.085'
+      end: '00:09:51.085'
+      u: Now tell me, as time passed and it came nearer to the defeat, did the conditions
+        change a bit in Theresienstadt?
+    - who: Hildegarde Franz
+      start: '00:09:59.767'
+      end: '00:09:59.767'
+      u: No. I mean at the end we did not believe any more in general [she weeps]—how
+        should I say?—to be freed [?]. We were completely cut off from the world.
+        We did not get any news, nothing.
+    - who: David Boder
+      start: '00:10:13.316'
+      end: '00:10:13.316'
+      u: No newspapers, no magazines?
+    - who: Hildegarde Franz
+      start: '00:10:14.801'
+      end: '00:10:14.801'
+      u: Nothing, nothing. No newspapers, no radio, no...not even a letter placed
+        in a package. That too they took away.
+    - who: David Boder
+      start: '00:10:22.763'
+      end: '00:10:22.763'
+      u: Did you get any packages?
+    - who: Hildegarde Franz
+      start: '00:10:24.545'
+      end: '00:10:24.545'
+      u: I...No. Not a single one did I receive.
+    - who: David Boder
+      start: '00:10:26.413'
+      end: '00:10:26.413'
+      u: Why?
+    - who: Hildegarde Franz
+      start: '00:10:26.991'
+      end: '00:10:26.991'
+      u: "[in tears] I got nothing. Nobody sent me anything. [unintelligible]."
+    - who: David Boder
+      start: '00:10:29.913'
+      end: '00:10:29.913'
+      u: Didn't you have any friends left in Heidelberg
+    - who: Hildegarde Franz
+      start: '00:10:32.381'
+      end: '00:10:32.381'
+      u: "[correcting] In Nuremberg."
+    - who: David Boder
+      start: '00:10:33.787'
+      end: '00:10:33.787'
+      u: In Nuremberg, who had remained there?
+    - who: Hildegarde Franz
+      start: '00:10:36.303'
+      end: '00:10:36.303'
+      u: Yes, but I was...none of them sent me anything. I also did not request [demand]
+        anything, because I did not want to embarrass those people. True? Because
+        it was strictly prohibited that the Jews should have anything sent to them.
+    - who: David Boder
+      start: '00:10:49.643'
+      end: '00:10:49.643'
+      u: Now tell me, did you still have any money?
+    - who: Hildegarde Franz
+      start: '00:10:52.721'
+      end: '00:10:52.721'
+      u: In Theresienstadt, no, not a penny.
+    - who: David Boder
+      start: '00:10:54.784'
+      end: '00:10:54.784'
+      u: How come?
+    - who: Hildegarde Franz
+      start: '00:10:55.613'
+      end: '00:10:55.613'
+      u: I was not permitted to take any money.
+    - who: David Boder
+      start: '00:10:57.738'
+      end: '00:10:57.738'
+      u: Oh. Did you have any money in...
+    - who: Hildegarde Franz
+      start: '00:10:59.816'
+      end: '00:10:59.816'
+      u: But in Theresienstadt there was—sorry I don't have it with me—there was a
+        ghetto money [currency].
+    - who: David Boder
+      start: '00:11:04.637'
+      end: '00:11:04.637'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:11:05.324'
+      end: '00:11:05.324'
+      u: True? And...
+    - who: David Boder
+      start: '00:11:06.840'
+      end: '00:11:06.840'
+      u: And who got that?
+    - who: Hildegarde Franz
+      start: '00:11:08.012'
+      end: '00:11:08.012'
+      u: That we got...
+    - who: David Boder
+      start: '00:11:09.215'
+      end: '00:11:09.215'
+      u: For what...
+    - who: Hildegarde Franz
+      start: '00:11:10.450'
+      end: '00:11:10.450'
+      u: ". . . so we could buy something."
+    - who: David Boder
+      start: '00:11:12.278'
+      end: '00:11:12.278'
+      u: Now, did you get that money for nothing, or...
+    - who: Hildegarde Franz
+      start: '00:11:14.747'
+      end: '00:11:14.747'
+      u: We got every month fifty crowns, true?
+    - who: David Boder
+      start: '00:11:17.537'
+      end: '00:11:17.537'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:11:18.115'
+      end: '00:11:18.115'
+      u: Ghetto money.
+    - who: David Boder
+      start: '00:11:18.912'
+      end: '00:11:18.912'
+      u: Yes. With that Moses picture on it?
+    - who: Hildegarde Franz
+      start: '00:11:20.177'
+      end: '00:11:20.177'
+      u: Moses' picture on it. Yes, yes. I have saved [as a curiosity] a few of them.
+    - who: David Boder
+      start: '00:11:23.493'
+      end: '00:11:23.493'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:11:24.493'
+      end: '00:11:24.493'
+      u: We all had to wear the Jewish star, no?
+    - who: David Boder
+      start: '00:11:26.634'
+      end: '00:11:26.634'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:11:27.384'
+      end: '00:11:27.384'
+      u: And we were...Now the food was more [less] than little.
+    - who: David Boder
+      start: '00:11:33.884'
+      end: '00:11:33.884'
+      u: How were you fed? Did you cook there in your quarters or...
+    - who: Hildegarde Franz
+      start: '00:11:37.169'
+      end: '00:11:37.169'
+      u: No. With...we were fed from a [central] kitchen with...
+    - who: David Boder
+      start: '00:11:41.834'
+      end: '00:11:41.834'
+      u: And who fetched the food?
+    - who: Hildegarde Franz
+      start: '00:11:43.387'
+      end: '00:11:43.387'
+      u: That all of us had to get. We had to call for it. We had to fetch the food.
+    - who: David Boder
+      start: '00:11:48.637'
+      end: '00:11:48.637'
+      u: Did you stand in a queue? [She may not have understood the word queue. Maybe
+        it was mispronounced.]
+    - who: Hildegarde Franz
+      start: '00:11:50.527'
+      end: '00:11:50.527'
+      u: No. Just on the street. There were streets.
+    - who: David Boder
+      start: '00:11:52.652'
+      end: '00:11:52.652'
+      u: And so you fetched your food and...Where did you eat it?
+    - who: Hildegarde Franz
+      start: '00:11:55.496'
+      end: '00:11:55.496'
+      u: "[in tears; words not clear]...and we sat down on the bed and ate. A table
+        we didn't know any more. True? There were no tables in our room. Nu, so one
+        had to sit down on his bed."
+    - who: David Boder
+      start: '00:12:08.022'
+      end: '00:12:08.022'
+      u: Yes. So. Did you keep your own bed linen?
+    - who: Hildegarde Franz
+      start: '00:12:12.162'
+      end: '00:12:12.162'
+      u: Yes. I had my own bed linen. These I took with me. And I washed them regularly.
+    - who: David Boder
+      start: '00:12:19.647'
+      end: '00:12:19.647'
+      u: Hm. Did you have enough soap?
+    - who: Hildegarde Franz
+      start: '00:12:21.725'
+      end: '00:12:21.725'
+      u: Soap? [chuckle] What soap? Well, we got some soap paste.
+    - who: David Boder
+      start: '00:12:26.515'
+      end: '00:12:26.515'
+      u: Hm.
+    - who: Hildegarde Franz
+      start: '00:12:27.187'
+      end: '00:12:27.187'
+      u: And of that there was very little.
+    - who: David Boder
+      start: '00:12:28.531'
+      end: '00:12:28.531'
+      u: Yes. And then? Did it not get better towards the end?
+    - who: Hildegarde Franz
+      start: '00:12:32.264'
+      end: '00:12:32.264'
+      u: Oh. There began to come commissions.
+    - who: David Boder
+      start: '00:12:35.060'
+      end: '00:12:35.060'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:12:36.029'
+      end: '00:12:36.029'
+      u: From Sweden and from Switzerland [International Red Cross?].
+    - who: David Boder
+      start: '00:12:37.979'
+      end: '00:12:37.979'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:12:38.745'
+      end: '00:12:38.745'
+      u: And it had to become a bit better for us.
+    - who: David Boder
+      start: '00:12:40.917'
+      end: '00:12:40.917'
+      u: Hm.
+    - who: Hildegarde Franz
+      start: '00:12:41.385'
+      end: '00:12:41.385'
+      u: And everything had...Now what they wanted to show, the Nazis, that they showed,
+        that was put in order. And the rest remained as it was. Then we would get
+        once a bit more food, and when they were gone, the commission, then they deducted
+        it again from us. Then we got less again. No?
+    - who: David Boder
+      start: '00:12:56.421'
+      end: '00:12:56.421'
+      u: So. Yes. Who were the Nazis with whom you had come in contact?
+    - who: Hildegarde Franz
+      start: '00:13:00.374'
+      end: '00:13:00.374'
+      u: We had less contact with the Nazis. It was the Council of the Elders who
+        received the orders from the Nazis, and the Council of the Elders had to execute
+        them.
+    - who: David Boder
+      start: '00:13:12.070'
+      end: '00:13:12.070'
+      u: Do you remember any people from the Council of the Elders?
+    - who: Hildegarde Franz
+      start: '00:13:14.679'
+      end: '00:13:14.679'
+      u: "[recollecting] From the Council of the Elders? I really...Wait please...One—what
+        was his name? I met a Mr. Meier. Otherwise, no one."
+    - who: David Boder
+      start: '00:13:23.571'
+      end: '00:13:23.571'
+      u: No one.
+    - who: Hildegarde Franz
+      start: '00:13:24.055'
+      end: '00:13:24.055'
+      u: Because once I was summoned to the commandant's office where I was confronted
+        with a will which I and my husband had made out in the year '32. And they
+        asked me at the commandant's office [in tears] if that was in the handwriting
+        of my husband, and they told me to declare it void.
+    - who: David Boder
+      start: '00:13:45.377'
+      end: '00:13:45.377'
+      u: Why void it?
+    - who: Hildegarde Franz
+      start: '00:13:46.361'
+      end: '00:13:46.361'
+      u: Well, I don't know. I did not agree to that. I said to myself that I have
+        lived with my husband in a very happy marriage, a forty-three year old happy
+        marriage, and that the family of my husband is sacred to me [a will in their
+        favor should stand]. Thus I explained it to them. That was...
+    - who: David Boder
+      start: '00:14:00.031'
+      end: '00:14:00.031'
+      u: Was that a Jewish group that [told] you...
+    - who: Hildegarde Franz
+      start: '00:14:02.126'
+      end: '00:14:02.126'
+      u: No. These were the...
+    - who: David Boder
+      start: '00:14:03.251'
+      end: '00:14:03.251'
+      u: The S[S]...
+    - who: Hildegarde Franz
+      start: '00:14:04.189'
+      end: '00:14:04.189'
+      u: The S[S]. That was the Gestapo that questioned me. The SS were...
+    - who: David Boder
+      start: '00:14:07.717'
+      end: '00:14:07.717'
+      u: Yes. What was there in the will that was not to their liking?
+    - who: Hildegarde Franz
+      start: '00:14:10.764'
+      end: '00:14:10.764'
+      u: Well, at that time I assigned everything to the name of my husband, no?
+    - who: David Boder
+      start: '00:14:16.202'
+      end: '00:14:16.202'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:14:16.546'
+      end: '00:14:16.546'
+      u: And if I somehow had voided it then they would have taken over everything.
+        No?
+    - who: David Boder
+      start: '00:14:21.744'
+      end: '00:14:21.744'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:14:22.385'
+      end: '00:14:22.385'
+      u: And so there was [?]...
+    - who: David Boder
+      start: '00:14:23.073'
+      end: '00:14:23.073'
+      u: Now what was there to take over?
+    - who: Hildegarde Franz
+      start: '00:14:24.261'
+      end: '00:14:24.261'
+      u: Well, my husband...we had some property. No? And the apartment...
+    - who: David Boder
+      start: '00:14:28.245'
+      end: '00:14:28.245'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:14:28.729'
+      end: '00:14:28.729'
+      u: ". . . and the furniture, everything that there was. And so they were very
+        eagerly after it in order to distribute it among their Nazis. And so they
+        were greatly interested in getting it, but they could not do that, because
+        everything was in the name of my husband [a Christian]. No?"
+    - who: David Boder
+      start: '00:14:42.004'
+      end: '00:14:42.004'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:14:42.598'
+      end: '00:14:42.598'
+      u: And I did not agree to give it up.
+    - who: David Boder
+      start: '00:14:46.741'
+      end: '00:14:46.741'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:14:47.210'
+      end: '00:14:47.210'
+      u: True?
+    - who: David Boder
+      start: '00:14:48.100'
+      end: '00:14:48.100'
+      u: Did they not threaten you?
+    - who: Hildegarde Franz
+      start: '00:14:49.584'
+      end: '00:14:49.584'
+      u: No. I just told them that under no circumstances would I acquiesce to counteract
+        the wishes of my husband, and the will should remain as is.
+    - who: David Boder
+      start: '00:15:03.952'
+      end: '00:15:03.952'
+      u: Yes. Now tell me, Mrs. Franz, how did the liberation come about?
+    - who: Hildegarde Franz
+      start: '00:15:08.720'
+      end: '00:15:08.720'
+      u: Liberation came through the Russians.
+    - who: David Boder
+      start: '00:15:10.829'
+      end: '00:15:10.829'
+      u: How did they come in?
+    - who: Hildegarde Franz
+      start: '00:15:13.219'
+      end: '00:15:13.219'
+      u: That was the 8th, 9th of May. The 8th or 9th of May they came.
+    - who: David Boder
+      start: '00:15:15.551'
+      end: '00:15:15.551'
+      u: "'45."
+    - who: Hildegarde Franz
+      start: '00:15:16.328'
+      end: '00:15:16.328'
+      u: "'45."
+    - who: David Boder
+      start: '00:15:17.484'
+      end: '00:15:17.484'
+      u: And what happened then?
+    - who: Hildegarde Franz
+      start: '00:15:18.437'
+      end: '00:15:18.437'
+      u: Then it happened...They got away in flight, those [Nazis] who were still
+        there. True? They retreated and abandoned everything in disorder.
+    - who: David Boder
+      start: '00:15:23.591'
+      end: '00:15:23.591'
+      u: Yes.
+    - who: Hildegarde Franz
+      start: '00:15:24.294'
+      end: '00:15:24.294'
+      u: And the Russians treated us decently.
+    - who: David Boder
+      start: '00:15:27.544'
+      end: '00:15:27.544'
+      u: So.
+    - who: Hildegarde Franz
+      start: '00:15:28.029'
+      end: '00:15:28.029'
+      u: We got more food, and we were given proper maintenance.
+    - who: David Boder
+      start: '00:15:35.230'
+      end: '00:15:35.230'
+      u: So, and when did you return to Nuremberg?
+    - who: Hildegarde Franz
+      start: '00:15:36.948'
+      end: '00:15:36.948'
+      u: We returned the 2nd of July, '45. We were called for [fetched] by the Americans
+        from Theresienstadt.
+    - who: David Boder
+      start: '00:15:46.323'
+      end: '00:15:46.323'
+      u: In camions, buses?
+    - who: Hildegarde Franz
+      start: '00:15:49.526'
+      end: '00:15:49.526'
+      u: In buses, in such cargo trucks we were called for.
+    - who: David Boder
+      start: '00:15:53.167'
+      end: '00:15:53.167'
+      u: Now what did you find in Nuremberg of your property?
+    - who: Hildegarde Franz
+      start: '00:15:55.995'
+      end: '00:15:55.995'
+      u: Nothing at all. [Pause.] The house was bombed out.
+    - who: David Boder
+      start: '00:16:01.329'
+      end: '00:16:01.329'
+      u: Was it your own house?
+    - who: Hildegarde Franz
+      start: '00:16:02.439'
+      end: '00:16:02.439'
+      u: No, it was not my own house. Of my whole apartment I salvaged hardly anything.
+        The people who had sublet from me have helped themselves [to my things] rather
+        well.
+    - who: David Boder
+      start: '00:16:16.032'
+      end: '00:16:16.032'
+      u: Did you find some clothing? Did you...
+    - who: Hildegarde Franz
+      start: '00:16:18.626'
+      end: '00:16:18.626'
+      u: Nothing. There were only a few things, a few valuables that I had stored
+        away with a Dr. Mombart.
+    - who: David Boder
+      start: '00:16:26.527'
+      end: '00:16:26.527'
+      u: A Christian?
+    - who: Hildegarde Franz
+      start: '00:16:27.417'
+      end: '00:16:27.417'
+      u: Yes. He kept it for me wonderfully, while the intermarried couple who lived
+        in my apartment did exactly the contrary. [See note at end of chapter.] But
+        I don't want [to do anything] against these people.
+    - who: David Boder
+      start: '00:16:36.016'
+      end: '00:16:36.016'
+      u: Oh yes, you don't want to complain...
+    - who: Hildegarde Franz
+      start: '00:16:37.328'
+      end: '00:16:37.328'
+      u: It is over. I don't want to demand [prosecute]. They have deprived me of
+        a lot.
+    - who: David Boder
+      start: '00:16:41.919'
+      end: '00:16:41.919'
+      u: That was an intermarried family that lived there.
+    - who: Hildegarde Franz
+      start: '00:16:43.653'
+      end: '00:16:43.653'
+      u: Yes, yes.
+    - who: David Boder
+      start: '00:16:44.247'
+      end: '00:16:44.247'
+      u: And nothing happened to them during...
+    - who: Hildegarde Franz
+      start: '00:16:46.059'
+      end: '00:16:46.059'
+      u: They left the apartment afterwards. A bomb hit [the house], true?
+    - who: David Boder
+      start: '00:16:52.168'
+      end: '00:16:52.168'
+      u: Oh, and then?
+    - who: Hildegarde Franz
+      start: '00:16:53.792'
+      end: '00:16:53.792'
+      u: It tore off one wall, but the things, the furniture remained standing. No?
+    - who: David Boder
+      start: '00:16:58.019'
+      end: '00:16:58.019'
+      u: Aha.
+    - who: Hildegarde Franz
+      start: '00:16:58.550'
+      end: '00:16:58.550'
+      u: At least a large part. And what happened to it? I got a few pieces back,
+        but in part they said they had nothing more.
+    - who: David Boder
+      start: '00:17:08.082'
+      end: '00:17:08.082'
+      u: So. And your bank account? Did you get that back?
+    - who: Hildegarde Franz
+      start: '00:17:10.942'
+      end: '00:17:10.942'
+      u: That I got back.
+    - who: David Boder
+      start: '00:17:12.083'
+      end: '00:17:12.083'
+      u: That the Americans have returned to you?
+    - who: Hildegarde Franz
+      start: '00:17:13.317'
+      end: '00:17:13.317'
+      u: Yes, yes.
+    - who: David Boder
+      start: '00:17:13.911'
+      end: '00:17:13.911'
+      u: And they permit you to take it out?
+    - who: Hildegarde Franz
+      start: '00:17:16.043'
+      end: '00:17:16.043'
+      u: They have...that [the permission] I got, too.
+    - who: David Boder
+      start: '00:17:17.684'
+      end: '00:17:17.684'
+      u: Yes. So that was safe.
+    - who: Hildegarde Franz
+      start: '00:17:19.512'
+      end: '00:17:19.512'
+      u: Yes, that was safe. But of the furnishings of my apartment, I have lost very,
+        very much.
+    - who: David Boder
+      start: '00:17:24.794'
+      end: '00:17:24.794'
+      u: Now tell me, did you make quick contact with your sons?
+    - who: Hildegarde Franz
+      start: '00:17:30.411'
+      end: '00:17:30.411'
+      u: Yes, I obtained it through an American.
+    - who: David Boder
+      start: '00:17:34.297'
+      end: '00:17:34.297'
+      u: Did you telegraph, or what?
+    - who: Hildegarde Franz
+      start: '00:17:35.957'
+      end: '00:17:35.957'
+      u: My son sent me a cable first, because I had sent him a letter. And then he
+        sent me a cable full of great joy about me still being alive [tears].
+    - who: David Boder
+      start: '00:17:46.863'
+      end: '00:17:46.863'
+      u: Hm.
+    - who: Hildegarde Franz
+      start: '00:17:47.395'
+      end: '00:17:47.395'
+      u: They didn't figure that I was still alive.
+    - who: David Boder
+      start: '00:17:49.739'
+      end: '00:17:49.739'
+      u: Now when do you think you are leaving?
+    - who: Hildegarde Franz
+      start: '00:17:52.427'
+      end: '00:17:52.427'
+      u: I am leaving on the 24th.
+    - who: David Boder
+      start: '00:17:54.255'
+      end: '00:17:54.255'
+      u: Which 24th?
+    - who: Hildegarde Franz
+      start: '00:17:56.240'
+      end: '00:17:56.240'
+      u: The 24th of September, with the transport.
+    - who: David Boder
+      start: '00:17:58.136'
+      end: '00:17:58.136'
+      u: Where to?
+    - who: Hildegarde Franz
+      start: '00:17:58.698'
+      end: '00:17:58.698'
+      u: To Bremen.
+    - who: David Boder
+      start: '00:17:59.604'
+      end: '00:17:59.604'
+      u: Oh. And then your ship leaves from Bremen?
+    - who: Hildegarde Franz
+      start: '00:18:02.526'
+      end: '00:18:02.526'
+      u: Oh, yes.
+    - who: David Boder
+      start: '00:18:04.432'
+      end: '00:18:04.432'
+      u: I thought that you are possibly going to Paris, because I am leaving the
+        29th...
+    - who: Hildegarde Franz
+      start: '00:18:08.729'
+      end: '00:18:08.729'
+      u: No, no.
+    - who: David Boder
+      start: '00:18:09.433'
+      end: '00:18:09.433'
+      u: ". . . on the [S.S.] Washington."
+    - who: Hildegarde Franz
+      start: '00:18:10.012'
+      end: '00:18:10.012'
+      u: Yes, yes.
+    - who: David Boder
+      start: '00:18:10.778'
+      end: '00:18:10.778'
+      u: Then you are traveling on a military ship?
+    - who: Hildegarde Franz
+      start: '00:18:12.184'
+      end: '00:18:12.184'
+      u: Yes, yes.
+    - who: David Boder
+      start: '00:18:13.059'
+      end: '00:18:13.059'
+      u: So, that is, after all, a happy ending to such a bitter play ["gutes Ende
+        zum boesen Spiel"].
+    - who: Hildegarde Franz
+      start: '00:18:18.731'
+      end: '00:18:18.731'
+      u: Yes. I have suffered much, and much.
+    - who: David Boder
+      start: '00:18:21.324'
+      end: '00:18:21.324'
+      u: Oh, that we know. That...
+    - who: Hildegarde Franz
+      start: '00:18:23.434'
+      end: '00:18:23.434'
+      u: "[weeps bitterly] I have suffered frightfully. I really should not think
+        about it, how hard it was for me."
+    - who: David Boder
+      start: '00:18:32.059'
+      end: '00:18:32.059'
+      u: Where are you going now? To Newark?
+    - who: Hildegarde Franz
+      start: '00:18:33.856'
+      end: '00:18:33.856'
+      u: To my son.
+    - who: David Boder
+      start: '00:18:34.559'
+      end: '00:18:34.559'
+      u: To Newark. And the other one you say is in...
+    - who: Hildegarde Franz
+      start: '00:18:36.871'
+      end: '00:18:36.871'
+      u: Is in Durango, Colorado. In the state of Colorado.
+    - who: David Boder
+      start: '00:18:39.745'
+      end: '00:18:39.745'
+      u: Yes. You would like it there, too. It is warm and beautiful there.
+    - who: Hildegarde Franz
+      start: '00:18:42.401'
+      end: '00:18:42.401'
+      u: "[in tears] The children are, of course, glad that they still have a mother."
+    - who: David Boder
+      start: '00:18:45.479'
+      end: '00:18:45.479'
+      u: Of course, they should be glad.
+    - who: Hildegarde Franz
+      start: '00:18:47.541'
+      end: '00:18:47.541'
+      u: It was frightful. I can't explain it to you at all, how terrible that all
+        was. [She apparently weeps.]
+    - who: David Boder
+      start: '00:18:51.385'
+      end: '00:18:51.385'
+      u: Hm.
+    - who: Hildegarde Franz
+      start: '00:18:53.448'
+      end: '00:18:53.448'
+      u: I have gained fifty pounds.
+    - who: David Boder
+      start: '00:18:58.010'
+      end: '00:18:58.010'
+      u: How much did you weigh? How much do you weigh now?
+    - who: Hildegarde Franz
+      start: '00:19:02.057'
+      end: '00:19:02.057'
+      u: Now I must have about my old [original] weight.
+    - who: David Boder
+      start: '00:19:04.057'
+      end: '00:19:04.057'
+      u: How much?
+    - who: Hildegarde Franz
+      start: '00:19:04.620'
+      end: '00:19:04.620'
+      u: About one hundred fifteen to one hundred twenty pounds. But when I returned
+        from Theresienstadt I weighed only 70 pounds.
+    - who: David Boder
+      start: '00:19:09.849'
+      end: '00:19:09.849'
+      u: Tell me please, were there in Theresienstadt any selections, so that people
+        were sent away from there?
+    - who: Hildegarde Franz
+      start: '00:19:14.835'
+      end: '00:19:14.835'
+      u: You mean transports [shipments usually to extermination camps]?
+    - who: David Boder
+      start: '00:19:16.663'
+      end: '00:19:16.663'
+      u: Yes, from Theresienstadt.
+    - who: Hildegarde Franz
+      start: '00:19:17.991'
+      end: '00:19:17.991'
+      u: Oh. God in heaven!
+    - who: David Boder
+      start: '00:19:19.679'
+      end: '00:19:19.679'
+      u: Tell us about it.
+    - who: Hildegarde Franz
+      start: '00:19:20.866'
+      end: '00:19:20.866'
+      u: Well, in my time [?] many, many people were sent to Poland.
+    - who: David Boder
+      start: '00:19:26.397'
+      end: '00:19:26.397'
+      u: For what reason? How were they chosen?
+    - who: Hildegarde Franz
+      start: '00:19:29.038'
+      end: '00:19:29.038'
+      u: Simply. [she speaks very fast, barely understandable, with great apprehension]
+        For transport so-and-so many people were simply ordered. And the transports
+        came for them, [and they went] part to Auschwitz, part to Belsen. They went
+        to Posen where they were kept in KZs, and most of these people have all perished.
+        Then there was one transport that was the last one, in October. There were
+        eighteen thousand people dragged off from Theresienstadt.
+    - who: David Boder
+      start: '00:19:52.913'
+      end: '00:19:52.913'
+      u: "[astonished] Eighteen thousand?"
+    - who: Hildegarde Franz
+      start: '00:19:55.444'
+      end: '00:19:55.444'
+      u: Eighteen thousand people were dragged off from Theresienstadt to Poland.
+    - who: David Boder
+      start: '00:19:59.288'
+      end: '00:19:59.288'
+      u: How were they selected? Were any Reichs-Germans [actual German citizens whether
+        Jews or non-Jews] with...among them?
+    - who: Hildegarde Franz
+      start: '00:20:03.466'
+      end: '00:20:03.466'
+      u: Germans and all possible...all possible nations were among them [?].
+    - who: David Boder
+      start: '00:20:06.763'
+      end: '00:20:06.763'
+      u: And how did you succeed in remaining there?
+    - who: Hildegarde Franz
+      start: '00:20:08.966'
+      end: '00:20:08.966'
+      u: Where? I?
+    - who: David Boder
+      start: '00:20:10.872'
+      end: '00:20:10.872'
+      u: In Theresienstadt, yes.
+    - who: Hildegarde Franz
+      start: '00:20:11.731'
+      end: '00:20:11.731'
+      u: "[in a feeble voice] Yes, that I don't know. I just was not among them."
+    - who: David Boder
+      start: '00:20:14.387'
+      end: '00:20:14.387'
+      u: What?
+    - who: Hildegarde Franz
+      start: '00:20:14.981'
+      end: '00:20:14.981'
+      u: I was not among them. I just did not get to it.
+    - who: David Boder
+      start: '00:20:17.690'
+      end: '00:20:17.690'
+      u: "[You] had luck."
+    - who: Hildegarde Franz
+      start: '00:20:18.628'
+      end: '00:20:18.628'
+      u: I had luck.
+    - who: David Boder
+      start: '00:20:19.597'
+      end: '00:20:19.597'
+      u: Were there any in the transports who came with you from Nuremberg?
+    - who: Hildegarde Franz
+      start: '00:20:26.113'
+      end: '00:20:26.113'
+      u: There were such [?] who were dragged off to Poland, to Auschwitz.
+    - who: David Boder
+      start: '00:20:29.144'
+      end: '00:20:29.144'
+      u: Aha.
+    - who: Hildegarde Franz
+      start: '00:20:29.909'
+      end: '00:20:29.909'
+      u: And of them only a single one [a woman] has returned. She was a younger person.
+        The others have all perished.
+    - who: David Boder
+      start: '00:20:36.737'
+      end: '00:20:36.737'
+      u: "[After a long pause possibly due to difficulty with the equipment, at which
+        times some statements were made that could not be recorded; in English] There
+        is a correction: four people from her transport were sent to Poland, and one
+        returned of these four, a younger person."
+    - who: David Boder
+      start: '00:20:54.319'
+      end: 
+      u: This concludes the interview with Miss Hildegarde— [correction] with Mrs.
+        Hildegarde Franz, age seventy-five, born in Nuremberg, or who lived in Nuremberg
+        in a mixed marriage with a Christian husband, and who after his death was
+        sent to Theresienstadt. She is now in the UNRRA camp at Funkenkasernen in
+        Munich. And the 24th of this month—that means in four days—she is going to
+        Bremen, and from Bremen sailing to the United States to her son in Newark,
+        and to the other one in Colorado. This concludes the interview with Miss [Mrs.]
+        Hildegarde Franz at twenty minutes of the spool [about 25 minutes running
+        on 50 cycles]. An Illinois Institute of Technology wire recording.
+transcript: {}
+translation: {}

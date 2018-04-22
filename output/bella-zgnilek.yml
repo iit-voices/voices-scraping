@@ -27,5 +27,1498 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
+  transcript:
+    language: pl
+    interview:
+    - who: David Boder
+      start: '00:00:00.426'
+      end: '00:00:00.426'
+      u: "[In English] This is Spool 22nd. I am interviewing Miss Bella Zgnilek, who
+        lives here in the home for adults on Rue de Patin number 9. Today is Sunday,
+        July 4th. Paris. Now, Bella...May I call you by your first name?"
+    - who: Bella Zgnilek
+      start: '00:00:31.595'
+      end: '00:00:31.595'
+      u: All right?
+    - who: David Boder
+      start: '00:00:31.942'
+      end: '00:00:31.942'
+      u: All right, Bella. Tell me, what are you doing now in Paris? [This interview
+        proceeds in English unless otherwise indicated.]
+    - who: Bella Zgnilek
+      start: '00:00:35.423'
+      end: '00:00:35.423'
+      u: I am working now with the American Joint.
+    - who: David Boder
+      start: '00:00:39.360'
+      end: '00:00:39.360'
+      u: Yes. Speak slower. You are working for the Joint Distribution Committee?
+    - who: Bella Zgnilek
+      start: '00:00:44.271'
+      end: '00:00:44.271'
+      u: That's right.
+    - who: David Boder
+      start: '00:00:44.618'
+      end: '00:00:44.618'
+      u: Yes. And what are you doing for them?
+    - who: Bella Zgnilek
+      start: '00:00:46.943'
+      end: '00:00:46.943'
+      u: I am in bookkeeping for them.
+    - who: David Boder
+      start: '00:00:50.119'
+      end: '00:00:50.119'
+      u: You are doing office work in the English language?
+    - who: Bella Zgnilek
+      start: '00:00:52.322'
+      end: '00:00:52.322'
+      u: That's right.
+    - who: David Boder
+      start: '00:00:53.247'
+      end: '00:00:53.247'
+      u: And where did you learn English?
+    - who: Bella Zgnilek
+      start: '00:00:54.963'
+      end: '00:00:54.963'
+      u: In school.
+    - who: David Boder
+      start: '00:00:55.584'
+      end: '00:00:55.584'
+      u: At school where?
+    - who: Bella Zgnilek
+      start: '00:00:56.783'
+      end: '00:00:56.783'
+      u: Poland.
+    - who: David Boder
+      start: '00:00:57.678'
+      end: '00:00:57.678'
+      u: In what city?
+    - who: Bella Zgnilek
+      start: '00:00:58.664'
+      end: '00:00:58.664'
+      u: Sosnowiec.
+    - who: David Boder
+      start: '00:01:00.776'
+      end: '00:01:00.776'
+      u: All right. Now, Bella, I want you to tell me right from the start what happened.
+        Where were you when the Germans came to Poland? And then tell me what happened.
+        Don't tell me much what happened to other people, just to you or your family.
+        Go ahead.
+    - who: Bella Zgnilek
+      start: '00:01:20.732'
+      end: '00:01:20.732'
+      u: In the beginni-...in the beginning, when the Germans came in—it was maybe
+        two months after—my brother was out [word not clear] in the town [at] five
+        minutes past seven, and the law was that we had to be on the street only till
+        seven o'clock. The Germans picked him up and then shot him in the night.
+    - who: David Boder
+      start: '00:01:41.969'
+      end: '00:01:41.969'
+      u: Your brother?
+    - who: Bella Zgnilek
+      start: '00:01:42.651'
+      end: '00:01:42.651'
+      u: My brother.
+    - who: David Boder
+      start: '00:01:43.211'
+      end: '00:01:43.211'
+      u: What for did they shoot him?
+    - who: Bella Zgnilek
+      start: '00:01:45.049'
+      end: '00:01:45.049'
+      u: Because he...there was a law that they have to be...people have to be only
+        on the street till si-...till seven o'clock.
+    - who: David Boder
+      start: '00:01:52.455'
+      end: '00:01:52.455'
+      u: So it was for infringement of curfew.
+    - who: Bella Zgnilek
+      start: '00:01:54.901'
+      end: '00:01:54.901'
+      u: Yes.
+    - who: David Boder
+      start: '00:01:55.522'
+      end: '00:01:55.522'
+      u: All right. Tell me, how large was your family? Who were your family?
+    - who: Bella Zgnilek
+      start: '00:02:00.798'
+      end: '00:02:00.798'
+      u: Mother, brother, sister, brother-in-law, children.
+    - who: David Boder
+      start: '00:02:07.899'
+      end: '00:02:07.899'
+      u: And where was your father?
+    - who: Bella Zgnilek
+      start: '00:02:09.311'
+      end: '00:02:09.311'
+      u: Dead.
+    - who: David Boder
+      start: '00:02:10.053'
+      end: '00:02:10.053'
+      u: Your father died.
+    - who: Bella Zgnilek
+      start: '00:02:11.100'
+      end: '00:02:11.100'
+      u: Aha.
+    - who: David Boder
+      start: '00:02:11.447'
+      end: '00:02:11.447'
+      u: How many children were you in your family, in your own?
+    - who: Bella Zgnilek
+      start: '00:02:15.171'
+      end: '00:02:15.171'
+      u: Four. Four.
+    - who: David Boder
+      start: '00:02:17.222'
+      end: '00:02:17.222'
+      u: Did you have older brothers and older sisters?
+    - who: Bella Zgnilek
+      start: '00:02:20.794'
+      end: '00:02:20.794'
+      u: Yes. A married brother, married sister.
+    - who: David Boder
+      start: '00:02:25.096'
+      end: '00:02:25.096'
+      u: Yes. And then did you have younger brothers and sisters?
+    - who: Bella Zgnilek
+      start: '00:02:27.421'
+      end: '00:02:27.421'
+      u: A younger brother, two years older than me.
+    - who: David Boder
+      start: '00:02:30.354'
+      end: '00:02:30.354'
+      u: An older brother...than you.
+    - who: Bella Zgnilek
+      start: '00:02:32.253'
+      end: '00:02:32.253'
+      u: Older than me.
+    - who: David Boder
+      start: '00:02:33.117'
+      end: '00:02:33.117'
+      u: Yes.
+    - who: Bella Zgnilek
+      start: '00:02:33.646'
+      end: '00:02:33.646'
+      u: And he was shot.
+    - who: David Boder
+      start: '00:02:34.328'
+      end: '00:02:34.328'
+      u: Yes. And you were the youngest in the family?
+    - who: Bella Zgnilek
+      start: '00:02:36.500'
+      end: '00:02:36.500'
+      u: That's right.
+    - who: David Boder
+      start: '00:02:37.212'
+      end: '00:02:37.212'
+      u: You were the youngest in the family. All right. We will now continue telling.
+        Yes?
+    - who: Bella Zgnilek
+      start: '00:02:43.188'
+      end: '00:02:43.188'
+      u: And after, my brother was sent to the camp, working.
+    - who: David Boder
+      start: '00:02:48.220'
+      end: '00:02:48.220'
+      u: Which brother?
+    - who: Bella Zgnilek
+      start: '00:02:48.993'
+      end: '00:02:48.993'
+      u: My oldest brother.
+    - who: David Boder
+      start: '00:02:50.344'
+      end: '00:02:50.344'
+      u: The married brother.
+    - who: Bella Zgnilek
+      start: '00:02:51.543'
+      end: '00:02:51.543'
+      u: The married brother. And he left his wife and his child home.
+    - who: David Boder
+      start: '00:02:56.058'
+      end: '00:02:56.058'
+      u: Yes.
+    - who: Bella Zgnilek
+      start: '00:02:59.539'
+      end: '00:02:59.539'
+      u: Oh, after a while, it was a...the German picked up all the Jews on one big
+        place, and they made a segregation.
+    - who: David Boder
+      start: '00:03:08.953'
+      end: '00:03:08.953'
+      u: Yes.
+    - who: Bella Zgnilek
+      start: '00:03:10.578'
+      end: '00:03:10.578'
+      u: And young people they sent to concentration camp, and older people...[correction,
+        pertaining to the young people] to working camps, and older people to Auschwitz.
+    - who: David Boder
+      start: '00:03:19.292'
+      end: '00:03:19.292'
+      u: Yes. Tell me, how was that? How did they announce that all the Jews should
+        come together? Was that what they called Aussiedlung [expulsion, deportation]?
+    - who: Bella Zgnilek
+      start: '00:03:28.036'
+      end: '00:03:28.036'
+      u: That's right.
+    - who: David Boder
+      start: '00:03:29.022'
+      end: '00:03:29.022'
+      u: Yes.
+    - who: Bella Zgnilek
+      start: '00:03:29.278'
+      end: '00:03:29.278'
+      u: Then they issued an order that all the Jews assemble [?] in one place, and
+        one day there [?] was the segregation. They took the young people to different
+        camps, working camps, older people to Aussiedlung.
+    - who: David Boder
+      start: '00:03:42.951'
+      end: '00:03:42.951'
+      u: To Auschwitz.
+    - who: Bella Zgnilek
+      start: '00:03:44.150'
+      end: '00:03:44.150'
+      u: To Auschwitz.
+    - who: David Boder
+      start: '00:03:45.075'
+      end: '00:03:45.075'
+      u: And what happened to those other people?
+    - who: Bella Zgnilek
+      start: '00:03:47.278'
+      end: '00:03:47.278'
+      u: What happened to them? They were sent to gas and killed.
+    - who: David Boder
+      start: '00:03:51.915'
+      end: '00:03:51.915'
+      u: How did you know that?
+    - who: Bella Zgnilek
+      start: '00:03:54.027'
+      end: '00:03:54.027'
+      u: Because when I have been in the camp, I have been working there at the beginning...
+    - who: David Boder
+      start: '00:03:58.755'
+      end: '00:03:58.755'
+      u: Yes?
+    - who: Bella Zgnilek
+      start: '00:03:59.041'
+      end: '00:03:59.041'
+      u: ". . . after they sent us into a concentration camp. There were the SS women
+        and a terrible [word not clear], but before, when we were in working camp,
+        there came some girls, young girls, from Auschwitz also for work, and they
+        told us everything."
+    - who: David Boder
+      start: '00:04:16.885'
+      end: '00:04:16.885'
+      u: What did they tell you?
+    - who: Bella Zgnilek
+      start: '00:04:18.905'
+      end: '00:04:18.905'
+      u: That they pick up people just from the train, because there are too many
+        to send them to camp. So they pick them just from the train and send them
+        to gas. They didn't tell them that they are sending to kill, but to the bath.
+    - who: David Boder
+      start: '00:04:35.986'
+      end: '00:04:35.986'
+      u: Yes, to a bath. And then?
+    - who: Bella Zgnilek
+      start: '00:04:37.976'
+      end: '00:04:37.976'
+      u: To a bath. And then they closed...shut all the doors, and they gassed them.
+    - who: David Boder
+      start: '00:04:45.899'
+      end: '00:04:45.899'
+      u: Yes. And then?
+    - who: Bella Zgnilek
+      start: '00:04:47.615'
+      end: '00:04:47.615'
+      u: And then?
+    - who: David Boder
+      start: '00:04:49.027'
+      end: '00:04:49.027'
+      u: They...
+    - who: Bella Zgnilek
+      start: '00:04:50.530'
+      end: '00:04:50.530'
+      u: So they killed all the Jews.
+    - who: David Boder
+      start: '00:04:53.676'
+      end: '00:04:53.676'
+      u: Aha. There were only Jews among them. So, when you came together that...that
+        morning to the...to the plaza, so what happened to your family then? Were
+        you separated from your family?
+    - who: Bella Zgnilek
+      start: '00:05:06.863'
+      end: '00:05:06.863'
+      u: Yes.
+    - who: David Boder
+      start: '00:05:08.031'
+      end: '00:05:08.031'
+      u: Who...
+    - who: Bella Zgnilek
+      start: '00:05:09.108'
+      end: '00:05:09.108'
+      u: My sister, my brother-in-law with their [?] child, they were freed for the
+        moment and sent back to the town. My mother was sent to Aussiedlung, and me
+        they took to [the] working camp.
+    - who: David Boder
+      start: '00:05:20.134'
+      end: '00:05:20.134'
+      u: Yes. Did you ever hear anything afterwards from your mother?
+    - who: Bella Zgnilek
+      start: '00:05:23.219'
+      end: '00:05:23.219'
+      u: No, nothing. And my sister was sent to Aussiedlung, also to Auschwitz, in
+        half a year later.
+    - who: David Boder
+      start: '00:05:30.016'
+      end: '00:05:30.016'
+      u: Half a year later.
+    - who: Bella Zgnilek
+      start: '00:05:31.032'
+      end: '00:05:31.032'
+      u: Yes.
+    - who: David Boder
+      start: '00:05:31.470'
+      end: '00:05:31.470'
+      u: Well, she was with your brother and their child. What happened...
+    - who: Bella Zgnilek
+      start: '00:05:34.829'
+      end: '00:05:34.829'
+      u: My brother was sent also to the concentration camp before.
+    - who: David Boder
+      start: '00:05:38.066'
+      end: '00:05:38.066'
+      u: Yes?
+    - who: Bella Zgnilek
+      start: '00:05:38.839'
+      end: '00:05:38.839'
+      u: Before me. To a working camp. And I was sent later, after, together with
+        my mother. But my mother to Auschwitz, and me to a camp. And my sister was
+        for the moment free.
+    - who: David Boder
+      start: '00:05:50.017'
+      end: '00:05:50.017'
+      u: All right. Now what do you know? What happened to your brother?
+    - who: Bella Zgnilek
+      start: '00:05:53.102'
+      end: '00:05:53.102'
+      u: I don't know anything.
+    - who: David Boder
+      start: '00:05:54.575'
+      end: '00:05:54.575'
+      u: You don't know anything. What happened to your sister?
+    - who: Bella Zgnilek
+      start: '00:05:57.265'
+      end: '00:05:57.265'
+      u: I don't know.
+    - who: David Boder
+      start: '00:05:58.281'
+      end: '00:05:58.281'
+      u: You don't know. Did you try to find them?
+    - who: Bella Zgnilek
+      start: '00:06:00.910'
+      end: '00:06:00.910'
+      u: Oh, yes. I was in different committees and gave the name of [words not clear].
+    - who: David Boder
+      start: '00:06:08.620'
+      end: '00:06:08.620'
+      u: Yes. But they are not...
+    - who: Bella Zgnilek
+      start: '00:06:10.732'
+      end: '00:06:10.732'
+      u: I didn't get any news from anybody of them.
+    - who: David Boder
+      start: '00:06:13.452'
+      end: '00:06:13.452'
+      u: All right. [Pause.] Now, and you were there.
+    - who: Bella Zgnilek
+      start: '00:06:21.953'
+      end: '00:06:21.953'
+      u: Grossrosen outside detail.
+    - who: David Boder
+      start: '00:06:25.099'
+      end: '00:06:25.099'
+      u: And what was that?
+    - who: Bella Zgnilek
+      start: '00:06:27.880'
+      end: '00:06:27.880'
+      u: Hm. I have been working in the factory.
+    - who: David Boder
+      start: '00:06:32.639'
+      end: '00:06:32.639'
+      u: In a factory.
+    - who: Bella Zgnilek
+      start: '00:06:33.686'
+      end: '00:06:33.686'
+      u: Beginning.
+    - who: David Boder
+      start: '00:06:34.581'
+      end: '00:06:34.581'
+      u: Yes. All right. Could you describe me a full day in [pause]...Go on. Tell
+        me, what have you been doing? Describe the whole day. You have been working
+        in a factory.
+    - who: Bella Zgnilek
+      start: '00:06:48.467'
+      end: '00:06:48.467'
+      u: In a fac-...in the beginning I have been working in a factory, but as I talk
+        and...
+    - who: David Boder
+      start: '00:06:51.583'
+      end: '00:06:51.583'
+      u: Slower.
+    - who: Bella Zgnilek
+      start: '00:06:51.991'
+      end: '00:06:51.991'
+      u: ". . . as I talk and type German, they choose me for the office."
+    - who: David Boder
+      start: '00:06:56.841'
+      end: '00:06:56.841'
+      u: Oh! You type and you talk German.
+    - who: Bella Zgnilek
+      start: '00:06:59.561'
+      end: '00:06:59.561'
+      u: Yes.
+    - who: David Boder
+      start: '00:07:00.182'
+      end: '00:07:00.182'
+      u: Well, tell me, Bella, what kind of an education did you get, anyway?
+    - who: Bella Zgnilek
+      start: '00:07:03.845'
+      end: '00:07:03.845'
+      u: Commercial school.
+    - who: David Boder
+      start: '00:07:04.953'
+      end: '00:07:04.953'
+      u: Did you graduate from it?
+    - who: Bella Zgnilek
+      start: '00:07:06.547'
+      end: '00:07:06.547'
+      u: Yes.
+    - who: David Boder
+      start: '00:07:07.271'
+      end: '00:07:07.271'
+      u: How old are you now?
+    - who: Bella Zgnilek
+      start: '00:07:08.324'
+      end: '00:07:08.324'
+      u: Twenty-two.
+    - who: David Boder
+      start: '00:07:09.736'
+      end: '00:07:09.736'
+      u: You are twenty-two. And when they...and when they took you, how old were
+        you?
+    - who: Bella Zgnilek
+      start: '00:07:15.347'
+      end: '00:07:15.347'
+      u: Eighteen.
+    - who: David Boder
+      start: '00:07:16.059'
+      end: '00:07:16.059'
+      u: Eighteen. And you were through with the school?
+    - who: Bella Zgnilek
+      start: '00:07:18.810'
+      end: '00:07:18.810'
+      u: Not quite through.
+    - who: David Boder
+      start: '00:07:19.826'
+      end: '00:07:19.826'
+      u: Yes. But you were nearly through with...
+    - who: Bella Zgnilek
+      start: '00:07:21.633'
+      end: '00:07:21.633'
+      u: Nearly.
+    - who: David Boder
+      start: '00:07:22.801'
+      end: '00:07:22.801'
+      u: ". . . through with the commercial school."
+    - who: Bella Zgnilek
+      start: '00:07:23.391'
+      end: '00:07:23.391'
+      u: That's right.
+    - who: David Boder
+      start: '00:07:24.286'
+      end: '00:07:24.286'
+      u: All right. So you knew how to type German, and they took you into the office.
+    - who: Bella Zgnilek
+      start: '00:07:28.254'
+      end: '00:07:28.254'
+      u: That's right.
+    - who: David Boder
+      start: '00:07:29.301'
+      end: '00:07:29.301'
+      u: All right. So tell me, how was it? In the morning, when did you get up?
+    - who: Bella Zgnilek
+      start: '00:07:33.025'
+      end: '00:07:33.025'
+      u: Seven o'clock in the morning.
+    - who: David Boder
+      start: '00:07:35.167'
+      end: '00:07:35.167'
+      u: Yes?
+    - who: Bella Zgnilek
+      start: '00:07:36.001'
+      end: '00:07:36.001'
+      u: When I was working in the factory I had...I had to get up four o'clock in
+        the morning.
+    - who: David Boder
+      start: '00:07:41.825'
+      end: '00:07:41.825'
+      u: How would they wake you?
+    - who: Bella Zgnilek
+      start: '00:07:44.058'
+      end: '00:07:44.058'
+      u: "[In German] Oh, by the eldest of the Jews. He would say in German, 'Get
+        up.'"
+    - who: David Boder
+      start: '00:07:48.847'
+      end: '00:07:48.847'
+      u: Get up. The eldest of the Jews would say that.
+    - who: Bella Zgnilek
+      start: '00:07:50.411'
+      end: '00:07:50.411'
+      u: Yes.
+    - who: David Boder
+      start: '00:07:50.849'
+      end: '00:07:50.849'
+      u: Yes. Did you sleep women and men separately?
+    - who: Bella Zgnilek
+      start: '00:07:53.417'
+      end: '00:07:53.417'
+      u: "[In English] We have been all women."
+    - who: David Boder
+      start: '00:07:56.289'
+      end: '00:07:56.289'
+      u: Only women in the barrack.
+    - who: Bella Zgnilek
+      start: '00:07:57.092'
+      end: '00:07:57.092'
+      u: Yes.
+    - who: David Boder
+      start: '00:07:57.348'
+      end: '00:07:57.348'
+      u: All right. So at...you would get up at four o'clock in the morning. And then
+        what would come...
+    - who: Bella Zgnilek
+      start: '00:08:03.019'
+      end: '00:08:03.019'
+      u: And then I went to work.
+    - who: David Boder
+      start: '00:08:05.283'
+      end: '00:08:05.283'
+      u: Well, would they count you before?
+    - who: Bella Zgnilek
+      start: '00:08:07.273'
+      end: '00:08:07.273'
+      u: Yes. It was a Zaehlappell [count appell].
+    - who: David Boder
+      start: '00:08:09.658'
+      end: '00:08:09.658'
+      u: A Zaehlappell.
+    - who: Bella Zgnilek
+      start: '00:08:09.974'
+      end: '00:08:09.974'
+      u: They took out all...all to the court.
+    - who: David Boder
+      start: '00:08:13.729'
+      end: '00:08:13.729'
+      u: Yes.
+    - who: Bella Zgnilek
+      start: '00:08:14.624'
+      end: '00:08:14.624'
+      u: And they made a Zaehlappell.
+    - who: David Boder
+      start: '00:08:16.705'
+      end: '00:08:16.705'
+      u: They counted. Did they...
+    - who: Bella Zgnilek
+      start: '00:08:18.025'
+      end: '00:08:18.025'
+      u: They counted all of us.
+    - who: David Boder
+      start: '00:08:19.680'
+      end: '00:08:19.680'
+      u: And suppose somebody wasn't there?
+    - who: Bella Zgnilek
+      start: '00:08:21.731'
+      end: '00:08:21.731'
+      u: It never was in our camp.
+    - who: David Boder
+      start: '00:08:24.451'
+      end: '00:08:24.451'
+      u: Why?
+    - who: Bella Zgnilek
+      start: '00:08:25.528'
+      end: '00:08:25.528'
+      u: It would be very...very bad. They would kill different...other girls.
+    - who: David Boder
+      start: '00:08:31.078'
+      end: '00:08:31.078'
+      u: Oh! They would kill other girls?
+    - who: Bella Zgnilek
+      start: '00:08:32.064'
+      end: '00:08:32.064'
+      u: Of course.
+    - who: David Boder
+      start: '00:08:32.989'
+      end: '00:08:32.989'
+      u: Did that happen?
+    - who: Bella Zgnilek
+      start: '00:08:34.614'
+      end: '00:08:34.614'
+      u: In different camps, yes.
+    - who: David Boder
+      start: '00:08:36.604'
+      end: '00:08:36.604'
+      u: But not in yours.
+    - who: Bella Zgnilek
+      start: '00:08:37.590'
+      end: '00:08:37.590'
+      u: No, because everybody has been in the camp.
+    - who: David Boder
+      start: '00:08:40.341'
+      end: '00:08:40.341'
+      u: Aha. All right. And then, after the Zaehlappell, would they give you something
+        to eat?
+    - who: Bella Zgnilek
+      start: '00:08:48.081'
+      end: '00:08:48.081'
+      u: No, not before...at four o' clock in the morning nothing, but at nine o'clock.
+    - who: David Boder
+      start: '00:08:53.174'
+      end: '00:08:53.174'
+      u: At nine o'clock. Where? Where did you eat?
+    - who: Bella Zgnilek
+      start: '00:08:55.012'
+      end: '00:08:55.012'
+      u: They brought some soup to the factory.
+    - who: David Boder
+      start: '00:08:56.789'
+      end: '00:08:56.789'
+      u: They brought some soup to the factory. And did they stop working? Did they
+        stop the machines?
+    - who: Bella Zgnilek
+      start: '00:09:00.331'
+      end: '00:09:00.331'
+      u: Yes. For twenty minutes.
+    - who: David Boder
+      start: '00:09:02.138'
+      end: '00:09:02.138'
+      u: And they would give you something...
+    - who: Bella Zgnilek
+      start: '00:09:03.671'
+      end: '00:09:03.671'
+      u: It was different. Sometimes when the director was in a good mood, he stopped.
+        If not, we had to eat and work.
+    - who: David Boder
+      start: '00:09:10.438'
+      end: '00:09:10.438'
+      u: Aha. Yes. And what were you working...what [kind of] factory was it?
+    - who: Bella Zgnilek
+      start: '00:09:14.771'
+      end: '00:09:14.771'
+      u: Flax yarn spinnery.
+    - who: David Boder
+      start: '00:09:15.909'
+      end: '00:09:15.909'
+      u: Oh, flax yarn spinnery...
+    - who: Bella Zgnilek
+      start: '00:09:17.625'
+      end: '00:09:17.625'
+      u: Yes.
+    - who: David Boder
+      start: '00:09:19.098'
+      end: '00:09:19.098'
+      u: In what city was that?
+    - who: Bella Zgnilek
+      start: '00:09:21.057'
+      end: '00:09:21.057'
+      u: In Gabersdorf.
+    - who: David Boder
+      start: '00:09:22.347'
+      end: '00:09:22.347'
+      u: Gabersdorf.
+    - who: Bella Zgnilek
+      start: '00:09:22.937'
+      end: '00:09:22.937'
+      u: A village.
+    - who: David Boder
+      start: '00:09:23.710'
+      end: '00:09:23.710'
+      u: A village Gabersdorf. Flax yarn spinnery. You were spinning flax.
+    - who: Bella Zgnilek
+      start: '00:09:27.830'
+      end: '00:09:27.830'
+      u: Yes.
+    - who: David Boder
+      start: '00:09:28.238'
+      end: '00:09:28.238'
+      u: What were they making there of that yarn?
+    - who: Bella Zgnilek
+      start: '00:09:34.335'
+      end: '00:09:34.335'
+      u: For uniforms.
+    - who: David Boder
+      start: '00:09:36.112'
+      end: '00:09:36.112'
+      u: For uniforms.
+    - who: Bella Zgnilek
+      start: '00:09:36.824'
+      end: '00:09:36.824'
+      u: For soldier uniforms.
+    - who: David Boder
+      start: '00:09:37.323'
+      end: '00:09:37.323'
+      u: All right. Then, how late would you work?
+    - who: Bella Zgnilek
+      start: '00:09:42.781'
+      end: '00:09:42.781'
+      u: Twelve hours.
+    - who: David Boder
+      start: '00:09:44.162'
+      end: '00:09:44.162'
+      u: Yes?
+    - who: Bella Zgnilek
+      start: '00:09:45.270'
+      end: '00:09:45.270'
+      u: And after, fourteen hours.
+    - who: David Boder
+      start: '00:09:46.773'
+      end: '00:09:46.773'
+      u: Fourteen hours a day.
+    - who: Bella Zgnilek
+      start: '00:09:47.881'
+      end: '00:09:47.881'
+      u: Yes.
+    - who: David Boder
+      start: '00:09:48.258'
+      end: '00:09:48.258'
+      u: Would they bring you something to eat in between?
+    - who: Bella Zgnilek
+      start: '00:09:50.704'
+      end: '00:09:50.704'
+      u: Twelve o'clock again soup.
+    - who: David Boder
+      start: '00:09:52.694'
+      end: '00:09:52.694'
+      u: Yes?
+    - who: Bella Zgnilek
+      start: '00:09:53.741'
+      end: '00:09:53.741'
+      u: And that was all.
+    - who: David Boder
+      start: '00:09:56.157'
+      end: '00:09:56.157'
+      u: Yes.
+    - who: Bella Zgnilek
+      start: '00:09:56.443'
+      end: '00:09:56.443'
+      u: But weekly we got some bread and some margarine.
+    - who: David Boder
+      start: '00:10:02.388'
+      end: '00:10:02.388'
+      u: Some margarine. Now tell me this. What were you eating your soup with? Did
+        you have your plates? Did you have your spoons?
+    - who: Bella Zgnilek
+      start: '00:10:09.581'
+      end: '00:10:09.581'
+      u: Oh, we got just a plate and a spoon, yes.
+    - who: David Boder
+      start: '00:10:14.340'
+      end: '00:10:14.340'
+      u: They gave it to you, or you had your own? What was it?
+    - who: Bella Zgnilek
+      start: '00:10:18.034'
+      end: '00:10:18.034'
+      u: It was in the beginning that we got it from home.
+    - who: David Boder
+      start: '00:10:21.636'
+      end: '00:10:21.636'
+      u: Aha.
+    - who: Bella Zgnilek
+      start: '00:10:22.318'
+      end: '00:10:22.318'
+      u: And they didn't take it away from us. But they took away all our clothes.
+    - who: David Boder
+      start: '00:10:27.320'
+      end: '00:10:27.320'
+      u: They took away your clothes.
+    - who: Bella Zgnilek
+      start: '00:10:28.367'
+      end: '00:10:28.367'
+      u: Yes.
+    - who: David Boder
+      start: '00:10:29.201'
+      end: '00:10:29.201'
+      u: And what did they do with your clothes?
+    - who: Bella Zgnilek
+      start: '00:10:32.043'
+      end: '00:10:32.043'
+      u: We had it from home brought. When we came to the camp we brought with us
+        [our] clothes. But they took it away from us.
+    - who: David Boder
+      start: '00:10:38.505'
+      end: '00:10:38.505'
+      u: Aha. All right.
+    - who: Bella Zgnilek
+      start: '00:10:40.160'
+      end: '00:10:40.160'
+      u: They left us only two things.
+    - who: David Boder
+      start: '00:10:41.785'
+      end: '00:10:41.785'
+      u: Yes? All right. You were through with work at what time in the evening?
+    - who: Bella Zgnilek
+      start: '00:10:50.734'
+      end: '00:10:50.734'
+      u: It depends on the shift.
+    - who: David Boder
+      start: '00:10:52.480'
+      end: '00:10:52.480'
+      u: Yes.
+    - who: Bella Zgnilek
+      start: '00:10:53.009'
+      end: '00:10:53.009'
+      u: Sometimes twelve o'clock at night, sometimes four o'clock in the afternoon.
+    - who: David Boder
+      start: '00:10:56.581'
+      end: '00:10:56.581'
+      u: You were in the morning shift?
+    - who: Bella Zgnilek
+      start: '00:10:58.084'
+      end: '00:10:58.084'
+      u: Different. One week in one...
+    - who: David Boder
+      start: '00:11:01.778'
+      end: '00:11:01.778'
+      u: The other week in the other.
+    - who: Bella Zgnilek
+      start: '00:11:02.990'
+      end: '00:11:02.990'
+      u: Other.
+    - who: David Boder
+      start: '00:11:03.683'
+      end: '00:11:03.683'
+      u: All right. So at four o'clock when you were through with your shift, what
+        would you do then?
+    - who: Bella Zgnilek
+      start: '00:11:07.885'
+      end: '00:11:07.885'
+      u: Oh, then we had other work. We had to dig [?] potatoes. We had to do...
+    - who: David Boder
+      start: '00:11:12.911'
+      end: '00:11:12.911'
+      u: In the field?
+    - who: Bella Zgnilek
+      start: '00:11:13.604'
+      end: '00:11:13.604'
+      u: In the cellar [?]. In the field.
+    - who: David Boder
+      start: '00:11:14.968'
+      end: '00:11:14.968'
+      u: Yes? And?
+    - who: Bella Zgnilek
+      start: '00:11:18.102'
+      end: '00:11:18.102'
+      u: Oh well, we had...and we had to take turns...
+    - who: David Boder
+      start: '00:11:22.182'
+      end: '00:11:22.182'
+      u: What is that?
+    - who: Bella Zgnilek
+      start: '00:11:22.814'
+      end: '00:11:22.814'
+      u: It was called du jour. To clean the barracks.
+    - who: David Boder
+      start: '00:11:25.460'
+      end: '00:11:25.460'
+      u: To clean the barracks. Yes? And then what time did you...Did you have some
+        books to read?
+    - who: Bella Zgnilek
+      start: '00:11:31.463'
+      end: '00:11:31.463'
+      u: No.
+    - who: David Boder
+      start: '00:11:32.308'
+      end: '00:11:32.308'
+      u: No.
+    - who: Bella Zgnilek
+      start: '00:11:32.757'
+      end: '00:11:32.757'
+      u: We weren't allowed to.
+    - who: David Boder
+      start: '00:11:33.663'
+      end: '00:11:33.663'
+      u: Were you allowed to get together to talk to each other, to sing?
+    - who: Bella Zgnilek
+      start: '00:11:38.628'
+      end: '00:11:38.628'
+      u: It depends. If the SS Frau was in a very good mood, maybe sometimes yes.
+        But the...I remember once we have been singing in our room, and then the SS
+        Frau, she came to our room, and she said to me, 'Such noise,' and she started
+        to [?] strike everybody, so that it never happened again.
+    - who: David Boder
+      start: '00:12:01.056'
+      end: '00:12:01.056'
+      u: What did she strike you with? [Pause.] With the hand?
+    - who: Bella Zgnilek
+      start: '00:12:04.539'
+      end: '00:12:04.539'
+      u: With the hand, yes.
+    - who: David Boder
+      start: '00:12:05.812'
+      end: '00:12:05.812'
+      u: Where, in your face?
+    - who: Bella Zgnilek
+      start: '00:12:07.451'
+      end: '00:12:07.451'
+      u: In [the] face.
+    - who: David Boder
+      start: '00:12:08.083'
+      end: '00:12:08.083'
+      u: Yes. Now tell me this. Do you remember any of the songs that were made in
+        the camp?
+    - who: Bella Zgnilek
+      start: '00:12:14.757'
+      end: '00:12:14.757'
+      u: Yes.
+    - who: David Boder
+      start: '00:12:16.365'
+      end: '00:12:16.365'
+      u: Can you sing a song?
+    - who: Bella Zgnilek
+      start: '00:12:19.042'
+      end: '00:12:19.042'
+      u: Oh,
+    - who: David Boder
+      start: '00:12:19.355'
+      end: '00:12:19.355'
+      u: You can sing in a very low voice. The main thing we want, the words very
+        clear. You understand? The melody does...just go on and try one. We will see
+        how it comes out.
+    - who: Bella Zgnilek
+      start: '00:12:30.625'
+      end: '00:12:30.625'
+      u: I'll just sing a little bit of the end.
+    - who: David Boder
+      start: '00:12:35.167'
+      end: '00:12:35.167'
+      u: Yes.
+    - who: Bella Zgnilek
+      start: '00:12:35.480'
+      end: '00:12:35.480'
+      u: This is the end, because before was [words not clear].
+    - who: Bella Zgnilek
+      start: '00:12:37.877'
+      end: '00:12:37.877'
+      u: '[Recites in German] Und die Deutschen, die verfluchten Schweine, / die bekommen
+        noch von uns gebroch''ne Beine. / Und wir müssen selber sehn, / wie alle Deutschen
+        schnell kaputt gehen.Translation: "And the damned German swines, / They will
+        get their bones broken by us yet. / And we must see ourselves, / How the Germans
+        go Kaput quickly."1'
+    - who: David Boder
+      start: '00:12:48.262'
+      end: '00:12:48.262'
+      u: "[In English] Well, why don't you want to sing the first part?"
+    - who: Bella Zgnilek
+      start: '00:12:51.557'
+      end: '00:12:51.557'
+      u: Oh. [Words not clear] too much.
+    - who: David Boder
+      start: '00:12:53.376'
+      end: '00:12:53.376'
+      u: Well, go ahead. Do it. Perhaps you can do it now. We want to preserve that
+        material. We don't want that material lost. It is very important that we preserve
+        that material. Start the first part. Just hum a little bit with the words.
+        Go ahead.
+    - who: Bella Zgnilek
+      start: '00:13:07.719'
+      end: '00:13:07.719'
+      u: '[In German] Vor den Baracken in Gabersdorf / steht ein Gitter um den Hof
+        / und die Mädels traurig wissen, / draußen tut die Freiheit glitzen. / Ade
+        Sudentenland!Translation: "In front of the barracks in  / Stands a barbed
+        fence around the yard, / And the girls with sorrowful faces [or sit sorrowfully]
+        / while outside freedom glitters. / Good-bye Sudetenland."2'
+    - who: David Boder
+      start: '00:13:20.782'
+      end: '00:13:20.782'
+      u: "[In English] Bella will now recite the first and last verse of a poem that
+        she has written in camp. The rest she will give me later in typed form, and
+        we can preserve it together with the record. Go ahead."
+    - who: Bella Zgnilek
+      start: '00:13:38.174'
+      end: '00:13:38.174'
+      u: '[In Polish] Moje Miasto: [Tylko niektóre zdania są wyrażne]...piękny, majowy...płacze
+        bolesne...pociąg...tam moji drodzy zostali...a miasto...oderwali...piękny,
+        majowy...już przemineło...i tylko po nocach...to miasto mi się śni...Due to
+        the audio quality of the reproduction, an accurate Polish transcription was
+        not possible. Boder''s English translation from  reads: "My Town: I remember,
+        the day was like any other, beautiful, May-like. / The sun was in its last
+        rays. / [unintelligible] bitter cries. / [unintelligible] childhood games.
+        / I remember with longing, sadly and with tears / and by night that town appears
+        in my dreams."3'
+    - who: David Boder
+      start: '00:14:50.802'
+      end: '00:14:50.802'
+      u: "[In English] Well, that was very good. Bella, you will give me the whole
+        thing typed out in Polish and then a free English translation. Good? [Footnote:
+        Unfortunately I did not obtain the promised material in written form. I may
+        have left Paris without seeing her again. —D.P.B.]"
+    - who: Bella Zgnilek
+      start: '00:15:02.139'
+      end: '00:15:02.139'
+      u: All right.
+    - who: David Boder
+      start: '00:15:02.723'
+      end: '00:15:02.723'
+      u: All right. Now tell me what happened then after the...you were through with...when
+        you...from the factory work I understand you were transferred to office work.
+    - who: Bella Zgnilek
+      start: '00:15:11.892'
+      end: '00:15:11.892'
+      u: Yes.
+    - who: David Boder
+      start: '00:15:12.627'
+      end: '00:15:12.627'
+      u: Now tell how things were going there.
+    - who: Bella Zgnilek
+      start: '00:15:15.290'
+      end: '00:15:15.290'
+      u: Well, it was quite simple. It only was the good point that I didn't work
+        so very hard, because the work in the factory was terrible and unhealthy.
+        Most of the girls...they got ill, because it was dusty.
+    - who: David Boder
+      start: '00:15:34.429'
+      end: '00:15:34.429'
+      u: All right. Now, in the office. Who were your chiefs? Who was over you? How
+        were you working there? Were you working with Germans together?
+    - who: Bella Zgnilek
+      start: '00:15:42.825'
+      end: '00:15:42.825'
+      u: "[I was] not supposed to work with Germans together. And the chief was director
+        of the factory."
+    - who: David Boder
+      start: '00:15:49.644'
+      end: '00:15:49.644'
+      u: Yes? Well, how did they treat you?
+    - who: Bella Zgnilek
+      start: '00:15:54.084'
+      end: '00:15:54.084'
+      u: The Germans in the factory when I walked [?] through—all was quite indifferent
+        to them if I am going through or not.
+    - who: David Boder
+      start: '00:16:04.217'
+      end: '00:16:04.217'
+      u: Yes.
+    - who: Bella Zgnilek
+      start: '00:16:05.163'
+      end: '00:16:05.163'
+      u: But most mistreated [?] we have been by the SS women.
+    - who: David Boder
+      start: '00:16:08.759'
+      end: '00:16:08.759'
+      u: What? By the SS women.
+    - who: Bella Zgnilek
+      start: '00:16:09.886'
+      end: '00:16:09.886'
+      u: SS women.
+    - who: David Boder
+      start: '00:16:11.103'
+      end: '00:16:11.103'
+      u: Yes? What were they doing there?
+    - who: Bella Zgnilek
+      start: '00:16:15.844'
+      end: '00:16:15.844'
+      u: Striking for nothing, shaving our hair.
+    - who: David Boder
+      start: '00:16:19.952'
+      end: '00:16:19.952'
+      u: Did they have your's shaved off?
+    - who: Bella Zgnilek
+      start: '00:16:26.621'
+      end: '00:16:26.621'
+      u: "[Pause.] Not quite, but I had shaved [cut] the hair very short."
+    - who: David Boder
+      start: '00:16:30.488'
+      end: '00:16:30.488'
+      u: Aha. [Aside] she has now a nice head of black hair. All right. Nun...And
+        how long did you work there, in the office?
+    - who: Bella Zgnilek
+      start: '00:16:43.061'
+      end: '00:16:43.061'
+      u: Two years.
+    - who: David Boder
+      start: '00:16:44.489'
+      end: '00:16:44.489'
+      u: You worked for two years there in the office.
+    - who: Bella Zgnilek
+      start: '00:16:46.820'
+      end: '00:16:46.820'
+      u: That's right.
+    - who: David Boder
+      start: '00:16:47.977'
+      end: '00:16:47.977'
+      u: Were you well all the time?
+    - who: Bella Zgnilek
+      start: '00:16:51.272'
+      end: '00:16:51.272'
+      u: Yes. If I wouldn't have been working in the office maybe I wouldn't be alive
+        any more, because the factory work would be too difficult for me.
+    - who: David Boder
+      start: '00:16:59.055'
+      end: '00:16:59.055'
+      u: Yes. Did they pay anything for the work?
+    - who: Bella Zgnilek
+      start: '00:17:02.320'
+      end: '00:17:02.320'
+      u: Nothing.
+    - who: David Boder
+      start: '00:17:03.928'
+      end: '00:17:03.928'
+      u: Well, when you needed some things, soap, or...did you have toothpaste?
+    - who: Bella Zgnilek
+      start: '00:17:09.091'
+      end: '00:17:09.091'
+      u: Oh, we didn't get anything from them. Just one little piece of soap, and
+        we had to wash ourselves only with water.
+    - who: David Boder
+      start: '00:17:18.651'
+      end: '00:17:18.651'
+      u: You washed yourself only with water.
+    - who: Bella Zgnilek
+      start: '00:17:21.464'
+      end: '00:17:21.464'
+      u: And...Oh yes, we got one piece of soap, but that wasn't enough for the whole
+        month.
+    - who: David Boder
+      start: '00:17:27.078'
+      end: '00:17:27.078'
+      u: Aha. And how did you handle you laundry? Or did you wash your clothing?
+    - who: Bella Zgnilek
+      start: '00:17:36.096'
+      end: '00:17:36.096'
+      u: "[Giggles.] Everybody knows that in camp [it] wasn't so clean."
+    - who: David Boder
+      start: '00:17:39.572'
+      end: '00:17:39.572'
+      u: The camp wasn't so clean. Did you have any insects there?
+    - who: Bella Zgnilek
+      start: '00:17:46.391'
+      end: '00:17:46.391'
+      u: Hm.
+    - who: David Boder
+      start: '00:17:47.608'
+      end: '00:17:47.608'
+      u: No? How did they manage...if the camp wasn't so clean, how did they manage
+        to keep the insects away? Did you have lice?
+    - who: Bella Zgnilek
+      start: '00:17:57.030'
+      end: '00:17:57.030'
+      u: It was some. We haven't been too many in one camp, so it wasn't...we haven't
+        had so many lice as in camps where it was overcrowded. There was epidemic,
+        too.
+    - who: David Boder
+      start: '00:18:08.954'
+      end: '00:18:08.954'
+      u: Yes. Now tell me, so after the two years working in the office, what happened
+        then?
+    - who: Bella Zgnilek
+      start: '00:18:14.960'
+      end: '00:18:14.960'
+      u: I worked in the office till the liberation. Then came the Russians. They
+        liberated us, and we were free.
+    - who: David Boder
+      start: '00:18:23.587'
+      end: '00:18:23.587'
+      u: Oh! You worked until the liberation?
+    - who: Bella Zgnilek
+      start: '00:18:26.159'
+      end: '00:18:26.159'
+      u: Yes.
+    - who: David Boder
+      start: '00:18:26.773'
+      end: '00:18:26.773'
+      u: And then...and you were freed. Tell me, how did you get to France?
+    - who: Bella Zgnilek
+      start: '00:18:36.224'
+      end: '00:18:36.224'
+      u: We have been seven girls together...
+    - who: David Boder
+      start: '00:18:41.838'
+      end: '00:18:41.838'
+      u: Yes.
+    - who: Bella Zgnilek
+      start: '00:18:42.332'
+      end: '00:18:42.332'
+      u: in camp. And we decided to come to France. We wanted to go to Palestine.
+    - who: David Boder
+      start: '00:18:48.760'
+      end: '00:18:48.760'
+      u: Yes.
+    - who: Bella Zgnilek
+      start: '00:18:49.706'
+      end: '00:18:49.706'
+      u: So we decided to come to France before, to get transportation.
+    - who: David Boder
+      start: '00:18:54.326'
+      end: '00:18:54.326'
+      u: Yes.
+    - who: Bella Zgnilek
+      start: '00:18:56.115'
+      end: '00:18:56.115'
+      u: And so we came...we managed to come to France. We tried to pass through the
+        border.
+    - who: David Boder
+      start: '00:19:01.609'
+      end: '00:19:01.609'
+      u: Which border, the Russian?
+    - who: Bella Zgnilek
+      start: '00:19:03.368'
+      end: '00:19:03.368'
+      u: It was the German border.
+    - who: David Boder
+      start: '00:19:05.639'
+      end: '00:19:05.639'
+      u: Yes?
+    - who: Bella Zgnilek
+      start: '00:19:06.314'
+      end: '00:19:06.314'
+      u: The German border, Austrian border, and then the French.
+    - who: David Boder
+      start: '00:19:09.459'
+      end: '00:19:09.459'
+      u: Yes.
+    - who: Bella Zgnilek
+      start: '00:19:10.194'
+      end: '00:19:10.194'
+      u: And we came to French.
+    - who: David Boder
+      start: '00:19:12.314'
+      end: '00:19:12.314'
+      u: You came to France. And how did you pay your passage?
+    - who: Bella Zgnilek
+      start: '00:19:17.592'
+      end: '00:19:17.592'
+      u: Oh, we didn't pay for anything. We just came together with all people.
+    - who: David Boder
+      start: '00:19:22.363'
+      end: '00:19:22.363'
+      u: Yes? And then?
+    - who: Bella Zgnilek
+      start: '00:19:23.941'
+      end: '00:19:23.941'
+      u: Liberated people.
+    - who: David Boder
+      start: '00:19:24.917'
+      end: '00:19:24.917'
+      u: Liberated people were what? Shipped...sent...shipped by the...
+    - who: Bella Zgnilek
+      start: '00:19:28.845'
+      end: '00:19:28.845'
+      u: Sent by the government [word not clear].
+    - who: David Boder
+      start: '00:19:31.146'
+      end: '00:19:31.146'
+      u: By railroad. You said that you wanted to go to France, and you went to France?
+    - who: Bella Zgnilek
+      start: '00:19:35.706'
+      end: '00:19:35.706'
+      u: Yes. It was easy for us.
+    - who: David Boder
+      start: '00:19:39.242'
+      end: '00:19:39.242'
+      u: Did you have to cross the border...what...you came...
+    - who: Bella Zgnilek
+      start: '00:19:44.043'
+      end: '00:19:44.043'
+      u: With...with other French people we came together.
+    - who: David Boder
+      start: '00:19:47.338'
+      end: '00:19:47.338'
+      u: Aha. Nun...and now what do you plan to do?
+    - who: Bella Zgnilek
+      start: '00:19:52.574'
+      end: '00:19:52.574'
+      u: I am waiting for transportation. I have relatives in Canada. I have relatives
+        in Argentina, but it is very difficult for me to get over, because...
+    - who: David Boder
+      start: '00:20:01.050'
+      end: '00:20:01.050'
+      u: And [?] why?
+    - who: Bella Zgnilek
+      start: '00:20:02.689'
+      end: '00:20:02.689'
+      u: Because [there is] no transportation. I am twenty-two, and transportation
+        is only for children till sixteen.
+    - who: David Boder
+      start: '00:20:08.364'
+      end: '00:20:08.364'
+      u: Oh! You mean a transporation permit to Argentina?
+    - who: Bella Zgnilek
+      start: '00:20:11.810'
+      end: '00:20:11.810'
+      u: Yes. I am not permitted to enter the country.
+    - who: David Boder
+      start: '00:20:15.738'
+      end: '00:20:15.738'
+      u: Argentina? Do you have relatives in Argentina?
+    - who: Bella Zgnilek
+      start: '00:20:18.521'
+      end: '00:20:18.521'
+      u: Right.
+    - who: David Boder
+      start: '00:20:20.039'
+      end: '00:20:20.039'
+      u: You told me you have relatives in Chicago. Who are they?
+    - who: Bella Zgnilek
+      start: '00:20:23.394'
+      end: '00:20:23.394'
+      u: No. It is just a friend, a little girl friend.
+    - who: David Boder
+      start: '00:20:26.539'
+      end: '00:20:26.539'
+      u: Aha. The other girl has her relatives there.
+    - who: Bella Zgnilek
+      start: '00:20:28.870'
+      end: '00:20:28.870'
+      u: That's right.
+    - who: David Boder
+      start: '00:20:29.906'
+      end: '00:20:29.906'
+      u: what is the name of your girl friend?
+    - who: Bella Zgnilek
+      start: '00:20:31.966'
+      end: '00:20:31.966'
+      u: Goldie Birnbaum.
+    - who: David Boder
+      start: '00:20:33.815'
+      end: '00:20:33.815'
+      u: Birnbaum.
+    - who: Bella Zgnilek
+      start: '00:20:34.761'
+      end: '00:20:34.761'
+      u: Right.
+    - who: David Boder
+      start: '00:20:35.406'
+      end: '00:20:35.406'
+      u: Was she with you in camp?
+    - who: Bella Zgnilek
+      start: '00:20:36.683'
+      end: '00:20:36.683'
+      u: No, no, no. She is in the States for...from before the war.
+    - who: David Boder
+      start: '00:20:40.912'
+      end: '00:20:40.912'
+      u: What did you say is her first name?
+    - who: Bella Zgnilek
+      start: '00:20:43.304'
+      end: '00:20:43.304'
+      u: Goldie.
+    - who: David Boder
+      start: '00:20:43.798'
+      end: '00:20:43.798'
+      u: Goldie Birnbaum. Do you know her address?
+    - who: Bella Zgnilek
+      start: '00:20:46.973'
+      end: '00:20:46.973'
+      u: I have it written somewhere, but I have to look for it.
+    - who: David Boder
+      start: '00:20:50.238'
+      end: '00:20:50.238'
+      u: Have you written to her?
+    - who: Bella Zgnilek
+      start: '00:20:51.605'
+      end: '00:20:51.605'
+      u: Yes.
+    - who: David Boder
+      start: '00:20:52.219'
+      end: '00:20:52.219'
+      u: Did she reply?
+    - who: Bella Zgnilek
+      start: '00:20:53.135'
+      end: '00:20:53.135'
+      u: Yes.
+    - who: David Boder
+      start: '00:20:53.810'
+      end: '00:20:53.810'
+      u: Did she send you some packages?
+    - who: Bella Zgnilek
+      start: '00:20:56.081'
+      end: '00:20:56.081'
+      u: She did.
+    - who: David Boder
+      start: '00:20:56.967'
+      end: '00:20:56.967'
+      u: Aha. And now you are working here in the office of the Joint?
+    - who: Bella Zgnilek
+      start: '00:21:01.106'
+      end: '00:21:01.106'
+      u: Yes.
+    - who: David Boder
+      start: '00:21:02.504'
+      end: '00:21:02.504'
+      u: And so that is what you are at present doing. All right, Bella, thank you
+        very much. Can you ask your girl friend to come in?
+    - who: Bella Zgnilek
+      start: '00:21:14.896'
+      end: '00:21:14.896'
+      u: I will.
+    - who: David Boder
+      start: '00:21:15.480'
+      end: '00:21:15.480'
+      u: Was she with you in the same place all the time?
+    - who: Bella Zgnilek
+      start: '00:21:17.811'
+      end: '00:21:17.811'
+      u: No, no. She hasn't been in a camp.
+    - who: David Boder
+      start: '00:21:18.335'
+      end: '00:21:18.335'
+      u: No. Where was she?
+    - who: Bella Zgnilek
+      start: '00:21:20.365'
+      end: '00:21:20.365'
+      u: Sorry, I can't tell you. I don't know. We know each other since [for] two
+        weeks.
+    - who: David Boder
+      start: '00:21:24.775'
+      end: '00:21:24.775'
+      u: All right. Will you ask her to come in?
+    - who: Bella Zgnilek
+      start: '00:21:27.317'
+      end: '00:21:27.317'
+      u: Yes, I sure will.
+    - who: David Boder
+      start: '00:21:28.323'
+      end: '00:21:28.323'
+      u: Thank you very much. Is there anything...is there anything you want to tell
+        your own people in America from you? [Pause.] The microphone is yours. What
+        do you think shall we tell them about all these...displaced people and deportees?
+    - who: Bella Zgnilek
+      start: '00:21:59.176'
+      end: '00:21:59.176'
+      u: Well, I will just send them regards, and I am happy that not everybody of
+        the Jews went through such a hell [?] as we did. [Pause.]
+    - who: David Boder
+      start: '00:22:15.937'
+      end: '00:22:15.937'
+      u: Bella wants to add a few remarks in Polish. Go ahead, Bella.
+    - who: Bella Zgnilek
+      start: '00:22:22.084'
+      end: '00:22:22.084'
+      u: '[In Polish] [unintelligible]Due to the audio quality of the reproduction,
+        an accurate Polish transcription was not possible. Boder''s English translation
+        from  reads: "I would like to tell you, my friends, that all of us Jews ought
+        to hate the Germans because of the wrongs which they did to us and our families,
+        because they broke our hearts, broke our homes, and we ought never to forget
+        that."4'
+    - who: David Boder
+      start: '00:22:52.963'
+      end: 
+      u: This was a kind of a postscript that I wanted to have, because it's exceedingly
+        important to have the feelings of these young people. We notice here that
+        she spoke in German, in English, in Polish, and when it came to express her
+        feelings she preferred to express it in Polish. This polyglotism, or multilinguistics
+        if we want to call it that way, represents a psychological and ethnic problem
+        at the same time.
   translation: 
+transcript: {}
+translation: {}

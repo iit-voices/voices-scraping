@@ -25,5 +25,2703 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: de
+    interview:
+    - who: David Boder
+      start: '00:00:00.271'
+      end: '00:00:00.271'
+      u: "[In German] Sei können jüdisch oder deutsch reden, wie Sie wollen."
+    - who: Julian Weinberg
+      start: '00:00:02.377'
+      end: '00:00:02.377'
+      u: Hm.
+    - who: David Boder
+      start: '00:00:02.678'
+      end: '00:00:02.678'
+      u: Von wo sind Sie jetzt gekommen?
+    - who: Julian Weinberg
+      start: '00:00:05.361'
+      end: '00:00:05.361'
+      u: Ich bin gekommen von...aus Lodz.
+    - who: David Boder
+      start: '00:00:08.193'
+      end: '00:00:08.193'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:00:08.735'
+      end: '00:00:08.735'
+      u: Polen.
+    - who: David Boder
+      start: '00:00:09.458'
+      end: '00:00:09.458'
+      u: Polen. Wie ist Ihr voller Name?
+    - who: David Boder
+      start: '00:00:15.542'
+      end: '00:00:15.542'
+      u: "[In English] August 17, 1946. Paris, Grand Hotel. Spool Number 49. An Illinois
+        Institute of Technology recording. The interviewee is with the engineer Julian
+        Weinberg from Lodz, Poland."
+    - who: David Boder
+      start: '00:00:33.918'
+      end: '00:00:33.918'
+      u: "[In German] Also Herr Weinberg, wollen Sie mir nochmals sagen, was ist Ihr
+        Name und von wo sind Sie?"
+    - who: Julian Weinberg
+      start: '00:00:41.490'
+      end: '00:00:41.490'
+      u: Mein Name ist Julian Weinberg aus Lodz, Polen.
+    - who: David Boder
+      start: '00:00:49.773'
+      end: '00:00:49.773'
+      u: Was tun Sie jetzt in Lodz, Herr Weinberger?
+    - who: Julian Weinberg
+      start: '00:00:52.364'
+      end: '00:00:52.364'
+      u: Jetzt bin ich Leitender Direktor des Elektrizitätswerkes Lodz.
+    - who: David Boder
+      start: '00:01:01.051'
+      end: '00:01:01.051'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:01:01.696'
+      end: '00:01:01.696'
+      u: Das ist...das ist eines der größten Elektrizitätswerke Polens.
+    - who: David Boder
+      start: '00:01:07.973'
+      end: '00:01:07.973'
+      u: Ja. Sagen Sie mal, waren Sie auch vor dem Kriege mit diesen Werken verbunden?
+    - who: Julian Weinberg
+      start: '00:01:13.967'
+      end: '00:01:13.967'
+      u: Ja, vor dem Kriege habe ich auch gearbeitet in diesem Werke seit 1911.
+    - who: David Boder
+      start: '00:01:20.985'
+      end: '00:01:20.985'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:01:21.588'
+      end: '00:01:21.588'
+      u: Und im Jahre, in diesem Jahre neunzehn hundert sechs und vierzig (1946) habe
+        ich das fünf und dreißig (35) jährige Jubiläum meiner Arbeit in diesem Elektrizitätswerke
+        gefeiert.
+    - who: David Boder
+      start: '00:01:40.516'
+      end: '00:01:40.516'
+      u: Ja. Aber Sie sehen aus, wie ein ganz junger Mensch, Herr Weinberg! Wie alt
+        sind Sie?
+    - who: Julian Weinberg
+      start: '00:01:45.859'
+      end: '00:01:45.859'
+      u: Ich bin geboren achtzehn hundert neunzig (1890)...
+    - who: David Boder
+      start: '00:01:49.444'
+      end: '00:01:49.444'
+      u: Aha.
+    - who: Julian Weinberg
+      start: '00:01:50.028'
+      end: '00:01:50.028'
+      u: ". . . ich bin sechs und fünfzig (56) Jahre alt."
+    - who: David Boder
+      start: '00:01:52.197'
+      end: '00:01:52.197'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:01:53.492'
+      end: '00:01:53.492'
+      u: Und als ein und zwanzig (21) jähriger junger Mann habe ich bereits den Posten
+        eines Ingenieurs in dem Elektrizitätswerk Lodz übernommen
+    - who: David Boder
+      start: '00:02:07.498'
+      end: '00:02:07.498'
+      u: Also das war noch...[beide sprechen]
+    - who: Julian Weinberg
+      start: '00:02:08.673'
+      end: '00:02:08.673'
+      u: Gleich nach...das war neunzehn hundert elf (1911)—das heißt kurz nach meinem
+        Studium.
+    - who: David Boder
+      start: '00:02:17.028'
+      end: '00:02:17.028'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:02:17.450'
+      end: '00:02:17.450'
+      u: Studiert habe ich in Paris. War ich...habe ich studiert Mathematik, das war
+        auf der Sorbonne und dann habe ich das Polytechnikum in Nancy absolviert.
+    - who: David Boder
+      start: '00:02:31.908'
+      end: '00:02:31.908'
+      u: Also, Sie waren noch Ingenieur zur Zeit wo Polen Russland war?
+    - who: Julian Weinberg
+      start: '00:02:36.649'
+      end: '00:02:36.649'
+      u: Jawohl, ganz richtig.
+    - who: David Boder
+      start: '00:02:37.836'
+      end: '00:02:37.836'
+      u: Ja. Deswegen weil Sie Jude waren, waren Sie angestellt dort?
+    - who: Julian Weinberg
+      start: '00:02:41.716'
+      end: '00:02:41.716'
+      u: Ja, wenn Polen noch an Russland gehörte.
+    - who: David Boder
+      start: '00:02:46.638'
+      end: '00:02:46.638'
+      u: Nun, sagen Sie mal, Herr Weinberg...
+    - who: Julian Weinberg
+      start: '00:02:48.277'
+      end: '00:02:48.277'
+      u: Das war das Kongress Polen.
+    - who: David Boder
+      start: '00:02:50.217'
+      end: '00:02:50.217'
+      u: Ja. Ich bin ein bisschen nervös, denn Sie wollen mir nicht mehr als eine
+        halbe ( ½ ) Stunde geben und ich weiß, dass Sie sehr viel zu erzählen haben.
+        Darum möchte ich Sie Folgendes bitten. Beantworten Sie ein paar Fragen. Wo
+        waren Sie, wenn die Deutschen Polen...also nach Polen rein kamen?
+    - who: Julian Weinberg
+      start: '00:03:13.271'
+      end: '00:03:13.271'
+      u: Im letzten Krieg?
+    - who: David Boder
+      start: '00:03:15.128'
+      end: '00:03:15.128'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:03:16.014'
+      end: '00:03:16.014'
+      u: Da war ich in Lodz.
+    - who: David Boder
+      start: '00:03:17.562'
+      end: '00:03:17.562'
+      u: Sie waren in Lodz auf Ihrer Stelle?
+    - who: Julian Weinberg
+      start: '00:03:19.369'
+      end: '00:03:19.369'
+      u: Auf meiner Stelle, ja.
+    - who: David Boder
+      start: '00:03:22.261'
+      end: '00:03:22.261'
+      u: Wie lange haben Sie die Deutschen zufrieden gelassen? Wie lange haben Sie
+        gearbeitet nachdem die Deutschen gekommen sind?
+    - who: Julian Weinberg
+      start: '00:03:31.731'
+      end: '00:03:31.731'
+      u: Nachdem die Deutschen gekommen sind, habe ich gearbeitet...
+    - who: David Boder
+      start: '00:03:36.201'
+      end: '00:03:36.201'
+      u: Nun?
+    - who: Julian Weinberg
+      start: '00:03:40.430'
+      end: '00:03:40.430'
+      u: ". . . hm, zwei (2) Monate."
+    - who: David Boder
+      start: '00:03:42.219'
+      end: '00:03:42.219'
+      u: Zwei Monate.
+    - who: Julian Weinberg
+      start: '00:03:42.791'
+      end: '00:03:42.791'
+      u: Zwei Monate. Und dann wurde unser Werk durch einen SS Mann übernommen...
+    - who: David Boder
+      start: '00:03:50.123'
+      end: '00:03:50.123'
+      u: Hm.
+    - who: Julian Weinberg
+      start: '00:03:51.701'
+      end: '00:03:51.701'
+      u: ". . . und ich musste—als Jude—musste ich meinen Posten verlassen. Also..."
+    - who: David Boder
+      start: '00:04:06.069'
+      end: '00:04:06.069'
+      u: Und was haben Sie dann getan?
+    - who: Julian Weinberg
+      start: '00:04:09.906'
+      end: '00:04:09.906'
+      u: Dann kam eine Verordnung...alle Juden mussten die Stadt verlassen, um sich
+        nach dem Ghetto zu...hm,...
+    - who: David Boder
+      start: '00:04:23.132'
+      end: '00:04:23.132'
+      u: Zu begeben.
+    - who: Julian Weinberg
+      start: '00:04:23.491'
+      end: '00:04:23.491'
+      u: ". . . zu begeben. Ja."
+    - who: David Boder
+      start: '00:04:24.937'
+      end: '00:04:24.937'
+      u: Sprechen Sie Jiddisch lieber?
+    - who: Julian Weinberg
+      start: '00:04:26.455'
+      end: '00:04:26.455'
+      u: Das ist ganz egal.
+    - who: David Boder
+      start: '00:04:27.521'
+      end: '00:04:27.521'
+      u: Also, beschreiben Sie uns...als ein intelligenter Mensch, als ein Ingenieur,
+        beschreiben Sie uns das Lodzer Ghetto.
+    - who: Julian Weinberg
+      start: '00:04:34.961'
+      end: '00:04:34.961'
+      u: Also bevor wir noch in das Ghetto gegangen sind, da haben wir bekommen früher...zuerst
+        solche...eine gelbe Armbinde, damit man uns auf der Strasse als Jude unterscheidet.
+        Und dann war das noch zu wenig für die Deutschen, haben sie uns dann solche
+        gelben Sterne angeklebt von vorne und von hinten, damit man von allen Seiten
+        bemerkt, dass da ein Jude geht. Natürlich war der ganze Verkehr in der Stadt
+        für die Juden fast unmöglich, weil die wurden von den Deutschen, hm, auf der
+        Strasse, so verschiedene, ganz gewöhnliche Arbeiter wurden von den Deutschen
+        genommen, unabhängig davon wer das ist, ob das ein Arbeiter oder ein Intelligenter
+        ist, musste er die schwersten Arbeiten ausführen.
+    - who: David Boder
+      start: '00:05:32.717'
+      end: '00:05:32.717'
+      u: Was für Arbeiten haben Sie ausführen müssen?
+    - who: Julian Weinberg
+      start: '00:05:36.344'
+      end: '00:05:36.344'
+      u: Ich musste, zum Beispiel, Fußboden scheuern eines Tages.
+    - who: David Boder
+      start: '00:05:44.579'
+      end: '00:05:44.579'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:05:45.404'
+      end: '00:05:45.404'
+      u: Ich hatte noch einen Fall, als meine Mutter am fünften (5.) März gestorben
+        ist und ich musste sie beerdigen. Da war ich der Einzige auf dem Friedhof;
+        niemand durfte die Leiche begleiten ans Grab. Und als ich vom Friedhof zurück
+        kehrte wurde ich auf der Strasse aufgefangen von einem jungen Volksdeutschen
+        und in ein Tor geschleppt und auf dem Hofe musste ich Kohle von einem Fuhrwerk
+        nach dem Keller tragen.
+    - who: David Boder
+      start: '00:06:30.504'
+      end: '00:06:30.504'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:06:32.263'
+      end: '00:06:32.263'
+      u: Und das dauerte ein paar Stunden. Da war...
+    - who: David Boder
+      start: '00:06:34.793'
+      end: '00:06:34.793'
+      u: Und...
+    - who: Julian Weinberg
+      start: '00:06:35.094'
+      end: '00:06:35.094'
+      u: Das war genau als ich vom Friedhof nach Hause mich begeben wollte.
+    - who: David Boder
+      start: '00:06:40.727'
+      end: '00:06:40.727'
+      u: Also, Herr Weinberg, wollen wir das klar haben, also einfach ein Junge, nicht
+        ein Offizier, nicht ein Beamter...
+    - who: Julian Weinberg
+      start: '00:06:48.992'
+      end: '00:06:48.992'
+      u: Nein.
+    - who: David Boder
+      start: '00:06:49.745'
+      end: '00:06:49.745'
+      u: Einfach ein...
+    - who: Julian Weinberg
+      start: '00:06:51.023'
+      end: '00:06:51.023'
+      u: Das war ein junger...so ungefähr ein und zwanzig (21)...ein junger Mann...
+    - who: David Boder
+      start: '00:06:55.347'
+      end: '00:06:55.347'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:06:55.890'
+      end: '00:06:55.890'
+      u: Mit einer Peitsche.
+    - who: David Boder
+      start: '00:06:57.709'
+      end: '00:06:57.709'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:06:58.643'
+      end: '00:06:58.643'
+      u: Hat er mich auf der Strasse aufgefangen und in ein Tor geschleppt in ein
+        Haus.
+    - who: David Boder
+      start: '00:07:04.155'
+      end: '00:07:04.155'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:07:04.908'
+      end: '00:07:04.908'
+      u: Und dort waren noch andere Juden; es waren angesammelt zirka fünfzehn (15)
+        Mann und alle mussten Kohle schleppen.
+    - who: David Boder
+      start: '00:07:16.354'
+      end: '00:07:16.354'
+      u: Für wen hat man die Kohle geschleppt? Was es eine Behörde oder war es private...
+    - who: Julian Weinberg
+      start: '00:07:20.432'
+      end: '00:07:20.432'
+      u: Das war für die nationale sozialistische Volksorganisation, also N S V.
+    - who: David Boder
+      start: '00:07:30.191'
+      end: '00:07:30.191'
+      u: Ja. Und die haben einfach...
+    - who: Julian Weinberg
+      start: '00:07:31.577'
+      end: '00:07:31.577'
+      u: N S V .
+    - who: David Boder
+      start: '00:07:31.890'
+      end: '00:07:31.890'
+      u: ". . . Leute auf der Strasse aufgehalten?"
+    - who: Julian Weinberg
+      start: '00:07:33.649'
+      end: '00:07:33.649'
+      u: Ja.
+    - who: David Boder
+      start: '00:07:34.011'
+      end: '00:07:34.011'
+      u: Und gezwungen zu arbeiten.
+    - who: Julian Weinberg
+      start: '00:07:34.746'
+      end: '00:07:34.746'
+      u: Ja.
+    - who: David Boder
+      start: '00:07:35.451'
+      end: '00:07:35.451'
+      u: Nun?
+    - who: Julian Weinberg
+      start: '00:07:37.240'
+      end: '00:07:37.240'
+      u: Als die Arbeit fertig war...
+    - who: David Boder
+      start: '00:07:39.108'
+      end: '00:07:39.108'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:07:39.903'
+      end: '00:07:39.903'
+      u: ". . . da wurden Mehrere nach Hause gelassen. Aber mich...wenn sie erfuhren
+        ich bin Ingenieur,..."
+    - who: David Boder
+      start: '00:07:48.036'
+      end: '00:07:48.036'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:07:48.560'
+      end: '00:07:48.560'
+      u: ". . . haben sie mich zurück gelassen und ich musste noch zwei (2) Stunden
+        länger bleiben, weil sie mich als Intele...als Intellektuellen betrachtet
+        haben. Und ich musste noch zwei (2) Stunden noch Kohle, hm,..."
+    - who: David Boder
+      start: '00:08:06.331'
+      end: '00:08:06.331'
+      u: Schleppen.
+    - who: Julian Weinberg
+      start: '00:08:06.753'
+      end: '00:08:06.753'
+      u: ". . . schleppen die Kohle, ja, von einem Keller in den Anderen, so eine
+        unbrauchbare Arbeit eigentlich musste ich ausführen."
+    - who: David Boder
+      start: '00:08:13.753'
+      end: '00:08:13.753'
+      u: Ach so, das war bloß Schikanerie?
+    - who: Julian Weinberg
+      start: '00:08:15.801'
+      end: '00:08:15.801'
+      u: Ja, das war eine reine Schikane...
+    - who: David Boder
+      start: '00:08:18.633'
+      end: '00:08:18.633'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:08:18.946'
+      end: '00:08:18.946'
+      u: ". . . und dann erst in den späten Abendstunden konnte ich nach Hause gehen."
+    - who: David Boder
+      start: '00:08:25.061'
+      end: '00:08:25.061'
+      u: Hm.
+    - who: Julian Weinberg
+      start: '00:08:25.465'
+      end: '00:08:25.465'
+      u: Überhaupt auf der Strasse war es ganz gefährlich für die Juden, weil jeder
+        konnte...konnte mit uns machen, was er nur wollte. Das ist nur eine kleine
+        Episode, die ich kurz vor dem, hm, dem Übertritt in das Ghetto hatte. Nun...
+    - who: David Boder
+      start: '00:08:47.314'
+      end: '00:08:47.314'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:08:47.857'
+      end: '00:08:47.857'
+      u: ". . . war es beschlossen, dass eigentlich die...das nach dem Lodzer Ghetto...sollte
+        man eigentlich organisiert gehen. Also jeden Tag sollte ein bestimmtes Stadtviertel
+        übersiedelt werden."
+    - who: David Boder
+      start: '00:09:05.490'
+      end: '00:09:05.490'
+      u: Bei den Deutschen?
+    - who: Julian Weinberg
+      start: '00:09:06.315'
+      end: '00:09:06.315'
+      u: Bei den Deutschen, ja. Hm, dort wo ich wohnte ungefähr—dieses Stadtviertel
+        sollte zuerst gehen. Also...
+    - who: David Boder
+      start: '00:09:20.863'
+      end: '00:09:20.863'
+      u: War das ein besseres Stadtviertel?
+    - who: Julian Weinberg
+      start: '00:09:22.603'
+      end: '00:09:22.603'
+      u: Das war ein besseres Stadtviertel, ja. Und, hm, Punkt um siebzehn (17) Uhr
+        wurde unser Haus durch SS Mann...
+    - who: David Boder
+      start: '00:09:37.133'
+      end: '00:09:37.133'
+      u: Umzingelt?
+    - who: Julian Weinberg
+      start: '00:09:37.916'
+      end: '00:09:37.916'
+      u: umzingelt und alle Juden mussten das Haus verlassen. Also die SS Männer,
+        die kamen direkt in die Wohnungen, wo Juden wohnten; haben...haben...haben
+        uns nur fünf (5) Minuten Zeit gegeben damit wir sofort die Wohnung verlassen.
+        Also jeder hat...konnte nur mitnehmen das Allerwenigste, was er hatte in einem
+        Rucksack, um...um sich nach draußen auf den Hof zu begeben. Mit meinem Sohn
+        hatte ich auch so einen Fall. Er hat so ein arisches Aussehen. Da hatte er
+        Peitschen bekommen, weil er mit dem Vater mitgehen wollte. Ihm glaubte der
+        SS Mann nicht, dass er Jude ist. Und er dachte, er wollte sich mit den Juden
+        mit schmuggeln. Nun ich musste erst feststellen, dass das mein Sohn ist, dann
+        hat man ihn auch mit genommen.
+    - who: David Boder
+      start: '00:10:51.537'
+      end: '00:10:51.537'
+      u: Na, für welches „Glück“ wollte er sich mit den Juden mit schmuggeln?
+    - who: Julian Weinberg
+      start: '00:10:55.043'
+      end: '00:10:55.043'
+      u: Na, er wollte mit den Eltern gehen.
+    - who: David Boder
+      start: '00:10:57.091'
+      end: '00:10:57.091'
+      u: Na ja, ich sage aber, warum soll der SS Mann denken, dass er absichtlich
+        ins Ghetto gehen will?
+    - who: Julian Weinberg
+      start: '00:11:02.646'
+      end: '00:11:02.646'
+      u: Aha. Ja, er wusste nicht, er hat vielleicht gedacht, das ist ein Arier, nicht
+        wahr. Dass er vielleicht zufällig...das war ein, hm, Junge—er war damals so
+        zirka, hm, hm, fünfzehn (15) Jahr, nicht wahr.
+    - who: David Boder
+      start: '00:11:18.863'
+      end: '00:11:18.863'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:11:19.146'
+      end: '00:11:19.146'
+      u: Ein kleiner...kleiner Junge, nicht wahr. Da dachte der, er hat sich verlaufen.
+    - who: David Boder
+      start: '00:11:25.411'
+      end: '00:11:25.411'
+      u: Aha. Nun?
+    - who: Julian Weinberg
+      start: '00:11:27.218'
+      end: '00:11:27.218'
+      u: Nun, es war im Winter, es war frostig. Da hat man uns wieder gesammelt auf
+        einem Hof.
+    - who: David Boder
+      start: '00:11:37.550'
+      end: '00:11:37.550'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:11:38.225'
+      end: '00:11:38.225'
+      u: Die haben so von verschiedenen Häusern aus diesem „Quartier“ [Herr Weinberg
+        spricht das französisch aus]—aus diesem Viertel...
+    - who: David Boder
+      start: '00:11:44.532'
+      end: '00:11:44.532'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:11:45.105'
+      end: '00:11:45.105'
+      u: ". . . die Juden angesammelt und wir wussten nicht genau wohin sie uns führen."
+    - who: David Boder
+      start: '00:11:54.816'
+      end: '00:11:54.816'
+      u: Sie führen werden.
+    - who: Julian Weinberg
+      start: '00:11:55.521'
+      end: '00:11:55.521'
+      u: ". . . sie führen werden."
+    - who: David Boder
+      start: '00:11:56.105'
+      end: '00:11:56.105'
+      u: Nun sagen Sie mal, Herr Weinberg, ich möchte natürlich alles hören, was Sie
+        sagen. Aber Sie wollen mir bloß eine halbe ( ½ ) Stunde geben.
+    - who: Julian Weinberg
+      start: '00:12:04.720'
+      end: '00:12:04.720'
+      u: Ja.
+    - who: David Boder
+      start: '00:12:05.184'
+      end: '00:12:05.184'
+      u: Und darum möchte ich zu ein paar anderen Fragen kommen. Wie lange waren Sie
+        im Ghetto?
+    - who: Julian Weinberg
+      start: '00:12:13.750'
+      end: '00:12:13.750'
+      u: Im Ghetto war ich über fünf (5) Jahre, die ganze Zeit. Also ich wollte nur
+        kurz sagen...
+    - who: David Boder
+      start: '00:12:19.082'
+      end: '00:12:19.082'
+      u: Ja, bitte sagen Sie mir alles...[unverständlich; beide sprechen]
+    - who: Julian Weinberg
+      start: '00:12:20.359'
+      end: '00:12:20.359'
+      u: ". . . nachher...nachher, wie wir sind nach dem Ghetto gegangen, haben wir
+        erfahren, dass am selben Tag—die selben SS Männer, dort wo sie in eine Wohnung
+        nicht gleich rein gelassen wurden..."
+    - who: David Boder
+      start: '00:12:33.733'
+      end: '00:12:33.733'
+      u: Hm.
+    - who: Julian Weinberg
+      start: '00:12:34.076'
+      end: '00:12:34.076'
+      u: ". . . da haben sie die Türen aufgebrochen..."
+    - who: David Boder
+      start: '00:12:36.125'
+      end: '00:12:36.125'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:12:36.468'
+      end: '00:12:36.468'
+      u: und wo Kranke liegen, liegten und die nicht mit gehen konnten...
+    - who: David Boder
+      start: '00:12:40.535'
+      end: '00:12:40.535'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:12:40.878'
+      end: '00:12:40.878'
+      u: ". . . haben die die kranken Leute erschossen."
+    - who: David Boder
+      start: '00:12:43.740'
+      end: '00:12:43.740'
+      u: Also wie hat das gekommen...[unverständlich; beide sprechen]
+    - who: Julian Weinberg
+      start: '00:12:44.324'
+      end: '00:12:44.324'
+      u: Also nachdem, nachdem...man erfahren hat...
+    - who: David Boder
+      start: '00:12:48.752'
+      end: '00:12:48.752'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:12:48.993'
+      end: '00:12:48.993'
+      u: ". . . dass sie mit solchen Mitteln nach dem Ghetto treiben wollen, dann
+        sind schon in den nächsten Tagen alle Juden selbst...selbst nach dem Ghetto
+        gegangen."
+    - who: David Boder
+      start: '00:13:00.379'
+      end: '00:13:00.379'
+      u: Hm.
+    - who: Julian Weinberg
+      start: '00:13:00.783'
+      end: '00:13:00.783'
+      u: Also, das sollte dauern, sagen wir eine Woche und in zwei Tagen habe alle
+        Juden selbst die Stadt verlassen, weil sie haben gesehen mit welchen schroffen
+        Mitteln, hm, die Juden behandelt werden. Also wir wurden zu Fuß nach dem Ghetto
+        gebracht—darunter waren viele junge Mädels, alte Frauen in Hausschuhe, manche
+        sind auch barfuss gelaufen...auf dem Schnee. Unterwegs müssen Viele auch die
+        Rucksäcke weg schmeißen, weil es war ihnen zu schwer die Last zu tragen.
+    - who: David Boder
+      start: '00:13:47.147'
+      end: '00:13:47.147'
+      u: Hm.
+    - who: Julian Weinberg
+      start: '00:13:48.352'
+      end: '00:13:48.352'
+      u: Nun sind wir nach dem Ghetto gekommen. Das Ghetto Lodz war vollständig isoliert
+        von der Stadt.
+    - who: David Boder
+      start: '00:14:01.008'
+      end: '00:14:01.008'
+      u: Was war es denn?
+    - who: Julian Weinberg
+      start: '00:14:02.014'
+      end: '00:14:02.014'
+      u: Es war absolut keine Verbindung mit der Stadt. Es war umzingelt mit Draht...
+    - who: David Boder
+      start: '00:14:08.580'
+      end: '00:14:08.580'
+      u: Aber es war in der Stadt?
+    - who: Julian Weinberg
+      start: '00:14:09.996'
+      end: '00:14:09.996'
+      u: Es war an der Peripherie der Stadt. Man hat ausgewählt die Altstadt.
+    - who: David Boder
+      start: '00:14:15.743'
+      end: '00:14:15.743'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:14:17.039'
+      end: '00:14:17.039'
+      u: Das schlimmste Viertel der Stadt.
+    - who: David Boder
+      start: '00:14:21.991'
+      end: '00:14:21.991'
+      u: Ah hm.
+    - who: Julian Weinberg
+      start: '00:14:22.726'
+      end: '00:14:22.726'
+      u: Das wurde den Juden zugeteilt. Und es wurde rings rum mit Stacheldraht umzingelt
+        und mit Polizeiwache streng bewacht, damit niemand das Ghetto verlassen kann
+        und damit überhaupt keine Verbindung mit der Stadt möglich ist. Also anfangs
+        hieß es, dass...von uns lebten die Leute noch. Jeder hatte etwas Geld, was
+        sie mitgenommen. Und Manche haben auch etwas Esswaren mitgenommen, etwas Lebensmittel
+        und man konnte so die ersten paar Tage durchbringen. Später hat sich formiert
+        eine sogenannte Ghetto-Verwaltung. Die Ghetto-Verwaltung war eigentlich eine
+        Form von der...hm, Stadtverwaltung.
+    - who: David Boder
+      start: '00:15:45.001'
+      end: '00:15:45.001'
+      u: Ja. Was meinen sie mit eine...?
+    - who: Julian Weinberg
+      start: '00:15:49.019'
+      end: '00:15:49.019'
+      u: Eine Abteilung...
+    - who: David Boder
+      start: '00:15:50.284'
+      end: '00:15:50.284'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:15:50.495'
+      end: '00:15:50.495'
+      u: ". . . eine Abteilung war von der Stadtverwaltung."
+    - who: David Boder
+      start: '00:15:53.519'
+      end: '00:15:53.519'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:15:55.115'
+      end: '00:15:55.115'
+      u: An der Spitze der Ghetto Verwaltung stand der bekannte Bieburg.
+    - who: David Boder
+      start: '00:16:01.200'
+      end: '00:16:01.200'
+      u: Riebuck?
+    - who: Julian Weinberg
+      start: '00:16:02.206'
+      end: '00:16:02.206'
+      u: Bieburg.
+    - who: David Boder
+      start: '00:16:03.441'
+      end: '00:16:03.441'
+      u: Ein Jude?
+    - who: Julian Weinberg
+      start: '00:16:04.236'
+      end: '00:16:04.236'
+      u: Nein, das war ein Deutscher aus Bremen.
+    - who: David Boder
+      start: '00:16:08.845'
+      end: '00:16:08.845'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:16:10.303'
+      end: '00:16:10.303'
+      u: Ein Kaufmann.
+    - who: David Boder
+      start: '00:16:11.460'
+      end: '00:16:11.460'
+      u: Wie schreiben Sie seinen Namen?
+    - who: Julian Weinberg
+      start: '00:16:12.587'
+      end: '00:16:12.587'
+      u: B-...
+    - who: David Boder
+      start: '00:16:14.888'
+      end: '00:16:14.888'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:16:15.310'
+      end: '00:16:15.310'
+      u: ". . . i-e-b-o-w."
+    - who: David Boder
+      start: '00:16:19.328'
+      end: '00:16:19.328'
+      u: Bieloff? Ja, nun? Er war ein Kaufmann aus Bremen?
+    - who: Julian Weinberg
+      start: '00:16:26.353'
+      end: '00:16:26.353'
+      u: Ja. Und er hat übernommen die ganze Verwaltung. Nun hieß es, die Juden müssen
+        im Ghetto arbeiten, sonst werden sie nicht leben können. Sie müssen auch ihre
+        Existenz verdienen.
+    - who: David Boder
+      start: '00:16:41.847'
+      end: '00:16:41.847'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:16:43.937'
+      end: '00:16:43.937'
+      u: Na, da wurden verschiedene „Departements“ [Herr Weinberg sagt es auf französisch]
+        geschaffen, verschiedene Abteilungen, wo dann die Juden arbeiten mussten.
+        Also sagen wir ein Kleider [unverständlich]...
+    - who: David Boder
+      start: '00:17:00.443'
+      end: '00:17:00.443'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:17:02.311'
+      end: '00:17:02.311'
+      u: ". . . wo man verschieden Kleidungsstücke ausführt...die Schneiderabteilungen.
+        Dann waren eine Metallabteilung, einen elektrotechnische Abteilung, hm, Teppichabteilungen.,
+        Verschiedene. Die Leute, die nicht...die kein Fach besaßen mussten sich umschulen,
+        um etwas zu tun. Natürlich wollten die Juden doch nicht für die deutsche Macht
+        arbeiten. Sie haben nur etwas getan, um den Schein zu geben, als ob sie arbeiten.
+        Sonst hätten wir überhaupt keine Lebensmittel von den Deutschen bekommen.
+        Und schließlich war die jüdische Arbeit die Billigste—hat sich den Leuten,
+        den Deutschen, gelohnt diese verschiedenen Resorts zu schaffen, obwohl die
+        Arbeit nicht sehr intensiv war."
+    - who: David Boder
+      start: '00:18:11.609'
+      end: '00:18:11.609'
+      u: Obwohl die Arbeit nicht so intensiv war, ja?
+    - who: Julian Weinberg
+      start: '00:18:13.717'
+      end: '00:18:13.717'
+      u: Ja.
+    - who: David Boder
+      start: '00:18:13.989'
+      end: '00:18:13.989'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:18:14.814'
+      end: '00:18:14.814'
+      u: Und die war nicht intensiv, weil die...unsere Juden wollten direkt nicht
+        arbeiten für die Deutschen. Es war also eine...eine stille Sabotage gegen
+        die Deutschen. Hm. Die Ghetto Verwaltung hat eigentlich doch die besten...sehr
+        gute Geschäfte gemacht, weil sie haben diese Sachen, die im Ghetto verarbeitet
+        wurden, haben diese auf dem linken Markt verkauft, zum Beispiel:...
+    - who: David Boder
+      start: '00:18:53.664'
+      end: '00:18:53.664'
+      u: Auf dem schwarzen Markt.
+    - who: Julian Weinberg
+      start: '00:18:54.971'
+      end: '00:18:54.971'
+      u: Auf dem schwarzen Markt.
+    - who: David Boder
+      start: '00:18:55.784'
+      end: '00:18:55.784'
+      u: Wie haben Sie das genannt? Der Linke?
+    - who: Julian Weinberg
+      start: '00:18:58.044'
+      end: '00:18:58.044'
+      u: Dem schwarzen Markt, ja.
+    - who: David Boder
+      start: '00:18:59.954'
+      end: '00:18:59.954'
+      u: Aber was war das andere Wort dafür?
+    - who: Julian Weinberg
+      start: '00:19:01.653'
+      end: '00:19:01.653'
+      u: "„Linke“ Markt."
+    - who: David Boder
+      start: '00:19:02.840'
+      end: '00:19:02.840'
+      u: War das ein Ausdruck dafür?
+    - who: Julian Weinberg
+      start: '00:19:04.057'
+      end: '00:19:04.057'
+      u: Ja, Manche nennen es „links“.
+    - who: David Boder
+      start: '00:19:06.177'
+      end: '00:19:06.177'
+      u: Ja, das ist in Ordnung, ich will das nur wissen. Nun...?
+    - who: Julian Weinberg
+      start: '00:19:09.551'
+      end: '00:19:09.551'
+      u: Auf dem schwarzen Markt haben sie es verkauft ohne Gewerbescheine, nicht
+        wahr. Ohne Scheine.
+    - who: David Boder
+      start: '00:19:15.949'
+      end: '00:19:15.949'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:19:16.473'
+      end: '00:19:16.473'
+      u: Zum Beispiel...unser...unsere, hm,...Holzabteilung.
+    - who: David Boder
+      start: '00:19:25.901'
+      end: '00:19:25.901'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:19:26.817'
+      end: '00:19:26.817'
+      u: Haben wir zum Beispiel ausgeschoben sehr viele Möbelstücke...
+    - who: David Boder
+      start: '00:19:31.528'
+      end: '00:19:31.528'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:19:32.444'
+      end: '00:19:32.444'
+      u: ". . . und Kinderbettchen."
+    - who: David Boder
+      start: '00:19:34.704'
+      end: '00:19:34.704'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:19:35.198'
+      end: '00:19:35.198'
+      u: Das haben die ohne Scheine verkaufen können, deshalb hat es sich gelohnt,
+        diese Werke zu führen, ja, ja.
+    - who: David Boder
+      start: '00:19:43.390'
+      end: '00:19:43.390'
+      u: Hm.
+    - who: Julian Weinberg
+      start: '00:19:48.312'
+      end: '00:19:48.312'
+      u: Wir haben doch eigentlich...wir haben kein Geld bekommen, nur Lebensmittel
+        und sehr wenig. Der beste Beweis dafür ist, Tausend von Menschen mussten hungern.
+    - who: David Boder
+      start: '00:20:04.605'
+      end: '00:20:04.605'
+      u: Nun?
+    - who: Julian Weinberg
+      start: '00:20:05.930'
+      end: '00:20:05.930'
+      u: Durch das Lodzer Ghetto gingen durch über zwei hundert tausend (200000) Menschen.
+        Es waren hauptsächlich polnische Juden, es wurden auch aber im Lodzer Ghetto
+        aus Deutschland, aus Österreich und aus der Tschechoslowakei Juden her gebracht—ungefähr
+        fünfzehn tausend (15000) Juden.
+    - who: David Boder
+      start: '00:20:40.306'
+      end: '00:20:40.306'
+      u: Hm.
+    - who: Julian Weinberg
+      start: '00:20:42.626'
+      end: '00:20:42.626'
+      u: Und gerade diese Leute, die konnten sich so schnell nicht an diese schweren
+        Lebensbedingungen im Ghetto gewöhnen und da kann man sagen, dass neunzig (90)
+        Prozent dieser Juden, die aus dem Westen kamen,...
+    - who: David Boder
+      start: '00:21:00.078'
+      end: '00:21:00.078'
+      u: Die vom Ausland kamen...
+    - who: Julian Weinberg
+      start: '00:21:00.692'
+      end: '00:21:00.692'
+      u: ". . . die aus dem Westen kamen, die waren, die mussten den Hungertod mit
+        machen. Auch die polnischen Juden, speziell die Frauen und die älteren Leute,
+        konnten auch nicht mitmachen die schweren Bedingungen und an Hunger und an
+        verschiedenen epidemischen Krankheiten, wie Fleckfieber, Bauchtyphus und Andere
+        sind Viele gestorben. Außer diesen normalen Standardfällen, wenn man das „normal“..."
+    - who: David Boder
+      start: '00:21:48.406'
+      end: '00:21:48.406'
+      u: Nennen.
+    - who: Julian Weinberg
+      start: '00:21:49.382'
+      end: '00:21:49.382'
+      u: ". . . nennen kann..."
+    - who: David Boder
+      start: '00:21:50.069'
+      end: '00:21:50.069'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:21:52.581'
+      end: '00:21:52.581'
+      u: ". . . hm, waren diese vielen Deportationen. Es hieß einfach, dass die Deutschen
+        Leute brauchten zu verschiedenen Arbeiten. Und so viele Leute, die sich schlecht
+        gefühlt haben im Ghetto, die dachten, außerhalb wird es besser sein. Sie gingen
+        zur Arbeit, aber sie kamen nicht mehr zurück. Viele Deportationen wurden bei
+        uns ausgeführt durch die Behörden und zwar durch die Gestapo in Verbindung
+        mit dem Rassenamt. Die Dispositionen, wie uns bekannt wurde, sind aus Berlin
+        gekommen. Und so hieß es—man muss jetzt zehn tausend (10000) Mann deportieren—immer
+        hat es geheißen ‚zur Arbeit’. Aber die Leute sind nie mehr wieder gekommen.
+        Eines schönen Tages haben sie die sogenannte Dienst-Sperre in unserem Ghetto
+        eingeführt."
+    - who: David Boder
+      start: '00:23:13.726'
+      end: '00:23:13.726'
+      u: Dienst-Sperre?
+    - who: Julian Weinberg
+      start: '00:23:14.389'
+      end: '00:23:14.389'
+      u: Dienst Sperre.
+    - who: David Boder
+      start: '00:23:15.293'
+      end: '00:23:15.293'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:23:15.757'
+      end: '00:23:15.757'
+      u: ". . . eingerichtet. Da kamen die SS Leute...Evakuierung...alle Leute mussten
+        runter. Es wurde eine Selektion gemacht, wer evakuiert werden sollte und wer
+        bleibt. Also Frauen und die Männer, die schlecht ausgesehen haben, die wurden
+        auf Autos und Lastwagen geladen und nach Sammelstellen gebracht. Dort kam
+        der sogenannten „Rollkommando“...Rollkommando."
+    - who: David Boder
+      start: '00:23:59.290'
+      end: '00:23:59.290'
+      u: Hm.
+    - who: Julian Weinberg
+      start: '00:23:59.953'
+      end: '00:23:59.953'
+      u: Das waren SS Leute auf schweren, großen Lastautos mit Anhänger. Dort wurden
+        alle Juden...
+    - who: David Boder
+      start: '00:24:09.031'
+      end: '00:24:09.031'
+      u: Anhänger heißt „trailer“, ein zweiter Wagen.
+    - who: Julian Weinberg
+      start: '00:24:11.471'
+      end: '00:24:11.471'
+      u: Ja, ein zweiter Wagen. Diese Leute wurden gepackt auf diese Autos und weg
+        geschafft. Auch wurden die Spitäler von den Schwerkraken befreit. Die Kinder
+        wurden aus den Spitälern und aus den Kinderheimen raus geschafft.
+    - who: David Boder
+      start: '00:24:42.659'
+      end: '00:24:42.659'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:24:43.394'
+      end: '00:24:43.394'
+      u: Manche wurden direkt auf die Autos geschmissen, nicht wahr und das alles
+        so raus geführt.
+    - who: David Boder
+      start: '00:24:54.966'
+      end: '00:24:54.966'
+      u: Haben Sie das selbst gesehen?
+    - who: Julian Weinberg
+      start: '00:24:56.472'
+      end: '00:24:56.472'
+      u: Das habe ich selbst gesehen, ja. Und interessant ist das, dass später die
+        Kleidungsstücke von diesen armen Leuten, die weggebracht wurden, sind die
+        selben alten Kleidungsstücke wieder nach...ins Ghetto zurück gekommen. Also
+        als später...
+    - who: David Boder
+      start: '00:25:21.085'
+      end: '00:25:21.085'
+      u: Zu welchem Zweck?
+    - who: Julian Weinberg
+      start: '00:25:23.646'
+      end: '00:25:23.646'
+      u: Diese alten Kleidungsstücke sollten dienen...für diese Juden, die noch geblieben
+        sind.
+    - who: David Boder
+      start: '00:25:30.194'
+      end: '00:25:30.194'
+      u: Zu welchem Zweck?
+    - who: Julian Weinberg
+      start: '00:25:30.706'
+      end: '00:25:30.706'
+      u: Wir blieben doch im Ghetto über fünf (5) Jahre. Aus diesen alten Kleidungsstücken,
+        aus diesen alten Schuhen, die zerrissen zurück kamen, weil die haben gesucht
+        verschiedene, hm,...Wert...Wertgegenstände in den Kleidungsstücken, darum
+        waren die Kleidungsstücke zerrissen, aufgeflickt. Auch die Schuhe wurden in
+        unserem Ghetto...wurden die besseren Sachen hergerichtet und dann teilweise
+        an die über gebliebene Bevölkerung im Ghetto verteilt und teilweise wurde
+        auch das noch von den Deutschen raus geschafft für die Bombardierten, die
+        bombardierte deutsche Bevölkerung.
+    - who: David Boder
+      start: '00:26:28.483'
+      end: '00:26:28.483'
+      u: Nun, hm, und sie waren ganze fünf (5) Jahre in dem Ghetto?
+    - who: Julian Weinberg
+      start: '00:26:33.845'
+      end: '00:26:33.845'
+      u: Jawohl.
+    - who: David Boder
+      start: '00:26:35.453'
+      end: '00:26:35.453'
+      u: Haben Sie sich an der Gemeinde beteiligt?
+    - who: Julian Weinberg
+      start: '00:26:39.068'
+      end: '00:26:39.068'
+      u: Ich habe mich in der Gemeinde selbst wenig beteiligt, denn bei uns war so
+        ein Ältester der Juden...
+    - who: David Boder
+      start: '00:26:49.682'
+      end: '00:26:49.682'
+      u: Was war der Name?
+    - who: Julian Weinberg
+      start: '00:26:50.225'
+      end: '00:26:50.225'
+      u: Er war sehr selbstständig...Rumkovski.
+    - who: David Boder
+      start: '00:26:53.611'
+      end: '00:26:53.611'
+      u: Was?
+    - who: Julian Weinberg
+      start: '00:26:54.316'
+      end: '00:26:54.316'
+      u: Rumkovski.
+    - who: David Boder
+      start: '00:26:55.443'
+      end: '00:26:55.443'
+      u: Ja, ich habe den Namen schon von Anderen gehört.
+    - who: Julian Weinberg
+      start: '00:26:57.323'
+      end: '00:26:57.323'
+      u: Jawohl. Er hat die Befehle bekommen, direkt von der Ghetto-Verwaltung und
+        er hat selbst die Befehle ausgeführt, soweit es in seiner Macht war. Ich wollte
+        mich direkt an diesen Sachen nicht beteiligen,...
+    - who: David Boder
+      start: '00:27:09.155'
+      end: '00:27:09.155'
+      u: Lebt er noch?
+    - who: Julian Weinberg
+      start: '00:27:09.468'
+      end: '00:27:09.468'
+      u: ". . . weil ich ein Gegner der ganzen Politik war und ich musste mich fern
+        von dieser ganzen Sache halten. Hier..."
+    - who: David Boder
+      start: '00:27:15.733'
+      end: '00:27:15.733'
+      u: Lebt Rumkovski noch?
+    - who: Julian Weinberg
+      start: '00:27:33.649'
+      end: '00:27:33.649'
+      u: Nein, Rumkovski lebt nicht mehr.
+    - who: David Boder
+      start: '00:27:36.210'
+      end: '00:27:36.210'
+      u: Wer...
+    - who: Julian Weinberg
+      start: '00:27:36.734'
+      end: '00:27:36.734'
+      u: Er wurde vernichtet von den Deutschen in Auschwitz. Die letzte Evakuierung
+        war im Monat August neunzehn hundert vier und vierzig (1944). Also dann kam
+        der Oberbürgermeister von der Stadt und auch der Amtsleiter von der Ghetto-Verwaltung.
+        Sie haben Reden gehalten, sie haben gesagt, dass jetzt hat sich in Deutschland
+        die ganze Politik geändert . Deutschland braucht Hunderte zur Arbeit, Deutschland
+        wurde bombardiert, viele deutsche Städte wurden vernichtet. Diese Städte muss
+        man wieder aufbauen und deshalb müssen auch die jüdischen Kräfte dazu...
+    - who: David Boder
+      start: '00:28:28.210'
+      end: '00:28:28.210'
+      u: Benützt?
+    - who: Julian Weinberg
+      start: '00:28:28.734'
+      end: '00:28:28.734'
+      u: ". . . benützt werden. Dann war eine Kommission von Generälen, eine...eine
+        Militärkommission und die haben beschlossen, dass Lodz befinde sich in der
+        Nähe der Front..."
+    - who: David Boder
+      start: '00:28:48.855'
+      end: '00:28:48.855'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:28:50.253'
+      end: '00:28:50.253'
+      u: ". . . und man werde nicht in der Nähe der Front so viele Juden halten. Das
+        ist nicht richtig. Sie wollen, sie wollen den Juden helfen..."
+    - who: David Boder
+      start: '00:29:03.699'
+      end: '00:29:03.699'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:29:04.524'
+      end: '00:29:04.524'
+      u: ". . . eigentlich, weil sie sollen nicht in der Nähe der Front bleiben und
+        deshalb haben wir verabredet, wir sollen raus fahren und werden bessere Arbeit
+        und gute Lebensbedingungen haben und das eigentlich, das haben die, hm, mit
+        so einer...Hm, mit so einer..."
+    - who: Julian Weinberg
+      start: '00:29:37.738'
+      end: '00:29:37.738'
+      u: Ja.
+    - who: David Boder
+      start: '00:29:38.473'
+      end: '00:29:38.473'
+      u: Aufrichtigkeit? Sincerety!
+    - who: Julian Weinberg
+      start: '00:29:39.600'
+      end: '00:29:39.600'
+      u: Aufrichtigkeit gesagt, dass die Leute dachten, die wollten die Leute überzeugen,
+        dass sie bessere Arbeiten und bessere Bedingungen haben werden. Es hat sich
+        aber raus gestellt, alle Juden evakuiert—nicht nach den bombardierten Städten,
+        sondern alles ging nach Auschwitz, das ist das bekannte Vernichtungslager.
+        Und dort in Auschwitz wurden die Leute wieder einer Selektion unterworfen
+        und die Meisten mussten durch das Krematorium durch gehen und dort haben sie
+        ihr Leben beendet.
+    - who: David Boder
+      start: '00:30:30.721'
+      end: '00:30:30.721'
+      u: Waren Sie in Auschwitz?
+    - who: Julian Weinberg
+      start: '00:30:32.360'
+      end: '00:30:32.360'
+      u: Ich war nicht in Auschwitz. Ich wurde...ich bin geblieben zwischen acht hundert
+        sechzig (860) Menschen, die im Lodzer Ghetto über bleiben mussten. Das war
+        eine Kolonne von den Deutschen gemacht, die das Ghetto ausräumen sollten.
+    - who: David Boder
+      start: '00:31:01.360'
+      end: '00:31:01.360'
+      u: Hm.
+    - who: Julian Weinberg
+      start: '00:31:02.336'
+      end: '00:31:02.336'
+      u: Aufräumen, das heißt diese Möbelstücke, die geblieben sind, diese noch alle
+        Kleidungsstücke, Kissen und hm,...
+    - who: David Boder
+      start: '00:31:20.907'
+      end: '00:31:20.907'
+      u: Kissen und bedding...
+    - who: Julian Weinberg
+      start: '00:31:26.316'
+      end: '00:31:26.316'
+      u: Ja, das ganze Bettzeug müssen wir zusammen legen und das alles wurde nach
+        der Stadt geschafft von den Deutschen.
+    - who: David Boder
+      start: '00:31:30.063'
+      end: '00:31:30.063'
+      u: Nun.
+    - who: Julian Weinberg
+      start: '00:31:30.949'
+      end: '00:31:30.949'
+      u: Das dauerte paar Monate. Wir, als die letzten siebzig tausend (70000) Mann,
+        die nach Auschwitz gebracht wurden, wurde doch das Ghettostadt verkleinert
+        und wir diese überbleibt...überbliebenen acht hundert und sechzig (8670) Mann
+        und Frauen, wir wurden in zwei (2) Fabrik...hm, Wohnstätten...
+    - who: David Boder
+      start: '00:32:21.364'
+      end: '00:32:21.364'
+      u: Untergebracht?
+    - who: Julian Weinberg
+      start: '00:32:22.131'
+      end: '00:32:22.131'
+      u: ". . . lokalisiert."
+    - who: David Boder
+      start: '00:32:23.215'
+      end: '00:32:23.215'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:32:24.237'
+      end: '00:32:24.237'
+      u: Die Männer in einem...in einem Fabrikgebäude...
+    - who: David Boder
+      start: '00:32:27.009'
+      end: '00:32:27.009'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:32:27.172'
+      end: '00:32:27.172'
+      u: ". . . und die Frauen in dem Anderen."
+    - who: David Boder
+      start: '00:32:30.437'
+      end: '00:32:30.437'
+      u: Wo war Ihr Sohn?
+    - who: Julian Weinberg
+      start: '00:32:31.039'
+      end: '00:32:31.039'
+      u: Mein Sohn war mit mir.
+    - who: David Boder
+      start: '00:32:34.383'
+      end: '00:32:34.383'
+      u: Hm.
+    - who: Julian Weinberg
+      start: '00:32:34.980'
+      end: '00:32:34.980'
+      u: ". . . und meine Frau mit meiner Tochter waren...waren auf der anderen Seite."
+    - who: David Boder
+      start: '00:32:42.643'
+      end: '00:32:42.643'
+      u: Sind die jetzt alle noch hier?
+    - who: Julian Weinberg
+      start: '00:32:43.920'
+      end: '00:32:43.920'
+      u: Also man hat...Jawohl. Man hat uns direkt in diesen zwei Gebäuden lokalisiert
+        das war eigentlich so ein Lager und von diesem Moment hat man uns betrachtet,
+        wie ein Lager, wie in Auschwitz oder Dachau oder Andere. Wir waren unterworfen
+        allen, allen hm, hm, strengen, hm,...hm,...
+    - who: David Boder
+      start: '00:33:19.290'
+      end: '00:33:19.290'
+      u: Disziplin?
+    - who: Julian Weinberg
+      start: '00:33:22.073'
+      end: '00:33:22.073'
+      u: ". . . allen strengen, ja, hm,..."
+    - who: David Boder
+      start: '00:33:24.272'
+      end: '00:33:24.272'
+      u: Und Regeln?
+    - who: Julian Weinberg
+      start: '00:33:25.639'
+      end: '00:33:25.639'
+      u: ". . . und Regeln der, der Lager. Also jeden Morgen mussten wir uns auf dem
+        Hof sammeln zum Appell..."
+    - who: David Boder
+      start: '00:33:40.399'
+      end: '00:33:40.399'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:33:41.164'
+      end: '00:33:41.164'
+      u: Da kamen die SS Leute, sie haben verteilt alle Leute für diese Arbeit. Dabei
+        hat sich die ganze Sache bis neunzehnten (19.) September...bis Januar...bis
+        zum neunzehnten (19.) Januar neunzehn hundert fünf und vierzig (1945), wo...an
+        welchem Datum unsere Stadt von Russen und dann vom heranziehenden polnischen
+        Militär befreit wurde. In den letzten Tagen, als wir sahen, dass sich die
+        russische Offensive von Warschau herannaht, Sie müssen wissen, dass wir hatten
+        auch ein verstecktes Radio im Lager. Da wussten wir ungefähr, wie sich die
+        Sache verhält. Da haben wir...drei (3) Tage vor Befreiung der Stadt,...haben
+        wir alle versteckt. Wir haben unser Lager verlassen und haben wir versteckt
+        im Ghetto, was noch umzingelt wurde. Aus dem Ghetto konnten wir nicht raus,
+        weil es war durch...
+    - who: David Boder
+      start: '00:35:21.379'
+      end: '00:35:21.379'
+      u: Bewacht?
+    - who: Julian Weinberg
+      start: '00:35:22.234'
+      end: '00:35:22.234'
+      u: ". . . durch Polizeiwache besetzt."
+    - who: David Boder
+      start: '00:35:23.018'
+      end: '00:35:23.018'
+      u: Das war nicht das Lager Polizei?
+    - who: Julian Weinberg
+      start: '00:35:24.355'
+      end: '00:35:24.355'
+      u: 'No. Das Lager selbst hatte...hatte keine deutsche Polizei Wache—nur das
+        ganze Ghetto. Wir sind nachts aus dem Lager raus und haben uns versteckt in
+        verschiedenen Bunkern, in verschiedenen Kellern und auch in Dachböden der
+        Häuser. Ich selber habe mich versteckt in einer Transformatoren Station. Das
+        war ein Hochspannungsraum, wo ich meine Familie—insgesamt habe ich dreißig
+        (30) Personen dort versteckt. Und aus diesem Grunde bin ich am Leben geblieben.
+        Die Deutschen, wie wir später erfahren haben, sind auf unseren Hof gekommen
+        und dort haben sie nur anstatt acht hundert sechzig (860) Mann, haben sie
+        nur drei und zwanzig (23) Leute gefunden. Die haben einen großen Radau gemacht:
+        „Wo sind die Anderen?“. Die Leute konnte darauf nicht antworten und sie haben
+        gesagt: „Ja, die sind raus aus dem Lager.“ Da haben sie die drei und zwanzig
+        (23) Mann verhaftet. Sie haben sie nicht erschossen, sondern verhaftet. Und
+        sie haben beschlossen den Rest, über acht hundert Leute, die sich versteckt
+        haben, haben sie beschlossen aus den Wohnungen raus zu ziehen und dann wollten
+        sie eine gemeinsame...'
+    - who: David Boder
+      start: 00:37:09.343x
+      end: 00:37:09.343x
+      u: Exekution.
+    - who: Julian Weinberg
+      start: '00:37:09.855'
+      end: '00:37:09.855'
+      u: ". . . Exekution ausüben, weil sie haben schon von vorne herein—durch Juden—neun
+        (9) Sammelgräber auf dem Friedhof ausführen lassen, und davon wussten wir.
+        Und dort wollten sie uns alle hinschaffen und dann in diesen Massengräbern
+        wollten sie uns vernichten. Also am ersten Tage, nachdem sie die drei und
+        zwanzig (23) Mann verhaftet haben, es waren zirka hundert zwanzig (120) SS
+        Männer mit Gewehre—haben sie uns aufsuchen wollen. Am ersten Tage haben sie
+        zirka siebzig (70) Leute doch aufgefunden...zirka siebzig (70) Mann. Sie haben
+        sie noch nicht erschossen. Sie haben sie auch zusammen mit den ersten drei
+        und zwanzig (23) Leuten...haben sie auch verhaftet. Und sie sind gekommen
+        am nächsten Tag...am nächsten Tag wollten sie den Rest auffinden. Nun haben
+        sie auch Hunde mitgebracht. Mit Hunden wollten sie die Leute finden. Am nächsten
+        Tag haben sie wieder etwas Leute gefunden, alle wieder verhaftet. Es verging
+        noch eine Nacht und dann mussten sie schleunigst die Stadt verlassen. Und
+        so...die rest...die restlichen Leute, die im Ghetto verblieben,...die haben
+        sich auf diese Weise gerettet. Und auch diese Leute, die verhaftet, die wurden
+        später von uns befreit."
+    - who: David Boder
+      start: '00:39:33.232'
+      end: '00:39:33.232'
+      u: Ein Moment.
+    - who: David Boder
+      start: '00:39:35.842'
+      end: 
+      u: "[In English] This ends Spool 49, a report by the engi—...[ends abruptly]"
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:00.271'
+      end: '00:00:00.271'
+      u: "[In German] You can speak Yiddish or German, as you wish."
+    - who: Julian Weinberg
+      start: '00:00:02.377'
+      end: '00:00:02.377'
+      u: Hm.
+    - who: David Boder
+      start: '00:00:02.678'
+      end: '00:00:02.678'
+      u: Where are you from?
+    - who: Julian Weinberg
+      start: '00:00:05.361'
+      end: '00:00:05.361'
+      u: I come from...from Lodz
+    - who: David Boder
+      start: '00:00:08.193'
+      end: '00:00:08.193'
+      u: Ja.
+    - who: Julian Weinberg
+      start: '00:00:08.735'
+      end: '00:00:08.735'
+      u: Poland.
+    - who: David Boder
+      start: '00:00:09.458'
+      end: '00:00:09.458'
+      u: Poland. What is your full name?
+    - who: David Boder
+      start: '00:00:15.542'
+      end: '00:00:15.542'
+      u: "[In English] August 17, 1946. Paris, Grand Hotel...Hotel, Spool Number 49.
+        An Illinois Institute of Technology recording. The interviewee is the engineer
+        Julian Weinberg, from Lodz, Poland."
+    - who: David Boder
+      start: '00:00:33.918'
+      end: '00:00:33.918'
+      u: "[In German] Now then, Mr. Weinberg, will you please tell us again, what
+        is your name, and where you are from?"
+    - who: Julian Weinberg
+      start: '00:00:41.490'
+      end: '00:00:41.490'
+      u: My name is Julian Weinberg, from Lodz, Poland.
+    - who: David Boder
+      start: '00:00:49.773'
+      end: '00:00:49.773'
+      u: What are you doing now in Lodz, Mr. Weinberg?
+    - who: Julian Weinberg
+      start: '00:00:52.364'
+      end: '00:00:52.364'
+      u: I am now the managing director of the Electric Works, Lodz.
+    - who: David Boder
+      start: '00:01:01.051'
+      end: '00:01:01.051'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:01:01.696'
+      end: '00:01:01.696'
+      u: One of the larger electric plants.
+    - who: David Boder
+      start: '00:01:07.973'
+      end: '00:01:07.973'
+      u: Yes. Now tell me, were you also before the war connected with these works?
+    - who: Julian Weinberg
+      start: '00:01:13.967'
+      end: '00:01:13.967'
+      u: Yes. I worked before the war too, in this plant since 1911...
+    - who: David Boder
+      start: '00:01:20.985'
+      end: '00:01:20.985'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:01:21.588'
+      end: '00:01:21.588'
+      u: ". . . and in the year...this year, 1946, I have celebrated the thirty-fifth
+        Jubilee of my services in these electric plants."
+    - who: David Boder
+      start: '00:01:40.516'
+      end: '00:01:40.516'
+      u: Yes. But you look like a very young man, Mr. Weinberg. How old are you?
+    - who: Julian Weinberg
+      start: '00:01:45.859'
+      end: '00:01:45.859'
+      u: I was born in 1890...
+    - who: David Boder
+      start: '00:01:49.444'
+      end: '00:01:49.444'
+      u: Aha...
+    - who: Julian Weinberg
+      start: '00:01:50.028'
+      end: '00:01:50.028'
+      u: I am fifty-six years old...
+    - who: David Boder
+      start: '00:01:52.197'
+      end: '00:01:52.197'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:01:53.492'
+      end: '00:01:53.492'
+      u: And as a twenty year old man I already took over the post of engineer in
+        the Electrical Works of Lodz.
+    - who: David Boder
+      start: '00:02:07.498'
+      end: '00:02:07.498'
+      u: So that was still when...
+    - who: Julian Weinberg
+      start: '00:02:08.673'
+      end: '00:02:08.673'
+      u: Right after...that was in 1911—that means, short after my graduation.
+    - who: David Boder
+      start: '00:02:17.028'
+      end: '00:02:17.028'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:02:17.450'
+      end: '00:02:17.450'
+      u: I studied in Paris. I was...I studied mathematics at the Sorbonne and then
+        I graduated from the Politechnicum in Nancy.
+    - who: David Boder
+      start: '00:02:31.908'
+      end: '00:02:31.908'
+      u: So, then, you were an engineer during the time Poland was [part of] Russia.
+    - who: Julian Weinberg
+      start: '00:02:36.649'
+      end: '00:02:36.649'
+      u: Sure.
+    - who: David Boder
+      start: '00:02:37.836'
+      end: '00:02:37.836'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:02:38.119'
+      end: '00:02:38.119'
+      u: Exactly!
+    - who: David Boder
+      start: '00:02:38.782'
+      end: '00:02:38.782'
+      u: You were employed in spite of being a Jew?
+    - who: Julian Weinberg
+      start: '00:02:41.716'
+      end: '00:02:41.716'
+      u: Yes...when Poland still belonged to Russia.
+    - who: David Boder
+      start: '00:02:46.638'
+      end: '00:02:46.638'
+      u: Now tell me then, Mr. Weinberg...
+    - who: Julian Weinberg
+      start: '00:02:48.277'
+      end: '00:02:48.277'
+      u: That was 'Congress Poland.'
+    - who: David Boder
+      start: '00:02:50.217'
+      end: '00:02:50.217'
+      u: Yes. I am a bit nervous [uneasy] because you don't want to give me more than
+        half an hour. And I know that you have to tell a great deal. I therefore should
+        like to ask you...to ask you the following things. Answer a few questions.
+        Where were you when the Germans marched into Poland?
+    - who: Julian Weinberg
+      start: '00:03:13.271'
+      end: '00:03:13.271'
+      u: In the last war?
+    - who: David Boder
+      start: '00:03:15.128'
+      end: '00:03:15.128'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:03:16.014'
+      end: '00:03:16.014'
+      u: I was then in Lodz.
+    - who: David Boder
+      start: '00:03:17.562'
+      end: '00:03:17.562'
+      u: You were in Lodz at you job.
+    - who: Julian Weinberg
+      start: '00:03:19.369'
+      end: '00:03:19.369'
+      u: At my job. Yes.
+    - who: David Boder
+      start: '00:03:22.261'
+      end: '00:03:22.261'
+      u: For how long did the Germans leave you alone [did not bother you]? [Pause.]
+        How long did you continue working after the arrival of the Germans?
+    - who: Julian Weinberg
+      start: '00:03:31.731'
+      end: '00:03:31.731'
+      u: After the arrival of the Germans I worked...[pause]
+    - who: David Boder
+      start: '00:03:36.201'
+      end: '00:03:36.201'
+      u: Nu...
+    - who: Julian Weinberg
+      start: '00:03:40.430'
+      end: '00:03:40.430'
+      u: ". . . Two months."
+    - who: David Boder
+      start: '00:03:42.219'
+      end: '00:03:42.219'
+      u: Two months.
+    - who: Julian Weinberg
+      start: '00:03:42.791'
+      end: '00:03:42.791'
+      u: Two months...
+    - who: David Boder
+      start: '00:03:43.876'
+      end: '00:03:43.876'
+      u: What have...?
+    - who: Julian Weinberg
+      start: '00:03:44.490'
+      end: '00:03:44.490'
+      u: ". . . And then..."
+    - who: David Boder
+      start: '00:03:45.243'
+      end: '00:03:45.243'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:03:45.665'
+      end: '00:03:45.665'
+      u: ". . . our plant was taken over by an SS man..."
+    - who: David Boder
+      start: '00:03:50.123'
+      end: '00:03:50.123'
+      u: Hm...
+    - who: Julian Weinberg
+      start: '00:03:51.701'
+      end: '00:03:51.701'
+      u: And I, as a Jew, had to leave my post. And so...
+    - who: David Boder
+      start: '00:04:06.069'
+      end: '00:04:06.069'
+      u: And what did you do then?
+    - who: Julian Weinberg
+      start: '00:04:09.906'
+      end: '00:04:09.906'
+      u: Then an order came that all Jews were to leave the city, in order...to the
+        ghetto.
+    - who: David Boder
+      start: '00:04:22.587'
+      end: '00:04:22.587'
+      u: ". . . to move?"
+    - who: Julian Weinberg
+      start: '00:04:23.491'
+      end: '00:04:23.491'
+      u: To move...Yes.
+    - who: David Boder
+      start: '00:04:24.497'
+      end: '00:04:24.497'
+      u: "[Aside:] Do you talk Yiddish better?"
+    - who: Julian Weinberg
+      start: '00:04:26.455'
+      end: '00:04:26.455'
+      u: 'Makes no difference. [Footnote 1: His language difficulty may be due to
+        two factors. (1) Long ghetto experience. (2) The strict adoption of the official
+        Polish language after the liberation of Poland. —D.P.B.]'
+    - who: David Boder
+      start: '00:04:27.521'
+      end: '00:04:27.521'
+      u: Now then. Describe to us, as an intelligent person [educated person], as
+        an engineer...describe to us the ghetto of Lodz.
+    - who: Julian Weinberg
+      start: '00:04:34.961'
+      end: '00:04:34.961'
+      u: Even before we moved to the Ghetto we received such...[word not clear] marks
+        of discrimination [??] as the armband, the yellow armband, so that we would
+        be recognized on the streets as Jews. And then that appeared not enough to
+        them, so they pasted [on us] such yellow stars from the front and on the back,
+        so that from all sides it would be recognizable that here walks a Jew. Naturally
+        the going about town was almost impossible for the Jews, because they were
+        grabbed by the Germans on the streets. The Jews were [then] taken for most
+        common labor. Regardless of who it was, whether he was a laborer or an intellectual,
+        he had to perform the hardest forms of labor.
+    - who: David Boder
+      start: '00:05:32.717'
+      end: '00:05:32.717'
+      u: What kind of work were you compelled to do?
+    - who: Julian Weinberg
+      start: '00:05:36.344'
+      end: '00:05:36.344'
+      u: I, for example, was compelled one day to scrub floors...
+    - who: David Boder
+      start: '00:05:44.579'
+      end: '00:05:44.579'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:05:45.404'
+      end: '00:05:45.404'
+      u: I also had an experience, when my mother had died on the fifth of March and
+        I had to bury her. I was then the only one at the cemetery. Nobody was permitted
+        to accompany the body to the grave, and when I was returning from the cemetery,
+        I was grabbed on the street by a young Folk-German, dragged through a gate;
+        and in the yard I was compelled to carry coal from a cart to the cellar...
+    - who: David Boder
+      start: '00:06:30.504'
+      end: '00:06:30.504'
+      u: Hm...
+    - who: Julian Weinberg
+      start: '00:06:32.263'
+      end: '00:06:32.263'
+      u: And that lasted several hours.
+    - who: David Boder
+      start: '00:06:34.793'
+      end: '00:06:34.793'
+      u: And [word not clear]
+    - who: Julian Weinberg
+      start: '00:06:35.094'
+      end: '00:06:35.094'
+      u: That was precisely when I was about to return home from the cemetery.
+    - who: David Boder
+      start: '00:06:40.727'
+      end: '00:06:40.727'
+      u: Now then, Mr. Weinberg, let us have that straight. Simply a boy, not an officer—not
+        an official...
+    - who: Julian Weinberg
+      start: '00:06:48.992'
+      end: '00:06:48.992'
+      u: No...
+    - who: Julian Weinberg
+      start: '00:06:51.023'
+      end: '00:06:51.023'
+      u: That was a boy—a young man of about twenty years of age...
+    - who: David Boder
+      start: '00:06:55.347'
+      end: '00:06:55.347'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:06:55.890'
+      end: '00:06:55.890'
+      u: With a whip.
+    - who: David Boder
+      start: '00:06:57.709'
+      end: '00:06:57.709'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:06:58.643'
+      end: '00:06:58.643'
+      u: He grabbed me on the street and dragged me through the gate of a building.
+    - who: David Boder
+      start: '00:07:04.155'
+      end: '00:07:04.155'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:07:04.908'
+      end: '00:07:04.908'
+      u: And there were many other Jews. About fifteen people were assembled there
+        and all of them had to carry coal.
+    - who: David Boder
+      start: '00:07:16.354'
+      end: '00:07:16.354'
+      u: For whom was the coal carried? Was it a government office, or was it a private...
+    - who: Julian Weinberg
+      start: '00:07:20.432'
+      end: '00:07:20.432'
+      u: That was for the National Socialist Peoples' Union [Nazy Party]; it was NSV.
+    - who: David Boder
+      start: '00:07:30.191'
+      end: '00:07:30.191'
+      u: Yes...And they simply...
+    - who: Julian Weinberg
+      start: '00:07:31.577'
+      end: '00:07:31.577'
+      u: NSV.
+    - who: David Boder
+      start: '00:07:31.890'
+      end: '00:07:31.890'
+      u: ". . . were detaining people on the streets...?"
+    - who: Julian Weinberg
+      start: '00:07:33.649'
+      end: '00:07:33.649'
+      u: Yes...
+    - who: David Boder
+      start: '00:07:34.011'
+      end: '00:07:34.011'
+      u: ". . . to make them work:"
+    - who: Julian Weinberg
+      start: '00:07:34.746'
+      end: '00:07:34.746'
+      u: Yes.
+    - who: David Boder
+      start: '00:07:35.451'
+      end: '00:07:35.451'
+      u: Now then...
+    - who: Julian Weinberg
+      start: '00:07:37.240'
+      end: '00:07:37.240'
+      u: As the work was completed...
+    - who: David Boder
+      start: '00:07:39.108'
+      end: '00:07:39.108'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:07:39.903'
+      end: '00:07:39.903'
+      u: ". . . several were released to go home; but I, when they learned that I
+        was an engineer—"
+    - who: David Boder
+      start: '00:07:48.036'
+      end: '00:07:48.036'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:07:48.560'
+      end: '00:07:48.560'
+      u: I was detained, and I had to remain for two hours longer, because they considered
+        me an intellectual and I was compelled for another two hours to...
+    - who: David Boder
+      start: '00:08:06.331'
+      end: '00:08:06.331'
+      u: drag...
+    - who: Julian Weinberg
+      start: '00:08:06.753'
+      end: '00:08:06.753'
+      u: ". . . to drag the coal. Yes. From one cellar to the other, I had to perform
+        a perfectly useless task."
+    - who: David Boder
+      start: '00:08:13.753'
+      end: '00:08:13.753'
+      u: Oh, that was simply chicanery.
+    - who: Julian Weinberg
+      start: '00:08:15.801'
+      end: '00:08:15.801'
+      u: That was pure chicanery...
+    - who: David Boder
+      start: '00:08:18.633'
+      end: '00:08:18.633'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:08:18.946'
+      end: '00:08:18.946'
+      u: And then, only at [late] hours, in the evening, was I able to go home.
+    - who: David Boder
+      start: '00:08:25.061'
+      end: '00:08:25.061'
+      u: Hm...
+    - who: Julian Weinberg
+      start: '00:08:25.465'
+      end: '00:08:25.465'
+      u: In general, it was dangerous for the Jews in the streets, because everybody
+        could do with us as he pleased. That was but a small episode which I experienced
+        shortly before my entrance into the Ghetto...Then...
+    - who: David Boder
+      start: '00:08:47.314'
+      end: '00:08:47.314'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:08:47.857'
+      end: '00:08:47.857'
+      u: It was decided that we should go to the Ghetto of Lodz in an organized manner.
+        For instance, every day a certain section of the city should be resettled.
+    - who: David Boder
+      start: '00:09:05.490'
+      end: '00:09:05.490'
+      u: By the Germans?
+    - who: Julian Weinberg
+      start: '00:09:06.315'
+      end: '00:09:06.315'
+      u: By the Germans, yes. Where I lived...about...this section was to go first.
+        And so...
+    - who: David Boder
+      start: '00:09:20.863'
+      end: '00:09:20.863'
+      u: Was that a better section.
+    - who: Julian Weinberg
+      start: '00:09:22.603'
+      end: '00:09:22.603'
+      u: And at 17 hours sharp [5 p.m.] our home was by the SS men...
+    - who: David Boder
+      start: '00:09:37.133'
+      end: '00:09:37.133'
+      u: surrounded?
+    - who: Julian Weinberg
+      start: '00:09:37.916'
+      end: '00:09:37.916'
+      u: ". . . surrounded, and all the Jews had to abandon the city. The SS men entered
+        the apartments directly, occupied by the Jews; have...have...gave us only
+        five minutes time to leave the apartments instantly. And so everyone could
+        take with him...only the least trifle of his possessions in a knapsack, and
+        then step out into the yard. I had a peculiar incident happen with my son.
+        He has a kind of an 'Aryan' look. So he was struck with a whip because he
+        wanted to go with his father. The SS man did not believe that he was Jewish.
+        And he thought that he wanted to smuggle himself away with the Jews. I had
+        first to prove that...that he was my son, and so he was taken with us."
+    - who: David Boder
+      start: '00:10:51.537'
+      end: '00:10:51.537'
+      u: Now for what 'lucky' purpose would one want to smuggle himself away with
+        the Jews?
+    - who: Julian Weinberg
+      start: '00:10:55.043'
+      end: '00:10:55.043'
+      u: Because he wanted to go with his parents.
+    - who: David Boder
+      start: '00:10:57.091'
+      end: '00:10:57.091'
+      u: That's true. But how could an SS man think that anybody would intentionally
+        [voluntarily] go to the Ghetto?
+    - who: Julian Weinberg
+      start: '00:11:02.646'
+      end: '00:11:02.646'
+      u: "[His language becomes rather erratic] He [the SS] did not know. He might
+        have thought that he was an 'Aryan,' you see? That by chance that was a boy—He
+        was that time...about...about fifteen years old, you see?"
+    - who: David Boder
+      start: '00:11:18.863'
+      end: '00:11:18.863'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:11:19.146'
+      end: '00:11:19.146'
+      u: 'He was still young...young boy, you see? So he thought he may be up to some
+        mischief. [Footnote 2: The SS often had trouble with children, Jewish and
+        Christian alike. The ''transports'' often looked like enticing adventures
+        and young boys, not yet assigned for deportation, would join them not to be
+        separated from a parent or, as if intending to become mascots in the lagers,
+        which were pictured, at times, to the deportees, as most attractive installations.
+        —D.P.B.]'
+    - who: David Boder
+      start: '00:11:25.411'
+      end: '00:11:25.411'
+      u: Aha. Now...
+    - who: Julian Weinberg
+      start: '00:11:27.218'
+      end: '00:11:27.218'
+      u: Now, that was in the winter. It was freezing. We were again assembled in
+        a yard.
+    - who: David Boder
+      start: '00:11:37.550'
+      end: '00:11:37.550'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:11:38.225'
+      end: '00:11:38.225'
+      u: All the Jews from the various houses of this region, this section...
+    - who: David Boder
+      start: '00:11:44.532'
+      end: '00:11:44.532'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:11:45.105'
+      end: '00:11:45.105'
+      u: ". . . were assembled, and we did not know exactly where they would lead..."
+    - who: David Boder
+      start: '00:11:54.816'
+      end: '00:11:54.816'
+      u: ". . . lead you?"
+    - who: Julian Weinberg
+      start: '00:11:55.521'
+      end: '00:11:55.521'
+      u: lead us.
+    - who: David Boder
+      start: '00:11:56.105'
+      end: '00:11:56.105'
+      u: All right. Now tell me, Mr. Weinberg, I am, of course, eager to hear anything
+        you say. But you have promised to give me only a half hour.
+    - who: Julian Weinberg
+      start: '00:12:04.720'
+      end: '00:12:04.720'
+      u: Yes.
+    - who: David Boder
+      start: '00:12:05.184'
+      end: '00:12:05.184'
+      u: And that is why I should like to come to other questions. How long were you
+        in the Ghetto?
+    - who: Julian Weinberg
+      start: '00:12:13.750'
+      end: '00:12:13.750'
+      u: I was in the Ghetto over five years. That is all the time [of the German
+        occupation]. I only wanted to tell you briefly...
+    - who: David Boder
+      start: '00:12:19.082'
+      end: '00:12:19.082'
+      u: Yes. Please tell everything...[a few words not clear]
+    - who: Julian Weinberg
+      start: '00:12:20.359'
+      end: '00:12:20.359'
+      u: Afterwards...afterwards...how we went to the Ghetto. We learned...the same
+        day...the same SS men...if they were not instantly admitted to an apartment...
+    - who: David Boder
+      start: '00:12:33.733'
+      end: '00:12:33.733'
+      u: Hm...
+    - who: Julian Weinberg
+      start: '00:12:34.076'
+      end: '00:12:34.076'
+      u: They would break down the doors...
+    - who: David Boder
+      start: '00:12:36.125'
+      end: '00:12:36.125'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:12:36.468'
+      end: '00:12:36.468'
+      u: ". . . and where there were sick who could not go with them..."
+    - who: David Boder
+      start: '00:12:40.535'
+      end: '00:12:40.535'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:12:40.878'
+      end: '00:12:40.878'
+      u: ". . . they shot the sick people."
+    - who: David Boder
+      start: '00:12:43.740'
+      end: '00:12:43.740'
+      u: Now how come [not clear—both talk together]
+    - who: Julian Weinberg
+      start: '00:12:44.324'
+      end: '00:12:44.324'
+      u: After we learned...
+    - who: David Boder
+      start: '00:12:48.752'
+      end: '00:12:48.752'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:12:48.993'
+      end: '00:12:48.993'
+      u: ". . . that they intended to drive people to the Ghetto by such means. So
+        the following days all the Jews went to the Ghetto on their own."
+    - who: David Boder
+      start: '00:13:00.379'
+      end: '00:13:00.379'
+      u: Hm...
+    - who: Julian Weinberg
+      start: '00:13:00.783'
+      end: '00:13:00.783'
+      u: So, although it [the resettlement] was to last a week, all the Jews left
+        the town on their own, because they have seen the inhuman methods with which
+        the Jews were treated. And so we were taken to the Ghetto on foot; among us
+        were many young girls, old women in bedslippers. Some were running even barefooted
+        on the snow. En route we had to throw away the rucksacks because the burden
+        was too heavy to carry.
+    - who: David Boder
+      start: '00:13:47.147'
+      end: '00:13:47.147'
+      u: Hm...
+    - who: Julian Weinberg
+      start: '00:13:48.352'
+      end: '00:13:48.352'
+      u: And so we arrived in the Ghetto. The Ghetto of Lodz was completely isolated
+        from the city.
+    - who: David Boder
+      start: '00:14:01.008'
+      end: '00:14:01.008'
+      u: What was it?
+    - who: Julian Weinberg
+      start: '00:14:02.014'
+      end: '00:14:02.014'
+      u: There was absolutely no communication. It was surrounded with wire...
+    - who: David Boder
+      start: '00:14:08.580'
+      end: '00:14:08.580'
+      u: But it was in the city?
+    - who: Julian Weinberg
+      start: '00:14:09.996'
+      end: '00:14:09.996'
+      u: It was on the outskirts of the city.
+    - who: David Boder
+      start: '00:14:13.080'
+      end: '00:14:13.080'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:14:13.412'
+      end: '00:14:13.412'
+      u: They selected the suburb.
+    - who: David Boder
+      start: '00:14:15.743'
+      end: '00:14:15.743'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:14:17.039'
+      end: '00:14:17.039'
+      u: A section...the worse section of the city.
+    - who: David Boder
+      start: '00:14:21.991'
+      end: '00:14:21.991'
+      u: Hm...
+    - who: Julian Weinberg
+      start: '00:14:22.726'
+      end: '00:14:22.726'
+      u: That was assigned to the Jews. It was surrounded with barbed wire, and strictly
+        guarded by police guards; so that nobody may leave the Ghetto, and there were
+        to be no communication with the city whatsoever...Yes...[Pause] at the beginning
+        it was said...that...at the beginning people still lived...Everybody still
+        had some money which he took with him...and some people had taken some food
+        also, provisions. And one could manage the first few days. Afterwards there
+        was formed a so-called Ghetto Council. This Ghetto Council was actually an
+        outgrowth of the...of the City Council.
+    - who: David Boder
+      start: '00:15:45.001'
+      end: '00:15:45.001'
+      u: Yes. What did you say, a...?
+    - who: Julian Weinberg
+      start: '00:15:49.019'
+      end: '00:15:49.019'
+      u: ". . . a branch..."
+    - who: David Boder
+      start: '00:15:50.284'
+      end: '00:15:50.284'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:15:50.495'
+      end: '00:15:50.495'
+      u: ". . . a branch of the City Council."
+    - who: David Boder
+      start: '00:15:53.519'
+      end: '00:15:53.519'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:15:55.115'
+      end: '00:15:55.115'
+      u: At the head of the Ghetto Council stood the famous Bieburg.
+    - who: David Boder
+      start: '00:16:01.200'
+      end: '00:16:01.200'
+      u: Riebuck?
+    - who: Julian Weinberg
+      start: '00:16:02.206'
+      end: '00:16:02.206'
+      u: Bie-burg [?].
+    - who: David Boder
+      start: '00:16:03.441'
+      end: '00:16:03.441'
+      u: A Jew?
+    - who: Julian Weinberg
+      start: '00:16:04.236'
+      end: '00:16:04.236'
+      u: No. That was a German from Bremen.
+    - who: David Boder
+      start: '00:16:08.845'
+      end: '00:16:08.845'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:16:10.303'
+      end: '00:16:10.303'
+      u: A businessman [ a merchant].
+    - who: David Boder
+      start: '00:16:11.460'
+      end: '00:16:11.460'
+      u: How do you spell his name? [The enunciation of the name still appeared indistinct]
+    - who: Julian Weinberg
+      start: '00:16:12.587'
+      end: '00:16:12.587'
+      u: B...
+    - who: David Boder
+      start: '00:16:14.888'
+      end: '00:16:14.888'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:16:15.310'
+      end: '00:16:15.310'
+      u: i—e—b—o—w
+    - who: David Boder
+      start: '00:16:19.328'
+      end: '00:16:19.328'
+      u: Bielow [pronounced Bee-loff]?
+    - who: Julian Weinberg
+      start: '00:16:20.726'
+      end: '00:16:20.726'
+      u: Bielow.
+    - who: David Boder
+      start: '00:16:21.461'
+      end: '00:16:21.461'
+      u: Yes. Now then, he was a merchant from Bremen?
+    - who: Julian Weinberg
+      start: '00:16:26.353'
+      end: '00:16:26.353'
+      u: Yes. And he took over the whole management [council]. Now it was proclaimed
+        that the Jews in the Ghetto had to work, otherwise they shall be unable to
+        live. They were to earn their existence.
+    - who: David Boder
+      start: '00:16:41.847'
+      end: '00:16:41.847'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:16:43.937'
+      end: '00:16:43.937'
+      u: Well, then there were created various shops [?], various outfits where the
+        Jews were compelled to work. Let us say, a clothing shop...
+    - who: David Boder
+      start: '00:17:00.443'
+      end: '00:17:00.443'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:17:02.311'
+      end: '00:17:02.311'
+      u: ". . . where all kind of clothing was produced...the tailoring details. Then
+        there were metal details, and electrical details, a rug detail, various...The
+        people who had no...had no trade, had to reeducate themselves in order to
+        do something. Naturally the Jews did not wish to work for the German power
+        [state]. They were doing only a little bit in order to give an impression
+        as if they were working. Otherwise we would have gotten no provisions from
+        the Germans. However, Jewish labor was the cheapest as it was worthwhile for
+        the people—the Germans—to create these various shops although the interestive
+        work was not very interestive."
+    - who: David Boder
+      start: '00:18:11.609'
+      end: '00:18:11.609'
+      u: Although the work was not very intensive?
+    - who: Julian Weinberg
+      start: '00:18:13.717'
+      end: '00:18:13.717'
+      u: Yes.
+    - who: David Boder
+      start: '00:18:13.989'
+      end: '00:18:13.989'
+      u: Yes.
+    - who: Julian Weinberg
+      start: '00:18:14.814'
+      end: '00:18:14.814'
+      u: And it was not intensive because our Jews actually did not wish to work for
+        the germans. It was a kind...a kind of silent sabotage against the Germans
+        [Pause]. However, the Ghetto Council did good business in spite of that, because
+        they were selling...They were selling the products that were manufactured
+        in the Ghetto on the 'Left' market. For example...
+    - who: David Boder
+      start: '00:18:53.664'
+      end: '00:18:53.664'
+      u: On the black market?
+    - who: Julian Weinberg
+      start: '00:18:54.971'
+      end: '00:18:54.971'
+      u: ". . . on the black market."
+    - who: David Boder
+      start: '00:18:55.784'
+      end: '00:18:55.784'
+      u: What did you call it, the 'Left'...?
+    - who: Julian Weinberg
+      start: '00:18:58.044'
+      end: '00:18:58.044'
+      u: ". . . the black market, it was..."
+    - who: David Boder
+      start: '00:18:59.954'
+      end: '00:18:59.954'
+      u: But what was the other word for it?
+    - who: Julian Weinberg
+      start: '00:19:01.653'
+      end: '00:19:01.653'
+      u: "'Left' market."
+    - who: David Boder
+      start: '00:19:02.840'
+      end: '00:19:02.840'
+      u: Did they use that expression?
+    - who: Julian Weinberg
+      start: '00:19:04.057'
+      end: '00:19:04.057'
+      u: Yes. Some were [called it] 'Left.'
+    - who: David Boder
+      start: '00:19:06.177'
+      end: '00:19:06.177'
+      u: Yes. That is all right, I just want to know it. Now then...
+    - who: Julian Weinberg
+      start: '00:19:09.551'
+      end: '00:19:09.551'
+      u: They sold on the 'black' without ration certificates,you see? Without certificates...[may
+        also mean 'purchase permits'].
+    - who: David Boder
+      start: '00:19:15.949'
+      end: '00:19:15.949'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:19:16.473'
+      end: '00:19:16.473'
+      u: For instance...our wood detail.
+    - who: David Boder
+      start: '00:19:25.901'
+      end: '00:19:25.901'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:19:26.817'
+      end: '00:19:26.817'
+      u: We constructed, for instance, very many pieces of furniture...
+    - who: David Boder
+      start: '00:19:31.528'
+      end: '00:19:31.528'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:19:32.444'
+      end: '00:19:32.444'
+      u: ". . . and little beds for children."
+    - who: David Boder
+      start: '00:19:34.704'
+      end: '00:19:34.704'
+      u: Hm...
+    - who: Julian Weinberg
+      start: '00:19:35.198'
+      end: '00:19:35.198'
+      u: These they could sell without [purchase] certificates, and that is why it
+        was [one word not clear] worthwhile for me to manage these works for us.
+    - who: David Boder
+      start: '00:19:43.390'
+      end: '00:19:43.390'
+      u: Hm...
+    - who: Julian Weinberg
+      start: '00:19:48.312'
+      end: '00:19:48.312'
+      u: To be sure. We were not getting any money, but only provisions, and very
+        little. The best proof of it is that thousands of people were compelled to
+        starve.
+    - who: David Boder
+      start: '00:20:04.605'
+      end: '00:20:04.605'
+      u: Now...
+    - who: Julian Weinberg
+      start: '00:20:05.930'
+      end: '00:20:05.930'
+      u: Through the Lodz[?] Ghetto in excess of two hundred thousand people have
+        passed. These were mostly Polish Jews; but there were also Jews from Germany,
+        from Austria, and from Czechoslovakia brought also to the Lodz Ghetto, about
+        fifteen thousand Jews.
+    - who: David Boder
+      start: '00:20:40.306'
+      end: '00:20:40.306'
+      u: Hm...
+    - who: Julian Weinberg
+      start: '00:20:42.626'
+      end: '00:20:42.626'
+      u: And these people were precisely the ones who were unable to adjust rapidly
+        to the hard living conditions in the Ghetto. And it is possible to say that
+        90% of these Jews...
+    - who: David Boder
+      start: '00:21:00.078'
+      end: '00:21:00.078'
+      u: ". . . who have come from abroad?"
+    - who: Julian Weinberg
+      start: '00:21:00.692'
+      end: '00:21:00.692'
+      u: ". . . who have come from the West were among those who were driven to death
+        by starvation. Also the Polish Jews, especially the women, were neither able
+        to stand the hard conditions, and many perished from hunger and various epidemic
+        illnesses, such as spotted fever, intestinal typhus, and the like. Besides,
+        these 'normal' [natural] cases of death, if that could be..."
+    - who: David Boder
+      start: '00:21:48.406'
+      end: '00:21:48.406'
+      u: ". . . called...?"
+    - who: Julian Weinberg
+      start: '00:21:49.382'
+      end: '00:21:49.382'
+      u: ". . . called 'normal'..."
+    - who: David Boder
+      start: '00:21:50.069'
+      end: '00:21:50.069'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:21:52.581'
+      end: '00:21:52.581'
+      u: ". . . There were these many deportations. It simply was said that the Germans
+        were in need of people for various kinds of work. And so many people who were
+        feeling bad in our Ghetto applied [for such work]. They thought that 'outside'
+        it would be better. So they departed for work...but they never returned. Many
+        deportations took place from our Ghetto, managed by the [word not clear],
+        particularly by the Gestapo in coordination with the [name—word not clear]
+        authority. These orders which were imparted to us arrived from Berlin. And
+        so it was proclaimed that ten thousand people are to be deported—always it
+        was said for work. But the people never returned. One 'nice' day they established
+        in our Ghetto a so-called 'passage [?] blockade!'..."
+    - who: David Boder
+      start: '00:23:13.726'
+      end: '00:23:13.726'
+      u: Passage [?] blockade...?
+    - who: Julian Weinberg
+      start: '00:23:14.389'
+      end: '00:23:14.389'
+      u: Passage [?] blockade.
+    - who: David Boder
+      start: '00:23:15.293'
+      end: '00:23:15.293'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:23:15.757'
+      end: '00:23:15.757'
+      u: ". . . was established. And the SS men came...[word not clear]. All Jews
+        had to assemble. They made a selection—who was to be evacuated and who was
+        to remain. And so women and men who looked bad were embarked on carts and
+        on trucks, and taken to assembly points. There came the so-called 'roll-commando'
+        [transportation detail], 'roll commando.'"
+    - who: David Boder
+      start: '00:23:59.290'
+      end: '00:23:59.290'
+      u: Hm...
+    - who: Julian Weinberg
+      start: '00:23:59.953'
+      end: '00:23:59.953'
+      u: Those were SS men on heavy, large freight autos, with trailers. There all
+        the Jews...
+    - who: David Boder
+      start: '00:24:09.031'
+      end: '00:24:09.031'
+      u: "[A check on the German word] Anhänger means trailers, a second vehicle..."
+    - who: Julian Weinberg
+      start: '00:24:11.471'
+      end: '00:24:11.471'
+      u: Yes, a second vehicle. There the people crowded into these autos and were
+        removed. Also the hospitals were cleared of the gravely ill. The children
+        were removed from the hospitals and from the homes, the childrens' homes...
+    - who: David Boder
+      start: '00:24:42.659'
+      end: '00:24:42.659'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:24:43.394'
+      end: '00:24:43.394'
+      u: Some of them were actually thrown on the autos, you see?
+    - who: David Boder
+      start: '00:24:49.370'
+      end: '00:24:49.370'
+      u: Hm...
+    - who: Julian Weinberg
+      start: '00:24:50.105'
+      end: '00:24:50.105'
+      u: And in this manner all that was carted away.
+    - who: David Boder
+      start: '00:24:54.966'
+      end: '00:24:54.966'
+      u: Have you seen it yourself?
+    - who: Julian Weinberg
+      start: '00:24:56.472'
+      end: '00:24:56.472'
+      u: This I have seen myself. Yes...It is interesting that...that afterwards the
+        clothes of these unfortunate people who were shipped away...these same old
+        clothes were returned to the Ghetto. And so as later...
+    - who: David Boder
+      start: '00:25:21.085'
+      end: '00:25:21.085'
+      u: For what purpose?
+    - who: Julian Weinberg
+      start: '00:25:23.646'
+      end: '00:25:23.646'
+      u: These old pieces of clothing should be used by the Jews who had still remained,
+        because...
+    - who: David Boder
+      start: '00:25:30.194'
+      end: '00:25:30.194'
+      u: "[word not clear]"
+    - who: Julian Weinberg
+      start: '00:25:30.706'
+      end: '00:25:30.706'
+      u: ". . . We remained in the Ghetto for more than five years. Of these old pieces
+        of clothing, of these old shoes which came back torn, because they were searching
+        for various valuable...valuable objects [hidden] in the clothes; so the clothes
+        were torn up, altered. The shoes as well. In our Ghetto the better things
+        were repaired, and then partly distributed among the remaining population
+        in the Ghetto, and partly it was also shipped out by the Germans for the bombed-out
+        German population. [Pause]"
+    - who: David Boder
+      start: '00:26:28.483'
+      end: '00:26:28.483'
+      u: Now then...And you spent five full years in the Ghetto?
+    - who: Julian Weinberg
+      start: '00:26:33.845'
+      end: '00:26:33.845'
+      u: Yes.
+    - who: David Boder
+      start: '00:26:35.453'
+      end: '00:26:35.453'
+      u: Did you participate in community [affairs/?
+    - who: Julian Weinberg
+      start: '00:26:39.068'
+      end: '00:26:39.068'
+      u: I participated but little in the community [affairs], because we had one
+        elder of the Jews...
+    - who: David Boder
+      start: '00:26:49.682'
+      end: '00:26:49.682'
+      u: What was his name?
+    - who: Julian Weinberg
+      start: '00:26:50.225'
+      end: '00:26:50.225'
+      u: ". . . He was very much on his own [overbearing]...Rumkowski. [Footnote 3:
+        This name appears in several interviews, always in an unfavorable light. His
+        role appears especially precarious in the deportation and alleged subsequent
+        annihilation of several thousand Jewish children from the Lodz Ghetto. —D.P.B.]"
+    - who: David Boder
+      start: '00:26:53.611'
+      end: '00:26:53.611'
+      u: What?
+    - who: Julian Weinberg
+      start: '00:26:54.316'
+      end: '00:26:54.316'
+      u: Rumkowski.
+    - who: David Boder
+      start: '00:26:55.443'
+      end: '00:26:55.443'
+      u: Yes. I have heard already that name from others.
+    - who: Julian Weinberg
+      start: '00:26:57.323'
+      end: '00:26:57.323'
+      u: Certainly. He received the orders directly...the orders from the Ghetto management,
+        and he afterwards executed the orders...
+    - who: David Boder
+      start: '00:27:09.155'
+      end: '00:27:09.155'
+      u: Oh...
+    - who: Julian Weinberg
+      start: '00:27:09.468'
+      end: '00:27:09.468'
+      u: ". . . as far as it was in his power. I did not want to participate directly."
+    - who: David Boder
+      start: '00:27:15.733'
+      end: '00:27:15.733'
+      u: Is he presently alive?
+    - who: Julian Weinberg
+      start: '00:27:18.143'
+      end: '00:27:18.143'
+      u: In these things, because I was opposed to the whole politics and I had to
+        keep away from that whole business. Here...
+    - who: David Boder
+      start: '00:27:31.559'
+      end: '00:27:31.559'
+      u: Is Rumkowski still alive?
+    - who: Julian Weinberg
+      start: '00:27:33.649'
+      end: '00:27:33.649'
+      u: No, Rumkowski is not alive anymore.
+    - who: David Boder
+      start: '00:27:36.210'
+      end: '00:27:36.210'
+      u: Who...
+    - who: Julian Weinberg
+      start: '00:27:36.734'
+      end: '00:27:36.734'
+      u: He was annihilated by the Germans in Auschwitz. And so the last evacuation
+        took place in the month of August, 1944. At that time the Oberburgermeister
+        of the city came and also the functionaries of the Ghetto management. They
+        made speeches, they told us that now the whole [trend of] politics has changed
+        in Germany. Germany needs workers by the hundreds; Germany was bombarded,
+        many German cities have been annihilated. These cities must be rebuilt and
+        therefore, also the Jewish labor must...
+    - who: David Boder
+      start: '00:28:28.210'
+      end: '00:28:28.210'
+      u: ". . . be used?"
+    - who: Julian Weinberg
+      start: '00:28:28.734'
+      end: '00:28:28.734'
+      u: ". . . be made use of. Then there was a commission of generals, all of...a
+        military commission, and they have decided that Lodz is located near the front..."
+    - who: David Boder
+      start: '00:28:48.855'
+      end: '00:28:48.855'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:28:50.253'
+      end: '00:28:50.253'
+      u: ". . . and it would not be right to keep so many Jews near the front. That
+        was not right. They wanted to help the Jews..."
+    - who: David Boder
+      start: '00:29:03.699'
+      end: '00:29:03.699'
+      u: Yes...
+    - who: Julian Weinberg
+      start: '00:29:04.524'
+      end: '00:29:04.524'
+      u: ". . . so that they may not remain in the front zone, and therefore they
+        have arranged [?] that we should leave, and we shall have better work, good
+        living conditions and that they...have...with such...[he is here completely
+        confused in search of the proper words]. Oh..."
+    - who: David Boder
+      start: '00:29:31.039'
+      end: '00:29:31.039'
+      u: "[Trying to guess the meaning] With such [apparent] frankmess"
+    - who: Julian Weinberg
+      start: '00:29:37.738'
+      end: '00:29:37.738'
+      u: Yes...
+    - who: David Boder
+      start: '00:29:38.473'
+      end: '00:29:38.473'
+      u: "[In English] sincerity?"
+    - who: Julian Weinberg
+      start: '00:29:39.600'
+      end: '00:29:39.600'
+      u: ". . . frankness presented [the proper word would have been cunning, slyness]
+        that the people..."
+    - who: David Boder
+      start: '00:29:43.407'
+      end: '00:29:43.407'
+      u: ". . . conviction?"
+    - who: Julian Weinberg
+      start: '00:29:44.281'
+      end: '00:29:44.281'
+      u: Yes...That...they actually wanted to convince the people that...that they
+        would have better work and better conditions. But what revealed itself [what
+        actually happened ?], all the Jews were evacuated, not to the bombed-out cities,
+        but everything [this pronoun refers, of course, to people; but like in so
+        many other instances reflects the helplessness, the doom, the humiliation
+        of the people concerned] went through Auschwitz—through the famous extermination
+        camp. And there in Auschwitz the people were subjected again to a selection
+        and most of them were compelled to pass through the crematories and there
+        they ended their lives.
+    - who: David Boder
+      start: '00:30:30.721'
+      end: '00:30:30.721'
+      u: Were you in Auschwitz?
+    - who: Julian Weinberg
+      start: '00:30:32.360'
+      end: '00:30:32.360'
+      u: I was not in Auschwitz. I was...I remained among eight hundred and sixty
+        people who were compelled to remain in the Ghetto of Lodz. That was a detail
+        assembled by the Germans who were supposed to put the Ghetto in order.
+    - who: David Boder
+      start: '00:31:01.360'
+      end: '00:31:01.360'
+      u: Hm...
+    - who: Julian Weinberg
+      start: '00:31:02.336'
+      end: '00:31:02.336'
+      u: Put in order [straighten up]; that means to assemble the pieces of furniture
+        that have remained, the...all the pieces of clothing, pillows [?] [He badly
+        searches for words]
+    - who: David Boder
+      start: '00:31:20.907'
+      end: '00:31:20.907'
+      u: ". . . pillows and [In English:] bedding, [the confusion of the language
+        by the interviewee obviously affects also the interviewer; like in the case
+        of a normal individual talking to a stutterer—again in German] bedclothes."
+    - who: Julian Weinberg
+      start: '00:31:26.316'
+      end: '00:31:26.316'
+      u: ". . . The bed...Yes, all the bedding."
+    - who: David Boder
+      start: '00:31:30.063'
+      end: '00:31:30.063'
+      u: Nu...
+    - who: Julian Weinberg
+      start: '00:31:30.949'
+      end: '00:31:30.949'
+      u: That lasted a few months. We...as the last seventy thousand people were taken
+        to Auschwitz the Ghetto became greatly reduced, and we, the remaining eight
+        hundred and sixty men and women...we were in two factory buildings [search
+        for words] billetted?
+    - who: David Boder
+      start: '00:32:21.364'
+      end: '00:32:21.364'
+      u: ". . . housed?"
+    - who: Julian Weinberg
+      start: '00:32:24.237'
+      end: '00:32:24.237'
+      u: Yes. The men in one...
+    - who: David Boder
+      start: '00:32:27.009'
+      end: '00:32:27.009'
+      u: "[Words not clear]"
+    - who: Julian Weinberg
+      start: '00:32:27.172'
+      end: '00:32:27.172'
+      u: ". . . in one factory building, and the women in another factory building."
+    - who: David Boder
+      start: '00:32:30.437'
+      end: '00:32:30.437'
+      u: Where was your son? [?]
+    - who: Julian Weinberg
+      start: '00:32:31.039'
+      end: '00:32:31.039'
+      u: That was...my son was with me.
+    - who: David Boder
+      start: '00:32:34.383'
+      end: '00:32:34.383'
+      u: Hm...
+    - who: Julian Weinberg
+      start: '00:32:34.980'
+      end: '00:32:34.980'
+      u: And my wife and my daughter were...were...
+    - who: David Boder
+      start: '00:32:40.323'
+      end: '00:32:40.323'
+      u: On the other side...?
+    - who: Julian Weinberg
+      start: '00:32:42.643'
+      end: '00:32:42.643'
+      u: ". . . on the other side. And so..."
+    - who: David Boder
+      start: '00:32:43.920'
+      end: '00:32:43.920'
+      u: Are they with you now?
+    - who: Julian Weinberg
+      start: '00:32:45.065'
+      end: '00:32:45.065'
+      u: Yes. We were housed directly in these two buildings—which have become some
+        kind of lager, and from this instant we were regarded as a lager, like in
+        Auschwitz, Dachau or the kind. We were subject to all disciplinary...
+    - who: David Boder
+      start: '00:33:19.290'
+      end: '00:33:19.290'
+      u: All discipline...?
+    - who: Julian Weinberg
+      start: '00:33:22.073'
+      end: '00:33:22.073'
+      u: ". . . all discipline..."
+    - who: David Boder
+      start: '00:33:24.272'
+      end: '00:33:24.272'
+      u: ". . . and rules...?"
+    - who: Julian Weinberg
+      start: '00:33:25.639'
+      end: '00:33:25.639'
+      u: ". . . and rules of the lagers. That meant, every morning we had to assemble
+        on the yard for appell..."
+    - who: David Boder
+      start: '00:33:40.399'
+      end: '00:33:40.399'
+      u: Yes.
+    - who: Julian Weinberg
+      start: '00:33:41.164'
+      end: '00:33:41.164'
+      u: Then the SS men would come. They assigned the people to various labor tasks.
+        So this business dragged on until the 19th of September...January...until
+        the 19th of January, 1945, on which date our city was...was liberated by the
+        Russians and the then onmarching Polish armies. Now, during the last days,
+        as we saw that the Russian offensive approached from Warsaw...You must know
+        that we had a concealed radio also in the lager. We knew, therefore, approximately
+        how the events stood. And so three days before the liberation of the city
+        we all hid ourselves. We abandoned our lager and we hid ourselves within the
+        Ghetto because it was...
+    - who: David Boder
+      start: '00:35:21.379'
+      end: '00:35:21.379'
+      u: guarded...?
+    - who: Julian Weinberg
+      start: '00:35:22.234'
+      end: '00:35:22.234'
+      u: ". . . occupied by a police guard."
+    - who: David Boder
+      start: '00:35:23.018'
+      end: '00:35:23.018'
+      u: Was that not the lager police?
+    - who: Julian Weinberg
+      start: '00:35:24.355'
+      end: '00:35:24.355'
+      u: No [He uses the word 'only']. The lager proper had no German police guard,
+        only the Ghetto as a whole. We got out of the lager at night and hid in various
+        bunkers, in various buildings, in cellars, and in the attics of the buildings.
+        I, personally, hid myself in a transformer station. That was a high tension
+        room, where I have [hidden] my family. Altogether I hid there thirteen persons.
+        And for that reason I remained alive. The Germans, as we learned later, had
+        come into our yard and there they found, instead of eight hundred and sixty
+        persons, only twenty-three individuals. They made a big 'to-do,' 'Where are
+        the others?' The people were unable to give a reply. And they said, 'Yes,
+        they got out of the lager.' And they arrested the twenty-three persons. They
+        did not shoot them, only arrested them. And they decided to drag out of the
+        apartments the rest of the eight hundred people who had hidden themselves,
+        and then proceed with a general...
+    - who: David Boder
+      start: 00:37:09.343x
+      end: 00:37:09.343x
+      u: Execution.
+    - who: Julian Weinberg
+      start: '00:37:09.855'
+      end: '00:37:09.855'
+      u: ". . . execution...[We know that] because they had dug with Jewish labor
+        nine mass graves on the cemetery. We knew about that. And they intended to
+        get us all out there and to annihilate us in these mass graves. [Footnote
+        4: The preposition in should stand although it is not sure whether it is correct
+        in this particular case. During the occupation of Siberia by the Czechs it
+        was reported that in one case (Omsk) they made the condemned men—about fifteen
+        persons—first step into a shallow grave, fired a few random salvos, and then
+        shoveled the earth over them without individual examination of the bodies
+        for signs of life or coup de grace. —D.P.B.] And so the first day after they
+        had arrested these twenty-three persons—there were about a hundred and twenty
+        SS men with arms—they wanted to find us...The first day they were indeed able
+        to find about seventy people, about seventy persons. They did not shoot them
+        yet. They arrested them also, like the first twenty-three persons. And they
+        came the next day...the next day they wanted to find the rest. Now they brought
+        dogs with them. They wanted to find the people by means of dogs. The next
+        day they found a few people again. All [were] arrested again. Another night
+        went by and then they were compelled to abandon the city on the sly. And so
+        the saved...the remaining people, who had stayed over in the Ghetto..."
+    - who: David Boder
+      start: '00:39:18.581'
+      end: '00:39:18.581'
+      u: "[Not clear]"
+    - who: Julian Weinberg
+      start: '00:39:20.340'
+      end: '00:39:20.340'
+      u: ". . . have saved themselves in this manner, and also the people who were
+        arrested were later set free by us."
+    - who: David Boder
+      start: '00:39:33.232'
+      end: '00:39:33.232'
+      u: One moment.
+    - who: David Boder
+      start: '00:39:35.842'
+      end: 
+      u: "[In English] This ends Spool 49, a report by the engi—...[ends abruptly]"
+transcript: {}
+translation: {}

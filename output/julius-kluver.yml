@@ -24,5 +24,1825 @@ recording:
   audio:
     file: ''
     mime-type: audio/mp3
-  transcript: 
-  translation: 
+  transcript:
+    language: de
+    interview:
+    - who: David Boder
+      start: '00:00:01.417'
+      end: '00:00:01.417'
+      u: "[In English] September 19, 1946 in a large refugee center in the Funkkasernen
+        we are interviewing Mr. Julius Klüver, a leader of the Mennonite Group, which
+        moved gradually from [Name der Stadt unverständlich] Russia up to the American
+        Zone in Germany."
+    - who: David Boder
+      start: '00:00:24.086'
+      end: '00:00:24.086'
+      u: Also sagen Sie uns wieder, Herr Klüver, wie heißen Sie, wie alt sind Sie,
+        wo sind Sie geboren?
+    - who: Julius Klüver
+      start: '00:00:31.353'
+      end: '00:00:31.353'
+      u: Ich heiße Julius Klüver, bin 43 Jahre alt. Bin geboren in [unverständlich]
+        Ekaterinslav Dneprovsk in der Ukraine auf dem Gut meines Vaters [Name des
+        Gutes unverständlich ].
+    - who: David Boder
+      start: '00:00:49.257'
+      end: '00:00:49.257'
+      u: Also gut, Herr Klüver, wo waren Sie und was hat Ihnen passiert wenn der Krieg
+        angefangen hat?
+    - who: Julius Klüver
+      start: '00:00:58.094'
+      end: '00:00:58.094'
+      u: Als der Krieg anfing war ich in der Ukraine in der Stadt [unverständlich].
+        Ich arbeitete in einer Fabrik als Buchhalter.
+    - who: David Boder
+      start: '00:01:17.347'
+      end: '00:01:17.347'
+      u: Also was hat Ihnen passiert als der Krieg angefangen hat?
+    - who: Julius Klüver
+      start: '00:01:32.722'
+      end: '00:01:32.722'
+      u: Als der Krieg anfing arbeitete ich weiter in der Fabrik bis die Deutschen
+        kamen. Es war das Bestreben der Mennoniten, sowie mein Bestreben so schnell
+        wie möglich nach dem Westen zu gehen, und am besten zu unseren Mennoniten
+        nach Kanada, den USA oder Paraguay zu gehen. Das war unser altes Ziel—noch
+        von 1920—und dem Ziel wollten wir nachgehen.
+    - who: David Boder
+      start: '00:02:10.767'
+      end: '00:02:10.767'
+      u: Sagen Sie mir mal, wie viele Mennoniten waren in Ihrer Gemeinde?
+    - who: Julius Klüver
+      start: '00:02:16.201'
+      end: '00:02:16.201'
+      u: Im Jahre 1930 waren es ungefähr achtzig tausend [80.000] Mennoniten.
+    - who: David Boder
+      start: '00:02:27.207'
+      end: '00:02:27.207'
+      u: Wo haben die alle gelebt?
+    - who: Julius Klüver
+      start: '00:02:29.237'
+      end: '00:02:29.237'
+      u: Gelebt haben die Meisten in Süd-Russland.
+    - who: David Boder
+      start: '00:02:32.972'
+      end: '00:02:32.972'
+      u: Sagen Sie, waren die meisten Mennoniten Deutsche?
+    - who: Julius Klüver
+      start: '00:02:36.677'
+      end: '00:02:36.677'
+      u: Die Mennoniten sind Holländer, holländischer Abstammung. Sie kamen von Holland
+        nach Süd Russland auf den Ruf der Kaiserin Katharina, der Zweiten, und später,
+        sowie mein Vater, der kam auch später, kamen, hm, kamen nach Russland und
+        die sind da, um die Ukraine zu kolonisieren. Sie, hm, sie gingen von Holland
+        und von der Süd—von der Westküste zu der Nordküste und gingen sie weg wegen
+        ihrem Religionsbekenntnis und wegen der Wehrbekenntnis. In Russland wurde
+        uns versprochen, dass wir die Wehrbekenntnis können halten
+    - who: David Boder
+      start: '00:03:20.512'
+      end: '00:03:20.512'
+      u: Und was soll das heißen?
+    - who: Julius Klüver
+      start: '00:03:21.898'
+      end: '00:03:21.898'
+      u: ". . . also nicht als Soldaten eingezogen werden gegen unser Religionsbekenntnis."
+    - who: David Boder
+      start: '00:03:28.055'
+      end: '00:03:28.055'
+      u: Und nun und das haben die Russen gehalten?
+    - who: Julius Klüver
+      start: '00:03:31.260'
+      end: '00:03:31.260'
+      u: Das haben die Russen gehalten bis 1920.
+    - who: David Boder
+      start: '00:03:36.272'
+      end: '00:03:36.272'
+      u: Hat der Zar niemals die Mennoniten einberufen?
+    - who: Julius Klüver
+      start: '00:03:39.567'
+      end: '00:03:39.567'
+      u: In der Zaren Zeit brauchten wir das Gewehr nicht zu nehmen, wir mussten Arbeitsdienst
+        für die Försterei leiten.
+    - who: David Boder
+      start: '00:03:48.935'
+      end: '00:03:48.935'
+      u: Und dann—wann wurden die Mennoniten zum ersten Mal einberufen?
+    - who: Julius Klüver
+      start: '00:03:54.037'
+      end: '00:03:54.037'
+      u: Als die, die Sowjet Republik—zur Zeit der Gründung der Sowjet Republik.
+    - who: David Boder
+      start: '00:03:57.543'
+      end: '00:03:57.543'
+      u: Dann fingen sie an die Mennoniten einzuberufen? Was haben die Mennoniten
+        dann getan?
+    - who: Julius Klüver
+      start: '00:04:06.260'
+      end: '00:04:06.260'
+      u: Die Mennoniten haben sich abgesagt und wurden dafür—kamen dafür vors Gericht.
+        So wurde auch ich 1923 vor das Gericht gerufen und es dauerte sehr lange bis
+        ich wegen meiner religiösen Bekenntnis vom Wehrdienst freigesprochen wurde.
+        Und 1923...
+    - who: David Boder
+      start: '00:04:29.352'
+      end: '00:04:29.352'
+      u: Und wie wurden Sie frei?
+    - who: Julius Klüver
+      start: '00:04:31.081'
+      end: '00:04:31.081'
+      u: Man konnte freigesprochen werden nur auf weil das Gericht—das sowjetische
+        Gericht uns davon freisprach.
+    - who: David Boder
+      start: '00:04:40.009'
+      end: '00:04:40.009'
+      u: Hat das Sowjet Gericht jeden Einzelnen vor Gericht gezogen?
+    - who: Julius Klüver
+      start: '00:04:45.081'
+      end: '00:04:45.081'
+      u: Es sind viele von unseren jungen Männern in der Zeit vors Gericht gegangen,
+        viele wurden vors Gericht gegeben. Viele sind freigesprochen worden, viele
+        nicht.
+    - who: David Boder
+      start: '00:04:54.250'
+      end: '00:04:54.250'
+      u: Und was hat man mit denen getan, die nicht freigesprochen wurden?
+    - who: Julius Klüver
+      start: '00:04:57.545'
+      end: '00:04:57.545'
+      u: Man hat Einige einberufen, aber die meisten mussten Arbeitsdienst in Sibirien
+        leisten.
+    - who: David Boder
+      start: '00:05:03.780'
+      end: '00:05:03.780'
+      u: Nun, also, was hat passiert, wie die Deutschen nach Russland kamen?
+    - who: Julius Klüver
+      start: '00:05:09.623'
+      end: '00:05:09.623'
+      u: Als jetzt die Deutschen nach Russland kamen, so ist ein Teil von Mennoniten
+        sofort nach dem Westen gegangen.
+    - who: David Boder
+      start: '00:05:16.554'
+      end: '00:05:16.554'
+      u: Das heißt—den Deutschen begegnet?
+    - who: Julius Klüver
+      start: '00:05:19.668'
+      end: '00:05:19.668'
+      u: Nein, also die haben sich zurück nach dem Westen gezogen. Uns wäre es einerlei
+        gewesen, wer gekommen wäre, wäre es ein französische Armee gewesen oder eine
+        holländische Armee oder eine türkische Armee gewesen—wir wollten nur weg aus
+        dem Osten.
+    - who: David Boder
+      start: '00:05:36.325'
+      end: '00:05:36.325'
+      u: Warum?
+    - who: Julius Klüver
+      start: '00:05:37.831'
+      end: '00:05:37.831'
+      u: Weil unsere Eltern, unsere Geschwister, unsere Männer fast alle waren im
+        Exil in Sibirien. Uns wurde all das Hab und Gut abgenommen.
+    - who: David Boder
+      start: '00:05:48.412'
+      end: '00:05:48.412'
+      u: Und wann ist das passiert?
+    - who: Julius Klüver
+      start: '00:05:50.069'
+      end: '00:05:50.069'
+      u: Das ist passiert vom Jahre 1920 bis 1935. So, zum Beispiel, bei mir; mein
+        Vater war reich und hatte ein Gut. Mein Vater wurde 1920 erschossen, weil
+        er ein reicher Mann war. Ich war ein junger Mann von 17 Jahren und ich habe
+        mich jahrelang versteckt gehalten, um nicht erschossen zu werden. Also mein
+        Ziel war nur weg zu unseren Brüdern nach Kanada. In Kanada habe ich drei [3]
+        Schwestern. Keine Geschwister hab ich mehr hier. Meine Frau hat vier [4] Schwestern
+        in Kanada, wir wollten nur zurück zu unseren Mennoniten. So, zum Beispiel,
+        von meinen zehn [10] Onkeln, die ich da hatte, sind neun [9] sind neun [9]
+        Onkel weg. Fünf [5] sind in Sibirien gestorben, vier [4] sind im Gefängnis
+        gestorben und verhaftet wurden sie nur deshalb, weil sie reiche Leute waren.
+    - who: David Boder
+      start: '00:06:53.014'
+      end: '00:06:53.014'
+      u: Nun, also, wie—wann fingen Sie an nach dem Westen zu gehen? Wann sind die
+        Deutschen—haben Sie in Saratov damals gelebt, wie die Deutschen kamen?
+    - who: Julius Klüver
+      start: '00:07:00.767'
+      end: '00:07:00.767'
+      u: Nein.
+    - who: David Boder
+      start: '00:07:01.378'
+      end: '00:07:01.378'
+      u: Ja?
+    - who: Julius Klüver
+      start: '00:07:01.921'
+      end: '00:07:01.921'
+      u: Ich, ich lebte in Zaporoje. Als die Deutschen im Winter 41 herein kamen,
+        im Jahre 42 ging ein Teil von uns schon nach Polen. Ich ging im Anfang des
+        Jahres 43 nach Polen.
+    - who: David Boder
+      start: '00:07:19.785'
+      end: '00:07:19.785'
+      u: Haben die Deutschen das erlaubt?
+    - who: Julius Klüver
+      start: '00:07:21.532'
+      end: '00:07:21.532'
+      u: Ja, die haben es erlaubt. Wir konnten, wir konnten nach...nach dem Westen
+        gehen. Ich ging nach Polen und war in Polen beinah zwei [2] Jahre. Als aber
+        die Front näher kam nach Polen, ging ich von Polen weiter nach Deutschland.
+        Da kam ich bis Chemnitz. In Chemnitz war ich nur 2 Wochen, dann kam der große
+        Fliegerangriff. Ich wurde ausgebombt und ich entfloh mit meiner Familie weiter
+        nach dem Westen. So kam ich nach München.
+    - who: David Boder
+      start: '00:07:52.792'
+      end: '00:07:52.792'
+      u: Wann kamen Sie nach München?
+    - who: Julius Klüver
+      start: '00:07:54.491'
+      end: '00:07:54.491'
+      u: Nach München kam ich im...im Januar 1945.
+    - who: David Boder
+      start: '00:08:00.949'
+      end: '00:08:00.949'
+      u: Haben die Deutschen von den Mennoniten einen Arbeitsdienst verlangt?
+    - who: Julius Klüver
+      start: '00:08:06.292'
+      end: '00:08:06.292'
+      u: Einige...einige von Mennoniten mussten arbeiten. Einige wurden sogar einberufen
+        oder sollten einberufen werden. Und...und...aber Wenige sind gegangen. Die
+        Meisten waren auf ihren religiösen Stand wegen der Wehrlosigkeit und haben
+        gearbeitet—verschiedene Arbeiten und haben sich dem Wehrdienst entzogen.
+    - who: David Boder
+      start: '00:08:31.636'
+      end: '00:08:31.636'
+      u: Nun und wo...wie viele Mennoniten sind jetzt hier in diesem Lager zu diesem
+        Punkt?
+    - who: Julius Klüver
+      start: '00:08:37.491'
+      end: '00:08:37.491'
+      u: In diesem Lager sind wir fünfhundert zweiundfünzig [552] Mennoniten, wo die
+        Meisten nach Paraguay gehen wollen. Und von denen...und...und Einige wollen
+        nach Kanada gehen zu den Verwandten, von denen die schon Affidavit haben.
+    - who: David Boder
+      start: '00:08:53.015'
+      end: '00:08:53.015'
+      u: Dann haben die Kanadier den Mennoniten erlaubt nicht in den Wehrdienst einzutreten?
+    - who: Julius Klüver
+      start: '00:08:58.117'
+      end: '00:08:58.117'
+      u: Ja, die Kanadier selbst– so viel wie mir bekannt ist—haben in diesem Krieg
+        auch meistenteils nur Arbeitsdienst geleistet. Nur Einige sind freiwillig
+        in den Wehrmachtsdienst gegangen.
+    - who: David Boder
+      start: '00:09:10.286'
+      end: '00:09:10.286'
+      u: Was meinen Sie—die Kanadier im Allgemeinen oder die kanadischen Mennoniten?
+    - who: Julius Klüver
+      start: '00:09:13.943'
+      end: '00:09:13.943'
+      u: Die Kanadischen Mennoniten.
+    - who: David Boder
+      start: '00:09:16.184'
+      end: '00:09:16.184'
+      u: Nun sagen Sie mal, wie haben sich diese 500 Mennoniten versammelt? Mit wie
+        Vielen sind Sie weg gegangen?
+    - who: Julius Klüver
+      start: '00:09:25.804'
+      end: '00:09:25.804'
+      u: Ich bin mit meiner Familie weg gegangen.
+    - who: David Boder
+      start: '00:09:28.335'
+      end: '00:09:28.335'
+      u: Wie viel Leute waren das?
+    - who: Julius Klüver
+      start: '00:09:29.672'
+      end: '00:09:29.672'
+      u: Vier Personen. Hier haben wir uns gesammelt aus der ganzen amerikanischen
+        Zone. Einzeln, fast alles Frauen und Kinder.
+    - who: David Boder
+      start: '00:09:39.672'
+      end: '00:09:39.672'
+      u: Wo sind die Männer?
+    - who: Julius Klüver
+      start: '00:09:40.847'
+      end: '00:09:40.847'
+      u: Die Männer, die Meisten sind in Sibirien. Die wurden verhaftet im Jahre 36
+        und 37 in Russland, noch vor dem Kriege.
+    - who: David Boder
+      start: '00:09:51.491'
+      end: '00:09:51.491'
+      u: Und diesen Männer wurde erlaubt in Sibirien Mennoniten zu sein?
+    - who: Julius Klüver
+      start: '00:09:56.834'
+      end: '00:09:56.834'
+      u: Die sind in Haft, im Lager, als, hm, in Arbeit stehend. Wir haben keine Nachricht
+        von Ihnen und die Frauen wissen auch nicht, ob sie noch am Leben sind oder
+        nicht.
+    - who: David Boder
+      start: '00:10:09.105'
+      end: '00:10:09.105'
+      u: Also von den 500 Personen, die hier versammelt sind, wie viele sind da erwachsene
+        Männer?
+    - who: Julius Klüver
+      start: '00:10:16.587'
+      end: '00:10:16.587'
+      u: Es sind ungefähr ein Drittel Männer.
+    - who: David Boder
+      start: '00:10:22.593'
+      end: '00:10:22.593'
+      u: Und die Anderen sind Frauen und Kinder?
+    - who: Julius Klüver
+      start: '00:10:24.804'
+      end: '00:10:24.804'
+      u: Frauen und Kinder. Wir haben ungefähr 250 Kinder hier.
+    - who: David Boder
+      start: '00:10:30.117'
+      end: '00:10:30.117'
+      u: Und denken Sie, dass, dass die Kanadier Sie rein lassen werden?
+    - who: Julius Klüver
+      start: '00:10:34.696'
+      end: '00:10:34.696'
+      u: Ja, das denke ich sicher. Also nach Paraguay haben wir schon die Erlaubnis
+        und in kurzer Zeit soll der erste Transport mit 430 Mennoniten nach Paraguay
+        gehen, wo auch ganze mennonitische Kolonien sind in, in Paraguay. Die gehen
+        zu ihren Verwandten nach Paraguay und zu ihren Bekannten in diesen mennonitischen
+        Kolonien.
+    - who: David Boder
+      start: '00:10:58.204'
+      end: '00:10:58.204'
+      u: Sagen Sie mir, wieso kommt es, wie viele Generationen von Ihrer Familie haben
+        in Russland gelebt?
+    - who: Julius Klüver
+      start: '00:11:06.168'
+      end: '00:11:06.168'
+      u: Mein Grossvater kam nach Russland als Kleiner, als Kind.
+    - who: David Boder
+      start: '00:11:13.379'
+      end: '00:11:13.379'
+      u: Also das war ungefähr wie viele Jahre zurück?
+    - who: Julius Klüver
+      start: '00:11:15.740'
+      end: '00:11:15.740'
+      u: Das war ungefähr achtzig [80] oder neunzig [90] Jahre zurück, neunzig [90]
+        Jahre zurück.
+    - who: David Boder
+      start: '00:11:19.848'
+      end: '00:11:19.848'
+      u: Und sagen Sie mir, wieso kommt es, dass die Mennoniten in Russland die deutsche
+        Sprache behalten haben?
+    - who: Julius Klüver
+      start: '00:11:26.547'
+      end: '00:11:26.547'
+      u: Weil wir hatten, wir sprechen untereinander immer noch holländisch, das friesische
+        Platt. Wir haben nur die Gesangbücher, unsere, unsere Bibel und Schulbücher
+        haben wir in deutscher Sprache. Anfänglich waren wir in holländischer Sprache,
+        aber weil in Süd-Russland viele deutsche Kolonien waren unter den Mennonitischen,
+        und der deutsche Markt mit Büchern, die mehr aus dem Fach waren, hat unsere
+        Schule und die Religion den Jungs die Bücher in deutscher Sprache gegeben.
+        Wir aber sprechen zu Hause—auch jetzt hier—alle unter uns nur die holländische
+        Sprache.
+    - who: David Boder
+      start: '00:12:13.604'
+      end: '00:12:13.604'
+      u: Nun sagen Sie mal, Herr Klüver, in welcher Hinsicht unterscheiden sich die
+        Mennonitischen Religion von den anderen Protestantischen Religionen mit Ausnahme
+        der [unverständlich] Gewehr tragen?
+    - who: Julius Klüver
+      start: '00:12:28.827'
+      end: '00:12:28.827'
+      u: Erstens die Hauptsache ist, bei uns ist nicht Kleintaufe sondern Großtaufe.
+        Das ist die, die erste Hauptlinie.
+    - who: David Boder
+      start: '00:12:38.086'
+      end: '00:12:38.086'
+      u: Was ist die Großtaufe?
+    - who: Julius Klüver
+      start: '00:12:39.441'
+      end: '00:12:39.441'
+      u: Also bei uns werden sie getauft, wenn siebzehn [17], achtzehn [18], neunzehn
+        [19] Jahre alt. Nicht als klein, sondern erst wenn man das Alter zwischen
+        siebzehn [17] und neunzehn [19] Jahre erreicht.
+    - who: David Boder
+      start: '00:12:50.206'
+      end: '00:12:50.206'
+      u: Zweitens?
+    - who: Julius Klüver
+      start: '00:12:51.743'
+      end: '00:12:51.743'
+      u: Zweitens ist die Wehrlosigkeit. Drittens schwören wir nicht.
+    - who: David Boder
+      start: '00:12:57.201'
+      end: '00:12:57.201'
+      u: Sie schwören nicht?
+    - who: Julius Klüver
+      start: '00:12:59.643'
+      end: '00:12:59.643'
+      u: Nein. Wir sagen ja, ja oder nein, nein, aber ein Gelübde oder einen Schwur
+        legen wir nicht an.
+    - who: David Boder
+      start: '00:13:06.492'
+      end: '00:13:06.492'
+      u: Nicht einmal zu ihren, hm, Lande, zu Ihrem Vaterland?
+    - who: Julius Klüver
+      start: '00:13:10.209'
+      end: '00:13:10.209'
+      u: Auch nicht.
+    - who: David Boder
+      start: '00:13:12.631'
+      end: '00:13:12.631'
+      u: Aber was sind die Anderen...aber anders sie sind im allgemeinen Protestant?
+    - who: Julius Klüver
+      start: '00:13:19.300'
+      end: '00:13:19.300'
+      u: Protestant, ja protestantisch.
+    - who: David Boder
+      start: '00:13:22.462'
+      end: '00:13:22.462'
+      u: Nun sagen Sie mal, wo waren Sie dann in der letzten Zeit des Krieges, das
+        letzte Jahr des Krieges, wenn Deutschland schon den Krieg allmählich verloren
+        hat?
+    - who: Julius Klüver
+      start: '00:13:36.480'
+      end: '00:13:36.480'
+      u: Ich war von 43, von anfangs 43 bis Ende 45 in Polen. Ich lebte in Leibenstadt,
+        ich arbeite als Buchhalter in einem Betrieb
+    - who: David Boder
+      start: '00:13:48.799'
+      end: '00:13:48.799'
+      u: In Polen?
+    - who: Julius Klüver
+      start: '00:13:49.594'
+      end: '00:13:49.594'
+      u: In Polen.
+    - who: David Boder
+      start: '00:13:50.317'
+      end: '00:13:50.317'
+      u: Und wann sind Sie in die amerikanische Zone gegangen?
+    - who: Julius Klüver
+      start: '00:13:52.950'
+      end: '00:13:52.950'
+      u: Zur amerikanischen Zone kam ich im Januar 1945.
+    - who: David Boder
+      start: '00:13:56.878'
+      end: '00:13:56.878'
+      u: Und bevor waren sie in Polen?
+    - who: Julius Klüver
+      start: '00:13:58.788'
+      end: '00:13:58.788'
+      u: In Polen.
+    - who: David Boder
+      start: '00:13:59.613'
+      end: '00:13:59.613'
+      u: Nun da kamen doch...wo waren Sie als die Russen nach Polen kamen?
+    - who: Julius Klüver
+      start: '00:14:03.300'
+      end: '00:14:03.300'
+      u: Als die Front näher nach Polen kam, ging ich zurück zu einigen guten Bekannten
+        und westlich nach Deutschland.
+    - who: David Boder
+      start: '00:14:13.884'
+      end: '00:14:13.884'
+      u: Haben die Deutschen das erlaubt?
+    - who: Julius Klüver
+      start: '00:14:15.180'
+      end: '00:14:15.180'
+      u: Ja, sie haben das erlaubt.
+    - who: David Boder
+      start: '00:14:17.150'
+      end: '00:14:17.150'
+      u: Nun waren Sie in irgendwelchen Gegenden, die schwer gebombt worden sind?
+    - who: Julius Klüver
+      start: '00:14:21.650'
+      end: '00:14:21.650'
+      u: Ich war...von Polen kam ich nach Chemnitz. Da war ich zwei [2] Wochen und
+        wollte mir da Arbeit suchen. Und ich hatte mir auch ein Zimmer gemietet da,
+        aber das Haus wurde in zwei [2] Wochen ganz zerbombt und ich wollte mit nur
+        einem Koffer meiner Familie das Leben retten und bin zu Fuß nach der Stadt
+        Weier und von Weier nach München. In München lebte mein Vetter und ich hab
+        mich dem angeschlossen.
+    - who: David Boder
+      start: '00:14:51.574'
+      end: '00:14:51.574'
+      u: Lebte er immer in München oder war er auch ein Flüchtling?
+    - who: Julius Klüver
+      start: '00:14:54.176'
+      end: '00:14:54.176'
+      u: Er war auch ein Flüchtling, er kam von Russland 1942.
+    - who: David Boder
+      start: '00:15:00.381'
+      end: '00:15:00.381'
+      u: Und dann, hm, haben Sie sich hier allmählich versammelt und sind jetzt fertig
+        weiter zu reisen?
+    - who: Julius Klüver
+      start: '00:15:07.291'
+      end: '00:15:07.291'
+      u: Wir waren...als wir nach München kamen, wurde ich in der Stadt nicht untergebracht.
+        Ich ging—ich musste gehen zu den Bauern [unverständlich]. Die Familie war
+        auch mit mir beim Bauern. [unverständlich - ganz besonders starkes Rauschen
+        im Hintergrund des Tonbandes]. Ich habe da über ein Jahr als Knecht beim Bauern
+        gearbeitet.
+    - who: David Boder
+      start: '00:15:23.809'
+      end: '00:15:23.809'
+      u: Und wo war ihre Familie?
+    - who: Julius Klüver
+      start: '00:15:25.297'
+      end: '00:15:25.297'
+      u: Die Familie war auch mit mir beim Bauern.
+    - who: David Boder
+      start: '00:15:27.627'
+      end: '00:15:27.627'
+      u: Sie haben eine Frau und zwei [2] Kinder?
+    - who: Julius Klüver
+      start: '00:15:29.646'
+      end: '00:15:29.646'
+      u: Eine Frau und zwei [2] Töchter, die haben alle gearbeitet beim Bauern.
+    - who: David Boder
+      start: '00:15:33.973'
+      end: '00:15:33.973'
+      u: Beim Bauern?
+    - who: Julius Klüver
+      start: '00:15:34.877'
+      end: '00:15:34.877'
+      u: Ja, ohne Bezahlung, wir lebten mit unserer Lebensmittelkarte und bekamen
+        zusätzlich etwas Milch von ihm.
+    - who: David Boder
+      start: '00:15:43.381'
+      end: '00:15:43.381'
+      u: Was heißt gelebt mit Ihrer Lebensmittelkarte? Hat der Bauer sie nicht gefüttert?
+    - who: Julius Klüver
+      start: '00:15:47.369'
+      end: '00:15:47.369'
+      u: Nein, also es war so. Wir bekamen unsere Lebensmittelkarten und dazu mussten
+        arbeiten. Zusätzlich haben wir etwas Milch von ihm bekommen.
+    - who: David Boder
+      start: '00:15:57.773'
+      end: '00:15:57.773'
+      u: Und das andere Essen haben Sie bezahlen müssen?
+    - who: Julius Klüver
+      start: '00:16:00.315'
+      end: '00:16:00.315'
+      u: Das habe ich bezahlt.
+    - who: David Boder
+      start: '00:16:01.731'
+      end: '00:16:01.731'
+      u: Wo von haben Sie das bezahlt?
+    - who: Julius Klüver
+      start: '00:16:03.189'
+      end: '00:16:03.189'
+      u: Ich hatte noch Geld von meinem früheren Verdienst. Es war nicht—da brauchte
+        man nicht viel Geld zu haben, um die Lebensmittel aufzukaufen, die man jetzt
+        bekam auf die Karte.
+    - who: David Boder
+      start: '00:16:17.418'
+      end: '00:16:17.418'
+      u: Sie sagen, Sie hatten noch etwas mit, was für ein Geld war das?
+    - who: Julius Klüver
+      start: '00:16:24.810'
+      end: '00:16:24.810'
+      u: Das waren Deutsche Mark, Reichsmark.
+    - who: David Boder
+      start: '00:16:29.250'
+      end: '00:16:29.250'
+      u: Wann haben Sie die umgetauscht von Rubel?
+    - who: Julius Klüver
+      start: '00:16:33.358'
+      end: '00:16:33.358'
+      u: Russische Rubel, das war nicht gespart in Russischen Rubel. Das war das,
+        was ich in Polen verdient habe. Das bekamen wir schon bezahlt in Deutschen
+        Reichsmark. Also von Russischen Rubeln hatte ich kein Geld, also keine Ersparnis.
+    - who: David Boder
+      start: '00:16:48.400'
+      end: '00:16:48.400'
+      u: Also wollen wir das klar machen. Sie und Ihre Familie haben bei einem Bauern
+        gearbeitet. Nicht wahr?
+    - who: Julius Klüver
+      start: '00:16:53.713'
+      end: '00:16:53.713'
+      u: Ja.
+    - who: David Boder
+      start: '00:16:55.129'
+      end: '00:16:55.129'
+      u: Und der hat Ihnen das Essen nicht frei gegeben?
+    - who: Julius Klüver
+      start: '00:16:58.906'
+      end: '00:16:58.906'
+      u: Das war wegen dem Gesetz. Wer Lebensmittelkarten hat, darf nicht beim Bauern
+        essen, wenn er sein eigenes Aus...Aushalt hat.
+    - who: David Boder
+      start: '00:17:09.659'
+      end: '00:17:09.659'
+      u: Ja, wozu haben Sie die Lebensmittelkarten genommen?
+    - who: Julius Klüver
+      start: '00:17:13.466'
+      end: '00:17:13.466'
+      u: Das war so, das war so—alle Flüchtlinge haben gelebt und haben Karten bekommen.
+        Weil ich meine Familie mit mir hatte. Wenn ich ledig wäre, hätt ich können...die
+        Lebensmittelkarte nicht bekommen und bei ihm essen, beim Bauern. Aber weil
+        ich Familie hatte, deshalb hab ich mit der Familie...
+    - who: David Boder
+      start: '00:17:30.653'
+      end: '00:17:30.653'
+      u: Aha.
+    - who: Julius Klüver
+      start: '00:17:31.135'
+      end: '00:17:31.135'
+      u: Die Frau hat selber gekocht.
+    - who: David Boder
+      start: '00:17:32.854'
+      end: '00:17:32.854'
+      u: Aha. Und Sie bezahlten ihr Essen mit den Karten, Sie haben ihm die Karten,
+        die Lebensmittelkarten gegeben und er gab Ihnen ab und zu etwas Milch? Und
+        er hat Ihnen nichts gezahlt?
+    - who: Julius Klüver
+      start: '00:17:42.243'
+      end: '00:17:42.243'
+      u: Nein, Geld hat er mir nicht gezahlt. Er hat gesagt wir arbeiten für die Wohnung
+        und für die, für die paar Sachen, die er mir gegeben hat. Ich hatte einen
+        Tisch und ein paar Stühle und dafür musste ich arbeiten.
+    - who: David Boder
+      start: '00:17:53.044'
+      end: '00:17:53.044'
+      u: Was heißt er hat sie gegeben?
+    - who: Julius Klüver
+      start: '00:17:54.540'
+      end: '00:17:54.540'
+      u: Er hat sie rein gestellt in mein Zimmer.
+    - who: David Boder
+      start: '00:17:56.776'
+      end: '00:17:56.776'
+      u: Oh, er hat Sie Ihnen gegeben!
+    - who: Julius Klüver
+      start: '00:17:57.976'
+      end: '00:17:57.976'
+      u: Ja.
+    - who: David Boder
+      start: '00:18:00.267'
+      end: '00:18:00.267'
+      u: Nun war dieser Bauer ein Nazi?
+    - who: Julius Klüver
+      start: '00:18:03.436'
+      end: '00:18:03.436'
+      u: Er war bis 1936 Nazi. Dann ist er aus der Partei rausgegangen, weil er Angst
+        hatte und würde sein Gut verlieren. Er war ein reicher Bauer, ein [unverständlich]
+        Bauer und deshalb hat er nicht mit den Nazis gestimmt. Er meinte, dass mit
+        der Zeit es wird solche Gesellschaften geben, die darauf aus sind Genossenschaften
+        daraus...
+    - who: David Boder
+      start: '00:18:28.225'
+      end: '00:18:28.225'
+      u: Wie in Russland die landwirtschaftlichen Genossenschaften?
+    - who: Julius Klüver
+      start: '00:18:29.020'
+      end: '00:18:29.020'
+      u: Ja, so was auf diese Art, deshalb war...wurde er mit der Zeit gegen die Nazis
+        gestimmt. Anfänglich war er mit ihnen und war ein Parteimitglied bis 1936.
+    - who: David Boder
+      start: '00:18:41.942'
+      end: '00:18:41.942'
+      u: Und Sie glauben, dass solch ein Bauer nicht durch Bekannte oder Verwandte
+        gewusst hat was in den Konzentrationslagern vorgeht?
+    - who: Julius Klüver
+      start: '00:18:52.496'
+      end: '00:18:52.496'
+      u: Ich denk, er kann es nicht gewusst haben. Er hat auch wenig Interesse daran.
+        Und Gemeinschaft hatte er auch keine. Hier in Bayern hatten die Bauern sehr
+        kleine Gemeinschaften untereinander.
+    - who: David Boder
+      start: '00:19:07.026'
+      end: '00:19:07.026'
+      u: Nun sagen Sie mir, Sie haben doch die Deutschen beobachten können, was hat
+        der Bauer über den Krieg gedacht?
+    - who: Julius Klüver
+      start: '00:19:17.430'
+      end: '00:19:17.430'
+      u: Viele von ihnen haben geglaubt, dass Deutschland gewinnen wird. Aber Viele
+        haben auch prophezeit, dass Deutschland den Krieg nie gewinnen wird, denn
+        die Übermacht war zu gross.
+    - who: David Boder
+      start: '00:19:31.960'
+      end: '00:19:31.960'
+      u: Und wo waren Sie an dem Tage als Deutschland sich ergeben hat?
+    - who: Julius Klüver
+      start: '00:19:35.725'
+      end: '00:19:35.725'
+      u: Da war ich in diesem Dorf beim Bauern.
+    - who: David Boder
+      start: '00:19:38.478'
+      end: '00:19:38.478'
+      u: Nun was haben die Leute dann gesagt?
+    - who: Julius Klüver
+      start: '00:19:41.623'
+      end: '00:19:41.623'
+      u: 'Sehr viele von den Deutschen haben sich sehr gefreut, dass der Krieg zu
+        Ende ist und damit ihre Söhne nach Hause kommen. Und dann haben sich dann
+        sind die Bauern wieder ihrer Arbeit gewidmet. Sie haben sich gedacht: ‚Wir
+        werden es jetzt schlecht haben anfänglich—aber mit der Zeit werden wir uns
+        doch wieder vollständig erholen.“ Sie haben Hoffnung gehabt für eine bessere
+        Zukunft.'
+    - who: David Boder
+      start: '00:20:07.718'
+      end: '00:20:07.718'
+      u: Sagen Sie, haben die Bauern während des Krieges gut gegessen?
+    - who: Julius Klüver
+      start: '00:20:11.784'
+      end: '00:20:11.784'
+      u: Die Meisten ja. Die haben es verstanden nicht alles abzuliefern und da hatten
+        sie für sich und haben wohl [unverständlich—starkes Rauschen im Tonband],
+        die Meisten.
+    - who: David Boder
+      start: '00:20:24.025'
+      end: '00:20:24.025'
+      u: Und nun als Beobachter—was denken Sie von der deutschen Lage jetzt?
+    - who: Julius Klüver
+      start: '00:20:35.091'
+      end: '00:20:35.091'
+      u: Ja, wie soll ich Ihnen dies erklären? Ich habe so wenig Interesse an der
+        Lage jetzt hier, mein Interesse und meine Gedanken sind nur drüben. So schnell
+        wie möglich von hier weg, dass ich endlich eine Heimat habe. Seit 1920 habe
+        ich keine Ruhe...keine ruhige Nacht gehabt und eigentlich möchte ich einmal—eine
+        Nacht - in Ruhe schlafen. Und auch eine kleine, kleine Heimat zu haben. Hier
+        denken viele Deutsche es wird ihnen bald wieder besser gehen. Von Vielen habe
+        ich das gehört, wie ich im Dorf noch war. Das sie immerhin hoffen drei [3]
+        oder vier [4] Jahre werden sie es schwer haben, aber dann werden sie doch
+        ein besseres Leben haben, ein freieres Leben haben als zur Zeit der Nazi gehabt
+        haben.
+    - who: David Boder
+      start: '00:21:30.294'
+      end: '00:21:30.294'
+      u: Nun sagen Sie, was war das Verhältnis des Bauern, mit dem Sie gelebt haben,
+        was war deren Verhältnis zu den Juden?
+    - who: Julius Klüver
+      start: '00:21:46.571'
+      end: '00:21:46.571'
+      u: Das Verhalten zu den Juden war schlecht. Das habe ich gespürt bei den Bauern
+        auch. Das jüdische Volk wurde nicht gemocht.
+    - who: David Boder
+      start: '00:21:57.950'
+      end: '00:21:57.950'
+      u: Und wie stand es zwischen den Mennoniten in Russland?
+    - who: Julius Klüver
+      start: '00:22:01.546'
+      end: '00:22:01.546'
+      u: Die Mennoniten haben keine Nation verachtet. Im Gegenteil—die Mennoniten
+        haben sich auch für so eine religiös verfolgte Nation, wie die Juden, gefühlt.
+        Wir haben uns sehr oft mit den Juden verglichen. Nur, dass wir ein kleines,
+        armes Völkchen sind und die Juden sind sehr reich und in der Mehrzahl mehr
+        und sie haben stärkere Organisationen. Wir sind zu wenig und zu schwach. Aber
+        die Verfolgung, die religiöse Verfolgungen der letzten vier hundert [400]
+        Jahre war so wie bei den Juden. Wir haben keine Heimat, wir haben kein Land,
+        dass wir unseres nennen können. Wir waren in Holland, wir waren bei Danzig
+        im polnischen Korridor, wir waren in Süd-Russland und nirgendwo finden wir
+        eine Heimat.
+    - who: David Boder
+      start: '00:22:50.775'
+      end: '00:22:50.775'
+      u: Sagen Sie mir, kann man eine Heimat haben, wenn man diese Heimat nicht mit
+        Gewehr verteidigen will?
+    - who: Julius Klüver
+      start: '00:22:57.534'
+      end: '00:22:57.534'
+      u: Nach unserer Ansicht—ja. Nach unserem Glauben und religiösen Bekenntnis kann
+        man eine Heimat haben, auch wenn man sie nicht mit dem Gewehr verteidigen
+        kann.
+    - who: David Boder
+      start: '00:23:11.389'
+      end: '00:23:11.389'
+      u: In allen anderen Fällen—erkennen die Mennoniten den Staat an? Das heißt,
+        zahlen Sie Steuern?
+    - who: Julius Klüver
+      start: '00:23:20.773'
+      end: '00:23:20.773'
+      u: Ja, ja, in allen Fällen—die Mennoniten—wir bezahlen Steuern...
+    - who: David Boder
+      start: '00:23:23.894'
+      end: '00:23:23.894'
+      u: Erkennen Sie den Staat an?
+    - who: Julius Klüver
+      start: '00:23:25.009'
+      end: '00:23:25.009'
+      u: Wir erkennen den Staat an.
+    - who: David Boder
+      start: '00:23:26.478'
+      end: '00:23:26.478'
+      u: Haben Sie je gehört von der Sekte in Amerika—die Jehovas Zeugnisse?
+    - who: Julius Klüver
+      start: '00:23:31.972'
+      end: '00:23:31.972'
+      u: Nein.
+    - who: David Boder
+      start: '00:23:34.878'
+      end: '00:23:34.878'
+      u: Das ist eine andere Sekte, wie, zum Beispiel die Dukhobors, die wollen keine
+        Steuern zahlen.
+    - who: Julius Klüver
+      start: '00:23:37.888'
+      end: '00:23:37.888'
+      u: Nein, habe ich noch nie gehört.
+    - who: David Boder
+      start: '00:23:44.677'
+      end: '00:23:44.677'
+      u: So, die Mennoniten zahlen ihre Steuern?
+    - who: Julius Klüver
+      start: '00:23:46.755'
+      end: '00:23:46.755'
+      u: Sehr gern. Bitte ich weiß von früher und auch jetzt—wir sind nicht geizig.
+        Wir zahlen, wir wollen arbeiten, wir wollen auch unsere Religion haben und
+        wir wollen unsere Pflichten gegen den Staat erfüllen.
+    - who: David Boder
+      start: '00:24:00.622'
+      end: '00:24:00.622'
+      u: Sie sagten, Sie arbeiten als Buchhalter, gibt es viele Mennoniten, die nicht
+        auf dem Lande arbeiten?
+    - who: Julius Klüver
+      start: '00:24:06.598'
+      end: '00:24:06.598'
+      u: Sehr wenig. Die Meisten sind alle Bauern.
+    - who: David Boder
+      start: '00:24:13.146'
+      end: '00:24:13.146'
+      u: Gibt es welche Mennoniten in Mexiko?
+    - who: Julius Klüver
+      start: '00:24:15.899'
+      end: '00:24:15.899'
+      u: Ja, es gibt Mennoniten in Mexiko.
+    - who: David Boder
+      start: '00:24:18.429'
+      end: '00:24:18.429'
+      u: Wo leben diese?
+    - who: Julius Klüver
+      start: '00:24:20.507'
+      end: '00:24:20.507'
+      u: Das kann ich Ihnen nicht genau sagen, ich weiß nur, dass es in Mexiko auch
+        Mennoniten gibt.
+    - who: David Boder
+      start: '00:24:25.056'
+      end: '00:24:25.056'
+      u: Waren diese von Kanada übersiedelt oder sie direkt von Russland gekommen?
+    - who: Julius Klüver
+      start: '00:24:32.207'
+      end: '00:24:32.207'
+      u: Das kann ich Ihnen genau nicht sagen.
+    - who: David Boder
+      start: '00:24:34.267'
+      end: '00:24:34.267'
+      u: Und wieso sind sie nach Paraguay gekommen?
+    - who: Julius Klüver
+      start: '00:24:37.562'
+      end: '00:24:37.562'
+      u: Die, die haben schon ab April [unverständlich] ein Bestimmung von der Paraguay
+        Regierung, dass alle Mennoniten—ohne jegliche Bedingung—frei nach diesem Land
+        kommen können - ohne Gesundheitskontrolle des Gesundheitszustandes können
+        alle nach Paraguay kommen. Das sind unsere Mennoniten, die haben in dem großen
+        Chaco Gebiet, wo keiner richtig konnte durchkommen, da haben unsere Mennoniten
+        Kolonien gebaut und unsere Kolonien blühen dort.
+    - who: David Boder
+      start: '00:25:10.901'
+      end: '00:25:10.901'
+      u: Nun sagen Sie mal—in ihrer Gruppe sind da mehr Frauen, wie Männer?
+    - who: Julius Klüver
+      start: '00:25:15.642'
+      end: '00:25:15.642'
+      u: Viel mehr Frauen wie Männer.
+    - who: David Boder
+      start: '00:25:17.491'
+      end: '00:25:17.491'
+      u: Also was wird aus diesen Frauen werden? Viele von ihnen werden nicht wissen,
+        ob sie Witwen sind oder nicht. Und dann darf sich eine Mennonitin mit einem
+        Nicht-Mennoniten verheiraten?
+    - who: Julius Klüver
+      start: '00:25:28.919'
+      end: '00:25:28.919'
+      u: Nein. Sie dürfen—nach unseren Gesetzen—nur unsere Mennoniten heiraten.
+    - who: David Boder
+      start: '00:25:36.521'
+      end: '00:25:36.521'
+      u: Nun wird es nicht eine schwierige Situation bringen?
+    - who: Julius Klüver
+      start: '00:25:41.521'
+      end: '00:25:41.521'
+      u: Bis jetzt nicht. [Pause] Nein, ich meine nicht.
+    - who: David Boder
+      start: '00:25:49.907'
+      end: '00:25:49.907'
+      u: Ich meine bloß vom Standpunkt, von unserem, dass ist doch eine schwere Situation
+        sein wird, Frauen zu haben, die sich keine Männer finden können
+    - who: Julius Klüver
+      start: '00:26:03.311'
+      end: '00:26:03.311'
+      u: Ja, das wird vielleicht schwer sein, aber wir haben bis, bisher in unseren
+        Kolonien, haben wir bisher sehr wenige gemischte Ehen gehabt. Jetzt—in letzter
+        Zeit ist es mehr geworden, weil von unseren Männern viele weg sind. Deswegen
+        haben auch Mennonitische Frauen geheiratet mit Anderen als Mennoniten.
+    - who: David Boder
+      start: '00:26:29.044'
+      end: '00:26:29.044'
+      u: Sagen Sie, Herr Klüver, tuen die Mennoniten Leute von anderen Religionen
+        bekehren?
+    - who: Julius Klüver
+      start: '00:26:36.345'
+      end: '00:26:36.345'
+      u: Nein, nein, das ist nur von unserer Gemeinde.
+    - who: David Boder
+      start: '00:26:41.375'
+      end: '00:26:41.375'
+      u: Zum Beispiel sagen wir, wenn jemand Mennonite werden will, würden sie ihn
+        aufnehmen?
+    - who: Julius Klüver
+      start: '00:26:47.942'
+      end: '00:26:47.942'
+      u: Nein, er muss als Mennonite geboren werden. Das ist kein...nicht nur Religion...wir
+        sehen uns als Volk.
+    - who: David Boder
+      start: '00:26:56.328'
+      end: '00:26:56.328'
+      u: Also zum Beispiel, wenn ein Spanier, ein Uruguyaner, hm, sieht, wie Sie leben
+        und ihr Leben ihm gefällt, kann er doch nicht Mennonite werden?
+    - who: Julius Klüver
+      start: '00:27:09.081'
+      end: '00:27:09.081'
+      u: Nein. Es werden sehr große Ausnahmen ge..., es werden Ausnahmen gemacht.
+        Wenn dieser, hm, Spanier oder andere Nationalitäten, wenn der in unserer Kolonie,
+        in unserem Dorf wohnt und unsere Gebräuche und unsere Religion annimmt und
+        unsere Sprache erlernt und unter unseren Leuten wohnt, dann kann eine Ausnahme
+        gemacht werden. Dann muss er sich taufen lassen.
+    - who: David Boder
+      start: '00:27:36.913'
+      end: 
+      u: "[In English] This concludes Spool 132 - an interview with Mr. Julius Klüver
+        - a so-called Leader of the Germanic Group of the Funkkasernen Camp in, hm,
+        near München. This is the first case that we have interviewed a displaced
+        person, who took—so to say - advantage of the situation in Russia to move
+        west and to get to a country where their reluctance to carry arms because
+        of religious principles should be respected. September 19, 1956 in Munich,
+        Germany at the UNRA Detention Camp, a Illinois Institute of Technology wire
+        recording. The machine is not at—in the best order, one condenser is broken,
+        seems to be broken of, because the machine got a very rough ride. But nevertheless
+        we took the record, because we hope that the transcription will be satisfactory.
+        September 19, 1946—Illinois Institute of Technology wire recording."
+  translation:
+    language: en
+    interview:
+    - who: David Boder
+      start: '00:00:01.417'
+      end: '00:00:01.417'
+      u: "[In English] September 19, 1946 in a large refugee center in the Funkkasernen
+        we are interviewing Mr. Julius Klüver, a leader of the Mennonite Group, which
+        moved gradually from [Name] Russia up to the American Zone in Germany."
+    - who: David Boder
+      start: '00:00:24.086'
+      end: '00:00:24.086'
+      u: "[In German]Now tell me again, Mr. Klver, what is your name, how old are
+        you and where were you born?"
+    - who: Julius Klüver
+      start: '00:00:31.353'
+      end: '00:00:31.353'
+      u: My name is Julius Klver. I am 43 years old. I was born in the province of
+        Ekaterinoslav in the district of Dniprovs'ke, in the Ukraine on the farm of
+        my father, Alexandrovka.
+    - who: David Boder
+      start: '00:00:49.257'
+      end: '00:00:49.257'
+      u: Now tell me, Mr. Klver, where were you and what happened to you when the
+        war started?
+    - who: Julius Klüver
+      start: '00:00:58.094'
+      end: '00:00:58.094'
+      u: At the beginning of the war I was in the Ukraine in the city of Zaporoje.
+        I worked in a factory as a bookkeeper.
+    - who: David Boder
+      start: '00:01:17.347'
+      end: '00:01:17.347'
+      u: So what happened when the war started?
+    - who: Julius Klüver
+      start: '00:01:32.722'
+      end: '00:01:32.722'
+      u: When the war started I continued working at the plant until the arrival of
+        the Germans. When the Germans arrived it became the goal of the Mennonites
+        as well as my own to get away west as far as possible and from there to join
+        the Mennonites of Canada, of U.S.A., or of Paraguay. That was our bold aim
+        since 1920, and now we decided to endeavor to reach this goal.
+    - who: David Boder
+      start: '00:02:10.767'
+      end: '00:02:10.767'
+      u: Now tell me, how many Mennonites were there altogether [In Russia]?
+    - who: Julius Klüver
+      start: '00:02:16.201'
+      end: '00:02:16.201'
+      u: By the year 1930, there were about 80,000 Mennonites.
+    - who: David Boder
+      start: '00:02:27.207'
+      end: '00:02:27.207'
+      u: Where did they all live?
+    - who: Julius Klüver
+      start: '00:02:29.237'
+      end: '00:02:29.237'
+      u: Most of them lived in southern Russia.
+    - who: David Boder
+      start: '00:02:32.972'
+      end: '00:02:32.972'
+      u: Tell me, were most of the Mennonites German?
+    - who: Julius Klüver
+      start: '00:02:36.677'
+      end: '00:02:36.677'
+      u: The Mennonites are Dutch. They are of Dutch origin. They migrated from the
+        Low Countries to southern Russia upon an invitation from the Empress Catherine
+        the Second and her successors. They came to Russia to colonize the southern
+        Ukraine. They left the low countries, the shores of the northern sea, on account
+        of their religion and their refusal to bear arms. We were promised in Russia
+        that we should be able to obey by our faith which precludes the bearing of
+        arms.
+    - who: David Boder
+      start: '00:03:20.512'
+      end: '00:03:20.512'
+      u: And that means what?
+    - who: Julius Klüver
+      start: '00:03:21.898'
+      end: '00:03:21.898'
+      u: Not to be compelled to serve as soldiers, which is against our religious
+        beliefs.
+    - who: David Boder
+      start: '00:03:28.055'
+      end: '00:03:28.055'
+      u: Did the Russians keep their promise?
+    - who: Julius Klüver
+      start: '00:03:31.260'
+      end: '00:03:31.260'
+      u: The Russians kept their promise up to the year of 1920.
+    - who: David Boder
+      start: '00:03:36.272'
+      end: '00:03:36.272'
+      u: Did the Tzars never draft the Mennonites?
+    - who: Julius Klüver
+      start: '00:03:39.567'
+      end: '00:03:39.567'
+      u: During the epoch of the Tzars we were not compelled to bear arms but we were
+        drafted for labor service under the department of forestry.
+    - who: David Boder
+      start: '00:03:48.935'
+      end: '00:03:48.935'
+      u: So when were the Mennonites drafted into the army for the first time?
+    - who: Julius Klüver
+      start: '00:03:54.037'
+      end: '00:03:54.037'
+      u: Since the formation of the Soviet Republic.
+    - who: David Boder
+      start: '00:03:57.543'
+      end: '00:03:57.543'
+      u: So it was then when it started? What did the Mennonites do about it?
+    - who: Julius Klüver
+      start: '00:04:06.260'
+      end: '00:04:06.260'
+      u: The Mennonites refused, and were taken to the courts. I too was hailed before
+        the courts in 1923 and it took a long time before I was released on the grounds
+        of my religious beliefs.
+    - who: David Boder
+      start: '00:04:29.352'
+      end: '00:04:29.352'
+      u: How did they happen to release you?
+    - who: Julius Klüver
+      start: '00:04:31.081'
+      end: '00:04:31.081'
+      u: It was possible to be released by order of the Soviet Courts.
+    - who: David Boder
+      start: '00:04:40.009'
+      end: '00:04:40.009'
+      u: Was everybody taken separately before the courts?
+    - who: Julius Klüver
+      start: '00:04:45.081'
+      end: '00:04:45.081'
+      u: A large number of our young men were tried at that time. Many were released;
+        many were not.
+    - who: David Boder
+      start: '00:04:54.250'
+      end: '00:04:54.250'
+      u: And what did they do to those who were not released?
+    - who: Julius Klüver
+      start: '00:04:57.545'
+      end: '00:04:57.545'
+      u: A few were drafted, but most of them were sentenced to labor service in Siberia.
+    - who: David Boder
+      start: '00:05:03.780'
+      end: '00:05:03.780'
+      u: So. Well, what happened when the Germans came into Russia?
+    - who: Julius Klüver
+      start: '00:05:09.623'
+      end: '00:05:09.623'
+      u: As soon as the Germans arrived in Russia part of the Mennonites moved immediately
+        west.
+    - who: David Boder
+      start: '00:05:16.554'
+      end: '00:05:16.554'
+      u: You mean they went to meet the Germans?
+    - who: Julius Klüver
+      start: '00:05:19.668'
+      end: '00:05:19.668'
+      u: No, but they moved westward. To us it was immaterial. If there would have
+        come a French army, a Dutch army, a Turkish army, we had only one goal. To
+        get away from the East.
+    - who: David Boder
+      start: '00:05:36.325'
+      end: '00:05:36.325'
+      u: Why?
+    - who: Julius Klüver
+      start: '00:05:37.831'
+      end: '00:05:37.831'
+      u: Because of our parents, our sisters and our brothers. Nearly all were exiled
+        to Siberia. We were deprived of all our belongings.
+    - who: David Boder
+      start: '00:05:48.412'
+      end: '00:05:48.412'
+      u: When did that happen?
+    - who: Julius Klüver
+      start: '00:05:50.069'
+      end: '00:05:50.069'
+      u: That happened between 1920 and 1935. Take for example, my case. My father
+        was rich. He owned a farm. My father was shot in 1920 because he was a rich
+        man. I, then a youngster of 17, had to go for years in hiding so that I should
+        not be shot. I had one aim, to get away to our brothers in Canada. I have
+        in Canada three sisters. I have neither brothers or sisters here. My wife
+        has four sisters in Canada and all we were longing for was back to our Mennonites.
+        For example, from my ten uncles that I had here, nine of them are gone. Five
+        died in Siberia, four died in prison, and the sole reason for their arrest
+        was that they were rich people.
+    - who: David Boder
+      start: '00:06:53.014'
+      end: '00:06:53.014'
+      u: Well, so when did that movement westward start? Were you in Saratov when
+        the war started.
+    - who: Julius Klüver
+      start: '00:07:00.767'
+      end: '00:07:00.767'
+      u: No, I lived in Zaporoje. The Germans arrived in the winter of '41 and part
+        of us went already in 1942 to Poland. I went to Poland at the beginning of
+        1943.
+    - who: David Boder
+      start: '00:07:19.785'
+      end: '00:07:19.785'
+      u: Was that with permission of the Germans?
+    - who: Julius Klüver
+      start: '00:07:21.532'
+      end: '00:07:21.532'
+      u: Yes, that was with the permission of the Germans. We were permitted to go
+        west. I went to Poland and stayed in Poland nearly three years. But when the
+        front approached towards Poland I went forward from Poland to Germany and
+        so I arrived in Chemnitz. I stayed in Chemnitz only two weeks. Then there
+        came that big air attack. I was bombed out and I fled with my family westward
+        and so I arrived in Munich.
+    - who: David Boder
+      start: '00:07:52.792'
+      end: '00:07:52.792'
+      u: When did you get to Munich?
+    - who: Julius Klüver
+      start: '00:07:54.491'
+      end: '00:07:54.491'
+      u: I arrived in Munich in January, 1945.
+    - who: David Boder
+      start: '00:08:00.949'
+      end: '00:08:00.949'
+      u: Didn't the Germans demand from the Mennonites any labor service?
+    - who: Julius Klüver
+      start: '00:08:06.292'
+      end: '00:08:06.292'
+      u: A few of the Mennonites were compelled to work. A few even were drafted or
+        were about to be drafted but not many. Most of them stuck to their religious
+        faith which prohibits bearing arms and were working on various jobs and in
+        this way they escaped service in the armed forces.
+    - who: David Boder
+      start: '00:08:31.636'
+      end: '00:08:31.636'
+      u: And how many of you Mennonites are now here in this lager?
+    - who: Julius Klüver
+      start: '00:08:37.491'
+      end: '00:08:37.491'
+      u: We are in this lager 552 Mennonites. Most of them want to go to Paraguay.
+        A certain number want to go to Canada where their relatives are, who have
+        sent them already the affidavits.
+    - who: David Boder
+      start: '00:08:53.015'
+      end: '00:08:53.015'
+      u: Tell me, were the Mennonites in Canada permitted not to join the services?
+    - who: Julius Klüver
+      start: '00:08:58.117'
+      end: '00:08:58.117'
+      u: To the best of my knowledge the Canadians have rendered in this war mostly
+        labor service. Only a few joined the army or navy.
+    - who: David Boder
+      start: '00:09:10.286'
+      end: '00:09:10.286'
+      u: What do you mean, the Canadians in general or the Canadian Mennonites?
+    - who: Julius Klüver
+      start: '00:09:13.943'
+      end: '00:09:13.943'
+      u: The Canadian Mennonites.
+    - who: David Boder
+      start: '00:09:16.184'
+      end: '00:09:16.184'
+      u: Tell me, how were these 500 Mennonites gathered together? With how many did
+        you leave Russia.
+    - who: Julius Klüver
+      start: '00:09:25.804'
+      end: '00:09:25.804'
+      u: I left only with my family.
+    - who: David Boder
+      start: '00:09:28.335'
+      end: '00:09:28.335'
+      u: How many people were you?
+    - who: Julius Klüver
+      start: '00:09:29.672'
+      end: '00:09:29.672'
+      u: We were four people. So we were gathered together from the whole American
+        zone. One by one. Nearly all women and children.
+    - who: David Boder
+      start: '00:09:39.672'
+      end: '00:09:39.672'
+      u: Where are the men?
+    - who: Julius Klüver
+      start: '00:09:40.847'
+      end: '00:09:40.847'
+      u: Most of the men are in Siberia. They were all rounded up in 1936 and 1937.
+        Before the war in Russia.
+    - who: David Boder
+      start: '00:09:51.491'
+      end: '00:09:51.491'
+      u: Are they permitted in Siberia to follow their Mennonite faith?
+    - who: Julius Klüver
+      start: '00:09:56.834'
+      end: '00:09:56.834'
+      u: They are prisoners in various camps. In labor service. We have no word from
+        them and we have no word whether they are still alive or not!
+    - who: David Boder
+      start: '00:10:09.105'
+      end: '00:10:09.105'
+      u: How many grown up men are there among these 500 people?
+    - who: Julius Klüver
+      start: '00:10:16.587'
+      end: '00:10:16.587'
+      u: About one-third are men.
+    - who: David Boder
+      start: '00:10:22.593'
+      end: '00:10:22.593'
+      u: The others are women and children?
+    - who: Julius Klüver
+      start: '00:10:24.804'
+      end: '00:10:24.804'
+      u: Women and children. We have about 250 children here.
+    - who: David Boder
+      start: '00:10:30.117'
+      end: '00:10:30.117'
+      u: Do you expect the Canadians to let you in?
+    - who: Julius Klüver
+      start: '00:10:34.696'
+      end: '00:10:34.696'
+      u: We are quite sure of that. We have already the permission to come to Paraguay
+        and we expect that the first transport of 430 Mennonites will depart for Paraguay.
+        There are large Mennonite colonies in that country. And the people from here
+        go to their relatives or to their friends in these Mennonite colonies.
+    - who: David Boder
+      start: '00:10:58.204'
+      end: '00:10:58.204'
+      u: Now tell me, for how many generations did your family live in Russia?
+    - who: Julius Klüver
+      start: '00:11:06.168'
+      end: '00:11:06.168'
+      u: My grandfather came to Russia as a little child.
+    - who: David Boder
+      start: '00:11:13.379'
+      end: '00:11:13.379'
+      u: How long ago about was that?
+    - who: Julius Klüver
+      start: '00:11:15.740'
+      end: '00:11:15.740'
+      u: That must have been eighty or ninety years ago, about ninety years ago.
+    - who: David Boder
+      start: '00:11:19.848'
+      end: '00:11:19.848'
+      u: Now tell me, how did it happen that the Mennonites still preserved in Russia
+        the German language?
+    - who: Julius Klüver
+      start: '00:11:26.547'
+      end: '00:11:26.547'
+      u: You see, we talk among ourselves still Dutch, the Frisian Platt. Only our
+        hymn book, our Bibles, and our school books were in German. Originally we
+        used a Dutch dialect, but since the Mennonite colonies in southern Russia
+        were surrounded by a large number of German colonies and since years ago there
+        was a better supply of German books the language of our schools and of our
+        religion has become German. But up to now, we still talk among ourselves at
+        home the Dutch language.
+    - who: David Boder
+      start: '00:12:13.604'
+      end: '00:12:13.604'
+      u: Tell me, Mr. Klver, what other differences besides the refusal to bear arms
+        is there between the Mennonite religion and the other Protestant religions?
+    - who: Julius Klüver
+      start: '00:12:28.827'
+      end: '00:12:28.827'
+      u: First of all, we have no infant baptism, but adult baptism.
+    - who: David Boder
+      start: '00:12:38.086'
+      end: '00:12:38.086'
+      u: What do you mean by adult baptism?
+    - who: Julius Klüver
+      start: '00:12:39.441'
+      end: '00:12:39.441'
+      u: Our people are baptized at the age of 17, 18, 19 years. Not as children,
+        but when they reach the age between 17 and 19. Second, the refusal to bear
+        arms. Third we do not swear. We say yes, yes, or no, no, but we do not make
+        any vows.
+    - who: David Boder
+      start: '00:13:06.492'
+      end: '00:13:06.492'
+      u: Not even to your country, to your fatherland?
+    - who: Julius Klüver
+      start: '00:13:10.209'
+      end: '00:13:10.209'
+      u: Never.
+    - who: David Boder
+      start: '00:13:12.631'
+      end: '00:13:12.631'
+      u: But otherwise you are Protestants?
+    - who: Julius Klüver
+      start: '00:13:19.300'
+      end: '00:13:19.300'
+      u: Of Protestant faith.
+    - who: David Boder
+      start: '00:13:22.462'
+      end: '00:13:22.462'
+      u: Now tell me where were you at the end, during the last year of the war? When
+        Germany was gradually losing the war?
+    - who: Julius Klüver
+      start: '00:13:36.480'
+      end: '00:13:36.480'
+      u: From the beginning of 1943 until the end of 1945 I lived in Poland. I lived
+        near Lesmanstadt as a bookkeeper at a factory.
+    - who: David Boder
+      start: '00:13:48.799'
+      end: '00:13:48.799'
+      u: In Poland?
+    - who: Julius Klüver
+      start: '00:13:49.594'
+      end: '00:13:49.594'
+      u: In Poland.
+    - who: David Boder
+      start: '00:13:50.317'
+      end: '00:13:50.317'
+      u: When did you get to the American zone?
+    - who: Julius Klüver
+      start: '00:13:52.950'
+      end: '00:13:52.950'
+      u: I arrived at the American zone in January, 1945.
+    - who: David Boder
+      start: '00:13:56.878'
+      end: '00:13:56.878'
+      u: And before that you were in Poland?
+    - who: Julius Klüver
+      start: '00:13:58.788'
+      end: '00:13:58.788'
+      u: In Poland.
+    - who: David Boder
+      start: '00:13:59.613'
+      end: '00:13:59.613'
+      u: So where were you when the Russians came to Poland?
+    - who: Julius Klüver
+      start: '00:14:03.300'
+      end: '00:14:03.300'
+      u: When the front came near Poland I moved towards Germany.
+    - who: David Boder
+      start: '00:14:13.884'
+      end: '00:14:13.884'
+      u: Farther west? Did the Germans permit it?
+    - who: Julius Klüver
+      start: '00:14:15.180'
+      end: '00:14:15.180'
+      u: Yes. They permitted it.
+    - who: David Boder
+      start: '00:14:17.150'
+      end: '00:14:17.150'
+      u: Were you in any districts that were severely bombed?
+    - who: Julius Klüver
+      start: '00:14:21.650'
+      end: '00:14:21.650'
+      u: From Poland I came to Chemnitz. There I stayed two weeks and intended to
+        look for work. I already rented there a room but in two weeks the house was
+        entirely bombed out and to save the life of my family I fled on foot with
+        a single trunk to the city. I escaped to Munich. Here lived a cousin of mine
+        and I joined him.
+    - who: David Boder
+      start: '00:14:51.574'
+      end: '00:14:51.574'
+      u: Did he always live in Munich? Or was he too a refugee?
+    - who: Julius Klüver
+      start: '00:14:54.176'
+      end: '00:14:54.176'
+      u: He too was a refugee, and he came here from Russia in 1942.
+    - who: David Boder
+      start: '00:15:00.381'
+      end: '00:15:00.381'
+      u: And so you all gathered here gradually and you now are ready to travel further?
+    - who: Julius Klüver
+      start: '00:15:07.291'
+      end: '00:15:07.291'
+      u: When we arrived in Munich we couldn't find lodging in the city. We went to
+        the peasants and I found a place 40 kilometers from Munich. Here I worked
+        for a peasant for more than a year as a hired man [his calendaric dates are
+        apparently confused].
+    - who: David Boder
+      start: '00:15:23.809'
+      end: '00:15:23.809'
+      u: And where was your family?
+    - who: Julius Klüver
+      start: '00:15:25.297'
+      end: '00:15:25.297'
+      u: My family was with me too, on the farm.
+    - who: David Boder
+      start: '00:15:27.627'
+      end: '00:15:27.627'
+      u: Who was with you? Your wife and two children?
+    - who: Julius Klüver
+      start: '00:15:29.646'
+      end: '00:15:29.646'
+      u: My wife and two daughters. We all worked for the peasant without pay. We
+        had to live on our ration cards and now and then we got a little bit of milk
+        from him.
+    - who: David Boder
+      start: '00:15:43.381'
+      end: '00:15:43.381'
+      u: What do you mean you lived on your ration cards. Didn't the peasant feed
+        you?
+    - who: Julius Klüver
+      start: '00:15:47.369'
+      end: '00:15:47.369'
+      u: No. We got our ration cards and we had to work. We just got a supplement
+        of a little bit of milk.
+    - who: David Boder
+      start: '00:15:57.773'
+      end: '00:15:57.773'
+      u: And for your other food you had to pay?
+    - who: Julius Klüver
+      start: '00:16:00.315'
+      end: '00:16:00.315'
+      u: That I paid for.
+    - who: David Boder
+      start: '00:16:01.731'
+      end: '00:16:01.731'
+      u: How did you pay?
+    - who: Julius Klüver
+      start: '00:16:03.189'
+      end: '00:16:03.189'
+      u: I still had some money from my previous earnings. One didn't need too much
+        money in order to buy the supplies that one was allowed to get on his card.
+    - who: David Boder
+      start: '00:16:17.418'
+      end: '00:16:17.418'
+      u: You say you still had some money. What kind of currency was it?
+    - who: Julius Klüver
+      start: '00:16:24.810'
+      end: '00:16:24.810'
+      u: That were Germen marks, reichmarks.
+    - who: David Boder
+      start: '00:16:29.250'
+      end: '00:16:29.250'
+      u: How could you get them in exchange for Russian rubles?
+    - who: Julius Klüver
+      start: '00:16:33.358'
+      end: '00:16:33.358'
+      u: That wasn't saved in Russian rubles. These were my earnings from Poland.
+        There we were paid already in reichmarks. I had no more currency in Russian
+        rubles.
+    - who: David Boder
+      start: '00:16:48.400'
+      end: '00:16:48.400'
+      u: Now let us clear that up. You and your family worked for the peasant. Isn't
+        that so?
+    - who: Julius Klüver
+      start: '00:16:53.713'
+      end: '00:16:53.713'
+      u: Yes.
+    - who: David Boder
+      start: '00:16:55.129'
+      end: '00:16:55.129'
+      u: And he did not give you the food free of charge?
+    - who: Julius Klüver
+      start: '00:16:58.906'
+      end: '00:16:58.906'
+      u: That was against the law. If one had a ration card he had no right to eat
+        with the peasant, that is, if one kept house for himself.
+    - who: David Boder
+      start: '00:17:09.659'
+      end: '00:17:09.659'
+      u: Then why did you take out the ration cards?
+    - who: Julius Klüver
+      start: '00:17:13.466'
+      end: '00:17:13.466'
+      u: That was the rule that all the refugees had to take out ration cards. That
+        was because I had my family with me. Had I been alone I would not have been
+        given a ration card and I would have to eat with the peasant. But since I
+        had my family I took my meals with my family. My wife did her own cooking.
+    - who: David Boder
+      start: '00:17:32.854'
+      end: '00:17:32.854'
+      u: And you paid for the food, and gave him your ration stamps except for some
+        milk now and then? And he did not pay you anything?
+    - who: Julius Klüver
+      start: '00:17:42.243'
+      end: '00:17:42.243'
+      u: No, he didn't pay me any money. He told me that I am working for our lodging
+        and the few things that he gave me. I had a table and a few chairs and in
+        exchange for that I had to work.
+    - who: David Boder
+      start: '00:17:53.044'
+      end: '00:17:53.044'
+      u: What does that mean he had given them?
+    - who: Julius Klüver
+      start: '00:17:54.540'
+      end: '00:17:54.540'
+      u: He placed them into my room.
+    - who: David Boder
+      start: '00:17:56.776'
+      end: '00:17:56.776'
+      u: Oh, he had given them to you!
+    - who: Julius Klüver
+      start: '00:17:57.976'
+      end: '00:17:57.976'
+      u: Yes.
+    - who: David Boder
+      start: '00:18:00.267'
+      end: '00:18:00.267'
+      u: Was this peasant a Nazi?
+    - who: Julius Klüver
+      start: '00:18:03.436'
+      end: '00:18:03.436'
+      u: He was a Nazi up to 1936. And then he left the party because he was afraid
+        that in time he would lose his farm. He was a rich peasant and that is why
+        he did not agree with the Nazis. He was afraid that in time they will organize
+        some farm cooperative.
+    - who: David Boder
+      start: '00:18:28.225'
+      end: '00:18:28.225'
+      u: Something like the Russian collective farms?
+    - who: Julius Klüver
+      start: '00:18:29.020'
+      end: '00:18:29.020'
+      u: Something of that kind, and that is why in time he became aroused against
+        the Nazis. At the beginning he had joined them and was a member of the party
+        up to 1936.
+    - who: David Boder
+      start: '00:18:41.942'
+      end: '00:18:41.942'
+      u: And you believe that such a peasant was uninformed either through relatives
+        or friends about the goings-on in concentration camps?
+    - who: Julius Klüver
+      start: '00:18:52.496'
+      end: '00:18:52.496'
+      u: I think he might not have known it. Moreover he had very little interest
+        for such things. And he wasn't getting together with the people too much.
+        Here in Bavaria the peasants do not mingle very much.
+    - who: David Boder
+      start: '00:19:07.026'
+      end: '00:19:07.026'
+      u: Now tell me, you had to opportunity to observe the Germans. What did such
+        a peasant think about the war?
+    - who: Julius Klüver
+      start: '00:19:17.430'
+      end: '00:19:17.430'
+      u: Many of them thought that Germany will win. But many also predicted that
+        Germany will never win the war because the superiority of the enemy was too
+        great.
+    - who: David Boder
+      start: '00:19:31.960'
+      end: '00:19:31.960'
+      u: And where were you on the date of Germany's surrender?
+    - who: Julius Klüver
+      start: '00:19:35.725'
+      end: '00:19:35.725'
+      u: In the same village with the peasant.
+    - who: David Boder
+      start: '00:19:38.478'
+      end: '00:19:38.478'
+      u: And what did the people say then?
+    - who: Julius Klüver
+      start: '00:19:41.623'
+      end: '00:19:41.623'
+      u: Many of the Germans were very glad that the war was over and their sons will
+        return home. And the peasants turned to their work. They said, 'It will be
+        bad at the beginning, but in time we will get on our feet again as good peasants.'
+        They all had hope for a better future.
+    - who: David Boder
+      start: '00:20:07.718'
+      end: '00:20:07.718'
+      u: Tell me, did the peasants eat well during the war?
+    - who: Julius Klüver
+      start: '00:20:11.784'
+      end: '00:20:11.784'
+      u: Most of them did. They found ways not to surrender everything and they took
+        good care of themselves and ate very well. Most of them.
+    - who: David Boder
+      start: '00:20:24.025'
+      end: '00:20:24.025'
+      u: Now as an observer—what do you think of the present German situation?
+    - who: Julius Klüver
+      start: '00:20:35.091'
+      end: '00:20:35.091'
+      u: How can I tell you? I have so little interest in the situation right here.
+        My interests, my thoughts are all overseas. To get away from here as soon
+        as possible so that finally I should have a homeland. Since 1920 I had not
+        a single night in peace. And to have a little, little land of my own. As I
+        observe the Germans here, soon times will be better for them. That I heard
+        in the villages. They think it may be bad for three, four, five years, but
+        eventually they will have a better life, a freer life, better than they had
+        under the Nazis.
+    - who: David Boder
+      start: '00:21:30.294'
+      end: '00:21:30.294'
+      u: Now tell me, what was the attitude of the peasant with whom you lived and
+        of his kind, what was their attitude toward the Jews?
+    - who: Julius Klüver
+      start: '00:21:46.571'
+      end: '00:21:46.571'
+      u: Their attitude toward the Jews was bad. One could feel that also among the
+        peasants. They did not love the Jewish people.
+    - who: David Boder
+      start: '00:21:57.950'
+      end: '00:21:57.950'
+      u: And what was the attitude of the Mennonites of Russia?
+    - who: Julius Klüver
+      start: '00:22:01.546'
+      end: '00:22:01.546'
+      u: The Mennonites despise no nation. On the contrary the Mennonites feel that
+        they are persecuted for their religion just as the Jews. We often compared
+        ourselves with the Jews. Only we are a small, poor, little people, while the
+        Jews are richer, larger in number, and have a stronger organization. We are
+        too few and weak, but the religious persecutions of the last four hundred
+        years are the same for us as for the Jews. We have no homeland, we have no
+        country that we may call our own. We were once in Holland, we were near Danzig
+        in the region of the Polish corridor, we were in southern Russia and nowhere
+        did we find a homeland.
+    - who: David Boder
+      start: '00:22:50.775'
+      end: '00:22:50.775'
+      u: Now tell me, do you think that one can have a homeland if he is not ready
+        to defend it with arms?
+    - who: Julius Klüver
+      start: '00:22:57.534'
+      end: '00:22:57.534'
+      u: According to our convictions—yes. In accordance with our faith one can have
+        a homeland even if one does not defend it with arms.
+    - who: David Boder
+      start: '00:23:11.389'
+      end: '00:23:11.389'
+      u: In all other respects the Mennonites recognize the authority of the state,
+        I mean do you pay taxes?
+    - who: Julius Klüver
+      start: '00:23:20.773'
+      end: '00:23:20.773'
+      u: Yes. In all other respects the Mennonites...they recognize the state.
+    - who: David Boder
+      start: '00:23:26.478'
+      end: '00:23:26.478'
+      u: Did you ever hear of a sect in the United States, the Jehovah's Witnesses?
+    - who: Julius Klüver
+      start: '00:23:31.972'
+      end: '00:23:31.972'
+      u: That is a different sect. No.
+    - who: David Boder
+      start: '00:23:37.888'
+      end: '00:23:37.888'
+      u: Or take the Dukhobors. They refuse to pay taxes.
+    - who: Julius Klüver
+      start: '00:23:43.159'
+      end: '00:23:43.159'
+      u: No, I never heard of them.
+    - who: David Boder
+      start: '00:23:44.677'
+      end: '00:23:44.677'
+      u: So the Mennonites pay their taxes.
+    - who: Julius Klüver
+      start: '00:23:46.755'
+      end: '00:23:46.755'
+      u: Very readily. To the best of my knowledge it was so before, and it is so
+        now. We are not greedy. We pay, we want to work, we want to keep up our religion
+        and we are ready to fulfill all our duties to any state.
+    - who: David Boder
+      start: '00:24:00.622'
+      end: '00:24:00.622'
+      u: You were telling me that you worked as a bookkeeper. Are there many Mennonites
+        who do not work on the land?
+    - who: Julius Klüver
+      start: '00:24:06.598'
+      end: '00:24:06.598'
+      u: Very few. Most of them are farmers, peasants.
+    - who: David Boder
+      start: '00:24:13.146'
+      end: '00:24:13.146'
+      u: Are there any Mennonites in Mexico?
+    - who: Julius Klüver
+      start: '00:24:15.899'
+      end: '00:24:15.899'
+      u: Yes, there are Mennonites in Mexico.
+    - who: David Boder
+      start: '00:24:18.429'
+      end: '00:24:18.429'
+      u: Where do they live there?
+    - who: Julius Klüver
+      start: '00:24:20.507'
+      end: '00:24:20.507'
+      u: That I can't tell you exactly but I know there are Mennonites in Mexico.
+    - who: David Boder
+      start: '00:24:25.056'
+      end: '00:24:25.056'
+      u: Do you know by any chance whether these came from Canada or did they come
+        directly from Russia?
+    - who: Julius Klüver
+      start: '00:24:32.207'
+      end: '00:24:32.207'
+      u: This I couldn't tell you either.
+    - who: David Boder
+      start: '00:24:34.267'
+      end: '00:24:34.267'
+      u: How did they get to Paraguay?
+    - who: Julius Klüver
+      start: '00:24:37.562'
+      end: '00:24:37.562'
+      u: There is already an order since April from the government of Paraguay that
+        all Mennonites may come to that country unconditionally. There is even no
+        control of health conditions. Only come to Paraguay. Our Mennonites have built
+        their colonies in that large Chaco region which was formerly impassable and
+        our colonies have flourished there.
+    - who: David Boder
+      start: '00:25:10.901'
+      end: '00:25:10.901'
+      u: Now tell me, are there more women than men in your group?
+    - who: Julius Klüver
+      start: '00:25:15.642'
+      end: '00:25:15.642'
+      u: Many more women than men.
+    - who: David Boder
+      start: '00:25:17.491'
+      end: '00:25:17.491'
+      u: Now what will become of these women? Many of them do not know if they are
+        widows or not. May a Mennonite woman marry a non-Mennonite?
+    - who: Julius Klüver
+      start: '00:25:28.919'
+      end: '00:25:28.919'
+      u: According to our laws a woman may marry only among Mennonites.
+    - who: David Boder
+      start: '00:25:36.521'
+      end: '00:25:36.521'
+      u: May that not lead to some difficulties?
+    - who: Julius Klüver
+      start: '00:25:41.521'
+      end: '00:25:41.521'
+      u: So far it did not. [He apparently has turned away from the microphone on
+        purpose while making an additional remark].
+    - who: David Boder
+      start: '00:25:49.907'
+      end: '00:25:49.907'
+      u: Oh no. I do not refer to promiscuity. I simply mean that the situation may
+        become difficult for a large number of women to find suitable men.
+    - who: Julius Klüver
+      start: '00:26:03.311'
+      end: '00:26:03.311'
+      u: That certainly will be a problem, but so far we had very few mixed marriages
+        in our colony. Lately it has become more frequent because so many of our men
+        are away and that is why some Mennonite women have married non-Mennonites.
+    - who: David Boder
+      start: '00:26:29.044'
+      end: '00:26:29.044'
+      u: Tell me, Mr. Klver, do Mennonites convert into their religion people of other
+        faiths?
+    - who: Julius Klüver
+      start: '00:26:36.345'
+      end: '00:26:36.345'
+      u: No. We remain in our own community.
+    - who: David Boder
+      start: '00:26:41.375'
+      end: '00:26:41.375'
+      u: If somebody wants to join the Mennonites would you accept him?
+    - who: Julius Klüver
+      start: '00:26:47.942'
+      end: '00:26:47.942'
+      u: No. He must be born a Mennonite. We are not only a religion. We consider
+        ourself a people.
+    - who: David Boder
+      start: '00:26:56.328'
+      end: '00:26:56.328'
+      u: Now let us suppose a Spaniard, an Uruguayan sees your way of life and likes
+        it. Will he still be unable to become a Mennonite.
+    - who: Julius Klüver
+      start: '00:27:09.081'
+      end: '00:27:09.081'
+      u: No. There are some very rare exceptions. If such a Spaniard or a person of
+        another nationality happens to live in our colony in our village, and takes
+        on our religion, learns our language and continues to live among our people,
+        an exception can be made. Then he must be baptised.
+    - who: David Boder
+      start: '00:27:36.913'
+      end: 
+      u: "[In English] This concludes Spool 132 - an interview with Mr. Julius Klüver
+        - a so-called Leader of the Germanic Group of the Funkkasernen Camp in, hm,
+        near München. This is the first case that we have interviewed a displaced
+        person, who took – so to say - advantage of the situation in Russia to move
+        west and to get to a country where their reluctance to carry arms because
+        of religious principles should be respected. September 19, 1956 in Munich,
+        Germany at the UNRA Detention Camp, a Illinois Institute of Technology wire
+        recording. The machine is not at – in the best order, one condenser is broken,
+        seems to be broken of, because the machine got a very rough ride. But nevertheless
+        we took the record, because we hope that the transcription will be satisfactory.
+        September 19, 1946 – Illinois Institute of Technology wire recording."
+transcript: {}
+translation: {}
