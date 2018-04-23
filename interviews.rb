@@ -1,6 +1,6 @@
 require 'nokogiri'
 require 'yaml'
-# Use ActiveSupport's hash extensions
+# Use ActiveSupport's hash and string extensions
 require 'active_support/core_ext/hash'
 require 'active_support/core_ext/string'
 # Use sterile to generate typographers quotes, etc.
