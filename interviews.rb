@@ -229,7 +229,7 @@ Utterance = Struct.new(:who,:start,:end,:u)
 Transcript = Struct.new(:language,:interview)
 
 
-
+# TODO: Set the file location from the command line
 # Set a file pattern (temporary)
 files = "#{ENV['HOME']}/Voices/voices.iit.edu/voices.iit.edu/interviewee\?doc=*"
 Dir.glob(files).each do |file|
@@ -247,6 +247,8 @@ Dir.glob(files).each do |file|
   # Use a struct to build the record
   @interviewee = Interviewee.new
   @interviewee.legacy_identifier = file.split('=').last
+  # TODO: Here and throughout, think of a way to stringify and strip these values, without
+  # contantly calling `.to_s.strip`
   @interviewee.name = @doc.css("#content h1 text()").to_s.strip
   # Biographical Information
   bio = @doc.css('ul.bio')
@@ -299,8 +301,6 @@ Dir.glob(files).each do |file|
     # Create an array to hold each utterance in the interview
     @trans.interview = []
     @t.css('#content > ul + ul > li').each do |li|
-      # TODO: Use the 'mp3info' gem to extract the length of the actual MP3 file; use that
-      # on the metadata for the recording
       @u = Utterance.new
       @u.who = li.css('.who span text()').to_s.strip
       @u.start = time_marker(li.css('.utterance').attr('start')).to_s.strip
