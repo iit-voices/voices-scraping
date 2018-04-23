@@ -163,8 +163,8 @@ MP3_FILES = {
   stopnitskyU: 'stopnitskyU_9-122_9-123_SLP.mp3',
   stumachinL: 'stumachinL_9-118_SLP.mp3',
   suvalkaitisA: 'suvalkaitisA_9-143A_SLP.mp3',
-  tcharnabrodaR: 'tcharnabrodaR_9-155B_9-155C_SLP.mp3',
-  tcharnabrodaR: 'tcharnabrodaR_9-155B_9-156A_SLP.mp3',
+  # TODO: combine the tcharnabrodaR MP3 files and update this record
+  tcharnabrodaR: 'tcharnabrodaR_9-155B_9-155C_SLP.mp3, tcharnabrodaR_9-155B_9-156A_SLP.mp3',
   tichauerH: 'tichauerH_9-149_9-150_9-151_SLP.mp3',
   tischauerH: 'tischauerH_9-149_9-150_9-151_SLP.mp3',
   unikowskiI: 'unikowskiI_9-17_9-18_SLP.mp3',
