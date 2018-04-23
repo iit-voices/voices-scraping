@@ -245,49 +245,49 @@ Dir.glob(files).each do |file|
   }
 
   # Use a struct to build the record
-  @interviewee = Interviewee.new
-  @interviewee.legacy_identifier = file.split('=').last
+  @i = Interviewee.new
+  @i.legacy_identifier = file.split('=').last
   # TODO: Here and throughout, think of a way to stringify and strip these values, without
   # contantly calling `.to_s.strip`
-  @interviewee.name = @doc.css("#content h1 text()").to_s.strip
+  @i.name = @doc.css("#content h1 text()").to_s.strip
   # Biographical Information
   bio = @doc.css('ul.bio')
-  @interviewee.birthplace = bio.css(".birthplace text()").to_s.strip
+  @i.birthplace = bio.css(".birthplace text()").to_s.strip
   # Check to see if birthplace contains Ã (parsed &#195;), pull location from corrected_cities
-  if @interviewee.birthplace.match?(/Ã/)
-    @interviewee.birthplace = CORRECTED_CITIES[@interviewee.birthplace.to_sym]
+  if @i.birthplace.match?(/Ã/)
+    @i.birthplace = CORRECTED_CITIES[@i.birthplace.to_sym]
   end
-  @interviewee.nationality = bio.css(".nationality text()").to_s.strip
-  @interviewee.gender = bio.css(".gender text()").to_s.strip
-  @interviewee.locations = Hash.new
-  @interviewee.locations[:invasion] = bio.css(".location_at_time_of_german_invasion text()").to_s.strip
-  @interviewee.locations[:internments] = bio.css(".interned_at text()").to_s.strip.split(", ")
-  @interviewee.locations[:liberation] = Hash.new
-  @interviewee.locations[:liberation][:date] = iso_date(bio.css(".liberation_date text()").to_s.strip)
-  @interviewee.locations[:liberation][:location] = bio.css(".location_at_time_of_liberation text()").to_s.strip
-  @interviewee.locations[:liberation][:by] = bio.css(".liberated_by text()").to_s.strip
+  @i.nationality = bio.css(".nationality text()").to_s.strip
+  @i.gender = bio.css(".gender text()").to_s.strip
+  @i.locations = Hash.new
+  @i.locations[:invasion] = bio.css(".location_at_time_of_german_invasion text()").to_s.strip
+  @i.locations[:internments] = bio.css(".interned_at text()").to_s.strip.split(", ")
+  @i.locations[:liberation] = Hash.new
+  @i.locations[:liberation][:date] = iso_date(bio.css(".liberation_date text()").to_s.strip)
+  @i.locations[:liberation][:location] = bio.css(".location_at_time_of_liberation text()").to_s.strip
+  @i.locations[:liberation][:by] = bio.css(".liberated_by text()").to_s.strip
 
-  if @interviewee.locations[:invasion].match?(/Ã/)
-    @interviewee.locations[:invasion] = CORRECTED_CITIES[@interviewee.locations[:invasion].to_sym]
+  if @i.locations[:invasion].match?(/Ã/)
+    @i.locations[:invasion] = CORRECTED_CITIES[@i.locations[:invasion].to_sym]
   end
-  if @interviewee.locations[:liberation][:location].match?(/Ã/)
-    @interviewee.locations[:liberation][:location] = CORRECTED_CITIES[@interviewee.locations[:liberation][:location].to_sym]
+  if @i.locations[:liberation][:location].match?(/Ã/)
+    @i.locations[:liberation][:location] = CORRECTED_CITIES[@i.locations[:liberation][:location].to_sym]
   end
 
-  @interviewee.identifier = @interviewee.file_name
+  @i.identifier = @i.file_name
 
   # Recording = Struct.new(:date,:location,:languages,:duration,:spools,:audio,:transcript,:translation)
-  @recording = Recording.new
+  @r = Recording.new
 
-  @recording.date = iso_date(@doc.css('.recording_date text()').to_s.strip)
-  @recording.location = @doc.css('li span.location text()').to_s.strip
-  @recording.languages = @doc.css('.languages text()').to_s.strip.split(", ")
+  @r.date = iso_date(@doc.css('.recording_date text()').to_s.strip)
+  @r.location = @doc.css('li span.location text()').to_s.strip
+  @r.languages = @doc.css('.languages text()').to_s.strip.split(", ")
   # TODO: Use the 'mp3info' gem to extract the length of the actual MP3 file
-  @recording.duration = time_marker(time_seconds(@doc.css('.duration text()').to_s.strip))
+  @r.duration = time_marker(time_seconds(@doc.css('.duration text()').to_s.strip))
   # Split spools on a comma space
-  @recording.spools = @doc.css('.spools text()').to_s.strip.split(", ")
-  @recording.audio = { file: '', 'mime-type': 'audio/mp3' }
-  @recording.audio[:file] = MP3_FILES[@interviewee.legacy_identifier.to_sym]
+  @r.spools = @doc.css('.spools text()').to_s.strip.split(", ")
+  @r.audio = { file: '', 'mime-type': 'audio/mp3' }
+  @r.audio[:file] = MP3_FILES[@i.legacy_identifier.to_sym]
 
   @doc.css('#transcript a').each do |t|
     puts t['href'].strip
@@ -317,23 +317,23 @@ Dir.glob(files).each do |file|
     end
 
     if t.text.match?(/Transcript/)
-      @recording.transcript = @trans.to_h.deep_stringify_keys
+      @r.transcript = @trans.to_h.deep_stringify_keys
     else
-      @recording.translation = @trans.to_h.deep_stringify_keys
+      @r.translation = @trans.to_h.deep_stringify_keys
     end
 
   end
 
 
 
-  record_hash['interviewee'] = @interviewee.to_h.deep_stringify_keys
-  record_hash['recording'] = @recording.to_h.deep_stringify_keys
+  record_hash['interviewee'] = @i.to_h.deep_stringify_keys
+  record_hash['recording'] = @r.to_h.deep_stringify_keys
 
   # Diagnostic line for CLI sanity checking
   # puts record_hash.deep_stringify_keys.to_yaml
 
   # Write the YAML file
-  File.open("output/#{@interviewee.identifier}.yml",'w') do |f|
+  File.open("output/#{@i.identifier}.yml",'w') do |f|
     f.write(record_hash.deep_stringify_keys.to_yaml)
   end
 end
