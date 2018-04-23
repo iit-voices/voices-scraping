@@ -231,8 +231,8 @@ Transcript = Struct.new(:language,:interview)
 
 
 # Set a file pattern (temporary)
-@files = "#{ENV['HOME']}/Voices/voices.iit.edu/voices.iit.edu/interviewee\?doc=*"
-Dir.glob(@files).each do |file|
+files = "#{ENV['HOME']}/Voices/voices.iit.edu/voices.iit.edu/interviewee\?doc=*"
+Dir.glob(files).each do |file|
   # Open the file and parse it
   @doc = File.open(file) do |f|
     Nokogiri::HTML(f)
