@@ -7,7 +7,7 @@ require 'active_support/core_ext/string'
 require 'sterile'
 
 # Hash of cities with erroneous &#195 entities, and their fixes:
-@corrected_cities = {
+CORRECTED_CITIES = {
   'AndrychÃw, Poland': 'Andrychów, Poland',
   'AthÃnai, Greece': 'Athênai, Greece',
   'AugustÃw, Poland': 'Augustów, Poland',
@@ -35,7 +35,7 @@ require 'sterile'
 }
 
 # Hash of months keyed to leading-zero numeric values
-@month_numbers = {
+MONTH_NUMBERS = {
   january: "01",
   february: "02",
   march: "03",
@@ -51,7 +51,7 @@ require 'sterile'
 }
 
 # Legacy identifiers keyed to MP3 files
-@mp3_files = {
+MP3_FILES = {
   aIlmar: 'aIlmar_9-152A_SLP.mp3',
   bJ: 'bJ_9-23_SLP.mp3',
   bJanis: 'bJanis_9-152B_9-153A_SLP.mp3',
@@ -187,7 +187,7 @@ def iso_date(str)
       arr_date[1] = "0" + arr_date[1]
     end
     # Output ISO date string YYYY-MM-DD
-    "#{arr_date[2]}-#{@month_numbers[arr_date[0].downcase.to_sym]}-#{arr_date[1]}"
+    "#{arr_date[2]}-#{MONTH_NUMBERS[arr_date[0].downcase.to_sym]}-#{arr_date[1]}"
   end
 end
 
@@ -253,7 +253,7 @@ Dir.glob(@files).each do |file|
   @interviewee.birthplace = bio.css(".birthplace text()").to_s.strip
   # Check to see if birthplace contains Ã (parsed &#195;), pull location from corrected_cities
   if @interviewee.birthplace.match?(/Ã/)
-    @interviewee.birthplace = @corrected_cities[@interviewee.birthplace.to_sym]
+    @interviewee.birthplace = CORRECTED_CITIES[@interviewee.birthplace.to_sym]
   end
   @interviewee.nationality = bio.css(".nationality text()").to_s.strip
   @interviewee.gender = bio.css(".gender text()").to_s.strip
@@ -266,10 +266,10 @@ Dir.glob(@files).each do |file|
   @interviewee.locations[:liberation][:by] = bio.css(".liberated_by text()").to_s.strip
 
   if @interviewee.locations[:invasion].match?(/Ã/)
-    @interviewee.locations[:invasion] = @corrected_cities[@interviewee.locations[:invasion].to_sym]
+    @interviewee.locations[:invasion] = CORRECTED_CITIES[@interviewee.locations[:invasion].to_sym]
   end
   if @interviewee.locations[:liberation][:location].match?(/Ã/)
-    @interviewee.locations[:liberation][:location] = @corrected_cities[@interviewee.locations[:liberation][:location].to_sym]
+    @interviewee.locations[:liberation][:location] = CORRECTED_CITIES[@interviewee.locations[:liberation][:location].to_sym]
   end
 
   @interviewee.identifier = @interviewee.file_name
@@ -285,7 +285,7 @@ Dir.glob(@files).each do |file|
   # Split spools on a comma space
   @recording.spools = @doc.css('.spools text()').to_s.strip.split(", ")
   @recording.audio = { file: '', 'mime-type': 'audio/mp3' }
-  @recording.audio[:file] = @mp3_files[@interviewee.legacy_identifier.to_sym]
+  @recording.audio[:file] = MP3_FILES[@interviewee.legacy_identifier.to_sym]
 
   @doc.css('#transcript a').each do |t|
     puts t['href'].strip
