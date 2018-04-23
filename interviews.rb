@@ -1,3 +1,5 @@
+#! /usr/bin/env ruby
+
 require 'nokogiri'
 require 'yaml'
 # Use ActiveSupport's hash and string extensions
