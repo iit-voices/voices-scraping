@@ -1293,3 +1293,34 @@ recording:
       start: '00:24:50.948'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Well, it was awfully good...[ends abruptly]
+  commentary:
+    text: "<p>Jean Kahn was only ten years old when France capitulated to Nazi Germany
+      in 1940. He was the youngest member of his family to endure the trials and tribulations
+      of the Occupation. In his interview, Jean recounts the daring escape he, his
+      mother, and elder brother, Pierre, made across the Pyrenees mountains into neutral
+      Spain in October 1943. They were among the some 30,000 Jews from France who
+      made this difficult journey during the war years. They went without a guide
+      and like most other Jewish escapees arranged their trip independently, without
+      the aid of a rescue organization.</p><p>The Kahns were fortunate in their timing,
+      because after the German occupation of southern France on November 11, 1942
+      (following the Allied landings in North Africa several days earlier), the Spanish
+      expelled few refugees who managed successful border crossings. By the fall of
+      1943, when the Kahns crossed into Spain, it was obvious that the Germans were
+      losing the war, and the Allies had put pressure on Spain earlier that year not
+      to turn away refugees who had crossed the Spanish border—provided that they
+      would leave the country for another destination without delay. One estimate
+      is that between the summer of 1942 and the fall of 1944, some 7,500 Jews found
+      temporary refuge in Spain.</p><p>This interview is part of a group of interviews
+      with the eminent Kahn family and their chauffeur taken in Paris on August 21,
+      1946 during an evening at the home of Admiral Louis Kahn. The interviews were
+      conducted in the following order: Abraham Schramack (Mrs. Kahn’s father), Jean
+      Kahn (the family’s younger son) Anne Marcelle Kahn, and her husband, Admiral
+      Kahn. These are followed by an interview with the family’s chauffeur, Charles
+      Jean, who during the German occupation was in the French resistance. The Kahns
+      were among the approximately 150,000 French Jews who had deep roots in France.
+      (Another 200,000 Jews in France during the Holocaust were more recent immigrants.)
+      Despite their long-standing residence in France, the Kahn family lived a precarious
+      existence during the Occupation. Due to his service in the French navy, Admiral
+      Kahn was separated from his family at the start of the war and was not in France
+      during the war years.</p>"
+    attribution: "—Elliot Lefkovitz"

@@ -522,3 +522,27 @@ recording:
       start: '00:12:12.573'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In French] Thank you very much."
+  commentary:
+    text: "<p>Charles Jean was in the French army at the outbreak of the war. He was
+      captured by the Germans but escaped and returned to his home in the Vichy-controlled
+      zone of France in 1940. When he was summoned for compulsory labor service in
+      Germany in 1943, he joined the FTP-MOI, the communist wing of the French resistance
+      and was an active resister until the liberation of France at the end of the
+      summer of 1944. The majority of interview is devoted to Charles Jean’s time
+      in his resistance group, which operated in south central France.</p><p>Regarding
+      this interviewee’s surname, it is possible that as the family chauffeur, “Charles
+      Jean” was called familiarly by his first two names. Since the exact spelling
+      of “Jean” is not known, it is also possible that this was his surname.</p><p>This
+      interview is part of a group of interviews with the eminent Kahn family and
+      their chauffeur taken in Paris on August 21, 1946 during an evening at the home
+      of Admiral Louis Kahn. The interviews were conducted in the following order:
+      Abraham Schramack (Mrs. Kahn’s father), Jean Kahn (the family’s younger son)
+      Anne Marcelle Kahn, and her husband, Admiral Kahn. These are followed by an
+      interview with the family’s chauffeur, Charles Jean, who during the German occupation
+      was in the French resistance. The Kahns were among the approximately 150,000
+      French Jews who had deep roots in France. (Another 200,000 Jews in France during
+      the Holocaust were more recent immigrants.) Despite their long-standing residence
+      in France, the Kahn family lived a precarious existence during the Occupation.
+      Due to his service in the French navy, Admiral Kahn was separated from his family
+      at the start of the war and was not in France during the war years.</p>"
+    attribution: "—Elliot Lefkovitz"

@@ -10842,3 +10842,6 @@ recording:
       start: '00:00:00.'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Aha...
+  commentary:
+    text: none
+    attribution: none

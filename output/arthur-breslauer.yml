@@ -2893,3 +2893,59 @@ recording:
       start: '00:24:48.401'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Yes.
+  commentary:
+    text: "<p>Arthur Breslauer, the Hungarian-born 54-year-old subject of this interview,
+      was, along with his family, on the famous but controversial transport of Hungarian
+      Jews organized by Rezso Rudolf Katszner. Kasztner was a Hungarian journalist,
+      lawyer and Zionist leader who in early 1943 became a key figure in the Zionist
+      movement’s Relief and Rescue and Committee of Budapest headed by Otto Komoly.
+      The committee engaged in relief efforts and in smuggling Jewish refugees from
+      Poland and Slovakia into Hungary. Hungary was originally an ally of Nazi Germany
+      but until March 19, 1944 (when it was occupied by the Germans) its Jewish community
+      was untouched by the Nazi’s “Final Solution.” Until the occupation, though burdened
+      by several anti-Jewish measures, the Breslauers and other Hungarian Jews could
+      live a fairly normal existence.</p><p>Following the German occupation, Kasztner
+      and leading fellow Zionists such as Joel Brand felt that most fruitful avenue
+      for Jewish rescue lay in direct negotiations with the enemy. Brand was sent
+      by the Germans to Istanbul in neutral Turkey to establish contact with Jewish
+      leaders abroad and secure their support for a plan to release large numbers
+      of Jews from German-occupied territories in return for trucks and other materials
+      that would be given to war-ravaged Germany—the so-called “Blood for Goods” proposal.
+      The goods would be shipped to Germany from neutral countries, and international
+      Jewish bodies would play a role in financing the agreement. However, the “Blood
+      for Goods” deal never came to fruition due to opposition by the Allied governments.</p><p>Kasztner’s
+      rescue negotiations were aided by the willingness of Heinrich Himmler, head
+      of the SS, to make a concessionary gesture in view of Germany’s deteriorating
+      war situation. The result was the selection of 1,686 Jews for the transport
+      described by Breslauer. Among the Jews on the Kasztner transport were Kasztner’s
+      family and friends, wealthy people (such as the Breslauers) who helped to finance
+      the operation and others such as Joel Teitelbaum, the ultra-Orthodox Satmer
+      Rebbe. They were first interned in the Bergen-Belsen concentration camp, but
+      Kasztner’s unceasing efforts to arrange financing by international Jewish organizations
+      led to the Germans’ transfer of the internees to neutral Switzerland. The first
+      group of 318, of which Breslauer and his family were a part, left Bergen-Belsen
+      for Switzerland on August 18, 1944. The second group of 1,368 left for Switzerland
+      on December 6, 1944.</p><p>After the war, Kasztner was accused by some of traitorous
+      dealings with the enemy, saving his own family and friends at the expense of
+      others, favoring wealthy Jews at the expense of ordinary Jews, and not doing
+      enough to warn Hungarian Jewry about Nazi genocide. His defenders countered
+      that given conditions at the time in Hungary, negotiations with the Nazis were
+      the only way to save Jews, Kasztner’s efforts to save his family and friends
+      were only natural, the financing by wealthy Jews was crucial for the success
+      of the rescue effort which also saved less wealthy Jews, and that Kasztner’s
+      committee had tried to warn Hungarian Jews about the Holocaust, but most Hungarian
+      Jews did not take the information seriously because it was “beyond belief.”
+      Kasztner settled in Israel after the war, but accusations against him led to
+      a trial resulting in a judgment that he had “sold his soul to Satan.” The Israel
+      Supreme Court overturned the judgment against Kasztner, but on March 3, 1957,
+      he was shot on the street in Tel Aviv by nationalist extremists and died nine
+      days later. He continues to be the subject of controversy.</p><p>Breslauer’s
+      story illustrates that those saved by the Kasztner transport still had to endure
+      suffering and loss and the challenge of rebuilding their shattered lives after
+      the war. The beloved elder daughter of the Breslauers died of pneumonia in Bergen-Belsen.
+      After the war, though in later middle age, Breslauer, who had worked for 35
+      years as a stock broker leading a comfortable upper middle class existence,
+      was being trained in embroidery. His wife, who had been a high school mathematics
+      instructor, was also learning a new trade. They and their remaining daughter
+      were preparing to begin life anew in any country which would allow them entry.</p>"
+    attribution: "—Elliot Lefkovitz"

@@ -6394,3 +6394,6 @@ recording:
       start: '01:51:35.327'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Thank you [?].
+  commentary:
+    text: none
+    attribution: none

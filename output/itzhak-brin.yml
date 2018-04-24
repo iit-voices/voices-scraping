@@ -2652,3 +2652,6 @@ recording:
       start: '00:52:28.404'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[break in wire]...six...Illinois Institute of Technology wire recording."
+  commentary:
+    text: none
+    attribution: none

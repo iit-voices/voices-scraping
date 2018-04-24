@@ -2727,3 +2727,31 @@ recording:
       start: '00:39:35.842'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] This ends Spool 49, a report by the engi—...[ends abruptly]"
+  commentary:
+    text: "<p>Julian Weinberg, forty-nine years old at the time of the German conquest
+      of Poland in 1939, was managing director of the electric power plant in Łódź,
+      a post he resumed after liberation in 1944. Evidently he was visiting Paris
+      at the time of his interview and planned to return to Poland. For some unexplained
+      reason he was prepared to grant only half an hour for his interview. When a
+      spool ran out as his story neared its end, there was no follow-up. This is a
+      pity, because Weinberg experienced the entire span of the Łódź ghetto and was
+      one of only a few hundred Jews who escaped its liquidation in August 1944.</p><p>Short
+      though it is, Julian Weinberg’s story offers some glimpses into the fate of
+      Łódź Jewry, including its terrorization by ethnic Germans in the first months
+      of Nazi rule and the frantic rush of Jews to escape the terror by moving into
+      the ghetto created in April 1940. Evidently the Germans had succeeded in making
+      it look attractive to at least some inhabitants of Łódź, because Weinberg had
+      to prove that his son was who he said he was and not some Polish orphan seeking
+      a “free ride” to the ghetto. The interview also reveals how the Nazis skillfully
+      lied to the Jews to secure their cooperation at various points, including their
+      final removal from the ghetto, ostensibly to workplaces in Germany, but actually
+      to the gas at Chelmno and Auschwitz.</p><p>Julian recalls work in the ghetto
+      as being “a kind of silent sabotage” of the Germans as well as of the Jewish
+      Council, widely viewed as corrupt by the mass of Jews. His job in the furniture
+      shop explains why he was one of some 800 Jews exempted from the final evacuation
+      of the ghetto to clear it of valuables, including furniture in need of repair.
+      As the Russian army approached he was among those with the wit to go to ground
+      and evade German death squads that combed the ghetto.</p>\n"
+    attribution: 'From FRESH WOUNDS: EARLY NARRATIVES OF HOLOCAUST SURVIVAL by Donald
+      L. Niewyk. Copyright (c) 1998 by the University of North Carolina Press. Used
+      by permission of the publisher. www.uncpress.unc.edu'

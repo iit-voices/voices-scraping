@@ -1149,3 +1149,33 @@ recording:
       start: '00:31:15.001'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Well, later, I hope I will be able to sing it, it’s under consideration.
+  commentary:
+    text: "<p>André Richard was a talented singer in the renowned Paris Opera as well
+      as an intrepid member of the French resistance during the German occupation.
+      Mr. Richard shows himself to be a sincere and dedicated French patriot as he
+      recounts his exploits as a lieutenant in the resistance movement during those
+      dangerous times. He took part in a number of daring exploits at great personal
+      risk—the risk of arrest, torture and death in a country where the Gestapo, Vichy
+      French collaborators and the threat of denunciation by ordinary citizens put
+      resisters in great peril. As he recounts, “I have never known any assignment
+      that was not a dangerous one during the occupation . . . very often I came back
+      alone when twenty of us had gone.”</p><p>Mr. Richard has great admiration for
+      the proud, autocratic General Charles de Gaulle, leader of the Free French forces
+      during the war. Like de Gaulle, Mr. Richard was above all a French nationalist.
+      His nationalism is of the liberal variety, rejecting xenophobia, intolerance
+      and racism. He does not reveal sympathy for any particular resistance political
+      organization, whether it be communist, socialist or Catholic. Indeed, he appears
+      to be apolitical and anti-clerical. Mr. Richard’s admiration for resistance
+      leaders extends to those under whom he served, Colonel Goise, Major Borde, and
+      Captain Allard, whose bravery and leadership qualities he is at pains to applaud.</p><p>Mr.
+      Richard clearly shows sympathy for the plight of the Jews under German occupation,
+      though there is no indication he was involved in Jewish rescue efforts. As might
+      be expected, he scorns those who collaborated with the Germans but does not
+      call for revenge or retribution. Rather he remains dedicated to the ideals of
+      the French Revolution: liberty, equality and fraternity.</p><p>The interview
+      illustrates the fact that, although they were a small minority, there was a
+      core of active resisters in France who fought against the German occupiers for
+      their own liberation. Though they could not defeat the enemy on their own, they
+      did set a timeless example of courage and selflessness during a dark and hazardous
+      time.</p>"
+    attribution: "—Elliot Lefkovitz"

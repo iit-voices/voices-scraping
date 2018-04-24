@@ -4699,3 +4699,34 @@ recording:
       start: '01:19:09.268'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Armbands. That means—they surrender.
+  commentary:
+    text: "<p>Fela Nichthauser was one of thousands of Polish Jews who were sent to
+      work in Germany during the early part of World War II and actually spent the
+      entire Holocaust period there.  She had been born fourteen years before the
+      German invasion in Wojsławice, a small community in the Bielsko district of
+      southern Poland, southwest of Kraków. At some point during her childhood the
+      family moved to the nearby city of Andrychów where they lived a solid, middle
+      class existence. The Germans divided the family almost immediately, and as it
+      turned out, irrevocably. In 1941 Fela was sent to slave labor in the first of
+      several textile mills inside Germany, the last of which was part of Gräben,
+      a satellite of Gross- Rosen concentration camp. She shows how conditions for
+      her and her coworkers went from bad to worse as SS control became more nearly
+      complete. She views herself as one who steadfastly retained her dignity through
+      every ordeal, confounding some of her tormentors.</p><p>Evacuated westward to
+      Bergen-Belsen at the beginning of 1945, Nichthauser experienced the rapid disintegration
+      of conditions in this hideously overcrowded camp, packed with growing numbers
+      of forced workers from all over Hitler’s collapsing empire. Anyone who reads
+      her description of sanitary conditions there will understand why she found three
+      months in Belsen far worse than the entire previous five years. There Fela experienced
+      firsthand the sadism of the beautiful but mad Irma Grese, who had already established
+      a reputation for brutality as an SS guard at Auschwitz. </p><p>Nichthauser was
+      living near Paris and studying to become a dental technician at a school run
+      by Jewish charities when she gave her interview in August 1946. Her parents
+      and two brothers and two sisters died in the Holocaust; only she and a younger
+      brother survived. Boder commented: “This once lovely and sheltered girl hides
+      her insecurity and bewilderment behind a determined regal bearing and a rigid
+      emotional control. To contemplate how different her life might have been is
+      to realize afresh the dimensions of the catastrophe that has befallen her.”</p>\n"
+    attribution: 'From FRESH WOUNDS: EARLY NARRATIVES OF HOLOCAUST SURVIVAL by Donald
+      L. Niewyk. Copyright (c) 1998 by the University of North Carolina Press. Used
+      by permission of the publisher. www.uncpress.unc.edu'

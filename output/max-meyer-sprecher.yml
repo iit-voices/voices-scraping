@@ -1735,3 +1735,6 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In German] I thank you very much, Mr. Sprecher, I wish you all the success
         in your work, and in your studies."
+  commentary:
+    text: none
+    attribution: none

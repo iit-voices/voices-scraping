@@ -379,3 +379,34 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] This concludes the report—very brief but very interesting report—of
         Mr. Boguslaw, a...[ends abruptly]"
+  commentary:
+    text: "<p>Boder recorded this short interview on September 24, 1946, his last
+      day of interviews in Munich. Like other interviewees who used pseudonyms or
+      refused to give their full names, Boguslaw was reluctant to reveal his identity
+      to Boder, and his surname is never mentioned. At the time, the practice of giving
+      recorded statements was still a new concept, and many interviewees—especially
+      those who had plans to emigrate to Palestine—were wary of Boder’s motives, not
+      to mention possible repercussions (real or imagined) should their testimony
+      be heard by the wrong ears.</p><p>Boguslaw was active in the Polish Resistance
+      movement during the German occupation of Poland, which began in 1939. He also
+      claims to have helped in organizing the ill-fated Warsaw Ghetto Uprising which
+      took place in April 1943, although he was arrested by the Gestapo and taken
+      to the infamous Pawiak prison just before heavy fighting began. His arrest and
+      subsequent deportation to the Gross-Rosen concentration camp may have saved
+      his life—the German response to the Uprising was unmerciful. Approximately 13,000
+      Jews were killed during the battle, and many of the remaining 50,000 residents
+      were sent to the Treblinka extermination camp. After the deportations, the Germans
+      razed the ghetto to the ground.</p><p>Though he does not mention it to Boder,
+      Boguslaw may have been moved to another camp during the war—he claims to have
+      been liberated by “Anglo-American” troops, but Gross-Rosen was in fact liberated
+      by Soviet forces on February 14, 1945. At the time of the interview, he was
+      studying music at the UNRRA University at the Deutsches Museum in Munich. No
+      discussion of his future plans is included.</p><p>It is unclear why Boder did
+      not choose to transcribe this interview as part of his efforts during the late
+      1940s and early 50s—the short duration of the interview (less than 15 minutes)
+      may have been a factor. Unfortunately, the only existing copy of the recording
+      is marred by static and uneven volume levels, so a full transcription could
+      not be made. Still, it provides a noteworthy glimpse into Polish life under
+      the German occupation, and the efforts of the Jewish population to resist their
+      fate.</p>"
+    attribution: "—Eben E. English"

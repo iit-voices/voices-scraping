@@ -1807,3 +1807,17 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: The record of Nathan [unintelligible] concludes at fourteen minutes of the
         spool.
+  commentary:
+    text: "<p>Short interviews with orphan charges at the Bellevue home for displaced
+      Jewish orphans funded by French and American Jewish charities (run by Lena Kuechler,
+      another Boder interviewee) grant us something like a child’s eye view of the
+      Holocaust.</p><p>Nathan Schacht was no more than twelve when he ran away from
+      a deportation in his home town of L’viv and went to work for a peasant. In 1943
+      he joined a Russian partisan unit operating nearby and worked as a scout. When
+      his unit was trapped between the advancing Red Army and the Germans in summer
+      1944, Nathan was severely wounded by an exploding mine. Two years later he still
+      carried the scars, and part of one ear was missing. Lena Kuechler found him
+      in a children’s home in Kraków and took him to Zakopane, and thence to France.</p>\n"
+    attribution: 'From FRESH WOUNDS: EARLY NARRATIVES OF HOLOCAUST SURVIVAL by Donald
+      L. Niewyk. Copyright (c) 1998 by the University of North Carolina Press. Used
+      by permission of the publisher. www.uncpress.unc.edu'

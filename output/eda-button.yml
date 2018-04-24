@@ -5539,3 +5539,38 @@ recording:
       start: '00:47:36.800'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In German] Thank you very much, Mrs. Button."
+  commentary:
+    text: "<p>Eda Button was born in Salonika Greece, the world center of Sephardic
+      Jewry. She married in October, 1939, and the couple had one child, born in May
+      1942. Mrs. Button’s husband was an attorney. The interview was conducted in
+      German in a home for refugees in Paris. There is no indication that Eda Button
+      was related to Jacob Button whom Boder also interviewed.</p><p>The Germans occupied
+      Salonika on April 9, 1941. Persecution of Jews began in earnest in the summer
+      of 1942. In early 1943, the Jews of Salonika were ghettoized, and other restrictions
+      and humiliations were imposed upon them. Mrs. Button’s husband fled to the mountains.
+      Mrs. Button entrusted her baby daughter to an Italian woman who turned the baby
+      over to be cared for by a convent of the Daughters of Charity of St. Vincent
+      de Paul. Mrs. Button herself fled to Athens which was then still under the rule
+      of Fascist Italy, an ally of Nazi Germany. The Italians resisted German demands
+      to deal harshly with the Jews.</p><p>In Athens, Mrs. Button stayed first with
+      her sister and then with her husband’s relatives. He joined her in the city.
+      Her brother and elderly mother were there as well. Mrs. Button attempted successfully
+      to reinstate the Spanish citizenship she had held as a child. This would prove
+      a life saving measure. On September 8, 1943, the Germans occupied Athens following
+      the surrender of Italy to the Allies. Mrs. Button and other Athenian Jews went
+      into hiding when the Germans ordered all Jews in Athens to register with the
+      community. She and others lived in constant fear.</p><p>Mrs. Button’s husband
+      was able to successfully escape by boat to neutral Turkey and from there to
+      Palestine. On April 12, 1944, Mrs. Button, her brother and mother along with
+      other Jews with Spanish citizenship were deported to Bergen-Belsen concentration
+      camp rather than to Auschwitz-Birkenau where they would have faced almost certain
+      death. They were interned in the so-called neutral camp in Bergen-Belsen from
+      which Mrs. Button was liberated by the British army on April 15, 1945. Once
+      freed, Mrs. Button went to Paris where, fifteen days before the interview with
+      Boder, she was reunited with her child. At the time of the interview, Mrs. Button
+      was preparing to join her husband in Tel Aviv.</p><p>Mrs. Button’s interview
+      vividly demonstrates how the Holocaust ripped families asunder. This is illustrated
+      by Mrs. Button’s heartbreaking separation from her baby daughter and then from
+      her husband. The interview ends on a positive note with the promise of family
+      reunification. Many families were not nearly as fortunate.</p>"
+    attribution: "—Elliot Lefkovitz"

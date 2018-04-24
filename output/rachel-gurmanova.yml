@@ -3582,3 +3582,36 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: 'I thank you very much Miss Gurman[ova] We shall talk again about these things....
         [Note: There is no customary signoff. The interview ended in a depressed mood.]'
+  commentary:
+    text: "<p>Rachel Gurmanova was a committed woman of the political left, and that
+      made a world of dfference in determining her fate. She avoided stipulating her
+      politics in the interview, but internal evidence suggests that she was at least
+      close to the Polish Communist party, in which Jews were disproportionately represented.
+      This gave her intimate contacts among non-Jewish Poles in Warsaw, friends who
+      saved her life by spiriting her out of the ghetto on the eve of the 1943 revolt,
+      after which she “passed” as a non-Jew. Previous to that she had avoided deportation
+      by making herself useful to the Warsaw ghetto administration and, indirectly,
+      the Germans. Since 1921 she had been secretary of the Polish ORT, the vocational
+      training organization founded in Russia in 1880. Since the Germans needed skilled
+      Jewish workers, the ORT was one of the few prewar Jewish institutions preserved
+      under German rule. And yet, her position was no absolute shield from deportation
+      as her description of a close call makes plain. Trapped by chance in a public
+      square during a raid, she exploited confusion and a ruse thrown out by a friend
+      to melt into the crowd of onlookers.</p><p>Beyond providing valuable information
+      about the ORT’s work in the ghetto, Gurmanova intelligently comments on several
+      other aspects of ghetto life: the work she was forced to do for the German Trusteeship
+      Office, which collected and organized the movable property of Jews who had been
+      deported or killed; Nazi manipulation of the Jews’ psychological vulnerability;
+      and the courthouse forming part of the ghetto wall in which Jews and non-Jews
+      might still make precarious contacts. She also makes it clear that without official
+      corruption and the money to exploit it, her story would have ended quite differently.</p><p>Rachel
+      Gurmanova exposed her personal grief reluctantly and only after gentle prodding.
+      Apparently she lost most of her family, including her mother and her son; she
+      never mentioned her husband. Unable to begin again in Warsaw after the war,
+      she moved to Łódź and threw herself into rebuilding the ORT. Technically she
+      was not a displaced person. She was visiting Paris as a delegate to a world
+      ORT convention when interviewed in August 1946, and she was clearly determined
+      to return to Poland and reestablish Jewish life there.</p>"
+    attribution: 'From FRESH WOUNDS: EARLY NARRATIVES OF HOLOCAUST SURVIVAL by Donald
+      L. Niewyk. Copyright (c) 1998 by the University of North Carolina Press. Used
+      by permission of the publisher. www.uncpress.unc.edu'

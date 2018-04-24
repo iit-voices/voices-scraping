@@ -3265,3 +3265,32 @@ recording:
       start: '00:52:55.375'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] Hénonville, September the 13th, 1946, near Paris."
+  commentary:
+    text: "<p>Anti-Semitism in depression-era Poland impelled some Jews to leave for
+      healthier homes. Naturally that was always easier for persons of means, and
+      Pinkhus Rosenfeld’s family, owners of a successful textile factory in Łódź,
+      had already purchased a residence in Palestine preparatory to emigration. Hitler
+      intervened.</p><p>With more resources than the average Jewish resident of Łódź,
+      some of Rosenfeld’s family attempted to escape the worst of the occupation by
+      moving to Warsaw, only to find conditions there become as bad as those at home.
+      In the end this divided the family between the two cities. Pinkhus’s parents,
+      brothers, and two daughters, separated from him in Warsaw, disappeared into
+      the machinery of destruction. Pinkhus, his wife, and two sons remained in Łódź
+      until its ghetto was liquidated in August 1944. Although in the interview he
+      took pains to distance himself from the Rumkowski administration, there can
+      be little doubt that it required pull to get and keep the coveted job of food
+      distributor, one of the few ways of getting enough nourishment to stay alive.</p><p>In
+      1944 Rosenfeld was separated from his wife and two young cousins at Auschwitz
+      and never saw them again. He and his teenage sons, however, managed to stay
+      together, and they were healthy enough to be selected for work in Germany. There
+      they were comparatively well treated. Marched into the Sudetenland as the Reich
+      collapsed, they were simply abandoned by their SS guards and, after the fighting
+      ended, recuperated in Prague. Although they contemplated smuggling themselves
+      into Palestine in 1945, health considerations persuaded them otherwise. When
+      interviewed at the ORT school near Paris in September 1946, the forty-three-year-old
+      Rosenfeld was understandably impatient that he and his sons had not yet been
+      granted entry to Palestine, indignant that his ownership of property there had
+      not opened all doors.</p>\n"
+    attribution: 'From FRESH WOUNDS: EARLY NARRATIVES OF HOLOCAUST SURVIVAL by Donald
+      L. Niewyk. Copyright (c) 1998 by the University of North Carolina Press. Used
+      by permission of the publisher. www.uncpress.unc.edu'

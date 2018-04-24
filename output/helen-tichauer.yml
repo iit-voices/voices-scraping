@@ -7051,3 +7051,44 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] We regret we have to finish this interview. The automobile
         is waiting. This concludes Spool 150."
+  commentary:
+    text: "<p>Much of what we know about the operation of Auschwitz comes from prisoners
+      who worked in its offices and lived to tell their story. Helen Tichauer’s skills
+      as a commercial artist came in handy when the Germans were developing ways of
+      identifying and numbering prisoners in the early days of Auschwitz II (Birkenau).
+      This led to her appointment as a kind of unofficial draftsperson in the camp
+      headquarters, which shielded her from selections and murderous work details
+      to the very end of the camp.</p><p>Tichauer was a native of Bratislava, which
+      in 1939 became the capital of Slovakia. Three years later, at the age of twenty-three,
+      she was among the first Slovakian Jews deported to Auschwitz. (Jewish women
+      from Slovakia, among the first women sent to Auschwitz and often fluent in German,
+      were well represented among the Auschwitz office workers. Of the twenty-seven
+      women included in Lore Shelley’s Secretaries of Death, fifteen arrived from
+      Slovakia in 1942.) At first she lived in the original camp, Auschwitz I, while
+      helping to construct the new facilities at nearby Birkenau. Then, in August
+      1942 she was transferred to the women’s camp there. Almost immediately she made
+      herself indispensable to the SS by painting stripes and printing numbers on
+      the prisoners’ clothing. Later, installed in the camp offices, she kept records
+      of deaths and workforce allocations for the administration. This position gave
+      her an overall view of the camp available to few of its prisoners. Who else,
+      for example, could have arranged a personal visit to the “little white cottage,”
+      a former farmhouse where the first gassings took place at Birkenau before the
+      construction of four modern crematoria during the first half of 1943? Nor could
+      she miss the boundless cynicism in the Nazi deception of Gypsies and Czech Jews
+      in 1944, holding out false hopes of salvation to the very end. Although “Zippi”
+      (as she became known in the camp and subsequently) was always conscious of being
+      in hell, she took a certain pride in her efficiency and the recognition it won
+      from her German bosses. Immersing oneself in work was one way of forgetting
+      for a moment the flames just outside the door. </p><p>Evacuated to Ravensbrück
+      and then to one of its many satellite camps in Mecklenberg, Tichauer slipped
+      away from her guards during the last days of fighting and lay low, waiting for
+      the Russians to liberate her. Upon her return to Bratislava, she found just
+      one brother there. Everyone else in her family had perished. She might have
+      stayed there—conditions for survivors in Bratislava were evidently quite different
+      from those in rural areas—but for her decision to marry another survivor who
+      planned to join relatives in South America. She and her new spouse lived at
+      the DP camp at Feldafing, near Munich, where she was interviewed in September
+      1946.</p>\n"
+    attribution: 'From FRESH WOUNDS: EARLY NARRATIVES OF HOLOCAUST SURVIVAL by Donald
+      L. Niewyk. Copyright (c) 1998 by the University of North Carolina Press. Used
+      by permission of the publisher. www.uncpress.unc.edu'

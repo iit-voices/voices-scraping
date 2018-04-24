@@ -1887,3 +1887,6 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: This concludes... Spool 38 of Mrs. Freilich taken in Paris, 9 Rue Guy Patin...
         on July — on August 9, 1946. Illinois Institute of Technology recording.
+  commentary:
+    text: none
+    attribution: none

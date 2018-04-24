@@ -4656,3 +4656,48 @@ recording:
       start: '01:18:00.750'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: He played his own melody...
+  commentary:
+    text: "<p>The events narrated in this interview offer a glimpse of life in the
+      large urban ghettos of Poland. Had Israel Unikowsky been a bit younger, he probably
+      would not have survived. His initiative and native intelligence helped, but
+      without the ability to work in ghetto and camp his chances were slim. He was
+      just eleven when the Germans overran his hometown of Kalisz in western Poland.
+      His mother had died when he was three, and his father had abandoned him and
+      an older brother four years later. Raised in a religious orphanage for Jewish
+      boys aged five to thirteen, the two brothers and thirty other orphans fled from
+      the Germans toward what they hoped would be the comparative safety of the nearest
+      big Polish city, Łódź. They made it shortly after the Germans took Łódź on September
+      8, 1939, and threw themselves on the mercy of the local Jewish community. Unikowsky
+      would manage to stay there until the end of the ghetto almost five years later.</p><p>The
+      morally ambiguous figure of ghetto leader Chaim Rumkowski presents itself almost
+      at the beginning of Israel Unikowsky’s tale. Rumkowski, who headed the Łódź
+      Jewish orphanages at the time of Poland’s downfall, at first seemed to despair
+      of aiding his additional charges but later saw to their needs. One can hardly
+      blame Unikowsky for hating the man who later tried to deport him and the rest
+      of the ghetto children to death camps, but even Unikowsky acknowledges Rumkowski’s
+      goal of saving at least some of the Jews through work and supplying them with
+      rations that were fairly and efficiently distributed. This interview also introduces
+      us to the far more shadowy figure of David Gertler, head of the ghetto police
+      and second most powerful Jewish administrator in Łódź.</p><p>Unikowsky clearly
+      shared the opinion of many ghetto inhabitants that Gertler was a more attractive
+      figure than Rumkowski for his smuggling of food into and people out of the ghetto.
+      Unikowsky does not mention that none of this could have been done without the
+      connivance of corrupt German officials and that it led to Gertler’s arrest and
+      deportation in July 1943. Evidently Gertler survived the war. The precise nature
+      of his role in Łódź and his subsequent fate have never been fully clarified.
+      </p><p>Unikowsky’s narrow escape from the massive deportations from Łódź in
+      September 1942 is one of the more remarkable episodes in this collection. However,
+      he could not evade being rounded up during the liquidation of the ghetto in
+      1944. He was sent to Auschwitz where he was healthy enough and lucky enough
+      to be selected for work on a nearby farm that produced food for the camp. His
+      luck held at Buchenwald, too. Sent there in January 1945, he was among those
+      assigned to the youth block, most of whom survived. His account shows that at
+      least some liberated concentration camp inmates subjected German civilians to
+      revenge attacks before leaving the country. Unikowsky moved to France where
+      he was studying dental technology at the time of his interview at the ORT home
+      at Chateau de Boucicaut. He expressed no particular plans for the future, however.
+      For him the lesson of the Holocaust was that “thinking about tomorrow won’t
+      do.”</p>\n"
+    attribution: 'From FRESH WOUNDS: EARLY NARRATIVES OF HOLOCAUST SURVIVAL by Donald
+      L. Niewyk. Copyright (c) 1998 by the University of North Carolina Press. Used
+      by permission of the publisher. www.uncpress.unc.edu'

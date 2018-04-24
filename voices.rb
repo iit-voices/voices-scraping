@@ -7,6 +7,8 @@ require 'active_support/core_ext/hash'
 require 'active_support/core_ext/string'
 # Use sterile to generate typographers quotes, etc.
 require 'sterile'
+# Use URI to decode certain file names captured by wget
+require 'uri'
 
 # Hash of cities with erroneous &#195 entities, and their fixes:
 CORRECTED_CITIES = {
@@ -226,7 +228,7 @@ Interviewee = Struct.new(
   end
 end
 
-Recording = Struct.new(:date,:location,:languages,:duration,:spools,:audio,:credits,:transcript,:translation)
+Recording = Struct.new(:date,:location,:languages,:duration,:spools,:audio,:credits,:transcript,:translation,:commentary)
 Utterance = Struct.new(:who,:start,:end,:u)
 Transcript = Struct.new(:language,:interview)
 
@@ -291,6 +293,20 @@ Dir.glob(files).each do |file|
   @r.spools = @doc.css('.spools text()').to_s.strip.split(", ")
   @r.audio = { file: '', 'mime-type': 'audio/mp3' }
   @r.audio[:file] = MP3_FILES[@i.legacy_identifier.to_sym]
+
+  # Initially set commentary to none
+  @r.commentary = { text: 'none', attribution: 'none' }
+  # But if it exists, capture it:
+  if @doc.css('.commentary').length > 0
+    commentary_slug = URI.decode(@doc.css('.commentary a').first['href'].to_s.strip).split('&')[0]
+    commentary_file = "#{ENV['HOME']}/Voices/voices.iit.edu/voices.iit.edu/#{commentary_slug}"
+    @c = File.open(commentary_file) do |f|
+      Nokogiri::HTML(f)
+    end
+    @r.commentary[:text] = @c.css('#content p:not(.attribution)').to_s.smart_format
+    @r.commentary[:attribution] = @c.css('#content .attribution text()').to_s.strip
+  end
+
 
   @doc.css('#transcript a').each do |t|
     # puts t['href'].strip

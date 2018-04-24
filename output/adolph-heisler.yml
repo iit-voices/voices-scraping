@@ -5169,3 +5169,38 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: There I lay four weeks, and then I heard about the transport going to Switzerland.
         So I reported for it, to go to Switzerland.
+  commentary:
+    text: "<p>Adolph Heisler was born in Czynadowo, Czechoslovakia, to parents who
+      owned a large farm and ran a lumber business. In 1939, when the boy was twelve,
+      Hitler arranged the transfer of that part of Transcarpathian Ukraine to Hungary.
+      That transfer meant that instead of being deported with the majority of Slovakian
+      Jews in 1942, Heisler, his mother, and two brothers were ghettoized and sent
+      to Poland only after the Germans occupied Hungary two years later. Heisler recalls
+      Germans taking these actions, but Hungarian officials were most likely the major
+      participants in the whole procedure. They certainly made the decision to keep
+      his father behind in one of Hungary’s notorious labor battalions for adult Jewish
+      males. Adolph’s father was not among the few survivors of those units.</p><p>At
+      Auschwitz Adolph and one of his brothers were separated from the rest of their
+      family and sent to the Jawiszowice coal mine, which supplied the factories in
+      Auschwitz. He spent eight months there. This and other coal mines in the region
+      were infamous for their hellish conditions, but Heisler recalls Jawiszowice
+      as being less unbearable than the camps he experienced later in Germany. He
+      mentions that his block senior protected him, without providing many details.
+      He was evacuated with the rest of the Auschwitz contingent in early January
+      1945. Taken on foot and by train to Buchenwald and then on to a satellite camp
+      near Nordhausen, he fell ill and could not join the death march to escape the
+      approaching American army. Miraculously, at the last minute the Germans supplied
+      trucks to evacuate at least some of the sick to Buchenwald. His inclusion probably
+      saved his life, since a very large proportion of those marched out of Ohrdruf
+      did not have the strength to finish the journey, and those left behind at Ohrdruf
+      were massacred by the SS. At Buchenwald Heisler unhesitatingly attached himself
+      to the young people’s barracks which was liberated by the Americans a short
+      time later. In his description of the events, he provides another variation
+      on the story about the commandant’s tardy telephone call so dear to the memory
+      of the survivors.</p><p>For reasons that can no longer be determined, Heisler
+      volunteered little about his personal life either before or after the Holocaust,
+      and Boder made no effort to draw him out on the subject during the interview
+      in Geneva.</p>\n"
+    attribution: 'From FRESH WOUNDS: EARLY NARRATIVES OF HOLOCAUST SURVIVAL by Donald
+      L. Niewyk. Copyright (c) 1998 by the University of North Carolina Press. Used
+      by permission of the publisher. www.uncpress.unc.edu'

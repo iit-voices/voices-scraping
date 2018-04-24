@@ -960,3 +960,18 @@ recording:
       start: '00:17:57.756'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] Alright."
+  commentary:
+    text: "<p>David Boder interviewed Boleslaw Czolopicki in Paris on July 30, 1946.
+      The location of the interview is not noted. Mr. Czolopicki identified himself
+      as a single man and a Polish refugee who had been deported from Warsaw. There
+      is a possibility, although not indicated in the interview, that he was a Jew
+      who continued to live under an assumed name. Mr. Czolopicki was deported to
+      Germany along with thousands of other Poles after the failed Polish uprising
+      against the Germans in the summer and early fall of 1944. Sent to the Rhineland
+      under inhuman conditions, he was a forced laborer until he was liberated by
+      American troops in March, 1945. He then came to Paris working for the Americans
+      in an unstated capacity. At the time of the interview, he was studying radio
+      with the hope of one day immigrating to the United States. Mr. Czolopicki’s
+      wartime experiences illustrate the suffering of forced laborers and the dislocation
+      experienced by countless Europeans as a result of the war.</p>"
+    attribution: "—Elliot Lefkovitz"

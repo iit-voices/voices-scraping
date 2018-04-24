@@ -6594,3 +6594,56 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: This section of Spool 9-107 is being separated and goes under the number
         9-107A. It concludes the story of Mr. Warsager. Stop.
+  commentary:
+    text: "<p>Jewish men sent to Germany shortly after the conquest of Poland often
+      did their slave labor in actual concentration camps. One of the most articulate
+      accounts of survival at Buchenwald is provided by Bernard Warsager, a Polish
+      Jew who spent five and one-half years in the German camp. The young artist,
+      who had studied at the Warsaw Academy of Art, was drafted into the Polish army
+      in 1939 at the age of twenty-three, only to have his unit surrounded by German
+      forces in the early days of World War II. Warsager managed to escape and return
+      to his home town of Tomaszów Mazowiecki, but not for long. There were many like
+      him, and the Germans swept the newly occupied territories for young Poles to
+      be sent to camps in Germany.</p><p>Buchenwald was probably the most efficiently
+      organized and least brutal of the German concentration camps—the best of the
+      worst, one might say—by the time Warsager arrived in October 1939. A major scandal
+      the previous year involving corruption among the SS and the professional criminals
+      that had constituted the camp elite had led to housecleaning and opportunities
+      for the political prisoners to take control. Otherwise Warsager might not have
+      lived to tell this story. (He seems to have perceived these changes most acutely
+      in 1943, by which time an influx of foreign prisoners had changed the ethnic
+      composition of the camp underground, but the crucial developments had occurred
+      before his arrival at Buchenwald.) However, he is far from uncritical of the
+      men with the red triangle who helped run Buchenwald, finding some as brutal
+      and venal as the “greens.” Equally surprising is his account of library resources
+      and informal classes that made it possible for Buchenwald inmates to pursue
+      intellectual interests, psychology in Warsager’s case. More conventional is
+      his description of work conditions in the camp that drove some prisoners to
+      take their own lives—”murdered by suicide” in Warsager’s trenchant phrase. He
+      attributes his own drive to go on to his faith in the future of Zionism. </p><p>Warsager
+      and thousands of other prisoners from Poland were initially accommodated in
+      a temporary “small camp” improvised with tents and barbed wire fences on the
+      edge of Buchenwald’s roll call square. Food and hygiene were far worse than
+      in the main camp, and work in the stone quarry was even more brutal than usual.
+      Prisoners who did not deliberately run through the sentry line to be “shot while
+      trying to escape” almost inevitably fell sick with dysentery, but frostbite
+      got Bernard sent to the infirmary for a second time. We may speculate that one
+      reason he emerged alive, and with a successful throat operation thrown in for
+      good measure, was SS admiration of sketches he made there. At the same time
+      we should not lose sight of the proficiency of prisoner doctors who worked under
+      anything but ideal conditions. Warsager may also have been one of the camp’s
+      skilled workers, for in most cases only they were exempted from the transfer
+      of all Jews from German concentration camps to Poland in October 1942.</p><p>Bernard
+      tried in vain to evade evacuation from Buchenwald during the last days of the
+      war. He escaped from a death march, hid from the SS, and was liberated by American
+      forces just when he thought he had reached the limits of his endurance. Following
+      an abortive effort to pick up the pieces of his life in Poland, he led a group
+      of fellow survivors through the British occupation zone of Germany, hoping to
+      reach Palestine by way of Holland. Arrested at the border, they were subjected
+      to what Warsager considered a renewal of the concentration camp experience.
+      After three months he was released, moved to Italy, and joined a kibbutz housed
+      in a castle at Tradate, halfway between Milan and Como, where he was interviewed.
+      There he prepared for a new life in Palestine.</p>\n"
+    attribution: 'From FRESH WOUNDS: EARLY NARRATIVES OF HOLOCAUST SURVIVAL by Donald
+      L. Niewyk. Copyright (c) 1998 by the University of North Carolina Press. Used
+      by permission of the publisher. www.uncpress.unc.edu'

@@ -3926,3 +3926,6 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] This concludes the interview. Illinois Institute of Technology
         wire recording."
+  commentary:
+    text: none
+    attribution: none

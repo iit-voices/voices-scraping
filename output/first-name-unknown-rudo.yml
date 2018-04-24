@@ -1811,3 +1811,6 @@ recording:
       start: '00:14:16.792'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Thank you very much, madam.
+  commentary:
+    text: none
+    attribution: none

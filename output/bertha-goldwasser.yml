@@ -3924,3 +3924,39 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: I thank you very much, Mrs. Goldwasser. This is a very good...[mid-sentence
         interruption of interview apparently due to the end of the spool]
+  commentary:
+    text: "<p>Bertha Goldwasser was born in Poland and came to Paris, France in 1936
+      at about the age of twenty-four to study engineering. There she met and married
+      her husband, Kuba Goldwasser. The couple was part of the some 200,000 French
+      Jews who lived in Paris on the eve of World War II. The majority of these were
+      eastern European Jews, who like Mrs. Goldwasser had immigrated to France after
+      World War I. They contributed to the vibrant Yiddish cultural and political
+      life of the city.  In the wake of France’s disastrous defeat by Nazi Germany
+      in June 1940, the collaborationist Vichy government came to power. In October
+      of that year, it passed a series of anti-Jewish measures which impacted Jews
+      in the northern German occupied zone of France, which included Paris, as well
+      as the unoccupied so-called Vichy “free zone” in the southern portion of the
+      country. Bureaucratic machinery was established to impose these anti-Semitic
+      measures on some 330,000 French Jews.</p><p>The Goldwassers has an infant daughter
+      at the time of Kuba’s arrest in 1941. He was deported in 1942, and eventually
+      became one of the 77,000 French Jews killed by disease, starvation and exhaustion
+      in French internment camps, executed in French prisons or murdered in deportation,
+      mainly to Auschwitz. The Vichy regime was complicit in all these deaths.</p><p>Bertha
+      Goldwasser and her baby daughter were arrested in the notorious round-up of
+      the Jews of Paris on July 16-17, 1942. They were ultimately interned in the
+      Drancy detention camp located in a suburb of Paris, and from there deported
+      to Auschitz. By prying loose planks from the floor of the railroad car on the
+      train carrying her and her daughter to Auschwitz, Mrs. Goldwasser managed to
+      escape, but in the fall from the train the baby was killed. She found shelter
+      with a family of French resisters and, following her recuperation, joined the
+      resistance herself. She was involved in some daring exploits, such as smuggling
+      downed Allied fliers to safety in neutral Spain.</p><p>Mrs. Goldwasser also
+      fought in the August 1944 battle to liberate Paris and was wounded in this struggle.
+      Following the war, she established contact with two aunts in the United States.
+      They invited both her and her brother, who had survived the war as a soldier
+      in the Red Army and was in a Displaced Persons camp near Munich, to come to
+      America.</p><p>At the time of the interview, Mrs. Goldwasser was working for
+      the Neue Freie Presse, a Jewish leftist newspaper. This interview aptly illustrates
+      the remarkable bravery and courage displayed by many Jewish French women during
+      the Holocaust.</p>"
+    attribution: "—Elliot Lefkovitz"

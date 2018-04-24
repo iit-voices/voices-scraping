@@ -6025,3 +6025,33 @@ recording:
       start: '00:50:13.163'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: You’re welcome.
+  commentary:
+    text: "<p>Zionist fundamentalism inspired suspicions of non-Jews that complicated
+      Jewish-Gentile relations in normal times but served Jews well during the Holocaust.
+      Baruch Friedman’s Zionist convictions caused him to disbelieve official stories
+      about relocating the Slovakian Jews in 1942 and instead to flee to the forest
+      with his younger brother. Their parents, merchants and farmers in Kurima, either
+      believed Slovakian and German lies or acquiesced in their fate, as did most
+      Slovakian Jews. The brothers hid with the aid of a Gentile acquaintance and,
+      after the deportations stopped, reported voluntarily to one of several work
+      camps for Jews set up by the Slovaks. It turned out to be agreeable as such
+      camps went in those years, but the brothers’ suspicions were hardly allayed.
+      They made contact with anti-German partisans in the forests and armed themselves
+      against a renewal of anti-Jewish measures. </p><p>These preparations paid off
+      during the Slovak National Uprising against the Tiso regime, August 28 to October
+      27,1944. Friedman and his brother were freed along with the other Jewish inmates
+      of work camps. Although they helped fight German and Slovakian forces in the
+      liberated zone, and Friedman’s brother died in combat, Friedman himself was
+      deeply ambivalent about both the uprising’s prospects of success and the attitudes
+      toward Jews of even anti-Nazi Slovaks. Following the suppression of the uprising,
+      he again took to the forest, this time with a sizable band of partisans made
+      up of Jews and Gentiles. In February 1945 they broke through to the Russian
+      side. He then returned to his village only to find his family gone, their home
+      looted, and the fields taken over by neighbors. All this confirmed him in his
+      determination to leave for Palestine. Boder found him living at Tradate, the
+      home in northern Italy for young displaced Jews who had formed a kibbutz. (Boder
+      noted the Friedman had a number of aliases, including “Abram Perl,” which he
+      used at the time of, but not during, the interview.)</p>\n"
+    attribution: 'From FRESH WOUNDS: EARLY NARRATIVES OF HOLOCAUST SURVIVAL by Donald
+      L. Niewyk. Copyright (c) 1998 by the University of North Carolina Press. Used
+      by permission of the publisher. www.uncpress.unc.edu'

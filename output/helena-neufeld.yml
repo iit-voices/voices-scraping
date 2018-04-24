@@ -2458,3 +2458,29 @@ recording:
       start: '00:30:55.474'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In Polish] For myself. I can’t [words not clear]"
+  commentary:
+    text: "<p>David Boder interviewed Helena Neufeld at an adult home for Jews in
+      Paris on August 3, 1946. Mrs. Neufeld was survivor of the Warsaw ghetto, the
+      notorious Pawiak prison of Warsaw and the infamous Bergen Belsen concentration
+      camp in Germany. Like a number of other survivors, she owed her survival to
+      determination, resourcefulness and luck. Her interview revealed that she possessed
+      both pluck and luck in abundance. As a Polish Jew, Mrs. Neufeld endured six
+      years of Nazi tyranny and brutality. Like so many other survivors, she lost
+      her entire family but not her husband to whom she was married in the Warsaw
+      ghetto. The interview does not reveal how her mother, sister and brother in
+      law with whom she lived in the Warsaw ghetto died. She survived two deportation
+      actions for the ghetto, finally escaping and finding shelter for a time in “Aryan”
+      Warsaw in the winter of 1943. She was in hiding in “Aryan” Warsaw when she witnessed
+      the battle of the Warsaw ghetto.  In the summer of 1943, she was captured and
+      sent to Warsaw’s Pawiak prison from where she was deported the Bergen Belsen
+      camp.  One intriguing question that is not answered is why Mrs. Neufeld and
+      her husband were transferred to one of the satellite camps Bergen Belsen for
+      Poles who possessed immigration papers from other countries and where they were
+      not assigned to work details, which was one reason they were able to survive
+      in Belsen for some twenty months. They were among those evacuated from Belsen
+      in the wake of the advancing English army and were liberated by the Russians
+      in eastern Germany. Mrs. Neufeld’s testimony bears witness to the fact that
+      there were courageous non Jewish Poles in Warsaw who were willing to hide Polish
+      Jews. It also conveys some of the horrendous conditions Jews experienced at
+      Bergen Belsen, which is etched in memory as a site of indescribable human suffering.</p>"
+    attribution: "—Elliot Lefkovitz"

@@ -1012,3 +1012,23 @@ recording:
       start: '00:14:28.724'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Yes.
+  commentary:
+    text: "<p>Short interviews with orphan charges at the Bellevue home for displaced
+      Jewish orphans funded by French and American Jewish charities (run by Lena Kuechler,
+      another Boder interviewee) grant us something like a child’s eye view of the
+      Holocaust.</p><p>The interview with thirteen-year-old Raisel Meltzak is understandably
+      fragmentary. Boder disagreed with the judgment of supervisory personnel at the
+      home that she was somewhat mentally retarded, believing rather that she was
+      deeply disturbed. He cut the interview short, possibly to save her from further
+      stress, and did not take it up again. Her parents, natives of southeastern Poland,
+      an area of mixed Polish and Ukrainian population, hid their family from the
+      Germans in a bunker, and then in the forests, alternately helped and looted
+      by the local Ukrainians. Her father allowed himself to be persuaded by Jews
+      from his own community that it was safest to return to the ghetto, whereas her
+      mother insisted on chancing fugitive survival for herself and her two children.
+      Raisel was spared having to go into the details of her mother’s death. Judging
+      from the fact that the child spoke better Polish than Yiddish, she may have
+      come through the Holocaust by being taken in by Polish peasants.</p>\n"
+    attribution: 'From FRESH WOUNDS: EARLY NARRATIVES OF HOLOCAUST SURVIVAL by Donald
+      L. Niewyk. Copyright (c) 1998 by the University of North Carolina Press. Used
+      by permission of the publisher. www.uncpress.unc.edu'

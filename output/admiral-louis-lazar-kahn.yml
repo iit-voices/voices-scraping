@@ -518,3 +518,23 @@ recording:
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In French] Well, I am delighted to have heard you, Professor Boder, and
         to have the possibility, through you, to communicate with...[ends abruptly]"
+  commentary:
+    text: "<p>Boder’s interview with Admiral Louis Kahn centers in large part on the
+      Kahn’s opinions as to the reasons for France’s sudden and devastating defeat
+      in 1940 and his views on post-war refugee rehabilitation. Unfortunately, he
+      provides little information on his war time experiences, such as his escape
+      across the Pyrenees to join the Free French forces of General De Gaulle, or
+      details of his service with those forces.</p><p>This interview is part of a
+      group of interviews with the eminent Kahn family and their chauffeur taken in
+      Paris on August 21, 1946 during an evening at the home of Admiral Louis Kahn.
+      The interviews were conducted in the following order: Abraham Schramack (Mrs.
+      Kahn’s father), Jean Kahn (the family’s younger son) Anne Marcelle Kahn, and
+      her husband, Admiral Kahn. These are followed by an interview with the family’s
+      chauffeur, Charles Jean, who during the German occupation was in the French
+      resistance. The Kahns were among the approximately 150,000 French Jews who had
+      deep roots in France. (Another 200,000 Jews in France during the Holocaust were
+      more recent immigrants.) Despite their long-standing residence in France, the
+      Kahn family lived a precarious existence during the Occupation. Due to his service
+      in the French navy, Admiral Kahn was separated from his family at the start
+      of the war and was not in France during the war years.</p>"
+    attribution: "—Elliot Lefkovitz"

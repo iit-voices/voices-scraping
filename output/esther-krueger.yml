@@ -5220,3 +5220,6 @@ recording:
       start: '00:37:00.053'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: In the future we describe all that, make large books about all the experiences.
+  commentary:
+    text: none
+    attribution: none

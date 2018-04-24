@@ -603,3 +603,29 @@ recording:
       start: '00:25:58.101'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[In English] Well, it takes great courage to celebrate it."
+  commentary:
+    text: "<p>Abraham Schramack had a distinguished career as a governmental administrator
+      and political figure during the French Third Republic, which lasted from 1871-1940.
+      Among the positions he held were secretary general of the prefecture of Marseille,
+      member of the Senate, the upper chamber of the Third Republic’s National Assembly,
+      and minister of the interior, in which capacity he was head of the national
+      police. Due to his pre-war prominence and despite his advanced age (he was in
+      his seventies at the time of the Occupation), he found himself in peril especially
+      after the German takeover of the Vichy-government-controlled zone of France
+      (the so-called “free zone”) on November 11, 1942. Mr. Schramack survived with
+      the help of friends and acquaintances and his own pluck and good fortune. He
+      died on October 19, 1948 in Marseille, a little over two years after the interview
+      was conducted.</p><p>This interview is part of a group of interviews with the
+      eminent Kahn family and their chauffeur taken in Paris on August 21, 1946 during
+      an evening at the home of Admiral Louis Kahn. The interviews were conducted
+      in the following order: Abraham Schramack (Mrs. Kahn’s father), Jean Kahn (the
+      family’s younger son) Anne Marcelle Kahn, and her husband, Admiral Kahn. These
+      are followed by an interview with the family’s chauffeur, Charles Jean, who
+      during the German occupation was in the French resistance. The Kahns were among
+      the approximately 150,000 French Jews who had deep roots in France. (Another
+      200,000 Jews in France during the Holocaust were more recent immigrants.) Despite
+      their long-standing residence in France, the Kahn family lived a precarious
+      existence during the Occupation. Due to his service in the French navy, Admiral
+      Kahn was separated from his family at the start of the war and was not in France
+      during the war years.</p>"
+    attribution: "—Elliot Lefkovitz"
