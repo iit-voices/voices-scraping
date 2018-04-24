@@ -536,10 +536,10 @@ recording:
       u: The same night?
     - who: Fania Freilich
       start: '00:19:25.754'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: The same night. The registration lasted until dawn, until daybreak.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:19:32.066'
       u: Hm.
     - who: Fania Freilich

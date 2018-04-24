@@ -37,8 +37,8 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[In English] Germany, September the 12th [23rd], 1946. Feldafing about 30
         kilometers from Munich, a camp for displaced...a camp for displaced Jews covering
         about forty-five hundred people. Part of the camp is located [?] in a form
@@ -57,7 +57,7 @@ recording:
         post-armistice refugees from Poland, etc.] Some probably receive it from the
         States, and South America, and Africa. And the black market also helps."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:00:02.377'
       u: 'We are now going to interview Mr. Max Meyer Sprecher, 37 years old. He is
         at present...at present a student of medicine at Heidelberg University. He

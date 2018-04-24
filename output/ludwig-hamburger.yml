@@ -22,7 +22,7 @@ recording:
   location: Genève, Switzerland
   languages:
   - German
-  duration: '00:55:48.558875'
+  duration: '00:55:48.558'
   spools:
   - 9-72
   - 9-73A
@@ -451,11 +451,11 @@ recording:
       u: Ja.
     - who: Ludwig Hamburger
       start: '00:04:38.575'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: 'Und da haben wir sechzehn(16) Stunden gearbeitet am Tag – man kann sagen:
         ohne Essen.'
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:04:44.650'
       u: Ja.
     - who: Ludwig Hamburger
@@ -620,11 +620,11 @@ recording:
       u: Und wie lange waren Sie in Auschwitz?
     - who: Ludwig Hamburger
       start: '00:06:26.396'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: In Auschwitz war ich zwei (2) Monate lang. Dann bin ich gekommen auf ein
         Lager .....Blechhammer. Das ist nicht weit von Auschwitz – Blechhammer.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:06:36.529'
       u: Blechhammer.
     - who: Ludwig Hamburger
@@ -1031,12 +1031,12 @@ recording:
       u: Nun?
     - who: Ludwig Hamburger
       start: '00:11:17.289'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Wir sind hinaus gegangen zu der Arbeit – hat geregnet. Der SS Mann war schön
         warm angezogen für Winter ..... und wir waren verfroren, hungrig. (unverständlich,
         starkes Rauschen im Band).
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:11:36.606'
       u: Ja.
     - who: Ludwig Hamburger
@@ -1073,10 +1073,10 @@ recording:
       u: Ja.
     - who: Ludwig Hamburger
       start: '00:12:31.401'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Beim Bunker graben.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:12:32.611'
       u: Ja.
     - who: Ludwig Hamburger
@@ -1138,27 +1138,27 @@ recording:
       u: Ja.
     - who: Ludwig Hamburger
       start: '00:12:59.112'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Es war sehr kalt, Schnee. Und auf einmal kommt der Befehl .....
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:13:04.469'
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:13:04.469'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "„Alle antreten“!"
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:13:06.443'
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:13:06.443'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Wir gehen, wohin? Das weiß niemand. Wir sind aufgestanden und man hat jeder
         eine Decke ....
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:13:13.033'
       u: Hm.
     - who: Ludwig Hamburger
@@ -1293,19 +1293,19 @@ recording:
       u: Ja.
     - who: Ludwig Hamburger
       start: '00:14:55.712'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Da ist ein SS Mann gekommen, der hat mich mit dem Gewicht über die Schulter
         gehauen, dass ich einfach total umgefallen bin.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:15:02.632'
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:15:02.632'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Für ein kleines bisserl Wasser!
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:15:06.175'
       u: Ja.
     - who: Ludwig Hamburger
@@ -1333,30 +1333,30 @@ recording:
         Mann sind wir angekommen zwei hundert vier und achtzig (284).
     - who: David Boder
       start: '00:15:30.493'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Was heißt das?
     - who: Ludwig Hamburger
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Wir waren ....
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:15:33.372'
       u: Was ist mit den Anderen passiert?
     - who: Ludwig Hamburger
       start: '00:15:33.372'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Erschossen.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:15:34.940'
       u: Aber ....
     - who: Ludwig Hamburger
       start: '00:15:34.940'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Und in der Scheune ..... in der Scheune haben wir uns selbst zu Tod getreten.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:15:39.523'
       u: Ja.
     - who: Ludwig Hamburger
@@ -1432,10 +1432,10 @@ recording:
       u: Die sind in dem Wagen gefahren.
     - who: David Boder
       start: '00:16:30.133'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Oh, Sie meinen Einige waren im Wagen, Andere sind zu Fuß gegangen?
     - who: Ludwig Hamburger
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:16:33.736'
       u: Ja.
     - who: David Boder
@@ -1641,12 +1641,12 @@ recording:
       u: Ja.
     - who: Ludwig Hamburger
       start: '00:19:17.445'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: 'Wir haben sich erinnert an zu Hause, an die Schule und alles und wir haben
         gesagt: „Das ist unmöglich, dass das alles ist für immer vergangen. Es wird
         bestimmt wieder kommen.“'
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:19:31.435'
       u: Ja.
     - who: Ludwig Hamburger
@@ -1850,14 +1850,14 @@ recording:
       u: Tot geschlagen. Nicht nur ....
     - who: David Boder
       start: '00:21:35.269'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Was soll das heißen?
     - who: Ludwig Hamburger
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Mit Stöcke.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:21:36.611'
       u: Wer hat das getan?
     - who: Ludwig Hamburger
@@ -1929,19 +1929,19 @@ recording:
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:22:28.865'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Wir sind raufgegangen in den Steinbruch.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:22:31.850'
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:22:31.850'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Damals war es so, dass jeder SS Mann, der einen Gefangenen tot geschlagen
         hat ....
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:22:36.644'
       u: Hm.
     - who: Ludwig Hamburger
@@ -1980,35 +1980,35 @@ recording:
       u: Ja.
     - who: Ludwig Hamburger
       start: '00:23:00.554'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "..... bis da können wir gehen."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:23:02.936'
       u: Ja.
     - who: Ludwig Hamburger
       start: '00:23:02.936'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Wer überschreitet diese Grenze wird erschossen.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:23:06.012'
       u: Ja.
     - who: Ludwig Hamburger
       start: '00:23:06.012'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Da hat der SS Mann mit dem Capo so abgemacht, dass der Capo bekommt ein Paket
         Tabak .....
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:23:13.685'
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:23:13.685'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "..... dass er einen Juden raus schickt oder einen ....."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:23:17.092'
       u: Hm, ja.
     - who: Ludwig Hamburger
@@ -2039,10 +2039,10 @@ recording:
       u: Ja.
     - who: Ludwig Hamburger
       start: '00:23:27.721'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "..... und hat es geworfen über den Zaun."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:23:30.349'
       u: Ja.
     - who: Ludwig Hamburger
@@ -2063,12 +2063,12 @@ recording:
       u: Ja.
     - who: Ludwig Hamburger
       start: '00:23:35.777'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: 'Und er hat gesagt: „Wenn ich hole die Hütl jetzt, dann ich beschreite die
         Grenze und ich werd erschossen.“ So sagt er: „Es ist niemand da, geh und hol
         es.“'
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:23:43.889'
       u: Hm.
     - who: Ludwig Hamburger
@@ -2201,10 +2201,10 @@ recording:
       u: Hm, nun?
     - who: Ludwig Hamburger
       start: '00:25:15.797'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Die meisten sind Juden, Ungarn ....
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:25:18.872'
       u: Hm.
     - who: Ludwig Hamburger
@@ -2230,10 +2230,10 @@ recording:
         wir da gehabt.
     - who: David Boder
       start: '00:25:35.651'
-      end: '00:25:37.70'
+      end: '00:25:37.700'
       u: Hm.
     - who: Ludwig Hamburger
-      start: '00:25:37.70'
+      start: '00:25:37.700'
       end: '00:25:42.270'
       u: Und das Krematorium war Birkenau, es war nicht weit von Auschwitz.
     - who: David Boder
@@ -2408,12 +2408,12 @@ recording:
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:28:14.583'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Also wir glauben es bis heute nicht, die Bomben sind gefallen drei (3) Meter
         von uns. Bei mir hat eine Bombe zwei (2) Meter vor mir eingeschlagen, und
         ich war unter der Wolke, unter dem (unverständlich – spricht zu schnell).
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:28:23.734'
       u: Ja.
     - who: Ludwig Hamburger
@@ -2782,10 +2782,10 @@ recording:
       u: Lauter.
     - who: Ludwig Hamburger
       start: '00:33:04.176'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Und so der Lager Älteste hat gesagt .....
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:33:06.694'
       u: Nun?
     - who: Ludwig Hamburger
@@ -2884,11 +2884,11 @@ recording:
       u: Ja.
     - who: Ludwig Hamburger
       start: '00:34:18.682'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "(hustet) Also wir haben sich gesagt, wenn schon ..... ich habe schon mitgemacht
         eine Evakuation, ich weiß ganz genau, was das ist."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:34:27.380'
       u: Hm.
     - who: Ludwig Hamburger
@@ -3057,18 +3057,18 @@ recording:
       u: Was hat man mit den Steinen gemacht?
     - who: Ludwig Hamburger
       start: '00:38:22.056'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Sie haben .... sie haben gemacht damit den Straßenbau.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:38:25.780'
       u: Ja.
     - who: Ludwig Hamburger
       start: '00:38:25.780'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: In ganz Deutschland.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:38:28.418'
       u: Ja.
     - who: Ludwig Hamburger
@@ -3161,10 +3161,10 @@ recording:
         - ......
     - who: David Boder
       start: '00:40:04.241'
-      end: '00:40:04.46'
+      end: '00:40:04.460'
       u: Ja?
     - who: Ludwig Hamburger
-      start: '00:40:04.46'
+      start: '00:40:04.460'
       end: '00:40:10.618'
       u: ".... dann ist die ganze Schuld übertragen geworden auf die Häftlinge."
     - who: David Boder
@@ -3434,10 +3434,10 @@ recording:
       u: In die Augen?
     - who: Ludwig Hamburger
       start: '00:43:10.528'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: In die Haupt!
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:43:12.064'
       u: Hm.
     - who: Ludwig Hamburger
@@ -3631,10 +3631,10 @@ recording:
       u: Ja.
     - who: David Boder
       start: '00:45:25.795'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: ".... es Polen geworden."
     - who: Ludwig Hamburger
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:45:26.669'
       u: Ja, Polen.
     - who: David Boder
@@ -3757,20 +3757,20 @@ recording:
       u: Ja.
     - who: Ludwig Hamburger
       start: '00:46:49.980'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Und man hat uns gezeigt das Leben von einer ganz anderen Seite, als wir bis
         jetzt haben mitgemacht haben.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:46:57.428'
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:46:57.428'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Sie wollten uns zeigen ..... sie haben sich große Mühe gegeben, uns zu zeigen,
         wie wirklich das Leben schaut aus .....
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:47:07.604'
       u: Ja?
     - who: Ludwig Hamburger
@@ -3800,10 +3800,10 @@ recording:
       u: Ja?
     - who: Ludwig Hamburger
       start: '00:47:22.469'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Ich bin gekommen nach Genf .....
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:47:24.534'
       u: Ja.
     - who: Ludwig Hamburger
@@ -3816,11 +3816,11 @@ recording:
       u: Ja.
     - who: Ludwig Hamburger
       start: '00:47:28.801'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Ich wusste Eines. Jetzt, wenn ..... nach allem was ich habe mitgemacht und
         obwohl ich bin sehr jung ......
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:47:38.766'
       u: Hm.
     - who: Ludwig Hamburger
@@ -3918,10 +3918,10 @@ recording:
       u: Ja?
     - who: Ludwig Hamburger
       start: '00:49:49.174'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "..... ich möchte meinen Beruf können."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:49:51.737'
       u: Hm.
     - who: Ludwig Hamburger
@@ -4480,10 +4480,10 @@ recording:
       u: Well...
     - who: Ludwig Hamburger
       start: '00:04:38.575'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: And so we worked sixteen hours a day, one can say, without food.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:04:44.650'
       u: Nu.
     - who: Ludwig Hamburger
@@ -4646,12 +4646,12 @@ recording:
       u: And how long were you in Auschwitz?
     - who: Ludwig Hamburger
       start: '00:06:26.396'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: 'I was in Auschwitz two months. Then I was sent on a...to a lager, Blechhammer
         [Footnote: The correct name is Blechhammer, meaning sheet-metal works, but
         it was pronounced Blechame.]. It is not far from Auschwitz. Blechhammer.'
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:06:36.529'
       u: Yes.
     - who: Ludwig Hamburger
@@ -5050,11 +5050,11 @@ recording:
       u: Nu.
     - who: Ludwig Hamburger
       start: '00:11:17.289'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: We went out ot work. It reained. The SS men well dressed, warmly. Winter...and
         we, frozen, hungry. There...inside there was [rest of sentence not clear]...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:11:36.606'
       u: Yes.
     - who: Ludwig Hamburger
@@ -5082,10 +5082,10 @@ recording:
       u: Yes.
     - who: Ludwig Hamburger
       start: '00:12:31.401'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Digging bunkers.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:12:32.611'
       u: Yes.
     - who: Ludwig Hamburger
@@ -5147,26 +5147,26 @@ recording:
       u: Yes.
     - who: Ludwig Hamburger
       start: '00:12:59.112'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: It was very cold. Snow. Suddenly comes the order...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:13:04.469'
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:13:04.469'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "...’Step forward.’"
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:13:06.443'
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:13:06.443'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: We are going. Where? Nobody knows. We got up. Everybody took a blanket...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:13:13.033'
       u: Hm.
     - who: Ludwig Hamburger
@@ -5306,19 +5306,19 @@ recording:
       u: Yes.
     - who: Ludwig Hamburger
       start: '00:14:55.712'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: So an SS man came over to me and hit me with the rifle over the [part of
         body not clear] that I simply doubled over [?].
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:15:02.632'
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:15:02.632'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: For a tiny little bit of water.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:15:06.175'
       u: Yes.
     - who: Ludwig Hamburger
@@ -5353,30 +5353,30 @@ recording:
         hundred and eighty.
     - who: David Boder
       start: '00:15:30.493'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: What does that mean?
     - who: Ludwig Hamburger
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: We were...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:15:33.372'
       u: What has become of the others?
     - who: Ludwig Hamburger
       start: '00:15:33.372'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Shot...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:15:34.940'
       u: But...
     - who: Ludwig Hamburger
       start: '00:15:34.940'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: In the barn we...in the barn we ourselves have trumpled them to death.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:15:39.523'
       u: Yes.
     - who: Ludwig Hamburger
@@ -5452,10 +5452,10 @@ recording:
       u: They traveled in cars.
     - who: David Boder
       start: '00:16:30.133'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Oh. You mean some traveled in cars, others marched on foot.
     - who: Ludwig Hamburger
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:16:33.736'
       u: Yes.
     - who: David Boder
@@ -5657,12 +5657,12 @@ recording:
       u: Yes.
     - who: Ludwig Hamburger
       start: '00:19:17.445'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: We reminded ourselves of the hours when we were still at home and the school
         and everything. We said, ‘It is impossible that all this should have passed
         forever. It will surely come back again,’
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:19:31.435'
       u: Yes.
     - who: Ludwig Hamburger
@@ -5861,14 +5861,14 @@ recording:
       u: Beaten to death. Not only...
     - who: David Boder
       start: '00:21:35.269'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: What does that mean? Beaten to death with what?
     - who: Ludwig Hamburger
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: With cudgels.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:21:36.611'
       u: Who did it?
     - who: Ludwig Hamburger
@@ -5964,18 +5964,18 @@ recording:
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:22:28.865'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: We left for the stone quarry.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:22:31.850'
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:22:31.850'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Then it was so, that every SS man who had beaten to death a prisoner...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:22:36.644'
       u: Hm.
     - who: Ludwig Hamburger
@@ -6012,35 +6012,35 @@ recording:
       u: Yes.
     - who: Ludwig Hamburger
       start: '00:23:00.554'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "...up to here we could go."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:23:02.936'
       u: Yes.
     - who: Ludwig Hamburger
       start: '00:23:02.936'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Whoever crosses this border gets shot.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:23:06.012'
       u: Yes.
     - who: Ludwig Hamburger
       start: '00:23:06.012'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Then the SS man made it up with the capo so that the capo receives a package
         of tobacco...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:23:13.685'
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:23:13.685'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "...so that the capo should send him out, Jew or a..."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:23:17.092'
       u: Hm. Yes.
     - who: Ludwig Hamburger
@@ -6070,10 +6070,10 @@ recording:
       u: Yes.
     - who: Ludwig Hamburger
       start: '00:23:27.721'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "...and threw it over...over the fence."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:23:30.349'
       u: Yes.
     - who: Ludwig Hamburger
@@ -6094,11 +6094,11 @@ recording:
       u: Yes.
     - who: Ludwig Hamburger
       start: '00:23:35.777'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: And he said, ‘How can I fetch the cap? When I cross the border I’ll get shot.’
         So he says, ‘Nobody is there. Go and fetch it.’
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:23:43.889'
       u: Hm.
     - who: Ludwig Hamburger
@@ -6112,14 +6112,14 @@ recording:
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:23:53.046'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "...and when he crossed the ‘fence’..."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Hm.
     - who: Ludwig Hamburger
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:23:57.472'
       u: "...he immediately shot him."
     - who: David Boder
@@ -6237,10 +6237,10 @@ recording:
       u: Hm. Nu?
     - who: Ludwig Hamburger
       start: '00:25:15.797'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[ Pause.] Mostly Jews, Hungarians..."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:25:18.872'
       u: Hm.
     - who: Ludwig Hamburger
@@ -6442,12 +6442,12 @@ recording:
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:28:14.583'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: One could not believe [?] it today. The bombs fell three meters from us.
         A bomb fell two meters away from me so that I was under the...under the cloud
         that formed over me.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:28:23.734'
       u: Yes?
     - who: Ludwig Hamburger
@@ -6824,10 +6824,10 @@ recording:
       u: Louder [please].
     - who: Ludwig Hamburger
       start: '00:33:04.176'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: But the lager elder...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:33:06.694'
       u: Nu.
     - who: Ludwig Hamburger
@@ -6934,11 +6934,11 @@ recording:
       u: Nu.
     - who: Ludwig Hamburger
       start: '00:34:18.682'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[ Coughs.] But we told ourselves if already...I have already gone through
         one evacuation, I know exactly what it is."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:34:27.380'
       u: Hm.
     - who: Ludwig Hamburger
@@ -7091,18 +7091,18 @@ recording:
       u: What was done with the rocks?
     - who: Ludwig Hamburger
       start: '00:38:22.056'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: They were as.... They were used for road building...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:38:25.780'
       u: Yes?
     - who: Ludwig Hamburger
       start: '00:38:25.780'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "...over all Germany."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:38:28.418'
       u: Yes?
     - who: Ludwig Hamburger
@@ -7458,10 +7458,10 @@ recording:
       u: Yes.
     - who: Ludwig Hamburger
       start: '00:43:08.633'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: And in the legs.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:43:12.064'
       u: Now tell me...
     - who: Ludwig Hamburger
@@ -7659,10 +7659,10 @@ recording:
       u: Yes.
     - who: David Boder
       start: '00:45:25.795'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "...it became Polish."
     - who: Ludwig Hamburger
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:45:26.669'
       u: Became Polish.
     - who: David Boder
@@ -7784,20 +7784,20 @@ recording:
       u: Yes?
     - who: Ludwig Hamburger
       start: '00:46:49.980'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: And we were shown life from a completely different angle than we have know
         till now.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:46:57.428'
       u: Hm.
     - who: Ludwig Hamburger
       start: '00:46:57.428'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: They wanted to show us. They took pains to show us what life really looks
         like...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:47:07.604'
       u: Yes?
     - who: Ludwig Hamburger
@@ -7827,10 +7827,10 @@ recording:
       u: And so? Yes?
     - who: Ludwig Hamburger
       start: '00:47:22.469'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: I came to Geneva...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:47:24.534'
       u: Hm.
     - who: Ludwig Hamburger
@@ -7843,11 +7843,11 @@ recording:
       u: Aha.
     - who: Ludwig Hamburger
       start: '00:47:28.801'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: I knew one thing. Now, if after all the things I have endured, in spite of
         my being very young...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:47:38.766'
       u: Hm.
     - who: Ludwig Hamburger
@@ -7943,10 +7943,10 @@ recording:
       u: Yes?
     - who: Ludwig Hamburger
       start: '00:49:49.174'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: I should like to learn my trade.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:49:51.737'
       u: Hm.
     - who: Ludwig Hamburger

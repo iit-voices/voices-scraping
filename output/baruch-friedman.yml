@@ -20,7 +20,7 @@ recording:
   languages:
   - Yiddish
   - German
-  duration: '00:50:09.12325'
+  duration: '00:50:09.123'
   spools:
   - 9-107B
   - 9-108
@@ -1897,10 +1897,10 @@ recording:
       u: נו?
     - who: Baruch Friedman
       start: '00:33:08.893'
-      end: '00:33:13.2703'
+      end: '00:33:13.270'
       u: און... אָדער אַנדערע מיאוסע, ברוטאַלע טױטן.
     - who: David Boder
-      start: '00:33:13.2703'
+      start: '00:33:13.270'
       end: '00:33:13.727'
       u: הם.
     - who: Baruch Friedman
@@ -4926,10 +4926,10 @@ recording:
       u: Nu?
     - who: Baruch Friedman
       start: '00:33:08.893'
-      end: '00:33:13.2703'
+      end: '00:33:13.270'
       u: And...or other ugly, brutal deaths.
     - who: David Boder
-      start: '00:33:13.2703'
+      start: '00:33:13.270'
       end: '00:33:13.727'
       u: Hm.
     - who: Baruch Friedman

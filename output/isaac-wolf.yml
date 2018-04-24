@@ -18,7 +18,7 @@ recording:
   location: Tradate, Italy
   languages:
   - German
-  duration: '01:15:41.8318125'
+  duration: '01:15:41.831'
   spools:
   - 9-100
   - 9-101
@@ -2373,10 +2373,10 @@ recording:
       u: Trofaiach- ist das Jiddisch?
     - who: Isaac Wolf
       start: '00:36:54.781'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Nein, dort ist ein deutsches...so heißt es Trofaiach. Das ist ein Dorf...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:36:58.115'
       u: Ja.
     - who: Isaac Wolf
@@ -2712,10 +2712,10 @@ recording:
       u: ". . . und zurück gebracht?"
     - who: Isaac Wolf
       start: '00:41:57.563'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Ja.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:41:57.805'
       u: Nun?
     - who: Isaac Wolf
@@ -2909,10 +2909,10 @@ recording:
       u: Aber...das war in Koblenz?
     - who: Isaac Wolf
       start: '00:43:50.779'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: In Koblenz, das war...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:43:51.250'
       u: Ja.
     - who: Isaac Wolf
@@ -3080,10 +3080,10 @@ recording:
       u: Hm.
     - who: Isaac Wolf
       start: '00:47:00.286'
-      end: '00:47:03.20'
+      end: '00:47:03.200'
       u: Wir sind gegangen—ich habe genommen siebzehn (17) Menschen mit mir.
     - who: David Boder
-      start: '00:47:03.20'
+      start: '00:47:03.200'
       end: '00:47:03.352'
       u: Hm.
     - who: Isaac Wolf
@@ -3511,11 +3511,11 @@ recording:
       u: Was tut man, wenn man geht? Hat man geredet oder...?
     - who: Isaac Wolf
       start: '00:51:32.029'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Nein, gar nichts! Wir waren gegangen ganz still. Wir haben als Taschentuch
         herein gegeben in den Mund...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:51:37.256'
       u: Hm.
     - who: Isaac Wolf
@@ -3548,10 +3548,10 @@ recording:
       u: Ich hab mich verheiratet, hm,eh...ein Jahr bin ich verheiratet. In Budapest.
     - who: David Boder
       start: '00:51:52.244'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: In Budapest haben Sie geheiratet?
     - who: Isaac Wolf
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:51:54.055'
       u: In Budapest...amtlich...
     - who: David Boder
@@ -3568,10 +3568,10 @@ recording:
       u: Haben Sie Ihre Frau vorher gekannt?
     - who: Isaac Wolf
       start: '00:51:57.098'
-      end: '00:52:01.6266'
+      end: '00:52:01.626'
       u: Nein, ich habe sie in der Zeit von der russischen Armee hab ich...schon gekannt.
     - who: David Boder
-      start: '00:52:01.6266'
+      start: '00:52:01.626'
       end: '00:52:06.201'
       u: Und dann...wie lange haben Sie sie haben sie geheirat?
     - who: Isaac Wolf
@@ -3663,10 +3663,10 @@ recording:
       u: Ja.
     - who: Isaac Wolf
       start: '00:53:02.159'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Und dann...sind wir, nach Verona sind wir gekommen.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:53:06.101'
       u: Nun?
     - who: Isaac Wolf
@@ -4884,10 +4884,10 @@ recording:
       u: Nein, nein, das nicht.
     - who: David Boder
       start: '01:10:15.933'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Das nicht.
     - who: Isaac Wolf
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:10:16.766'
       u: Das nicht.
     - who: David Boder
@@ -7617,10 +7617,10 @@ recording:
       u: Trofaiach, is that in Yiddish?
     - who: Isaac Wolf
       start: '00:36:54.781'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: No, there is a German...that is the name of it, Trofaiach. That is a village...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:36:58.115'
       u: Yes.
     - who: Isaac Wolf
@@ -7961,10 +7961,10 @@ recording:
       u: And brought back?
     - who: Isaac Wolf
       start: '00:41:57.563'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Yes.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:41:57.805'
       u: Nu?
     - who: Isaac Wolf
@@ -8166,10 +8166,10 @@ recording:
       u: That was in Coblenz? [Name apparently incorrect.]
     - who: Isaac Wolf
       start: '00:43:50.779'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: In Coblenz...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:43:51.250'
       u: Yes.
     - who: Isaac Wolf
@@ -8588,10 +8588,10 @@ recording:
       u: In...in...
     - who: Isaac Wolf
       start: '00:49:59.222'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: I was there, in Cremona...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:50:01.969'
       u: "[Words not clear]."
     - who: Isaac Wolf
@@ -8769,10 +8769,10 @@ recording:
       u: What does one do when one walks? Did people converse? Or...
     - who: Isaac Wolf
       start: '00:51:32.029'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: No, nothing! We walked so silently. We put handkerchiefs into the mouth...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:51:37.256'
       u: Hm.
     - who: Isaac Wolf
@@ -8805,10 +8805,10 @@ recording:
       u: I got married in...eh...I have been married one year. In Budapest.
     - who: David Boder
       start: '00:51:52.244'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: You got married in Budapest?
     - who: Isaac Wolf
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:51:54.055'
       u: In Budapest I got married.
     - who: David Boder
@@ -8926,10 +8926,10 @@ recording:
       u: Yes.
     - who: Isaac Wolf
       start: '00:53:02.159'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: And then we...we had arrived in Merano.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:53:06.101'
       u: Nu?
     - who: Isaac Wolf
@@ -10149,10 +10149,10 @@ recording:
       u: No, not...not...not that.
     - who: David Boder
       start: '01:10:15.933'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Not that.
     - who: Isaac Wolf
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:10:16.766'
       u: Not that.
     - who: David Boder

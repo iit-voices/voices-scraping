@@ -20,7 +20,7 @@ recording:
   location: Paris, France
   languages:
   - Spanish
-  duration: '00:15:04.620375'
+  duration: '00:15:04.620'
   spools:
   - 9-43A
   audio:
@@ -972,13 +972,13 @@ recording:
     interview:
     - who: David Boder
       start: '00:00:01.087'
-      end: '00:00:36.16'
+      end: '00:00:36.160'
       u: "[In English] This is Spool 43 taken from Mr. Henry Sochami, 38 years old,
         tattoo number 109752 triangle, meaning Jewish, a tattoo of the camp of Auschwitz.
         He will speak Spanish, he can speak German but it’s rather...slow, and we
         prefer to use the language he can speak most fluently."
     - who: David Boder
-      start: '00:00:36.16'
+      start: '00:00:36.160'
       end: '00:00:44.492'
       u: "[In Spanish] Er...Mr. Sochami, tell me where you were born, and what your
         nationality is."
@@ -996,10 +996,10 @@ recording:
       u: In Salonica.
     - who: David Boder
       start: '00:00:54.682'
-      end: 00:00:55.485x
+      end: '00:00:55.485'
       u: Right.
     - who: Henry Sochami
-      start: 00:00:55.485x
+      start: '00:00:55.485'
       end: '00:00:57.676'
       u: We were later deported...
     - who: David Boder

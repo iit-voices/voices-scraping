@@ -23,7 +23,7 @@ recording:
   languages:
   - Yiddish
   - German
-  duration: '01:02:34.893625'
+  duration: '01:02:34.893'
   spools:
   - 9-11
   - 9-12A
@@ -39,11 +39,11 @@ recording:
     interview:
     - who: David Boder
       start: '00:00:01.775'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[In English ] This is Spool number eleven, taken the 31st of July, 1946,
         in a suburb of Paris, Chateau de..."
     - who: Jurek Kestenberg
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:00:12.487'
       u: Boucicaut.
     - who: David Boder
@@ -201,14 +201,14 @@ recording:
       u: Iron [Zelazna] Street and Leszano [Street] and so forth.
     - who: David Boder
       start: '00:03:38.802'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: All such...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:03:40.827'
       u: Go on.
     - who: Jurek Kestenberg
@@ -221,10 +221,10 @@ recording:
       u: Soldiers.
     - who: Jurek Kestenberg
       start: '00:03:46.494'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Soldiers. They sent them, and they were grabbing on the streets.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:03:50.601'
       u: Hm.
     - who: Jurek Kestenberg
@@ -298,10 +298,10 @@ recording:
       u: Bagatelle Street.
     - who: Jurek Kestenberg
       start: '00:05:11.912'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Bagatelle Street. All right, nu?
     - who: Jurek Kestenberg
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:05:15.442'
       u: Bagatelle Street.
     - who: David Boder
@@ -553,10 +553,10 @@ recording:
       u: Hm.
     - who: Jurek Kestenberg
       start: '00:09:16.402'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: And the uncle was...was shot.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:09:20.202'
       u: Hm.
     - who: Jurek Kestenberg
@@ -1269,11 +1269,11 @@ recording:
       u: And the women and men were kept together?
     - who: Jurek Kestenberg
       start: '00:23:10.712'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: No, no separately. The women were taken separately into a room and the men
         separately. They were undressed nude.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:23:15.891'
       u: Hm.
     - who: Jurek Kestenberg
@@ -1664,11 +1664,11 @@ recording:
       u: "[Words not clear]"
     - who: Jurek Kestenberg
       start: '00:29:58.521'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: ". . . in the...such...in such special holders...holders [carrying-buckets]
         And so with that people had to trot."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:30:05.330'
       u: Hm.
     - who: Jurek Kestenberg
@@ -1861,7 +1861,7 @@ recording:
       u: Yes.
     - who: Jurek Kestenberg
       start: '00:32:54.391'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: ". . . that the lager is to be evacuated. The same night when it was said
         that the lager is being evacuated, we saw at night that the women...from the
         lager of the women there had left eight dark trucks covered entirely with
@@ -1874,7 +1874,7 @@ recording:
         We had to go by such a house. It was quite openly written. Outside was written
         ‘Gas Chamber.’ Everyone could see."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:33:45.748'
       u: Hm.
     - who: Jurek Kestenberg
@@ -1899,11 +1899,11 @@ recording:
       u: Yes.
     - who: Jurek Kestenberg
       start: '00:34:17.539'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Twenty-two barracks. There were four fields. Every field was separated from
         the other with a wire [fence]
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:34:25.062'
       u: Hm.
     - who: Jurek Kestenberg
@@ -1972,10 +1972,10 @@ recording:
       u: And...
     - who: Jurek Kestenberg
       start: '00:36:06.327'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: We carried...there was an ammunition factory.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:36:09.590'
       u: Hm.
     - who: Jurek Kestenberg
@@ -2124,11 +2124,11 @@ recording:
       u: Yes?
     - who: Jurek Kestenberg
       start: '00:38:19.268'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: And he told me so frankly that there is not a bit of hope. I have to...I
         have to bid good bye to the father.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:38:26.005'
       u: Hm.
     - who: Jurek Kestenberg
@@ -2246,31 +2246,31 @@ recording:
       u: Was that not Treblinka?
     - who: Jurek Kestenberg
       start: '00:41:48.668'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: No, no, not Treblinka.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I went Majdanek to Skarzysko, a work lager.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In Treblinka one did not work. In Treblinka one was soon exterminated.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:41:55.759'
       u: Aha.
     - who: Jurek Kestenberg
       start: '00:41:55.759'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: And after thirteen months it was found out that the Russians are steadily
         approaching the lager. The Russians are approaching. Shooting was already
         heard. Day and night we saw fire in the distance. And so everybody thought
@@ -2280,7 +2280,7 @@ recording:
         where everybody watched. If one should be missing, nobody would be evacuated.
         He would be searched for so long until he was found.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:42:17.082'
       u: Hm.
     - who: Jurek Kestenberg
@@ -2336,7 +2336,7 @@ recording:
       u: Yes.
     - who: Jurek Kestenberg
       start: '00:46:33.564'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: And so all of us, all the prisoners...there were in the camp perhaps...I
         don’t know exactly how many people there were. I know there were many thousand
         people. There were perhaps twenty, thirty thousand people at that time in
@@ -2347,7 +2347,7 @@ recording:
         work had become harder, because we had to rebuild everything that the...the
         Americans had destroyed.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:47:15.715'
       u: Nu?
     - who: Jurek Kestenberg
@@ -2368,19 +2368,19 @@ recording:
       u: When you were rejoicing in the lager, didn’t the SS see that? You were...
     - who: Jurek Kestenberg
       start: '00:48:14.022'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: The SS saw [it], but they couldn’t do anything [about it], because the people
         came home from work...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:48:17.843'
       u: Hm.
     - who: Jurek Kestenberg
       start: '00:48:17.843'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Various people were working. A part of the people worked outside...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:48:22.449'
       u: Hm.
     - who: Jurek Kestenberg
@@ -2398,11 +2398,11 @@ recording:
       u: Yes.
     - who: Jurek Kestenberg
       start: '00:48:50.574'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: And so the people who were working outside, returning to the lager, they
         told [us] everything that they had heard.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:48:56.266'
       u: Hm.
     - who: Jurek Kestenberg

@@ -21,7 +21,7 @@ recording:
   location: Paris, France
   languages:
   - Spanish
-  duration: '00:17:29.7566875'
+  duration: '00:17:29.756'
   spools:
   - 9-21B
   audio:
@@ -403,10 +403,10 @@ recording:
         lo he puesto en una escuela francesa dónde está aprendiendo un oficio.
     - who: David Boder
       start: '00:13:56.345'
-      end: 00:13:58.199x
+      end: '00:13:58.199'
       u: "¿Qué oficio está aprendiendo?"
     - who: Nino Barzilai
-      start: 00:13:58.199x
+      start: '00:13:58.199'
       end: '00:13:59.888'
       u: Ebanistería.
     - who: David Boder
@@ -920,10 +920,10 @@ recording:
         not found a house to settle. My son is learning a trade in the French school.
     - who: David Boder
       start: '00:13:56.345'
-      end: 00:13:58.199x
+      end: '00:13:58.199'
       u: What trade is he learning?
     - who: Nino Barzilai
-      start: 00:13:58.199x
+      start: '00:13:58.199'
       end: '00:13:59.888'
       u: Woodworking.
     - who: David Boder

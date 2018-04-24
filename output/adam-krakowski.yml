@@ -126,10 +126,10 @@ recording:
       u: Sie waren im Lager...
     - who: David Boder
       start: '00:01:14.697'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Hm.
     - who: Adam Krakowski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:01:16.386'
       u: ". . . im Vernichtungslager."
     - who: David Boder
@@ -433,10 +433,10 @@ recording:
       u: Privat Unterricht.
     - who: David Boder
       start: '00:05:09.225'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Sie haben privat unterrichtet die Kinder?
     - who: Adam Krakowski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:05:10.356'
       u: Unterrichtet.
     - who: David Boder
@@ -1408,10 +1408,10 @@ recording:
       u: Und, hm...wie haben die Männer gefühlt, dass sie waren weg von den Frauen?
     - who: Adam Krakowski
       start: '00:15:44.085'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Ganz schlecht, aber...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:15:47.025'
       u: Hm.
     - who: Adam Krakowski
@@ -1437,10 +1437,10 @@ recording:
       u: Von zwei und vierzig (42) bis vier und vierzig (44).
     - who: David Boder
       start: '00:16:02.176'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Bis vier und vierzig (44).
     - who: Adam Krakowski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:16:03.307'
       u: Ja.
     - who: David Boder
@@ -2154,10 +2154,10 @@ recording:
       u: Aha. Und UNRRA hat die Leute auch mit genommen?
     - who: Adam Krakowski
       start: '00:25:32.471'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Ja. Die so gehen konnten.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:25:34.491'
       u: Ja.
     - who: David Boder
@@ -2284,10 +2284,10 @@ recording:
       u: Das weiß ich nicht genau.
     - who: David Boder
       start: '00:26:39.505'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Sie wissen nicht genau.
     - who: Adam Krakowski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:26:41.072'
       u: Ja.
     - who: David Boder
@@ -3032,18 +3032,18 @@ recording:
       u: They were in the lager...
     - who: David Boder
       start: '00:01:14.697'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Hm.
     - who: Adam Krakowski
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . in an extermination camp."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Extermination camp?
     - who: Adam Krakowski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:01:16.386'
       u: Yes.
     - who: David Boder
@@ -3258,14 +3258,14 @@ recording:
       u: Yes. Were the Poles...the Poles friendly toward the Jews?
     - who: Adam Krakowski
       start: '00:04:18.311'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[Chuckle.] Not very."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Speak louder, please.
     - who: Adam Krakowski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:04:21.176'
       u: "[Chuckle.] Not very."
     - who: David Boder
@@ -3361,10 +3361,10 @@ recording:
       u: Privately [words not clear].
     - who: David Boder
       start: '00:05:09.225'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: You were teaching [tutoring]?
     - who: Adam Krakowski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:05:10.356'
       u: Teaching.
     - who: David Boder
@@ -3624,10 +3624,10 @@ recording:
       u: Vermin.What kind of vermin?
     - who: Adam Krakowski
       start: '00:07:53.752'
-      end: '00:07:56.4368'
+      end: '00:07:56.436'
       u: Fleas. There were as yet no lice there.
     - who: David Boder
-      start: '00:07:56.4368'
+      start: '00:07:56.436'
       end: '00:07:58.140'
       u: How come?
     - who: Adam Krakowski
@@ -3675,18 +3675,18 @@ recording:
       u: Was that called in German, too, Appell?
     - who: Adam Krakowski
       start: '00:08:24.358'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Yes.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:08:24.886'
       u: Yes.
     - who: Adam Krakowski
       start: '00:08:24.886'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Appell.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:08:27.072'
       u: And?
     - who: Adam Krakowski
@@ -3703,10 +3703,10 @@ recording:
       u: Nu, they loaded us on trucks, and we went to work.
     - who: David Boder
       start: '00:08:36.163'
-      end: '00:08:38.87'
+      end: '00:08:38.870'
       u: Not so fast. Wait a moment. Did you get dressed?
     - who: Adam Krakowski
-      start: '00:08:38.87'
+      start: '00:08:38.870'
       end: '00:08:39.284'
       u: Yes.
     - who: David Boder
@@ -4313,10 +4313,10 @@ recording:
       u: We worked there at the airplane engines. Mostly odd jobs.
     - who: David Boder
       start: '00:15:12.878'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Odd jobs. And where did you live? Where did you sleep?
     - who: Adam Krakowski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:15:16.617'
       u: Yes.
     - who: Adam Krakowski
@@ -4355,10 +4355,10 @@ recording:
       u: And...eh...how did the men feel being away from women?
     - who: Adam Krakowski
       start: '00:15:44.085'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Very bad, but...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:15:47.025'
       u: Eh...
     - who: Adam Krakowski
@@ -4384,10 +4384,10 @@ recording:
       u: From ’42 to ’44.
     - who: David Boder
       start: '00:16:02.176'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: To ’44.
     - who: Adam Krakowski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:16:03.307'
       u: Yes.
     - who: David Boder
@@ -5112,14 +5112,14 @@ recording:
       u: Hm, and the UNRRA took the people?
     - who: Adam Krakowski
       start: '00:25:32.471'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Yes.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Whoever could go.
     - who: Adam Krakowski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:25:34.491'
       u: Yes.
     - who: David Boder
@@ -5246,10 +5246,10 @@ recording:
       u: I don’t know exactly.
     - who: David Boder
       start: '00:26:39.505'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: You don’t know exactly. So then you went voluntarily back to Poland?
     - who: Adam Krakowski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:26:41.072'
       u: Yes.
     - who: David Boder
@@ -5852,18 +5852,18 @@ recording:
       u: Become a soldier.
     - who: David Boder
       start: '00:34:25.235'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Hm.
     - who: Adam Krakowski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:34:28.910'
       u: Fight.
     - who: David Boder
       start: '00:34:28.910'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: All right.
     - who: Adam Krakowski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:34:29.826'
       u: "[Words not clear.]"
     - who: David Boder

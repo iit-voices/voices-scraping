@@ -20,7 +20,7 @@ recording:
   location: Paris, France
   languages:
   - Russian
-  duration: '01:59:17.7866875'
+  duration: '01:59:17.786'
   spools:
   - 9-45B
   - 9-46
@@ -544,14 +544,14 @@ recording:
       u: Так.
     - who: Jacques Bramson
       start: '00:16:00.810'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: ". . . все бюро были перевезены в Виши."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Ну, потом что?
     - who: Jacques Bramson
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:16:19.473'
       u: Эээ...В период демобилизации целая группа молодых военных решила организовать...эээ...[пауза]
         такое сотрудничество...
@@ -1342,13 +1342,13 @@ recording:
         кормить сотни и сотни людей.
     - who: David Boder
       start: '00:38:41.728'
-      end: '00:39:34.57'
+      end: '00:39:34.570'
       u: "[In English] This concludes...this concludes Spool 45 of the report of Mr.
         Bramson, and we shall continue on Spool 46. Paris, August, 194— [tape break]
         Paris, August, 1946, the 16th of August. We are changing spools for the continuation
         of Mr. Bramson’s report."
     - who: Herman Barnett
-      start: '00:39:34.57'
+      start: '00:39:34.570'
       end: '00:40:57.553'
       u: Spool 46, Spool 46. Recording starts in about one minute. Spool 46, this
         is Herman Barnett.
@@ -1846,7 +1846,7 @@ recording:
       u: А каким...как вы получали свои продукты?
     - who: Jacques Bramson
       start: '00:56:10.242'
-      end: '00:56:50.81'
+      end: '00:56:50.810'
       u: 'Наши продукты нам пос...эээ...приходило на помощь местное население. Происходило
         это таким образом: у нас по всем деревням были подпольные [пауза] были подпольные
         организации. Эти подпольные организации собирали у крестьян продукты или покупали
@@ -1854,7 +1854,7 @@ recording:
         отправлялись туда или с автомобилями, или прямо на спине и переносили все
         эти продукты в лагеря.'
     - who: David Boder
-      start: '00:56:50.81'
+      start: '00:56:50.810'
       end: '00:56:51.343'
       u: Так.
     - who: Jacques Bramson
@@ -3661,10 +3661,10 @@ recording:
       u: "[Неразборчиво]"
     - who: Jacques Bramson
       start: '01:48:56.384'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[Неразборчиво] и под полицейским присмотром тоже."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:48:56.384'
       u: Так. И что, надо было просить разрешение?
     - who: Jacques Bramson
@@ -3707,11 +3707,11 @@ recording:
       u: Ага.
     - who: Jacques Bramson
       start: '01:50:02.385'
-      end: 01:50:15.351x
+      end: '01:50:15.351'
       u: Должен сказать, что среди...эээ...немецких заключенных старых политических
         много [неразборчиво] было 20 %.
     - who: David Boder
-      start: 01:50:15.351x
+      start: '01:50:15.351'
       end: '01:50:18.078'
       u: Это полититческие?
     - who: Jacques Bramson
@@ -6918,95 +6918,95 @@ recording:
         out against the Maquis, and you proposed to the officer that they surrender.
     - who: Jacques Bramson
       start: '01:20:59.835'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: No that was not exactly so [unintelligible].
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Not so? [?]
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: No [?]. You see I was driving in one car for reconnaissance.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And we encountered the first motorcycle men—also reconnaissance men. And
         among them was one officer. And when...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They were of the enemy?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . of the enemy. And when I made contact with this officer, he all at
         once stood up at attention, and says: “Officer Germer so-and-so,” and adds
         afterwards in a low voice: “And of the Secret Army.” The Secret Army was our
         organization."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And then..
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . and this official was with the enemy?"
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: 'And the most funny part of it is that afterwards he tells me: “The commander
         of our whole detachment, the Colonel is also of the Secret organization.”'
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[laughter] And so I managed to arrange with this colonel the following trick:
         they maneuvered during a whole week around us. We did not see them, and they
         did not see us. And after a week, after they spent all their gasoline which
         was given to them, they drove away."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Aha.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And such episodes, we had very many.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: This sounds interesting. The fact is that they did not expend their arms...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . but spent the gasoline."
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes. [he continues with sounds of laughter]
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And then?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In general...they departed. A second interesting phenomenon of which, most
         foreigners are unaware, is that we had organized among our Maquis the future
         Administration of Security of the country. Amidst our Maquis we had the future
@@ -7018,41 +7018,41 @@ recording:
         one cited by Mr. Bramson, a former resistance leader became a prefect. In
         a number of others, de Gaulle’s representatives assumed local power.38
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Why did you fight the black market during the Germans?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: We fought against the black market, because mostly suffered from it not the
         Germans, but the French population.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And we considered it our duty to ease the life of the French population,
         because it must be said that the population suffered very strongly from our
         presence...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: From your presence...?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Because the Germans constantly took recourse to reprisals against the peaceful
         population, against children, women, and in general against people to whom
         all that was of no concern.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: On the other hand, we fought the black market because we knew that the black
         market was a phenomenon which corrupted the population and which would leave
         its imprint for a long time. And we were not mistaken. We see what now is
@@ -7060,95 +7060,95 @@ recording:
         scarcity, the illicit trade in goods and services flourished.39 The imprints
         of this period will remain, I think, for about ten years.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So. I should like that you tell me later something about the present status
         of the black market, but now I want you to go over biographically and politically
         to your own story. Now then, when were you arrested?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: When I was arrested—that is a whole rather complicated story. In July ’43
         I was appointed commander of the Maquis of the southern district of Vendôme.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Where about is that?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: This is a district located between Limoges and Bordeaux.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So, what was your rank? Did Maquis have ranks?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes. There were ranks. If one takes so to speak my rank, so normally it would
         have corresponded say to a colonel in the service [?].
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: It is very difficult to define, establish.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: We had...in our inner, inner organization, I was the commander of the camp,
         I had several officers assigned to me, there were also officers in the other
         camps which were subordinate to me, but we, in order not to be confused with
         the official, normal army...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . we officially did not assume any ranks..."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . but we called ourselves chiefs, such and such a chief, and such and
         such..."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: At that time, in order to fight our partisan details, with which the regular
         army was unable to cope...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . because we were hiding in the forests, and they needed to fight us
         the light [mobile] not the heavy components of the German army, the Germans
         moved into this district an organized Grusian Legion. [?]"
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[with great surprise] Oh!..."
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: This Grusian Legion consisted of Grusians who were taken prisoners in the
         Crimea. The Germans either used to shoot them or forced them to join such
         regiments.Bramson is referring to Georgians. (“Gruziya” is the Russian name
@@ -7158,150 +7158,150 @@ recording:
         of Georgians who emigrated to Western Europe after the Soviet invasion of
         Georgia in 1921, along with Georgian prisoners of war from the Red Army.40
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: As soon as this Legion appeared in our...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: How many were there of them in this Legion?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In this Legion there were around three thousand of them; of them nine hundred
         men were located in the city of Périgueux.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And they were there with [their] officer?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They were there with [their] officers.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . mounted on horses?"
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: No, they were “light” infantry details, which were transported on trucks.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: These Grusian details appeared to be not too loyal to the Germans. Just in
         a few days, after their arrival in our district we had already turncoats.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They spoke Russian?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They spoke mostly Grusian. There were some intelligent elements, not very
         numerous, and they spoke also Russian.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And so they started to turn over?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . to turn over, and we then formed a special small Grusian detail."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: From these turncoats?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes. The turncoats were mostly officers.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And through these officers I managed to make contact with the colonel, the
         Grusian who was in command.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . Well."
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: 'He was in command only theoretically, he maintained the “inner” discipline.
         The real command was in the hands of a German officer. Each company had a
         German officer, and the “inner” discipline was maintained by Grusian officers.
         And then I conceived the idea: would it not be possible to get over this whole
         Grusian Legion on our side?'
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And so the chief who was in command of the whole district...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . a Frenchman?"
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: A Frenchman—went to obtain permission for it from the central command which
         was located in Limoges.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And why was a permission necessary?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well, we needed the means to maintain nine hundred men more.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: We needed the means to clothe them, to “shoe” them, for all that we needed
         a budget, etc. This was a very complex organization.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: After that Limoges made inquiries in Paris, the permission was given...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The underground in Paris?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . the permission was given, and we then entered in contact with the
         Grusian officers. Everything was prepared beforehand, and I left for the city
         of Périgueux by automobile with my chief, and with one of my officers—assistants,
@@ -7312,267 +7312,267 @@ recording:
         by hidden German SS, or members of the Gestapo. I together with my chief and
         my assistant had the misfortune to have alighted from the automobile."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I was wounded, and before being wounded the chief of the Gestapo in the act
         of defense, and our men who remained in the car, had time to open fire and
         to break through the encirclement.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I was half-conscious, I was transferred first to the Gestapo and afterwards—since
         I was taken prisoner by the military—[I was taken] to a German military hospital.
         There I was given first aid, I suffered here a broken bone. [he apparently
         points to his forehead]
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Where—above the eye?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Above the eye [unintelligible] and besides my eye was hanging out, and I
         also had a bayonet stab in my hand.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The German military, the actual military treated me most correctly, exceptionally
         correctly. The German officer at the scouting detail [?] was also very correct
         [a correct person] and during the two days that I spent in their house—I have
         no right to complain—they treated me like any military officer. But afterwards
         I was transferred to the SD prison.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What is SD?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Of the Gestapo.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Why was it called SD?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Sicherheitsdienst.The Sicherheitsdienst (also called SD, or Security Service)
         was an intelligence organization which served the SS and the Nazi party. At
         the outbreak of the war the Gestapo were brought into the same overall Nazi
         police organization as the SD, so the barbaric SD torturers who inflicted
         so much pain on Mr. Bramson could also be viewed as officers of the Gestapo.41
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh...yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The Gestapo abroad was called Sicherheitsdienst.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: There the treatment changed markedly. But in Périgueux we were still treated
         with sufficient correctness, except for the grillings. At the questions I
         suffered less—at the first grilling—than my comrades...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Why?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Because I was wounded.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So that although I was beaten, they did not submit me to great tortures at
         the first grilling.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What do you call great torture?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In great tortures, you were hung for several hours by your hands; you were
         put into cold water, you would be submerged in water until you would lose
         consciousness, they would beat you...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What did they have there, bathtubs?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They used ordinary bathtubs.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So, and what...?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And besides they would beat you terribly. I at the first questioning was
         simply crippled [?].
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Who was doing that? The grilling personnel themselves or did they have helpers?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: During the grilling that was done by the questioning officers themselves.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: But when blows would not help, the tortures were performed by agents of the
         Gestapo.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes. And so at the first grilling...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The first was comparatively...at the first grilling I got away with a few
         slaps in the face, a few kicks, etc.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Do you remember the dialogue at that grilling? Were you grilled in French?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I was grilled in French because I pretended that I do not understand any
         German. That gave me a chance—knowing already the question while the interpreter
         translated it—to prepare the answer.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And so, the question...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And the interpreter behaved neutrally?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The interpreter in most cases was some wounded German officer, who knew the
         French language, and in most cases they were rather correct.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Or there were civilian interpreters. There were even some French Gestapo
         interpreters.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And so. I...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What did they ask you?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The first grilling took place when I was wounded, and I was very lucky, because
         it was a so-called questioning about identity.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They asked for name, surname, rank, whether or not I was an officer of the
         regular. They asked whether I consider myself as a partisan. I said I was
         a “regular” officer; I wore my uniform.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So. What name did you give?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I gave my right name, because I had on me all kind of papers forged as well
         as authentic.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: But my military papers were in my real name.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So. And they stated that you were from Russia?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: It was stated that I was born in Russia.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: But this was not important since my name sounds sufficiently French—it was
         of no importance.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Bramson [pronounced in Russian].
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Bramson [pronounced in French], and so that was not important.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: But I had...I wanted it that way, because I was wounded...I had on me official
         military documents. I did not want to be taken for a partisan. Since I considered
         myself anyway a doomed man, since I had wounded the Chief of the Gestapo,
@@ -7580,31 +7580,31 @@ recording:
         than hang me like a dog. [he laughs]...At the first grilling I managed to
         avoid an important fact. I was grilled by an officer of the German counter-intelligence.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: 'And to him the question of a Jew or not a Jew was of no interest whatsoever.
         So when he came to the section where the questionnaire dealt with race or
         religion, he all at once asked me such a question: “Are you a Protestant or
         a Catholic?”'
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh...! And what did you say?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And I calmly replied that I was a Protestant.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And so I was registered and since then I was not questioned about race up
         to my transfer to Compiègne.The Nazi racist ideology incorrectly viewed the
         Jews as a “race” when in fact they are members of a religion and a people.
@@ -7615,121 +7615,121 @@ recording:
         to deliver us [from captivity] and the Gestapo in Périgueux went up in the
         air.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: That is it was bombed?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: It was bombed. The Gestapo and the quarters of the Gendarmerie in Périgueux.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: But since very many German officers were wounded on the occasion we were
         tried and sentenced to death.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Who was tried, all who...?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Three [persons], the three of us.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: You, your French chief, and...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . and my assistant."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[unintelligible]"
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . and were sentenced to a military execution. The next morning after
         the bombing, (we were tried in the evening), they came to look for us, and
         I thought that we were lead to be shot. But instead of leading us to be shot
         we were transferred to a prison in Limoges."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: This was a larger town, there was relatively a large garrison, where they
         were less in fear of an attack by the partisans, because after the incident
         with the Gestapo they were afraid that in Périgueux that partisans may attack
         the city and set us free.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Now I have a question, I want to ask you a question as a psychologist.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: You were expecting during the night to be shot, is that so?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I thought that we will be shot in the next morning.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Did you then make some evaluation...what were you thinking about before “being
         shot.”
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I, I must tell you, hardly thought of anything.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: You were suffering of wounds.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: 'I was wounded, and when I was told, when they told me “condemned”: so I
         figured—we had so much talk among ourselves about such indescribable tortures,
         about such unusual beatings to which people were subjected before being shot—so
         that I, so to speak felt that now everything was over, I was even contented.'
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I even may say that I slept marvelously well.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: You slept through...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They came afterward to look for us at ten o’clock in the morning, and they
         had to shake me in order to wake me up.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So...and then you went through [unintelligible]...obviously for them it was
         not a night before an execution, they...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: No, apparently we...they had decided not to shoot us. I later found out that
         great representations were made in our behalf, and that the government in
         Algeria had declared that if we should be executed [shot] they in turn will
@@ -7738,298 +7738,298 @@ recording:
         forces, and General Rommel’s German army had been defeated by the English
         and Americans in Tunisia.43
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh...So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So we were transferred to Limoges and in Limoges the grillings started anew.
         The grillings in Limoges were terrible. I was “hung up” three times.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: How did they “hang up”?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They hung us up simply this way. They would handcuff your hands behind you...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . a hook between the handcuffs, and you were raised up in the air."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What was then the position of the hands?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[apparently demonstrating] That is how you would hang, the hands behind
         the back."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The hands could not...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . stretched out above the head...no that was impossible...If one would
         raise his hand a fracture would immediately occur."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The majority of my comrades to say in passing—had their hands fractured,
         as a consequence of it.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In what place were they fractured?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Right here....
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In the shoulder?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In the shoulder.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In that period—now it is hard to recognize me—I was much healthier, and I
         was a very good sportsman.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I managed all three times—in spite of the fact that at the end I would lose
         consciousness—still to support myself somehow on my muscles.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So there was a special trick to it, to prevent fracture in the arms.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes. This was only possible if one maintained his body so that it’s weight
         should not pull too much on this place.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: That there be not too much tension on the shoulders.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: On the shoulders.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And so I managed to save my hands.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: After these three sessions of grilling.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What were they grilling you about?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well, they wanted first of all military information, and first of all the
         names of the members of the secret organization.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And what would you say to them?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I said nothing.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And you did not try, so to speak to bluff to them?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The first time even did not I try to bluff them because I knew they will
         check up, they checked on all information.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . and I did not have yet a sufficiently prepared plan. They caught me
         by surprise."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh yes. And how about afterwards?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Afterwards they—after the three sailors [?]—when they had tortured me beyond
         measure, they decided to give me some rest. And I had a week’s rest, during
         which I, so to speak, I had a chance, so to speak, to recuperate a bit.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes. And where were your two comrades?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: My comrades were grilled separately. One of them attempted suicide, and the
         other succumbed during the grilling. He could not stand the torture.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Meaning what—he died?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh, that I could not tell you. I was not present at the incident.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh yes. What did they beat with generally?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They beat with rifle butts, with clubs, with whatever they could lay their
         hands on. Once they smashed over my head a piece of marble which covered a
         night table, which happened to stand around.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: You know these little night tables at the beds.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes. So he broke that marble over your head? So?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: After that I was again taken for grilling. This time I had a prepared plan...[there
         is a break in the interview].
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: You had a prepared plan.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes this time I had a prepared plan, and I told them approximately things
         of which I was sure that they knew already.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I did not give them anything new, but on the contrary directed them toward
         a completely false track.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: This gave me a breathing spell of three weeks, after which they had made
         a check-up and recognized that I had told them cock-and-bull stories.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: After that they simply [unintelligible] took me over there and beat me up
         like a dog, and after that there was no more grilling. However after this
         beating, instead of keeping me in a “normal” cell, I was thrown, I was isolated
         in a cellar, without light, without air, without anything. And I...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What kind of a cellar, in what kind of a building?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: That seems to have been in a prison, in prison.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So. And were there other people?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: No, I was there alone; I was kept isolated all the time.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And did they bring you food?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Food. They fed me well, because we were fed by the French Red Cross.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh, the Red Cross was permitted...?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: No, not to visit, but to feed us—yes.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They permitted?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, all political prisoners were fed by the Red—French—Cross.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: After that I spent two months in this dungeon after that, before we were
         transferred to Compiègne, a month before I was transferred to a common hall...This
         common hall was a cell of three meters by two, where we were seven people
@@ -8038,20 +8038,20 @@ recording:
         and moreover, they began to take us for walks. We were able to promenade for
         a quarter of an hour daily in a little yard, in the prison.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Where was that?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In Limoges.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: One nice morning we were told that we will be transferred from Limoges to
         Compiègne, from which we were to be transported further into Germany. Compiègne
         was a central lager where were concentrated all prisoners without exception,
@@ -8063,12 +8063,12 @@ recording:
         the key transportation point for Jews to annihilation camps in Poland, mainly
         Auschwitz.44
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In Compiègne I spent only one day. By some miracle I passed the examination
         for race...race qualification, and registered as a Frenchman, I found myself
         in a train with twenty-five hundred men destined for Buchenwald. We were placed
@@ -8076,204 +8076,204 @@ recording:
         a small four-wheel freight car with a stove in the center, adapted for the
         transportation of soldiers and people in general.45
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: A freight car.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: A freight car. On the way there were several attempts at escape. Several
         people were killed. Several people...at our arrival we found several people
         suffocated in the car.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: How long were you in the car.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: We spent in the car three days.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Did they let you out for the toilet?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: No, the car was locked. It was opened only once when we arrived in the city
         of Trier.Trier is a city in far western Germany not far from the border of
         Luxembourg on the Mosel River.46 There the door was opened for ten minutes,
         and that was the only time when we were given a bit of soup...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: To sip. Otherwise the car was all the time sealed.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And how about your toilet needs, how were they satisfied?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The toilet needs were unfortunately taken care of in the car.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Were there only men?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: There were only men. The cars of the women were behind.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The women were transported further.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In Buchenwald...we were shaved.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: How?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: We were washed all...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . the whole body?"
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . the whole body and we were sent to the so-called quarantine lager.
         The quarantine lager was a real nightmare. And we were...to describe it to
         you: there were blocks calculated for a hundred and twenty people. We were
         allocated approximately seven hundred to each."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: On plank-beds calculated for three people they would assign eleven.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: There was no medical service whatsoever. We were dressed in those terrible
         frosts—in a shirt; above that some pajama-like clothes...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And the head was completely shaved.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Now tell me, did you have any clothes with you?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: |-
         All our things were taken from us at the entrance to the Buchenwald
                                 lager.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well, did you have some things before [when] you were arrested accidentally
         on the street?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: At the beginning I had no things. But afterwards when my arrest became...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . known..."
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . known, they sent me through the Red Cross a package of things. Officially
         the Gestapo did not want to deliver to me this package of things, but one
         of the keepers on his own initiative brought me a part of the things."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And in Buchenwald they again took it away.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And in Buchenwald they took away completely everything.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They gave us each a spoon, which we had to drag all the time in our pocket,
         and like I have described—for shoes they gave us “step-ins”.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: That is what?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They are a kind...wooden soles, with cloth above, which hold them to the
         feet.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Slippers.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They are not slippers.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They are something undefinable, resembling Dutch footwear.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I did not remain for a long time in this lager. The whole inner management
         of the lager was organized by the prisoners themselves. The SS entered the
         lager almost exclusively to supervise the chores which were done, in part,
@@ -8285,20 +8285,20 @@ recording:
         prisoner capos from their posts, and gradually political prisoners were able
         to take over the camp’s internal administration under SS supervision.47
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So, you were in a French block?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: From the beginning it was a general quarantine block.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: But thanks to the fact that I had numerous acquaintances among the members
         of the French Resistance, those comrades who were already for a comparitively
         long time in Buchenwald took steps that I be transferred as soon as possible
@@ -8307,113 +8307,113 @@ recording:
         whom Mr. Bramson speaks. By 1943, these groups united in a general underground
         movement called the International Underground Committee.48
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: From the quarantine?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: From the quarantine. And I spent only a month in the quarantine, and that
         possibly saved my life.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And how much time did the others spend there?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: There were people who spent there five or six months.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Why? What was going on?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Because there was not enough room in the big [main] lager. In the big lager
         living conditions were comparatively better, since [there] people worked,
         so they were given more or less a chance to sleep, or eat...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So for this reason not all were transferred but very many remained for good
         in this quarantine lager.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: During this period in the quarantine lager, I shall never forget the scene
         when we were sent to be photographed. I have described already how we were
         dressed. During a bad snowstorm we were left in this clothing for a whole
         day on a completely open square.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Why?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: To lead us one after the other to be photographed.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What for were you photographed?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: To complete our dossier.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . for the lager."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And the result of it was that approximately half of the new arrivals caught
         pneumonia. Our block of eight hundred people was transformed into a block
         of two hundred fifty, three hundred people, while all the others without exception
         “went through the chimney.”
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What do you mean by “went through the chimney”?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . “through the chimney,” in other words they died from pneumonia and
         similar causes, and they had to be sent to the crematories."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And were there crematories in Buchenwald?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes. There were crematories in all the lagers. In all the lagers where there
         were more than six thousand prisoners, there were crematories.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And did they have in Buchenwald also installations for the extermination
         of people?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: 'Installations of the kind that existed in Auschwitz were not available in
         Buchenwald. Because Buchenwald was not an extermination camp. In Buchenwald
         there was a gas chamber, but it was not located in the lager, it was located
@@ -8425,39 +8425,39 @@ recording:
         from the ceiling. It is possible that this execution by suffocation is what
         Mr. Bramson heard about.49'
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: It was used only when they wanted to annihilate somebody inconspicuously.
         But official mass exterminations such as in Auschwitz did not exist in Buchenwald.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I myself know of a case when an entire group of three—four hundred people
         were annihilated there on the spur of the moment.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In Buchenwald?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes. Buchenwald. But this did not have a systematic character as in the eastern
         [?] lagers.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What kind of a group of three hundred people was that?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: For instance, they brought over a group of Russian officers. And the next
         day it was ordered to annihilate all of them. They were led to the little
         house which we called the “little house of miracles,” where the gas chamber
@@ -8465,89 +8465,89 @@ recording:
         took place daily—but I only know—I may speak only about cases at which I was
         present myself.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Which...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Which I know. For instance I was present at the shooting of eighty parachutists,
         mostly Canadians and Frenchmen.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: It was already after the Anglo-American invasion of Europe.That is, after
         D-Day, June 6, 1944. This account of the execution of an Allied airman has
         not been substantiated. However, there were Allied airmen held at Buchenwald
         for some months, and some did in fact perish there.50
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And they were young men who formed the small squads of reconnaissance who
         parachuted [behind] enemy lines.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They, eighty men...they were brought to us, and after two weeks a search
         started for them all over the lager. We endeavored as far as possible to hide
         them in the lager, but we succeeded to save only two.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: All the others were found by the SS with the help of the management of the
         lager and they were all shot.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Where were they shot?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They were shot wherever it would happen. They were killed—when they would
         catch one, they would lead him outside the lager, and they would shoot him
         just any place. A few of them, since the SS were vexed, were hanged, and this
         in spite [of the fact] that they were sentenced to be shot.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And where did they hang them?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They hanged them—in our crematory—in the basement there was an execution
         hall. And in this hall they had hooks on which they hanged.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So. And now, what happened to you afterwards?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In the lager...compared with that which I went through in Limoges, my subsequent
         experiences in the lager were less...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So. And when were you questioned again about being a Jew?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: About that I was questioned again in Compiègne. But I don’t know how it happened—in
         spite of the fact that the grillings were mostly very severe, when my turn
         came, I was one of the last, he scrutinized my ticket, on the ticket it said
@@ -8555,52 +8555,52 @@ recording:
         stood a doctor. Only those who appeared to him suspicious the doctor ordered
         to let down their pants. I did not appear suspicious to him, and so I passed.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So...And afterwards? When were you liberated?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I was in the lager...I spent there fifteen months.The fifteen months were
         from early 1944 until April 1945.51
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So. What were you doing there?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: At the beginning I worked in the quarries.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Afterward I managed with the help of French comrades who belonged to the
         management of the camp to...and since I was one of the responsible members
         of the French organization [underground], I managed to be assigned to the
         [unintelligible] factory, as an assistant.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . a factory located within the lager.Buchenwald had over 130 satellite
         camps where prisoners were ruthlessly exploited doing slave labor. Mr. Bramson
         worked in one of them, which was an armaments factory. Many larger German
         businesses profited obscenely from prisoner slave labor in this and other
         camps.52"
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: This greatly improved my condition, and thanks to that I managed to survive,
         and even rally my strength somewhat because all my wounds which I suffered
         during the war started to open up in the camp. At the factory our situation
@@ -8608,12 +8608,12 @@ recording:
         so that we, with some comrades were able to pick up military [?] communications
         and we knew about all the movement in France, etc.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In addition we formed in the lager an inner organization, and since factories
         of arms were located within the lager, we managed also to conceal some arms.
         These arms came in handy for my comrades at a moment of an uprising in the
@@ -8623,51 +8623,51 @@ recording:
         prisoners, including about 4,000 Jews and several hundred Jewish children.
         One of them was Moses Lau, who went on to become a chief rabbi in Israel.53
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What kind of an uprising was there?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The fact was that the SS had everything ready to destroy the camp.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: When they departed, they left only a small detail of SS who were to set fire
         to the lager, and throw all [unintelligible].
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: To kill the people?
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes. This detail was disarmed by the inner organization of the lager under
         the command of Colonel Manes [?] who at present is head of the council of
         the ministry of commerce in France.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh.
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: When this occurred I was not anymore in Buchenwald.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: One moment please...
     - who: Jacques Bramson
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[continues] The fact is that about ten days before liberation, no earlier
         than that, about three weeks before the liberation in Buchwenwald..."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:20:42.776'
       u: "[In English] This is Spool 47. Mr. Bramson’s report."
     - who: David Boder

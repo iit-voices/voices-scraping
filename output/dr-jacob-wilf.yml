@@ -20,7 +20,7 @@ recording:
   - German
   - Yiddish
   - Russian
-  duration: '00:37:17.100375'
+  duration: '00:37:17.100'
   spools:
   - 9-50
   audio:
@@ -1865,10 +1865,10 @@ recording:
       u: No.
     - who: David Boder
       start: '00:02:15.774'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: In Lwow? You did not know him?
     - who: Jacob Wilf
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:02:18.110'
       u: No.
     - who: David Boder
@@ -2117,11 +2117,11 @@ recording:
       u: Yes..
     - who: Jacob Wilf
       start: '00:04:37.188'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: At the same time, after a few months’ time, I lectured on legal science in
         a school of law.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:04:46.920'
       u: Yes..
     - who: Jacob Wilf

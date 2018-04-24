@@ -22,7 +22,7 @@ recording:
   location: Paris, France
   languages:
   - German
-  duration: '00:25:49.0350625'
+  duration: '00:25:49.035'
   spools:
   - 9-27
   audio:
@@ -3052,10 +3052,10 @@ recording:
       u: And then I was [at] work on the road.
     - who: David Boder
       start: '00:07:33.611'
-      end: '00:07:35.05'
+      end: '00:07:35.050'
       u: Work on the road?
     - who: Rita Benmayor
-      start: '00:07:35.05'
+      start: '00:07:35.050'
       end: '00:07:35.471'
       u: On the road.
     - who: David Boder
@@ -3578,11 +3578,11 @@ recording:
       u: Eh, so, have you, eh, have you, was it clean, was it clean?
     - who: Rita Benmayor
       start: '00:11:55.331'
-      end: '00:11:56.56'
+      end: '00:11:56.560'
       u: Clean, yes...It is not clear what Ms. Benmajor meant by “clean” since the
         inmates had to contend with filth and lice.14
     - who: David Boder
-      start: '00:11:56.56'
+      start: '00:11:56.560'
       end: '00:11:56.951'
       u: Yes.
     - who: Rita Benmayor
@@ -3591,10 +3591,10 @@ recording:
       u: Yes, it was clean.
     - who: David Boder
       start: '00:11:59.051'
-      end: '00:12:03.94'
+      end: '00:12:03.940'
       u: You were able to wash and so on—did you have lice, fleas, lice?
     - who: Rita Benmayor
-      start: '00:12:03.94'
+      start: '00:12:03.940'
       end: '00:12:05.531'
       u: Lice, many.
     - who: David Boder
@@ -3870,14 +3870,14 @@ recording:
       u: And...
     - who: Rita Benmayor
       start: '00:15:39.108'
-      end: '00:15:40.69'
+      end: '00:15:40.690'
       u: ". . . we were all alone, the people..."
     - who: David Boder
-      start: '00:15:40.69'
-      end: 00:15:42.404x
+      start: '00:15:40.690'
+      end: '00:15:42.404'
       u: And what did you do, were there...?
     - who: Rita Benmayor
-      start: 00:15:42.404x
+      start: '00:15:42.404'
       end: '00:15:49.907'
       u: ". . . the prisoners. We walked on the street, just like that, the prisoners
         alone, and the whole day we were without guard..."

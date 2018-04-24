@@ -21,7 +21,7 @@ recording:
   location: Paris, France
   languages:
   - German
-  duration: '00:39:31.9705625'
+  duration: '00:39:31.970'
   spools:
   - 9-66
   audio:
@@ -1122,10 +1122,10 @@ recording:
       u: Ja ...
     - who: Karl Josephy
       start: '00:18:16.493'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: und meine Frau ganz woanders, nicht wahr ...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:18:18.543'
       u: "... ja ..."
     - who: Karl Josephy
@@ -1147,10 +1147,10 @@ recording:
       u: Ja, nun ...
     - who: Karl Josephy
       start: '00:18:23.957'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Dieses Kind hat uns also ...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:18:25.524'
       u: "... ja ..."
     - who: Karl Josephy
@@ -2289,13 +2289,13 @@ recording:
       u: Nun, und was tun Sie jetzt?
     - who: Karl Josephy
       start: '00:38:44.270'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Ich bin nach Paris zurück gekehrt, ich, eh, habe Arbeit bei den amerikanischen
         Okkupationsbehörden gefunden, meine Frau ist in der Schneiderei tätig, das
         ist ja ihr Beruf, wir haben endlich unser Kind bei uns und so leben wir nach
         wie vor ...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:39:00.595'
       u: Ja ...
     - who: Karl Josephy
@@ -2813,10 +2813,10 @@ recording:
       u: ".... approximately ..."
     - who: Karl Josephy
       start: '00:09:05.801'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: In those times ...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:09:07.216'
       u: "[unclear]"
     - who: Karl Josephy
@@ -3208,11 +3208,11 @@ recording:
       u: Yes, and then?
     - who: Karl Josephy
       start: '00:15:13.686'
-      end: '00:15:23.03'
+      end: '00:15:23.030'
       u: From there we were [cough] ... from the train station of Nimes we were transported
         to Les Milles which a small town near Aix ...
     - who: David Boder
-      start: '00:15:23.03'
+      start: '00:15:23.030'
       end: '00:15:23.394'
       u: Yes ...
     - who: Karl Josephy
@@ -3380,10 +3380,10 @@ recording:
       u: Yes ...
     - who: Karl Josephy
       start: '00:18:16.493'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "... and my wife somewhere else, you know ..."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:18:18.543'
       u: Yes ...
     - who: Karl Josephy
@@ -3404,10 +3404,10 @@ recording:
       u: Yes, and then ...
     - who: Karl Josephy
       start: '00:18:23.957'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: This child has ...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:18:25.524'
       u: Yes ...
     - who: Karl Josephy
@@ -4207,11 +4207,11 @@ recording:
       u: Well, how did your wife come to Belgium then during her pregnancy?
     - who: Karl Josephy
       start: '00:34:41.267'
-      end: '00:34:48.70'
+      end: '00:34:48.700'
       u: I did not know my wife at that time. My wife told me she emigrated to Belgium
         from Austria, fled also ...
     - who: David Boder
-      start: '00:34:48.70'
+      start: '00:34:48.700'
       end: '00:34:48.973'
       u: Yes ...
     - who: Karl Josephy
@@ -4500,12 +4500,12 @@ recording:
       u: Now, and what do you do now?
     - who: Karl Josephy
       start: '00:38:44.270'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: I returned to Paris, I, ah, found work with the American command, my wife
         works in tailoring, that is her occupation, we finally have our child with
         us, and so we are still ...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:39:00.595'
       u: Yes ...
     - who: Karl Josephy

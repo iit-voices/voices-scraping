@@ -18,7 +18,7 @@ recording:
   location: Bellevue, France
   languages:
   - Yiddish
-  duration: '00:31:27.3208125'
+  duration: '00:31:27.320'
   spools:
   - 9-117
   audio:
@@ -521,7 +521,7 @@ recording:
         I mean, what will you all do? Will you remain in France?
     - who: Joseph Ferber
       start: '00:12:22.776'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: No, our aim is to come to Eretz Yisroeil, [?] to Palestine, because we are
         convinced that we have no other place on this earth except in our own homeland.
         There we hope we will not be looked upon as foreign citizens. There it will
@@ -530,7 +530,7 @@ recording:
         shared by many European Jews who wanted to make their way to Palestine and
         establish an independent Jewish homeland.16
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:13:11.800'
       u: Nu, Mr. Ferber, you are, of course, an intelligent person and you are of
         course reading the papers and all that. You know what is [in English:] going...[in

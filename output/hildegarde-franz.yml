@@ -19,7 +19,7 @@ recording:
   location: München, Germany
   languages:
   - German
-  duration: '00:21:37.8944375'
+  duration: '00:21:37.894'
   spools:
   - 9-136
   audio:
@@ -451,10 +451,10 @@ recording:
       u: In Nürnberg.
     - who: David Boder
       start: '00:04:26.616'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: In Nürnberg.
     - who: Hildegarde Franz
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:04:27.319'
       u: In Nürnberg.
     - who: David Boder
@@ -840,10 +840,10 @@ recording:
       u: Ja.
     - who: Hildegarde Franz
       start: '00:08:59.619'
-      end: 00:09:03.522x
+      end: '00:09:03.522'
       u: Und da war ich sieben Wochen gelegen, weil ich so schnell abgemagert bin.
     - who: David Boder
-      start: 00:09:03.522x
+      start: '00:09:03.522'
       end: '00:09:04.022'
       u: Hm.
     - who: Hildegarde Franz

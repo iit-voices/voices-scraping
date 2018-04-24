@@ -21,7 +21,7 @@ recording:
   location: Genève, Switzerland
   languages:
   - German
-  duration: '00:26:16.59425'
+  duration: '00:26:16.594'
   spools:
   - 9-74B
   audio:
@@ -137,10 +137,10 @@ recording:
       u: Jetzt ist er in Argentinien. Buenos Aires.
     - who: David Boder
       start: '00:01:33.258'
-      end: 00:01:34.570x
+      end: '00:01:34.570'
       u: Oh, er ist in Argentinien.
     - who: David Hirsch
-      start: 00:01:34.570x
+      start: '00:01:34.570'
       end: '00:01:35.098'
       u: Ja.
     - who: David Boder

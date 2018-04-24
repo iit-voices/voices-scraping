@@ -25,7 +25,7 @@ recording:
   location: München, Germany
   languages:
   - German
-  duration: '00:45:44.1115'
+  duration: '00:45:44.111'
   spools:
   - 9-155B
   - 9-155C
@@ -51,10 +51,10 @@ recording:
         going to...I am passing the microphone to Roma."
     - who: David Boder
       start: '00:00:41.941'
-      end: '00:00:45.24'
+      end: '00:00:45.240'
       u: "[In German] Also Fräulein, sind Sie Fräulein oder Frau?"
     - who: Roma Tcharnabroda
-      start: '00:00:45.24'
+      start: '00:00:45.240'
       end: '00:00:47.857'
       u: Frau.
     - who: David Boder
@@ -97,10 +97,10 @@ recording:
       u: Kielce?
     - who: Roma Tcharnabroda
       start: '00:01:13.703'
-      end: '00:01:14.04'
+      end: '00:01:14.040'
       u: Ja.
     - who: David Boder
-      start: '00:01:14.04'
+      start: '00:01:14.040'
       end: '00:01:15.755'
       u: Ist das die Stadt wo jetzt das Programm war?
     - who: Roma Tcharnabroda
@@ -422,10 +422,10 @@ recording:
       u: Aha.
     - who: Roma Tcharnabroda
       start: '00:05:51.711'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Die Juden von Warschau haben noch nichts genau gewusst, aber diese...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:05:55.082'
       u: Hm.
     - who: Roma Tcharnabroda
@@ -579,11 +579,11 @@ recording:
       u: Ah hm, bitte weiter.
     - who: Roma Tcharnabroda
       start: '00:08:58.342'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Der Platz, das war eine Nebenschleiße, der zu der Bahn führte—dort hat man
         alle Transporte nach Treblinka geschickt.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:09:07.766'
       u: Hm.
     - who: Roma Tcharnabroda
@@ -798,13 +798,13 @@ recording:
       u: Haben Sie Kinder?
     - who: Roma Tcharnabroda
       start: '00:13:14.059'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Nein. Zuerst hat man uns gebracht auf den Flugplatz Lager Laskevich, das
         ist neben Lublin.Auf diesem Flugplatz hat man uns—da hat man die Männer in
         eine andere Richtung geschickt und uns in eine andere Richtung. Damals habe
         ich den Mann verloren.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:13:32.788'
       u: Ah hm.
     - who: David Boder
@@ -1538,10 +1538,10 @@ recording:
         in Deutschland.
     - who: David Boder
       start: '00:30:56.851'
-      end: 00:30:58.106x
+      end: '00:30:58.106'
       u: Ich möchte im Allgemeinen wissen...
     - who: Roma Tcharnabroda
-      start: 00:30:58.106x
+      start: '00:30:58.106'
       end: '00:31:08.112'
       u: Und da noch eine Sache—Interessante. Dort war eine Arbeit bei Latrin, die
         gelbe Arbeit sogenannt. Bei der gelben Arbeit auf der Fabrik sind die Leute
@@ -2099,10 +2099,10 @@ recording:
         keine Rolle. Wichtig ist der Mensch nicht die Nation.
     - who: David Boder
       start: '00:42:42.477'
-      end: '00:42:44.05'
+      end: '00:42:44.050'
       u: Haben Sie Verwandte in Amerika?
     - who: Roma Tcharnabroda
-      start: '00:42:44.05'
+      start: '00:42:44.050'
       end: '00:42:44.559'
       u: Ja.
     - who: David Boder
@@ -2215,10 +2215,10 @@ recording:
       u: 224 LaSalle North
     - who: Roma Tcharnabroda
       start: '00:43:19.102'
-      end: '00:43:21.28'
+      end: '00:43:21.280'
       u: North LaSalle Street.
     - who: David Boder
-      start: '00:43:21.28'
+      start: '00:43:21.280'
       end: '00:43:24.398'
       u: Na, ich werde den Mann in zwei (2) Wochen sehen.
     - who: Roma Tcharnabroda
@@ -2394,10 +2394,10 @@ recording:
         going to...I am passing the microphone to Roma."
     - who: David Boder
       start: '00:00:41.941'
-      end: '00:00:45.24'
+      end: '00:00:45.240'
       u: "[In German]...and so Miss, it is Miss or Mrs?"
     - who: Roma Tcharnabroda
-      start: '00:00:45.24'
+      start: '00:00:45.240'
       end: '00:00:47.857'
       u: Mrs.
     - who: David Boder
@@ -2440,10 +2440,10 @@ recording:
       u: Kielce?
     - who: Roma Tcharnabroda
       start: '00:01:13.703'
-      end: '00:01:14.04'
+      end: '00:01:14.040'
       u: 'Yes'
     - who: David Boder
-      start: '00:01:14.04'
+      start: '00:01:14.040'
       end: '00:01:15.755'
       u: Is this the city where they recently had the pogrom?
     - who: Roma Tcharnabroda

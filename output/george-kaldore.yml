@@ -21,7 +21,7 @@ recording:
   location: Tradate, Italy
   languages:
   - German
-  duration: '01:48:35.7485625'
+  duration: '01:48:35.748'
   spools:
   - 9-97
   - 9-98
@@ -383,7 +383,7 @@ recording:
       u: Ah hm!
     - who: George Kaldore
       start: '00:14:35.540'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Man hat uns gesagt, .... um zwölf Uhr sind wir herein gegangen in die Wagons.
         Die Wagons sind bald abge ... plombt, abgeplombt geworden und erstens hat
         man genannt einen als Kommandant für den Wagon. Und man hat gar nichts Wasser
@@ -391,7 +391,7 @@ recording:
         ist gestanden neben den Wagons. Und sie sind gegangen mit den Gewehren und
         keiner hat nicht können heraus von die Wagons.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:15:10.694'
       u: Ja.
     - who: George Kaldore
@@ -2074,10 +2074,10 @@ recording:
       u: Da war keine SS? Keine sind geblieben?
     - who: George Kaldore
       start: '01:27:31.057'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Ja, es sind geblieben zehn (10) SS dort in dem ganzen Lager.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:27:35.399'
       u: Ja.
     - who: George Kaldore

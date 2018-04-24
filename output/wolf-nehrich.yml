@@ -978,10 +978,10 @@ recording:
       u: Ja.
     - who: David Boder
       start: '00:12:01.227'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: ". . . und eingespritzt."
     - who: Wolf Nehrich
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:12:02.946'
       u: Ja.
     - who: David Boder
@@ -4745,11 +4745,11 @@ recording:
       u: Yes, but we want to know this.
     - who: Wolf Nehrich
       start: '00:10:19.304'
-      end: 00:10:26.374x
+      end: '00:10:26.374'
       u: Yes, there were lice for example, you see, how to call it, and flees and
         various other of these elements.
     - who: David Boder
-      start: 00:10:26.374x
+      start: '00:10:26.374'
       end: '00:10:33.490'
       u: Eh, now tell me how? You say the people died of hunger? How does somebody
         die of hunger?
@@ -4864,10 +4864,10 @@ recording:
       u: Yes.
     - who: David Boder
       start: '00:12:01.227'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: ". . . and injecting it."
     - who: Wolf Nehrich
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:12:02.946'
       u: Yes.
     - who: David Boder
@@ -5617,12 +5617,12 @@ recording:
       u: I see. Well?
     - who: Wolf Nehrich
       start: '00:26:52.936'
-      end: '00:27:03.84'
+      end: '00:27:03.840'
       u: 'And eh, afterwards we eh walked, that was, that was, was already a few days
         later after I had fled. So, during one of the nights we arrived in Groß-Rosen
         [Polish name: Rogoznica].'
     - who: David Boder
-      start: '00:27:03.84'
+      start: '00:27:03.840'
       end: '00:27:04.846'
       u: Groß-Rosen is where?
     - who: Wolf Nehrich
@@ -5727,10 +5727,10 @@ recording:
       u: "[interrupts] political"
     - who: Wolf Nehrich
       start: '00:29:33.275'
-      end: '00:29:35.42'
+      end: '00:29:35.420'
       u: Yes, and green triangle criminal.
     - who: David Boder
-      start: '00:29:35.42'
+      start: '00:29:35.420'
       end: '00:29:36.161'
       u: Mhm.
     - who: Wolf Nehrich
@@ -5771,10 +5771,10 @@ recording:
         feet, very big and then into the crematorium.'
     - who: David Boder
       start: '00:30:18.167'
-      end: 00:30:19.282x
+      end: '00:30:19.282'
       u: What with?
     - who: Wolf Nehrich
-      start: 00:30:19.282x
+      start: '00:30:19.282'
       end: '00:30:20.228'
       u: With an ink pencil.
     - who: David Boder
@@ -5828,11 +5828,11 @@ recording:
       u: Why did they take up a quarter of the car? What did they do?
     - who: Wolf Nehrich
       start: '00:31:02.967'
-      end: '00:31:08.25'
+      end: '00:31:08.250'
       u: They, they were Germans, after all, they said, we don’t want to knock against
         you here. We have to have it a little more comfortable.
     - who: David Boder
-      start: '00:31:08.25'
+      start: '00:31:08.250'
       end: '00:31:09.184'
       u: So what did they do?
     - who: Wolf Nehrich
@@ -6913,10 +6913,10 @@ recording:
       u: Yes.
     - who: David Boder
       start: '00:51:19.143'
-      end: '00:51:21.28'
+      end: '00:51:21.280'
       u: Did the Americans let this happen?
     - who: Wolf Nehrich
-      start: '00:51:21.28'
+      start: '00:51:21.280'
       end: '00:51:22.228'
       u: Of course.
     - who: David Boder
@@ -7381,10 +7381,10 @@ recording:
         to death. You didn’t know which.'
     - who: David Boder
       start: '00:58:19.675'
-      end: '00:58:22.59'
+      end: '00:58:22.590'
       u: And what did you think, what would it last. What, what...
     - who: Wolf Nehrich
-      start: '00:58:22.59'
+      start: '00:58:22.590'
       end: '00:58:51.045'
       u: Who had courage conjured different fantasies, he survived. And who said,
         eh, because it was true, oh who can bear up here, you get nothing to eat,
@@ -7437,10 +7437,10 @@ recording:
         mark. But the 100 cigarettes you never saw of course.
     - who: David Boder
       start: '00:59:36.308'
-      end: 00:59:36.772x
+      end: '00:59:36.772'
       u: I see.
     - who: Wolf Nehrich
-      start: 00:59:36.772x
+      start: '00:59:36.772'
       end: '00:59:38.742'
       u: And neither the ten mark, you only had the song.
     - who: David Boder

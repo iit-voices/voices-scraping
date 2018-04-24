@@ -26,7 +26,7 @@ recording:
   location: Wiesbaden, Germany
   languages:
   - German
-  duration: '01:26:39.9346875'
+  duration: '01:26:39.934'
   spools:
   - 9-156B
   - 9-157
@@ -1510,10 +1510,10 @@ recording:
       u: Poland.
     - who: David Boder
       start: '01:19:59.633'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Poland.... [In German] Also weiter.
     - who: Leon Frim
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:20:00.518'
       u: Äh ja,
     - who: David Boder
@@ -2361,10 +2361,10 @@ recording:
       u: Did they cut your hair off?
     - who: Leon Frim
       start: '00:40:41.251'
-      end: '00:40:46.30'
+      end: '00:40:46.300'
       u: Yes, they cut out hair still in Przemyśl for the first time.
     - who: David Boder
-      start: '00:40:46.30'
+      start: '00:40:46.300'
       end: '00:40:48.442'
       u: All over your body?
     - who: Leon Frim
@@ -3086,10 +3086,10 @@ recording:
       u: Poland
     - who: David Boder
       start: '01:19:59.633'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Poland.... [In German] So continue.
     - who: Leon Frim
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:20:00.518'
       u: um yes,
     - who: David Boder

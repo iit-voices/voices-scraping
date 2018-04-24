@@ -18,7 +18,7 @@ recording:
   location: München, Germany
   languages:
   - German
-  duration: '00:21:01.688625'
+  duration: '00:21:01.688'
   spools:
   - 9-153B
   audio:
@@ -553,10 +553,10 @@ recording:
       u: Kardinal Faulhaber?
     - who: Victor Ferdinansk
       start: '00:10:08.643'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: ". . . war er in München."
     - who: Victor Ferdinansk
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:10:09.880'
       u: Ah, in München war er.
     - who: David Boder
@@ -826,10 +826,10 @@ recording:
       u: In welchem Sinn?
     - who: Victor Ferdinansk
       start: '00:17:07.449'
-      end: '00:17:11.38'
+      end: '00:17:11.380'
       u: Das bedeutet alle...die ganze weltpolitische Lage.
     - who: David Boder
-      start: '00:17:11.38'
+      start: '00:17:11.380'
       end: '00:17:11.818'
       u: Ja.
     - who: Victor Ferdinansk

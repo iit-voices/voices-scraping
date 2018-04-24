@@ -19,7 +19,7 @@ recording:
   location: Hénonville, France
   languages:
   - Yiddish
-  duration: '00:49:21.241375'
+  duration: '00:49:21.241'
   spools:
   - 9-120
   - 9-121A
@@ -1356,10 +1356,10 @@ recording:
       u: Hm.
     - who: Solomon Horowitz
       start: '00:16:25.905'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: So they ran into the forest hide.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:16:27.955'
       u: Yes.
     - who: Solomon Horowitz
@@ -1394,10 +1394,10 @@ recording:
       u: What would they burn? What did they use to burn?
     - who: Solomon Horowitz
       start: '00:17:01.136'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: To burn grains.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:17:02.282'
       u: What is it? [The word was not understood.]
     - who: Solomon Horowitz
@@ -1638,10 +1638,10 @@ recording:
       u: Yes?
     - who: Solomon Horowitz
       start: '00:19:31.325'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: They began to search. A raid.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:19:33.330'
       u: Yes.
     - who: Solomon Horowitz
@@ -2172,10 +2172,10 @@ recording:
       u: Yes. Nu?
     - who: Solomon Horowitz
       start: '00:25:01.455'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: In the meantime, in eight days, I perceived a...a tumult.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:25:04.848'
       u: Hm.
     - who: Solomon Horowitz
@@ -2375,10 +2375,10 @@ recording:
       u: Hm.
     - who: Solomon Horowitz
       start: '00:27:24.059'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Rabbi of Warsaw.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:27:25.280'
       u: Hm.
     - who: Solomon Horowitz
@@ -2582,12 +2582,12 @@ recording:
       u: How much was a Zloty worth against the dollar?
     - who: Solomon Horowitz
       start: '00:31:15.797'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Hm. Against the dollar perhaps...about thirty thousand Zlotys was about...I
         don’t know exactly, but anyway it is quite a sum, hundreds of dollars. One
         used to give for a child three, four hundred dollars.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:31:33.842'
       u: And?
     - who: Solomon Horowitz
@@ -2610,11 +2610,11 @@ recording:
       u: Yes.
     - who: Solomon Horowitz
       start: '00:31:43.912'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Since they are to lead a life [in the spirit] of the Torah, there should
         be...there cannot be a mixing of men and women.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:31:48.088'
       u: Hm.
     - who: Solomon Horowitz
@@ -2669,15 +2669,15 @@ recording:
       u: Yes, yes.
     - who: Solomon Horowitz
       start: '00:32:13.537'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: The program of the Agudah...there is of the Mizrachi...Mizrachi has other
         Kibbutzim yet.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Solomon Horowitz
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:32:16.658'
       u: And then there are just ordinary Zionists, and there are leftist parties.
         There are all kind of parties.
@@ -3166,11 +3166,11 @@ recording:
       u: Hm.
     - who: Solomon Horowitz
       start: '00:38:09.919'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Everything is punctual. At six o’clock there is a bell. It rings. Everybody
         has to stand on the square. Up and about.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:38:16.750'
       u: Hm.
     - who: Solomon Horowitz
@@ -3221,11 +3221,11 @@ recording:
       u: Hm.
     - who: Solomon Horowitz
       start: '00:38:51.810'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: After dinner, at two...two o’clock the bell rings again. People know and
         go to work again, and until six people work.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:38:57.958'
       u: Hm.
     - who: Solomon Horowitz
@@ -3720,12 +3720,12 @@ recording:
       u: Hm.
     - who: Solomon Horowitz
       start: '00:44:40.946'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Here there are such religious people. Saturday no work is done, but the whole
         day, Saturday, is spent in songs with...with dances. People are dancing together.
         [he refers to ritual dances of the Khassidic sect].
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:44:46.002'
       u: Hm.
     - who: Solomon Horowitz
@@ -3891,14 +3891,14 @@ recording:
       u: Yes.
     - who: Solomon Horowitz
       start: '00:46:54.428'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: It is not permitted [words not clear].
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And so, as you say.
     - who: Solomon Horowitz
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:46:55.933'
       u: But on Saturday proper...
     - who: David Boder
@@ -3907,7 +3907,7 @@ recording:
       u: Nu? Is there anything more that you might want to say to the American Jews?
     - who: Solomon Horowitz
       start: '00:47:02.171'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: To the American Jews. In the first place I am sending over my great gratitude
         for their initiative, for their help to all our brothers of the Shaarith Haplatim.
         To tell the truth, if not helped by America the Shaarith Haplatim would not
@@ -3921,7 +3921,7 @@ recording:
         here in Kibbutz, or others in other places. But we lead a na vanat [roaming
         and wandering] life.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:48:11.041'
       u: What does it mean?
     - who: Solomon Horowitz

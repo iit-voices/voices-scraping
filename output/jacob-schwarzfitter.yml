@@ -25,7 +25,7 @@ recording:
   location: Tradate, Italy
   languages:
   - German
-  duration: '01:11:37.665625'
+  duration: '01:11:37.665'
   spools:
   - 9-93
   - 9-94
@@ -2052,12 +2052,12 @@ recording:
       u: Which ones? the...
     - who: Jacob Schwarzfitter
       start: '00:49:42.013'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: The Jews, the non-Jews, because there it was an international lager, Bergen-Belson.
         And they were compelled..., and the professional criminals were compelled
         to dig the grave.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:49:52.415'
       u: Yes.
     - who: Jacob Schwarzfitter

@@ -1551,10 +1551,10 @@ recording:
       u: What did you do? Did you take the children out and go away?
     - who: Lina Stumachin
       start: '00:31:17.085'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: They were taken into this convent.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:31:21.412'
       u: Taken in. But you alleged.
     - who: David Boder

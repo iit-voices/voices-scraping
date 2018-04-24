@@ -19,7 +19,7 @@ recording:
   languages:
   - French
   - German
-  duration: '00:31:22.9060625'
+  duration: '00:31:22.906'
   spools:
   - 9-28
   audio:
@@ -1109,10 +1109,10 @@ recording:
       u: "[In German] Monsieur Richard, thank you very much, it was a..."
     - who: David Boder
       start: '00:30:21.691'
-      end: '00:30:27.37'
+      end: '00:30:27.370'
       u: "[In English]...I think that the Frenchmen in Chicago and the"
     - who: David Boder
-      start: '00:30:27.37'
+      start: '00:30:27.370'
       end: '00:30:34.852'
       u: "[In German]...our students will listen to this work with great interest."
     - who: Bertha Goldwasser

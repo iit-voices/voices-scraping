@@ -20,7 +20,7 @@ recording:
   location: München, Germany
   languages:
   - German
-  duration: '00:23:26.484875'
+  duration: '00:23:26.484'
   spools:
   - 9-141B
   audio:
@@ -1868,11 +1868,11 @@ recording:
       u: Yes. Were you paid?
     - who: Sophia Zurilis
       start: '00:19:21.108'
-      end: '00:19:25.02'
+      end: '00:19:25.020'
       u: We got 68, eh, “pfennig” an hour.Pfennig used to be the smallest unit of
         German currency.5
     - who: David Boder
-      start: '00:19:25.02'
+      start: '00:19:25.020'
       end: '00:19:26.140'
       u: And how long...?
     - who: Sophia Zurilis

@@ -23,7 +23,7 @@ recording:
   location: Genève, Switzerland
   languages:
   - German
-  duration: '03:33:15.5075'
+  duration: '03:33:15.507'
   spools:
   - 9-83B
   - 9-84
@@ -1212,7 +1212,7 @@ recording:
       u: Ja.
     - who: Abraham Kimmelmann
       start: '00:31:01.415'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Jüdische Miliz war erstens, um auf den Strassen Ordnung zu halten. Zum...in
         erster Linie der jüdischen Kultusgemeinde zu dienen. Zum Bewachen von Allen,
         denn Sie wissen ja, in so einer Zeit die Menschen bewegen sich viel und man
@@ -1223,7 +1223,7 @@ recording:
         überlegt es sich. Deswegen haben sie auch die jüdische Miliz geschaffen, dass
         sie ein bisschen mehr [unverständlich].
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:31:43.398'
       u: Hm.
     - who: Abraham Kimmelmann
@@ -1304,10 +1304,10 @@ recording:
       u: Wer hat ihn dazu bestimmt gehabt?
     - who: Abraham Kimmelmann
       start: '00:33:39.747'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Er war Jude, aber ich weiß nicht, wie es dazu gekommen ist.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:33:41.870'
       u: Ja.
     - who: Abraham Kimmelmann
@@ -1397,14 +1397,14 @@ recording:
       u: Ah hm.
     - who: Abraham Kimmelmann
       start: '00:37:12.013'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Also wie die jüdische Miliz das übernommen hat, ist es noch viel schlimmer
         geworden als vorher. Es war—für diese war es am schlimmsten, die kein...die
         keine Bekanntschaft unter der Miliz gehabt haben und das war natürlich der
         größte Teil der Bevölkerung. Weil ein Militant der hat seine Familie nicht
         brutal behandelt, er hat dazu gesehen, sie zu verschonen.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:37:36.794'
       u: Ja?
     - who: Abraham Kimmelmann
@@ -2027,10 +2027,10 @@ recording:
         am Anfang.
     - who: David Boder
       start: '01:05:52.490'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Was war Ihr Chef—ein SA Mann?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:05:58.660'
       u: Ja.
     - who: David Boder
@@ -2484,7 +2484,7 @@ recording:
       u: Die Hunde haben doch essen müssen!
     - who: Abraham Kimmelmann
       start: '01:25:14.782'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Ja, für diese Hunde haben sie eher Essen gehabt als für die Juden. Sie haben
         gesagt, wenn sie einen Juden erschossen haben, sie haben jetzt ein Brot mehr
         und das könnten sie den Hunden zum Essen geben. Übrigens für die Deutschen
@@ -2494,7 +2494,7 @@ recording:
         dann hat man den Juden die Ration gekürzt und die Frage war erledigt. Niemand
         hat sich darum gekümmert, ob ein Jude von Hunger stirbt.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:25:42.761'
       u: Ja.
     - who: Abraham Kimmelmann
@@ -3115,7 +3115,7 @@ recording:
       u: "[unverständlich]"
     - who: Abraham Kimmelmann
       start: '01:51:24.514'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Ich habe ihr nichts erzählt, ich habe nicht geweint und ich ging hinaus.
         Ich ging hinaus, da ich selbst nicht [unverständlich; Tonband sehr schlecht]
         und ich habe wieder die Tram genommen. Da habe ich wieder eine Kusine von
@@ -3137,7 +3137,7 @@ recording:
         Und am selben Tag hat ein...ein, ein Jude hat zwanzig tausend (20 000) Mark
         gegeben...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:53:01.822'
       u: Ja?
     - who: Abraham Kimmelmann
@@ -3843,7 +3843,7 @@ recording:
       u: Ja.
     - who: Abraham Kimmelmann
       start: '02:23:56.130'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: ". . . und von dem Posten, ja wir würden andauernd angeschrieen. Und wir
         haben einfach bei der...bei der Schaufel gezittert. Um zwölf (12) Uhr haben
         wir eine halbe ( ½ ) Stunde gehabt; wer...wer noch so viel starken Willen
@@ -3851,7 +3851,7 @@ recording:
         die Anderen haben zuschauen müssen und Jeder hat sich damals gewünscht, ihm
         das Brot auf dem Mund raus zu reißen."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '02:24:19.632'
       u: Aha.
     - who: Abraham Kimmelmann
@@ -5714,22 +5714,22 @@ recording:
       u: Für wofür?
     - who: Abraham Kimmelmann
       start: '03:23:44.436'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Für teurer. Zum Beispiel, wenn ich für ein Brot...sagen wir mal ich habe
         gegeben dreißig (30) Zigaretten, dann hab ich im Lager vierzig (40) genommen.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '03:23:53.358'
       u: Ah hm!
     - who: Abraham Kimmelmann
       start: '03:23:53.358'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: So habe ich mir meine Ration Brot verdient. Und dann bin ich einigermaßen
         zu Mark gekommen, denn in diesem Lage hat das Geld Wert gehabt, weil viele
         Zivilisten auf der Baustelle gearbeitet haben und sie das Geld gebraucht haben.
         Also wir haben...es war schon so ein großer Handel, kann man sagen.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '03:24:09.010'
       u: Ja.
     - who: Abraham Kimmelmann
@@ -5804,10 +5804,10 @@ recording:
       u: Ja.
     - who: Abraham Kimmelmann
       start: '03:26:43.788'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Ein Ausflug.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '03:26:47.488'
       u: Ja.
     - who: Abraham Kimmelmann
@@ -5906,10 +5906,10 @@ recording:
       u: Kein Platz.
     - who: Abraham Kimmelmann
       start: '03:29:37.460'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Kein Platz. Und so haben wir geschlafen.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '03:29:39.482'
       u: Ja.
     - who: Abraham Kimmelmann
@@ -6016,7 +6016,7 @@ recording:
       u: Ah hm.
     - who: Abraham Kimmelmann
       start: '03:32:12.277'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Dort war etwas, was nicht zu erzählen ist. Denn im letzten Jahre neunzehn
         hundert vier und vierzig (1944), wie ich schon erzählt habe, hat man schon
         bei uns im Lager nicht mehr so geschlagen. Und da—da haben sie schon niemanden
@@ -6024,7 +6024,7 @@ recording:
         haben das Ganze—sie haben das beste Essen raus geholt und uns haben sie nichts
         zu essen gegeben. Übrigens in Groß-Rosen hat man fast nichts zu essen bekommen.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '03:32:36.099'
       u: Nun?
     - who: Abraham Kimmelmann
@@ -6679,19 +6679,19 @@ recording:
       u: And so?
     - who: Abraham Kimmelmann
       start: '00:26:29.467'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: I mean to say we had already one blow. We heard what was done to too many
         Jews. They were shot and the like. It was only the beginning. We were not
         yet accustomed to it and so this razzia [raid] made on us a very bad impression.
         We were downhearted and in a very pessimistic mood. And how is it said in
         Yiddish, if one gets accustomed to trouble one can live with them in joy.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What does that really mean?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well, when one gets accustomed to the evil, one lives with it cheerfully.
         He doesn’t notice anymore that it is evil. One thinks that it ought to be
         that way. As it is being said, old proverbs are true. In most cases I found
@@ -6713,19 +6713,19 @@ recording:
         person and you give him such and such a sum of money till it has become practically
         [a matter of] a fixed fee for these things. A fixed prize.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: For example, how much?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: At the beginning it was set at about 10,000 marks and a man could go free.
         There were even cases in the beginning where people were returned from concentration
         camps for money. It was all due to the fact that while the Jews were in closer
         contact with the Germans they could accomplish it. That could only occur when
         Jews could still live in a German or Polish city.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:27:16.125'
       u: This concludes Spool 83 and we are going over to Spool 84.
     - who: David Boder
@@ -7005,7 +7005,7 @@ recording:
       u: Who did it?
     - who: Abraham Kimmelmann
       start: '00:43:44.842'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Well, that one, the Jewish militiaman. He beat him up so badly, he blackened
         his eyes and he was swollen all over. There were outside a few Jews around,
         they somehow protested, but what could one do? One had to keep his mouth shut.
@@ -7021,7 +7021,7 @@ recording:
         of people who had no morals. Who did not have too much of morals and not too
         much of sentiment.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:45:04.160'
       u: "[In English] This concludes Spool 84. The spool had only about 18 indicator
         minutes of Kimmelmann’s interview. The rest were the songs. We are now going
@@ -7343,12 +7343,12 @@ recording:
       u: Your own chief?
     - who: Abraham Kimmelmann
       start: '01:05:40.978'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Yes. The Chief was an SA man. A great Anti-Semite. When he would see a Jew
         on the street, he could kill him. I had luck. I worked well and he took a
         liking to me. That happened right from the start.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:05:58.660'
       u: This concludes Spool 85, Abraham Kimmelmann reporting. We are going over
         to Spool 86. [There is apparently a break in the spool but it seems that not
@@ -8571,35 +8571,35 @@ recording:
         thing, but it is the pure truth.
     - who: David Boder
       start: '02:17:23.428'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[In English] This concludes spool 87. We are going over to 88."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[This is spool 88. Geneva, August 28, 1946.] [In German] You say that the
         division pusher [trusty] had beaten up the man very badly."
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, and now a German policeman, one of those who has brought us to Markstadt...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: A German policeman?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: 'Yes. He stepped forward and told to the pusher: “I brought these people
         up here, and I didn’t have any trouble with them...they have been here only
         a few minutes and already you have beaten them.”...I must tell you, I have
         to make here a remark.'
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What kind of remark?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: It is sad enough that I as a Jew have to relate about such a situation, and
         precisely because in this case the question involves the Jews. The floggers
         were Jews, and possibly when all this conversation would be later listened
@@ -8639,12 +8639,12 @@ recording:
         people who lived also near us at home and they might have known some of the
         people.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Were they Jewish?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, only Jews. The lager of which I am talking now was an exclusively Jewish
         lager. Jews only. At nine they came for us. We were told we are going to the
         barbers and they will shear us and clean us up. Well, we had to line up. When
@@ -8656,32 +8656,32 @@ recording:
         and there comes in a man with a whip in his hand, beautiful boots, a good
         jacket, dressed warm and beautiful.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Was this a German?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: 'No, that was a Jew. And so, one of the pushers, one of those who works at
         night, that is, from the night shift...he happened to be a very nice chap...He
         knew...so he says: this is a kat. Do you know what a kat is? Kat is an executioner,
         one who performs the executions. When one is sentenced to death, and has to
         be executed.'
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In what language is it, kat?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In Polish they would say kat.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: An executioner?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: An executioner. Well, we were told he is a kat. You know when I was a child
         and I read books, they contained all kinds of legends, so I heard about a
         kat. And I never could imagine that he could do such things. I never could
@@ -8691,28 +8691,28 @@ recording:
         reality a lot of people are being executed, being killed, but I just couldn’t
         imagine it...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What was his name?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: His name was Hershel Mukh.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Mukh?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, Mukh was really not his name. It was a kind of a—
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Alias?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: An alias. That was the first one I met. I stepped back immediately so he
         shouldn’t look at me. I didn’t want to look at him. We were bathed, we were
         led fifty people at a time into a small bathing room. At the most, under normal
@@ -8730,12 +8730,12 @@ recording:
         out. And if one would lose such a card, he would eat no dinner. We got there,
         if I remember, exactly the 25th of February.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Were you tattooed?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: No, people were tattooed only in Auschwitz, in Blechhammer which belonged
         to Auschwitz. Well, I don’t know, in Treblinka. In Buchenwald we neither were
         tattooed. We stood in line waiting for our cards, but the question was not
@@ -8749,12 +8749,12 @@ recording:
         treated the sick on the “revier” [ward]. And this treatment I shall take in
         quotation marks.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Why so?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: 'Well, like in Polish, to make it ironical. I saw him carrying a large dish.
         This dish was about a liter and a half in size and he carried such a dish
         packed full. Well, here is what I saw: red turnips I saw, potatoes with their
@@ -8782,12 +8782,12 @@ recording:
         didn’t know how to thank us. And that did again something to me. I asked myself,
         what in reality is man?'
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: How old were you?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I was that time fourteen years old. A human being, who before the war sure
         was a human being whether he was a bit poor or not, for example, the average
         man, how is he today? He doesn’t look that the potatoes are rotten, whether
@@ -8814,12 +8814,12 @@ recording:
         of the lager who was also a Jew, I told you already about the fellow who was
         wearing the leather coat when we arrived...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: You told me that he was the kat.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: No, no, that was a different one, I will tell you about him later. I’ll tell
         you yet later something about the kat, too. But I saw that here is a man who
         was maintaining discipline, and demanded that everything be just so. I saw
@@ -8829,21 +8829,21 @@ recording:
         minutes, imagine a large square where there were about three thousand people.
         It didn’t take five minutes, everybody was assembled and stood like one man.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The three thousand men?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Not the men, all the pushers. All these pushers. They were in various parts
         of the lager, he only whistled, how far can one hear a whistle?
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Were these pushers the same thing as capos?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, the capos were only in concentration camps. In our place there were
         no capos, only division elders or pusher. The there were also group leaders.
         There were various categories. A division elder, for instance, was the superior
@@ -8853,12 +8853,12 @@ recording:
         the group leader could already shift his responsibility to the division elder.
         He had less responsibility to the division elder. This isn’t especially important.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well, a man was missing.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, and they all gathered together. Immediately, a command was given that
         it should not take more then five minutes for that man to appear. It didn’t
         take a second and the pushers all disappeared. And it didn’t take five minutes
@@ -8873,29 +8873,29 @@ recording:
         language which I heard then practically for the first time; in Jewish he asked
         him, and he said...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Who asked him?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The lager leader.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And he spoke Jewish?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, all of them spoke Jewish. The inner management of the lager—that was
         all Jewish.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And this one questioned him?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, well, it is not place here to repeat what expressions he used, at any
         rate they were not specially nice ones. He asked him where he was, so he replied
         at his wife’s, that he hadn’t heard the call. A man still thought that that
@@ -8906,12 +8906,12 @@ recording:
         his pants. Two men held him, and then another kat, his name was Moshe Nachtinger,
         that was, of course, what did you call it before—a false name?
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: An alias.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: He was called Moshe Phoney. That was the second kat and he had that time
         the honor to flog him. The first time in my life have I seen such a beating.
         His pants pulled down, a whip with a steel wire twisted along, it was about
@@ -8927,12 +8927,12 @@ recording:
         in my heart. What can one do? One has to keep his mouth shut, and see to it
         that one himself is not getting a beating.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What happened to that man?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: He was flogged and he was told, that this time he is getting off with little
         because he was new and ignorant, and he should know for the next time. You
         can imagine, it made a bad impression on everyone. Everyone was just in fear
@@ -8950,59 +8950,59 @@ recording:
         it didn’t occur to remember. Nobody had such a great interest in it. So when
         one would have forgotten he would get “what was coming to him.”
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: When were they checking up?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Immediately after we were told. Well, and so we were assigned to the various
         firms. We went again to bed. We went to fetch our ration for tomorrow because
         in the lager Markstadt the ration was always retched in the evening for the
         next morning. If you are also interested what kind of rations we got I can
         tell you that.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well, so you got your rations in the evening for the following morning.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: 'Yes. The ration consisted of the following: 330 grams of bread, a piece
         of margarine, and once or twice a week 25 grams of sausage. About the dinners
         I have told you already before.'
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh, yes. But did they give you the same thing every day?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes. Every day the same thing.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Rotten potatoes and the like?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Rotten potatoes and the like.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So you didn’t get anything liquid, hot?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Only for dinner [Mittag]. In the morning we would get hot coffee, bitter
         coffee which one couldn’t drink anyway.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: With the dinner it was this way. Suppose they brought a shipment of potatoes.
         They had to be cooked. Well, there was no arrangement that one day the potatoes
         were cooked with vegetables, and the next day with some different ingredients.
@@ -9014,12 +9014,12 @@ recording:
         one cannot talk it into himself, one cannot create for himself the illusion
         that there was something good about it.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well, one thing appeared definite. With such a ration one could not live
         longer than about three months. I mean, if one has been working, then consequences
         were such, that is, if one lived on the ration and worked for twelve hours
@@ -9034,29 +9034,29 @@ recording:
         was all. And so there came for us the first day to go to work. If I still
         remember it was the company of—
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Then you had to remember, isn’t that so?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[As if recollecting] A few times..."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well, let it be. You will recall later.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: It was near Barta, I can’t remember anymore the name of the firm. It was
         the first firm.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh, go on.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: That was a construction company that was building streets, transport facilities,
         and in other words, it was all just common labor. I was given a shovel for
         the first time, and I had to work specially with the shovel. Because, of course,
@@ -9067,88 +9067,88 @@ recording:
         throw us off our feet. We were working all day up to dinner time [midday].
         I still remember the first day when I got those 330 grams of bread.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: How much?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: 330 grams. That is 33 decas.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I still could split it up. I talked it into myself that as long as I will
         be in the lager, I will distribute the bread so that I will eat some of it
         in the morning, some of it at nine o’clock and before dinner time again something.
         I shall not do like the others, like the other people, who devour everything
         all at once, and then they get swollen.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What do you mean, they get swollen?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[Impatiently] Well, I told you already before."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, but that wouldn’t swell immediately.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[Still with misgivings] Yes, not immediately. Three months is, of course,
         not immediately, but I have told you about it already."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, yes, go on.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: If I don’t want to be swollen within three months, then I have to do something
         about it. That’s what I thought. The first day it still could be done, one
         ate a piece of bread.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Where could you keep the rest?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Then I still had pockets. I still had my civilian clothes. I only had to
         cut a piece from the back and from the front and sew on underneath a white
         rag, that is in the form of a star of David.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: That is what you had to cut out?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, on the back and on the front.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Tell me again, where was that piece cut out?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: It was like this, every piece of clothing that could be separately worn,
         for example, a pair of pants, a coat or an overcoat, these had to have the
         cutouts so that they be recognizable. First of all that there be no possibility
         or danger that someone would run away.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So you would cut out a hole.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, a hole in the form of a star of David and a white rag would be put underneath
         so that it be well recognized from afar. One could recognize that the person
         was from our lager. How did I get talking about it? Oh well, I put the food
@@ -9163,33 +9163,33 @@ recording:
         after the noontime there would come the Polier. Do you know what a polier
         is?
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: No. [The dictionary translation of Polier is foreman, but the word was unfamiliar
         to me at the time.]
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: That is the main master of a firm.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well, one shouldn’t say a master of the whole firm, but of one project. So
         he tells us that there have arrived several carloads of slag and they have
         to be unloaded and we should come immediately. And did I get black that time.
         The stuff was still hot. It just came out of the foundry. It was loaded immediately
         on trucks and driven to the highway.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What month was it?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: That was in January. Oh, no, it was in February, I already told you. I got
         red eyes because I wasn’t accustomed to such a thing. The wind was blowing
         and everything got into my eyes. I almost couldn’t see anymore and finally...the
@@ -9201,12 +9201,12 @@ recording:
         first day we still couldn’t eat that dinner. As I told you, for seven days
         we didn’t eat it.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: You couldn’t get accustomed to it?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: No. We couldn’t stand yet that food. But soon we got gradually accustomed
         to the work and to the food as well. And then one would eat a plateful, or
         two, or three and if we only had it, many more. Because a man in the lager
@@ -9215,24 +9215,24 @@ recording:
         I am talking about eating, we can just as well tell it here. It was already
         in Ka-zet. And here I come to...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Ka-zet means concentration camp?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Concentration camp. I come to the kitchen once and I see a boy sitting over
         a kettle which measured fifteen liters. Well, the kettle was about three quarters
         full and he ate. So I asked him, “How do you happen to get so much food?”
         And so he said, “I brought back from the construction place a puch-cart and
         so the cook gave me this food.”
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Fifteen liters?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Fifteen liters, well it was so big, ten liters, [he demonstrates]. And here
         I had my dishes, I also brought my dishes, I also brought something and I
         got my food and here I had bad luck. I slipped, my pot fell out of my hands,
@@ -9242,14 +9242,14 @@ recording:
         that. Can a man believe it! Is it possible to believe it at all? Even I believe
         it now that a person could eat ten to fifteen liters of soup.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well, tell me, Abe, what is your idea, why have people eaten so much? Is
         it because ordinarily one wouldn’t get enough? Was it because they worked
         very hard? Why were they so greedy for food?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Both circumstances contributed to it. You said it yourself. First of all,
         when one is so many hours in the air, in the fresh air, the climate was good,
         the air was good, so one has an appetite. That’s first of all. And second,
@@ -9260,29 +9260,29 @@ recording:
         ten liters of soup one can eat only when he didn’t have anything to eat for
         a long time.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[With laughter] Do you really believe that one can eat ten liters of soup?"
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What do you mean? [raising his voice] The case I have told you about, I have
         seen it myself.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And you estimate that there were ten liters?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And five and six liters of soup at a time I have eaten myself.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: At one time?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: At one time. And the same goes for three kilos of bread. Three kilos [six
         pounds] of fresh bread I too have eaten, at one time. I mean if one has bread
         in the cupboard and one knows that he can at any time go there and cut off
@@ -9296,78 +9296,78 @@ recording:
         one doesn’t know where it goes. And when one is for a moment satiated, in
         five minutes one is hungry again.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And so, one is capable of eating ten liters of soup?
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes. Well, I want to ask you here a question [rather timidly]. You are a
         professor of psychology?
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes...Speak louder. [He apparently wanted to avoid the microphone.]
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: 'Are the psychologists really so far advanced that they really know human
         nature so well, that they really can “imagine” the various human qualities?
         [Verbatim: Do they really have a picture of his various qualities?] And that
         they really understand so well the human qualities?'
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Absolutely no.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: You are entirely right. I didn’t ask you simply because I wanted to know,
         because I know it already. I just wanted to hear it from you. Because after
         all that what I have seen, I know that one knows nothing yet.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh, one never should say that one knows nothing. A science covers certain
         aspects. Some things are known, and some things not. There is yet much more
         left to be learned than what man knows already. Isn’t that so? But if one
         says that one knows nothing one of course tells again a falsehood.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[Interrupting] No, no, I don’t mean to say that one doesn’t know anything
         at all. That is out of the question."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[Interrupting] But one knows very little?"
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[Interrupting] The psychologists, well, they have said that they have ascertained
         something. But after this war it became apparent that they were very wrong."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh, no.
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They said that they had found out. But after this war it became apparent
         that they were greatly mistaken.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: No...
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[Continuing] That they are absolutely incapable to appraise what really
         can happen. And although this war has revealed such things one still cannot
         be sure that it may not come to much worse situations."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Excuse me, Abe, you a very fine young man. Therefore, you should never argue
         about things you really don’t know. The psychologist never claim that they
         have ascertained everything. The psychologists never said that. A psychologist,
@@ -9376,12 +9376,12 @@ recording:
         what will happen under Hitler when such a situation has never occurred before?
         Isn’t that so?...
     - who: Abraham Kimmelmann
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well, we may still have an opportunity to discuss this when I shall talk
         about the Buchenwald period.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '02:17:48.141'
       u: One moment please...[In English] This concludes Spool 88, and in view of
         the fact that we had some other interviews in between, we are going over to

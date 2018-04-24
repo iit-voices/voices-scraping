@@ -20,7 +20,7 @@ recording:
   languages:
   - Yiddish
   - German
-  duration: '00:17:08.884875'
+  duration: '00:17:08.884'
   spools:
   - 9-4A
   audio:
@@ -848,10 +848,10 @@ recording:
       u: זעלבספארשטענדלעך, זעלבספארשטענדלעך.
     - who: David Boder
       start: '00:11:29.664'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[In German] Uh huh. Nu, haben Sie Verwanden [Verwandte] hier in Paris?"
     - who: Raisel Roset
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:11:35.055'
       u: Hier hab ich niemand.
     - who: David Boder
@@ -1028,10 +1028,10 @@ recording:
       u: "[In Yiddish] .יא"
     - who: David Boder
       start: '00:14:40.389'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[In German/Yiddish] Und וואס lernen Sie hier?"
     - who: Raisel Roset
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:14:41.607'
       u: Hier? גארסעטן.
     - who: David Boder

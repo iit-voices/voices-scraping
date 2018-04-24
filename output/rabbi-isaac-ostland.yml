@@ -18,7 +18,7 @@ recording:
   location: Hénonville, France
   languages:
   - Yiddish
-  duration: '00:48:48.561625'
+  duration: '00:48:48.561'
   spools:
   - 9-125B
   - 9-126A
@@ -1131,12 +1131,12 @@ recording:
       u: Go on.
     - who: Isaac Ostland
       start: '00:25:28.466'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: In the synagogue on the German Street number 19, where the community was
         re-established after liberation...about this there is an interesting story
         to tell.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:25:47.727'
       u: Go on. Tell me first some other minor events and about this you will tell
         me when I change the spool so that you will not be interrupted.
@@ -2355,12 +2355,12 @@ recording:
       u: "[In English] This concludes a part of an interview, first with...[unintelligible]"
     - who: Isaac Ostland
       start: '00:48:50.395'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[In Yiddish] No, no, this is no good. This episode was dragged in rather
         out of place...[He apparently somehow understood the meaning of the interviewer’s
         statement made in English.]"
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: "[This last sentence is missing from the existing audio] No, no, no...this...I
         will say it in Yiddish [after a pause the interviewer proceeds in Yiddish].

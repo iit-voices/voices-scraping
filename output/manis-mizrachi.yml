@@ -19,7 +19,7 @@ recording:
   location: Paris, France
   languages:
   - English
-  duration: '00:23:12.404875'
+  duration: '00:23:12.404'
   spools:
   - 9-43B
   audio:
@@ -1197,10 +1197,10 @@ recording:
       u: You were taking care of your mother?
     - who: Manis Mizrachi
       start: '00:19:20.465'
-      end: 00:19:23.549x
+      end: '00:19:23.549'
       u: Yes, taking care of her until she died.
     - who: David Boder
-      start: 00:19:23.549x
+      start: '00:19:23.549'
       end: '00:19:25.085'
       u: Yes.
     - who: Manis Mizrachi

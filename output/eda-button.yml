@@ -20,7 +20,7 @@ recording:
   location: Paris, France
   languages:
   - German
-  duration: '00:47:37.66525'
+  duration: '00:47:37.665'
   spools:
   - 9-26
   audio:
@@ -4141,10 +4141,10 @@ recording:
         soeur?
     - who: David Boder
       start: '00:20:37.372'
-      end: '00:20:38.34'
+      end: '00:20:38.340'
       u: A sister-in-law.
     - who: Eda Button
-      start: '00:20:38.34'
+      start: '00:20:38.340'
       end: '00:20:39.216'
       u: A sister-in-law.
     - who: David Boder
@@ -4365,10 +4365,10 @@ recording:
         in-law, eh, sister-in-law...
     - who: David Boder
       start: '00:23:18.038'
-      end: '00:23:19.2881'
+      end: '00:23:19.288'
       u: To another sister-in-law.
     - who: Eda Button
-      start: '00:23:19.2881'
+      start: '00:23:19.288'
       end: '00:23:24.959'
       u: ". . . sister-in-law, sister-in-law, who also lived in Athens in another
         quarter."

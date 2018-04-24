@@ -338,7 +338,7 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:01.32'
+      start: '00:00:01.320'
       end: '00:00:23.260'
       u: "[In English] Munich, September 21st, 1946. At a Baltic camp, populated by
         Lithuanians, Latvians and Estonians. The Interview is Ms. Bronė Skudaikienė,
@@ -409,10 +409,10 @@ recording:
       u: What kind of qualification did your husband have?
     - who: Bronė Skudaikienė
       start: '00:01:17.985'
-      end: 00:01:20.723x
+      end: '00:01:20.723'
       u: I....did everything. Everything.
     - who: David Boder
-      start: 00:01:20.723x
+      start: '00:01:20.723'
       end: '00:01:23.281'
       u: Yeah. Did he go to school, before...
     - who: Bronė Skudaikienė

@@ -18,7 +18,7 @@ recording:
   location: München, Germany
   languages:
   - Russian
-  duration: '00:17:23.069375'
+  duration: '00:17:23.069'
   spools:
   - 9-142A
   audio:
@@ -193,10 +193,10 @@ recording:
       u: Так.
     - who: Tomas Billi
       start: '00:03:57.849'
-      end: 00:04:01.403x
+      end: '00:04:01.403'
       u: и возить...
     - who: David Boder
-      start: 00:04:01.403x
+      start: '00:04:01.403'
       end: '00:04:02.277'
       u: в Россию.
     - who: Tomas Billi
@@ -311,10 +311,10 @@ recording:
       u: Взяли?
     - who: Tomas Billi
       start: '00:05:40.441'
-      end: '00:05:41.91'
+      end: '00:05:41.910'
       u: ". . . взяли и посылали."
     - who: David Boder
-      start: '00:05:41.91'
+      start: '00:05:41.910'
       end: '00:05:42.971'
       u: И его жену?
     - who: Tomas Billi
@@ -522,10 +522,10 @@ recording:
         пешком [из Тоилы].
     - who: David Boder
       start: '00:08:49.797'
-      end: 00:08:56.767x
+      end: '00:08:56.767'
       u: Ага. Ну, значит, и вы тогда на земле работали. Как долго это продолжал?
     - who: Tomas Billi
-      start: 00:08:56.767x
+      start: '00:08:56.767'
       end: '00:09:06.297'
       u: Это продолжал из, а, до...долго...Сентября месяца почти.
     - who: David Boder
@@ -735,10 +735,10 @@ recording:
       u: Ну, и как все это случилось когда...и кто, кто вас освободил?
     - who: Tomas Billi
       start: '00:12:31.264'
-      end: 00:12:37.360x
+      end: '00:12:37.360'
       u: Это американцы [вдруг?] приехали уже сюда с автомобилем в деревню...
     - who: David Boder
-      start: 00:12:37.360x
+      start: '00:12:37.360'
       end: '00:12:37.752'
       u: Так.
     - who: Tomas Billi

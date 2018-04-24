@@ -24,7 +24,7 @@ recording:
   location: Paris, France
   languages:
   - English
-  duration: '01:16:49.3321875'
+  duration: '01:16:49.332'
   spools:
   - 9-60
   - 9-61
@@ -73,10 +73,10 @@ recording:
       u: I’m from Vienna, Austria!
     - who: David Boder
       start: '00:00:38.384'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: You...you are from Vienna, Austria!
     - who: Nelly Bondy
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:00:39.674'
       u: Yes.
     - who: David Boder

@@ -199,6 +199,17 @@ end
 # Take a seconds value and conver it to an HH:MM:SS.DDD time-marker
 def time_marker(seconds)
   t = seconds.to_s.split(".")
+  # Ensure that there is always 3 decimal places
+  unless t[1]
+    t[1] = "000"
+  end
+  if t[1].length > 3
+    t[1] = t[1][0,3]
+  elsif t[1].length < 3
+    (3 - t[1].length).times do
+      t[1] = t[1] + "0"
+    end
+  end
   "#{Time.at(t[0].to_i).utc.strftime("%H:%M:%S")}.#{t[1]}"
 end
 

@@ -23,7 +23,7 @@ recording:
   languages:
   - Yiddish
   - German
-  duration: '00:52:56.7515'
+  duration: '00:52:56.751'
   spools:
   - 9-130B
   - 9-131
@@ -365,7 +365,7 @@ recording:
       u: Oh.
     - who: Pinkhus Rosenfeld
       start: '00:05:48.998'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: And there began to happen all the calamaties, with dragging for labor and
         with going to work, and the summons to the Gestapo, so that my father, as
         an elderly man, decided that he will leave Lodz. Where should he go? There
@@ -374,11 +374,11 @@ recording:
         a protectorate, it will have some sort of independence, there he will have,
         so to speak, some kind of a chance.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes?
     - who: Pinkhus Rosenfeld
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:07:10.041'
       u: There it will be possible to save ourselves. So that by father and my mother
         and a brother...and I also sent along my two children there, and we journeyed
@@ -499,10 +499,10 @@ recording:
         very briefly, as the saying goes, if not...
     - who: David Boder
       start: '00:08:44.573'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Yes.
     - who: Pinkhus Rosenfeld
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:08:52.446'
       u: ". . . it would not suffice to write up a whole room of papers. If one would
         sit for years it would not suffice, but I am making [it] very brief."
@@ -528,14 +528,14 @@ recording:
       u: Hm. Was he an old man?
     - who: Pinkhus Rosenfeld
       start: '00:09:08.560'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: He was sixty-two years old.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Hm.
     - who: Pinkhus Rosenfeld
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:09:10.560'
       u: In general, since he had possessions in Eretz Yisroeil [Land of Israel] and
         having decided that any day...if the war had broken out four weeks later...
@@ -582,11 +582,11 @@ recording:
       u: Who, your mother?
     - who: Pinkhus Rosenfeld
       start: '00:10:15.338'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: My mother, my two chil-...children, my two brothers, a sister-in-law of mine
         with two children, and my sister with two children.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:10:35.637'
       u: Where were the other two children...of yours? You had four children.
     - who: Pinkhus Rosenfeld
@@ -1995,10 +1995,10 @@ recording:
       u: Yes. Admitting that my wife was perhaps weak and sick...
     - who: David Boder
       start: '00:33:35.865'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Hm.
     - who: Pinkhus Rosenfeld
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:33:36.275'
       u: ". . . it is possible that she had perhaps perished in Auschwitz, but the
         two cousins that I had sent along, they were two strong, healthy girls."

@@ -24,7 +24,7 @@ recording:
   location: Genève, Switzerland
   languages:
   - German
-  duration: '00:39:34.34775'
+  duration: '00:39:34.347'
   spools:
   - 9-81
   audio:
@@ -2066,10 +2066,10 @@ recording:
       u: Nun?
     - who: Adolph Heisler
       start: '00:29:42.293'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Und danach bin ich ... nach dem heißen Bad, hat es mir den Kopf verdreht.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:29:45.757'
       u: Ja.
     - who: Adolph Heisler
@@ -2123,11 +2123,11 @@ recording:
       u: Ja?
     - who: Adolph Heisler
       start: '00:30:44.230'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Das war ein Lager in (unverständlich) und dort waren Depots von Munition
         und im Keller haben wir gewohnt – unter die Erde in Bunkern.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:30:52.671'
       u: Ja.
     - who: Adolph Heisler
@@ -4680,11 +4680,11 @@ recording:
       u: Yes.
     - who: Adolph Heisler
       start: '00:30:44.230'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: It was a lager [word not clear]. There were munition depots. And we lived
         in a cellar, in underground bunkers.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:30:52.671'
       u: Yes.
     - who: Adolph Heisler

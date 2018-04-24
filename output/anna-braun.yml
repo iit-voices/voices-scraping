@@ -19,7 +19,7 @@ recording:
   location: München, Germany
   languages:
   - German
-  duration: '01:08:31.9346875'
+  duration: '01:08:31.934'
   spools:
   - 9-133
   - 9-134
@@ -426,10 +426,10 @@ recording:
       u: Ja.
     - who: Anna Braun
       start: '00:08:23.737'
-      end: '00:08:25.0929'
+      end: '00:08:25.092'
       u: Ja.
     - who: David Boder
-      start: '00:08:25.0929'
+      start: '00:08:25.092'
       end: '00:08:26.479'
       u: Und wie hat sich das auf russisch genannt?
     - who: Anna Braun
@@ -564,17 +564,17 @@ recording:
       u: Ja.
     - who: David Boder
       start: '00:10:15.008'
-      end: '00:10:18.4'
+      end: '00:10:18.400'
       u: Und wer hat Ihnen gesagt, was für ein Urteil er bekommen hat?
     - who: Anna Braun
-      start: '00:10:18.4'
-      end: '00:10:38.33'
+      start: '00:10:18.400'
+      end: '00:10:38.330'
       u: In Kharkov im Kriegstribunal in Kriegstribunal Akt hat man es mir gesagt.
         Den dritten (3.) Juli neunzehn hundert sieben und dreißig 1937) hat man es
         mir gesagt, dass das Urteil im Juni sieben und dreißig (37) in, .von Moskau
         bestätigt wurde.
     - who: David Boder
-      start: '00:10:38.33'
+      start: '00:10:38.330'
       end: '00:10:41.913'
       u: Ja. Haben Sie Ihren Mann nach dem Urteil gesehen?
     - who: Anna Braun
@@ -595,11 +595,11 @@ recording:
       u: Aha, und dann?
     - who: Anna Braun
       start: '00:10:47.647'
-      end: '00:11:00.23'
+      end: '00:11:00.230'
       u: Dann ...... das Urteil wurde aber in Zaporozhe, Russland ausgesprochen. Von
         Zaporozhe kam mein Mann nach Dnepropetrovsk, dort ....
     - who: David Boder
-      start: '00:11:00.23'
+      start: '00:11:00.230'
       end: '00:11:02.275'
       u: Aber Sie sagten was mit Kharkov?
     - who: Anna Braun
@@ -617,10 +617,10 @@ recording:
         ich ... habe ich noch im Juni – Mitte Juni – können für ihn Essen abgeben.
     - who: David Boder
       start: '00:11:27.797'
-      end: '00:11:29.35'
+      end: '00:11:29.350'
       u: Was sind Sie da jeden Tag hin gegangen?
     - who: Anna Braun
-      start: '00:11:29.35'
+      start: '00:11:29.350'
       end: '00:11:32.362'
       u: Nein, ich bin jede Woche dorthin gefahren.
     - who: David Boder
@@ -656,10 +656,10 @@ recording:
       u: Hat er auch die schmutzige Wäsche zurück schicken können?
     - who: Anna Braun
       start: '00:12:01.164'
-      end: '00:12:03.29'
+      end: '00:12:03.290'
       u: Ja, die schmutzige Wäsche hat er zurück geschickt.
     - who: David Boder
-      start: '00:12:03.29'
+      start: '00:12:03.290'
       end: '00:12:04.436'
       u: Ja und?
     - who: Anna Braun
@@ -705,12 +705,12 @@ recording:
       u: Und nun?
     - who: Anna Braun
       start: '00:12:54.873'
-      end: '00:13:13.0'
+      end: '00:13:13.000'
       u: Jedenfalls also hat er es immer erhalten. Dann ... es .... war Ende Juni,
         fuhr ich wieder nach Dnepropetrovsk, um ihm Essen und Wäsche zu bringen, da
         war er nicht mehr da.
     - who: David Boder
-      start: '00:13:13.0'
+      start: '00:13:13.000'
       end: '00:13:14.432'
       u: Und was hat man Ihnen gesagt?
     - who: Anna Braun
@@ -719,10 +719,10 @@ recording:
       u: Da hat man mir gesagt (unverständlich – kein deutsches Wort)
     - who: David Boder
       start: '00:13:20.382'
-      end: '00:13:21.'
+      end: '00:13:21.000'
       u: "(wiederholt das gleiche Wort)"
     - who: Anna Braun
-      start: '00:13:21.'
+      start: '00:13:21.000'
       end: '00:13:29.587'
       u: Dann bin ich sofort nach Kharkow gefahren ins ......
     - who: David Boder
@@ -731,7 +731,7 @@ recording:
       u: Zur Behörde?
     - who: Anna Braun
       start: '00:13:30.492'
-      end: '00:14:08.18'
+      end: '00:14:08.180'
       u: Zur Behörde und Kriegstribunal und dort im militärischen Akt hat man nach
         gesehen und mir gesagt, dass diese Sache bekannt ist und dass das Urteil im
         Juni von Moskau bestätigt wurde. Da fragte ich, was ich noch machen könnte,
@@ -739,7 +739,7 @@ recording:
         Wort) klingt wie “niczewa”.’ Und seit dem weiß ich nichts mehr von meinem
         Mann. Es sind .... am sechzehnten (16.) Oktober werden es 10 Jahre.
     - who: David Boder
-      start: '00:14:08.18'
+      start: '00:14:08.180'
       end: '00:14:13.829'
       u: Sagen Sie mir, Frau Braun, waren andere Leute mit Ihrem Mann verurteilt oder
         war er alleine bei Gericht?
@@ -804,10 +804,10 @@ recording:
       u: Aha, aber er hat in der ökonomischen Abteilung gearbeitet?
     - who: Anna Braun
       start: '00:15:40.613'
-      end: '00:15:47.04'
+      end: '00:15:47.040'
       u: Ja, er hat dort gearbeitet und hatte viel Praktik.
     - who: David Boder
-      start: '00:15:47.04'
+      start: '00:15:47.040'
       end: '00:16:05.663'
       u: Also weiter nun, Frau Braun. (Pause) Also dann sind Sie allein geblieben.
         Haben Sie je eine Bescheinigung bekommen, dass Sie Witwe sind?
@@ -854,11 +854,11 @@ recording:
       u: Ja.
     - who: David Boder
       start: '00:17:20.475'
-      end: '00:17:29.26'
+      end: '00:17:29.260'
       u: Ja. Nun also – was hat dann passiert als die Deutschen kamen ? Sie gingen
         also auf die andere Seite des Dnieper, sagten Sie, zu Ihrer Familie.
     - who: Anna Braun
-      start: '00:17:29.26'
+      start: '00:17:29.260'
       end: '00:17:29.717'
       u: Ja.
     - who: David Boder
@@ -903,10 +903,10 @@ recording:
         wir wohl ein Jahr da. Dann kamen die Russen wieder.
     - who: David Boder
       start: '00:18:53.794'
-      end: '00:18:57.64'
+      end: '00:18:57.640'
       u: Aha. Also Sie blieben ein Jahr unter den Deutschen und sind nicht weggegangen?
     - who: Anna Braun
-      start: '00:18:57.64'
+      start: '00:18:57.640'
       end: '00:19:22.344'
       u: Wir sind nicht weggegangen. Dann, wie die Russen wieder kamen und das Geschieße
         wieder anfing, die Front sicher da wieder sehr lange aufhielt bei uns und
@@ -946,10 +946,10 @@ recording:
       u: Fünf und dreißig (35)?
     - who: Anna Braun
       start: '00:19:58.308'
-      end: '00:20:02.66'
+      end: '00:20:02.660'
       u: Fünf und dreißig (35) Personen und dann noch alle Sachen.
     - who: David Boder
-      start: '00:20:02.66'
+      start: '00:20:02.660'
       end: '00:20:03.916'
       u: Ja.
     - who: Anna Braun
@@ -996,10 +996,10 @@ recording:
       u: Ja.
     - who: David Boder
       start: '00:20:55.563'
-      end: '00:20:58.18'
+      end: '00:20:58.180'
       u: ".....und mit den ganzen Sachen und so wurden Sie zurück geschickt."
     - who: Anna Braun
-      start: '00:20:58.18'
+      start: '00:20:58.180'
       end: '00:20:58.401'
       u: Ja.
     - who: David Boder
@@ -1017,10 +1017,10 @@ recording:
         der Fahrt.
     - who: David Boder
       start: '00:21:33.983'
-      end: '00:21:37.38'
+      end: '00:21:37.380'
       u: Was für Fenster gibt es in solchen Wagons?
     - who: Anna Braun
-      start: '00:21:37.38'
+      start: '00:21:37.380'
       end: '00:21:47.635'
       u: Es gibt in diesen Wagons oben ganz kleine Fenster, die man ganz verschließen
         kann oder öffnen.
@@ -2565,10 +2565,10 @@ recording:
       u: Oh ja, Onezhskoe ozero. (sagt einen russischen Satz) (beiden lachen)
     - who: Anna Braun
       start: '01:01:17.983'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Ja, und seitdem weiß ich von meiner Schwester nichts, wo sie geblieben ist.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:01:24.650'
       u: Ah hm.
     - who: Anna Braun
@@ -2738,11 +2738,11 @@ recording:
         viele Leute ungefähr in einem Zimmer?
     - who: Anna Braun
       start: '01:04:09.409'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Wir haben Zimmer von dreißig bis vierzig Quadratmeter (30 bis 40 m2) gross
         und in einem Zimmer wohnen zwölf (12) Mann.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:04:21.068'
       u: Ja.
     - who: Anna Braun
@@ -3451,15 +3451,15 @@ recording:
       u: Yes.
     - who: David Boder
       start: '00:10:15.008'
-      end: '00:10:18.4'
+      end: '00:10:18.400'
       u: Then who told you what sentence he was given?
     - who: Anna Braun
-      start: '00:10:18.4'
-      end: '00:10:38.33'
+      start: '00:10:18.400'
+      end: '00:10:38.330'
       u: In Kharkov at the offices of the Military Tribunal they told me so. The third
         of July, ’37, I was told the sentence was upheld in Moscow, in June, ’37.
     - who: David Boder
-      start: '00:10:38.33'
+      start: '00:10:38.330'
       end: '00:10:41.913'
       u: Yes. Have you seen your husband after he was sentenced?
     - who: Anna Braun
@@ -3480,12 +3480,12 @@ recording:
       u: So. And what happened afterwards?
     - who: Anna Braun
       start: '00:10:47.647'
-      end: '00:11:00.23'
+      end: '00:11:00.230'
       u: Afterwards...you see the sentences was pronounced in Zaporozhe. From Zaporozhe
         my husband was taken to Dnepropetrovsk.Dnepropetrovsk is located just northwest
         of Zaporozhye.10
     - who: David Boder
-      start: '00:11:00.23'
+      start: '00:11:00.230'
       end: '00:11:02.275'
       u: But you said something about Kharkov.
     - who: Anna Braun
@@ -3503,10 +3503,10 @@ recording:
         I was still able to bring him food up until June, the middle of June.
     - who: David Boder
       start: '00:11:27.797'
-      end: '00:11:29.35'
+      end: '00:11:29.350'
       u: What were you doing, going there everyday?
     - who: Anna Braun
-      start: '00:11:29.35'
+      start: '00:11:29.350'
       end: '00:11:58.707'
       u: 'No. I went there once a week. And I would bring him food and clean underwear.
         Everytime they accepted from me these things and every time my husband had
@@ -3518,10 +3518,10 @@ recording:
       u: Was he able to return the soiled underwear?
     - who: Anna Braun
       start: '00:12:01.164'
-      end: '00:12:03.29'
+      end: '00:12:03.290'
       u: Yes, he also would send back the soiled clothes.
     - who: David Boder
-      start: '00:12:03.29'
+      start: '00:12:03.290'
       end: '00:12:04.436'
       u: Yes.
     - who: Anna Braun
@@ -3567,12 +3567,12 @@ recording:
       u: Yes, go on.
     - who: Anna Braun
       start: '00:12:54.873'
-      end: '00:13:13.0'
+      end: '00:13:13.000'
       u: At any rate he received the things every time. Then it was the end of June.
         I jouned again to Dnepropetrovsk in order to bring him food and clothes and
         he wasn’t there any more.
     - who: David Boder
-      start: '00:13:13.0'
+      start: '00:13:13.000'
       end: '00:13:14.432'
       u: And what did they tell you?
     - who: Anna Braun
@@ -3589,10 +3589,10 @@ recording:
         It serves to still consciences and mask brutalities.11
     - who: David Boder
       start: '00:13:20.382'
-      end: '00:13:21.0'
+      end: '00:13:21.000'
       u: Departed?
     - who: Anna Braun
-      start: '00:13:21.0'
+      start: '00:13:21.000'
       end: '00:13:29.587'
       u: Yes. Departed. I immediately journeyed to Kharkov.[She hesitates]
     - who: David Boder
@@ -3601,7 +3601,7 @@ recording:
       u: To the authorities?
     - who: Anna Braun
       start: '00:13:30.492'
-      end: '00:14:08.18'
+      end: '00:14:08.180'
       u: 'To the authorities of the Military Tribunal and there at the office they
         looked him up and told me that the case is known to them and that the sentence
         was confirmed in Moscow in June. And so I asked them: ‘Is there anything I
@@ -3610,7 +3610,7 @@ recording:
         of October it will be 10 years.Mrs. Braun’s unceasing efforts on behalf of
         her imprisoned husband are most laudable.12'
     - who: David Boder
-      start: '00:14:08.18'
+      start: '00:14:08.180'
       end: '00:14:13.829'
       u: Tell me Mrs. Braun, were there other people sentenced with your husband or
         was he alone on trial?
@@ -3678,10 +3678,10 @@ recording:
       u: Oh. But he has been working in the department of economics?
     - who: Anna Braun
       start: '00:15:40.613'
-      end: '00:15:47.04'
+      end: '00:15:47.040'
       u: Yes. He worked there and had a great deal of experience.
     - who: David Boder
-      start: '00:15:47.04'
+      start: '00:15:47.040'
       end: '00:16:05.663'
       u: And then. [She hesitates again] Continue, Mrs. Braun. [The pause continues
         for a long time] So you remained alone. Did you ever get a certificate that
@@ -3729,11 +3729,11 @@ recording:
       u: Yes.
     - who: David Boder
       start: '00:17:20.475'
-      end: '00:17:29.26'
+      end: '00:17:29.260'
       u: Well, Now then what happened when the Germans came. You went to the other
         side of the Dneiper, you were telling me, to your family?
     - who: Anna Braun
-      start: '00:17:29.26'
+      start: '00:17:29.260'
       end: '00:17:29.717'
       u: Yes.
     - who: David Boder
@@ -3773,11 +3773,11 @@ recording:
         Red army was on the offensive.14
     - who: David Boder
       start: '00:18:53.794'
-      end: '00:18:57.64'
+      end: '00:18:57.640'
       u: Oh, so that was how it was. You remained for a year under the Germans. You
         did not leave.
     - who: Anna Braun
-      start: '00:18:57.64'
+      start: '00:18:57.640'
       end: '00:19:22.344'
       u: No, we did not leave, but when the Russians approached again and the shooting
         started and we found ourselves again on the front and many homes were destroyed,
@@ -3818,10 +3818,10 @@ recording:
       u: Thirty-five?
     - who: Anna Braun
       start: '00:19:58.308'
-      end: '00:20:02.66'
+      end: '00:20:02.660'
       u: Thirty-five people and all our belongings.
     - who: David Boder
-      start: '00:20:02.66'
+      start: '00:20:02.660'
       end: '00:20:03.916'
       u: Yes.
     - who: Anna Braun
@@ -3858,11 +3858,11 @@ recording:
       u: No, no, no.
     - who: David Boder
       start: '00:20:50.764'
-      end: '00:20:58.18'
+      end: '00:20:58.180'
       u: They were just volks-Germans and you were embarked about thirty-five in one
         cattle car with all the belongings and so you were evacuated.
     - who: Anna Braun
-      start: '00:20:58.18'
+      start: '00:20:58.180'
       end: '00:20:58.401'
       u: Yes.
     - who: David Boder
@@ -3879,10 +3879,10 @@ recording:
         motion.
     - who: David Boder
       start: '00:21:33.983'
-      end: '00:21:37.38'
+      end: '00:21:37.380'
       u: What kind of windows were in these cars?
     - who: Anna Braun
-      start: '00:21:37.38'
+      start: '00:21:37.380'
       end: '00:21:47.635'
       u: There were small windows near the ceiling which could be either kept open
         or shut.

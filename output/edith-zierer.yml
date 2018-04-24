@@ -22,7 +22,7 @@ recording:
   location: Bellevue, France
   languages:
   - German
-  duration: '00:22:13.28975'
+  duration: '00:22:13.289'
   spools:
   - 9-116B
   audio:
@@ -2113,10 +2113,10 @@ recording:
       u: The father? Then? Forty-one years old.
     - who: David Boder
       start: '00:02:24.255'
-      end: '00:02:26.64'
+      end: '00:02:26.640'
       u: Yes. Do you know where your father is?
     - who: Edith Zierer
-      start: '00:02:26.64'
+      start: '00:02:26.640'
       end: '00:02:27.111'
       u: "[Barely audible voice] No."
     - who: David Boder
@@ -2767,10 +2767,10 @@ recording:
         there some money, paid up for the sister...
     - who: David Boder
       start: '00:09:00.563'
-      end: 00:09:01.004x
+      end: '00:09:01.004'
       u: Yes.
     - who: Edith Zierer
-      start: 00:09:01.004x
+      start: '00:09:01.004'
       end: '00:09:09.382'
       u: And I myself remained in the Ghetto, because I...I worked here [in the Ghetto]
         a bit. I helped out, and I lived on it. I helped out [did some chores].
@@ -3708,10 +3708,10 @@ recording:
       u: ". . . et cetera."
     - who: Edith Zierer
       start: '00:18:54.414'
-      end: 00:18:55.006x
+      end: '00:18:55.006'
       u: Yes.
     - who: David Boder
-      start: 00:18:55.006x
+      start: '00:18:55.006'
       end: '00:18:56.956'
       u: Do you work? Do you help with the chores?
     - who: Edith Zierer

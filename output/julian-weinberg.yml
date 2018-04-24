@@ -19,7 +19,7 @@ recording:
   location: Paris, France
   languages:
   - German
-  duration: '00:39:44.0919375'
+  duration: '00:39:44.091'
   spools:
   - 9-49
   audio:
@@ -1297,7 +1297,7 @@ recording:
       u: Das war nicht das Lager Polizei?
     - who: Julian Weinberg
       start: '00:35:24.355'
-      end: 00:37:09.343x
+      end: '00:37:09.343'
       u: 'No. Das Lager selbst hatte...hatte keine deutsche Polizei Wache—nur das
         ganze Ghetto. Wir sind nachts aus dem Lager raus und haben uns versteckt in
         verschiedenen Bunkern, in verschiedenen Kellern und auch in Dachböden der
@@ -1314,7 +1314,7 @@ recording:
         haben, haben sie beschlossen aus den Wohnungen raus zu ziehen und dann wollten
         sie eine gemeinsame...'
     - who: David Boder
-      start: 00:37:09.343x
+      start: '00:37:09.343'
       end: '00:37:09.855'
       u: Exekution.
     - who: Julian Weinberg
@@ -2671,7 +2671,7 @@ recording:
       u: Was that not the lager police?
     - who: Julian Weinberg
       start: '00:35:24.355'
-      end: 00:37:09.343x
+      end: '00:37:09.343'
       u: No [He uses the word ‘only’]. The lager proper had no German police guard,
         only the Ghetto as a whole. We got out of the lager at night and hid in various
         bunkers, in various buildings, in cellars, and in the attics of the buildings.
@@ -2686,7 +2686,7 @@ recording:
         apartments the rest of the eight hundred people who had hidden themselves,
         and then proceed with a general...
     - who: David Boder
-      start: 00:37:09.343x
+      start: '00:37:09.343'
       end: '00:37:09.855'
       u: Execution.
     - who: Julian Weinberg

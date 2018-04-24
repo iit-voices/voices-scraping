@@ -20,7 +20,7 @@ recording:
   location: Tradate, Italy
   languages:
   - German
-  duration: '00:37:04.5355'
+  duration: '00:37:04.535'
   spools:
   - 9-109
   audio:
@@ -357,10 +357,10 @@ recording:
       u: Nun, wie hat man das...? Was hat Euch passiert?
     - who: Esther Krueger
       start: '00:03:18.518'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Damals...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:03:20.534'
       u: Ja.
     - who: Esther Krueger
@@ -646,10 +646,10 @@ recording:
         Schriften und ich habe auch geschrieben—durch Polnische.
     - who: David Boder
       start: '00:06:22.172'
-      end: '00:06:22.64'
+      end: '00:06:22.640'
       u: Ah hm.
     - who: Esther Krueger
-      start: '00:06:22.64'
+      start: '00:06:22.640'
       end: '00:06:35.971'
       u: Und meine Mutti hat geschrieben zu mir, die Aussiedlung ist geblieben und
         erst in drei (3) Monaten. Aber es ist nicht gewesen wahr. Meine Mutti hat

@@ -28,7 +28,7 @@ recording:
   location: Wiesbaden, Germany
   languages:
   - German
-  duration: '01:09:14.488125'
+  duration: '01:09:14.488'
   spools:
   - 9-163
   - 9-164A
@@ -111,11 +111,11 @@ recording:
       u: Ah hm. Also, das war, was wir sagen - ein Mail Order House?
     - who: Jaques Matzner
       start: '00:01:59.276'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Ja, man hat es per Post bestellt und per Post verschickt. 1938 wurden die
         polnischen Juden deportiert. Eines Nachts kam die...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:02:09.838'
       u: Sprechen Sie lauter, bitte.
     - who: Jaques Matzner
@@ -2267,7 +2267,7 @@ recording:
       u: All these were Jews?
     - who: Jaques Matzner
       start: '00:23:12.465'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: All these were Jews. “If you have some trouble, report to your room trusty.
         Don’t report too often, and don’t become conspicuous. Do not talk much, and
         do what you are told to do. Don’t talk much to each other, and don’t try to
@@ -2277,7 +2277,7 @@ recording:
         time to work. This was work on the autobahn of the Reich. For five prisoners
         (at that time I did not yet consider myself a prisoner)...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:24:02.538'
       u: Yes?
     - who: Jaques Matzner
@@ -2891,41 +2891,41 @@ recording:
       u: Spotted typhus or intestinal?
     - who: Jaques Matzner
       start: '01:01:26.840'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Intestinal. And under the care of this Russian physician—he treated me marvelously,
         indeed—I was healed. From the Russian hospital I came to the International
         lager and from there...
     - who: Jaques Matzner
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . I was sent to a French hospital and I convalesced in Bart. I did not
         want to remain in Bart."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Where is Bart?
     - who: Jaques Matzner
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: It is somewhere in Silesia. I pretended to be a Frenchman.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: You were free by the Russians?
     - who: Jaques Matzner
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, I was freed by the Russians. But that man, that soldier who washed me
         with cognac, he was an American pilot. That I found out afterwards. They were
         there with huge American flying machines. I did not see them myself but from
         the description—they were just giant flying machines. And I presented myself
         to be a Frenchman.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: How did that man get into the hospital?
     - who: Jaques Matzner
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:01:42.807'
       u: I don’t know that. At any rate there were Americans present. The best proof
         of it is that many of our patients who could already walk were given by these...

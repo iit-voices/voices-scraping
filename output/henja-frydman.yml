@@ -21,7 +21,7 @@ recording:
   languages:
   - Yiddish
   - German
-  duration: '02:06:12.244875'
+  duration: '02:06:12.244'
   spools:
   - 9-29
   - 9-30
@@ -394,10 +394,10 @@ recording:
       u: What does that mean?
     - who: Henja Frydman
       start: '00:09:39.575'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: In a bad condition.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:09:42.599'
       u: To set them free?
     - who: Henja Frydman
@@ -2460,60 +2460,60 @@ recording:
         a speech. She said...
     - who: David Boder
       start: '02:05:56.165'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: This concludes Spool 32. We are in the moment of the execution of the girl
         who saved the speaker’s life twice.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Spool 33. This is a continuation of Spool 32. The interviewee is Miss Henja
         Frydman. She was in the midst of telling a story about her friend who saved
         her life several times and was now to be executed.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And so, Miss Frydman, tell us again about the girl who helped you, while
         you were sick with typhus. What was her name?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Her name was Molly Zinnenbaum. As I was telling you, we assembled on the
         square of the lager.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: She had escaped?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: She had escaped and for fifteen days she was hiding in Poland. Then she was
         returned.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: How did they find her?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: A Polish prisoner had arranged for her identification papers. The Germans
         had various methods. The Polish girl was beaten, and she reported that Molly
         was located in such-and-such a place.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So it was. Molly had indeed hid there, and she was found. And she was returned
         to Auschwitz and held in a bunker, where she was kept for six weeks.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What is a bunker?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: A bunker in Auschwitz is a small room where one hardly can sit down; one
         cannot stand up, one cannot move, and one cannot see anybody. She was many
         times taken out of that bunker and interrogated. I cannot tell you exactly
@@ -2533,21 +2533,21 @@ recording:
         herself with a razor blade and the moment when the Germans wanted to hang
         her she cut her arteries on the hands.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh.
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So that she not be shot [shot seems to be used as a synonym for killed.]
         by German hands.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Shot or hanged?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Hanged, by German hands. The work service leader approached her. He wanted
         to stop the bleeding, but Molly slapped his face. A commotion spread over
         the lager. For the first time we saw a Jewish prisoner raise his hand against
@@ -2556,12 +2556,12 @@ recording:
         push cart in which we carted sand, and they threw Molly in it. She was tied
         up and carted to the hospital. It was impossible to stop it.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The bleeding?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, and since the Germans wanted to shoot her [again meaning apparently
         to kill her] before she died by her own hand, she was taken in this state
         to the crematory, and there she was shot by the chief of the crematory, Moll.The
@@ -2571,53 +2571,53 @@ recording:
         He became head of the gas chambers and crematoria in Birkenau. After the war,
         in November 1945, Moll was tried and executed.32
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Do you know what happened to Moll? Was he arrested?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[After a long pause] According to what I have heard, Moll was arrested.
         Whether it is so, I do not know."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And that all happened in Auschwitz?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: All that happened in Birkenau and Auschwitz.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And how long did that all last?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[Speaking at the same time] And that is the end of Molly’s story."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: How long were you in Birkenau?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I spent two years in Birkenau. Right up to liberation.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So. And who liberated you?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The Russians.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Tell me, how did this liberation occur?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I remained in the hospital with the sick. By that time I was a nurse. The
         Germans laughed and still told us that they would come back to take us, to
         evacuate us, because the Russians were approaching. Three days passed and
@@ -2630,12 +2630,12 @@ recording:
         of sixty, was ten, and that was considered a very high percentage. We remained
         because we constantly kept together and kept up contact with each other.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And then, how did the Russians come?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[Simultaneously] I was belonging to a group that held us up. When the Russians
         came, they immediately cut the wire and received us with great respect. The
         soldiers who liberated our lager proved to us that there are still human beings
@@ -2645,32 +2645,32 @@ recording:
         and by and by, those who could return home, that meant those from Poland,
         the Polish, because there were not only Jews, but also Polish women—"
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What do you mean, ‘there were not only Jews’?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: There was a lager for non-Jewish prisoners. Aryans, and a large number of
         Poles among them.Poles were the first prisoners incarcerated in Auschwitz.
         Some 75,000 perished there.33
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: We remained in the lager, since we were nurses, to help the Russians with
         the sick. I remained with them for three months. I worked as a nurse, I worked
         and—
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Did they pay you?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They-no, they gave us to understand that during the time until we could be
         sent home we ought to remain with the sick. We understood each other well,
         and we remained. After three months we were liberat—we were sent to Kattowitz
@@ -2680,148 +2680,148 @@ recording:
         to the Russian Black Sea port of Odessa from where Henja embarked on her voyage
         to France.34
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Odessa?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Odessa, yes.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And from Odessa to France.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: By boat?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: By boat. By an English boat.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: How many were you? French women and men?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: There were many of us. There were people in Kattowitz from various lagers.
         That was a point of concentration.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: How did it look in Odessa?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I personally haven’t seen any of Odessa. I went directly into the hospital.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Why? Were you sick?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Because I was sick. I had mastoid trouble.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh, were you operated on in Odessa?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I was not operated on in Odessa, because all the medical people, all the
         surgeons, were mobilized to the front. And so I was operated on upon my return
         to France.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: You were operated on in France? Where was the operation?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: On the left side.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Your left ear?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Are you completely well?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, completely well.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Can you hear with your left ear?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes, very well. I got well immediately, because I had a very good doctor.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And so you returned to France?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: To France.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well, what did you find there?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In France I did not find anybody. My parents were deported four months after
         my deportation.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Did you know it?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: That I already knew in the lager, because by some chance I met a girl friend,
         an acquaintance, who was in the same transport with my parents. She told me
         that my father, my mother, and my brother had arrived with that transport
         and got into the trucks.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: They came to the same lager?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Also to Auschwitz. To the same lager.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: But—
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I even found in the lager a photograph of mine that was brought there by
         my parents.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So. How did you find that?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: This was found in the division which received the people upon their arrival,
         their things; and among the things it happened that one of them recognized
         me and showed me that picture.Henja is speaking about a section of the camp
@@ -2831,101 +2831,101 @@ recording:
         personally profiting from them. This was but a part of the corruption that
         pervaded Auschwitz.35
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: A prisoner?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: A prisoner. I understood immediately that these were my parents who had come,
         because nobody in France had my picture, since I belonged to the Resistance.
         Only my parents would have had my picture. And that is how I learned that
         they had arrived and went directly into the gas.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: How old was your brother?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: My brother was twenty-two years old.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And he was taken with the parents?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: With the parents?
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Why?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: As I figure it, he did not want to separate himself from the parents.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: So.
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And he remained together with them. My parents hoped, I believe, all through
         their journey, to see their daughter. But it did not happen that way.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What are you doing now in France?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I arrived, and I immediately started to work.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: In what line?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I was one of the first Jewish deportees from France who returned, and upon
         my arrival there was already formed a union of Jewish deportees.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: French, or all?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: All of them, without exception, and I have been working with this union since
         I have returned.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Is this a job? Do you earn something?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes. I am getting 6,000 francs a month as a secretary. [At the black market
         rate this was about $30.00 a month.] As a secretary I work ordinarily just
         like any other secretary, but my work, or course, isn’t like in any ordinary
         office.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: But I work here because it gives me something to do.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Can you live on 6,000 francs?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: No, one cannot live on 6,000 francs, but still one lives on what he has.
         Many people in France do not earn more than I do, and they live. One adapts
         himself to any conditions. It is not hard for me, because anything is good
@@ -2942,50 +2942,50 @@ recording:
         and losses. Like so many others, Henja experienced survivor guilt, questioning
         why she survived while so many others perished.36
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What are you planning to do? Tell me, what are you planning to do in general?
         Are you going to stay with the union, or do you intend to learn something?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I regret very much that I could no continue with my studies because—
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What were you studying?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: 'Literature. I was an especially great student. I took my examination of
         “maturity”[Footnote: “Maturity examination” or Matura is equivalent to an
         examination for admission to the university, or to about the sophomore level
         of American colleges.], because I always like literature; I was interested
         in it. I regret now that I don’t have the time.'
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And you want to remain in France?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes. I shall remain in France, because where else could I go? And I have
         nothing.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Have you relatives in America? Or in Palestine?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I do have—in Palestine I have two sisters.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: You have two sisters!
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Two sisters, who are married and have children. Also a brother, who served
         in the English army for five years; for four years he was a prisoner of the
         Germans. They are in Palestine and want me to come over there. I should like
@@ -2997,49 +2997,49 @@ recording:
         more than others; that is true. We have a more difficult task, but what does
         it matter where one fights, as long as it is a same idea?
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Are you a Communist?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: 'Yes, I am, and I believe I shall remain one.Henja’s ideological commitment
         played a role in her survival by bolstering her will and spirit. It gave her
         a motive for surviving: to live in order to build a more just and humane world
         and to take part in the ongoing struggle against fascism.37'
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Is there a strong Communist movement in France?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes. A very strong one.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Is it the same movement as in Russia? What do the communists here in France
         demand?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[After a long pause] The Communists in France—really one shouldn’t say the
         Communists."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Why not.
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I should say the working class.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: 'Intellectuals, the students, demand, as the whole world knows, just what
         all the workers in the world demand: to live like human beings. And for that
         they will fight to their last drop of blood, as they have been fighting up
@@ -3047,73 +3047,73 @@ recording:
         Those who have remained [survived], with those who have remained “there”,
         those who have formerly been with the Resistance—'
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: And so—
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[Continuing]—to improve the life of the people and to improve one’s personal
         life, a young person should be able to study, if he wants to; the working
         man should be allowed to work and earn a living, not to live just for food,
         and worry from morning to night about what he will be doing tomorrow. Justice,
         that is what we want. A human way of life."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Tell me, what on an average does a worker earn now in France, per month?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Little. The working man who works in a factory and is specialized earns from
         eight thousand to ten thousand francs a month. And to live normally, and that
         means not to starve, to have what the body demands, you need at least fifteen
         thousand francs a month per person. And that he doesn’t have.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I know typists and officers who make twelve or thirteen thousand a month.
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: No, they are great specialists or somebody working in a commercial field,
         an office of a business where the owner earns an awful lot. Then he pays as
         much as he pleases. But the normal price is eight—between six and eight thousand
         francs.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Now for instance, a woman who sits in the metro and punches tickets. What
         does she earn?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Very little. I believe between four and five thousand francs a month.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Four to five thousand francs a month! Not much. Do you have relatives in
         America?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I have a cousin of my mother’s in America.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Have you written to him?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: No.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[After a pause] Do you want to say something else? What would you want to
         tell the students in the United States?"
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: "[After a long pause] I would tell the youth of America, in the first place,
         to see to it that the world, and America itself, which at present occupies
         the first place among countries of the world, and which could finance all
@@ -3124,38 +3124,38 @@ recording:
         and that it can happen again. Therefore human society must strive to prevent
         future genocides and be alert to their warning signs.38"
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Do you believe that Fascism could return?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: How could that happen?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Fascism can return if the world does not become once and for all—honest,
         and if the people of all countries do not hold together. I can only say that
         up to now things are not going right.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: How long did you work with the Russians?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Three months.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Well, how did things look there? What are your impressions of the Russians?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I can’t give you broad impressions, because I was, as I told you, in the
         hospital; and so I can’t tell you because I have nothing to say. I saw only
         one thing, that the people, the individuals with whom I talked, were great
@@ -3163,37 +3163,37 @@ recording:
         worked with us. I saw them working at night. They were working very hard,
         but they like their life.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Didn’t they complain about the Bolsheviks?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Oh, no, nobody complained. On the contrary, they had a bit of an ironical
         attitude toward the Europeans.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Why?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Because—
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What was it, what was the reason for the irony?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Ilya Ehrenburg recently told us in Paris, to understand, with his personal
         irony, that in Russia maybe not everybody has his automobile, and he is making
         in many of the other things that they have, for example, in America, but he
@@ -3207,32 +3207,32 @@ recording:
         became a key spokesman for Soviet intellectuals seeking liberal reforms and
         an outspoken opponent of Soviet anti-Semitism.39
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: The Russian man is deep. He thinks a lot. He thinks during the nights.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Did you hear Ehrenburg before he went to America or after his return.
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: After he came back.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Tell me more, what did he say?
     - who: Henja Frydman
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: He liked America very much, but he is very proud of Russia. I think that
         is enough.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Yes. [A pause.] Well, this concludes Miss Henja Frydman’s fifth spool. The
         records are from Spool 29 to Spool 33, up to nearly twenty-six minutes of

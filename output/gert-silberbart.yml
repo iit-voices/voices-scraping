@@ -22,7 +22,7 @@ recording:
   location: Genève, Switzerland
   languages:
   - German
-  duration: '00:48:12.0953125'
+  duration: '00:48:12.095'
   spools:
   - 9-82
   - 9-83A
@@ -5080,11 +5080,11 @@ recording:
       u: Silberbart...
     - who: David Boder
       start: '00:38:35.535'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Silberbart and we are going over to Spool 83. Geneva, August the 27th, 1946.
         Illinois Institute of Technology recording.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:38:57.515'
       u: "[In German] You heard American music...oh, one moment..."
     - who: David Boder

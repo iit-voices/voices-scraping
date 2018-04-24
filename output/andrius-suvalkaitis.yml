@@ -20,7 +20,7 @@ recording:
   - German
   - Lithuanian
   - Russian
-  duration: '00:16:46.36775'
+  duration: '00:16:46.367'
   spools:
   - 9-143A
   audio:
@@ -301,10 +301,10 @@ recording:
         sind."
     - who: Andrius Suvalkaitis
       start: '00:11:45.518'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Ja dass ich komme...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:11:57.765'
       u: Sprechen Sie Litauisch. Aber Ihnen persönlich, Sie brauchen nicht die ganze
         Geschichte...wie ist es Ihnen gegangen? Ja, sprechen Deutsch.
@@ -338,7 +338,7 @@ recording:
       u: "[In German] Langsam."
     - who: Andrius Suvalkaitis
       start: '00:12:56.778'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[In Lithuanian] Atvežė į Vokietiją, ir visą laiką turėjau dirbt prie apkasų,
         apkasų kasimuos. Dirbau Rytprūsiuos, ir taip palaipsniui atsiradau iki Karaliaučiaus.
         Nuo Karaliaučiaus iš apkasų pabėgau, atvažiavau į Berlyną, iš Berlyno pusės
@@ -346,7 +346,7 @@ recording:
         pasi...pasislapščius pas ūkininkus, vieną kitą dieną padirbus, užėjo amerikiečiai.
         Užėjus amerikiečiams laimingai pakliuvau į Rytų lagerį ir šiandien dar tebegyvenu."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:13:39.055'
       u: "[In German] Also, und wo waren Sie, wenn die Amerikaner gekommen?"
     - who: Andrius Suvalkaitis
@@ -359,10 +359,10 @@ recording:
       u: Litauisch.
     - who: Andrius Suvalkaitis
       start: '00:13:41.812'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[In Lithuanian] Kai amerikonai atvažiavo, aš buvau Austrijoj."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:13:49.955'
       u: "[In German] Und dann, wie sind Sie von Austria nach München gekommen?"
     - who: Andrius Suvalkaitis
@@ -817,10 +817,10 @@ recording:
         to you—personally—when the Germans came to Lithuania."
     - who: Andrius Suvalkaitis
       start: '00:11:45.518'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Yeah, that I come to...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:11:57.765'
       u: Speak Lithuanian. But you personally—you don’t need to tell the whole story—what
         happened to you? Yeah, speak German.
@@ -854,7 +854,7 @@ recording:
       u: "[In German] Slowly."
     - who: Andrius Suvalkaitis
       start: '00:12:56.778'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[In Lithuanian] I was brought to Germany and had to work all the time at
         trenches, digging them. I worked in Eastern Prussia and ended up in Karaliaučiaus.
         Once in Karaliaučiaus, I ran away from the trenches, came to Berlin, having
@@ -863,7 +863,7 @@ recording:
         working day. When they came, I was successfully put into the Eastern camp,
         where I live to this day."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:13:39.055'
       u: "[In German] So, where had you been when the Americans came?"
     - who: Andrius Suvalkaitis
@@ -876,10 +876,10 @@ recording:
       u: Lithuanian.
     - who: Andrius Suvalkaitis
       start: '00:13:41.812'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[In Lithuanian] When the American came, I was in Austria."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:13:49.955'
       u: "[In German] And how did you get from Austria to Munich?"
     - who: Andrius Suvalkaitis

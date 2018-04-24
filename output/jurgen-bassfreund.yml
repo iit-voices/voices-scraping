@@ -23,7 +23,7 @@ recording:
   location: München, Germany
   languages:
   - German
-  duration: '01:12:35.91875'
+  duration: '01:12:35.918'
   spools:
   - 9-137B
   - 9-138B
@@ -99,10 +99,10 @@ recording:
         wo Hitler zur Macht kam? Wer waren Ihre Eltern?
     - who: Jürgen Bassfreund
       start: '00:01:38.132'
-      end: '00:01:42.78'
+      end: '00:01:42.780'
       u: Mein Vater war Doktor der Medizin, Manfred Bassfreund.
     - who: David Boder
-      start: '00:01:42.78'
+      start: '00:01:42.780'
       end: '00:01:43.773'
       u: Wo?
     - who: Jürgen Bassfreund
@@ -200,7 +200,7 @@ recording:
         bevor dem Krieg?
     - who: Jürgen Bassfreund
       start: '00:02:51.983'
-      end: '00:03:20.48'
+      end: '00:03:20.480'
       u: Also ich bin damals als einziger Jude auf das Gymnasium gekommen nach Trier.
         Und damals war’s schon so, dass ein gewisser militaristischer Drill—eben von
         der Lehrerschaft aus—auf die Schüler, hm, ausgeübt wurde, nicht. Es war so,
@@ -208,7 +208,7 @@ recording:
         mit „Heil Hitler” und die Schüler mussten ebenfalls „Heil Hitler” grüßen.
         Selbstverständlich habe ich das als Jude nicht getan.
     - who: David Boder
-      start: '00:03:20.48'
+      start: '00:03:20.480'
       end: '00:03:22.561'
       u: Sie haben es nicht tun dürfen?
     - who: Jürgen Bassfreund
@@ -2610,10 +2610,10 @@ recording:
       u: Also das Kino wurde nie von ihm weg genommen?
     - who: Jürgen Bassfreund
       start: '01:07:06.294'
-      end: '01:07:08.99'
+      end: '01:07:08.990'
       u: Nein, es wurde nicht von ihm weg genommen.
     - who: David Boder
-      start: '01:07:08.99'
+      start: '01:07:08.990'
       end: '01:07:12.162'
       u: Also sie haben ihm einfach das Kino gegeben, dass er anfangen kann...
     - who: Jürgen Bassfreund

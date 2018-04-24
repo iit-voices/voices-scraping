@@ -19,7 +19,7 @@ recording:
   languages:
   - Russian
   - Yiddish
-  duration: '00:20:39.6669375'
+  duration: '00:20:39.666'
   spools:
   - 9-121B
   audio:
@@ -1306,10 +1306,10 @@ recording:
       u: Да, но они тоже уехали, не остались.
     - who: David Boder
       start: '00:11:52.608'
-      end: '00:11:55.4439'
+      end: '00:11:55.443'
       u: Так. А раввины у вас были кто?
     - who: Clara Neiman
-      start: '00:11:55.4439'
+      start: '00:11:55.443'
       end: '00:11:57.420'
       u: В Саратове было много евреев.
     - who: David Boder
@@ -3171,10 +3171,10 @@ recording:
       u: Yes. But they, too, have departed from here. They do not remain there.
     - who: David Boder
       start: '00:11:52.608'
-      end: '00:11:55.4439'
+      end: '00:11:55.443'
       u: So. And who were your rabbis?
     - who: Clara Neiman
-      start: '00:11:55.4439'
+      start: '00:11:55.443'
       end: '00:11:57.420'
       u: In Saratov there were many Jews.
     - who: David Boder

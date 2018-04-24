@@ -21,7 +21,7 @@ recording:
   location: Paris, France
   languages:
   - English
-  duration: '01:20:18.1811875'
+  duration: '01:20:18.181'
   spools:
   - 9-64
   - 9-65
@@ -1858,10 +1858,10 @@ recording:
         and six days...
     - who: David Boder
       start: '00:29:11.441'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Yes.
     - who: Otto Feuer
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:29:20.091'
       u: And those papers of course were given by prisoners, and they, at that time,
         they had won the confidence of the SS...
@@ -4051,10 +4051,10 @@ recording:
       u: Which one of the [word not clear] criminals has brought to the woman.
     - who: David Boder
       start: '01:07:50.314'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Yes.
     - who: Otto Feuer
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:08:00.874'
       u: "[repeats the same, not clear word as in the previous sentence, sounds like
         was] which she has given to the other comrade. He was now...the prisoner could
@@ -4628,10 +4628,10 @@ recording:
         how much my livelihood would be secure in the - States."
     - who: David Boder
       start: '01:18:21.906'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Where is your uncle?
     - who: Otto Feuer
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:18:27.966'
       u: He is in the States [??] But now...now I have two brothers in the States.
         I am going to my brothers.

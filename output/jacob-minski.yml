@@ -21,7 +21,7 @@ recording:
   location: Paris, France
   languages:
   - German
-  duration: '01:23:15.0040625'
+  duration: '01:23:15.004'
   spools:
   - 9-70
   - 9-71
@@ -89,14 +89,14 @@ recording:
         nahezu fünf und zwanzig (25) Jahre in Hamburg.
     - who: David Boder
       start: '00:01:10.172'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Ja.
     - who: Jacob Minski
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Ununterbrochen.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:01:10.813'
       u: Ja.
     - who: Jacob Minski
@@ -2392,10 +2392,10 @@ recording:
       u: Ja.
     - who: Jacob Minski
       start: '00:37:09.773'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: bewusstlos wurden.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:37:11.994'
       u: Nun?
     - who: Jacob Minski
@@ -2830,20 +2830,20 @@ recording:
       u: Gab er...
     - who: Jacob Minski
       start: '00:45:39.522'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: ". . . gab er ihnen eine Ohrfeige (lacht)"
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:45:40.928'
       u: Ja.
     - who: Jacob Minski
       start: '00:45:40.928'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "(lacht)...weil er kein Mechaniker war. Natürlich die Leute, die—sagen wir
         mal—in der Nervosität nicht sofort eine Antwort geben konnte, obwohl sie vielleicht
         wirklich, hm, Fachleute waren..."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:45:54.060'
       u: Ja.
     - who: Jacob Minski
@@ -4043,13 +4043,13 @@ recording:
       u: Als Feuerwehrmann in Lodz?
     - who: Jacob Minski
       start: '01:09:02.889'
-      end: '01:09:19.18'
+      end: '01:09:19.180'
       u: ". . . als Feuerwehrmann, weil ich einfach zu schwach war. Ich, hm,...als
         ich mich in dem Spiegel ansah, sah ich schon den Tod vor Augen. Ich erinnere
         mich, wir waren anfangs ein hundert sechzig tausend (160000) Juden und wir
         gingen dann bis auf vierzig tausend (40000)."
     - who: David Boder
-      start: '01:09:19.18'
+      start: '01:09:19.180'
       end: '01:09:21.263'
       u: Nun ja, viele wurden ja weg geschickt!
     - who: Jacob Minski
@@ -4090,10 +4090,10 @@ recording:
         sagen wir mal Medikamente, im sogenannten Schleichhandel zu erstehen.
     - who: David Boder
       start: '01:10:27.191'
-      end: 01:10:28.459x
+      end: '01:10:28.459'
       u: Hm.
     - who: Jacob Minski
-      start: 01:10:28.459x
+      start: '01:10:28.459'
       end: '01:10:36.324'
       u: Der Preis war natürlich unerschwinglich. Ich, als Feuerwehrmann verdiente
         ich drei (3) Mark, drei (3) Ghetto Mark...
@@ -4333,11 +4333,11 @@ recording:
       u: Wo haben sie dann gegeben?
     - who: Jacob Minski
       start: '01:14:33.301'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Sie gingen in einen Hof rein oder irgendwo, wahrscheinlich hat die Mutter
         gearbeitet, dann hat die Tochter dann die Gelegenheit, hm,...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:14:42.150'
       u: Ja.
     - who: Jacob Minski
@@ -4382,10 +4382,10 @@ recording:
       u: Ja.
     - who: David Boder
       start: '01:15:11.631'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: ". . . der genug zu essen hat..."
     - who: Jacob Minski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:15:12.959'
       u: Ja.
     - who: David Boder
@@ -4736,7 +4736,7 @@ recording:
       u: Niemand hat sie abgestoppt, niemand? (lacht etwas)
     - who: Jacob Minski
       start: '01:22:35.681'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: ". . . wir sind auf dem Weg natürlich schon Russen begegnet, nicht wahr.
         Aber sie sahen ja, dass sie es mit Häftlingen zu tun hatten, also...sie haben
         uns immer vorbei fahren lassen. Hm, wir kamen dann bis Wien, kamen in Wien
@@ -4744,7 +4744,7 @@ recording:
         Und Sie können sich vorstellen—in dem Augenblick die Freiheit zu geniessen,
         nachdem wir ja niemals dran geglaubt haben, dass wir davon weg zu kommen."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:23:13.188'
       u: Hm.
     - who: Jacob Minski
@@ -4756,11 +4756,11 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: How old are you?
     - who: Jacob Minski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:00:00.782'
       u: I am thirty-nine years old.
     - who: David Boder
@@ -4937,14 +4937,14 @@ recording:
       u: "[Words not clear]"
     - who: David Boder
       start: '00:03:18.477'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: You may now see, when the indicator light flashes...
     - who: Jacob Minski
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:03:21.908'
       u: ". . . then it means that you are talking loud enough."
     - who: Jacob Minski
@@ -8885,11 +8885,11 @@ recording:
       u: Yes...
     - who: Jacob Minski
       start: '01:11:32.193'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: In order [to resell it] to another, a hungry one, who say [had sold] something
         else.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:11:34.638'
       u: Yes...
     - who: Jacob Minski
@@ -9070,11 +9070,11 @@ recording:
       u: So where could they go?
     - who: Jacob Minski
       start: '01:14:33.301'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: They would...would go into a yard or somewhere. Possibly the mother was working,
         so the daughter...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:14:42.150'
       u: Yes...
     - who: Jacob Minski
@@ -9119,10 +9119,10 @@ recording:
       u: Yes...
     - who: David Boder
       start: '01:15:11.631'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: ". . . who had enough to eat."
     - who: Jacob Minski
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:15:12.959'
       u: Yes...
     - who: David Boder
@@ -9467,14 +9467,14 @@ recording:
       u: "[Chuckle] And nobody stopped you, nobody...?"
     - who: Jacob Minski
       start: '01:22:35.681'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: ". . . Of course, en route we met the Russians. They saw that they were dealing
         with prisoners so they were...They always let us pass. We then arrived in
         Vienna. That is, on the way we were, of course, very well received by the
         population. And you can imagine what a moment it was for us to enjoy freedom
         after we had given up the thought that we would ever get away."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:23:13.188'
       u: Hm...
     - who: Jacob Minski

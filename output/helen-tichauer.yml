@@ -22,7 +22,7 @@ recording:
   location: Feldafing, Germany
   languages:
   - German
-  duration: '01:52:24.8424375'
+  duration: '01:52:24.842'
   spools:
   - 9-149
   - 9-150
@@ -181,12 +181,12 @@ recording:
       u: Nun und wie haben Sie dies dem Staat so quasi zur Verfügung gestellt?
     - who: Helen Tichauer
       start: '00:03:41.061'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Überhaupt nicht, wir wissen auch gar nicht, was damit geschehen ist, weil
         wir wurden eine Woche später von der Sammelstelle, wo wir von der ganzen Welt
         abgeschnitten waren, abtransportiert mit unseren fünfzig (50) Kilos.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:03:55.215'
       u: Also, nun einen Moment. Wo waren Ihr Vater , Ihre Mutter und...?
     - who: Helen Tichauer
@@ -4350,17 +4350,17 @@ recording:
       u: What does it mean, you don’t want to talk about it?
     - who: Helen Tichauer
       start: '00:21:29.233'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[Animated and in a high pitched voice] I can’t talk about it. We were unconscious
         [in a daze]. I don’t know. I don’t know whether I senses a blow or not. It
         was...One thing I know. We were lined up, lined up in a manner so they could
         count on us, after much fuss. Naturally, it did not come to a count, because..."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Why ‘naturally’ not?
     - who: Helen Tichauer
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:22:35.158'
       u: Why not? Because there was a terrible chaos. Those SS women who then were
         in charge of conducting the lager...There was at that time the superior supervisor...the
@@ -4648,10 +4648,10 @@ recording:
       u: ". . . to affix, correct."
     - who: David Boder
       start: '00:32:11.880'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Aha.
     - who: Helen Tichauer
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:32:28.378'
       u: Now, so the work started. From dawn to dusk I was fully occupied. I had to
         make the red strips, and every prisoner to have the red stripe was so far
@@ -5645,10 +5645,10 @@ recording:
       u: They stopped gas-killing people at the end of October, ’45.
     - who: David Boder
       start: '01:06:32.802'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "’44."
     - who: Helen Tichauer
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:06:59.966'
       u: "’44, on orders [from] Berlin. And the subsequent transports which afterwards...which
         afterwards arrived, no matter whether children or old people were not gas-killed
@@ -6182,10 +6182,10 @@ recording:
         I decided to go homeward, and one day...
     - who: David Boder
       start: '01:23:33.850'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: To Slovakia?
     - who: Helen Tichauer
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:24:00.598'
       u: To Slovakia, correct. It was the third of may. Within a few hours the American
         and Russian troops decided to meet [?]. the same night I stopped an automobile

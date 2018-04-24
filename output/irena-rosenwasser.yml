@@ -315,11 +315,11 @@ recording:
       u: Ja.
     - who: Irena Rosenwasser
       start: '00:04:24.707'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: ". . . und dann haben sie nach einer Woche gesagt, wir werden alle konzentriert
         werden. Es waren einige Häuser für die Juden."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:04:34.812'
       u: Ja, bestimmt.
     - who: Irena Rosenwasser
@@ -10814,32 +10814,32 @@ recording:
         Angeles 33, California."
     - who: David Boder
       start: '01:13:33.960'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Aha...All right.
     - who: Irena Rosenwasser
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I graduated from the Gymnasium, passed my ‘Maturity Examination’ [a special
         European degree].
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Aha...
     - who: Irena Rosenwasser
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Afterwards I studied [term designates university training], but I did not
         complete my training.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: What did you take up?
     - who: Irena Rosenwasser
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: I took up Latin literature and history.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: !ruby/object:Nokogiri::XML::Text {}
       u: Aha...
   commentary:

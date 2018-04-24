@@ -19,7 +19,7 @@ recording:
   location: München, Germany
   languages:
   - Russian
-  duration: '00:33:05.4895'
+  duration: '00:33:05.489'
   spools:
   - 9-143C
   - 9-144A
@@ -465,10 +465,10 @@ recording:
       u: ". . . не разбираюсь."
     - who: David Boder
       start: '00:10:58.115'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Так.
     - who: Ioan Kharchenko
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:11:06.165'
       u: Но они, значит, масса латышей было военных, и там у них мобилизации были,
         они числились как немцы.
@@ -1094,10 +1094,10 @@ recording:
       u: Место.
     - who: Ioan Kharchenko
       start: '00:30:11.059'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: ". . . место."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:30:11.692'
       u: Так.
     - who: Ioan Kharchenko

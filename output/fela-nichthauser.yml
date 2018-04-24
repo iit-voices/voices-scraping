@@ -23,7 +23,7 @@ recording:
   location: Fontenay-aux-Roses, France
   languages:
   - German
-  duration: '01:19:04.2291875'
+  duration: '01:19:04.229'
   spools:
   - '15'
   - '16'
@@ -939,14 +939,14 @@ recording:
       u: Wie viele Kinder?
     - who: Fela Nichthauser
       start: '00:17:54.945'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Neun (9).
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Neun (9)?
     - who: Fela Nichthauser
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:17:56.252'
       u: Neun (9) Kinder
     - who: David Boder
@@ -1027,10 +1027,10 @@ recording:
         das erlebt haben, haben mir Vieles erzählt.
     - who: David Boder
       start: '00:19:36.193'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Ja also...
     - who: Fela Nichthauser
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:19:37.307'
       u: Und...
     - who: David Boder
@@ -3569,12 +3569,12 @@ recording:
         to the lager. And that was the last.
     - who: David Boder
       start: '00:20:07.693'
-      end: 00:20:19.220x
+      end: '00:20:19.220'
       u: Now wait a moment. Your mother worked there during the night, and you were
         called in the morning. And you thought your mother will return. What time
         did you say your mother will be back?
     - who: Fela Nichthauser
-      start: 00:20:19.220x
+      start: '00:20:19.220'
       end: '00:20:25.425'
       u: At half past five. And this time she did not return and that is what happened
         there.

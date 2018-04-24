@@ -22,7 +22,7 @@ recording:
   location: Paris, France
   languages:
   - Russian
-  duration: '00:12:23.94175'
+  duration: '00:12:23.941'
   spools:
   - 9-3A
   audio:
@@ -324,10 +324,10 @@ recording:
       u: Так. И потом повезли куда?
     - who: Leon Shachnovski
       start: '00:06:40.198'
-      end: 00:06:45.204x
+      end: '00:06:45.204'
       u: Раньше всего повезли нас в Штутхоф. Это под Данцигом лагерь.
     - who: David Boder
-      start: 00:06:45.204x
+      start: '00:06:45.204'
       end: '00:06:45.975'
       u: Так.
     - who: Leon Shachnovski

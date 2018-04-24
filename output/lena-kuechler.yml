@@ -20,7 +20,7 @@ recording:
   - German
   - Polish
   - Russian
-  duration: '01:12:54.4130625'
+  duration: '01:12:54.413'
   spools:
   - 9-114
   - 9-115
@@ -1217,13 +1217,13 @@ recording:
       u: "[In Russian] Говорите по-польски."
     - who: Lena Kuechler
       start: '00:38:03.915'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[In Polish] Na uniwersytecie zaczęłam pracować naukowo. Pracowałam z wielkim
         zapałem. Dostałam pracę temat, który miałam opracować o zdolnościach konstrukcyjnych
         dzieci... i robiłam sama badania setek dzieci. Pierwszy rozdział tej pracy
         mnie specjalnie interesował, tam gdzieśmy mówili o pojęciu przestrzeni..."
     - who: Lena Kuechler
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:38:33.959'
       u: "[In German] Raumvorstellung bei Kindern..."
     - who: Lena Kuechler

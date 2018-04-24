@@ -19,7 +19,7 @@ recording:
   languages:
   - Russian
   - English
-  duration: '01:53:01.7011875'
+  duration: '01:53:01.701'
   spools:
   - 9-111
   - 9-112
@@ -3548,12 +3548,12 @@ recording:
       u: Да. Т.е. как? Человек, который тут временно, может тут работать?
     - who: Fira Monk
       start: '01:47:07.378'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Теперь...теперь, если приезжает какой-нибудь беженец—значит, либо депортированный,
         либо оставшийся из Польши или из других стран, он приезжает сюда в качестве
         [неразборчиво] в Америку, например.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:47:20.385'
       u: Так.
     - who: Fira Monk
@@ -7451,11 +7451,11 @@ recording:
       u: So. In other words a person who stays in France temporarily can work here?
     - who: Fira Monk
       start: '01:47:07.378'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Now...now if a displaced person—either deported, or the one who remained
         from Poland or other countries—comes here as a [unclear] to the US, for instance.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:47:20.385'
       u: So.
     - who: Fira Monk

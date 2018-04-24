@@ -23,7 +23,7 @@ recording:
   location: Hénonville, France
   languages:
   - Yiddish
-  duration: '01:13:07.527125'
+  duration: '01:13:07.527'
   spools:
   - 9-122
   - 9-123
@@ -66,10 +66,10 @@ recording:
       u: Bedzin is not far from Sosnowiec?
     - who: Udel Stopnitsky
       start: '00:00:42.077'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Yes.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:00:45.968'
       u: Yes. In 1915, so how old are you now, 31?
     - who: Udel Stopnitsky

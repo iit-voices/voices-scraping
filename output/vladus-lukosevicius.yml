@@ -21,7 +21,7 @@ recording:
   location: München, Germany
   languages:
   - Russian
-  duration: '00:42:10.9783125'
+  duration: '00:42:10.978'
   spools:
   - 9-144
   - 9-145
@@ -186,10 +186,10 @@ recording:
         13.го сентября попался в Германию в плен и был выезжен в Западнюю Пруссиию.
     - who: David Boder
       start: '00:02:17.736'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Вы попали в плен...
     - who: Vladus Lukosevicius
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:02:18.893'
       u: Да.
     - who: David Boder
@@ -1664,10 +1664,10 @@ recording:
       u: Так.
     - who: Vladus Lukosevicius
       start: '00:25:08.839'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[При кладбище?]."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:25:10.417'
       u: Так.
     - who: Vladus Lukosevicius
@@ -2904,10 +2904,10 @@ recording:
         to West Prussia.
     - who: David Boder
       start: '00:02:17.736'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: You were captured?..
     - who: Vladus Lukosevicius
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:02:18.893'
       u: Yes.
     - who: David Boder
@@ -4417,10 +4417,10 @@ recording:
       u: "(25:04) So."
     - who: Vladus Lukosevicius
       start: '00:25:08.839'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: "[Near a cemetery?]."
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:25:10.417'
       u: So.
     - who: Vladus Lukosevicius

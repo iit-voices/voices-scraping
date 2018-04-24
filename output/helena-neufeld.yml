@@ -22,7 +22,7 @@ recording:
   languages:
   - Polish
   - Russian
-  duration: '00:30:54.56325'
+  duration: '00:30:54.563'
   spools:
   - 9-20
   audio:
@@ -1442,10 +1442,10 @@ recording:
         was the landlord of the house?"
     - who: Helena Neufeld
       start: '00:10:16.226'
-      end: 00:10:19.091x
+      end: '00:10:19.091'
       u: "[In Polish] Nu, there was the owner of the house. Before the war he was..."
     - who: David Boder
-      start: 00:10:19.091x
+      start: '00:10:19.091'
       end: '00:10:19.950'
       u: "[In Russian] A Jew or..."
     - who: Helena Neufeld

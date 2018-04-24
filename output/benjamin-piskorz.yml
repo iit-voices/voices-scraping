@@ -24,7 +24,7 @@ recording:
   location: Tradate, Italy
   languages:
   - Yiddish
-  duration: '01:19:11.7524375'
+  duration: '01:19:11.752'
   spools:
   - 9-102
   - 9-103
@@ -527,10 +527,10 @@ recording:
         four, five months."
     - who: David Boder
       start: '00:22:59.634'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Of all the transports?
     - who: Benjamin Piskorz
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:23:01.049'
       u: Of all the transports.
     - who: David Boder
@@ -728,11 +728,11 @@ recording:
       u: Hm.
     - who: Benjamin Piskorz
       start: '00:26:06.325'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: And so from six thousand people who were there, approximately, one may say,
         six or seven [thousand]...But there was a great mass, a crowd of people.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:26:14.547'
       u: Hm.
     - who: Benjamin Piskorz
@@ -1534,10 +1534,10 @@ recording:
       u: March.
     - who: Benjamin Piskorz
       start: '00:42:45.120'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: March.
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '00:42:45.761'
       u: Aha.
     - who: Benjamin Piskorz
@@ -3461,12 +3461,12 @@ recording:
       u: Yes?
     - who: Benjamin Piskorz
       start: '01:13:03.022'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: And the people...and so after a period of time the comrades who work in Milan
         organized a Hachshara, which organizes kvuthot of the organized groups. Such
         Kibbutzim...
     - who: David Boder
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:13:17.977'
       u: Yes.
     - who: Benjamin Piskorz
@@ -3754,14 +3754,14 @@ recording:
       u: I think...
     - who: Benjamin Piskorz
       start: '01:17:42.569'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Eight dekas.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: It weighed eight dekas?
     - who: Benjamin Piskorz
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:17:42.569'
       u: Yes.
     - who: David Boder
@@ -3790,34 +3790,34 @@ recording:
       u: It is this way. The...the...we get it this way. In the morning we get a bun.
     - who: David Boder
       start: '01:17:59.393'
-      end: '00:00:00.'
+      end: '00:00:00.000'
       u: Hm.
     - who: Benjamin Piskorz
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: A bun. Such a bun can weigh...it depends how the bun is baked.
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Hm.
     - who: Benjamin Piskorz
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: There are about six buns to a kilo...
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Hm.
     - who: Benjamin Piskorz
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: ". . . to a kilo."
     - who: David Boder
-      start: '00:00:00.'
-      end: '00:00:00.'
+      start: '00:00:00.000'
+      end: '00:00:00.000'
       u: Yes.
     - who: Benjamin Piskorz
-      start: '00:00:00.'
+      start: '00:00:00.000'
       end: '01:18:12.962'
       u: Sometimes we get three buns and sometimes four buns. It depends.
     - who: David Boder
