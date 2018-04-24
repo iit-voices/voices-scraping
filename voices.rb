@@ -196,15 +196,17 @@ def iso_date(str)
   end
 end
 
-# Take a seconds value and conver it to an HH:MM:SS.DDD time-marker
+# Take a seconds value and convert it to an HH:MM:SS.DDD time-marker
 def time_marker(seconds)
   t = seconds.to_s.split(".")
-  # Ensure that there is always 3 decimal places
+  # Ensure that there are always 3 decimal places
   unless t[1]
     t[1] = "000"
   end
+  # Reduce longer decimals to three (effectively rounds down)
   if t[1].length > 3
     t[1] = t[1][0,3]
+  # Pad shorter decimals with zeroes
   elsif t[1].length < 3
     (3 - t[1].length).times do
       t[1] = t[1] + "0"
