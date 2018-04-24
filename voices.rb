@@ -252,6 +252,7 @@ Dir.glob(files).each do |file|
   # TODO: Here and throughout, think of a way to stringify and strip these values, without
   # contantly calling `.to_s.strip`
   @i.name = @doc.css("#content h1 text()").to_s.strip
+  puts "Preparing record for #{@i.name}"
   # Biographical Information
   bio = @doc.css('ul.bio')
   @i.birthplace = bio.css(".birthplace text()").to_s.strip
@@ -292,7 +293,7 @@ Dir.glob(files).each do |file|
   @r.audio[:file] = MP3_FILES[@i.legacy_identifier.to_sym]
 
   @doc.css('#transcript a').each do |t|
-    puts t['href'].strip
+    # puts t['href'].strip
     @t = File.open("#{ENV['HOME']}/Voices/voices.iit.edu/voices.iit.edu/#{t['href'].strip}") do |f|
       Nokogiri::HTML(f)
     end
