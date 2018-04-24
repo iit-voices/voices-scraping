@@ -304,7 +304,7 @@ Dir.glob(files).each do |file|
       Nokogiri::HTML(f)
     end
     @r.commentary[:text] = @c.css('#content p:not(.attribution)').to_s.smart_format
-    @r.commentary[:attribution] = @c.css('#content .attribution text()').to_s.strip
+    @r.commentary[:attribution] = @c.css('#content .attribution text()').to_s.strip.gsub(/^[—–-]+/,'')
   end
 
 

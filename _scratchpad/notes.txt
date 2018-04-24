@@ -34,8 +34,7 @@ want to do.
 2. `smart_format` is setting typographers quotes on values in the HTML,
 such as on `class="footnote"`.
 3. Footnotes need a better way of being handled
-4. Attributions with names are preceded by an em dash, although that is
-an easy fix.
+
 
 
 ** Need to watch out for this rogue character encoding: &#195;
