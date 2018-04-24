@@ -67,7 +67,7 @@ MP3_FILES = {
   bisenhausP: 'bisenhausP_9-3B_SLP.mp3',
   boguslaw: 'boguslaw_9-156A_SLP.mp3',
   bondyN: 'bondyN_9-60_9-61_SLP.mp3',
-  borgman: 'borgman_frienhofferJ_9-85A_SLP.mp3',
+  borgman_freinhofferJ: 'borgman_frienhofferJ_9-85A_SLP.mp3',
   bramsonJ: 'bramsonJ_9-45B_9-46_9-48_SLP.mp3',
   braunA: 'braunA_9-133_9-134_SLP.mp3',
   breslauerA: 'breslauerA_9-90B_SLP.mp3',
@@ -167,7 +167,7 @@ MP3_FILES = {
   stumachinL: 'stumachinL_9-118_SLP.mp3',
   suvalkaitisA: 'suvalkaitisA_9-143A_SLP.mp3',
   # TODO: combine the tcharnabrodaR MP3 files and update this record
-  tcharnabrodaR: 'tcharnabrodaR_9-155B_9-155C_SLP.mp3, tcharnabrodaR_9-155B_9-156A_SLP.mp3',
+  tcharnabrodaR: 'tcharnabrodaR_9-155B_9-155C_SLP.mp3', # tcharnabrodaR_9-155B_9-156A_SLP.mp3',
   tichauerH: 'tichauerH_9-149_9-150_9-151_SLP.mp3',
   tischauerH: 'tischauerH_9-149_9-150_9-151_SLP.mp3',
   unikowskiI: 'unikowskiI_9-17_9-18_SLP.mp3',
