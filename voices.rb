@@ -9,6 +9,7 @@ require 'active_support/core_ext/string'
 require 'sterile'
 # Use URI to decode certain file names captured by wget
 require 'uri'
+require 'mp3info'
 
 # Hash of cities with erroneous &#195 entities, and their fixes:
 CORRECTED_CITIES = {
@@ -293,6 +294,18 @@ Dir.glob(files).each do |file|
   @r.spools = @doc.css('.spools text()').to_s.strip.split(", ")
   @r.audio = { file: '', 'mime-type': 'audio/mp3' }
   @r.audio[:file] = MP3_FILES[@i.legacy_identifier.to_sym]
+  puts @r.audio[:file]
+
+  if @r.audio[:file].length > 0
+    Mp3Info.open("#{ENV['HOME']}/Voices/mp3/#{@r.audio[:file]}") do |mp3|
+      if mp3.length
+        @r.duration = time_marker(mp3.length)
+      end
+    end
+  else
+    puts "Missing audio file for #{@i.name}"
+  end
+
 
   # Initially set commentary to none
   @r.commentary = { text: 'none', attribution: 'none' }
