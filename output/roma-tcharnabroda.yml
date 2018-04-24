@@ -25,12 +25,12 @@ recording:
   location: München, Germany
   languages:
   - German
-  duration: '00:45:44.0'
+  duration: '00:45:44.1115'
   spools:
   - 9-155B
   - 9-155C
   audio:
-    file: tcharnabrodaR_9-155B_9-155C_SLP.mp3, tcharnabrodaR_9-155B_9-156A_SLP.mp3
+    file: tcharnabrodaR_9-155B_9-155C_SLP.mp3
     mime-type: audio/mp3
   credits:
   - who: Dagmar Platt

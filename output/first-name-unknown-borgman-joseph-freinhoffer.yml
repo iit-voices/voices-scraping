@@ -18,11 +18,11 @@ recording:
   location: Genève, Switzerland
   languages:
   - German
-  duration: '00:13:55.0'
+  duration: '00:13:53.9855'
   spools:
   - 9-85A
   audio:
-    file: 
+    file: borgman_frienhofferJ_9-85A_SLP.mp3
     mime-type: audio/mp3
   credits:
   - who: Claudia Deetjen
