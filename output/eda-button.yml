@@ -26,6 +26,13 @@ recording:
   audio:
     file: buttonE_9-26_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Claudia DeetjenChristian Schmidt
+    role: Transcription
+  - who: Claudia DeetjenChristian Schmidt
+    role: Translation
+  - who: Elliot LefkovitzChristian SchmidtEben E. English
+    role: Footnotes
   transcript:
     language: de
     interview:

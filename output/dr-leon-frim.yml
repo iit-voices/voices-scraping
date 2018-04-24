@@ -34,6 +34,11 @@ recording:
   audio:
     file: frimL_9-156B_9-157_9-158A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Sascha PöhlmannSimone Müller
+    role: Transcription
+  - who: Sascha PöhlmannSimone Müller
+    role: Translation
   transcript:
     language: de
     interview:

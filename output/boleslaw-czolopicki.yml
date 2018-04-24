@@ -26,6 +26,17 @@ recording:
   audio:
     file: czolopickiB_9-4B_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Alicia Nitecki
+    role: Transcription (Polish)
+  - who: Alexander Gribanov
+    role: Transcription (Russian)
+  - who: Alicia Nitecki
+    role: Translation (Polish)
+  - who: Alexander Gribanov
+    role: Translation (Russian)
+  - who: Elliot Lefkovitz
+    role: Footnotes
   transcript:
     language: ru
     interview:

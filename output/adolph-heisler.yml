@@ -30,6 +30,11 @@ recording:
   audio:
     file: heislerA_9-81_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Dagmar Platt
+    role: Transcription
+  - who: David P. Boder
+    role: English Translation
   transcript:
     language: de
     interview:

@@ -24,6 +24,13 @@ recording:
   audio:
     file: rudo_9-8_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Roberta Hopson
+    role: Transcription
+  - who: Andrea Castro
+    role: Reviewer (transcription)
+  - who: David P. Boder
+    role: English Translation
   transcript:
     language: es
     interview:

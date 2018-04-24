@@ -27,6 +27,13 @@ recording:
   audio:
     file: brinI_9-126B_9-127_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: ''
+    role: Transcription
+  - who: Khane-Faygl Turtletaub
+    role: English Translation
+  - who: Eben E. English
+    role: Footnotes
   transcript:
     language: de
     interview:

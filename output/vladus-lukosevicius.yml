@@ -28,6 +28,11 @@ recording:
   audio:
     file: lukoseviciusV_9-144C_9-145_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Roy Cochrun
+    role: Transcription
+  - who: Roy Cochrun
+    role: English Translation
   transcript:
     language: ru
     interview:

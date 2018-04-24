@@ -31,6 +31,11 @@ recording:
   audio:
     file: frydmanH_9-29_9-30_9-31_9-32_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David P. Boder
+    role: English Translation
+  - who: Elliot Lefkovitz
+    role: Footnotes
   transcript: 
   translation:
     language: en

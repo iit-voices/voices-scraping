@@ -28,6 +28,13 @@ recording:
   audio:
     file: benmayorR_9-27_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Stefan Meuser
+    role: Transcription
+  - who: Stefan Meuser
+    role: Translation
+  - who: Eben E. EnglishElliot LefkovitzStefan Meuser
+    role: Footnotes
   transcript:
     language: de
     interview:

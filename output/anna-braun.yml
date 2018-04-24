@@ -26,6 +26,13 @@ recording:
   audio:
     file: braunA_9-133_9-134_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Dagmar Platt
+    role: Transcription
+  - who: David P. Boder
+    role: Translation
+  - who: Elliot Lefkovitz
+    role: Footnotes
   transcript:
     language: de
     interview:

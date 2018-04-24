@@ -25,6 +25,11 @@ recording:
   audio:
     file: joseph_9-158B_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: ''
+    role: Transcription
+  - who: Khane-Faygl Turtletaub
+    role: English Translation
   transcript:
     language: de
     interview:

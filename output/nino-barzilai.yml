@@ -27,6 +27,15 @@ recording:
   audio:
     file: barzilaiN_9-21B_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Roberta Hopson
+    role: Transcription
+  - who: Patricia Sanner
+    role: Translation
+  - who: Adriana Barrós ToméAndrea Castro
+    role: Reviewer
+  - who: Elliot Lefkovitz
+    role: Footnotes
   transcript:
     language: es
     interview:

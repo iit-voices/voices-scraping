@@ -27,6 +27,13 @@ recording:
   audio:
     file: hirschD_9-74B_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Johannes Barthel
+    role: Transcription
+  - who: Johannes Barthel
+    role: English Translation
+  - who: Elliot Lefkovitz
+    role: Footnotes
   transcript:
     language: de
     interview:

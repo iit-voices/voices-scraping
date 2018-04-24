@@ -36,6 +36,11 @@ recording:
   audio:
     file: kimmelmannA_9-83B_9-84_9-85B_9-86_9-87_9-91_9-92_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Dagmar Platt
+    role: Transcription
+  - who: David P. Boder
+    role: English Translation
   transcript:
     language: de
     interview:

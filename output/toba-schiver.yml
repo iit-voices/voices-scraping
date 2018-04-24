@@ -27,6 +27,11 @@ recording:
   audio:
     file: schiverT_9-110_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Claudia Deetjen
+    role: Transcription
+  - who: Claudia Deetjen
+    role: English Translation
   transcript:
     language: de
     interview:

@@ -31,6 +31,11 @@ recording:
   audio:
     file: bondyN_9-60_9-61_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David P. Boder
+    role: Transcription
+  - who: David P. BoderEben E. English
+    role: Footnotes
   transcript:
     language: en
     interview:

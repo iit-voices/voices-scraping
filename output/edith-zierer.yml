@@ -28,6 +28,11 @@ recording:
   audio:
     file: ziererE_9-116B_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Dagmar Platt
+    role: Transcription
+  - who: David P. Boder
+    role: English Translation
   transcript:
     language: de
     interview:

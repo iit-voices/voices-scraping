@@ -31,6 +31,11 @@ recording:
   audio:
     file: reichS_9-73B_9-74A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Rivka Schiller
+    role: Transcription
+  - who: David P. Boder
+    role: English Translation
   transcript:
     language: de
     interview:

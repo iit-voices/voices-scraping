@@ -27,6 +27,13 @@ recording:
   audio:
     file: monkF_9-111_9-112_9-113_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Olga Collin
+    role: Transcription
+  - who: Olga Collin
+    role: English Translation
+  - who: Elliot Lefkovitz
+    role: Footnotes
   transcript:
     language: en
     interview:

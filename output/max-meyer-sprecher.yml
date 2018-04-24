@@ -29,6 +29,9 @@ recording:
   audio:
     file: sprecherM_9-147_9-148_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David P. Boder
+    role: English Translation
   transcript: 
   translation:
     language: en

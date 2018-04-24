@@ -32,6 +32,9 @@ recording:
   audio:
     file: schwarzfitterJ_9-93_9-94_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David P. Boder
+    role: English Translation
   transcript: 
   translation:
     language: en

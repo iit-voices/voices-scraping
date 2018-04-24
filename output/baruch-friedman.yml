@@ -27,6 +27,11 @@ recording:
   audio:
     file: friedmanB_9-107B_9-108_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Janina Wurbs
+    role: Transcription
+  - who: David P. Boder
+    role: English Translation
   transcript:
     language: de
     interview:

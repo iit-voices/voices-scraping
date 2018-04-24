@@ -26,6 +26,11 @@ recording:
   audio:
     file: bJanis_9-152B_9-153A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Roy Cochrun
+    role: Transcription
+  - who: Roy Cochrun
+    role: Translation
   transcript:
     language: ru
     interview:

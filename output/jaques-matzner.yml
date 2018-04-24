@@ -35,6 +35,11 @@ recording:
   audio:
     file: matznerJ_9-163_9-164A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Dagmar Platt
+    role: Transcription
+  - who: David P. Boder
+    role: English Translation
   transcript:
     language: de
     interview:

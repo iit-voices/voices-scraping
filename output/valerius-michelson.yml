@@ -25,6 +25,13 @@ recording:
   audio:
     file: michelsonV_9-153C_9-154_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Olga CollinYan Mann
+    role: Transcription
+  - who: David P. BoderYan MannAnna Holian
+    role: English Translation
+  - who: Anna Holian
+    role: Footnotes
   transcript:
     language: ru
     interview:

@@ -27,6 +27,9 @@ recording:
   audio:
     file: oleiskiJ_9-54_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David P. Boder
+    role: English Translation
   transcript: 
   translation:
     language: en

@@ -25,6 +25,13 @@ recording:
   audio:
     file: linikD_9-130A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: ''
+    role: Transcription
+  - who: ''
+    role: Translation
+  - who: Eben E. English
+    role: Footnotes
   transcript:
     language: yi
     interview:

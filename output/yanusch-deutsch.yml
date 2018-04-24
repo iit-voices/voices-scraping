@@ -29,6 +29,13 @@ recording:
   audio:
     file: deutschY_9-80_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Christian Schmidt
+    role: Transcription (German)
+  - who: David Palmer
+    role: Transcription (English)
+  - who: Christian Schmidt
+    role: English Translation
   transcript:
     language: en
     interview:

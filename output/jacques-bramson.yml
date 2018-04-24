@@ -29,6 +29,13 @@ recording:
   audio:
     file: bramsonJ_9-45B_9-46_9-48_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Olga Collin
+    role: Transcription
+  - who: David P. Boder
+    role: Translation
+  - who: Eben E. EnglishElliot Lefkovitz
+    role: Footnotes
   transcript:
     language: ru
     interview:

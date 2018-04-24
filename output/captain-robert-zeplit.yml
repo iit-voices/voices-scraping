@@ -25,6 +25,9 @@ recording:
   audio:
     file: zeplitR_9-139B_9-140A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David Palmer
+    role: Transcription
   transcript:
     language: en
     interview:

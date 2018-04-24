@@ -28,6 +28,11 @@ recording:
   audio:
     file: feuerO_9-64_9-65_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David P. Boder
+    role: Transcription
+  - who: Elliot Lefkovitz
+    role: Footnotes
   transcript:
     language: en
     interview:

@@ -27,6 +27,17 @@ recording:
   audio:
     file: boguslaw_9-156A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Dagmar Platt
+    role: Transcription (German)
+  - who: Alicia Nitecki
+    role: Transcription (Polish)
+  - who: Dagmar Platt
+    role: Translation (German)
+  - who: Alicia Nitecki
+    role: Translation (Polish)
+  - who: Eben E. English
+    role: Footnotes
   transcript:
     language: de
     interview:

@@ -31,6 +31,9 @@ recording:
   audio:
     file: piskorzB_9-102_9-103_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David P. Boder
+    role: English Translation
   transcript: 
   translation:
     language: en

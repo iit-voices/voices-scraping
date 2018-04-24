@@ -26,6 +26,13 @@ recording:
   audio:
     file: zurilisS_9-141B_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Johannes Barthel
+    role: Transcription
+  - who: Johannes Barthel
+    role: English Translation
+  - who: Johannes Barthel
+    role: Footnotes
   transcript:
     language: de
     interview:

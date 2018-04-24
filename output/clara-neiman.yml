@@ -25,6 +25,13 @@ recording:
   audio:
     file: neimanC_9-121B_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Olga Collin
+    role: Transcription (Russian)
+  - who: Khane-Faygl Turtletaub
+    role: Transcription (Yiddish)
+  - who: David P. Boder
+    role: English Translation
   transcript:
     language: yi
     interview:

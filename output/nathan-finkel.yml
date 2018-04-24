@@ -27,6 +27,13 @@ recording:
   audio:
     file: finkelN_9-155A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Roy Cochrun
+    role: Transcription
+  - who: Roy Cochrun
+    role: Translation
+  - who: Eben E. English
+    role: Footnotes
   transcript:
     language: ru
     interview:

@@ -25,6 +25,11 @@ recording:
   audio:
     file: freilichE_9-40B_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Dorothea Walter
+    role: Transcription
+  - who: Dorothea Walter
+    role: English Translation
   transcript:
     language: de
     interview:

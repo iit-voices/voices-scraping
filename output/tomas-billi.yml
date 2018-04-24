@@ -24,6 +24,13 @@ recording:
   audio:
     file: billiT_9-142A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Roy Cochrun
+    role: Transcription
+  - who: Roy Cochrun
+    role: Translation
+  - who: Roy CochrunEben E. English
+    role: Footnotes
   transcript:
     language: ru
     interview:

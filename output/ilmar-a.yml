@@ -25,6 +25,13 @@ recording:
   audio:
     file: aIlmar_9-152A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Christian Schmidt
+    role: Transcription
+  - who: Christian Schmidt
+    role: Translation
+  - who: Christian SchmidtElliot LefkovitzEben E. English
+    role: Footnotes
   transcript:
     language: de
     interview:

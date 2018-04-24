@@ -31,6 +31,13 @@ recording:
   audio:
     file: bisenhausP_9-3B_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Janina Wurbs
+    role: Transcription
+  - who: David P. Boder
+    role: Translation
+  - who: Elliot Lefkovitz
+    role: Footnotes
   transcript:
     language: de
     interview:

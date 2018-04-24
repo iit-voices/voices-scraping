@@ -26,6 +26,13 @@ recording:
   audio:
     file: sochamiH_9-43A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Roberta Hopson
+    role: Transcription
+  - who: Patricia Sanner
+    role: Translation
+  - who: Adriana Barrós Tomé
+    role: Reviewer
   transcript:
     language: es
     interview:

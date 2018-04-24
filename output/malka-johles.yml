@@ -25,6 +25,13 @@ recording:
   audio:
     file: johlesM_9-89_9-90A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Dorothea Walter
+    role: Transcription
+  - who: Dorothea Walter
+    role: English Translation
+  - who: Elliot LefkovitzDorothea Walter
+    role: Footnotes
   transcript:
     language: de
     interview:

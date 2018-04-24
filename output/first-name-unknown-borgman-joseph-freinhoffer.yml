@@ -24,6 +24,11 @@ recording:
   audio:
     file: 
     mime-type: audio/mp3
+  credits:
+  - who: Claudia Deetjen
+    role: Transcription
+  - who: Claudia Deetjen
+    role: Translation
   transcript:
     language: de
     interview:

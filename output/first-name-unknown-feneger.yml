@@ -24,6 +24,9 @@ recording:
   audio:
     file: feneger_9-45A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David Palmer
+    role: Transcription
   transcript:
     language: en
     interview:

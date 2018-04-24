@@ -31,6 +31,17 @@ recording:
   audio:
     file: leaD_9-41B_9-42_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Adriana Barrós Tomé
+    role: Transcription (Spanish)
+  - who: Patricia Sanner
+    role: Translation (Spanish)
+  - who: Simone Müller
+    role: Transcription (German)
+  - who: Simone Müller
+    role: Translation (German)
+  - who: Elliot LefkovitzSimone Müller
+    role: Footnotes
   transcript:
     language: es
     interview:

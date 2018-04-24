@@ -31,6 +31,9 @@ recording:
   audio:
     file: eisenbergK_9-12B_9-13_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David P. Boder
+    role: Translation
   transcript: 
   translation:
     language: en

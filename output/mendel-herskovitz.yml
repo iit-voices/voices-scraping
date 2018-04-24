@@ -29,6 +29,9 @@ recording:
   audio:
     file: herskovitzM_9-9_9-10_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David P. Boder
+    role: English Translation
   transcript: 
   translation:
     language: en

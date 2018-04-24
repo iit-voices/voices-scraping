@@ -28,6 +28,15 @@ recording:
   audio:
     file: neufeldH_9-20_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: M. HolidayI. Laskawiec
+    role: Transcription (Polish)
+  - who: Argos Multilingual
+    role: Transcription (Russian)
+  - who: David P. Boder
+    role: English Translation
+  - who: Elliot Lefkovitz
+    role: Footnotes
   transcript:
     language: ru
     interview:

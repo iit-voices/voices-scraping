@@ -25,6 +25,11 @@ recording:
   audio:
     file: kalnietisJ_9-142B_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: ''
+    role: Transcription
+  - who: ''
+    role: English Translation
   transcript:
     language: lv
     interview:

@@ -24,6 +24,11 @@ recording:
   audio:
     file: ferberJ_9-117_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David P. Boder
+    role: Translation
+  - who: Elliot Lefkovitz
+    role: Footnotes
   transcript: 
   translation:
     language: en

@@ -226,7 +226,7 @@ Interviewee = Struct.new(
   end
 end
 
-Recording = Struct.new(:date,:location,:languages,:duration,:spools,:audio,:transcript,:translation)
+Recording = Struct.new(:date,:location,:languages,:duration,:spools,:audio,:credits,:transcript,:translation)
 Utterance = Struct.new(:who,:start,:end,:u)
 Transcript = Struct.new(:language,:interview)
 
@@ -300,6 +300,15 @@ Dir.glob(files).each do |file|
     @trans = Transcript.new
     # Grab the language from the last two letters in the file name
     @trans.language = t['href'].strip.slice(-2,2)
+    # Grab the transcription, translation, and other credits from the ends of
+    # transcription/translation files
+    @r.credits = []
+    @t.css('.meta span').each do |c|
+      credit = Hash.new
+      credit[:who] = c.css('name text()').to_s.strip
+      credit[:role] = c['class'].to_s.strip
+      @r.credits.push(credit)
+    end
     # Create an array to hold each utterance in the interview
     @trans.interview = []
     @t.css('#content > ul + ul > li').each do |li|

@@ -27,6 +27,13 @@ recording:
   audio:
     file: buttonJ_9-25_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Stefan Meuser
+    role: Transcription
+  - who: Stefan Meuser
+    role: Translation
+  - who: Eben E. EnglishElliot Lefkovitz
+    role: Footnotes
   transcript:
     language: de
     interview:

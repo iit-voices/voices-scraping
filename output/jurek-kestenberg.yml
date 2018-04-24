@@ -30,6 +30,9 @@ recording:
   audio:
     file: kestenbergJ_9-11_9-12A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David P. Boder
+    role: English Translation
   transcript: 
   translation:
     language: en

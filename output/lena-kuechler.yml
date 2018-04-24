@@ -27,6 +27,15 @@ recording:
   audio:
     file: kuechlerL_9-114_9-115_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: S. PetersP. Gaensicke
+    role: Transcription (German)
+  - who: M. HolidayI. Laskawiec
+    role: Transcription (Polish)
+  - who: ''
+    role: Transcription (Russian)
+  - who: David P. Boder
+    role: English Translation
   transcript:
     language: ru
     interview:

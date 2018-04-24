@@ -29,6 +29,9 @@ recording:
   audio:
     file: freilichF_9-36_9-37_9-38_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David P. Boder
+    role: English Translation
   transcript: 
   translation:
     language: en

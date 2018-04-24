@@ -25,6 +25,11 @@ recording:
   audio:
     file: paulA_9-140B_9-141A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Olga Collin
+    role: Transcription
+  - who: David P. Boder
+    role: English Translation
   transcript:
     language: ru
     interview:

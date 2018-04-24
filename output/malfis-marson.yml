@@ -26,6 +26,19 @@ recording:
   audio:
     file: marsonM_9-6B_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: S. PetersP. Gaensicke
+    role: Transcription (German)
+  - who: A. Leclerc
+    role: Transcription (French)
+  - who: ''
+    role: Transcription (Russian)
+  - who: S. PetersP. Gaensicke
+    role: English Translation (German)
+  - who: A. Leclerc
+    role: English Translation (French)
+  - who: ''
+    role: English Translation (Russian)
   transcript:
     language: ru
     interview:

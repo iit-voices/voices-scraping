@@ -25,6 +25,13 @@ recording:
   audio:
     file: kahnL_9-57C_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Deborah Joyce
+    role: Transcription
+  - who: Deborah Joyce
+    role: English Translation
+  - who: Elliot Lefkovitz
+    role: Footnotes
   transcript:
     language: en
     interview:

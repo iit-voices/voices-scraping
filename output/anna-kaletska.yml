@@ -29,6 +29,9 @@ recording:
   audio:
     file: kaletskaA_9-164B_9-165_9-166_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David P. Boder
+    role: English Translation
   transcript: 
   translation:
     language: en

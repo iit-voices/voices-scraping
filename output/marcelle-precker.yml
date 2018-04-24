@@ -25,6 +25,11 @@ recording:
   audio:
     file: preckerM_9-41A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David Palmer
+    role: Transcription
+  - who: Elliot Lefkovitz
+    role: Footnotes
   transcript:
     language: en
     interview:

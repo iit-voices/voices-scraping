@@ -31,6 +31,15 @@ recording:
   audio:
     file: stumachinL_9-118_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: S. PetersP. Gaensicke
+    role: Transcription (German)
+  - who: M. HolidayI. Laskawiec
+    role: Transcription (Polish)
+  - who: S. PetersP. Gaensicke
+    role: Engish Translation (German)
+  - who: M. HolidayI. Laskawiec
+    role: English Translation (Polish)
   transcript:
     language: de
     interview:

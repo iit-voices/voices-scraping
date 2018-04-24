@@ -24,6 +24,13 @@ recording:
   audio:
     file: ferdinanskV_9-153B_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Dagmar Platt
+    role: Transcription
+  - who: David P. Boder
+    role: Translation
+  - who: Eben E. English
+    role: Footnotes
   transcript:
     language: de
     interview:

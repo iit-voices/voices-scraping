@@ -26,6 +26,19 @@ recording:
   audio:
     file: suvalkaitisA_9-143A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: S. PetersP. Gaensicke
+    role: Transcription (German)
+  - who: L. Paulauskaite
+    role: Transcription (Lithuanian)
+  - who: ''
+    role: Transcription (Russian)
+  - who: S. PetersP. Gaensicke
+    role: English Translation (German)
+  - who: L. Paulauskaite
+    role: English Translation (Lithuanian)
+  - who: ''
+    role: English Translation (Russian)
   transcript:
     language: ru
     interview:

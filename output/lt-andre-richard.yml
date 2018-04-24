@@ -25,6 +25,17 @@ recording:
   audio:
     file: richardA_9-28_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: S. PetersP. Gaensicke
+    role: Transcription (German)
+  - who: A. Leclerc
+    role: Transcription (French)
+  - who: S. PetersP. Gaensicke
+    role: English Translation (German)
+  - who: A. Leclerc
+    role: English Translation (French)
+  - who: Elliot Lefkovitz
+    role: Footnotes
   transcript:
     language: de
     interview:

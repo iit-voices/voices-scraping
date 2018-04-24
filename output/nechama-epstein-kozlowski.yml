@@ -35,6 +35,9 @@ recording:
   audio:
     file: epsteinN_9-95_9-96_9-104A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David P. Boder
+    role: Translation
   transcript: 
   translation:
     language: en

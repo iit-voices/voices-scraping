@@ -25,6 +25,13 @@ recording:
   audio:
     file: breslauerA_9-90B_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Dorothea Walter
+    role: Transcription
+  - who: Dorothea Walter
+    role: Translation
+  - who: Elliot LefkovitzDorothea Walter
+    role: Footnotes
   transcript:
     language: de
     interview:

@@ -30,6 +30,11 @@ recording:
   audio:
     file: nichthauserF_9-15_9-16_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: Dagmer Platt
+    role: Transcription
+  - who: David P. Boder
+    role: English Translation
   transcript:
     language: de
     interview:

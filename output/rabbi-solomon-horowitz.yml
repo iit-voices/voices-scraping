@@ -26,6 +26,9 @@ recording:
   audio:
     file: horowitzS_9-120_9-121A_SLP.mp3
     mime-type: audio/mp3
+  credits:
+  - who: David P. Boder
+    role: English Translation
   transcript: 
   translation:
     language: en
