@@ -2368,7 +2368,7 @@ recording:
       u: Nun, äh, die Zeit ist sehr kurz, also ich danke Ihnen sehr!
     - who: David Boder
       start: '00:26:07.725'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:26:16.594'
       u: "[In English] This concludes the, err, short interview with David Hirsch.
         This concludes the short interview with David Hirsch. [Ends abruptly]."
   translation:

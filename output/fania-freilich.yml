@@ -1884,7 +1884,7 @@ recording:
         and for everything they betrayed us.
     - who: David Boder
       start: '01:36:34.894'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:36:48.431'
       u: This concludes... Spool 38 of Mrs. Freilich taken in Paris, 9 Rue Guy Patin...
         on July — on August 9, 1946. Illinois Institute of Technology recording.
   commentary:

@@ -5231,7 +5231,7 @@ recording:
         studieren werden. Ich danke Ihnen sehr.
     - who: David Boder
       start: '01:15:42.804'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:15:41.831'
       u: "[In English] This concludes Spool number 101 the second spool of Mr. Isaac
         Wolf, who is an officer at one of the Kibutzes at the Camp Tradate between
         Como and Milan. An Illinois Institute of Technology Wire Recording, September
@@ -10493,7 +10493,7 @@ recording:
         who will study this document. I thank you very much.
     - who: David Boder
       start: '01:15:42.804'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:15:41.831'
       u: "[In English] This concludes Spool 101, the second spool of Mr. Isaac Wolf
         who is an officer in one of the Kibbutzim at Camp Tradate, between Como and
         Milan. Illinois Institute of Technology wire recording. September the 1st,

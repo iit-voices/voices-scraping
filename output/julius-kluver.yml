@@ -968,7 +968,7 @@ recording:
         gemacht werden. Dann muss er sich taufen lassen.
     - who: David Boder
       start: '00:27:36.913'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:29:10.800'
       u: "[In English] This concludes Spool 132 - an interview with Mr. Julius Klüver
         - a so-called Leader of the Germanic Group of the Funkkasernen Camp in, hm,
         near München. This is the first case that we have interviewed a displaced
@@ -1837,7 +1837,7 @@ recording:
         an exception can be made. Then he must be baptised.
     - who: David Boder
       start: '00:27:36.913'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:29:10.800'
       u: "[In English] This concludes Spool 132 - an interview with Mr. Julius Klüver
         - a so-called Leader of the Germanic Group of the Funkkasernen Camp in, hm,
         near München. This is the first case that we have interviewed a displaced

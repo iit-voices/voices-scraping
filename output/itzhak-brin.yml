@@ -1322,7 +1322,7 @@ recording:
         the 13th, 1946. Illinois Institute of Technology wire recording."
     - who: David Boder
       start: '00:52:28.404'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:52:27.102'
       u: "[break in wire]...six...Illinois Institute of Technology wire recording."
   translation:
     language: en
@@ -2650,7 +2650,7 @@ recording:
         the 13th, 1946. Illinois Institute of Technology wire recording."
     - who: David Boder
       start: '00:52:28.404'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:52:27.102'
       u: "[break in wire]...six...Illinois Institute of Technology wire recording."
   commentary:
     text: none

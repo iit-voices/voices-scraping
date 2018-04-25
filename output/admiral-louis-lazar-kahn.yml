@@ -248,7 +248,7 @@ recording:
         start their own study which they certainly could do better than I can."
     - who: Louis Kahn
       start: '00:19:48.187'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:19:55.755'
       u: "[In French] Eh bien, je suis ravi de vous avoir entendu, Professeur Boder,
         et d’avoir par vous la possibilité de communiquer avec...[ends abruptly]"
   translation:
@@ -515,7 +515,7 @@ recording:
         start their own study which they certainly could do better than I can."
     - who: Louis Kahn
       start: '00:19:48.187'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:19:55.755'
       u: "[In French] Well, I am delighted to have heard you, Professor Boder, and
         to have the possibility, through you, to communicate with...[ends abruptly]"
   commentary:

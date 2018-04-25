@@ -1515,7 +1515,7 @@ recording:
         previous lives and had to endure the large void which these losses created.26
     - who: David Boder
       start: '00:22:50.319'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:23:12.404'
       u: ". . . Well this concludes Mr. .Mizrachi’s report. Taken on the-...on August
         the 12th at the offices of the American Joint Distribution Committee...recording
         of the Illinois Institute of Technology."

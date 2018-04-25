@@ -2673,7 +2673,7 @@ recording:
         Danke sehr."
     - who: David Boder
       start: '00:27:07.988'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:27:23.049'
       u: "[In English] Tradate, Italy...a small locality between Como and Milano,
         with a community of displaced persons mainly consisting of young kibbutzim."
   translation:
@@ -5282,7 +5282,7 @@ recording:
         find the boy who brought you here and send him in. Thank you."
     - who: David Boder
       start: '00:27:07.988'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:27:23.049'
       u: "[In English] Tradate, Italy...a small locality between Como and Milano,
         with a community of displaced persons mainly consisting of young kibbutzim."
   commentary:

@@ -1695,7 +1695,7 @@ recording:
         gleichmäßig unter alle Mitglieder der Gemeinde.
     - who: David Boder
       start: '01:26:30.158'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:26:39.934'
       u: "[In English] Aha, this kind of a corporate is an arrangement, äh, Wiesbaden,
         September the 25th, 1946. At the home of the new Jewish community, äh, the
         Illinois Institute of Technology Wire Recording."
@@ -3268,7 +3268,7 @@ recording:
         evenly among our members.
     - who: David Boder
       start: '01:26:30.158'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:26:39.934'
       u: "[In English] Aha, This kind of a corporate is an arrangement, um, Wiesbaden,
         September 25, 1946. At the home of the new Jewish community, um, the Illinois
         Institute of Technology Wire Recording."

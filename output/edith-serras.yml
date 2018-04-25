@@ -4497,7 +4497,7 @@ recording:
         laughingly. And they jumped on the table and they shouted ‘Vengeance!’
     - who: David Boder
       start: '00:00:00.000'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:14:05.570'
       u: "[In English] This concludes Spool Number 35, which is oversize—thirty-eight
         minutes long. A spool by Mrs. Serras, Edith Serras, who lives now in Paris.
         She was a French deportee."

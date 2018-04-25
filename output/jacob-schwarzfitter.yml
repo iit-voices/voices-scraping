@@ -3144,7 +3144,7 @@ recording:
       u: Schwarzfitter
     - who: David Boder
       start: '01:11:38.555'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:11:37.665'
       u: ". . . Schwarzfitter reporting. Recording of Illinois Institute of Technology.
         125 volts, 50 kilo— 50 cycles."
   commentary:

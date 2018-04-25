@@ -2311,7 +2311,7 @@ recording:
         23, 1946, Illinois Institute of Technology wire recording."
     - who: Karl Josephy
       start: '00:39:34.255'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:39:31.970'
       u: Bon.
   translation:
     language: en
@@ -4521,7 +4521,7 @@ recording:
         1946, Illinois Institute of Technology wire recording."
     - who: Karl Josephy
       start: '00:39:34.255'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:39:31.970'
       u: Bon.
   commentary:
     text: none

@@ -2452,7 +2452,7 @@ recording:
       u: Schreiben Sie mir es auf, bitte. (Pause)
     - who: David Boder
       start: '00:30:38.816'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:31:19.954'
       u: "[In English] This concludes the record of Miss Jola Gross of the age of
         thirty six (36). Hm, the record was taken on August 3rd at the Home for, hm,
         Adult Jews. And as we heard her, her intentions — her definite intentions
@@ -5092,7 +5092,7 @@ recording:
       u: Oh, it was called the Gypsy...
     - who: Jola Gross
       start: '00:00:00.000'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:31:19.954'
       u: It was called the Gypsy lager. I was told that there had been many Germany
         Gypsies, and they don’t live any more, but the lager.was always called the
         Gypsy lager. We also went there to bathe, to the Gypsy lager. but they weren’t

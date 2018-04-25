@@ -504,7 +504,7 @@ recording:
       u: В Мюнхене.
     - who: David Boder
       start: '00:12:21.129'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:12:23.941'
       u: Хорошо. Теперь...
   translation:
     language: en
@@ -995,7 +995,7 @@ recording:
       u: In Munich.
     - who: David Boder
       start: '00:12:21.129'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:12:23.941'
       u: That is fine, now...
   commentary:
     text: none

@@ -478,7 +478,7 @@ recording:
         praktischem Können."
     - who: David Boder
       start: '00:13:48.086'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:13:53.985'
       u: Ja, nun? [endet abrupt]
   translation:
     language: en
@@ -913,7 +913,7 @@ recording:
         practical competence."
     - who: David Boder
       start: '00:13:48.086'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:13:53.985'
       u: Yes, and? [The spool ends abruptly.]
   commentary:
     text: none

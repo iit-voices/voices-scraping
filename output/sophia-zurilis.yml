@@ -1046,7 +1046,7 @@ recording:
         der Zelle, haben sie uns bedrückt [unverständlich]."
     - who: David Boder
       start: '00:23:15.415'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:23:26.484'
       u: "[einige Sätze unverständlich]."
   translation:
     language: en
@@ -2046,7 +2046,7 @@ recording:
         they oppressed us [unintelligible]."
     - who: David Boder
       start: '00:23:15.415'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:23:26.484'
       u: "[some sentences unintelligible]. [spool stops]"
   commentary:
     text: none

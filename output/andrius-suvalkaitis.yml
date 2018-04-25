@@ -557,7 +557,7 @@ recording:
       u: Danke.
     - who: David Boder
       start: '00:16:32.398'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:16:46.367'
       u: "[In English] This concludes the report of Mr. Andrius Suvalkaitis, given
         mostly in Lithuanian, at Munich Baltic Center, at Lohengrinstrasse, September
         the 21st, 1946."
@@ -1078,7 +1078,7 @@ recording:
       u: Thank you.
     - who: David Boder
       start: '00:16:32.398'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:16:46.367'
       u: "[In English] This concludes the report of Mr. Andrius Suvalkaitis, given
         mostly in Lithuanian, at Munich Baltic Center, at Lohengrinstrasse, September
         the 21st, 1946."

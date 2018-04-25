@@ -2614,7 +2614,7 @@ recording:
       u: Ja.
     - who: Adolph Heisler
       start: '00:39:25.812'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:39:34.347'
       u: Und dort bin ich gelegen vier (4) Wochen krank. Und dann habe ich gehört
         von dem Transport in die Schweiz und hab ich mich auch gemeldet dafür zu fahren
         in die Schweiz.
@@ -5166,7 +5166,7 @@ recording:
       u: Yes.
     - who: Adolph Heisler
       start: '00:39:25.812'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:39:34.347'
       u: There I lay four weeks, and then I heard about the transport going to Switzerland.
         So I reported for it, to go to Switzerland.
   commentary:

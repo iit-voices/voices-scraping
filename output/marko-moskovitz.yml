@@ -1992,7 +1992,7 @@ recording:
       u: Aha, nun?
     - who: David Boder
       start: '00:24:49.801'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:25:05.328'
       u: "[In English] This concludes the interview with Mark Moskovski on July 30,
         1946, a boy of, hm, Czechoslovakia, age 19."
   translation:
@@ -4142,7 +4142,7 @@ recording:
       u: Aha. Nu?
     - who: David Boder
       start: '00:24:49.801'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:25:05.328'
       u: "[In English] This concludes the interview with Mark Moskovski on July 30,
         1946, a boy of, hm, Czechoslovakia, age 19."
   commentary:

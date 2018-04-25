@@ -4382,7 +4382,7 @@ recording:
       u: Ja.
     - who: David Boder
       start: '00:00:00.000'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:53:38.755'
       u: A case of a, err, err, refugee from Vienna to Belgium, from Belgium to, err,
         France, and finally, err, a refuge to Switzerland, where they have been taken,
         as, err, treated as victims of the war. And now they are waiting their, err,
@@ -8784,7 +8784,7 @@ recording:
       u: Yes.
     - who: David Boder
       start: '00:52:59.293'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:53:38.755'
       u: A case of a, err, err, refugee from Vienna to Belgium, from Belgium to, err,
         France, and finally, err, a refuge to Switzerland, where they have been taken,
         as, err, treated as victims of the war. And now they are awaiting their, err,

@@ -1243,7 +1243,7 @@ recording:
         very much.
     - who: David Boder
       start: '00:31:06.996'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:31:27.320'
       u: "[In English:] This concludes the interview with Mr. Joseph Ferber on Spool
         117, twenty-six [ indicator] minutes of the spool. Bellevue near Paris. September
         7, 1946. [Incorrect date — should be Spetember 8]. Illinois Institute of Technology

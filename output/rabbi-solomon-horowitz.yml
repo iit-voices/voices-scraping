@@ -3939,7 +3939,7 @@ recording:
         [us] out from Galuth [Diaspora] and to bring [us] into a little safe harbor.
     - who: David Boder
       start: '00:49:00.281'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:49:21.241'
       u: "[In English] This concludes the interview from Spool number 119, transferred...continued
         on Spool number 120 [Footnote: The spool numbers are given incorrectly. The
         interviewer was apparently distracted or overcome by the content of the interview.

@@ -1749,7 +1749,7 @@ recording:
         September the 21st, 1946, Camp Lohengrin."
     - who: David Boder
       start: '00:36:47.167'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:37:35.136'
       u: 'Remarks to the duplicate spool: This concludes the interview with Mrs. Anna
         Paul which was called in the book Anna Prest. The next section is an interview
         with Mrs. Sophia, who does not want to give her last name, but it seems that
@@ -2856,7 +2856,7 @@ recording:
         September the 21st, 1946, Camp Lohengrin."
     - who: David Boder
       start: '00:36:47.167'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:37:35.136'
       u: 'Remarks to the duplicate spool: This concludes the interview with Mrs. Anna
         Paul which was called in the book Anna Prest. The next section is an interview
         with Mrs. Sophia, who does not want to give her last name, but it seems that

@@ -6195,7 +6195,7 @@ recording:
       u: All right [?] [far from microphone].
     - who: David Boder
       start: '01:16:35.143'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:16:49.332'
       u: Eh, this concludes...Spool...61...taken at the...headquarters of the Joint
         Distribution Committee on August 22nd, 1946, in Paris. A Illinois Institute
         of Technology wire recording.

@@ -541,7 +541,7 @@ recording:
       u: Oh, Méphisto ! Vous ne chantez pas Boris Godounov ?
     - who: André Richard
       start: '00:31:15.001'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:31:22.906'
       u: Et bien plus tard, j’espère le chanter, je l’ai à l’étude.
   translation:
     language: en
@@ -1147,7 +1147,7 @@ recording:
       u: Oh, Mephisto! Don’t you sing Boris Godunov?
     - who: André Richard
       start: '00:31:15.001'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:31:22.906'
       u: Well, later, I hope I will be able to sing it, it’s under consideration.
   commentary:
     text: "<p>André Richard was a talented singer in the renowned Paris Opera as well

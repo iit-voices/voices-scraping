@@ -1082,7 +1082,7 @@ recording:
         that correction."
     - who: David Boder
       start: '00:55:02.298'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:55:59.738'
       u: Chicago, July 6th, 1950. This concludes spool 9-169A. Two spools are on this
         reproduction, 9-168 and 9-169A. The other part of Spool 169 contains some
         rather irrelevant material. This reproduction is part of a project supported
@@ -2215,7 +2215,7 @@ recording:
         that correction."
     - who: David Boder
       start: '00:55:02.298'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:55:59.738'
       u: Chicago, July 6th, 1950. This concludes spool 9-169A. Two spools are on this
         reproduction, 9-168 and 9-169A. The other part of Spool 169 contains some
         rather irrelevant material. This reproduction is part of a project supported

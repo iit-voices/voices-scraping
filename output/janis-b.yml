@@ -982,7 +982,7 @@ recording:
         говорить с многими студентами и поэтому мы заключили этот интервью...
     - who: David Boder
       start: '00:25:54.135'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:26:09.123'
       u: "[In English] This concludes the interview with Mr. Janis, a Latvian, forty-three
         years old, a student at UNNRA University at Deutsches Museum in Munich. September
         the 24th, 1946, Illinois Institute of Technology wire recording."
@@ -1956,7 +1956,7 @@ recording:
         to speak with many students and therefore, we have concluded this interview.
     - who: David Boder
       start: '00:25:54.135'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:26:09.123'
       u: "[In English] This concludes the interview with Mr. Janis, a Latvian, forty-three
         years old, a student at UNRRA University at Deutsches Museum in Munich. September
         the 24th, 1946, Illinois Institute of Technology wire recording."

@@ -4654,7 +4654,7 @@ recording:
       u: Yes?
     - who: Israel Unikowski
       start: '01:18:00.750'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:18:30.816'
       u: He played his own melody...
   commentary:
     text: "<p>The events narrated in this interview offer a glimpse of life in the

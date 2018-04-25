@@ -3874,7 +3874,7 @@ recording:
         on [a few words not clear].
     - who: David Boder
       start: '01:19:05.607'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:19:11.752'
       u: "[In English] Alright. This concludes Spool...this concludes Spool 103, the
         second spool of Benjamin Piskorz with the story of the Warsaw Ghetto and the
         story of liberation. He has no...[ends abruptly]"

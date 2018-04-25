@@ -5057,7 +5057,7 @@ recording:
       u: Chateau Boucicaut.
     - who: David Boder
       start: '01:19:11.150'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:19:38.815'
       u: Taken at Chateau de Boucicaut on July 31st, 1946. And the boy is Mendel Herskovitz
         now, at present, eighteen years of age, studying to be a furrier. He has no
         intention to go to Palestine, no intention to go to the United States, and

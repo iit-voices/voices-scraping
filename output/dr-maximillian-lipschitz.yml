@@ -491,7 +491,7 @@ recording:
         eh, fourteenth minute of the spool."
     - who: David Boder
       start: '00:13:14.210'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:14:08.770'
       u: Chicago, June 26th, 1950. This concludes the section of Dr. Lipschitz. We
         have separated this from Spool 21, that has now the interview with Mr. Lea,
         and this will be Spool 9-21A, while the interview with Mr. Lea will be Spool
@@ -945,7 +945,7 @@ recording:
         eh, fourteenth minute of the spool."
     - who: David Boder
       start: '00:13:14.210'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:14:08.770'
       u: Chicago, June 26th, 1950. This concludes the section of Dr. Lipschitz. We
         have separated this from Spool 21, that has now the interview with Mr. Lea,
         and this will be Spool 9-21A, while the interview with Mr. Lea will be Spool

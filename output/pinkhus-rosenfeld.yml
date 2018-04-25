@@ -3263,7 +3263,7 @@ recording:
         will contribute a bit of truth to the whole situation. And so...
     - who: David Boder
       start: '00:52:55.375'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:52:56.751'
       u: "[In English] Hénonville, September the 13th, 1946, near Paris."
   commentary:
     text: "<p>Anti-Semitism in depression-era Poland impelled some Jews to leave for

@@ -1014,7 +1014,7 @@ recording:
         интересно, что вы мне рассказали.
     - who: David Boder
       start: '00:16:51.964'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:17:23.069'
       u: "[In English] This concludes a short interview with Tomas Billi...at forty
         minutes of the spool. He is an Estonian, fifty-eight years old and is now
         in the displaced center at Lohengrin...Lohengrinstrasse near, or in Munich.
@@ -2033,7 +2033,7 @@ recording:
         and very interesting.
     - who: David Boder
       start: '00:16:51.964'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:17:23.069'
       u: "[In English] This concludes a short interview with Tomas Billi...at firty
         minutes of the spool. He is an Estonian, fifty-eight years old and is now
         in the displaced center at Lohengrin...Lohengrinstrasse near, or in Munich.

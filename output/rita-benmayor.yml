@@ -2429,7 +2429,7 @@ recording:
       u: "[In English] Yes."
     - who: David Boder
       start: '00:25:11.099'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:25:49.035'
       u: This concludes...this concludes the spool of the Illinois Institute of Technology,
         Spool 27, taken from Rita Benmayor, age twenty, tattoo 38758, and the triangle.
         Eh, she is a husky looking young woman, and eh, has her affidavit from America,
@@ -4883,7 +4883,7 @@ recording:
       u: "[In English] Yes."
     - who: David Boder
       start: '00:25:11.099'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:25:49.035'
       u: This concludes...this concludes the spool of the Illinois Institute of Technology,
         Spool 27, taken from Rita Benmayor, age twenty, tattoo 38758, and the triangle.
         Eh, she is a husky looking young woman, and eh, has her affidavit from America,

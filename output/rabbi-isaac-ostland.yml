@@ -2361,7 +2361,7 @@ recording:
         statement made in English.]"
     - who: David Boder
       start: '00:00:00.000'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:48:48.561'
       u: "[This last sentence is missing from the existing audio] No, no, no...this...I
         will say it in Yiddish [after a pause the interviewer proceeds in Yiddish].
         This is spool 126, which concludes at 19 points of the indicator, 19 minutes

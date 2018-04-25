@@ -4098,7 +4098,7 @@ recording:
       u: Так.
     - who: Jacques Bramson
       start: '01:59:02.982'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:59:17.786'
       u: "[Неразборчиво] Каждый раз, когда мы возвращались и не снимали шапки [неразборчиво]
         избивали, иногда даже застреливали. И вот после бомбардировки птичка свалилась,
         и от орла ничего не осталось! [Смеётся]"
@@ -10494,7 +10494,7 @@ recording:
       u: What kind of hats did you have?
     - who: Jacques Bramson
       start: '01:59:02.982'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:59:17.786'
       u: Most unimaginable ones. We had even women’s hats [laughter]. Whatever one
         could get. It was an impossible masquerade. And every time we happened incidentally
         not to remove our hats, or keep our hands in the pockets, one was beaten up...and

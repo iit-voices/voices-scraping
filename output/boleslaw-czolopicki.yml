@@ -468,7 +468,7 @@ recording:
         goral nauczy z ksiaszka w reku. Kobieta...[niezrozumiały]"
     - who: David Boder
       start: '00:17:57.756'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:17:59.301'
       u: "[In English] Alright..."
   translation:
     language: en
@@ -958,7 +958,7 @@ recording:
         some mountaineer with a book in his hand is teaching. A woman [unintelligible]."
     - who: David Boder
       start: '00:17:57.756'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:17:59.301'
       u: "[In English] Alright."
   commentary:
     text: "<p>David Boder interviewed Boleslaw Czolopicki in Paris on July 30, 1946.

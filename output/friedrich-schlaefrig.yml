@@ -2680,7 +2680,7 @@ recording:
       u: Wie oft hat man Leute weggeschickt?
     - who: Friedrich Schlaefrig
       start: '01:20:46.992'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:21:04.104'
       u: Man hat jede Woche Transporte weggeschickt, mit Ausnahme eines kurzen Zeitraumes
         in der Weihnachtszeit und in der Osterzeit. Mit Ausnahme dieser zwei Zeiten
         sind...haben immer Transporte nach Polen stattgefunden aus den verschiedensten
@@ -6395,7 +6395,7 @@ recording:
       u: Say something to you daughter.
     - who: ''
       start: '00:00:00.000'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:21:04.104'
       u: Dear Mieze. We are now [??] in Paris, and are expecting to get the visa to
         South Africa, and we hope that we shall see each other there real soon...,
         since you, too, are coming over...[pause] I send you these greetings through

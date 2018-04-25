@@ -1709,7 +1709,7 @@ recording:
         matkę albo ojca. Ale ten ojciec jest albo w Szanghaju..."
     - who: David Boder
       start: '01:12:17.419'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:12:54.413'
       u: "[In English] This concludes Spool 115 taken at Bellevue. Interview with
         Ms. Lena Kuechler, in charge of a group of children which, about 60, which
         were taken out from Poland, by her and some 10 collaborators and are now awaiting
@@ -3800,7 +3800,7 @@ recording:
         is either in Shanghai...
     - who: David Boder
       start: '01:12:17.419'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:12:54.413'
       u: "[In English] This concludes Spool 115 taken at Bellevue. An interview with
         Miss Lena Kuechler, in charge of a group of children which are about sixty
         [in number], which were taken out from Poland by her and some ten collaborators,

@@ -3579,7 +3579,7 @@ recording:
         tell exactly, I don’t know."
     - who: David Boder
       start: '00:00:00.000'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:24:20.258'
       u: 'I thank you very much Miss Gurman[ova] We shall talk again about these things....
         [Note: There is no customary signoff. The interview ended in a depressed mood.]'
   commentary:

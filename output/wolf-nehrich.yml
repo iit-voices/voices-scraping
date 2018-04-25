@@ -3936,7 +3936,7 @@ recording:
       u: Ja. Sehr angenehm.
     - who: David Boder
       start: '01:04:52.203'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:05:13.822'
       u: "[In English] This concludes the interview with Wolf Nehrich eh, in Geneva,
         on, eh, August the 26th 1946. We curtail, that we finish that at, eh, the
         spool of 25 minutes. He has spoken one full spool and 25 minutes on the other.
@@ -7744,7 +7744,7 @@ recording:
       u: Yes. Great pleasure.
     - who: David Boder
       start: '01:04:52.203'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:05:13.822'
       u: "[In English] This concludes the interview with Wolf Nehrich, eh, in Geneva,
         at, eh, August the 26th 1946. We curtail, that we finish that at, eh, the
         spool of 25 minutes. He has spoken one full spool and 25 minutes on the other.

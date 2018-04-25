@@ -202,7 +202,7 @@ recording:
         semstr."
     - who: David Boder
       start: '00:13:55.716'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:14:04.486'
       u: "[In English] This concludes the report—very brief but very interesting report—of
         Mr. Boguslaw, a...[ends abruptly]"
   translation:
@@ -376,7 +376,7 @@ recording:
         the second semester."
     - who: David Boder
       start: '00:13:55.716'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:14:04.486'
       u: "[In English] This concludes the report—very brief but very interesting report—of
         Mr. Boguslaw, a...[ends abruptly]"
   commentary:

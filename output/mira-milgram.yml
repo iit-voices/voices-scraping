@@ -1211,7 +1211,7 @@ recording:
         13 years old.
     - who: David Boder
       start: '00:19:40.782'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:20:03.644'
       u: This concludes Spool 9-40A. The interview with Mrs. Milgram. 9-40B is a separate
         spool, and has the interview with Esther Freilich, the daughter of Mrs. Frieda
         Freilich. Boder. Now...
@@ -2384,7 +2384,7 @@ recording:
         13 years old.
     - who: David Boder
       start: '00:19:40.782'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:20:03.644'
       u: This concludes Spool 9-40A. The interview with Mrs. Milgram. 9-40B is a separate
         spool, and has the interview with Esther Freilich, the daughter of Mrs. Frieda
         Freilich. Boder. Now...

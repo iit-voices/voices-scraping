@@ -370,6 +370,11 @@ Dir.glob(files).each do |file|
       @trans.interview.push(@u.to_h)
     end
 
+    # Set the end value for the last utterance
+    if @trans.interview.length > 0
+      @trans.interview.last[:end] = @r.duration
+    end
+
     if t.text.match?(/Transcript/)
       @r.transcript = @trans.to_h.deep_stringify_keys
     else

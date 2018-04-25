@@ -1442,7 +1442,7 @@ recording:
       u: Wo ist das Kind? Auf dem Lande?
     - who: Arthur Breslauer
       start: '00:24:48.401'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:24:47.386'
       u: Ja.
   translation:
     language: en
@@ -2891,7 +2891,7 @@ recording:
       u: Where is the kid? Out in the country?
     - who: Arthur Breslauer
       start: '00:24:48.401'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:24:47.386'
       u: Yes.
   commentary:
     text: "<p>Arthur Breslauer, the Hungarian-born 54-year-old subject of this interview,

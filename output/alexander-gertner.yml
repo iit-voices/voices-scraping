@@ -6392,7 +6392,7 @@ recording:
         recording. And so thank you very much.
     - who: Alexander Gertner
       start: '01:51:35.327'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:51:38.240'
       u: Thank you [?].
   commentary:
     text: none

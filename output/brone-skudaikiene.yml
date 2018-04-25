@@ -329,7 +329,7 @@ recording:
         really interview these people."
     - who: David Boder
       start: '00:07:04.901'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:07:51.145'
       u: This concluded Spool 9-143A and 9-143B. The last part, 9-143C, the interview
         with Father Kharchenko, is on a separate spool. This spool contains two interviews,
         one with Mr. Sevalkaitis or Suvalkaitis, and the other, 9-143B, is Bronė Skudaikienė.
@@ -625,7 +625,7 @@ recording:
         really interview these people."
     - who: David Boder
       start: '00:07:04.901'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:07:51.145'
       u: This concluded Spool 9-143A and 9-143B. The last part, 9-143C, the interview
         with Father Kharchenko, is on a separate spool. This spool contains two interviews,
         one with Mr. Sevalkaitis or Suvalkaitis, and the other, 9-143B, is Bronė Skudaikienė.

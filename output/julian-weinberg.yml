@@ -1342,7 +1342,7 @@ recording:
       u: Ein Moment.
     - who: David Boder
       start: '00:39:35.842'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:39:44.091'
       u: "[In English] This ends Spool 49, a report by the engi—...[ends abruptly]"
   translation:
     language: en
@@ -2725,7 +2725,7 @@ recording:
       u: One moment.
     - who: David Boder
       start: '00:39:35.842'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:39:44.091'
       u: "[In English] This ends Spool 49, a report by the engi—...[ends abruptly]"
   commentary:
     text: "<p>Julian Weinberg, forty-nine years old at the time of the German conquest

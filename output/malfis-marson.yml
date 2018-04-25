@@ -274,7 +274,7 @@ recording:
       u: Merci beaucoup Monsieur Marson.
     - who: David Boder
       start: '00:13:12.788'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:13:46.305'
       u: "[In English] This finishes a brief interview with Monsieur Malfis Marson
         of the French Resistance Movement taken at the Schools of ORT on July 30,
         1946. Eh...how old is he? [Ends abruptly]."
@@ -507,7 +507,7 @@ recording:
       u: Thank you very much Mr. Marson.
     - who: David Boder
       start: '00:13:12.788'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:13:46.305'
       u: "[In English] This finishes the brief interview with Monsieur Malfis Marson
         of the French Resistance Movement taken at the Schools of ORT on July 30,
         1946. Eh...how old is he? [Ends abruptly]."

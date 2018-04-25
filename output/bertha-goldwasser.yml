@@ -1939,7 +1939,7 @@ recording:
         welchen sich selbst eine Heimat schaffen, die wollen auch ein...
     - who: David Boder
       start: '00:32:16.562'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:32:18.025'
       u: Ich danke sehr, Frau Goldwasser, es war ein sehr gutes...[Tonband zu Ende
         oder abgerissen].
   translation:
@@ -3921,7 +3921,7 @@ recording:
         [class] who want to create their own homeland, who want something too...
     - who: David Boder
       start: '00:32:16.562'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:32:18.025'
       u: I thank you very much, Mrs. Goldwasser. This is a very good...[mid-sentence
         interruption of interview apparently due to the end of the spool]
   commentary:

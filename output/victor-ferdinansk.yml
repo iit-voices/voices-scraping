@@ -948,7 +948,7 @@ recording:
         Es hat mir wirklich gefreut Sie kennen zu lernen. Danke sehr.
     - who: Victor Ferdinansk
       start: '00:20:59.257'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:21:01.688'
       u: Ich danke Ihnen auch.
   translation:
     language: en
@@ -1872,7 +1872,7 @@ recording:
         It was indeed a pleasure to get to know you. Thank you, indeed.
     - who: Victor Ferdinansk
       start: '00:20:59.257'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:21:01.688'
       u: I thank you, too.
   commentary:
     text: "<p>Viktor Ferdinansk was not a Jewish Holocaust survivor, but a Roman Catholic

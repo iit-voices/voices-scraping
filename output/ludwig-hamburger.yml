@@ -4081,7 +4081,7 @@ recording:
         / Weil ohne Heim und ohne Dach / Wir sind gewandert die ganze Nacht."
     - who: David Boder
       start: '00:55:37.300'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:55:48.558'
       u: "[In English] This concludes the interview with Mr. Ludwig Hamburger at Geneva,
         August the 26th, 1946 at the ORT School. An Illinois Institute of Technology
         wire recording."
@@ -8096,7 +8096,7 @@ recording:
         a home and without a roof, / We wandered throughout the night!”"
     - who: David Boder
       start: '00:55:37.300'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:55:48.558'
       u: "[In English] This concludes the interview with Mr. Ludwig Hamburger. At
         Geneva, August the 26th, 1946, at the ORT School. An Illinois Institute of
         Technology wire recording."

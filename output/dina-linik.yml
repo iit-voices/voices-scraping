@@ -1251,7 +1251,7 @@ recording:
       u: "[unintelligible]"
     - who: David Boder
       start: '00:25:40.833'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:26:19.232'
       u: "[In English] This is Spool 9-130A. Covering the interview with a whole family,
         Dina, Sophia, and Wanda Linik. At Hénonville, near Paris. November 7th 1950,
         Boder. The other half of this spool is eh...Pinkhus Rosenfeld."
@@ -2481,7 +2481,7 @@ recording:
       u: "[Unintelligible]"
     - who: David Boder
       start: '00:25:40.833'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:26:19.232'
       u: "[In English] This is Spool 9-130A. Covering the interview with a whole family,
         Dina, Sophia, and Wanda Linik. At Hénonville, near Paris. November 7th, 1950,
         Boder. The other half of this spool is eh...Pinkhus Rosenfeld."

@@ -2296,7 +2296,7 @@ recording:
         aber sie mussten auch vorher etwas zahlen dafür.
     - who: David Boder
       start: '00:41:23.396'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:41:38.717'
       u: "[In English] This concludes Spool 80 of Yanusch Deutsch, a Hungarian, a
         Hungarian Jewish child which was saved...eh, by special, by a special form
         of deportation to Belsen, presumably a Zionist, which has to be verified."
@@ -4548,7 +4548,7 @@ recording:
         had to pay something for it beforehand.
     - who: David Boder
       start: '00:41:23.396'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:41:38.717'
       u: "[In English] This concludes Spool 80 of Yanusch Deutsch, a Hungarian, a
         Hungarian Jewish child which was saved...eh, by special, by a special form
         of deportation to Belsen, presumably a Zionist, which has to be verified."

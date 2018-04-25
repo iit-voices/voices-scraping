@@ -1720,7 +1720,7 @@ recording:
       u: נו, איך אַרבעט נישט, איך בין בײַ דער טאַנטע.
     - who: David Boder
       start: '00:25:23.816'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:25:34.302'
       u: "[In English] This is a record of Polia Bisenhaus taken at the ORT school,
         evening course, on July 29th, in Paris, 1946."
   translation:
@@ -3331,7 +3331,7 @@ recording:
         Most wished to emigrate to Palestine but were denied entry by the British.27
     - who: David Boder
       start: '00:25:23.816'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:25:34.302'
       u: "[In English] This is a record of Polia Bisenhaus taken at the ORT school,
         evening course, on July 29th, in Paris, 1946."
   commentary:

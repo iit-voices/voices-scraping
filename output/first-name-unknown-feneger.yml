@@ -282,7 +282,7 @@ recording:
       u: Well, I think that is very interesting.
     - who: David Boder
       start: '00:05:59.483'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:06:50.409'
       u: This concludes spool 9-45A. An interview with Mr. Fenger in English, an instructor
         in the new formed—or newly formed—navigation school which had its branches
         in Paris. It was the Zebulon school. And in France and, I understand even

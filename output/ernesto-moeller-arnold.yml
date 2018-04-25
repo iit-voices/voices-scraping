@@ -1637,7 +1637,7 @@ recording:
         Moeller."
     - who: Ernesto Moeller-Arnold
       start: '00:37:56.049'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:38:38.863'
       u: "[In Spanish] No hay de qué, señor."
   translation:
     language: en
@@ -3198,7 +3198,7 @@ recording:
         of Technology wire recording. Thank you very much Mr. Moeller."
     - who: Ernesto Moeller-Arnold
       start: '00:38:42.829'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:38:38.863'
       u: "[In Spanish] Don’t mention it. [He apparently understood the last sentence
         spoken in English.]"
   commentary:

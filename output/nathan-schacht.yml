@@ -1804,7 +1804,7 @@ recording:
         expectation of transfer to Palestine."
     - who: David Boder
       start: '00:15:59.879'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:16:06.720'
       u: The record of Nathan [unintelligible] concludes at fourteen minutes of the
         spool.
   commentary:

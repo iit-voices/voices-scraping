@@ -1436,7 +1436,7 @@ recording:
         den jüdischen Namen.
     - who: David Boder
       start: '00:53:30.078'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:54:47.823'
       u: A remark of the translator David P. Boder. Chicago, January the 29th, 1950.
         This is a duplicate spool prepared under the Public Health Grant... and the
         will be listed or cataloged as Spool 125A, because we discovered that on the
@@ -2832,7 +2832,7 @@ recording:
         anyway and they should not bestain the Jewish names.
     - who: David Boder
       start: '00:53:30.078'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:54:47.823'
       u: A remark of the translator David P. Boder. Chicago, January the 29th, 1950.
         This is a duplicate spool prepared under the Public Health Grant... and the
         will be listed or cataloged as Spool 125A, because we discovered that on the

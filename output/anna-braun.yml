@@ -2967,7 +2967,7 @@ recording:
       u: Bitte.
     - who: David Boder
       start: '01:07:58.212'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:08:31.934'
       u: "(In English) This completes, hm, this makes it, hm, twenty five (25) minutes
         on Spool number hundred thirty four (134), which concluded from Spool number
         hundred thirty three (133) – the interview with Mrs. Anna Braun, a Mennonite
@@ -5571,7 +5571,7 @@ recording:
       u: You are welcome.
     - who: David Boder
       start: '01:07:58.212'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:08:31.934'
       u: 'This concludes Spool 134, at 25 indicator minutes: an interview with Mrs.
         Anna Braun, the Mennonite widow of the age of 40 who is now here at the Funkenkaserne
         in Munich. She is a member of a Mennonite colony of 500 people. Illinois Institute

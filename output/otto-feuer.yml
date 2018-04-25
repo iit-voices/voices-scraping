@@ -4756,7 +4756,7 @@ recording:
         not clear]'
     - who: David Boder
       start: '01:19:47.856'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:20:18.181'
       u: Vanburen Street? [spool is apparently at an end] All right that concludes
         the interview with Mr. Feuer. It is the continuation of Spool...Spool 64,
         it was very informal, especially, to give the interviewer a general picture,

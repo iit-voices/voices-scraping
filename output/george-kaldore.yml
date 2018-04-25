@@ -2661,7 +2661,7 @@ recording:
         sie her.
     - who: David Boder
       start: '01:48:24.717'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:48:35.748'
       u: "[In English] This concludes Spool 99 taken at Tradate between Milan and
         Como on August 31st, 1946. This concludes Kaldore, George Kaldore. Illinois
         Institute of Technology Wire Recording."
@@ -4796,7 +4796,7 @@ recording:
         the Jews to Austria, and from Austria they could come here.
     - who: David Boder
       start: '01:48:24.717'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:48:35.748'
       u: "[In English] This concludes Spool 99 taken at Tradate between Milan and
         Como on August 31st, 1946. This concludes Kaldore, George Kaldore. Illinois
         Institute of Technology Wire Recording."

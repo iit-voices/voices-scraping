@@ -4974,7 +4974,7 @@ recording:
       u: And so, I thank you very much.
     - who: David Boder
       start: '01:29:35.693'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:30:04.082'
       u: "[In English] This concludes the interview with Miss [Mrs.] Nechamah Epstein-Kozlowski.
         She prefers not to talk about her husband and not to talk about the ways and
         means by which they came to Italy. She is now here in the home, as I said

@@ -1151,7 +1151,7 @@ recording:
       u: "[In German/Yiddish] Uh huh. Un dis [this]?"
     - who: Raisel Roset
       start: '00:16:42.332'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:17:08.884'
       u: Uh, דאס איז das ausgeträumte Land פון עכט...
   translation:
     language: en
@@ -2247,7 +2247,7 @@ recording:
       u: So...and this?
     - who: Raisel Roset
       start: '00:16:42.332'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:17:08.884'
       u: That is possibly the land of dreams.
   commentary:
     text: none

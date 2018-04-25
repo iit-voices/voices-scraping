@@ -1313,7 +1313,7 @@ recording:
         который воспитает интеллигенция для будущего. Вот, собственно, всё.'
     - who: David Boder
       start: '00:44:20.025'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:44:51.192'
       u: "[In English] So. This concludes the interview of Mr. Valerius Michelson,
         a student of architecture at the International University of UNRRA. Munich,
         September the 24th, 1946. We had here quite some interruptions of some very
@@ -2895,7 +2895,7 @@ recording:
         would be brought up the intelligentsia of the future. That is about all.
     - who: David Boder
       start: '00:44:20.025'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:44:51.192'
       u: So. [In English] This concludes the interview of Mr. Valerius Michelson,
         a student of architecture at the International University of UNRRA. Munich,
         September the 24th, 1946. We had here quite some interruptions of some very

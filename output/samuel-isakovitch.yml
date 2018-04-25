@@ -2711,7 +2711,7 @@ recording:
         nobody...who can say anything?
     - who: David Boder
       start: '00:37:18.708'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:37:38.808'
       u: "[In English] Yes. This was the supplement to the same spool of the young
         Samuel Isakovitch. Spool#7."
   commentary:

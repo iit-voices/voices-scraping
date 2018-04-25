@@ -2737,7 +2737,7 @@ recording:
       u: Так.
     - who: David Boder
       start: '00:40:48.148'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:42:10.978'
       u: "[In English] It is a fear of getting killed, of being displaced, and the
         fear of others that transmits itself in a group and grows. They don’t want
         to go back, they don’t want to go back for their families. This concludes
@@ -5510,7 +5510,7 @@ recording:
       u: So.
     - who: David Boder
       start: '00:40:48.148'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:42:10.978'
       u: "[In English] It is a fear of getting killed, of being displaced, and the
         fear of others that transmits itself in a group and grows. They don’t want
         to go back, they don’t want to go back for their families. This concludes

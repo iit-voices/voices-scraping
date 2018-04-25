@@ -1086,7 +1086,7 @@ recording:
         איז מען געווארן אז מען האט זיי געשאסן. און [אומהערבאר]
     - who: David Boder
       start: '00:31:12.139'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:31:26.981'
       u: "[In English] This concludes Spool 158 with the report of a Mr. Joseph, and
         we will continue Spool 159. Illinois Institute of Technology wire recording.
         Wiesbaden, September the 26th, 19—...eh, 25th, September the 25th, 1946. Illinois
@@ -2213,7 +2213,7 @@ recording:
       u: "[Mielec?]"
     - who: David Boder
       start: '00:31:12.139'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:31:26.981'
       u: "[In English] This concludes Spool 158 with the report of a Mr. Joseph, and
         we will continue Spool 159. Illinois Institute of Technology wire recording.
         Wiesbaden, September the 26th, 19—...eh, 25th, September the 25th, 1946. Illinois

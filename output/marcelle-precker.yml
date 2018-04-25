@@ -1505,7 +1505,7 @@ recording:
       u: There’s not much of a resistance movement there.
     - who: David Boder
       start: '00:19:54.403'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:20:20.807'
       u: All right, Ms. Precker that is some very interesting material and I thank
         you very much. This is a Illinois Institute of Technology wire recording taken
         from Ms. Marcel Precker working at present at the American Joint Distribution

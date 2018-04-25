@@ -2809,7 +2809,7 @@ recording:
         wire recording."
     - who: David Boder
       start: '00:47:44.280'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:48:12.095'
       u: This concludes the reproduction of Spool 9-83, the interviewee was Silberbart.
         The sign-off gave by mistake Paris, it really was in Geneva but somehow the
         interviewer automatically having interviewed people for a number of days in
@@ -5514,7 +5514,7 @@ recording:
         wire recording."
     - who: David Boder
       start: '00:47:44.280'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:48:12.095'
       u: This concludes the reproduction of Spool 9-83, the interviewee was Silberbart.
         The sign-off gave by mistake Paris, it really was in Geneva but somehow the
         interviewer automatically having interviewed people for a number of days in

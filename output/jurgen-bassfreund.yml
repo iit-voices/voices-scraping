@@ -2739,7 +2739,7 @@ recording:
         to the blessed American zone. An Illinois Institute of Technology wire recording."
     - who: David Boder
       start: '01:12:11.567'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:12:35.918'
       u: Chicago, November 1st, 1949. This is a duplicated spool for the Library of
         the Public Health Service. The spool is cut here because it concludes the
         study of Jürgen Bassfreund, and begins the new interview with Captain Zeplit,
@@ -4762,7 +4762,7 @@ recording:
         to the blessed American zone. An Illinois Institute of Technology wire recording."
     - who: David Boder
       start: '01:12:11.567'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:12:35.918'
       u: Chicago, November 1st, 1949. This is a duplicated spool for the Library of
         the Public Health Service. The spool is cut here because it concludes the
         study of Jürgen Bassfreund, and begins the new interview with Captain Zeplit,

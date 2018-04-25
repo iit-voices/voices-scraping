@@ -1010,7 +1010,7 @@ recording:
       u: We shall talk again later, yes?
     - who: Raisel Meltzak
       start: '00:14:28.724'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:14:27.944'
       u: Yes.
   commentary:
     text: "<p>Short interviews with orphan charges at the Bellevue home for displaced

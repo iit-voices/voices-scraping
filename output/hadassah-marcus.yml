@@ -3717,7 +3717,7 @@ recording:
       u: Adieu. This...[words not clear]...one moment [word not clear].
     - who: David Boder
       start: '00:51:35.184'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:52:14.015'
       u: "[In English] This concludes Spool number 129. We are concluding it at thirty
         minutes. Madame Hadassah Marcus, a continuation of part of the Spool number
         128. Henonville, fifty kilometers from Paris. September 3rd, 1946. Recording

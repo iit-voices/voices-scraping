@@ -1834,7 +1834,7 @@ recording:
         than eat lager bread, / It is better to suffer hunger and privation."
     - who: David Boder
       start: '00:00:00.000'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:44:14.276'
       u: "[In English:] This concludes the record of Eisenberg. He could tell us an
         awful lot more, but we had trouble with the recorder, and I spent with him
         the whole morning. It took me nearly two hours of recording, and that will

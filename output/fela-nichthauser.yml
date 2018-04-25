@@ -2918,7 +2918,7 @@ recording:
       u: Ergeben.
     - who: Fela Nichthauser
       start: '01:19:13.788'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:19:04.229'
       u: ". . . ergeben."
   translation:
     language: en
@@ -4697,7 +4697,7 @@ recording:
       u: What does that mean?
     - who: Fela Nichthauser
       start: '01:19:09.268'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:19:04.229'
       u: Armbands. That means—they surrender.
   commentary:
     text: "<p>Fela Nichthauser was one of thousands of Polish Jews who were sent to

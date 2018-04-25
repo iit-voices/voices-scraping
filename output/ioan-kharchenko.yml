@@ -1149,7 +1149,7 @@ recording:
         the 21st, 1946."
     - who: David Boder
       start: '00:33:08.404'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:33:05.489'
       u: "[In Russian] Спасибо."
   translation:
     language: en
@@ -2323,7 +2323,7 @@ recording:
         and blood. Amen!'
     - who: David Boder
       start: '00:32:53.978'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:33:05.489'
       u: "[In English] This concludes the interview with Father Yoan Kharchenko on
         the displaced people camp of the Baltics, Munich, Lohengrin-Strasse, September
         21, 1946. Thank you."

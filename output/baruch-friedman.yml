@@ -2989,7 +2989,7 @@ recording:
       u: "[In German] Danke."
     - who: Baruch Friedman
       start: '00:50:13.163'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:50:09.123'
       u: Bitte.
   translation:
     language: en
@@ -6023,7 +6023,7 @@ recording:
       u: "[In German] Thank you."
     - who: Baruch Friedman
       start: '00:50:13.163'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:50:09.123'
       u: You’re welcome.
   commentary:
     text: "<p>Zionist fundamentalism inspired suspicions of non-Jews that complicated

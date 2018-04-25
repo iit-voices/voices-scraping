@@ -495,7 +495,7 @@ recording:
         74 han vuelto, 84%; Thessalia, 520, 360, 31%...
     - who: David Boder
       start: '00:17:09.004'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:17:29.756'
       u: Bueno señor, [ininteligible] si Ud. me da la copia. Entonces señor...le agradezco
         mucho por su información y especialmente [ininteligible] porque yo intento
         de irme a México y un reporte...[extremos precipitadamente]
@@ -1015,7 +1015,7 @@ recording:
         have returned, 84%; Thessalia, 520, 360, 31%...
     - who: David Boder
       start: '00:17:09.004'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:17:29.756'
       u: Well, Sir, [unintelligible] if you give me the copy. Then, Sir...I thank
         you for this information and particularly [unintelligible], because I am trying
         to go to Mexico, and a report...[ends abruptly]

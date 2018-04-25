@@ -259,7 +259,7 @@ recording:
       u: "[In English] All right, I thank you very much for this...[unintelligible]"
     - who: David Boder
       start: '00:12:12.573'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:12:18.063'
       u: "[In French] Merci beaucoup."
   translation:
     language: en
@@ -520,7 +520,7 @@ recording:
       u: "[In English] All right, I thank you very much for this...[unintelligible]"
     - who: David Boder
       start: '00:12:12.573'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:12:18.063'
       u: "[In French] Thank you very much."
   commentary:
     text: "<p>Charles Jean was in the French army at the outbreak of the war. He was

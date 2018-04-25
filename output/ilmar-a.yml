@@ -1229,7 +1229,7 @@ recording:
         September the 24th, 1946, Illinois Institute of Technology wire recording."
     - who: David Boder
       start: '00:27:23.810'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:27:57.766'
       u: This is reproduction 9-152-A, the continuation of Spool 152 will be then
         on 9-152-B, split up for convenience. This is the spool re-duplicated for
         the U.S. Public Health Service. November 11, 1949.
@@ -2435,7 +2435,7 @@ recording:
         recording."
     - who: David Boder
       start: '00:27:23.810'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:27:57.766'
       u: This is reproduction 9-152-A, the continuation of Spool 152 will be then
         on 9-152-B, split up for convenience. This is the spool re-duplicated for
         the U.S. Public Health Service. November 11, 1949.

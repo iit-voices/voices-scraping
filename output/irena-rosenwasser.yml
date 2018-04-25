@@ -5339,7 +5339,7 @@ recording:
         Street, Los Angeles forty three (43), California.
     - who: David Boder
       start: '01:13:33.960'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:13:30.567'
       u: Aha. Alright.
   translation:
     language: en
@@ -10840,7 +10840,7 @@ recording:
       u: I took up Latin literature and history.
     - who: David Boder
       start: '00:00:00.000'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:13:30.567'
       u: Aha...
   commentary:
     text: none

@@ -649,7 +649,7 @@ recording:
       u: Thank you.
     - who: David Boder
       start: '00:24:50.948'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:24:49.815'
       u: Well, it was awfully good...[ends abruptly]
   translation:
     language: en
@@ -1291,7 +1291,7 @@ recording:
       u: Thank you.
     - who: David Boder
       start: '00:24:50.948'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:24:49.815'
       u: Well, it was awfully good...[ends abruptly]
   commentary:
     text: "<p>Jean Kahn was only ten years old when France capitulated to Nazi Germany

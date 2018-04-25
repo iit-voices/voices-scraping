@@ -793,7 +793,7 @@ recording:
         Polish so gut versteh.
     - who: David Boder
       start: '00:31:39.276'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:31:57.231'
       u: "[In English] This concludes Spool 118...at 29 min, the report of Ms. Lina
         Stumachin, 36 years old, a tattoo number: 26569. She spoke in Polish."
   translation:
@@ -1564,7 +1564,7 @@ recording:
         you very much. I am sorry that my understanding of Polish is not very good.
     - who: David Boder
       start: '00:31:39.276'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:31:57.231'
       u: "[In English] This concludes Spool 118...at 29 min, the report of Ms. Lina
         Stumachin, 36 years old, a tattoo number: 26569. She spoke in Polish."
   commentary:

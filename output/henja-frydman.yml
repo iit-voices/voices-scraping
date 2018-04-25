@@ -3233,7 +3233,7 @@ recording:
         is enough.
     - who: David Boder
       start: '00:00:00.000'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '02:06:12.244'
       u: Yes. [A pause.] Well, this concludes Miss Henja Frydman’s fifth spool. The
         records are from Spool 29 to Spool 33, up to nearly twenty-six minutes of
         the last spool. She was very cooperative. She gave me a whole morning and

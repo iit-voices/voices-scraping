@@ -1747,7 +1747,7 @@ recording:
         Germany September 21, 1946.
     - who: David Boder
       start: '00:30:57.189'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:33:02.824'
       u: This concludes transcription Spool 9-140A Captain Zeplit. 9-140B will...[break
         in tape]...to 9-141 the interview with Mrs. Anna Paul given in the book as
         Anna Prest for there is so much to tell. Boder.

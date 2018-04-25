@@ -1950,7 +1950,7 @@ recording:
       u: נו, אַ דאַנק אײַך זייער.
     - who: David Boder
       start: '00:20:36.276'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:20:39.666'
       u: "[In English] This concludes the interview. Illinois Institute of Technology
         wire recording."
   translation:
@@ -3923,7 +3923,7 @@ recording:
       u: Thank you very much.
     - who: David Boder
       start: '00:20:36.276'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:20:39.666'
       u: "[In English] This concludes the interview. Illinois Institute of Technology
         wire recording."
   commentary:

@@ -2120,7 +2120,7 @@ recording:
         These are very few..."
     - who: David Boder
       start: '01:34:59.033'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:42:16.659'
       u: Well, this finally concludes the interview of two-and-a-half spools with
         Mr. Judah Golen. Pardon...in Wiesbaden, September the 26th, 1946. We are concluding
         this at seventeen minute indicator of the spool. We have spent with Mr. Golen

@@ -1724,7 +1724,7 @@ recording:
         sent to Poland, and one returned of these four, a younger person."
     - who: David Boder
       start: '00:20:54.319'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:21:37.894'
       u: This concludes the interview with Miss Hildegarde— [correction] with Mrs.
         Hildegarde Franz, age seventy-five, born in Nuremberg, or who lived in Nuremberg
         in a mixed marriage with a Christian husband, and who after his death was
@@ -3442,7 +3442,7 @@ recording:
         returned of these four, a younger person."
     - who: David Boder
       start: '00:20:54.319'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:21:37.894'
       u: This concludes the interview with Miss Hildegarde— [correction] with Mrs.
         Hildegarde Franz, age seventy-five, born in Nuremberg, or who lived in Nuremberg
         in a mixed marriage with a Christian husband, and who after his death was

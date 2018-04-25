@@ -1705,7 +1705,7 @@ recording:
       u: Na also dann...
     - who: David Boder
       start: '00:26:05.326'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:26:53.871'
       u: "[In English] This concludes Spool 137A. The other part will be Spool 137B
         and is the beginning of Bassfreund’s story. It may be advisable since we have
         only 8 minutes on this spool to combine this one with 136B and have Mrs. Charlotte
@@ -3378,7 +3378,7 @@ recording:
       u: There you are then...
     - who: David Boder
       start: '00:26:05.326'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:26:53.871'
       u: "[In English] This concludes Spool 137A. The other part will be Spool 137B
         and is the beginning of Bassfreund’s story. It may be advisable since we have
         only 8 minutes on this spool to combine this one with 136B and have Mrs. Charlotte

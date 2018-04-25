@@ -2607,7 +2607,7 @@ recording:
         50.000 judíos en Palestina en combate o 100.000 judíos. No es lo importante.
     - who: David Boder
       start: '00:54:58.742'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:55:09.844'
       u: "[In English] This ends Spool 42 of Mr. David Lea."
   translation:
     language: en
@@ -5328,7 +5328,7 @@ recording:
         point.
     - who: David Boder
       start: '00:54:58.742'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:55:09.844'
       u: "[In English] This ends Spool 42 of Mr. David Lea."
   commentary:
     text: |-

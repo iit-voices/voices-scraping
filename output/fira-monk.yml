@@ -3771,7 +3771,7 @@ recording:
         a real father and mother. I think it would be best [unintelligible].
     - who: David Boder
       start: '01:52:45.305'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:53:01.701'
       u: This concludes Spool 114 [incorrect, this is Spool 113]. I am reading in
         the sign of now [?] by checking the spool in Chicago. October, the 9th, 1950.
         The spool...this spool was somehow miscataloged and it had the name of Miss
@@ -7680,7 +7680,7 @@ recording:
         a real father and mother. I think it would be best [unintelligible].
     - who: David Boder
       start: '01:52:45.305'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:53:01.701'
       u: This concludes Spool 114 [incorrect, this is Spool 113]. I am reading in
         the sign of now [?] by checking the spool in Chicago. October, the 9th, 1950.
         The spool...this spool was somehow miscataloged and it had the name of Miss

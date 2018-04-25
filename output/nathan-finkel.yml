@@ -785,7 +785,7 @@ recording:
         будет после этого...
     - who: David Boder
       start: '00:15:50.451'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:15:55.245'
       u: "[прерывающий] Ну, я думаю, что это как [студенческий интервью?]. Я бы хотел
         с вами говорить значительно дольше. Ну, время...[запись заканчивается внезапно]"
   translation:
@@ -1559,7 +1559,7 @@ recording:
         Now the UNRRA people are helping us. Everything will be after this...
     - who: David Boder
       start: '00:15:50.451'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:15:55.245'
       u: "[interrupting] Well, I think that this is like a [student interview?]. I
         would like to talk with you significantly further. Well, time...[recording
         ends abruptly]"

@@ -921,7 +921,7 @@ recording:
       u: Sí, bien, bien.
     - who: David Boder
       start: '00:14:16.792'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:14:16.528'
       u: Muchísimas gracias señora...
   translation:
     language: en
@@ -1809,7 +1809,7 @@ recording:
       u: OK. Fine.
     - who: David Boder
       start: '00:14:16.792'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:14:16.528'
       u: Thank you very much, madam.
   commentary:
     text: none

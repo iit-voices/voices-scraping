@@ -1626,7 +1626,7 @@ recording:
         Mr. Matzner at twenty-five minutes of Spool 164."
     - who: David Boder
       start: '01:09:00.552'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:09:14.488'
       u: This concludes Spool 9-164A—the interview with Jack Matzner. The second part—the
         interview with Anna Kovitzka—is put on separate spool, 164B. The 14th of November,
         1950, Boder.
@@ -2992,7 +2992,7 @@ recording:
         Mr. Matzner at twenty-five minutes of Spool 164."
     - who: David Boder
       start: '01:09:00.552'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:09:14.488'
       u: This concludes Spool 9-164A—the interview with Jack Matzner. The second part—the
         interview with Anna Kovitzka—is put on separate spool, 164B. The 14th of November,
         1950, Boder.

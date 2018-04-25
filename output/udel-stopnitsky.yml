@@ -4126,7 +4126,7 @@ recording:
         me some things new. One constantly hears new things. It is never enough."
     - who: Udel Stopnitsky
       start: '01:12:58.339'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:13:07.527'
       u: If you should listen for months, for months at a stretch you will not hear
         everything that the Polish Jews went through. It is very much but let it be
         enough because all the Polish Jews have contributed to the tradgedy.

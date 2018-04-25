@@ -283,7 +283,7 @@ recording:
       u: Vincent Auriol.
     - who: David Boder
       start: '00:25:58.101'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:26:00.660'
       u: "[In English] Well, it takes great courage to celebrate it."
   translation:
     language: en
@@ -601,7 +601,7 @@ recording:
       u: Vincent Auriol.
     - who: David Boder
       start: '00:25:58.101'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:26:00.660'
       u: "[In English] Well, it takes great courage to celebrate it."
   commentary:
     text: "<p>Abraham Schramack had a distinguished career as a governmental administrator

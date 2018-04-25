@@ -1521,7 +1521,7 @@ recording:
         that.”4"
     - who: David Boder
       start: '00:22:52.963'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:23:25.335'
       u: This was a kind of a postscript that I wanted to have, because it’s exceedingly
         important to have the feelings of these young people. We notice here that
         she spoke in German, in English, in Polish, and when it came to express her

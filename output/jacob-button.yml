@@ -1202,7 +1202,7 @@ recording:
       u: Zu versichern.
     - who: David Boder
       start: '00:34:51.344'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:35:08.551'
       u: "[In English] This concludes Spool number 25, spoken by Mr. Jacob Button,
         a Spanish Jew born in Greece, he is now doing some work, he expects to go
         to Palestine. Illinois Institute of Technology recording."
@@ -2392,7 +2392,7 @@ recording:
       u: To make a living.
     - who: David Boder
       start: '00:34:51.344'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:35:08.551'
       u: "[In English] This concludes Spool number 25, spoken by Mr. Jacob Button,
         a Spanish Jew born in Greece, he is now doing some work, he expects to go
         to Palestine. Illinois Institute of Technology recording."

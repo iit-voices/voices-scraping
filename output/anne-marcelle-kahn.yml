@@ -345,7 +345,7 @@ recording:
         avec les Allemands."
     - who: David Boder
       start: '00:16:58.253'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:17:16.670'
       u: "[In English] Well, I thank you very much. How really good of you to let
         me spend the evening with you and to have these interesting reports from three
         generations. Now, I would like to have...recording ends abruptly"
@@ -691,7 +691,7 @@ recording:
         months before Mrs. Kahn arrived.16"
     - who: David Boder
       start: '00:16:58.253'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:17:16.670'
       u: "[In English] Well, I thank you very much. How really good of you to let
         me spend the evening with you and to have these interesting reports from three
         generations. Now, I would like to have...[recording ends abruptly]"

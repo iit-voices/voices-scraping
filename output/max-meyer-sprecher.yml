@@ -1732,7 +1732,7 @@ recording:
         wire recording."
     - who: David Boder
       start: '01:15:59.710'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:16:09.936'
       u: "[In German] I thank you very much, Mr. Sprecher, I wish you all the success
         in your work, and in your studies."
   commentary:

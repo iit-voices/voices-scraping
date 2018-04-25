@@ -2627,7 +2627,7 @@ recording:
         wir noch einmal zusammen...zum Schreiben.
     - who: Esther Krueger
       start: '00:37:00.053'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:37:04.535'
       u: In der Zukunft alles beschreiben.
   translation:
     language: en
@@ -5218,7 +5218,7 @@ recording:
         write.
     - who: Esther Krueger
       start: '00:37:00.053'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:37:04.535'
       u: In the future we describe all that, make large books about all the experiences.
   commentary:
     text: none

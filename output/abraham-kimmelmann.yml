@@ -6064,7 +6064,7 @@ recording:
       u: Ein Moment.
     - who: David Boder
       start: '03:33:03.016'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '03:33:15.507'
       u: "[In English] This concludes Spool 92, and we have to conclude the interview,
         we have no more reserve of spools. This is Kimmelmann’s report, which stops
         at Gross-Rosen. He will continue for me when I return. Geneva, August the
@@ -10977,7 +10977,7 @@ recording:
         kitchen couldn’t keep up, they worked day and night. Do you understand?
     - who: David Boder
       start: '03:33:03.016'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '03:33:15.507'
       u: "[In English] This concludes Spool 92, and we have to conclude the interview,
         we have no more reserve of spools. This is Kimmelmann’s report, which stops
         at Gross-Rosen. He will continue for me when I return. Geneva, August the

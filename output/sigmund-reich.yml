@@ -2232,7 +2232,7 @@ recording:
       u: יא, די דייטשן.
     - who: David Boder
       start: '00:33:50.334'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:33:49.008'
       u: זיי האבן נישט גע...
   translation:
     language: en
@@ -4519,7 +4519,7 @@ recording:
       u: Yes. The Germans.
     - who: David Boder
       start: '00:33:50.334'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:33:49.008'
       u: They did not...[abrupt end of the spool].
   commentary:
     text: |

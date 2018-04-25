@@ -3571,7 +3571,7 @@ recording:
         wird er sich nie mehr wohl fühlen. In diesem Land gibt es nichts für uns.
     - who: David Boder
       start: '01:52:12.174'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:52:24.842'
       u: "[In English] We regret we have to finish this interview. The automobile
         is waiting. This concludes Spool 150."
   translation:
@@ -7048,7 +7048,7 @@ recording:
         for us...
     - who: David Boder
       start: '01:52:12.174'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:52:24.842'
       u: "[In English] We regret we have to finish this interview. The automobile
         is waiting. This concludes Spool 150."
   commentary:

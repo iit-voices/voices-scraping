@@ -970,7 +970,7 @@ recording:
         это мое мнение.
     - who: David Boder
       start: '00:20:48.258'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:20:47.895'
       u: "[In English] This concludes spool four hundred fourty two."
   translation:
     language: en
@@ -1930,7 +1930,7 @@ recording:
         but not from others—it is in my opinion."
     - who: David Boder
       start: '00:20:48.258'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:20:47.895'
       u: "[In English] This concludes spool four hundred forty-two."
   commentary:
     text: none

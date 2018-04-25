@@ -4749,7 +4749,7 @@ recording:
       u: Hm.
     - who: Jacob Minski
       start: '01:23:13.188'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:23:15.004'
       u: Wir kamen dann, wie schon gesagt bis Wien an und in Wien durften wir nicht
         verbleiben.
   translation:
@@ -9479,7 +9479,7 @@ recording:
       u: Hm...
     - who: Jacob Minski
       start: '01:23:13.188'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:23:15.004'
       u: 'As said before, we arrived in Vienna; and in Vienna we were not permitted
         to remain...[NOTE: The spool, as often happens, ends abruptly in mid-sentence.
         The interviewer apparently felt that it would be of little use to continue

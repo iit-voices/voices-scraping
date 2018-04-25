@@ -3342,7 +3342,7 @@ recording:
         of Technology Wire Recording."
     - who: David Boder
       start: '01:25:33.483'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:25:53.358'
       u: This section of Spool 9-107 is being separated and goes under the number
         9-107A. It concludes the story of Mr. Warsager. Stop.
   translation:
@@ -6591,7 +6591,7 @@ recording:
         in the co-operation with UNRRA. Illinois Institute of Technology Wire Recording.
     - who: David Boder
       start: '01:25:33.483'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '01:25:53.358'
       u: This section of Spool 9-107 is being separated and goes under the number
         9-107A. It concludes the story of Mr. Warsager. Stop.
   commentary:

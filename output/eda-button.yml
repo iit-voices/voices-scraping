@@ -2762,7 +2762,7 @@ recording:
         she divorced him in Greece."
     - who: David Boder
       start: '00:47:36.800'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:47:37.665'
       u: "[In German] Danke sehr Frau Button."
   translation:
     language: en
@@ -5537,7 +5537,7 @@ recording:
         she divorced him in Greece."
     - who: David Boder
       start: '00:47:36.800'
-      end: !ruby/object:Nokogiri::XML::Text {}
+      end: '00:47:37.665'
       u: "[In German] Thank you very much, Mrs. Button."
   commentary:
     text: "<p>Eda Button was born in Salonika Greece, the world center of Sephardic
