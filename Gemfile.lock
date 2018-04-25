@@ -11,8 +11,11 @@ GEM
       concurrent-ruby (~> 1.0)
     mini_portile2 (2.3.0)
     minitest (5.11.3)
+    mp3info (0.8.5)
+      ruby-mp3info (>= 0.8.5)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
+    ruby-mp3info (0.8.10)
     sterile (1.0.13)
       nokogiri
     thread_safe (0.3.6)
@@ -24,6 +27,7 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport
+  mp3info
   nokogiri
   sterile
 
