@@ -375,8 +375,8 @@ Dir.glob(files).each do |file|
 
     # Set the end value for the last utterance
     if @trans.interview.length > 0
-      @trans.interview.last[:end][:sec] = time_seconds(@r.duration.to_s)
-      @trans.interview.last[:end][:mark] = @r.duration.to_s
+      @trans.interview.last[:end][:sec] = time_seconds(@r.duration)
+      @trans.interview.last[:end][:mark] = @r.duration
     end
 
     if t.text.match?(/Transcript/)
