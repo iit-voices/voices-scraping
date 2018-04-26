@@ -307,7 +307,6 @@ Dir.glob(files).each do |file|
   @r.spools = @doc.css('.spools text()').to_s.strip.split(", ")
   @r.audio = { file: '', 'mime-type': 'audio/mp3' }
   @r.audio[:file] = MP3_FILES[@i.legacy_identifier.to_sym]
-  puts @r.audio[:file]
 
   if @r.audio[:file].length > 0
     Mp3Info.open("#{ENV['HOME']}/Voices/mp3/#{@r.audio[:file]}") do |mp3|
