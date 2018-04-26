@@ -36,853 +36,1657 @@ recording:
     language: de
     interview:
     - who: David Boder
-      start: '00:00:00.903'
-      end: '00:00:24.313'
+      start:
+        sec: '0.903'
+        mark: '00:00:00.903'
+      end:
+        sec: '24.313'
+        mark: '00:00:24.313'
       u: "[In English] Spool number 90 continued, Spool number 90 continued, at about
         fourteen minutes. The interviewee is Mr. Arthur Breslauer, fifty-four years
         old. The interview is taking place in the knitting shop, in the knitting training
         shop of the ORT in Geneva, August 28th 1946."
     - who: David Boder
-      start: '00:00:24.313'
-      end: '00:00:32.507'
+      start:
+        sec: '24.313'
+        mark: '00:00:24.313'
+      end:
+        sec: '32.507'
+        mark: '00:00:32.507'
       u: "[In German] Also wollen Sie, Herr Breslauer, uns nochmal Ihren vollen Namen
         geben, und sagen Sie uns wie alt Sie sind und wo sind Sie geboren?"
     - who: Arthur Breslauer
-      start: '00:00:32.507'
-      end: '00:00:40.279'
+      start:
+        sec: '32.507'
+        mark: '00:00:32.507'
+      end:
+        sec: '40.279'
+        mark: '00:00:40.279'
       u: Mein Name ist Arthur Breslauer, bin vier-, vierundfünfzig Jahre alt, bin
         in Ungarn geboren.
     - who: David Boder
-      start: '00:00:40.279'
-      end: '00:00:57.160'
+      start:
+        sec: '40.279'
+        mark: '00:00:40.279'
+      end:
+        sec: '57.160'
+        mark: '00:00:57.160'
       u: Aha. Sagen Sie mal, Herr Breslauer, äh, wo hat Sie, erzählen Sie uns, wo
         Sie waren, wenn der Krieg angefangen hat, wo hat sie der Anfang des Krieges
         getroffen und was hat Ihnen nachher passiert?
     - who: Arthur Breslauer
-      start: '00:00:57.160'
-      end: '00:01:06.888'
+      start:
+        sec: '57.160'
+        mark: '00:00:57.160'
+      end:
+        sec: '66.888'
+        mark: '00:01:06.888'
       u: Anfang des Krieges war ich in Budapest, wo ich seit fünfunddreißig Jahre
         lebte, und wo ich selbständiger Getreide- und Effekten-Händler war.
     - who: David Boder
-      start: '00:01:06.888'
-      end: '00:01:08.212'
+      start:
+        sec: '66.888'
+        mark: '00:01:06.888'
+      end:
+        sec: '68.212'
+        mark: '00:01:08.212'
       u: Getreide- und was?
     - who: Arthur Breslauer
-      start: '00:01:08.212'
-      end: '00:01:09.295'
+      start:
+        sec: '68.212'
+        mark: '00:01:08.212'
+      end:
+        sec: '69.295'
+        mark: '00:01:09.295'
       u: Effektenhändler.
     - who: David Boder
-      start: '00:01:09.295'
-      end: '00:01:18.684'
+      start:
+        sec: '69.295'
+        mark: '00:01:09.295'
+      end:
+        sec: '78.684'
+        mark: '00:01:18.684'
       u: Ja. Wenn Sie nicht laut genug sprechen, dann wird diese Lampe hier und da
         “aufleiten”, nicht wahr? Das zeigt, dass Sie...äh, Getreide- und?
     - who: Arthur Breslauer
-      start: '00:01:18.684'
-      end: '00:01:19.566'
+      start:
+        sec: '78.684'
+        mark: '00:01:18.684'
+      end:
+        sec: '79.566'
+        mark: '00:01:19.566'
       u: Effektenhändler.
     - who: David Boder
-      start: '00:01:19.566'
-      end: '00:01:24.570'
+      start:
+        sec: '79.566'
+        mark: '00:01:19.566'
+      end:
+        sec: '84.570'
+        mark: '00:01:24.570'
       u: Was heißt “Effektenhändler”?
     - who: Arthur Breslauer
-      start: '00:01:24.570'
-      end: '00:01:25.954'
+      start:
+        sec: '84.570'
+        mark: '00:01:24.570'
+      end:
+        sec: '85.954'
+        mark: '00:01:25.954'
       u: "[Pause] Wertpapierenhändler."
     - who: David Boder
-      start: '00:01:25.954'
-      end: '00:01:29.084'
+      start:
+        sec: '85.954'
+        mark: '00:01:25.954'
+      end:
+        sec: '89.084'
+        mark: '00:01:29.084'
       u: Oh! Also Getreide und mit Wertpapieren.
     - who: Arthur Breslauer
-      start: '00:01:29.084'
-      end: '00:01:34.991'
+      start:
+        sec: '89.084'
+        mark: '00:01:29.084'
+      end:
+        sec: '94.991'
+        mark: '00:01:34.991'
       u: An der Budapester Börse war ich fünfunddreißig Jahre tätig, davon fünfundzwanzig
         Jahre selbständig.
     - who: David Boder
-      start: '00:01:34.991'
-      end: '00:01:38.129'
+      start:
+        sec: '94.991'
+        mark: '00:01:34.991'
+      end:
+        sec: '98.129'
+        mark: '00:01:38.129'
       u: Ja. Sie waren also ein Börsenmitglied.
     - who: Arthur Breslauer
-      start: '00:01:38.129'
-      end: '00:01:40.567'
+      start:
+        sec: '98.129'
+        mark: '00:01:38.129'
+      end:
+        sec: '100.567'
+        mark: '00:01:40.567'
       u: Ja, Börsen-, Börsenkommissionär
     - who: David Boder
-      start: '00:01:40.567'
-      end: '00:01:44.578'
+      start:
+        sec: '100.567'
+        mark: '00:01:40.567'
+      end:
+        sec: '104.578'
+        mark: '00:01:44.578'
       u: Sie waren ein Börsenkommissionär und haben Getreide auch auf Kommission und...
     - who: Arthur Breslauer
-      start: '00:01:44.578'
-      end: '00:01:45.842'
+      start:
+        sec: '104.578'
+        mark: '00:01:44.578'
+      end:
+        sec: '105.842'
+        mark: '00:01:45.842'
       u: Auch auf Kommission
     - who: David Boder
-      start: '00:01:45.842'
-      end: '00:01:46.543'
+      start:
+        sec: '105.842'
+        mark: '00:01:45.842'
+      end:
+        sec: '106.543'
+        mark: '00:01:46.543'
       u: Ver...
     - who: Arthur Breslauer
-      start: '00:01:46.543'
-      end: '00:01:49.522'
+      start:
+        sec: '106.543'
+        mark: '00:01:46.543'
+      end:
+        sec: '109.522'
+        mark: '00:01:49.522'
       u: Teilweise auf Kommission, teilweise pro per....
     - who: David Boder
-      start: '00:01:49.522'
-      end: '00:01:53.795'
+      start:
+        sec: '109.522'
+        mark: '00:01:49.522'
+      end:
+        sec: '113.795'
+        mark: '00:01:53.795'
       u: Also Sie waren in Ungarn geboren, lebten aber in Rumänien.
     - who: Arthur Breslauer
-      start: '00:01:53.795'
-      end: '00:01:54.737'
+      start:
+        sec: '113.795'
+        mark: '00:01:53.795'
+      end:
+        sec: '114.737'
+        mark: '00:01:54.737'
       u: Nein, in Budapest.
     - who: David Boder
-      start: '00:01:54.737'
-      end: '00:01:57.875'
+      start:
+        sec: '114.737'
+        mark: '00:01:54.737'
+      end:
+        sec: '117.875'
+        mark: '00:01:57.875'
       u: Ach, Bud...Entschuldigen Sie mal. Ich dachte Bukarest, sagten Sie.
     - who: Arthur Breslauer
-      start: '00:01:57.875'
-      end: '00:01:58.507'
+      start:
+        sec: '117.875'
+        mark: '00:01:57.875'
+      end:
+        sec: '118.507'
+        mark: '00:01:58.507'
       u: Budapest. Die Hauptstadt von Ungarn.
     - who: David Boder
-      start: '00:01:58.507'
-      end: '00:02:05.518'
+      start:
+        sec: '118.507'
+        mark: '00:01:58.507'
+      end:
+        sec: '125.518'
+        mark: '00:02:05.518'
       u: Budapest. Die Hauptstadt von Ungarn. Nun also, wo waren Sie, wenn der Krieg
         anfing?
     - who: Arthur Breslauer
-      start: '00:02:05.518'
-      end: '00:02:25.071'
+      start:
+        sec: '125.518'
+        mark: '00:02:05.518'
+      end:
+        sec: '145.071'
+        mark: '00:02:25.071'
       u: Ich war zu Hause in Budapest. Und als die Deportation 1944 anfing und im
         sehr großen Maßen an der, in der Provinz stattfand...
     - who: David Boder
-      start: '00:02:25.071'
-      end: '00:02:25.493'
+      start:
+        sec: '145.071'
+        mark: '00:02:25.071'
+      end:
+        sec: '145.493'
+        mark: '00:02:25.493'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:02:25.493'
-      end: '00:02:43.947'
+      start:
+        sec: '145.493'
+        mark: '00:02:25.493'
+      end:
+        sec: '163.947'
+        mark: '00:02:43.947'
       u: Haben wir uns sehr gefährdet gefühlt und so sind wir mit der bekannten Gruppe
         von 1700 Seelen nach Deutschland, und zwar nach Bergen, Bergen-Belsen deportiert
         worden.
     - who: David Boder
-      start: '00:02:43.947'
-      end: '00:02:49.514'
+      start:
+        sec: '163.947'
+        mark: '00:02:43.947'
+      end:
+        sec: '169.514'
+        mark: '00:02:49.514'
       u: Also, warten Sie mal. Das geht ein bisschen zu schnell. Wann sind die Deutschen
         nach Bukarest gekommen?
     - who: Arthur Breslauer
-      start: '00:02:49.514'
-      end: '00:02:50.311'
+      start:
+        sec: '169.514'
+        mark: '00:02:49.514'
+      end:
+        sec: '170.311'
+        mark: '00:02:50.311'
       u: Nach Budapest!
     - who: David Boder
-      start: '00:02:50.311'
-      end: '00:02:51.885'
+      start:
+        sec: '170.311'
+        mark: '00:02:50.311'
+      end:
+        sec: '171.885'
+        mark: '00:02:51.885'
       u: Nach Budapest gekommen?
     - who: Arthur Breslauer
-      start: '00:02:51.885'
-      end: '00:02:55.866'
+      start:
+        sec: '171.885'
+        mark: '00:02:51.885'
+      end:
+        sec: '175.866'
+        mark: '00:02:55.866'
       u: Am 19. März 1944.
     - who: David Boder
-      start: '00:02:55.866'
-      end: '00:02:59.245'
+      start:
+        sec: '175.866'
+        mark: '00:02:55.866'
+      end:
+        sec: '179.245'
+        mark: '00:02:59.245'
       u: Nun, was haben sie dann bekannt gemacht?
     - who: Arthur Breslauer
-      start: '00:02:59.245'
-      end: '00:03:06.226'
+      start:
+        sec: '179.245'
+        mark: '00:02:59.245'
+      end:
+        sec: '186.226'
+        mark: '00:03:06.226'
       u: Die haben dann [unverständlich] beruhigt...die Juden, die Judenheit, die
         Judenschar
     - who: David Boder
-      start: '00:03:06.226'
-      end: '00:03:06.918'
+      start:
+        sec: '186.226'
+        mark: '00:03:06.226'
+      end:
+        sec: '186.918'
+        mark: '00:03:06.918'
       u: Gesellschaft.
     - who: Arthur Breslauer
-      start: '00:03:06.918'
-      end: '00:03:35.864'
+      start:
+        sec: '186.918'
+        mark: '00:03:06.918'
+      end:
+        sec: '215.864'
+        mark: '00:03:35.864'
       u: Die Gesellschaft, wenn sie noch nicht geschehen [Räuspern], ein jeder kann
         die jüdische Kulturalität üben...und wie sich herausgestellt hat, also, äh,
         diese Deklaration hat nur das Ziel gehabt, Un...Un..., keine, keine...[Pause],
         Unruhe...
     - who: David Boder
-      start: '00:03:35.864'
-      end: '00:03:37.399'
+      start:
+        sec: '215.864'
+        mark: '00:03:35.864'
+      end:
+        sec: '217.399'
+        mark: '00:03:37.399'
       u: Keine Unruhe zu stiften.
     - who: Arthur Breslauer
-      start: '00:03:37.399'
-      end: '00:03:42.403'
+      start:
+        sec: '217.399'
+        mark: '00:03:37.399'
+      end:
+        sec: '222.403'
+        mark: '00:03:42.403'
       u: Zu stiften und damit sie ihren Plan ungestört vollbringen können.
     - who: David Boder
-      start: '00:03:42.403'
-      end: '00:03:44.269'
+      start:
+        sec: '222.403'
+        mark: '00:03:42.403'
+      end:
+        sec: '224.269'
+        mark: '00:03:44.269'
       u: Und was war dieser Plan?
     - who: Arthur Breslauer
-      start: '00:03:44.269'
-      end: '00:03:50.928'
+      start:
+        sec: '224.269'
+        mark: '00:03:44.269'
+      end:
+        sec: '230.928'
+        mark: '00:03:50.928'
       u: Das Plan war, wie sich herausgestellt, die Vernichtung der Juden.
     - who: David Boder
-      start: '00:03:50.928'
-      end: '00:03:53.134'
+      start:
+        sec: '230.928'
+        mark: '00:03:50.928'
+      end:
+        sec: '233.134'
+        mark: '00:03:53.134'
       u: Aha, nun.
     - who: Arthur Breslauer
-      start: '00:03:53.134'
-      end: '00:03:55.159'
+      start:
+        sec: '233.134'
+        mark: '00:03:53.134'
+      end:
+        sec: '235.159'
+        mark: '00:03:55.159'
       u: Systematische Vernichtung.
     - who: David Boder
-      start: '00:03:55.159'
-      end: '00:03:57.657'
+      start:
+        sec: '235.159'
+        mark: '00:03:55.159'
+      end:
+        sec: '237.657'
+        mark: '00:03:57.657'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:03:57.657'
-      end: '00:04:22.484'
+      start:
+        sec: '237.657'
+        mark: '00:03:57.657'
+      end:
+        sec: '262.484'
+        mark: '00:04:22.484'
       u: Und als die Juden in der Provinz deportiert wurden, das heißt, es war im
         Zuge, und die Deportation schon nahe zu Budapest, und zwar in [Kispest?] [Der
         Ortsname ist unverständlich. Es könnte sich um Kispest handeln?] schon stattfand,
         haben wir uns entschlossen, zu dieser, äh, an, äh...zu dieser Gruppe uns...
     - who: David Boder
-      start: '00:04:22.484'
-      end: '00:04:23.718'
+      start:
+        sec: '262.484'
+        mark: '00:04:22.484'
+      end:
+        sec: '263.718'
+        mark: '00:04:23.718'
       u: Welcher Gruppe?
     - who: Arthur Breslauer
-      start: '00:04:23.718'
-      end: '00:04:26.525'
+      start:
+        sec: '263.718'
+        mark: '00:04:23.718'
+      end:
+        sec: '266.525'
+        mark: '00:04:26.525'
       u: Zu den 1700 Seelen...
     - who: David Boder
-      start: '00:04:26.525'
-      end: '00:04:28.812'
+      start:
+        sec: '266.525'
+        mark: '00:04:26.525'
+      end:
+        sec: '268.812'
+        mark: '00:04:28.812'
       u: Was war das für eine Gruppe?
     - who: Arthur Breslauer
-      start: '00:04:28.812'
-      end: '00:04:36.034'
+      start:
+        sec: '268.812'
+        mark: '00:04:28.812'
+      end:
+        sec: '276.034'
+        mark: '00:04:36.034'
       u: Da hat man eine sogenanntes Geschäft gemacht, mit den 1700 Seelen.
     - who: David Boder
-      start: '00:04:36.034'
-      end: '00:04:37.066'
+      start:
+        sec: '276.034'
+        mark: '00:04:36.034'
+      end:
+        sec: '277.066'
+        mark: '00:04:37.066'
       u: Aha.
     - who: Arthur Breslauer
-      start: '00:04:37.066'
-      end: '00:04:48.260'
+      start:
+        sec: '277.066'
+        mark: '00:04:37.066'
+      end:
+        sec: '288.260'
+        mark: '00:04:48.260'
       u: Man hat sie nach Deutschland geführt mit dem Versprechen, dass sie nachher
         so weiter geführt werden.
     - who: David Boder
-      start: '00:04:48.260'
-      end: '00:04:58.139'
+      start:
+        sec: '288.260'
+        mark: '00:04:48.260'
+      end:
+        sec: '298.139'
+        mark: '00:04:58.139'
       u: Oh! Also es war, man hat eine Unterredung gemacht,...dass hier waren 1700
         Seelen und die wollen nach Palästina gehen und man sollte [unverständlich]...
     - who: Arthur Breslauer
-      start: '00:04:58.139'
-      end: '00:05:00.766'
+      start:
+        sec: '298.139'
+        mark: '00:04:58.139'
+      end:
+        sec: '300.766'
+        mark: '00:05:00.766'
       u: Man sagt uns Spanien.
     - who: David Boder
-      start: '00:05:00.766'
-      end: '00:05:02.310'
+      start:
+        sec: '300.766'
+        mark: '00:05:00.766'
+      end:
+        sec: '302.310'
+        mark: '00:05:02.310'
       u: Ja, nun?
     - who: Arthur Breslauer
-      start: '00:05:02.310'
-      end: '00:05:03.462'
+      start:
+        sec: '302.310'
+        mark: '00:05:02.310'
+      end:
+        sec: '303.462'
+        mark: '00:05:03.462'
       u: Auf einem Umweg.
     - who: David Boder
-      start: '00:05:03.462'
-      end: '00:05:07.675'
+      start:
+        sec: '303.462'
+        mark: '00:05:03.462'
+      end:
+        sec: '307.675'
+        mark: '00:05:07.675'
       u: Wie hat man das arrangiert? Wie ist das zustande gekommen?
     - who: Arthur Breslauer
-      start: '00:05:07.675'
-      end: '00:05:12.219'
+      start:
+        sec: '307.675'
+        mark: '00:05:07.675'
+      end:
+        sec: '312.219'
+        mark: '00:05:12.219'
       u: Wir sind in einem Lager geführt, äh, beordert geworden.
     - who: David Boder
-      start: '00:05:12.219'
-      end: '00:05:19.961'
+      start:
+        sec: '312.219'
+        mark: '00:05:12.219'
+      end:
+        sec: '319.961'
+        mark: '00:05:19.961'
       u: Nein, ich mein, wie ist es zustande gekommen, dass man überhaupt diese ganze
         Geschichte mit den Deutschen durchgesetzt hat?
     - who: Arthur Breslauer
-      start: '00:05:19.961'
-      end: '00:05:46.127'
+      start:
+        sec: '319.961'
+        mark: '00:05:19.961'
+      end:
+        sec: '346.127'
+        mark: '00:05:46.127'
       u: Da war ein gewisser Dr. Kasztner. Der hat das veranstaltet. Und das war eine
         große, ein großzügige, großer Plan, der aber nur teilweise durchgeführt wurden,
         äh, wurde. Unsere Gruppe war eine sogenannte “Mustergruppe”.
     - who: David Boder
-      start: '00:05:46.127'
-      end: '00:05:47.520'
+      start:
+        sec: '346.127'
+        mark: '00:05:46.127'
+      end:
+        sec: '347.520'
+        mark: '00:05:47.520'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:05:47.520'
-      end: '00:05:49.356'
+      start:
+        sec: '347.520'
+        mark: '00:05:47.520'
+      end:
+        sec: '349.356'
+        mark: '00:05:49.356'
       u: Als Experiment.
     - who: David Boder
-      start: '00:05:49.356'
-      end: '00:05:50.448'
+      start:
+        sec: '349.356'
+        mark: '00:05:49.356'
+      end:
+        sec: '350.448'
+        mark: '00:05:50.448'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:05:50.448'
-      end: '00:06:00.649'
+      start:
+        sec: '350.448'
+        mark: '00:05:50.448'
+      end:
+        sec: '360.649'
+        mark: '00:06:00.649'
       u: Und da die Gefahr sehr gedroht hat, dass uns auch die Deportion, Dep—...Dep—...Deportation,
         also...
     - who: David Boder
-      start: '00:06:00.649'
-      end: '00:06:02.373'
+      start:
+        sec: '360.649'
+        mark: '00:06:00.649'
+      end:
+        sec: '362.373'
+        mark: '00:06:02.373'
       u: Ja. Heimsuchen wird.
     - who: Arthur Breslauer
-      start: '00:06:02.373'
-      end: '00:06:06.616'
+      start:
+        sec: '362.373'
+        mark: '00:06:02.373'
+      end:
+        sec: '366.616'
+        mark: '00:06:06.616'
       u: Heimsuchen wird, haben wir uns auf diese...
     - who: David Boder
-      start: '00:06:06.616'
-      end: '00:06:07.738'
+      start:
+        sec: '366.616'
+        mark: '00:06:06.616'
+      end:
+        sec: '367.738'
+        mark: '00:06:07.738'
       u: Idee eingelassen.
     - who: Arthur Breslauer
-      start: '00:06:07.738'
-      end: '00:06:15.622'
+      start:
+        sec: '367.738'
+        mark: '00:06:07.738'
+      end:
+        sec: '375.622'
+        mark: '00:06:15.622'
       u: Eingelassen. Ja, und zwar, es war alles sehr, sehr ungewiss, war.
     - who: David Boder
-      start: '00:06:15.622'
-      end: '00:06:18.481'
+      start:
+        sec: '375.622'
+        mark: '00:06:15.622'
+      end:
+        sec: '378.481'
+        mark: '00:06:18.481'
       u: Ja, nun?
     - who: Arthur Breslauer
-      start: '00:06:18.481'
-      end: '00:06:37.296'
+      start:
+        sec: '378.481'
+        mark: '00:06:18.481'
+      end:
+        sec: '397.296'
+        mark: '00:06:37.296'
       u: Nun sind wir einwagoniert worden, und zwar von sechzig bis fünfundsiebzig
         Leute je ein Wagon und sind, sind, äh, etliche, elf Tage im Wagon gefahren.
     - who: David Boder
-      start: '00:06:37.296'
-      end: '00:06:38.320'
+      start:
+        sec: '397.296'
+        mark: '00:06:37.296'
+      end:
+        sec: '398.320'
+        mark: '00:06:38.320'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:06:38.320'
-      end: '00:06:41.368'
+      start:
+        sec: '398.320'
+        mark: '00:06:38.320'
+      end:
+        sec: '401.368'
+        mark: '00:06:41.368'
       u: Bis wir nach Bergen-Belsen angekommen sind.
     - who: David Boder
-      start: '00:06:41.368'
-      end: '00:06:41.940'
+      start:
+        sec: '401.368'
+        mark: '00:06:41.368'
+      end:
+        sec: '401.940'
+        mark: '00:06:41.940'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:06:41.940'
-      end: '00:06:48.539'
+      start:
+        sec: '401.940'
+        mark: '00:06:41.940'
+      end:
+        sec: '408.539'
+        mark: '00:06:48.539'
       u: Dort wurden die 1700 Seelen in zwei Baracken untergebracht.
     - who: David Boder
-      start: '00:06:48.539'
-      end: '00:06:49.691'
+      start:
+        sec: '408.539'
+        mark: '00:06:48.539'
+      end:
+        sec: '409.691'
+        mark: '00:06:49.691'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:06:49.691'
-      end: '00:06:53.603'
+      start:
+        sec: '409.691'
+        mark: '00:06:49.691'
+      end:
+        sec: '413.603'
+        mark: '00:06:53.603'
       u: Unter sehr schwierigen Verhältnissen.
     - who: David Boder
-      start: '00:06:53.603'
-      end: '00:06:55.198'
+      start:
+        sec: '413.603'
+        mark: '00:06:53.603'
+      end:
+        sec: '415.198'
+        mark: '00:06:55.198'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:06:55.198'
-      end: '00:07:16.060'
+      start:
+        sec: '415.198'
+        mark: '00:06:55.198'
+      end:
+        sec: '436.060'
+        mark: '00:07:16.060'
       u: Zusammengepfropft. Dort waren wir sechs Wochen. Während dieser sechs Wochen
         habe ich meine unvergessliche größere Tochter mit siebzehneinhalb Jahren verloren.
     - who: David Boder
-      start: '00:07:16.060'
-      end: '00:07:16.581'
+      start:
+        sec: '436.060'
+        mark: '00:07:16.060'
+      end:
+        sec: '436.581'
+        mark: '00:07:16.581'
       u: Woran?
     - who: Arthur Breslauer
-      start: '00:07:16.581'
-      end: '00:07:18.335'
+      start:
+        sec: '436.581'
+        mark: '00:07:16.581'
+      end:
+        sec: '438.335'
+        mark: '00:07:18.335'
       u: Sie ist gestorben.
     - who: David Boder
-      start: '00:07:18.335'
-      end: '00:07:19.900'
+      start:
+        sec: '438.335'
+        mark: '00:07:18.335'
+      end:
+        sec: '439.900'
+        mark: '00:07:19.900'
       u: Woran ist sie gestorben?
     - who: Arthur Breslauer
-      start: '00:07:19.900'
-      end: '00:07:21.654'
+      start:
+        sec: '439.900'
+        mark: '00:07:19.900'
+      end:
+        sec: '441.654'
+        mark: '00:07:21.654'
       u: An Lungenentzündung.
     - who: David Boder
-      start: '00:07:21.654'
-      end: '00:07:22.226'
+      start:
+        sec: '441.654'
+        mark: '00:07:21.654'
+      end:
+        sec: '442.226'
+        mark: '00:07:22.226'
       u: Wo war das?
     - who: Arthur Breslauer
-      start: '00:07:22.226'
-      end: '00:07:24.010'
+      start:
+        sec: '442.226'
+        mark: '00:07:22.226'
+      end:
+        sec: '444.010'
+        mark: '00:07:24.010'
       u: In Bergen-Belsen.
     - who: David Boder
-      start: '00:07:24.010'
-      end: '00:07:26.929'
+      start:
+        sec: '444.010'
+        mark: '00:07:24.010'
+      end:
+        sec: '446.929'
+        mark: '00:07:26.929'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:07:26.929'
-      end: '00:07:29.607'
+      start:
+        sec: '446.929'
+        mark: '00:07:26.929'
+      end:
+        sec: '449.607'
+        mark: '00:07:29.607'
       u: Es war grässlich, schauderhaft.
     - who: David Boder
-      start: '00:07:29.607'
-      end: '00:07:33.098'
+      start:
+        sec: '449.607'
+        mark: '00:07:29.607'
+      end:
+        sec: '453.098'
+        mark: '00:07:33.098'
       u: Wie viele Leute waren im Ganzen in ihrer Familie?
     - who: Arthur Breslauer
-      start: '00:07:33.098'
-      end: '00:07:34.822'
+      start:
+        sec: '453.098'
+        mark: '00:07:33.098'
+      end:
+        sec: '454.822'
+        mark: '00:07:34.822'
       u: Wir waren viere.
     - who: David Boder
-      start: '00:07:34.822'
-      end: '00:07:35.544'
+      start:
+        sec: '454.822'
+        mark: '00:07:34.822'
+      end:
+        sec: '455.544'
+        mark: '00:07:35.544'
       u: Wer war das?
     - who: Arthur Breslauer
-      start: '00:07:35.544'
-      end: '00:07:41.803'
+      start:
+        sec: '455.544'
+        mark: '00:07:35.544'
+      end:
+        sec: '461.803'
+        mark: '00:07:41.803'
       u: Meine Frau, Gymnasialprofessorin, Doktor der Mathematik.
     - who: David Boder
-      start: '00:07:41.803'
-      end: '00:07:42.616'
+      start:
+        sec: '461.803'
+        mark: '00:07:41.803'
+      end:
+        sec: '462.616'
+        mark: '00:07:42.616'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:07:42.616'
-      end: '00:07:44.190'
+      start:
+        sec: '462.616'
+        mark: '00:07:42.616'
+      end:
+        sec: '464.190'
+        mark: '00:07:44.190'
       u: Meine zwei Töchter.
     - who: David Boder
-      start: '00:07:44.190'
-      end: '00:07:44.771'
+      start:
+        sec: '464.190'
+        mark: '00:07:44.190'
+      end:
+        sec: '464.771'
+        mark: '00:07:44.771'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:07:44.771'
-      end: '00:07:46.736'
+      start:
+        sec: '464.771'
+        mark: '00:07:44.771'
+      end:
+        sec: '466.736'
+        mark: '00:07:46.736'
       u: Sehr gängige zwei Kinder.
     - who: David Boder
-      start: '00:07:46.736'
-      end: '00:07:48.370'
+      start:
+        sec: '466.736'
+        mark: '00:07:46.736'
+      end:
+        sec: '468.370'
+        mark: '00:07:48.370'
       u: Wo ist die andere jetzt?
     - who: Arthur Breslauer
-      start: '00:07:48.370'
-      end: '00:07:51.057'
+      start:
+        sec: '468.370'
+        mark: '00:07:48.370'
+      end:
+        sec: '471.057'
+        mark: '00:07:51.057'
       u: Die andere ist jetzt mit uns.
     - who: David Boder
-      start: '00:07:51.057'
-      end: '00:07:51.569'
+      start:
+        sec: '471.057'
+        mark: '00:07:51.057'
+      end:
+        sec: '471.569'
+        mark: '00:07:51.569'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:07:51.569'
-      end: '00:07:55.821'
+      start:
+        sec: '471.569'
+        mark: '00:07:51.569'
+      end:
+        sec: '475.821'
+        mark: '00:07:55.821'
       u: Besucht hier das Gymnasium.
     - who: David Boder
-      start: '00:07:55.821'
-      end: '00:07:56.402'
+      start:
+        sec: '475.821'
+        mark: '00:07:55.821'
+      end:
+        sec: '476.402'
+        mark: '00:07:56.402'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:07:56.402'
-      end: '00:07:59.811'
+      start:
+        sec: '476.402'
+        mark: '00:07:56.402'
+      end:
+        sec: '479.811'
+        mark: '00:07:59.811'
       u: Ist eine sehr begabte Person.
     - who: David Boder
-      start: '00:07:59.811'
-      end: '00:08:05.047'
+      start:
+        sec: '479.811'
+        mark: '00:07:59.811'
+      end:
+        sec: '485.047'
+        mark: '00:08:05.047'
       u: Wie alt war sie, wenn Sie, äh, wenn Sie weggingen, wenn sie deportiert wurden?
     - who: Arthur Breslauer
-      start: '00:08:05.047'
-      end: '00:08:07.102'
+      start:
+        sec: '485.047'
+        mark: '00:08:05.047'
+      end:
+        sec: '487.102'
+        mark: '00:08:07.102'
       u: Die kleine war elf Jahre.
     - who: David Boder
-      start: '00:08:07.102'
-      end: '00:08:07.614'
+      start:
+        sec: '487.102'
+        mark: '00:08:07.102'
+      end:
+        sec: '487.614'
+        mark: '00:08:07.614'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:08:07.614'
-      end: '00:08:09.248'
+      start:
+        sec: '487.614'
+        mark: '00:08:07.614'
+      end:
+        sec: '489.248'
+        mark: '00:08:09.248'
       u: Jetzt ist sie dreizehneinhalb.
     - who: David Boder
-      start: '00:08:09.248'
-      end: '00:08:14.282'
+      start:
+        sec: '489.248'
+        mark: '00:08:09.248'
+      end:
+        sec: '494.282'
+        mark: '00:08:14.282'
       u: Also, wie lange hat die Reise von Budapest nach Belsen-Belsen [Boder wiederholt
         mehrmals falscherweise Belsen-Belsen, anstelle von Bergen-Belsen] gedauert?
     - who: Arthur Breslauer
-      start: '00:08:14.282'
-      end: '00:08:15.245'
+      start:
+        sec: '494.282'
+        mark: '00:08:14.282'
+      end:
+        sec: '495.245'
+        mark: '00:08:15.245'
       u: Elf Tage.
     - who: David Boder
-      start: '00:08:15.245'
-      end: '00:08:20.550'
+      start:
+        sec: '495.245'
+        mark: '00:08:15.245'
+      end:
+        sec: '500.550'
+        mark: '00:08:20.550'
       u: Was für einen Zug hatten Sie jetzt zur Ihrer Verfügung?
     - who: Arthur Breslauer
-      start: '00:08:20.550'
-      end: '00:08:22.124'
+      start:
+        sec: '500.550'
+        mark: '00:08:20.550'
+      end:
+        sec: '502.124'
+        mark: '00:08:22.124'
       u: Viehwagon!
     - who: David Boder
-      start: '00:08:22.124'
-      end: '00:08:23.066'
+      start:
+        sec: '502.124'
+        mark: '00:08:22.124'
+      end:
+        sec: '503.066'
+        mark: '00:08:23.066'
       u: Viehwagon!
     - who: Arthur Breslauer
-      start: '00:08:23.066'
-      end: '00:08:23.105'
+      start:
+        sec: '503.066'
+        mark: '00:08:23.066'
+      end:
+        sec: '503.105'
+        mark: '00:08:23.105'
       u: Viehwagon. Ja.
     - who: David Boder
-      start: '00:08:23.105'
-      end: '00:08:24.941'
+      start:
+        sec: '503.105'
+        mark: '00:08:23.105'
+      end:
+        sec: '504.941'
+        mark: '00:08:24.941'
       u: Und das war die “Mustergruppe”, nicht wahr?
     - who: Arthur Breslauer
-      start: '00:08:24.941'
-      end: '00:08:25.853'
+      start:
+        sec: '504.941'
+        mark: '00:08:24.941'
+      end:
+        sec: '505.853'
+        mark: '00:08:25.853'
       u: Viehwagon.
     - who: David Boder
-      start: '00:08:25.853'
-      end: '00:08:27.968'
+      start:
+        sec: '505.853'
+        mark: '00:08:25.853'
+      end:
+        sec: '507.968'
+        mark: '00:08:27.968'
       u: Waren Sie auch in diesem Wagon eingeschlossen?
     - who: Arthur Breslauer
-      start: '00:08:27.968'
-      end: '00:08:35.100'
+      start:
+        sec: '507.968'
+        mark: '00:08:27.968'
+      end:
+        sec: '515.100'
+        mark: '00:08:35.100'
       u: Ja! Ja! Eingeschlossen waren wir nicht, also, das, äh,...die, die Türen waren
         offen .
     - who: David Boder
-      start: '00:08:35.100'
-      end: '00:08:36.313'
+      start:
+        sec: '515.100'
+        mark: '00:08:35.100'
+      end:
+        sec: '516.313'
+        mark: '00:08:36.313'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:08:36.313'
-      end: '00:08:42.099'
+      start:
+        sec: '516.313'
+        mark: '00:08:36.313'
+      end:
+        sec: '522.099'
+        mark: '00:08:42.099'
       u: Aber es war eine scheußliche Reise.
     - who: David Boder
-      start: '00:08:42.099'
-      end: '00:08:45.500'
+      start:
+        sec: '522.099'
+        mark: '00:08:42.099'
+      end:
+        sec: '525.500'
+        mark: '00:08:45.500'
       u: Wieso?
     - who: Arthur Breslauer
-      start: '00:08:45.500'
-      end: '00:08:53.032'
+      start:
+        sec: '525.500'
+        mark: '00:08:45.500'
+      end:
+        sec: '533.032'
+        mark: '00:08:53.032'
       u: In einem Wagon, wo normalerweise vierzig Leute unterbring, äh, untergebracht
         werden.
     - who: David Boder
-      start: '00:08:53.032'
-      end: '00:08:53.553'
+      start:
+        sec: '533.032'
+        mark: '00:08:53.032'
+      end:
+        sec: '533.553'
+        mark: '00:08:53.553'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:08:53.553'
-      end: '00:08:58.707'
+      start:
+        sec: '533.553'
+        mark: '00:08:53.553'
+      end:
+        sec: '538.707'
+        mark: '00:08:58.707'
       u: Dort waren wir sechzig, fünfundsiebzig Leute untergebracht.
     - who: David Boder
-      start: '00:08:58.707'
-      end: '00:08:59.129'
+      start:
+        sec: '538.707'
+        mark: '00:08:58.707'
+      end:
+        sec: '539.129'
+        mark: '00:08:59.129'
       u: Ja.
     - who: David Boder
-      start: '00:08:59.129'
-      end: '00:09:00.793'
+      start:
+        sec: '539.129'
+        mark: '00:08:59.129'
+      end:
+        sec: '540.793'
+        mark: '00:09:00.793'
       u: Männer, Frauen und Kinder?
     - who: Arthur Breslauer
-      start: '00:09:00.793'
-      end: '00:09:03.179'
+      start:
+        sec: '540.793'
+        mark: '00:09:00.793'
+      end:
+        sec: '543.179'
+        mark: '00:09:03.179'
       u: Männer, Frauen, Kinder zusammen.
     - who: David Boder
-      start: '00:09:03.179'
-      end: '00:09:05.225'
+      start:
+        sec: '543.179'
+        mark: '00:09:03.179'
+      end:
+        sec: '545.225'
+        mark: '00:09:05.225'
       u: War dort eine Toilette im Wagon?
     - who: Arthur Breslauer
-      start: '00:09:05.225'
-      end: '00:09:06.218'
+      start:
+        sec: '545.225'
+        mark: '00:09:05.225'
+      end:
+        sec: '546.218'
+        mark: '00:09:06.218'
       u: Niemals.
     - who: David Boder
-      start: '00:09:06.218'
-      end: '00:09:09.679'
+      start:
+        sec: '546.218'
+        mark: '00:09:06.218'
+      end:
+        sec: '549.679'
+        mark: '00:09:09.679'
       u: So, wie hat man dann die Bedürf..., die Bedürfnisse befriedigt?
     - who: Arthur Breslauer
-      start: '00:09:09.679'
-      end: '00:09:14.171'
+      start:
+        sec: '549.679'
+        mark: '00:09:09.679'
+      end:
+        sec: '554.171'
+        mark: '00:09:14.171'
       u: Zeitweise ist, äh, ist der Zug, äh, stehen geblieben.
     - who: David Boder
-      start: '00:09:14.171'
-      end: '00:09:15.676'
+      start:
+        sec: '554.171'
+        mark: '00:09:14.171'
+      end:
+        sec: '555.676'
+        mark: '00:09:15.676'
       u: Und die Kinder?
     - who: Arthur Breslauer
-      start: '00:09:15.676'
-      end: '00:09:18.604'
+      start:
+        sec: '555.676'
+        mark: '00:09:15.676'
+      end:
+        sec: '558.604'
+        mark: '00:09:18.604'
       u: Die Kinder haben, äh, auch.
     - who: David Boder
-      start: '00:09:18.604'
-      end: '00:09:22.164'
+      start:
+        sec: '558.604'
+        mark: '00:09:18.604'
+      end:
+        sec: '562.164'
+        mark: '00:09:22.164'
       u: Ja, ich meine, und wenn die zur Toilette gehen mussten?
     - who: Arthur Breslauer
-      start: '00:09:22.164'
-      end: '00:09:25.212'
+      start:
+        sec: '562.164'
+        mark: '00:09:22.164'
+      end:
+        sec: '565.212'
+        mark: '00:09:25.212'
       u: Konnten sie nicht ihre Not verrichten.
     - who: David Boder
-      start: '00:09:25.212'
-      end: '00:09:30.117'
+      start:
+        sec: '565.212'
+        mark: '00:09:25.212'
+      end:
+        sec: '570.117'
+        mark: '00:09:30.117'
       u: Nun?...Also?
     - who: Arthur Breslauer
-      start: '00:09:30.117'
-      end: '00:09:33.647'
+      start:
+        sec: '570.117'
+        mark: '00:09:30.117'
+      end:
+        sec: '573.647'
+        mark: '00:09:33.647'
       u: Also haben sie geleidet, äh...gelitten.
     - who: David Boder
-      start: '00:09:33.647'
-      end: '00:09:37.387'
+      start:
+        sec: '573.647'
+        mark: '00:09:33.647'
+      end:
+        sec: '577.387'
+        mark: '00:09:37.387'
       u: Haben sie nicht irgendwie probiert, das im Wagen zu tun?
     - who: Arthur Breslauer
-      start: '00:09:37.387'
-      end: '00:09:45.361'
+      start:
+        sec: '577.387'
+        mark: '00:09:37.387'
+      end:
+        sec: '585.361'
+        mark: '00:09:45.361'
       u: Ich glaub, es ist vorgekommen, öfters, nicht wahr. Es war ausweichbar [Breslauer
         meint „unausweichbar“, nicht „ausweichbar“].
     - who: David Boder
-      start: '00:09:45.361'
-      end: '00:09:48.430'
+      start:
+        sec: '585.361'
+        mark: '00:09:45.361'
+      end:
+        sec: '588.430'
+        mark: '00:09:48.430'
       u: Ja, und wie hat man das getan?
     - who: Arthur Breslauer
-      start: '00:09:48.430'
-      end: '00:09:52.192'
+      start:
+        sec: '588.430'
+        mark: '00:09:48.430'
+      end:
+        sec: '592.192'
+        mark: '00:09:52.192'
       u: Vor den Leuten. Vor allen, ja.
     - who: David Boder
-      start: '00:09:52.192'
-      end: '00:09:58.791'
+      start:
+        sec: '592.192'
+        mark: '00:09:52.192'
+      end:
+        sec: '598.791'
+        mark: '00:09:58.791'
       u: Ja. Also, äh, dann sind Sie in 11 Tagen, sind Sie nach Belsen-Belsen angekommen?
     - who: Arthur Breslauer
-      start: '00:09:58.791'
-      end: '00:09:59.763'
+      start:
+        sec: '598.791'
+        mark: '00:09:58.791'
+      end:
+        sec: '599.763'
+        mark: '00:09:59.763'
       u: Bergen-Belsen
     - who: David Boder
-      start: '00:09:59.763'
-      end: '00:10:05.248'
+      start:
+        sec: '599.763'
+        mark: '00:09:59.763'
+      end:
+        sec: '605.248'
+        mark: '00:10:05.248'
       u: Wollen Sie mir ein bisschen beschreiben, wie hat das ausgesehen, wenn Sie
         dort hingekommen sind?
     - who: Arthur Breslauer
-      start: '00:10:05.248'
-      end: '00:10:09.401'
+      start:
+        sec: '605.248'
+        mark: '00:10:05.248'
+      end:
+        sec: '609.401'
+        mark: '00:10:09.401'
       u: Also, wir waren in einer sogenannten bevorzugten Gruppe.
     - who: David Boder
-      start: '00:10:09.401'
-      end: '00:10:10.614'
+      start:
+        sec: '609.401'
+        mark: '00:10:09.401'
+      end:
+        sec: '610.614'
+        mark: '00:10:10.614'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:10:10.614'
-      end: '00:10:25.277'
+      start:
+        sec: '610.614'
+        mark: '00:10:10.614'
+      end:
+        sec: '625.277'
+        mark: '00:10:25.277'
       u: Das bestand darin, dass wir nur die Hausarbeiten verrichteten, was wir, also,
         im Lager zu unserem Unterhalt...
     - who: David Boder
-      start: '00:10:25.277'
-      end: '00:10:26.008'
+      start:
+        sec: '625.277'
+        mark: '00:10:25.277'
+      end:
+        sec: '626.008'
+        mark: '00:10:26.008'
       u: Nötig hatten.
     - who: Arthur Breslauer
-      start: '00:10:26.008'
-      end: '00:10:27.272'
+      start:
+        sec: '626.008'
+        mark: '00:10:26.008'
+      end:
+        sec: '627.272'
+        mark: '00:10:27.272'
       u: Nötig hätten, haben.
     - who: David Boder
-      start: '00:10:27.272'
-      end: '00:10:30.380'
+      start:
+        sec: '627.272'
+        mark: '00:10:27.272'
+      end:
+        sec: '630.380'
+        mark: '00:10:30.380'
       u: Hat man die Frauen und Kinder mit den Männern zusammen ge...?
     - who: Arthur Breslauer
-      start: '00:10:30.380'
-      end: '00:10:35.315'
+      start:
+        sec: '630.380'
+        mark: '00:10:30.380'
+      end:
+        sec: '635.315'
+        mark: '00:10:35.315'
       u: Nein, die Frauen waren extra untergebracht, und die Männer auch.
     - who: David Boder
-      start: '00:10:35.315'
-      end: '00:10:38.264'
+      start:
+        sec: '635.315'
+        mark: '00:10:35.315'
+      end:
+        sec: '638.264'
+        mark: '00:10:38.264'
       u: Mit wem waren Sie? Bloß die ungarische Gruppe?
     - who: Arthur Breslauer
-      start: '00:10:38.264'
-      end: '00:10:43.870'
+      start:
+        sec: '638.264'
+        mark: '00:10:38.264'
+      end:
+        sec: '643.870'
+        mark: '00:10:43.870'
       u: Die ungarische Gruppe, worin auch viele Jugoslawen, auch Rumänen waren.
     - who: David Boder
-      start: '00:10:43.870'
-      end: '00:10:44.962'
+      start:
+        sec: '643.870'
+        mark: '00:10:43.870'
+      end:
+        sec: '644.962'
+        mark: '00:10:44.962'
       u: Christen oder Juden?
     - who: Arthur Breslauer
-      start: '00:10:44.962'
-      end: '00:10:46.226'
+      start:
+        sec: '644.962'
+        mark: '00:10:44.962'
+      end:
+        sec: '646.226'
+        mark: '00:10:46.226'
       u: Nur Juden.
     - who: David Boder
-      start: '00:10:46.226'
-      end: '00:10:50.439'
+      start:
+        sec: '646.226'
+        mark: '00:10:46.226'
+      end:
+        sec: '650.439'
+        mark: '00:10:50.439'
       u: Nur Juden. Nun, zur Arbeit hat man Sie nicht genommen.
     - who: Arthur Breslauer
-      start: '00:10:50.439'
-      end: '00:10:50.719'
+      start:
+        sec: '650.439'
+        mark: '00:10:50.439'
+      end:
+        sec: '650.719'
+        mark: '00:10:50.719'
       u: Nein.
     - who: David Boder
-      start: '00:10:50.719'
-      end: '00:10:52.804'
+      start:
+        sec: '650.719'
+        mark: '00:10:50.719'
+      end:
+        sec: '652.804'
+        mark: '00:10:52.804'
       u: Wie hat man Sie gefüttert?
     - who: Arthur Breslauer
-      start: '00:10:52.804'
-      end: '00:11:08.120'
+      start:
+        sec: '652.804'
+        mark: '00:10:52.804'
+      end:
+        sec: '668.120'
+        mark: '00:11:08.120'
       u: Wir haben die übliche Nahrung bekommen. Es war ein Eintopfgericht aus...
     - who: David Boder
-      start: '00:11:08.120'
-      end: '00:11:08.361'
+      start:
+        sec: '668.120'
+        mark: '00:11:08.120'
+      end:
+        sec: '668.361'
+        mark: '00:11:08.361'
       u: Na?
     - who: Arthur Breslauer
-      start: '00:11:08.361'
-      end: '00:11:09.634'
+      start:
+        sec: '668.361'
+        mark: '00:11:08.361'
+      end:
+        sec: '669.634'
+        mark: '00:11:09.634'
       u: Rüben.
     - who: David Boder
-      start: '00:11:09.634'
-      end: '00:11:10.606'
+      start:
+        sec: '669.634'
+        mark: '00:11:09.634'
+      end:
+        sec: '670.606'
+        mark: '00:11:10.606'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:11:10.606'
-      end: '00:11:19.431'
+      start:
+        sec: '670.606'
+        mark: '00:11:10.606'
+      end:
+        sec: '679.431'
+        mark: '00:11:19.431'
       u: Sehr selten waren Kartoffeln, Eine annehmbare Butterportion haben wir gehabt.
     - who: David Boder
-      start: '00:11:19.431'
-      end: '00:11:21.297'
+      start:
+        sec: '679.431'
+        mark: '00:11:19.431'
+      end:
+        sec: '681.297'
+        mark: '00:11:21.297'
       u: Das war natürlich Margarine.
     - who: Arthur Breslauer
-      start: '00:11:21.297'
-      end: '00:11:25.480'
+      start:
+        sec: '681.297'
+        mark: '00:11:21.297'
+      end:
+        sec: '685.480'
+        mark: '00:11:25.480'
       u: Auch, Margarine, gemischt, aber auch Butter
     - who: David Boder
-      start: '00:11:25.480'
-      end: '00:11:27.294'
+      start:
+        sec: '685.480'
+        mark: '00:11:25.480'
+      end:
+        sec: '687.294'
+        mark: '00:11:27.294'
       u: Auch Butter, nun?
     - who: Arthur Breslauer
-      start: '00:11:27.294'
-      end: '00:11:38.187'
+      start:
+        sec: '687.294'
+        mark: '00:11:27.294'
+      end:
+        sec: '698.187'
+        mark: '00:11:38.187'
       u: Und Brotportionen haben wir auch erhalten. Nur war das Brot sehr schlecht.
     - who: David Boder
-      start: '00:11:38.187'
-      end: '00:11:40.113'
+      start:
+        sec: '698.187'
+        mark: '00:11:38.187'
+      end:
+        sec: '700.113'
+        mark: '00:11:40.113'
       u: Das war in welchem Jahr?
     - who: Arthur Breslauer
-      start: '00:11:40.113'
-      end: '00:11:41.566'
+      start:
+        sec: '700.113'
+        mark: '00:11:40.113'
+      end:
+        sec: '701.566'
+        mark: '00:11:41.566'
       u: '1944'
     - who: David Boder
-      start: '00:11:41.566'
-      end: '00:11:45.388'
+      start:
+        sec: '701.566'
+        mark: '00:11:41.566'
+      end:
+        sec: '705.388'
+        mark: '00:11:45.388'
       u: Vierundvierzig. Welchen Monat ungefähr?
     - who: Arthur Breslauer
-      start: '00:11:45.388'
-      end: '00:11:56.019'
+      start:
+        sec: '705.388'
+        mark: '00:11:45.388'
+      end:
+        sec: '716.019'
+        mark: '00:11:56.019'
       u: Am 30. Juni sind wir eingewagoniert worden, und am 18. August sind wir auf
         die Schweiz gekommen.
     - who: David Boder
-      start: '00:11:56.019'
-      end: '00:11:59.097'
+      start:
+        sec: '716.019'
+        mark: '00:11:56.019'
+      end:
+        sec: '719.097'
+        mark: '00:11:59.097'
       u: Aha. Also das war der 30. Juni.
     - who: Arthur Breslauer
-      start: '00:11:59.097'
-      end: '00:11:59.549'
+      start:
+        sec: '719.097'
+        mark: '00:11:59.097'
+      end:
+        sec: '719.549'
+        mark: '00:11:59.549'
       u: Ja.
     - who: David Boder
-      start: '00:11:59.549'
-      end: '00:12:02.567'
+      start:
+        sec: '719.549'
+        mark: '00:11:59.549'
+      end:
+        sec: '722.567'
+        mark: '00:12:02.567'
       u: Da waren Sie von Juli bis August bloß dort, nicht wahr?
     - who: Arthur Breslauer
-      start: '00:12:02.567'
-      end: '00:12:07.562'
+      start:
+        sec: '722.567'
+        mark: '00:12:02.567'
+      end:
+        sec: '727.562'
+        mark: '00:12:07.562'
       u: Vom Juli, vom 11. Juli bis 18. August.
     - who: David Boder
-      start: '00:12:07.562'
-      end: '00:12:10.752'
+      start:
+        sec: '727.562'
+        mark: '00:12:07.562'
+      end:
+        sec: '730.752'
+        mark: '00:12:10.752'
       u: Nun, was war ja nicht lang. Fünf Wochen, sechs Wochen.
     - who: Arthur Breslauer
-      start: '00:12:10.752'
-      end: '00:12:20.300'
+      start:
+        sec: '730.752'
+        mark: '00:12:10.752'
+      end:
+        sec: '740.300'
+        mark: '00:12:20.300'
       u: Ja, aber wir sind nur dreihundert Leute weggeschafft worden. Die übrigen
         sind dortgeblieben bis 7. Dezember.
     - who: David Boder
-      start: '00:12:20.300'
-      end: '00:12:21.422'
+      start:
+        sec: '740.300'
+        mark: '00:12:20.300'
+      end:
+        sec: '741.422'
+        mark: '00:12:21.422'
       u: Nun?
     - who: Arthur Breslauer
-      start: '00:12:21.422'
-      end: '00:12:26.478'
+      start:
+        sec: '741.422'
+        mark: '00:12:21.422'
+      end:
+        sec: '746.478'
+        mark: '00:12:26.478'
       u: Was? Und am 7. Dezember sind sie auch in die Schweiz geführt worden.
     - who: David Boder
-      start: '00:12:26.478'
-      end: '00:12:37.891'
+      start:
+        sec: '746.478'
+        mark: '00:12:26.478'
+      end:
+        sec: '757.891'
+        mark: '00:12:37.891'
       u: Also, wollen wir dann weitergehen? Sie haben dann in Belsen-Belsen bloß gewartet.
         Und wieso ist Ihre Tochter krank geworden?
     - who: Arthur Breslauer
-      start: '00:12:37.891'
-      end: '00:12:40.780'
+      start:
+        sec: '757.891'
+        mark: '00:12:37.891'
+      end:
+        sec: '760.780'
+        mark: '00:12:40.780'
       u: Sie hat Masern bekommen.
     - who: David Boder
-      start: '00:12:40.780'
-      end: '00:12:41.601'
+      start:
+        sec: '760.780'
+        mark: '00:12:40.780'
+      end:
+        sec: '761.601'
+        mark: '00:12:41.601'
       u: Die ältere Tochter.
     - who: Arthur Breslauer
-      start: '00:12:41.601'
-      end: '00:12:42.865'
+      start:
+        sec: '761.601'
+        mark: '00:12:41.601'
+      end:
+        sec: '762.865'
+        mark: '00:12:42.865'
       u: Die ältere Tochter.
     - who: David Boder
-      start: '00:12:42.865'
-      end: '00:12:43.738'
+      start:
+        sec: '762.865'
+        mark: '00:12:42.865'
+      end:
+        sec: '763.738'
+        mark: '00:12:43.738'
       u: Nun, wo hat man sie dann, äh...
     - who: Arthur Breslauer
-      start: '00:12:43.738'
-      end: '00:12:54.218'
+      start:
+        sec: '763.738'
+        mark: '00:12:43.738'
+      end:
+        sec: '774.218'
+        mark: '00:12:54.218'
       u: Und da, nachdem sie nicht, äh, verpflegt, äh, gepflegt werden konnte, hat,
         ist eine Komplikation eingetreten.
     - who: David Boder
-      start: '00:12:54.218'
-      end: '00:12:55.211'
+      start:
+        sec: '774.218'
+        mark: '00:12:54.218'
+      end:
+        sec: '775.211'
+        mark: '00:12:55.211'
       u: Nun. Die Lungen.
     - who: Arthur Breslauer
-      start: '00:12:55.211'
-      end: '00:13:12.346'
+      start:
+        sec: '775.211'
+        mark: '00:12:55.211'
+      end:
+        sec: '792.346'
+        mark: '00:13:12.346'
       u: Ungarn. Dort konnte man sie auch nicht heilen, so wie es nötig war. Die Nahrung
         konnte sie auch nicht bekommen, die sie, die einem schweren Kranken also verabreicht
         werden müsste.
     - who: David Boder
-      start: '00:13:12.346'
-      end: '00:13:14.753'
+      start:
+        sec: '792.346'
+        mark: '00:13:12.346'
+      end:
+        sec: '794.753'
+        mark: '00:13:14.753'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:13:14.753'
-      end: '00:13:17.552'
+      start:
+        sec: '794.753'
+        mark: '00:13:14.753'
+      end:
+        sec: '797.552'
+        mark: '00:13:17.552'
       u: So ist sie...
     - who: David Boder
-      start: '00:13:17.552'
-      end: '00:13:23.519'
+      start:
+        sec: '797.552'
+        mark: '00:13:17.552'
+      end:
+        sec: '803.519'
+        mark: '00:13:23.519'
       u: War sie im Revier oder ist sie mit Ihnen im Block gewesen? Mit Ihrer Frau
         im Block gewesen?
     - who: Arthur Breslauer
-      start: '00:13:23.519'
-      end: '00:13:25.153'
+      start:
+        sec: '803.519'
+        mark: '00:13:23.519'
+      end:
+        sec: '805.153'
+        mark: '00:13:25.153'
       u: Mit meiner Frau im Block.
     - who: David Boder
-      start: '00:13:25.153'
-      end: '00:13:26.998'
+      start:
+        sec: '805.153'
+        mark: '00:13:25.153'
+      end:
+        sec: '806.998'
+        mark: '00:13:26.998'
       u: Sie ist im Block auch gestorben?
     - who: Arthur Breslauer
-      start: '00:13:26.998'
-      end: '00:13:28.030'
+      start:
+        sec: '806.998'
+        mark: '00:13:26.998'
+      end:
+        sec: '808.030'
+        mark: '00:13:28.030'
       u: Ja.
     - who: David Boder
-      start: '00:13:28.030'
-      end: '00:13:30.287'
+      start:
+        sec: '808.030'
+        mark: '00:13:28.030'
+      end:
+        sec: '810.287'
+        mark: '00:13:30.287'
       u: Hat man Ihnen erlaubt, sie zu bestatten?
     - who: Arthur Breslauer
-      start: '00:13:30.287'
-      end: '00:13:42.182'
+      start:
+        sec: '810.287'
+        mark: '00:13:30.287'
+      end:
+        sec: '822.182'
+        mark: '00:13:42.182'
       u: Nein, man hat sie weggeführt. Wir haben sie nur bis zum Tor geführt.
     - who: David Boder
-      start: '00:13:42.182'
-      end: '00:14:08.393'
+      start:
+        sec: '822.182'
+        mark: '00:13:42.182'
+      end:
+        sec: '848.393'
+        mark: '00:14:08.393'
       u: Nun? Und dann? Also im August?
     - who: David Boder
-      start: '00:14:08.393'
-      end: '00:14:16.857'
+      start:
+        sec: '848.393'
+        mark: '00:14:08.393'
+      end:
+        sec: '856.857'
+        mark: '00:14:16.857'
       u: Also, im August? Was hat dann passiert? [Stille]
     - who: David Boder
-      start: '00:14:16.857'
-      end: '00:14:21.943'
+      start:
+        sec: '856.857'
+        mark: '00:14:16.857'
+      end:
+        sec: '861.943'
+        mark: '00:14:21.943'
       u: Dann im August hat man sie nach der Schweiz geführt. Wie hat man das bekannt
         gemacht?
     - who: Arthur Breslauer
-      start: '00:14:21.943'
-      end: '00:14:35.041'
+      start:
+        sec: '861.943'
+        mark: '00:14:21.943'
+      end:
+        sec: '875.041'
+        mark: '00:14:35.041'
       u: Ein Obergruppenführer ist gekommen und hat uns mitgeteilt, hat Auslese gemacht,
         wer mitkommen wird.
     - who: David Boder
-      start: '00:14:35.041'
-      end: '00:14:36.666'
+      start:
+        sec: '875.041'
+        mark: '00:14:35.041'
+      end:
+        sec: '876.666'
+        mark: '00:14:36.666'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:14:36.666'
-      end: '00:14:41.691'
+      start:
+        sec: '876.666'
+        mark: '00:14:36.666'
+      end:
+        sec: '881.691'
+        mark: '00:14:41.691'
       u: Und. Wir haben die Reise wieder in Viehwagone gemacht.
     - who: David Boder
-      start: '00:14:41.691'
-      end: '00:14:44.159'
+      start:
+        sec: '881.691'
+        mark: '00:14:41.691'
+      end:
+        sec: '884.159'
+        mark: '00:14:44.159'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:14:44.159'
-      end: '00:14:46.335'
+      start:
+        sec: '884.159'
+        mark: '00:14:44.159'
+      end:
+        sec: '886.335'
+        mark: '00:14:46.335'
       u: So wie nach, von Ungarn.
     - who: Arthur Breslauer
-      start: '00:14:46.335'
-      end: '00:14:48.751'
+      start:
+        sec: '886.335'
+        mark: '00:14:46.335'
+      end:
+        sec: '888.751'
+        mark: '00:14:48.751'
       u: Man hat Ihnen aber mit der Familie zusammen geschickt?
     - who: Arthur Breslauer
-      start: '00:14:48.751'
-      end: '00:14:49.684'
+      start:
+        sec: '888.751'
+        mark: '00:14:48.751'
+      end:
+        sec: '889.684'
+        mark: '00:14:49.684'
       u: Ja.
     - who: David Boder
-      start: '00:14:49.684'
-      end: '00:14:52.212'
+      start:
+        sec: '889.684'
+        mark: '00:14:49.684'
+      end:
+        sec: '892.212'
+        mark: '00:14:52.212'
       u: Ja. Nun?
     - who: Arthur Breslauer
-      start: '00:14:52.212'
-      end: '00:15:00.947'
+      start:
+        sec: '892.212'
+        mark: '00:14:52.212'
+      end:
+        sec: '900.947'
+        mark: '00:15:00.947'
       u: Dann sind wir im, am 21. August hier in Basel eingetroffen.
     - who: David Boder
-      start: '00:15:00.947'
-      end: '00:15:33.229'
+      start:
+        sec: '900.947'
+        mark: '00:15:00.947'
+      end:
+        sec: '933.229'
+        mark: '00:15:33.229'
       u: Also können Sie mir das ein bissle erklären? Wir haben in Amerika, wenn ich
         Sie richtig verstehe, sehr wenig von dieser Gruppe gehört. Ich hab aber schon
         einen Jungen gehabt, einen Jungen, der hier im ORT studiert, äh, sein Vater
@@ -890,676 +1694,1304 @@ recording:
         glaube es sind 25 Leute von irgendwo genommen worden. Und wurden dieser Gruppe
         angeschlossen. Wer hat das Ganze arrangiert?
     - who: Arthur Breslauer
-      start: '00:15:33.229'
-      end: '00:15:38.164'
+      start:
+        sec: '933.229'
+        mark: '00:15:33.229'
+      end:
+        sec: '938.164'
+        mark: '00:15:38.164'
       u: Das hat die Zionist, äh, das haben die Zionisten arrangiert?
     - who: David Boder
-      start: '00:15:38.164'
-      end: '00:15:40.060'
+      start:
+        sec: '938.164'
+        mark: '00:15:38.164'
+      end:
+        sec: '940.060'
+        mark: '00:15:40.060'
       u: Welche Zionisten?
     - who: Arthur Breslauer
-      start: '00:15:40.060'
-      end: '00:15:46.298'
+      start:
+        sec: '940.060'
+        mark: '00:15:40.060'
+      end:
+        sec: '946.298'
+        mark: '00:15:46.298'
       u: Die Kolozsvár Zionisten haben das gemacht.
     - who: David Boder
-      start: '00:15:46.298'
-      end: '00:15:48.293'
+      start:
+        sec: '946.298'
+        mark: '00:15:46.298'
+      end:
+        sec: '948.293'
+        mark: '00:15:48.293'
       u: Was ist die Kolozsvár?
     - who: Arthur Breslauer
-      start: '00:15:48.293'
-      end: '00:15:52.936'
+      start:
+        sec: '948.293'
+        mark: '00:15:48.293'
+      end:
+        sec: '952.936'
+        mark: '00:15:52.936'
       u: Das ist die Hauptstadt von Siebenbürgen.
     - who: David Boder
-      start: '00:15:52.936'
-      end: '00:15:54.179'
+      start:
+        sec: '952.936'
+        mark: '00:15:52.936'
+      end:
+        sec: '954.179'
+        mark: '00:15:54.179'
       u: Das ist wo?
     - who: Arthur Breslauer
-      start: '00:15:54.179'
-      end: '00:15:55.181'
+      start:
+        sec: '954.179'
+        mark: '00:15:54.179'
+      end:
+        sec: '955.181'
+        mark: '00:15:55.181'
       u: Ungarn
     - who: David Boder
-      start: '00:15:55.181'
-      end: '00:15:59.845'
+      start:
+        sec: '955.181'
+        mark: '00:15:55.181'
+      end:
+        sec: '959.845'
+        mark: '00:15:59.845'
       u: Oh! die Zionisten von Ungarn haben was getan?
     - who: Arthur Breslauer
-      start: '00:15:59.845'
-      end: '00:16:07.407'
+      start:
+        sec: '959.845'
+        mark: '00:15:59.845'
+      end:
+        sec: '967.407'
+        mark: '00:16:07.407'
       u: 'Haben diese Gruppe, diese sogenannte Alia-[undeutlich; vielleicht: „Waren-Gruppe“].'
     - who: David Boder
-      start: '00:16:07.407'
-      end: '00:16:11.719'
+      start:
+        sec: '967.407'
+        mark: '00:16:07.407'
+      end:
+        sec: '971.719'
+        mark: '00:16:11.719'
       u: Oh! die Alía war das. Und die haben diese Gruppe zusammengeschickt?
     - who: Arthur Breslauer
-      start: '00:16:11.719'
-      end: '00:16:13.233'
+      start:
+        sec: '971.719'
+        mark: '00:16:11.719'
+      end:
+        sec: '973.233'
+        mark: '00:16:13.233'
       u: Ja.
     - who: David Boder
-      start: '00:16:13.233'
-      end: '00:16:16.131'
+      start:
+        sec: '973.233'
+        mark: '00:16:13.233'
+      end:
+        sec: '976.131'
+        mark: '00:16:16.131'
       u: War das meistens reiche Leute?
     - who: Arthur Breslauer
-      start: '00:16:16.131'
-      end: '00:16:32.720'
+      start:
+        sec: '976.131'
+        mark: '00:16:16.131'
+      end:
+        sec: '992.720'
+        mark: '00:16:32.720'
       u: Nein. teilweise. Teilweise waren reiche Leute, die viel Geld gezahlt haben,
         um in diese Gruppe reinzukommen. Aber es waren, die meisten waren aber arme
         Leute.
     - who: David Boder
-      start: '00:16:32.720'
-      end: '00:16:38.175'
+      start:
+        sec: '992.720'
+        mark: '00:16:32.720'
+      end:
+        sec: '998.175'
+        mark: '00:16:38.175'
       u: Was haben Sie bezahlen müssen?
     - who: Arthur Breslauer
-      start: '00:16:38.175'
-      end: '00:16:39.800'
+      start:
+        sec: '998.175'
+        mark: '00:16:38.175'
+      end:
+        sec: '999.800'
+        mark: '00:16:39.800'
       u: Ich.... [unverständlich]
     - who: David Boder
-      start: '00:16:39.800'
-      end: '00:16:41.786'
+      start:
+        sec: '999.800'
+        mark: '00:16:39.800'
+      end:
+        sec: '1001.786'
+        mark: '00:16:41.786'
       u: Also, Sie haben aber bezahlt?
     - who: Arthur Breslauer
-      start: '00:16:41.786'
-      end: '00:16:42.990'
+      start:
+        sec: '1001.786'
+        mark: '00:16:41.786'
+      end:
+        sec: '1002.990'
+        mark: '00:16:42.990'
       u: Ja.
     - who: David Boder
-      start: '00:16:42.990'
-      end: '00:16:45.135'
+      start:
+        sec: '1002.990'
+        mark: '00:16:42.990'
+      end:
+        sec: '1005.135'
+        mark: '00:16:45.135'
       u: Wie für Ihre Familie.
     - who: Arthur Breslauer
-      start: '00:16:45.135'
-      end: '00:16:46.399'
+      start:
+        sec: '1005.135'
+        mark: '00:16:45.135'
+      end:
+        sec: '1006.399'
+        mark: '00:16:46.399'
       u: "[unverständlich]"
     - who: David Boder
-      start: '00:16:46.399'
-      end: '00:17:00.030'
+      start:
+        sec: '1006.399'
+        mark: '00:16:46.399'
+      end:
+        sec: '1020.030'
+        mark: '00:17:00.030'
       u: Also, und mit diesem Gelde konnte man auch andere, ärmere Leute, ohne zu
         bezahlen, mitnehmen. Naja. Und? Wie haben Sie das riskiert, den Deutschen
         das zu trauen?
     - who: Arthur Breslauer
-      start: '00:17:00.030'
-      end: '00:17:02.467'
+      start:
+        sec: '1020.030'
+        mark: '00:17:00.030'
+      end:
+        sec: '1022.467'
+        mark: '00:17:02.467'
       u: Wir haben keinen anderen Ausweg gehabt.
     - who: David Boder
-      start: '00:17:02.467'
-      end: '00:17:02.979'
+      start:
+        sec: '1022.467'
+        mark: '00:17:02.467'
+      end:
+        sec: '1022.979'
+        mark: '00:17:02.979'
       u: Aha.
     - who: Arthur Breslauer
-      start: '00:17:02.979'
-      end: '00:17:13.249'
+      start:
+        sec: '1022.979'
+        mark: '00:17:02.979'
+      end:
+        sec: '1033.249'
+        mark: '00:17:13.249'
       u: Wir haben damit so gerechnet, dass wenn wir dort bleiben, werden wir hundert
         Prozent sicher....
     - who: David Boder
-      start: '00:17:13.249'
-      end: '00:17:13.980'
+      start:
+        sec: '1033.249'
+        mark: '00:17:13.249'
+      end:
+        sec: '1033.980'
+        mark: '00:17:13.980'
       u: Vernichtet.
     - who: Arthur Breslauer
-      start: '00:17:13.980'
-      end: '00:17:15.394'
+      start:
+        sec: '1033.980'
+        mark: '00:17:13.980'
+      end:
+        sec: '1035.394'
+        mark: '00:17:15.394'
       u: Vernichtet werden.
     - who: David Boder
-      start: '00:17:15.394'
-      end: '00:17:16.026'
+      start:
+        sec: '1035.394'
+        mark: '00:17:15.394'
+      end:
+        sec: '1036.026'
+        mark: '00:17:16.026'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:17:16.026'
-      end: '00:17:27.310'
+      start:
+        sec: '1036.026'
+        mark: '00:17:16.026'
+      end:
+        sec: '1047.310'
+        mark: '00:17:27.310'
       u: So haben wir kalkuliert, dass da doch zehn, zwanzig Prozent Chancen vorhanden
         sind...
     - who: David Boder
-      start: '00:17:27.310'
-      end: '00:17:33.780'
+      start:
+        sec: '1047.310'
+        mark: '00:17:27.310'
+      end:
+        sec: '1053.780'
+        mark: '00:17:33.780'
       u: Hat man den Deutschen was dafür bezahlt? War das eine Bestechungsgeschichte,
         oder?
     - who: Arthur Breslauer
-      start: '00:17:33.780'
-      end: '00:17:40.920'
+      start:
+        sec: '1053.780'
+        mark: '00:17:33.780'
+      end:
+        sec: '1060.920'
+        mark: '00:17:40.920'
       u: Das war eine Abmachung. Gegen Warenlieferung wurde diese Gruppe...
     - who: David Boder
-      start: '00:17:40.920'
-      end: '00:17:41.643'
+      start:
+        sec: '1060.920'
+        mark: '00:17:40.920'
+      end:
+        sec: '1061.643'
+        mark: '00:17:41.643'
       u: Gegen was?
     - who: Arthur Breslauer
-      start: '00:17:41.643'
-      end: '00:17:43.096'
+      start:
+        sec: '1061.643'
+        mark: '00:17:41.643'
+      end:
+        sec: '1063.096'
+        mark: '00:17:43.096'
       u: Gegen Waren, wurden mitgenommen.
     - who: David Boder
-      start: '00:17:43.096'
-      end: '00:17:43.337'
+      start:
+        sec: '1063.096'
+        mark: '00:17:43.096'
+      end:
+        sec: '1063.337'
+        mark: '00:17:43.337'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:17:43.337'
-      end: '00:17:47.941'
+      start:
+        sec: '1063.337'
+        mark: '00:17:43.337'
+      end:
+        sec: '1067.941'
+        mark: '00:17:47.941'
       u: Kriegswichtige Waren, nicht wahr? Aber die Einzelheiten weiß ich nicht.
     - who: David Boder
-      start: '00:17:47.941'
-      end: '00:17:57.428'
+      start:
+        sec: '1067.941'
+        mark: '00:17:47.941'
+      end:
+        sec: '1077.428'
+        mark: '00:17:57.428'
       u: Ja. nun? Sagen Sie, wie haben sich die anderen Juden verhalten, dass solch
         eine spezielle Gruppe geformt, formiert wird?
     - who: Arthur Breslauer
-      start: '00:17:57.428'
-      end: '00:18:14.006'
+      start:
+        sec: '1077.428'
+        mark: '00:17:57.428'
+      end:
+        sec: '1094.006'
+        mark: '00:18:14.006'
       u: Das war, diese Organisation war nicht so all bekannt. Und wie wir noch, bevor
         wir abgereist sind, war eine zweite Gruppe schon organisiert worden.
     - who: David Boder
-      start: '00:18:14.006'
-      end: '00:18:14.346'
+      start:
+        sec: '1094.006'
+        mark: '00:18:14.006'
+      end:
+        sec: '1094.346'
+        mark: '00:18:14.346'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:18:14.346'
-      end: '00:18:18.438'
+      start:
+        sec: '1094.346'
+        mark: '00:18:14.346'
+      end:
+        sec: '1098.438'
+        mark: '00:18:18.438'
       u: Mit dem Ziel weitere Leute...
     - who: David Boder
-      start: '00:18:18.438'
-      end: '00:18:20.725'
+      start:
+        sec: '1098.438'
+        mark: '00:18:18.438'
+      end:
+        sec: '1100.725'
+        mark: '00:18:20.725'
       u: Menschen auf diese Weise rauszubekommen.
     - who: Arthur Breslauer
-      start: '00:18:20.725'
-      end: '00:18:21.146'
+      start:
+        sec: '1100.725'
+        mark: '00:18:20.725'
+      end:
+        sec: '1101.146'
+        mark: '00:18:21.146'
       u: Rausbekommen.
     - who: David Boder
-      start: '00:18:21.146'
-      end: '00:18:22.892'
+      start:
+        sec: '1101.146'
+        mark: '00:18:21.146'
+      end:
+        sec: '1102.892'
+        mark: '00:18:22.892'
       u: Ist was davon geworden?
     - who: Arthur Breslauer
-      start: '00:18:22.892'
-      end: '00:18:24.466'
+      start:
+        sec: '1102.892'
+        mark: '00:18:22.892'
+      end:
+        sec: '1104.466'
+        mark: '00:18:24.466'
       u: Leider nicht.
     - who: David Boder
-      start: '00:18:24.466'
-      end: '00:18:28.989'
+      start:
+        sec: '1104.466'
+        mark: '00:18:24.466'
+      end:
+        sec: '1108.989'
+        mark: '00:18:28.989'
       u: Also, Sie gingen raus, ungefähr dreihundert Personen. Die wurden...
     - who: Arthur Breslauer
-      start: '00:18:28.989'
-      end: '00:18:29.780'
+      start:
+        sec: '1108.989'
+        mark: '00:18:28.989'
+      end:
+        sec: '1109.780'
+        mark: '00:18:29.780'
       u: Wo?
     - who: David Boder
-      start: '00:18:29.780'
-      end: '00:18:31.074'
+      start:
+        sec: '1109.780'
+        mark: '00:18:29.780'
+      end:
+        sec: '1111.074'
+        mark: '00:18:31.074'
       u: Von Belsen-Belsen.
     - who: Arthur Breslauer
-      start: '00:18:31.074'
-      end: '00:18:31.496'
+      start:
+        sec: '1111.074'
+        mark: '00:18:31.074'
+      end:
+        sec: '1111.496'
+        mark: '00:18:31.496'
       u: Ja.
     - who: David Boder
-      start: '00:18:31.496'
-      end: '00:18:36.319'
+      start:
+        sec: '1111.496'
+        mark: '00:18:31.496'
+      end:
+        sec: '1116.319'
+        mark: '00:18:36.319'
       u: Sie wurden sozusagen in Viehwagonen geladen und wo hat man sie gebracht?
         Nach Basel?
     - who: Arthur Breslauer
-      start: '00:18:36.319'
-      end: '00:18:37.252'
+      start:
+        sec: '1116.319'
+        mark: '00:18:36.319'
+      end:
+        sec: '1117.252'
+        mark: '00:18:37.252'
       u: Nach Basel.
     - who: David Boder
-      start: '00:18:37.252'
-      end: '00:18:42.277'
+      start:
+        sec: '1117.252'
+        mark: '00:18:37.252'
+      end:
+        sec: '1122.277'
+        mark: '00:18:42.277'
       u: Wer hat Sie dann an der Grenze empfangen?
     - who: Arthur Breslauer
-      start: '00:18:42.277'
-      end: '00:18:46.069'
+      start:
+        sec: '1122.277'
+        mark: '00:18:42.277'
+      end:
+        sec: '1126.069'
+        mark: '00:18:46.069'
       u: In der Schweiz hat uns die, äh, das Rote Kreuz empfangen.
     - who: David Boder
-      start: '00:18:46.069'
-      end: '00:18:47.793'
+      start:
+        sec: '1126.069'
+        mark: '00:18:46.069'
+      end:
+        sec: '1127.793'
+        mark: '00:18:47.793'
       u: Die haben schon davon gewusst.
     - who: Arthur Breslauer
-      start: '00:18:47.793'
-      end: '00:18:50.020'
+      start:
+        sec: '1127.793'
+        mark: '00:18:47.793'
+      end:
+        sec: '1130.020'
+        mark: '00:18:50.020'
       u: Davon, ja. Wir wurden avisiert.
     - who: David Boder
-      start: '00:18:50.020'
-      end: '00:18:53.820'
+      start:
+        sec: '1130.020'
+        mark: '00:18:50.020'
+      end:
+        sec: '1133.820'
+        mark: '00:18:53.820'
       u: Also, wie weit sind die Deutschen mit Ihnen gegangen?
     - who: Arthur Breslauer
-      start: '00:18:53.820'
-      end: '00:18:56.318'
+      start:
+        sec: '1133.820'
+        mark: '00:18:53.820'
+      end:
+        sec: '1136.318'
+        mark: '00:18:56.318'
       u: Bis zur, äh, Grenzstation.
     - who: David Boder
-      start: '00:18:56.318'
-      end: '00:18:57.982'
+      start:
+        sec: '1136.318'
+        mark: '00:18:56.318'
+      end:
+        sec: '1137.982'
+        mark: '00:18:57.982'
       u: Hat man Sie dort verpediert [Unklar]?
     - who: Arthur Breslauer
-      start: '00:18:57.982'
-      end: '00:19:00.248'
+      start:
+        sec: '1137.982'
+        mark: '00:18:57.982'
+      end:
+        sec: '1140.248'
+        mark: '00:19:00.248'
       u: Doch! Sehr streng.
     - who: David Boder
-      start: '00:19:00.248'
-      end: '00:19:01.762'
+      start:
+        sec: '1140.248'
+        mark: '00:19:00.248'
+      end:
+        sec: '1141.762'
+        mark: '00:19:01.762'
       u: Wie?
     - who: Arthur Breslauer
-      start: '00:19:01.762'
-      end: '00:19:04.750'
+      start:
+        sec: '1141.762'
+        mark: '00:19:01.762'
+      end:
+        sec: '1144.750'
+        mark: '00:19:04.750'
       u: Alles wurde dort durchgestöbert. Alles.
     - who: David Boder
-      start: '00:19:04.750'
-      end: '00:19:07.016'
+      start:
+        sec: '1144.750'
+        mark: '00:19:04.750'
+      end:
+        sec: '1147.016'
+        mark: '00:19:07.016'
       u: Warum, was wollten die jetzt?
     - who: Arthur Breslauer
-      start: '00:19:07.016'
-      end: '00:19:17.165'
+      start:
+        sec: '1147.016'
+        mark: '00:19:07.016'
+      end:
+        sec: '1157.165'
+        mark: '00:19:17.165'
       u: Papiere, Briefsachen, Bücher, Wertsachen wurden genommen?
     - who: David Boder
-      start: '00:19:17.165'
-      end: '00:19:20.084'
+      start:
+        sec: '1157.165'
+        mark: '00:19:17.165'
+      end:
+        sec: '1160.084'
+        mark: '00:19:20.084'
       u: Was für Wertsachen hat man noch gehabt?
     - who: Arthur Breslauer
-      start: '00:19:20.084'
-      end: '00:19:23.484'
+      start:
+        sec: '1160.084'
+        mark: '00:19:20.084'
+      end:
+        sec: '1163.484'
+        mark: '00:19:23.484'
       u: Einige hätten vielleicht doch etwas gerettet.
     - who: David Boder
-      start: '00:19:23.484'
-      end: '00:19:29.563'
+      start:
+        sec: '1163.484'
+        mark: '00:19:23.484'
+      end:
+        sec: '1169.563'
+        mark: '00:19:29.563'
       u: Ja. Naja, und das hat man weggenommen? Und dann hat man was mit dem Zug gemacht?
     - who: Arthur Breslauer
-      start: '00:19:29.563'
-      end: '00:19:33.815'
+      start:
+        sec: '1169.563'
+        mark: '00:19:29.563'
+      end:
+        sec: '1173.815'
+        mark: '00:19:33.815'
       u: Da hat man den Zug abgefertigt und über die Grenze gelassen.
     - who: David Boder
-      start: '00:19:33.815'
-      end: '00:19:35.660'
+      start:
+        sec: '1173.815'
+        mark: '00:19:33.815'
+      end:
+        sec: '1175.660'
+        mark: '00:19:35.660'
       u: Die Lokomotive hat den...
     - who: Arthur Breslauer
-      start: '00:19:35.660'
-      end: '00:19:35.850'
+      start:
+        sec: '1175.660'
+        mark: '00:19:35.660'
+      end:
+        sec: '1175.850'
+        mark: '00:19:35.850'
       u: Ja.
     - who: David Boder
-      start: '00:19:35.850'
-      end: '00:19:37.574'
+      start:
+        sec: '1175.850'
+        mark: '00:19:35.850'
+      end:
+        sec: '1177.574'
+        mark: '00:19:37.574'
       u: Zug rübergezogen.
     - who: David Boder
-      start: '00:19:37.574'
-      end: '00:19:40.673'
+      start:
+        sec: '1177.574'
+        mark: '00:19:37.574'
+      end:
+        sec: '1180.673'
+        mark: '00:19:40.673'
       u: Ja, nun? Und da war das Rote Kreuz schon auf der anderen Seite.
     - who: Arthur Breslauer
-      start: '00:19:40.673'
-      end: '00:19:50.633'
+      start:
+        sec: '1180.673'
+        mark: '00:19:40.673'
+      end:
+        sec: '1190.633'
+        mark: '00:19:50.633'
       u: Dort wurden wir schon empfangen. Diese Glückseligkeit, die die Gruppe erlebt
         hat, ist unbeschreiblich!
     - who: David Boder
-      start: '00:19:50.633'
-      end: '00:19:52.379'
+      start:
+        sec: '1190.633'
+        mark: '00:19:50.633'
+      end:
+        sec: '1192.379'
+        mark: '00:19:52.379'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:19:52.379'
-      end: '00:19:57.654'
+      start:
+        sec: '1192.379'
+        mark: '00:19:52.379'
+      end:
+        sec: '1197.654'
+        mark: '00:19:57.654'
       u: Die Schweiz hat uns sehr schön empfangen, hat uns sofort...
     - who: David Boder
-      start: '00:19:57.654'
-      end: '00:19:58.776'
+      start:
+        sec: '1197.654'
+        mark: '00:19:57.654'
+      end:
+        sec: '1198.776'
+        mark: '00:19:58.776'
       u: Ein bisschen lauter!
     - who: Arthur Breslauer
-      start: '00:19:58.776'
-      end: '00:20:23.759'
+      start:
+        sec: '1198.776'
+        mark: '00:19:58.776'
+      end:
+        sec: '1223.759'
+        mark: '00:20:23.759'
       u: Hat uns sofort, nachher Suppe und Obst verabreicht, hat uns sofort in eine
         Badeanstalt gebracht. Nachher, untergebracht und nach drei Tagen sind wir
         verteilt worden. Wir sind nach Montreux gekommen.
     - who: David Boder
-      start: '00:20:23.759'
-      end: '00:20:29.004'
+      start:
+        sec: '1223.759'
+        mark: '00:20:23.759'
+      end:
+        sec: '1229.004'
+        mark: '00:20:29.004'
       u: War die zionistische Organisation, die Vertreter dort?
     - who: Arthur Breslauer
-      start: '00:20:29.004'
-      end: '00:20:31.300'
+      start:
+        sec: '1229.004'
+        mark: '00:20:29.004'
+      end:
+        sec: '1231.300'
+        mark: '00:20:31.300'
       u: Nur diese, die mit uns gekommen sind.
     - who: David Boder
-      start: '00:20:31.300'
-      end: '00:20:32.663'
+      start:
+        sec: '1231.300'
+        mark: '00:20:31.300'
+      end:
+        sec: '1232.663'
+        mark: '00:20:32.663'
       u: Nur die, die mit Ihnen gekommen sind.
     - who: Arthur Breslauer
-      start: '00:20:32.663'
-      end: '00:20:32.753'
+      start:
+        sec: '1232.663'
+        mark: '00:20:32.663'
+      end:
+        sec: '1232.753'
+        mark: '00:20:32.753'
       u: Ja.
     - who: David Boder
-      start: '00:20:32.753'
-      end: '00:20:35.251'
+      start:
+        sec: '1232.753'
+        mark: '00:20:32.753'
+      end:
+        sec: '1235.251'
+        mark: '00:20:35.251'
       u: Also da haben keine Zionisten Sie von der Schweiz...
     - who: Arthur Breslauer
-      start: '00:20:35.251'
-      end: '00:20:37.457'
+      start:
+        sec: '1235.251'
+        mark: '00:20:35.251'
+      end:
+        sec: '1237.457'
+        mark: '00:20:37.457'
       u: Nein, dort haben sie uns noch nicht empfangen.
     - who: David Boder
-      start: '00:20:37.457'
-      end: '00:20:38.339'
+      start:
+        sec: '1237.457'
+        mark: '00:20:37.457'
+      end:
+        sec: '1238.339'
+        mark: '00:20:38.339'
       u: Nun?
     - who: Arthur Breslauer
-      start: '00:20:38.339'
-      end: '00:20:46.954'
+      start:
+        sec: '1238.339'
+        mark: '00:20:38.339'
+      end:
+        sec: '1246.954'
+        mark: '00:20:46.954'
       u: Nur später sind die Gruppenführer mit den Organisationen in Verbindung getreten.
     - who: David Boder
-      start: '00:20:46.954'
-      end: '00:21:04.145'
+      start:
+        sec: '1246.954'
+        mark: '00:20:46.954'
+      end:
+        sec: '1264.145'
+        mark: '00:21:04.145'
       u: Ja. Also, Sie haben es eigentlich nicht sehr schlecht in Belsen-Belsen gehabt,
         außer dem Unglücksfall mit Ihrer Tochter. Persönlich, wie hat man Sie behandelt?
     - who: Arthur Breslauer
-      start: '00:21:04.145'
-      end: '00:21:08.668'
+      start:
+        sec: '1264.145'
+        mark: '00:21:04.145'
+      end:
+        sec: '1268.668'
+        mark: '00:21:08.668'
       u: Oh! Streng hat man uns behandelt.
     - who: David Boder
-      start: '00:21:08.668'
-      end: '00:21:11.084'
+      start:
+        sec: '1268.668'
+        mark: '00:21:08.668'
+      end:
+        sec: '1271.084'
+        mark: '00:21:11.084'
       u: Waren da selten Schlägereien bei Ihnen?
     - who: Arthur Breslauer
-      start: '00:21:11.084'
-      end: '00:21:25.166'
+      start:
+        sec: '1271.084'
+        mark: '00:21:11.084'
+      end:
+        sec: '1285.166'
+        mark: '00:21:25.166'
       u: Schlägereien waren bei uns, bei unserer Gruppe nicht, äh, nicht. Nebenan
         haben wir mit angesehen, wie man die Leute geschlagen hat. Das waren Juden
         aus Holland.
     - who: David Boder
-      start: '00:21:25.166'
-      end: '00:21:25.889'
+      start:
+        sec: '1285.166'
+        mark: '00:21:25.166'
+      end:
+        sec: '1285.889'
+        mark: '00:21:25.889'
       u: Aus Holland?
     - who: Arthur Breslauer
-      start: '00:21:25.889'
-      end: '00:21:26.590'
+      start:
+        sec: '1285.889'
+        mark: '00:21:25.889'
+      end:
+        sec: '1286.590'
+        mark: '00:21:26.590'
       u: Ja.
     - who: David Boder
-      start: '00:21:26.590'
-      end: '00:21:27.493'
+      start:
+        sec: '1286.590'
+        mark: '00:21:26.590'
+      end:
+        sec: '1287.493'
+        mark: '00:21:27.493'
       u: Nun?
     - who: Arthur Breslauer
-      start: '00:21:27.493'
-      end: '00:21:30.902'
+      start:
+        sec: '1287.493'
+        mark: '00:21:27.493'
+      end:
+        sec: '1290.902'
+        mark: '00:21:30.902'
       u: Die wurden, die haben schwere Arbeit...
     - who: David Boder
-      start: '00:21:30.902'
-      end: '00:21:31.053'
+      start:
+        sec: '1290.902'
+        mark: '00:21:30.902'
+      end:
+        sec: '1291.053'
+        mark: '00:21:31.053'
       u: Geleistet.
     - who: Arthur Breslauer
-      start: '00:21:31.053'
-      end: '00:21:32.567'
+      start:
+        sec: '1291.053'
+        mark: '00:21:31.053'
+      end:
+        sec: '1292.567'
+        mark: '00:21:32.567'
       u: Verrichtet.
     - who: David Boder
-      start: '00:21:32.567'
-      end: '00:21:33.479'
+      start:
+        sec: '1292.567'
+        mark: '00:21:32.567'
+      end:
+        sec: '1293.479'
+        mark: '00:21:33.479'
       u: Hmm.
     - who: Arthur Breslauer
-      start: '00:21:33.479'
-      end: '00:21:37.279'
+      start:
+        sec: '1293.479'
+        mark: '00:21:33.479'
+      end:
+        sec: '1297.279'
+        mark: '00:21:37.279'
       u: Und waren sehr misshandelt worden.
     - who: David Boder
-      start: '00:21:37.279'
-      end: '00:21:41.221'
+      start:
+        sec: '1297.279'
+        mark: '00:21:37.279'
+      end:
+        sec: '1301.221'
+        mark: '00:21:41.221'
       u: Nun? Aber in ihrem Block ist das nicht passiert?
     - who: Arthur Breslauer
-      start: '00:21:41.221'
-      end: '00:21:41.943'
+      start:
+        sec: '1301.221'
+        mark: '00:21:41.221'
+      end:
+        sec: '1301.943'
+        mark: '00:21:41.943'
       u: Nein.
     - who: David Boder
-      start: '00:21:41.943'
-      end: '00:21:45.223'
+      start:
+        sec: '1301.943'
+        mark: '00:21:41.943'
+      end:
+        sec: '1305.223'
+        mark: '00:21:45.223'
       u: Und der Blockälteste war der von Ihnen gewählt oder von den?
     - who: Arthur Breslauer
-      start: '00:21:45.223'
-      end: '00:21:48.783'
+      start:
+        sec: '1305.223'
+        mark: '00:21:45.223'
+      end:
+        sec: '1308.783'
+        mark: '00:21:48.783'
       u: Ja, der sogenannte Judenälteste
     - who: David Boder
-      start: '00:21:48.783'
-      end: '00:21:49.334'
+      start:
+        sec: '1308.783'
+        mark: '00:21:48.783'
+      end:
+        sec: '1309.334'
+        mark: '00:21:49.334'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:21:49.334'
-      end: '00:21:51.690'
+      start:
+        sec: '1309.334'
+        mark: '00:21:49.334'
+      end:
+        sec: '1311.690'
+        mark: '00:21:51.690'
       u: War von uns.
     - who: David Boder
-      start: '00:21:51.690'
-      end: '00:21:58.400'
+      start:
+        sec: '1311.690'
+        mark: '00:21:51.690'
+      end:
+        sec: '1318.400'
+        mark: '00:21:58.400'
       u: Nun? Und was hat dann in der Schweiz passiert? Was haben Sie dann getan?
     - who: Arthur Breslauer
-      start: '00:21:58.400'
-      end: '00:22:06.163'
+      start:
+        sec: '1318.400'
+        mark: '00:21:58.400'
+      end:
+        sec: '1326.163'
+        mark: '00:22:06.163'
       u: Dann sind wir in eine Auffangsaal gekommen und von dort nach sechs Wochen
         Aufenthalt in ein Heim...
     - who: David Boder
-      start: '00:22:06.163'
-      end: '00:22:07.187'
+      start:
+        sec: '1326.163'
+        mark: '00:22:06.163'
+      end:
+        sec: '1327.187'
+        mark: '00:22:07.187'
       u: Ja.
     - who: Arthur Breslauer
-      start: '00:22:07.187'
-      end: '00:22:17.607'
+      start:
+        sec: '1327.187'
+        mark: '00:22:07.187'
+      end:
+        sec: '1337.607'
+        mark: '00:22:17.607'
       u: Geführt worden und hier bin ich seit sechs Monaten und mache die Stickereikurs.
     - who: David Boder
-      start: '00:22:17.607'
-      end: '00:22:20.526'
+      start:
+        sec: '1337.607'
+        mark: '00:22:17.607'
+      end:
+        sec: '1340.526'
+        mark: '00:22:20.526'
       u: Ah! Sie wohnen hier seit sechs Monaten und wieso [unverständlich]
     - who: Arthur Breslauer
-      start: '00:22:20.526'
-      end: '00:22:21.188'
+      start:
+        sec: '1340.526'
+        mark: '00:22:20.526'
+      end:
+        sec: '1341.188'
+        mark: '00:22:21.188'
       u: Ja.
     - who: David Boder
-      start: '00:22:21.188'
-      end: '00:22:26.845'
+      start:
+        sec: '1341.188'
+        mark: '00:22:21.188'
+      end:
+        sec: '1346.845'
+        mark: '00:22:26.845'
       u: "[unverständlich] Nun sagen Sie, Sie waren ein Kaufmann bevor."
     - who: Arthur Breslauer
-      start: '00:22:26.845'
-      end: '00:22:27.366'
+      start:
+        sec: '1346.845'
+        mark: '00:22:26.845'
+      end:
+        sec: '1347.366'
+        mark: '00:22:27.366'
       u: Ja.
     - who: David Boder
-      start: '00:22:27.366'
-      end: '00:22:32.129'
+      start:
+        sec: '1347.366'
+        mark: '00:22:27.366'
+      end:
+        sec: '1352.129'
+        mark: '00:22:32.129'
       u: Hatten Sie keine Ideen, wieder zu selben Beruf zurück zukommen?
     - who: Arthur Breslauer
-      start: '00:22:32.129'
-      end: '00:22:40.946'
+      start:
+        sec: '1352.129'
+        mark: '00:22:32.129'
+      end:
+        sec: '1360.946'
+        mark: '00:22:40.946'
       u: Also, wenn ich Gelegenheit hätte, nach Amerika auszuwandern, auswandern zu
         können, dann könnte ich schon mich betätigen.
     - who: David Boder
-      start: '00:22:40.946'
-      end: '00:22:42.971'
+      start:
+        sec: '1360.946'
+        mark: '00:22:40.946'
+      end:
+        sec: '1362.971'
+        mark: '00:22:42.971'
       u: Haben Sie Verwandte dort?
     - who: Arthur Breslauer
-      start: '00:22:42.971'
-      end: '00:22:55.218'
+      start:
+        sec: '1362.971'
+        mark: '00:22:42.971'
+      end:
+        sec: '1375.218'
+        mark: '00:22:55.218'
       u: Leider haben wir keine Verwandten, nur Bekannte. Mein gottseliger Schwiegervater
         war ein sehr berühmter Gelehrte.
     - who: David Boder
-      start: '00:22:55.218'
-      end: '00:22:56.190'
+      start:
+        sec: '1375.218'
+        mark: '00:22:55.218'
+      end:
+        sec: '1376.190'
+        mark: '00:22:56.190'
       u: Wo?
     - who: Arthur Breslauer
-      start: '00:22:56.190'
-      end: '00:23:05.738'
+      start:
+        sec: '1376.190'
+        mark: '00:22:56.190'
+      end:
+        sec: '1385.738'
+        mark: '00:23:05.738'
       u: In Ungarn. Und der ist in Amerika sehr bekannt, und sehr angesehen und auch
         sehr geschätzt.
     - who: David Boder
-      start: '00:23:05.738'
-      end: '00:23:07.282'
+      start:
+        sec: '1385.738'
+        mark: '00:23:05.738'
+      end:
+        sec: '1387.282'
+        mark: '00:23:07.282'
       u: Also haben Sie doch Verwandte!
     - who: Arthur Breslauer
-      start: '00:23:07.282'
-      end: '00:23:10.240'
+      start:
+        sec: '1387.282'
+        mark: '00:23:07.282'
+      end:
+        sec: '1390.240'
+        mark: '00:23:10.240'
       u: Verwandte nicht, nur Bekannte, und äh.
     - who: David Boder
-      start: '00:23:10.240'
-      end: '00:23:12.355'
+      start:
+        sec: '1390.240'
+        mark: '00:23:10.240'
+      end:
+        sec: '1392.355'
+        mark: '00:23:12.355'
       u: Also der Schwiegervater ist schon tot.
     - who: Arthur Breslauer
-      start: '00:23:12.355'
-      end: '00:23:14.401'
+      start:
+        sec: '1392.355'
+        mark: '00:23:12.355'
+      end:
+        sec: '1394.401'
+        mark: '00:23:14.401'
       u: Tot, seit 10 Jahren
     - who: David Boder
-      start: '00:23:14.401'
-      end: '00:23:21.382'
+      start:
+        sec: '1394.401'
+        mark: '00:23:14.401'
+      end:
+        sec: '1401.382'
+        mark: '00:23:21.382'
       u: Oh! nun? Und also was ist Ihr Plan, nachdem Sie das Geschäft gelernt haben.
         Was wollen Sie tun?
     - who: Arthur Breslauer
-      start: '00:23:21.382'
-      end: '00:23:24.121'
+      start:
+        sec: '1401.382'
+        mark: '00:23:21.382'
+      end:
+        sec: '1404.121'
+        mark: '00:23:24.121'
       u: Entweder nach Erez, oder...
     - who: David Boder
-      start: '00:23:24.121'
-      end: '00:23:25.454'
+      start:
+        sec: '1404.121'
+        mark: '00:23:24.121'
+      end:
+        sec: '1405.454'
+        mark: '00:23:25.454'
       u: Also nach Israel.
     - who: Arthur Breslauer
-      start: '00:23:25.454'
-      end: '00:23:45.533'
+      start:
+        sec: '1405.454'
+        mark: '00:23:25.454'
+      end:
+        sec: '1425.533'
+        mark: '00:23:45.533'
       u: Ja, oder was ich lieber möchte, nach Amerika, nachdem ich also in Amerika
         größere Chancen hätte. Ich bin doch ein erfahrener Kaufmann und erfahrener
         Börsenmann.
     - who: David Boder
-      start: '00:23:45.533'
-      end: '00:23:49.866'
+      start:
+        sec: '1425.533'
+        mark: '00:23:45.533'
+      end:
+        sec: '1429.866'
+        mark: '00:23:49.866'
       u: Haben Sie Südamerika, an Südamerika nicht gedacht?
     - who: Arthur Breslauer
-      start: '00:23:49.866'
-      end: '00:23:53.252'
+      start:
+        sec: '1429.866'
+        mark: '00:23:49.866'
+      end:
+        sec: '1433.252'
+        mark: '00:23:53.252'
       u: Notfalls, ist nicht ausgeschlossen.
     - who: David Boder
-      start: '00:23:53.252'
-      end: '00:24:12.128'
+      start:
+        sec: '1433.252'
+        mark: '00:23:53.252'
+      end:
+        sec: '1452.128'
+        mark: '00:24:12.128'
       u: Denn sehen Sie mal, in Amerika möchte man nicht gerne die, ich glaube wenigstens,
         nicht so gerne die Kaufleute sofort haben, aber in Südamerika haben die meisten,
         die Handwerker, die nachher Kaufleute geworden sind, sich sehr gut etabliert.
     - who: Arthur Breslauer
-      start: '00:24:12.128'
-      end: '00:24:30.251'
+      start:
+        sec: '1452.128'
+        mark: '00:24:12.128'
+      end:
+        sec: '1470.251'
+        mark: '00:24:30.251'
       u: Doch, nachdem ich mich umgeschult habe, betrachte ich mich nicht nur als
         Kaufmann, sondern als Handwerker, auch. Und ich könnte mich sehr schön mit
         meinem neuen Beruf erhalten.
     - who: David Boder
-      start: '00:24:30.251'
-      end: '00:24:32.719'
+      start:
+        sec: '1470.251'
+        mark: '00:24:30.251'
+      end:
+        sec: '1472.719'
+        mark: '00:24:32.719'
       u: Und was tut Ihre Frau?
     - who: Arthur Breslauer
-      start: '00:24:32.719'
-      end: '00:24:35.191'
+      start:
+        sec: '1472.719'
+        mark: '00:24:32.719'
+      end:
+        sec: '1475.191'
+        mark: '00:24:35.191'
       u: "[unverständlich]."
     - who: David Boder
-      start: '00:24:35.191'
-      end: '00:24:37.629'
+      start:
+        sec: '1475.191'
+        mark: '00:24:35.191'
+      end:
+        sec: '1477.629'
+        mark: '00:24:37.629'
       u: Ihre Frau, ihre Frau hat dieselbe Arbeit?
     - who: Arthur Breslauer
-      start: '00:24:37.629'
-      end: '00:24:39.374'
+      start:
+        sec: '1477.629'
+        mark: '00:24:37.629'
+      end:
+        sec: '1479.374'
+        mark: '00:24:39.374'
       u: Meine Frau hat sich auch umschulen lassen.
     - who: David Boder
-      start: '00:24:39.374'
-      end: '00:24:40.848'
+      start:
+        sec: '1479.374'
+        mark: '00:24:39.374'
+      end:
+        sec: '1480.848'
+        mark: '00:24:40.848'
       u: Ist sie jetzt hier?
     - who: Arthur Breslauer
-      start: '00:24:40.848'
-      end: '00:24:46.596'
+      start:
+        sec: '1480.848'
+        mark: '00:24:40.848'
+      end:
+        sec: '1486.596'
+        mark: '00:24:46.596'
       u: Leider nein, sie ist bei den Kindern?
     - who: David Boder
-      start: '00:24:46.596'
-      end: '00:24:48.401'
+      start:
+        sec: '1486.596'
+        mark: '00:24:46.596'
+      end:
+        sec: '1488.401'
+        mark: '00:24:48.401'
       u: Wo ist das Kind? Auf dem Lande?
     - who: Arthur Breslauer
-      start: '00:24:48.401'
-      end: '00:24:47.386'
+      start:
+        sec: '1488.401'
+        mark: '00:24:48.401'
+      end:
+        sec: '1487.386'
+        mark: '00:24:47.386'
       u: Ja.
   translation:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:00.903'
-      end: '00:00:24.313'
+      start:
+        sec: '0.903'
+        mark: '00:00:00.903'
+      end:
+        sec: '24.313'
+        mark: '00:00:24.313'
       u: "[In English] Spool number 90 continued, Spool number 90 continued, at about
         fourteen minutes. The interviewee is Mr. Arthur Breslauer, fifty-four years
         old. The interview is taking place in the knitting shop, in the knitting training
         shop of the ORT in Geneva, August 28th 1946."
     - who: David Boder
-      start: '00:00:24.313'
-      end: '00:00:32.507'
+      start:
+        sec: '24.313'
+        mark: '00:00:24.313'
+      end:
+        sec: '32.507'
+        mark: '00:00:32.507'
       u: "[In German] So, do you, Mr. Breslauer, want to give us your full name again,
         and tell us how old you are and where were you born?"
     - who: Arthur Breslauer
-      start: '00:00:32.507'
-      end: '00:00:40.279'
+      start:
+        sec: '32.507'
+        mark: '00:00:32.507'
+      end:
+        sec: '40.279'
+        mark: '00:00:40.279'
       u: My name is Arthur Breslauer, I am fift—...fifty-four years old, I was born
         in Hungary.
     - who: David Boder
-      start: '00:00:40.279'
-      end: '00:00:57.160'
+      start:
+        sec: '40.279'
+        mark: '00:00:40.279'
+      end:
+        sec: '57.160'
+        mark: '00:00:57.160'
       u: I see. Tell us, Mr. Breslauer, err, where has, where were you, when the war
         began, where did you experience the beginning of the war and what happened
         to you afterwards?
     - who: Arthur Breslauer
-      start: '00:00:57.160'
-      end: '00:01:06.888'
+      start:
+        sec: '57.160'
+        mark: '00:00:57.160'
+      end:
+        sec: '66.888'
+        mark: '00:01:06.888'
       u: When the war began, I was in Budapest, where I had lived for thirty-five
         years, and where I had been an independent corn- and stock-broker.
     - who: David Boder
-      start: '00:01:06.888'
-      end: '00:01:08.212'
+      start:
+        sec: '66.888'
+        mark: '00:01:06.888'
+      end:
+        sec: '68.212'
+        mark: '00:01:08.212'
       u: Corn- and what?
     - who: Arthur Breslauer
-      start: '00:01:08.212'
-      end: '00:01:09.295'
+      start:
+        sec: '68.212'
+        mark: '00:01:08.212'
+      end:
+        sec: '69.295'
+        mark: '00:01:09.295'
       u: 'Stock broker.Translator’s note: Breslauer uses the German words “Effektenhändler”
         and “Wertpapierhändler,” which in today’s usage are more or less equivalent.
         In contemporary usage, however, the term “Effekten” may have had a slightly
         different field of reference.1'
     - who: David Boder
-      start: '00:01:09.295'
-      end: '00:01:18.684'
+      start:
+        sec: '69.295'
+        mark: '00:01:09.295'
+      end:
+        sec: '78.684'
+        mark: '00:01:18.684'
       u: Yes. If you don’t talk loudly enough, this lamp here will light up, alright?
         It shows that, err...corn and ?
     - who: Arthur Breslauer
-      start: '00:01:18.684'
-      end: '00:01:19.566'
+      start:
+        sec: '78.684'
+        mark: '00:01:18.684'
+      end:
+        sec: '79.566'
+        mark: '00:01:19.566'
       u: Stock broker.
     - who: David Boder
-      start: '00:01:19.566'
-      end: '00:01:24.570'
+      start:
+        sec: '79.566'
+        mark: '00:01:19.566'
+      end:
+        sec: '84.570'
+        mark: '00:01:24.570'
       u: What does that mean, “stock broker”?
     - who: Arthur Breslauer
-      start: '00:01:24.570'
-      end: '00:01:25.954'
+      start:
+        sec: '84.570'
+        mark: '00:01:24.570'
+      end:
+        sec: '85.954'
+        mark: '00:01:25.954'
       u: "[pause] Securities dealer."
     - who: David Boder
-      start: '00:01:25.954'
-      end: '00:01:29.084'
+      start:
+        sec: '85.954'
+        mark: '00:01:25.954'
+      end:
+        sec: '89.084'
+        mark: '00:01:29.084'
       u: Oh! So, corn and with securities.
     - who: Arthur Breslauer
-      start: '00:01:29.084'
-      end: '00:01:34.991'
+      start:
+        sec: '89.084'
+        mark: '00:01:29.084'
+      end:
+        sec: '94.991'
+        mark: '00:01:34.991'
       u: At the Budapest stock exchange, I worked for thirty-five years, twenty-five
         years of those as an independent dealer.
     - who: David Boder
-      start: '00:01:34.991'
-      end: '00:01:38.129'
+      start:
+        sec: '94.991'
+        mark: '00:01:34.991'
+      end:
+        sec: '98.129'
+        mark: '00:01:38.129'
       u: Yes. So you were a member of the stock exchange.
     - who: Arthur Breslauer
-      start: '00:01:38.129'
-      end: '00:01:40.567'
+      start:
+        sec: '98.129'
+        mark: '00:01:38.129'
+      end:
+        sec: '100.567'
+        mark: '00:01:40.567'
       u: Yes, a commission agent.
     - who: David Boder
-      start: '00:01:40.567'
-      end: '00:01:44.578'
+      start:
+        sec: '100.567'
+        mark: '00:01:40.567'
+      end:
+        sec: '104.578'
+        mark: '00:01:44.578'
       u: You were a commission agent at the stock exchange and dealt in corn on commission
         and...
     - who: Arthur Breslauer
-      start: '00:01:44.578'
-      end: '00:01:45.842'
+      start:
+        sec: '104.578'
+        mark: '00:01:44.578'
+      end:
+        sec: '105.842'
+        mark: '00:01:45.842'
       u: Also on commission.
     - who: David Boder
-      start: '00:01:45.842'
-      end: '00:01:46.543'
+      start:
+        sec: '105.842'
+        mark: '00:01:45.842'
+      end:
+        sec: '106.543'
+        mark: '00:01:46.543'
       u: And...
     - who: Arthur Breslauer
-      start: '00:01:46.543'
-      end: '00:01:49.522'
+      start:
+        sec: '106.543'
+        mark: '00:01:46.543'
+      end:
+        sec: '109.522'
+        mark: '00:01:49.522'
       u: Partly on commission, partly pro per...
     - who: David Boder
-      start: '00:01:49.522'
-      end: '00:01:53.795'
+      start:
+        sec: '109.522'
+        mark: '00:01:49.522'
+      end:
+        sec: '113.795'
+        mark: '00:01:53.795'
       u: So, you were born in Hungary, but you lived in Romania.
     - who: Arthur Breslauer
-      start: '00:01:53.795'
-      end: '00:01:54.737'
+      start:
+        sec: '113.795'
+        mark: '00:01:53.795'
+      end:
+        sec: '114.737'
+        mark: '00:01:54.737'
       u: No, in Budapest.
     - who: David Boder
-      start: '00:01:54.737'
-      end: '00:01:57.875'
+      start:
+        sec: '114.737'
+        mark: '00:01:54.737'
+      end:
+        sec: '117.875'
+        mark: '00:01:57.875'
       u: Oh, Buda—...Excuse me! I thought you said Bucharest.
     - who: Arthur Breslauer
-      start: '00:01:57.875'
-      end: '00:01:58.507'
+      start:
+        sec: '117.875'
+        mark: '00:01:57.875'
+      end:
+        sec: '118.507'
+        mark: '00:01:58.507'
       u: Budapest, the capital of Hungary.
     - who: David Boder
-      start: '00:01:58.507'
-      end: '00:02:05.518'
+      start:
+        sec: '118.507'
+        mark: '00:01:58.507'
+      end:
+        sec: '125.518'
+        mark: '00:02:05.518'
       u: Budapest. The capital of Hungary. Well, where were you, when the war started?
     - who: Arthur Breslauer
-      start: '00:02:05.518'
-      end: '00:02:25.071'
+      start:
+        sec: '125.518'
+        mark: '00:02:05.518'
+      end:
+        sec: '145.071'
+        mark: '00:02:25.071'
       u: I was at home in Budapest. And when the deportations started in 1944 and
         when they took place in a large scale, in the province...Following the German
         occupation of Hungary, a series of decrees brought about the isolation, marking,
@@ -1570,767 +3002,1483 @@ recording:
         arrival. During this time, the Jews of Budapest, the Hungarian capital, were
         spared.2
     - who: David Boder
-      start: '00:02:25.071'
-      end: '00:02:25.493'
+      start:
+        sec: '145.071'
+        mark: '00:02:25.071'
+      end:
+        sec: '145.493'
+        mark: '00:02:25.493'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:02:25.493'
-      end: '00:02:43.947'
+      start:
+        sec: '145.493'
+        mark: '00:02:25.493'
+      end:
+        sec: '163.947'
+        mark: '00:02:43.947'
       u: We felt very threatened and so, we were, together with the known group of
         seventeen hundred souls deported to Germany, namely to Bergen...Bergen-Belsen.
     - who: David Boder
-      start: '00:02:43.947'
-      end: '00:02:49.514'
+      start:
+        sec: '163.947'
+        mark: '00:02:43.947'
+      end:
+        sec: '169.514'
+        mark: '00:02:49.514'
       u: So, wait. That is a bit too fast for me. When did the Germans arrive in Bucharest?
     - who: Arthur Breslauer
-      start: '00:02:49.514'
-      end: '00:02:50.311'
+      start:
+        sec: '169.514'
+        mark: '00:02:49.514'
+      end:
+        sec: '170.311'
+        mark: '00:02:50.311'
       u: In Budapest!
     - who: David Boder
-      start: '00:02:50.311'
-      end: '00:02:51.885'
+      start:
+        sec: '170.311'
+        mark: '00:02:50.311'
+      end:
+        sec: '171.885'
+        mark: '00:02:51.885'
       u: Arrive in Budapest!
     - who: Arthur Breslauer
-      start: '00:02:51.885'
-      end: '00:02:55.866'
+      start:
+        sec: '171.885'
+        mark: '00:02:51.885'
+      end:
+        sec: '175.866'
+        mark: '00:02:55.866'
       u: On March 19th, 1944.
     - who: David Boder
-      start: '00:02:55.866'
-      end: '00:02:59.245'
+      start:
+        sec: '175.866'
+        mark: '00:02:55.866'
+      end:
+        sec: '179.245'
+        mark: '00:02:59.245'
       u: Well, what did they tell you then?
     - who: Arthur Breslauer
-      start: '00:02:59.245'
-      end: '00:03:06.226'
+      start:
+        sec: '179.245'
+        mark: '00:02:59.245'
+      end:
+        sec: '186.226'
+        mark: '00:03:06.226'
       u: They...[unintelligible] then calmed everybody down...that...the Jews, the
         Jewish, the Jewish people...
     - who: David Boder
-      start: '00:03:06.226'
-      end: '00:03:06.918'
+      start:
+        sec: '186.226'
+        mark: '00:03:06.226'
+      end:
+        sec: '186.918'
+        mark: '00:03:06.918'
       u: Society.
     - who: Arthur Breslauer
-      start: '00:03:06.918'
-      end: '00:03:35.864'
+      start:
+        sec: '186.918'
+        mark: '00:03:06.918'
+      end:
+        sec: '215.864'
+        mark: '00:03:35.864'
       u: Society, that, if not already happened, everybody can practice their Jewish
         culture...and as it turned out, err, this announcement had only the goal to,
         to, not to...The deceptive practices of the Nazis in combination with the
         naiveté of the potential victims contributed to a tragic outcome.3
     - who: David Boder
-      start: '00:03:35.864'
-      end: '00:03:37.399'
+      start:
+        sec: '215.864'
+        mark: '00:03:35.864'
+      end:
+        sec: '217.399'
+        mark: '00:03:37.399'
       u: Not to stir things up.
     - who: Arthur Breslauer
-      start: '00:03:37.399'
-      end: '00:03:42.403'
+      start:
+        sec: '217.399'
+        mark: '00:03:37.399'
+      end:
+        sec: '222.403'
+        mark: '00:03:42.403'
       u: Yes, not to stir things up, so that they could carry out their plan unhindered.
     - who: David Boder
-      start: '00:03:42.403'
-      end: '00:03:44.269'
+      start:
+        sec: '222.403'
+        mark: '00:03:42.403'
+      end:
+        sec: '224.269'
+        mark: '00:03:44.269'
       u: And what was this plan?
     - who: Arthur Breslauer
-      start: '00:03:44.269'
-      end: '00:03:50.928'
+      start:
+        sec: '224.269'
+        mark: '00:03:44.269'
+      end:
+        sec: '230.928'
+        mark: '00:03:50.928'
       u: The plan was, as it turned out, the annihilation of the Jews.
     - who: David Boder
-      start: '00:03:50.928'
-      end: '00:03:53.134'
+      start:
+        sec: '230.928'
+        mark: '00:03:50.928'
+      end:
+        sec: '233.134'
+        mark: '00:03:53.134'
       u: Ah, I see. And then?
     - who: Arthur Breslauer
-      start: '00:03:53.134'
-      end: '00:03:55.159'
+      start:
+        sec: '233.134'
+        mark: '00:03:53.134'
+      end:
+        sec: '235.159'
+        mark: '00:03:55.159'
       u: The systematic annihilation.
     - who: David Boder
-      start: '00:03:55.159'
-      end: '00:03:57.657'
+      start:
+        sec: '235.159'
+        mark: '00:03:55.159'
+      end:
+        sec: '237.657'
+        mark: '00:03:57.657'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:03:57.657'
-      end: '00:04:22.484'
+      start:
+        sec: '237.657'
+        mark: '00:03:57.657'
+      end:
+        sec: '262.484'
+        mark: '00:04:22.484'
       u: And when the Jews in the province got deported, that is, when it was already
         happening, and the deportations were approaching Budapest, in [unintelligible;
         could be “Kispest”?], we decided to join, err...this group...
     - who: David Boder
-      start: '00:04:22.484'
-      end: '00:04:23.718'
+      start:
+        sec: '262.484'
+        mark: '00:04:22.484'
+      end:
+        sec: '263.718'
+        mark: '00:04:23.718'
       u: Which group?
     - who: Arthur Breslauer
-      start: '00:04:23.718'
-      end: '00:04:26.525'
+      start:
+        sec: '263.718'
+        mark: '00:04:23.718'
+      end:
+        sec: '266.525'
+        mark: '00:04:26.525'
       u: The seventeen hundred souls [people]...
     - who: David Boder
-      start: '00:04:26.525'
-      end: '00:04:28.812'
+      start:
+        sec: '266.525'
+        mark: '00:04:26.525'
+      end:
+        sec: '268.812'
+        mark: '00:04:28.812'
       u: What kind of group was this?
     - who: Arthur Breslauer
-      start: '00:04:28.812'
-      end: '00:04:36.034'
+      start:
+        sec: '268.812'
+        mark: '00:04:28.812'
+      end:
+        sec: '276.034'
+        mark: '00:04:36.034'
       u: A so-called deal had been made, with these seventeen hundred people.
     - who: David Boder
-      start: '00:04:36.034'
-      end: '00:04:37.066'
+      start:
+        sec: '276.034'
+        mark: '00:04:36.034'
+      end:
+        sec: '277.066'
+        mark: '00:04:37.066'
       u: I see.
     - who: Arthur Breslauer
-      start: '00:04:37.066'
-      end: '00:04:48.260'
+      start:
+        sec: '277.066'
+        mark: '00:04:37.066'
+      end:
+        sec: '288.260'
+        mark: '00:04:48.260'
       u: They were brought to Germany, with the promise that they would be brought
         further later on...
     - who: David Boder
-      start: '00:04:48.260'
-      end: '00:04:58.139'
+      start:
+        sec: '288.260'
+        mark: '00:04:48.260'
+      end:
+        sec: '298.139'
+        mark: '00:04:58.139'
       u: Oh! So, it was...a deal was made that...there were seventeen hundred people
         and they wanted to go to Palestine and they should...[unintelligible]...
     - who: Arthur Breslauer
-      start: '00:04:58.139'
-      end: '00:05:00.766'
+      start:
+        sec: '298.139'
+        mark: '00:04:58.139'
+      end:
+        sec: '300.766'
+        mark: '00:05:00.766'
       u: They told us Spain.The transport ostensibly left for neutral Spain or Switzerland
         but was diverted to Bergen-Belsen.4
     - who: David Boder
-      start: '00:05:00.766'
-      end: '00:05:02.310'
+      start:
+        sec: '300.766'
+        mark: '00:05:00.766'
+      end:
+        sec: '302.310'
+        mark: '00:05:02.310'
       u: Yes. Well?
     - who: Arthur Breslauer
-      start: '00:05:02.310'
-      end: '00:05:03.462'
+      start:
+        sec: '302.310'
+        mark: '00:05:02.310'
+      end:
+        sec: '303.462'
+        mark: '00:05:03.462'
       u: Over a detour.
     - who: David Boder
-      start: '00:05:03.462'
-      end: '00:05:07.675'
+      start:
+        sec: '303.462'
+        mark: '00:05:03.462'
+      end:
+        sec: '307.675'
+        mark: '00:05:07.675'
       u: How was this arranged? How was this possible?
     - who: Arthur Breslauer
-      start: '00:05:07.675'
-      end: '00:05:12.219'
+      start:
+        sec: '307.675'
+        mark: '00:05:07.675'
+      end:
+        sec: '312.219'
+        mark: '00:05:12.219'
       u: We were led, err, ordered in a camp.
     - who: David Boder
-      start: '00:05:12.219'
-      end: '00:05:19.961'
+      start:
+        sec: '312.219'
+        mark: '00:05:12.219'
+      end:
+        sec: '319.961'
+        mark: '00:05:19.961'
       u: No, I mean, how was it possible that this whole thing was agreed with the
         Germans?
     - who: Arthur Breslauer
-      start: '00:05:19.961'
-      end: '00:05:46.127'
+      start:
+        sec: '319.961'
+        mark: '00:05:19.961'
+      end:
+        sec: '346.127'
+        mark: '00:05:46.127'
       u: It was a man called Dr. Kasztner. He organized it. And that was a great,
         a generous, a great plan, which was only realized in part. Our group was a
         so-called model-group.Breslauer is referring here to Rudolf Kasztner. He is
         obviously and understandably a staunch defender of the Kasztner plan.5
     - who: David Boder
-      start: '00:05:46.127'
-      end: '00:05:47.520'
+      start:
+        sec: '346.127'
+        mark: '00:05:46.127'
+      end:
+        sec: '347.520'
+        mark: '00:05:47.520'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:05:47.520'
-      end: '00:05:49.356'
+      start:
+        sec: '347.520'
+        mark: '00:05:47.520'
+      end:
+        sec: '349.356'
+        mark: '00:05:49.356'
       u: As an experiment.
     - who: David Boder
-      start: '00:05:49.356'
-      end: '00:05:50.448'
+      start:
+        sec: '349.356'
+        mark: '00:05:49.356'
+      end:
+        sec: '350.448'
+        mark: '00:05:50.448'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:05:50.448'
-      end: '00:06:00.649'
+      start:
+        sec: '350.448'
+        mark: '00:05:50.448'
+      end:
+        sec: '360.649'
+        mark: '00:06:00.649'
       u: And since we were in danger that the deportion...dep—...dep—...deportation
         was also...
     - who: David Boder
-      start: '00:06:00.649'
-      end: '00:06:02.373'
+      start:
+        sec: '360.649'
+        mark: '00:06:00.649'
+      end:
+        sec: '362.373'
+        mark: '00:06:02.373'
       u: Yes, threatening...
     - who: Arthur Breslauer
-      start: '00:06:02.373'
-      end: '00:06:06.616'
+      start:
+        sec: '362.373'
+        mark: '00:06:02.373'
+      end:
+        sec: '366.616'
+        mark: '00:06:06.616'
       u: Threatening us, we ventured on...
     - who: David Boder
-      start: '00:06:06.616'
-      end: '00:06:07.738'
+      start:
+        sec: '366.616'
+        mark: '00:06:06.616'
+      end:
+        sec: '367.738'
+        mark: '00:06:07.738'
       u: On this undertaking.
     - who: Arthur Breslauer
-      start: '00:06:07.738'
-      end: '00:06:15.622'
+      start:
+        sec: '367.738'
+        mark: '00:06:07.738'
+      end:
+        sec: '375.622'
+        mark: '00:06:15.622'
       u: On this undertaking. Yes, and because everything was very, very uncertain.
     - who: David Boder
-      start: '00:06:15.622'
-      end: '00:06:18.481'
+      start:
+        sec: '375.622'
+        mark: '00:06:15.622'
+      end:
+        sec: '378.481'
+        mark: '00:06:18.481'
       u: Yes. Well?
     - who: Arthur Breslauer
-      start: '00:06:18.481'
-      end: '00:06:37.296'
+      start:
+        sec: '378.481'
+        mark: '00:06:18.481'
+      end:
+        sec: '397.296'
+        mark: '00:06:37.296'
       u: Then we were put into rail cars, that is sixty to seventy-five people in
         each carriage, and we rode the train, err, many, eleven days.
     - who: David Boder
-      start: '00:06:37.296'
-      end: '00:06:38.320'
+      start:
+        sec: '397.296'
+        mark: '00:06:37.296'
+      end:
+        sec: '398.320'
+        mark: '00:06:38.320'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:06:38.320'
-      end: '00:06:41.368'
+      start:
+        sec: '398.320'
+        mark: '00:06:38.320'
+      end:
+        sec: '401.368'
+        mark: '00:06:41.368'
       u: Until we arrived in Bergen-Belsen.
     - who: David Boder
-      start: '00:06:41.368'
-      end: '00:06:41.940'
+      start:
+        sec: '401.368'
+        mark: '00:06:41.368'
+      end:
+        sec: '401.940'
+        mark: '00:06:41.940'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:06:41.940'
-      end: '00:06:48.539'
+      start:
+        sec: '401.940'
+        mark: '00:06:41.940'
+      end:
+        sec: '408.539'
+        mark: '00:06:48.539'
       u: There, the seventeen hundred people were put into two barracks.
     - who: David Boder
-      start: '00:06:48.539'
-      end: '00:06:49.691'
+      start:
+        sec: '408.539'
+        mark: '00:06:48.539'
+      end:
+        sec: '409.691'
+        mark: '00:06:49.691'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:06:49.691'
-      end: '00:06:53.603'
+      start:
+        sec: '409.691'
+        mark: '00:06:49.691'
+      end:
+        sec: '413.603'
+        mark: '00:06:53.603'
       u: Under very difficult conditions.
     - who: David Boder
-      start: '00:06:53.603'
-      end: '00:06:55.198'
+      start:
+        sec: '413.603'
+        mark: '00:06:53.603'
+      end:
+        sec: '415.198'
+        mark: '00:06:55.198'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:06:55.198'
-      end: '00:07:16.060'
+      start:
+        sec: '415.198'
+        mark: '00:06:55.198'
+      end:
+        sec: '436.060'
+        mark: '00:07:16.060'
       u: Crammed together. There we were for six weeks. During these six weeks, I
         lost my unforgettable, older daughter of seventeen and a half years.
     - who: David Boder
-      start: '00:07:16.060'
-      end: '00:07:16.581'
+      start:
+        sec: '436.060'
+        mark: '00:07:16.060'
+      end:
+        sec: '436.581'
+        mark: '00:07:16.581'
       u: How?
     - who: Arthur Breslauer
-      start: '00:07:16.581'
-      end: '00:07:18.335'
+      start:
+        sec: '436.581'
+        mark: '00:07:16.581'
+      end:
+        sec: '438.335'
+        mark: '00:07:18.335'
       u: She died.
     - who: David Boder
-      start: '00:07:18.335'
-      end: '00:07:19.900'
+      start:
+        sec: '438.335'
+        mark: '00:07:18.335'
+      end:
+        sec: '439.900'
+        mark: '00:07:19.900'
       u: How did she die?
     - who: Arthur Breslauer
-      start: '00:07:19.900'
-      end: '00:07:21.654'
+      start:
+        sec: '439.900'
+        mark: '00:07:19.900'
+      end:
+        sec: '441.654'
+        mark: '00:07:21.654'
       u: Pneumonia.
     - who: David Boder
-      start: '00:07:21.654'
-      end: '00:07:22.226'
+      start:
+        sec: '441.654'
+        mark: '00:07:21.654'
+      end:
+        sec: '442.226'
+        mark: '00:07:22.226'
       u: Where was this?
     - who: Arthur Breslauer
-      start: '00:07:22.226'
-      end: '00:07:24.010'
+      start:
+        sec: '442.226'
+        mark: '00:07:22.226'
+      end:
+        sec: '444.010'
+        mark: '00:07:24.010'
       u: In Bergen-Belsen.
     - who: David Boder
-      start: '00:07:24.010'
-      end: '00:07:26.929'
+      start:
+        sec: '444.010'
+        mark: '00:07:24.010'
+      end:
+        sec: '446.929'
+        mark: '00:07:26.929'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:07:26.929'
-      end: '00:07:29.607'
+      start:
+        sec: '446.929'
+        mark: '00:07:26.929'
+      end:
+        sec: '449.607'
+        mark: '00:07:29.607'
       u: It was terrible, dreadful.
     - who: David Boder
-      start: '00:07:29.607'
-      end: '00:07:33.098'
+      start:
+        sec: '449.607'
+        mark: '00:07:29.607'
+      end:
+        sec: '453.098'
+        mark: '00:07:33.098'
       u: How many people were there altogether in your family?
     - who: Arthur Breslauer
-      start: '00:07:33.098'
-      end: '00:07:34.822'
+      start:
+        sec: '453.098'
+        mark: '00:07:33.098'
+      end:
+        sec: '454.822'
+        mark: '00:07:34.822'
       u: We were four.
     - who: David Boder
-      start: '00:07:34.822'
-      end: '00:07:35.544'
+      start:
+        sec: '454.822'
+        mark: '00:07:34.822'
+      end:
+        sec: '455.544'
+        mark: '00:07:35.544'
       u: Who was that?
     - who: Arthur Breslauer
-      start: '00:07:35.544'
-      end: '00:07:41.803'
+      start:
+        sec: '455.544'
+        mark: '00:07:35.544'
+      end:
+        sec: '461.803'
+        mark: '00:07:41.803'
       u: My wife, a high school teacher, with a doctor in mathematics.
     - who: David Boder
-      start: '00:07:41.803'
-      end: '00:07:42.616'
+      start:
+        sec: '461.803'
+        mark: '00:07:41.803'
+      end:
+        sec: '462.616'
+        mark: '00:07:42.616'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:07:42.616'
-      end: '00:07:44.190'
+      start:
+        sec: '462.616'
+        mark: '00:07:42.616'
+      end:
+        sec: '464.190'
+        mark: '00:07:44.190'
       u: My two daughters.
     - who: David Boder
-      start: '00:07:44.190'
-      end: '00:07:44.771'
+      start:
+        sec: '464.190'
+        mark: '00:07:44.190'
+      end:
+        sec: '464.771'
+        mark: '00:07:44.771'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:07:44.771'
-      end: '00:07:46.736'
+      start:
+        sec: '464.771'
+        mark: '00:07:44.771'
+      end:
+        sec: '466.736'
+        mark: '00:07:46.736'
       u: Two very kind children.
     - who: David Boder
-      start: '00:07:46.736'
-      end: '00:07:48.370'
+      start:
+        sec: '466.736'
+        mark: '00:07:46.736'
+      end:
+        sec: '468.370'
+        mark: '00:07:48.370'
       u: Where is the other one now?
     - who: Arthur Breslauer
-      start: '00:07:48.370'
-      end: '00:07:51.057'
+      start:
+        sec: '468.370'
+        mark: '00:07:48.370'
+      end:
+        sec: '471.057'
+        mark: '00:07:51.057'
       u: The other one is now with us.
     - who: David Boder
-      start: '00:07:51.057'
-      end: '00:07:51.569'
+      start:
+        sec: '471.057'
+        mark: '00:07:51.057'
+      end:
+        sec: '471.569'
+        mark: '00:07:51.569'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:07:51.569'
-      end: '00:07:55.821'
+      start:
+        sec: '471.569'
+        mark: '00:07:51.569'
+      end:
+        sec: '475.821'
+        mark: '00:07:55.821'
       u: She goes to the “Gymnasium” here.
     - who: David Boder
-      start: '00:07:55.821'
-      end: '00:07:56.402'
+      start:
+        sec: '475.821'
+        mark: '00:07:55.821'
+      end:
+        sec: '476.402'
+        mark: '00:07:56.402'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:07:56.402'
-      end: '00:07:59.811'
+      start:
+        sec: '476.402'
+        mark: '00:07:56.402'
+      end:
+        sec: '479.811'
+        mark: '00:07:59.811'
       u: A very talented person.
     - who: David Boder
-      start: '00:07:59.811'
-      end: '00:08:05.047'
+      start:
+        sec: '479.811'
+        mark: '00:07:59.811'
+      end:
+        sec: '485.047'
+        mark: '00:08:05.047'
       u: How old was she, when you, err, went, when you were deported?
     - who: Arthur Breslauer
-      start: '00:08:05.047'
-      end: '00:08:07.102'
+      start:
+        sec: '485.047'
+        mark: '00:08:05.047'
+      end:
+        sec: '487.102'
+        mark: '00:08:07.102'
       u: The little one was eleven years old.
     - who: David Boder
-      start: '00:08:07.102'
-      end: '00:08:07.614'
+      start:
+        sec: '487.102'
+        mark: '00:08:07.102'
+      end:
+        sec: '487.614'
+        mark: '00:08:07.614'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:08:07.614'
-      end: '00:08:09.248'
+      start:
+        sec: '487.614'
+        mark: '00:08:07.614'
+      end:
+        sec: '489.248'
+        mark: '00:08:09.248'
       u: She’s now thirteen and a half.
     - who: David Boder
-      start: '00:08:09.248'
-      end: '00:08:14.282'
+      start:
+        sec: '489.248'
+        mark: '00:08:09.248'
+      end:
+        sec: '494.282'
+        mark: '00:08:14.282'
       u: Well, how long was the train ride from Budapest to Belsen-Belsen?Boder repeatedly
         mispronounces “Bergen-Belsen” as “Belsen-Belsen.”6
     - who: Arthur Breslauer
-      start: '00:08:14.282'
-      end: '00:08:15.245'
+      start:
+        sec: '494.282'
+        mark: '00:08:14.282'
+      end:
+        sec: '495.245'
+        mark: '00:08:15.245'
       u: Eleven days.
     - who: David Boder
-      start: '00:08:15.245'
-      end: '00:08:20.550'
+      start:
+        sec: '495.245'
+        mark: '00:08:15.245'
+      end:
+        sec: '500.550'
+        mark: '00:08:20.550'
       u: What kind of train was provided?
     - who: Arthur Breslauer
-      start: '00:08:20.550'
-      end: '00:08:22.124'
+      start:
+        sec: '500.550'
+        mark: '00:08:20.550'
+      end:
+        sec: '502.124'
+        mark: '00:08:22.124'
       u: A livestock cargo train!
     - who: David Boder
-      start: '00:08:22.124'
-      end: '00:08:23.066'
+      start:
+        sec: '502.124'
+        mark: '00:08:22.124'
+      end:
+        sec: '503.066'
+        mark: '00:08:23.066'
       u: A livestock cargo train!
     - who: Arthur Breslauer
-      start: '00:08:23.066'
-      end: '00:08:23.105'
+      start:
+        sec: '503.066'
+        mark: '00:08:23.066'
+      end:
+        sec: '503.105'
+        mark: '00:08:23.105'
       u: A livestock cargo train! Yes.
     - who: David Boder
-      start: '00:08:23.105'
-      end: '00:08:24.941'
+      start:
+        sec: '503.105'
+        mark: '00:08:23.105'
+      end:
+        sec: '504.941'
+        mark: '00:08:24.941'
       u: And that was the “model-group,” right?
     - who: Arthur Breslauer
-      start: '00:08:24.941'
-      end: '00:08:25.853'
+      start:
+        sec: '504.941'
+        mark: '00:08:24.941'
+      end:
+        sec: '505.853'
+        mark: '00:08:25.853'
       u: A livestock cargo train.
     - who: David Boder
-      start: '00:08:25.853'
-      end: '00:08:27.968'
+      start:
+        sec: '505.853'
+        mark: '00:08:25.853'
+      end:
+        sec: '507.968'
+        mark: '00:08:27.968'
       u: Were you also locked into this train?
     - who: Arthur Breslauer
-      start: '00:08:27.968'
-      end: '00:08:35.100'
+      start:
+        sec: '507.968'
+        mark: '00:08:27.968'
+      end:
+        sec: '515.100'
+        mark: '00:08:35.100'
       u: Yes! Yes. We weren’t locked in, that is, err,...the doors were open.
     - who: David Boder
-      start: '00:08:35.100'
-      end: '00:08:36.313'
+      start:
+        sec: '515.100'
+        mark: '00:08:35.100'
+      end:
+        sec: '516.313'
+        mark: '00:08:36.313'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:08:36.313'
-      end: '00:08:42.099'
+      start:
+        sec: '516.313'
+        mark: '00:08:36.313'
+      end:
+        sec: '522.099'
+        mark: '00:08:42.099'
       u: But it was a horrible ride.The train ride Breslauer describes was no doubt
         terribly trying, yet it cannot compare with the nightmarish rail journeys
         taken by several million Jews to extermination centers on which the old and
         the very young often perished before the journey’s end.7
     - who: David Boder
-      start: '00:08:42.099'
-      end: '00:08:45.500'
+      start:
+        sec: '522.099'
+        mark: '00:08:42.099'
+      end:
+        sec: '525.500'
+        mark: '00:08:45.500'
       u: Why?
     - who: Arthur Breslauer
-      start: '00:08:45.500'
-      end: '00:08:53.032'
+      start:
+        sec: '525.500'
+        mark: '00:08:45.500'
+      end:
+        sec: '533.032'
+        mark: '00:08:53.032'
       u: Into a train car, which normally only holds forty people, they put, err...
     - who: David Boder
-      start: '00:08:53.032'
-      end: '00:08:53.553'
+      start:
+        sec: '533.032'
+        mark: '00:08:53.032'
+      end:
+        sec: '533.553'
+        mark: '00:08:53.553'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:08:53.553'
-      end: '00:08:59.129'
+      start:
+        sec: '533.553'
+        mark: '00:08:53.553'
+      end:
+        sec: '539.129'
+        mark: '00:08:59.129'
       u: They put in sixty, seventy-five people.
     - who: David Boder
-      start: '00:08:59.129'
-      end: '00:09:00.793'
+      start:
+        sec: '539.129'
+        mark: '00:08:59.129'
+      end:
+        sec: '540.793'
+        mark: '00:09:00.793'
       u: Yes. Men, women and children?
     - who: Arthur Breslauer
-      start: '00:09:00.793'
-      end: '00:09:03.179'
+      start:
+        sec: '540.793'
+        mark: '00:09:00.793'
+      end:
+        sec: '543.179'
+        mark: '00:09:03.179'
       u: Men, women, children. All together.
     - who: David Boder
-      start: '00:09:03.179'
-      end: '00:09:05.225'
+      start:
+        sec: '543.179'
+        mark: '00:09:03.179'
+      end:
+        sec: '545.225'
+        mark: '00:09:05.225'
       u: Was there a restroom on the train?
     - who: Arthur Breslauer
-      start: '00:09:05.225'
-      end: '00:09:06.218'
+      start:
+        sec: '545.225'
+        mark: '00:09:05.225'
+      end:
+        sec: '546.218'
+        mark: '00:09:06.218'
       u: Never.
     - who: David Boder
-      start: '00:09:06.218'
-      end: '00:09:09.679'
+      start:
+        sec: '546.218'
+        mark: '00:09:06.218'
+      end:
+        sec: '549.679'
+        mark: '00:09:09.679'
       u: So, how did you satisfy the elementary needs?
     - who: Arthur Breslauer
-      start: '00:09:09.679'
-      end: '00:09:14.171'
+      start:
+        sec: '549.679'
+        mark: '00:09:09.679'
+      end:
+        sec: '554.171'
+        mark: '00:09:14.171'
       u: From time to time, the, err, the train stopped.
     - who: David Boder
-      start: '00:09:14.171'
-      end: '00:09:15.676'
+      start:
+        sec: '554.171'
+        mark: '00:09:14.171'
+      end:
+        sec: '555.676'
+        mark: '00:09:15.676'
       u: And the children?
     - who: Arthur Breslauer
-      start: '00:09:15.676'
-      end: '00:09:18.604'
+      start:
+        sec: '555.676'
+        mark: '00:09:15.676'
+      end:
+        sec: '558.604'
+        mark: '00:09:18.604'
       u: The children did, err, also...
     - who: David Boder
-      start: '00:09:18.604'
-      end: '00:09:22.164'
+      start:
+        sec: '558.604'
+        mark: '00:09:18.604'
+      end:
+        sec: '562.164'
+        mark: '00:09:22.164'
       u: Yes, I mean, when they needed to use the bathroom?
     - who: Arthur Breslauer
-      start: '00:09:22.164'
-      end: '00:09:25.212'
+      start:
+        sec: '562.164'
+        mark: '00:09:22.164'
+      end:
+        sec: '565.212'
+        mark: '00:09:25.212'
       u: They couldn’t relieve themselves.
     - who: David Boder
-      start: '00:09:25.212'
-      end: '00:09:30.117'
+      start:
+        sec: '565.212'
+        mark: '00:09:25.212'
+      end:
+        sec: '570.117'
+        mark: '00:09:30.117'
       u: Well?...Well?
     - who: Arthur Breslauer
-      start: '00:09:30.117'
-      end: '00:09:33.647'
+      start:
+        sec: '570.117'
+        mark: '00:09:30.117'
+      end:
+        sec: '573.647'
+        mark: '00:09:33.647'
       u: So, they, err, they suffered.
     - who: David Boder
-      start: '00:09:33.647'
-      end: '00:09:37.387'
+      start:
+        sec: '573.647'
+        mark: '00:09:33.647'
+      end:
+        sec: '577.387'
+        mark: '00:09:37.387'
       u: Did they not try to somehow do that in the car?
     - who: Arthur Breslauer
-      start: '00:09:37.387'
-      end: '00:09:45.361'
+      start:
+        sec: '577.387'
+        mark: '00:09:37.387'
+      end:
+        sec: '585.361'
+        mark: '00:09:45.361'
       u: I think, it happened, quite often. It was avoidable. [He clearly means “unavoidable”]
     - who: David Boder
-      start: '00:09:45.361'
-      end: '00:09:48.430'
+      start:
+        sec: '585.361'
+        mark: '00:09:45.361'
+      end:
+        sec: '588.430'
+        mark: '00:09:48.430'
       u: Yes. And how was that done?
     - who: Arthur Breslauer
-      start: '00:09:48.430'
-      end: '00:09:52.192'
+      start:
+        sec: '588.430'
+        mark: '00:09:48.430'
+      end:
+        sec: '592.192'
+        mark: '00:09:52.192'
       u: In front of the people. In front of everybody, yes.
     - who: David Boder
-      start: '00:09:52.192'
-      end: '00:09:58.791'
+      start:
+        sec: '592.192'
+        mark: '00:09:52.192'
+      end:
+        sec: '598.791'
+        mark: '00:09:58.791'
       u: Yes, well, err, then, after eleven days, you arrived in Belsen-Belsen?
     - who: Arthur Breslauer
-      start: '00:09:58.791'
-      end: '00:09:59.763'
+      start:
+        sec: '598.791'
+        mark: '00:09:58.791'
+      end:
+        sec: '599.763'
+        mark: '00:09:59.763'
       u: Bergen-Belsen.
     - who: David Boder
-      start: '00:09:59.763'
-      end: '00:10:05.248'
+      start:
+        sec: '599.763'
+        mark: '00:09:59.763'
+      end:
+        sec: '605.248'
+        mark: '00:10:05.248'
       u: Do you want to describe a little bit...what did it look like, when you arrived
         there?
     - who: Arthur Breslauer
-      start: '00:10:05.248'
-      end: '00:10:09.401'
+      start:
+        sec: '605.248'
+        mark: '00:10:05.248'
+      end:
+        sec: '609.401'
+        mark: '00:10:09.401'
       u: Well, we were in a so-called “privileged” group.A so-called Hungarian camp
         was established at Bergen-Belsen on July 8, 1944 to hold the Jews of the Kasztner
         transport. The prisoners were allowed to wear their own clothes but also had
         to display the yellow badge. As noted by Breslauer, they were not made to
         do forced labor and did not have to subsist on starvation rations.8
     - who: David Boder
-      start: '00:10:09.401'
-      end: '00:10:10.614'
+      start:
+        sec: '609.401'
+        mark: '00:10:09.401'
+      end:
+        sec: '610.614'
+        mark: '00:10:10.614'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:10:10.614'
-      end: '00:10:25.277'
+      start:
+        sec: '610.614'
+        mark: '00:10:10.614'
+      end:
+        sec: '625.277'
+        mark: '00:10:25.277'
       u: That meant that we only had to do chores in the house, that is, what we...in
         the camp...
     - who: David Boder
-      start: '00:10:25.277'
-      end: '00:10:26.008'
+      start:
+        sec: '625.277'
+        mark: '00:10:25.277'
+      end:
+        sec: '626.008'
+        mark: '00:10:26.008'
       u: Needed.
     - who: Arthur Breslauer
-      start: '00:10:26.008'
-      end: '00:10:27.272'
+      start:
+        sec: '626.008'
+        mark: '00:10:26.008'
+      end:
+        sec: '627.272'
+        mark: '00:10:27.272'
       u: Needed.
     - who: David Boder
-      start: '00:10:27.272'
-      end: '00:10:30.380'
+      start:
+        sec: '627.272'
+        mark: '00:10:27.272'
+      end:
+        sec: '630.380'
+        mark: '00:10:30.380'
       u: Were women and children in the same barracks as the men?
     - who: Arthur Breslauer
-      start: '00:10:30.380'
-      end: '00:10:35.315'
+      start:
+        sec: '630.380'
+        mark: '00:10:30.380'
+      end:
+        sec: '635.315'
+        mark: '00:10:35.315'
       u: No, women had their own barracks. Men, too.
     - who: David Boder
-      start: '00:10:35.315'
-      end: '00:10:38.264'
+      start:
+        sec: '635.315'
+        mark: '00:10:35.315'
+      end:
+        sec: '638.264'
+        mark: '00:10:38.264'
       u: Who was with you? Just the Hungarian group?
     - who: Arthur Breslauer
-      start: '00:10:38.264'
-      end: '00:10:43.870'
+      start:
+        sec: '638.264'
+        mark: '00:10:38.264'
+      end:
+        sec: '643.870'
+        mark: '00:10:43.870'
       u: The Hungarian group, to which also many Yugoslavs and Romanians belonged.Breslauer
         might be referring here to Jews from Romanian and Yugoslavian territories,
         northern Transylvania and Backa respectively, annexed by German-allied Hungary
         in 1940 and 1941.9
     - who: David Boder
-      start: '00:10:43.870'
-      end: '00:10:44.962'
+      start:
+        sec: '643.870'
+        mark: '00:10:43.870'
+      end:
+        sec: '644.962'
+        mark: '00:10:44.962'
       u: Christians or Jews?
     - who: Arthur Breslauer
-      start: '00:10:44.962'
-      end: '00:10:46.226'
+      start:
+        sec: '644.962'
+        mark: '00:10:44.962'
+      end:
+        sec: '646.226'
+        mark: '00:10:46.226'
       u: Only Jews.
     - who: David Boder
-      start: '00:10:46.226'
-      end: '00:10:50.439'
+      start:
+        sec: '646.226'
+        mark: '00:10:46.226'
+      end:
+        sec: '650.439'
+        mark: '00:10:50.439'
       u: Only Jews. Well, they didn’t force you to work.
     - who: Arthur Breslauer
-      start: '00:10:50.439'
-      end: '00:10:50.719'
+      start:
+        sec: '650.439'
+        mark: '00:10:50.439'
+      end:
+        sec: '650.719'
+        mark: '00:10:50.719'
       u: No.
     - who: David Boder
-      start: '00:10:50.719'
-      end: '00:10:52.804'
+      start:
+        sec: '650.719'
+        mark: '00:10:50.719'
+      end:
+        sec: '652.804'
+        mark: '00:10:52.804'
       u: How were you fed?
     - who: Arthur Breslauer
-      start: '00:10:52.804'
-      end: '00:11:08.120'
+      start:
+        sec: '652.804'
+        mark: '00:10:52.804'
+      end:
+        sec: '668.120'
+        mark: '00:11:08.120'
       u: We received the usual food. It was a kind of stew with...
     - who: David Boder
-      start: '00:11:08.120'
-      end: '00:11:08.361'
+      start:
+        sec: '668.120'
+        mark: '00:11:08.120'
+      end:
+        sec: '668.361'
+        mark: '00:11:08.361'
       u: Well?
     - who: Arthur Breslauer
-      start: '00:11:08.361'
-      end: '00:11:09.634'
+      start:
+        sec: '668.361'
+        mark: '00:11:08.361'
+      end:
+        sec: '669.634'
+        mark: '00:11:09.634'
       u: Beets.
     - who: David Boder
-      start: '00:11:09.634'
-      end: '00:11:10.606'
+      start:
+        sec: '669.634'
+        mark: '00:11:09.634'
+      end:
+        sec: '670.606'
+        mark: '00:11:10.606'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:11:10.606'
-      end: '00:11:19.431'
+      start:
+        sec: '670.606'
+        mark: '00:11:10.606'
+      end:
+        sec: '679.431'
+        mark: '00:11:19.431'
       u: Very rarely, potatoes. We also got an acceptable amount of butter ration.
     - who: David Boder
-      start: '00:11:19.431'
-      end: '00:11:21.297'
+      start:
+        sec: '679.431'
+        mark: '00:11:19.431'
+      end:
+        sec: '681.297'
+        mark: '00:11:21.297'
       u: That was margarine, of course.
     - who: Arthur Breslauer
-      start: '00:11:21.297'
-      end: '00:11:25.480'
+      start:
+        sec: '681.297'
+        mark: '00:11:21.297'
+      end:
+        sec: '685.480'
+        mark: '00:11:25.480'
       u: Also, half-half, margarine, but also butter.
     - who: David Boder
-      start: '00:11:25.480'
-      end: '00:11:27.294'
+      start:
+        sec: '685.480'
+        mark: '00:11:25.480'
+      end:
+        sec: '687.294'
+        mark: '00:11:27.294'
       u: Butter, as well. So?
     - who: Arthur Breslauer
-      start: '00:11:27.294'
-      end: '00:11:38.187'
+      start:
+        sec: '687.294'
+        mark: '00:11:27.294'
+      end:
+        sec: '698.187'
+        mark: '00:11:38.187'
       u: And we also got a bread portion. But the bread was very bad.
     - who: David Boder
-      start: '00:11:38.187'
-      end: '00:11:40.113'
+      start:
+        sec: '698.187'
+        mark: '00:11:38.187'
+      end:
+        sec: '700.113'
+        mark: '00:11:40.113'
       u: That was in which year?
     - who: Arthur Breslauer
-      start: '00:11:40.113'
-      end: '00:11:41.566'
+      start:
+        sec: '700.113'
+        mark: '00:11:40.113'
+      end:
+        sec: '701.566'
+        mark: '00:11:41.566'
       u: '1944.'
     - who: David Boder
-      start: '00:11:41.566'
-      end: '00:11:45.388'
+      start:
+        sec: '701.566'
+        mark: '00:11:41.566'
+      end:
+        sec: '705.388'
+        mark: '00:11:45.388'
       u: "’44. Which months, approximately?"
     - who: Arthur Breslauer
-      start: '00:11:45.388'
-      end: '00:11:56.019'
+      start:
+        sec: '705.388'
+        mark: '00:11:45.388'
+      end:
+        sec: '716.019'
+        mark: '00:11:56.019'
       u: We were put on the train on June 30th, and arrived in Switzerland on August
         18th.
     - who: David Boder
-      start: '00:11:56.019'
-      end: '00:11:59.097'
+      start:
+        sec: '716.019'
+        mark: '00:11:56.019'
+      end:
+        sec: '719.097'
+        mark: '00:11:59.097'
       u: Ah, I see. So it was June 30th.
     - who: Arthur Breslauer
-      start: '00:11:59.097'
-      end: '00:11:59.549'
+      start:
+        sec: '719.097'
+        mark: '00:11:59.097'
+      end:
+        sec: '719.549'
+        mark: '00:11:59.549'
       u: Yes.
     - who: David Boder
-      start: '00:11:59.549'
-      end: '00:12:02.567'
+      start:
+        sec: '719.549'
+        mark: '00:11:59.549'
+      end:
+        sec: '722.567'
+        mark: '00:12:02.567'
       u: Then you were there only from July to August, weren’t you?
     - who: Arthur Breslauer
-      start: '00:12:02.567'
-      end: '00:12:07.562'
+      start:
+        sec: '722.567'
+        mark: '00:12:02.567'
+      end:
+        sec: '727.562'
+        mark: '00:12:07.562'
       u: From July, July 11th to August 18th.
     - who: David Boder
-      start: '00:12:07.562'
-      end: '00:12:10.752'
+      start:
+        sec: '727.562'
+        mark: '00:12:07.562'
+      end:
+        sec: '730.752'
+        mark: '00:12:10.752'
       u: Well, that wasn’t too long. Five weeks, six weeks.
     - who: Arthur Breslauer
-      start: '00:12:10.752'
-      end: '00:12:20.300'
+      start:
+        sec: '730.752'
+        mark: '00:12:10.752'
+      end:
+        sec: '740.300'
+        mark: '00:12:20.300'
       u: Yes, but only three hundred people were taken away. The rest stayed there
         until December 7th.The second Kasztner transport actually left from Bergen-Belsen
         for Switzerland on December 6, 1944.10
     - who: David Boder
-      start: '00:12:20.300'
-      end: '00:12:21.422'
+      start:
+        sec: '740.300'
+        mark: '00:12:20.300'
+      end:
+        sec: '741.422'
+        mark: '00:12:21.422'
       u: Well?
     - who: Arthur Breslauer
-      start: '00:12:21.422'
-      end: '00:12:26.478'
+      start:
+        sec: '741.422'
+        mark: '00:12:21.422'
+      end:
+        sec: '746.478'
+        mark: '00:12:26.478'
       u: Excuse me? And on December 7th, they were also brought to Switzerland.
     - who: David Boder
-      start: '00:12:26.478'
-      end: '00:12:37.891'
+      start:
+        sec: '746.478'
+        mark: '00:12:26.478'
+      end:
+        sec: '757.891'
+        mark: '00:12:37.891'
       u: Alright. Shall we move on? You only waited in Belsen-Belsen. And how did
         your daughter get sick?
     - who: Arthur Breslauer
-      start: '00:12:37.891'
-      end: '00:12:40.780'
+      start:
+        sec: '757.891'
+        mark: '00:12:37.891'
+      end:
+        sec: '760.780'
+        mark: '00:12:40.780'
       u: She got the measles.
     - who: David Boder
-      start: '00:12:40.780'
-      end: '00:12:41.601'
+      start:
+        sec: '760.780'
+        mark: '00:12:40.780'
+      end:
+        sec: '761.601'
+        mark: '00:12:41.601'
       u: The older daughter.
     - who: Arthur Breslauer
-      start: '00:12:41.601'
-      end: '00:12:42.865'
+      start:
+        sec: '761.601'
+        mark: '00:12:41.601'
+      end:
+        sec: '762.865'
+        mark: '00:12:42.865'
       u: The older daughter.
     - who: David Boder
-      start: '00:12:42.865'
-      end: '00:12:43.738'
+      start:
+        sec: '762.865'
+        mark: '00:12:42.865'
+      end:
+        sec: '763.738'
+        mark: '00:12:43.738'
       u: Well, where was she, then, err...
     - who: Arthur Breslauer
-      start: '00:12:43.738'
-      end: '00:12:54.218'
+      start:
+        sec: '763.738'
+        mark: '00:12:43.738'
+      end:
+        sec: '774.218'
+        mark: '00:12:54.218'
       u: And since, because she, err, couldn’t be properly cared for, complications
         arose...
     - who: David Boder
-      start: '00:12:54.218'
-      end: '00:12:55.211'
+      start:
+        sec: '774.218'
+        mark: '00:12:54.218'
+      end:
+        sec: '775.211'
+        mark: '00:12:55.211'
       u: Well. The lungs.
     - who: Arthur Breslauer
-      start: '00:12:55.211'
-      end: '00:13:12.346'
+      start:
+        sec: '775.211'
+        mark: '00:12:55.211'
+      end:
+        sec: '792.346'
+        mark: '00:13:12.346'
       u: Hungary. There, she couldn’t be cured either, as would have been necessary.
         She couldn’t get the nourishment that would have to be given to a very sick
         person.
     - who: David Boder
-      start: '00:13:12.346'
-      end: '00:13:14.753'
+      start:
+        sec: '792.346'
+        mark: '00:13:12.346'
+      end:
+        sec: '794.753'
+        mark: '00:13:14.753'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:13:14.753'
-      end: '00:13:17.552'
+      start:
+        sec: '794.753'
+        mark: '00:13:14.753'
+      end:
+        sec: '797.552'
+        mark: '00:13:17.552'
       u: So, she...
     - who: David Boder
-      start: '00:13:17.552'
-      end: '00:13:23.519'
+      start:
+        sec: '797.552'
+        mark: '00:13:17.552'
+      end:
+        sec: '803.519'
+        mark: '00:13:23.519'
       u: Was she in the infirmary or with you in the quarters? With your wife in the
         quarters?
     - who: Arthur Breslauer
-      start: '00:13:23.519'
-      end: '00:13:25.153'
+      start:
+        sec: '803.519'
+        mark: '00:13:23.519'
+      end:
+        sec: '805.153'
+        mark: '00:13:25.153'
       u: With my wife in the quarters.
     - who: David Boder
-      start: '00:13:25.153'
-      end: '00:13:26.998'
+      start:
+        sec: '805.153'
+        mark: '00:13:25.153'
+      end:
+        sec: '806.998'
+        mark: '00:13:26.998'
       u: And she died in the quarters?
     - who: Arthur Breslauer
-      start: '00:13:26.998'
-      end: '00:13:28.030'
+      start:
+        sec: '806.998'
+        mark: '00:13:26.998'
+      end:
+        sec: '808.030'
+        mark: '00:13:28.030'
       u: Yes.
     - who: David Boder
-      start: '00:13:28.030'
-      end: '00:13:30.287'
+      start:
+        sec: '808.030'
+        mark: '00:13:28.030'
+      end:
+        sec: '810.287'
+        mark: '00:13:30.287'
       u: Were you allowed to bury her?
     - who: Arthur Breslauer
-      start: '00:13:30.287'
-      end: '00:13:42.182'
+      start:
+        sec: '810.287'
+        mark: '00:13:30.287'
+      end:
+        sec: '822.182'
+        mark: '00:13:42.182'
       u: No, they took her away. We brought her only as far as the gate.
     - who: David Boder
-      start: '00:13:42.182'
-      end: '00:14:08.393'
+      start:
+        sec: '822.182'
+        mark: '00:13:42.182'
+      end:
+        sec: '848.393'
+        mark: '00:14:08.393'
       u: Well? And then? Then, in August?
     - who: David Boder
-      start: '00:14:08.393'
-      end: '00:14:16.857'
+      start:
+        sec: '848.393'
+        mark: '00:14:08.393'
+      end:
+        sec: '856.857'
+        mark: '00:14:16.857'
       u: Well, in August? What happened then? [pause]
     - who: David Boder
-      start: '00:14:16.857'
-      end: '00:14:21.943'
+      start:
+        sec: '856.857'
+        mark: '00:14:16.857'
+      end:
+        sec: '861.943'
+        mark: '00:14:21.943'
       u: Then, in August, you were brought to Switzerland. How was this announced
         to you?
     - who: Arthur Breslauer
-      start: '00:14:21.943'
-      end: '00:14:35.041'
+      start:
+        sec: '861.943'
+        mark: '00:14:21.943'
+      end:
+        sec: '875.041'
+        mark: '00:14:35.041'
       u: An “Obergruppenführer” came and told us, and then decided who would come
         and who would stay.In the SS, an Obergruppenführer (literally, “Senior Group
         Leader”) was the equivalent of a general. Here, the term is most probably
         used by Breslauer to refer to a high-ranking SS officer.11
     - who: David Boder
-      start: '00:14:35.041'
-      end: '00:14:36.666'
+      start:
+        sec: '875.041'
+        mark: '00:14:35.041'
+      end:
+        sec: '876.666'
+        mark: '00:14:36.666'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:14:36.666'
-      end: '00:14:41.691'
+      start:
+        sec: '876.666'
+        mark: '00:14:36.666'
+      end:
+        sec: '881.691'
+        mark: '00:14:41.691'
       u: And, we travelled again in livestock cargo train.
     - who: David Boder
-      start: '00:14:41.691'
-      end: '00:14:44.159'
+      start:
+        sec: '881.691'
+        mark: '00:14:41.691'
+      end:
+        sec: '884.159'
+        mark: '00:14:44.159'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:14:44.159'
-      end: '00:14:46.335'
+      start:
+        sec: '884.159'
+        mark: '00:14:44.159'
+      end:
+        sec: '886.335'
+        mark: '00:14:46.335'
       u: Just like from Hungary.
     - who: David Boder
-      start: '00:14:46.335'
-      end: '00:14:48.751'
+      start:
+        sec: '886.335'
+        mark: '00:14:46.335'
+      end:
+        sec: '888.751'
+        mark: '00:14:48.751'
       u: But you were brought there together with your family?
     - who: Arthur Breslauer
-      start: '00:14:48.751'
-      end: '00:14:49.684'
+      start:
+        sec: '888.751'
+        mark: '00:14:48.751'
+      end:
+        sec: '889.684'
+        mark: '00:14:49.684'
       u: Yes.
     - who: David Boder
-      start: '00:14:49.684'
-      end: '00:14:52.212'
+      start:
+        sec: '889.684'
+        mark: '00:14:49.684'
+      end:
+        sec: '892.212'
+        mark: '00:14:52.212'
       u: Yes, well?
     - who: Arthur Breslauer
-      start: '00:14:52.212'
-      end: '00:15:00.947'
+      start:
+        sec: '892.212'
+        mark: '00:14:52.212'
+      end:
+        sec: '900.947'
+        mark: '00:15:00.947'
       u: Then, on August 21st, we arrived here in Basel.This was the transport sent
         from Bergen-Belsen to Switzerland on August 18, 1944.12
     - who: David Boder
-      start: '00:15:00.947'
-      end: '00:15:33.229'
+      start:
+        sec: '900.947'
+        mark: '00:15:00.947'
+      end:
+        sec: '933.229'
+        mark: '00:15:33.229'
       u: So, can you explain this a little bit to me? In America, if I understand
         you correctly, we have heard very little about this group. But I already talked
         to a boy, who studies here in the ORT, err—his father is also in this country—who
         also came with such a group. I think twenty-five people were chosen from somewhere
         and came here with this group. Who had organized all of this?
     - who: Arthur Breslauer
-      start: '00:15:33.229'
-      end: '00:15:38.164'
+      start:
+        sec: '933.229'
+        mark: '00:15:33.229'
+      end:
+        sec: '938.164'
+        mark: '00:15:38.164'
       u: The Zion—, err, the Zionists had.
     - who: David Boder
-      start: '00:15:38.164'
-      end: '00:15:40.060'
+      start:
+        sec: '938.164'
+        mark: '00:15:38.164'
+      end:
+        sec: '940.060'
+        mark: '00:15:40.060'
       u: Which Zionists?
     - who: Arthur Breslauer
-      start: '00:15:40.060'
-      end: '00:15:46.298'
+      start:
+        sec: '940.060'
+        mark: '00:15:40.060'
+      end:
+        sec: '946.298'
+        mark: '00:15:46.298'
       u: The Kolozsvár-Zionists had.
     - who: David Boder
-      start: '00:15:46.298'
-      end: '00:15:48.293'
+      start:
+        sec: '946.298'
+        mark: '00:15:46.298'
+      end:
+        sec: '948.293'
+        mark: '00:15:48.293'
       u: What is Kolozsvár?Kolozsvár, also known as Cluj, was the capital of Hungarian-ruled
         northern Transylvania. It had a number of politically active Zionist leaders
         including Rudolf Kasztner. Kasztner visited Kolozsvár on May 4th and 5th,
@@ -2338,286 +4486,554 @@ recording:
         were transported from the city’s ghetto to Budapest where they became part
         of the Kasztner transport.13
     - who: Arthur Breslauer
-      start: '00:15:48.293'
-      end: '00:15:52.936'
+      start:
+        sec: '948.293'
+        mark: '00:15:48.293'
+      end:
+        sec: '952.936'
+        mark: '00:15:52.936'
       u: That’s the capital of Transylvania.
     - who: David Boder
-      start: '00:15:52.936'
-      end: '00:15:54.179'
+      start:
+        sec: '952.936'
+        mark: '00:15:52.936'
+      end:
+        sec: '954.179'
+        mark: '00:15:54.179'
       u: Where is that?
     - who: Arthur Breslauer
-      start: '00:15:54.179'
-      end: '00:15:55.181'
+      start:
+        sec: '954.179'
+        mark: '00:15:54.179'
+      end:
+        sec: '955.181'
+        mark: '00:15:55.181'
       u: Hungary.
     - who: David Boder
-      start: '00:15:55.181'
-      end: '00:15:59.845'
+      start:
+        sec: '955.181'
+        mark: '00:15:55.181'
+      end:
+        sec: '959.845'
+        mark: '00:15:59.845'
       u: Oh! The Zionists of Hungary had done what?
     - who: Arthur Breslauer
-      start: '00:15:59.845'
-      end: '00:16:07.407'
+      start:
+        sec: '959.845'
+        mark: '00:15:59.845'
+      end:
+        sec: '967.407'
+        mark: '00:16:07.407'
       u: They, this group, the so-called “Alia-[unintelligible, possibly “Waren”?]-Group”.
     - who: David Boder
-      start: '00:16:07.407'
-      end: '00:16:11.719'
+      start:
+        sec: '967.407'
+        mark: '00:16:07.407'
+      end:
+        sec: '971.719'
+        mark: '00:16:11.719'
       u: Oh! It was the Alía. And they put this group together?Breslauer might be
         referring here to the Hungarian Zionist movement’s Relief and Rescue Committee
         in which Kasztner and several other Jews from Transylvania played a role.14
     - who: Arthur Breslauer
-      start: '00:16:11.719'
-      end: '00:16:13.233'
+      start:
+        sec: '971.719'
+        mark: '00:16:11.719'
+      end:
+        sec: '973.233'
+        mark: '00:16:13.233'
       u: Yes.
     - who: David Boder
-      start: '00:16:13.233'
-      end: '00:16:16.131'
+      start:
+        sec: '973.233'
+        mark: '00:16:13.233'
+      end:
+        sec: '976.131'
+        mark: '00:16:16.131'
       u: Were these mostly rich people?
     - who: Arthur Breslauer
-      start: '00:16:16.131'
-      end: '00:16:32.720'
+      start:
+        sec: '976.131'
+        mark: '00:16:16.131'
+      end:
+        sec: '992.720'
+        mark: '00:16:32.720'
       u: No. Partly. Partly it was rich people, who had paid a lot of money, to join
         this group. But there were, most of them were poor.
     - who: David Boder
-      start: '00:16:32.720'
-      end: '00:16:38.175'
+      start:
+        sec: '992.720'
+        mark: '00:16:32.720'
+      end:
+        sec: '998.175'
+        mark: '00:16:38.175'
       u: How much did you have to pay?
     - who: Arthur Breslauer
-      start: '00:16:38.175'
-      end: '00:16:39.800'
+      start:
+        sec: '998.175'
+        mark: '00:16:38.175'
+      end:
+        sec: '999.800'
+        mark: '00:16:39.800'
       u: I...[unintelligible]
     - who: David Boder
-      start: '00:16:39.800'
-      end: '00:16:41.786'
+      start:
+        sec: '999.800'
+        mark: '00:16:39.800'
+      end:
+        sec: '1001.786'
+        mark: '00:16:41.786'
       u: So...but you did pay?
     - who: Arthur Breslauer
-      start: '00:16:41.786'
-      end: '00:16:42.990'
+      start:
+        sec: '1001.786'
+        mark: '00:16:41.786'
+      end:
+        sec: '1002.990'
+        mark: '00:16:42.990'
       u: Yes.
     - who: David Boder
-      start: '00:16:42.990'
-      end: '00:16:45.135'
+      start:
+        sec: '1002.990'
+        mark: '00:16:42.990'
+      end:
+        sec: '1005.135'
+        mark: '00:16:45.135'
       u: Also for your family.
     - who: Arthur Breslauer
-      start: '00:16:45.135'
-      end: '00:16:46.399'
+      start:
+        sec: '1005.135'
+        mark: '00:16:45.135'
+      end:
+        sec: '1006.399'
+        mark: '00:16:46.399'
       u: "[unintelligible]"
     - who: David Boder
-      start: '00:16:46.399'
-      end: '00:17:00.030'
+      start:
+        sec: '1006.399'
+        mark: '00:16:46.399'
+      end:
+        sec: '1020.030'
+        mark: '00:17:00.030'
       u: So, with this money, other, poorer people could be taken with this group
         as well. Well. And? How did you manage the risk to trust the Germans?
     - who: Arthur Breslauer
-      start: '00:17:00.030'
-      end: '00:17:02.467'
+      start:
+        sec: '1020.030'
+        mark: '00:17:00.030'
+      end:
+        sec: '1022.467'
+        mark: '00:17:02.467'
       u: We had no other choice.
     - who: David Boder
-      start: '00:17:02.467'
-      end: '00:17:02.979'
+      start:
+        sec: '1022.467'
+        mark: '00:17:02.467'
+      end:
+        sec: '1022.979'
+        mark: '00:17:02.979'
       u: I see.
     - who: Arthur Breslauer
-      start: '00:17:02.979'
-      end: '00:17:13.249'
+      start:
+        sec: '1022.979'
+        mark: '00:17:02.979'
+      end:
+        sec: '1033.249'
+        mark: '00:17:13.249'
       u: We were dead certain, that if we stay we would get...
     - who: David Boder
-      start: '00:17:13.249'
-      end: '00:17:13.980'
+      start:
+        sec: '1033.249'
+        mark: '00:17:13.249'
+      end:
+        sec: '1033.980'
+        mark: '00:17:13.980'
       u: Annihilated.
     - who: Arthur Breslauer
-      start: '00:17:13.980'
-      end: '00:17:15.394'
+      start:
+        sec: '1033.980'
+        mark: '00:17:13.980'
+      end:
+        sec: '1035.394'
+        mark: '00:17:15.394'
       u: Annihilated.
     - who: David Boder
-      start: '00:17:15.394'
-      end: '00:17:16.026'
+      start:
+        sec: '1035.394'
+        mark: '00:17:15.394'
+      end:
+        sec: '1036.026'
+        mark: '00:17:16.026'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:17:16.026'
-      end: '00:17:27.310'
+      start:
+        sec: '1036.026'
+        mark: '00:17:16.026'
+      end:
+        sec: '1047.310'
+        mark: '00:17:27.310'
       u: So we calculated that our chances were around ten or twenty percent...
     - who: David Boder
-      start: '00:17:27.310'
-      end: '00:17:33.780'
+      start:
+        sec: '1047.310'
+        mark: '00:17:27.310'
+      end:
+        sec: '1053.780'
+        mark: '00:17:33.780'
       u: Were the Germans paid for this? Was it a bribe?
     - who: Arthur Breslauer
-      start: '00:17:33.780'
-      end: '00:17:40.920'
+      start:
+        sec: '1053.780'
+        mark: '00:17:33.780'
+      end:
+        sec: '1060.920'
+        mark: '00:17:40.920'
       u: It was an agreement. This group in exchange for goods...
     - who: David Boder
-      start: '00:17:40.920'
-      end: '00:17:41.643'
+      start:
+        sec: '1060.920'
+        mark: '00:17:40.920'
+      end:
+        sec: '1061.643'
+        mark: '00:17:41.643'
       u: In exchange for what?
     - who: Arthur Breslauer
-      start: '00:17:41.643'
-      end: '00:17:43.096'
+      start:
+        sec: '1061.643'
+        mark: '00:17:41.643'
+      end:
+        sec: '1063.096'
+        mark: '00:17:43.096'
       u: For goods. For goods, [they] were taken.
     - who: David Boder
-      start: '00:17:43.096'
-      end: '00:17:43.337'
+      start:
+        sec: '1063.096'
+        mark: '00:17:43.096'
+      end:
+        sec: '1063.337'
+        mark: '00:17:43.337'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:17:43.337'
-      end: '00:17:47.941'
+      start:
+        sec: '1063.337'
+        mark: '00:17:43.337'
+      end:
+        sec: '1067.941'
+        mark: '00:17:47.941'
       u: War-relevant goods. But I don’t know any details.In fact, this exchange for
         war-related goods never took place due to the opposition of Allied governments.15
     - who: David Boder
-      start: '00:17:47.941'
-      end: '00:17:57.428'
+      start:
+        sec: '1067.941'
+        mark: '00:17:47.941'
+      end:
+        sec: '1077.428'
+        mark: '00:17:57.428'
       u: Yes, well? Tell me, what did the other Jews do, when they learned about the
         formation of this special group?
     - who: Arthur Breslauer
-      start: '00:17:57.428'
-      end: '00:18:14.006'
+      start:
+        sec: '1077.428'
+        mark: '00:17:57.428'
+      end:
+        sec: '1094.006'
+        mark: '00:18:14.006'
       u: It was, the organization wasn’t really well known. And as we, even before
         we left, a second group was formed.
     - who: David Boder
-      start: '00:18:14.006'
-      end: '00:18:14.346'
+      start:
+        sec: '1094.006'
+        mark: '00:18:14.006'
+      end:
+        sec: '1094.346'
+        mark: '00:18:14.346'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:18:14.346'
-      end: '00:18:18.438'
+      start:
+        sec: '1094.346'
+        mark: '00:18:14.346'
+      end:
+        sec: '1098.438'
+        mark: '00:18:18.438'
       u: With the goal to free...
     - who: David Boder
-      start: '00:18:18.438'
-      end: '00:18:20.725'
+      start:
+        sec: '1098.438'
+        mark: '00:18:18.438'
+      end:
+        sec: '1100.725'
+        mark: '00:18:20.725'
       u: To free more people in this way.
     - who: Arthur Breslauer
-      start: '00:18:20.725'
-      end: '00:18:21.146'
+      start:
+        sec: '1100.725'
+        mark: '00:18:20.725'
+      end:
+        sec: '1101.146'
+        mark: '00:18:21.146'
       u: Free more people in this way.
     - who: David Boder
-      start: '00:18:21.146'
-      end: '00:18:22.892'
+      start:
+        sec: '1101.146'
+        mark: '00:18:21.146'
+      end:
+        sec: '1102.892'
+        mark: '00:18:22.892'
       u: Did it work out?
     - who: Arthur Breslauer
-      start: '00:18:22.892'
-      end: '00:18:24.466'
+      start:
+        sec: '1102.892'
+        mark: '00:18:22.892'
+      end:
+        sec: '1104.466'
+        mark: '00:18:24.466'
       u: Unfortunately not.Indeed, Kasztner saw the transport he organized as an initial
         effort to rescue Jews. He hoped, in vain as it turned out, that it would set
         a precedent for subsequent transports.16
     - who: David Boder
-      start: '00:18:24.466'
-      end: '00:18:28.989'
+      start:
+        sec: '1104.466'
+        mark: '00:18:24.466'
+      end:
+        sec: '1108.989'
+        mark: '00:18:28.989'
       u: So, you left, about three hundred people. They were...
     - who: Arthur Breslauer
-      start: '00:18:28.989'
-      end: '00:18:29.780'
+      start:
+        sec: '1108.989'
+        mark: '00:18:28.989'
+      end:
+        sec: '1109.780'
+        mark: '00:18:29.780'
       u: Where?
     - who: David Boder
-      start: '00:18:29.780'
-      end: '00:18:31.074'
+      start:
+        sec: '1109.780'
+        mark: '00:18:29.780'
+      end:
+        sec: '1111.074'
+        mark: '00:18:31.074'
       u: Belsen-Belsen.
     - who: Arthur Breslauer
-      start: '00:18:31.074'
-      end: '00:18:31.496'
+      start:
+        sec: '1111.074'
+        mark: '00:18:31.074'
+      end:
+        sec: '1111.496'
+        mark: '00:18:31.496'
       u: Yes.
     - who: David Boder
-      start: '00:18:31.496'
-      end: '00:18:36.319'
+      start:
+        sec: '1111.496'
+        mark: '00:18:31.496'
+      end:
+        sec: '1116.319'
+        mark: '00:18:36.319'
       u: They were put into these livestock carriages and where were they taken? To
         Basel?
     - who: Arthur Breslauer
-      start: '00:18:36.319'
-      end: '00:18:37.252'
+      start:
+        sec: '1116.319'
+        mark: '00:18:36.319'
+      end:
+        sec: '1117.252'
+        mark: '00:18:37.252'
       u: To Basel.
     - who: David Boder
-      start: '00:18:37.252'
-      end: '00:18:42.277'
+      start:
+        sec: '1117.252'
+        mark: '00:18:37.252'
+      end:
+        sec: '1122.277'
+        mark: '00:18:42.277'
       u: Who received you on the Swiss border?
     - who: Arthur Breslauer
-      start: '00:18:42.277'
-      end: '00:18:46.069'
+      start:
+        sec: '1122.277'
+        mark: '00:18:42.277'
+      end:
+        sec: '1126.069'
+        mark: '00:18:46.069'
       u: In Switzerland, the, err, the Red Cross received us.
     - who: David Boder
-      start: '00:18:46.069'
-      end: '00:18:47.793'
+      start:
+        sec: '1126.069'
+        mark: '00:18:46.069'
+      end:
+        sec: '1127.793'
+        mark: '00:18:47.793'
       u: They already knew about it.
     - who: Arthur Breslauer
-      start: '00:18:47.793'
-      end: '00:18:50.020'
+      start:
+        sec: '1127.793'
+        mark: '00:18:47.793'
+      end:
+        sec: '1130.020'
+        mark: '00:18:50.020'
       u: Yes. We had been announced.
     - who: David Boder
-      start: '00:18:50.020'
-      end: '00:18:53.820'
+      start:
+        sec: '1130.020'
+        mark: '00:18:50.020'
+      end:
+        sec: '1133.820'
+        mark: '00:18:53.820'
       u: So, how far did the Germans go with you?
     - who: Arthur Breslauer
-      start: '00:18:53.820'
-      end: '00:18:56.318'
+      start:
+        sec: '1133.820'
+        mark: '00:18:53.820'
+      end:
+        sec: '1136.318'
+        mark: '00:18:56.318'
       u: To the border.
     - who: David Boder
-      start: '00:18:56.318'
-      end: '00:18:57.982'
+      start:
+        sec: '1136.318'
+        mark: '00:18:56.318'
+      end:
+        sec: '1137.982'
+        mark: '00:18:57.982'
       u: 'Were you [frisked] there?Translator’s note: The German original uses “verpediert.”
         Even though it sounds like a German participle, no such word exists in German.
         What he means, probably, is “searched” or “frisked.”17'
     - who: Arthur Breslauer
-      start: '00:18:57.982'
-      end: '00:19:00.248'
+      start:
+        sec: '1137.982'
+        mark: '00:18:57.982'
+      end:
+        sec: '1140.248'
+        mark: '00:19:00.248'
       u: Oh yes! Very thoroughly.
     - who: David Boder
-      start: '00:19:00.248'
-      end: '00:19:01.762'
+      start:
+        sec: '1140.248'
+        mark: '00:19:00.248'
+      end:
+        sec: '1141.762'
+        mark: '00:19:01.762'
       u: How?
     - who: Arthur Breslauer
-      start: '00:19:01.762'
-      end: '00:19:04.750'
+      start:
+        sec: '1141.762'
+        mark: '00:19:01.762'
+      end:
+        sec: '1144.750'
+        mark: '00:19:04.750'
       u: They rummaged through everything. Everything.
     - who: David Boder
-      start: '00:19:04.750'
-      end: '00:19:07.016'
+      start:
+        sec: '1144.750'
+        mark: '00:19:04.750'
+      end:
+        sec: '1147.016'
+        mark: '00:19:07.016'
       u: Why? What did they want now?
     - who: Arthur Breslauer
-      start: '00:19:07.016'
-      end: '00:19:17.165'
+      start:
+        sec: '1147.016'
+        mark: '00:19:07.016'
+      end:
+        sec: '1157.165'
+        mark: '00:19:17.165'
       u: Papers, letters, books, valuables?
     - who: David Boder
-      start: '00:19:17.165'
-      end: '00:19:20.084'
+      start:
+        sec: '1157.165'
+        mark: '00:19:17.165'
+      end:
+        sec: '1160.084'
+        mark: '00:19:20.084'
       u: People still had valuables?
     - who: Arthur Breslauer
-      start: '00:19:20.084'
-      end: '00:19:23.484'
+      start:
+        sec: '1160.084'
+        mark: '00:19:20.084'
+      end:
+        sec: '1163.484'
+        mark: '00:19:23.484'
       u: Some might have rescued some things.
     - who: David Boder
-      start: '00:19:23.484'
-      end: '00:19:29.563'
+      start:
+        sec: '1163.484'
+        mark: '00:19:23.484'
+      end:
+        sec: '1169.563'
+        mark: '00:19:29.563'
       u: Yes. Well, and they took all that away? And then what did they do with the
         train?
     - who: Arthur Breslauer
-      start: '00:19:29.563'
-      end: '00:19:33.815'
+      start:
+        sec: '1169.563'
+        mark: '00:19:29.563'
+      end:
+        sec: '1173.815'
+        mark: '00:19:33.815'
       u: They cleared the train for customs and let it pass the border.
     - who: David Boder
-      start: '00:19:33.815'
-      end: '00:19:35.660'
+      start:
+        sec: '1173.815'
+        mark: '00:19:33.815'
+      end:
+        sec: '1175.660'
+        mark: '00:19:35.660'
       u: The locomotive pulled...
     - who: Arthur Breslauer
-      start: '00:19:35.660'
-      end: '00:19:35.850'
+      start:
+        sec: '1175.660'
+        mark: '00:19:35.660'
+      end:
+        sec: '1175.850'
+        mark: '00:19:35.850'
       u: Yes.
     - who: David Boder
-      start: '00:19:35.850'
-      end: '00:19:40.673'
+      start:
+        sec: '1175.850'
+        mark: '00:19:35.850'
+      end:
+        sec: '1180.673'
+        mark: '00:19:40.673'
       u: Pulled the train. Yes, well? And the Red Cross was already on the other side?
     - who: Arthur Breslauer
-      start: '00:19:40.673'
-      end: '00:19:50.633'
+      start:
+        sec: '1180.673'
+        mark: '00:19:40.673'
+      end:
+        sec: '1190.633'
+        mark: '00:19:50.633'
       u: They already welcomed us. The happiness that the group felt at that point
         is indescribable!
     - who: David Boder
-      start: '00:19:50.633'
-      end: '00:19:52.379'
+      start:
+        sec: '1190.633'
+        mark: '00:19:50.633'
+      end:
+        sec: '1192.379'
+        mark: '00:19:52.379'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:19:52.379'
-      end: '00:19:57.654'
+      start:
+        sec: '1192.379'
+        mark: '00:19:52.379'
+      end:
+        sec: '1197.654'
+        mark: '00:19:57.654'
       u: Switzerland received us very well. Right away, it...
     - who: David Boder
-      start: '00:19:57.654'
-      end: '00:19:58.776'
+      start:
+        sec: '1197.654'
+        mark: '00:19:57.654'
+      end:
+        sec: '1198.776'
+        mark: '00:19:58.776'
       u: A little louder!
     - who: Arthur Breslauer
-      start: '00:19:58.776'
-      end: '00:20:23.759'
+      start:
+        sec: '1198.776'
+        mark: '00:19:58.776'
+      end:
+        sec: '1223.759'
+        mark: '00:20:23.759'
       u: Right away, then, we were given soup and fruits; we were taken to a bathhouse.
         And afterwards, they accommodated us and after three days we were taken to
         different places in the country. We came to Montreux.Although neutral Switzerland
@@ -2626,56 +5042,104 @@ recording:
         their country and, both before and during the war, abandoned to their fate
         many thousands fleeing for their lives.18
     - who: David Boder
-      start: '00:20:23.759'
-      end: '00:20:29.004'
+      start:
+        sec: '1223.759'
+        mark: '00:20:23.759'
+      end:
+        sec: '1229.004'
+        mark: '00:20:29.004'
       u: The Zionist organization, the representatives were there?
     - who: Arthur Breslauer
-      start: '00:20:29.004'
-      end: '00:20:31.300'
+      start:
+        sec: '1229.004'
+        mark: '00:20:29.004'
+      end:
+        sec: '1231.300'
+        mark: '00:20:31.300'
       u: Only those who had come with us.
     - who: David Boder
-      start: '00:20:31.300'
-      end: '00:20:32.663'
+      start:
+        sec: '1231.300'
+        mark: '00:20:31.300'
+      end:
+        sec: '1232.663'
+        mark: '00:20:32.663'
       u: Only those who had come with you.
     - who: Arthur Breslauer
-      start: '00:20:32.663'
-      end: '00:20:32.753'
+      start:
+        sec: '1232.663'
+        mark: '00:20:32.663'
+      end:
+        sec: '1232.753'
+        mark: '00:20:32.753'
       u: Yes.
     - who: David Boder
-      start: '00:20:32.753'
-      end: '00:20:35.251'
+      start:
+        sec: '1232.753'
+        mark: '00:20:32.753'
+      end:
+        sec: '1235.251'
+        mark: '00:20:35.251'
       u: So, now Zionists from Switzerland received...
     - who: Arthur Breslauer
-      start: '00:20:35.251'
-      end: '00:20:37.457'
+      start:
+        sec: '1235.251'
+        mark: '00:20:35.251'
+      end:
+        sec: '1237.457'
+        mark: '00:20:37.457'
       u: No, they didn’t meet us then yet.
     - who: David Boder
-      start: '00:20:37.457'
-      end: '00:20:38.339'
+      start:
+        sec: '1237.457'
+        mark: '00:20:37.457'
+      end:
+        sec: '1238.339'
+        mark: '00:20:38.339'
       u: Well?
     - who: Arthur Breslauer
-      start: '00:20:38.339'
-      end: '00:20:46.954'
+      start:
+        sec: '1238.339'
+        mark: '00:20:38.339'
+      end:
+        sec: '1246.954'
+        mark: '00:20:46.954'
       u: Only later the group leaders met with the organizations.Major international
         Jewish organizations such as the Joint, World Jewish Congress and the He-Halutz
         Zionist body had branches in Geneva, Switzerland. They engaged in rescue and
         relief efforts on behalf of European Jewry.19
     - who: David Boder
-      start: '00:20:46.954'
-      end: '00:21:04.145'
+      start:
+        sec: '1246.954'
+        mark: '00:20:46.954'
+      end:
+        sec: '1264.145'
+        mark: '00:21:04.145'
       u: Yes. So, you...altogether Belsen-Belsen wasn’t that bad for you, except the
         tragic incident with your daughter. Personally, how were you treated?
     - who: Arthur Breslauer
-      start: '00:21:04.145'
-      end: '00:21:08.668'
+      start:
+        sec: '1264.145'
+        mark: '00:21:04.145'
+      end:
+        sec: '1268.668'
+        mark: '00:21:08.668'
       u: Oh! We were treated very strictly.
     - who: David Boder
-      start: '00:21:08.668'
-      end: '00:21:11.084'
+      start:
+        sec: '1268.668'
+        mark: '00:21:08.668'
+      end:
+        sec: '1271.084'
+        mark: '00:21:11.084'
       u: Were fights rare?
     - who: Arthur Breslauer
-      start: '00:21:11.084'
-      end: '00:21:25.166'
+      start:
+        sec: '1271.084'
+        mark: '00:21:11.084'
+      end:
+        sec: '1285.166'
+        mark: '00:21:25.166'
       u: There were, err, no fights in our, our group. But next door, we saw how the
         people were beaten. They were Jews from Holland.Breslauer is referring to
         Bergen-Belsen’s “star camp,” so-called because inmates could wear their own
@@ -2686,212 +5150,404 @@ recording:
         designated for potential exchange for German nationals under Allied rule whom
         the Germans wished to repatriate.20
     - who: David Boder
-      start: '00:21:25.166'
-      end: '00:21:25.889'
+      start:
+        sec: '1285.166'
+        mark: '00:21:25.166'
+      end:
+        sec: '1285.889'
+        mark: '00:21:25.889'
       u: From Holland?
     - who: Arthur Breslauer
-      start: '00:21:25.889'
-      end: '00:21:26.590'
+      start:
+        sec: '1285.889'
+        mark: '00:21:25.889'
+      end:
+        sec: '1286.590'
+        mark: '00:21:26.590'
       u: Yes.
     - who: David Boder
-      start: '00:21:26.590'
-      end: '00:21:27.493'
+      start:
+        sec: '1286.590'
+        mark: '00:21:26.590'
+      end:
+        sec: '1287.493'
+        mark: '00:21:27.493'
       u: Well?
     - who: Arthur Breslauer
-      start: '00:21:27.493'
-      end: '00:21:30.902'
+      start:
+        sec: '1287.493'
+        mark: '00:21:27.493'
+      end:
+        sec: '1290.902'
+        mark: '00:21:30.902'
       u: They were, they did hard...
     - who: David Boder
-      start: '00:21:30.902'
-      end: '00:21:31.053'
+      start:
+        sec: '1290.902'
+        mark: '00:21:30.902'
+      end:
+        sec: '1291.053'
+        mark: '00:21:31.053'
       u: Labor.
     - who: Arthur Breslauer
-      start: '00:21:31.053'
-      end: '00:21:32.567'
+      start:
+        sec: '1291.053'
+        mark: '00:21:31.053'
+      end:
+        sec: '1292.567'
+        mark: '00:21:32.567'
       u: Labor.
     - who: David Boder
-      start: '00:21:32.567'
-      end: '00:21:33.479'
+      start:
+        sec: '1292.567'
+        mark: '00:21:32.567'
+      end:
+        sec: '1293.479'
+        mark: '00:21:33.479'
       u: Hmm.
     - who: Arthur Breslauer
-      start: '00:21:33.479'
-      end: '00:21:37.279'
+      start:
+        sec: '1293.479'
+        mark: '00:21:33.479'
+      end:
+        sec: '1297.279'
+        mark: '00:21:37.279'
       u: And were very much abused.
     - who: David Boder
-      start: '00:21:37.279'
-      end: '00:21:41.221'
+      start:
+        sec: '1297.279'
+        mark: '00:21:37.279'
+      end:
+        sec: '1301.221'
+        mark: '00:21:41.221'
       u: Well? But that didn’t happen in your barracks?
     - who: Arthur Breslauer
-      start: '00:21:41.221'
-      end: '00:21:41.943'
+      start:
+        sec: '1301.221'
+        mark: '00:21:41.221'
+      end:
+        sec: '1301.943'
+        mark: '00:21:41.943'
       u: No.
     - who: David Boder
-      start: '00:21:41.943'
-      end: '00:21:45.223'
+      start:
+        sec: '1301.943'
+        mark: '00:21:41.943'
+      end:
+        sec: '1305.223'
+        mark: '00:21:45.223'
       u: And the Blockältester was elected by you or by the...?
     - who: Arthur Breslauer
-      start: '00:21:45.223'
-      end: '00:21:48.783'
+      start:
+        sec: '1305.223'
+        mark: '00:21:45.223'
+      end:
+        sec: '1308.783'
+        mark: '00:21:48.783'
       u: Yes, the so-called “Jewish Elder.”In German, “Judenältester.”21
     - who: David Boder
-      start: '00:21:48.783'
-      end: '00:21:49.334'
+      start:
+        sec: '1308.783'
+        mark: '00:21:48.783'
+      end:
+        sec: '1309.334'
+        mark: '00:21:49.334'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:21:49.334'
-      end: '00:21:51.690'
+      start:
+        sec: '1309.334'
+        mark: '00:21:49.334'
+      end:
+        sec: '1311.690'
+        mark: '00:21:51.690'
       u: Was...by us.
     - who: David Boder
-      start: '00:21:51.690'
-      end: '00:21:58.400'
+      start:
+        sec: '1311.690'
+        mark: '00:21:51.690'
+      end:
+        sec: '1318.400'
+        mark: '00:21:58.400'
       u: Well? And then, what happened in Switzerland? What did you do then?
     - who: Arthur Breslauer
-      start: '00:21:58.400'
-      end: '00:22:06.163'
+      start:
+        sec: '1318.400'
+        mark: '00:21:58.400'
+      end:
+        sec: '1326.163'
+        mark: '00:22:06.163'
       u: 'We then came into an “Auffangsaal” and after six weeks they...Translator’s
         note: Literally, something like a reception hall. “Auffang” in combination
         with “lager” usually refers to a refugee’s camp. Breslauer probably means
         a room, or a hall, in which refugees were received and housed.22'
     - who: David Boder
-      start: '00:22:06.163'
-      end: '00:22:07.187'
+      start:
+        sec: '1326.163'
+        mark: '00:22:06.163'
+      end:
+        sec: '1327.187'
+        mark: '00:22:07.187'
       u: Yes.
     - who: Arthur Breslauer
-      start: '00:22:07.187'
-      end: '00:22:17.607'
+      start:
+        sec: '1327.187'
+        mark: '00:22:07.187'
+      end:
+        sec: '1337.607'
+        mark: '00:22:17.607'
       u: Brought us to a home. And I have been here since six months and am doing
         the embroidery training.
     - who: David Boder
-      start: '00:22:17.607'
-      end: '00:22:20.526'
+      start:
+        sec: '1337.607'
+        mark: '00:22:17.607'
+      end:
+        sec: '1340.526'
+        mark: '00:22:20.526'
       u: I see. You’ve lived here since six months and why...[unintelligible]
     - who: Arthur Breslauer
-      start: '00:22:20.526'
-      end: '00:22:21.188'
+      start:
+        sec: '1340.526'
+        mark: '00:22:20.526'
+      end:
+        sec: '1341.188'
+        mark: '00:22:21.188'
       u: Yes.
     - who: David Boder
-      start: '00:22:21.188'
-      end: '00:22:26.845'
+      start:
+        sec: '1341.188'
+        mark: '00:22:21.188'
+      end:
+        sec: '1346.845'
+        mark: '00:22:26.845'
       u: "[unintelligible] Well, as you say, you were a businessman before?"
     - who: Arthur Breslauer
-      start: '00:22:26.845'
-      end: '00:22:27.366'
+      start:
+        sec: '1346.845'
+        mark: '00:22:26.845'
+      end:
+        sec: '1347.366'
+        mark: '00:22:27.366'
       u: Yes.
     - who: David Boder
-      start: '00:22:27.366'
-      end: '00:22:32.129'
+      start:
+        sec: '1347.366'
+        mark: '00:22:27.366'
+      end:
+        sec: '1352.129'
+        mark: '00:22:32.129'
       u: Didn’t you have any plans to go back to the same profession?
     - who: Arthur Breslauer
-      start: '00:22:32.129'
-      end: '00:22:40.946'
+      start:
+        sec: '1352.129'
+        mark: '00:22:32.129'
+      end:
+        sec: '1360.946'
+        mark: '00:22:40.946'
       u: Well, if I had the opportunity to emigrate, to be able to emigrate to America,
         I could find a job in it.
     - who: David Boder
-      start: '00:22:40.946'
-      end: '00:22:42.971'
+      start:
+        sec: '1360.946'
+        mark: '00:22:40.946'
+      end:
+        sec: '1362.971'
+        mark: '00:22:42.971'
       u: Do you have relatives there?
     - who: Arthur Breslauer
-      start: '00:22:42.971'
-      end: '00:22:55.218'
+      start:
+        sec: '1362.971'
+        mark: '00:22:42.971'
+      end:
+        sec: '1375.218'
+        mark: '00:22:55.218'
       u: Unfortunately we don’t have relatives, only acquaintances. My father-in-law—God
         bless him—was a very famous scholar.Since Mrs. Breslauer’s maiden name is
         not indicated, the identity of her father could not be determined.23
     - who: David Boder
-      start: '00:22:55.218'
-      end: '00:22:56.190'
+      start:
+        sec: '1375.218'
+        mark: '00:22:55.218'
+      end:
+        sec: '1376.190'
+        mark: '00:22:56.190'
       u: Where?
     - who: Arthur Breslauer
-      start: '00:22:56.190'
-      end: '00:23:05.738'
+      start:
+        sec: '1376.190'
+        mark: '00:22:56.190'
+      end:
+        sec: '1385.738'
+        mark: '00:23:05.738'
       u: In Hungary. And he is also well known in America, and very renowned and respected.
     - who: David Boder
-      start: '00:23:05.738'
-      end: '00:23:07.282'
+      start:
+        sec: '1385.738'
+        mark: '00:23:05.738'
+      end:
+        sec: '1387.282'
+        mark: '00:23:07.282'
       u: So you do have relatives!
     - who: Arthur Breslauer
-      start: '00:23:07.282'
-      end: '00:23:10.240'
+      start:
+        sec: '1387.282'
+        mark: '00:23:07.282'
+      end:
+        sec: '1390.240'
+        mark: '00:23:10.240'
       u: Relatives, no, only acquaintances, and err...
     - who: David Boder
-      start: '00:23:10.240'
-      end: '00:23:12.355'
+      start:
+        sec: '1390.240'
+        mark: '00:23:10.240'
+      end:
+        sec: '1392.355'
+        mark: '00:23:12.355'
       u: So, the father-in-law is already dead.
     - who: Arthur Breslauer
-      start: '00:23:12.355'
-      end: '00:23:14.401'
+      start:
+        sec: '1392.355'
+        mark: '00:23:12.355'
+      end:
+        sec: '1394.401'
+        mark: '00:23:14.401'
       u: Dead, since 10 years.
     - who: David Boder
-      start: '00:23:14.401'
-      end: '00:23:21.382'
+      start:
+        sec: '1394.401'
+        mark: '00:23:14.401'
+      end:
+        sec: '1401.382'
+        mark: '00:23:21.382'
       u: Oh! And now? What is your plan, after you’ve learned the trade? What do you
         want to do?
     - who: Arthur Breslauer
-      start: '00:23:21.382'
-      end: '00:23:24.121'
+      start:
+        sec: '1401.382'
+        mark: '00:23:21.382'
+      end:
+        sec: '1404.121'
+        mark: '00:23:24.121'
       u: Either to Erez.
     - who: David Boder
-      start: '00:23:24.121'
-      end: '00:23:25.454'
+      start:
+        sec: '1404.121'
+        mark: '00:23:24.121'
+      end:
+        sec: '1405.454'
+        mark: '00:23:25.454'
       u: So, to Israel...
     - who: Arthur Breslauer
-      start: '00:23:25.454'
-      end: '00:23:45.533'
+      start:
+        sec: '1405.454'
+        mark: '00:23:25.454'
+      end:
+        sec: '1425.533'
+        mark: '00:23:45.533'
       u: Yes, or, which is something I’d rather do, to America, because in America
         I would have better chances. I am after all an experienced businessman and
         experienced stock broker.
     - who: David Boder
-      start: '00:23:45.533'
-      end: '00:23:49.866'
+      start:
+        sec: '1425.533'
+        mark: '00:23:45.533'
+      end:
+        sec: '1429.866'
+        mark: '00:23:49.866'
       u: Did you not think of South America?
     - who: Arthur Breslauer
-      start: '00:23:49.866'
-      end: '00:23:53.252'
+      start:
+        sec: '1429.866'
+        mark: '00:23:49.866'
+      end:
+        sec: '1433.252'
+        mark: '00:23:53.252'
       u: If necessary. It’s not out of the question.
     - who: David Boder
-      start: '00:23:53.252'
-      end: '00:24:12.128'
+      start:
+        sec: '1433.252'
+        mark: '00:23:53.252'
+      end:
+        sec: '1452.128'
+        mark: '00:24:12.128'
       u: Because, you see, in America they don’t want, at least that’s what I think,
         don’t want the businessmen right away, but in South America, most of those
         people, most of the craftsmen who later became businessmen have established
         themselves very well.
     - who: Arthur Breslauer
-      start: '00:24:12.128'
-      end: '00:24:30.251'
+      start:
+        sec: '1452.128'
+        mark: '00:24:12.128'
+      end:
+        sec: '1470.251'
+        mark: '00:24:30.251'
       u: Yes indeed! After I have learned this new trade, I do not view myself only
         as a businessman, but also as a craftsman. And I could sustain myself very
         nicely with my new profession.
     - who: David Boder
-      start: '00:24:30.251'
-      end: '00:24:32.719'
+      start:
+        sec: '1470.251'
+        mark: '00:24:30.251'
+      end:
+        sec: '1472.719'
+        mark: '00:24:32.719'
       u: And what does your wife do?
     - who: Arthur Breslauer
-      start: '00:24:32.719'
-      end: '00:24:35.191'
+      start:
+        sec: '1472.719'
+        mark: '00:24:32.719'
+      end:
+        sec: '1475.191'
+        mark: '00:24:35.191'
       u: "[unintelligible]"
     - who: David Boder
-      start: '00:24:35.191'
-      end: '00:24:37.629'
+      start:
+        sec: '1475.191'
+        mark: '00:24:35.191'
+      end:
+        sec: '1477.629'
+        mark: '00:24:37.629'
       u: Your wife, your wife does the same job?
     - who: Arthur Breslauer
-      start: '00:24:37.629'
-      end: '00:24:39.374'
+      start:
+        sec: '1477.629'
+        mark: '00:24:37.629'
+      end:
+        sec: '1479.374'
+        mark: '00:24:39.374'
       u: My wife is also learning a new trade.Like so many other survivors, the Breslauers
         were diligently preparing to begin new postwar lives.24
     - who: David Boder
-      start: '00:24:39.374'
-      end: '00:24:40.848'
+      start:
+        sec: '1479.374'
+        mark: '00:24:39.374'
+      end:
+        sec: '1480.848'
+        mark: '00:24:40.848'
       u: Is she here now?
     - who: Arthur Breslauer
-      start: '00:24:40.848'
-      end: '00:24:46.596'
+      start:
+        sec: '1480.848'
+        mark: '00:24:40.848'
+      end:
+        sec: '1486.596'
+        mark: '00:24:46.596'
       u: Unfortunately not, she is with the kids.
     - who: David Boder
-      start: '00:24:46.596'
-      end: '00:24:48.401'
+      start:
+        sec: '1486.596'
+        mark: '00:24:46.596'
+      end:
+        sec: '1488.401'
+        mark: '00:24:48.401'
       u: Where is the kid? Out in the country?
     - who: Arthur Breslauer
-      start: '00:24:48.401'
-      end: '00:24:47.386'
+      start:
+        sec: '1488.401'
+        mark: '00:24:48.401'
+      end:
+        sec: '1487.386'
+        mark: '00:24:47.386'
       u: Yes.
   commentary:
     text: "<p>Arthur Breslauer, the Hungarian-born 54-year-old subject of this interview,

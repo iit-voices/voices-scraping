@@ -37,8 +37,12 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[In English] Germany, September the 12th [23rd], 1946. Feldafing about 30
         kilometers from Munich, a camp for displaced...a camp for displaced Jews covering
         about forty-five hundred people. Part of the camp is located [?] in a form
@@ -57,78 +61,138 @@ recording:
         post-armistice refugees from Poland, etc.] Some probably receive it from the
         States, and South America, and Africa. And the black market also helps."
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:02.377'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '2.377'
+        mark: '00:00:02.377'
       u: 'We are now going to interview Mr. Max Meyer Sprecher, 37 years old. He is
         at present...at present a student of medicine at Heidelberg University. He
         was a student before, and continues his medical student...[correction] studies
         now. He is going to speak to us in Yiddish...[Note: for some reason this interview
         was abruptly interrupted. The continuation is on spool 147.]'
     - who: David Boder
-      start: '00:00:02.377'
-      end: '00:00:28.792'
+      start:
+        sec: '2.377'
+        mark: '00:00:02.377'
+      end:
+        sec: '28.792'
+        mark: '00:00:28.792'
       u: "[In English] This concludes the interview with [unintelligible], and we
         are going over to an interview again with Mr. Max Meyer Sprecher, with whom
         we started on Spool 146. Munich, September the 23rd...Munich, September the
         23rd, 1946. We are not working here exactly under very ideal conditions."
     - who: David Boder
-      start: '00:00:28.792'
-      end: '00:00:33.443'
+      start:
+        sec: '28.792'
+        mark: '00:00:28.792'
+      end:
+        sec: '33.443'
+        mark: '00:00:33.443'
       u: "[In German] [unintelligible] And so Mr. Sprecher will you please tell me
         again where you were when the war started. Were you over in Germany?"
     - who: Max Sprecher
-      start: '00:00:33.443'
-      end: '00:00:45.879'
+      start:
+        sec: '33.443'
+        mark: '00:00:33.443'
+      end:
+        sec: '45.879'
+        mark: '00:00:45.879'
       u: "[In Yiddish] I was then..."
     - who: David Boder
-      start: '00:00:45.879'
-      end: '00:00:47.062'
+      start:
+        sec: '45.879'
+        mark: '00:00:45.879'
+      end:
+        sec: '47.062'
+        mark: '00:00:47.062'
       u: Yes. Talk Yiddish.
     - who: Max Sprecher
-      start: '00:00:47.062'
-      end: '00:01:08.556'
+      start:
+        sec: '47.062'
+        mark: '00:00:47.062'
+      end:
+        sec: '68.556'
+        mark: '00:01:08.556'
       u: I was then in Germany. I returned from the refugee camp in Beuthen on the
         German-Polish border. I was in ’38, the 28th of October, ’38, sent together
         with the Polish Jews from Germany to Poland.
     - who: David Boder
-      start: '00:01:08.556'
-      end: '00:01:10.370'
+      start:
+        sec: '68.556'
+        mark: '00:01:08.556'
+      end:
+        sec: '70.370'
+        mark: '00:01:10.370'
       u: From what city were you sent?
     - who: Max Sprecher
-      start: '00:01:10.370'
-      end: '00:01:17.420'
+      start:
+        sec: '70.370'
+        mark: '00:01:10.370'
+      end:
+        sec: '77.420'
+        mark: '00:01:17.420'
       u: From Berlin. Together with many thousand Polish Jews over the ‘green border’
         to Poland. [‘green border’ apparently means the border line away from official
         points of entrance.]
     - who: David Boder
-      start: '00:01:17.420'
-      end: '00:01:20.167'
+      start:
+        sec: '77.420'
+        mark: '00:01:17.420'
+      end:
+        sec: '80.167'
+        mark: '00:01:20.167'
       u: Had Germany then occupied Poland?
     - who: Max Sprecher
-      start: '00:01:20.167'
-      end: '00:01:28.270'
+      start:
+        sec: '80.167'
+        mark: '00:01:20.167'
+      end:
+        sec: '88.270'
+        mark: '00:01:28.270'
       u: No, there was an ‘action’ specifically directed...
     - who: David Boder
-      start: '00:01:28.270'
-      end: '00:01:40.804'
+      start:
+        sec: '88.270'
+        mark: '00:01:28.270'
+      end:
+        sec: '100.804'
+        mark: '00:01:40.804'
       u: "[In English] We were interrupted again. These are quite trying conditions,
         to work in this camp; but we are beginning now again with Mr. Sprecher."
     - who: David Boder
-      start: '00:01:40.804'
-      end: '00:01:44.558'
+      start:
+        sec: '100.804'
+        mark: '00:01:40.804'
+      end:
+        sec: '104.558'
+        mark: '00:01:44.558'
       u: "[In German] So let us continue. And so beginning with the ‘green border’
         continue..."
     - who: Max Sprecher
-      start: '00:01:44.558'
-      end: '00:01:51.601'
+      start:
+        sec: '104.558'
+        mark: '00:01:44.558'
+      end:
+        sec: '111.601'
+        mark: '00:01:51.601'
       u: The ‘green border’ is a field which is located between two countries.
     - who: David Boder
-      start: '00:01:51.601'
-      end: '00:01:52.633'
+      start:
+        sec: '111.601'
+        mark: '00:01:51.601'
+      end:
+        sec: '112.633'
+        mark: '00:01:52.633'
       u: Yes.
     - who: Max Sprecher
-      start: '00:01:52.633'
-      end: '00:02:44.532'
+      start:
+        sec: '112.633'
+        mark: '00:01:52.633'
+      end:
+        sec: '164.532'
+        mark: '00:02:44.532'
       u: There...it is not covered by any border guards. It is open, free. And so,
         since the Jews who were lead there did not want voluntarily to cross the border,
         the field, they were surrounded by German police with machine guns, and they
@@ -137,12 +201,20 @@ recording:
         we were interned in the Polish border city Bedzin, Zbolshin[?] in Polish,
         and remained there a very long time, almost three quarters of a year.
     - who: David Boder
-      start: '00:02:44.532'
-      end: '00:02:46.858'
+      start:
+        sec: '164.532'
+        mark: '00:02:44.532'
+      end:
+        sec: '166.858'
+        mark: '00:02:46.858'
       u: Continue. And then you say...
     - who: Max Sprecher
-      start: '00:02:46.858'
-      end: '00:03:25.252'
+      start:
+        sec: '166.858'
+        mark: '00:02:46.858'
+      end:
+        sec: '205.252'
+        mark: '00:03:25.252'
       u: In the course of time a possibility was found through an understanding with
         the German government, that a part of the people should be enabled to return
         and take with them the most necessary things, which they had left behind in
@@ -151,24 +223,40 @@ recording:
         else. A part returned in order to arrange their immigration into other lands.
         In this case I returned with the intention [the word is in Hebrew].
     - who: David Boder
-      start: '00:03:25.252'
-      end: '00:03:26.638'
+      start:
+        sec: '205.252'
+        mark: '00:03:25.252'
+      end:
+        sec: '206.638'
+        mark: '00:03:26.638'
       u: With what?
     - who: Max Sprecher
-      start: '00:03:26.638'
-      end: '00:03:51.839'
+      start:
+        sec: '206.638'
+        mark: '00:03:26.638'
+      end:
+        sec: '231.839'
+        mark: '00:03:51.839'
       u: With the [translates]...with the purpose to continue the studies of medicine,
         and not in Germany, but in Switzerland. I have sent from the camp Bedzin my
         matriculation booklet to Basel with the hope to be accepted there by the university.
         But instead of going to Basel, to the university, I landed in a concentration
         camp.
     - who: David Boder
-      start: '00:03:51.839'
-      end: '00:03:54.556'
+      start:
+        sec: '231.839'
+        mark: '00:03:51.839'
+      end:
+        sec: '234.556'
+        mark: '00:03:54.556'
       u: Well. In what lager did you land?
     - who: Max Sprecher
-      start: '00:03:54.556'
-      end: '00:04:36.880'
+      start:
+        sec: '234.556'
+        mark: '00:03:54.556'
+      end:
+        sec: '276.880'
+        mark: '00:04:36.880'
       u: It was the 13th of [September]1939. On the 1st of September the war broke
         out with Poland. Between the 5th and the 10th we had to register in Berlin
         as enemy aliens. The Gestapo proclaimed specifically, against us personally,
@@ -176,60 +264,108 @@ recording:
         in the morning, we were arrested and taken en masse to Sachsenhausen, Oranienburg
         near Berlin, fifty-five minutes by streetcar from Berlin.
     - who: David Boder
-      start: '00:04:36.880'
-      end: '00:04:39.567'
+      start:
+        sec: '276.880'
+        mark: '00:04:36.880'
+      end:
+        sec: '279.567'
+        mark: '00:04:39.567'
       u: Is Sachsenhausen the same as Oranienburg?
     - who: Max Sprecher
-      start: '00:04:39.567'
-      end: '00:04:57.841'
+      start:
+        sec: '279.567'
+        mark: '00:04:39.567'
+      end:
+        sec: '297.841'
+        mark: '00:04:57.841'
       u: |-
         Sach-...The lager
                             Sachsenhausen and lager...and concentration camp Oranienburg were at that time one and the same. At the founding of the lager, the lager was started in a small factory building next to the city Oranienburg.
     - who: David Boder
-      start: '00:04:57.841'
-      end: '00:05:00.257'
+      start:
+        sec: '297.841'
+        mark: '00:04:57.841'
+      end:
+        sec: '300.257'
+        mark: '00:05:00.257'
       u: And Sachsenhausen is there nearby?
     - who: Max Sprecher
-      start: '00:05:00.257'
-      end: '00:05:08.300'
+      start:
+        sec: '300.257'
+        mark: '00:05:00.257'
+      end:
+        sec: '308.300'
+        mark: '00:05:08.300'
       u: |-
         Then, a kilometer farther away...one and a half kilometers away is located the large lager
                             Sachsenhausen.
     - who: David Boder
-      start: '00:05:08.300'
-      end: '00:05:13.635'
+      start:
+        sec: '308.300'
+        mark: '00:05:08.300'
+      end:
+        sec: '313.635'
+        mark: '00:05:13.635'
       u: Now describe the life in Sachsenhausen.
     - who: Max Sprecher
-      start: '00:05:13.635'
-      end: '00:05:29.182'
+      start:
+        sec: '313.635'
+        mark: '00:05:13.635'
+      end:
+        sec: '329.182'
+        mark: '00:05:29.182'
       u: I cannot comply completely with this request, because soon after the arrival,
         and after the registration we were transferred to a strict quarantine. We
         were isolated from other lager...
     - who: David Boder
-      start: '00:05:29.182'
-      end: '00:05:31.568'
+      start:
+        sec: '329.182'
+        mark: '00:05:29.182'
+      end:
+        sec: '331.568'
+        mark: '00:05:31.568'
       u: Yes, but tell me what happened to you there?
     - who: Max Sprecher
-      start: '00:05:31.568'
-      end: '00:05:40.875'
+      start:
+        sec: '331.568'
+        mark: '00:05:31.568'
+      end:
+        sec: '340.875'
+        mark: '00:05:40.875'
       u: We were brought in there, seven hundred and fifty Polish Jews, into three
         blocks, at two hundred and fifty Jews in each block.
     - who: David Boder
-      start: '00:05:40.875'
-      end: '00:05:49.821'
+      start:
+        sec: '340.875'
+        mark: '00:05:40.875'
+      end:
+        sec: '349.821'
+        mark: '00:05:49.821'
       u: Did not the Polish subjects have a diplomatic representative, who had undertaken
         to represent the Poles?
     - who: Max Sprecher
-      start: '00:05:49.821'
-      end: '00:05:54.314'
+      start:
+        sec: '349.821'
+        mark: '00:05:49.821'
+      end:
+        sec: '354.314'
+        mark: '00:05:54.314'
       u: In Germany—nobody. Not the Swedish, not the Danish...
     - who: David Boder
-      start: '00:05:54.314'
-      end: '00:05:55.720'
+      start:
+        sec: '354.314'
+        mark: '00:05:54.314'
+      end:
+        sec: '355.720'
+        mark: '00:05:55.720'
       u: "[unintelligible]"
     - who: Max Sprecher
-      start: '00:05:55.720'
-      end: '00:06:28.626'
+      start:
+        sec: '355.720'
+        mark: '00:05:55.720'
+      end:
+        sec: '388.626'
+        mark: '00:06:28.626'
       u: Nobody to represent us. Officially Sweden was assigned as the one to represent
         us. A few days before our arrest in Berlin, we have heard already about the
         actions against the Polish Jews in the various cities of the Germans provinces,
@@ -238,111 +374,207 @@ recording:
         any kind of papers that we are standing under the protection of the Swedish
         government [pause].
     - who: David Boder
-      start: '00:06:28.626'
-      end: '00:06:31.614'
+      start:
+        sec: '388.626'
+        mark: '00:06:28.626'
+      end:
+        sec: '391.614'
+        mark: '00:06:31.614'
       u: And so, continue...
     - who: Max Sprecher
-      start: '00:06:31.614'
-      end: '00:06:40.349'
+      start:
+        sec: '391.614'
+        mark: '00:06:31.614'
+      end:
+        sec: '400.349'
+        mark: '00:06:40.349'
       u: From the description referring to the earlier times...about the large lager...I
         unfortunately am unable...I am unfortunately unable to tell anything.
     - who: David Boder
-      start: '00:06:40.349'
-      end: '00:06:44.179'
+      start:
+        sec: '400.349'
+        mark: '00:06:40.349'
+      end:
+        sec: '404.179'
+        mark: '00:06:44.179'
       u: No. I mean tell us about what happened to you there? Where were you?
     - who: Max Sprecher
-      start: '00:06:44.179'
-      end: '00:06:48.190'
+      start:
+        sec: '404.179'
+        mark: '00:06:44.179'
+      end:
+        sec: '408.190'
+        mark: '00:06:48.190'
       u: We were delivered...the seven hundred and fifty Polish Jews...
     - who: David Boder
-      start: '00:06:48.190'
-      end: '00:06:49.493'
+      start:
+        sec: '408.190'
+        mark: '00:06:48.190'
+      end:
+        sec: '409.493'
+        mark: '00:06:49.493'
       u: Men and women?
     - who: Max Sprecher
-      start: '00:06:49.493'
-      end: '00:06:50.495'
+      start:
+        sec: '409.493'
+        mark: '00:06:49.493'
+      end:
+        sec: '410.495'
+        mark: '00:06:50.495'
       u: Only men.
     - who: David Boder
-      start: '00:06:50.495'
-      end: '00:06:51.858'
+      start:
+        sec: '410.495'
+        mark: '00:06:50.495'
+      end:
+        sec: '411.858'
+        mark: '00:06:51.858'
       u: Yes.
     - who: Max Sprecher
-      start: '00:06:51.858'
-      end: '00:07:11.068'
+      start:
+        sec: '411.858'
+        mark: '00:06:51.858'
+      end:
+        sec: '431.068'
+        mark: '00:07:11.068'
       u: In three blocks, two hundred and fifty people in each block. The youngest
         prisoners were, according to instructions, fifteen years old. In many cases
         the Polish Jews came with their youngest children, fourteen or fifteen years
         old. The oldest were seventy-five or older.
     - who: David Boder
-      start: '00:07:11.068'
-      end: '00:07:14.387'
+      start:
+        sec: '431.068'
+        mark: '00:07:11.068'
+      end:
+        sec: '434.387'
+        mark: '00:07:14.387'
       u: And what was done with those who were younger?
     - who: Max Sprecher
-      start: '00:07:14.387'
-      end: '00:07:22.791'
+      start:
+        sec: '434.387'
+        mark: '00:07:14.387'
+      end:
+        sec: '442.791'
+        mark: '00:07:22.791'
       u: The younger children were together with the parents [?] in the same block.
         None of us was doing any work.
     - who: David Boder
-      start: '00:07:22.791'
-      end: '00:07:26.260'
+      start:
+        sec: '442.791'
+        mark: '00:07:22.791'
+      end:
+        sec: '446.260'
+        mark: '00:07:26.260'
       u: I have asked you whether there were children ten or twelve years of age?
     - who: Max Sprecher
-      start: '00:07:26.260'
-      end: '00:07:31.505'
+      start:
+        sec: '446.260'
+        mark: '00:07:26.260'
+      end:
+        sec: '451.505'
+        mark: '00:07:31.505'
       u: No. Such children were not there. According to instructions only those had
         to register...
     - who: David Boder
-      start: '00:07:31.505'
-      end: '00:07:33.681'
+      start:
+        sec: '451.505'
+        mark: '00:07:31.505'
+      end:
+        sec: '453.681'
+        mark: '00:07:33.681'
       u: Oh, they did not register?
     - who: Max Sprecher
-      start: '00:07:33.681'
-      end: '00:07:36.519'
+      start:
+        sec: '453.681'
+        mark: '00:07:33.681'
+      end:
+        sec: '456.519'
+        mark: '00:07:36.519'
       u: They did not register...only those from fourteen years and older.
     - who: David Boder
-      start: '00:07:36.519'
-      end: '00:07:37.551'
+      start:
+        sec: '456.519'
+        mark: '00:07:36.519'
+      end:
+        sec: '457.551'
+        mark: '00:07:37.551'
       u: Oh.
     - who: Max Sprecher
-      start: '00:07:37.551'
-      end: '00:07:38.884'
+      start:
+        sec: '457.551'
+        mark: '00:07:37.551'
+      end:
+        sec: '458.884'
+        mark: '00:07:38.884'
       u: Not the younger children.
     - who: David Boder
-      start: '00:07:38.884'
-      end: '00:07:39.585'
+      start:
+        sec: '458.884'
+        mark: '00:07:38.884'
+      end:
+        sec: '459.585'
+        mark: '00:07:39.585'
       u: Well.
     - who: Max Sprecher
-      start: '00:07:39.585'
-      end: '00:08:03.651'
+      start:
+        sec: '459.585'
+        mark: '00:07:39.585'
+      end:
+        sec: '483.651'
+        mark: '00:08:03.651'
       u: At the beginning we were together in the block. We did not work. Because
         then the SS was doing the work, and also the indoor service of block elders,
         organized by them. Their work consisted in ‘exterminating’ us day in day out,
         and to eliminate [?] us. They succeeded in this work in a very short time...
     - who: David Boder
-      start: '00:08:03.651'
-      end: '00:08:04.623'
+      start:
+        sec: '483.651'
+        mark: '00:08:03.651'
+      end:
+        sec: '484.623'
+        mark: '00:08:04.623'
       u: For instance?
     - who: Max Sprecher
-      start: '00:08:04.623'
-      end: '00:08:19.004'
+      start:
+        sec: '484.623'
+        mark: '00:08:04.623'
+      end:
+        sec: '499.004'
+        mark: '00:08:19.004'
       u: A third of our block—similar conditions prevailed also in other blocks—have
         fallen right at the beginning. And...
     - who: David Boder
-      start: '00:08:19.004'
-      end: '00:08:22.263'
+      start:
+        sec: '499.004'
+        mark: '00:08:19.004'
+      end:
+        sec: '502.263'
+        mark: '00:08:22.263'
       u: Tell it more specifically...What does it mean they had fallen?
     - who: Max Sprecher
-      start: '00:08:22.263'
-      end: '00:08:33.616'
+      start:
+        sec: '502.263'
+        mark: '00:08:22.263'
+      end:
+        sec: '513.616'
+        mark: '00:08:33.616'
       u: We were given...they have chosen for us various torments, and punishments,
         which were to reduce our number. I shall describe a few of them.
     - who: David Boder
-      start: '00:08:33.616'
-      end: '00:08:35.099'
+      start:
+        sec: '513.616'
+        mark: '00:08:33.616'
+      end:
+        sec: '515.099'
+        mark: '00:08:35.099'
       u: Indeed, go on.
     - who: Max Sprecher
-      start: '00:08:35.099'
-      end: '00:09:19.827'
+      start:
+        sec: '515.099'
+        mark: '00:08:35.099'
+      end:
+        sec: '559.827'
+        mark: '00:09:19.827'
       u: It was called...it was called ‘belly recumbence’, lying on the stomach meant
         that we had to lie from four o’clock in the mor-...at daybreak, in the summer,
         September 1939 until five o’clock in the evening, on the belly without moving,
@@ -351,12 +583,20 @@ recording:
         warm month of September 1939, there was no air to breathe. Older people ‘fell’
         as a consequence of it, and one may say just like flies.
     - who: David Boder
-      start: '00:09:19.827'
-      end: '00:09:23.266'
+      start:
+        sec: '559.827'
+        mark: '00:09:19.827'
+      end:
+        sec: '563.266'
+        mark: '00:09:23.266'
       u: Now tell me, who saw to it that people should lie that way?
     - who: Max Sprecher
-      start: '00:09:23.266'
-      end: '00:10:33.158'
+      start:
+        sec: '563.266'
+        mark: '00:09:23.266'
+      end:
+        sec: '633.158'
+        mark: '00:10:33.158'
       u: The block elder, and his assistant the ‘room elder’ paraded all day from
         morning till evening before the block, along the rows of windows, and watched.
         They could ‘recognize’ us because according to instructions we had to hold
@@ -371,70 +611,126 @@ recording:
         of iron until the man would break down. Often he right there ‘expired’his
         life. There were...
     - who: David Boder
-      start: '00:10:33.158'
-      end: '00:10:36.597'
+      start:
+        sec: '633.158'
+        mark: '00:10:33.158'
+      end:
+        sec: '636.597'
+        mark: '00:10:36.597'
       u: Who were the block-elders?
     - who: Max Sprecher
-      start: '00:10:36.597'
-      end: '00:10:47.349'
+      start:
+        sec: '636.597'
+        mark: '00:10:36.597'
+      end:
+        sec: '647.349'
+        mark: '00:10:47.349'
       u: The block-elders were in our Jewish blocks mostly criminals, previously punished
         [sentenced], who...
     - who: David Boder
-      start: '00:10:47.349'
-      end: '00:10:48.080'
+      start:
+        sec: '647.349'
+        mark: '00:10:47.349'
+      end:
+        sec: '648.080'
+        mark: '00:10:48.080'
       u: Germans?
     - who: Max Sprecher
-      start: '00:10:48.080'
-      end: '00:11:24.040'
+      start:
+        sec: '648.080'
+        mark: '00:10:48.080'
+      end:
+        sec: '684.040'
+        mark: '00:11:24.040'
       u: Germans, who for years have served were years ago sentenced to various lagers
         as criminals, and were later transferred to concentration camps. My block-elder
         bore the number 272 from Sachsenhausen. He was one of the oldest criminals,
         previously punished, in this lager. He was himself a boxer and ‘Ringer’, using
         all his strength to exterminate the Jews.
     - who: David Boder
-      start: '00:11:24.040'
-      end: '00:11:25.674'
+      start:
+        sec: '684.040'
+        mark: '00:11:24.040'
+      end:
+        sec: '685.674'
+        mark: '00:11:25.674'
       u: What do you mean a boxer and a ‘Ringer’?
     - who: Max Sprecher
-      start: '00:11:25.674'
-      end: '00:11:31.791'
+      start:
+        sec: '685.674'
+        mark: '00:11:25.674'
+      end:
+        sec: '691.791'
+        mark: '00:11:31.791'
       u: He was by profession outside, at liberty. Next to his vocation as...next
         to his vocation as B-Vauer he also was...
     - who: David Boder
-      start: '00:11:31.791'
-      end: '00:11:32.943'
+      start:
+        sec: '691.791'
+        mark: '00:11:31.791'
+      end:
+        sec: '692.943'
+        mark: '00:11:32.943'
       u: Oh...
     - who: Max Sprecher
-      start: '00:11:32.943'
-      end: '00:11:37.011'
+      start:
+        sec: '692.943'
+        mark: '00:11:32.943'
+      end:
+        sec: '697.011'
+        mark: '00:11:37.011'
       u: Next to his vocation as B-Vauer, or a professional criminal...
     - who: David Boder
-      start: '00:11:37.011'
-      end: '00:11:37.643'
+      start:
+        sec: '697.011'
+        mark: '00:11:37.011'
+      end:
+        sec: '697.643'
+        mark: '00:11:37.643'
       u: Yes.
     - who: Max Sprecher
-      start: '00:11:37.643'
-      end: '00:11:41.022'
+      start:
+        sec: '697.643'
+        mark: '00:11:37.643'
+      end:
+        sec: '701.022'
+        mark: '00:11:41.022'
       u: ". . . he was also an amateur boxer and a ‘Ringer.’"
     - who: David Boder
-      start: '00:11:41.022'
-      end: '00:11:46.116'
+      start:
+        sec: '701.022'
+        mark: '00:11:41.022'
+      end:
+        sec: '706.116'
+        mark: '00:11:46.116'
       u: "[Clarifying the last word] A Ringer is what we call a wrestler in English,
         of course. All right."
     - who: Max Sprecher
-      start: '00:11:46.116'
-      end: '00:12:06.434'
+      start:
+        sec: '706.116'
+        mark: '00:11:46.116'
+      end:
+        sec: '726.434'
+        mark: '00:12:06.434'
       u: This [his treatment] was already a softening up. His predecessor, by the
         name Zeres [could be a nickname derived from the Yiddish Zores trouble, misfortunes],
         a man who, for multiple murder, was sentenced to long imprisonment. He served
         his sentence for many years in various punitive camps. Finally...
     - who: David Boder
-      start: '00:12:06.434'
-      end: '00:12:07.707'
+      start:
+        sec: '726.434'
+        mark: '00:12:06.434'
+      end:
+        sec: '727.707'
+        mark: '00:12:07.707'
       u: You mean prisons...
     - who: Max Sprecher
-      start: '00:12:07.707'
-      end: '00:12:54.742'
+      start:
+        sec: '727.707'
+        mark: '00:12:07.707'
+      end:
+        sec: '774.742'
+        mark: '00:12:54.742'
       u: ". . . prisons, and finally in the concentration camp Sachsenhausen. He...he
         has distinguished himself in his accomplishments. He has killed in the course
         of a very brief time a large number of my fellow prisoners in my block, Polish
@@ -445,149 +741,277 @@ recording:
         court to life long imprisonment. But the B-Vauers in Berlin thought differently
         about this [matter]. We had, through a contact..."
     - who: David Boder
-      start: '00:12:54.742'
-      end: '00:12:55.925'
+      start:
+        sec: '774.742'
+        mark: '00:12:54.742'
+      end:
+        sec: '775.925'
+        mark: '00:12:55.925'
       u: What does it mean, the B-Vauers?
     - who: Max Sprecher
-      start: '00:12:55.925'
-      end: '00:12:57.469'
+      start:
+        sec: '775.925'
+        mark: '00:12:55.925'
+      end:
+        sec: '777.469'
+        mark: '00:12:57.469'
       u: B-Vauer means professional criminals. [Berufs-Verbrecher.]
     - who: David Boder
-      start: '00:12:57.469'
-      end: '00:12:58.351'
+      start:
+        sec: '777.469'
+        mark: '00:12:57.469'
+      end:
+        sec: '778.351'
+        mark: '00:12:58.351'
       u: Aha.
     - who: Max Sprecher
-      start: '00:12:58.351'
-      end: '00:13:00.135'
+      start:
+        sec: '778.351'
+        mark: '00:12:58.351'
+      end:
+        sec: '780.135'
+        mark: '00:13:00.135'
       u: ". . . we had, through a contact..."
     - who: David Boder
-      start: '00:13:00.135'
-      end: '00:13:00.135'
+      start:
+        sec: '780.135'
+        mark: '00:13:00.135'
+      end:
+        sec: '780.135'
+        mark: '00:13:00.135'
       u: B-V means...
     - who: Max Sprecher
-      start: '00:13:00.135'
-      end: '00:13:02.711'
+      start:
+        sec: '780.135'
+        mark: '00:13:00.135'
+      end:
+        sec: '782.711'
+        mark: '00:13:02.711'
       u: B-Vauer, means professional criminal [Berufsverbrecher].
     - who: David Boder
-      start: '00:13:02.711'
-      end: '00:13:03.292'
+      start:
+        sec: '782.711'
+        mark: '00:13:02.711'
+      end:
+        sec: '783.292'
+        mark: '00:13:03.292'
       u: Yes.
     - who: Max Sprecher
-      start: '00:13:03.292'
-      end: '00:13:32.151'
+      start:
+        sec: '783.292'
+        mark: '00:13:03.292'
+      end:
+        sec: '812.151'
+        mark: '00:13:32.151'
       u: Through a contact with the Alexander Platz, that was the investigation [pretrial]
         prison of Berlin, we have reported that the famous B-Vauer Zeres was released
         from Feldafing [corrects himself] from Sachsenhausen and that he had in the
         course of one month killed tens of imprisoned Polish Jews...murdered. The
         B-Vauer tribunal of Berlin has sentenced...
     - who: David Boder
-      start: '00:13:32.151'
-      end: '00:13:35.470'
+      start:
+        sec: '812.151'
+        mark: '00:13:32.151'
+      end:
+        sec: '815.470'
+        mark: '00:13:35.470'
       u: What do you mean, the B-Vauer tribunal? Was it a secret tribunal?
     - who: Max Sprecher
-      start: '00:13:35.470'
-      end: '00:14:05.247'
+      start:
+        sec: '815.470'
+        mark: '00:13:35.470'
+      end:
+        sec: '845.247'
+        mark: '00:14:05.247'
       u: The tribunal of professional criminals has sentenced this man to death. They
         arranged a supposed celebration for the professional criminal Zeres, and during
         this celebration the verdict of the B-Vauer union was read, because you must
         know that the professional criminals of Berlin belong to unions, such organizations
         were organized...
     - who: David Boder
-      start: '00:14:05.247'
-      end: '00:14:07.332'
+      start:
+        sec: '845.247'
+        mark: '00:14:05.247'
+      end:
+        sec: '847.332'
+        mark: '00:14:07.332'
       u: These were naturally secret organizations?
     - who: Max Sprecher
-      start: '00:14:07.332'
-      end: '00:14:08.093'
+      start:
+        sec: '847.332'
+        mark: '00:14:07.332'
+      end:
+        sec: '848.093'
+        mark: '00:14:08.093'
       u: What?
     - who: David Boder
-      start: '00:14:08.093'
-      end: '00:14:08.975'
+      start:
+        sec: '848.093'
+        mark: '00:14:08.093'
+      end:
+        sec: '848.975'
+        mark: '00:14:08.975'
       u: Secret organizations?
     - who: Max Sprecher
-      start: '00:14:08.975'
-      end: '00:14:09.977'
+      start:
+        sec: '848.975'
+        mark: '00:14:08.975'
+      end:
+        sec: '849.977'
+        mark: '00:14:09.977'
       u: Secret organizations.
     - who: David Boder
-      start: '00:14:09.977'
-      end: '00:14:11.258'
+      start:
+        sec: '849.977'
+        mark: '00:14:09.977'
+      end:
+        sec: '851.258'
+        mark: '00:14:11.258'
       u: Yes.
     - who: Max Sprecher
-      start: '00:14:11.258'
-      end: '00:14:11.417'
+      start:
+        sec: '851.258'
+        mark: '00:14:11.258'
+      end:
+        sec: '851.417'
+        mark: '00:14:11.417'
       u: And...
     - who: David Boder
-      start: '00:14:11.417'
-      end: '00:14:12.299'
+      start:
+        sec: '851.417'
+        mark: '00:14:11.417'
+      end:
+        sec: '852.299'
+        mark: '00:14:12.299'
       u: Underground organizations.
     - who: Max Sprecher
-      start: '00:14:12.299'
-      end: '00:14:26.211'
+      start:
+        sec: '852.299'
+        mark: '00:14:12.299'
+      end:
+        sec: '866.211'
+        mark: '00:14:26.211'
       u: Yes. And so judged about this prison the world of professional criminals
         of Berlin, that the man deserves death, while the SS had judged that for his
         accomplishments he deserves [his] freedom [pause].
     - who: David Boder
-      start: '00:14:26.211'
-      end: '00:14:28.868'
+      start:
+        sec: '866.211'
+        mark: '00:14:26.211'
+      end:
+        sec: '868.868'
+        mark: '00:14:28.868'
       u: So what did the B-Vauers do with him?
     - who: Max Sprecher
-      start: '00:14:28.868'
-      end: '00:14:31.706'
+      start:
+        sec: '868.868'
+        mark: '00:14:28.868'
+      end:
+        sec: '871.706'
+        mark: '00:14:31.706'
       u: They shot him to death during the celebration.
     - who: David Boder
-      start: '00:14:31.706'
-      end: '00:14:32.196'
+      start:
+        sec: '871.706'
+        mark: '00:14:31.706'
+      end:
+        sec: '872.196'
+        mark: '00:14:32.196'
       u: Aha.
     - who: Max Sprecher
-      start: '00:14:32.196'
-      end: '00:14:38.163'
+      start:
+        sec: '872.196'
+        mark: '00:14:32.196'
+      end:
+        sec: '878.163'
+        mark: '00:14:38.163'
       u: This information we have received from people who had arrived in our block
         from Alexander Platz.
     - who: David Boder
-      start: '00:14:38.163'
-      end: '00:14:39.887'
+      start:
+        sec: '878.163'
+        mark: '00:14:38.163'
+      end:
+        sec: '879.887'
+        mark: '00:14:39.887'
       u: What was there at the Alexander Platz?
     - who: Max Sprecher
-      start: '00:14:39.887'
-      end: '00:14:44.349'
+      start:
+        sec: '879.887'
+        mark: '00:14:39.887'
+      end:
+        sec: '884.349'
+        mark: '00:14:44.349'
       u: Alexander Platz was the investigatory [pretrial] prison of Berlin.
     - who: David Boder
-      start: '00:14:44.349'
-      end: '00:14:45.020'
+      start:
+        sec: '884.349'
+        mark: '00:14:44.349'
+      end:
+        sec: '885.020'
+        mark: '00:14:45.020'
       u: Aha.
     - who: Max Sprecher
-      start: '00:14:45.020'
-      end: '00:15:07.303'
+      start:
+        sec: '885.020'
+        mark: '00:14:45.020'
+      end:
+        sec: '907.303'
+        mark: '00:15:07.303'
       u: People who were to be distributed to various prisons, to various lagers,
         were assembled there. When there was assembled a certain number, they were
         sent in groups to the corresponding prisons or lagers. Now I shall continue
         describing our life in the...during the first days in the concentration camp.
     - who: David Boder
-      start: '00:15:07.303'
-      end: '00:15:08.004'
+      start:
+        sec: '907.303'
+        mark: '00:15:07.303'
+      end:
+        sec: '908.004'
+        mark: '00:15:08.004'
       u: Right.
     - who: Max Sprecher
-      start: '00:15:08.004'
-      end: '00:15:20.350'
+      start:
+        sec: '908.004'
+        mark: '00:15:08.004'
+      end:
+        sec: '920.350'
+        mark: '00:15:20.350'
       u: We had a series of punitive sports. One consisted in creeping, like a snake
         on the ground. Then there was leaping like a toad, like a frog. Do you understand
         me?
     - who: David Boder
-      start: '00:15:20.350'
-      end: '00:15:21.322'
+      start:
+        sec: '920.350'
+        mark: '00:15:20.350'
+      end:
+        sec: '921.322'
+        mark: '00:15:21.322'
       u: Yes, of course.
     - who: Max Sprecher
-      start: '00:15:21.322'
-      end: '00:15:30.117'
+      start:
+        sec: '921.322'
+        mark: '00:15:21.322'
+      end:
+        sec: '930.117'
+        mark: '00:15:30.117'
       u: Like a frog, like a toad, leaping, jumping, to half height of a human. The
         third consisted in rolling [word not clear]
     - who: David Boder
-      start: '00:15:30.117'
-      end: '00:15:31.059'
+      start:
+        sec: '930.117'
+        mark: '00:15:30.117'
+      end:
+        sec: '931.059'
+        mark: '00:15:31.059'
       u: What is that?
     - who: Max Sprecher
-      start: '00:15:31.059'
-      end: '00:16:12.928'
+      start:
+        sec: '931.059'
+        mark: '00:15:31.059'
+      end:
+        sec: '972.928'
+        mark: '00:16:12.928'
       u: Rolling, rolling. To roll [now it is clear] means, to turn like a tree [log]
         is being turned. That is how we had to ‘cower’. Now, there was something interesting
         in that ‘cowering’. It was fortunate for a Jew if he had a chance to die soon.
@@ -596,22 +1020,38 @@ recording:
         placed them near the door, because through the cracks in the door these gravely
         ill people could get a little bit more air.
     - who: David Boder
-      start: '00:16:12.928'
-      end: '00:16:13.328'
+      start:
+        sec: '972.928'
+        mark: '00:16:12.928'
+      end:
+        sec: '973.328'
+        mark: '00:16:13.328'
       u: Nu.
     - who: Max Sprecher
-      start: '00:16:13.328'
-      end: '00:16:27.269'
+      start:
+        sec: '973.328'
+        mark: '00:16:13.328'
+      end:
+        sec: '987.269'
+        mark: '00:16:27.269'
       u: The pleasure of the SS and the block-elders consisted in coming in intervals
         from hour, and to make with us punitive sports in these overheated barracks.
     - who: David Boder
-      start: '00:16:27.269'
-      end: '00:16:29.956'
+      start:
+        sec: '987.269'
+        mark: '00:16:27.269'
+      end:
+        sec: '989.956'
+        mark: '00:16:29.956'
       u: What does it mean in intervals from hour to hour? [This is a question for
         verification since his words were not clear]
     - who: Max Sprecher
-      start: '00:16:29.956'
-      end: '00:17:16.743'
+      start:
+        sec: '989.956'
+        mark: '00:16:29.956'
+      end:
+        sec: '1036.743'
+        mark: '00:17:16.743'
       u: I have told you that we were...in our section of the barracks the doors and
         windows were locked. Thus the air there was very bad. It was impossible to
         breathe. So it was very difficult for the block leaders, for the SS, to spend
@@ -622,20 +1062,36 @@ recording:
         stopped, went out, and in an hour or two [then] the whole drill was ‘pigged’
         over again [the whole procedure would start all over again].
     - who: David Boder
-      start: '00:17:16.743'
-      end: '00:17:19.460'
+      start:
+        sec: '1036.743'
+        mark: '00:17:16.743'
+      end:
+        sec: '1039.460'
+        mark: '00:17:19.460'
       u: So you were rolling indoors, inside...
     - who: Max Sprecher
-      start: '00:17:19.460'
-      end: '00:17:20.823'
+      start:
+        sec: '1039.460'
+        mark: '00:17:19.460'
+      end:
+        sec: '1040.823'
+        mark: '00:17:20.823'
       u: In the block, two...
     - who: David Boder
-      start: '00:17:20.823'
-      end: '00:17:22.517'
+      start:
+        sec: '1040.823'
+        mark: '00:17:20.823'
+      end:
+        sec: '1042.517'
+        mark: '00:17:22.517'
       u: But there was no room.
     - who: Max Sprecher
-      start: '00:17:22.517'
-      end: '00:19:20.081'
+      start:
+        sec: '1042.517'
+        mark: '00:17:22.517'
+      end:
+        sec: '1160.081'
+        mark: '00:19:20.081'
       u: 'That was...that was the purpose of rolling, it was ordered that we were
         to roll in twos, in threes, that is one lies [corrects himself] rolls underneath
         on the ground, the second rolls over him, and the third rolls over the second.
@@ -658,12 +1114,20 @@ recording:
         The aim of the SS [which] was that we ourselves should murder with our own
         bodies our gravely ill [?] brothers, did not materialize.'
     - who: David Boder
-      start: '00:19:20.081'
-      end: '00:19:22.798'
+      start:
+        sec: '1160.081'
+        mark: '00:19:20.081'
+      end:
+        sec: '1162.798'
+        mark: '00:19:22.798'
       u: Now, continue. What happened to you afterwards?
     - who: Max Sprecher
-      start: '00:19:22.798'
-      end: '00:22:06.942'
+      start:
+        sec: '1162.798'
+        mark: '00:19:22.798'
+      end:
+        sec: '1326.942'
+        mark: '00:22:06.942'
       u: 'The other punishments, one could think it a light punishment, were [for
         instance] to lie simply on the stomach. The first day it was still tolerable.
         The second day many arose...many of us arose with torn skin and with blood
@@ -691,33 +1155,57 @@ recording:
         Then we had to get up and all our faces were red from the blood. The SS was
         satisfied and the program for that day was completed. [Pause].'
     - who: David Boder
-      start: '00:22:06.942'
-      end: '00:22:10.225'
+      start:
+        sec: '1326.942'
+        mark: '00:22:06.942'
+      end:
+        sec: '1330.225'
+        mark: '00:22:10.225'
       u: Now go ahead. What happened after this lager?
     - who: Max Sprecher
-      start: '00:22:10.225'
-      end: '00:22:43.394'
+      start:
+        sec: '1330.225'
+        mark: '00:22:10.225'
+      end:
+        sec: '1363.394'
+        mark: '00:22:43.394'
       u: And so, we were submitted to a strong isolation. We were unable to learn
         from the fellow prisoners in the lager, of whom there were at that time ten
         thousand, what may happen to us, will happen. We were cut off from the outside
         [world], cut off from inside, delivered for life and death to a professional
         criminal as block-elder and to a women merchant, a room elder, as his helper.
     - who: David Boder
-      start: '00:22:43.394'
-      end: '00:22:44.663'
+      start:
+        sec: '1363.394'
+        mark: '00:22:43.394'
+      end:
+        sec: '1364.663'
+        mark: '00:22:44.663'
       u: What is a women merchant?
     - who: Max Sprecher
-      start: '00:22:44.663'
-      end: '00:22:54.228'
+      start:
+        sec: '1364.663'
+        mark: '00:22:44.663'
+      end:
+        sec: '1374.228'
+        mark: '00:22:54.228'
       u: A women peddler is a man from the underworld who occupies himself professionally
         with the sale of women, and...
     - who: David Boder
-      start: '00:22:54.228'
-      end: '00:22:55.376'
+      start:
+        sec: '1374.228'
+        mark: '00:22:54.228'
+      end:
+        sec: '1375.376'
+        mark: '00:22:55.376'
       u: Oh, a women merchant.
     - who: Max Sprecher
-      start: '00:22:55.376'
-      end: '00:23:57.423'
+      start:
+        sec: '1375.376'
+        mark: '00:22:55.376'
+      end:
+        sec: '1437.423'
+        mark: '00:23:57.423'
       u: ". . . and with women. And a manager, or proprietor of houses of shame, which
         deal in women. Our number grew smaller from day to day, and we did not know
         when it will end. We are at present before Rosh Hashana. So I want to recollect
@@ -729,43 +1217,75 @@ recording:
         was closed shut for the whole day, and no bit of air was let in. In the evening
         the Jews..."
     - who: David Boder
-      start: '00:23:57.423'
-      end: '00:23:58.872'
+      start:
+        sec: '1437.423'
+        mark: '00:23:57.423'
+      end:
+        sec: '1438.872'
+        mark: '00:23:58.872'
       u: What was it Yom Kippur or Rosh Hashana?
     - who: Max Sprecher
-      start: '00:23:58.872'
-      end: '00:24:00.050'
+      start:
+        sec: '1438.872'
+        mark: '00:23:58.872'
+      end:
+        sec: '1440.050'
+        mark: '00:24:00.050'
       u: The eve of Yom Kippur.
     - who: David Boder
-      start: '00:24:00.050'
-      end: '00:24:00.657'
+      start:
+        sec: '1440.050'
+        mark: '00:24:00.050'
+      end:
+        sec: '1440.657'
+        mark: '00:24:00.657'
       u: Yes.
     - who: Max Sprecher
-      start: '00:24:00.657'
-      end: '00:24:27.830'
+      start:
+        sec: '1440.657'
+        mark: '00:24:00.657'
+      end:
+        sec: '1467.830'
+        mark: '00:24:27.830'
       u: In the evening when the Jews ‘on the outside’ were running to Kol-Nidrey
         [principal prayer for the Day of Atonement], we, the locked in, in our block
         37, observed how in front of the block 38 thirteen Jews were layed out, who
         during that day were suffocated because they did not have [enough] air to
         breathe.
     - who: David Boder
-      start: '00:24:27.830'
-      end: '00:24:32.946'
+      start:
+        sec: '1467.830'
+        mark: '00:24:27.830'
+      end:
+        sec: '1472.946'
+        mark: '00:24:32.946'
       u: 'Now, you said before: ‘when the Jews from the outside’ — does that mean
         the Jews who were free?'
     - who: Max Sprecher
-      start: '00:24:32.946'
-      end: '00:25:53.216'
+      start:
+        sec: '1472.946'
+        mark: '00:24:32.946'
+      end:
+        sec: '1553.216'
+        mark: '00:25:53.216'
       u: |-
         We were in the block 37, across from us at a distance of three — four meters was block 38. A corpse would be layed out before the block. Then there would come a wagon and soon transport the body to the cellar. From there he would be transported further to the crematory, which already at that time was in existence in the lager
                             Sachsenhausen, but which should not be compared with the crematories in the camps of Majdanek and Auschwitz, because this one [in Sacheshausen] was predominantly for those prisoners who had died in the concentration camp...in the big camp, who succumbed at work, or who were for reasons...on special orders of the Gestapo, killed in Berlin, or who have sinned in a petty manner, [such as] moving when there had come an order to lie, had dared [to do] things that were prohibited. And prohibited was anything in the world. The slogan with which we were daily admonished was solely thus: permitted is one thing, permitted is only to die [pause].
     - who: David Boder
-      start: '00:25:53.216'
-      end: '00:25:59.775'
+      start:
+        sec: '1553.216'
+        mark: '00:25:53.216'
+      end:
+        sec: '1559.775'
+        mark: '00:25:59.775'
       u: Where did you go from there? What happened then?
     - who: Max Sprecher
-      start: '00:25:59.775'
-      end: '00:28:02.736'
+      start:
+        sec: '1559.775'
+        mark: '00:25:59.775'
+      end:
+        sec: '1682.736'
+        mark: '00:28:02.736'
       u: However, when in a short time we had lost all those older people whose conditions
         of health were such [?] that they could not bear the ordeals and hardships
         of the first weeks, due to shortage of air, due to lack of food, due to beatings,
@@ -785,53 +1305,93 @@ recording:
         method of beating, with different implements. It has taken eight days until
         the man was brought to the verge of death. On the eighth...
     - who: David Boder
-      start: '00:28:02.736'
-      end: '00:28:06.319'
+      start:
+        sec: '1682.736'
+        mark: '00:28:02.736'
+      end:
+        sec: '1686.319'
+        mark: '00:28:06.319'
       u: You say it was decided. How do you know, it was decided?
     - who: Max Sprecher
-      start: '00:28:06.319'
-      end: '00:31:19.596'
+      start:
+        sec: '1686.319'
+        mark: '00:28:06.319'
+      end:
+        sec: '1879.596'
+        mark: '00:31:19.596'
       u: |-
         You know...we knew it from the fact, that from the moment the door would open and there would enter the block-elder or SS people, they would soon call: ‘You, fat Jew, come here.’ and although there were several Jews who were stout,—and most of them have perished too—they used [word not clear] however to club and beat this [particular] Jew, until he was ‘completed.’ This was a linguistic designation in the concentration camp: ‘completing’ meant to torture until the man died. On the eighth day he had not a single healthy spot, not a single healthy centimeter on his body. It was all covered and swollen with blood. I still remember the last night. This pious person recited on the top of his voice the Vida [the prayer for those about to die] and the whole block, whether young or old, joined in the weeping and chanting. In the middle of the night the man had the fortune to die. He fell in a very deep stupor, and in the stupor he tore off all his clothes. And in the morning when we sat up he was lying dead, naked, and around him, like, just like during all the last days, was the blood-[soaked] red straw mattress [paillasse]. During the last few days we were laying that man, since the man had numerous open wounds, on the same straw mattress. On the same day it happened that just by accident the lager fuehrer passed through [the block]. He never used to take an interest in our block, because his interest was limited to the daily report on the conditions and to the mortality report. The first greeting which was dealt out to us the first days in the lager, when we were aroused at three, three thirty in the morning was: ‘How many dead are there today?’ Not a ‘Good morning’, not a, ‘Get up’, only ‘How many dead are there today?’ And everyone who would ascertain that his neighbor was cold, reported: ‘Here is one; here is one more.’ And so he would compose his memo [?], his death-report, and with it he would run to the office. His interest in the run of the camp was satisfied for a while with it. And so, there was no interest on the part of the SS, of the lager management, to ascertain how our block looks from the inside. And as said before, by accident it happened that the lager
                             fuehrer just came into the block on that particular day. Then saw...
     - who: David Boder
-      start: '00:31:19.596'
-      end: '00:31:21.586'
+      start:
+        sec: '1879.596'
+        mark: '00:31:19.596'
+      end:
+        sec: '1881.586'
+        mark: '00:31:21.586'
       u: |-
         What was the name of that lager
                             fuehrer?
     - who: Max Sprecher
-      start: '00:31:21.586'
-      end: '00:31:25.199'
+      start:
+        sec: '1881.586'
+        mark: '00:31:21.586'
+      end:
+        sec: '1885.199'
+        mark: '00:31:25.199'
       u: His name I am unable to recall. I don’t know it any more.
     - who: David Boder
-      start: '00:31:25.199'
-      end: '00:31:26.918'
+      start:
+        sec: '1885.199'
+        mark: '00:31:25.199'
+      end:
+        sec: '1886.918'
+        mark: '00:31:26.918'
       u: It was in ’38, in ’39?
     - who: Max Sprecher
-      start: '00:31:26.918'
-      end: '00:33:10.247'
+      start:
+        sec: '1886.918'
+        mark: '00:31:26.918'
+      end:
+        sec: '1990.247'
+        mark: '00:33:10.247'
       u: |-
         In ’39. September ’39, at the end...the last days of September...the 30th. We...he came in and saw the man lying, naked, with his bloody body, with his open wounds, with the blood-drenched straw mattress, and around the straw mattress a lot of blood had streamed out. I don’t know what feelings had come over him at the time. I know only one thing. He looked sharply at the block-fuehrer. He called immediately the lager
                             fuehrer [corrects himself] the block
                             fuehrer and the block elder. The block
                             fuehrer was sent away from our block and we were given block protection. That was not done in order to keep us alive because the purpose was a completely different one. It was done for a completely different reason. Sachsenhausen was located near Berlin. There were arriving frequently various commissions, domestic and foreign, and [so] they terminated the annihilation method, so that they themselves should not disgrace themselves before a foreign commission which could appear sometime unexpectedly and discover such a fact. They then changed to other means in order to continue to annihilate us in an effective, silent invisible manner. A few things.
     - who: David Boder
-      start: '00:33:10.247'
-      end: '00:33:11.455'
+      start:
+        sec: '1990.247'
+        mark: '00:33:10.247'
+      end:
+        sec: '1991.455'
+        mark: '00:33:11.455'
       u: "[word not clear]. Yes..."
     - who: Max Sprecher
-      start: '00:33:11.455'
-      end: '00:33:26.641'
+      start:
+        sec: '1991.455'
+        mark: '00:33:11.455'
+      end:
+        sec: '2006.641'
+        mark: '00:33:26.641'
       u: About this I wish to narrate further a few things. We had market [apparently
         a brief technical interruption].
     - who: David Boder
-      start: '00:33:26.641'
-      end: '00:33:28.330'
+      start:
+        sec: '2006.641'
+        mark: '00:33:26.641'
+      end:
+        sec: '2008.330'
+        mark: '00:33:28.330'
       u: All right. Go on.
     - who: Max Sprecher
-      start: '00:33:28.330'
-      end: '00:34:10.938'
+      start:
+        sec: '2008.330'
+        mark: '00:33:28.330'
+      end:
+        sec: '2050.938'
+        mark: '00:34:10.938'
       u: 'We were working in the Klinker works, in Sachsenhausen. That was a brick
         factory which was planned to become one of the largest in Germany. The Jews
         formed in this factory the commando [contingent] for the hardest labor. The
@@ -839,33 +1399,57 @@ recording:
         be done by the Jews. It [the work] proceeded at a rate which exceeds by many
         times the normal work rate of a men at liberty [In whisper: shall I stop?]'
     - who: David Boder
-      start: '00:34:10.938'
-      end: '00:34:15.182'
+      start:
+        sec: '2050.938'
+        mark: '00:34:10.938'
+      end:
+        sec: '2055.182'
+        mark: '00:34:15.182'
       u: "[also whispering] No, go on. [Apparently some technical difficulties at
         the end of the spool]."
     - who: Max Sprecher
-      start: '00:34:15.182'
-      end: '00:34:43.271'
+      start:
+        sec: '2055.182'
+        mark: '00:34:15.182'
+      end:
+        sec: '2083.271'
+        mark: '00:34:43.271'
       u: |-
         The method [of work]...the method used there was most refined, meticulously elaborated. For that purpose was assigned...located near our lager
                             Sachsenhausen a special staff under the direction of superior-group-fuehrer Von Eike [?], who has devised and assembled all the annihilation methods for all the concentration camps in Germany.
     - who: David Boder
-      start: '00:34:43.271'
-      end: '00:34:44.750'
+      start:
+        sec: '2083.271'
+        mark: '00:34:43.271'
+      end:
+        sec: '2084.750'
+        mark: '00:34:44.750'
       u: Where is he now?
     - who: Max Sprecher
-      start: '00:34:44.750'
-      end: '00:35:17.979'
+      start:
+        sec: '2084.750'
+        mark: '00:34:44.750'
+      end:
+        sec: '2117.979'
+        mark: '00:35:17.979'
       u: |-
         The same superior-group-leader Von Eike [?] was the lager
                             fuehrer in Dachau, in Buchenwald, in various additional lagers in Sachsenhausen, who established himself with a giant staff of various SS, sadists, murderers, scientists who have subtilized [cunninghly designed] an annihilation method which was assembled in the form of ‘Regulamin’ and strongly...
     - who: David Boder
-      start: '00:35:17.979'
-      end: '00:35:19.849'
+      start:
+        sec: '2117.979'
+        mark: '00:35:17.979'
+      end:
+        sec: '2119.849'
+        mark: '00:35:19.849'
       u: "‘Regulamin’ what is that?"
     - who: Max Sprecher
-      start: '00:35:19.849'
-      end: '00:36:01.750'
+      start:
+        sec: '2119.849'
+        mark: '00:35:19.849'
+      end:
+        sec: '2161.750'
+        mark: '00:36:01.750'
       u: A collection of rules, which sound liberal, humane, and loyal—transformed
         through SS and professional criminals— which were not followed as there prescribed,
         but in a completely different manner, with the aim and with the instructions
@@ -873,37 +1457,69 @@ recording:
         received in their power, in their ‘fold.’ Unfortunately, they have succeeded
         with this in the great majority of cases. [Pause].
     - who: David Boder
-      start: '00:36:01.750'
-      end: '00:36:06.445'
+      start:
+        sec: '2161.750'
+        mark: '00:36:01.750'
+      end:
+        sec: '2166.445'
+        mark: '00:36:06.445'
       u: Well, where ‘from’ did you go from Sachsenhausen? [correcting the sentence]
         where did you go from Sachsenhausen?
     - who: Max Sprecher
-      start: '00:36:06.445'
-      end: '00:36:08.555'
+      start:
+        sec: '2166.445'
+        mark: '00:36:06.445'
+      end:
+        sec: '2168.555'
+        mark: '00:36:08.555'
       u: We remained there for three years.
     - who: David Boder
-      start: '00:36:08.555'
-      end: '00:36:10.064'
+      start:
+        sec: '2168.555'
+        mark: '00:36:08.555'
+      end:
+        sec: '2170.064'
+        mark: '00:36:10.064'
       u: Three years in Sachsenhausen?
     - who: Max Sprecher
-      start: '00:36:10.064'
-      end: '00:36:14.669'
+      start:
+        sec: '2170.064'
+        mark: '00:36:10.064'
+      end:
+        sec: '2174.669'
+        mark: '00:36:14.669'
       u: From 1939 to 1949.
     - who: David Boder
-      start: '00:36:14.669'
-      end: '00:36:15.637'
+      start:
+        sec: '2174.669'
+        mark: '00:36:14.669'
+      end:
+        sec: '2175.637'
+        mark: '00:36:15.637'
       u: "[correcting] ’42."
     - who: Max Sprecher
-      start: '00:36:15.637'
-      end: '00:36:16.425'
+      start:
+        sec: '2175.637'
+        mark: '00:36:15.637'
+      end:
+        sec: '2176.425'
+        mark: '00:36:16.425'
       u: "’42."
     - who: David Boder
-      start: '00:36:16.425'
-      end: '00:36:16.792'
+      start:
+        sec: '2176.425'
+        mark: '00:36:16.425'
+      end:
+        sec: '2176.792'
+        mark: '00:36:16.792'
       u: Now.
     - who: Max Sprecher
-      start: '00:36:16.792'
-      end: '00:37:09.191'
+      start:
+        sec: '2176.792'
+        mark: '00:36:16.792'
+      end:
+        sec: '2229.191'
+        mark: '00:37:09.191'
       u: We remained there at that time in insulation only for a short time, since
         September 1939 until the eight of January, 1940. On that day marched in a
         contingent or company of three hundred Jewish prisoners, for the brick factory.
@@ -911,34 +1527,58 @@ recording:
         of our life in the lager. Harder, because we were transferred as a hard labor
         contingent, [assigned] to hardest labor with insufficient nourishment.
     - who: David Boder
-      start: '00:37:09.191'
-      end: '00:37:09.918'
+      start:
+        sec: '2229.191'
+        mark: '00:37:09.191'
+      end:
+        sec: '2229.918'
+        mark: '00:37:09.918'
       u: And easier...?
     - who: Max Sprecher
-      start: '00:37:09.918'
-      end: '00:37:19.213'
+      start:
+        sec: '2229.918'
+        mark: '00:37:09.918'
+      end:
+        sec: '2239.213'
+        mark: '00:37:19.213'
       u: And easier because we started to have our first contacts with other prisoners...political
         prisoners of the lager.
     - who: David Boder
-      start: '00:37:19.213'
-      end: '00:37:59.021'
+      start:
+        sec: '2239.213'
+        mark: '00:37:19.213'
+      end:
+        sec: '2279.021'
+        mark: '00:37:59.021'
       u: "[In English] This concludes Spool 146 [147], which...with the report of
         Mr. Sprecher. We are going over to Spool 147 [148] with this same report.
         Feldafing, a camp for displaced people, placed in a former Hitler-Jugend [Hitler
         Youth] installation, containing now in excess of 4,000 displaced Jews. An
         Illinois Institute of Technology [wire recording]."
     - who: David Boder
-      start: '00:37:59.021'
-      end: '00:38:10.246'
+      start:
+        sec: '2279.021'
+        mark: '00:37:59.021'
+      end:
+        sec: '2290.246'
+        mark: '00:38:10.246'
       u: "[In German] Now Mr. Sprecher, will you please continue. Where did you go
         from Sachsenhausen? And please stick to personal experiences."
     - who: Max Sprecher
-      start: '00:38:10.246'
-      end: '00:38:16.204'
+      start:
+        sec: '2290.246'
+        mark: '00:38:10.246'
+      end:
+        sec: '2296.204'
+        mark: '00:38:16.204'
       u: Now, we shall remain in our further conversation still in Sachsenhausen.
     - who: David Boder
-      start: '00:38:16.204'
-      end: '00:38:21.200'
+      start:
+        sec: '2296.204'
+        mark: '00:38:16.204'
+      end:
+        sec: '2301.200'
+        mark: '00:38:21.200'
       u: "[This is a rare case when the interviewer made an effort to redirect the
         interview. The reason if I remember correctly was the pressure of time under
         which I worked in Germany and the impatience, at times, of other interviewees
@@ -949,8 +1589,12 @@ recording:
         interviews, at least not to such a degree. —D.P.B.] Let us now conclude with
         Sachsenhausen, where did you go from Sachsenhausen?"
     - who: Max Sprecher
-      start: '00:38:21.200'
-      end: '00:38:53.436'
+      start:
+        sec: '2301.200'
+        mark: '00:38:21.200'
+      end:
+        sec: '2333.436'
+        mark: '00:38:53.436'
       u: In June...[corrects] in the fall of 1942 in the process of general relocation
         of Jewish prisoners, from prisons, houses of correction, and concentration
         camps, we were sent away by train to Poland to the famous concentration camp
@@ -958,60 +1602,108 @@ recording:
         Buchenwald, Dachau, Gross-Rosen, Neugane [this word seems distorted, probably
         Majdanek].
     - who: David Boder
-      start: '00:38:53.436'
-      end: '00:38:56.057'
+      start:
+        sec: '2333.436'
+        mark: '00:38:53.436'
+      end:
+        sec: '2336.057'
+        mark: '00:38:56.057'
       u: Were you tattooed in Auschwitz.
     - who: Max Sprecher
-      start: '00:38:56.057'
-      end: '00:38:57.686'
+      start:
+        sec: '2336.057'
+        mark: '00:38:56.057'
+      end:
+        sec: '2337.686'
+        mark: '00:38:57.686'
       u: At the arrival...
     - who: David Boder
-      start: '00:38:57.686'
-      end: '00:39:00.908'
+      start:
+        sec: '2337.686'
+        mark: '00:38:57.686'
+      end:
+        sec: '2340.908'
+        mark: '00:39:00.908'
       u: What is the tattoo number?
     - who: Max Sprecher
-      start: '00:39:00.908'
-      end: '00:39:21.488'
+      start:
+        sec: '2340.908'
+        mark: '00:39:00.908'
+      end:
+        sec: '2361.488'
+        mark: '00:39:21.488'
       u: Upon arrival in Auschwitz, we were tattooed. The transports from Dachan,
         Buchenwald and Sachsenhausen were given all the numbers from 68,000 to 70,000
         [?].
     - who: David Boder
-      start: '00:39:21.488'
-      end: '00:39:23.388'
+      start:
+        sec: '2361.488'
+        mark: '00:39:21.488'
+      end:
+        sec: '2363.388'
+        mark: '00:39:23.388'
       u: Your number?
     - who: Max Sprecher
-      start: '00:39:23.388'
-      end: '00:39:24.687'
+      start:
+        sec: '2363.388'
+        mark: '00:39:23.388'
+      end:
+        sec: '2364.687'
+        mark: '00:39:24.687'
       u: "[He apparently shows it] 70789"
     - who: David Boder
-      start: '00:39:24.687'
-      end: '00:39:28.420'
+      start:
+        sec: '2364.687'
+        mark: '00:39:24.687'
+      end:
+        sec: '2368.420'
+        mark: '00:39:28.420'
       u: Yes. Well. Go ahead.
     - who: Max Sprecher
-      start: '00:39:28.420'
-      end: '00:40:43.544'
+      start:
+        sec: '2368.420'
+        mark: '00:39:28.420'
+      end:
+        sec: '2443.544'
+        mark: '00:40:43.544'
       u: |-
         There we knew already what Auschwitz was, even before we had arrived. I just want to recall a little episode which reveals our mood while we were traveling to Auschwitz. The same day our things were taken away from us. Even in a lager one may have a relationship to his own things [an ‘attitude’ towards one’s own things], even to prisoners’ things. There were things that gave a certain [amount of warmth]. It was already autumn and warm things were of importance. [Same whisper] In the preparations for the transport, our warm things were taken away and we were given light summer things. This way the prisoners were usually dressed, when they were led to the ‘industrial’ yard, near the lager
                             Sachsenhausen to be shot. And [therefore] we all were sure that we are not lead to transport but that we shall be shot at night in the large square at the ‘industrial’ yard of the lager...of the concentration camp Sachsenhausen.
     - who: David Boder
-      start: '00:40:43.544'
-      end: '00:41:21.176'
+      start:
+        sec: '2443.544'
+        mark: '00:40:43.544'
+      end:
+        sec: '2481.176'
+        mark: '00:41:21.176'
       u: "[In English]. One gets so absorbed in that what one is telling, that I did
         not identify the spool at the beginning. This is spool 147 [corrects], oh,
         no, this is spool 148 and Mr. Sprecher is continuing here from spool 147.
         Munich, camp Feldafing, September the 23rd, 1946. [In German] Continue please."
     - who: Max Sprecher
-      start: '00:41:21.176'
-      end: '00:41:33.747'
+      start:
+        sec: '2481.176'
+        mark: '00:41:21.176'
+      end:
+        sec: '2493.747'
+        mark: '00:41:33.747'
       u: A small number of young, active people did not want to go voluntarily into
         death...
     - who: David Boder
-      start: '00:41:33.747'
-      end: '00:41:34.414'
+      start:
+        sec: '2493.747'
+        mark: '00:41:33.747'
+      end:
+        sec: '2494.414'
+        mark: '00:41:34.414'
       u: Yes.
     - who: Max Sprecher
-      start: '00:41:34.414'
-      end: '00:42:37.755'
+      start:
+        sec: '2494.414'
+        mark: '00:41:34.414'
+      end:
+        sec: '2557.755'
+        mark: '00:42:37.755'
       u: ". . . and attempted to break out of the barrack by force, where we were
         surrounded by SS. They ran through the lager with the intention to scale the
         block...the fence, which was insulated [he means obviously charged] with electric
@@ -1022,35 +1714,59 @@ recording:
         Berlin, they could not permit themselves...they could not permit the SS to
         disgrace themselves, that they should have permitted..."
     - who: David Boder
-      start: '00:42:37.755'
-      end: '00:42:44.555'
+      start:
+        sec: '2557.755'
+        mark: '00:42:37.755'
+      end:
+        sec: '2564.555'
+        mark: '00:42:44.555'
       u: Please do not give the evaluations of situations, we have that. Please give
         the facts...
     - who: Max Sprecher
-      start: '00:42:44.555'
-      end: '00:43:26.004'
+      start:
+        sec: '2564.555'
+        mark: '00:42:44.555'
+      end:
+        sec: '2606.004'
+        mark: '00:43:26.004'
       u: |-
         Yes. They made an attempt to break through the lines of the SS, and to leave the lager by force. They were caught, and brought back to us to the assembly place [?]. As the lager
                             fuehrer has told us that time: ‘Nothing shall open happen to you, you shall not go...you shall not be shot, you are being transported to the lager
                             Auschwitz.’ I have recalled this occurrence to reveal the mood that has prevailed in the midst of the Jewish prisoners at that time, when it was decided to take us to Auschwitz. So now we are in Auschwitz. We saw there day after day...
     - who: David Boder
-      start: '00:43:26.004'
-      end: '00:43:28.144'
+      start:
+        sec: '2606.004'
+        mark: '00:43:26.004'
+      end:
+        sec: '2608.144'
+        mark: '00:43:28.144'
       u: How did you arrive there? Only men?
     - who: Max Sprecher
-      start: '00:43:28.144'
-      end: '00:45:06.716'
+      start:
+        sec: '2608.144'
+        mark: '00:43:28.144'
+      end:
+        sec: '2706.716'
+        mark: '00:45:06.716'
       u: |-
         We were transported in freight [?] cars, seventy to eighty prisoners in one car. We arrived a protracted journey in Auschwitz. Men only. Because the concentration camp Sachsenhausen as well as Meugane [?], Buchenwald, and Dachau consisted only of male prisoners. The transport consisted then only of Jewish prisoners, because, as I mentioned, it was decided at that time to send all the Jewish prisoners to the concentration camps pertaining to Auschwitz. In Auschwitz we immediately presented ourselves for a transport to the Buna industries. We presented ourselves so that we should not have to wait [to idle], to vegetate in that horrible lager
                             Auschwitz. Buna was called Auschwitz II [two], a small lager annex, near Auswitz. It was small in terms of a lager for prisoners, but it was to be built up into the largest industrial project of the I.G. FARBEN industry of that region. It was already in our time a conglomeration of a thousand interconnected factories. Each factory occupied a few dozen [tens]...it was planned that each factory should occupy a few hundred [?] prisoners. The whole project Buna
                             Auschwitz II was to occupy five hundred thousand prisoners. At that time...
     - who: David Boder
-      start: '00:45:06.716'
-      end: '00:45:10.029'
+      start:
+        sec: '2706.716'
+        mark: '00:45:06.716'
+      end:
+        sec: '2710.029'
+        mark: '00:45:10.029'
       u: You said a few...were there a few thousand or a few people?
     - who: Max Sprecher
-      start: '00:45:10.029'
-      end: '00:45:59.170'
+      start:
+        sec: '2710.029'
+        mark: '00:45:10.029'
+      end:
+        sec: '2759.170'
+        mark: '00:45:59.170'
       u: At that time we were there a few thousand prisoners. The Buna Project, the
         project for manufacture of artificial rubber, was planned and constructed
         for a half a million workers, mostly prisoners-workers. Already at that time
@@ -1059,34 +1775,58 @@ recording:
         Ukranians, and Russians. The whole project was exactly...the whole project...the
         industrial project Buna was...
     - who: David Boder
-      start: '00:45:59.170'
-      end: '00:46:06.751'
+      start:
+        sec: '2759.170'
+        mark: '00:45:59.170'
+      end:
+        sec: '2766.751'
+        mark: '00:46:06.751'
       u: Well,...we have the history of Buna. I want to know what has happened to
         you...just stick to that...
     - who: Max Sprecher
-      start: '00:46:06.751'
-      end: '00:46:26.701'
+      start:
+        sec: '2766.751'
+        mark: '00:46:06.751'
+      end:
+        sec: '2786.701'
+        mark: '00:46:26.701'
       u: We worked there [he apparently perceives the word Ihen, a polite form of
         you singular as a plural and therefore still continues with the history of
         the group]divided into various details consisting of thirty, forty up to fifty
         prisoners in a detail, at various work places. The work varied. Artisans worked
         at their trade. Metal workers [locksmiths], carpenters, electricians...
     - who: David Boder
-      start: '00:46:26.701'
-      end: '00:46:32.869'
+      start:
+        sec: '2786.701'
+        mark: '00:46:26.701'
+      end:
+        sec: '2792.869'
+        mark: '00:46:32.869'
       u: ". . . but what happened to you? Do not tell me the history of Buna, we know
         that. I want to know what happened to you."
     - who: Max Sprecher
-      start: '00:46:32.869'
-      end: '00:46:37.835'
+      start:
+        sec: '2792.869'
+        mark: '00:46:32.869'
+      end:
+        sec: '2797.835'
+        mark: '00:46:37.835'
       u: I as a non-artisan, worked in a...
     - who: David Boder
-      start: '00:46:37.835'
-      end: '00:46:40.871'
+      start:
+        sec: '2797.835'
+        mark: '00:46:37.835'
+      end:
+        sec: '2800.871'
+        mark: '00:46:40.871'
       u: "[remark not clear]"
     - who: Max Sprecher
-      start: '00:46:40.871'
-      end: '00:47:24.133'
+      start:
+        sec: '2800.871'
+        mark: '00:46:40.871'
+      end:
+        sec: '2844.133'
+        mark: '00:47:24.133'
       u: I as a non-artisan worked there in a simple detail assigned to transportation
         of lumber, of concrete, of iron. The tempo of the work was above the average
         [rate]. The food was insufficient. Putting these two factors together one
@@ -1094,12 +1834,20 @@ recording:
         in the lapse of a very short time. This offered a most radical method of extermination
         of people.
     - who: David Boder
-      start: '00:47:24.133'
-      end: '00:47:26.965'
+      start:
+        sec: '2844.133'
+        mark: '00:47:24.133'
+      end:
+        sec: '2846.965'
+        mark: '00:47:26.965'
       u: What happened to you?
     - who: Max Sprecher
-      start: '00:47:26.965'
-      end: '00:48:18.981'
+      start:
+        sec: '2846.965'
+        mark: '00:47:26.965'
+      end:
+        sec: '2898.981'
+        mark: '00:48:18.981'
       u: In the course of that time I became so depleted of bodily strength that I
         was not able any more to execute the smallest, lightest tasks. I was then
         sent to the hospital [in] Auschwitz. Usually the prisoners who were sent to
@@ -1108,33 +1856,57 @@ recording:
         transport is to be assembled within the next few days, and I got out of the
         hospital.
     - who: David Boder
-      start: '00:48:18.981'
-      end: '00:48:20.737'
+      start:
+        sec: '2898.981'
+        mark: '00:48:18.981'
+      end:
+        sec: '2900.737'
+        mark: '00:48:20.737'
       u: What do you mean, you got out? You...
     - who: Max Sprecher
-      start: '00:48:20.737'
-      end: '00:49:38.514'
+      start:
+        sec: '2900.737'
+        mark: '00:48:20.737'
+      end:
+        sec: '2978.514'
+        mark: '00:49:38.514'
       u: |-
         There was a Jewish doctor form France. By an understanding with this Jewish doctor he wrote a note that I was already well, capable to work, and I got out, back into the lager. With the help of an old prisoner from the lager
                             Sachsenhausen who was there in the labor service, I was taken into the laundry, because in the lumber yard which belonged to the easiest detail of the lager and which assembled only people who were...who had sick feet or were (generally) sick, and could not work hard. But I had no strength to march the fifty meters from the lager to the lumber yard together with the detail. And so the guards, the accompanying SS guards did not want to take me with them, and so the laundry detail was chosen for me [located] in the lager
                             Auschwitz proper. And so I had to go only to the next block, from the block where I lived to the next block where the laundry was located. The laundry washed the prisoners’ clothing. Prisoners’...
     - who: David Boder
-      start: '00:49:38.514'
-      end: '00:49:40.534'
+      start:
+        sec: '2978.514'
+        mark: '00:49:38.514'
+      end:
+        sec: '2980.534'
+        mark: '00:49:40.534'
       u: What were you doing...?
     - who: Max Sprecher
-      start: '00:49:40.534'
-      end: '00:50:05.109'
+      start:
+        sec: '2980.534'
+        mark: '00:49:40.534'
+      end:
+        sec: '3005.109'
+        mark: '00:50:05.109'
       u: I was washing the clothes which were handed to me from the kettle. The clothing
         consisted...that what I was washing consistd of suits, striped and non-striped,
         clothing that was given after long intervals to the prisoners to change. And...
     - who: David Boder
-      start: '00:50:05.109'
-      end: '00:50:05.746'
+      start:
+        sec: '3005.109'
+        mark: '00:50:05.109'
+      end:
+        sec: '3005.746'
+        mark: '00:50:05.746'
       u: Go on...
     - who: Max Sprecher
-      start: '00:50:05.746'
-      end: '00:51:16.978'
+      start:
+        sec: '3005.746'
+        mark: '00:50:05.746'
+      end:
+        sec: '3076.978'
+        mark: '00:51:16.978'
       u: The work there was going on in two shifts. Day shift and night shift. I worked
         there mostly at night. The day I had free to sleep, I made use of the day
         for different purposes. There were various blocks. The blocks had room elders,
@@ -1150,69 +1922,125 @@ recording:
         could be [???] I was able to walk fifty meters [?] and hundred meters [?]
         together with people, without lagging behind.
     - who: David Boder
-      start: '00:51:16.978'
-      end: '00:51:19.689'
+      start:
+        sec: '3076.978'
+        mark: '00:51:16.978'
+      end:
+        sec: '3079.689'
+        mark: '00:51:19.689'
       u: Well. What happened then?
     - who: Max Sprecher
-      start: '00:51:19.689'
-      end: '00:51:36.739'
+      start:
+        sec: '3079.689'
+        mark: '00:51:19.689'
+      end:
+        sec: '3096.739'
+        mark: '00:51:36.739'
       u: At the end of ’43, December of ’43 a detail departed from Auschwitz to Birkenau.
         It was a construction detail which was composed of various groups.
     - who: David Boder
-      start: '00:51:36.739'
-      end: '00:51:37.827'
+      start:
+        sec: '3096.739'
+        mark: '00:51:36.739'
+      end:
+        sec: '3097.827'
+        mark: '00:51:37.827'
       u: What kind of a detail? [The word designating ‘construction’ was not clear].
     - who: Max Sprecher
-      start: '00:51:37.827'
-      end: '00:51:40.358'
+      start:
+        sec: '3097.827'
+        mark: '00:51:37.827'
+      end:
+        sec: '3100.358'
+        mark: '00:51:40.358'
       u: A construction [still not clear] detail.
     - who: David Boder
-      start: '00:51:40.358'
-      end: '00:51:41.116'
+      start:
+        sec: '3100.358'
+        mark: '00:51:40.358'
+      end:
+        sec: '3101.116'
+        mark: '00:51:41.116'
       u: A construction detail.
     - who: Max Sprecher
-      start: '00:51:41.116'
-      end: '00:51:41.843'
+      start:
+        sec: '3101.116'
+        mark: '00:51:41.116'
+      end:
+        sec: '3101.843'
+        mark: '00:51:41.843'
       u: A construction detail.
     - who: David Boder
-      start: '00:51:41.843'
-      end: '00:51:43.382'
+      start:
+        sec: '3101.843'
+        mark: '00:51:41.843'
+      end:
+        sec: '3103.382'
+        mark: '00:51:43.382'
       u: Yes...yes.
     - who: Max Sprecher
-      start: '00:51:43.382'
-      end: '00:51:53.518'
+      start:
+        sec: '3103.382'
+        mark: '00:51:43.382'
+      end:
+        sec: '3113.518'
+        mark: '00:51:53.518'
       u: I was there the clerk, in that detail, because I was versed equally well
         in German, in Polish, and Russian - so I was made there the clerk.
     - who: David Boder
-      start: '00:51:53.518'
-      end: '00:51:55.418'
+      start:
+        sec: '3113.518'
+        mark: '00:51:53.518'
+      end:
+        sec: '3115.418'
+        mark: '00:51:55.418'
       u: Where did you learn Russian?
     - who: Max Sprecher
-      start: '00:51:55.418'
-      end: '00:52:27.850'
+      start:
+        sec: '3115.418'
+        mark: '00:51:55.418'
+      end:
+        sec: '3147.850'
+        mark: '00:52:27.850'
       u: Russian I have learned in part before I got into the lager, in part illegally
         in the lager. There existed in the lager along with the official life, an
         unofficial, an illegal life. And that in part has greatly ‘enriched’ a prisoner
         who lived in the lager, who not only was [existed] in the lager but lived.
         It gave him a certain satisfaction with [compensation for] his sufferings.
     - who: David Boder
-      start: '00:52:27.850'
-      end: '00:52:29.209'
+      start:
+        sec: '3147.850'
+        mark: '00:52:27.850'
+      end:
+        sec: '3149.209'
+        mark: '00:52:29.209'
       u: Well.
     - who: Max Sprecher
-      start: '00:52:29.209'
-      end: '00:52:59.462'
+      start:
+        sec: '3149.209'
+        mark: '00:52:29.209'
+      end:
+        sec: '3179.462'
+        mark: '00:52:59.462'
       u: |-
         I went then with the construction detail from Auschwitz to Birkenau. Birkenau was three kilometers away from Auschwitz, the place [Birkenau] where there were located the five crematories. Our detail worked in various places. In the prisoners’ lager, in the SS
                             lager, in the service buildings. As clerk I got around everywhere, also in the crematories.
     - who: David Boder
-      start: '00:52:59.462'
-      end: '00:53:04.518'
+      start:
+        sec: '3179.462'
+        mark: '00:52:59.462'
+      end:
+        sec: '3184.518'
+        mark: '00:53:04.518'
       u: Well, tell me something about the crematories. What have you seen? What do
         you know?
     - who: Max Sprecher
-      start: '00:53:04.518'
-      end: '00:55:55.995'
+      start:
+        sec: '3184.518'
+        mark: '00:53:04.518'
+      end:
+        sec: '3355.995'
+        mark: '00:55:55.995'
       u: 'I want to mention a few minor details. One case. One morning we leave [we
         stand in] the lager. The details are standing in groups. At the head of each
         detail stands a capo [trusty] who leads his detail through the gate. At the
@@ -1243,41 +2071,73 @@ recording:
         and four were set so that the gas chambers were above ground. In both, in
         the four crematories were working hundreds of Jewish prisoners.'
     - who: David Boder
-      start: '00:55:55.995'
-      end: '00:55:57.083'
+      start:
+        sec: '3355.995'
+        mark: '00:55:55.995'
+      end:
+        sec: '3357.083'
+        mark: '00:55:57.083'
       u: And others?
     - who: Max Sprecher
-      start: '00:55:57.083'
-      end: '00:56:33.711'
+      start:
+        sec: '3357.083'
+        mark: '00:55:57.083'
+      end:
+        sec: '3393.711'
+        mark: '00:56:33.711'
       u: Few. Four, five Polish prisoners worked there too. Only after the liquidation
         of Lublin there arrived a small group of 25-30 Russian prisoners, concentration
         camp prisoners, military prisoners, who worked there in these crematories.
         On the way to the crematory one and two, I encounter in a deep ditch, in a
         Rinstein, two Jewish children. They recognized me...
     - who: David Boder
-      start: '00:56:33.711'
-      end: '00:56:35.010'
+      start:
+        sec: '3393.711'
+        mark: '00:56:33.711'
+      end:
+        sec: '3395.010'
+        mark: '00:56:35.010'
       u: What is a Rinstein?
     - who: Max Sprecher
-      start: '00:56:35.010'
-      end: '00:56:36.759'
+      start:
+        sec: '3395.010'
+        mark: '00:56:35.010'
+      end:
+        sec: '3396.759'
+        mark: '00:56:36.759'
       u: A Rinstein is a deep ditch [open sewer].
     - who: David Boder
-      start: '00:56:36.759'
-      end: '00:56:39.260'
+      start:
+        sec: '3396.759'
+        mark: '00:56:36.759'
+      end:
+        sec: '3399.260'
+        mark: '00:56:39.260'
       u: Yes...yes, [in English] a ditch.
     - who: Max Sprecher
-      start: '00:56:39.260'
-      end: '00:56:47.983'
+      start:
+        sec: '3399.260'
+        mark: '00:56:39.260'
+      end:
+        sec: '3407.983'
+        mark: '00:56:47.983'
       u: Yes. They came up crawling, the two Jewish children, because they have seen
         there above a Jewish prisoner.
     - who: David Boder
-      start: '00:56:47.983'
-      end: '00:56:48.560'
+      start:
+        sec: '3407.983'
+        mark: '00:56:47.983'
+      end:
+        sec: '3408.560'
+        mark: '00:56:48.560'
       u: "[In whispers not clear] How?"
     - who: Max Sprecher
-      start: '00:56:48.560'
-      end: '00:58:15.624'
+      start:
+        sec: '3408.560'
+        mark: '00:56:48.560'
+      end:
+        sec: '3495.624'
+        mark: '00:58:15.624'
       u: 'By the star of David. It was I. I recognized them as Jewish children, because
         they at their eight or nine years were also wearing the Mogen David with the
         inscription ‘Jew’. They then spoke to me [in German]: ‘please tell us—they
@@ -1294,23 +2154,39 @@ recording:
         was still standing the big transport which arrived by train—they were soon
         burned. They have come to their father.'
     - who: David Boder
-      start: '00:58:15.624'
-      end: '00:58:22.905'
+      start:
+        sec: '3495.624'
+        mark: '00:58:15.624'
+      end:
+        sec: '3502.905'
+        mark: '00:58:22.905'
       u: "[A pause]. So what happened to you afterwards. Continue with your own story.
         What happened to you after..."
     - who: Max Sprecher
-      start: '00:58:22.905'
-      end: '00:58:43.592'
+      start:
+        sec: '3502.905'
+        mark: '00:58:22.905'
+      end:
+        sec: '3523.592'
+        mark: '00:58:43.592'
       u: Hm [a pause]. I made the rounds of various lagers. In a small way I attempted
         to prepare the people for that which we had to reckon will come over us. We
         all...
     - who: David Boder
-      start: '00:58:43.592'
-      end: '00:58:44.770'
+      start:
+        sec: '3523.592'
+        mark: '00:58:43.592'
+      end:
+        sec: '3524.770'
+        mark: '00:58:44.770'
       u: Reckon with what?
     - who: Max Sprecher
-      start: '00:58:44.770'
-      end: '00:59:26.370'
+      start:
+        sec: '3524.770'
+        mark: '00:58:44.770'
+      end:
+        sec: '3566.370'
+        mark: '00:59:26.370'
       u: We all figured, including myself...that we...that there will be enough time
         for the SS to gas-kill us all. The gigantic transports of wood that were brought
         in day after day was proof that the program [plan] was in preparation...[or
@@ -1320,63 +2196,111 @@ recording:
         to prepare the people so that they should know what was for sure in store
         for all of us...
     - who: David Boder
-      start: '00:59:26.370'
-      end: '00:59:27.639'
+      start:
+        sec: '3566.370'
+        mark: '00:59:26.370'
+      end:
+        sec: '3567.639'
+        mark: '00:59:27.639'
       u: Why prepare them? What...?
     - who: Max Sprecher
-      start: '00:59:27.639'
-      end: '00:59:49.920'
+      start:
+        sec: '3567.639'
+        mark: '00:59:27.639'
+      end:
+        sec: '3589.920'
+        mark: '00:59:49.920'
       u: 'The preparation consisted in one thing. We organized there a certain illegal
         movement, which was devoted to the following thing. First: to collect insulated
         pliers, annealed for twelve thousand volts, electrical pliers...'
     - who: David Boder
-      start: '00:59:49.920'
-      end: '00:59:50.467'
+      start:
+        sec: '3589.920'
+        mark: '00:59:49.920'
+      end:
+        sec: '3590.467'
+        mark: '00:59:50.467'
       u: Yes.
     - who: Max Sprecher
-      start: '00:59:50.467'
-      end: '01:00:11.014'
+      start:
+        sec: '3590.467'
+        mark: '00:59:50.467'
+      end:
+        sec: '3611.014'
+        mark: '01:00:11.014'
       u: Which had the purpose to perform, after proper preparation, a break through
         in the electric wires [fences], with insulated pliers, for twelve thousand
         volts. At that time we had exact information. We received every day a report
         from the electricians, how high was the insulation [corrects humself] how
         high was the electric charge of...
     - who: David Boder
-      start: '01:00:11.014'
-      end: '01:00:12.016'
+      start:
+        sec: '3611.014'
+        mark: '01:00:11.014'
+      end:
+        sec: '3612.016'
+        mark: '01:00:12.016'
       u: The current?
     - who: Max Sprecher
-      start: '01:00:12.016'
-      end: '01:02:21.228'
+      start:
+        sec: '3612.016'
+        mark: '01:00:12.016'
+      end:
+        sec: '3741.228'
+        mark: '01:02:21.228'
       u: |-
         The current in the wires. So we knew exactly with what kind of tools we would have to work and if our tools could be used for that purpose. Besides we prepared a number of various acts, which consisted of the following. We organized groups to escape from the lager and we supplied them with books from the crematory with names in the hope that if not all, so a part will get through, and the names of the fallen people will get out and remain in existence for the world. We also made attempts to make contact with the [a long pause; it seems that at times the revival of memories was so realistic that even a year after liberation people were hesistant to talk about ‘illegal’ acts perpetrated in the camps against the Nazis]...with the partisans who were active there in that region. We did not succeed in it completely. The contact was made at a time when the partisans started ‘working’...executing their underground [?] work in the environs of our lager. There came on the 18th of January ’45 the evacuation of the lager. What we have accomplished was that a part of the prisoners, Poles [Christians], sympathizers of radical leftist movements, who had escaped from the lager have joined in a short time the partisan movement of the region, have attacked the lager in Bodi [?], and during the shooting fell two former prisoners of the lager
                             Auschwitz. [His sentence construction becomes confused.] From the former prisoners were...that they were former prisoners we recognized from their tattoo numbers, from the tattoo number which they had on their hand.
     - who: David Boder
-      start: '01:02:21.228'
-      end: '01:02:24.727'
+      start:
+        sec: '3741.228'
+        mark: '01:02:21.228'
+      end:
+        sec: '3744.727'
+        mark: '01:02:24.727'
       u: For what purpose?...what they accomplished by it?
     - who: Max Sprecher
-      start: '01:02:24.727'
-      end: '01:02:34.816'
+      start:
+        sec: '3744.727'
+        mark: '01:02:24.727'
+      end:
+        sec: '3754.816'
+        mark: '01:02:34.816'
       u: The purpose consisted in tearing open the lager and to lead out the prisoners
         who were in the lager to the partisans in the forest.
     - who: David Boder
-      start: '01:02:34.816'
-      end: '01:02:35.216'
+      start:
+        sec: '3754.816'
+        mark: '01:02:34.816'
+      end:
+        sec: '3755.216'
+        mark: '01:02:35.216'
       u: So did they...
     - who: Max Sprecher
-      start: '01:02:35.216'
-      end: '01:02:55.897'
+      start:
+        sec: '3755.216'
+        mark: '01:02:35.216'
+      end:
+        sec: '3775.897'
+        mark: '01:02:55.897'
       u: The exploit did not succeed, because the SS was there in the majority, and
         they were much better armed than the partisans which executed the attack.
         Another sector of the work consisted in procuring ammunition and explosives...
     - who: David Boder
-      start: '01:02:55.897'
-      end: '01:02:57.029'
+      start:
+        sec: '3775.897'
+        mark: '01:02:55.897'
+      end:
+        sec: '3777.029'
+        mark: '01:02:57.029'
       u: "[words not clear]"
     - who: Max Sprecher
-      start: '01:02:57.029'
-      end: '01:05:17.966'
+      start:
+        sec: '3777.029'
+        mark: '01:02:57.029'
+      end:
+        sec: '3917.966'
+        mark: '01:05:17.966'
       u: ". . . for all eventualities. There was in Auschwitz a factory that was called
         Union...a factory that was called Union, a munitions factory. There they assembled
         grenades for the army. Through a contact with a few Jewish girls who formed
@@ -1401,31 +2325,55 @@ recording:
         a part of the satisfaction...a part of the meaning [purpose] for us and the
         sake of other people."
     - who: David Boder
-      start: '01:05:17.966'
-      end: '01:05:22.669'
+      start:
+        sec: '3917.966'
+        mark: '01:05:17.966'
+      end:
+        sec: '3922.669'
+        mark: '01:05:22.669'
       u: Now then go ahead. What happened to you then? Return to your personal [experiences].
     - who: Max Sprecher
-      start: '01:05:22.669'
-      end: '01:05:57.785'
+      start:
+        sec: '3922.669'
+        mark: '01:05:22.669'
+      end:
+        sec: '3957.785'
+        mark: '01:05:57.785'
       u: The 8th of January we went to transport. The transport proceeded in part
         on foot. We came from there, and part of the road was already encircles by
         the Russian army. Rather hastily we were crowded into RR-cars, into open RR-cars,
         freight RR-cars, and we were taken to Dachau. [Pause].
     - who: David Boder
-      start: '01:05:57.785'
-      end: '01:05:59.539'
+      start:
+        sec: '3957.785'
+        mark: '01:05:57.785'
+      end:
+        sec: '3959.539'
+        mark: '01:05:59.539'
       u: And where were you liberated?
     - who: Max Sprecher
-      start: '01:05:59.539'
-      end: '01:06:03.008'
+      start:
+        sec: '3959.539'
+        mark: '01:05:59.539'
+      end:
+        sec: '3963.008'
+        mark: '01:06:03.008'
       u: I was liberated in Tuzing [?]
     - who: David Boder
-      start: '01:06:03.008'
-      end: '01:06:06.447'
+      start:
+        sec: '3963.008'
+        mark: '01:06:03.008'
+      end:
+        sec: '3966.447'
+        mark: '01:06:06.447'
       u: How did you get from Dachau to Tuzing?
     - who: Max Sprecher
-      start: '01:06:06.447'
-      end: '01:07:00.139'
+      start:
+        sec: '3966.447'
+        mark: '01:06:06.447'
+      end:
+        sec: '4020.139'
+        mark: '01:07:00.139'
       u: We were then...from Dachau we marched on to Bolshlager [?] near Muehldorf.
         There they were building a large subterranean bunker, a concrete bunker. At
         it were occupied...we all worked there. At the approach of the American army,
@@ -1436,57 +2384,105 @@ recording:
         killed, or pressed into service as auxiliary soliders in the desperate fight
         of the SS.
     - who: David Boder
-      start: '01:07:00.139'
-      end: '01:07:02.074'
+      start:
+        sec: '4020.139'
+        mark: '01:07:00.139'
+      end:
+        sec: '4022.074'
+        mark: '01:07:02.074'
       u: Now where were you liberated?
     - who: Max Sprecher
-      start: '01:07:02.074'
-      end: '01:07:20.633'
+      start:
+        sec: '4022.074'
+        mark: '01:07:02.074'
+      end:
+        sec: '4040.633'
+        mark: '01:07:20.633'
       u: We were liberated near Tuzing [?], and a train which was designated for the
         Tirol, but due to the destruction of the railroad tracks by the American Army...we
         were unable to get through, and so by accident we remained alive.
     - who: David Boder
-      start: '01:07:20.633'
-      end: '01:07:23.109'
+      start:
+        sec: '4040.633'
+        mark: '01:07:20.633'
+      end:
+        sec: '4043.109'
+        mark: '01:07:23.109'
       u: And what are you doing now?
     - who: Max Sprecher
-      start: '01:07:23.109'
-      end: '01:07:58.328'
+      start:
+        sec: '4043.109'
+        mark: '01:07:23.109'
+      end:
+        sec: '4078.328'
+        mark: '01:07:58.328'
       u: After liberation I attempted in this lager together with a few other [?]
         people to devote myself to practical work. Our work consisted in installing
         a network of shops, trade shops for carpenters, for electricians, for metal
         workers, for tailors, which...
     - who: David Boder
-      start: '01:07:58.328'
-      end: '01:07:59.240'
+      start:
+        sec: '4078.328'
+        mark: '01:07:58.328'
+      end:
+        sec: '4079.240'
+        mark: '01:07:59.240'
       u: In what lager was that?
     - who: Max Sprecher
-      start: '01:07:59.240'
-      end: '01:08:01.446'
+      start:
+        sec: '4079.240'
+        mark: '01:07:59.240'
+      end:
+        sec: '4081.446'
+        mark: '01:08:01.446'
       u: I did not work in lagers...[??]
     - who: David Boder
-      start: '01:08:01.446'
-      end: '01:08:04.314'
+      start:
+        sec: '4081.446'
+        mark: '01:08:01.446'
+      end:
+        sec: '4084.314'
+        mark: '01:08:04.314'
       u: But wait a moment, how did you get here?
     - who: Max Sprecher
-      start: '01:08:04.314'
-      end: '01:08:09.198'
+      start:
+        sec: '4084.314'
+        mark: '01:08:04.314'
+      end:
+        sec: '4089.198'
+        mark: '01:08:09.198'
       u: We were then brought here by train from Tuzing.
     - who: David Boder
-      start: '01:08:09.198'
-      end: '01:08:09.779'
+      start:
+        sec: '4089.198'
+        mark: '01:08:09.198'
+      end:
+        sec: '4089.779'
+        mark: '01:08:09.779'
       u: and...to Feldafing.
     - who: Max Sprecher
-      start: '01:08:09.779'
-      end: '01:08:10.239'
+      start:
+        sec: '4089.779'
+        mark: '01:08:09.779'
+      end:
+        sec: '4090.239'
+        mark: '01:08:10.239'
       u: To Feldafing.
     - who: David Boder
-      start: '01:08:10.239'
-      end: '01:08:10.820'
+      start:
+        sec: '4090.239'
+        mark: '01:08:10.239'
+      end:
+        sec: '4090.820'
+        mark: '01:08:10.820'
       u: To Feldafing.
     - who: Max Sprecher
-      start: '01:08:10.820'
-      end: '01:08:37.468'
+      start:
+        sec: '4090.820'
+        mark: '01:08:10.820'
+      end:
+        sec: '4117.468'
+        mark: '01:08:37.468'
       u: And,only after a few days, we started our practical work. Partly we were
         involved in social [community] work before we got into the [KZ] camp, and
         the first thing we considered appropriate after getting out of the [KZ] camp,
@@ -1494,38 +2490,70 @@ recording:
         in leading again these declassed, broken-up people toward productive, normal
         work. And that consists...
     - who: David Boder
-      start: '01:08:37.468'
-      end: '01:08:37.778'
+      start:
+        sec: '4117.468'
+        mark: '01:08:37.468'
+      end:
+        sec: '4117.778'
+        mark: '01:08:37.778'
       u: Did...
     - who: Max Sprecher
-      start: '01:08:37.778'
-      end: '01:08:39.171'
+      start:
+        sec: '4117.778'
+        mark: '01:08:37.778'
+      end:
+        sec: '4119.171'
+        mark: '01:08:39.171'
       u: In leading the Jews into the shops.
     - who: David Boder
-      start: '01:08:39.171'
-      end: '01:08:41.858'
+      start:
+        sec: '4119.171'
+        mark: '01:08:39.171'
+      end:
+        sec: '4121.858'
+        mark: '01:08:41.858'
       u: Does the ORT have any shops here?
     - who: Max Sprecher
-      start: '01:08:41.858'
-      end: '01:08:43.161'
+      start:
+        sec: '4121.858'
+        mark: '01:08:41.858'
+      end:
+        sec: '4123.161'
+        mark: '01:08:43.161'
       u: At that time there was no...
     - who: David Boder
-      start: '01:08:43.161'
-      end: '01:08:44.193'
+      start:
+        sec: '4123.161'
+        mark: '01:08:43.161'
+      end:
+        sec: '4124.193'
+        mark: '01:08:44.193'
       u: But now?
     - who: Max Sprecher
-      start: '01:08:44.193'
-      end: '01:08:59.880'
+      start:
+        sec: '4124.193'
+        mark: '01:08:44.193'
+      end:
+        sec: '4139.880'
+        mark: '01:08:59.880'
       u: At that time there was no ORT, today there is a ORT. The shops which have
         been built here were not built by ORT. They were built by a small group of
         people, who have concentrated around the Jewish workmen’s committee.
     - who: David Boder
-      start: '01:08:59.880'
-      end: '01:09:02.296'
+      start:
+        sec: '4139.880'
+        mark: '01:08:59.880'
+      end:
+        sec: '4142.296'
+        mark: '01:09:02.296'
       u: All right. But now you don’t live in Feldafing.
     - who: Max Sprecher
-      start: '01:09:02.296'
-      end: '01:09:39.069'
+      start:
+        sec: '4142.296'
+        mark: '01:09:02.296'
+      end:
+        sec: '4179.069'
+        mark: '01:09:39.069'
       u: I have left Feldafing in September ’45 for Heidelberg. There I have studied,
         now for two semesters, medicine. I am...I have started my studies still before
         in [I have come to] Germany and am continuing now. I am precisely now just
@@ -1533,43 +2561,75 @@ recording:
         curriculum] after the interuption. A part of my physicum examinations I passed
         eight years ago in Berlin and the remaining part I passed last week in Heidelberg.
     - who: David Boder
-      start: '01:09:39.069'
-      end: '01:09:46.149'
+      start:
+        sec: '4179.069'
+        mark: '01:09:39.069'
+      end:
+        sec: '4186.149'
+        mark: '01:09:46.149'
       u: How do the professors behave? How many Jewish students are there now, who
         were such before they were confined to concentration camps?
     - who: Max Sprecher
-      start: '01:09:46.149'
-      end: '01:09:55.632'
+      start:
+        sec: '4186.149'
+        mark: '01:09:46.149'
+      end:
+        sec: '4195.632'
+        mark: '01:09:55.632'
       u: We are there twenty students. Of them eighteen were in concentration camps.
         Two have returned from Russia.
     - who: David Boder
-      start: '01:09:55.632'
-      end: '01:09:58.169'
+      start:
+        sec: '4195.632'
+        mark: '01:09:55.632'
+      end:
+        sec: '4198.169'
+        mark: '01:09:58.169'
       u: Is there a quotta for Jews in Heidelberg?
     - who: Max Sprecher
-      start: '01:09:58.169'
-      end: '01:10:03.083'
+      start:
+        sec: '4198.169'
+        mark: '01:09:58.169'
+      end:
+        sec: '4203.083'
+        mark: '01:10:03.083'
       u: There is no quota for Jews, but there is a quota for foreigners.
     - who: David Boder
-      start: '01:10:03.083'
-      end: '01:10:03.423'
+      start:
+        sec: '4203.083'
+        mark: '01:10:03.083'
+      end:
+        sec: '4203.423'
+        mark: '01:10:03.423'
       u: Yes.
     - who: Max Sprecher
-      start: '01:10:03.423'
-      end: '01:10:31.741'
+      start:
+        sec: '4203.423'
+        mark: '01:10:03.423'
+      end:
+        sec: '4231.741'
+        mark: '01:10:31.741'
       u: And this quota for foreigners is not being filled by people from among the
         DPs. It is being filled in part with people who came here from various countries,
         especially from the Baltic countries, and the predominant number of students
         at the universities are from these previous inhabitants of the Baltic states
         who are concentrated here in very large numbers.
     - who: David Boder
-      start: '01:10:31.741'
-      end: '01:10:40.055'
+      start:
+        sec: '4231.741'
+        mark: '01:10:31.741'
+      end:
+        sec: '4240.055'
+        mark: '01:10:40.055'
       u: Yes. And how do the other students, the German students behave toward the
         Jewish students?
     - who: Max Sprecher
-      start: '01:10:40.055'
-      end: '01:11:27.270'
+      start:
+        sec: '4240.055'
+        mark: '01:10:40.055'
+      end:
+        sec: '4287.270'
+        mark: '01:11:27.270'
       u: The attitude may be in general characterized as courteous but...but not frank.
         Because we...because it is a fact that those students who are studying now,
         in a large part had the opportunity to conclude their prepatory training [Gymnasium]
@@ -1580,21 +2640,37 @@ recording:
         that he did belong. And we have developed a fifth sense [obviously sixth sense]
         in the lager. And that sense is called instinct.
     - who: David Boder
-      start: '01:11:27.270'
-      end: '01:11:28.122'
+      start:
+        sec: '4287.270'
+        mark: '01:11:27.270'
+      end:
+        sec: '4288.122'
+        mark: '01:11:28.122'
       u: Hm.
     - who: Max Sprecher
-      start: '01:11:28.122'
-      end: '01:11:43.266'
+      start:
+        sec: '4288.122'
+        mark: '01:11:28.122'
+      end:
+        sec: '4303.266'
+        mark: '01:11:43.266'
       u: And our instinct does not deceive us.
     - who: David Boder
-      start: '01:11:43.266'
-      end: '01:11:47.939'
+      start:
+        sec: '4303.266'
+        mark: '01:11:43.266'
+      end:
+        sec: '4307.939'
+        mark: '01:11:47.939'
       u: Well...maybe you are just suspicious. Have you not become suspicious in the
         lager?
     - who: Max Sprecher
-      start: '01:11:47.939'
-      end: '01:12:38.244'
+      start:
+        sec: '4307.939'
+        mark: '01:11:47.939'
+      end:
+        sec: '4358.244'
+        mark: '01:12:38.244'
       u: It is...we are strongly suspicious. And our suspicion is only a ‘regulator’
         not a falsifier of our instinct. There are among them officers of the German
         Army, there are among them many people who feel themselves nowdays insecure
@@ -1605,49 +2681,89 @@ recording:
         now returning home, they hold it appropriate [prudent, safe] to abandon their
         countries and to come here.
     - who: David Boder
-      start: '01:12:38.244'
-      end: '01:12:46.257'
+      start:
+        sec: '4358.244'
+        mark: '01:12:38.244'
+      end:
+        sec: '4366.257'
+        mark: '01:12:46.257'
       u: Tell me this, who pays for you at the University.
     - who: Max Sprecher
-      start: '01:12:46.257'
-      end: '01:12:57.490'
+      start:
+        sec: '4366.257'
+        mark: '01:12:46.257'
+      end:
+        sec: '4377.490'
+        mark: '01:12:57.490'
       u: For the past semester UNRRA has paid. We...I am speaking now about conditions
         in Heidelberg. For this semester UNRRA has not paid.
     - who: David Boder
-      start: '01:12:57.490'
-      end: '01:12:57.980'
+      start:
+        sec: '4377.490'
+        mark: '01:12:57.490'
+      end:
+        sec: '4377.980'
+        mark: '01:12:57.980'
       u: Yes.
     - who: Max Sprecher
-      start: '01:12:57.980'
-      end: '01:13:02.593'
+      start:
+        sec: '4377.980'
+        mark: '01:12:57.980'
+      end:
+        sec: '4382.593'
+        mark: '01:13:02.593'
       u: We utilized the things which we are getting allotted from the [DP] camp.
     - who: David Boder
-      start: '01:13:02.593'
-      end: '01:13:03.294'
+      start:
+        sec: '4382.593'
+        mark: '01:13:02.593'
+      end:
+        sec: '4383.294'
+        mark: '01:13:03.294'
       u: Hm.
     - who: Max Sprecher
-      start: '01:13:03.294'
-      end: '01:13:07.516'
+      start:
+        sec: '4383.294'
+        mark: '01:13:03.294'
+      end:
+        sec: '4387.516'
+        mark: '01:13:07.516'
       u: We converted them into money, and paid with our own money.
     - who: David Boder
-      start: '01:13:07.516'
-      end: '01:13:09.330'
+      start:
+        sec: '4387.516'
+        mark: '01:13:07.516'
+      end:
+        sec: '4389.330'
+        mark: '01:13:09.330'
       u: How much is the tuition?
     - who: Max Sprecher
-      start: '01:13:09.330'
-      end: '01:13:15.929'
+      start:
+        sec: '4389.330'
+        mark: '01:13:09.330'
+      end:
+        sec: '4395.929'
+        mark: '01:13:15.929'
       u: 'The tuition amounts for us medical students from 220 to 250 marks a semester.
         [Note: This fact needs some illumination. UNRRA as an official agency would
         have to pay for 250 marks about $25.00 in American currency, while a carton
         of American cigarettes could bring on the black market at that time at least
         one thousand marks. —D.P.B.]'
     - who: David Boder
-      start: '01:13:15.929'
-      end: '01:13:19.669'
+      start:
+        sec: '4395.929'
+        mark: '01:13:15.929'
+      end:
+        sec: '4399.669'
+        mark: '01:13:19.669'
       u: And how was that realized from allotted supplies from the lager? For instance...
     - who: Max Sprecher
-      start: '01:13:19.669'
-      end: '01:13:19.669'
+      start:
+        sec: '4399.669'
+        mark: '01:13:19.669'
+      end:
+        sec: '4399.669'
+        mark: '01:13:19.669'
       u: There is a way, not a nice one, but we had to tread on it. The things which
         we were getting we had to convert into money through people who occupy themselves
         professionally with swindle, trading, and black marketing, so we should be
@@ -1656,73 +2772,133 @@ recording:
         semesters, we with the many years [lost] in the lager, who have gotten old
         not studying—we cannot afford such luxury.
     - who: David Boder
-      start: '01:13:19.669'
-      end: '01:13:53.505'
+      start:
+        sec: '4399.669'
+        mark: '01:13:19.669'
+      end:
+        sec: '4433.505'
+        mark: '01:13:53.505'
       u: Now then in how many years will you be a doctor?
     - who: Max Sprecher
-      start: '01:13:53.505'
-      end: '01:13:54.718'
+      start:
+        sec: '4433.505'
+        mark: '01:13:53.505'
+      end:
+        sec: '4434.718'
+        mark: '01:13:54.718'
       u: That is a question...
     - who: David Boder
-      start: '01:13:54.718'
-      end: '01:13:56.623'
+      start:
+        sec: '4434.718'
+        mark: '01:13:54.718'
+      end:
+        sec: '4436.623'
+        mark: '01:13:56.623'
       u: No, I mean if everything should proceed normally.
     - who: Max Sprecher
-      start: '01:13:56.623'
-      end: '01:14:07.284'
+      start:
+        sec: '4436.623'
+        mark: '01:13:56.623'
+      end:
+        sec: '4447.284'
+        mark: '01:14:07.284'
       u: We have...I am speaking about myself. I still have before me a study period
         of four semesters, counting the [length] of the study of medicine, eleven
         semesters, I am now entering the seventh semester.
     - who: David Boder
-      start: '01:14:07.284'
-      end: '01:14:09.520'
+      start:
+        sec: '4447.284'
+        mark: '01:14:07.284'
+      end:
+        sec: '4449.520'
+        mark: '01:14:09.520'
       u: When are you making your ‘half-doctor’?
     - who: Max Sprecher
-      start: '01:14:09.520'
-      end: '01:14:18.627'
+      start:
+        sec: '4449.520'
+        mark: '01:14:09.520'
+      end:
+        sec: '4458.627'
+        mark: '01:14:18.627'
       u: My ‘half-doctor’ I have already made. I have started it [the examinations]
         eight years ago in Berlin, and finished them a week ago in Heidelberg.
     - who: David Boder
-      start: '01:14:18.627'
-      end: '01:14:19.900'
+      start:
+        sec: '4458.627'
+        mark: '01:14:18.627'
+      end:
+        sec: '4459.900'
+        mark: '01:14:19.900'
       u: They recognized everything [all your credits]?
     - who: Max Sprecher
-      start: '01:14:19.900'
-      end: '01:14:28.906'
+      start:
+        sec: '4459.900'
+        mark: '01:14:19.900'
+      end:
+        sec: '4468.906'
+        mark: '01:14:28.906'
       u: They recognized all that I had covered...what [the exams] I have passed eight
         years ago, and the rest I have passed now.
     - who: David Boder
-      start: '01:14:28.906'
-      end: '01:14:31.563'
+      start:
+        sec: '4468.906'
+        mark: '01:14:28.906'
+      end:
+        sec: '4471.563'
+        mark: '01:14:31.563'
       u: Are there any Jewish professors at the university?
     - who: Max Sprecher
-      start: '01:14:31.563'
-      end: '01:14:49.993'
+      start:
+        sec: '4471.563'
+        mark: '01:14:31.563'
+      end:
+        sec: '4489.993'
+        mark: '01:14:49.993'
       u: At the university Heidelberg there are no...there are no Jewish professors.
         There are two Aryan professors who have Jewish wives. At the other universities,
         for instance Munich, there is a small number of Jewish professors.
     - who: David Boder
-      start: '01:14:49.993'
-      end: '01:14:54.275'
+      start:
+        sec: '4489.993'
+        mark: '01:14:49.993'
+      end:
+        sec: '4494.275'
+        mark: '01:14:54.275'
       u: And the rector of the university is the same who was [there] during the Nazis.
     - who: Max Sprecher
-      start: '01:14:54.275'
-      end: '01:15:14.978'
+      start:
+        sec: '4494.275'
+        mark: '01:14:54.275'
+      end:
+        sec: '4514.978'
+        mark: '01:15:14.978'
       u: No. The director, the rector of the university was confirmed by the military
         government. The first rector, rector Bauer is the husband of a Jewish wife.
         He was the first rector of the Heidelberg university...
     - who: David Boder
-      start: '01:15:14.978'
-      end: '01:15:15.739'
+      start:
+        sec: '4514.978'
+        mark: '01:15:14.978'
+      end:
+        sec: '4515.739'
+        mark: '01:15:15.739'
       u: After the...
     - who: Max Sprecher
-      start: '01:15:15.739'
-      end: '01:15:26.581'
+      start:
+        sec: '4515.739'
+        mark: '01:15:15.739'
+      end:
+        sec: '4526.581'
+        mark: '01:15:26.581'
       u: After the liberation, after the Americans have marched in. Now there is different
         one, Baron von Kampenhausen a Jewish [corrects himself] a German philologue...
     - who: David Boder
-      start: '01:15:26.581'
-      end: '01:15:59.710'
+      start:
+        sec: '4526.581'
+        mark: '01:15:26.581'
+      end:
+        sec: '4559.710'
+        mark: '01:15:59.710'
       u: "[In English] Also, this concludes the interview with Mr. Max Meyer Sprecher,
         a medical student at the age thirty-seven at the University of Heidelberg,
         where he is concluding his studies which have been interrupted some eight
@@ -1731,8 +2907,12 @@ recording:
         the 23rd, 1946, Germany, Feldafing, near Munich. Illinois Institute of Technology
         wire recording."
     - who: David Boder
-      start: '01:15:59.710'
-      end: '01:16:09.936'
+      start:
+        sec: '4559.710'
+        mark: '01:15:59.710'
+      end:
+        sec: '4569.936'
+        mark: '01:16:09.936'
       u: "[In German] I thank you very much, Mr. Sprecher, I wish you all the success
         in your work, and in your studies."
   commentary:

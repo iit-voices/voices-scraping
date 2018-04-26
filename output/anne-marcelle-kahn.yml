@@ -36,39 +36,63 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:02.259'
-      end: '00:00:44.057'
+      start:
+        sec: '2.259'
+        mark: '00:00:02.259'
+      end:
+        sec: '44.057'
+        mark: '00:00:44.057'
       u: "[In English] We have now at the microphone Mrs. Kahn, the wife of Admiral
         Kahn, in Paris, and she was present while her father and then her little son
         gave us the story, so clearly she would not exactly try to repeat it. We want
         to get some other moments. First of all, Mrs. Kahn, will you tell us in French
         what is your full name? And what education do you have?"
     - who: Anne Marcelle Kahn
-      start: '00:00:44.057'
-      end: '00:01:18.799'
+      start:
+        sec: '44.057'
+        mark: '00:00:44.057'
+      end:
+        sec: '78.799'
+        mark: '00:01:18.799'
       u: "[In French] Mon nom est Marcelle Schrameck, femme d’Ingénieur Général Louis
         Kahn. Pendant la dernière guerre, j’ai fait mes études d’ingénieur des mines.
         Et j’ai travaillé dans des usines de produits chimiques Kuhlman pendant un
         certain temps avant mon mariage. Et depuis, j’ai travaillé un peu avec mon
         mari, je m’occupais de mes enfants..."
     - who: David Boder
-      start: '00:01:18.799'
-      end: '00:01:22.390'
+      start:
+        sec: '78.799'
+        mark: '00:01:18.799'
+      end:
+        sec: '82.390'
+        mark: '00:01:22.390'
       u: "[In English] In what kind of mines did you work?"
     - who: Anne Marcelle Kahn
-      start: '00:01:22.390'
-      end: '00:01:41.107'
+      start:
+        sec: '82.390'
+        mark: '00:01:22.390'
+      end:
+        sec: '101.107'
+        mark: '00:01:41.107'
       u: "[In French] J’ai travaillé vers l’Ecole des mines de St. Etienne. Nous descendions
         très souvent dans les mines des centres de la France. Mais mon travail après,
         j’ai...je suis engagée dans les usines des produits chimiques Kuhlman."
     - who: David Boder
-      start: '00:01:41.107'
-      end: '00:01:54.462'
+      start:
+        sec: '101.107'
+        mark: '00:01:41.107'
+      end:
+        sec: '114.462'
+        mark: '00:01:54.462'
       u: "[In English] Now, will you be good enough to tell us, what happened to you
         after the Armistice was concluded?"
     - who: Anne Marcelle Kahn
-      start: '00:01:54.462'
-      end: '00:03:37.474'
+      start:
+        sec: '114.462'
+        mark: '00:01:54.462'
+      end:
+        sec: '217.474'
+        mark: '00:03:37.474'
       u: "[In French] Après la conclusion d’Armistice, nous nous...nous sommes partis,
         mes enfants et moi, en zone libre où nous ne voulons pas avoir de contact
         avec les Allemands. Et nous avons vécu à Marseille, jusqu’à ce que les Allemands
@@ -88,8 +112,12 @@ recording:
         étaient examinés et si les papiers n’était pas en bonne règle, naturellement
         on était arrêté et déporté."
     - who: Anne Marcelle Kahn
-      start: '00:03:37.474'
-      end: '00:06:06.103'
+      start:
+        sec: '217.474'
+        mark: '00:03:37.474'
+      end:
+        sec: '366.103'
+        mark: '00:06:06.103'
       u: C’est ainsi qu’un camarade de mon fils, un garçon de seize ans, a été arrêté
         en descendant de la gare, ses parents n’ont plus eu des nouvelles de lui et
         qu’il est revenu peut-être un an après, et s’étant échappé d’un wagon qui
@@ -117,8 +145,12 @@ recording:
         qui nous a fendu l’âme en pensant à ce que pouvait évidemment arriver à mes
         enfants. Je n’ai qu’une idée, c’est de quitter Marseille.
     - who: Anne Marcelle Kahn
-      start: '00:06:06.103'
-      end: '00:08:15.767'
+      start:
+        sec: '366.103'
+        mark: '00:06:06.103'
+      end:
+        sec: '495.767'
+        mark: '00:08:15.767'
       u: A ce moment-là, nous sommes allés dans les Alpes aux environs de Grenoble.
         Mes enfants sont allés en pension en montagne, et à partir de ce moment, j’ai...à
         ce moment-là, que j’ai entendu le message, « je suis arrivé », de mon mari,
@@ -148,8 +180,12 @@ recording:
         donné leur meilleure chambre et les clés. A partir du moment où j’ai eu ces
         fausses cartes, j’ai pu voyager.
     - who: Anne Marcelle Kahn
-      start: '00:08:15.767'
-      end: '00:11:43.139'
+      start:
+        sec: '495.767'
+        mark: '00:08:15.767'
+      end:
+        sec: '703.139'
+        mark: '00:11:43.139'
       u: J’étais avant tout à côté de Perpignan, où j’ai dû retrouver les guides qui
         avaient fait passer mon mari, mais malheureusement, ils étaient tous...la
         plupart était arrêtée et je n’ai pas pu retrouver leurs traces. Enfin j’en
@@ -185,13 +221,21 @@ recording:
         sommes arrivés de Perpignan à Casa en neuf jours, avec trois jours de prison
         en Espagne. Ce qui a été...ce qu’était [unintelligible] à Casablanca.
     - who: David Boder
-      start: '00:11:43.139'
-      end: '00:11:50.500'
+      start:
+        sec: '703.139'
+        mark: '00:11:43.139'
+      end:
+        sec: '710.500'
+        mark: '00:11:50.500'
       u: "[In English] [break in sound] How did you get out of prison? Did they give
         you free passage to Casablanca? [unintelligible]"
     - who: Anne Marcelle Kahn
-      start: '00:11:50.500'
-      end: '00:12:16.960'
+      start:
+        sec: '710.500'
+        mark: '00:11:50.500'
+      end:
+        sec: '736.960'
+        mark: '00:12:16.960'
       u: "[In French] Euh, nous étions, nous avons été pris dans un convoi de Français,
         ils évacuaient des Français. Naturellement, nous ne sommes pas restés longtemps
         en prison en raison du fait que nous n’étions pas des combattants. Une femme
@@ -199,16 +243,28 @@ recording:
         importante pour les Espagnols. Des hommes restaient longtemps en camps de
         concentration que nous ne connaissions pas."
     - who: David Boder
-      start: '00:12:16.960'
-      end: '00:12:19.020'
+      start:
+        sec: '736.960'
+        mark: '00:12:16.960'
+      end:
+        sec: '739.020'
+        mark: '00:12:19.020'
       u: "[In English] How old was your oldest boy then?"
     - who: Anne Marcelle Kahn
-      start: '00:12:19.020'
-      end: '00:12:23.448'
+      start:
+        sec: '739.020'
+        mark: '00:12:19.020'
+      end:
+        sec: '743.448'
+        mark: '00:12:23.448'
       u: My oldest boy...Pierre?
     - who: Anne Marcelle Kahn
-      start: '00:12:23.448'
-      end: '00:13:00.732'
+      start:
+        sec: '743.448'
+        mark: '00:12:23.448'
+      end:
+        sec: '780.732'
+        mark: '00:13:00.732'
       u: "[In French] Oui, mon fils aîné, avait quinze ans et demi. Et il faut dire
         que sur toutes les fausses cartes, je l’avais rajeuni encore d’un an pour
         être plus tranquille. Alors même les papiers qu’ont pris les Espagnols, nous
@@ -216,22 +272,38 @@ recording:
         que nous avons pris en espagnol et ce qui fait que nous étions donc garantis
         d’être des non-combattants."
     - who: David Boder
-      start: '00:13:00.732'
-      end: '00:13:12.298'
+      start:
+        sec: '780.732'
+        mark: '00:13:00.732'
+      end:
+        sec: '792.298'
+        mark: '00:13:12.298'
       u: "[In English] [unintelligible] Well, Madame Kahn, can you tell me then, how
         long were you crossing the Pyrenees? How long did it take you?"
     - who: Anne Marcelle Kahn
-      start: '00:13:12.298'
-      end: '00:13:24.847'
+      start:
+        sec: '792.298'
+        mark: '00:13:12.298'
+      end:
+        sec: '804.847'
+        mark: '00:13:24.847'
       u: "[In French] Bien, deux jours seulement. Nous avons marché le premier jour
         cinq heures et le second jour six ou sept heures."
     - who: David Boder
-      start: '00:13:24.847'
-      end: '00:13:26.998'
+      start:
+        sec: '804.847'
+        mark: '00:13:24.847'
+      end:
+        sec: '806.998'
+        mark: '00:13:26.998'
       u: "[In English] And did you have things with you?"
     - who: Anne Marcelle Kahn
-      start: '00:13:26.998'
-      end: '00:14:00.606'
+      start:
+        sec: '806.998'
+        mark: '00:13:26.998'
+      end:
+        sec: '840.606'
+        mark: '00:14:00.606'
       u: "[In French] Nous n’avions absolument rien sur nous. Nous étions nu tête,
         nous étions comme des promeneurs pour ne pas attirer l’attention sur nous,
         et en passant nous avons déchiré nos chaussures qui n’étaient pas très solides,
@@ -240,69 +312,125 @@ recording:
         nous nous étions arrêtés dans des fermes où nous avait gentiment donné du
         lait."
     - who: David Boder
-      start: '00:14:00.606'
-      end: '00:14:05.847'
+      start:
+        sec: '840.606'
+        mark: '00:14:00.606'
+      end:
+        sec: '845.847'
+        mark: '00:14:05.847'
       u: "[In English] And did the children manage to come through well and came through
         all right?"
     - who: Anne Marcelle Kahn
-      start: '00:14:05.847'
-      end: '00:14:22.990'
+      start:
+        sec: '845.847'
+        mark: '00:14:05.847'
+      end:
+        sec: '862.990'
+        mark: '00:14:22.990'
       u: "[In French] Les garçons sont arrivés en très bon état. [Boder interrupts]
         Bien sûr qu’en arrivant, si bien que...nous avons pris avec plaisir que le
         premier dîner qui nous a été offert par les carabiniers, avec l’argent qu’ils
         m’avaient pris."
     - who: David Boder
-      start: '00:14:22.990'
-      end: '00:14:25.942'
+      start:
+        sec: '862.990'
+        mark: '00:14:22.990'
+      end:
+        sec: '865.942'
+        mark: '00:14:25.942'
       u: "[In English] How many kilometers did you walk?"
     - who: Anne Marcelle Kahn
-      start: '00:14:25.942'
-      end: '00:14:44.297'
+      start:
+        sec: '865.942'
+        mark: '00:14:25.942'
+      end:
+        sec: '884.297'
+        mark: '00:14:44.297'
       u: "[In French] Eh bien, nous ne savions pas exactement. Nous ne savions pas
         exactement, parce que nous avions la carte du côté français mais les cartes
         d’état-major n’indiquent rien en delà de la frontière, qui fait que nous n’avons
         jamais su le chemin exact que nous avons fait en Espagne, on a dû faire quarante
         à cinquante kilomètres."
     - who: David Boder
-      start: '00:14:44.297'
-      end: '00:14:45.201'
+      start:
+        sec: '884.297'
+        mark: '00:14:44.297'
+      end:
+        sec: '885.201'
+        mark: '00:14:45.201'
       u: "[In English] Uh huh."
     - who: Anne Marcelle Kahn
-      start: '00:14:45.201'
-      end: '00:14:52.270'
+      start:
+        sec: '885.201'
+        mark: '00:14:45.201'
+      end:
+        sec: '892.270'
+        mark: '00:14:52.270'
       u: "[In French] Oui. Evidemment beaucoup moins que la plupart des guides ont
         fait faire."
     - who: David Boder
-      start: '00:14:52.270'
-      end: '00:14:55.252'
+      start:
+        sec: '892.270'
+        mark: '00:14:52.270'
+      end:
+        sec: '895.252'
+        mark: '00:14:55.252'
       u: "[In English] And were there a lot of Germans in Spain?"
     - who: Anne Marcelle Kahn
-      start: '00:14:55.252'
-      end: '00:14:58.114'
+      start:
+        sec: '895.252'
+        mark: '00:14:55.252'
+      end:
+        sec: '898.114'
+        mark: '00:14:58.114'
       u: "[In French] Or, en Espagne, nous n’avons pas vu d’Allemands, n’est-ce pas?"
     - who: David Boder
-      start: '00:14:58.114'
-      end: '00:14:59.150'
+      start:
+        sec: '898.114'
+        mark: '00:14:58.114'
+      end:
+        sec: '899.150'
+        mark: '00:14:59.150'
       u: Pas d’Allemands?
     - who: Anne Marcelle Kahn
-      start: '00:14:59.150'
-      end: '00:15:03.518'
+      start:
+        sec: '899.150'
+        mark: '00:14:59.150'
+      end:
+        sec: '903.518'
+        mark: '00:15:03.518'
       u: Non, on n’en a pas vu. On a vu des policiers espagnols.
     - who: David Boder
-      start: '00:15:03.518'
-      end: '00:15:04.885'
+      start:
+        sec: '903.518'
+        mark: '00:15:03.518'
+      end:
+        sec: '904.885'
+        mark: '00:15:04.885'
       u: "[In English] Do you speak Spanish?"
     - who: Anne Marcelle Kahn
-      start: '00:15:04.885'
-      end: '00:15:06.512'
+      start:
+        sec: '904.885'
+        mark: '00:15:04.885'
+      end:
+        sec: '906.512'
+        mark: '00:15:06.512'
       u: "[In French] Non, pas du tout."
     - who: David Boder
-      start: '00:15:06.512'
-      end: '00:15:09.325'
+      start:
+        sec: '906.512'
+        mark: '00:15:06.512'
+      end:
+        sec: '909.325'
+        mark: '00:15:09.325'
       u: "[In English] But then on the border they spoke French with you."
     - who: Anne Marcelle Kahn
-      start: '00:15:09.325'
-      end: '00:15:34.759'
+      start:
+        sec: '909.325'
+        mark: '00:15:09.325'
+      end:
+        sec: '934.759'
+        mark: '00:15:34.759'
       u: "[In French] Non, non, ils parlaient espagnol, nous avons...justement le
         premier jour où nous avons été arrêtés, il nous est tombé un état-major espagnol
         qui essayait de nous interroger. C’était un Général qui me posait des questions
@@ -311,13 +439,21 @@ recording:
         sous clé et le lendemain, on nous a emmenés à Barcelone, où il y avait là
         des...où on parlait français."
     - who: David Boder
-      start: '00:15:34.759'
-      end: '00:15:44.307'
+      start:
+        sec: '934.759'
+        mark: '00:15:34.759'
+      end:
+        sec: '944.307'
+        mark: '00:15:44.307'
       u: "[In English] And when did you [both speaking at once] Where did you get
         the first notice from the Admiral? When did you hear from him?"
     - who: Anne Marcelle Kahn
-      start: '00:15:44.307'
-      end: '00:16:15.915'
+      start:
+        sec: '944.307'
+        mark: '00:15:44.307'
+      end:
+        sec: '975.915'
+        mark: '00:16:15.915'
       u: "[In French] Ah, nous avons reçu dans le bateau qui nous a ramenés d’Espagne
         au Maroc, il y avait un...c’était un convoi organisé qui ramenait des Français,
         il y avait un officier de la marine, un Français. Je lui ai demandé s’il avait...s’il
@@ -325,27 +461,47 @@ recording:
         l’avait vu deux soirs avant à Alger. Il y avait à peu près huit mois que je
         n’avais eu aucune nouvelle de mon mari."
     - who: David Boder
-      start: '00:16:15.915'
-      end: '00:16:19.752'
+      start:
+        sec: '975.915'
+        mark: '00:16:15.915'
+      end:
+        sec: '979.752'
+        mark: '00:16:19.752'
       u: "[In English] And how long were you in Africa before you returned to..."
     - who: Anne Marcelle Kahn
-      start: '00:16:19.752'
-      end: '00:16:47.469'
+      start:
+        sec: '979.752'
+        mark: '00:16:19.752'
+      end:
+        sec: '1007.469'
+        mark: '00:16:47.469'
       u: "[In French] Juste un an en Afrique. Juste un an. Nous sommes arrivés...le
         22 octobre 1943 à Casa et je suis repartie d’Alger pour la France le 17 octobre
         1944."
     - who: David Boder
-      start: '00:16:47.469'
-      end: '00:16:50.180'
+      start:
+        sec: '1007.469'
+        mark: '00:16:47.469'
+      end:
+        sec: '1010.180'
+        mark: '00:16:50.180'
       u: "[In English] Well, how did you find Paris when you came back?"
     - who: Anne Marcelle Kahn
-      start: '00:16:50.180'
-      end: '00:16:58.253'
+      start:
+        sec: '1010.180'
+        mark: '00:16:50.180'
+      end:
+        sec: '1018.253'
+        mark: '00:16:58.253'
       u: "[In French] Paris me paraissait magnifique! Bon, je n’ai jamais vu Paris
         avec les Allemands."
     - who: David Boder
-      start: '00:16:58.253'
-      end: '00:17:16.670'
+      start:
+        sec: '1018.253'
+        mark: '00:16:58.253'
+      end:
+        sec: '1036.67'
+        mark: '00:17:16.670'
       u: "[In English] Well, I thank you very much. How really good of you to let
         me spend the evening with you and to have these interesting reports from three
         generations. Now, I would like to have...recording ends abruptly"
@@ -353,16 +509,24 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:02.259'
-      end: '00:00:44.057'
+      start:
+        sec: '2.259'
+        mark: '00:00:02.259'
+      end:
+        sec: '44.057'
+        mark: '00:00:44.057'
       u: "[In English] We have now at the microphone Mrs. Kahn, the wife of Admiral
         Kahn, in Paris, and she was present while her father and then her little son
         gave us the story, so clearly she would not exactly try to repeat it. We want
         to get some other moments. First of all, Mrs. Kahn, will you tell us in French
         what is your full name? And what education do you have?"
     - who: Anne Marcelle Kahn
-      start: '00:00:44.057'
-      end: '00:01:18.799'
+      start:
+        sec: '44.057'
+        mark: '00:00:44.057'
+      end:
+        sec: '78.799'
+        mark: '00:01:18.799'
       u: "[In French] My name is Marcelle Schrameck, wife of Engineer General Louis
         Kahn. During the last war, I studied to be a mining engineer.That is, World
         War I. Mrs. Kahn entered a profession unusual for a woman at that time.1 And
@@ -370,25 +534,41 @@ recording:
         And since then, I worked a little with my husband, I was taking care of my
         children..."
     - who: David Boder
-      start: '00:01:18.799'
-      end: '00:01:22.390'
+      start:
+        sec: '78.799'
+        mark: '00:01:18.799'
+      end:
+        sec: '82.390'
+        mark: '00:01:22.390'
       u: "[In English] In what kind of mines did you work?"
     - who: Anne Marcelle Kahn
-      start: '00:01:22.390'
-      end: '00:01:41.107'
+      start:
+        sec: '82.390'
+        mark: '00:01:22.390'
+      end:
+        sec: '101.107'
+        mark: '00:01:41.107'
       u: "[In French] I worked around the Mining Engineering School in St. Etienne.As
         Abraham Schramack, Mrs. Kahn’s father noted, St. Etienne was where the Kahn
         family resided.2 We often used to go down into the mines in the French mining
         centers. But my work since then, I...I was employed by the Kuhlman chemical
         plants."
     - who: David Boder
-      start: '00:01:41.107'
-      end: '00:01:54.462'
+      start:
+        sec: '101.107'
+        mark: '00:01:41.107'
+      end:
+        sec: '114.462'
+        mark: '00:01:54.462'
       u: "[In English] Now, will you be good enough to tell us, what happened to you
         after the Armistice was concluded?"
     - who: Anne Marcelle Kahn
-      start: '00:01:54.462'
-      end: '00:03:37.474'
+      start:
+        sec: '114.462'
+        mark: '00:01:54.462'
+      end:
+        sec: '217.474'
+        mark: '00:03:37.474'
       u: "[In French] After the Armistice was signed, we...we left, my children and
         I, to the free zone where we didn’t want to have contact with the Germans.
         And we lived in Marseille, until the Germans reopened the Armistice in November
@@ -411,8 +591,12 @@ recording:
         native-born or foreign. Since the relative immunity of native-born French
         Jews from arrest and deportation had ended, the Kahns were in grave danger.5"
     - who: Anne Marcelle Kahn
-      start: '00:03:37.474'
-      end: '00:06:06.103'
+      start:
+        sec: '217.474'
+        mark: '00:03:37.474'
+      end:
+        sec: '366.103'
+        mark: '00:06:06.103'
       u: 'That’s how one of my son’s friends, a sixteen year old boy, was arrested
         while coming out of the train station. His parents didn’t have any news of
         what happened to him and he returned maybe a year later, by escaping from
@@ -448,8 +632,12 @@ recording:
         “to the East” for extermination. Not one of the 800 Jews deported from Marseille
         to Compiègne on January 24, 1943 ever returned.7'
     - who: Anne Marcelle Kahn
-      start: '00:06:06.103'
-      end: '00:08:15.767'
+      start:
+        sec: '366.103'
+        mark: '00:06:06.103'
+      end:
+        sec: '495.767'
+        mark: '00:08:15.767'
       u: 'So we went in the Alps near Grenoble.Grenoble, located in southeastern Alpine
         France about 64 miles southeast of Lyon, was at the time in the Italian-occupied
         zone of France. Thousands of Jews in France sought refuge in the benevolently-ruled
@@ -491,8 +679,12 @@ recording:
         the crossing into Spain she had traveled to Perpignan to find guides to take
         them across. This attempt was unsuccessful.11'
     - who: Anne Marcelle Kahn
-      start: '00:08:15.767'
-      end: '00:11:43.139'
+      start:
+        sec: '495.767'
+        mark: '00:08:15.767'
+      end:
+        sec: '703.139'
+        mark: '00:11:43.139'
       u: I started out near Perpignan, where I had to find the guides that had helped
         my husband to cross, but unfortunately, they were all...most of them had been
         arrested and I couldn’t find any trace of them. Finally I found others...When
@@ -532,51 +724,87 @@ recording:
         We arrived from Perpignan to Casa in nine days, with three days of imprisonment
         in Spain. Which was...[unintelligible] in Casablanca.
     - who: David Boder
-      start: '00:11:43.139'
-      end: '00:11:50.500'
+      start:
+        sec: '703.139'
+        mark: '00:11:43.139'
+      end:
+        sec: '710.500'
+        mark: '00:11:50.500'
       u: "[In English] [break in sound] How did you get out of prison? Did they give
         you free passage to Casablanca? [unintelligible]"
     - who: Anne Marcelle Kahn
-      start: '00:11:50.500'
-      end: '00:12:16.960'
+      start:
+        sec: '710.500'
+        mark: '00:11:50.500'
+      end:
+        sec: '736.960'
+        mark: '00:12:16.960'
       u: "[In French] Uh, we were, we were taken into a convoy of French. They were
         evacuating the French. Of course, we didn’t stay in prison long because we
         weren’t soldiers. A woman and children under 17 were not considered a significant
         arrest for the Spanish. The men spent a long time in concentration camps that
         we hadn’t experienced."
     - who: David Boder
-      start: '00:12:16.960'
-      end: '00:12:19.020'
+      start:
+        sec: '736.960'
+        mark: '00:12:16.960'
+      end:
+        sec: '739.020'
+        mark: '00:12:19.020'
       u: "[In English] How old was your oldest boy then?"
     - who: Anne Marcelle Kahn
-      start: '00:12:19.020'
-      end: '00:12:23.448'
+      start:
+        sec: '739.020'
+        mark: '00:12:19.020'
+      end:
+        sec: '743.448'
+        mark: '00:12:23.448'
       u: My oldest boy.... Pierre?
     - who: Anne Marcelle Kahn
-      start: '00:12:23.448'
-      end: '00:13:00.732'
+      start:
+        sec: '743.448'
+        mark: '00:12:23.448'
+      end:
+        sec: '780.732'
+        mark: '00:13:00.732'
       u: "[In French] Yes, my oldest son was fifteen and a half. And I should add
         that on all the false ID cards, I subtracted a year from his age to be more
         secure. And even the papers that the Spanish took, we did the papers in French
         and Spanish. He was fourteen on the papers we had done in Spanish and that
         was how we were guaranteed that we were not soldiers."
     - who: David Boder
-      start: '00:13:00.732'
-      end: '00:13:12.298'
+      start:
+        sec: '780.732'
+        mark: '00:13:00.732'
+      end:
+        sec: '792.298'
+        mark: '00:13:12.298'
       u: "[In English] [unintelligible] Well, Madame Kahn, can you tell me then, how
         long were you crossing the Pyrenees? How long did it take you?"
     - who: Anne Marcelle Kahn
-      start: '00:13:12.298'
-      end: '00:13:24.847'
+      start:
+        sec: '792.298'
+        mark: '00:13:12.298'
+      end:
+        sec: '804.847'
+        mark: '00:13:24.847'
       u: "[In French] Well, only two days. We walked five hours the first day and
         six or seven the second day."
     - who: David Boder
-      start: '00:13:24.847'
-      end: '00:13:26.998'
+      start:
+        sec: '804.847'
+        mark: '00:13:24.847'
+      end:
+        sec: '806.998'
+        mark: '00:13:26.998'
       u: "[In English] And did you have things with you?"
     - who: Anne Marcelle Kahn
-      start: '00:13:26.998'
-      end: '00:14:00.606'
+      start:
+        sec: '806.998'
+        mark: '00:13:26.998'
+      end:
+        sec: '840.606'
+        mark: '00:14:00.606'
       u: "[In French] We had absolutely nothing with us. We didn’t have hats, we tried
         to look like hikers so that we wouldn’t draw attention to ourselves. And in
         crossing the mountains, we ripped up our shoes which weren’t very sturdy,
@@ -587,68 +815,124 @@ recording:
         that even during the years of the Holocaust, there were human beings who showed
         themselves capable of generous and humane behavior.15"
     - who: David Boder
-      start: '00:14:00.606'
-      end: '00:14:05.847'
+      start:
+        sec: '840.606'
+        mark: '00:14:00.606'
+      end:
+        sec: '845.847'
+        mark: '00:14:05.847'
       u: "[In English] And did the children manage to come through well and came through
         all right?"
     - who: Anne Marcelle Kahn
-      start: '00:14:05.847'
-      end: '00:14:22.990'
+      start:
+        sec: '845.847'
+        mark: '00:14:05.847'
+      end:
+        sec: '862.990'
+        mark: '00:14:22.990'
       u: "[In French] The boys arrived in very good shape. [Boder interrupts.] Of
         course, when we arrived, it happened that...We had the pleasure of being served
         our first dinner to which we were treated by the Customs Officers, who paid
         for it with the money they took off of me."
     - who: David Boder
-      start: '00:14:22.990'
-      end: '00:14:25.942'
+      start:
+        sec: '862.990'
+        mark: '00:14:22.990'
+      end:
+        sec: '865.942'
+        mark: '00:14:25.942'
       u: "[In English] How many kilometers did you walk?"
     - who: Anne Marcelle Kahn
-      start: '00:14:25.942'
-      end: '00:14:44.297'
+      start:
+        sec: '865.942'
+        mark: '00:14:25.942'
+      end:
+        sec: '884.297'
+        mark: '00:14:44.297'
       u: "[In French] Well, we didn’t know for sure. We didn’t know for sure because
         we had a map for the French side of the border but the road maps didn’t show
         anything beyond the border, which meant that we didn’t know exactly which
         route we had taken in Spain. We probably did forty to fifty kilometers."
     - who: David Boder
-      start: '00:14:44.297'
-      end: '00:14:45.201'
+      start:
+        sec: '884.297'
+        mark: '00:14:44.297'
+      end:
+        sec: '885.201'
+        mark: '00:14:45.201'
       u: "[In English] Uh huh."
     - who: Anne Marcelle Kahn
-      start: '00:14:45.201'
-      end: '00:14:52.270'
+      start:
+        sec: '885.201'
+        mark: '00:14:45.201'
+      end:
+        sec: '892.270'
+        mark: '00:14:52.270'
       u: "[In French] Yes. Obviously much less than most of the guides made people
         travel."
     - who: David Boder
-      start: '00:14:52.270'
-      end: '00:14:55.252'
+      start:
+        sec: '892.270'
+        mark: '00:14:52.270'
+      end:
+        sec: '895.252'
+        mark: '00:14:55.252'
       u: "[In English] And were there a lot of Germans in Spain?"
     - who: Anne Marcelle Kahn
-      start: '00:14:55.252'
-      end: '00:14:58.114'
+      start:
+        sec: '895.252'
+        mark: '00:14:55.252'
+      end:
+        sec: '898.114'
+        mark: '00:14:58.114'
       u: "[In French] In Spain, we didn’t see any Germans, isn’t that so?"
     - who: David Boder
-      start: '00:14:58.114'
-      end: '00:14:59.150'
+      start:
+        sec: '898.114'
+        mark: '00:14:58.114'
+      end:
+        sec: '899.150'
+        mark: '00:14:59.150'
       u: No Germans?
     - who: Anne Marcelle Kahn
-      start: '00:14:59.150'
-      end: '00:15:03.518'
+      start:
+        sec: '899.150'
+        mark: '00:14:59.150'
+      end:
+        sec: '903.518'
+        mark: '00:15:03.518'
       u: No, we didn’t see any. We saw Spanish police officers.
     - who: David Boder
-      start: '00:15:03.518'
-      end: '00:15:04.885'
+      start:
+        sec: '903.518'
+        mark: '00:15:03.518'
+      end:
+        sec: '904.885'
+        mark: '00:15:04.885'
       u: "[In English] Do you speak Spanish?"
     - who: Anne Marcelle Kahn
-      start: '00:15:04.885'
-      end: '00:15:06.512'
+      start:
+        sec: '904.885'
+        mark: '00:15:04.885'
+      end:
+        sec: '906.512'
+        mark: '00:15:06.512'
       u: No, not at all.
     - who: David Boder
-      start: '00:15:06.512'
-      end: '00:15:09.325'
+      start:
+        sec: '906.512'
+        mark: '00:15:06.512'
+      end:
+        sec: '909.325'
+        mark: '00:15:09.325'
       u: But then on the border they spoke French with you.
     - who: Anne Marcelle Kahn
-      start: '00:15:09.325'
-      end: '00:15:34.759'
+      start:
+        sec: '909.325'
+        mark: '00:15:09.325'
+      end:
+        sec: '934.759'
+        mark: '00:15:34.759'
       u: "[In French] No, no, they spoke Spanish. We had...as a matter of fact, the
         first day we were arrested, we were faced with a Spanish staff officer who
         tried to interrogate us. He was a General who asked me questions in Spanish
@@ -656,13 +940,21 @@ recording:
         to our hotel for a night where we had to sleep under lock and key and the
         next day, they took us to Barcelona, where there were...where they spoke French."
     - who: David Boder
-      start: '00:15:34.759'
-      end: '00:15:44.307'
+      start:
+        sec: '934.759'
+        mark: '00:15:34.759'
+      end:
+        sec: '944.307'
+        mark: '00:15:44.307'
       u: "[In English] And when did you [both speaking at once] Where did you get
         the first notice from the Admiral? When did you hear from him?"
     - who: Anne Marcelle Kahn
-      start: '00:15:44.307'
-      end: '00:16:15.915'
+      start:
+        sec: '944.307'
+        mark: '00:15:44.307'
+      end:
+        sec: '975.915'
+        mark: '00:16:15.915'
       u: "[In French] Ah, on board the boat that took us from Spain to Morocco, we
         received...there was a...it was a convoy organized to collect the French.
         There was an officer who was in the navy, a Frenchman. I asked him if he had...if
@@ -670,28 +962,48 @@ recording:
         him two evenings earlier in Algiers. It had been about eight months that I
         hadn’t had any news from my husband."
     - who: David Boder
-      start: '00:16:15.915'
-      end: '00:16:19.752'
+      start:
+        sec: '975.915'
+        mark: '00:16:15.915'
+      end:
+        sec: '979.752'
+        mark: '00:16:19.752'
       u: "[In English] And how long were you in Africa before you returned to..."
     - who: Anne Marcelle Kahn
-      start: '00:16:19.752'
-      end: '00:16:47.469'
+      start:
+        sec: '979.752'
+        mark: '00:16:19.752'
+      end:
+        sec: '1007.469'
+        mark: '00:16:47.469'
       u: "[In French] Just one year in Africa. One year exactly. We arrived.... on
         October 22, 1943 in Casa [Casablanca] and I left Algiers for France on October
         17, 1944."
     - who: David Boder
-      start: '00:16:47.469'
-      end: '00:16:50.180'
+      start:
+        sec: '1007.469'
+        mark: '00:16:47.469'
+      end:
+        sec: '1010.180'
+        mark: '00:16:50.180'
       u: "[In English] Well, how did you find Paris when you came back?"
     - who: Anne Marcelle Kahn
-      start: '00:16:50.180'
-      end: '00:16:58.253'
+      start:
+        sec: '1010.180'
+        mark: '00:16:50.180'
+      end:
+        sec: '1018.253'
+        mark: '00:16:58.253'
       u: "[In French] Paris looked magnificent to me! But, I had never seen Paris
         under the Germans.Paris had been liberated on August 25, 1944, less than two
         months before Mrs. Kahn arrived.16"
     - who: David Boder
-      start: '00:16:58.253'
-      end: '00:17:16.670'
+      start:
+        sec: '1018.253'
+        mark: '00:16:58.253'
+      end:
+        sec: '1036.67'
+        mark: '00:17:16.670'
       u: "[In English] Well, I thank you very much. How really good of you to let
         me spend the evening with you and to have these interesting reports from three
         generations. Now, I would like to have...[recording ends abruptly]"

@@ -33,8 +33,12 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:01.891'
-      end: '00:01:08.231'
+      start:
+        sec: '1.891'
+        mark: '00:00:01.891'
+      end:
+        sec: '68.231'
+        mark: '00:01:08.231'
       u: "[In English] This is spool 9-125B. It was split up orginally from Spool
         125 and divided in spool 125A which is Mr. Gutman and 9-125B which is Mr.
         O-S-T-M-A-N. Or, O like in “ocean,” S like in “Sam,” T like in “Tom,” L like
@@ -42,28 +46,48 @@ recording:
         cannot be clearly detected from the spool. In both cases it seems that the
         name was a ficticious one."
     - who: David Boder
-      start: '00:01:08.231'
-      end: '00:01:33.162'
+      start:
+        sec: '68.231'
+        mark: '00:01:08.231'
+      end:
+        sec: '93.162'
+        mark: '00:01:33.162'
       u: France, September the 13th, 1946, at Hénonville, 50 kilometers from Paris
         in a home maintained by the Agudah, together with the ORT. The principal inhabitants
         is a Khasidic group under the leadership of their rabbi, but they are rendering
         hospitality in a separate wing to a Yeshiva which came over from Lithuania
         together with their rabbi.
     - who: David Boder
-      start: '00:01:33.162'
-      end: '00:01:35.451'
+      start:
+        sec: '93.162'
+        mark: '00:01:33.162'
+      end:
+        sec: '95.451'
+        mark: '00:01:35.451'
       u: "[In Yiddish] How many people are there in this Yeshiva?"
     - who: Isaac Ostland
-      start: '00:01:35.451'
-      end: '00:01:36.097'
+      start:
+        sec: '95.451'
+        mark: '00:01:35.451'
+      end:
+        sec: '96.097'
+        mark: '00:01:36.097'
       u: Twenty.
     - who: David Boder
-      start: '00:01:36.097'
-      end: '00:01:38.948'
+      start:
+        sec: '96.097'
+        mark: '00:01:36.097'
+      end:
+        sec: '98.948'
+        mark: '00:01:38.948'
       u: But there are more coming.
     - who: David Boder
-      start: '00:01:38.948'
-      end: '00:01:55.078'
+      start:
+        sec: '98.948'
+        mark: '00:01:38.948'
+      end:
+        sec: '115.078'
+        mark: '00:01:55.078'
       u: "[In English] So far there are twenty people...students in this Yeshiva but
         from day to day they expect another group coming in. I am now interviewing
         the rabbi of this group, Rabbi Isaac Ostland who is going to talk to us now.Remark
@@ -75,26 +99,42 @@ recording:
         how they managed to arrive in France, or for that matter in Switzerland or
         Italy.1"
     - who: David Boder
-      start: '00:01:55.078'
-      end: '00:02:04.562'
+      start:
+        sec: '115.078'
+        mark: '00:01:55.078'
+      end:
+        sec: '124.562'
+        mark: '00:02:04.562'
       u: "[In Yiddish] And so, Rabbi, will you please tell us again in an orderly
         fashion where you are from, how old you are, and something about your family?"
     - who: Isaac Ostland
-      start: '00:02:04.562'
-      end: '00:02:35.417'
+      start:
+        sec: '124.562'
+        mark: '00:02:04.562'
+      end:
+        sec: '155.417'
+        mark: '00:02:35.417'
       u: I was born 70 kilometers from Vilna, in a small town [called] Labonar, in
         the year 1915. My father was the local rabbi and slaughterer. He sent me to
         study first to the great Yeshiva of Ponevezys with the Ponevezys Rabbi Caneman;
         afterwards in the great Yeshiva of Telsh under Rabbi Bloch whose son-in-law
         I have now become.
     - who: David Boder
-      start: '00:02:35.417'
-      end: '00:02:44.181'
+      start:
+        sec: '155.417'
+        mark: '00:02:35.417'
+      end:
+        sec: '164.181'
+        mark: '00:02:44.181'
       u: Now, Rabbi, will you please tell me where you were and what happened to you
         when the war started?
     - who: Isaac Ostland
-      start: '00:02:44.181'
-      end: '00:03:14.741'
+      start:
+        sec: '164.181'
+        mark: '00:02:44.181'
+      end:
+        sec: '194.741'
+        mark: '00:03:14.741'
       u: When the war started I happened to arrive by accident with a group of Yeshiva
         people from the Yeshiva of Telsh in [the city of] Telsh, because we had to
         abandon the hamlet Shiblovo where the Yeshiva of Telsh was located. We had
@@ -103,12 +143,20 @@ recording:
         [I am not sure of the exact name]. There we found a second group of the Yeshiva
         of Telsh and from there we departed for Russia.
     - who: David Boder
-      start: '00:03:14.741'
-      end: '00:03:18.306'
+      start:
+        sec: '194.741'
+        mark: '00:03:14.741'
+      end:
+        sec: '198.306'
+        mark: '00:03:18.306'
       u: Excuse me. Why did people have to go away from there?
     - who: Isaac Ostland
-      start: '00:03:18.306'
-      end: '00:03:41.576'
+      start:
+        sec: '198.306'
+        mark: '00:03:18.306'
+      end:
+        sec: '221.576'
+        mark: '00:03:41.576'
       u: There was a Polish Yeshiva in the hamlet Rasein [I am not sure of the name]
         which the Soviets wanted to send away to Siberia. But the members of the Yeshiva
         dispersed into the neighboring hamlets and when they were unable, in gathering
@@ -116,51 +164,91 @@ recording:
         the Lithuanian [Yeshiva people] we stood pat [the expression apparently meant
         that “we would not betray them”] and that is why we had to get away from there.
     - who: David Boder
-      start: '00:03:41.576'
-      end: '00:03:42.400'
+      start:
+        sec: '221.576'
+        mark: '00:03:41.576'
+      end:
+        sec: '222.400'
+        mark: '00:03:42.400'
       u: Go on.
     - who: Isaac Ostland
-      start: '00:03:42.400'
-      end: '00:04:10.922'
+      start:
+        sec: '222.400'
+        mark: '00:03:42.400'
+      end:
+        sec: '250.922'
+        mark: '00:04:10.922'
       u: 'When we arrived in Telsh Sunday morning and hearing that war was declared
         by Hitler - cursed be his name - we all got terribly scared, we did not know
         what to do now. We, the young ones, have decided to run away to Russia but
         my father-in-law, the Rabbi of Telsh, with the other members of the Yeshiva
         remained unfortunately there. My wife too was there and she reports the following:'
     - who: David Boder
-      start: '00:04:10.922'
-      end: '00:04:13.001'
+      start:
+        sec: '250.922'
+        mark: '00:04:10.922'
+      end:
+        sec: '253.001'
+        mark: '00:04:13.001'
       u: Were you already married then?
     - who: Isaac Ostland
-      start: '00:04:13.001'
-      end: '00:04:13.516'
+      start:
+        sec: '253.001'
+        mark: '00:04:13.001'
+      end:
+        sec: '253.516'
+        mark: '00:04:13.516'
       u: No.
     - who: David Boder
-      start: '00:04:13.516'
-      end: '00:04:15.726'
+      start:
+        sec: '253.516'
+        mark: '00:04:13.516'
+      end:
+        sec: '255.726'
+        mark: '00:04:15.726'
       u: No.
     - who: Isaac Ostland
-      start: '00:04:15.726'
-      end: '00:04:28.510'
+      start:
+        sec: '255.726'
+        mark: '00:04:15.726'
+      end:
+        sec: '268.510'
+        mark: '00:04:28.510'
       u: "[She] tells that on Friday evening all Jews were called together in Telsh
         near the lake [he did not pronounce clearly this word]. The German authorities
         called out..."
     - who: David Boder
-      start: '00:04:28.510'
-      end: '00:04:29.738'
+      start:
+        sec: '268.510'
+        mark: '00:04:28.510'
+      end:
+        sec: '269.738'
+        mark: '00:04:29.738'
       u: Near what, the river?
     - who: Isaac Ostland
-      start: '00:04:29.738'
-      end: '00:04:38.720'
+      start:
+        sec: '269.738'
+        mark: '00:04:29.738'
+      end:
+        sec: '278.720'
+        mark: '00:04:38.720'
       u: ". . . the lake, and they called for somebody from the community who could
         speak German. The rabbi volunteered [declaring] that he speaks German."
     - who: David Boder
-      start: '00:04:38.720'
-      end: '00:04:39.393'
+      start:
+        sec: '278.720'
+        mark: '00:04:38.720'
+      end:
+        sec: '279.393'
+        mark: '00:04:39.393'
       u: Rabbi Bloch?
     - who: Isaac Ostland
-      start: '00:04:39.393'
-      end: '00:05:29.970'
+      start:
+        sec: '279.393'
+        mark: '00:04:39.393'
+      end:
+        sec: '329.970'
+        mark: '00:05:29.970'
       u: Rabbi Bloch. So that the rest should be able to understand what they were
         talking about. Rabbi Bloch bravely stepped forward from the [assembled] congregation
         [one word not clear]. The German representative reproached him that the Jews
@@ -172,21 +260,37 @@ recording:
         the negotiations to the congregation there took place a little meeting of
         the heads of the community...
     - who: David Boder
-      start: '00:05:29.970'
-      end: '00:05:30.802'
+      start:
+        sec: '329.970'
+        mark: '00:05:29.970'
+      end:
+        sec: '330.802'
+        mark: '00:05:30.802'
       u: "[The last two words were given in Hebrew and the interviewer asked for their
         meaning.]"
     - who: Isaac Ostland
-      start: '00:05:30.802'
-      end: '00:05:33.467'
+      start:
+        sec: '330.802'
+        mark: '00:05:30.802'
+      end:
+        sec: '333.467'
+        mark: '00:05:33.467'
       u: That means the representatives [of the Jewish inhabitants] of the city.
     - who: David Boder
-      start: '00:05:33.467'
-      end: '00:05:34.905'
+      start:
+        sec: '333.467'
+        mark: '00:05:33.467'
+      end:
+        sec: '334.905'
+        mark: '00:05:34.905'
       u: Yes.
     - who: Isaac Ostland
-      start: '00:05:34.905'
-      end: '00:06:12.730'
+      start:
+        sec: '334.905'
+        mark: '00:05:34.905'
+      end:
+        sec: '372.730'
+        mark: '00:06:12.730'
       u: As a result of this meeting Rabbi Bloch presented himself before the community
         and talked to them in very severe terms and demanded from the community penitence.
         He explained that the only means to be saved in such a moment is a miracle.
@@ -198,30 +302,54 @@ recording:
         the free [thinkers], children and old ones, men and women, have resolved immediately
         to go through with it.
     - who: David Boder
-      start: '00:06:12.730'
-      end: '00:06:14.334'
+      start:
+        sec: '372.730'
+        mark: '00:06:12.730'
+      end:
+        sec: '374.334'
+        mark: '00:06:14.334'
       u: Which three things [the interviewer did not understand clearly the three
         Hebrew terms]?
     - who: Isaac Ostland
-      start: '00:06:14.334'
-      end: '00:06:18.077'
+      start:
+        sec: '374.334'
+        mark: '00:06:14.334'
+      end:
+        sec: '378.077'
+        mark: '00:06:18.077'
       u: The Sabbath, the dietary laws, and pure family life.
     - who: David Boder
-      start: '00:06:18.077'
-      end: '00:06:19.336'
+      start:
+        sec: '378.077'
+        mark: '00:06:18.077'
+      end:
+        sec: '379.336'
+        mark: '00:06:19.336'
       u: "[The interviewer understood now the first two terms but inquired about the
         third one]."
     - who: Isaac Ostland
-      start: '00:06:19.336'
-      end: '00:06:22.505'
+      start:
+        sec: '379.336'
+        mark: '00:06:19.336'
+      end:
+        sec: '382.505'
+        mark: '00:06:22.505'
       u: "[Translating] pure family life."
     - who: David Boder
-      start: '00:06:22.505'
-      end: '00:06:26.346'
+      start:
+        sec: '382.505'
+        mark: '00:06:22.505'
+      end:
+        sec: '386.346'
+        mark: '00:06:26.346'
       u: Yes. Now continue.
     - who: Isaac Ostland
-      start: '00:06:26.346'
-      end: '00:07:09.866'
+      start:
+        sec: '386.346'
+        mark: '00:06:26.346'
+      end:
+        sec: '429.866'
+        mark: '00:07:09.866'
       u: And then for no reason known to us there was all at once deferred the terrible
         sentence over the Jewish community of Telsh, which they had doomed to be exterminated;
         but the Germans permitted the women to go home immediately, while the men
@@ -232,12 +360,20 @@ recording:
         It was called Gerul, and the second lager was called Raim [the name is not
         clear].
     - who: David Boder
-      start: '00:07:09.866'
-      end: '00:07:11.046'
+      start:
+        sec: '429.866'
+        mark: '00:07:09.866'
+      end:
+        sec: '431.046'
+        mark: '00:07:11.046'
       u: What were these lagers, back yards?
     - who: Isaac Ostland
-      start: '00:07:11.046'
-      end: '00:07:52.177'
+      start:
+        sec: '431.046'
+        mark: '00:07:11.046'
+      end:
+        sec: '472.177'
+        mark: '00:07:52.177'
       u: A kind of a farm. There they held the men for two weeks and during this time
         the three vows which they have pledged were not complied with and their doom
         was sealed [I am not sure of the correct translation of the last two worlds
@@ -248,63 +384,119 @@ recording:
         to dance the “devils dance,” they called it, and tortured and tormented them
         to the brink of death.
     - who: David Boder
-      start: '00:07:52.177'
-      end: '00:07:53.238'
+      start:
+        sec: '472.177'
+        mark: '00:07:52.177'
+      end:
+        sec: '473.238'
+        mark: '00:07:53.238'
       u: Who did this?
     - who: Isaac Ostland
-      start: '00:07:53.238'
-      end: '00:07:55.884'
+      start:
+        sec: '473.238'
+        mark: '00:07:53.238'
+      end:
+        sec: '475.884'
+        mark: '00:07:55.884'
       u: The Germans with the Lithuanian partisans.
     - who: David Boder
-      start: '00:07:55.884'
-      end: '00:07:57.856'
+      start:
+        sec: '475.884'
+        mark: '00:07:55.884'
+      end:
+        sec: '477.856'
+        mark: '00:07:57.856'
       u: Ah, the Germans together with the Lithuanian partisans.
     - who: Isaac Ostland
-      start: '00:07:57.856'
-      end: '00:07:58.926'
+      start:
+        sec: '477.856'
+        mark: '00:07:57.856'
+      end:
+        sec: '478.926'
+        mark: '00:07:58.926'
       u: With the Lithuanian partisans.
     - who: David Boder
-      start: '00:07:58.926'
-      end: '00:08:01.393'
+      start:
+        sec: '478.926'
+        mark: '00:07:58.926'
+      end:
+        sec: '481.393'
+        mark: '00:08:01.393'
       u: Go on.
     - who: Isaac Ostland
-      start: '00:08:01.393'
-      end: '00:08:08.890'
+      start:
+        sec: '481.393'
+        mark: '00:08:01.393'
+      end:
+        sec: '488.890'
+        mark: '00:08:08.890'
       u: They were informed that that was their last day, that they have time to live
         until next morning. The next morning...
     - who: David Boder
-      start: '00:08:08.890'
-      end: '00:08:10.229'
+      start:
+        sec: '488.890'
+        mark: '00:08:08.890'
+      end:
+        sec: '490.229'
+        mark: '00:08:10.229'
       u: Who told you that?
     - who: Isaac Ostland
-      start: '00:08:10.229'
-      end: '00:08:15.785'
+      start:
+        sec: '490.229'
+        mark: '00:08:10.229'
+      end:
+        sec: '495.785'
+        mark: '00:08:15.785'
       u: "[as if continuing the sentence]...that was done by those terrible criminals
         who were standing around there, the Germans and the Lithuanians together."
     - who: David Boder
-      start: '00:08:15.785'
-      end: '00:08:17.124'
+      start:
+        sec: '495.785'
+        mark: '00:08:15.785'
+      end:
+        sec: '497.124'
+        mark: '00:08:17.124'
       u: But who told you all that?
     - who: Isaac Ostland
-      start: '00:08:17.124'
-      end: '00:08:19.528'
+      start:
+        sec: '497.124'
+        mark: '00:08:17.124'
+      end:
+        sec: '499.528'
+        mark: '00:08:19.528'
       u: My wife, the daughter of Rabbi Bloch, Khaje.
     - who: David Boder
-      start: '00:08:19.528'
-      end: '00:08:22.807'
+      start:
+        sec: '499.528'
+        mark: '00:08:19.528'
+      end:
+        sec: '502.807'
+        mark: '00:08:22.807'
       u: And how did she know about it, she wasn’t with the men?
     - who: Isaac Ostland
-      start: '00:08:22.807'
-      end: '00:08:29.975'
+      start:
+        sec: '502.807'
+        mark: '00:08:22.807'
+      end:
+        sec: '509.975'
+        mark: '00:08:29.975'
       u: Yes...the children. She as a child of Rabbi Bloch...the children were then
         still with the men.
     - who: David Boder
-      start: '00:08:29.975'
-      end: '00:08:32.253'
+      start:
+        sec: '509.975'
+        mark: '00:08:29.975'
+      end:
+        sec: '512.253'
+        mark: '00:08:32.253'
       u: So. And the women were kept separate?
     - who: Isaac Ostland
-      start: '00:08:32.253'
-      end: '00:09:08.469'
+      start:
+        sec: '512.253'
+        mark: '00:08:32.253'
+      end:
+        sec: '548.469'
+        mark: '00:09:08.469'
       u: The women were kept separately. They were made to get up at five o’clock
         in the morning under the pretext that they are being taken to work, but it
         was already known what kind of work expected them. Crowded by murderers they
@@ -312,20 +504,36 @@ recording:
         shootings at which my wife was already not present but the screams and the
         outcries of the shooting were heard in the lager where she was.
     - who: David Boder
-      start: '00:09:08.469'
-      end: '00:09:09.887'
+      start:
+        sec: '548.469'
+        mark: '00:09:08.469'
+      end:
+        sec: '549.887'
+        mark: '00:09:09.887'
       u: Who were taken, all men?
     - who: Isaac Ostland
-      start: '00:09:09.887'
-      end: '00:09:10.849'
+      start:
+        sec: '549.887'
+        mark: '00:09:09.887'
+      end:
+        sec: '550.849'
+        mark: '00:09:10.849'
       u: All men.
     - who: David Boder
-      start: '00:09:10.849'
-      end: '00:09:11.661'
+      start:
+        sec: '550.849'
+        mark: '00:09:10.849'
+      end:
+        sec: '551.661'
+        mark: '00:09:11.661'
       u: And they left the children?
     - who: Isaac Ostland
-      start: '00:09:11.661'
-      end: '00:09:57.228'
+      start:
+        sec: '551.661'
+        mark: '00:09:11.661'
+      end:
+        sec: '597.228'
+        mark: '00:09:57.228'
       u: 'They left the children but the men were shot near the ditch [common grave].
         And one of these people who saved himself from among the men told later how
         from the ditch where Rabbi Bloch was lying, one heard the cry, “Sma Ysreil”
@@ -338,33 +546,57 @@ recording:
         20th of Tammuz] they shot on caph aleph Tammuz [the 21st]. The women who were
         in the second lager, that is 16 kilometers from Telsh...'
     - who: David Boder
-      start: '00:09:57.228'
-      end: '00:10:01.248'
+      start:
+        sec: '597.228'
+        mark: '00:09:57.228'
+      end:
+        sec: '601.248'
+        mark: '00:10:01.248'
       u: Do I understand that they have taken the children with the men and the women
         separately?
     - who: Isaac Ostland
-      start: '00:10:01.248'
-      end: '00:10:03.676'
+      start:
+        sec: '601.248'
+        mark: '00:10:01.248'
+      end:
+        sec: '603.676'
+        mark: '00:10:03.676'
       u: The women were afterwards reunited with the children.
     - who: David Boder
-      start: '00:10:03.676'
-      end: '00:10:06.817'
+      start:
+        sec: '603.676'
+        mark: '00:10:03.676'
+      end:
+        sec: '606.817'
+        mark: '00:10:06.817'
       u: But from the start? [He talks at the same time as the interviewer and one
         cannot clearly understand what he is saying. The interviewees are often irritated
         by questions and do not permit the interviewer to finish the question but
         just talk simultaneously with him.] So at the start the children were with
         the men and the women were alone?
     - who: Isaac Ostland
-      start: '00:10:06.817'
-      end: '00:10:08.136'
+      start:
+        sec: '606.817'
+        mark: '00:10:06.817'
+      end:
+        sec: '608.136'
+        mark: '00:10:08.136'
       u: Yes.
     - who: David Boder
-      start: '00:10:08.136'
-      end: '00:10:11.257'
+      start:
+        sec: '608.136'
+        mark: '00:10:08.136'
+      end:
+        sec: '611.257'
+        mark: '00:10:11.257'
       u: Go on.
     - who: Isaac Ostland
-      start: '00:10:11.257'
-      end: '00:11:20.535'
+      start:
+        sec: '611.257'
+        mark: '00:10:11.257'
+      end:
+        sec: '680.535'
+        mark: '00:11:20.535'
       u: After a certain time has elapsed they came to the lager of the women and
         counted them up. The older ones and the very young ones they separated on
         one side and the young ones, that is the ones able to work...it became obvious
@@ -378,150 +610,278 @@ recording:
         the several years of war with them and those who remained alive are already
         by now...some of them in the land of Israel and some of them are in Poland.
     - who: David Boder
-      start: '00:11:20.535'
-      end: '00:11:23.715'
+      start:
+        sec: '680.535'
+        mark: '00:11:20.535'
+      end:
+        sec: '683.715'
+        mark: '00:11:23.715'
       u: How did they hide among the Christians, with Aryan papers?
     - who: Isaac Ostland
-      start: '00:11:23.715'
-      end: '00:11:42.115'
+      start:
+        sec: '683.715'
+        mark: '00:11:23.715'
+      end:
+        sec: '702.115'
+        mark: '00:11:42.115'
       u: With Jewish papers, because there could be found...although very few Christian
         families who were able to appraise the significance of saving a Jewish life.
         There were some who saved them with the purpose to convert to Christianity
         the children, and they did so later on...
     - who: David Boder
-      start: '00:11:42.115'
-      end: '00:11:43.196'
+      start:
+        sec: '702.115'
+        mark: '00:11:42.115'
+      end:
+        sec: '703.196'
+        mark: '00:11:43.196'
       u: So.
     - who: Isaac Ostland
-      start: '00:11:43.196'
-      end: '00:11:53.414'
+      start:
+        sec: '703.196'
+        mark: '00:11:43.196'
+      end:
+        sec: '713.414'
+        mark: '00:11:53.414'
       u: ". . . and that is the purpose why they saved them...but later of course,
         when the war was over the children were returned to the Jewish faith and remained
         pure and fine Jews."
     - who: David Boder
-      start: '00:11:53.414'
-      end: '00:11:59.208'
+      start:
+        sec: '713.414'
+        mark: '00:11:53.414'
+      end:
+        sec: '719.208'
+        mark: '00:11:59.208'
       u: Well, no let’s return to the beginning. Where were you, and what happened
         to you?
     - who: Isaac Ostland
-      start: '00:11:59.208'
-      end: '00:12:05.398'
+      start:
+        sec: '719.208'
+        mark: '00:11:59.208'
+      end:
+        sec: '725.398'
+        mark: '00:12:05.398'
       u: Now, I myself was in Russia. For about four weeks...
     - who: David Boder
-      start: '00:12:05.398'
-      end: '00:12:06.519'
+      start:
+        sec: '725.398'
+        mark: '00:12:05.398'
+      end:
+        sec: '726.519'
+        mark: '00:12:06.519'
       u: How did you get away?
     - who: Isaac Ostland
-      start: '00:12:06.519'
-      end: '00:12:11.600'
+      start:
+        sec: '726.519'
+        mark: '00:12:06.519'
+      end:
+        sec: '731.600'
+        mark: '00:12:11.600'
       u: We came with a group of people from the Yeshiva of Telsh as far as the city
         of Mitau, a city in Latvia...
     - who: David Boder
-      start: '00:12:11.600'
-      end: '00:12:13.897'
+      start:
+        sec: '731.600'
+        mark: '00:12:11.600'
+      end:
+        sec: '733.897'
+        mark: '00:12:13.897'
       u: Oh yes, Mitau in Kurland.
     - who: Isaac Ostland
-      start: '00:12:13.897'
-      end: '00:12:22.622'
+      start:
+        sec: '733.897'
+        mark: '00:12:13.897'
+      end:
+        sec: '742.622'
+        mark: '00:12:22.622'
       u: Yes. We arrived on foot, there we found ready echelons on which we embarked
         and within ten days we arrived in the province of Kirov.
     - who: David Boder
-      start: '00:12:22.622'
-      end: '00:12:25.268'
+      start:
+        sec: '742.622'
+        mark: '00:12:22.622'
+      end:
+        sec: '745.268'
+        mark: '00:12:25.268'
       u: For whom were the echelons?
     - who: Isaac Ostland
-      start: '00:12:25.268'
-      end: '00:12:27.636'
+      start:
+        sec: '745.268'
+        mark: '00:12:25.268'
+      end:
+        sec: '747.636'
+        mark: '00:12:27.636'
       u: For the population who wanted to be evacuated.
     - who: David Boder
-      start: '00:12:27.636'
-      end: '00:12:33.121'
+      start:
+        sec: '747.636'
+        mark: '00:12:27.636'
+      end:
+        sec: '753.121'
+        mark: '00:12:33.121'
       u: Yes, then they were evacuation trains. How were you treated during the evacuation?
     - who: Isaac Ostland
-      start: '00:12:33.121'
-      end: '00:12:48.449'
+      start:
+        sec: '753.121'
+        mark: '00:12:33.121'
+      end:
+        sec: '768.449'
+        mark: '00:12:48.449'
       u: During the evacuation...we had something with us and en route others had
         to suffer a bit because things could not be properly arranged right from the
         start but as we got deeper into Russia the preparations [to receive us] were
         better.
     - who: David Boder
-      start: '00:12:48.449'
-      end: '00:12:51.689'
+      start:
+        sec: '768.449'
+        mark: '00:12:48.449'
+      end:
+        sec: '771.689'
+        mark: '00:12:51.689'
       u: But they did not take away from you your things?
     - who: Isaac Ostland
-      start: '00:12:51.689'
-      end: '00:13:00.552'
+      start:
+        sec: '771.689'
+        mark: '00:12:51.689'
+      end:
+        sec: '780.552'
+        mark: '00:13:00.552'
       u: We had no things with us because we abandoned our things en route, because
         it was hard on the way to Mitau, marching on foot so we had to abandon all
         our things and we traveled without anything.
     - who: David Boder
-      start: '00:13:00.552'
-      end: '00:13:02.069'
+      start:
+        sec: '780.552'
+        mark: '00:13:00.552'
+      end:
+        sec: '782.069'
+        mark: '00:13:02.069'
       u: What kind of railroad cars were they?
     - who: Isaac Ostland
-      start: '00:13:02.069'
-      end: '00:13:04.794'
+      start:
+        sec: '782.069'
+        mark: '00:13:02.069'
+      end:
+        sec: '784.794'
+        mark: '00:13:04.794'
       u: They were freight cars.
     - who: David Boder
-      start: '00:13:04.794'
-      end: '00:13:06.707'
+      start:
+        sec: '784.794'
+        mark: '00:13:04.794'
+      end:
+        sec: '786.707'
+        mark: '00:13:06.707'
       u: But they were kept open?
     - who: Isaac Ostland
-      start: '00:13:06.707'
-      end: '00:13:07.531'
+      start:
+        sec: '786.707'
+        mark: '00:13:06.707'
+      end:
+        sec: '787.531'
+        mark: '00:13:07.531'
       u: Open.
     - who: David Boder
-      start: '00:13:07.531'
-      end: '00:13:10.097'
+      start:
+        sec: '787.531'
+        mark: '00:13:07.531'
+      end:
+        sec: '790.097'
+        mark: '00:13:10.097'
       u: You could have air, you were permitted to go out?
     - who: Isaac Ostland
-      start: '00:13:10.097'
-      end: '00:13:10.830'
+      start:
+        sec: '790.097'
+        mark: '00:13:10.097'
+      end:
+        sec: '790.830'
+        mark: '00:13:10.830'
       u: Yes.
     - who: David Boder
-      start: '00:13:10.830'
-      end: '00:13:19.305'
+      start:
+        sec: '790.830'
+        mark: '00:13:10.830'
+      end:
+        sec: '799.305'
+        mark: '00:13:19.305'
       u: You were able to go out, you could step out to satisfy your needs, you did
         not have to do it in the cars?
     - who: Isaac Ostland
-      start: '00:13:19.305'
-      end: '00:13:26.140'
+      start:
+        sec: '799.305'
+        mark: '00:13:19.305'
+      end:
+        sec: '806.140'
+        mark: '00:13:26.140'
       u: No. We would stop at stations and we could do everything satisfactory.
     - who: David Boder
-      start: '00:13:26.140'
-      end: '00:13:28.310'
+      start:
+        sec: '806.140'
+        mark: '00:13:26.140'
+      end:
+        sec: '808.310'
+        mark: '00:13:28.310'
       u: And you traveled to Kirov?
     - who: Isaac Ostland
-      start: '00:13:28.310'
-      end: '00:13:36.639'
+      start:
+        sec: '808.310'
+        mark: '00:13:28.310'
+      end:
+        sec: '816.639'
+        mark: '00:13:36.639'
       u: To the province of Kirov where we got to a little town, a village Vecheva.
         And there we got together a group of sixteen Yeshiva people with the whole
         [inventory of] Yeshiva.
     - who: David Boder
-      start: '00:13:36.639'
-      end: '00:13:40.650'
+      start:
+        sec: '816.639'
+        mark: '00:13:36.639'
+      end:
+        sec: '820.650'
+        mark: '00:13:40.650'
       u: Excuse me, the province of Kirov, what was that before?
     - who: Isaac Ostland
-      start: '00:13:40.650'
-      end: '00:13:41.524'
+      start:
+        sec: '820.650'
+        mark: '00:13:40.650'
+      end:
+        sec: '821.524'
+        mark: '00:13:41.524'
       u: Vyatka.
     - who: David Boder
-      start: '00:13:41.524'
-      end: '00:13:44.692'
+      start:
+        sec: '821.524'
+        mark: '00:13:41.524'
+      end:
+        sec: '824.692'
+        mark: '00:13:44.692'
       u: Oh, the province of Vyatka, go on.
     - who: Isaac Ostland
-      start: '00:13:44.692'
-      end: '00:13:55.839'
+      start:
+        sec: '824.692'
+        mark: '00:13:44.692'
+      end:
+        sec: '835.839'
+        mark: '00:13:55.839'
       u: There we, the sixteen people of the Yeshiva, have decided to work in a forest
         so that we could be separated from our Christian comrades, in order that we
         should be able to observe the Jewish rituals...
     - who: David Boder
-      start: '00:13:55.839'
-      end: '00:13:56.929'
+      start:
+        sec: '835.839'
+        mark: '00:13:55.839'
+      end:
+        sec: '836.929'
+        mark: '00:13:56.929'
       u: But you were working?
     - who: Isaac Ostland
-      start: '00:13:56.929'
-      end: '00:14:27.039'
+      start:
+        sec: '836.929'
+        mark: '00:13:56.929'
+      end:
+        sec: '867.039'
+        mark: '00:14:27.039'
       u: We were working. We were working in a forest doing very hard work on lumber.
         And in general not being accustomed to physical work away from the [books
         of] Talmud, it was very hard for us. We lost a lot of strength. And we remained
@@ -530,137 +890,257 @@ recording:
         we began to suffer, we had to get away from there because our physical strength
         did not permit us to remain at such hard labor.
     - who: David Boder
-      start: '00:14:27.039'
-      end: '00:14:29.991'
+      start:
+        sec: '867.039'
+        mark: '00:14:27.039'
+      end:
+        sec: '869.991'
+        mark: '00:14:29.991'
       u: Did you have with you the [volumes of] Talmud, did you have [with you] any
         books?
     - who: Isaac Ostland
-      start: '00:14:29.991'
-      end: '00:14:43.873'
+      start:
+        sec: '869.991'
+        mark: '00:14:29.991'
+      end:
+        sec: '883.873'
+        mark: '00:14:43.873'
       u: No, no books. We only studied—we had with us a little Tanakh-Pentateuch,
         Prophets and Writings. And there were some among us who knew [the scripture]
         by heart, so we held every Saturday conferences reciting the words of the
         Bible or the scriptures which we knew by heart.
     - who: David Boder
-      start: '00:14:43.873'
-      end: '00:14:44.788'
+      start:
+        sec: '883.873'
+        mark: '00:14:43.873'
+      end:
+        sec: '884.788'
+        mark: '00:14:44.788'
       u: So.
     - who: Isaac Ostland
-      start: '00:14:44.788'
-      end: '00:14:48.814'
+      start:
+        sec: '884.788'
+        mark: '00:14:44.788'
+      end:
+        sec: '888.814'
+        mark: '00:14:48.814'
       u: And every day we had a [set] time for study, and we prayed three times a
         day.
     - who: David Boder
-      start: '00:14:48.814'
-      end: '00:14:50.355'
+      start:
+        sec: '888.814'
+        mark: '00:14:48.814'
+      end:
+        sec: '890.355'
+        mark: '00:14:50.355'
       u: The Russians permitted it?
     - who: Isaac Ostland
-      start: '00:14:50.355'
-      end: '00:14:56.424'
+      start:
+        sec: '890.355'
+        mark: '00:14:50.355'
+      end:
+        sec: '896.424'
+        mark: '00:14:56.424'
       u: The Russians were not with us at all. We managed to find definite time that
         would not interfere with the work.
     - who: David Boder
-      start: '00:14:56.424'
-      end: '00:14:58.208'
+      start:
+        sec: '896.424'
+        mark: '00:14:56.424'
+      end:
+        sec: '898.208'
+        mark: '00:14:58.208'
       u: But you worked for the Russians?
     - who: Isaac Ostland
-      start: '00:14:58.208'
-      end: '00:15:00.090'
+      start:
+        sec: '898.208'
+        mark: '00:14:58.208'
+      end:
+        sec: '900.090'
+        mark: '00:15:00.090'
       u: We worked for the Russians, for the authorities.
     - who: David Boder
-      start: '00:15:00.090'
-      end: '00:15:00.384'
+      start:
+        sec: '900.090'
+        mark: '00:15:00.090'
+      end:
+        sec: '900.384'
+        mark: '00:15:00.384'
       u: Yes.
     - who: Isaac Ostland
-      start: '00:15:00.384'
-      end: '00:15:03.219'
+      start:
+        sec: '900.384'
+        mark: '00:15:00.384'
+      end:
+        sec: '903.219'
+        mark: '00:15:03.219'
       u: We were able to observe the Sabbath because we worked on Sunday.
     - who: David Boder
-      start: '00:15:03.219'
-      end: '00:15:08.504'
+      start:
+        sec: '903.219'
+        mark: '00:15:03.219'
+      end:
+        sec: '908.504'
+        mark: '00:15:08.504'
       u: So they demonstrated religious tolerance?
     - who: Isaac Ostland
-      start: '00:15:08.504'
-      end: '00:15:12.280'
+      start:
+        sec: '908.504'
+        mark: '00:15:08.504'
+      end:
+        sec: '912.280'
+        mark: '00:15:12.280'
       u: They did not bother us and also permitted us to choose our own day of rest.
     - who: David Boder
-      start: '00:15:12.280'
-      end: '00:15:17.938'
+      start:
+        sec: '912.280'
+        mark: '00:15:12.280'
+      end:
+        sec: '917.938'
+        mark: '00:15:17.938'
       u: So...well, but you worked for the government, did you get any pay?
     - who: Isaac Ostland
-      start: '00:15:17.938'
-      end: '00:15:27.967'
+      start:
+        sec: '917.938'
+        mark: '00:15:17.938'
+      end:
+        sec: '927.967'
+        mark: '00:15:27.967'
       u: The pay consisted of our food which we were given, our working clothes and
         the lodging and the tools for work which we needed...
     - who: David Boder
-      start: '00:15:27.967'
-      end: '00:15:35.614'
+      start:
+        sec: '927.967'
+        mark: '00:15:27.967'
+      end:
+        sec: '935.614'
+        mark: '00:15:35.614'
       u: Now, tell me one thing. You told me that they permitted you to observe the
         dietary laws; what kind of kosher food were you getting?
     - who: Isaac Ostland
-      start: '00:15:35.614'
-      end: '00:15:46.043'
+      start:
+        sec: '935.614'
+        mark: '00:15:35.614'
+      end:
+        sec: '946.043'
+        mark: '00:15:46.043'
       u: We ate no meat. We only cooked grits, vegetables which were given to us and
         that was our nourishment.
     - who: David Boder
-      start: '00:15:46.043'
-      end: '00:15:49.936'
+      start:
+        sec: '946.043'
+        mark: '00:15:46.043'
+      end:
+        sec: '949.936'
+        mark: '00:15:49.936'
       u: So. Go on. How long did this last?
     - who: Isaac Ostland
-      start: '00:15:49.936'
-      end: '00:15:52.465'
+      start:
+        sec: '949.936'
+        mark: '00:15:49.936'
+      end:
+        sec: '952.465'
+        mark: '00:15:52.465'
       u: That was going on until Sukkoth.
     - who: David Boder
-      start: '00:15:52.465'
-      end: '00:15:53.151'
+      start:
+        sec: '952.465'
+        mark: '00:15:52.465'
+      end:
+        sec: '953.151'
+        mark: '00:15:53.151'
       u: How many months?
     - who: Isaac Ostland
-      start: '00:15:53.151'
-      end: '00:15:54.025'
+      start:
+        sec: '953.151'
+        mark: '00:15:53.151'
+      end:
+        sec: '954.025'
+        mark: '00:15:54.025'
       u: Two months.
     - who: David Boder
-      start: '00:15:54.025'
-      end: '00:15:55.182'
+      start:
+        sec: '954.025'
+        mark: '00:15:54.025'
+      end:
+        sec: '955.182'
+        mark: '00:15:55.182'
       u: Yes, and then...
     - who: Isaac Ostland
-      start: '00:15:55.182'
-      end: '00:16:28.681'
+      start:
+        sec: '955.182'
+        mark: '00:15:55.182'
+      end:
+        sec: '988.681'
+        mark: '00:16:28.681'
       u: Afterwards, seeing that that was too hard for us, some of our people, the
         older ones, departed for Almata in search for another place [a long pause].
         When we arrived there—the messages which we sent to our group as we learned
         later were not received by them, they could not receive any word from us,
         our contact was broken and they decided to depart by themselves.
     - who: David Boder
-      start: '00:16:28.681'
-      end: '00:16:29.477'
+      start:
+        sec: '988.681'
+        mark: '00:16:28.681'
+      end:
+        sec: '989.477'
+        mark: '00:16:29.477'
       u: Who, the older ones?
     - who: Isaac Ostland
-      start: '00:16:29.477'
-      end: '00:16:31.528'
+      start:
+        sec: '989.477'
+        mark: '00:16:29.477'
+      end:
+        sec: '991.528'
+        mark: '00:16:31.528'
       u: The group that remained behind.
     - who: David Boder
-      start: '00:16:31.528'
-      end: '00:16:34.304'
+      start:
+        sec: '991.528'
+        mark: '00:16:31.528'
+      end:
+        sec: '994.304'
+        mark: '00:16:34.304'
       u: You were among the older ones which departed first?
     - who: Isaac Ostland
-      start: '00:16:34.304'
-      end: '00:16:34.473'
+      start:
+        sec: '994.304'
+        mark: '00:16:34.304'
+      end:
+        sec: '994.473'
+        mark: '00:16:34.473'
       u: Yes.
     - who: David Boder
-      start: '00:16:34.473'
-      end: '00:16:36.053'
+      start:
+        sec: '994.473'
+        mark: '00:16:34.473'
+      end:
+        sec: '996.053'
+        mark: '00:16:36.053'
       u: Go on...they departed...
     - who: Isaac Ostland
-      start: '00:16:36.053'
-      end: '00:16:37.151'
+      start:
+        sec: '996.053'
+        mark: '00:16:36.053'
+      end:
+        sec: '997.151'
+        mark: '00:16:37.151'
       u: They departed.
     - who: David Boder
-      start: '00:16:37.151'
-      end: '00:16:38.319'
+      start:
+        sec: '997.151'
+        mark: '00:16:37.151'
+      end:
+        sec: '998.319'
+        mark: '00:16:38.319'
       u: And where did they go?
     - who: Isaac Ostland
-      start: '00:16:38.319'
-      end: '00:17:21.702'
+      start:
+        sec: '998.319'
+        mark: '00:16:38.319'
+      end:
+        sec: '1041.702'
+        mark: '00:17:21.702'
       u: 'They departed and at the time we had no contact with them. Not until later
         when we obtained information through Buguruslan [a city] through which they
         cleared all the evacuated. And from there we got information about two comrades,
@@ -670,72 +1150,136 @@ recording:
         reigned at that time a terrible epidemic and suffering from hunger—they unfortunately
         could not by-pass it, and they perished from various diseases.'
     - who: David Boder
-      start: '00:17:21.702'
-      end: '00:17:26.889'
+      start:
+        sec: '1041.702'
+        mark: '00:17:21.702'
+      end:
+        sec: '1046.889'
+        mark: '00:17:26.889'
       u: But the Russians let them go? Did they let them go or did they run away?
     - who: Isaac Ostland
-      start: '00:17:26.889'
-      end: '00:17:28.497'
+      start:
+        sec: '1046.889'
+        mark: '00:17:26.889'
+      end:
+        sec: '1048.497'
+        mark: '00:17:28.497'
       u: They ran away.
     - who: David Boder
-      start: '00:17:28.497'
-      end: '00:17:34.174'
+      start:
+        sec: '1048.497'
+        mark: '00:17:28.497'
+      end:
+        sec: '1054.174'
+        mark: '00:17:34.174'
       u: Well. And you, how many of the elders were you who departed [before]?
     - who: Isaac Ostland
-      start: '00:17:34.174'
-      end: '00:17:52.790'
+      start:
+        sec: '1054.174'
+        mark: '00:17:34.174'
+      end:
+        sec: '1072.790'
+        mark: '00:17:52.790'
       u: There were three of us. And we too for various reasons were forced to become
         separated, due to the difficulties with transportation. It was prohibited
         to travel from one place to another and that is how we became separated.
     - who: David Boder
-      start: '00:17:52.790'
-      end: '00:17:53.751'
+      start:
+        sec: '1072.790'
+        mark: '00:17:52.790'
+      end:
+        sec: '1073.751'
+        mark: '00:17:53.751'
       u: Go on.
     - who: Isaac Ostland
-      start: '00:17:53.751'
-      end: '00:18:08.132'
+      start:
+        sec: '1073.751'
+        mark: '00:17:53.751'
+      end:
+        sec: '1088.132'
+        mark: '00:18:08.132'
       u: 'Among those who died there were: Hertz Jachnin, Boruch Baron, Friedman,
         Michael Kron, Isaac Brutzvik [I am not sure of the last name].'
     - who: David Boder
-      start: '00:18:08.132'
-      end: '00:18:11.261'
+      start:
+        sec: '1088.132'
+        mark: '00:18:08.132'
+      end:
+        sec: '1091.261'
+        mark: '00:18:11.261'
       u: "[after a pause] And where did you go?"
     - who: Isaac Ostland
-      start: '00:18:11.261'
-      end: '00:18:16.546'
+      start:
+        sec: '1091.261'
+        mark: '00:18:11.261'
+      end:
+        sec: '1096.546'
+        mark: '00:18:16.546'
       u: We found ourselves in East Kasakstan.
     - who: David Boder
-      start: '00:18:16.546'
-      end: '00:18:18.173'
+      start:
+        sec: '1096.546'
+        mark: '00:18:16.546'
+      end:
+        sec: '1098.173'
+        mark: '00:18:18.173'
       u: Who do you mean by we?
     - who: Isaac Ostland
-      start: '00:18:18.173'
-      end: '00:18:23.525'
+      start:
+        sec: '1098.173'
+        mark: '00:18:18.173'
+      end:
+        sec: '1103.525'
+        mark: '00:18:23.525'
       u: 'The older comrades: Rosenband, Karanovich, and Bar [I am not sure whether
         he has not given inadvertently his real name among the three.]'
     - who: David Boder
-      start: '00:18:23.525'
-      end: '00:18:25.536'
+      start:
+        sec: '1103.525'
+        mark: '00:18:23.525'
+      end:
+        sec: '1105.536'
+        mark: '00:18:25.536'
       u: Well, so you reached Kasakstan?
     - who: Isaac Ostland
-      start: '00:18:25.536'
-      end: '00:18:25.909'
+      start:
+        sec: '1105.536'
+        mark: '00:18:25.536'
+      end:
+        sec: '1105.909'
+        mark: '00:18:25.909'
       u: Yes.
     - who: David Boder
-      start: '00:18:25.909'
-      end: '00:18:27.371'
+      start:
+        sec: '1105.909'
+        mark: '00:18:25.909'
+      end:
+        sec: '1107.371'
+        mark: '00:18:27.371'
       u: Where is Kasakstan?
     - who: Isaac Ostland
-      start: '00:18:27.371'
-      end: '00:18:30.449'
+      start:
+        sec: '1107.371'
+        mark: '00:18:27.371'
+      end:
+        sec: '1110.449'
+        mark: '00:18:30.449'
       u: Kasakstan is in the east, it borders Siberia.
     - who: David Boder
-      start: '00:18:30.449'
-      end: '00:18:33.684'
+      start:
+        sec: '1110.449'
+        mark: '00:18:30.449'
+      end:
+        sec: '1113.684'
+        mark: '00:18:33.684'
       u: So. Well.
     - who: Isaac Ostland
-      start: '00:18:33.684'
-      end: '00:19:05.609'
+      start:
+        sec: '1113.684'
+        mark: '00:18:33.684'
+      end:
+        sec: '1145.609'
+        mark: '00:19:05.609'
       u: There we spent two years. We went through [he apparently corrects himself]
         three years time and we went through all the hardships which the Russian people
         went through, especially the evacuees, which was still harder for religious
@@ -743,75 +1287,139 @@ recording:
         Jewish laws; naturally with great, great difficulties. Very rarely were there
         people who could stick it out. In the year 44...
     - who: David Boder
-      start: '00:19:05.609'
-      end: '00:19:09.138'
+      start:
+        sec: '1145.609'
+        mark: '00:19:05.609'
+      end:
+        sec: '1149.138'
+        mark: '00:19:09.138'
       u: Now, in these three years, what were you doing? Did you report to the Russians
         for work?
     - who: Isaac Ostland
-      start: '00:19:09.138'
-      end: '00:19:10.483'
+      start:
+        sec: '1149.138'
+        mark: '00:19:09.138'
+      end:
+        sec: '1150.483'
+        mark: '00:19:10.483'
       u: I worked, worked all the time.
     - who: David Boder
-      start: '00:19:10.483'
-      end: '00:19:11.867'
+      start:
+        sec: '1150.483'
+        mark: '00:19:10.483'
+      end:
+        sec: '1151.867'
+        mark: '00:19:11.867'
       u: What kind of work did you do?
     - who: Isaac Ostland
-      start: '00:19:11.867'
-      end: '00:19:22.661'
+      start:
+        sec: '1151.867'
+        mark: '00:19:11.867'
+      end:
+        sec: '1162.661'
+        mark: '00:19:22.661'
       u: I was occupied in all kind of labor. I had to work in a kolhkhoz, I had to
         work in a labor gang, over water, fishing, floating logs...
     - who: David Boder
-      start: '00:19:22.661'
-      end: '00:19:23.849'
+      start:
+        sec: '1162.661'
+        mark: '00:19:22.661'
+      end:
+        sec: '1163.849'
+        mark: '00:19:23.849'
       u: H-um.
     - who: Isaac Ostland
-      start: '00:19:23.849'
-      end: '00:19:27.958'
+      start:
+        sec: '1163.849'
+        mark: '00:19:23.849'
+      end:
+        sec: '1167.958'
+        mark: '00:19:27.958'
       u: ". . . all kinds of labor, I went through everything that there was."
     - who: David Boder
-      start: '00:19:27.958'
-      end: '00:19:30.773'
+      start:
+        sec: '1167.958'
+        mark: '00:19:27.958'
+      end:
+        sec: '1170.773'
+        mark: '00:19:30.773'
       u: And where did one live?
     - who: Isaac Ostland
-      start: '00:19:30.773'
-      end: '00:19:35.764'
+      start:
+        sec: '1170.773'
+        mark: '00:19:30.773'
+      end:
+        sec: '1175.764'
+        mark: '00:19:35.764'
       u: That varied. This is a question which is difficult to answer in one word.
     - who: David Boder
-      start: '00:19:35.764'
-      end: '00:19:47.401'
+      start:
+        sec: '1175.764'
+        mark: '00:19:35.764'
+      end:
+        sec: '1187.401'
+        mark: '00:19:47.401'
       u: Yes, I understand. But where did you live? Let’s talk about you. As I understand
         it, you worked for the Russians, all right. Did you live in a private home?
         Did you live in barracks? Where did you...
     - who: Isaac Ostland
-      start: '00:19:47.401'
-      end: '00:19:49.628'
+      start:
+        sec: '1187.401'
+        mark: '00:19:47.401'
+      end:
+        sec: '1189.628'
+        mark: '00:19:49.628'
       u: While in the kolkhoz I lived in the dormitories.
     - who: David Boder
-      start: '00:19:49.628'
-      end: '00:19:51.149'
+      start:
+        sec: '1189.628'
+        mark: '00:19:49.628'
+      end:
+        sec: '1191.149'
+        mark: '00:19:51.149'
       u: Oh, you lived in a kolkhoz [apparently the interviewer did not notice this
         statement by Ostland before; such things of course happen in non-directive
         interviews where the interview is being recorded and one expects to hear it
         later from the recording].
     - who: Isaac Ostland
-      start: '00:19:51.149'
-      end: '00:19:54.502'
+      start:
+        sec: '1191.149'
+        mark: '00:19:51.149'
+      end:
+        sec: '1194.502'
+        mark: '00:19:54.502'
       u: And while with the labor gang [I lived] in a private home.
     - who: David Boder
-      start: '00:19:54.502'
-      end: '00:19:57.239'
+      start:
+        sec: '1194.502'
+        mark: '00:19:54.502'
+      end:
+        sec: '1197.239'
+        mark: '00:19:57.239'
       u: Did you work in the kolkhoz together with Christians?
     - who: Isaac Ostland
-      start: '00:19:57.239'
-      end: '00:19:58.721'
+      start:
+        sec: '1197.239'
+        mark: '00:19:57.239'
+      end:
+        sec: '1198.721'
+        mark: '00:19:58.721'
       u: Together with Christians.
     - who: David Boder
-      start: '00:19:58.721'
-      end: '00:20:00.987'
+      start:
+        sec: '1198.721'
+        mark: '00:19:58.721'
+      end:
+        sec: '1200.987'
+        mark: '00:20:00.987'
       u: And how did they behave towards you?
     - who: Isaac Ostland
-      start: '00:20:00.987'
-      end: '00:20:31.190'
+      start:
+        sec: '1200.987'
+        mark: '00:20:00.987'
+      end:
+        sec: '1231.190'
+        mark: '00:20:31.190'
       u: Being there the only Jew, perfectly strange and unfamiliar to them, and being
         a deeply religious Jew which they haven’t seen already for 25 years, they
         developed towards me a relationship as to a stranger who has nothing in common
@@ -820,99 +1428,187 @@ recording:
         I did not suffer from anti-Semitism, except, naturally, the young ones bothered
         me somewhat. But the old ones...
     - who: David Boder
-      start: '00:20:31.190'
-      end: '00:20:32.915'
+      start:
+        sec: '1231.190'
+        mark: '00:20:31.190'
+      end:
+        sec: '1232.915'
+        mark: '00:20:32.915'
       u: Did you keep your beard?
     - who: Isaac Ostland
-      start: '00:20:32.915'
-      end: '00:20:34.072'
+      start:
+        sec: '1232.915'
+        mark: '00:20:32.915'
+      end:
+        sec: '1234.072'
+        mark: '00:20:34.072'
       u: I kept my beard all the time [that of course could not be of great importance
         in Russia where most of the peasants wear long beards].
     - who: David Boder
-      start: '00:20:34.072'
-      end: '00:20:35.663'
+      start:
+        sec: '1234.072'
+        mark: '00:20:34.072'
+      end:
+        sec: '1235.663'
+        mark: '00:20:35.663'
       u: 'And you prayed with your prayer shawl and phylacteries?[Footnote: Two receptacles
         with long thin leather strips attached; the receptacles contain excerpts from
         Biblical texts; they are worn during the morning prayer, one on the forehead
         and the other on the arm.]'
     - who: Isaac Ostland
-      start: '00:20:35.663'
-      end: '00:20:38.436'
+      start:
+        sec: '1235.663'
+        mark: '00:20:35.663'
+      end:
+        sec: '1238.436'
+        mark: '00:20:38.436'
       u: I prayed only with phylacteries, without a prayer shawl.
     - who: David Boder
-      start: '00:20:38.436'
-      end: '00:20:39.585'
+      start:
+        sec: '1238.436'
+        mark: '00:20:38.436'
+      end:
+        sec: '1239.585'
+        mark: '00:20:39.585'
       u: Where was your prayer shawl?
     - who: Isaac Ostland
-      start: '00:20:39.585'
-      end: '00:20:41.557'
+      start:
+        sec: '1239.585'
+        mark: '00:20:39.585'
+      end:
+        sec: '1241.557'
+        mark: '00:20:41.557'
       u: The prayer shawl was lost on the way.
     - who: David Boder
-      start: '00:20:41.557'
-      end: '00:20:42.420'
+      start:
+        sec: '1241.557'
+        mark: '00:20:41.557'
+      end:
+        sec: '1242.420'
+        mark: '00:20:42.420'
       u: Yes.
     - who: Isaac Ostland
-      start: '00:20:42.420'
-      end: '00:20:44.000'
+      start:
+        sec: '1242.420'
+        mark: '00:20:42.420'
+      end:
+        sec: '1244.000'
+        mark: '00:20:44.000'
       u: And the phylacteries I got from somebody else.
     - who: David Boder
-      start: '00:20:44.000'
-      end: '00:20:52.343'
+      start:
+        sec: '1244.000'
+        mark: '00:20:44.000'
+      end:
+        sec: '1252.343'
+        mark: '00:20:52.343'
       u: Yes, go on. [A pause] And this lasted three years, your stay in Kosakstan?
     - who: Isaac Ostland
-      start: '00:20:52.343'
-      end: '00:20:52.892'
+      start:
+        sec: '1252.343'
+        mark: '00:20:52.343'
+      end:
+        sec: '1252.892'
+        mark: '00:20:52.892'
       u: Yes.
     - who: David Boder
-      start: '00:20:52.892'
-      end: '00:20:54.441'
+      start:
+        sec: '1252.892'
+        mark: '00:20:52.892'
+      end:
+        sec: '1254.441'
+        mark: '00:20:54.441'
       u: Did you meet there any other Jews?
     - who: Isaac Ostland
-      start: '00:20:54.441'
-      end: '00:21:07.842'
+      start:
+        sec: '1254.441'
+        mark: '00:20:54.441'
+      end:
+        sec: '1267.842'
+        mark: '00:21:07.842'
       u: In Kosakstan I met also Russian Jews, a Jew from Lebavichi, who distinguished
         himself by his devotion to Jewish traditions, and many other kinds of Jews.
     - who: David Boder
-      start: '00:21:07.842'
-      end: '00:21:10.038'
+      start:
+        sec: '1267.842'
+        mark: '00:21:07.842'
+      end:
+        sec: '1270.038'
+        mark: '00:21:10.038'
       u: And so, what happened then?
     - who: Isaac Ostland
-      start: '00:21:10.038'
-      end: '00:21:16.088'
+      start:
+        sec: '1270.038'
+        mark: '00:21:10.038'
+      end:
+        sec: '1276.088'
+        mark: '00:21:16.088'
       u: In the year 44, being mobilized in the army, in the Lithuanian army...
     - who: David Boder
-      start: '00:21:16.088'
-      end: '00:21:21.334'
+      start:
+        sec: '1276.088'
+        mark: '00:21:16.088'
+      end:
+        sec: '1281.334'
+        mark: '00:21:21.334'
       u: How come in the Lithuanian army? You were in Kosakstan...
     - who: Isaac Ostland
-      start: '00:21:21.334'
-      end: '00:21:31.442'
+      start:
+        sec: '1281.334'
+        mark: '00:21:21.334'
+      end:
+        sec: '1291.442'
+        mark: '00:21:31.442'
       u: The Soviet army proceeded with the mobilization and they sent them away to
         the Lithuanian division which was created and was already stationed at that
         time in Lithuania.
     - who: David Boder
-      start: '00:21:31.442'
-      end: '00:21:32.826'
+      start:
+        sec: '1291.442'
+        mark: '00:21:31.442'
+      end:
+        sec: '1292.826'
+        mark: '00:21:32.826'
       u: Oh, you were sent back?
     - who: Isaac Ostland
-      start: '00:21:32.826'
-      end: '00:21:34.179'
+      start:
+        sec: '1292.826'
+        mark: '00:21:32.826'
+      end:
+        sec: '1294.179'
+        mark: '00:21:34.179'
       u: That happened already after the liberation of Lithuania.
     - who: David Boder
-      start: '00:21:34.179'
-      end: '00:21:35.720'
+      start:
+        sec: '1294.179'
+        mark: '00:21:34.179'
+      end:
+        sec: '1295.720'
+        mark: '00:21:35.720'
       u: So you were mobilized for the Lithuanian [army]?
     - who: Isaac Ostland
-      start: '00:21:35.720'
-      end: '00:21:39.319'
+      start:
+        sec: '1295.720'
+        mark: '00:21:35.720'
+      end:
+        sec: '1299.319'
+        mark: '00:21:39.319'
       u: We were mobilized and sent to Lithuania...
     - who: David Boder
-      start: '00:21:39.319'
-      end: '00:21:41.390'
+      start:
+        sec: '1299.319'
+        mark: '00:21:39.319'
+      end:
+        sec: '1301.390'
+        mark: '00:21:41.390'
       u: Were you equipped with soldiers uniforms...?
     - who: Isaac Ostland
-      start: '00:21:41.390'
-      end: '00:22:16.691'
+      start:
+        sec: '1301.390'
+        mark: '00:21:41.390'
+      end:
+        sec: '1336.691'
+        mark: '00:22:16.691'
       u: No, no uniforms, [I went] in civilian clothes. They only gave me the papers
         and I was granted already all the privileges of a soldier. I was given provisions
         on the road, a railroad ticket...everything. But in Novosibirsk—since that
@@ -921,295 +1617,551 @@ recording:
         Novosibirsk where I spent three months time I was subsequently discharged
         from service by the Lithuanian army in Vilna.
     - who: David Boder
-      start: '00:22:16.691'
-      end: '00:22:19.342'
+      start:
+        sec: '1336.691'
+        mark: '00:22:16.691'
+      end:
+        sec: '1339.342'
+        mark: '00:22:19.342'
       u: Where is Novosibirsk?
     - who: Isaac Ostland
-      start: '00:22:19.342'
-      end: '00:22:27.552'
+      start:
+        sec: '1339.342'
+        mark: '00:22:19.342'
+      end:
+        sec: '1347.552'
+        mark: '00:22:27.552'
       u: It is a big city in Russia which had at that time about 30,000 Jews evacuated
         from all over Russia.
     - who: David Boder
-      start: '00:22:27.552'
-      end: '00:22:30.494'
+      start:
+        sec: '1347.552'
+        mark: '00:22:27.552'
+      end:
+        sec: '1350.494'
+        mark: '00:22:30.494'
       u: Did you have a rabbinical certificate from before?
     - who: Isaac Ostland
-      start: '00:22:30.494'
-      end: '00:22:31.775'
+      start:
+        sec: '1350.494'
+        mark: '00:22:30.494'
+      end:
+        sec: '1351.775'
+        mark: '00:22:31.775'
       u: From before the war.
     - who: David Boder
-      start: '00:22:31.775'
-      end: '00:22:33.425'
+      start:
+        sec: '1351.775'
+        mark: '00:22:31.775'
+      end:
+        sec: '1353.425'
+        mark: '00:22:33.425'
       u: And you are also a slaughterer?
     - who: Isaac Ostland
-      start: '00:22:33.425'
-      end: '00:22:34.213'
+      start:
+        sec: '1353.425'
+        mark: '00:22:33.425'
+      end:
+        sec: '1354.213'
+        mark: '00:22:34.213'
       u: No, I am not a slaughterer.
     - who: David Boder
-      start: '00:22:34.213'
-      end: '00:22:39.748'
+      start:
+        sec: '1354.213'
+        mark: '00:22:34.213'
+      end:
+        sec: '1359.748'
+        mark: '00:22:39.748'
       u: So you had a rabbinical certificate and in Novosibirsk the community initiated
         you as their rabbi...
     - who: Isaac Ostland
-      start: '00:22:39.748'
-      end: '00:22:40.940'
+      start:
+        sec: '1359.748'
+        mark: '00:22:39.748'
+      end:
+        sec: '1360.940'
+        mark: '00:22:40.940'
       u: As rabbi.
     - who: David Boder
-      start: '00:22:40.940'
-      end: '00:22:46.328'
+      start:
+        sec: '1360.940'
+        mark: '00:22:40.940'
+      end:
+        sec: '1366.328'
+        mark: '00:22:46.328'
       u: Tell me, don’t they still have in Russia like in the olden times an official
         rabbi and a [spiritual rabbi]...
     - who: Isaac Ostland
-      start: '00:22:46.328'
-      end: '00:22:47.329'
+      start:
+        sec: '1366.328'
+        mark: '00:22:46.328'
+      end:
+        sec: '1367.329'
+        mark: '00:22:47.329'
       u: No, that does not exist any more.
     - who: David Boder
-      start: '00:22:47.329'
-      end: '00:22:52.678'
+      start:
+        sec: '1367.329'
+        mark: '00:22:47.329'
+      end:
+        sec: '1372.678'
+        mark: '00:22:52.678'
       u: Does not exist any more...so where are the newborn Jewish children registered?
     - who: Isaac Ostland
-      start: '00:22:52.678'
-      end: '00:22:56.513'
+      start:
+        sec: '1372.678'
+        mark: '00:22:52.678'
+      end:
+        sec: '1376.513'
+        mark: '00:22:56.513'
       u: They are being registered in the general registry.
     - who: David Boder
-      start: '00:22:56.513'
-      end: '00:23:01.474'
+      start:
+        sec: '1376.513'
+        mark: '00:22:56.513'
+      end:
+        sec: '1381.474'
+        mark: '00:23:01.474'
       u: Do they inscribe in Russia one’s religion in the passport?
     - who: Isaac Ostland
-      start: '00:23:01.474'
-      end: '00:23:03.271'
+      start:
+        sec: '1381.474'
+        mark: '00:23:01.474'
+      end:
+        sec: '1383.271'
+        mark: '00:23:03.271'
       u: No, not at all, no religion [is being registered].
     - who: David Boder
-      start: '00:23:03.271'
-      end: '00:23:05.018'
+      start:
+        sec: '1383.271'
+        mark: '00:23:03.271'
+      end:
+        sec: '1385.018'
+        mark: '00:23:05.018'
       u: They don’t register one’s religion?
     - who: Isaac Ostland
-      start: '00:23:05.018'
-      end: '00:23:07.494'
+      start:
+        sec: '1385.018'
+        mark: '00:23:05.018'
+      end:
+        sec: '1387.494'
+        mark: '00:23:07.494'
       u: No religion, [just] nationality is registered.
     - who: David Boder
-      start: '00:23:07.494'
-      end: '00:23:09.951'
+      start:
+        sec: '1387.494'
+        mark: '00:23:07.494'
+      end:
+        sec: '1389.951'
+        mark: '00:23:09.951'
       u: Oh, they register one “nationality-Jewish?...
     - who: Isaac Ostland
-      start: '00:23:09.951'
-      end: '00:23:10.417'
+      start:
+        sec: '1389.951'
+        mark: '00:23:09.951'
+      end:
+        sec: '1390.417'
+        mark: '00:23:10.417'
       u: Yes.
     - who: David Boder
-      start: '00:23:10.417'
-      end: '00:23:11.942'
+      start:
+        sec: '1390.417'
+        mark: '00:23:10.417'
+      end:
+        sec: '1391.942'
+        mark: '00:23:11.942'
       u: ". . . but they don’t register the religion?"
     - who: Isaac Ostland
-      start: '00:23:11.942'
-      end: '00:23:12.389'
+      start:
+        sec: '1391.942'
+        mark: '00:23:11.942'
+      end:
+        sec: '1392.389'
+        mark: '00:23:12.389'
       u: No.
     - who: David Boder
-      start: '00:23:12.389'
-      end: '00:23:19.931'
+      start:
+        sec: '1392.389'
+        mark: '00:23:12.389'
+      end:
+        sec: '1399.931'
+        mark: '00:23:19.931'
       u: So you were initiated there as rabbi. Did they hold you back from the army?
         If you were a soldier...
     - who: Isaac Ostland
-      start: '00:23:19.931'
-      end: '00:23:26.580'
+      start:
+        sec: '1399.931'
+        mark: '00:23:19.931'
+      end:
+        sec: '1406.580'
+        mark: '00:23:26.580'
       u: I had a rabbinical certificate from before and thanks to this rabbinical
         certificate...
     - who: David Boder
-      start: '00:23:26.580'
-      end: '00:23:27.737'
+      start:
+        sec: '1406.580'
+        mark: '00:23:26.580'
+      end:
+        sec: '1407.737'
+        mark: '00:23:27.737'
       u: You went then to Vilna?
     - who: Isaac Ostland
-      start: '00:23:27.737'
-      end: '00:23:42.266'
+      start:
+        sec: '1407.737'
+        mark: '00:23:27.737'
+      end:
+        sec: '1422.266'
+        mark: '00:23:42.266'
       u: I went then to Vilna and was there discharged. And then the community of
         Vilna—being in need of a rabbi—made representations to the authorities that
         I be not sent back to Novosibirsk, to my previous post.
     - who: David Boder
-      start: '00:23:42.266'
-      end: '00:23:42.569'
+      start:
+        sec: '1422.266'
+        mark: '00:23:42.266'
+      end:
+        sec: '1422.569'
+        mark: '00:23:42.569'
       u: Yes...
     - who: Isaac Ostland
-      start: '00:23:42.569'
-      end: '00:23:45.278'
+      start:
+        sec: '1422.569'
+        mark: '00:23:42.569'
+      end:
+        sec: '1425.278'
+        mark: '00:23:45.278'
       u: But that I be permitted to remain in Vilna.
     - who: David Boder
-      start: '00:23:45.278'
-      end: '00:23:45.725'
+      start:
+        sec: '1425.278'
+        mark: '00:23:45.278'
+      end:
+        sec: '1425.725'
+        mark: '00:23:45.725'
       u: So...
     - who: Isaac Ostland
-      start: '00:23:45.725'
-      end: '00:23:54.257'
+      start:
+        sec: '1425.725'
+        mark: '00:23:45.725'
+      end:
+        sec: '1434.257'
+        mark: '00:23:54.257'
       u: And they consented, and I remained in Vilna, and lived there for a year’s
         time until I departed for Poland.
     - who: David Boder
-      start: '00:23:54.257'
-      end: '00:23:55.278'
+      start:
+        sec: '1434.257'
+        mark: '00:23:54.257'
+      end:
+        sec: '1435.278'
+        mark: '00:23:55.278'
       u: So...how did you manage...?
     - who: Isaac Ostland
-      start: '00:23:55.278'
-      end: '00:24:07.187'
+      start:
+        sec: '1435.278'
+        mark: '00:23:55.278'
+      end:
+        sec: '1447.187'
+        mark: '00:24:07.187'
       u: During the year I remained in Vilna, we managed to re-erect a prayer house,
         we repaired the Choral Synagogue of Vilna at the cost of 50,000...
     - who: David Boder
-      start: '00:24:07.187'
-      end: '00:24:07.630'
+      start:
+        sec: '1447.187'
+        mark: '00:24:07.187'
+      end:
+        sec: '1447.630'
+        mark: '00:24:07.630'
       u: Zloty [unit of Polish currency]...
     - who: Isaac Ostland
-      start: '00:24:07.630'
-      end: '00:24:12.338'
+      start:
+        sec: '1447.630'
+        mark: '00:24:07.630'
+      end:
+        sec: '1452.338'
+        mark: '00:24:12.338'
       u: ". . . rubles [Russian unit of currency]. We organized again ritual slaughtering..."
     - who: David Boder
-      start: '00:24:12.338'
-      end: '00:24:18.976'
+      start:
+        sec: '1452.338'
+        mark: '00:24:12.338'
+      end:
+        sec: '1458.976'
+        mark: '00:24:18.976'
       u: The Choral Synagogue was in a basement, one had to step down a few steps...?
         Oh, no, the Choral Synagogue was on Zavalnya Street.
     - who: Isaac Ostland
-      start: '00:24:18.976'
-      end: '00:24:19.861'
+      start:
+        sec: '1458.976'
+        mark: '00:24:18.976'
+      end:
+        sec: '1459.861'
+        mark: '00:24:19.861'
       u: Zavalnya Street...
     - who: David Boder
-      start: '00:24:19.861'
-      end: '00:24:27.376'
+      start:
+        sec: '1459.861'
+        mark: '00:24:19.861'
+      end:
+        sec: '1467.376'
+        mark: '00:24:27.376'
       u: That was built years ago by Smaya Levin.
     - who: Isaac Ostland
-      start: '00:24:27.376'
-      end: '00:24:28.160'
+      start:
+        sec: '1467.376'
+        mark: '00:24:27.376'
+      end:
+        sec: '1468.160'
+        mark: '00:24:28.160'
       u: Very possible, times ago.
     - who: David Boder
-      start: '00:24:28.160'
-      end: '00:24:32.014'
+      start:
+        sec: '1468.160'
+        mark: '00:24:28.160'
+      end:
+        sec: '1472.014'
+        mark: '00:24:32.014'
       u: Berstein, who wrote Atiquo [the Zionist anthem] was there the cantor.
     - who: Isaac Ostland
-      start: '00:24:32.014'
-      end: '00:24:32.977'
+      start:
+        sec: '1472.014'
+        mark: '00:24:32.014'
+      end:
+        sec: '1472.977'
+        mark: '00:24:32.977'
       u: Was there the cantor.
     - who: David Boder
-      start: '00:24:32.977'
-      end: '00:24:33.726'
+      start:
+        sec: '1472.977'
+        mark: '00:24:32.977'
+      end:
+        sec: '1473.726'
+        mark: '00:24:33.726'
       u: Go on.
     - who: Isaac Ostland
-      start: '00:24:33.726'
-      end: '00:24:52.273'
+      start:
+        sec: '1473.726'
+        mark: '00:24:33.726'
+      end:
+        sec: '1492.273'
+        mark: '00:24:52.273'
       u: 'Why only the Choral Synagogue: Because of all 170 prayer houses which existed
         in the city of Vilna there remained only one on the German Street number 19
         [the name of German Street was an old name of one of the important streets
         of the city of Vilna since olden times] only this one was left intact by the
         Germans.'
     - who: David Boder
-      start: '00:24:52.273'
-      end: '00:24:52.964'
+      start:
+        sec: '1492.273'
+        mark: '00:24:52.273'
+      end:
+        sec: '1492.964'
+        mark: '00:24:52.964'
       u: And the others?
     - who: Isaac Ostland
-      start: '00:24:52.964'
-      end: '00:24:55.052'
+      start:
+        sec: '1492.964'
+        mark: '00:24:52.964'
+      end:
+        sec: '1495.052'
+        mark: '00:24:55.052'
       u: All the others are destroyed.
     - who: David Boder
-      start: '00:24:55.052'
-      end: '00:24:56.488'
+      start:
+        sec: '1495.052'
+        mark: '00:24:55.052'
+      end:
+        sec: '1496.488'
+        mark: '00:24:56.488'
       u: The whole “synagogue yard” [the city of Vilna had several blocks occupied
         by numerous synagogues of various congregations, as far as I remember surrounded
         by a general fence, and that section was called the “synagogue yard”]?
     - who: Isaac Ostland
-      start: '00:24:56.488'
-      end: '00:25:01.682'
+      start:
+        sec: '1496.488'
+        mark: '00:24:56.488'
+      end:
+        sec: '1501.682'
+        mark: '00:25:01.682'
       u: Everything, the “synagogue yard” with the old city synagogue and with the
         synagogues of the whole city.
     - who: David Boder
-      start: '00:25:01.682'
-      end: '00:25:04.100'
+      start:
+        sec: '1501.682'
+        mark: '00:25:01.682'
+      end:
+        sec: '1504.100'
+        mark: '00:25:04.100'
       u: Didn’t they convert the “Synagogue yard” into a ghetto?
     - who: Isaac Ostland
-      start: '00:25:04.100'
-      end: '00:25:27.095'
+      start:
+        sec: '1504.100'
+        mark: '00:25:04.100'
+      end:
+        sec: '1527.095'
+        mark: '00:25:27.095'
       u: Yes, there were two ghettos in Vilna. One ghetto was located between the
         Zavalnya Street and the German Street; the other which was located in the
         “synagogue yard” existed only for a few months, until the Day of Atonement,
         when it was liquidated. The second ghetto existed until about a year before
         liberation.
     - who: David Boder
-      start: '00:25:27.095'
-      end: '00:25:28.466'
+      start:
+        sec: '1527.095'
+        mark: '00:25:27.095'
+      end:
+        sec: '1528.466'
+        mark: '00:25:28.466'
       u: Go on.
     - who: Isaac Ostland
-      start: '00:25:28.466'
-      end: '00:00:00.000'
+      start:
+        sec: '1528.466'
+        mark: '00:25:28.466'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: In the synagogue on the German Street number 19, where the community was
         re-established after liberation...about this there is an interesting story
         to tell.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:25:47.727'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '1547.727'
+        mark: '00:25:47.727'
       u: Go on. Tell me first some other minor events and about this you will tell
         me when I change the spool so that you will not be interrupted.
     - who: Isaac Ostland
-      start: '00:25:47.727'
-      end: '00:25:48.019'
+      start:
+        sec: '1547.727'
+        mark: '00:25:47.727'
+      end:
+        sec: '1548.019'
+        mark: '00:25:48.019'
       u: Yes.
     - who: David Boder
-      start: '00:25:48.019'
-      end: '00:25:52.727'
+      start:
+        sec: '1548.019'
+        mark: '00:25:48.019'
+      end:
+        sec: '1552.727'
+        mark: '00:25:52.727'
       u: Now then, I want to know, Vilna has become again [a part of] Lithuania?
     - who: Isaac Ostland
-      start: '00:25:52.727'
-      end: '00:25:53.329'
+      start:
+        sec: '1552.727'
+        mark: '00:25:52.727'
+      end:
+        sec: '1553.329'
+        mark: '00:25:53.329'
       u: Lithuania.
     - who: David Boder
-      start: '00:25:53.329'
-      end: '00:25:56.982'
+      start:
+        sec: '1553.329'
+        mark: '00:25:53.329'
+      end:
+        sec: '1556.982'
+        mark: '00:25:56.982'
       u: Lithuania. And how many Jews did you find there approximately?
     - who: Isaac Ostland
-      start: '00:25:56.982'
-      end: '00:26:08.386'
+      start:
+        sec: '1556.982'
+        mark: '00:25:56.982'
+      end:
+        sec: '1568.386'
+        mark: '00:26:08.386'
       u: There we found altogether about 450 Jews who have managed to hide in the
         environs of Vilna with the Christians. Or [they were hidden] in malines, in
         hideouts, in caves...
     - who: David Boder
-      start: '00:26:08.386'
-      end: '00:26:10.086'
+      start:
+        sec: '1568.386'
+        mark: '00:26:08.386'
+      end:
+        sec: '1570.086'
+        mark: '00:26:10.086'
       u: What are “malines?”
     - who: Isaac Ostland
-      start: '00:26:10.086'
-      end: '00:26:13.610'
+      start:
+        sec: '1570.086'
+        mark: '00:26:10.086'
+      end:
+        sec: '1573.610'
+        mark: '00:26:13.610'
       u: "“Malines” means a hideout under ground [here the words under ground must
         be understood literally, meaning under the surface of the earth.]"
     - who: David Boder
-      start: '00:26:13.610'
-      end: '00:26:17.919'
+      start:
+        sec: '1573.610'
+        mark: '00:26:13.610'
+      end:
+        sec: '1577.919'
+        mark: '00:26:17.919'
       u: 'The word is of Hebrew[Footnote: In speaking Yiddish to Mr. Ostland, the
         interviewer used unawares to himself the English word “Hebrew” which Ostland
         apparently did not understand. This obviously accounts for the confusion in
         this section of the dialog.] origin. From what word does it originate?'
     - who: Isaac Ostland
-      start: '00:26:17.919'
-      end: '00:26:18.940'
+      start:
+        sec: '1577.919'
+        mark: '00:26:17.919'
+      end:
+        sec: '1578.940'
+        mark: '00:26:18.940'
       u: That I don’t know.
     - who: David Boder
-      start: '00:26:18.940'
-      end: '00:26:26.346'
+      start:
+        sec: '1578.940'
+        mark: '00:26:18.940'
+      end:
+        sec: '1586.346'
+        mark: '00:26:26.346'
       u: I have been told that it comes from the Hebrew word “malone” which is supposed
         to mean hiding; they told me it was a Hebrew word.
     - who: Isaac Ostland
-      start: '00:26:26.346'
-      end: '00:26:27.677'
+      start:
+        sec: '1586.346'
+        mark: '00:26:26.346'
+      end:
+        sec: '1587.677'
+        mark: '00:26:27.677'
       u: A Hebrew word meaning hiding.
     - who: David Boder
-      start: '00:26:27.677'
-      end: '00:26:37.556'
+      start:
+        sec: '1587.677'
+        mark: '00:26:27.677'
+      end:
+        sec: '1597.556'
+        mark: '00:26:37.556'
       u: And they have made of it a Russian word “maline” which is a berry, a fruit.
     - who: Isaac Ostland
-      start: '00:26:37.556'
-      end: '00:26:40.848'
+      start:
+        sec: '1597.556'
+        mark: '00:26:37.556'
+      end:
+        sec: '1600.848'
+        mark: '00:26:40.848'
       u: Well, with this synagogue on the German Street happened the following.
     - who: David Boder
-      start: '00:26:40.848'
-      end: '00:27:01.283'
+      start:
+        sec: '1600.848'
+        mark: '00:26:40.848'
+      end:
+        sec: '1621.283'
+        mark: '00:27:01.283'
       u: "[In English] Wait...This concludes Spool 125 [later designated as spool
         125-B] in which part is Mr. Gutman’s and part Rabbi Ostman’s [I apparently
         have been confusing his name, calling him at time Ostland and at times Ostman]
         report. Hénonville, near Paris, about 50 kilometers from Paris, September
         the 13th, 1946...[ends abruptly]"
     - who: David Boder
-      start: '00:27:01.283'
-      end: '00:27:42.445'
+      start:
+        sec: '1621.283'
+        mark: '00:27:01.283'
+      end:
+        sec: '1662.445'
+        mark: '00:27:42.445'
       u: France, Hénonville, 50 kilometers from Paris, September the 13th, 1946. In
         a home which belongs to the Agudah and shared educationally by the ORT. Also,
         in...out of [unintelligible] there is housed a Yeshiva which escaped from
@@ -1217,43 +2169,75 @@ recording:
         of the Yeshiva, Rabbi Isaac Ostland, a young man of about 30 or so is reporting
         continued from Spool 124...oh, 125. This is Spool 126. Again, Spool 126.
     - who: David Boder
-      start: '00:27:42.445'
-      end: '00:27:52.355'
+      start:
+        sec: '1662.445'
+        mark: '00:27:42.445'
+      end:
+        sec: '1672.355'
+        mark: '00:27:52.355'
       u: "[In Yiddish] And so Rabbi, you told me that there is an important story
         to tell about Vilna. Start, talk into the microphone, don’t hurry, you talk
         as long as you wish."
     - who: Isaac Ostland
-      start: '00:27:52.355'
-      end: '00:27:56.753'
+      start:
+        sec: '1672.355'
+        mark: '00:27:52.355'
+      end:
+        sec: '1676.753'
+        mark: '00:27:56.753'
       u: 'On the Saturday, “Section Bechuckotay”[Footnote: Levitious XXVI: 3—XXVII:
         34. For Saturday reading, the Pentatecuh is divided into 53 sections.] [as
         is often the custom, he designates a particular Saturday by the Section from
         the Torah which is being read on that Saturday] and while they were in the
         process of recitation [of the Torah]...'
     - who: David Boder
-      start: '00:27:56.753'
-      end: '00:27:57.890'
+      start:
+        sec: '1676.753'
+        mark: '00:27:56.753'
+      end:
+        sec: '1677.890'
+        mark: '00:27:57.890'
       u: On what Saturday was that?
     - who: Isaac Ostland
-      start: '00:27:57.890'
-      end: '00:28:03.014'
+      start:
+        sec: '1677.890'
+        mark: '00:27:57.890'
+      end:
+        sec: '1683.014'
+        mark: '00:28:03.014'
       u: "“Section Bechuckotay,” of the year 41, when the Germans were already in
         Vilna..."
     - who: David Boder
-      start: '00:28:03.014'
-      end: '00:28:04.947'
+      start:
+        sec: '1683.014'
+        mark: '00:28:03.014'
+      end:
+        sec: '1684.947'
+        mark: '00:28:04.947'
       u: And what do you call that Saturday?
     - who: Isaac Ostland
-      start: '00:28:04.947'
-      end: '00:28:06.403'
+      start:
+        sec: '1684.947'
+        mark: '00:28:04.947'
+      end:
+        sec: '1686.403'
+        mark: '00:28:06.403'
       u: When “Section Bechuckotay” is being recited.
     - who: David Boder
-      start: '00:28:06.403'
-      end: '00:28:07.579'
+      start:
+        sec: '1686.403'
+        mark: '00:28:06.403'
+      end:
+        sec: '1687.579'
+        mark: '00:28:07.579'
       u: Oh!
     - who: Isaac Ostland
-      start: '00:28:07.579'
-      end: '00:28:10.432'
+      start:
+        sec: '1687.579'
+        mark: '00:28:07.579'
+      end:
+        sec: '1690.432'
+        mark: '00:28:10.432'
       u: ". . . that is the Section which contains the “Takhakho.”[Footnote: “Takhakho”
         means “admonition.” There are two “Takhakhos” in the Pentateuch, one in Leviticus
         XXVI: 14-46, and the other in Deuteronomy XXVIII: 15-26. Both “Takhakhos”
@@ -1262,45 +2246,85 @@ recording:
         of the Lord...to observe to do all His commandments.” An analysis of the cardinal
         difference between the two “Takhakhos” is given in Footnote 7.]"
     - who: David Boder
-      start: '00:28:10.432'
-      end: '00:28:12.645'
+      start:
+        sec: '1690.432'
+        mark: '00:28:10.432'
+      end:
+        sec: '1692.645'
+        mark: '00:28:12.645'
       u: Oh, in what month is that?
     - who: Isaac Ostland
-      start: '00:28:12.645'
-      end: '00:28:15.413'
+      start:
+        sec: '1692.645'
+        mark: '00:28:12.645'
+      end:
+        sec: '1695.413'
+        mark: '00:28:15.413'
       u: That is about in the 12th month of the Jewish calendar.
     - who: David Boder
-      start: '00:28:15.413'
-      end: '00:28:18.219'
+      start:
+        sec: '1695.413'
+        mark: '00:28:15.413'
+      end:
+        sec: '1698.219'
+        mark: '00:28:18.219'
       u: Give me the month in Hebrew, the Hebrew...
     - who: Isaac Ostland
-      start: '00:28:18.219'
-      end: '00:28:22.170'
+      start:
+        sec: '1698.219'
+        mark: '00:28:18.219'
+      end:
+        sec: '1702.170'
+        mark: '00:28:22.170'
       u: 'At the end of the summer...Excuse me, not “Section Bechuckotay” but Section
         Ki Tahbo.” (Deuteronomy XXVI: 1—XXIX: 8.)'
     - who: David Boder
-      start: '00:28:22.170'
-      end: '00:28:22.462'
+      start:
+        sec: '1702.170'
+        mark: '00:28:22.170'
+      end:
+        sec: '1702.462'
+        mark: '00:28:22.462'
       u: Aha!
     - who: Isaac Ostland
-      start: '00:28:22.462'
-      end: '00:28:25.637'
+      start:
+        sec: '1702.462'
+        mark: '00:28:22.462'
+      end:
+        sec: '1705.637'
+        mark: '00:28:25.637'
       u: "“Section Ki Tahbo” may come out in Elul."
     - who: David Boder
-      start: '00:28:25.637'
-      end: '00:28:27.209'
+      start:
+        sec: '1705.637'
+        mark: '00:28:25.637'
+      end:
+        sec: '1707.209'
+        mark: '00:28:27.209'
       u: In Elul, before Rosh Hashana.
     - who: Isaac Ostland
-      start: '00:28:27.209'
-      end: '00:28:27.919'
+      start:
+        sec: '1707.209'
+        mark: '00:28:27.209'
+      end:
+        sec: '1707.919'
+        mark: '00:28:27.919'
       u: Before Rosh Hashana.
     - who: David Boder
-      start: '00:28:27.919'
-      end: '00:28:32.162'
+      start:
+        sec: '1707.919'
+        mark: '00:28:27.919'
+      end:
+        sec: '1712.162'
+        mark: '00:28:32.162'
       u: When they blow already the Shophar. Are we not also in the month Elul?
     - who: Isaac Ostland
-      start: '00:28:32.162'
-      end: '00:28:34.891'
+      start:
+        sec: '1712.162'
+        mark: '00:28:32.162'
+      end:
+        sec: '1714.891'
+        mark: '00:28:34.891'
       u: 'Yes, we are now in Elul, and this Saturday also “Section Bechuckotay”[Footnote:
         In spite of the spontaneous correction which he made a few sentences before,
         Rabbi Ostland commits again the same slip of the tongue (of apparently Freudian
@@ -1324,12 +2348,20 @@ recording:
         Germans who evoked into reality above any measure, most of the macabre prophecies
         of the “Takhakho Bechuckotay.”] is being read.'
     - who: David Boder
-      start: '00:28:34.891'
-      end: '00:28:36.300'
+      start:
+        sec: '1714.891'
+        mark: '00:28:34.891'
+      end:
+        sec: '1716.300'
+        mark: '00:28:36.300'
       u: So, it was like at this time?
     - who: Isaac Ostland
-      start: '00:28:36.300'
-      end: '00:29:06.627'
+      start:
+        sec: '1716.300'
+        mark: '00:28:36.300'
+      end:
+        sec: '1746.627'
+        mark: '00:29:06.627'
       u: Yes. So in the middle of the services all Jews were taken from the house
         of prayer as they were in midst of the recitation of the Torah, and everything
         was left; the Bibles open, even the Torah with the point at its side [a small
@@ -1338,172 +2370,316 @@ recording:
         of prayer. And things remained that way until the day when Vilna was again
         liberated...
     - who: David Boder
-      start: '00:29:06.627'
-      end: '00:29:06.938'
+      start:
+        sec: '1746.627'
+        mark: '00:29:06.627'
+      end:
+        sec: '1746.938'
+        mark: '00:29:06.938'
       u: Yes.
     - who: Isaac Ostland
-      start: '00:29:06.938'
-      end: '00:29:25.155'
+      start:
+        sec: '1746.938'
+        mark: '00:29:06.938'
+      end:
+        sec: '1765.155'
+        mark: '00:29:25.155'
       u: ". . . a group of Jewish respected citizens entered the place with the most
         reverend Rabbi Gutman and they found everything untouched. The holy Torah
         was lying on the pulpit with the finger-marks of the reader on the Torah and
         the pointer, that is how they found it. That was the only synagogue in all
         Vilna."
     - who: David Boder
-      start: '00:29:25.155'
-      end: '00:29:26.497'
+      start:
+        sec: '1765.155'
+        mark: '00:29:25.155'
+      end:
+        sec: '1766.497'
+        mark: '00:29:26.497'
       u: What was the synagogue on the German Street?
     - who: Isaac Ostland
-      start: '00:29:26.497'
-      end: '00:29:33.099'
+      start:
+        sec: '1766.497'
+        mark: '00:29:26.497'
+      end:
+        sec: '1773.099'
+        mark: '00:29:33.099'
       u: On the German Street number 19, which by a miracle has remained intact from
         all the 107 synagogues, which once existed in Vilna.
     - who: David Boder
-      start: '00:29:33.099'
-      end: '00:29:34.436'
+      start:
+        sec: '1773.099'
+        mark: '00:29:33.099'
+      end:
+        sec: '1774.436'
+        mark: '00:29:34.436'
       u: Oh...
     - who: Isaac Ostland
-      start: '00:29:34.436'
-      end: '00:29:45.926'
+      start:
+        sec: '1774.436'
+        mark: '00:29:34.436'
+      end:
+        sec: '1785.926'
+        mark: '00:29:45.926'
       u: And this [the salvation of one single synagogue] offered the possibility
         to rebuild again a Jewish religious life. The few Bibles which were found
         in that synagogue, the holy Torahs and in general all the things that a congregation
         needs for its existence.
     - who: David Boder
-      start: '00:29:45.926'
-      end: '00:29:51.183'
+      start:
+        sec: '1785.926'
+        mark: '00:29:45.926'
+      end:
+        sec: '1791.183'
+        mark: '00:29:51.183'
       u: Tell me, excuse the interruption, what books are you using here at present?
         Are these new books?
     - who: Isaac Ostland
-      start: '00:29:51.183'
-      end: '00:29:54.903'
+      start:
+        sec: '1791.183'
+        mark: '00:29:51.183'
+      end:
+        sec: '1794.903'
+        mark: '00:29:54.903'
       u: No, these are books the Talmud and other religious Tomes [he enumerates the
         various sections of the scriptures and commentaries and Hebrew]...
     - who: David Boder
-      start: '00:29:54.903'
-      end: '00:29:56.836'
+      start:
+        sec: '1794.903'
+        mark: '00:29:54.903'
+      end:
+        sec: '1796.836'
+        mark: '00:29:56.836'
       u: How did you manage to bring them over? How...
     - who: Isaac Ostland
-      start: '00:29:56.836'
-      end: '00:30:02.419'
+      start:
+        sec: '1796.836'
+        mark: '00:29:56.836'
+      end:
+        sec: '1802.419'
+        mark: '00:30:02.419'
       u: These were obtained from Poland from Lodz. In Lodz were found large stores
         of sacred books.
     - who: David Boder
-      start: '00:30:02.419'
-      end: '00:30:04.986'
+      start:
+        sec: '1802.419'
+        mark: '00:30:02.419'
+      end:
+        sec: '1804.986'
+        mark: '00:30:04.986'
       u: Aha. Then they did not print new ones here?
     - who: Isaac Ostland
-      start: '00:30:04.986'
-      end: '00:30:10.819'
+      start:
+        sec: '1804.986'
+        mark: '00:30:04.986'
+      end:
+        sec: '1810.819'
+        mark: '00:30:10.819'
       u: Here not yet, but abroad [books] are being printed. In Switzerland, in the
         land of Israel; we also received a great deal of books from America.
     - who: David Boder
-      start: '00:30:10.819'
-      end: '00:30:13.567'
+      start:
+        sec: '1810.819'
+        mark: '00:30:10.819'
+      end:
+        sec: '1813.567'
+        mark: '00:30:13.567'
       u: Yes, because I have seen some of them look entirely like new.
     - who: Isaac Ostland
-      start: '00:30:13.567'
-      end: '00:30:15.519'
+      start:
+        sec: '1813.567'
+        mark: '00:30:13.567'
+      end:
+        sec: '1815.519'
+        mark: '00:30:15.519'
       u: New, these are from abroad.
     - who: David Boder
-      start: '00:30:15.519'
-      end: '00:30:18.451'
+      start:
+        sec: '1815.519'
+        mark: '00:30:15.519'
+      end:
+        sec: '1818.451'
+        mark: '00:30:18.451'
       u: From abroad. Now let us continue.
     - who: Isaac Ostland
-      start: '00:30:18.451'
-      end: '00:30:30.344'
+      start:
+        sec: '1818.451'
+        mark: '00:30:18.451'
+      end:
+        sec: '1830.344'
+        mark: '00:30:30.344'
       u: And so in this synagogue and the adjoining room was founded in 1944 the Jewish
         congregation of Vilna and through this began the reconstruction of a new Jewish
         life in Vilna.
     - who: David Boder
-      start: '00:30:30.344'
-      end: '00:30:32.752'
+      start:
+        sec: '1830.344'
+        mark: '00:30:30.344'
+      end:
+        sec: '1832.752'
+        mark: '00:30:32.752'
       u: Do you remember any names in the parish council?
     - who: Isaac Ostland
-      start: '00:30:32.752'
-      end: '00:30:38.624'
+      start:
+        sec: '1832.752'
+        mark: '00:30:32.752'
+      end:
+        sec: '1838.624'
+        mark: '00:30:38.624'
       u: The rabbi then was Rabbi Gutman, the shohet was Mr. Farber.
     - who: David Boder
-      start: '00:30:38.624'
-      end: '00:30:38.712'
+      start:
+        sec: '1838.624'
+        mark: '00:30:38.624'
+      end:
+        sec: '1838.712'
+        mark: '00:30:38.712'
       u: Yes?
     - who: Isaac Ostland
-      start: '00:30:38.712'
-      end: '00:30:41.375'
+      start:
+        sec: '1838.712'
+        mark: '00:30:38.712'
+      end:
+        sec: '1841.375'
+        mark: '00:30:41.375'
       u: Afterwards there was a second one, a younger one- Lieberman.
     - who: David Boder
-      start: '00:30:41.375'
-      end: '00:30:42.278'
+      start:
+        sec: '1841.375'
+        mark: '00:30:41.375'
+      end:
+        sec: '1842.278'
+        mark: '00:30:42.278'
       u: Ah...
     - who: Isaac Ostland
-      start: '00:30:42.278'
-      end: '00:30:49.329'
+      start:
+        sec: '1842.278'
+        mark: '00:30:42.278'
+      end:
+        sec: '1849.329'
+        mark: '00:30:49.329'
       u: And the other members of the parish council were Stein, and Sapirstein was
         the secretary.
     - who: David Boder
-      start: '00:30:49.329'
-      end: '00:30:54.306'
+      start:
+        sec: '1849.329'
+        mark: '00:30:49.329'
+      end:
+        sec: '1854.306'
+        mark: '00:30:54.306'
       u: Yes, was there among them a certain Zalkind?
     - who: Isaac Ostland
-      start: '00:30:54.306'
-      end: '00:30:54.844'
+      start:
+        sec: '1854.306'
+        mark: '00:30:54.306'
+      end:
+        sec: '1854.844'
+        mark: '00:30:54.844'
       u: "[After a pause] No."
     - who: David Boder
-      start: '00:30:54.844'
-      end: '00:30:57.334'
+      start:
+        sec: '1854.844'
+        mark: '00:30:54.844'
+      end:
+        sec: '1857.334'
+        mark: '00:30:57.334'
       u: No [the interviewer asked about a very prominent family in Vilna]. Well,
         go on.
     - who: Isaac Ostland
-      start: '00:30:57.334'
-      end: '00:31:04.943'
+      start:
+        sec: '1857.334'
+        mark: '00:30:57.334'
+      end:
+        sec: '1864.943'
+        mark: '00:31:04.943'
       u: Now the city synagogue suffered only on the outside. The inside was still
         intact.
     - who: David Boder
-      start: '00:31:04.943'
-      end: '00:31:05.992'
+      start:
+        sec: '1864.943'
+        mark: '00:31:04.943'
+      end:
+        sec: '1865.992'
+        mark: '00:31:05.992'
       u: Which- The Choral Synagogue or the city [synagogue]?
     - who: Isaac Ostland
-      start: '00:31:05.992'
-      end: '00:31:07.663'
+      start:
+        sec: '1865.992'
+        mark: '00:31:05.992'
+      end:
+        sec: '1867.663'
+        mark: '00:31:07.663'
       u: The city synagogue in the synagogue court.
     - who: David Boder
-      start: '00:31:07.663'
-      end: '00:31:13.438'
+      start:
+        sec: '1867.663'
+        mark: '00:31:07.663'
+      end:
+        sec: '1873.438'
+        mark: '00:31:13.438'
       u: Oh, that is the large synagogue where before [now they talk both at the same
         time] the cantor Sirota was singing.
     - who: Isaac Ostland
-      start: '00:31:13.438'
-      end: '00:31:17.406'
+      start:
+        sec: '1873.438'
+        mark: '00:31:13.438'
+      end:
+        sec: '1877.406'
+        mark: '00:31:17.406'
       u: Yes, that is the synagogue has continued to exist already for about 500 years
         in Vilna.
     - who: David Boder
-      start: '00:31:17.406'
-      end: '00:31:18.338'
+      start:
+        sec: '1877.406'
+        mark: '00:31:17.406'
+      end:
+        sec: '1878.338'
+        mark: '00:31:18.338'
       u: Ja.
     - who: Isaac Ostland
-      start: '00:31:18.338'
-      end: '00:31:23.131'
+      start:
+        sec: '1878.338'
+        mark: '00:31:18.338'
+      end:
+        sec: '1883.131'
+        mark: '00:31:23.131'
       u: It was decided to hold services that Rosh Hashana in that synagogue and we
         held our services in that synagogue.
     - who: David Boder
-      start: '00:31:23.131'
-      end: '00:31:26.110'
+      start:
+        sec: '1883.131'
+        mark: '00:31:23.131'
+      end:
+        sec: '1886.110'
+        mark: '00:31:26.110'
       u: Will you excuse me, please. I have still another question. You see, I know
         Vilna.
     - who: Isaac Ostland
-      start: '00:31:26.110'
-      end: '00:31:26.718'
+      start:
+        sec: '1886.110'
+        mark: '00:31:26.110'
+      end:
+        sec: '1886.718'
+        mark: '00:31:26.718'
       u: Certainly.
     - who: David Boder
-      start: '00:31:26.718'
-      end: '00:31:30.610'
+      start:
+        sec: '1886.718'
+        mark: '00:31:26.718'
+      end:
+        sec: '1890.610'
+        mark: '00:31:30.610'
       u: 'What happened to the cemetery where the Vilna Saint was buried? [The words
         used here were: The Gaon of Vilna, which means not exactly saint, but a great
         rabbi with prestige equivalent to the Christian saint.] Was this cemetery
         spared?'
     - who: Isaac Ostland
-      start: '00:31:30.610'
-      end: '00:31:53.180'
+      start:
+        sec: '1890.610'
+        mark: '00:31:30.610'
+      end:
+        sec: '1913.180'
+        mark: '00:31:53.180'
       u: I shall tell you about it later. But now, this synagogue, this old city synagogue
         was still on the inside intact. But in the middle of the winter due to a castastrophe
         with two railroad trains [He apparently is returning now to an episode that
@@ -1513,12 +2689,20 @@ recording:
         became victims, and the city in general suffered and that is how it [the synagogue]
         was destroyed.
     - who: David Boder
-      start: '00:31:53.180'
-      end: '00:31:54.759'
+      start:
+        sec: '1913.180'
+        mark: '00:31:53.180'
+      end:
+        sec: '1914.759'
+        mark: '00:31:54.759'
       u: H-um.
     - who: Isaac Ostland
-      start: '00:31:54.759'
-      end: '00:32:23.070'
+      start:
+        sec: '1914.759'
+        mark: '00:31:54.759'
+      end:
+        sec: '1943.070'
+        mark: '00:32:23.070'
       u: 'Now, as to your inquiry about the cemetery, it was like this: In Vilna there
         was the old cemetery, [the next few words are not clear] the one that had
         the new fence, which was erected not long ago. This one [the fence] was broken
@@ -1526,12 +2710,20 @@ recording:
         and it was desecrated very badly. On the day when we arrived we visited the
         cemetery, and our hearts ached.'
     - who: David Boder
-      start: '00:32:23.070'
-      end: '00:32:23.804'
+      start:
+        sec: '1943.070'
+        mark: '00:32:23.070'
+      end:
+        sec: '1943.804'
+        mark: '00:32:23.804'
       u: The old cemetery?
     - who: Isaac Ostland
-      start: '00:32:23.804'
-      end: '00:32:52.457'
+      start:
+        sec: '1943.804'
+        mark: '00:32:23.804'
+      end:
+        sec: '1972.457'
+        mark: '00:32:52.457'
       u: The old cemetery, and our hearts ached because it was such a sacred cemetery
         on which there was buried “The Saint” [Here follow a few words in Hebrew and
         I cannot establish whether he mentions the name of another venerated person
@@ -1541,12 +2733,20 @@ recording:
         for the time being, in vain, and the cemetery still remained in a terrible,
         regretable state.
     - who: David Boder
-      start: '00:32:52.457'
-      end: '00:32:54.009'
+      start:
+        sec: '1972.457'
+        mark: '00:32:52.457'
+      end:
+        sec: '1974.009'
+        mark: '00:32:54.009'
       u: H-um.
     - who: Isaac Ostland
-      start: '00:32:54.009'
-      end: '00:33:14.845'
+      start:
+        sec: '1974.009'
+        mark: '00:32:54.009'
+      end:
+        sec: '1994.845'
+        mark: '00:33:14.845'
       u: Now, the second cemetery, the one that was called the cemetery “Across the
         River” on which Chaim Eisner [the name is not clear] was buried...on this
         cemetery it appears the Germans also did not let the dead rest. They took
@@ -1554,12 +2754,20 @@ recording:
         of them, the better ones were transported to Germany, for the purpose of paving
         the streets with these tombstones.
     - who: David Boder
-      start: '00:33:14.845'
-      end: '00:33:18.250'
+      start:
+        sec: '1994.845'
+        mark: '00:33:14.845'
+      end:
+        sec: '1998.250'
+        mark: '00:33:18.250'
       u: Oh? Go on.
     - who: Isaac Ostland
-      start: '00:33:18.250'
-      end: '00:34:59.467'
+      start:
+        sec: '1998.250'
+        mark: '00:33:18.250'
+      end:
+        sec: '2099.467'
+        mark: '00:34:59.467'
       u: And in general it was destroyed and excavated. And in spite of all the efforts
         to establish order in Vilna, all our labors brought very little results. Like
         in those times there still take place maneuvers, military maneuvers and the
@@ -1581,202 +2789,386 @@ recording:
         house of prayer. There could be no more than one single assembly for prayer
         in the whole city of Vilna.
     - who: David Boder
-      start: '00:34:59.467'
-      end: '00:35:01.247'
+      start:
+        sec: '2099.467'
+        mark: '00:34:59.467'
+      end:
+        sec: '2101.247'
+        mark: '00:35:01.247'
       u: But there were other prayer houses?
     - who: Isaac Ostland
-      start: '00:35:01.247'
-      end: '00:35:11.853'
+      start:
+        sec: '2101.247'
+        mark: '00:35:01.247'
+      end:
+        sec: '2111.853'
+        mark: '00:35:11.853'
       u: Yes, prayer houses, but there remained unfortunately very few pious people.
         The newcomers were to taken by their work that the working conditions did
         not permit the attendance of services.
     - who: David Boder
-      start: '00:35:11.853'
-      end: '00:35:12.101'
+      start:
+        sec: '2111.853'
+        mark: '00:35:11.853'
+      end:
+        sec: '2112.101'
+        mark: '00:35:12.101'
       u: Ah...
     - who: Isaac Ostland
-      start: '00:35:12.101'
-      end: '00:35:24.686'
+      start:
+        sec: '2112.101'
+        mark: '00:35:12.101'
+      end:
+        sec: '2124.686'
+        mark: '00:35:24.686'
       u: One cannot get to services if the hours of work are established from 8 or
         from 9 o’clock so it is impossible to come to services. On the Sabbath also
         no larger attendance could be present at services because of the necessity
         of work.
     - who: David Boder
-      start: '00:35:24.686'
-      end: '00:35:27.379'
+      start:
+        sec: '2124.686'
+        mark: '00:35:24.686'
+      end:
+        sec: '2127.379'
+        mark: '00:35:27.379'
       u: H-um.
     - who: Isaac Ostland
-      start: '00:35:27.379'
-      end: '00:35:29.034'
+      start:
+        sec: '2127.379'
+        mark: '00:35:27.379'
+      end:
+        sec: '2129.034'
+        mark: '00:35:29.034'
       u: Have you any other questions?
     - who: David Boder
-      start: '00:35:29.034'
-      end: '00:35:34.638'
+      start:
+        sec: '2129.034'
+        mark: '00:35:29.034'
+      end:
+        sec: '2134.638'
+        mark: '00:35:34.638'
       u: Now then, you have remained in Vilna, as the rabbi of Vilna.
     - who: Isaac Ostland
-      start: '00:35:34.638'
-      end: '00:35:34.840'
+      start:
+        sec: '2134.638'
+        mark: '00:35:34.638'
+      end:
+        sec: '2134.840'
+        mark: '00:35:34.840'
       u: Yes.
     - who: David Boder
-      start: '00:35:34.840'
-      end: '00:35:37.096'
+      start:
+        sec: '2134.840'
+        mark: '00:35:34.840'
+      end:
+        sec: '2137.096'
+        mark: '00:35:37.096'
       u: How long did you remain there?
     - who: Isaac Ostland
-      start: '00:35:37.096'
-      end: '00:35:44.680'
+      start:
+        sec: '2137.096'
+        mark: '00:35:37.096'
+      end:
+        sec: '2144.680'
+        mark: '00:35:44.680'
       u: For one year until February, ’45 [correcting himself] until February, ’46.
     - who: David Boder
-      start: '00:35:44.680'
-      end: '00:35:48.120'
+      start:
+        sec: '2144.680'
+        mark: '00:35:44.680'
+      end:
+        sec: '2148.120'
+        mark: '00:35:48.120'
       u: And why did you leave Vilna?
     - who: Isaac Ostland
-      start: '00:35:48.120'
-      end: '00:35:53.979'
+      start:
+        sec: '2148.120'
+        mark: '00:35:48.120'
+      end:
+        sec: '2153.979'
+        mark: '00:35:53.979'
       u: As a Polish, a Polish-Vilna citizen from the province of Vilna...
     - who: David Boder
-      start: '00:35:53.979'
-      end: '00:35:54.164'
+      start:
+        sec: '2153.979'
+        mark: '00:35:53.979'
+      end:
+        sec: '2154.164'
+        mark: '00:35:54.164'
       u: Yes...
     - who: Isaac Ostland
-      start: '00:35:54.164'
-      end: '00:35:56.661'
+      start:
+        sec: '2154.164'
+        mark: '00:35:54.164'
+      end:
+        sec: '2156.661'
+        mark: '00:35:56.661'
       u: I had the right to travel.
     - who: David Boder
-      start: '00:35:56.661'
-      end: '00:35:59.205'
+      start:
+        sec: '2156.661'
+        mark: '00:35:56.661'
+      end:
+        sec: '2159.205'
+        mark: '00:35:59.205'
       u: The Russians then permitted...?
     - who: Isaac Ostland
-      start: '00:35:59.205'
-      end: '00:36:01.293'
+      start:
+        sec: '2159.205'
+        mark: '00:35:59.205'
+      end:
+        sec: '2161.293'
+        mark: '00:36:01.293'
       u: They evacuated the Polish citizens, they evacuated from all over Russia.
     - who: David Boder
-      start: '00:36:01.293'
-      end: '00:36:01.471'
+      start:
+        sec: '2161.293'
+        mark: '00:36:01.293'
+      end:
+        sec: '2161.471'
+        mark: '00:36:01.471'
       u: Yes.
     - who: Isaac Ostland
-      start: '00:36:01.471'
-      end: '00:36:03.872'
+      start:
+        sec: '2161.471'
+        mark: '00:36:01.471'
+      end:
+        sec: '2163.872'
+        mark: '00:36:03.872'
       u: So they were evacuated from all Russia and also from the Vilna region.
     - who: David Boder
-      start: '00:36:03.872'
-      end: '00:36:09.090'
+      start:
+        sec: '2163.872'
+        mark: '00:36:03.872'
+      end:
+        sec: '2169.090'
+        mark: '00:36:09.090'
       u: Yes...So then you were traveling to Poland in a perfectly legal fashion?
     - who: Isaac Ostland
-      start: '00:36:09.090'
-      end: '00:36:09.446'
+      start:
+        sec: '2169.090'
+        mark: '00:36:09.090'
+      end:
+        sec: '2169.446'
+        mark: '00:36:09.446'
       u: Yes...
     - who: David Boder
-      start: '00:36:09.446'
-      end: '00:36:13.519'
+      start:
+        sec: '2169.446'
+        mark: '00:36:09.446'
+      end:
+        sec: '2173.519'
+        mark: '00:36:13.519'
       u: Why did you leave? Why did you not want to remain in Vilna?
     - who: Isaac Ostland
-      start: '00:36:13.519'
-      end: '00:36:21.210'
+      start:
+        sec: '2173.519'
+        mark: '00:36:13.519'
+      end:
+        sec: '2181.210'
+        mark: '00:36:21.210'
       u: In Vilna there were no prospects for religious people to be able to adjust
         morally in the spirit of the Scripture.
     - who: David Boder
-      start: '00:36:21.210'
-      end: '00:36:26.749'
+      start:
+        sec: '2181.210'
+        mark: '00:36:21.210'
+      end:
+        sec: '2186.749'
+        mark: '00:36:26.749'
       u: H-um? So you departed...Now tell me, you arrived where?
     - who: Isaac Ostland
-      start: '00:36:26.749'
-      end: '00:36:28.997'
+      start:
+        sec: '2186.749'
+        mark: '00:36:26.749'
+      end:
+        sec: '2188.997'
+        mark: '00:36:28.997'
       u: I arrived in Poland...from Poland to Prague, and from Prague to Paris.
     - who: David Boder
-      start: '00:36:28.997'
-      end: '00:36:32.401'
+      start:
+        sec: '2188.997'
+        mark: '00:36:28.997'
+      end:
+        sec: '2192.401'
+        mark: '00:36:32.401'
       u: Wait a moment. You came to Poland. Where did you go in Poland.
     - who: Isaac Ostland
-      start: '00:36:32.401'
-      end: '00:36:33.255'
+      start:
+        sec: '2192.401'
+        mark: '00:36:32.401'
+      end:
+        sec: '2193.255'
+        mark: '00:36:33.255'
       u: To Lodz.
     - who: David Boder
-      start: '00:36:33.255'
-      end: '00:36:36.551'
+      start:
+        sec: '2193.255'
+        mark: '00:36:33.255'
+      end:
+        sec: '2196.551'
+        mark: '00:36:36.551'
       u: To Lodz. And why did you not remain in Lodz?
     - who: Isaac Ostland
-      start: '00:36:36.551'
-      end: '00:36:47.845'
+      start:
+        sec: '2196.551'
+        mark: '00:36:36.551'
+      end:
+        sec: '2207.845'
+        mark: '00:36:47.845'
       u: Because there are taking place terrible anti-Semitic onslaughts against the
         Jews, that occur in Poland, which make it impossible nowadays to live there
         [a few words not clear].
     - who: David Boder
-      start: '00:36:47.845'
-      end: '00:36:52.712'
+      start:
+        sec: '2207.845'
+        mark: '00:36:47.845'
+      end:
+        sec: '2212.712'
+        mark: '00:36:52.712'
       u: Now tell me how do you explain it? The Poles were freed from Fascism...
     - who: Isaac Ostland
-      start: '00:36:52.712'
-      end: '00:36:53.423'
+      start:
+        sec: '2212.712'
+        mark: '00:36:52.712'
+      end:
+        sec: '2213.423'
+        mark: '00:36:53.423'
       u: Yes.
     - who: David Boder
-      start: '00:36:53.423'
-      end: '00:36:55.994'
+      start:
+        sec: '2213.423'
+        mark: '00:36:53.423'
+      end:
+        sec: '2215.994'
+        mark: '00:36:55.994'
       u: They cooperate with the Russians.
     - who: Isaac Ostland
-      start: '00:36:55.994'
-      end: '00:36:56.335'
+      start:
+        sec: '2215.994'
+        mark: '00:36:55.994'
+      end:
+        sec: '2216.335'
+        mark: '00:36:56.335'
       u: Yes.
     - who: David Boder
-      start: '00:36:56.335'
-      end: '00:37:04.430'
+      start:
+        sec: '2216.335'
+        mark: '00:36:56.335'
+      end:
+        sec: '2224.430'
+        mark: '00:37:04.430'
       u: So how...where does the anti-Semitism come from there? The Russians did not
         demonstrate anti-Semitism against you...How does it come about there?
     - who: Isaac Ostland
-      start: '00:37:04.430'
-      end: '00:37:13.449'
+      start:
+        sec: '2224.430'
+        mark: '00:37:04.430'
+      end:
+        sec: '2233.449'
+        mark: '00:37:13.449'
       u: This is still the “gospel” from the plants which the Hitler followers have
         sowed in their time.
     - who: David Boder
-      start: '00:37:13.449'
-      end: '00:37:15.628'
+      start:
+        sec: '2233.449'
+        mark: '00:37:13.449'
+      end:
+        sec: '2235.628'
+        mark: '00:37:15.628'
       u: And nothing can be done about it.
     - who: Isaac Ostland
-      start: '00:37:15.628'
-      end: '00:37:20.851'
+      start:
+        sec: '2235.628'
+        mark: '00:37:15.628'
+      end:
+        sec: '2240.851'
+        mark: '00:37:20.851'
       u: The authorities make great efforts, but it is impossible to re-educate the
         people.
     - who: David Boder
-      start: '00:37:20.851'
-      end: '00:37:22.756'
+      start:
+        sec: '2240.851'
+        mark: '00:37:20.851'
+      end:
+        sec: '2242.756'
+        mark: '00:37:22.756'
       u: And the Polish intelligentsia?
     - who: Isaac Ostland
-      start: '00:37:22.756'
-      end: '00:37:25.966'
+      start:
+        sec: '2242.756'
+        mark: '00:37:22.756'
+      end:
+        sec: '2245.966'
+        mark: '00:37:25.966'
       u: The Polish intelligentsia also accepts it.
     - who: David Boder
-      start: '00:37:25.966'
-      end: '00:37:29.297'
+      start:
+        sec: '2245.966'
+        mark: '00:37:25.966'
+      end:
+        sec: '2249.297'
+        mark: '00:37:29.297'
       u: Accepts what? [pause] What do they accept?
     - who: Isaac Ostland
-      start: '00:37:29.297'
-      end: '00:37:30.978'
+      start:
+        sec: '2249.297'
+        mark: '00:37:29.297'
+      end:
+        sec: '2250.978'
+        mark: '00:37:30.978'
       u: Anti-Semitism.
     - who: David Boder
-      start: '00:37:30.978'
-      end: '00:37:36.749'
+      start:
+        sec: '2250.978'
+        mark: '00:37:30.978'
+      end:
+        sec: '2256.749'
+        mark: '00:37:36.749'
       u: Anti-Semitism. Now then, how did you assemble your group, and how did you
         get away?
     - who: Isaac Ostland
-      start: '00:37:36.749'
-      end: '00:37:39.862'
+      start:
+        sec: '2256.749'
+        mark: '00:37:36.749'
+      end:
+        sec: '2259.862'
+        mark: '00:37:39.862'
       u: This group of Yeshiva people who are here today.
     - who: David Boder
-      start: '00:37:39.862'
-      end: '00:37:40.639'
+      start:
+        sec: '2259.862'
+        mark: '00:37:39.862'
+      end:
+        sec: '2260.639'
+        mark: '00:37:40.639'
       u: Where did they come from?
     - who: Isaac Ostland
-      start: '00:37:40.639'
-      end: '00:37:51.967'
+      start:
+        sec: '2260.639'
+        mark: '00:37:40.639'
+      end:
+        sec: '2271.967'
+        mark: '00:37:51.967'
       u: They are the ones who returned from Russia. They are from the many yeshivas
         which the Soviets have evacated previously, a week before the war, a week
         before the war they were evacuated into Russia, to Siberia.
     - who: David Boder
-      start: '00:37:51.967'
-      end: '00:37:52.526'
+      start:
+        sec: '2271.967'
+        mark: '00:37:51.967'
+      end:
+        sec: '2272.526'
+        mark: '00:37:52.526'
       u: Yes...
     - who: Isaac Ostland
-      start: '00:37:52.526'
-      end: '00:38:19.718'
+      start:
+        sec: '2272.526'
+        mark: '00:37:52.526'
+      end:
+        sec: '2299.718'
+        mark: '00:38:19.718'
       u: Part of these remained [alive], those who still have the strength to withstand
         all the sufferings, all the lagers in Siberia, with starvation, with epidemics—these
         remained. From these remained about 300 yeshiva people and another 100 persons,
@@ -1784,47 +3176,87 @@ recording:
         here in France. For the moment we have here a small group, about 15 students
         [?] from among the younger ones who have already arrived in France.
     - who: David Boder
-      start: '00:38:19.718'
-      end: '00:38:22.348'
+      start:
+        sec: '2299.718'
+        mark: '00:38:19.718'
+      end:
+        sec: '2302.348'
+        mark: '00:38:22.348'
       u: They are not the same whom you knew there...?
     - who: Isaac Ostland
-      start: '00:38:22.348'
-      end: '00:38:30.069'
+      start:
+        sec: '2302.348'
+        mark: '00:38:22.348'
+      end:
+        sec: '2310.069'
+        mark: '00:38:30.069'
       u: From those who left with me together for Russia only a small number, six
         people, have remained—from the sixteen.
     - who: David Boder
-      start: '00:38:30.069'
-      end: '00:38:30.828'
+      start:
+        sec: '2310.069'
+        mark: '00:38:30.069'
+      end:
+        sec: '2310.828'
+        mark: '00:38:30.828'
       u: And they are...?
     - who: Isaac Ostland
-      start: '00:38:30.828'
-      end: '00:38:33.389'
+      start:
+        sec: '2310.828'
+        mark: '00:38:30.828'
+      end:
+        sec: '2313.389'
+        mark: '00:38:33.389'
       u: Three are already here—and three are still in Prague?
     - who: David Boder
-      start: '00:38:33.389'
-      end: '00:38:34.217'
+      start:
+        sec: '2313.389'
+        mark: '00:38:33.389'
+      end:
+        sec: '2314.217'
+        mark: '00:38:34.217'
       u: And they will come?
     - who: Isaac Ostland
-      start: '00:38:34.217'
-      end: '00:38:34.701'
+      start:
+        sec: '2314.217'
+        mark: '00:38:34.217'
+      end:
+        sec: '2314.701'
+        mark: '00:38:34.701'
       u: They will come.
     - who: David Boder
-      start: '00:38:34.701'
-      end: '00:38:39.385'
+      start:
+        sec: '2314.701'
+        mark: '00:38:34.701'
+      end:
+        sec: '2319.385'
+        mark: '00:38:39.385'
       u: So you know them from there. Now, what are you doing here all day and what
         are your plans?
     - who: Isaac Ostland
-      start: '00:38:39.385'
-      end: '00:38:47.080'
+      start:
+        sec: '2319.385'
+        mark: '00:38:39.385'
+      end:
+        sec: '2327.080'
+        mark: '00:38:47.080'
       u: Now it is like this. It is our duty...since from all the survivors who still
         are capable to appreciate...
     - who: David Boder
-      start: '00:38:47.080'
-      end: '00:38:48.481'
+      start:
+        sec: '2327.080'
+        mark: '00:38:47.080'
+      end:
+        sec: '2328.481'
+        mark: '00:38:48.481'
       u: Yes.
     - who: Isaac Ostland
-      start: '00:38:48.481'
-      end: '00:39:24.413'
+      start:
+        sec: '2328.481'
+        mark: '00:38:48.481'
+      end:
+        sec: '2364.413'
+        mark: '00:39:24.413'
       u: ". . . the significance of all the events, we know that it is our task to
         spread as much as possible the Torah among the Jewish people, and to spread
         Judaism as much as possible among the Jewish people. We disregard [the fact]
@@ -1836,171 +3268,331 @@ recording:
         and these we endeavor nowadays to bring up in the spirit of the Torah. This
         is the whole mission, the whole ideal of all those who have remained alive."
     - who: David Boder
-      start: '00:39:24.413'
-      end: '00:39:28.161'
+      start:
+        sec: '2364.413'
+        mark: '00:39:24.413'
+      end:
+        sec: '2368.161'
+        mark: '00:39:28.161'
       u: Then you are not going to the Land of Israel?
     - who: Isaac Ostland
-      start: '00:39:28.161'
-      end: '00:39:31.294'
+      start:
+        sec: '2368.161'
+        mark: '00:39:28.161'
+      end:
+        sec: '2371.294'
+        mark: '00:39:31.294'
       u: Our road, our destination is for the time uncertain.
     - who: David Boder
-      start: '00:39:31.294'
-      end: '00:39:31.499'
+      start:
+        sec: '2371.294'
+        mark: '00:39:31.294'
+      end:
+        sec: '2371.499'
+        mark: '00:39:31.499'
       u: Yes.
     - who: Isaac Ostland
-      start: '00:39:31.499'
-      end: '00:39:37.229'
+      start:
+        sec: '2371.499'
+        mark: '00:39:31.499'
+      end:
+        sec: '2377.229'
+        mark: '00:39:37.229'
       u: ". . . but for the time being we have devoted ourselves to educational work
         here in France."
     - who: David Boder
-      start: '00:39:37.229'
-      end: '00:39:40.663'
+      start:
+        sec: '2377.229'
+        mark: '00:39:37.229'
+      end:
+        sec: '2380.663'
+        mark: '00:39:40.663'
       u: Who supports the Yeshiva?
     - who: Isaac Ostland
-      start: '00:39:40.663'
-      end: '00:39:48.836'
+      start:
+        sec: '2380.663'
+        mark: '00:39:40.663'
+      end:
+        sec: '2388.836'
+        mark: '00:39:48.836'
       u: The Yeshiva draws its support from many institutions. The main savior of
         the Yeshiva was the Vaad Hazolah.
     - who: David Boder
-      start: '00:39:48.836'
-      end: '00:39:49.434'
+      start:
+        sec: '2388.836'
+        mark: '00:39:48.836'
+      end:
+        sec: '2389.434'
+        mark: '00:39:49.434'
       u: Vadda Ha...
     - who: Isaac Ostland
-      start: '00:39:49.434'
-      end: '00:39:50.853'
+      start:
+        sec: '2389.434'
+        mark: '00:39:49.434'
+      end:
+        sec: '2390.853'
+        mark: '00:39:50.853'
       u: Vaad Ha Hazolah, which...
     - who: David Boder
-      start: '00:39:50.853'
-      end: '00:39:51.868'
+      start:
+        sec: '2390.853'
+        mark: '00:39:50.853'
+      end:
+        sec: '2391.868'
+        mark: '00:39:51.868'
       u: How do you spell it?
     - who: Isaac Ostland
-      start: '00:39:51.868'
-      end: '00:39:52.592'
+      start:
+        sec: '2391.868'
+        mark: '00:39:51.868'
+      end:
+        sec: '2392.592'
+        mark: '00:39:52.592'
       u: Vaad Ha Hazolah...
     - who: David Boder
-      start: '00:39:52.592'
-      end: '00:39:53.669'
+      start:
+        sec: '2392.592'
+        mark: '00:39:52.592'
+      end:
+        sec: '2393.669'
+        mark: '00:39:53.669'
       u: Two vov’s [vaus; the spelling proceeds in Hebrew letters]?
     - who: Isaac Ostland
-      start: '00:39:53.669'
-      end: '00:39:54.598'
+      start:
+        sec: '2393.669'
+        mark: '00:39:53.669'
+      end:
+        sec: '2394.598'
+        mark: '00:39:54.598'
       u: Yes, [correcting] one vov.
     - who: David Boder
-      start: '00:39:54.598'
-      end: '00:39:55.299'
+      start:
+        sec: '2394.598'
+        mark: '00:39:54.598'
+      end:
+        sec: '2395.299'
+        mark: '00:39:55.299'
       u: Go on.
     - who: Isaac Ostland
-      start: '00:39:55.299'
-      end: '00:39:56.451'
+      start:
+        sec: '2395.299'
+        mark: '00:39:55.299'
+      end:
+        sec: '2396.451'
+        mark: '00:39:56.451'
       u: "‘ayin,"
     - who: David Boder
-      start: '00:39:56.451'
-      end: '00:39:56.953'
+      start:
+        sec: '2396.451'
+        mark: '00:39:56.451'
+      end:
+        sec: '2396.953'
+        mark: '00:39:56.953'
       u: "‘ayin,"
     - who: Isaac Ostland
-      start: '00:39:56.953'
-      end: '00:39:57.483'
+      start:
+        sec: '2396.953'
+        mark: '00:39:56.953'
+      end:
+        sec: '2397.483'
+        mark: '00:39:57.483'
       u: "‘daleth,"
     - who: David Boder
-      start: '00:39:57.483'
-      end: '00:39:58.259'
+      start:
+        sec: '2397.483'
+        mark: '00:39:57.483'
+      end:
+        sec: '2398.259'
+        mark: '00:39:58.259'
       u: "‘daleth,"
     - who: Isaac Ostland
-      start: '00:39:58.259'
-      end: '00:39:58.813'
+      start:
+        sec: '2398.259'
+        mark: '00:39:58.259'
+      end:
+        sec: '2398.813'
+        mark: '00:39:58.813'
       u: cheth,
     - who: David Boder
-      start: '00:39:58.813'
-      end: '00:39:59.691'
+      start:
+        sec: '2398.813'
+        mark: '00:39:58.813'
+      end:
+        sec: '2399.691'
+        mark: '00:39:59.691'
       u: cheth,
     - who: Isaac Ostland
-      start: '00:39:59.691'
-      end: '00:40:00.375'
+      start:
+        sec: '2399.691'
+        mark: '00:39:59.691'
+      end:
+        sec: '2400.375'
+        mark: '00:40:00.375'
       u: sadhe,
     - who: David Boder
-      start: '00:40:00.375'
-      end: '00:40:01.561'
+      start:
+        sec: '2400.375'
+        mark: '00:40:00.375'
+      end:
+        sec: '2401.561'
+        mark: '00:40:01.561'
       u: Is that one word?
     - who: Isaac Ostland
-      start: '00:40:01.561'
-      end: '00:40:02.490'
+      start:
+        sec: '2401.561'
+        mark: '00:40:01.561'
+      end:
+        sec: '2402.490'
+        mark: '00:40:02.490'
       u: Two words.
     - who: David Boder
-      start: '00:40:02.490'
-      end: '00:40:06.286'
+      start:
+        sec: '2402.490'
+        mark: '00:40:02.490'
+      end:
+        sec: '2406.286'
+        mark: '00:40:06.286'
       u: Oh, that is...sadhe,
     - who: Isaac Ostland
-      start: '00:40:06.286'
-      end: '00:40:06.936'
+      start:
+        sec: '2406.286'
+        mark: '00:40:06.286'
+      end:
+        sec: '2406.936'
+        mark: '00:40:06.936'
       u: lameth,
     - who: David Boder
-      start: '00:40:06.936'
-      end: '00:40:07.484'
+      start:
+        sec: '2406.936'
+        mark: '00:40:06.936'
+      end:
+        sec: '2407.484'
+        mark: '00:40:07.484'
       u: lameth,
     - who: Isaac Ostland
-      start: '00:40:07.484'
-      end: '00:40:07.931'
+      start:
+        sec: '2407.484'
+        mark: '00:40:07.484'
+      end:
+        sec: '2407.931'
+        mark: '00:40:07.931'
       u: cheth,
     - who: David Boder
-      start: '00:40:07.931'
-      end: '00:40:10.932'
+      start:
+        sec: '2407.931'
+        mark: '00:40:07.931'
+      end:
+        sec: '2410.932'
+        mark: '00:40:10.932'
       u: cheth. Vaad Hazolah...What does it mean, Vaad Hazolah?
     - who: Isaac Ostland
-      start: '00:40:10.932'
-      end: '00:40:17.163'
+      start:
+        sec: '2410.932'
+        mark: '00:40:10.932'
+      end:
+        sec: '2417.163'
+        mark: '00:40:17.163'
       u: That is an organization, especially formed to save those Jews who could be
         found in Russia or in Germany.
     - who: David Boder
-      start: '00:40:17.163'
-      end: '00:40:18.432'
+      start:
+        sec: '2417.163'
+        mark: '00:40:17.163'
+      end:
+        sec: '2418.432'
+        mark: '00:40:18.432'
       u: Is that a new organization?
     - who: Isaac Ostland
-      start: '00:40:18.432'
-      end: '00:40:25.949'
+      start:
+        sec: '2418.432'
+        mark: '00:40:18.432'
+      end:
+        sec: '2425.949'
+        mark: '00:40:25.949'
       u: That is an organization founded during the time of the war, under the leadership
         of the famous director of the Yeshiva of Kletsh, Rabbi Aaron [last name not
         clear]...
     - who: David Boder
-      start: '00:40:25.949'
-      end: '00:40:27.038'
+      start:
+        sec: '2425.949'
+        mark: '00:40:25.949'
+      end:
+        sec: '2427.038'
+        mark: '00:40:27.038'
       u: Ah! And where is he?
     - who: Isaac Ostland
-      start: '00:40:27.038'
-      end: '00:40:28.533'
+      start:
+        sec: '2427.038'
+        mark: '00:40:27.038'
+      end:
+        sec: '2428.533'
+        mark: '00:40:28.533'
       u: He is in America.
     - who: David Boder
-      start: '00:40:28.533'
-      end: '00:40:30.461'
+      start:
+        sec: '2428.533'
+        mark: '00:40:28.533'
+      end:
+        sec: '2430.461'
+        mark: '00:40:30.461'
       u: Ah! And that is the Vaad Hazolah?
     - who: Isaac Ostland
-      start: '00:40:30.461'
-      end: '00:40:31.578'
+      start:
+        sec: '2430.461'
+        mark: '00:40:30.461'
+      end:
+        sec: '2431.578'
+        mark: '00:40:31.578'
       u: Yes,...
     - who: David Boder
-      start: '00:40:31.578'
-      end: '00:40:33.209'
+      start:
+        sec: '2431.578'
+        mark: '00:40:31.578'
+      end:
+        sec: '2433.209'
+        mark: '00:40:33.209'
       u: And the other organizations which support...?
     - who: Isaac Ostland
-      start: '00:40:33.209'
-      end: '00:40:41.605'
+      start:
+        sec: '2433.209'
+        mark: '00:40:33.209'
+      end:
+        sec: '2441.605'
+        mark: '00:40:41.605'
       u: And then there are still other organizations which are lending assistance.
         Nowadays here in France we are helped by other various organizations.
     - who: David Boder
-      start: '00:40:41.605'
-      end: '00:40:50.915'
+      start:
+        sec: '2441.605'
+        mark: '00:40:41.605'
+      end:
+        sec: '2450.915'
+        mark: '00:40:50.915'
       u: Aha! Now there are them among you such who will go to America, and such who
         will go to other countries.
     - who: Isaac Ostland
-      start: '00:40:50.915'
-      end: '00:40:57.281'
+      start:
+        sec: '2450.915'
+        mark: '00:40:50.915'
+      end:
+        sec: '2457.281'
+        mark: '00:40:57.281'
       u: Yes. It is self-evident that the further road cannot be the same for everybody.
     - who: David Boder
-      start: '00:40:57.281'
-      end: '00:40:58.336'
+      start:
+        sec: '2457.281'
+        mark: '00:40:57.281'
+      end:
+        sec: '2458.336'
+        mark: '00:40:58.336'
       u: H-um.
     - who: Isaac Ostland
-      start: '00:40:58.336'
-      end: '00:41:23.376'
+      start:
+        sec: '2458.336'
+        mark: '00:40:58.336'
+      end:
+        sec: '2483.376'
+        mark: '00:41:23.376'
       u: In general...there has been created now an organization which is called the
         “Spreader [?] of the Torah,” which devotes itself especially to the spreading
         of the Torah, and founding of yeshivas, be it in European countries, be it
@@ -2008,218 +3600,414 @@ recording:
         now, will depart for America to develop there their yeshivas, and the remaining
         part will probably go to other countries.
     - who: David Boder
-      start: '00:41:23.376'
-      end: '00:41:27.391'
+      start:
+        sec: '2483.376'
+        mark: '00:41:23.376'
+      end:
+        sec: '2487.391'
+        mark: '00:41:27.391'
       u: Now, and you personally, where do you intend to go?
     - who: Isaac Ostland
-      start: '00:41:27.391'
-      end: '00:41:39.187'
+      start:
+        sec: '2487.391'
+        mark: '00:41:27.391'
+      end:
+        sec: '2499.187'
+        mark: '00:41:39.187'
       u: I personally am being called by my family which resides in Cleveland...who
         have founded there the famous American Yeshiva, the famous Yeshiva of Telsh
         in Cleveland and from there I am requested to come.
     - who: David Boder
-      start: '00:41:39.187'
-      end: '00:41:42.340'
+      start:
+        sec: '2499.187'
+        mark: '00:41:39.187'
+      end:
+        sec: '2502.340'
+        mark: '00:41:42.340'
       u: Now wait a moment. Your in-law was the...
     - who: Isaac Ostland
-      start: '00:41:42.340'
-      end: '00:41:44.309'
+      start:
+        sec: '2502.340'
+        mark: '00:41:42.340'
+      end:
+        sec: '2504.309'
+        mark: '00:41:44.309'
       u: My father-in-law, the rabbi of Telsh.
     - who: David Boder
-      start: '00:41:44.309'
-      end: '00:41:44.722'
+      start:
+        sec: '2504.309'
+        mark: '00:41:44.309'
+      end:
+        sec: '2504.722'
+        mark: '00:41:44.722'
       u: Where is he?
     - who: Isaac Ostland
-      start: '00:41:44.722'
-      end: '00:41:46.133'
+      start:
+        sec: '2504.722'
+        mark: '00:41:44.722'
+      end:
+        sec: '2506.133'
+        mark: '00:41:46.133'
       u: Who perished in Telsh.
     - who: David Boder
-      start: '00:41:46.133'
-      end: '00:41:47.374'
+      start:
+        sec: '2506.133'
+        mark: '00:41:46.133'
+      end:
+        sec: '2507.374'
+        mark: '00:41:47.374'
       u: ". . . Telsh, yes [they talk almost simultaneously]."
     - who: Isaac Ostland
-      start: '00:41:47.374'
-      end: '00:41:54.901'
+      start:
+        sec: '2507.374'
+        mark: '00:41:47.374'
+      end:
+        sec: '2514.901'
+        mark: '00:41:54.901'
       u: There has survived a brother, the Reverend [one name not clear] Meyer Bloch,
         the shepherd of the Yeshiva of Telsh in Cleveland.
     - who: David Boder
-      start: '00:41:54.901'
-      end: '00:41:57.591'
+      start:
+        sec: '2514.901'
+        mark: '00:41:54.901'
+      end:
+        sec: '2517.591'
+        mark: '00:41:57.591'
       u: Oh, that is his brother.
     - who: Isaac Ostland
-      start: '00:41:57.591'
-      end: '00:42:11.396'
+      start:
+        sec: '2517.591'
+        mark: '00:41:57.591'
+      end:
+        sec: '2531.396'
+        mark: '00:42:11.396'
       u: ". . . together with his former brother-in-law, Rabbi [first name not clear]
         Katz, and his father-in-law, the Rabbi Sirotski, and the father-in-law of
         his brother [name not clear] —they run the yeshiva."
     - who: David Boder
-      start: '00:42:11.396'
-      end: '00:42:16.054'
+      start:
+        sec: '2531.396'
+        mark: '00:42:11.396'
+      end:
+        sec: '2536.054'
+        mark: '00:42:16.054'
       u: Aha! How soon will you be in Cleveland?
     - who: Isaac Ostland
-      start: '00:42:16.054'
-      end: '00:42:18.947'
+      start:
+        sec: '2536.054'
+        mark: '00:42:16.054'
+      end:
+        sec: '2538.947'
+        mark: '00:42:18.947'
       u: In the near future.
     - who: David Boder
-      start: '00:42:18.947'
-      end: '00:42:19.911'
+      start:
+        sec: '2538.947'
+        mark: '00:42:18.947'
+      end:
+        sec: '2539.911'
+        mark: '00:42:19.911'
       u: In a few months?
     - who: Isaac Ostland
-      start: '00:42:19.911'
-      end: '00:42:21.078'
+      start:
+        sec: '2539.911'
+        mark: '00:42:19.911'
+      end:
+        sec: '2541.078'
+        mark: '00:42:21.078'
       u: In a few months, I hope.
     - who: David Boder
-      start: '00:42:21.078'
-      end: '00:42:23.013'
+      start:
+        sec: '2541.078'
+        mark: '00:42:21.078'
+      end:
+        sec: '2543.013'
+        mark: '00:42:23.013'
       u: And who will remain here with the Yeshiva?
     - who: Isaac Ostland
-      start: '00:42:23.013'
-      end: '00:42:28.957'
+      start:
+        sec: '2543.013'
+        mark: '00:42:23.013'
+      end:
+        sec: '2548.957'
+        mark: '00:42:28.957'
       u: Here with the Yeshiva from Prague will remain the leaders who directed the
         Yeshiva still from before the war [this states is somewhat confused].
     - who: David Boder
-      start: '00:42:28.957'
-      end: '00:42:32.888'
+      start:
+        sec: '2548.957'
+        mark: '00:42:28.957'
+      end:
+        sec: '2552.888'
+        mark: '00:42:32.888'
       u: Well, maybe we shall see each other yet in America.
     - who: Isaac Ostland
-      start: '00:42:32.888'
-      end: '00:42:33.639'
+      start:
+        sec: '2552.888'
+        mark: '00:42:32.888'
+      end:
+        sec: '2553.639'
+        mark: '00:42:33.639'
       u: God willing.
     - who: David Boder
-      start: '00:42:33.639'
-      end: '00:42:40.953'
+      start:
+        sec: '2553.639'
+        mark: '00:42:33.639'
+      end:
+        sec: '2560.953'
+        mark: '00:42:40.953'
       u: One may get to Cleveland some day. Now tell me something about your wife.
         Where did you meet her? Where was she, and what happened to her?
     - who: Isaac Ostland
-      start: '00:42:40.953'
-      end: '00:42:59.275'
+      start:
+        sec: '2560.953'
+        mark: '00:42:40.953'
+      end:
+        sec: '2579.275'
+        mark: '00:42:59.275'
       u: She was in the same ghetto of which we talked before...so her mother with
         others of her family were sent to the ghetto of Siauliai [Shavli]. In the
         ghetto of Siauliai they were until the liquidation of the Siauliai ghetto,
         when they were all shipped away to Germany.
     - who: David Boder
-      start: '00:42:59.275'
-      end: '00:43:00.442'
+      start:
+        sec: '2579.275'
+        mark: '00:42:59.275'
+      end:
+        sec: '2580.442'
+        mark: '00:43:00.442'
       u: H-um...and where in Germany were they sent?
     - who: Isaac Ostland
-      start: '00:43:00.442'
-      end: '00:43:03.842'
+      start:
+        sec: '2580.442'
+        mark: '00:43:00.442'
+      end:
+        sec: '2583.842'
+        mark: '00:43:03.842'
       u: In Germany they suffered through various lagers.
     - who: David Boder
-      start: '00:43:03.842'
-      end: '00:43:04.552'
+      start:
+        sec: '2583.842'
+        mark: '00:43:03.842'
+      end:
+        sec: '2584.552'
+        mark: '00:43:04.552'
       u: Yes.
     - who: Isaac Ostland
-      start: '00:43:04.552'
-      end: '00:43:13.265'
+      start:
+        sec: '2584.552'
+        mark: '00:43:04.552'
+      end:
+        sec: '2593.265'
+        mark: '00:43:13.265'
       u: ". . . and of the whole family remained only two: Khaje Bloch, that is the
         daughter...my wife, the daughter of the rabbi of Telsh..."
     - who: David Boder
-      start: '00:43:13.265'
-      end: '00:43:13.654'
+      start:
+        sec: '2593.265'
+        mark: '00:43:13.265'
+      end:
+        sec: '2593.654'
+        mark: '00:43:13.654'
       u: Yes.
     - who: Isaac Ostland
-      start: '00:43:13.654'
-      end: '00:43:20.658'
+      start:
+        sec: '2593.654'
+        mark: '00:43:13.654'
+      end:
+        sec: '2600.658'
+        mark: '00:43:20.658'
       u: ". . . and her cousin, Naomi Bloch, the daughter of the Telsh [two words
         not clear] Mr. Salman."
     - who: David Boder
-      start: '00:43:20.658'
-      end: '00:43:22.221'
+      start:
+        sec: '2600.658'
+        mark: '00:43:20.658'
+      end:
+        sec: '2602.221'
+        mark: '00:43:22.221'
       u: And the mother of your wife?
     - who: Isaac Ostland
-      start: '00:43:22.221'
-      end: '00:43:24.739'
+      start:
+        sec: '2602.221'
+        mark: '00:43:22.221'
+      end:
+        sec: '2604.739'
+        mark: '00:43:24.739'
       u: The mother, alas, perished in Telsh.
     - who: David Boder
-      start: '00:43:24.739'
-      end: '00:43:25.593'
+      start:
+        sec: '2604.739'
+        mark: '00:43:24.739'
+      end:
+        sec: '2605.593'
+        mark: '00:43:25.593'
       u: She perished in Telsh?
     - who: Isaac Ostland
-      start: '00:43:25.593'
-      end: '00:43:26.420'
+      start:
+        sec: '2605.593'
+        mark: '00:43:25.593'
+      end:
+        sec: '2606.420'
+        mark: '00:43:26.420'
       u: In Telsh.
     - who: David Boder
-      start: '00:43:26.420'
-      end: '00:43:27.592'
+      start:
+        sec: '2606.420'
+        mark: '00:43:26.420'
+      end:
+        sec: '2607.592'
+        mark: '00:43:27.592'
       u: "[hesitantly] How come?"
     - who: Isaac Ostland
-      start: '00:43:27.592'
-      end: '00:43:33.637'
+      start:
+        sec: '2607.592'
+        mark: '00:43:27.592'
+      end:
+        sec: '2613.637'
+        mark: '00:43:33.637'
       u: She was caught. After she had been in hiding she returned; she was caught
         and shot.
     - who: David Boder
-      start: '00:43:33.637'
-      end: '00:43:37.807'
+      start:
+        sec: '2613.637'
+        mark: '00:43:33.637'
+      end:
+        sec: '2617.807'
+        mark: '00:43:37.807'
       u: Oh! The mother was shot...Now where is the cousin of your wife?
     - who: Isaac Ostland
-      start: '00:43:37.807'
-      end: '00:43:40.125'
+      start:
+        sec: '2617.807'
+        mark: '00:43:37.807'
+      end:
+        sec: '2620.125'
+        mark: '00:43:40.125'
       u: The cousin is now in Munich, in Germany.
     - who: David Boder
-      start: '00:43:40.125'
-      end: '00:43:41.672'
+      start:
+        sec: '2620.125'
+        mark: '00:43:40.125'
+      end:
+        sec: '2621.672'
+        mark: '00:43:41.672'
       u: Oh. What is she doing there?
     - who: Isaac Ostland
-      start: '00:43:41.672'
-      end: '00:43:55.360'
+      start:
+        sec: '2621.672'
+        mark: '00:43:41.672'
+      end:
+        sec: '2635.360'
+        mark: '00:43:55.360'
       u: She is there with another cousin. Also another daughter of the rabbi of Telsh
         was saved, hiding among Christians, and her cousin, the daughter of Mr. Salman,
         was also hiding among Christians.
     - who: David Boder
-      start: '00:43:55.360'
-      end: '00:43:55.668'
+      start:
+        sec: '2635.360'
+        mark: '00:43:55.360'
+      end:
+        sec: '2635.668'
+        mark: '00:43:55.668'
       u: Well.
     - who: Isaac Ostland
-      start: '00:43:55.668'
-      end: '00:43:57.728'
+      start:
+        sec: '2635.668'
+        mark: '00:43:55.668'
+      end:
+        sec: '2637.728'
+        mark: '00:43:57.728'
       u: That is all that is left from the family.
     - who: David Boder
-      start: '00:43:57.728'
-      end: '00:44:00.313'
+      start:
+        sec: '2637.728'
+        mark: '00:43:57.728'
+      end:
+        sec: '2640.313'
+        mark: '00:44:00.313'
       u: And where did you meet her?
     - who: Isaac Ostland
-      start: '00:44:00.313'
-      end: '00:44:12.779'
+      start:
+        sec: '2640.313'
+        mark: '00:44:00.313'
+      end:
+        sec: '2652.779'
+        mark: '00:44:12.779'
       u: Now on our return, I from Russia and she from Germany, we met in Vilna. Our
         coming to America and our marriage were arranged [a few words are not clear]...
     - who: David Boder
-      start: '00:44:12.779'
-      end: '00:44:14.069'
+      start:
+        sec: '2652.779'
+        mark: '00:44:12.779'
+      end:
+        sec: '2654.069'
+        mark: '00:44:14.069'
       u: What do you mean by [interviewer attempts to repeat his Hebrew words]...?
     - who: Isaac Ostland
-      start: '00:44:14.069'
-      end: '00:44:17.140'
+      start:
+        sec: '2654.069'
+        mark: '00:44:14.069'
+      end:
+        sec: '2657.140'
+        mark: '00:44:17.140'
       u: ". . . [it was arranged] by relatives, by the family."
     - who: David Boder
-      start: '00:44:17.140'
-      end: '00:44:20.405'
+      start:
+        sec: '2657.140'
+        mark: '00:44:17.140'
+      end:
+        sec: '2660.405'
+        mark: '00:44:20.405'
       u: So you met in Vilna. By accident or by arrangement?
     - who: Isaac Ostland
-      start: '00:44:20.405'
-      end: '00:44:34.312'
+      start:
+        sec: '2660.405'
+        mark: '00:44:20.405'
+      end:
+        sec: '2674.312'
+        mark: '00:44:34.312'
       u: She came...she came from Germany and I being in Vilna, hearing that the daughter
         of my teacher was saved...so I sent immediately [a letter?] and brought her
         over to Vilna and kept her with me until the day of departure.
     - who: David Boder
-      start: '00:44:34.312'
-      end: '00:44:35.652'
+      start:
+        sec: '2674.312'
+        mark: '00:44:34.312'
+      end:
+        sec: '2675.652'
+        mark: '00:44:35.652'
       u: And now she is here with you?
     - who: Isaac Ostland
-      start: '00:44:35.652'
-      end: '00:44:35.960'
+      start:
+        sec: '2675.652'
+        mark: '00:44:35.652'
+      end:
+        sec: '2675.960'
+        mark: '00:44:35.960'
       u: Yes.
     - who: David Boder
-      start: '00:44:35.960'
-      end: '00:44:37.089'
+      start:
+        sec: '2675.960'
+        mark: '00:44:35.960'
+      end:
+        sec: '2677.089'
+        mark: '00:44:37.089'
       u: Have already any children?
     - who: Isaac Ostland
-      start: '00:44:37.089'
-      end: '00:44:38.904'
+      start:
+        sec: '2677.089'
+        mark: '00:44:37.089'
+      end:
+        sec: '2678.904'
+        mark: '00:44:38.904'
       u: No.
     - who: David Boder
-      start: '00:44:38.904'
-      end: '00:44:53.826'
+      start:
+        sec: '2678.904'
+        mark: '00:44:38.904'
+      end:
+        sec: '2693.826'
+        mark: '00:44:53.826'
       u: Now tell me, is there anything else, that you think is important to preserve,
         to tell? [At this instant Ostland apparently insisted that no record be taken.
         He finally agreed to make some additional statements, provided his name is
@@ -2229,49 +4017,85 @@ recording:
         hand, the Baltic Christian DPs took, at least on most cases, a solid anti-Soviet
         stand and were reluctant to voice any criticism of the Nazis.]
     - who: David Boder
-      start: '00:44:53.826'
-      end: '00:45:05.353'
+      start:
+        sec: '2693.826'
+        mark: '00:44:53.826'
+      end:
+        sec: '2705.353'
+        mark: '00:45:05.353'
       u: "[In English] We are now making a short record of [and interview with] a
         gentleman who does not want to give his name. And considering the importance
         of the episode we requested him to talk..."
     - who: David Boder
-      start: '00:45:05.353'
-      end: '00:45:21.000'
+      start:
+        sec: '2705.353'
+        mark: '00:45:05.353'
+      end:
+        sec: '2721.000'
+        mark: '00:45:21.000'
       u: "[In Yiddish] Also...[the interviewer made the preceding statement in English
         and is now translating it into Yiddish so that Ostland may be assured of his
         “anonymity”]."
     - who: Isaac Ostland
-      start: '00:45:21.000'
-      end: '00:45:42.809'
+      start:
+        sec: '2721.000'
+        mark: '00:45:21.000'
+      end:
+        sec: '2742.809'
+        mark: '00:45:42.809'
       u: When the evacuation of Polish citizens from Russia began, many Jews who were
         not Polish citizens had “naturally” a desire to join us and also to be evacuated
         to Poland, partly with the purpose to go to the Land of Israel, partly just
         to save themselves. [He constantly lowers his voice as if imparting dangerous
         secrets.]
     - who: David Boder
-      start: '00:45:42.809'
-      end: '00:45:46.058'
+      start:
+        sec: '2742.809'
+        mark: '00:45:42.809'
+      end:
+        sec: '2746.058'
+        mark: '00:45:46.058'
       u: Yes, well.
     - who: Isaac Ostland
-      start: '00:45:46.058'
-      end: '00:45:59.479'
+      start:
+        sec: '2746.058'
+        mark: '00:45:46.058'
+      end:
+        sec: '2759.479'
+        mark: '00:45:59.479'
       u: Then, during the last winter, certain groups began to form with the purpose
         to travel ahead “stealing” the Soviet border into Poland.
     - who: David Boder
-      start: '00:45:59.479'
-      end: '00:46:02.275'
+      start:
+        sec: '2759.479'
+        mark: '00:45:59.479'
+      end:
+        sec: '2762.275'
+        mark: '00:46:02.275'
       u: Yes.
     - who: Isaac Ostland
-      start: '00:46:02.275'
-      end: '00:46:04.318'
+      start:
+        sec: '2762.275'
+        mark: '00:46:02.275'
+      end:
+        sec: '2764.318'
+        mark: '00:46:04.318'
       u: In one of the groups there were...
     - who: David Boder
-      start: '00:46:04.318'
-      end: '00:46:07.952'
+      start:
+        sec: '2764.318'
+        mark: '00:46:04.318'
+      end:
+        sec: '2767.952'
+        mark: '00:46:07.952'
       u: "[with a smile] Talk a bit louder, go on."
     - who: Isaac Ostland
-      start: '00:46:07.952'
-      end: '00:46:51.802'
+      start:
+        sec: '2767.952'
+        mark: '00:46:07.952'
+      end:
+        sec: '2811.802'
+        mark: '00:46:51.802'
       u: 'One of the groups consisted in part of yeshiva people also from Telsh, which
         were detained en route. The story as it was transmitted to us was like this:
         four automobiles with people who intended to “steal” the border, departed
@@ -2280,88 +4104,160 @@ recording:
         was killed instantly while sitting in the car, ten were wounded and all were
         caught and arrested.'
     - who: David Boder
-      start: '00:46:51.802'
-      end: '00:46:56.608'
+      start:
+        sec: '2811.802'
+        mark: '00:46:51.802'
+      end:
+        sec: '2816.608'
+        mark: '00:46:56.608'
       u: Talk a bit louder, go on...or get nearer to the microphone.
     - who: Isaac Ostland
-      start: '00:46:56.608'
-      end: '00:47:05.483'
+      start:
+        sec: '2816.608'
+        mark: '00:46:56.608'
+      end:
+        sec: '2825.483'
+        mark: '00:47:05.483'
       u: Those apprehended who wanted to escape from Russia were tried as “political
         criminals.”
     - who: David Boder
-      start: '00:47:05.483'
-      end: '00:47:06.906'
+      start:
+        sec: '2825.483'
+        mark: '00:47:05.483'
+      end:
+        sec: '2826.906'
+        mark: '00:47:06.906'
       u: Yes.
     - who: Isaac Ostland
-      start: '00:47:06.906'
-      end: '00:47:08.688'
+      start:
+        sec: '2826.906'
+        mark: '00:47:06.906'
+      end:
+        sec: '2828.688'
+        mark: '00:47:08.688'
       u: And they were sentenced “to Siberia.”
     - who: David Boder
-      start: '00:47:08.688'
-      end: '00:47:15.125'
+      start:
+        sec: '2828.688'
+        mark: '00:47:08.688'
+      end:
+        sec: '2835.125'
+        mark: '00:47:15.125'
       u: Yes. [a pause]
     - who: Isaac Ostland
-      start: '00:47:15.125'
-      end: '00:47:16.505'
+      start:
+        sec: '2835.125'
+        mark: '00:47:15.125'
+      end:
+        sec: '2836.505'
+        mark: '00:47:16.505'
       u: And...
     - who: David Boder
-      start: '00:47:16.505'
-      end: '00:47:17.115'
+      start:
+        sec: '2836.505'
+        mark: '00:47:16.505'
+      end:
+        sec: '2837.115'
+        mark: '00:47:17.115'
       u: Go on...
     - who: Isaac Ostland
-      start: '00:47:17.115'
-      end: '00:47:51.428'
+      start:
+        sec: '2837.115'
+        mark: '00:47:17.115'
+      end:
+        sec: '2871.428'
+        mark: '00:47:51.428'
       u: And by way of a remark, this caused a very heavy mood in the whole Jewish
         population in Lithuania which could not understand the meaning of such action
         of the Soviet government against the people who wanted to leave the country
         either for the land of Israel or for other purposes- and that they should
         be declared “political criminals”, and be sentenced to Siberia.
     - who: David Boder
-      start: '00:47:51.428'
-      end: '00:47:59.657'
+      start:
+        sec: '2871.428'
+        mark: '00:47:51.428'
+      end:
+        sec: '2879.657'
+        mark: '00:47:59.657'
       u: Oh...I have heard already about this. Did you also hear about the incident
         when an attempt was made to get them out by airplane? Did you hear about that?
         Another [case]...
     - who: Isaac Ostland
-      start: '00:47:59.657'
-      end: '00:48:01.934'
+      start:
+        sec: '2879.657'
+        mark: '00:47:59.657'
+      end:
+        sec: '2881.934'
+        mark: '00:48:01.934'
       u: "[He apparently shakes his head.]"
     - who: David Boder
-      start: '00:48:01.934'
-      end: '00:48:19.858'
+      start:
+        sec: '2881.934'
+        mark: '00:48:01.934'
+      end:
+        sec: '2899.858'
+        mark: '00:48:19.858'
       u: You have not heard about it. Now...but the Russians did not try them as Jews,
         they tried them as people who wanted to depart against the law?
     - who: Isaac Ostland
-      start: '00:48:19.858'
-      end: '00:48:24.202'
+      start:
+        sec: '2899.858'
+        mark: '00:48:19.858'
+      end:
+        sec: '2904.202'
+        mark: '00:48:24.202'
       u: "[pause] But the action was too grave..."
     - who: David Boder
-      start: '00:48:24.202'
-      end: '00:48:25.716'
+      start:
+        sec: '2904.202'
+        mark: '00:48:24.202'
+      end:
+        sec: '2905.716'
+        mark: '00:48:25.716'
       u: Oh, the sentence was too heavy...
     - who: Isaac Ostland
-      start: '00:48:25.716'
-      end: '00:48:26.928'
+      start:
+        sec: '2905.716'
+        mark: '00:48:25.716'
+      end:
+        sec: '2906.928'
+        mark: '00:48:26.928'
       u: The sentence?
     - who: David Boder
-      start: '00:48:26.928'
-      end: '00:48:26.928'
+      start:
+        sec: '2906.928'
+        mark: '00:48:26.928'
+      end:
+        sec: '2906.928'
+        mark: '00:48:26.928'
       u: Yes. [You mean] they should have demonstrated a bit more understanding for
         human feelings and for a man’s faith. About that you are right. [Pause] Now
         then...
     - who: David Boder
-      start: '00:48:26.928'
-      end: '00:48:50.395'
+      start:
+        sec: '2906.928'
+        mark: '00:48:26.928'
+      end:
+        sec: '2930.395'
+        mark: '00:48:50.395'
       u: "[In English] This concludes a part of an interview, first with...[unintelligible]"
     - who: Isaac Ostland
-      start: '00:48:50.395'
-      end: '00:00:00.000'
+      start:
+        sec: '2930.395'
+        mark: '00:48:50.395'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[In Yiddish] No, no, this is no good. This episode was dragged in rather
         out of place...[He apparently somehow understood the meaning of the interviewer’s
         statement made in English.]"
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:48:48.561'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '2928.561'
+        mark: '00:48:48.561'
       u: "[This last sentence is missing from the existing audio] No, no, no...this...I
         will say it in Yiddish [after a pause the interviewer proceeds in Yiddish].
         This is spool 126, which concludes at 19 points of the indicator, 19 minutes

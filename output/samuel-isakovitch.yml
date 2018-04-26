@@ -39,1351 +39,2635 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:16.133'
-      end: '00:00:30.549'
+      start:
+        sec: '16.133'
+        mark: '00:00:16.133'
+      end:
+        sec: '30.549'
+        mark: '00:00:30.549'
       u: "[In English] This is Spool number 7, taken from a young man, Samuel Isakovitch,
         from the Roumanian side of a little town which borders with Czechoslovakia."
     - who: David Boder
-      start: '00:00:30.549'
-      end: '00:00:32.998'
+      start:
+        sec: '30.549'
+        mark: '00:00:30.549'
+      end:
+        sec: '32.998'
+        mark: '00:00:32.998'
       u: "[In German] What is your name?"
     - who: Samuel Isakovitch
-      start: '00:00:32.998'
-      end: '00:00:34.463'
+      start:
+        sec: '32.998'
+        mark: '00:00:32.998'
+      end:
+        sec: '34.463'
+        mark: '00:00:34.463'
       u: "[Answer not clear.]"
     - who: David Boder
-      start: '00:00:34.463'
-      end: '00:00:37.711'
+      start:
+        sec: '34.463'
+        mark: '00:00:34.463'
+      end:
+        sec: '37.711'
+        mark: '00:00:37.711'
       u: And so, what is your name?
     - who: Samuel Isakovitch
-      start: '00:00:37.711'
-      end: '00:00:39.569'
+      start:
+        sec: '37.711'
+        mark: '00:00:37.711'
+      end:
+        sec: '39.569'
+        mark: '00:00:39.569'
       u: Isakovitch, Samuel. [He speaks Yiddish with a great admixture of ‘lager German.’]
     - who: David Boder
-      start: '00:00:39.569'
-      end: '00:00:40.264'
+      start:
+        sec: '39.569'
+        mark: '00:00:39.569'
+      end:
+        sec: '40.264'
+        mark: '00:00:40.264'
       u: Samuel?
     - who: Samuel Isakovitch
-      start: '00:00:40.264'
-      end: '00:00:40.883'
+      start:
+        sec: '40.264'
+        mark: '00:00:40.264'
+      end:
+        sec: '40.883'
+        mark: '00:00:40.883'
       u: Isakovitch.
     - who: David Boder
-      start: '00:00:40.883'
-      end: '00:00:42.001'
+      start:
+        sec: '40.883'
+        mark: '00:00:40.883'
+      end:
+        sec: '42.001'
+        mark: '00:00:42.001'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:00:42.001'
-      end: '00:00:43.512'
+      start:
+        sec: '42.001'
+        mark: '00:00:42.001'
+      end:
+        sec: '43.512'
+        mark: '00:00:43.512'
       u: Isakovitch, Samuel.
     - who: David Boder
-      start: '00:00:43.512'
-      end: '00:00:46.397'
+      start:
+        sec: '43.512'
+        mark: '00:00:43.512'
+      end:
+        sec: '46.397'
+        mark: '00:00:46.397'
       u: Yes? And how old are you, Isakovitch?
     - who: Samuel Isakovitch
-      start: '00:00:46.397'
-      end: '00:00:48.074'
+      start:
+        sec: '46.397'
+        mark: '00:00:46.397'
+      end:
+        sec: '48.074'
+        mark: '00:00:48.074'
       u: I am eighteen years old.
     - who: David Boder
-      start: '00:00:48.074'
-      end: '00:00:50.959'
+      start:
+        sec: '48.074'
+        mark: '00:00:48.074'
+      end:
+        sec: '50.959'
+        mark: '00:00:50.959'
       u: Eighteen years old? Are you younger than...
     - who: Samuel Isakovitch
-      start: '00:00:50.959'
-      end: '00:00:51.306'
+      start:
+        sec: '50.959'
+        mark: '00:00:50.959'
+      end:
+        sec: '51.306'
+        mark: '00:00:51.306'
       u: Than Moskovitch?
     - who: David Boder
-      start: '00:00:51.306'
-      end: '00:00:52.016'
+      start:
+        sec: '51.306'
+        mark: '00:00:51.306'
+      end:
+        sec: '52.016'
+        mark: '00:00:52.016'
       u: Moskovitch.
     - who: Samuel Isakovitch
-      start: '00:00:52.016'
-      end: '00:00:52.333'
+      start:
+        sec: '52.016'
+        mark: '00:00:52.016'
+      end:
+        sec: '52.333'
+        mark: '00:00:52.333'
       u: Yes.
     - who: David Boder
-      start: '00:00:52.333'
-      end: '00:00:54.644'
+      start:
+        sec: '52.333'
+        mark: '00:00:52.333'
+      end:
+        sec: '54.644'
+        mark: '00:00:54.644'
       u: Yes, but you are much bigger than he.
     - who: Samuel Isakovitch
-      start: '00:00:54.644'
-      end: '00:00:55.505'
+      start:
+        sec: '54.644'
+        mark: '00:00:54.644'
+      end:
+        sec: '55.505'
+        mark: '00:00:55.505'
       u: Yes.
     - who: David Boder
-      start: '00:00:55.505'
-      end: '00:00:57.786'
+      start:
+        sec: '55.505'
+        mark: '00:00:55.505'
+      end:
+        sec: '57.786'
+        mark: '00:00:57.786'
       u: You are bigger. How tall are you?
     - who: Samuel Isakovitch
-      start: '00:00:57.786'
-      end: '00:00:59.191'
+      start:
+        sec: '57.786'
+        mark: '00:00:57.786'
+      end:
+        sec: '59.191'
+        mark: '00:00:59.191'
       u: One seventy. [170 centimeters, about 68 inches.]
     - who: David Boder
-      start: '00:00:59.191'
-      end: '00:01:01.351'
+      start:
+        sec: '59.191'
+        mark: '00:00:59.191'
+      end:
+        sec: '61.351'
+        mark: '00:01:01.351'
       u: And how much do you weigh?
     - who: Samuel Isakovitch
-      start: '00:01:01.351'
-      end: '00:01:03.662'
+      start:
+        sec: '61.351'
+        mark: '00:01:01.351'
+      end:
+        sec: '63.662'
+        mark: '00:01:03.662'
       u: I weigh sixty-nine kilo. [About 151 pounds.]
     - who: David Boder
-      start: '00:01:03.662'
-      end: '00:01:10.233'
+      start:
+        sec: '63.662'
+        mark: '00:01:03.662'
+      end:
+        sec: '70.233'
+        mark: '00:01:10.233'
       u: Sixty-nine kilo. Sit down a little closer and tell me, where were you born?
     - who: Samuel Isakovitch
-      start: '00:01:10.233'
-      end: '00:01:12.695'
+      start:
+        sec: '70.233'
+        mark: '00:01:10.233'
+      end:
+        sec: '72.695'
+        mark: '00:01:12.695'
       u: Born in Marmaros-Sighet.
     - who: David Boder
-      start: '00:01:12.695'
-      end: '00:01:14.311'
+      start:
+        sec: '72.695'
+        mark: '00:01:12.695'
+      end:
+        sec: '74.311'
+        mark: '00:01:14.311'
       u: In what country?
     - who: Samuel Isakovitch
-      start: '00:01:14.311'
-      end: '00:01:15.609'
+      start:
+        sec: '74.311'
+        mark: '00:01:14.311'
+      end:
+        sec: '75.609'
+        mark: '00:01:15.609'
       u: In Roumania.
     - who: David Boder
-      start: '00:01:15.609'
-      end: '00:01:22.038'
+      start:
+        sec: '75.609'
+        mark: '00:01:15.609'
+      end:
+        sec: '82.038'
+        mark: '00:01:22.038'
       u: Hm. What was your father’s occupation?
     - who: Samuel Isakovitch
-      start: '00:01:22.038'
-      end: '00:01:23.577'
+      start:
+        sec: '82.038'
+        mark: '00:01:22.038'
+      end:
+        sec: '83.577'
+        mark: '00:01:23.577'
       u: A field-worker [farm worker].
     - who: David Boder
-      start: '00:01:23.577'
-      end: '00:01:24.392'
+      start:
+        sec: '83.577'
+        mark: '00:01:23.577'
+      end:
+        sec: '84.392'
+        mark: '00:01:24.392'
       u: A field...
     - who: Samuel Isakovitch
-      start: '00:01:24.392'
-      end: '00:01:25.418'
+      start:
+        sec: '84.392'
+        mark: '00:01:24.392'
+      end:
+        sec: '85.418'
+        mark: '00:01:25.418'
       u: Earth-worker.
     - who: David Boder
-      start: '00:01:25.418'
-      end: '00:01:27.471'
+      start:
+        sec: '85.418'
+        mark: '00:01:25.418'
+      end:
+        sec: '87.471'
+        mark: '00:01:27.471'
       u: What was he? What did he do?
     - who: Samuel Isakovitch
-      start: '00:01:27.471'
-      end: '00:01:29.855'
+      start:
+        sec: '87.471'
+        mark: '00:01:27.471'
+      end:
+        sec: '89.855'
+        mark: '00:01:29.855'
       u: In the fields...
     - who: David Boder
-      start: '00:01:29.855'
-      end: '00:01:31.062'
+      start:
+        sec: '89.855'
+        mark: '00:01:29.855'
+      end:
+        sec: '91.062'
+        mark: '00:01:31.062'
       u: Did he own his fields?
     - who: Samuel Isakovitch
-      start: '00:01:31.062'
-      end: '00:01:32.330'
+      start:
+        sec: '91.062'
+        mark: '00:01:31.062'
+      end:
+        sec: '92.330'
+        mark: '00:01:32.330'
       u: His own...he worked on his own fields.
     - who: David Boder
-      start: '00:01:32.330'
-      end: '00:01:33.869'
+      start:
+        sec: '92.330'
+        mark: '00:01:32.330'
+      end:
+        sec: '93.869'
+        mark: '00:01:33.869'
       u: He was a ‘farmer’?
     - who: Samuel Isakovitch
-      start: '00:01:33.869'
-      end: '00:01:34.684'
+      start:
+        sec: '93.869'
+        mark: '00:01:33.869'
+      end:
+        sec: '94.684'
+        mark: '00:01:34.684'
       u: Yes, he was.
     - who: David Boder
-      start: '00:01:34.684'
-      end: '00:01:36.706'
+      start:
+        sec: '94.684'
+        mark: '00:01:34.684'
+      end:
+        sec: '96.706'
+        mark: '00:01:36.706'
       u: And what did he plant?
     - who: Samuel Isakovitch
-      start: '00:01:36.706'
-      end: '00:01:39.970'
+      start:
+        sec: '96.706'
+        mark: '00:01:36.706'
+      end:
+        sec: '99.970'
+        mark: '00:01:39.970'
       u: Trees, wheat...
     - who: David Boder
-      start: '00:01:39.970'
-      end: '00:01:41.298'
+      start:
+        sec: '99.970'
+        mark: '00:01:39.970'
+      end:
+        sec: '101.298'
+        mark: '00:01:41.298'
       u: Wheat. Yes?
     - who: Samuel Isakovitch
-      start: '00:01:41.298'
-      end: '00:01:43.139'
+      start:
+        sec: '101.298'
+        mark: '00:01:41.298'
+      end:
+        sec: '103.139'
+        mark: '00:01:43.139'
       u: "...wheat and food stuffs...bread..."
     - who: David Boder
-      start: '00:01:43.139'
-      end: '00:01:43.501'
+      start:
+        sec: '103.139'
+        mark: '00:01:43.139'
+      end:
+        sec: '103.501'
+        mark: '00:01:43.501'
       u: Bread.
     - who: Samuel Isakovitch
-      start: '00:01:43.501'
-      end: '00:01:43.984'
+      start:
+        sec: '103.501'
+        mark: '00:01:43.501'
+      end:
+        sec: '103.984'
+        mark: '00:01:43.984'
       u: "...everything."
     - who: David Boder
-      start: '00:01:43.984'
-      end: '00:01:45.252'
+      start:
+        sec: '103.984'
+        mark: '00:01:43.984'
+      end:
+        sec: '105.252'
+        mark: '00:01:45.252'
       u: Did you have any cows?
     - who: Samuel Isakovitch
-      start: '00:01:45.252'
-      end: '00:01:46.942'
+      start:
+        sec: '105.252'
+        mark: '00:01:45.252'
+      end:
+        sec: '106.942'
+        mark: '00:01:46.942'
       u: Cows, yes, and horses.
     - who: David Boder
-      start: '00:01:46.942'
-      end: '00:01:48.542'
+      start:
+        sec: '106.942'
+        mark: '00:01:46.942'
+      end:
+        sec: '108.542'
+        mark: '00:01:48.542'
       u: How many cows did you have?
     - who: Samuel Isakovitch
-      start: '00:01:48.542'
-      end: '00:01:49.930'
+      start:
+        sec: '108.542'
+        mark: '00:01:48.542'
+      end:
+        sec: '109.930'
+        mark: '00:01:49.930'
       u: We had six cows.
     - who: David Boder
-      start: '00:01:49.930'
-      end: '00:01:52.043'
+      start:
+        sec: '109.930'
+        mark: '00:01:49.930'
+      end:
+        sec: '112.043'
+        mark: '00:01:52.043'
       u: Six cows, and how many horses?
     - who: Samuel Isakovitch
-      start: '00:01:52.043'
-      end: '00:01:53.824'
+      start:
+        sec: '112.043'
+        mark: '00:01:52.043'
+      end:
+        sec: '113.824'
+        mark: '00:01:53.824'
       u: Three horses...
     - who: David Boder
-      start: '00:01:53.824'
-      end: '00:01:54.065'
+      start:
+        sec: '113.824'
+        mark: '00:01:53.824'
+      end:
+        sec: '114.065'
+        mark: '00:01:54.065'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:01:54.065'
-      end: '00:01:56.661'
+      start:
+        sec: '114.065'
+        mark: '00:01:54.065'
+      end:
+        sec: '116.661'
+        mark: '00:01:56.661'
       u: "...and two-hundred sheep."
     - who: David Boder
-      start: '00:01:56.661'
-      end: '00:01:57.597'
+      start:
+        sec: '116.661'
+        mark: '00:01:56.661'
+      end:
+        sec: '117.597'
+        mark: '00:01:57.597'
       u: Two-hundred sheep?
     - who: Samuel Isakovitch
-      start: '00:01:57.597'
-      end: '00:01:58.170'
+      start:
+        sec: '117.597'
+        mark: '00:01:57.597'
+      end:
+        sec: '118.170'
+        mark: '00:01:58.170'
       u: Sheep, yes.
     - who: David Boder
-      start: '00:01:58.170'
-      end: '00:01:59.860'
+      start:
+        sec: '118.170'
+        mark: '00:01:58.170'
+      end:
+        sec: '119.860'
+        mark: '00:01:59.860'
       u: And what did you do with the sheep?
     - who: Samuel Isakovitch
-      start: '00:01:59.860'
-      end: '00:02:01.363'
+      start:
+        sec: '119.860'
+        mark: '00:01:59.860'
+      end:
+        sec: '121.363'
+        mark: '00:02:01.363'
       u: Most of them perished.
     - who: David Boder
-      start: '00:02:01.363'
-      end: '00:02:02.027'
+      start:
+        sec: '121.363'
+        mark: '00:02:01.363'
+      end:
+        sec: '122.027'
+        mark: '00:02:02.027'
       u: But...
     - who: Samuel Isakovitch
-      start: '00:02:02.027'
-      end: '00:02:06.343'
+      start:
+        sec: '122.027'
+        mark: '00:02:02.027'
+      end:
+        sec: '126.343'
+        mark: '00:02:06.343'
       u: "...when we were taken away to camp...lager...and that is when they perished."
     - who: David Boder
-      start: '00:02:06.343'
-      end: '00:02:12.047'
+      start:
+        sec: '126.343'
+        mark: '00:02:06.343'
+      end:
+        sec: '132.047'
+        mark: '00:02:12.047'
       u: You weren’t allowed to liquidate your...to sell your belongings, or so?
     - who: Samuel Isakovitch
-      start: '00:02:12.047'
-      end: '00:02:20.083'
+      start:
+        sec: '132.047'
+        mark: '00:02:12.047'
+      end:
+        sec: '140.083'
+        mark: '00:02:20.083'
       u: No, no. Everything remained. We were taken away from the house and everything
         was taken away. Everything remained there with the house.
     - who: David Boder
-      start: '00:02:20.083'
-      end: '00:02:25.003'
+      start:
+        sec: '140.083'
+        mark: '00:02:20.083'
+      end:
+        sec: '145.003'
+        mark: '00:02:25.003'
       u: Hm. Now let us start from the beginning. When did the Germans come to your
         town?
     - who: Samuel Isakovitch
-      start: '00:02:25.003'
-      end: '00:02:30.707'
+      start:
+        sec: '145.003'
+        mark: '00:02:25.003'
+      end:
+        sec: '150.707'
+        mark: '00:02:30.707'
       u: To our town they came in...in...they came in the year forty-one.
     - who: David Boder
-      start: '00:02:30.707'
-      end: '00:02:31.582'
+      start:
+        sec: '150.707'
+        mark: '00:02:30.707'
+      end:
+        sec: '151.582'
+        mark: '00:02:31.582'
       u: In what [year]?
     - who: Samuel Isakovitch
-      start: '00:02:31.582'
-      end: '00:02:33.996'
+      start:
+        sec: '151.582'
+        mark: '00:02:31.582'
+      end:
+        sec: '153.996'
+        mark: '00:02:33.996'
       u: In the year forty-one, the 5th [?] of September.
     - who: David Boder
-      start: '00:02:33.996'
-      end: '00:02:36.169'
+      start:
+        sec: '153.996'
+        mark: '00:02:33.996'
+      end:
+        sec: '156.169'
+        mark: '00:02:36.169'
       u: And before, what country was it?
     - who: Samuel Isakovitch
-      start: '00:02:36.169'
-      end: '00:02:36.863'
+      start:
+        sec: '156.169'
+        mark: '00:02:36.169'
+      end:
+        sec: '156.863'
+        mark: '00:02:36.863'
       u: Roumania.
     - who: David Boder
-      start: '00:02:36.863'
-      end: '00:02:38.040'
+      start:
+        sec: '156.863'
+        mark: '00:02:36.863'
+      end:
+        sec: '158.040'
+        mark: '00:02:38.040'
       u: Before it was Roumania?
     - who: Samuel Isakovitch
-      start: '00:02:38.040'
-      end: '00:02:38.557'
+      start:
+        sec: '158.040'
+        mark: '00:02:38.040'
+      end:
+        sec: '158.557'
+        mark: '00:02:38.557'
       u: Yes.
     - who: David Boder
-      start: '00:02:38.557'
-      end: '00:02:40.338'
+      start:
+        sec: '158.557'
+        mark: '00:02:38.557'
+      end:
+        sec: '160.338'
+        mark: '00:02:40.338'
       u: And the Germans came in forty-one?
     - who: Samuel Isakovitch
-      start: '00:02:40.338'
-      end: '00:02:41.243'
+      start:
+        sec: '160.338'
+        mark: '00:02:40.338'
+      end:
+        sec: '161.243'
+        mark: '00:02:41.243'
       u: In forty-one.
     - who: David Boder
-      start: '00:02:41.243'
-      end: '00:02:46.344'
+      start:
+        sec: '161.243'
+        mark: '00:02:41.243'
+      end:
+        sec: '166.344'
+        mark: '00:02:46.344'
       u: Nu, how were they before...were the Roumanians good to you before? Were the
         Roumanians good to you?
     - who: Samuel Isakovitch
-      start: '00:02:46.344'
-      end: '00:02:54.033'
+      start:
+        sec: '166.344'
+        mark: '00:02:46.344'
+      end:
+        sec: '174.033'
+        mark: '00:02:54.033'
       u: It was only a little different.
     - who: David Boder
-      start: '00:02:54.033'
-      end: '00:02:55.059'
+      start:
+        sec: '174.033'
+        mark: '00:02:54.033'
+      end:
+        sec: '175.059'
+        mark: '00:02:55.059'
       u: They let you live.
     - who: Samuel Isakovitch
-      start: '00:02:55.059'
-      end: '00:02:55.675'
+      start:
+        sec: '175.059'
+        mark: '00:02:55.059'
+      end:
+        sec: '175.675'
+        mark: '00:02:55.675'
       u: Yes.
     - who: David Boder
-      start: '00:02:55.675'
-      end: '00:03:01.621'
+      start:
+        sec: '175.675'
+        mark: '00:02:55.675'
+      end:
+        sec: '181.621'
+        mark: '00:03:01.621'
       u: Oh, and when did the Germans arrive? Tell me what happened on the day when
         the Germans arrived?
     - who: Samuel Isakovitch
-      start: '00:03:01.621'
-      end: '00:03:10.132'
+      start:
+        sec: '181.621'
+        mark: '00:03:01.621'
+      end:
+        sec: '190.132'
+        mark: '00:03:10.132'
       u: They marched in...there were...when they came...first an order was given
         to wear a yellow patch, a yellow star.
     - who: David Boder
-      start: '00:03:10.132'
-      end: '00:03:10.494'
+      start:
+        sec: '190.132'
+        mark: '00:03:10.132'
+      end:
+        sec: '190.494'
+        mark: '00:03:10.494'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:03:10.494'
-      end: '00:03:17.888'
+      start:
+        sec: '190.494'
+        mark: '00:03:10.494'
+      end:
+        sec: '197.888'
+        mark: '00:03:17.888'
       u: "...and then, it was not allowed to walk out on the street, only mornings,
         from eight till eleven o’clock..."
     - who: David Boder
-      start: '00:03:17.888'
-      end: '00:03:18.220'
+      start:
+        sec: '197.888'
+        mark: '00:03:17.888'
+      end:
+        sec: '198.220'
+        mark: '00:03:18.220'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:03:18.220'
-      end: '00:03:21.661'
+      start:
+        sec: '198.220'
+        mark: '00:03:18.220'
+      end:
+        sec: '201.661'
+        mark: '00:03:21.661'
       u: "...and in the afternoon, from four till six..."
     - who: David Boder
-      start: '00:03:21.661'
-      end: '00:03:21.902'
+      start:
+        sec: '201.661'
+        mark: '00:03:21.661'
+      end:
+        sec: '201.902'
+        mark: '00:03:21.902'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:03:21.902'
-      end: '00:03:28.632'
+      start:
+        sec: '201.902'
+        mark: '00:03:21.902'
+      end:
+        sec: '208.632'
+        mark: '00:03:28.632'
       u: "...we were allowed on the street, and only with a yellow star. Then we were
         taken into the ghetto..."
     - who: David Boder
-      start: '00:03:28.632'
-      end: '00:03:29.025'
+      start:
+        sec: '208.632'
+        mark: '00:03:28.632'
+      end:
+        sec: '209.025'
+        mark: '00:03:29.025'
       u: Hm...
     - who: Samuel Isakovitch
-      start: '00:03:29.025'
-      end: '00:03:34.005'
+      start:
+        sec: '209.025'
+        mark: '00:03:29.025'
+      end:
+        sec: '214.005'
+        mark: '00:03:34.005'
       u: "...and from the ghetto we were taken, in the year forty-two, to a lager
         in Posen."
     - who: David Boder
-      start: '00:03:34.005'
-      end: '00:03:38.925'
+      start:
+        sec: '214.005'
+        mark: '00:03:34.005'
+      end:
+        sec: '218.925'
+        mark: '00:03:38.925'
       u: Now wait, don’t go so fast. You say that you had land...
     - who: Samuel Isakovitch
-      start: '00:03:38.925'
-      end: '00:03:39.317'
+      start:
+        sec: '218.925'
+        mark: '00:03:38.925'
+      end:
+        sec: '219.317'
+        mark: '00:03:39.317'
       u: Yes.
     - who: David Boder
-      start: '00:03:39.317'
-      end: '00:03:47.343'
+      start:
+        sec: '219.317'
+        mark: '00:03:39.317'
+      end:
+        sec: '227.343'
+        mark: '00:03:47.343'
       u: "...and that you had all that...when was it when you were... not allowed
         to come out, did they allow to work the fields?"
     - who: Samuel Isakovitch
-      start: '00:03:47.343'
-      end: '00:03:52.112'
+      start:
+        sec: '227.343'
+        mark: '00:03:47.343'
+      end:
+        sec: '232.112'
+        mark: '00:03:52.112'
       u: It was thus. When the ghetto began, we weren’t allowed to leave the ghetto
         any more...everything remained there [behind].
     - who: David Boder
-      start: '00:03:52.112'
-      end: '00:03:53.681'
+      start:
+        sec: '232.112'
+        mark: '00:03:52.112'
+      end:
+        sec: '233.681'
+        mark: '00:03:53.681'
       u: And who took it over?
     - who: Samuel Isakovitch
-      start: '00:03:53.681'
-      end: '00:03:54.737'
+      start:
+        sec: '233.681'
+        mark: '00:03:53.681'
+      end:
+        sec: '234.737'
+        mark: '00:03:54.737'
       u: Nobody.
     - who: David Boder
-      start: '00:03:54.737'
-      end: '00:03:57.363'
+      start:
+        sec: '234.737'
+        mark: '00:03:54.737'
+      end:
+        sec: '237.363'
+        mark: '00:03:57.363'
       u: What do you mean? Who fed the cows? Who fed the...
     - who: Samuel Isakovitch
-      start: '00:03:57.363'
-      end: '00:04:01.407'
+      start:
+        sec: '237.363'
+        mark: '00:03:57.363'
+      end:
+        sec: '241.407'
+        mark: '00:04:01.407'
       u: Everything remained there. Everybody was removed [?].
     - who: David Boder
-      start: '00:04:01.407'
-      end: '00:04:01.739'
+      start:
+        sec: '241.407'
+        mark: '00:04:01.407'
+      end:
+        sec: '241.739'
+        mark: '00:04:01.739'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:04:01.739'
-      end: '00:04:08.318'
+      start:
+        sec: '241.739'
+        mark: '00:04:01.739'
+      end:
+        sec: '248.318'
+        mark: '00:04:08.318'
       u: "...and everything remained. What happened afterwards is not known, and..."
     - who: David Boder
-      start: '00:04:08.318'
-      end: '00:04:11.367'
+      start:
+        sec: '248.318'
+        mark: '00:04:08.318'
+      end:
+        sec: '251.367'
+        mark: '00:04:11.367'
       u: So you were sent to a ghetto. How long were you in the ghetto.
     - who: Samuel Isakovitch
-      start: '00:04:11.367'
-      end: '00:04:12.121'
+      start:
+        sec: '251.367'
+        mark: '00:04:11.367'
+      end:
+        sec: '252.121'
+        mark: '00:04:12.121'
       u: One month.
     - who: David Boder
-      start: '00:04:12.121'
-      end: '00:04:16.437'
+      start:
+        sec: '252.121'
+        mark: '00:04:12.121'
+      end:
+        sec: '256.437'
+        mark: '00:04:16.437'
       u: How did you live in the ghetto, the whole family together?
     - who: Samuel Isakovitch
-      start: '00:04:16.437'
-      end: '00:04:25.914'
+      start:
+        sec: '256.437'
+        mark: '00:04:16.437'
+      end:
+        sec: '265.914'
+        mark: '00:04:25.914'
       u: The whole family. We were...the family was together and everyone older than
         sixteen worked at the railroad...
     - who: David Boder
-      start: '00:04:25.914'
-      end: '00:04:26.487'
+      start:
+        sec: '265.914'
+        mark: '00:04:25.914'
+      end:
+        sec: '266.487'
+        mark: '00:04:26.487'
       u: Where?
     - who: Samuel Isakovitch
-      start: '00:04:26.487'
-      end: '00:04:27.996'
+      start:
+        sec: '266.487'
+        mark: '00:04:26.487'
+      end:
+        sec: '267.996'
+        mark: '00:04:27.996'
       u: At the railroad, by coal.
     - who: David Boder
-      start: '00:04:27.996'
-      end: '00:04:28.630'
+      start:
+        sec: '267.996'
+        mark: '00:04:27.996'
+      end:
+        sec: '268.630'
+        mark: '00:04:28.630'
       u: By coal.
     - who: Samuel Isakovitch
-      start: '00:04:28.630'
-      end: '00:04:29.294'
+      start:
+        sec: '268.630'
+        mark: '00:04:28.630'
+      end:
+        sec: '269.294'
+        mark: '00:04:29.294'
       u: Yes.
     - who: David Boder
-      start: '00:04:29.294'
-      end: '00:04:33.942'
+      start:
+        sec: '269.294'
+        mark: '00:04:29.294'
+      end:
+        sec: '273.942'
+        mark: '00:04:33.942'
       u: Now, what was the ghetto? Were there houses? What was it?
     - who: Samuel Isakovitch
-      start: '00:04:33.942'
-      end: '00:04:34.878'
+      start:
+        sec: '273.942'
+        mark: '00:04:33.942'
+      end:
+        sec: '274.878'
+        mark: '00:04:34.878'
       u: Houses, yes.
     - who: David Boder
-      start: '00:04:34.878'
-      end: '00:04:36.417'
+      start:
+        sec: '274.878'
+        mark: '00:04:34.878'
+      end:
+        sec: '276.417'
+        mark: '00:04:36.417'
       u: Whose houses were they?
     - who: Samuel Isakovitch
-      start: '00:04:36.417'
-      end: '00:04:38.047'
+      start:
+        sec: '276.417'
+        mark: '00:04:36.417'
+      end:
+        sec: '278.047'
+        mark: '00:04:38.047'
       u: Jewish houses.
     - who: David Boder
-      start: '00:04:38.047'
-      end: '00:04:39.043'
+      start:
+        sec: '278.047'
+        mark: '00:04:38.047'
+      end:
+        sec: '279.043'
+        mark: '00:04:39.043'
       u: Before they had belonged to Jews also?
     - who: Samuel Isakovitch
-      start: '00:04:39.043'
-      end: '00:04:40.160'
+      start:
+        sec: '279.043'
+        mark: '00:04:39.043'
+      end:
+        sec: '280.160'
+        mark: '00:04:40.160'
       u: Yes.
     - who: David Boder
-      start: '00:04:40.160'
-      end: '00:04:45.713'
+      start:
+        sec: '280.160'
+        mark: '00:04:40.160'
+      end:
+        sec: '285.713'
+        mark: '00:04:45.713'
       u: And so, nu, and what kind of things did you take along?
     - who: Samuel Isakovitch
-      start: '00:04:45.713'
-      end: '00:05:09.519'
+      start:
+        sec: '285.713'
+        mark: '00:04:45.713'
+      end:
+        sec: '309.519'
+        mark: '00:05:09.519'
       u: Everyone took thirty-eight kilo, so many pounds of food and so many
     - who: David Boder
-      start: '00:05:09.519'
-      end: '00:05:09.692'
+      start:
+        sec: '309.519'
+        mark: '00:05:09.519'
+      end:
+        sec: '309.692'
+        mark: '00:05:09.692'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:05:09.692'
-      end: '00:05:11.083'
+      start:
+        sec: '309.692'
+        mark: '00:05:09.692'
+      end:
+        sec: '311.083'
+        mark: '00:05:11.083'
       u: "...and looked in the shoes who..."
     - who: David Boder
-      start: '00:05:11.083'
-      end: '00:05:11.385'
+      start:
+        sec: '311.083'
+        mark: '00:05:11.083'
+      end:
+        sec: '311.385'
+        mark: '00:05:11.385'
       u: Aha.
     - who: Samuel Isakovitch
-      start: '00:05:11.385'
-      end: '00:05:11.838'
+      start:
+        sec: '311.385'
+        mark: '00:05:11.385'
+      end:
+        sec: '311.838'
+        mark: '00:05:11.838'
       u: "...had money."
     - who: David Boder
-      start: '00:05:11.838'
-      end: '00:05:14.011'
+      start:
+        sec: '311.838'
+        mark: '00:05:11.838'
+      end:
+        sec: '314.011'
+        mark: '00:05:14.011'
       u: Didn’t one have jewelry, rings...
     - who: Samuel Isakovitch
-      start: '00:05:14.011'
-      end: '00:05:24.574'
+      start:
+        sec: '314.011'
+        mark: '00:05:14.011'
+      end:
+        sec: '324.574'
+        mark: '00:05:24.574'
       u: We buried everything. in the ground and...it disappeared. And who went home,
         [after the war] maybe somebody found something still, and others maybe didn’t
         find anything.
     - who: David Boder
-      start: '00:05:24.574'
-      end: '00:05:30.452'
+      start:
+        sec: '324.574'
+        mark: '00:05:24.574'
+      end:
+        sec: '330.452'
+        mark: '00:05:30.452'
       u: Hm. So you buried your valuables in the ground and you don’t know where to
         find them?
     - who: Samuel Isakovitch
-      start: '00:05:30.452'
-      end: '00:05:32.202'
+      start:
+        sec: '330.452'
+        mark: '00:05:30.452'
+      end:
+        sec: '332.202'
+        mark: '00:05:32.202'
       u: One can’t know.
     - who: David Boder
-      start: '00:05:32.202'
-      end: '00:05:36.186'
+      start:
+        sec: '332.202'
+        mark: '00:05:32.202'
+      end:
+        sec: '336.186'
+        mark: '00:05:36.186'
       u: Would you know where they were buried if you went back and looked for it?
     - who: Samuel Isakovitch
-      start: '00:05:36.186'
-      end: '00:05:42.396'
+      start:
+        sec: '336.186'
+        mark: '00:05:36.186'
+      end:
+        sec: '342.396'
+        mark: '00:05:42.396'
       u: Do I know? Can I know? My parents...I was only thirteen ...the parents were
         [still] at home...
     - who: David Boder
-      start: '00:05:42.396'
-      end: '00:05:42.668'
+      start:
+        sec: '342.396'
+        mark: '00:05:42.396'
+      end:
+        sec: '342.668'
+        mark: '00:05:42.668'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:05:42.668'
-      end: '00:05:44.629'
+      start:
+        sec: '342.668'
+        mark: '00:05:42.668'
+      end:
+        sec: '344.629'
+        mark: '00:05:44.629'
       u: "...[we were] not taken away together... [some words not clear]..."
     - who: David Boder
-      start: '00:05:44.629'
-      end: '00:05:46.021'
+      start:
+        sec: '344.629'
+        mark: '00:05:44.629'
+      end:
+        sec: '346.021'
+        mark: '00:05:46.021'
       u: Oh! You were not taken away together?
     - who: Samuel Isakovitch
-      start: '00:05:46.021'
-      end: '00:05:46.187'
+      start:
+        sec: '346.021'
+        mark: '00:05:46.021'
+      end:
+        sec: '346.187'
+        mark: '00:05:46.187'
       u: No.
     - who: David Boder
-      start: '00:05:46.187'
-      end: '00:05:48.518'
+      start:
+        sec: '346.187'
+        mark: '00:05:46.187'
+      end:
+        sec: '348.518'
+        mark: '00:05:48.518'
       u: But did you meet them in the ghetto?
     - who: Samuel Isakovitch
-      start: '00:05:48.518'
-      end: '00:05:49.423'
+      start:
+        sec: '348.518'
+        mark: '00:05:48.518'
+      end:
+        sec: '349.423'
+        mark: '00:05:49.423'
       u: In the ghetto, yes.
     - who: David Boder
-      start: '00:05:49.423'
-      end: '00:05:54.494'
+      start:
+        sec: '349.423'
+        mark: '00:05:49.423'
+      end:
+        sec: '354.494'
+        mark: '00:05:54.494'
       u: Yes. What...all right, so you were in the ghetto. How long were you in the
         ghetto.
     - who: Samuel Isakovitch
-      start: '00:05:54.494'
-      end: '00:05:55.520'
+      start:
+        sec: '354.494'
+        mark: '00:05:54.494'
+      end:
+        sec: '355.520'
+        mark: '00:05:55.520'
       u: I was there one month.
     - who: David Boder
-      start: '00:05:55.520'
-      end: '00:05:56.757'
+      start:
+        sec: '355.520'
+        mark: '00:05:55.520'
+      end:
+        sec: '356.757'
+        mark: '00:05:56.757'
       u: And then what happened?
     - who: Samuel Isakovitch
-      start: '00:05:56.757'
-      end: '00:05:58.689'
+      start:
+        sec: '356.757'
+        mark: '00:05:56.757'
+      end:
+        sec: '358.689'
+        mark: '00:05:58.689'
       u: Then we were taken away to the lager.
     - who: David Boder
-      start: '00:05:58.689'
-      end: '00:05:59.534'
+      start:
+        sec: '358.689'
+        mark: '00:05:58.689'
+      end:
+        sec: '359.534'
+        mark: '00:05:59.534'
       u: Which lager?
     - who: Samuel Isakovitch
-      start: '00:05:59.534'
-      end: '00:06:00.560'
+      start:
+        sec: '359.534'
+        mark: '00:05:59.534'
+      end:
+        sec: '360.560'
+        mark: '00:06:00.560'
       u: Posen.
     - who: David Boder
-      start: '00:06:00.560'
-      end: '00:06:02.069'
+      start:
+        sec: '360.560'
+        mark: '00:06:00.560'
+      end:
+        sec: '362.069'
+        mark: '00:06:02.069'
       u: To Posen. The whole family?
     - who: Samuel Isakovitch
-      start: '00:06:02.069'
-      end: '00:06:03.095'
+      start:
+        sec: '362.069'
+        mark: '00:06:02.069'
+      end:
+        sec: '363.095'
+        mark: '00:06:03.095'
       u: The whole family.
     - who: David Boder
-      start: '00:06:03.095'
-      end: '00:06:05.721'
+      start:
+        sec: '363.095'
+        mark: '00:06:03.095'
+      end:
+        sec: '365.721'
+        mark: '00:06:05.721'
       u: Your mother and father together with the children?
     - who: Samuel Isakovitch
-      start: '00:06:05.721'
-      end: '00:06:19.649'
+      start:
+        sec: '365.721'
+        mark: '00:06:05.721'
+      end:
+        sec: '379.649'
+        mark: '00:06:19.649'
       u: We were all transported together and there we were separated...nobody knows
         where to...we entered from the RR-car ...we got off the RR-cars, the youngsters
         were immediately taken away...it was called out, ‘The youngsters step forward,’
         and the others... [?]
     - who: David Boder
-      start: '00:06:19.649'
-      end: '00:06:20.706'
+      start:
+        sec: '379.649'
+        mark: '00:06:19.649'
+      end:
+        sec: '380.706'
+        mark: '00:06:20.706'
       u: Who? The youngsters?
     - who: Samuel Isakovitch
-      start: '00:06:20.706'
-      end: '00:06:21.310'
+      start:
+        sec: '380.706'
+        mark: '00:06:20.706'
+      end:
+        sec: '381.310'
+        mark: '00:06:21.310'
       u: Yes.
     - who: David Boder
-      start: '00:06:21.310'
-      end: '00:06:22.105'
+      start:
+        sec: '381.310'
+        mark: '00:06:21.310'
+      end:
+        sec: '382.105'
+        mark: '00:06:22.105'
       u: What does it mean, ‘the youngsters’? The youth...
     - who: Samuel Isakovitch
-      start: '00:06:22.105'
-      end: '00:06:23.523'
+      start:
+        sec: '382.105'
+        mark: '00:06:22.105'
+      end:
+        sec: '383.523'
+        mark: '00:06:23.523'
       u: The young people, those from...
     - who: David Boder
-      start: '00:06:23.523'
-      end: '00:06:23.996'
+      start:
+        sec: '383.523'
+        mark: '00:06:23.523'
+      end:
+        sec: '383.996'
+        mark: '00:06:23.996'
       u: "...or the men?"
     - who: Samuel Isakovitch
-      start: '00:06:23.996'
-      end: '00:06:26.310'
+      start:
+        sec: '383.996'
+        mark: '00:06:23.996'
+      end:
+        sec: '386.310'
+        mark: '00:06:26.310'
       u: "...eighteen...the men from eighteen years..."
     - who: David Boder
-      start: '00:06:26.310'
-      end: '00:06:26.501'
+      start:
+        sec: '386.310'
+        mark: '00:06:26.310'
+      end:
+        sec: '386.501'
+        mark: '00:06:26.501'
       u: Oh.
     - who: Samuel Isakovitch
-      start: '00:06:26.501'
-      end: '00:06:35.199'
+      start:
+        sec: '386.501'
+        mark: '00:06:26.501'
+      end:
+        sec: '395.199'
+        mark: '00:06:35.199'
       u: "...to thirty-five. It was said, ‘Step forward,’ and we stepped forward,
         the fourteen-year olds, too. We stepped forward, and about the others we don’t
         know where they went."
     - who: David Boder
-      start: '00:06:35.199'
-      end: '00:06:36.859'
+      start:
+        sec: '395.199'
+        mark: '00:06:35.199'
+      end:
+        sec: '396.859'
+        mark: '00:06:36.859'
       u: What does it mean, you don’t know where they went?
     - who: Samuel Isakovitch
-      start: '00:06:36.859'
-      end: '00:06:39.390'
+      start:
+        sec: '396.859'
+        mark: '00:06:36.859'
+      end:
+        sec: '399.390'
+        mark: '00:06:39.390'
       u: They left and were not seen any more.
     - who: David Boder
-      start: '00:06:39.390'
-      end: '00:06:42.227'
+      start:
+        sec: '399.390'
+        mark: '00:06:39.390'
+      end:
+        sec: '402.227'
+        mark: '00:06:42.227'
       u: And...and your father and your mother?
     - who: Samuel Isakovitch
-      start: '00:06:42.227'
-      end: '00:06:44.189'
+      start:
+        sec: '402.227'
+        mark: '00:06:42.227'
+      end:
+        sec: '404.189'
+        mark: '00:06:44.189'
       u: It is not known what happened to them either.
     - who: David Boder
-      start: '00:06:44.189'
-      end: '00:06:46.543'
+      start:
+        sec: '404.189'
+        mark: '00:06:44.189'
+      end:
+        sec: '406.543'
+        mark: '00:06:46.543'
       u: When were you separated from your parents?
     - who: Samuel Isakovitch
-      start: '00:06:46.543'
-      end: '00:06:47.720'
+      start:
+        sec: '406.543'
+        mark: '00:06:46.543'
+      end:
+        sec: '407.720'
+        mark: '00:06:47.720'
       u: In the year forty-two.
     - who: David Boder
-      start: '00:06:47.720'
-      end: '00:06:49.078'
+      start:
+        sec: '407.720'
+        mark: '00:06:47.720'
+      end:
+        sec: '409.078'
+        mark: '00:06:49.078'
       u: There at the train?
     - who: Samuel Isakovitch
-      start: '00:06:49.078'
-      end: '00:06:50.436'
+      start:
+        sec: '409.078'
+        mark: '00:06:49.078'
+      end:
+        sec: '410.436'
+        mark: '00:06:50.436'
       u: Yes, at the station [?]. Yes.
     - who: David Boder
-      start: '00:06:50.436'
-      end: '00:06:53.032'
+      start:
+        sec: '410.436'
+        mark: '00:06:50.436'
+      end:
+        sec: '413.032'
+        mark: '00:06:53.032'
       u: Hm. And then where were you taken?
     - who: Samuel Isakovitch
-      start: '00:06:53.032'
-      end: '00:06:59.611'
+      start:
+        sec: '413.032'
+        mark: '00:06:53.032'
+      end:
+        sec: '419.611'
+        mark: '00:06:59.611'
       u: I was taken to work...to the factory...at a construction detail.
     - who: David Boder
-      start: '00:06:59.611'
-      end: '00:07:00.667'
+      start:
+        sec: '419.611'
+        mark: '00:06:59.611'
+      end:
+        sec: '420.667'
+        mark: '00:07:00.667'
       u: What kind of detail?
     - who: Samuel Isakovitch
-      start: '00:07:00.667'
-      end: '00:07:04.077'
+      start:
+        sec: '420.667'
+        mark: '00:07:00.667'
+      end:
+        sec: '424.077'
+        mark: '00:07:04.077'
       u: Construction detail. Construction. A factory was being built.
     - who: David Boder
-      start: '00:07:04.077'
-      end: '00:07:05.948'
+      start:
+        sec: '424.077'
+        mark: '00:07:04.077'
+      end:
+        sec: '425.948'
+        mark: '00:07:05.948'
       u: Oh. You were building a factory?
     - who: Samuel Isakovitch
-      start: '00:07:05.948'
-      end: '00:07:06.763'
+      start:
+        sec: '425.948'
+        mark: '00:07:05.948'
+      end:
+        sec: '426.763'
+        mark: '00:07:06.763'
       u: Yes.
     - who: David Boder
-      start: '00:07:06.763'
-      end: '00:07:09.553'
+      start:
+        sec: '426.763'
+        mark: '00:07:06.763'
+      end:
+        sec: '429.553'
+        mark: '00:07:09.553'
       u: Were you...what was your...
     - who: Samuel Isakovitch
-      start: '00:07:09.553'
-      end: '00:07:10.173'
+      start:
+        sec: '429.553'
+        mark: '00:07:09.553'
+      end:
+        sec: '430.173'
+        mark: '00:07:10.173'
       u: Mason [Enunciation not clear.]
     - who: David Boder
-      start: '00:07:10.173'
-      end: '00:07:10.566'
+      start:
+        sec: '430.173'
+        mark: '00:07:10.173'
+      end:
+        sec: '430.566'
+        mark: '00:07:10.566'
       u: What?
     - who: Samuel Isakovitch
-      start: '00:07:10.566'
-      end: '00:07:11.502'
+      start:
+        sec: '430.566'
+        mark: '00:07:10.566'
+      end:
+        sec: '431.502'
+        mark: '00:07:11.502'
       u: A mason.
     - who: David Boder
-      start: '00:07:11.502'
-      end: '00:07:12.317'
+      start:
+        sec: '431.502'
+        mark: '00:07:11.502'
+      end:
+        sec: '432.317'
+        mark: '00:07:12.317'
       u: What is that?
     - who: Samuel Isakovitch
-      start: '00:07:12.317'
-      end: '00:07:15.325'
+      start:
+        sec: '432.317'
+        mark: '00:07:12.317'
+      end:
+        sec: '435.325'
+        mark: '00:07:15.325'
       u: A mason, nu. Building work.
     - who: David Boder
-      start: '00:07:15.325'
-      end: '00:07:15.989'
+      start:
+        sec: '435.325'
+        mark: '00:07:15.325'
+      end:
+        sec: '435.989'
+        mark: '00:07:15.989'
       u: A mason.
     - who: Samuel Isakovitch
-      start: '00:07:15.989'
-      end: '00:07:16.562'
+      start:
+        sec: '435.989'
+        mark: '00:07:15.989'
+      end:
+        sec: '436.562'
+        mark: '00:07:16.562'
       u: A mason, yes.
     - who: David Boder
-      start: '00:07:16.562'
-      end: '00:07:20.682'
+      start:
+        sec: '436.562'
+        mark: '00:07:16.562'
+      end:
+        sec: '440.682'
+        mark: '00:07:20.682'
       u: Hm. Nu, where did you live, where did you eat, sleep?
     - who: Samuel Isakovitch
-      start: '00:07:20.682'
-      end: '00:07:21.557'
+      start:
+        sec: '440.682'
+        mark: '00:07:20.682'
+      end:
+        sec: '441.557'
+        mark: '00:07:21.557'
       u: In the lager.
     - who: David Boder
-      start: '00:07:21.557'
-      end: '00:07:22.407'
+      start:
+        sec: '441.557'
+        mark: '00:07:21.557'
+      end:
+        sec: '442.407'
+        mark: '00:07:22.407'
       u: In the lager.
     - who: Samuel Isakovitch
-      start: '00:07:22.407'
-      end: '00:07:22.578'
+      start:
+        sec: '442.407'
+        mark: '00:07:22.407'
+      end:
+        sec: '442.578'
+        mark: '00:07:22.578'
       u: "[Words not clear.]"
     - who: David Boder
-      start: '00:07:22.578'
-      end: '00:07:24.544'
+      start:
+        sec: '442.578'
+        mark: '00:07:22.578'
+      end:
+        sec: '444.544'
+        mark: '00:07:24.544'
       u: The lager was what?
     - who: Samuel Isakovitch
-      start: '00:07:24.544'
-      end: '00:07:27.109'
+      start:
+        sec: '444.544'
+        mark: '00:07:24.544'
+      end:
+        sec: '447.109'
+        mark: '00:07:27.109'
       u: It was a lager — a German concentration camp.
     - who: David Boder
-      start: '00:07:27.109'
-      end: '00:07:27.471'
+      start:
+        sec: '447.109'
+        mark: '00:07:27.109'
+      end:
+        sec: '447.471'
+        mark: '00:07:27.471'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:07:27.471'
-      end: '00:07:29.946'
+      start:
+        sec: '447.471'
+        mark: '00:07:27.471'
+      end:
+        sec: '449.946'
+        mark: '00:07:29.946'
       u: With prisoners...as a prisoner.
     - who: David Boder
-      start: '00:07:29.946'
-      end: '00:07:31.636'
+      start:
+        sec: '449.946'
+        mark: '00:07:29.946'
+      end:
+        sec: '451.636'
+        mark: '00:07:31.636'
       u: Were there men...men and women in the lager?
     - who: Samuel Isakovitch
-      start: '00:07:31.636'
-      end: '00:07:33.145'
+      start:
+        sec: '451.636'
+        mark: '00:07:31.636'
+      end:
+        sec: '453.145'
+        mark: '00:07:33.145'
       u: No women. Only men.
     - who: David Boder
-      start: '00:07:33.145'
-      end: '00:07:33.688'
+      start:
+        sec: '453.145'
+        mark: '00:07:33.145'
+      end:
+        sec: '453.688'
+        mark: '00:07:33.688'
       u: What?
     - who: Samuel Isakovitch
-      start: '00:07:33.688'
-      end: '00:07:34.956'
+      start:
+        sec: '453.688'
+        mark: '00:07:33.688'
+      end:
+        sec: '454.956'
+        mark: '00:07:34.956'
       u: Only men.
     - who: David Boder
-      start: '00:07:34.956'
-      end: '00:07:35.892'
+      start:
+        sec: '454.956'
+        mark: '00:07:34.956'
+      end:
+        sec: '455.892'
+        mark: '00:07:35.892'
       u: Only men.
     - who: Samuel Isakovitch
-      start: '00:07:35.892'
-      end: '00:07:36.315'
+      start:
+        sec: '455.892'
+        mark: '00:07:35.892'
+      end:
+        sec: '456.315'
+        mark: '00:07:36.315'
       u: Yes.
     - who: David Boder
-      start: '00:07:36.315'
-      end: '00:07:41.355'
+      start:
+        sec: '456.315'
+        mark: '00:07:36.315'
+      end:
+        sec: '461.355'
+        mark: '00:07:41.355'
       u: And what was there...tell me, when did you get up and what did you do there?
     - who: Samuel Isakovitch
-      start: '00:07:41.355'
-      end: '00:07:47.532'
+      start:
+        sec: '461.355'
+        mark: '00:07:41.355'
+      end:
+        sec: '467.532'
+        mark: '00:07:47.532'
       u: There we—we got up at a quarter to five in the morning, we went out to appell,
         we stood...
     - who: David Boder
-      start: '00:07:47.532'
-      end: '00:07:50.097'
+      start:
+        sec: '467.532'
+        mark: '00:07:47.532'
+      end:
+        sec: '470.097'
+        mark: '00:07:50.097'
       u: What do you call an ‘appell’?
     - who: Samuel Isakovitch
-      start: '00:07:50.097'
-      end: '00:07:52.542'
+      start:
+        sec: '470.097'
+        mark: '00:07:50.097'
+      end:
+        sec: '472.542'
+        mark: '00:07:52.542'
       u: In the morning we were counted.
     - who: David Boder
-      start: '00:07:52.542'
-      end: '00:07:54.474'
+      start:
+        sec: '472.542'
+        mark: '00:07:52.542'
+      end:
+        sec: '474.474'
+        mark: '00:07:54.474'
       u: Counted. Where the names called out or...
     - who: Samuel Isakovitch
-      start: '00:07:54.474'
-      end: '00:08:13.082'
+      start:
+        sec: '474.474'
+        mark: '00:07:54.474'
+      end:
+        sec: '493.082'
+        mark: '00:08:13.082'
       u: No, it was arranged...every block had its people. As many people the block
         had...then they were lined up. There came the lager-fuehrer, the block obersturm-fuehrer,
         and counted how many people there are in the block. Then if it was correct,
         good. And if not—then he looked so long, till he was found.
     - who: David Boder
-      start: '00:08:13.082'
-      end: '00:08:14.742'
+      start:
+        sec: '493.082'
+        mark: '00:08:13.082'
+      end:
+        sec: '494.742'
+        mark: '00:08:14.742'
       u: And if he wasn’t found?
     - who: Samuel Isakovitch
-      start: '00:08:14.742'
-      end: '00:08:17.722'
+      start:
+        sec: '494.742'
+        mark: '00:08:14.742'
+      end:
+        sec: '497.722'
+        mark: '00:08:17.722'
       u: Then another ten were taken and shot.
     - who: David Boder
-      start: '00:08:17.722'
-      end: '00:08:19.231'
+      start:
+        sec: '497.722'
+        mark: '00:08:17.722'
+      end:
+        sec: '499.231'
+        mark: '00:08:19.231'
       u: Why? If somebody ran away?
     - who: Samuel Isakovitch
-      start: '00:08:19.231'
-      end: '00:08:23.396'
+      start:
+        sec: '499.231'
+        mark: '00:08:19.231'
+      end:
+        sec: '503.396'
+        mark: '00:08:23.396'
       u: If somebody escaped, another ten were taken and shot.
     - who: David Boder
-      start: '00:08:23.396'
-      end: '00:08:25.328'
+      start:
+        sec: '503.396'
+        mark: '00:08:23.396'
+      end:
+        sec: '505.328'
+        mark: '00:08:25.328'
       u: Where? Right there?
     - who: Samuel Isakovitch
-      start: '00:08:25.328'
-      end: '00:08:30.217'
+      start:
+        sec: '505.328'
+        mark: '00:08:25.328'
+      end:
+        sec: '510.217'
+        mark: '00:08:30.217'
       u: Not right there. They were taken out. They were taken behind the lager and
         immediately shot.
     - who: David Boder
-      start: '00:08:30.217'
-      end: '00:08:31.346'
+      start:
+        sec: '510.217'
+        mark: '00:08:30.217'
+      end:
+        sec: '511.346'
+        mark: '00:08:31.346'
       u: Was it their fault that...
     - who: Samuel Isakovitch
-      start: '00:08:31.346'
-      end: '00:08:31.610'
+      start:
+        sec: '511.346'
+        mark: '00:08:31.346'
+      end:
+        sec: '511.610'
+        mark: '00:08:31.610'
       u: But...
     - who: David Boder
-      start: '00:08:31.610'
-      end: '00:08:33.149'
+      start:
+        sec: '511.610'
+        mark: '00:08:31.610'
+      end:
+        sec: '513.149'
+        mark: '00:08:33.149'
       u: "...another one escaped [?]?"
     - who: Samuel Isakovitch
-      start: '00:08:33.149'
-      end: '00:08:39.004'
+      start:
+        sec: '513.149'
+        mark: '00:08:33.149'
+      end:
+        sec: '519.004'
+        mark: '00:08:39.004'
       u: They said thus, “Who...in case anybody escapes, other ten comrades will be
         shot.’
     - who: David Boder
-      start: '00:08:39.004'
-      end: '00:08:39.366'
+      start:
+        sec: '519.004'
+        mark: '00:08:39.004'
+      end:
+        sec: '519.366'
+        mark: '00:08:39.366'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:08:39.366'
-      end: '00:08:40.392'
+      start:
+        sec: '519.366'
+        mark: '00:08:39.366'
+      end:
+        sec: '520.392'
+        mark: '00:08:40.392'
       u: So that nobody should escape.
     - who: David Boder
-      start: '00:08:40.392'
-      end: '00:08:41.660'
+      start:
+        sec: '520.392'
+        mark: '00:08:40.392'
+      end:
+        sec: '521.660'
+        mark: '00:08:41.660'
       u: Did anybody escape?
     - who: Samuel Isakovitch
-      start: '00:08:41.660'
-      end: '00:08:42.686'
+      start:
+        sec: '521.660'
+        mark: '00:08:41.660'
+      end:
+        sec: '522.686'
+        mark: '00:08:42.686'
       u: Some[?].
     - who: David Boder
-      start: '00:08:42.686'
-      end: '00:08:43.018'
+      start:
+        sec: '522.686'
+        mark: '00:08:42.686'
+      end:
+        sec: '523.018'
+        mark: '00:08:43.018'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:08:43.018'
-      end: '00:08:46.193'
+      start:
+        sec: '523.018'
+        mark: '00:08:43.018'
+      end:
+        sec: '526.193'
+        mark: '00:08:46.193'
       u: Who could escape.
     - who: David Boder
-      start: '00:08:46.193'
-      end: '00:08:47.702'
+      start:
+        sec: '526.193'
+        mark: '00:08:46.193'
+      end:
+        sec: '527.702'
+        mark: '00:08:47.702'
       u: Who was able, ran away?
     - who: Samuel Isakovitch
-      start: '00:08:47.702'
-      end: '00:08:49.121'
+      start:
+        sec: '527.702'
+        mark: '00:08:47.702'
+      end:
+        sec: '529.121'
+        mark: '00:08:49.121'
       u: Who could escaped.
     - who: David Boder
-      start: '00:08:49.121'
-      end: '00:08:52.048'
+      start:
+        sec: '529.121'
+        mark: '00:08:49.121'
+      end:
+        sec: '532.048'
+        mark: '00:08:52.048'
       u: Didn’t he know that ten of his comrades will be shot?
     - who: Samuel Isakovitch
-      start: '00:08:52.048'
-      end: '00:08:58.114'
+      start:
+        sec: '532.048'
+        mark: '00:08:52.048'
+      end:
+        sec: '538.114'
+        mark: '00:08:58.114'
       u: He knew; but he wanted his life...wanted his life...first of all...
     - who: David Boder
-      start: '00:08:58.114'
-      end: '00:09:00.589'
+      start:
+        sec: '538.114'
+        mark: '00:08:58.114'
+      end:
+        sec: '540.589'
+        mark: '00:09:00.589'
       u: Did they really shoot ten people every time?
     - who: Samuel Isakovitch
-      start: '00:09:00.589'
-      end: '00:09:02.490'
+      start:
+        sec: '540.589'
+        mark: '00:09:00.589'
+      end:
+        sec: '542.490'
+        mark: '00:09:02.490'
       u: Always.
     - who: David Boder
-      start: '00:09:02.490'
-      end: '00:09:03.184'
+      start:
+        sec: '542.490'
+        mark: '00:09:02.490'
+      end:
+        sec: '543.184'
+        mark: '00:09:03.184'
       u: What?
     - who: Samuel Isakovitch
-      start: '00:09:03.184'
-      end: '00:09:17.446'
+      start:
+        sec: '543.184'
+        mark: '00:09:03.184'
+      end:
+        sec: '557.446'
+        mark: '00:09:17.446'
       u: They shot always. They shot always, whenever somebody escaped. And then when
         one escaped he was [considered] committing sabotage; and for sabotage one
         was hanged.
     - who: David Boder
-      start: '00:09:17.446'
-      end: '00:09:19.888'
+      start:
+        sec: '557.446'
+        mark: '00:09:17.446'
+      end:
+        sec: '559.888'
+        mark: '00:09:19.888'
       u: What kind of sabotage?
     - who: Samuel Isakovitch
-      start: '00:09:19.888'
-      end: '00:09:39.426'
+      start:
+        sec: '559.888'
+        mark: '00:09:19.888'
+      end:
+        sec: '579.426'
+        mark: '00:09:39.426'
       u: Sabotage...was...when something by the construction—by the construction detail...if
         one broke anything or anything... if one didn’t put on the five hundred bricks
         a day, then this was also considered sabotage. He was also hanged like the
         others. The electricians or machinists...we worked at machines...
     - who: David Boder
-      start: '00:09:39.426'
-      end: '00:09:39.758'
+      start:
+        sec: '579.426'
+        mark: '00:09:39.426'
+      end:
+        sec: '579.758'
+        mark: '00:09:39.758'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:09:39.758'
-      end: '00:09:48.148'
+      start:
+        sec: '579.758'
+        mark: '00:09:39.758'
+      end:
+        sec: '588.148'
+        mark: '00:09:48.148'
       u: "...they were also hanged like the others if they didn’t work the way they
         should have."
     - who: David Boder
-      start: '00:09:48.148'
-      end: '00:09:50.653'
+      start:
+        sec: '588.148'
+        mark: '00:09:48.148'
+      end:
+        sec: '590.653'
+        mark: '00:09:50.653'
       u: Who was it who said that they didn’t work?
     - who: Samuel Isakovitch
-      start: '00:09:50.653'
-      end: '00:09:56.840'
+      start:
+        sec: '590.653'
+        mark: '00:09:50.653'
+      end:
+        sec: '596.840'
+        mark: '00:09:56.840'
       u: The...the master, the foreman, the Oberschar-fuehrer...
     - who: David Boder
-      start: '00:09:56.840'
-      end: '00:09:57.293'
+      start:
+        sec: '596.840'
+        mark: '00:09:56.840'
+      end:
+        sec: '597.293'
+        mark: '00:09:57.293'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:09:57.293'
-      end: '00:10:00.583'
+      start:
+        sec: '597.293'
+        mark: '00:09:57.293'
+      end:
+        sec: '600.583'
+        mark: '00:10:00.583'
       u: "...the block leader [a few words not clear]..."
     - who: David Boder
-      start: '00:10:00.583'
-      end: '00:10:01.096'
+      start:
+        sec: '600.583'
+        mark: '00:10:00.583'
+      end:
+        sec: '601.096'
+        mark: '00:10:01.096'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:10:01.096'
-      end: '00:10:02.032'
+      start:
+        sec: '601.096'
+        mark: '00:10:01.096'
+      end:
+        sec: '602.032'
+        mark: '00:10:02.032'
       u: "[Not clear.]"
     - who: David Boder
-      start: '00:10:02.032'
-      end: '00:10:05.744'
+      start:
+        sec: '602.032'
+        mark: '00:10:02.032'
+      end:
+        sec: '605.744'
+        mark: '00:10:05.744'
       u: Nu, and so, in the morning you had what, the appell?
     - who: Samuel Isakovitch
-      start: '00:10:05.744'
-      end: '00:10:11.116'
+      start:
+        sec: '605.744'
+        mark: '00:10:05.744'
+      end:
+        sec: '611.116'
+        mark: '00:10:11.116'
       u: Yes, in the morning...then at six o’clock we began working.
     - who: David Boder
-      start: '00:10:11.116'
-      end: '00:10:11.388'
+      start:
+        sec: '611.116'
+        mark: '00:10:11.116'
+      end:
+        sec: '611.388'
+        mark: '00:10:11.388'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:10:11.388'
-      end: '00:10:18.558'
+      start:
+        sec: '611.388'
+        mark: '00:10:11.388'
+      end:
+        sec: '618.558'
+        mark: '00:10:18.558'
       u: We worked till the evening. We worked till dinner time, [the mid-day meal].
         For dinner we had half an hour and then again...
     - who: David Boder
-      start: '00:10:18.558'
-      end: '00:10:19.916'
+      start:
+        sec: '618.558'
+        mark: '00:10:18.558'
+      end:
+        sec: '619.916'
+        mark: '00:10:19.916'
       u: What were you given to eat for dinner?
     - who: Samuel Isakovitch
-      start: '00:10:19.916'
-      end: '00:10:27.129'
+      start:
+        sec: '619.916'
+        mark: '00:10:19.916'
+      end:
+        sec: '627.129'
+        mark: '00:10:27.129'
       u: 'At dinner time nothing. In the morning we were given bread and a little
         piece of margarine and coffee...[Footnote: It was assumed that the prisoners
         would save part of their bread ration for dinner and even for supper. But
         in most cases they either ate the whole ration in the morning or traded it
         away for cigarettes or other objects or favors.]'
     - who: David Boder
-      start: '00:10:27.129'
-      end: '00:10:27.582'
+      start:
+        sec: '627.129'
+        mark: '00:10:27.129'
+      end:
+        sec: '627.582'
+        mark: '00:10:27.582'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:10:27.582'
-      end: '00:10:29.574'
+      start:
+        sec: '627.582'
+        mark: '00:10:27.582'
+      end:
+        sec: '629.574'
+        mark: '00:10:29.574'
       u: "...and in the evening a liter of soup."
     - who: David Boder
-      start: '00:10:29.574'
-      end: '00:10:31.143'
+      start:
+        sec: '629.574'
+        mark: '00:10:29.574'
+      end:
+        sec: '631.143'
+        mark: '00:10:31.143'
       u: And for dinner [mid-day] you weren’t given anything to eat?
     - who: Samuel Isakovitch
-      start: '00:10:31.143'
-      end: '00:10:32.260'
+      start:
+        sec: '631.143'
+        mark: '00:10:31.143'
+      end:
+        sec: '632.260'
+        mark: '00:10:32.260'
       u: No.
     - who: David Boder
-      start: '00:10:32.260'
-      end: '00:10:37.874'
+      start:
+        sec: '632.260'
+        mark: '00:10:32.260'
+      end:
+        sec: '637.874'
+        mark: '00:10:37.874'
       u: So? Nu, you only rested at mid-day time?
     - who: Samuel Isakovitch
-      start: '00:10:37.874'
-      end: '00:10:41.513'
+      start:
+        sec: '637.874'
+        mark: '00:10:37.874'
+      end:
+        sec: '641.513'
+        mark: '00:10:41.513'
       u: Yes, we rested for half an hour. And then we started to work again.
     - who: David Boder
-      start: '00:10:41.513'
-      end: '00:10:42.871'
+      start:
+        sec: '641.513'
+        mark: '00:10:41.513'
+      end:
+        sec: '642.871'
+        mark: '00:10:42.871'
       u: And how late did you work?
     - who: Samuel Isakovitch
-      start: '00:10:42.871'
-      end: '00:10:49.792'
+      start:
+        sec: '642.871'
+        mark: '00:10:42.871'
+      end:
+        sec: '649.792'
+        mark: '00:10:49.792'
       u: We worked till six o’clock in the evening and then we marched in. And again
         we stood on the appell square till ten o’clock at night.
     - who: David Boder
-      start: '00:10:49.792'
-      end: '00:10:50.728'
+      start:
+        sec: '649.792'
+        mark: '00:10:49.792'
+      end:
+        sec: '650.728'
+        mark: '00:10:50.728'
       u: Why so long?
     - who: Samuel Isakovitch
-      start: '00:10:50.728'
-      end: '00:11:02.740'
+      start:
+        sec: '650.728'
+        mark: '00:10:50.728'
+      end:
+        sec: '662.740'
+        mark: '00:11:02.740'
       u: Why? They had time. They had time...they wanted...till the lager-fuehrer
         came; till the block-fuehrer came. Then the music didn’t play well.
     - who: David Boder
-      start: '00:11:02.740'
-      end: '00:11:04.513'
+      start:
+        sec: '662.740'
+        mark: '00:11:02.740'
+      end:
+        sec: '664.513'
+        mark: '00:11:04.513'
       u: What kind of music did you have in the lager?
     - who: Samuel Isakovitch
-      start: '00:11:04.513'
-      end: '00:11:07.701'
+      start:
+        sec: '664.513'
+        mark: '00:11:04.513'
+      end:
+        sec: '667.701'
+        mark: '00:11:07.701'
       u: While marching out and marching in there had to be music.
     - who: David Boder
-      start: '00:11:07.701'
-      end: '00:11:08.033'
+      start:
+        sec: '667.701'
+        mark: '00:11:07.701'
+      end:
+        sec: '668.033'
+        mark: '00:11:08.033'
       u: Why?
     - who: Samuel Isakovitch
-      start: '00:11:08.033'
-      end: '00:11:09.391'
+      start:
+        sec: '668.033'
+        mark: '00:11:08.033'
+      end:
+        sec: '669.391'
+        mark: '00:11:09.391'
       u: To march better.
     - who: David Boder
-      start: '00:11:09.391'
-      end: '00:11:11.172'
+      start:
+        sec: '669.391'
+        mark: '00:11:09.391'
+      end:
+        sec: '671.172'
+        mark: '00:11:11.172'
       u: Yes. So, who played the music?
     - who: Samuel Isakovitch
-      start: '00:11:11.172'
-      end: '00:11:12.530'
+      start:
+        sec: '671.172'
+        mark: '00:11:11.172'
+      end:
+        sec: '672.530'
+        mark: '00:11:12.530'
       u: Our men.
     - who: David Boder
-      start: '00:11:12.530'
-      end: '00:11:14.431'
+      start:
+        sec: '672.530'
+        mark: '00:11:12.530'
+      end:
+        sec: '674.431'
+        mark: '00:11:14.431'
       u: Where did you get the instruments?
     - who: Samuel Isakovitch
-      start: '00:11:14.431'
-      end: '00:11:16.937'
+      start:
+        sec: '674.431'
+        mark: '00:11:14.431'
+      end:
+        sec: '676.937'
+        mark: '00:11:16.937'
       u: We already got them from Auschwitz.
     - who: David Boder
-      start: '00:11:16.937'
-      end: '00:11:19.441'
+      start:
+        sec: '676.937'
+        mark: '00:11:16.937'
+      end:
+        sec: '679.441'
+        mark: '00:11:19.441'
       u: What do you mean ‘from Auschwitz’? They have sent...
     - who: Samuel Isakovitch
-      start: '00:11:19.441'
-      end: '00:11:19.864'
+      start:
+        sec: '679.441'
+        mark: '00:11:19.441'
+      end:
+        sec: '679.864'
+        mark: '00:11:19.864'
       u: Yes.
     - who: David Boder
-      start: '00:11:19.864'
-      end: '00:11:20.498'
+      start:
+        sec: '679.864'
+        mark: '00:11:19.864'
+      end:
+        sec: '680.498'
+        mark: '00:11:20.498'
       u: "...instruments from Auschwitz..."
     - who: Samuel Isakovitch
-      start: '00:11:20.498'
-      end: '00:11:24.240'
+      start:
+        sec: '680.498'
+        mark: '00:11:20.498'
+      end:
+        sec: '684.240'
+        mark: '00:11:24.240'
       u: Yes, and then we too went away to Auschwitz...
     - who: David Boder
-      start: '00:11:24.240'
-      end: '00:11:24.784'
+      start:
+        sec: '684.240'
+        mark: '00:11:24.240'
+      end:
+        sec: '684.784'
+        mark: '00:11:24.784'
       u: What?
     - who: Samuel Isakovitch
-      start: '00:11:24.784'
-      end: '00:11:26.052'
+      start:
+        sec: '684.784'
+        mark: '00:11:24.784'
+      end:
+        sec: '686.052'
+        mark: '00:11:26.052'
       u: And then we too left for Ausch-...
     - who: David Boder
-      start: '00:11:26.052'
-      end: '00:11:32.420'
+      start:
+        sec: '686.052'
+        mark: '00:11:26.052'
+      end:
+        sec: '692.420'
+        mark: '00:11:32.420'
       u: Now wait, we are not through with this camp. So, in the evening what? Music
         played when you returned?
     - who: Samuel Isakovitch
-      start: '00:11:32.420'
-      end: '00:11:32.782'
+      start:
+        sec: '692.420'
+        mark: '00:11:32.420'
+      end:
+        sec: '692.782'
+        mark: '00:11:32.782'
       u: Yes.
     - who: David Boder
-      start: '00:11:32.782'
-      end: '00:11:34.140'
+      start:
+        sec: '692.782'
+        mark: '00:11:32.782'
+      end:
+        sec: '694.140'
+        mark: '00:11:34.140'
       u: Yes? And then?
     - who: Samuel Isakovitch
-      start: '00:11:34.140'
-      end: '00:11:35.045'
+      start:
+        sec: '694.140'
+        mark: '00:11:34.140'
+      end:
+        sec: '695.045'
+        mark: '00:11:35.045'
       u: And then...
     - who: David Boder
-      start: '00:11:35.045'
-      end: '00:11:35.317'
+      start:
+        sec: '695.045'
+        mark: '00:11:35.045'
+      end:
+        sec: '695.317'
+        mark: '00:11:35.317'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:11:35.317'
-      end: '00:11:38.999'
+      start:
+        sec: '695.317'
+        mark: '00:11:35.317'
+      end:
+        sec: '698.999'
+        mark: '00:11:38.999'
       u: "...and then we went in...stood for appell..."
     - who: David Boder
-      start: '00:11:38.999'
-      end: '00:11:39.241'
+      start:
+        sec: '698.999'
+        mark: '00:11:38.999'
+      end:
+        sec: '699.241'
+        mark: '00:11:39.241'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:11:39.241'
-      end: '00:11:44.161'
+      start:
+        sec: '699.241'
+        mark: '00:11:39.241'
+      end:
+        sec: '704.161'
+        mark: '00:11:44.161'
       u: Finished with the appell, we entered the ‘block’ and received the soup...
     - who: David Boder
-      start: '00:11:44.161'
-      end: '00:11:44.402'
+      start:
+        sec: '704.161'
+        mark: '00:11:44.161'
+      end:
+        sec: '704.402'
+        mark: '00:11:44.402'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:11:44.402'
-      end: '00:11:50.167'
+      start:
+        sec: '704.402'
+        mark: '00:11:44.402'
+      end:
+        sec: '710.167'
+        mark: '00:11:50.167'
       u: "...and then, at nine o’clock, feet-washing and lay down to sleep."
     - who: David Boder
-      start: '00:11:50.167'
-      end: '00:11:54.181'
+      start:
+        sec: '710.167'
+        mark: '00:11:50.167'
+      end:
+        sec: '714.181'
+        mark: '00:11:54.181'
       u: Feet-washing. Were you given water and soap for that purpose?
     - who: Samuel Isakovitch
-      start: '00:11:54.181'
-      end: '00:11:56.958'
+      start:
+        sec: '714.181'
+        mark: '00:11:54.181'
+      end:
+        sec: '716.958'
+        mark: '00:11:56.958'
       u: One received soap and water.
     - who: David Boder
-      start: '00:11:56.958'
-      end: '00:11:57.441'
+      start:
+        sec: '716.958'
+        mark: '00:11:56.958'
+      end:
+        sec: '717.441'
+        mark: '00:11:57.441'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:11:57.441'
-      end: '00:11:58.105'
+      start:
+        sec: '717.441'
+        mark: '00:11:57.441'
+      end:
+        sec: '718.105'
+        mark: '00:11:58.105'
       u: Yes.
     - who: David Boder
-      start: '00:11:58.105'
-      end: '00:12:02.202'
+      start:
+        sec: '718.105'
+        mark: '00:11:58.105'
+      end:
+        sec: '722.202'
+        mark: '00:12:02.202'
       u: And the soup. Did everyone have a plate for himself?
     - who: Samuel Isakovitch
-      start: '00:12:02.202'
-      end: '00:12:10.441'
+      start:
+        sec: '722.202'
+        mark: '00:12:02.202'
+      end:
+        sec: '730.441'
+        mark: '00:12:10.441'
       u: Yes...as we stood in line, when one finished eating, the other got it. He
         took from the other one the...the plate and then...he ate.
     - who: David Boder
-      start: '00:12:10.441'
-      end: '00:12:12.222'
+      start:
+        sec: '730.441'
+        mark: '00:12:10.441'
+      end:
+        sec: '732.222'
+        mark: '00:12:12.222'
       u: So everyone did not have a plate of his own?
     - who: Samuel Isakovitch
-      start: '00:12:12.222'
-      end: '00:12:17.142'
+      start:
+        sec: '732.222'
+        mark: '00:12:12.222'
+      end:
+        sec: '737.142'
+        mark: '00:12:17.142'
       u: No. To a ‘block’ there were maybe forty plates...
     - who: David Boder
-      start: '00:12:17.142'
-      end: '00:12:17.715'
+      start:
+        sec: '737.142'
+        mark: '00:12:17.142'
+      end:
+        sec: '737.715'
+        mark: '00:12:17.715'
       u: Yes, so?
     - who: Samuel Isakovitch
-      start: '00:12:17.715'
-      end: '00:12:21.427'
+      start:
+        sec: '737.715'
+        mark: '00:12:17.715'
+      end:
+        sec: '741.427'
+        mark: '00:12:21.427'
       u: "...and from these forty, the other two, three hundred ate."
     - who: David Boder
-      start: '00:12:21.427'
-      end: '00:12:22.996'
+      start:
+        sec: '741.427'
+        mark: '00:12:21.427'
+      end:
+        sec: '742.996'
+        mark: '00:12:22.996'
       u: Did they wash the plates?
     - who: Samuel Isakovitch
-      start: '00:12:22.996'
-      end: '00:12:32.141'
+      start:
+        sec: '742.996'
+        mark: '00:12:22.996'
+      end:
+        sec: '752.141'
+        mark: '00:12:32.141'
       u: Who...who would do it? Nothing was washed. Everyone in line wanted to eat
         quickly...one had to hurry.
     - who: David Boder
-      start: '00:12:32.141'
-      end: '00:12:41.050'
+      start:
+        sec: '752.141'
+        mark: '00:12:32.141'
+      end:
+        sec: '761.050'
+        mark: '00:12:41.050'
       u: Yes. Nu, tell me this. And then, in the evening, did they allow you to talk
         to one another?
     - who: Samuel Isakovitch
-      start: '00:12:41.050'
-      end: '00:12:51.765'
+      start:
+        sec: '761.050'
+        mark: '00:12:41.050'
+      end:
+        sec: '771.765'
+        mark: '00:12:51.765'
       u: One could...it was permitted...by the time we had washed our feet, we already
         had to go to sleep. There was ‘foot control’...
     - who: David Boder
-      start: '00:12:51.765'
-      end: '00:12:53.607'
+      start:
+        sec: '771.765'
+        mark: '00:12:51.765'
+      end:
+        sec: '773.607'
+        mark: '00:12:53.607'
       u: What...what was the ‘foot control’?
     - who: Samuel Isakovitch
-      start: '00:12:53.607'
-      end: '00:12:56.841'
+      start:
+        sec: '773.607'
+        mark: '00:12:53.607'
+      end:
+        sec: '776.841'
+        mark: '00:12:56.841'
       u: The feet were looked over [as to]whether they were clean.
     - who: David Boder
-      start: '00:12:56.841'
-      end: '00:12:59.679'
+      start:
+        sec: '776.841'
+        mark: '00:12:56.841'
+      end:
+        sec: '779.679'
+        mark: '00:12:59.679'
       u: Why did they bother so much about the feet and not about ‘the rest’?
     - who: Samuel Isakovitch
-      start: '00:12:59.679'
-      end: '00:13:06.572'
+      start:
+        sec: '779.679'
+        mark: '00:12:59.679'
+      end:
+        sec: '786.572'
+        mark: '00:13:06.572'
       u: Everything was looked over, but in the evening, the feet were checked whether
         they are clean...whether they don’t stink.
     - who: David Boder
-      start: '00:13:06.572'
-      end: '00:13:12.789'
+      start:
+        sec: '786.572'
+        mark: '00:13:06.572'
+      end:
+        sec: '792.789'
+        mark: '00:13:12.789'
       u: Oh! And how did you sleep? What did you sleep on?
     - who: Samuel Isakovitch
-      start: '00:13:12.789'
-      end: '00:13:15.092'
+      start:
+        sec: '792.789'
+        mark: '00:13:12.789'
+      end:
+        sec: '795.092'
+        mark: '00:13:15.092'
       u: We slept on a plank bed, on boards.
     - who: David Boder
-      start: '00:13:15.092'
-      end: '00:13:18.593'
+      start:
+        sec: '795.092'
+        mark: '00:13:15.092'
+      end:
+        sec: '798.593'
+        mark: '00:13:18.593'
       u: Ah. And how close was one to another?
     - who: Samuel Isakovitch
-      start: '00:13:18.593'
-      end: '00:13:25.655'
+      start:
+        sec: '798.593'
+        mark: '00:13:18.593'
+      end:
+        sec: '805.655'
+        mark: '00:13:25.655'
       u: We were together...pushed together...one centimeter one from another...everybody
         together; squeezed together like herrings.
     - who: David Boder
-      start: '00:13:25.655'
-      end: '00:13:28.944'
+      start:
+        sec: '805.655'
+        mark: '00:13:25.655'
+      end:
+        sec: '808.944'
+        mark: '00:13:28.944'
       u: O.K. Did you have blankets to cover yourselves?
     - who: Samuel Isakovitch
-      start: '00:13:28.944'
-      end: '00:13:31.570'
+      start:
+        sec: '808.944'
+        mark: '00:13:28.944'
+      end:
+        sec: '811.570'
+        mark: '00:13:31.570'
       u: We were given a blanket for two people.
     - who: David Boder
-      start: '00:13:31.570'
-      end: '00:13:33.049'
+      start:
+        sec: '811.570'
+        mark: '00:13:31.570'
+      end:
+        sec: '813.049'
+        mark: '00:13:33.049'
       u: Oh! You were given for two people...
     - who: Samuel Isakovitch
-      start: '00:13:33.049'
-      end: '00:13:33.984'
+      start:
+        sec: '813.049'
+        mark: '00:13:33.049'
+      end:
+        sec: '813.984'
+        mark: '00:13:33.984'
       u: For two people, one blanket.
     - who: David Boder
-      start: '00:13:33.984'
-      end: '00:13:36.640'
+      start:
+        sec: '813.984'
+        mark: '00:13:33.984'
+      end:
+        sec: '816.640'
+        mark: '00:13:36.640'
       u: So, you...you slept practically together.
     - who: Samuel Isakovitch
-      start: '00:13:36.640'
-      end: '00:13:39.990'
+      start:
+        sec: '816.640'
+        mark: '00:13:36.640'
+      end:
+        sec: '819.990'
+        mark: '00:13:39.990'
       u: Yes. [We] slept together.
     - who: David Boder
-      start: '00:13:39.990'
-      end: '00:13:42.012'
+      start:
+        sec: '819.990'
+        mark: '00:13:39.990'
+      end:
+        sec: '822.012'
+        mark: '00:13:42.012'
       u: And how long were you in this lager?
     - who: Samuel Isakovitch
-      start: '00:13:42.012'
-      end: '00:13:46.600'
+      start:
+        sec: '822.012'
+        mark: '00:13:42.012'
+      end:
+        sec: '826.600'
+        mark: '00:13:46.600'
       u: Until...until the year forty-four, in May.
     - who: David Boder
-      start: '00:13:46.600'
-      end: '00:13:50.644'
+      start:
+        sec: '826.600'
+        mark: '00:13:46.600'
+      end:
+        sec: '830.644'
+        mark: '00:13:50.644'
       u: Aha. And what happened then? What was the name of this lager?
     - who: Samuel Isakovitch
-      start: '00:13:50.644'
-      end: '00:13:51.489'
+      start:
+        sec: '830.644'
+        mark: '00:13:50.644'
+      end:
+        sec: '831.489'
+        mark: '00:13:51.489'
       u: Posen.
     - who: David Boder
-      start: '00:13:51.489'
-      end: '00:13:53.511'
+      start:
+        sec: '831.489'
+        mark: '00:13:51.489'
+      end:
+        sec: '833.511'
+        mark: '00:13:53.511'
       u: Posen. And what happened then?
     - who: Samuel Isakovitch
-      start: '00:13:53.511'
-      end: '00:14:00.905'
+      start:
+        sec: '833.511'
+        mark: '00:13:53.511'
+      end:
+        sec: '840.905'
+        mark: '00:14:00.905'
       u: Then we went away to Auschwitz. The camp was disabanded, and we were taken
         to Auschwitz
     - who: David Boder
-      start: '00:14:00.905'
-      end: '00:14:01.962'
+      start:
+        sec: '840.905'
+        mark: '00:14:00.905'
+      end:
+        sec: '841.962'
+        mark: '00:14:01.962'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:14:01.962'
-      end: '00:14:19.168'
+      start:
+        sec: '841.962'
+        mark: '00:14:01.962'
+      end:
+        sec: '859.168'
+        mark: '00:14:19.168'
       u: In Auschwitz we came to Birkenau. There they made the ‘selections’. Who was
         good, who was able to work and was healthy, he went to work to the coal mines
         in Janina. And who wasn’t, he was taken away because he wasn’t able to work.
     - who: David Boder
-      start: '00:14:19.168'
-      end: '00:14:20.617'
+      start:
+        sec: '859.168'
+        mark: '00:14:19.168'
+      end:
+        sec: '860.617'
+        mark: '00:14:20.617'
       u: And what was done with them?
     - who: Samuel Isakovitch
-      start: '00:14:20.617'
-      end: '00:14:39.377'
+      start:
+        sec: '860.617'
+        mark: '00:14:20.617'
+      end:
+        sec: '879.377'
+        mark: '00:14:39.377'
       u: They went into the crematory. [Pause.] I went away to the coal mines in Janina.
         And in Janina the youngsters up to eighteen years, were taken out and taken
         to Monowitz—there to a rubber factory. We worked...
     - who: David Boder
-      start: '00:14:39.377'
-      end: '00:14:41.772'
+      start:
+        sec: '879.377'
+        mark: '00:14:39.377'
+      end:
+        sec: '881.772'
+        mark: '00:14:41.772'
       u: These were the ones under eighteen years...
     - who: Samuel Isakovitch
-      start: '00:14:41.772'
-      end: '00:14:42.547'
+      start:
+        sec: '881.772'
+        mark: '00:14:41.772'
+      end:
+        sec: '882.547'
+        mark: '00:14:42.547'
       u: Yes.
     - who: David Boder
-      start: '00:14:42.547'
-      end: '00:14:43.976'
+      start:
+        sec: '882.547'
+        mark: '00:14:42.547'
+      end:
+        sec: '883.976'
+        mark: '00:14:43.976'
       u: "...were taken to the..."
     - who: Samuel Isakovitch
-      start: '00:14:43.976'
-      end: '00:14:51.582'
+      start:
+        sec: '883.976'
+        mark: '00:14:43.976'
+      end:
+        sec: '891.582'
+        mark: '00:14:51.582'
       u: Where taken to the rubber factory in Monowitz. [Pause].
     - who: David Boder
-      start: '00:14:51.582'
-      end: '00:14:54.359'
+      start:
+        sec: '891.582'
+        mark: '00:14:51.582'
+      end:
+        sec: '894.359'
+        mark: '00:14:54.359'
       u: Yes. So, then you were in Monowitz in the rubber factory?
     - who: Samuel Isakovitch
-      start: '00:14:54.359'
-      end: '00:14:55.446'
+      start:
+        sec: '894.359'
+        mark: '00:14:54.359'
+      end:
+        sec: '895.446'
+        mark: '00:14:55.446'
       u: Yes.
     - who: David Boder
-      start: '00:14:55.446'
-      end: '00:14:55.786'
+      start:
+        sec: '895.446'
+        mark: '00:14:55.446'
+      end:
+        sec: '895.786'
+        mark: '00:14:55.786'
       u: And the...
     - who: Samuel Isakovitch
-      start: '00:14:55.786'
-      end: '00:14:56.502'
+      start:
+        sec: '895.786'
+        mark: '00:14:55.786'
+      end:
+        sec: '896.502'
+        mark: '00:14:56.502'
       u: Work...
     - who: David Boder
-      start: '00:14:56.502'
-      end: '00:14:56.985'
+      start:
+        sec: '896.502'
+        mark: '00:14:56.502'
+      end:
+        sec: '896.985'
+        mark: '00:14:56.985'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:14:56.985'
-      end: '00:15:08.731'
+      start:
+        sec: '896.985'
+        mark: '00:14:56.985'
+      end:
+        sec: '908.731'
+        mark: '00:15:08.731'
       u: We worked in Monowitz in the rubber factory...we worked until the year forty-five,
         up to January the eighteenth. January the eighteenth...
     - who: David Boder
-      start: '00:15:08.731'
-      end: '00:15:09.747'
+      start:
+        sec: '908.731'
+        mark: '00:15:08.731'
+      end:
+        sec: '909.747'
+        mark: '00:15:09.747'
       u: January the eighteenth.
     - who: Samuel Isakovitch
-      start: '00:15:09.747'
-      end: '00:15:17.383'
+      start:
+        sec: '909.747'
+        mark: '00:15:09.747'
+      end:
+        sec: '917.383'
+        mark: '00:15:17.383'
       u: Yes. January the eighteenth we were taken away...we were evacuated to the
         Concentration Camp Buchenwald?
     - who: David Boder
-      start: '00:15:17.383'
-      end: '00:15:19.586'
+      start:
+        sec: '917.383'
+        mark: '00:15:17.383'
+      end:
+        sec: '919.586'
+        mark: '00:15:19.586'
       u: Oh! Were you in Buchenwald?
     - who: Samuel Isakovitch
-      start: '00:15:19.586'
-      end: '00:15:19.858'
+      start:
+        sec: '919.586'
+        mark: '00:15:19.586'
+      end:
+        sec: '919.858'
+        mark: '00:15:19.858'
       u: Yes.
     - who: David Boder
-      start: '00:15:19.858'
-      end: '00:15:22.420'
+      start:
+        sec: '919.858'
+        mark: '00:15:19.858'
+      end:
+        sec: '922.420'
+        mark: '00:15:22.420'
       u: Tell me a little about Buchenwald.
     - who: Samuel Isakovitch
-      start: '00:15:22.420'
-      end: '00:15:26.649'
+      start:
+        sec: '922.420'
+        mark: '00:15:22.420'
+      end:
+        sec: '926.649'
+        mark: '00:15:26.649'
       u: We arrived in Buchenwald in January...
     - who: David Boder
-      start: '00:15:26.649'
-      end: '00:15:27.373'
+      start:
+        sec: '926.649'
+        mark: '00:15:26.649'
+      end:
+        sec: '927.373'
+        mark: '00:15:27.373'
       u: "...in January."
     - who: Samuel Isakovitch
-      start: '00:15:27.373'
-      end: '00:15:35.703'
+      start:
+        sec: '927.373'
+        mark: '00:15:27.373'
+      end:
+        sec: '935.703'
+        mark: '00:15:35.703'
       u: "...in January. And then we were taken and first of all everybody was disinfected."
     - who: David Boder
-      start: '00:15:35.703'
-      end: '00:15:35.975'
+      start:
+        sec: '935.703'
+        mark: '00:15:35.703'
+      end:
+        sec: '935.975'
+        mark: '00:15:35.975'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:15:35.975'
-      end: '00:15:59.112'
+      start:
+        sec: '935.975'
+        mark: '00:15:35.975'
+      end:
+        sec: '959.112'
+        mark: '00:15:59.112'
       u: At the time of disinfection, we had come from Auschwitz to...to Buchenwald.
         It took us twelve days. Three quarters had died from hunger. And we remained,
         from fourteen thousand, we only remained two-thousand eight hundred men, exactly.
         Because, I know precisely the numbers...there we were given numbers...everybody
         received a number...
     - who: David Boder
-      start: '00:15:59.112'
-      end: '00:15:59.384'
+      start:
+        sec: '959.112'
+        mark: '00:15:59.112'
+      end:
+        sec: '959.384'
+        mark: '00:15:59.384'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:15:59.384'
-      end: '00:16:04.364'
+      start:
+        sec: '959.384'
+        mark: '00:15:59.384'
+      end:
+        sec: '964.364'
+        mark: '00:16:04.364'
       u: "...it was [starting] from a hundred and twenty thousand to a hundred twenty-two
         thousand eight hundred."
     - who: David Boder
-      start: '00:16:04.364'
-      end: '00:16:04.756'
+      start:
+        sec: '964.364'
+        mark: '00:16:04.364'
+      end:
+        sec: '964.756'
+        mark: '00:16:04.756'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:16:04.756'
-      end: '00:16:27.185'
+      start:
+        sec: '964.756'
+        mark: '00:16:04.756'
+      end:
+        sec: '987.185'
+        mark: '00:16:27.185'
       u: I know that exactly two thousand eight hundred have remained from our transport
         out of fourteen thousand people. The others were murdered...shot...in Slovakia...shot,
         and starved to death, and they were murdered...Then we came to Buchenwald.
         We were taken into the disinfection [hall], and there a quarter was murdered.
     - who: David Boder
-      start: '00:16:27.185'
-      end: '00:16:28.513'
+      start:
+        sec: '987.185'
+        mark: '00:16:27.185'
+      end:
+        sec: '988.513'
+        mark: '00:16:28.513'
       u: What does it mean, ‘they were murdered’?
     - who: Samuel Isakovitch
-      start: '00:16:28.513'
-      end: '00:17:15.032'
+      start:
+        sec: '988.513'
+        mark: '00:16:28.513'
+      end:
+        sec: '1035.032'
+        mark: '00:17:15.032'
       u: They were taken into...the disinfection [chamber]. So they started...were
         dirty...so they rubbed so long till...they began to clip off the hair with
         machines...from all over...so long...we undressed...we were like the flies...food
@@ -1393,191 +2677,371 @@ recording:
         or anything they could...when they were going to school...and on this we endured
         a little...and snow helped...
     - who: David Boder
-      start: '00:17:15.032'
-      end: '00:17:15.998'
+      start:
+        sec: '1035.032'
+        mark: '00:17:15.032'
+      end:
+        sec: '1035.998'
+        mark: '00:17:15.998'
       u: What about the snow?
     - who: Samuel Isakovitch
-      start: '00:17:15.998'
-      end: '00:17:17.266'
+      start:
+        sec: '1035.998'
+        mark: '00:17:15.998'
+      end:
+        sec: '1037.266'
+        mark: '00:17:17.266'
       u: Snow....we ate the snow.
     - who: David Boder
-      start: '00:17:17.266'
-      end: '00:17:17.991'
+      start:
+        sec: '1037.266'
+        mark: '00:17:17.266'
+      end:
+        sec: '1037.991'
+        mark: '00:17:17.991'
       u: The white snow.
     - who: David Boder
-      start: '00:17:17.991'
-      end: '00:17:19.439'
+      start:
+        sec: '1037.991'
+        mark: '00:17:17.991'
+      end:
+        sec: '1039.439'
+        mark: '00:17:19.439'
       u: Oh, it was cold then?
     - who: Samuel Isakovitch
-      start: '00:17:19.439'
-      end: '00:17:19.862'
+      start:
+        sec: '1039.439'
+        mark: '00:17:19.439'
+      end:
+        sec: '1039.862'
+        mark: '00:17:19.862'
       u: Yes.
     - who: David Boder
-      start: '00:17:19.862'
-      end: '00:17:21.970'
+      start:
+        sec: '1039.862'
+        mark: '00:17:19.862'
+      end:
+        sec: '1041.970'
+        mark: '00:17:21.970'
       u: Oh. That one ate for water?
     - who: Samuel Isakovitch
-      start: '00:17:21.970'
-      end: '00:17:26.920'
+      start:
+        sec: '1041.970'
+        mark: '00:17:21.970'
+      end:
+        sec: '1046.920'
+        mark: '00:17:26.920'
       u: It was eaten for bread and for water...for anything...we ate it from hunger.
     - who: David Boder
-      start: '00:17:26.920'
-      end: '00:17:27.222'
+      start:
+        sec: '1046.920'
+        mark: '00:17:26.920'
+      end:
+        sec: '1047.222'
+        mark: '00:17:27.222'
       u: Nu?
     - who: Samuel Isakovitch
-      start: '00:17:27.222'
-      end: '00:17:32.836'
+      start:
+        sec: '1047.222'
+        mark: '00:17:27.222'
+      end:
+        sec: '1052.836'
+        mark: '00:17:32.836'
       u: We didn’t have anything else to eat. The RR-cars were full of the dead...with
         the dead people...
     - who: David Boder
-      start: '00:17:32.836'
-      end: '00:17:36.609'
+      start:
+        sec: '1052.836'
+        mark: '00:17:32.836'
+      end:
+        sec: '1056.609'
+        mark: '00:17:36.609'
       u: Tell me, what does it mean dead...died of hunger...eh...
     - who: Samuel Isakovitch
-      start: '00:17:36.609'
-      end: '00:17:37.394'
+      start:
+        sec: '1056.609'
+        mark: '00:17:36.609'
+      end:
+        sec: '1057.394'
+        mark: '00:17:37.394'
       u: From hunger, yes.
     - who: David Boder
-      start: '00:17:37.394'
-      end: '00:17:41.551'
+      start:
+        sec: '1057.394'
+        mark: '00:17:37.394'
+      end:
+        sec: '1061.551'
+        mark: '00:17:41.551'
       u: A man really...simply died...?
     - who: Samuel Isakovitch
-      start: '00:17:41.551'
-      end: '00:17:43.310'
+      start:
+        sec: '1061.551'
+        mark: '00:17:41.551'
+      end:
+        sec: '1063.310'
+        mark: '00:17:43.310'
       u: He simply died...one simply murdered the other!
     - who: David Boder
-      start: '00:17:43.310'
-      end: '00:17:44.849'
+      start:
+        sec: '1063.310'
+        mark: '00:17:43.310'
+      end:
+        sec: '1064.849'
+        mark: '00:17:44.849'
       u: Why did you murder one another?
     - who: Samuel Isakovitch
-      start: '00:17:44.849'
-      end: '00:17:49.083'
+      start:
+        sec: '1064.849'
+        mark: '00:17:44.849'
+      end:
+        sec: '1069.083'
+        mark: '00:17:49.083'
       u: One another...so that...we took. One was hungry...
     - who: David Boder
-      start: '00:17:49.083'
-      end: '00:17:49.153'
+      start:
+        sec: '1069.083'
+        mark: '00:17:49.083'
+      end:
+        sec: '1069.153'
+        mark: '00:17:49.153'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:17:49.153'
-      end: '00:17:53.227'
+      start:
+        sec: '1069.153'
+        mark: '00:17:49.153'
+      end:
+        sec: '1073.227'
+        mark: '00:17:53.227'
       u: "...the oth-...we couldn’t go out from the RR-cars because you were immediately
         shot..."
     - who: David Boder
-      start: '00:17:53.227'
-      end: '00:17:53.559'
+      start:
+        sec: '1073.227'
+        mark: '00:17:53.227'
+      end:
+        sec: '1073.559'
+        mark: '00:17:53.559'
       u: Nu?
     - who: Samuel Isakovitch
-      start: '00:17:53.559'
-      end: '00:17:56.939'
+      start:
+        sec: '1073.559'
+        mark: '00:17:53.559'
+      end:
+        sec: '1076.939'
+        mark: '00:17:56.939'
       u: "...and somebody saw there was a little snow...Snow was falling..."
     - who: David Boder
-      start: '00:17:56.939'
-      end: '00:17:57.140'
+      start:
+        sec: '1076.939'
+        mark: '00:17:56.939'
+      end:
+        sec: '1077.140'
+        mark: '00:17:57.140'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:17:57.140'
-      end: '00:18:07.680'
+      start:
+        sec: '1077.140'
+        mark: '00:17:57.140'
+      end:
+        sec: '1087.680'
+        mark: '00:18:07.680'
       u: "...on the sides of the RR-cars. We took off a little snow with the hands...and
         the other person saw it. So he wanted to take away the little snow so he could
         eat it. Then he took his wooden shoe off his foot..."
     - who: David Boder
-      start: '00:18:07.680'
-      end: '00:18:07.830'
+      start:
+        sec: '1087.680'
+        mark: '00:18:07.680'
+      end:
+        sec: '1087.830'
+        mark: '00:18:07.830'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:18:07.830'
-      end: '00:18:15.375'
+      start:
+        sec: '1087.830'
+        mark: '00:18:07.830'
+      end:
+        sec: '1095.375'
+        mark: '00:18:15.375'
       u: "...he gave it to him right over the head. He gave it to him over the head...he
         fell down...he was trambled on...he never used to get up any more."
     - who: David Boder
-      start: '00:18:15.375'
-      end: '00:18:16.371'
+      start:
+        sec: '1095.375'
+        mark: '00:18:15.375'
+      end:
+        sec: '1096.371'
+        mark: '00:18:16.371'
       u: One to the other?
     - who: Samuel Isakovitch
-      start: '00:18:16.371'
-      end: '00:18:32.657'
+      start:
+        sec: '1096.371'
+        mark: '00:18:16.371'
+      end:
+        sec: '1112.657'
+        mark: '00:18:32.657'
       u: |-
         Yes, one to the other. So, there remained...a half of the RR-car were dead. We were a hundred and sixty-five men in a RR-car. We were a hundred and sixty-five persons to a RR-car. We were embarked in Gleiwitz. In the lager
                                 Gleiwitz we were embarked one hundred sixty-five people to a RR-car.
     - who: David Boder
-      start: '00:18:32.657'
-      end: '00:18:34.528'
+      start:
+        sec: '1112.657'
+        mark: '00:18:32.657'
+      end:
+        sec: '1114.528'
+        mark: '00:18:34.528'
       u: What kind of RR-cars were they?
     - who: Samuel Isakovitch
-      start: '00:18:34.528'
-      end: '00:18:35.765'
+      start:
+        sec: '1114.528'
+        mark: '00:18:34.528'
+      end:
+        sec: '1115.765'
+        mark: '00:18:35.765'
       u: Open ones.
     - who: David Boder
-      start: '00:18:35.765'
-      end: '00:18:37.395'
+      start:
+        sec: '1115.765'
+        mark: '00:18:35.765'
+      end:
+        sec: '1117.395'
+        mark: '00:18:37.395'
       u: Open ones? What do you mean by open RR-cars?
     - who: Samuel Isakovitch
-      start: '00:18:37.395'
-      end: '00:18:38.542'
+      start:
+        sec: '1117.395'
+        mark: '00:18:37.395'
+      end:
+        sec: '1118.542'
+        mark: '00:18:38.542'
       u: Completely open.
     - who: David Boder
-      start: '00:18:38.542'
-      end: '00:18:39.176'
+      start:
+        sec: '1118.542'
+        mark: '00:18:38.542'
+      end:
+        sec: '1119.176'
+        mark: '00:18:39.176'
       u: No roof?
     - who: Samuel Isakovitch
-      start: '00:18:39.176'
-      end: '00:18:40.323'
+      start:
+        sec: '1119.176'
+        mark: '00:18:39.176'
+      end:
+        sec: '1120.323'
+        mark: '00:18:40.323'
       u: No roof.
     - who: David Boder
-      start: '00:18:40.323'
-      end: '00:18:44.397'
+      start:
+        sec: '1120.323'
+        mark: '00:18:40.323'
+      end:
+        sec: '1124.397'
+        mark: '00:18:44.397'
       u: Oh, they were the railroad cars used for transportation of lumber and machinery.
     - who: Samuel Isakovitch
-      start: '00:18:44.397'
-      end: '00:18:45.333'
+      start:
+        sec: '1124.397'
+        mark: '00:18:44.397'
+      end:
+        sec: '1125.333'
+        mark: '00:18:45.333'
       u: Lumber...on these...
     - who: David Boder
-      start: '00:18:45.333'
-      end: '00:18:48.562'
+      start:
+        sec: '1125.333'
+        mark: '00:18:45.333'
+      end:
+        sec: '1128.562'
+        mark: '00:18:48.562'
       u: So how did people stand on the railroad cars while the train was in motion?
     - who: Samuel Isakovitch
-      start: '00:18:48.562'
-      end: '00:18:50.856'
+      start:
+        sec: '1128.562'
+        mark: '00:18:48.562'
+      end:
+        sec: '1130.856'
+        mark: '00:18:50.856'
       u: That’s how they stood.
     - who: David Boder
-      start: '00:18:50.856'
-      end: '00:18:52.059'
+      start:
+        sec: '1130.856'
+        mark: '00:18:50.856'
+      end:
+        sec: '1132.059'
+        mark: '00:18:52.059'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:18:52.059'
-      end: '00:18:53.266'
+      start:
+        sec: '1132.059'
+        mark: '00:18:52.059'
+      end:
+        sec: '1133.266'
+        mark: '00:18:53.266'
       u: That’s how they stood.
     - who: David Boder
-      start: '00:18:53.266'
-      end: '00:18:55.831'
+      start:
+        sec: '1133.266'
+        mark: '00:18:53.266'
+      end:
+        sec: '1135.831'
+        mark: '00:18:55.831'
       u: And this was where? This was already in Buch-...No?
     - who: Samuel Isakovitch
-      start: '00:18:55.831'
-      end: '00:18:58.668'
+      start:
+        sec: '1135.831'
+        mark: '00:18:55.831'
+      end:
+        sec: '1138.668'
+        mark: '00:18:58.668'
       u: No. From Auschwitz to Buchenwald, when we were taken...evacuated...
     - who: David Boder
-      start: '00:18:58.668'
-      end: '00:18:59.121'
+      start:
+        sec: '1138.668'
+        mark: '00:18:58.668'
+      end:
+        sec: '1139.121'
+        mark: '00:18:59.121'
       u: Uh-huh.
     - who: Samuel Isakovitch
-      start: '00:18:59.121'
-      end: '00:19:00.419'
+      start:
+        sec: '1139.121'
+        mark: '00:18:59.121'
+      end:
+        sec: '1140.419'
+        mark: '00:19:00.419'
       u: "...from Auschwitz to Buchenwald."
     - who: David Boder
-      start: '00:19:00.419'
-      end: '00:19:03.028'
+      start:
+        sec: '1140.419'
+        mark: '00:19:00.419'
+      end:
+        sec: '1143.028'
+        mark: '00:19:03.028'
       u: Nu, and in Buchenwald, you tell me, they began to clip...
     - who: Samuel Isakovitch
-      start: '00:19:03.028'
-      end: '00:19:03.390'
+      start:
+        sec: '1143.028'
+        mark: '00:19:03.028'
+      end:
+        sec: '1143.390'
+        mark: '00:19:03.390'
       u: Began...
     - who: David Boder
-      start: '00:19:03.390'
-      end: '00:19:04.024'
+      start:
+        sec: '1143.390'
+        mark: '00:19:03.390'
+      end:
+        sec: '1144.024'
+        mark: '00:19:04.024'
       u: "...your hair..."
     - who: Samuel Isakovitch
-      start: '00:19:04.024'
-      end: '00:19:33.061'
+      start:
+        sec: '1144.024'
+        mark: '00:19:04.024'
+      end:
+        sec: '1173.061'
+        mark: '00:19:33.061'
       u: The hair...there, when we came in, we hadn’t eaten for six days and then,
         when we came in there, until the names were written down, until everybody’s
         index card was made out. It also took three days till we entered the blocks...and
@@ -1585,28 +3049,52 @@ recording:
         wooden shoes...and cold...it was so cold that nobody could...a person couldn’t...a
         person soon froze.
     - who: David Boder
-      start: '00:19:33.061'
-      end: '00:19:34.238'
+      start:
+        sec: '1173.061'
+        mark: '00:19:33.061'
+      end:
+        sec: '1174.238'
+        mark: '00:19:34.238'
       u: Which month was it in?
     - who: Samuel Isakovitch
-      start: '00:19:34.238'
-      end: '00:19:34.993'
+      start:
+        sec: '1174.238'
+        mark: '00:19:34.238'
+      end:
+        sec: '1174.993'
+        mark: '00:19:34.993'
       u: In January.
     - who: David Boder
-      start: '00:19:34.993'
-      end: '00:19:35.597'
+      start:
+        sec: '1174.993'
+        mark: '00:19:34.993'
+      end:
+        sec: '1175.597'
+        mark: '00:19:35.597'
       u: In January.
     - who: Samuel Isakovitch
-      start: '00:19:35.597'
-      end: '00:19:36.201'
+      start:
+        sec: '1175.597'
+        mark: '00:19:35.597'
+      end:
+        sec: '1176.201'
+        mark: '00:19:36.201'
       u: In January.
     - who: David Boder
-      start: '00:19:36.201'
-      end: '00:19:36.834'
+      start:
+        sec: '1176.201'
+        mark: '00:19:36.201'
+      end:
+        sec: '1176.834'
+        mark: '00:19:36.834'
       u: Now then...
     - who: Samuel Isakovitch
-      start: '00:19:36.834'
-      end: '00:20:14.292'
+      start:
+        sec: '1176.834'
+        mark: '00:19:36.834'
+      end:
+        sec: '1214.292'
+        mark: '00:20:14.292'
       u: And when one came out after bathing...he went outside improperly dressed
         in only...he only had something like a shirt...nothing...and when he stepped
         outside he immediately caught col...froze up, and remained lying outside near
@@ -1615,272 +3103,512 @@ recording:
         Then in the morning we went out for appell...and we were given once a day
         to eat...we were given at twelve o’clock in the Kino of the quarantine...
     - who: David Boder
-      start: '00:20:14.292'
-      end: '00:20:15.560'
+      start:
+        sec: '1214.292'
+        mark: '00:20:14.292'
+      end:
+        sec: '1215.560'
+        mark: '00:20:15.560'
       u: What is a Kino? [The word appeard far out of context, hence the question.]
     - who: Samuel Isakovitch
-      start: '00:20:15.560'
-      end: '00:20:16.707'
+      start:
+        sec: '1215.560'
+        mark: '00:20:15.560'
+      end:
+        sec: '1216.707'
+        mark: '00:20:16.707'
       u: There was a Kino...
     - who: David Boder
-      start: '00:20:16.707'
-      end: '00:20:16.948'
+      start:
+        sec: '1216.707'
+        mark: '00:20:16.707'
+      end:
+        sec: '1216.948'
+        mark: '00:20:16.948'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:20:16.948'
-      end: '00:20:18.233'
+      start:
+        sec: '1216.948'
+        mark: '00:20:16.948'
+      end:
+        sec: '1218.233'
+        mark: '00:20:18.233'
       u: in the quarantine...
     - who: David Boder
-      start: '00:20:18.233'
-      end: '00:20:18.374'
+      start:
+        sec: '1218.233'
+        mark: '00:20:18.233'
+      end:
+        sec: '1218.374'
+        mark: '00:20:18.374'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:20:18.374'
-      end: '00:20:21.302'
+      start:
+        sec: '1218.374'
+        mark: '00:20:18.374'
+      end:
+        sec: '1221.302'
+        mark: '00:20:21.302'
       u: "...there in Buchenwald...and..."
     - who: David Boder
-      start: '00:20:21.302'
-      end: '00:20:22.992'
+      start:
+        sec: '1221.302'
+        mark: '00:20:21.302'
+      end:
+        sec: '1222.992'
+        mark: '00:20:22.992'
       u: What did you call a Kino?
     - who: Samuel Isakovitch
-      start: '00:20:22.992'
-      end: '00:20:27.066'
+      start:
+        sec: '1222.992'
+        mark: '00:20:22.992'
+      end:
+        sec: '1227.066'
+        mark: '00:20:27.066'
       u: It was a Kino. There they dispensed the food...there was a Kino.
     - who: David Boder
-      start: '00:20:27.066'
-      end: '00:20:29.451'
+      start:
+        sec: '1227.066'
+        mark: '00:20:27.066'
+      end:
+        sec: '1229.451'
+        mark: '00:20:29.451'
       u: 'Oh, a Kino, a theater. [Footnote: The Kino was a large auditorium that had
         been used to show movies for the old-time political prisoners. It was located
         in the small lager called the ‘Quarantine’. At the time of Isakovitch’s arrival,
         the small lager was overcrowded and the movie house was used for dispensing
         the food rations to the newly arrived prisoners. B.W.]'
     - who: Samuel Isakovitch
-      start: '00:20:29.451'
-      end: '00:20:31.594'
+      start:
+        sec: '1229.451'
+        mark: '00:20:29.451'
+      end:
+        sec: '1231.594'
+        mark: '00:20:31.594'
       u: A theater...a barrack...
     - who: David Boder
-      start: '00:20:31.594'
-      end: '00:20:31.986'
+      start:
+        sec: '1231.594'
+        mark: '00:20:31.594'
+      end:
+        sec: '1231.986'
+        mark: '00:20:31.986'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:20:31.986'
-      end: '00:20:42.127'
+      start:
+        sec: '1231.986'
+        mark: '00:20:31.986'
+      end:
+        sec: '1242.127'
+        mark: '00:20:42.127'
       u: "...but it was only called so...and there was no food to be given to the
         people so they took them into the movie house... a line was formed in the
         morning from the appell square."
     - who: David Boder
-      start: '00:20:42.127'
-      end: '00:20:42.550'
+      start:
+        sec: '1242.127'
+        mark: '00:20:42.127'
+      end:
+        sec: '1242.550'
+        mark: '00:20:42.550'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:20:42.550'
-      end: '00:21:03.197'
+      start:
+        sec: '1242.550'
+        mark: '00:20:42.550'
+      end:
+        sec: '1263.197'
+        mark: '00:21:03.197'
       u: "...and till the evening...till ten o’clock...till everybody finished their
         food. One person doled out the food. We received once a day a piece of bread
         with a little soup. A hundred seventeen...a hundred and seventy grams of bread
         and a little piece of margarine and a half liter of soup."
     - who: David Boder
-      start: '00:21:03.197'
-      end: '00:21:05.581'
+      start:
+        sec: '1263.197'
+        mark: '00:21:03.197'
+      end:
+        sec: '1265.581'
+        mark: '00:21:05.581'
       u: Did one work in Buchenwald?
     - who: Samuel Isakovitch
-      start: '00:21:05.581'
-      end: '00:21:07.694'
+      start:
+        sec: '1265.581'
+        mark: '00:21:05.581'
+      end:
+        sec: '1267.694'
+        mark: '00:21:07.694'
       u: One worked in the stone-quarry.
     - who: David Boder
-      start: '00:21:07.694'
-      end: '00:21:09.263'
+      start:
+        sec: '1267.694'
+        mark: '00:21:07.694'
+      end:
+        sec: '1269.263'
+        mark: '00:21:09.263'
       u: What did they...
     - who: Samuel Isakovitch
-      start: '00:21:09.263'
-      end: '00:21:10.983'
+      start:
+        sec: '1269.263'
+        mark: '00:21:09.263'
+      end:
+        sec: '1270.983'
+        mark: '00:21:10.983'
       u: In the stone-quarries we worked.
     - who: David Boder
-      start: '00:21:10.983'
-      end: '00:21:13.397'
+      start:
+        sec: '1270.983'
+        mark: '00:21:10.983'
+      end:
+        sec: '1273.397'
+        mark: '00:21:13.397'
       u: What did one do? Carried out the stones?
     - who: Samuel Isakovitch
-      start: '00:21:13.397'
-      end: '00:21:19.463'
+      start:
+        sec: '1273.397'
+        mark: '00:21:13.397'
+      end:
+        sec: '1279.463'
+        mark: '00:21:19.463'
       u: Carried out the stones. We have...with the carts...with the wagons they were
         carried away...
     - who: David Boder
-      start: '00:21:19.463'
-      end: '00:21:19.994'
+      start:
+        sec: '1279.463'
+        mark: '00:21:19.463'
+      end:
+        sec: '1279.994'
+        mark: '00:21:19.994'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:21:19.994'
-      end: '00:21:30.044'
+      start:
+        sec: '1279.994'
+        mark: '00:21:19.994'
+      end:
+        sec: '1290.044'
+        mark: '00:21:30.044'
       u: Every day there remained in the stone quarry...every day ten, fifteen people...they
         were dead...they were murdered...in the quarry.
     - who: David Boder
-      start: '00:21:30.044'
-      end: '00:21:30.738'
+      start:
+        sec: '1290.044'
+        mark: '00:21:30.044'
+      end:
+        sec: '1290.738'
+        mark: '00:21:30.738'
       u: By whom?
     - who: Samuel Isakovitch
-      start: '00:21:30.738'
-      end: '00:21:35.627'
+      start:
+        sec: '1290.738'
+        mark: '00:21:30.738'
+      end:
+        sec: '1295.627'
+        mark: '00:21:35.627'
       u: The SS men...they couldn’t work; they were murdered in the quarries.
     - who: David Boder
-      start: '00:21:35.627'
-      end: '00:21:36.714'
+      start:
+        sec: '1295.627'
+        mark: '00:21:35.627'
+      end:
+        sec: '1296.714'
+        mark: '00:21:36.714'
       u: What, they were shot?
     - who: Samuel Isakovitch
-      start: '00:21:36.714'
-      end: '00:21:44.199'
+      start:
+        sec: '1296.714'
+        mark: '00:21:36.714'
+      end:
+        sec: '1304.199'
+        mark: '00:21:44.199'
       u: They were shot...if once it was said that one was of no use [no good], he
         was given a bullet in the head and left lying there.
     - who: David Boder
-      start: '00:21:44.199'
-      end: '00:21:45.618'
+      start:
+        sec: '1304.199'
+        mark: '00:21:44.199'
+      end:
+        sec: '1305.618'
+        mark: '00:21:45.618'
       u: And the...the others stood by?
     - who: Samuel Isakovitch
-      start: '00:21:45.618'
-      end: '00:21:47.489'
+      start:
+        sec: '1305.618'
+        mark: '00:21:45.618'
+      end:
+        sec: '1307.489'
+        mark: '00:21:47.489'
       u: And the others...were close by. Everybody was close by.
     - who: David Boder
-      start: '00:21:47.489'
-      end: '00:21:50.145'
+      start:
+        sec: '1307.489'
+        mark: '00:21:47.489'
+      end:
+        sec: '1310.145'
+        mark: '00:21:50.145'
       u: Did you see it yourself?
     - who: Samuel Isakovitch
-      start: '00:21:50.145'
-      end: '00:21:54.401'
+      start:
+        sec: '1310.145'
+        mark: '00:21:50.145'
+      end:
+        sec: '1314.401'
+        mark: '00:21:54.401'
       u: Sure. Everything I saw...we were there all together.
     - who: David Boder
-      start: '00:21:54.401'
-      end: '00:21:59.803'
+      start:
+        sec: '1314.401'
+        mark: '00:21:54.401'
+      end:
+        sec: '1319.803'
+        mark: '00:21:59.803'
       u: Tell me, but there were in Buchenwald...in Buchenwald others —there were
         Germans too...and...
     - who: Samuel Isakovitch
-      start: '00:21:59.803'
-      end: '00:22:18.862'
+      start:
+        sec: '1319.803'
+        mark: '00:21:59.803'
+      end:
+        sec: '1338.862'
+        mark: '00:22:18.862'
       u: 'Yes. Yes. But they were already old prisoners...they were the old criminals...they
         had been there already for fifteen, sixteen years [Footnote: His statements
         are somewhat confused as to time.]...old criminals...and bandits...and they
         were the capos and the block elders... They did everything...they even made...we
         were simple prisoners...we had just arrived from the other lagers.'
     - who: David Boder
-      start: '00:22:18.862'
-      end: '00:22:20.492'
+      start:
+        sec: '1338.862'
+        mark: '00:22:18.862'
+      end:
+        sec: '1340.492'
+        mark: '00:22:20.492'
       u: What do you mean by capos?
     - who: Samuel Isakovitch
-      start: '00:22:20.492'
-      end: '00:22:23.963'
+      start:
+        sec: '1340.492'
+        mark: '00:22:20.492'
+      end:
+        sec: '1343.963'
+        mark: '00:22:23.963'
       u: Capos were the overseers at work...
     - who: David Boder
-      start: '00:22:23.963'
-      end: '00:22:26.860'
+      start:
+        sec: '1343.963'
+        mark: '00:22:23.963'
+      end:
+        sec: '1346.860'
+        mark: '00:22:26.860'
       u: Hm. And they were what? Old criminals?
     - who: Samuel Isakovitch
-      start: '00:22:26.860'
-      end: '00:22:37.960'
+      start:
+        sec: '1346.860'
+        mark: '00:22:26.860'
+      end:
+        sec: '1357.960'
+        mark: '00:22:37.960'
       u: 'They were old criminals...and bandits...and people who had committed sabotage.
         They had been in for fifteen, sixteen years...[?][Footnote: His statements
         are somewhat confused as to time.] political prisoners who were already for
         fifteen, sixteen years in the lager.'
     - who: David Boder
-      start: '00:22:37.960'
-      end: '00:22:38.533'
+      start:
+        sec: '1357.960'
+        mark: '00:22:37.960'
+      end:
+        sec: '1358.533'
+        mark: '00:22:38.533'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:22:38.533'
-      end: '00:23:01.368'
+      start:
+        sec: '1358.533'
+        mark: '00:22:38.533'
+      end:
+        sec: '1381.368'
+        mark: '00:23:01.368'
       u: In concentration camps...they were the leaders. They murdered so. Much more
         than the SS men, than the ‘real’ Germans. And the SS men who were in reality
         Ukranians, Polacks, Magyars...the Magyars were even worse than the others.
         They were the Gestapo men with the black...
     - who: David Boder
-      start: '00:23:01.368'
-      end: '00:23:02.847'
+      start:
+        sec: '1381.368'
+        mark: '00:23:01.368'
+      end:
+        sec: '1382.847'
+        mark: '00:23:02.847'
       u: They were much worse?
     - who: Samuel Isakovitch
-      start: '00:23:02.847'
-      end: '00:23:04.718'
+      start:
+        sec: '1382.847'
+        mark: '00:23:02.847'
+      end:
+        sec: '1384.718'
+        mark: '00:23:04.718'
       u: Much worse than the Germans.
     - who: David Boder
-      start: '00:23:04.718'
-      end: '00:23:07.947'
+      start:
+        sec: '1384.718'
+        mark: '00:23:04.718'
+      end:
+        sec: '1387.947'
+        mark: '00:23:07.947'
       u: Hm. And that was in Buchenwald.
     - who: Samuel Isakovitch
-      start: '00:23:07.947'
-      end: '00:23:08.128'
+      start:
+        sec: '1387.947'
+        mark: '00:23:07.947'
+      end:
+        sec: '1388.128'
+        mark: '00:23:08.128'
       u: Yes.
     - who: David Boder
-      start: '00:23:08.128'
-      end: '00:23:09.818'
+      start:
+        sec: '1388.128'
+        mark: '00:23:08.128'
+      end:
+        sec: '1389.818'
+        mark: '00:23:09.818'
       u: And where were you liberated?
     - who: Samuel Isakovitch
-      start: '00:23:09.818'
-      end: '00:23:10.965'
+      start:
+        sec: '1389.818'
+        mark: '00:23:09.818'
+      end:
+        sec: '1390.965'
+        mark: '00:23:10.965'
       u: In Buchenwald.
     - who: David Boder
-      start: '00:23:10.965'
-      end: '00:23:12.172'
+      start:
+        sec: '1390.965'
+        mark: '00:23:10.965'
+      end:
+        sec: '1392.172'
+        mark: '00:23:12.172'
       u: Who liberated you?
     - who: Samuel Isakovitch
-      start: '00:23:12.172'
-      end: '00:23:13.349'
+      start:
+        sec: '1392.172'
+        mark: '00:23:12.172'
+      end:
+        sec: '1393.349'
+        mark: '00:23:13.349'
       u: The Americans.
     - who: David Boder
-      start: '00:23:13.349'
-      end: '00:23:17.967'
+      start:
+        sec: '1393.349'
+        mark: '00:23:13.349'
+      end:
+        sec: '1397.967'
+        mark: '00:23:17.967'
       u: Nu, tell me, what happened a few days before the liberation and [then] after?
     - who: Samuel Isakovitch
-      start: '00:23:17.967'
-      end: '00:23:28.953'
+      start:
+        sec: '1397.967'
+        mark: '00:23:17.967'
+      end:
+        sec: '1408.953'
+        mark: '00:23:28.953'
       u: Before the liberation...they took...when the Americans came...they took...we
         were sixty-five thousand men on the appell square. They started...First of
         all, was, ‘Jews, step forward.’ It was...
     - who: David Boder
-      start: '00:23:28.953'
-      end: '00:23:30.040'
+      start:
+        sec: '1408.953'
+        mark: '00:23:28.953'
+      end:
+        sec: '1410.040'
+        mark: '00:23:30.040'
       u: The Americans said that?
     - who: Samuel Isakovitch
-      start: '00:23:30.040'
-      end: '00:23:31.579'
+      start:
+        sec: '1410.040'
+        mark: '00:23:30.040'
+      end:
+        sec: '1411.579'
+        mark: '00:23:31.579'
       u: No! The Germans.
     - who: David Boder
-      start: '00:23:31.579'
-      end: '00:23:31.941'
+      start:
+        sec: '1411.579'
+        mark: '00:23:31.579'
+      end:
+        sec: '1411.941'
+        mark: '00:23:31.941'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:23:31.941'
-      end: '00:23:43.146'
+      start:
+        sec: '1411.941'
+        mark: '00:23:31.941'
+      end:
+        sec: '1423.146'
+        mark: '00:23:43.146'
       u: Before the Americans entered. It was ‘Jews, step forward.’ Then the Jews
         already knew exactly from other concentration camps what was going on. Then
         they began to dodge it.
     - who: David Boder
-      start: '00:23:43.146'
-      end: '00:23:43.689'
+      start:
+        sec: '1423.146'
+        mark: '00:23:43.146'
+      end:
+        sec: '1423.689'
+        mark: '00:23:43.689'
       u: The Jews?
     - who: Samuel Isakovitch
-      start: '00:23:43.689'
-      end: '00:23:50.570'
+      start:
+        sec: '1423.689'
+        mark: '00:23:43.689'
+      end:
+        sec: '1430.570'
+        mark: '00:23:50.570'
       u: The Jews. They took, the old criminals and bandits, they began to throw out
         from the blocks...
     - who: David Boder
-      start: '00:23:50.570'
-      end: '00:23:51.355'
+      start:
+        sec: '1430.570'
+        mark: '00:23:50.570'
+      end:
+        sec: '1431.355'
+        mark: '00:23:51.355'
       u: Whom?
     - who: Samuel Isakovitch
-      start: '00:23:51.355'
-      end: '00:23:52.351'
+      start:
+        sec: '1431.355'
+        mark: '00:23:51.355'
+      end:
+        sec: '1432.351'
+        mark: '00:23:52.351'
       u: The Jews.
     - who: David Boder
-      start: '00:23:52.351'
-      end: '00:23:52.592'
+      start:
+        sec: '1432.351'
+        mark: '00:23:52.351'
+      end:
+        sec: '1432.592'
+        mark: '00:23:52.592'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:23:52.592'
-      end: '00:23:53.508'
+      start:
+        sec: '1432.592'
+        mark: '00:23:52.592'
+      end:
+        sec: '1433.508'
+        mark: '00:23:53.508'
       u: "...the prisoners..."
     - who: David Boder
-      start: '00:23:53.508'
-      end: '00:23:53.880'
+      start:
+        sec: '1433.508'
+        mark: '00:23:53.508'
+      end:
+        sec: '1433.880'
+        mark: '00:23:53.880'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:23:53.880'
-      end: '00:24:01.411'
+      start:
+        sec: '1433.880'
+        mark: '00:23:53.880'
+      end:
+        sec: '1441.411'
+        mark: '00:24:01.411'
       u: "...and the Jews...it was, ‘Get out.’ And he was immediately grabbed and
         taken to the D.K.V., and from the D.K.V. they never came out[Footnote: These
         were factories which had been bombed by the Americans at the end of 1944 and
@@ -1890,302 +3618,582 @@ recording:
         square back to my original block and hid under a bunk. The others, those who
         remained on the appell square, were deported, destination unknown. B.W.]."
     - who: David Boder
-      start: '00:24:01.411'
-      end: '00:24:02.347'
+      start:
+        sec: '1441.411'
+        mark: '00:24:01.411'
+      end:
+        sec: '1442.347'
+        mark: '00:24:02.347'
       u: The Jews were taken away?
     - who: Samuel Isakovitch
-      start: '00:24:02.347'
-      end: '00:24:03.886'
+      start:
+        sec: '1442.347'
+        mark: '00:24:02.347'
+      end:
+        sec: '1443.886'
+        mark: '00:24:03.886'
       u: Yes, the Jews.
     - who: David Boder
-      start: '00:24:03.886'
-      end: '00:24:04.248'
+      start:
+        sec: '1443.886'
+        mark: '00:24:03.886'
+      end:
+        sec: '1444.248'
+        mark: '00:24:04.248'
       u: Nu?
     - who: Samuel Isakovitch
-      start: '00:24:04.248'
-      end: '00:24:08.986'
+      start:
+        sec: '1444.248'
+        mark: '00:24:04.248'
+      end:
+        sec: '1448.986'
+        mark: '00:24:08.986'
       u: And when I saw what is going on, I immediately reported [hid] among the Frenchmen...
     - who: David Boder
-      start: '00:24:08.986'
-      end: '00:24:09.500'
+      start:
+        sec: '1448.986'
+        mark: '00:24:08.986'
+      end:
+        sec: '1449.500'
+        mark: '00:24:09.500'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:24:09.500'
-      end: '00:24:18.947'
+      start:
+        sec: '1449.500'
+        mark: '00:24:09.500'
+      end:
+        sec: '1458.947'
+        mark: '00:24:18.947'
       u: "...and...I knew no French. But the first who got out, these remained, and
         the others, these were taken right away and they remained there."
     - who: David Boder
-      start: '00:24:18.947'
-      end: '00:24:19.158'
+      start:
+        sec: '1458.947'
+        mark: '00:24:18.947'
+      end:
+        sec: '1459.158'
+        mark: '00:24:19.158'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:24:19.158'
-      end: '00:24:35.488'
+      start:
+        sec: '1459.158'
+        mark: '00:24:19.158'
+      end:
+        sec: '1475.488'
+        mark: '00:24:35.488'
       u: And these were...they went between the...between...there in the D.K.V., and
         they were shot and murdered...and then they, youngsters up to eighteen years,
         were taken into a youth block, block 66...
     - who: David Boder
-      start: '00:24:35.488'
-      end: '00:24:35.790'
+      start:
+        sec: '1475.488'
+        mark: '00:24:35.488'
+      end:
+        sec: '1475.790'
+        mark: '00:24:35.790'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:24:35.790'
-      end: '00:24:43.124'
+      start:
+        sec: '1475.790'
+        mark: '00:24:35.790'
+      end:
+        sec: '1483.124'
+        mark: '00:24:43.124'
       u: "...in the quarantine, and we awaited...we had a very good man for a blokovy
         [Barrack chief in Polish] a Czech, a political prisoner..."
     - who: David Boder
-      start: '00:24:43.124'
-      end: '00:24:43.426'
+      start:
+        sec: '1483.124'
+        mark: '00:24:43.124'
+      end:
+        sec: '1483.426'
+        mark: '00:24:43.426'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:24:43.426'
-      end: '00:25:02.111'
+      start:
+        sec: '1483.426'
+        mark: '00:24:43.426'
+      end:
+        sec: '1502.111'
+        mark: '00:25:02.111'
       u: He was the block elder. He was...he worked for us, for the youngsters, so
         that we could remain alive. And so we awaited the Americans. And before the
         Americans came there, already [many] had left...there remained nineteen thousand
         prisoners, in Buchenwald.
     - who: David Boder
-      start: '00:25:02.111'
-      end: '00:25:03.077'
+      start:
+        sec: '1502.111'
+        mark: '00:25:02.111'
+      end:
+        sec: '1503.077'
+        mark: '00:25:03.077'
       u: Yes...and the others?
     - who: Samuel Isakovitch
-      start: '00:25:03.077'
-      end: '00:25:14.955'
+      start:
+        sec: '1503.077'
+        mark: '00:25:03.077'
+      end:
+        sec: '1514.955'
+        mark: '00:25:14.955'
       u: The others...the others have...no one knows whether they were shot, or...a
         stone was put up that fifty-nine thousand shot, murd-...murdered prisoners
         from among us.
     - who: David Boder
-      start: '00:25:14.955'
-      end: '00:25:15.619'
+      start:
+        sec: '1514.955'
+        mark: '00:25:14.955'
+      end:
+        sec: '1515.619'
+        mark: '00:25:15.619'
       u: In Buchenwald?
     - who: Samuel Isakovitch
-      start: '00:25:15.619'
-      end: '00:25:16.192'
+      start:
+        sec: '1515.619'
+        mark: '00:25:15.619'
+      end:
+        sec: '1516.192'
+        mark: '00:25:16.192'
       u: In Buchenwald.
     - who: David Boder
-      start: '00:25:16.192'
-      end: '00:25:24.794'
+      start:
+        sec: '1516.192'
+        mark: '00:25:16.192'
+      end:
+        sec: '1524.794'
+        mark: '00:25:24.794'
       u: Wait, so...when...before the Americans came did the SS leave, or what?
     - who: Samuel Isakovitch
-      start: '00:25:24.794'
-      end: '00:25:34.271'
+      start:
+        sec: '1524.794'
+        mark: '00:25:24.794'
+      end:
+        sec: '1534.271'
+        mark: '00:25:34.271'
       u: They left. Immediately. They left right away. They were caught. It was the...our...the
         prisoners of war, the Russians.
     - who: David Boder
-      start: '00:25:34.271'
-      end: '00:25:34.543'
+      start:
+        sec: '1534.271'
+        mark: '00:25:34.271'
+      end:
+        sec: '1534.543'
+        mark: '00:25:34.543'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:25:34.543'
-      end: '00:25:42.450'
+      start:
+        sec: '1534.543'
+        mark: '00:25:34.543'
+      end:
+        sec: '1542.450'
+        mark: '00:25:42.450'
       u: They immediately captured the weapons. They were still healthy and the Americans
         came from below, from the village...
     - who: David Boder
-      start: '00:25:42.450'
-      end: '00:25:42.752'
+      start:
+        sec: '1542.450'
+        mark: '00:25:42.450'
+      end:
+        sec: '1542.752'
+        mark: '00:25:42.752'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:25:42.752'
-      end: '00:25:55.194'
+      start:
+        sec: '1542.752'
+        mark: '00:25:42.752'
+      end:
+        sec: '1555.194'
+        mark: '00:25:55.194'
       u: They were held by the Americans from one side and the prisoners of war from
         the other side. They were immediately gathered together...they were captured,
         and after that we don’t know what the Americans did with them.
     - who: David Boder
-      start: '00:25:55.194'
-      end: '00:25:58.484'
+      start:
+        sec: '1555.194'
+        mark: '00:25:55.194'
+      end:
+        sec: '1558.484'
+        mark: '00:25:58.484'
       u: They weren’t...they weren’t punished?
     - who: Samuel Isakovitch
-      start: '00:25:58.484'
-      end: '00:26:03.486'
+      start:
+        sec: '1558.484'
+        mark: '00:25:58.484'
+      end:
+        sec: '1563.486'
+        mark: '00:26:03.486'
       u: No, no, not punished. They were only taken away. Where, we don’t know.
     - who: David Boder
-      start: '00:26:03.486'
-      end: '00:26:04.522'
+      start:
+        sec: '1563.486'
+        mark: '00:26:03.486'
+      end:
+        sec: '1564.522'
+        mark: '00:26:04.522'
       u: The SS were taken away?
     - who: Samuel Isakovitch
-      start: '00:26:04.522'
-      end: '00:26:05.649'
+      start:
+        sec: '1564.522'
+        mark: '00:26:04.522'
+      end:
+        sec: '1565.649'
+        mark: '00:26:05.649'
       u: Yes.
     - who: David Boder
-      start: '00:26:05.649'
-      end: '00:26:08.909'
+      start:
+        sec: '1565.649'
+        mark: '00:26:05.649'
+      end:
+        sec: '1568.909'
+        mark: '00:26:08.909'
       u: All right. And then who remained in...in...
     - who: Samuel Isakovitch
-      start: '00:26:08.909'
-      end: '00:26:17.179'
+      start:
+        sec: '1568.909'
+        mark: '00:26:08.909'
+      end:
+        sec: '1577.179'
+        mark: '00:26:17.179'
       u: All of us remained in the lager, half...half-dead. And there came the Americans
         Red Cross machines...
     - who: David Boder
-      start: '00:26:17.179'
-      end: '00:26:17.420'
+      start:
+        sec: '1577.179'
+        mark: '00:26:17.179'
+      end:
+        sec: '1577.420'
+        mark: '00:26:17.420'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:26:17.420'
-      end: '00:26:24.181'
+      start:
+        sec: '1577.420'
+        mark: '00:26:17.420'
+      end:
+        sec: '1584.181'
+        mark: '00:26:24.181'
       u: "...in automobiles. It began...took us out to the...led us into the SS barracks,"
     - who: David Boder
-      start: '00:26:24.181'
-      end: '00:26:24.453'
+      start:
+        sec: '1584.181'
+        mark: '00:26:24.181'
+      end:
+        sec: '1584.453'
+        mark: '00:26:24.453'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:26:24.453'
-      end: '00:26:33.457'
+      start:
+        sec: '1584.453'
+        mark: '00:26:24.453'
+      end:
+        sec: '1593.457'
+        mark: '00:26:33.457'
       u: "...and there we recuperated a little...We were asked where everyone wants
         to go...We took and went to Italy..."
     - who: David Boder
-      start: '00:26:33.457'
-      end: '00:26:34.845'
+      start:
+        sec: '1593.457'
+        mark: '00:26:33.457'
+      end:
+        sec: '1594.845'
+        mark: '00:26:34.845'
       u: You left for Italy?
     - who: Samuel Isakovitch
-      start: '00:26:34.845'
-      end: '00:26:35.237'
+      start:
+        sec: '1594.845'
+        mark: '00:26:34.845'
+      end:
+        sec: '1595.237'
+        mark: '00:26:35.237'
       u: Yes.
     - who: David Boder
-      start: '00:26:35.237'
-      end: '00:26:38.104'
+      start:
+        sec: '1595.237'
+        mark: '00:26:35.237'
+      end:
+        sec: '1598.104'
+        mark: '00:26:38.104'
       u: Why did you decide to go to Italy?
     - who: Samuel Isakovitch
-      start: '00:26:38.104'
-      end: '00:26:40.971'
+      start:
+        sec: '1598.104'
+        mark: '00:26:38.104'
+      end:
+        sec: '1600.971'
+        mark: '00:26:40.971'
       u: The Americans took us there to convalesce.
     - who: David Boder
-      start: '00:26:40.971'
-      end: '00:26:42.631'
+      start:
+        sec: '1600.971'
+        mark: '00:26:40.971'
+      end:
+        sec: '1602.631'
+        mark: '00:26:42.631'
       u: Oh, the Americans took you to convalesce.
     - who: Samuel Isakovitch
-      start: '00:26:42.631'
-      end: '00:26:42.782'
+      start:
+        sec: '1602.631'
+        mark: '00:26:42.631'
+      end:
+        sec: '1602.782'
+        mark: '00:26:42.782'
       u: "...to convalesce..."
     - who: David Boder
-      start: '00:26:42.782'
-      end: '00:26:43.808'
+      start:
+        sec: '1602.782'
+        mark: '00:26:42.782'
+      end:
+        sec: '1603.808'
+        mark: '00:26:43.808'
       u: to convalesce in Italy?
     - who: Samuel Isakovitch
-      start: '00:26:43.808'
-      end: '00:26:44.412'
+      start:
+        sec: '1603.808'
+        mark: '00:26:43.808'
+      end:
+        sec: '1604.412'
+        mark: '00:26:44.412'
       u: "...in Italy."
     - who: David Boder
-      start: '00:26:44.412'
-      end: '00:26:45.770'
+      start:
+        sec: '1604.412'
+        mark: '00:26:44.412'
+      end:
+        sec: '1605.770'
+        mark: '00:26:45.770'
       u: Where did they take you?
     - who: Samuel Isakovitch
-      start: '00:26:45.770'
-      end: '00:26:51.474'
+      start:
+        sec: '1605.770'
+        mark: '00:26:45.770'
+      end:
+        sec: '1611.474'
+        mark: '00:26:51.474'
       u: They took us from Buchenwald and we went to Milan, and from Milan we went
         to Turin.
     - who: David Boder
-      start: '00:26:51.474'
-      end: '00:26:51.897'
+      start:
+        sec: '1611.474'
+        mark: '00:26:51.474'
+      end:
+        sec: '1611.897'
+        mark: '00:26:51.897'
       u: To Turin.
     - who: Samuel Isakovitch
-      start: '00:26:51.897'
-      end: '00:26:52.259'
+      start:
+        sec: '1611.897'
+        mark: '00:26:51.897'
+      end:
+        sec: '1612.259'
+        mark: '00:26:52.259'
       u: Yes.
     - who: David Boder
-      start: '00:26:52.259'
-      end: '00:26:54.553'
+      start:
+        sec: '1612.259'
+        mark: '00:26:52.259'
+      end:
+        sec: '1614.553'
+        mark: '00:26:54.553'
       u: And who gave you to eat there?
     - who: Samuel Isakovitch
-      start: '00:26:54.553'
-      end: '00:26:59.322'
+      start:
+        sec: '1614.553'
+        mark: '00:26:54.553'
+      end:
+        sec: '1619.322'
+        mark: '00:26:59.322'
       u: The Americans. The Americans units [?].
     - who: David Boder
-      start: '00:26:59.322'
-      end: '00:27:01.344'
+      start:
+        sec: '1619.322'
+        mark: '00:26:59.322'
+      end:
+        sec: '1621.344'
+        mark: '00:27:01.344'
       u: The Americans organizations?
     - who: Samuel Isakovitch
-      start: '00:27:01.344'
-      end: '00:27:01.917'
+      start:
+        sec: '1621.344'
+        mark: '00:27:01.344'
+      end:
+        sec: '1621.917'
+        mark: '00:27:01.917'
       u: Yes.
     - who: David Boder
-      start: '00:27:01.917'
-      end: '00:27:04.271'
+      start:
+        sec: '1621.917'
+        mark: '00:27:01.917'
+      end:
+        sec: '1624.271'
+        mark: '00:27:04.271'
       u: And how long were you in Turin?
     - who: Samuel Isakovitch
-      start: '00:27:04.271'
-      end: '00:27:06.263'
+      start:
+        sec: '1624.271'
+        mark: '00:27:04.271'
+      end:
+        sec: '1626.263'
+        mark: '00:27:06.263'
       u: I was there four months.
     - who: David Boder
-      start: '00:27:06.263'
-      end: '00:27:08.255'
+      start:
+        sec: '1626.263'
+        mark: '00:27:06.263'
+      end:
+        sec: '1628.255'
+        mark: '00:27:08.255'
       u: And from there where did you go?
     - who: Samuel Isakovitch
-      start: '00:27:08.255'
-      end: '00:27:09.975'
+      start:
+        sec: '1628.255'
+        mark: '00:27:08.255'
+      end:
+        sec: '1629.975'
+        mark: '00:27:09.975'
       u: I came straight here, to Paris.
     - who: David Boder
-      start: '00:27:09.975'
-      end: '00:27:12.842'
+      start:
+        sec: '1629.975'
+        mark: '00:27:09.975'
+      end:
+        sec: '1632.842'
+        mark: '00:27:12.842'
       u: Why did you come to Paris?
     - who: Samuel Isakovitch
-      start: '00:27:12.842'
-      end: '00:27:20.085'
+      start:
+        sec: '1632.842'
+        mark: '00:27:12.842'
+      end:
+        sec: '1640.085'
+        mark: '00:27:20.085'
       u: I came here to Paris in order to...I want to learn a trade... I saw in Turin
         one can’t learn anything, and...
     - who: David Boder
-      start: '00:27:20.085'
-      end: '00:27:21.805'
+      start:
+        sec: '1640.085'
+        mark: '00:27:20.085'
+      end:
+        sec: '1641.805'
+        mark: '00:27:21.805'
       u: Is there no ORT in Turin?
     - who: Samuel Isakovitch
-      start: '00:27:21.805'
-      end: '00:27:25.457'
+      start:
+        sec: '1641.805'
+        mark: '00:27:21.805'
+      end:
+        sec: '1645.457'
+        mark: '00:27:25.457'
       u: There is an ORT. There is a camp, a lager...
     - who: David Boder
-      start: '00:27:25.457'
-      end: '00:27:25.759'
+      start:
+        sec: '1645.457'
+        mark: '00:27:25.457'
+      end:
+        sec: '1645.759'
+        mark: '00:27:25.759'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:27:25.759'
-      end: '00:27:31.493'
+      start:
+        sec: '1645.759'
+        mark: '00:27:25.759'
+      end:
+        sec: '1651.493'
+        mark: '00:27:31.493'
       u: "...but there is nothing else to learn. The Italians themselves don’t have..."
     - who: David Boder
-      start: '00:27:31.493'
-      end: '00:27:31.976'
+      start:
+        sec: '1651.493'
+        mark: '00:27:31.493'
+      end:
+        sec: '1651.976'
+        mark: '00:27:31.976'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:27:31.976'
-      end: '00:27:33.727'
+      start:
+        sec: '1651.976'
+        mark: '00:27:31.976'
+      end:
+        sec: '1653.727'
+        mark: '00:27:33.727'
       u: "...and we wanted to learn something..."
     - who: David Boder
-      start: '00:27:33.727'
-      end: '00:27:34.119'
+      start:
+        sec: '1653.727'
+        mark: '00:27:33.727'
+      end:
+        sec: '1654.119'
+        mark: '00:27:34.119'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:27:34.119'
-      end: '00:27:38.918'
+      start:
+        sec: '1654.119'
+        mark: '00:27:34.119'
+      end:
+        sec: '1658.918'
+        mark: '00:27:38.918'
       u: Now we are young, we have to learn something...
     - who: David Boder
-      start: '00:27:38.918'
-      end: '00:27:39.401'
+      start:
+        sec: '1658.918'
+        mark: '00:27:38.918'
+      end:
+        sec: '1659.401'
+        mark: '00:27:39.401'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:27:39.401'
-      end: '00:27:40.095'
+      start:
+        sec: '1659.401'
+        mark: '00:27:39.401'
+      end:
+        sec: '1660.095'
+        mark: '00:27:40.095'
       u: "...so we came to Paris."
     - who: David Boder
-      start: '00:27:40.095'
-      end: '00:27:44.441'
+      start:
+        sec: '1660.095'
+        mark: '00:27:40.095'
+      end:
+        sec: '1664.441'
+        mark: '00:27:44.441'
       u: Nu, did you find out anything about your relatives, your family?
     - who: Samuel Isakovitch
-      start: '00:27:44.441'
-      end: '00:27:50.085'
+      start:
+        sec: '1664.441'
+        mark: '00:27:44.441'
+      end:
+        sec: '1670.085'
+        mark: '00:27:50.085'
       u: Till now I found nobody. I know of nobody...
     - who: David Boder
-      start: '00:27:50.085'
-      end: '00:27:57.872'
+      start:
+        sec: '1670.085'
+        mark: '00:27:50.085'
+      end:
+        sec: '1677.872'
+        mark: '00:27:57.872'
       u: Tell me, Moskovsky says that you were taken away to the same camp with his
         father.
     - who: Samuel Isakovitch
-      start: '00:27:57.872'
-      end: '00:27:58.385'
+      start:
+        sec: '1677.872'
+        mark: '00:27:57.872'
+      end:
+        sec: '1678.385'
+        mark: '00:27:58.385'
       u: Yes.
     - who: David Boder
-      start: '00:27:58.385'
-      end: '00:28:00.166'
+      start:
+        sec: '1678.385'
+        mark: '00:27:58.385'
+      end:
+        sec: '1680.166'
+        mark: '00:28:00.166'
       u: What happened to him?
     - who: Samuel Isakovitch
-      start: '00:28:00.166'
-      end: '00:28:33.022'
+      start:
+        sec: '1680.166'
+        mark: '00:28:00.166'
+      end:
+        sec: '1713.022'
+        mark: '00:28:33.022'
       u: About him I don’t kn-...nothing is known...I left with the youth block and
         he left...he wasn’t in the youth block. He was in the prisoner’s block where
         the other old people were. And there was a youth block and we were taken separately,
@@ -2194,267 +4202,519 @@ recording:
         from Gleiwitz l. We were put into RR-cars and I saw him no more. But I heard
         that he was taken away to Dora, and I went to...
     - who: David Boder
-      start: '00:28:33.022'
-      end: '00:28:34.501'
+      start:
+        sec: '1713.022'
+        mark: '00:28:33.022'
+      end:
+        sec: '1714.501'
+        mark: '00:28:34.501'
       u: Where is Dora?
     - who: Samuel Isakovitch
-      start: '00:28:34.501'
-      end: '00:28:39.753'
+      start:
+        sec: '1714.501'
+        mark: '00:28:34.501'
+      end:
+        sec: '1719.753'
+        mark: '00:28:39.753'
       u: To Dora he went, to Germany, the father of Moskovitz...his father...
     - who: David Boder
-      start: '00:28:39.753'
-      end: '00:28:41.172'
+      start:
+        sec: '1719.753'
+        mark: '00:28:39.753'
+      end:
+        sec: '1721.172'
+        mark: '00:28:41.172'
       u: Is Dora a town in Germany?
     - who: Samuel Isakovitch
-      start: '00:28:41.172'
-      end: '00:28:41.987'
+      start:
+        sec: '1721.172'
+        mark: '00:28:41.172'
+      end:
+        sec: '1721.987'
+        mark: '00:28:41.987'
       u: A town.
     - who: David Boder
-      start: '00:28:41.987'
-      end: '00:28:44.341'
+      start:
+        sec: '1721.987'
+        mark: '00:28:41.987'
+      end:
+        sec: '1724.341'
+        mark: '00:28:44.341'
       u: Yes, and what was there, a lager?
     - who: Samuel Isakovitch
-      start: '00:28:44.341'
-      end: '00:28:46.182'
+      start:
+        sec: '1724.341'
+        mark: '00:28:44.341'
+      end:
+        sec: '1726.182'
+        mark: '00:28:46.182'
       u: Also a ‘camp,’ a lager.
     - who: David Boder
-      start: '00:28:46.182'
-      end: '00:28:47.178'
+      start:
+        sec: '1726.182'
+        mark: '00:28:46.182'
+      end:
+        sec: '1727.178'
+        mark: '00:28:47.178'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:28:47.178'
-      end: '00:28:50.619'
+      start:
+        sec: '1727.178'
+        mark: '00:28:47.178'
+      end:
+        sec: '1730.619'
+        mark: '00:28:50.619'
       u: And there the people were bombed.
     - who: David Boder
-      start: '00:28:50.619'
-      end: '00:28:51.162'
+      start:
+        sec: '1730.619'
+        mark: '00:28:50.619'
+      end:
+        sec: '1731.162'
+        mark: '00:28:51.162'
       u: Aha.
     - who: Samuel Isakovitch
-      start: '00:28:51.162'
-      end: '00:28:56.202'
+      start:
+        sec: '1731.162'
+        mark: '00:28:51.162'
+      end:
+        sec: '1736.202'
+        mark: '00:28:56.202'
       u: There were bombings. Some people were shot in Dora[?].
     - who: David Boder
-      start: '00:28:56.202'
-      end: '00:28:57.077'
+      start:
+        sec: '1736.202'
+        mark: '00:28:56.202'
+      end:
+        sec: '1737.077'
+        mark: '00:28:57.077'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:28:57.077'
-      end: '00:28:59.823'
+      start:
+        sec: '1737.077'
+        mark: '00:28:57.077'
+      end:
+        sec: '1739.823'
+        mark: '00:28:59.823'
       u: And where they went, I don’t know.
     - who: David Boder
-      start: '00:28:59.823'
-      end: '00:29:02.087'
+      start:
+        sec: '1739.823'
+        mark: '00:28:59.823'
+      end:
+        sec: '1742.087'
+        mark: '00:29:02.087'
       u: So, you have no relatives in Paris?
     - who: Samuel Isakovitch
-      start: '00:29:02.087'
-      end: '00:29:03.445'
+      start:
+        sec: '1742.087'
+        mark: '00:29:02.087'
+      end:
+        sec: '1743.445'
+        mark: '00:29:03.445'
       u: I have nobody here.
     - who: David Boder
-      start: '00:29:03.445'
-      end: '00:29:05.527'
+      start:
+        sec: '1743.445'
+        mark: '00:29:03.445'
+      end:
+        sec: '1745.527'
+        mark: '00:29:05.527'
       u: And where do you live here?
     - who: Samuel Isakovitch
-      start: '00:29:05.527'
-      end: '00:29:10.960'
+      start:
+        sec: '1745.527'
+        mark: '00:29:05.527'
+      end:
+        sec: '1750.960'
+        mark: '00:29:10.960'
       u: I live in Severn, on the Avenue Seguier, a youth home.
     - who: David Boder
-      start: '00:29:10.960'
-      end: '00:29:12.047'
+      start:
+        sec: '1750.960'
+        mark: '00:29:10.960'
+      end:
+        sec: '1752.047'
+        mark: '00:29:12.047'
       u: This is a youth home?
     - who: Samuel Isakovitch
-      start: '00:29:12.047'
-      end: '00:29:12.288'
+      start:
+        sec: '1752.047'
+        mark: '00:29:12.047'
+      end:
+        sec: '1752.288'
+        mark: '00:29:12.288'
       u: Yes.
     - who: David Boder
-      start: '00:29:12.288'
-      end: '00:29:14.099'
+      start:
+        sec: '1752.288'
+        mark: '00:29:12.288'
+      end:
+        sec: '1754.099'
+        mark: '00:29:14.099'
       u: And your cousin lives...also there?
     - who: Samuel Isakovitch
-      start: '00:29:14.099'
-      end: '00:29:15.035'
+      start:
+        sec: '1754.099'
+        mark: '00:29:14.099'
+      end:
+        sec: '1755.035'
+        mark: '00:29:15.035'
       u: Also there. Yes.
     - who: David Boder
-      start: '00:29:15.035'
-      end: '00:29:16.936'
+      start:
+        sec: '1755.035'
+        mark: '00:29:15.035'
+      end:
+        sec: '1756.936'
+        mark: '00:29:16.936'
       u: How many young people live there?
     - who: Samuel Isakovitch
-      start: '00:29:16.936'
-      end: '00:29:18.837'
+      start:
+        sec: '1756.936'
+        mark: '00:29:16.936'
+      end:
+        sec: '1758.837'
+        mark: '00:29:18.837'
       u: There are fifty young people.
     - who: David Boder
-      start: '00:29:18.837'
-      end: '00:29:19.984'
+      start:
+        sec: '1758.837'
+        mark: '00:29:18.837'
+      end:
+        sec: '1759.984'
+        mark: '00:29:19.984'
       u: Are they all Jewish young people?
     - who: Samuel Isakovitch
-      start: '00:29:19.984'
-      end: '00:29:23.183'
+      start:
+        sec: '1759.984'
+        mark: '00:29:19.984'
+      end:
+        sec: '1763.183'
+        mark: '00:29:23.183'
       u: All Jewish, who learn all kinds of trades.
     - who: David Boder
-      start: '00:29:23.183'
-      end: '00:29:25.265'
+      start:
+        sec: '1763.183'
+        mark: '00:29:23.183'
+      end:
+        sec: '1765.265'
+        mark: '00:29:25.265'
       u: And you are learning during the day.
     - who: Samuel Isakovitch
-      start: '00:29:25.265'
-      end: '00:29:26.140'
+      start:
+        sec: '1765.265'
+        mark: '00:29:25.265'
+      end:
+        sec: '1766.140'
+        mark: '00:29:26.140'
       u: During the day, yes.
     - who: David Boder
-      start: '00:29:26.140'
-      end: '00:29:27.559'
+      start:
+        sec: '1766.140'
+        mark: '00:29:26.140'
+      end:
+        sec: '1767.559'
+        mark: '00:29:27.559'
       u: What do you do in the evenings?
     - who: Samuel Isakovitch
-      start: '00:29:27.559'
-      end: '00:29:32.690'
+      start:
+        sec: '1767.559'
+        mark: '00:29:27.559'
+      end:
+        sec: '1772.690'
+        mark: '00:29:32.690'
       u: In the evening we learn French, and we learn English, whoever wants to.
     - who: David Boder
-      start: '00:29:32.690'
-      end: '00:29:35.587'
+      start:
+        sec: '1772.690'
+        mark: '00:29:32.690'
+      end:
+        sec: '1775.587'
+        mark: '00:29:35.587'
       u: Have all these young people been in concentration camps?
     - who: Samuel Isakovitch
-      start: '00:29:35.587'
-      end: '00:29:38.816'
+      start:
+        sec: '1775.587'
+        mark: '00:29:35.587'
+      end:
+        sec: '1778.816'
+        mark: '00:29:38.816'
       u: They have been. All have been in concentration camps.
     - who: David Boder
-      start: '00:29:38.816'
-      end: '00:29:49.983'
+      start:
+        sec: '1778.816'
+        mark: '00:29:38.816'
+      end:
+        sec: '1789.983'
+        mark: '00:29:49.983'
       u: Aha. Well, and if you have finished...are you learning radio here?
     - who: Samuel Isakovitch
-      start: '00:29:49.983'
-      end: '00:29:52.005'
+      start:
+        sec: '1789.983'
+        mark: '00:29:49.983'
+      end:
+        sec: '1792.005'
+        mark: '00:29:52.005'
       u: I am learning to be an electrician.
     - who: David Boder
-      start: '00:29:52.005'
-      end: '00:29:52.941'
+      start:
+        sec: '1792.005'
+        mark: '00:29:52.005'
+      end:
+        sec: '1792.941'
+        mark: '00:29:52.941'
       u: You are learning to be an electrician.
     - who: Samuel Isakovitch
-      start: '00:29:52.941'
-      end: '00:29:54.118'
+      start:
+        sec: '1792.941'
+        mark: '00:29:52.941'
+      end:
+        sec: '1794.118'
+        mark: '00:29:54.118'
       u: Electrician.
     - who: David Boder
-      start: '00:29:54.118'
-      end: '00:29:56.955'
+      start:
+        sec: '1794.118'
+        mark: '00:29:54.118'
+      end:
+        sec: '1796.955'
+        mark: '00:29:56.955'
       u: And when you will have completed your training, what do you want to do?
     - who: Samuel Isakovitch
-      start: '00:29:56.955'
-      end: '00:29:58.585'
+      start:
+        sec: '1796.955'
+        mark: '00:29:56.955'
+      end:
+        sec: '1798.585'
+        mark: '00:29:58.585'
       u: I want to continue working.
     - who: David Boder
-      start: '00:29:58.585'
-      end: '00:30:00.547'
+      start:
+        sec: '1798.585'
+        mark: '00:29:58.585'
+      end:
+        sec: '1800.547'
+        mark: '00:30:00.547'
       u: Do you want to remain in France?
     - who: Samuel Isakovitch
-      start: '00:30:00.547'
-      end: '00:30:08.062'
+      start:
+        sec: '1800.547'
+        mark: '00:30:00.547'
+      end:
+        sec: '1808.062'
+        mark: '00:30:08.062'
       u: I don’t know where I will remain...I have no home, I have nobody here...I
         don’t know what I will do...I am alone...
     - who: David Boder
-      start: '00:30:08.062'
-      end: '00:30:08.877'
+      start:
+        sec: '1808.062'
+        mark: '00:30:08.062'
+      end:
+        sec: '1808.877'
+        mark: '00:30:08.877'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:30:08.877'
-      end: '00:30:11.714'
+      start:
+        sec: '1808.877'
+        mark: '00:30:08.877'
+      end:
+        sec: '1811.714'
+        mark: '00:30:11.714'
       u: I don’t know myself what to do...
     - who: David Boder
-      start: '00:30:11.714'
-      end: '00:30:13.736'
+      start:
+        sec: '1811.714'
+        mark: '00:30:11.714'
+      end:
+        sec: '1813.736'
+        mark: '00:30:13.736'
       u: But for the time being you are here?
     - who: Samuel Isakovitch
-      start: '00:30:13.736'
-      end: '00:30:15.879'
+      start:
+        sec: '1813.736'
+        mark: '00:30:13.736'
+      end:
+        sec: '1815.879'
+        mark: '00:30:15.879'
       u: For the time being I am here in the home [?].
     - who: David Boder
-      start: '00:30:15.879'
-      end: '00:30:17.177'
+      start:
+        sec: '1815.879'
+        mark: '00:30:15.879'
+      end:
+        sec: '1817.177'
+        mark: '00:30:17.177'
       u: "[Not clear.]"
     - who: Samuel Isakovitch
-      start: '00:30:17.177'
-      end: '00:30:20.738'
+      start:
+        sec: '1817.177'
+        mark: '00:30:17.177'
+      end:
+        sec: '1820.738'
+        mark: '00:30:20.738'
       u: Yes.
     - who: David Boder
-      start: '00:30:20.738'
-      end: '00:30:25.235'
+      start:
+        sec: '1820.738'
+        mark: '00:30:20.738'
+      end:
+        sec: '1825.235'
+        mark: '00:30:25.235'
       u: "[In English] This concludes an interview with Isakovitch, what is your first
         name?"
     - who: Samuel Isakovitch
-      start: '00:30:25.235'
-      end: '00:30:26.110'
+      start:
+        sec: '1825.235'
+        mark: '00:30:25.235'
+      end:
+        sec: '1826.110'
+        mark: '00:30:26.110'
       u: Samuel.
     - who: David Boder
-      start: '00:30:26.110'
-      end: '00:30:48.128'
+      start:
+        sec: '1826.110'
+        mark: '00:30:26.110'
+      end:
+        sec: '1848.128'
+        mark: '00:30:48.128'
       u: With Samuel Isakovitch, eighteen years old, who is taking a course in electro-technics
         in...at the ORT school in Paris.
     - who: David Boder
-      start: '00:30:48.128'
-      end: '00:31:10.359'
+      start:
+        sec: '1848.128'
+        mark: '00:30:48.128'
+      end:
+        sec: '1870.359'
+        mark: '00:31:10.359'
       u: "[In German] Mr. Isakovitch, I have here a few pictures, and I want that
         you should tell me which of your experience of the last few years, do these
         pictures remind you of. [Aside:] This is #8. Hold it. Nu? What is this picture
         about? What does it remind you of?"
     - who: Samuel Isakovitch
-      start: '00:31:10.359'
-      end: '00:31:11.868'
+      start:
+        sec: '1870.359'
+        mark: '00:31:10.359'
+      end:
+        sec: '1871.868'
+        mark: '00:31:11.868'
       u: That is...
     - who: David Boder
-      start: '00:31:11.868'
-      end: '00:31:13.226'
+      start:
+        sec: '1871.868'
+        mark: '00:31:11.868'
+      end:
+        sec: '1873.226'
+        mark: '00:31:13.226'
       u: Make some kind of story out of it.
     - who: Samuel Isakovitch
-      start: '00:31:13.226'
-      end: '00:31:33.933'
+      start:
+        sec: '1873.226'
+        mark: '00:31:13.226'
+      end:
+        sec: '1893.933'
+        mark: '00:31:33.933'
       u: This one...one of the women — prisoners who...they look like the women-prisoners
         who were in the lagers, who were ragged, in tatters...they are famished...they
         are emaciated...they have no...they are thinking when the liberation will
         come.
     - who: David Boder
-      start: '00:31:33.933'
-      end: '00:31:34.537'
+      start:
+        sec: '1893.933'
+        mark: '00:31:33.933'
+      end:
+        sec: '1894.537'
+        mark: '00:31:34.537'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:31:34.537'
-      end: '00:31:36.982'
+      start:
+        sec: '1894.537'
+        mark: '00:31:34.537'
+      end:
+        sec: '1896.982'
+        mark: '00:31:36.982'
       u: They have nothing to do...
     - who: David Boder
-      start: '00:31:36.982'
-      end: '00:31:37.706'
+      start:
+        sec: '1896.982'
+        mark: '00:31:36.982'
+      end:
+        sec: '1897.706'
+        mark: '00:31:37.706'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:31:37.706'
-      end: '00:31:39.426'
+      start:
+        sec: '1897.706'
+        mark: '00:31:37.706'
+      end:
+        sec: '1899.426'
+        mark: '00:31:39.426'
       u: "...famished."
     - who: David Boder
-      start: '00:31:39.426'
-      end: '00:31:45.191'
+      start:
+        sec: '1899.426'
+        mark: '00:31:39.426'
+      end:
+        sec: '1905.191'
+        mark: '00:31:45.191'
       u: 'And what is this? [Aside: #9.]'
     - who: Samuel Isakovitch
-      start: '00:31:45.191'
-      end: '00:31:52.193'
+      start:
+        sec: '1905.191'
+        mark: '00:31:45.191'
+      end:
+        sec: '1912.193'
+        mark: '00:31:52.193'
       u: This...so...the capo or the blokowy...[Polish for block-trusty]...the blokova
         [women block-trusty]sends the woman...
     - who: David Boder
-      start: '00:31:52.193'
-      end: '00:31:52.616'
+      start:
+        sec: '1912.193'
+        mark: '00:31:52.193'
+      end:
+        sec: '1912.616'
+        mark: '00:31:52.616'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:31:52.616'
-      end: '00:32:01.459'
+      start:
+        sec: '1912.616'
+        mark: '00:31:52.616'
+      end:
+        sec: '1921.459'
+        mark: '00:32:01.459'
       u: "...and drives to work...and makes with her...she should work...she should
         do everything."
     - who: David Boder
-      start: '00:32:01.459'
-      end: '00:32:02.183'
+      start:
+        sec: '1921.459'
+        mark: '00:32:01.459'
+      end:
+        sec: '1922.183'
+        mark: '00:32:02.183'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:32:02.183'
-      end: '00:32:05.292'
+      start:
+        sec: '1922.183'
+        mark: '00:32:02.183'
+      end:
+        sec: '1925.292'
+        mark: '00:32:05.292'
       u: "..all kind of hard things..."
     - who: David Boder
-      start: '00:32:05.292'
-      end: '00:32:13.713'
+      start:
+        sec: '1925.292'
+        mark: '00:32:05.292'
+      end:
+        sec: '1933.713'
+        mark: '00:32:13.713'
       u: And...#12.M. And what is this?
     - who: Samuel Isakovitch
-      start: '00:32:13.713'
-      end: '00:32:46.749'
+      start:
+        sec: '1933.713'
+        mark: '00:32:13.713'
+      end:
+        sec: '1966.749'
+        mark: '00:32:46.749'
       u: These are...the prisoners...they were taken to the lager. hey were looked
         over like this and...if one was sick, or what...they were taken and looked
         over if he still alive, or what...he lay there — the comrade. He saw that
@@ -2462,103 +4722,191 @@ recording:
         still alive...he should stay alive, or what...and he was already dead...he
         was thrown out on the heap [of bodies?].
     - who: David Boder
-      start: '00:32:46.749'
-      end: '00:32:52.393'
+      start:
+        sec: '1966.749'
+        mark: '00:32:46.749'
+      end:
+        sec: '1972.393'
+        mark: '00:32:52.393'
       u: 'And what do you think is this? [Aside: #15.] Yes?'
     - who: Samuel Isakovitch
-      start: '00:32:52.393'
-      end: '00:33:03.439'
+      start:
+        sec: '1972.393'
+        mark: '00:32:52.393'
+      end:
+        sec: '1983.439'
+        mark: '00:33:03.439'
       u: It is also a prisoner...a ‘Mussulman,’ who...simply a ‘Mussulman,’ He can’t
         walk any more to work...
     - who: David Boder
-      start: '00:33:03.439'
-      end: '00:33:05.031'
+      start:
+        sec: '1983.439'
+        mark: '00:33:03.439'
+      end:
+        sec: '1985.031'
+        mark: '00:33:05.031'
       u: What is a ‘Mussulman’?
     - who: Samuel Isakovitch
-      start: '00:33:05.031'
-      end: '00:33:24.617'
+      start:
+        sec: '1985.031'
+        mark: '00:33:05.031'
+      end:
+        sec: '2004.617'
+        mark: '00:33:24.617'
       u: 'A ‘Mussulman’...who is quite emaciated and he can’t walk, he can’t talk...he
         is completely emaciated...worked out, used up, who can’t do anything any more.
         Then he becomes emaciated. Then he is a finished ‘Mussulman.’[Footnote: His
         description of a so-called mussulman is perefect. The origin of this nickname
         is not known. See the book by Odd Nansen: From Day to Day.]'
     - who: David Boder
-      start: '00:33:24.617'
-      end: '00:33:26.337'
+      start:
+        sec: '2004.617'
+        mark: '00:33:24.617'
+      end:
+        sec: '2006.337'
+        mark: '00:33:26.337'
       u: What was done with the Mussulmen?
     - who: Samuel Isakovitch
-      start: '00:33:26.337'
-      end: '00:33:29.989'
+      start:
+        sec: '2006.337'
+        mark: '00:33:26.337'
+      end:
+        sec: '2009.989'
+        mark: '00:33:29.989'
       u: The Mussulmen were taken and sent to Birkenau.
     - who: David Boder
-      start: '00:33:29.989'
-      end: '00:33:30.400'
+      start:
+        sec: '2009.989'
+        mark: '00:33:29.989'
+      end:
+        sec: '2010.400'
+        mark: '00:33:30.400'
       u: And there?
     - who: Samuel Isakovitch
-      start: '00:33:30.400'
-      end: '00:33:34.444'
+      start:
+        sec: '2010.400'
+        mark: '00:33:30.400'
+      end:
+        sec: '2014.444'
+        mark: '00:33:34.444'
       u: In Birkenau they were taken into the gas-chambers. Gassed.
     - who: David Boder
-      start: '00:33:34.444'
-      end: '00:33:36.406'
+      start:
+        sec: '2014.444'
+        mark: '00:33:34.444'
+      end:
+        sec: '2016.406'
+        mark: '00:33:36.406'
       u: What is this? [Card number not recorded.]
     - who: Samuel Isakovitch
-      start: '00:33:36.406'
-      end: '00:33:46.939'
+      start:
+        sec: '2016.406'
+        mark: '00:33:36.406'
+      end:
+        sec: '2026.939'
+        mark: '00:33:46.939'
       u: It could be some youth...it could be some youth from the ghetto or from somewhere...after
         the liberation.
     - who: David Boder
-      start: '00:33:46.939'
-      end: '00:33:50.048'
+      start:
+        sec: '2026.939'
+        mark: '00:33:46.939'
+      end:
+        sec: '2030.048'
+        mark: '00:33:50.048'
       u: And what is this? [Card number not recorded.]
     - who: Samuel Isakovitch
-      start: '00:33:50.048'
-      end: '00:33:52.161'
+      start:
+        sec: '2030.048'
+        mark: '00:33:50.048'
+      end:
+        sec: '2032.161'
+        mark: '00:33:52.161'
       u: This is work...
     - who: David Boder
-      start: '00:33:52.161'
-      end: '00:33:52.614'
+      start:
+        sec: '2032.161'
+        mark: '00:33:52.161'
+      end:
+        sec: '2032.614'
+        mark: '00:33:52.614'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:33:52.614'
-      end: '00:34:01.003'
+      start:
+        sec: '2032.614'
+        mark: '00:33:52.614'
+      end:
+        sec: '2041.003'
+        mark: '00:34:01.003'
       u: It is at work [some words not clear]...working in the fields...
     - who: David Boder
-      start: '00:34:01.003'
-      end: '00:34:13.558'
+      start:
+        sec: '2041.003'
+        mark: '00:34:01.003'
+      end:
+        sec: '2053.558'
+        mark: '00:34:13.558'
       u: Oh. Yes. Tell me, what is the most terrible story that you remember from
         the concentration camp?
     - who: Samuel Isakovitch
-      start: '00:34:13.558'
-      end: '00:34:26.101'
+      start:
+        sec: '2053.558'
+        mark: '00:34:13.558'
+      end:
+        sec: '2066.101'
+        mark: '00:34:26.101'
       u: The most terrible...eh...it was when we came to Birkenau and they took the
         children with the women and they started to throw them into the fire, this
         was the most terrible...
     - who: David Boder
-      start: '00:34:26.101'
-      end: '00:34:27.077'
+      start:
+        sec: '2066.101'
+        mark: '00:34:26.101'
+      end:
+        sec: '2067.077'
+        mark: '00:34:27.077'
       u: Did you see it yourself?
     - who: Samuel Isakovitch
-      start: '00:34:27.077'
-      end: '00:34:28.853'
+      start:
+        sec: '2067.077'
+        mark: '00:34:27.077'
+      end:
+        sec: '2068.853'
+        mark: '00:34:28.853'
       u: I saw it with my [own] eyes.
     - who: David Boder
-      start: '00:34:28.853'
-      end: '00:34:30.815'
+      start:
+        sec: '2068.853'
+        mark: '00:34:28.853'
+      end:
+        sec: '2070.815'
+        mark: '00:34:30.815'
       u: What do you mean, in the fire? Before the gas?
     - who: Samuel Isakovitch
-      start: '00:34:30.815'
-      end: '00:34:39.960'
+      start:
+        sec: '2070.815'
+        mark: '00:34:30.815'
+      end:
+        sec: '2079.960'
+        mark: '00:34:39.960'
       u: Before the gas. Before everything. They took the dogs and with machine-guns
         they shot at the children and women...they were taken and thrown into the
         fire...
     - who: David Boder
-      start: '00:34:39.960'
-      end: '00:34:41.397'
+      start:
+        sec: '2079.960'
+        mark: '00:34:39.960'
+      end:
+        sec: '2081.397'
+        mark: '00:34:41.397'
       u: What kind of a fire did they have?
     - who: Samuel Isakovitch
-      start: '00:34:41.397'
-      end: '00:35:09.766'
+      start:
+        sec: '2081.397'
+        mark: '00:34:41.397'
+      end:
+        sec: '2109.766'
+        mark: '00:35:09.766'
       u: A fire that was a pit and since many couldn’t be burned in the crematories,
         so a pit was made in Birkenau...a pit was made. On the bottom burned oil and
         coke and other such that burns, and there they took and threw in the people.
@@ -2567,151 +4915,283 @@ recording:
         long...so long until they themselves had to jump into the fire...[long means
         continuously].
     - who: David Boder
-      start: '00:35:09.766'
-      end: '00:35:11.124'
+      start:
+        sec: '2109.766'
+        mark: '00:35:09.766'
+      end:
+        sec: '2111.124'
+        mark: '00:35:11.124'
       u: What kind of wires?
     - who: Samuel Isakovitch
-      start: '00:35:11.124'
-      end: '00:35:16.285'
+      start:
+        sec: '2111.124'
+        mark: '00:35:11.124'
+      end:
+        sec: '2116.285'
+        mark: '00:35:16.285'
       u: Between the electrical wires [the electrified fence]. The electric wires
         came right to the...near the pit.
     - who: David Boder
-      start: '00:35:16.285'
-      end: '00:35:16.852'
+      start:
+        sec: '2116.285'
+        mark: '00:35:16.285'
+      end:
+        sec: '2116.852'
+        mark: '00:35:16.852'
       u: Yes?
     - who: Samuel Isakovitch
-      start: '00:35:16.852'
-      end: '00:35:26.971'
+      start:
+        sec: '2116.852'
+        mark: '00:35:16.852'
+      end:
+        sec: '2126.971'
+        mark: '00:35:26.971'
       u: They were pushed so long toward the pit...with the dogs and machine guns....for
         so long till they came so near that they had to jump by themselves into the
         fire. And then...
     - who: David Boder
-      start: '00:35:26.971'
-      end: '00:35:28.631'
+      start:
+        sec: '2126.971'
+        mark: '00:35:26.971'
+      end:
+        sec: '2128.631'
+        mark: '00:35:28.631'
       u: I don’t understand. Where were the electrified wires?
     - who: Samuel Isakovitch
-      start: '00:35:28.631'
-      end: '00:35:31.408'
+      start:
+        sec: '2128.631'
+        mark: '00:35:28.631'
+      end:
+        sec: '2131.408'
+        mark: '00:35:31.408'
       u: I will show you. Here was the pit, yes?
     - who: David Boder
-      start: '00:35:31.408'
-      end: '00:35:31.680'
+      start:
+        sec: '2131.408'
+        mark: '00:35:31.408'
+      end:
+        sec: '2131.680'
+        mark: '00:35:31.680'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:35:31.680'
-      end: '00:35:33.944'
+      start:
+        sec: '2131.680'
+        mark: '00:35:31.680'
+      end:
+        sec: '2133.944'
+        mark: '00:35:33.944'
       u: "...and here came the electrified wires..."
     - who: David Boder
-      start: '00:35:33.944'
-      end: '00:35:34.245'
+      start:
+        sec: '2133.944'
+        mark: '00:35:33.944'
+      end:
+        sec: '2134.245'
+        mark: '00:35:34.245'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:35:34.245'
-      end: '00:35:36.237'
+      start:
+        sec: '2134.245'
+        mark: '00:35:34.245'
+      end:
+        sec: '2136.237'
+        mark: '00:35:36.237'
       u: "...thus. And here the people were driven..."
     - who: David Boder
-      start: '00:35:36.237'
-      end: '00:35:36.569'
+      start:
+        sec: '2136.237'
+        mark: '00:35:36.237'
+      end:
+        sec: '2136.569'
+        mark: '00:35:36.569'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:35:36.569'
-      end: '00:35:44.084'
+      start:
+        sec: '2136.569'
+        mark: '00:35:36.569'
+      end:
+        sec: '2144.084'
+        mark: '00:35:44.084'
       u: Here was the fire. When the people came from this side, they then had no
         way out. Here they couldn’t. Here were the electrified wires...
     - who: David Boder
-      start: '00:35:44.084'
-      end: '00:35:44.808'
+      start:
+        sec: '2144.084'
+        mark: '00:35:44.084'
+      end:
+        sec: '2144.808'
+        mark: '00:35:44.808'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:35:44.808'
-      end: '00:35:48.299'
+      start:
+        sec: '2144.808'
+        mark: '00:35:44.808'
+      end:
+        sec: '2148.299'
+        mark: '00:35:48.299'
       u: If they touched the electrified fence they were right away ‘kaput.’ [This
         adjective normally means the complete breakdown of inanimate objects, predominantly
         mechanisms such as clocks or machinery.]
     - who: David Boder
-      start: '00:35:48.299'
-      end: '00:35:48.369'
+      start:
+        sec: '2148.299'
+        mark: '00:35:48.299'
+      end:
+        sec: '2148.369'
+        mark: '00:35:48.369'
       u: Yes.
     - who: Samuel Isakovitch
-      start: '00:35:48.369'
-      end: '00:35:52.625'
+      start:
+        sec: '2148.369'
+        mark: '00:35:48.369'
+      end:
+        sec: '2152.625'
+        mark: '00:35:52.625'
       u: "...went ‘kaput.’ And here they couldn’t but go into the fire. And here they
         were driven into..."
     - who: David Boder
-      start: '00:35:52.625'
-      end: '00:35:52.866'
+      start:
+        sec: '2152.625'
+        mark: '00:35:52.625'
+      end:
+        sec: '2152.866'
+        mark: '00:35:52.866'
       u: Hm.
     - who: Samuel Isakovitch
-      start: '00:35:52.866'
-      end: '00:35:55.140'
+      start:
+        sec: '2152.866'
+        mark: '00:35:52.866'
+      end:
+        sec: '2155.140'
+        mark: '00:35:55.140'
       u: "...with machine guns, with dogs, with..."
     - who: David Boder
-      start: '00:35:55.140'
-      end: '00:35:55.955'
+      start:
+        sec: '2155.140'
+        mark: '00:35:55.140'
+      end:
+        sec: '2155.955'
+        mark: '00:35:55.955'
       u: With blookhounds?
     - who: Samuel Isakovitch
-      start: '00:35:55.955'
-      end: '00:35:59.939'
+      start:
+        sec: '2155.955'
+        mark: '00:35:55.955'
+      end:
+        sec: '2159.939'
+        mark: '00:35:59.939'
       u: Blood-hounds. The big dogs that the SS men had.
     - who: David Boder
-      start: '00:35:59.939'
-      end: '00:36:04.013'
+      start:
+        sec: '2159.939'
+        mark: '00:35:59.939'
+      end:
+        sec: '2164.013'
+        mark: '00:36:04.013'
       u: Hm. Anyone from the family had been there?
     - who: Samuel Isakovitch
-      start: '00:36:04.013'
-      end: '00:36:10.381'
+      start:
+        sec: '2164.013'
+        mark: '00:36:04.013'
+      end:
+        sec: '2170.381'
+        mark: '00:36:10.381'
       u: Everbody was there who...I have no means of knowing...I didn’t see...I only
         saw people...people are being led...such screams that...
     - who: David Boder
-      start: '00:36:10.381'
-      end: '00:36:12.675'
+      start:
+        sec: '2170.381'
+        mark: '00:36:10.381'
+      end:
+        sec: '2172.675'
+        mark: '00:36:12.675'
       u: And where did the men stand?
     - who: Samuel Isakovitch
-      start: '00:36:12.675'
-      end: '00:36:31.894'
+      start:
+        sec: '2172.675'
+        mark: '00:36:12.675'
+      end:
+        sec: '2191.894'
+        mark: '00:36:31.894'
       u: Everybody fell...everbody went in...and the men worked at it...worked...he
         was shot...he who didn’t want to enter, he was shot; he also had to be thrown
         in...at that time was full the whole...the whole court-yard of Birkenau was
         filled with...with dead.
     - who: David Boder
-      start: '00:36:31.894'
-      end: '00:36:33.765'
+      start:
+        sec: '2191.894'
+        mark: '00:36:31.894'
+      end:
+        sec: '2193.765'
+        mark: '00:36:33.765'
       u: When was that, in what year?
     - who: Samuel Isakovitch
-      start: '00:36:33.765'
-      end: '00:36:35.787'
+      start:
+        sec: '2193.765'
+        mark: '00:36:33.765'
+      end:
+        sec: '2195.787'
+        mark: '00:36:35.787'
       u: That was in the year forty-four.
     - who: David Boder
-      start: '00:36:35.787'
-      end: '00:36:37.387'
+      start:
+        sec: '2195.787'
+        mark: '00:36:35.787'
+      end:
+        sec: '2197.387'
+        mark: '00:36:37.387'
       u: In what month?
     - who: Samuel Isakovitch
-      start: '00:36:37.387'
-      end: '00:36:41.824'
+      start:
+        sec: '2197.387'
+        mark: '00:36:37.387'
+      end:
+        sec: '2201.824'
+        mark: '00:36:41.824'
       u: May...May on the...May, on the eighteenth of May...
     - who: David Boder
-      start: '00:36:41.824'
-      end: '00:36:42.760'
+      start:
+        sec: '2201.824'
+        mark: '00:36:41.824'
+      end:
+        sec: '2202.760'
+        mark: '00:36:42.760'
       u: Approximately.
     - who: Samuel Isakovitch
-      start: '00:36:42.760'
-      end: '00:36:49.883'
+      start:
+        sec: '2202.760'
+        mark: '00:36:42.760'
+      end:
+        sec: '2209.883'
+        mark: '00:36:49.883'
       u: Approximately. [Long pause.]
     - who: David Boder
-      start: '00:36:49.883'
-      end: '00:36:53.988'
+      start:
+        sec: '2209.883'
+        mark: '00:36:49.883'
+      end:
+        sec: '2213.988'
+        mark: '00:36:53.988'
       u: What do you think should be done with Germany now?
     - who: Samuel Isakovitch
-      start: '00:36:53.988'
-      end: '00:37:18.708'
+      start:
+        sec: '2213.988'
+        mark: '00:36:53.988'
+      end:
+        sec: '2238.708'
+        mark: '00:37:18.708'
       u: What should be done? I can’t say anything. If there are no bigger heads [smarter
         people] who should that...who should do something, then I can’t say anything
         what...they didn’t...they had already visited the camps, they can...nobody
         can say it...such youth who remained without parents, without...and who have
         nobody...who can say anything?
     - who: David Boder
-      start: '00:37:18.708'
-      end: '00:37:38.808'
+      start:
+        sec: '2238.708'
+        mark: '00:37:18.708'
+      end:
+        sec: '2258.808'
+        mark: '00:37:38.808'
       u: "[In English] Yes. This was the supplement to the same spool of the young
         Samuel Isakovitch. Spool#7."
   commentary:

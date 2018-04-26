@@ -36,73 +36,133 @@ recording:
     language: de
     interview:
     - who: David Boder
-      start: '00:00:00.560'
-      end: '00:00:22.794'
+      start:
+        sec: '0.560'
+        mark: '00:00:00.560'
+      end:
+        sec: '22.794'
+        mark: '00:00:22.794'
       u: "[In English] France, September the 12th, 1946, at Hénonville, about fifty
         (50) kilometers from Paris, a home which is maintained jointly by the Ajuda,
         with the educational supervision of the ORT. The interviewee is Mr. Ephraim
         Gutman."
     - who: David Boder
-      start: '00:00:22.794'
-      end: '00:00:29.642'
+      start:
+        sec: '22.794'
+        mark: '00:00:22.794'
+      end:
+        sec: '29.642'
+        mark: '00:00:29.642'
       u: "[auf deutsch] Also, Herr Gutman, wollen Sie mir sagen noch wie heißen Sie,
         wo sind Sie geboren und wie alt sind Sie?"
     - who: Ephraim Gutman
-      start: '00:00:29.642'
-      end: '00:00:45.930'
+      start:
+        sec: '29.642'
+        mark: '00:00:29.642'
+      end:
+        sec: '45.930'
+        mark: '00:00:45.930'
       u: Gutman, Ephraim, geboren neunzehn hundert siebzehn in der Ukraine. Ich hab
         gelebt die ganze Zeit in Litauen, Kovno, Hauptstadt Kovno.
     - who: David Boder
-      start: '00:00:45.930'
-      end: '00:00:48.860'
+      start:
+        sec: '45.930'
+        mark: '00:00:45.930'
+      end:
+        sec: '48.860'
+        mark: '00:00:48.860'
       u: Ja, also Sie haben in Kovno gelebt.
     - who: Ephraim Gutman
-      start: '00:00:48.860'
-      end: '00:00:51.431'
+      start:
+        sec: '48.860'
+        mark: '00:00:48.860'
+      end:
+        sec: '51.431'
+        mark: '00:00:51.431'
       u: Jawohl, ich habe gelebt in Kovno.
     - who: David Boder
-      start: '00:00:51.431'
-      end: '00:00:54.099'
+      start:
+        sec: '51.431'
+        mark: '00:00:51.431'
+      end:
+        sec: '54.099'
+        mark: '00:00:54.099'
       u: Nun sagen Sie mir, Herr Gutman, ...
     - who: Ephraim Gutman
-      start: '00:00:54.099'
-      end: '00:00:54.431'
+      start:
+        sec: '54.099'
+        mark: '00:00:54.099'
+      end:
+        sec: '54.431'
+        mark: '00:00:54.431'
       u: Bitte.
     - who: David Boder
-      start: '00:00:54.431'
-      end: '00:01:01.244'
+      start:
+        sec: '54.431'
+        mark: '00:00:54.431'
+      end:
+        sec: '61.244'
+        mark: '00:01:01.244'
       u: "..... ....... wo sind Sie gewesen und was hat Ihnen passiert, wenn der Krieg
         hat angefangen. (unverständlich)"
     - who: Ephraim Gutman
-      start: '00:01:01.244'
-      end: '00:01:13.986'
+      start:
+        sec: '61.244'
+        mark: '00:01:01.244'
+      end:
+        sec: '73.986'
+        mark: '00:01:13.986'
       u: Ja. Am 22. Juni wenn hat ausgebrochen, da hab ich gelebt in Kovno.. Am drei,
         am drei und zwanzigsten (23.) Juni haben die Russen abgezogen von Litauen,
         von Kovno.
     - who: David Boder
-      start: '00:01:13.986'
-      end: '00:01:16.392'
+      start:
+        sec: '73.986'
+        mark: '00:01:13.986'
+      end:
+        sec: '76.392'
+        mark: '00:01:16.392'
       u: Da ist der Krieg ausgebrochen zwischen Russland ....... (beide reden zur
         gleichen Zeit)
     - who: Ephraim Gutman
-      start: '00:01:16.392'
-      end: '00:01:18.008'
+      start:
+        sec: '76.392'
+        mark: '00:01:16.392'
+      end:
+        sec: '78.008'
+        mark: '00:01:18.008'
       u: Russland und Deutschland.
     - who: David Boder
-      start: '00:01:18.008'
-      end: '00:01:18.732'
+      start:
+        sec: '78.008'
+        mark: '00:01:18.008'
+      end:
+        sec: '78.732'
+        mark: '00:01:18.732'
       u: Ja, aber da war Krieg bevor.
     - who: Ephraim Gutman
-      start: '00:01:18.732'
-      end: '00:01:20.266'
+      start:
+        sec: '78.732'
+        mark: '00:01:18.732'
+      end:
+        sec: '80.266'
+        mark: '00:01:20.266'
       u: Ja.
     - who: David Boder
-      start: '00:01:20.266'
-      end: '00:01:23.512'
+      start:
+        sec: '80.266'
+        mark: '00:01:20.266'
+      end:
+        sec: '83.512'
+        mark: '00:01:23.512'
       u: Sie haben gelebt in Kovno – unter wem war Kovno dann?
     - who: Ephraim Gutman
-      start: '00:01:23.512'
-      end: '00:03:14.897'
+      start:
+        sec: '83.512'
+        mark: '00:01:23.512'
+      end:
+        sec: '194.897'
+        mark: '00:03:14.897'
       u: Kovno war dann offiziell unter den Litauern, aber ist schon gewesen angeschlossen
         an den Sowjet Verband und es ist gewesen Litauische SSR und dann am zwei und
         zwanzigsten (22.) Juni 1941, wenn der Krieg ist ausgebrochen – wenn Deutschland
@@ -124,12 +184,20 @@ recording:
         – er sitzt mit dem Talmud lernen. Und dann haben sie den Kopf da abgeschnitten
         und gezeigt durch das Fenster.
     - who: David Boder
-      start: '00:03:14.897'
-      end: '00:03:19.819'
+      start:
+        sec: '194.897'
+        mark: '00:03:14.897'
+      end:
+        sec: '199.819'
+        mark: '00:03:19.819'
       u: Nun, also und wo sind Sie gewesen? Was ist Ihnen passiert?
     - who: Ephraim Gutman
-      start: '00:03:19.819'
-      end: '00:04:13.772'
+      start:
+        sec: '199.819'
+        mark: '00:03:19.819'
+      end:
+        sec: '253.772'
+        mark: '00:04:13.772'
       u: Ich war auch unter die Juden,die mit den ..... die mit den Russen zusammen
         und sind weggelaufen. Und wir waren ungefähr dreißig Kilometer (30 km) von
         Kovno. Wir waren schon in Ynovo und dann wir ziehen und da haben wir schon
@@ -143,58 +211,106 @@ recording:
         bei den Partisanen, den sogenannten Partisanen, was wirklich war Horde von
         Litauern, und sie wollten fuhren nach dem neunten Fort.
     - who: David Boder
-      start: '00:04:13.772'
-      end: '00:04:15.616'
+      start:
+        sec: '253.772'
+        mark: '00:04:13.772'
+      end:
+        sec: '255.616'
+        mark: '00:04:15.616'
       u: Was meinen Sie mit „Euch“?
     - who: Ephraim Gutman
-      start: '00:04:15.616'
-      end: '00:04:20.787'
+      start:
+        sec: '255.616'
+        mark: '00:04:15.616'
+      end:
+        sec: '260.787'
+        mark: '00:04:20.787'
       u: Euch ist mir, mit meiner Mutter und neun (9) Brüder und Schwestern.
     - who: David Boder
-      start: '00:04:20.787'
-      end: '00:04:21.956'
+      start:
+        sec: '260.787'
+        mark: '00:04:20.787'
+      end:
+        sec: '261.956'
+        mark: '00:04:21.956'
       u: Neun Brüder .....?
     - who: Ephraim Gutman
-      start: '00:04:21.956'
-      end: '00:04:32.493'
+      start:
+        sec: '261.956'
+        mark: '00:04:21.956'
+      end:
+        sec: '272.493'
+        mark: '00:04:32.493'
       u: "(unterbricht – beide reden) Ich bin der Zehnte und leider sind geblieben
         nur ich von der gesamten Mischpoke. Von der Mutter und von neun (9) Brüdern
         und Schwestern bin ich nur alleine da und ...."
     - who: David Boder
-      start: '00:04:32.493'
-      end: '00:04:33.714'
+      start:
+        sec: '272.493'
+        mark: '00:04:32.493'
+      end:
+        sec: '273.714'
+        mark: '00:04:33.714'
       u: Und wo ist der Vater gewesen?
     - who: Ephraim Gutman
-      start: '00:04:33.714'
-      end: '00:04:41.124'
+      start:
+        sec: '273.714'
+        mark: '00:04:33.714'
+      end:
+        sec: '281.124'
+        mark: '00:04:41.124'
       u: Der Vater ist gewesen ein‚Deiin’ in Kovno und gestorben ..... zwei Brüder
         hat er mit gehabt und er ist gestorben neunzehn hundert vierzig (1940) in
         Kovno.
     - who: David Boder
-      start: '00:04:41.124'
-      end: '00:04:41.670'
+      start:
+        sec: '281.124'
+        mark: '00:04:41.124'
+      end:
+        sec: '281.670'
+        mark: '00:04:41.670'
       u: Was heißt „Deiin“?
     - who: Ephraim Gutman
-      start: '00:04:41.670'
-      end: '00:04:44.617'
+      start:
+        sec: '281.670'
+        mark: '00:04:41.670'
+      end:
+        sec: '284.617'
+        mark: '00:04:44.617'
       u: Ein Deiin ist ein Rabbiner in Kovno.
     - who: David Boder
-      start: '00:04:44.617'
-      end: '00:04:45.493'
+      start:
+        sec: '284.617'
+        mark: '00:04:44.617'
+      end:
+        sec: '285.493'
+        mark: '00:04:45.493'
       u: Nun?
     - who: Ephraim Gutman
-      start: '00:04:45.493'
-      end: '00:05:00.413'
+      start:
+        sec: '285.493'
+        mark: '00:04:45.493'
+      end:
+        sec: '300.413'
+        mark: '00:05:00.413'
       u: Ja, und die Litauer wollten uns auch mit jagen zum Fort und zum Glück war
         da ein Litauer, ein Bekannter Litauer von uns, und er hat gehabt eine Armbinde
         mit einem Hakenkreuz, das ist, er war Partisan und da kommen die ....
     - who: David Boder
-      start: '00:05:00.413'
-      end: '00:05:01.157'
+      start:
+        sec: '300.413'
+        mark: '00:05:00.413'
+      end:
+        sec: '301.157'
+        mark: '00:05:01.157'
       u: Ein Faschist – ein Partisan?
     - who: Ephraim Gutman
-      start: '00:05:01.157'
-      end: '00:06:08.737'
+      start:
+        sec: '301.157'
+        mark: '00:05:01.157'
+      end:
+        sec: '368.737'
+        mark: '00:06:08.737'
       u: Ein Faschist, ja. Und er hat uns erkannt und hat gebeten seine Kameraden
         also sie sollen uns los lassen, weil wir doch die Kovno Rabbiner Familie.
         Und dann sind wir nach Kovno und die Stimmung in dem war schrecklich. Die
@@ -210,22 +326,38 @@ recording:
         mit dem Rabbiner von Kovno, (unverständlich) um zu schaffen ein Ghetto bei
         Kovno, das ist Slobodka.
     - who: David Boder
-      start: '00:06:08.737'
-      end: '00:06:12.526'
+      start:
+        sec: '368.737'
+        mark: '00:06:08.737'
+      end:
+        sec: '372.526'
+        mark: '00:06:12.526'
       u: Und wer war Paulus?
     - who: Ephraim Gutman
-      start: '00:06:12.526'
-      end: '00:06:23.034'
+      start:
+        sec: '372.526'
+        mark: '00:06:12.526'
+      end:
+        sec: '383.034'
+        mark: '00:06:23.034'
       u: Paulus, das ist der General, welcher (unverständlich) hatte bei Stalingrad,
         der deutsche General, der (unverständlich) bei Stalingrad. Und Paul ist der
         General, der belagert hat Kovno, der siegreiche General.
     - who: David Boder
-      start: '00:06:23.034'
-      end: '00:06:23.471'
+      start:
+        sec: '383.034'
+        mark: '00:06:23.034'
+      end:
+        sec: '383.471'
+        mark: '00:06:23.471'
       u: Ja.
     - who: Ephraim Gutman
-      start: '00:06:23.471'
-      end: '00:07:00.226'
+      start:
+        sec: '383.471'
+        mark: '00:06:23.471'
+      end:
+        sec: '420.226'
+        mark: '00:07:00.226'
       u: Und dieser siegreiche General hat verhandelt mit dem Rabbi von Kovno das
         geformt wird ein jiddischer Rat von mehrere Juden, die das Vertrauen des Rabbi
         von Kovno hatten und die verhandeln über ein Ghetto in Kovno. Sehen Sie, er
@@ -235,32 +367,56 @@ recording:
         gegeben, dass die Juden gelbe Armbänder tragen sollen und ein Davidstern nur
         auf der Brust und so ....
     - who: David Boder
-      start: '00:07:00.226'
-      end: '00:07:01.316'
+      start:
+        sec: '420.226'
+        mark: '00:07:00.226'
+      end:
+        sec: '421.316'
+        mark: '00:07:01.316'
       u: Was soll heißen ‚nur auf der Brust’?
     - who: Ephraim Gutman
-      start: '00:07:01.316'
-      end: '00:07:06.668'
+      start:
+        sec: '421.316'
+        mark: '00:07:01.316'
+      end:
+        sec: '426.668'
+        mark: '00:07:06.668'
       u: Weil etwas später im Ghetto war der Befehl nicht nur auf der Brust, sondern
         auch auf dem Rücken.
     - who: David Boder
-      start: '00:07:06.668'
-      end: '00:07:07.261'
+      start:
+        sec: '426.668'
+        mark: '00:07:06.668'
+      end:
+        sec: '427.261'
+        mark: '00:07:07.261'
       u: Ja.
     - who: Ephraim Gutman
-      start: '00:07:07.261'
-      end: '00:07:20.365'
+      start:
+        sec: '427.261'
+        mark: '00:07:07.261'
+      end:
+        sec: '440.365'
+        mark: '00:07:20.365'
       u: Und am Anfang haben wir nur getragen den Stern auf der Brust. Später kam
         der Befehl, dass die Juden nicht auf dem Gehsteig gehen dürfen, die Juden
         .... das heißt, da hat’s noch nicht ein Ghetto gegeben, die Juden dürfen gehen
         nur ............... nur ........
     - who: David Boder
-      start: '00:07:20.365'
-      end: '00:07:20.846'
+      start:
+        sec: '440.365'
+        mark: '00:07:20.365'
+      end:
+        sec: '440.846'
+        mark: '00:07:20.846'
       u: In der Mitte .....?
     - who: Ephraim Gutman
-      start: '00:07:20.846'
-      end: '00:07:54.692'
+      start:
+        sec: '440.846'
+        mark: '00:07:20.846'
+      end:
+        sec: '474.692'
+        mark: '00:07:54.692'
       u: "..........in der Mitte, mitten auf der Strasse, das heißt, genau wie ein
         Hund. Und viele Juden vergessen, dass sie nicht als Menschen gesehen, und
         sie haben vergessen und laufen auf dem Gehsteig, ah, das ist mir selber passiert
@@ -270,12 +426,20 @@ recording:
         ist Holzschuh. Und (unverständlich) haben nicht verstanden zu leben und sie
         haben auch gar keine Bequemlichkeit gehabt."
     - who: David Boder
-      start: '00:07:54.692'
-      end: '00:07:57.787'
+      start:
+        sec: '474.692'
+        mark: '00:07:54.692'
+      end:
+        sec: '477.787'
+        mark: '00:07:57.787'
       u: Und warum sagen sie „dank uns“?
     - who: Ephraim Gutman
-      start: '00:07:57.787'
-      end: '00:08:21.431'
+      start:
+        sec: '477.787'
+        mark: '00:07:57.787'
+      end:
+        sec: '501.431'
+        mark: '00:08:21.431'
       u: Sie verdanken der jüdischen Entwicklung, verdanken der jüdischen Industrie,
         verdanken der jüdischen Kultur haben sie geworden Menschen, wie andere Menschen
         auch und dann auch getragen haben ein paar Schuh. In Litauen ist bekannt,
@@ -283,12 +447,20 @@ recording:
         Klumpe heißt a hölzerner Schuh, weil das mehr ist als er je gehabt. Also wir
         gehen weiter.
     - who: David Boder
-      start: '00:08:21.431'
-      end: '00:08:21.665'
+      start:
+        sec: '501.431'
+        mark: '00:08:21.431'
+      end:
+        sec: '501.665'
+        mark: '00:08:21.665'
       u: Ja.
     - who: Ephraim Gutman
-      start: '00:08:21.665'
-      end: '00:10:32.627'
+      start:
+        sec: '501.665'
+        mark: '00:08:21.665'
+      end:
+        sec: '632.627'
+        mark: '00:10:32.627'
       u: Und jetzt also ist entstanden das jüdische Ghetto und als Zeit ist gewesen
         der fünfzehnte (15.) August neunzehn hundert ein und vierzig (1941), das heißt,
         das ist zwei (2) Monate später wie die Deutschen sind einmarschiert. Die Deutschen
@@ -319,21 +491,37 @@ recording:
         und keine Juden durften herein ins Ghetto. Auch die Litauer durften nicht
         rein in das Ghetto. Und schon ....
     - who: David Boder
-      start: '00:10:32.627'
-      end: '00:10:35.050'
+      start:
+        sec: '632.627'
+        mark: '00:10:32.627'
+      end:
+        sec: '635.050'
+        mark: '00:10:35.050'
       u: Was soll das heissten „die Juden durften nicht herein ins Ghetto“?
     - who: Ephraim Gutman
-      start: '00:10:35.050'
-      end: '00:10:39.286'
+      start:
+        sec: '635.050'
+        mark: '00:10:35.050'
+      end:
+        sec: '639.286'
+        mark: '00:10:39.286'
       u: Also, es ist abgeschlossen, die die blieben in der Stadt – erledigt, man
         konnte nicht herein und nicht heraus.
     - who: David Boder
-      start: '00:10:39.286'
-      end: '00:10:39.919'
+      start:
+        sec: '639.286'
+        mark: '00:10:39.286'
+      end:
+        sec: '639.919'
+        mark: '00:10:39.919'
       u: Ah hm.
     - who: Ephraim Gutman
-      start: '00:10:39.919'
-      end: '00:13:16.832'
+      start:
+        sec: '639.919'
+        mark: '00:10:39.919'
+      end:
+        sec: '796.832'
+        mark: '00:13:16.832'
       u: Und am sechzehnten (16.) August, das war wieder ein Sonntag, ist gekommen
         der Kiminskoff, ein Litauer, der ist geworden der Vermittler zwischen die
         Juden und die Deutschen und er ist gewesen von der deutschen Macht bestellt.
@@ -369,8 +557,12 @@ recording:
         Leben und vier (4) noch extra. Also das ist gewesen Montag, den siebzehnten
         (17.) August neunzehn hundert ein und vierzig (1941).
     - who: Ephraim Gutman
-      start: '00:13:16.832'
-      end: '00:15:09.416'
+      start:
+        sec: '796.832'
+        mark: '00:13:16.832'
+      end:
+        sec: '909.416'
+        mark: '00:15:09.416'
       u: Am Dienstag war das Ghetto umringt und die Deutschen kamen ins Ghetto herein
         massenweise und sie sind dann gegangen rauben die Häuser. Sie sind in das
         Haus und haben verlangt abgeben von Gold und Silber und Brillanten und (unverständlich);
@@ -396,20 +588,36 @@ recording:
         erschossen, dass sie ihnen glauben, dass Leben im Ghetto nur da ist zum Erschießen.
         Und ....
     - who: David Boder
-      start: '00:15:09.416'
-      end: '00:15:10.736'
+      start:
+        sec: '909.416'
+        mark: '00:15:09.416'
+      end:
+        sec: '910.736'
+        mark: '00:15:10.736'
       u: Wo haben sie die erschossen?
     - who: Ephraim Gutman
-      start: '00:15:10.736'
-      end: '00:15:12.358'
+      start:
+        sec: '910.736'
+        mark: '00:15:10.736'
+      end:
+        sec: '912.358'
+        mark: '00:15:12.358'
       u: Ja, hier im Ghetto
     - who: David Boder
-      start: '00:15:12.358'
-      end: '00:15:13.389'
+      start:
+        sec: '912.358'
+        mark: '00:15:12.358'
+      end:
+        sec: '913.389'
+        mark: '00:15:13.389'
       u: Haben Sie die gesehen?
     - who: Ephraim Gutman
-      start: '00:15:13.389'
-      end: '00:16:41.399'
+      start:
+        sec: '913.389'
+        mark: '00:15:13.389'
+      end:
+        sec: '1001.399'
+        mark: '00:16:41.399'
       u: Ja, ja. Hier im Ghetto haben sie die ganzen Menschen erschossen mit Maschinengewehr,
         zwanzig Leute. Und später, wenn das hat man erledigt, dann hat es geheißen,
         dass wenn vorüber geht die Woch, dann wird sein, dass die Deutschen, hm, hm,
@@ -427,36 +635,68 @@ recording:
         auf sein Kommandantur - will er doch von Dr. Elkos als Ober-Jude, er soll
         ihm geben fünf hundert (500) Juden zum Erschießen.
     - who: David Boder
-      start: '00:16:41.399'
-      end: '00:16:42.746'
+      start:
+        sec: '1001.399'
+        mark: '00:16:41.399'
+      end:
+        sec: '1002.746'
+        mark: '00:16:42.746'
       u: Was für Juden?
     - who: Ephraim Gutman
-      start: '00:16:42.746'
-      end: '00:16:45.152'
+      start:
+        sec: '1002.746'
+        mark: '00:16:42.746'
+      end:
+        sec: '1005.152'
+        mark: '00:16:45.152'
       u: Dr. Elkos ist der Ober-Jude.
     - who: David Boder
-      start: '00:16:45.152'
-      end: '00:16:45.850'
+      start:
+        sec: '1005.152'
+        mark: '00:16:45.152'
+      end:
+        sec: '1005.850'
+        mark: '00:16:45.850'
       u: Aber-....
     - who: Ephraim Gutman
-      start: '00:16:45.850'
-      end: '00:16:49.967'
+      start:
+        sec: '1005.850'
+        mark: '00:16:45.850'
+      end:
+        sec: '1009.967'
+        mark: '00:16:49.967'
       u: Ober-Jude, Ober-Jude. Das ist der Älteste von die Juden, vom Kommittee.
     - who: David Boder
-      start: '00:16:49.967'
-      end: '00:16:51.580'
+      start:
+        sec: '1009.967'
+        mark: '00:16:49.967'
+      end:
+        sec: '1011.580'
+        mark: '00:16:51.580'
       u: Was für eine Sprache ist es, Aber ...?
     - who: Ephraim Gutman
-      start: '00:16:51.580'
-      end: '00:16:55.491'
+      start:
+        sec: '1011.580'
+        mark: '00:16:51.580'
+      end:
+        sec: '1015.491'
+        mark: '00:16:55.491'
       u: Ober-Jude, das ist im Deutschen. Ober-Jude. Und ....
     - who: David Boder
-      start: '00:16:55.491'
-      end: '00:16:57.496'
+      start:
+        sec: '1015.491'
+        mark: '00:16:55.491'
+      end:
+        sec: '1017.496'
+        mark: '00:16:57.496'
       u: Wie wird das geschrieben – das Wort?
     - who: Ephraim Gutman
-      start: '00:16:57.496'
-      end: '00:18:20.737'
+      start:
+        sec: '1017.496'
+        mark: '00:16:57.496'
+      end:
+        sec: '1100.737'
+        mark: '00:18:20.737'
       u: 'Und Dr. Elkos hat ihm geantwortet, also bei Juden gibt es nicht so eine
         Sache wie Herausgeben zu Erschießen. Und es war deutlich angegeben in der
         jüdischen Religion – und trotzdem, dass Dr. Elkos nicht ein besonders religiöser
@@ -478,23 +718,39 @@ recording:
         hat die Karte, die einen Monat vorher ausgestellt wurde (Lärm vom Tape, kurze
         Unterbrechung), .....'
     - who: David Boder
-      start: '00:18:20.737'
-      end: '00:18:23.037'
+      start:
+        sec: '1100.737'
+        mark: '00:18:20.737'
+      end:
+        sec: '1103.037'
+        mark: '00:18:23.037'
       u: Bitte, weiter.
     - who: Ephraim Gutman
-      start: '00:18:23.037'
-      end: '00:18:38.978'
+      start:
+        sec: '1103.037'
+        mark: '00:18:23.037'
+      end:
+        sec: '1118.978'
+        mark: '00:18:38.978'
       u: "..... der ist geblieben am Leben. Und alle die keine Karte gehabt haben,
         die wurden weg geführt auf den neunten Fort, das war nicht mehr das siebente
         Fort, aber das neunte Fort, das war gegenüber dem Ghetto, da war ein Berg
         und da hat man erschossen."
     - who: David Boder
-      start: '00:18:38.978'
-      end: '00:18:40.188'
+      start:
+        sec: '1118.978'
+        mark: '00:18:38.978'
+      end:
+        sec: '1120.188'
+        mark: '00:18:40.188'
       u: Haben Sie können sehen?
     - who: Ephraim Gutman
-      start: '00:18:40.188'
-      end: '00:19:24.252'
+      start:
+        sec: '1120.188'
+        mark: '00:18:40.188'
+      end:
+        sec: '1164.252'
+        mark: '00:19:24.252'
       u: Das Fort hat man gesehen nur am Weg in das Ghetto rein, das Ghetto ist in
         einem Tal, das Fort war auf dem Berg. Und vom Ghetto hat man gesehen, wie
         man die Menschen geführt hat auf den Berg, nicht. Und später – ich bin gewesen
@@ -507,8 +763,12 @@ recording:
         sie haben gesagt, da war im Ghetto eine Aktion, das heißt eine Aktion war
         gewesen und man hat alle Juden erschießen.
     - who: Ephraim Gutman
-      start: '00:19:24.252'
-      end: '00:20:44.617'
+      start:
+        sec: '1164.252'
+        mark: '00:19:24.252'
+      end:
+        sec: '1244.617'
+        mark: '00:20:44.617'
       u: Also das ist gewesen die erste (1.) Aktion. Und danach am vierten (4) September
         neunzehn hundert ein und vierzig ist gewesen ..... da sind gekommen die Deutschen
         ..... im Ghetto ist es gewesen, also ich will bemerken, im Ghetto ist gewesen
@@ -530,12 +790,20 @@ recording:
         und wieder sortiert nach die Jordan Karten. Wer hat eine Jordan Karte gehabt,
         der ist geblieben am Leben.
     - who: David Boder
-      start: '00:20:44.617'
-      end: '00:20:47.133'
+      start:
+        sec: '1244.617'
+        mark: '00:20:44.617'
+      end:
+        sec: '1247.133'
+        mark: '00:20:47.133'
       u: Bitte erklären Sie noch einmal, was ist eine Jordan Karte.
     - who: Ephraim Gutman
-      start: '00:20:47.133'
-      end: '00:21:21.998'
+      start:
+        sec: '1247.133'
+        mark: '00:20:47.133'
+      end:
+        sec: '1281.998'
+        mark: '00:21:21.998'
       u: Also ein Monat bevor der ersten Aktion ist gemeldet worden, dass alle Arbeiter,
         Handwerker sollen registrieren beim Kommittee, beim jüdischen Kommittee. Die
         jüdischen Arbeiter und Handwerker haben registriert und später eine Woche
@@ -545,20 +813,36 @@ recording:
         Kramer. Der ist also gewesen praktisch der Chef von dem Ghetto, aber nicht
         der Ghetto Kommandant, der Ghetto Kommandant ....
     - who: David Boder
-      start: '00:21:21.998'
-      end: '00:21:25.398'
+      start:
+        sec: '1281.998'
+        mark: '00:21:21.998'
+      end:
+        sec: '1285.398'
+        mark: '00:21:25.398'
       u: War das der gleiche Kramer, der ist nachher gewesen in Bergen-Belsen?
     - who: Ephraim Gutman
-      start: '00:21:25.398'
-      end: '00:21:31.263'
+      start:
+        sec: '1285.398'
+        mark: '00:21:25.398'
+      end:
+        sec: '1291.263'
+        mark: '00:21:31.263'
       u: Nein, Kramer ist gewesen der Zivil ....., der Zivil-Kommandant, der Zivil-Kommandant.
     - who: David Boder
-      start: '00:21:31.263'
-      end: '00:21:31.795'
+      start:
+        sec: '1291.263'
+        mark: '00:21:31.263'
+      end:
+        sec: '1291.795'
+        mark: '00:21:31.795'
       u: Ja.
     - who: Ephraim Gutman
-      start: '00:21:31.795'
-      end: '00:22:19.691'
+      start:
+        sec: '1291.795'
+        mark: '00:21:31.795'
+      end:
+        sec: '1339.691'
+        mark: '00:22:19.691'
       u: 'Für Kovno – nicht der Militär-Kommandant, sondern der Zivil-Kommandant.
         Und in dieser Sache haben sie bekannt gegeben, dass die Juden, die registriert
         haben als Arbeitern sollen kommen, sollen kommen und abholen Karten. Ich hab
@@ -572,12 +856,20 @@ recording:
         später hat sich gezeigt, dass die mit der Karte nach den zwei Aktionen am
         Leben geblieben sind. Also das ist Jordan Karte. Klar, ja?'
     - who: David Boder
-      start: '00:22:19.691'
-      end: '00:22:20.488'
+      start:
+        sec: '1339.691'
+        mark: '00:22:19.691'
+      end:
+        sec: '1340.488'
+        mark: '00:22:20.488'
       u: Ah hm.
     - who: Ephraim Gutman
-      start: '00:22:20.488'
-      end: '00:22:55.012'
+      start:
+        sec: '1340.488'
+        mark: '00:22:20.488'
+      end:
+        sec: '1375.012'
+        mark: '00:22:55.012'
       u: Also an dem Tag gehen wir wieder zu der zweiten (2.) Aktion – am vierten
         (4.) September. Zuerst haben sie angezündet das Spital mit dem Kinderheim
         und danach darauf haben sie auf dem Platz die Juden sortiert. Und diesmal,
@@ -588,8 +880,12 @@ recording:
         dort zu leben oder ins kleine Ghetto rein zu gehen, weder Litauer noch ein
         Jude durfte in das kleine Ghetto.
     - who: Ephraim Gutman
-      start: '00:22:55.012'
-      end: '00:25:22.420'
+      start:
+        sec: '1375.012'
+        mark: '00:22:55.012'
+      end:
+        sec: '1522.420'
+        mark: '00:25:22.420'
       u: Das alles war am Anfang unverständlich, aber später war es geworden klar,
         es war Vorbereitung für die große Aktion. Also jetzt gehen wir zu der dritten
         (3.) Aktion. Wir rechnen nicht was inzwischen passiert ist, schießen und so
@@ -621,22 +917,38 @@ recording:
         dahinter und die Luftplatz dahinter - also und so weiter und so weiter und
         jeder soll mit ihm haben die ganze Familie.
     - who: David Boder
-      start: '00:25:22.420'
-      end: '00:25:23.738'
+      start:
+        sec: '1522.420'
+        mark: '00:25:22.420'
+      end:
+        sec: '1523.738'
+        mark: '00:25:23.738'
       u: Was heißt der Flugplatz?
     - who: Ephraim Gutman
-      start: '00:25:23.738'
-      end: '00:25:31.963'
+      start:
+        sec: '1523.738'
+        mark: '00:25:23.738'
+      end:
+        sec: '1531.963'
+        mark: '00:25:31.963'
       u: Der Flugplatz wird in Kovno also gebaut ein riesiger Aerodrom am Flugplatz
         und dorthin wurden gefahren vier (4) bis sechs (6) Tausend sieben (7) Tage
         zur Arbeit.
     - who: David Boder
-      start: '00:25:31.963'
-      end: '00:25:33.389'
+      start:
+        sec: '1531.963'
+        mark: '00:25:31.963'
+      end:
+        sec: '1533.389'
+        mark: '00:25:33.389'
       u: Ah. Und wer hat stehen müssen zur Seite?
     - who: Ephraim Gutman
-      start: '00:25:33.389'
-      end: '00:26:10.951'
+      start:
+        sec: '1533.389'
+        mark: '00:25:33.389'
+      end:
+        sec: '1570.951'
+        mark: '00:26:10.951'
       u: Die, die haben gearbeitet haben müssen sich versammeln am großen Platz, die
         Flugplatz Arbeiter. Gemeint hat man, dass die Leute, die Flugplatz Arbeiter
         wichtiger sind und werden abschneiden besser, weil Arbeiter am Flugplatz muss
@@ -646,38 +958,70 @@ recording:
         Menschen. Und sie kommen in das Ghetto mit den kleinen Maschinen und haben
         gemacht, aufgestellt die Juden als wären sie, also, hm, ............
     - who: David Boder
-      start: '00:26:10.951'
-      end: '00:26:12.073'
+      start:
+        sec: '1570.951'
+        mark: '00:26:10.951'
+      end:
+        sec: '1572.073'
+        mark: '00:26:12.073'
       u: Mit was für Maschinen?
     - who: Ephraim Gutman
-      start: '00:26:12.073'
-      end: '00:26:15.434'
+      start:
+        sec: '1572.073'
+        mark: '00:26:12.073'
+      end:
+        sec: '1575.434'
+        mark: '00:26:15.434'
       u: Mit kleine Maschinen, nicht mit Gewehrmaschine.
     - who: David Boder
-      start: '00:26:15.434'
-      end: '00:26:16.173'
+      start:
+        sec: '1575.434'
+        mark: '00:26:15.434'
+      end:
+        sec: '1576.173'
+        mark: '00:26:16.173'
       u: Automobil.
     - who: Ephraim Gutman
-      start: '00:26:16.173'
-      end: '00:26:34.712'
+      start:
+        sec: '1576.173'
+        mark: '00:26:16.173'
+      end:
+        sec: '1594.712'
+        mark: '00:26:34.712'
       u: Ah hm. Und die Juden stehen herum und rundherum und da war ein gewisser Platz
         frei , das ist die Ältesten sind durch marschiert und gemacht (unverständlich)
         nicht erlaubt ....
     - who: David Boder
-      start: '00:26:34.712'
-      end: '00:26:35.743'
+      start:
+        sec: '1594.712'
+        mark: '00:26:34.712'
+      end:
+        sec: '1595.743'
+        mark: '00:26:35.743'
       u: Die Ältesten?
     - who: Ephraim Gutman
-      start: '00:26:35.743'
-      end: '00:26:37.483'
+      start:
+        sec: '1595.743'
+        mark: '00:26:35.743'
+      end:
+        sec: '1597.483'
+        mark: '00:26:37.483'
       u: Der Ältesten Rat, das ist jüdische Kommittee sollte durch marschieren.
     - who: David Boder
-      start: '00:26:37.483'
-      end: '00:26:37.597'
+      start:
+        sec: '1597.483'
+        mark: '00:26:37.483'
+      end:
+        sec: '1597.597'
+        mark: '00:26:37.597'
       u: Ja.
     - who: Ephraim Gutman
-      start: '00:26:37.597'
-      end: '00:29:03.654'
+      start:
+        sec: '1597.597'
+        mark: '00:26:37.597'
+      end:
+        sec: '1743.654'
+        mark: '00:29:03.654'
       u: 'Und gemacht haben sie es so, dass sie durch marschieren, da haben sie die
         deutschen Posten so aufgestellt, dass sie ein kleines Türl gemacht, ein „Menschentürl“
         um durch zu gehen. Und dort bei der Tür hat gestanden Jordan und die ganze
@@ -709,47 +1053,87 @@ recording:
         gegangen sind zum Erschießen, weil Ältere zum Leben gekommen sind, weil es
         war ihm unmöglich zu sortieren, weil es war finster. Also die ....'
     - who: David Boder
-      start: '00:29:03.654'
-      end: '00:29:04.410'
+      start:
+        sec: '1743.654'
+        mark: '00:29:03.654'
+      end:
+        sec: '1744.410'
+        mark: '00:29:04.410'
       u: Wer war das?
     - who: Ephraim Gutman
-      start: '00:29:04.410'
-      end: '00:29:05.896'
+      start:
+        sec: '1744.410'
+        mark: '00:29:04.410'
+      end:
+        sec: '1745.896'
+        mark: '00:29:05.896'
       u: Der Jordan, auch der Jordan.
     - who: David Boder
-      start: '00:29:05.896'
-      end: '00:29:06.441'
+      start:
+        sec: '1745.896'
+        mark: '00:29:05.896'
+      end:
+        sec: '1746.441'
+        mark: '00:29:06.441'
       u: Jordan.
     - who: Ephraim Gutman
-      start: '00:29:06.441'
-      end: '00:29:07.400'
+      start:
+        sec: '1746.441'
+        mark: '00:29:06.441'
+      end:
+        sec: '1747.400'
+        mark: '00:29:07.400'
       u: Später ....
     - who: David Boder
-      start: '00:29:07.400'
-      end: '00:29:08.489'
+      start:
+        sec: '1747.400'
+        mark: '00:29:07.400'
+      end:
+        sec: '1748.489'
+        mark: '00:29:08.489'
       u: Wer war der Jordan?
     - who: Ephraim Gutman
-      start: '00:29:08.489'
-      end: '00:29:29.871'
+      start:
+        sec: '1748.489'
+        mark: '00:29:08.489'
+      end:
+        sec: '1769.871'
+        mark: '00:29:29.871'
       u: Jordan ist gewesen SS Obersturmführer. Das ist ein (unverständlich), ein
         Brauner. Er selber ist ein (unverständlich), ungefähr ein und zwanzig (21),
         ein Sportlehrer und es scheint so ein (unverstaendich) für Menschen und das
         wollen die gehabt haben.
     - who: David Boder
-      start: '00:29:29.871'
-      end: '00:29:30.813'
+      start:
+        sec: '1769.871'
+        mark: '00:29:29.871'
+      end:
+        sec: '1770.813'
+        mark: '00:29:30.813'
       u: We war er – ein Litauer?
     - who: Ephraim Gutman
-      start: '00:29:30.813'
-      end: '00:29:31.464'
+      start:
+        sec: '1770.813'
+        mark: '00:29:30.813'
+      end:
+        sec: '1771.464'
+        mark: '00:29:31.464'
       u: Ein Deutscher.
     - who: David Boder
-      start: '00:29:31.464'
-      end: '00:29:33.925'
+      start:
+        sec: '1771.464'
+        mark: '00:29:31.464'
+      end:
+        sec: '1773.925'
+        mark: '00:29:33.925'
       u: Was ist ihm nachher passiert?
     - who: Ephraim Gutman
-      start: '00:29:33.925'
-      end: '00:30:57.845'
+      start:
+        sec: '1773.925'
+        mark: '00:29:33.925'
+      end:
+        sec: '1857.845'
+        mark: '00:30:57.845'
       u: Dieser Jordan ist nachher .... es war er hat jüdisches Eigentum sich angeeignet,
         wie der Befehl – über den ich vorher geredet habe – ist gekommen, dass jüdisches
         Gold und Brillanten abgeliefert werden muss, und da hat er sich die besseren
@@ -772,12 +1156,20 @@ recording:
         zwölf tausend (12000) Juden, zwölf tausend, nicht zu vergleichen mit andere
         Ziffern, zwölf tausend Juden und man hat nichts gewusst. Doch am Morgen ....
     - who: David Boder
-      start: '00:30:57.845'
-      end: '00:30:59.908'
+      start:
+        sec: '1857.845'
+        mark: '00:30:57.845'
+      end:
+        sec: '1859.908'
+        mark: '00:30:59.908'
       u: Von wo wissen Sie die Nummer?
     - who: Ephraim Gutman
-      start: '00:30:59.908'
-      end: '00:31:55.631'
+      start:
+        sec: '1859.908'
+        mark: '00:30:59.908'
+      end:
+        sec: '1915.631'
+        mark: '00:31:55.631'
       u: Am nächsten Morgen da mussten man Appell nehmen und da waren .... und da
         hat man gesehen, dass zwölf tausend Juden nicht waren in dem Ghetto. Und die
         Menschen haben sie gehalten im kleinen Ghetto, leider die Juden dort in dem
@@ -791,32 +1183,56 @@ recording:
         nach einer kurzen Weil .... haben wir gehört das deutsche MG Feuer, das ist,
         hm, ........
     - who: David Boder
-      start: '00:31:55.631'
-      end: '00:31:55.998'
+      start:
+        sec: '1915.631'
+        mark: '00:31:55.631'
+      end:
+        sec: '1915.998'
+        mark: '00:31:55.998'
       u: Maschinengewehr.
     - who: Ephraim Gutman
-      start: '00:31:55.998'
-      end: '00:31:58.824'
+      start:
+        sec: '1915.998'
+        mark: '00:31:55.998'
+      end:
+        sec: '1918.824'
+        mark: '00:31:58.824'
       u: Maschinengewehr (unverständlich)
     - who: David Boder
-      start: '00:31:58.824'
-      end: '00:32:00.204'
+      start:
+        sec: '1918.824'
+        mark: '00:31:58.824'
+      end:
+        sec: '1920.204'
+        mark: '00:32:00.204'
       u: Ja.
     - who: Ephraim Gutman
-      start: '00:32:00.204'
-      end: '00:32:20.900'
+      start:
+        sec: '1920.204'
+        mark: '00:32:00.204'
+      end:
+        sec: '1940.900'
+        mark: '00:32:20.900'
       u: 'Und dann war die Sache erledigt. Am Morgen hat Dr. Elkos gefragt Jordan,
         was geschehen ist mit den zwölf tausend (12000) Juden und er hat gesagt: “Reden
         Sie net darüber. Diese Juden sind schon nicht mehr am Leben. Aber mehr wird
         in dem Ghetto nicht vorkommen, das ist die letzte von den Aktionen. Jetzt
         bleibt ihr alle am Leben.“'
     - who: David Boder
-      start: '00:32:20.900'
-      end: '00:32:22.783'
+      start:
+        sec: '1940.900'
+        mark: '00:32:20.900'
+      end:
+        sec: '1942.783'
+        mark: '00:32:22.783'
       u: Wer hat sie begraben, die zwölf tausend (12000)?
     - who: Ephraim Gutman
-      start: '00:32:22.783'
-      end: '00:32:55.712'
+      start:
+        sec: '1942.783'
+        mark: '00:32:22.783'
+      end:
+        sec: '1975.712'
+        mark: '00:32:55.712'
       u: Da waren vorbereitete Gräber auch. Die russischen Gefangenen machen zuerst
         die Gräber, und dort werden aufgereiht die Menschen, unbekleidet – nackert
         oder in der Unterwäsch ..... und rein werfen in diese riesigen Graben. Sie
@@ -825,12 +1241,20 @@ recording:
         Platz lassen für noch. Und so haben sie diesen Kalk darauf, um zu verhüten
         eine Epidemie und die Graben mit Kalk drüber für die die später begraben werden.
     - who: David Boder
-      start: '00:32:55.712'
-      end: '00:32:57.231'
+      start:
+        sec: '1975.712'
+        mark: '00:32:55.712'
+      end:
+        sec: '1977.231'
+        mark: '00:32:57.231'
       u: Sie wurden nicht zugeschüttet die Gruben?
     - who: Ephraim Gutman
-      start: '00:32:57.231'
-      end: '00:33:24.832'
+      start:
+        sec: '1977.231'
+        mark: '00:32:57.231'
+      end:
+        sec: '2004.832'
+        mark: '00:33:24.832'
       u: Nein, nur Kalk. Also, das ist gewesen am acht und zwanzigsten (28.) Oktober
         neunzehn hundert ein und vierzig (1941) und das war gewesen richtig, wirklich
         die letzte Aktion im Ghetto oder besser gesagt eine der Letzten. Kleine Aktionen
@@ -838,12 +1262,20 @@ recording:
         Aktionen war an dem Tag, wo gefallen ist Stalingrad – wo Deutschland verloren
         hat Stalingrad ...
     - who: David Boder
-      start: '00:33:24.832'
-      end: '00:33:25.361'
+      start:
+        sec: '2004.832'
+        mark: '00:33:24.832'
+      end:
+        sec: '2005.361'
+        mark: '00:33:25.361'
       u: Nun?
     - who: Ephraim Gutman
-      start: '00:33:25.361'
-      end: '00:33:58.283'
+      start:
+        sec: '2005.361'
+        mark: '00:33:25.361'
+      end:
+        sec: '2038.283'
+        mark: '00:33:58.283'
       u: "... da mussten sie doch etwas tun um ihren (unverständlich), da mussten
         sie stillen ihre Blut. Und da war dort die Litauische Polizei in Kovno – alle
         Juden, die da zur Arbeit waren, wenn sie heraus gehen von dem Arbeitsplatz
@@ -852,43 +1284,75 @@ recording:
         in das Ghetto und hat die Familien von die Menschen weggeführt am Morgen,
         weggeführt auf den Fort, wieder zum neunten (9.) Fort und erschossen."
     - who: David Boder
-      start: '00:33:58.283'
-      end: '00:34:01.085'
+      start:
+        sec: '2038.283'
+        mark: '00:33:58.283'
+      end:
+        sec: '2041.085'
+        mark: '00:34:01.085'
       u: Man hat zusammengenommen die ....
     - who: Ephraim Gutman
-      start: '00:34:01.085'
-      end: '00:34:04.049'
+      start:
+        sec: '2041.085'
+        mark: '00:34:01.085'
+      end:
+        sec: '2044.049'
+        mark: '00:34:04.049'
       u: Die Mischpoke, die Mischpoke von denen, die arretiert wurden am Abend in
         Kovno.
     - who: David Boder
-      start: '00:34:04.049'
-      end: '00:34:05.307'
+      start:
+        sec: '2044.049'
+        mark: '00:34:04.049'
+      end:
+        sec: '2045.307'
+        mark: '00:34:05.307'
       u: Und warum hat man die genommen wegen der Arbeit?
     - who: Ephraim Gutman
-      start: '00:34:05.307'
-      end: '00:34:17.177'
+      start:
+        sec: '2045.307'
+        mark: '00:34:05.307'
+      end:
+        sec: '2057.177'
+        mark: '00:34:17.177'
       u: 'Nur weil sie weggetreten sind von ihrem Arbeitsplatz. Zum Beispiel: da war
         ein gewisser Mechaniker in Kovno, der Name war Sadowski. Er ist gegangen aus
         der Reihe und bettelt um ein Stück Brot ....'
     - who: David Boder
-      start: '00:34:17.177'
-      end: '00:34:17.917'
+      start:
+        sec: '2057.177'
+        mark: '00:34:17.177'
+      end:
+        sec: '2057.917'
+        mark: '00:34:17.917'
       u: Ein Jude?
     - who: Ephraim Gutman
-      start: '00:34:17.917'
-      end: '00:34:34.918'
+      start:
+        sec: '2057.917'
+        mark: '00:34:17.917'
+      end:
+        sec: '2074.918'
+        mark: '00:34:34.918'
       u: Ein Jude. Der wollte ein Stück Brot da kriegen von einem Christen, von einer
         Litauer Frau. Es ist selbstverständlich, dass er nichts gekriegt von ihr,
         aber der Posten hat es bemerkt und hat ihn arretiert und in der Nacht sind
         sie gekommen und haben genommen die Frau und Tochter und haben sie am nächsten
         Morgen in der Früh erschossen.
     - who: David Boder
-      start: '00:34:34.918'
-      end: '00:34:36.201'
+      start:
+        sec: '2074.918'
+        mark: '00:34:34.918'
+      end:
+        sec: '2076.201'
+        mark: '00:34:36.201'
       u: Sie sagen erschossen?
     - who: Ephraim Gutman
-      start: '00:34:36.201'
-      end: '00:35:29.854'
+      start:
+        sec: '2076.201'
+        mark: '00:34:36.201'
+      end:
+        sec: '2129.854'
+        mark: '00:35:29.854'
       u: Wieder im neunten Fort. Später in neunzehn hundert drei und vierzig bevor
         (unverständlich) ist gekommen eines guten Morgens Einer von Deutschland und
         hat gesagt, dass von heut an weiter wird das Ghetto jetzt Konz-Lager, das
@@ -900,45 +1364,85 @@ recording:
         „Ja, das geht doch nicht, man muss mehr kriegen – Butter und so weiter. Wichtig!
         Und wir haben bekommen Butter, aber leider hat es gekostet ....
     - who: David Boder
-      start: '00:35:29.854'
-      end: '00:35:30.594'
+      start:
+        sec: '2129.854'
+        mark: '00:35:29.854'
+      end:
+        sec: '2130.594'
+        mark: '00:35:30.594'
       u: Wann war das?
     - who: Ephraim Gutman
-      start: '00:35:30.594'
-      end: '00:35:33.136'
+      start:
+        sec: '2130.594'
+        mark: '00:35:30.594'
+      end:
+        sec: '2133.136'
+        mark: '00:35:33.136'
       u: Das war in neunzehn hundert drei und vierzig (1943) beim (unverständlich)
         Fest.
     - who: David Boder
-      start: '00:35:33.136'
-      end: '00:35:33.793'
+      start:
+        sec: '2133.136'
+        mark: '00:35:33.136'
+      end:
+        sec: '2133.793'
+        mark: '00:35:33.793'
       u: Ja.
     - who: Ephraim Gutman
-      start: '00:35:33.793'
-      end: '00:35:34.890'
+      start:
+        sec: '2133.793'
+        mark: '00:35:33.793'
+      end:
+        sec: '2134.890'
+        mark: '00:35:34.890'
       u: Und ....
     - who: David Boder
-      start: '00:35:34.890'
-      end: '00:35:36.692'
+      start:
+        sec: '2134.890'
+        mark: '00:35:34.890'
+      end:
+        sec: '2136.692'
+        mark: '00:35:36.692'
       u: Sie meinen Butter ist Margarine?
     - who: Ephraim Gutman
-      start: '00:35:36.692'
-      end: '00:35:37.593'
+      start:
+        sec: '2136.692'
+        mark: '00:35:36.692'
+      end:
+        sec: '2137.593'
+        mark: '00:35:37.593'
       u: Butter.
     - who: David Boder
-      start: '00:35:37.593'
-      end: '00:35:38.139'
+      start:
+        sec: '2137.593'
+        mark: '00:35:37.593'
+      end:
+        sec: '2138.139'
+        mark: '00:35:38.139'
       u: Was meinen Sie mit Butter?....
     - who: Ephraim Gutman
-      start: '00:35:38.139'
-      end: '00:35:40.300'
+      start:
+        sec: '2138.139'
+        mark: '00:35:38.139'
+      end:
+        sec: '2140.300'
+        mark: '00:35:40.300'
       u: Richtige Butter, richtige Butter!
     - who: David Boder
-      start: '00:35:40.300'
-      end: '00:35:41.365'
+      start:
+        sec: '2140.300'
+        mark: '00:35:40.300'
+      end:
+        sec: '2141.365'
+        mark: '00:35:41.365'
       u: Wo kann man die kaufen?
     - who: Ephraim Gutman
-      start: '00:35:41.365'
-      end: '00:36:08.886'
+      start:
+        sec: '2141.365'
+        mark: '00:35:41.365'
+      end:
+        sec: '2168.886'
+        mark: '00:36:08.886'
       u: 'Von den Deutschen ... oh, für sich selber haben sie gehabt, was sie gebraucht
         haben, haben sie von den Juden genommen. Marmelade haben sie uns gegeben.
         Und in dem Ghetto war so ein Spruch: „Heute kriegen wir schon eine Butter,
@@ -947,36 +1451,68 @@ recording:
         und vierzig (1943) haben sie umringelt das Ghetto von innen und sie haben
         drei und ein halb tausend (3500) Juden nach Estland und dorthin weg geführt.'
     - who: David Boder
-      start: '00:36:08.886'
-      end: '00:36:10.511'
+      start:
+        sec: '2168.886'
+        mark: '00:36:08.886'
+      end:
+        sec: '2170.511'
+        mark: '00:36:10.511'
       u: Nach Estland, nach Reval?
     - who: Ephraim Gutman
-      start: '00:36:10.511'
-      end: '00:36:14.077'
+      start:
+        sec: '2170.511'
+        mark: '00:36:10.511'
+      end:
+        sec: '2174.077'
+        mark: '00:36:14.077'
       u: Nein, nach verschiedene Arbeitsplätze. Die erste .....
     - who: David Boder
-      start: '00:36:14.077'
-      end: '00:36:17.195'
+      start:
+        sec: '2174.077'
+        mark: '00:36:14.077'
+      end:
+        sec: '2177.195'
+        mark: '00:36:17.195'
       u: Und Estland hat man genannt Russland dann?
     - who: Ephraim Gutman
-      start: '00:36:17.195'
-      end: '00:36:20.037'
+      start:
+        sec: '2177.195'
+        mark: '00:36:17.195'
+      end:
+        sec: '2180.037'
+        mark: '00:36:20.037'
       u: Estland war gewesen ein Gebiet von Russland.
     - who: David Boder
-      start: '00:36:20.037'
-      end: '00:36:20.137'
+      start:
+        sec: '2180.037'
+        mark: '00:36:20.037'
+      end:
+        sec: '2180.137'
+        mark: '00:36:20.137'
       u: Ja.
     - who: Ephraim Gutman
-      start: '00:36:20.137'
-      end: '00:36:21.161'
+      start:
+        sec: '2180.137'
+        mark: '00:36:20.137'
+      end:
+        sec: '2181.161'
+        mark: '00:36:21.161'
       u: Das okkupierte Russland.
     - who: David Boder
-      start: '00:36:21.161'
-      end: '00:36:22.395'
+      start:
+        sec: '2181.161'
+        mark: '00:36:21.161'
+      end:
+        sec: '2182.395'
+        mark: '00:36:22.395'
       u: Ja.
     - who: Ephraim Gutman
-      start: '00:36:22.395'
-      end: '00:37:38.701'
+      start:
+        sec: '2182.395'
+        mark: '00:36:22.395'
+      end:
+        sec: '2258.701'
+        mark: '00:37:38.701'
       u: Zuerst hat er gesagt bevor gekommen ist der acht und zwanzigste (28.) Oktober,
         sie brauchen zwei tausend (2000) Juden zwanzig (20) Kilometer von Kovno für
         Arbeit. Dann ist heraus gekommen, das waren doch Lügen und er hat sie weg
@@ -995,33 +1531,57 @@ recording:
         Offizier, was da rein gekommen ist in ... hm, dort die Kammer .....hm, in
         den ... wie heißt es denn ....
     - who: David Boder
-      start: '00:37:38.701'
-      end: '00:37:39.457'
+      start:
+        sec: '2258.701'
+        mark: '00:37:38.701'
+      end:
+        sec: '2259.457'
+        mark: '00:37:39.457'
       u: Die Gaskammer.
     - who: Ephraim Gutman
-      start: '00:37:39.457'
-      end: '00:37:46.394'
+      start:
+        sec: '2259.457'
+        mark: '00:37:39.457'
+      end:
+        sec: '2266.394'
+        mark: '00:37:46.394'
       u: Nein, wo man verbrennt, im Krematorium. So wenn die Deutschen herein gekommen
         sind, stießen sie ihn von hinten und gehängt, und dann geworfen in den Ofen.
     - who: David Boder
-      start: '00:37:46.394'
-      end: '00:37:47.660'
+      start:
+        sec: '2266.394'
+        mark: '00:37:46.394'
+      end:
+        sec: '2267.660'
+        mark: '00:37:47.660'
       u: Haben sie die nicht gesucht?
     - who: Ephraim Gutman
-      start: '00:37:47.660'
-      end: '00:38:09.406'
+      start:
+        sec: '2267.660'
+        mark: '00:37:47.660'
+      end:
+        sec: '2289.406'
+        mark: '00:38:09.406'
       u: Und so sind viele Deutsche verschwunden bis es ist aufgefallen und der Verdacht
         war, dass sie alle sind weg in der Vorbereitung für die „Kammer“. Und so haben
         sie gewusst und sie sind alle in die Kammer geschmissen worden. Das habe ich
         gehört von einem Schwager, der mir es erzählt. Er hat es gehört von einem
         Kameraden, der geflüchtet ist. (unverstaendich)
     - who: David Boder
-      start: '00:38:09.406'
-      end: '00:38:10.154'
+      start:
+        sec: '2289.406'
+        mark: '00:38:09.406'
+      end:
+        sec: '2290.154'
+        mark: '00:38:10.154'
       u: Von dem Krematorium?
     - who: Ephraim Gutman
-      start: '00:38:10.154'
-      end: '00:39:02.529'
+      start:
+        sec: '2290.154'
+        mark: '00:38:10.154'
+      end:
+        sec: '2342.529'
+        mark: '00:39:02.529'
       u: Ja, vom Krematorium, ja und dass mein Bruder ist gewesen der Organisator
         von diesem Aggressionsakt gegen die Deutschen. Also jetzt gehen wir weiter.
         Das Ghetto, also nicht das Ghetto, sondern das Konz-Lager, die Aktionen gingen
@@ -1035,39 +1595,67 @@ recording:
         alle Aktionen gegen die Leute im Ghetto haben einen Vorahnung gehabt, dass
         etwas sollte vorkommen.
     - who: David Boder
-      start: '00:39:02.529'
-      end: '00:39:31.443'
+      start:
+        sec: '2342.529'
+        mark: '00:39:02.529'
+      end:
+        sec: '2371.443'
+        mark: '00:39:31.443'
       u: "[In English] This concludes, this concludes Spool 124 of Mr. Ephraim Gutman
         and we are going over, we are going over to Spool 125. We are taking now about
         the so-called Aktion gegen Alte und Kinder. Paris, September the 12th, 1946,
         in Hénonville."
     - who: David Boder
-      start: '00:39:31.443'
-      end: '00:40:11.170'
+      start:
+        sec: '2371.443'
+        mark: '00:39:31.443'
+      end:
+        sec: '2411.170'
+        mark: '00:40:11.170'
       u: This spool, which is called 125 should really be called 125A because there
         is another section of an interviewee. January 29, 1950. Boder.
     - who: David Boder
-      start: '00:40:11.170'
-      end: '00:40:31.447'
+      start:
+        sec: '2411.170'
+        mark: '00:40:11.170'
+      end:
+        sec: '2431.447'
+        mark: '00:40:31.447'
       u: This is Spool 125, Mr. Ephraim Gutman reporting, a continuation of Spool
         124. France, Hénonville, fifty Kilometers (50 km) from Paris at a home maintained
         by for displaced Jews, maintained by the Agudah in combination with the ORT.
     - who: David Boder
-      start: '00:40:31.447'
-      end: '00:40:36.287'
+      start:
+        sec: '2431.447'
+        mark: '00:40:31.447'
+      end:
+        sec: '2436.287'
+        mark: '00:40:36.287'
       u: "[auf deutsch] Also Sie haben gesagt, man hat angefangen eine Aktion gegen
         alte Menschen und Kinder."
     - who: Ephraim Gutman
-      start: '00:40:36.287'
-      end: '00:40:36.785'
+      start:
+        sec: '2436.287'
+        mark: '00:40:36.287'
+      end:
+        sec: '2436.785'
+        mark: '00:40:36.785'
       u: Ja.
     - who: David Boder
-      start: '00:40:36.785'
-      end: '00:40:38.629'
+      start:
+        sec: '2436.785'
+        mark: '00:40:36.785'
+      end:
+        sec: '2438.629'
+        mark: '00:40:38.629'
       u: Wenn und was ist gewesen und was war das?
     - who: Ephraim Gutman
-      start: '00:40:38.629'
-      end: '00:41:07.589'
+      start:
+        sec: '2438.629'
+        mark: '00:40:38.629'
+      end:
+        sec: '2467.589'
+        mark: '00:41:07.589'
       u: Das ist gewesen am acht und zwanzigsten (28.) Oktober, am acht und zwanzigsten
         (28.) und sieben und zwanzigsten (27.) März neunzehn hundert vier und vierzig
         (1944). Also ich will noch einmal bemerken, dass vor einer Aktion, dass etwas
@@ -1075,58 +1663,106 @@ recording:
         Ghetto gespürt haben, das etwas passiert gegen das Ghetto. Und am sechs und
         zwanzigsten (26.) abends ist gekommen Gerke, der Lager Kommandant ....
     - who: David Boder
-      start: '00:41:07.589'
-      end: '00:41:08.961'
+      start:
+        sec: '2467.589'
+        mark: '00:41:07.589'
+      end:
+        sec: '2468.961'
+        mark: '00:41:08.961'
       u: Wie schreibt man seinen Namen?
     - who: Ephraim Gutman
-      start: '00:41:08.961'
-      end: '00:41:10.318'
+      start:
+        sec: '2468.961'
+        mark: '00:41:08.961'
+      end:
+        sec: '2470.318'
+        mark: '00:41:10.318'
       u: Gerke.
     - who: David Boder
-      start: '00:41:10.318'
-      end: '00:41:12.493'
+      start:
+        sec: '2470.318'
+        mark: '00:41:10.318'
+      end:
+        sec: '2472.493'
+        mark: '00:41:12.493'
       u: G – e –c – k –e (buchstabiert)?
     - who: Ephraim Gutman
-      start: '00:41:12.493'
-      end: '00:41:13.061'
+      start:
+        sec: '2472.493'
+        mark: '00:41:12.493'
+      end:
+        sec: '2473.061'
+        mark: '00:41:13.061'
       u: Das weiß ich nicht.
     - who: David Boder
-      start: '00:41:13.061'
-      end: '00:41:14.183'
+      start:
+        sec: '2473.061'
+        mark: '00:41:13.061'
+      end:
+        sec: '2474.183'
+        mark: '00:41:14.183'
       u: Ja.
     - who: Ephraim Gutman
-      start: '00:41:14.183'
-      end: '00:41:36.446'
+      start:
+        sec: '2474.183'
+        mark: '00:41:14.183'
+      end:
+        sec: '2496.446'
+        mark: '00:41:36.446'
       u: Also da ist gekommen Gerke, Gerke ging zur Polizei, zum Chef der jüdischen
         Polizei und hat gesagt, dass morgen Früh, das heißt am sieben und zwanzigsten
         (27.) März neunzehn hundert ein und vierzig (1941) die jüdische Polizei soll
         versammeln alle (unverständlich) vor der deutschen Kommandantur für das Ghetto
         ... in dem früheren Ghetto, das ist in dem jetzigen Lager, das ist ....
     - who: David Boder
-      start: '00:41:36.446'
-      end: '00:41:39.757'
+      start:
+        sec: '2496.446'
+        mark: '00:41:36.446'
+      end:
+        sec: '2499.757'
+        mark: '00:41:39.757'
       u: Sagen Sie mir ein paar Wörter über die jüdische Polizei.
     - who: Ephraim Gutman
-      start: '00:41:39.757'
-      end: '00:41:44.994'
+      start:
+        sec: '2499.757'
+        mark: '00:41:39.757'
+      end:
+        sec: '2504.994'
+        mark: '00:41:44.994'
       u: Das ist ... dort diese Polizei werden wir sprechen während der Kinderaktion
         und da werden Sie sehen wie die sind.
     - who: David Boder
-      start: '00:41:44.994'
-      end: '00:41:45.815'
+      start:
+        sec: '2504.994'
+        mark: '00:41:44.994'
+      end:
+        sec: '2505.815'
+        mark: '00:41:45.815'
       u: Ja.
     - who: Ephraim Gutman
-      start: '00:41:45.815'
-      end: '00:41:54.040'
+      start:
+        sec: '2505.815'
+        mark: '00:41:45.815'
+      end:
+        sec: '2514.040'
+        mark: '00:41:54.040'
       u: ".... und sie sollen alle kommen, damit sie hören was sie vorhaben und eine
         Rede hören. Und sie sind gekommen, ganz sauber angezogen ..."
     - who: David Boder
-      start: '00:41:54.040'
-      end: '00:41:54.585'
+      start:
+        sec: '2514.040'
+        mark: '00:41:54.040'
+      end:
+        sec: '2514.585'
+        mark: '00:41:54.585'
       u: Die jüdische Polizei?
     - who: Ephraim Gutman
-      start: '00:41:54.585'
-      end: '00:42:32.832'
+      start:
+        sec: '2514.585'
+        mark: '00:41:54.585'
+      end:
+        sec: '2552.832'
+        mark: '00:42:32.832'
       u: Ja, am morgen in der Früh ist gekommen die Polizei, es war acht (8) und sowie
         sie sind gekommen zur deutschen Kommandantur, sind vom Korridor herausgegangen
         von der deutsche Kommandantur – sind heraus gegangen die Belarussen, das sind
@@ -1137,39 +1773,71 @@ recording:
         und dann haben sie eingepackt und gebracht zum neunten (9.) Fort. Also das
         war alles nur ein Vorspiel für das weitere Spiel. In dem Moment ....
     - who: David Boder
-      start: '00:42:32.832'
-      end: '00:42:34.832'
+      start:
+        sec: '2552.832'
+        mark: '00:42:32.832'
+      end:
+        sec: '2554.832'
+        mark: '00:42:34.832'
       u: Haben Sie umgebracht die Polizei?
     - who: Ephraim Gutman
-      start: '00:42:34.832'
-      end: '00:42:42.659'
+      start:
+        sec: '2554.832'
+        mark: '00:42:34.832'
+      end:
+        sec: '2562.659'
+        mark: '00:42:42.659'
       u: Leider nein, sind geblieben am Leben viele von der Polizei, ich sag das noch
         einmal, leider sind am Leben geblieben von der Polizei a bisserl. Später .....
     - who: David Boder
-      start: '00:42:42.659'
-      end: '00:42:44.389'
+      start:
+        sec: '2562.659'
+        mark: '00:42:42.659'
+      end:
+        sec: '2564.389'
+        mark: '00:42:44.389'
       u: Was heißt a bisserl? Was haben sie getan mit den Anderen?
     - who: Ephraim Gutman
-      start: '00:42:44.389'
-      end: '00:42:54.683'
+      start:
+        sec: '2564.389'
+        mark: '00:42:44.389'
+      end:
+        sec: '2574.683'
+        mark: '00:42:54.683'
       u: Darüber werd ich Ihnen bald erzählen von die dann. Also später nach einer
         Weile, wenn sie alle heraus geführt vom Ghetto, kommt eine kleine Maschine
         ins Ghetto, ein Taxi mit (unverständlich)
     - who: David Boder
-      start: '00:42:54.683'
-      end: '00:42:55.438'
+      start:
+        sec: '2574.683'
+        mark: '00:42:54.683'
+      end:
+        sec: '2575.438'
+        mark: '00:42:55.438'
       u: Einem was?
     - who: Ephraim Gutman
-      start: '00:42:55.438'
-      end: '00:42:56.355'
+      start:
+        sec: '2575.438'
+        mark: '00:42:55.438'
+      end:
+        sec: '2576.355'
+        mark: '00:42:56.355'
       u: Mit einem Megafon, Lautsprecher.
     - who: David Boder
-      start: '00:42:56.355'
-      end: '00:42:56.762'
+      start:
+        sec: '2576.355'
+        mark: '00:42:56.355'
+      end:
+        sec: '2576.762'
+        mark: '00:42:56.762'
       u: Ja.
     - who: Ephraim Gutman
-      start: '00:42:56.762'
-      end: '00:43:43.517'
+      start:
+        sec: '2576.762'
+        mark: '00:42:56.762'
+      end:
+        sec: '2623.517'
+        mark: '00:43:43.517'
       u: 'Und darin ist gesessen ein Mann, ob es war ein Deutscher oder ein Jud, das
         können wir nicht wissen. Und die kleine Maschine ist dann durch das ganze
         Ghetto gefahren und hat gerufen: „Achtung, Achtung! Alle Juden sollen gehen
@@ -1184,31 +1852,55 @@ recording:
         vor. Die Menschen haben schon Versteckplätze hergerichtet oder im Ghetto hat
         man sie genannt „Malines“ ....'
     - who: David Boder
-      start: '00:43:43.517'
-      end: '00:43:44.329'
+      start:
+        sec: '2623.517'
+        mark: '00:43:43.517'
+      end:
+        sec: '2624.329'
+        mark: '00:43:44.329'
       u: Was „Malines“?
     - who: Ephraim Gutman
-      start: '00:43:44.329'
-      end: '00:43:45.321'
+      start:
+        sec: '2624.329'
+        mark: '00:43:44.329'
+      end:
+        sec: '2625.321'
+        mark: '00:43:45.321'
       u: Malines.
     - who: David Boder
-      start: '00:43:45.321'
-      end: '00:43:46.426'
+      start:
+        sec: '2625.321'
+        mark: '00:43:45.321'
+      end:
+        sec: '2626.426'
+        mark: '00:43:46.426'
       u: Nicht Bunker?
     - who: Ephraim Gutman
-      start: '00:43:46.426'
-      end: '00:44:03.109'
+      start:
+        sec: '2626.426'
+        mark: '00:43:46.426'
+      end:
+        sec: '2643.109'
+        mark: '00:44:03.109'
       u: Bunker ist in deutsch. Und „Malines“ stammt von dem Wort „malon“, in hebräisch
         (unverständlich). Im Ghetto heißt es „Malines“, das stammt von den Galonen,
         es scheint, weil die Galonen stammen ab von die Malinen, von dem Wort Galgen
         und das sind Malinen, das ist der Galgen.
     - who: David Boder
-      start: '00:44:03.109'
-      end: '00:44:03.823'
+      start:
+        sec: '2643.109'
+        mark: '00:44:03.109'
+      end:
+        sec: '2643.823'
+        mark: '00:44:03.823'
       u: Jüdische Galonen?
     - who: Ephraim Gutman
-      start: '00:44:03.823'
-      end: '00:44:54.706'
+      start:
+        sec: '2643.823'
+        mark: '00:44:03.823'
+      end:
+        sec: '2694.706'
+        mark: '00:44:54.706'
       u: Ja und da sind wir geblieben im Ghetto in den Malines, wer gehabt hat im
         Ghetto ist geflüchtet in die Malines. (unverständlich) und die Maschinen sind
         durchs ganze Ghetto und der Rest wurde in großen Lastwagen gebracht – das
@@ -1221,20 +1913,36 @@ recording:
         Fort und sie waren noch nicht ganz erschossen. Also diese Aktion hat man hinaus
         gezögert bis sieben (7) Uhr bei der Nacht. Dann .....
     - who: David Boder
-      start: '00:44:54.706'
-      end: '00:44:56.912'
+      start:
+        sec: '2694.706'
+        mark: '00:44:54.706'
+      end:
+        sec: '2696.912'
+        mark: '00:44:56.912'
       u: Wie viel Menschen waren gewesen bei der jüdischen Polizei?
     - who: Ephraim Gutman
-      start: '00:44:56.912'
-      end: '00:44:59.137'
+      start:
+        sec: '2696.912'
+        mark: '00:44:56.912'
+      end:
+        sec: '2699.137'
+        mark: '00:44:59.137'
       u: Die jüdische Polizei hat gehabt mehr als drei hundert (300).
     - who: David Boder
-      start: '00:44:59.137'
-      end: '00:45:01.718'
+      start:
+        sec: '2699.137'
+        mark: '00:44:59.137'
+      end:
+        sec: '2701.718'
+        mark: '00:45:01.718'
       u: Oh! Haben sie getragen eine Uniform?
     - who: Ephraim Gutman
-      start: '00:45:01.718'
-      end: '00:45:32.465'
+      start:
+        sec: '2701.718'
+        mark: '00:45:01.718'
+      end:
+        sec: '2732.465'
+        mark: '00:45:32.465'
       u: 'Sie haben ... sie haben getragen nur ein Hütl, so ein Hütl mit Magen David
         und J.G.P. – das heißt „jüdische Ghetto Polizei“ oder später ist gewesen Lager-Polizei
         und auf dem Arm, auf der rech .... auf der linken Hand haben sie getragen
@@ -1243,20 +1951,36 @@ recording:
         die Werknummer und zweitens die Nummer in welchem Quartal er hat Dienst gehabt.
         Und ....'
     - who: David Boder
-      start: '00:45:32.465'
-      end: '00:45:33.806'
+      start:
+        sec: '2732.465'
+        mark: '00:45:32.465'
+      end:
+        sec: '2733.806'
+        mark: '00:45:33.806'
       u: Haben sie gehabt einen Revolver?
     - who: Ephraim Gutman
-      start: '00:45:33.806'
-      end: '00:45:35.731'
+      start:
+        sec: '2733.806'
+        mark: '00:45:33.806'
+      end:
+        sec: '2735.731'
+        mark: '00:45:35.731'
       u: Nein, keine Gewehre haben sie gehabt.
     - who: David Boder
-      start: '00:45:35.731'
-      end: '00:45:36.147'
+      start:
+        sec: '2735.731'
+        mark: '00:45:35.731'
+      end:
+        sec: '2736.147'
+        mark: '00:45:36.147'
       u: Was haben sie gehabt?
     - who: Ephraim Gutman
-      start: '00:45:36.147'
-      end: '00:46:13.032'
+      start:
+        sec: '2736.147'
+        mark: '00:45:36.147'
+      end:
+        sec: '2773.032'
+        mark: '00:46:13.032'
       u: Nur kalte Gewehr, das ist nur a Stöckel oder eine Nagyka und die Aktion war
         fertig um sieben (7) Uhr in der Nacht und die Menschen sind dann gekommen
         – und ich will bemerken, an dem Tag in dem Ghetto sie spielen, dass sie nichts
@@ -1268,12 +1992,20 @@ recording:
         Arbeit und da haben sie nicht gefunden nicht den Vater, nicht die Mutter und
         nicht ihre Kinder und .....
     - who: David Boder
-      start: '00:46:13.032'
-      end: '00:46:15.996'
+      start:
+        sec: '2773.032'
+        mark: '00:46:13.032'
+      end:
+        sec: '2775.996'
+        mark: '00:46:15.996'
       u: Sie haben doch gesagt, am Morgen hat man nur gesucht nach die Kinder.
     - who: Ephraim Gutman
-      start: '00:46:15.996'
-      end: '00:46:50.473'
+      start:
+        sec: '2775.996'
+        mark: '00:46:15.996'
+      end:
+        sec: '2810.473'
+        mark: '00:46:50.473'
       u: Oh ja, Vater und Mutter sind auch gewesen dasselbe. Die Alten und die Kleinen
         sind am ersten Tag gegangen zusammen. Die Aktion war für Alte und kleine Kinder,
         aber sie haben sich konzentriert auf kleine Kinder. Und das Geschrei was furchtbar
@@ -1282,12 +2014,20 @@ recording:
         dass die spezielle Wache ......ich will bemerken, dass man am Tag der Aktion
         das Ghetto speziell bewachte ....
     - who: David Boder
-      start: '00:46:50.473'
-      end: '00:46:53.103'
+      start:
+        sec: '2810.473'
+        mark: '00:46:50.473'
+      end:
+        sec: '2813.103'
+        mark: '00:46:53.103'
       u: Aha.
     - who: Ephraim Gutman
-      start: '00:46:53.103'
-      end: '00:47:52.656'
+      start:
+        sec: '2813.103'
+        mark: '00:46:53.103'
+      end:
+        sec: '2872.656'
+        mark: '00:47:52.656'
       u: "... dass man das Ghetto speziell bewachte, weil in der (unverständlich –
         spricht zu schnell) und wenn die Aktion vorüber war um sieben (7) Uhr am Abend,
         die Polizei ist noch immer da gestanden rund um den Zaun. Und es hat sich
@@ -1303,22 +2043,38 @@ recording:
         Ghetto war schon liquidiert im Jahre drei und vierzig (43) auf diese Art und
         Weise ...."
     - who: David Boder
-      start: '00:47:52.656'
-      end: '00:47:54.094'
+      start:
+        sec: '2872.656'
+        mark: '00:47:52.656'
+      end:
+        sec: '2874.094'
+        mark: '00:47:54.094'
       u: Wie war es liquidiert?
     - who: Ephraim Gutman
-      start: '00:47:54.094'
-      end: '00:48:07.266'
+      start:
+        sec: '2874.094'
+        mark: '00:47:54.094'
+      end:
+        sec: '2887.266'
+        mark: '00:48:07.266'
       u: Also alle wurden geführt nach Estland. Dort hat man sie liquidiert – die
         meisten hat man erschossen in (unverständlich klingt wie Bernal), das ist
         nicht weit weg von Vilna. Ja, ich komm bald. (Murmeln)
     - who: David Boder
-      start: '00:48:07.266'
-      end: '00:48:10.027'
+      start:
+        sec: '2887.266'
+        mark: '00:48:07.266'
+      end:
+        sec: '2890.027'
+        mark: '00:48:10.027'
       u: Sie haben gesprochen über die Aktien am nächsten Tag.
     - who: Ephraim Gutman
-      start: '00:48:10.027'
-      end: '00:48:50.596'
+      start:
+        sec: '2890.027'
+        mark: '00:48:10.027'
+      end:
+        sec: '2930.596'
+        mark: '00:48:50.596'
       u: 'Ja und die jüdische Polizei war im neunten (9.) Fort und dann ist gekommen
         ‚Kittel’, das ist der der liquidiert hat das Vilna Ghetto, ist gekommen nach
         dem neunten (9.) Fort, wo die jüdische Polizei gewesen ist ver , ver , hm,
@@ -1329,13 +2085,21 @@ recording:
         zu bleiben am Leben und sie sind rein in die Maschinen mit Kittel und sind
         dann gekommen ins Ghetto und haben gezeigt wo sind die Malinen.'
     - who: David Boder
-      start: '00:48:50.596'
-      end: '00:48:52.984'
+      start:
+        sec: '2930.596'
+        mark: '00:48:50.596'
+      end:
+        sec: '2932.984'
+        mark: '00:48:52.984'
       u: Was haben Sie gemeint mit Vielen? Sie haben gesagt es wären gewesen Dreihundert
         (300).
     - who: Ephraim Gutman
-      start: '00:48:52.984'
-      end: '00:49:24.716'
+      start:
+        sec: '2932.984'
+        mark: '00:48:52.984'
+      end:
+        sec: '2964.716'
+        mark: '00:49:24.716'
       u: Dreihundert (300) jüdische Polizei und unter denen sind gewesen sechzig (60)
         von denen man weiß, dass sie sind gekommen mit der Maschine ins Ghetto und
         haben gezeigt, wo diese sein können. Ich muss bemerken, dass Kunst ist nicht
@@ -1344,12 +2108,20 @@ recording:
         und sie haben von da die Kinder und Alten genommen und geführt zum Fort zum
         Erschießen. Die Polizei .....
     - who: David Boder
-      start: '00:49:24.716'
-      end: '00:49:26.973'
+      start:
+        sec: '2964.716'
+        mark: '00:49:24.716'
+      end:
+        sec: '2966.973'
+        mark: '00:49:26.973'
       u: Wie hat das die jüdische Polizei gewusst?
     - who: Ephraim Gutman
-      start: '00:49:26.973'
-      end: '00:50:53.080'
+      start:
+        sec: '2966.973'
+        mark: '00:49:26.973'
+      end:
+        sec: '3053.080'
+        mark: '00:50:53.080'
       u: 'Die jüdische Polizei ..... die, die machen diese Malinen haben die jüdischen
         Polizei nicht (unverständlich), weil die waren ihr Freund. Es wurde angenommen,
         es war ein Freund, es hat sich aber gezeigt, sie waren unser Feind. In dem
@@ -1373,32 +2145,56 @@ recording:
         arbeiten, du kannst noch jetzt leben, deine Reihe kommt auch.“ Das ist: „Deine
         Reihe kommt auch, (unverständlich) darfst Du noch haben.“'
     - who: David Boder
-      start: '00:50:53.080'
-      end: '00:50:54.380'
+      start:
+        sec: '3053.080'
+        mark: '00:50:53.080'
+      end:
+        sec: '3054.380'
+        mark: '00:50:54.380'
       u: Ja.
     - who: Ephraim Gutman
-      start: '00:50:54.380'
-      end: '00:51:09.569'
+      start:
+        sec: '3054.380'
+        mark: '00:50:54.380'
+      end:
+        sec: '3069.569'
+        mark: '00:51:09.569'
       u: Und am Tag ist gewesen, in der Nacht – wieder um sieben (7) Uhr in der Nacht
         ist gewesen vorbei die Aktion für die Kinder. Dazu möchte ich bemerken, dass
         die Aktion gegen die Kinder hat den stärksten Eindruck gemacht in dem Ghetto,
         noch mehr als die große Aktion vom acht und zwanzigsten (28.) Oktober neunzehn
         hundert ein und vierzig (1941) gegen zwölf tausend (12000) Juden.
     - who: David Boder
-      start: '00:51:09.569'
-      end: '00:51:10.666'
+      start:
+        sec: '3069.569'
+        mark: '00:51:09.569'
+      end:
+        sec: '3070.666'
+        mark: '00:51:10.666'
       u: Den Stärksten was?
     - who: Ephraim Gutman
-      start: '00:51:10.666'
-      end: '00:51:12.712'
+      start:
+        sec: '3070.666'
+        mark: '00:51:10.666'
+      end:
+        sec: '3072.712'
+        mark: '00:51:12.712'
       u: Den stärksten Eindruck, den schrecklichsten Eindruck .....
     - who: David Boder
-      start: '00:51:12.712'
-      end: '00:51:12.827'
+      start:
+        sec: '3072.712'
+        mark: '00:51:12.712'
+      end:
+        sec: '3072.827'
+        mark: '00:51:12.827'
       u: Ja.
     - who: Ephraim Gutman
-      start: '00:51:12.827'
-      end: '00:52:35.044'
+      start:
+        sec: '3072.827'
+        mark: '00:51:12.827'
+      end:
+        sec: '3155.044'
+        mark: '00:52:35.044'
       u: ".... weil das war die Kinder .... zu sehen, wie sie nehmen die Kinder und
         die alten Leut, das ist eine Zubereitung zur Vernichtung des ganzen Ghettos,
         oder wie es später geheißen hat Lager. Also das war beendigt, die Aktion gegen
@@ -1419,12 +2215,20 @@ recording:
         und so weiter und weiter. Und so haben verantwortlich gemacht die Höheren
         der jüdischen Polizei, weil ..."
     - who: David Boder
-      start: '00:52:35.044'
-      end: '00:52:41.035'
+      start:
+        sec: '3155.044'
+        mark: '00:52:35.044'
+      end:
+        sec: '3161.035'
+        mark: '00:52:41.035'
       u: Meinen Sie höher und niedriger in Charakter oder im, im Rang?
     - who: Ephraim Gutman
-      start: '00:52:41.035'
-      end: '00:53:30.078'
+      start:
+        sec: '3161.035'
+        mark: '00:52:41.035'
+      end:
+        sec: '3210.078'
+        mark: '00:53:30.078'
       u: Nein, wir meinen im Rang. Wenn wir reden höher, meinen wir den Rang. Von
         etwas höheren Polizisten bis zum Chef der Polizei werden alle erschossen.
         Da war ein Moshe Levin, er war der Chef der jüdischen Polizei in dem Lager,
@@ -1435,8 +2239,12 @@ recording:
         den Deutschen, weil man sie so wie so wird erschießen und man darf nicht verflecken
         den jüdischen Namen.
     - who: David Boder
-      start: '00:53:30.078'
-      end: '00:54:47.823'
+      start:
+        sec: '3210.078'
+        mark: '00:53:30.078'
+      end:
+        sec: '3287.823'
+        mark: '00:54:47.823'
       u: A remark of the translator David P. Boder. Chicago, January the 29th, 1950.
         This is a duplicate spool prepared under the Public Health Grant... and the
         will be listed or cataloged as Spool 125A, because we discovered that on the
@@ -1450,64 +2258,116 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:00.560'
-      end: '00:00:22.794'
+      start:
+        sec: '0.560'
+        mark: '00:00:00.560'
+      end:
+        sec: '22.794'
+        mark: '00:00:22.794'
       u: France, September the 12th, 1946, at Hénonville, about 50 kilometers from
         Paris, a home which is maintained jointly by the Agudah, with the educational
         supervision of the ORT. The interviewee is Mr. Ephraim Gutman.
     - who: David Boder
-      start: '00:00:22.794'
-      end: '00:00:29.642'
+      start:
+        sec: '22.794'
+        mark: '00:00:22.794'
+      end:
+        sec: '29.642'
+        mark: '00:00:29.642'
       u: And so, Mr. Gutman, will you please tell me again, what is your name, where
         were you born, and how old are you?
     - who: Ephraim Gutman
-      start: '00:00:29.642'
-      end: '00:00:45.930'
+      start:
+        sec: '29.642'
+        mark: '00:00:29.642'
+      end:
+        sec: '45.930'
+        mark: '00:00:45.930'
       u: "[He speaks German-Yiddish.] Gutman, Ephraim, born 1917 in the Ukraine, have
         lived all the time in Lithuania, Kovno, the capital, Kovno."
     - who: David Boder
-      start: '00:00:45.930'
-      end: '00:00:48.860'
+      start:
+        sec: '45.930'
+        mark: '00:00:45.930'
+      end:
+        sec: '48.860'
+        mark: '00:00:48.860'
       u: Yes, so you lived in Kovno?
     - who: Ephraim Gutman
-      start: '00:00:48.860'
-      end: '00:00:51.431'
+      start:
+        sec: '48.860'
+        mark: '00:00:48.860'
+      end:
+        sec: '51.431'
+        mark: '00:00:51.431'
       u: Yes, I lived in Kovno.
     - who: David Boder
-      start: '00:00:51.431'
-      end: '00:01:01.244'
+      start:
+        sec: '51.431'
+        mark: '00:00:51.431'
+      end:
+        sec: '61.244'
+        mark: '00:01:01.244'
       u: Now then, tell me, Mr. Gutman, where were you and what happened to you when
         the war started. [Interviewer switches from German to Yiddish apparently noticing
         the difficulty which the subject has in his attempt to talk German.] You can
         speak Yiddish, can you not?
     - who: Ephraim Gutman
-      start: '00:01:01.244'
-      end: '00:01:13.986'
+      start:
+        sec: '61.244'
+        mark: '00:01:01.244'
+      end:
+        sec: '73.986'
+        mark: '00:01:13.986'
       u: Yes. The 22nd of June, when the war broke out, I was in Kovno. The 23rd of
         June, the Russians started to retreat from Kovno, from Lithuania.
     - who: David Boder
-      start: '00:01:13.986'
-      end: '00:01:16.392'
+      start:
+        sec: '73.986'
+        mark: '00:01:13.986'
+      end:
+        sec: '76.392'
+        mark: '00:01:16.392'
       u: You refer to the war that broke out between Russia and Germany?
     - who: Ephraim Gutman
-      start: '00:01:16.392'
-      end: '00:01:18.008'
+      start:
+        sec: '76.392'
+        mark: '00:01:16.392'
+      end:
+        sec: '78.008'
+        mark: '00:01:18.008'
       u: Russia and Germany.
     - who: David Boder
-      start: '00:01:18.008'
-      end: '00:01:18.732'
+      start:
+        sec: '78.008'
+        mark: '00:01:18.008'
+      end:
+        sec: '78.732'
+        mark: '00:01:18.732'
       u: There was war before?
     - who: Ephraim Gutman
-      start: '00:01:18.732'
-      end: '00:01:20.266'
+      start:
+        sec: '78.732'
+        mark: '00:01:18.732'
+      end:
+        sec: '80.266'
+        mark: '00:01:20.266'
       u: Yes.
     - who: David Boder
-      start: '00:01:20.266'
-      end: '00:01:23.512'
+      start:
+        sec: '80.266'
+        mark: '00:01:20.266'
+      end:
+        sec: '83.512'
+        mark: '00:01:23.512'
       u: You were in Kovno. Under whom was Kovno at that time?
     - who: Ephraim Gutman
-      start: '00:01:23.512'
-      end: '00:03:14.897'
+      start:
+        sec: '83.512'
+        mark: '00:01:23.512'
+      end:
+        sec: '194.897'
+        mark: '00:03:14.897'
       u: Kovno was then officially under the Lithuanians but it had already joined
         the Union of the Soviets and it has become a Lithuanian SSR, and the 22nd
         of June, 1941, when war broke out, when Germany attacked Russia, and the next
@@ -1527,12 +2387,20 @@ recording:
         the rabbi of Slabodka, the first murdered while he was sitting over a book
         of the Talmud. They then cut off his head and exhibited it in the window.
     - who: David Boder
-      start: '00:03:14.897'
-      end: '00:03:19.819'
+      start:
+        sec: '194.897'
+        mark: '00:03:14.897'
+      end:
+        sec: '199.819'
+        mark: '00:03:19.819'
       u: Well, and where were you? And what happened to you?
     - who: Ephraim Gutman
-      start: '00:03:19.819'
-      end: '00:04:13.772'
+      start:
+        sec: '199.819'
+        mark: '00:03:19.819'
+      end:
+        sec: '253.772'
+        mark: '00:04:13.772'
       u: I, too, was among the Jews who attempted to run away together with the Russians.
         And we had run about 30 kilometers from Kovno. That is, to the hamlet Ynovo
         and proceeding ahead we observed that at the town Vilkomir, or how it was
@@ -1547,58 +2415,106 @@ recording:
         immediately by the partisans, the so-called partisans, the Lithuanian hirelings,
         and they wanted to lead us also immediately to the seventh fort.
     - who: David Boder
-      start: '00:04:13.772'
-      end: '00:04:15.616'
+      start:
+        sec: '253.772'
+        mark: '00:04:13.772'
+      end:
+        sec: '255.616'
+        mark: '00:04:15.616'
       u: Whom do you mean by you or us?
     - who: Ephraim Gutman
-      start: '00:04:15.616'
-      end: '00:04:20.787'
+      start:
+        sec: '255.616'
+        mark: '00:04:15.616'
+      end:
+        sec: '260.787'
+        mark: '00:04:20.787'
       u: You means myself, my mother and nine brothers and sisters.
     - who: David Boder
-      start: '00:04:20.787'
-      end: '00:04:21.956'
+      start:
+        sec: '260.787'
+        mark: '00:04:20.787'
+      end:
+        sec: '261.956'
+        mark: '00:04:21.956'
       u: Nine brothers...?
     - who: Ephraim Gutman
-      start: '00:04:21.956'
-      end: '00:04:32.493'
+      start:
+        sec: '261.956'
+        mark: '00:04:21.956'
+      end:
+        sec: '272.493'
+        mark: '00:04:32.493'
       u: "(interrupting) I am the tenth and I am, unfortunately, the only one who
         remained of our whole clan. From a mother and nine... ten brothers and sisters,
         I am the only one who remained and..."
     - who: David Boder
-      start: '00:04:32.493'
-      end: '00:04:33.714'
+      start:
+        sec: '272.493'
+        mark: '00:04:32.493'
+      end:
+        sec: '273.714'
+        mark: '00:04:33.714'
       u: And where was the father?
     - who: Ephraim Gutman
-      start: '00:04:33.714'
-      end: '00:04:41.124'
+      start:
+        sec: '273.714'
+        mark: '00:04:33.714'
+      end:
+        sec: '281.124'
+        mark: '00:04:41.124'
       u: The father was a dayin in Kovno and he died... he was fortunate to die in
         1940 in Kovno.
     - who: David Boder
-      start: '00:04:41.124'
-      end: '00:04:41.670'
+      start:
+        sec: '281.124'
+        mark: '00:04:41.124'
+      end:
+        sec: '281.670'
+        mark: '00:04:41.670'
       u: What is a dayin?
     - who: Ephraim Gutman
-      start: '00:04:41.670'
-      end: '00:04:44.617'
+      start:
+        sec: '281.670'
+        mark: '00:04:41.670'
+      end:
+        sec: '284.617'
+        mark: '00:04:44.617'
       u: A dayin is a rabbi, in Kovno.
     - who: David Boder
-      start: '00:04:44.617'
-      end: '00:04:45.493'
+      start:
+        sec: '284.617'
+        mark: '00:04:44.617'
+      end:
+        sec: '285.493'
+        mark: '00:04:45.493'
       u: Well?
     - who: Ephraim Gutman
-      start: '00:04:45.493'
-      end: '00:05:00.413'
+      start:
+        sec: '285.493'
+        mark: '00:04:45.493'
+      end:
+        sec: '300.413'
+        mark: '00:05:00.413'
       u: And the Lithuanians also wanted to drag us to the seventh fortress but fortunately
         there was among them a Lithuanian, an acquaintance of ours, he also wore the
         band on his arm with the swastika, that is, he was also a partisan and for
         that reason...
     - who: David Boder
-      start: '00:05:00.413'
-      end: '00:05:01.157'
+      start:
+        sec: '300.413'
+        mark: '00:05:00.413'
+      end:
+        sec: '301.157'
+        mark: '00:05:01.157'
       u: A fascist partisan?
     - who: Ephraim Gutman
-      start: '00:05:01.157'
-      end: '00:06:08.737'
+      start:
+        sec: '301.157'
+        mark: '00:05:01.157'
+      end:
+        sec: '368.737'
+        mark: '00:06:08.737'
       u: Yes, and he, recognizing us, felt embarrassed and requested his comrades
         they should let us go because this was the family of the Kovno rabbi. And
         so we returned to Kovno, the mood was terrible; they were grabbing people
@@ -1615,12 +2531,20 @@ recording:
         Community Council, and through them establish a ghetto near Kovno, that is
         in Slabodka.
     - who: David Boder
-      start: '00:06:08.737'
-      end: '00:06:12.526'
+      start:
+        sec: '368.737'
+        mark: '00:06:08.737'
+      end:
+        sec: '372.526'
+        mark: '00:06:12.526'
       u: That was General Paul. And who was Paulus?
     - who: Ephraim Gutman
-      start: '00:06:12.526'
-      end: '00:07:00.226'
+      start:
+        sec: '372.526'
+        mark: '00:06:12.526'
+      end:
+        sec: '420.226'
+        mark: '00:07:00.226'
       u: Paulus is the general who was defeated at Stalingrad. The German general
         who was defeated at Stalingrad and Paul is the general who occupied Kovno,
         the victorious general. And this victorious general undertook to negotiate
@@ -1634,31 +2558,55 @@ recording:
         have to wear yellow patches, that is, signs of the star of David only on their
         chests, and so...
     - who: David Boder
-      start: '00:07:00.226'
-      end: '00:07:01.316'
+      start:
+        sec: '420.226'
+        mark: '00:07:00.226'
+      end:
+        sec: '421.316'
+        mark: '00:07:01.316'
       u: What does it mean, just on the chest?
     - who: Ephraim Gutman
-      start: '00:07:01.316'
-      end: '00:07:06.668'
+      start:
+        sec: '421.316'
+        mark: '00:07:01.316'
+      end:
+        sec: '426.668'
+        mark: '00:07:06.668'
       u: Because later on when we were in the ghetto, the orders were that we have
         to wear [it] on the chest as well as on the back.
     - who: David Boder
-      start: '00:07:06.668'
-      end: '00:07:07.261'
+      start:
+        sec: '426.668'
+        mark: '00:07:06.668'
+      end:
+        sec: '427.261'
+        mark: '00:07:07.261'
       u: Yes.
     - who: Ephraim Gutman
-      start: '00:07:07.261'
-      end: '00:07:20.365'
+      start:
+        sec: '427.261'
+        mark: '00:07:07.261'
+      end:
+        sec: '440.365'
+        mark: '00:07:20.365'
       u: While at the start [we had to wear it] only on the chest. Later there was
         issued an order that the Jews may not walk on the sidewalk , the Jews who...
         that is, when there was not yet a ghetto, the Jews were permitted to go only...
     - who: David Boder
-      start: '00:07:20.365'
-      end: '00:07:20.846'
+      start:
+        sec: '440.365'
+        mark: '00:07:20.365'
+      end:
+        sec: '440.846'
+        mark: '00:07:20.846'
       u: In the middle...?
     - who: Ephraim Gutman
-      start: '00:07:20.846'
-      end: '00:07:54.692'
+      start:
+        sec: '440.846'
+        mark: '00:07:20.846'
+      end:
+        sec: '474.692'
+        mark: '00:07:54.692'
       u: "... in the middle of the street, that is, just like dogs. And many Jews,
         forgetting that they were already disqualified as humans, would forget themselves
         and get on the sidewalk, such a thing happened also to myself, and then we
@@ -1669,12 +2617,20 @@ recording:
         were [once] unable to achieve in their lives, and beyond this they enjoyed
         [once] no comfort."
     - who: David Boder
-      start: '00:07:54.692'
-      end: '00:07:57.787'
+      start:
+        sec: '474.692'
+        mark: '00:07:54.692'
+      end:
+        sec: '477.787'
+        mark: '00:07:57.787'
       u: And why was it “thanks to us”?
     - who: Ephraim Gutman
-      start: '00:07:57.787'
-      end: '00:08:21.431'
+      start:
+        sec: '477.787'
+        mark: '00:07:57.787'
+      end:
+        sec: '501.431'
+        mark: '00:08:21.431'
       u: "[interrupting] It was thanks to the Jewish progress, the Jewish industry,
         the Jewish culture, they became... they began also to develop into humans,
         like other human beings, and they started wearing shoes. In Lithuania it is
@@ -1683,12 +2639,20 @@ recording:
         klumpe means a wooden shoe because more than that they never had. So let us
         continue."
     - who: David Boder
-      start: '00:08:21.431'
-      end: '00:08:21.665'
+      start:
+        sec: '501.431'
+        mark: '00:08:21.431'
+      end:
+        sec: '501.665'
+        mark: '00:08:21.665'
       u: Yes.
     - who: Ephraim Gutman
-      start: '00:08:21.665'
-      end: '00:10:32.627'
+      start:
+        sec: '501.665'
+        mark: '00:08:21.665'
+      end:
+        sec: '632.627'
+        mark: '00:10:32.627'
       u: And now they started establishing a Jewish Ghetto and the order was that
         by the fifteenth of August, 1941, that is about two months after the Germans
         marched in, the Germans marched in on the third day after the war started
@@ -1720,12 +2684,20 @@ recording:
         to enter the ghetto. Neither were the Lithuanians permitted to enter the ghetto.
         And soon...
     - who: David Boder
-      start: '00:10:32.627'
-      end: '00:10:35.050'
+      start:
+        sec: '632.627'
+        mark: '00:10:32.627'
+      end:
+        sec: '635.050'
+        mark: '00:10:35.050'
       u: What does it mean, “Jews were not permitted to enter the ghetto”?
     - who: Ephraim Gutman
-      start: '00:10:35.050'
-      end: '00:15:09.416'
+      start:
+        sec: '635.050'
+        mark: '00:10:35.050'
+      end:
+        sec: '909.416'
+        mark: '00:15:09.416'
       u: It [the transfer] was just stopped. One who had remained in the city had
         no recourse; he could not get in, nor could he get out. And the sixteenth
         of August, that was on a Sunday, there came Kaminskoff, a Lithuanian, who
@@ -1786,20 +2758,36 @@ recording:
         would shoot so that people should believe them that executions are their established
         practice. And...
     - who: David Boder
-      start: '00:15:09.416'
-      end: '00:15:10.736'
+      start:
+        sec: '909.416'
+        mark: '00:15:09.416'
+      end:
+        sec: '910.736'
+        mark: '00:15:10.736'
       u: Where did they execute them?
     - who: Ephraim Gutman
-      start: '00:15:10.736'
-      end: '00:15:12.358'
+      start:
+        sec: '910.736'
+        mark: '00:15:10.736'
+      end:
+        sec: '912.358'
+        mark: '00:15:12.358'
       u: Right there in the ghetto.
     - who: David Boder
-      start: '00:15:12.358'
-      end: '00:15:13.389'
+      start:
+        sec: '912.358'
+        mark: '00:15:12.358'
+      end:
+        sec: '913.389'
+        mark: '00:15:13.389'
       u: You have seen it?
     - who: Ephraim Gutman
-      start: '00:15:13.389'
-      end: '00:16:41.399'
+      start:
+        sec: '913.389'
+        mark: '00:15:13.389'
+      end:
+        sec: '1001.399'
+        mark: '00:16:41.399'
       u: Yes, right there in the ghetto, with machine guns, they would shoot then,
         twenty people. And then when this was over, then it was announced that afterwards
         when the week will have passed there will be... in German they would call
@@ -1818,36 +2806,68 @@ recording:
         since last night shots were fired at his residence, he demands that Dr. Elkes
         as Aber-Jew [see below] should surrender to him five hundred Jews to be shot.
     - who: David Boder
-      start: '00:16:41.399'
-      end: '00:16:42.746'
+      start:
+        sec: '1001.399'
+        mark: '00:16:41.399'
+      end:
+        sec: '1002.746'
+        mark: '00:16:42.746'
       u: As what kind of a Jew?
     - who: Ephraim Gutman
-      start: '00:16:42.746'
-      end: '00:16:45.152'
+      start:
+        sec: '1002.746'
+        mark: '00:16:42.746'
+      end:
+        sec: '1005.152'
+        mark: '00:16:45.152'
       u: Dr. Elkes was the Aber-Jew.
     - who: David Boder
-      start: '00:16:45.152'
-      end: '00:16:45.850'
+      start:
+        sec: '1005.152'
+        mark: '00:16:45.152'
+      end:
+        sec: '1005.850'
+        mark: '00:16:45.850'
       u: Aber-...
     - who: Ephraim Gutman
-      start: '00:16:45.850'
-      end: '00:16:49.967'
+      start:
+        sec: '1005.850'
+        mark: '00:16:45.850'
+      end:
+        sec: '1009.967'
+        mark: '00:16:49.967'
       u: Aber-Jew, Aber-Jew. That is the top elder of the Jews, from the committee.
     - who: David Boder
-      start: '00:16:49.967'
-      end: '00:16:51.580'
+      start:
+        sec: '1009.967'
+        mark: '00:16:49.967'
+      end:
+        sec: '1011.580'
+        mark: '00:16:51.580'
       u: In what language is it, Aber...?
     - who: Ephraim Gutman
-      start: '00:16:51.580'
-      end: '00:16:55.491'
+      start:
+        sec: '1011.580'
+        mark: '00:16:51.580'
+      end:
+        sec: '1015.491'
+        mark: '00:16:55.491'
       u: Aber-Jude, that is in German. Aber-Jude. And...
     - who: David Boder
-      start: '00:16:55.491'
-      end: '00:16:57.496'
+      start:
+        sec: '1015.491'
+        mark: '00:16:55.491'
+      end:
+        sec: '1017.496'
+        mark: '00:16:57.496'
       u: Do you know how they spelled that word?
     - who: Ephraim Gutman
-      start: '00:16:57.496'
-      end: '00:18:20.737'
+      start:
+        sec: '1017.496'
+        mark: '00:16:57.496'
+      end:
+        sec: '1100.737'
+        mark: '00:18:20.737'
       u: 'And Dr. Elkos told him in reply that among the Jews there is no such thing
         as delivering [people] to be shot. It was clearly stated in the Jewish religion—and
         that in spite that Dr. Elkes wasn’t a specially pious Jew—but still he was
@@ -1869,23 +2889,39 @@ recording:
         interruption, possibly a break in the wire during reproduction. However it
         seems that nothing is missing].'
     - who: David Boder
-      start: '00:18:20.737'
-      end: '00:18:23.037'
+      start:
+        sec: '1100.737'
+        mark: '00:18:20.737'
+      end:
+        sec: '1103.037'
+        mark: '00:18:23.037'
       u: Go on, go on.
     - who: Ephraim Gutman
-      start: '00:18:23.037'
-      end: '00:18:38.978'
+      start:
+        sec: '1103.037'
+        mark: '00:18:23.037'
+      end:
+        sec: '1118.978'
+        mark: '00:18:38.978'
       u: Those remained alive and all those who did not have an artisan’s card, they
         were led away to the ninth fort, that was already not the seventh fort but
         the ninth fort which was across from the ghetto, a kind of a hill, and there
         all of them were shot.
     - who: David Boder
-      start: '00:18:38.978'
-      end: '00:18:40.188'
+      start:
+        sec: '1118.978'
+        mark: '00:18:38.978'
+      end:
+        sec: '1120.188'
+        mark: '00:18:40.188'
       u: One could see that?
     - who: Ephraim Gutman
-      start: '00:18:40.188'
-      end: '00:20:44.617'
+      start:
+        sec: '1120.188'
+        mark: '00:18:40.188'
+      end:
+        sec: '1244.617'
+        mark: '00:20:44.617'
       u: The fort was visible only on the way to the ghetto, because the ghetto was
         in a valley and the fort was on a hill. And standing in the ghetto one could
         see how the people were led on the hill. And afterwards, I was that day in
@@ -1919,31 +2955,55 @@ recording:
         the Jews from the small ghetto to a square and again sorted them according
         to the Jordan cards. The one who had a Jordan card remained alive.
     - who: David Boder
-      start: '00:20:44.617'
-      end: '00:20:47.133'
+      start:
+        sec: '1244.617'
+        mark: '00:20:44.617'
+      end:
+        sec: '1247.133'
+        mark: '00:20:47.133'
       u: Will you explain it again, what was a Jordan card?
     - who: Ephraim Gutman
-      start: '00:20:47.133'
-      end: '00:21:21.998'
+      start:
+        sec: '1247.133'
+        mark: '00:20:47.133'
+      end:
+        sec: '1281.998'
+        mark: '00:21:21.998'
       u: |-
         You see, a month before the first action it was announced that all artisans, skilled workers, should register at the Committee, the Jewish Committee. The Jewish artisans, skilled workers, have registered, and afterwards, a week later, there came an order that all those who have registered should come to the Committee to fetch special cards, called Jordan cards. Jordan was the deputy for Jewish affairs with the state commissar, Herr Kramer. He was practically the boss over the ghetto but not the ghetto
                                 commandant. The ghetto
                                 commandant...
     - who: David Boder
-      start: '00:21:21.998'
-      end: '00:21:25.398'
+      start:
+        sec: '1281.998'
+        mark: '00:21:21.998'
+      end:
+        sec: '1285.398'
+        mark: '00:21:25.398'
       u: Is this the same Kramer who was afterwards in Bergen-Belsen?
     - who: Ephraim Gutman
-      start: '00:21:25.398'
-      end: '00:21:31.263'
+      start:
+        sec: '1285.398'
+        mark: '00:21:25.398'
+      end:
+        sec: '1291.263'
+        mark: '00:21:31.263'
       u: No. Kramer was the civilian commandant, the civilian commandant...
     - who: David Boder
-      start: '00:21:31.263'
-      end: '00:21:31.795'
+      start:
+        sec: '1291.263'
+        mark: '00:21:31.263'
+      end:
+        sec: '1291.795'
+        mark: '00:21:31.795'
       u: Yes.
     - who: Ephraim Gutman
-      start: '00:21:31.795'
-      end: '00:22:19.691'
+      start:
+        sec: '1291.795'
+        mark: '00:21:31.795'
+      end:
+        sec: '1339.691'
+        mark: '00:22:19.691'
       u: "...for Kovno. Not the military commandant but the civilian commandant. And
         the Jews, it was announced that the Jews who had registered as artisans should
         come, should come and fetch their cards [the word really should cover not
@@ -1959,12 +3019,20 @@ recording:
         remained alive after the first actions. So that is what we called a Jordon
         card. Is that clear?"
     - who: David Boder
-      start: '00:22:19.691'
-      end: '00:22:20.488'
+      start:
+        sec: '1339.691'
+        mark: '00:22:19.691'
+      end:
+        sec: '1340.488'
+        mark: '00:22:20.488'
       u: Yes.
     - who: Ephraim Gutman
-      start: '00:22:20.488'
-      end: '00:25:22.420'
+      start:
+        sec: '1340.488'
+        mark: '00:22:20.488'
+      end:
+        sec: '1522.420'
+        mark: '00:25:22.420'
       u: As on this day we go again to the second action, on the fourth of September.
         First he set fire to the hospital and the children’s home and then he led
         again the Jews out on the square and sorted them out again and this time the
@@ -2005,21 +3073,37 @@ recording:
         the adjective is correct], Gestapo “airfield” should stand up separately,
         and so on and so on, and each one should have with him his whole family.
     - who: David Boder
-      start: '00:25:22.420'
-      end: '00:25:23.738'
+      start:
+        sec: '1522.420'
+        mark: '00:25:22.420'
+      end:
+        sec: '1523.738'
+        mark: '00:25:23.738'
       u: The “airfield”—what does it mean?
     - who: Ephraim Gutman
-      start: '00:25:23.738'
-      end: '00:25:31.963'
+      start:
+        sec: '1523.738'
+        mark: '00:25:23.738'
+      end:
+        sec: '1531.963'
+        mark: '00:25:31.963'
       u: The “airfield” means that in Kovno they were constructing a big aerodrome
         and there they were driving daily some four to six thousand Jews to work.
     - who: David Boder
-      start: '00:25:31.963'
-      end: '00:25:33.389'
+      start:
+        sec: '1531.963'
+        mark: '00:25:31.963'
+      end:
+        sec: '1533.389'
+        mark: '00:25:33.389'
       u: And so they had to stand apart...
     - who: Ephraim Gutman
-      start: '00:25:33.389'
-      end: '00:26:10.951'
+      start:
+        sec: '1533.389'
+        mark: '00:25:33.389'
+      end:
+        sec: '1570.951'
+        mark: '00:26:10.951'
       u: And these Jews also had to congregate on the big square and stand up separately,
         the airfield [workers]. People had an idea that the airfield workers would
         fare better than all the rest because the airfield was a necessity, but as
@@ -2029,39 +3113,71 @@ recording:
         ghetto with their small machines and they started lining up the Jews in a
         manner.
     - who: David Boder
-      start: '00:26:10.951'
-      end: '00:26:12.073'
+      start:
+        sec: '1570.951'
+        mark: '00:26:10.951'
+      end:
+        sec: '1572.073'
+        mark: '00:26:12.073'
       u: With what kind of machines?
     - who: Ephraim Gutman
-      start: '00:26:12.073'
-      end: '00:26:15.434'
+      start:
+        sec: '1572.073'
+        mark: '00:26:12.073'
+      end:
+        sec: '1575.434'
+        mark: '00:26:15.434'
       u: With small machines. Not armored machines.
     - who: David Boder
-      start: '00:26:15.434'
-      end: '00:26:16.173'
+      start:
+        sec: '1575.434'
+        mark: '00:26:15.434'
+      end:
+        sec: '1576.173'
+        mark: '00:26:16.173'
       u: Automobiles?
     - who: Ephraim Gutman
-      start: '00:26:16.173'
-      end: '00:26:34.712'
+      start:
+        sec: '1576.173'
+        mark: '00:26:16.173'
+      end:
+        sec: '1594.712'
+        mark: '00:26:34.712'
       u: 'Yes. And the Jews remained standing in formation and around and around there
         was a free intermediate space, and there stood German police and did not admit
         anybody there, and the Lithuanians with them. And then they yelled: “Council
         of the elders should pass.” And then they had not yet wire [fences]...'
     - who: David Boder
-      start: '00:26:34.712'
-      end: '00:26:35.743'
+      start:
+        sec: '1594.712'
+        mark: '00:26:34.712'
+      end:
+        sec: '1595.743'
+        mark: '00:26:35.743'
       u: The elders...? [He speaks very fast and animatedly.]
     - who: Ephraim Gutman
-      start: '00:26:35.743'
-      end: '00:26:37.483'
+      start:
+        sec: '1595.743'
+        mark: '00:26:35.743'
+      end:
+        sec: '1597.483'
+        mark: '00:26:37.483'
       u: The council of elders, that is, the Jewish Committee should march through.
     - who: David Boder
-      start: '00:26:37.483'
-      end: '00:26:37.597'
+      start:
+        sec: '1597.483'
+        mark: '00:26:37.483'
+      end:
+        sec: '1597.597'
+        mark: '00:26:37.597'
       u: Yes?
     - who: Ephraim Gutman
-      start: '00:26:37.597'
-      end: '00:29:03.654'
+      start:
+        sec: '1597.597'
+        mark: '00:26:37.597'
+      end:
+        sec: '1743.654'
+        mark: '00:29:03.654'
       u: 'And it was so arranged since there were no wire [wire fences] with a special
         gate to march through, but the German guards were so posted [all around] that
         there was just a little door, a “human door” [a little interval in the tight
@@ -2099,48 +3215,88 @@ recording:
         he was unable to continue with the classification, he saw that darkness was
         already falling and so...'
     - who: David Boder
-      start: '00:29:03.654'
-      end: '00:29:04.410'
+      start:
+        sec: '1743.654'
+        mark: '00:29:03.654'
+      end:
+        sec: '1744.410'
+        mark: '00:29:04.410'
       u: Who was that?
     - who: Ephraim Gutman
-      start: '00:29:04.410'
-      end: '00:29:05.896'
+      start:
+        sec: '1744.410'
+        mark: '00:29:04.410'
+      end:
+        sec: '1745.896'
+        mark: '00:29:05.896'
       u: Jordan, always Jordan.
     - who: David Boder
-      start: '00:29:05.896'
-      end: '00:29:06.441'
+      start:
+        sec: '1745.896'
+        mark: '00:29:05.896'
+      end:
+        sec: '1746.441'
+        mark: '00:29:06.441'
       u: Jordan...
     - who: Ephraim Gutman
-      start: '00:29:06.441'
-      end: '00:29:07.400'
+      start:
+        sec: '1746.441'
+        mark: '00:29:06.441'
+      end:
+        sec: '1747.400'
+        mark: '00:29:07.400'
       u: Later on...
     - who: David Boder
-      start: '00:29:07.400'
-      end: '00:29:08.489'
+      start:
+        sec: '1747.400'
+        mark: '00:29:07.400'
+      end:
+        sec: '1748.489'
+        mark: '00:29:08.489'
       u: Who was Jordan?
     - who: Ephraim Gutman
-      start: '00:29:08.489'
-      end: '00:29:29.871'
+      start:
+        sec: '1748.489'
+        mark: '00:29:08.489'
+      end:
+        sec: '1769.871'
+        mark: '00:29:29.871'
       u: Jordan was a SS superior commander. That is, a party man, a brown one. He
         himself was a Scheigitz [a gentile boy], about 21 years old, a teacher of
         physical education, and as it appears, he possessed but a low sense of human
         values [I am not sure whether I have translated correctly the interposed Hebrew
         expression], and that is what they wanted.
     - who: David Boder
-      start: '00:29:29.871'
-      end: '00:29:30.813'
+      start:
+        sec: '1769.871'
+        mark: '00:29:29.871'
+      end:
+        sec: '1770.813'
+        mark: '00:29:30.813'
       u: Who was he, a Lithuanian?
     - who: Ephraim Gutman
-      start: '00:29:30.813'
-      end: '00:29:31.464'
+      start:
+        sec: '1770.813'
+        mark: '00:29:30.813'
+      end:
+        sec: '1771.464'
+        mark: '00:29:31.464'
       u: A German.
     - who: David Boder
-      start: '00:29:31.464'
-      end: '00:29:33.925'
+      start:
+        sec: '1771.464'
+        mark: '00:29:31.464'
+      end:
+        sec: '1773.925'
+        mark: '00:29:33.925'
       u: A German... what happened to him afterwards?
     - who: Ephraim Gutman
-      start: '00:29:33.925'
-      end: '00:30:57.845'
+      start:
+        sec: '1773.925'
+        mark: '00:29:33.925'
+      end:
+        sec: '1857.845'
+        mark: '00:30:57.845'
       u: This Jordan afterwards... since he had appropriated by loot large quantities
         of Jewish property when the order which I mentioned before was issued to surrender
         Jewish gold and diamonds, so he himself used to take away for himself the
@@ -2164,12 +3320,20 @@ recording:
         to be confused with any other number, 12,000 Jews, and nothing was known.
         But the next morning...
     - who: David Boder
-      start: '00:30:57.845'
-      end: '00:30:59.908'
+      start:
+        sec: '1857.845'
+        mark: '00:30:57.845'
+      end:
+        sec: '1859.908'
+        mark: '00:30:59.908'
       u: How do you know this number?
     - who: Ephraim Gutman
-      start: '00:30:59.908'
-      end: '00:31:55.631'
+      start:
+        sec: '1859.908'
+        mark: '00:30:59.908'
+      end:
+        sec: '1915.631'
+        mark: '00:31:55.631'
       u: The next morning there was a census taken and there remained... the census
         has shown that 12,000 Jews were missing in the ghetto. And the people were
         kept until early next morning in the little ghetto and lo! even the Jews in
@@ -2182,32 +3346,56 @@ recording:
         for hours long moving again towards the fort and then we heard a short while
         later... we heard the German M-G fires working, that is...
     - who: David Boder
-      start: '00:31:55.631'
-      end: '00:31:55.998'
+      start:
+        sec: '1915.631'
+        mark: '00:31:55.631'
+      end:
+        sec: '1915.998'
+        mark: '00:31:55.998'
       u: Machine guns...
     - who: Ephraim Gutman
-      start: '00:31:55.998'
-      end: '00:31:58.824'
+      start:
+        sec: '1915.998'
+        mark: '00:31:55.998'
+      end:
+        sec: '1918.824'
+        mark: '00:31:58.824'
       u: Machine guns, that what they called in Russia pulemeti.
     - who: David Boder
-      start: '00:31:58.824'
-      end: '00:32:00.204'
+      start:
+        sec: '1918.824'
+        mark: '00:31:58.824'
+      end:
+        sec: '1920.204'
+        mark: '00:32:00.204'
       u: Yes...
     - who: Ephraim Gutman
-      start: '00:32:00.204'
-      end: '00:32:20.900'
+      start:
+        sec: '1920.204'
+        mark: '00:32:00.204'
+      end:
+        sec: '1940.900'
+        mark: '00:32:20.900'
       u: And that settled the events for that day. The next morning Dr. Elkes asked
         Jordan what has happened to the 12,000 Jews so he replied, [and here he quotes
         in correct German] “Do not speak any more about it. Those Jews are not alive
         anymore. But such things will not happen again in the ghetto, that was the
         last of the last actions. Now you all shall remain alive.”
     - who: David Boder
-      start: '00:32:20.900'
-      end: '00:32:22.783'
+      start:
+        sec: '1940.900'
+        mark: '00:32:20.900'
+      end:
+        sec: '1942.783'
+        mark: '00:32:22.783'
       u: Who buried those 12,000?
     - who: Ephraim Gutman
-      start: '00:32:22.783'
-      end: '00:32:55.712'
+      start:
+        sec: '1942.783'
+        mark: '00:32:22.783'
+      end:
+        sec: '1975.712'
+        mark: '00:32:55.712'
       u: There were prepared ditches. The Russian prisoners would first prepare the
         ditches, and there they would line up the people, undressed naked or in their
         underwear... and throw them... those were gigantic ditches, they would line
@@ -2217,24 +3405,40 @@ recording:
         they threw over them lime to prevent an epidemic, and the ditches were kept
         ready for those whose turn was to come later.
     - who: David Boder
-      start: '00:32:55.712'
-      end: '00:32:57.231'
+      start:
+        sec: '1975.712'
+        mark: '00:32:55.712'
+      end:
+        sec: '1977.231'
+        mark: '00:32:57.231'
       u: They would not cover up the ditches?
     - who: Ephraim Gutman
-      start: '00:32:57.231'
-      end: '00:33:24.832'
+      start:
+        sec: '1977.231'
+        mark: '00:32:57.231'
+      end:
+        sec: '2004.832'
+        mark: '00:33:24.832'
       u: No, just lime. And so that happened the 28th of October, 1941, and that was
         indeed the last action in the ghetto, or rather one of the last. And so the
         ghetto lived with little actions, with greater ones, little actions continued
         to happen in the ghetto, but not large ones. One of the greater actions occurred
         the day when Stalingrad fell — the Germans have lost at Stalingrad...
     - who: David Boder
-      start: '00:33:24.832'
-      end: '00:33:25.361'
+      start:
+        sec: '2004.832'
+        mark: '00:33:24.832'
+      end:
+        sec: '2005.361'
+        mark: '00:33:25.361'
       u: Well?
     - who: Ephraim Gutman
-      start: '00:33:25.361'
-      end: '00:33:58.283'
+      start:
+        sec: '2005.361'
+        mark: '00:33:25.361'
+      end:
+        sec: '2038.283'
+        mark: '00:33:58.283'
       u: So to give vent to their wrath, they had to pacify their blood in some way
         so they again went... there came an order to the Lithuanian police in Kovno,
         that those Jews who are being driven to work, if they should step out a bit
@@ -2243,85 +3447,157 @@ recording:
         come to the ghetto and take away the families of those people, and lead them
         to the fort, again to the ninth fort and shoot them.
     - who: David Boder
-      start: '00:33:58.283'
-      end: '00:34:01.085'
+      start:
+        sec: '2038.283'
+        mark: '00:33:58.283'
+      end:
+        sec: '2041.085'
+        mark: '00:34:01.085'
       u: They gathered together...
     - who: Ephraim Gutman
-      start: '00:34:01.085'
-      end: '00:34:04.049'
+      start:
+        sec: '2041.085'
+        mark: '00:34:01.085'
+      end:
+        sec: '2044.049'
+        mark: '00:34:04.049'
       u: "(interrupting)... the families of those who were arrested that evening in
         Kovno."
     - who: David Boder
-      start: '00:34:04.049'
-      end: '00:34:05.307'
+      start:
+        sec: '2044.049'
+        mark: '00:34:04.049'
+      end:
+        sec: '2045.307'
+        mark: '00:34:05.307'
       u: And they were taken for not working?
     - who: Ephraim Gutman
-      start: '00:34:05.307'
-      end: '00:34:17.177'
+      start:
+        sec: '2045.307'
+        mark: '00:34:05.307'
+      end:
+        sec: '2057.177'
+        mark: '00:34:17.177'
       u: Only because they stepped out a bit from their place of work. For example,
         there was a famous mechanic in Kovno, Sadowski [I am not sure that the name
         is exactly correct] he stepped out of line to beg for a piece of bread...
     - who: David Boder
-      start: '00:34:17.177'
-      end: '00:34:17.917'
+      start:
+        sec: '2057.177'
+        mark: '00:34:17.177'
+      end:
+        sec: '2057.917'
+        mark: '00:34:17.917'
       u: A Jew?
     - who: Ephraim Gutman
-      start: '00:34:17.917'
-      end: '00:34:34.918'
+      start:
+        sec: '2057.917'
+        mark: '00:34:17.917'
+      end:
+        sec: '2074.918'
+        mark: '00:34:34.918'
       u: A Jew. He stepped out of line to ask for a piece of bread from a Christian,
         from a Lithuanian women. It is self-evident that she didn’t give him any but
         the Lithuanian noticed it, a Lithuanian guard, and he arrested him. And at
         night they came and took away his wife and daughter and they sent them away
         the next morning and shot them.
     - who: David Boder
-      start: '00:34:34.918'
-      end: '00:34:36.201'
+      start:
+        sec: '2074.918'
+        mark: '00:34:34.918'
+      end:
+        sec: '2076.201'
+        mark: '00:34:36.201'
       u: You say... he was shot?
     - who: Ephraim Gutman
-      start: '00:34:36.201'
-      end: '00:35:29.854'
+      start:
+        sec: '2076.201'
+        mark: '00:34:36.201'
+      end:
+        sec: '2129.854'
+        mark: '00:35:29.854'
       u: |-
         Again on the ninth fort. Later on in 1943, before the high holy days there arrived one nice early morning a German and said that from today on it should not be called anymore the ghetto but it will be called from today on the Kon-lager. That means concentration camp Kovno, Kaunas [that’s the Lithuanian name for the city of Kovno], and that he will be the ghetto com... the lager
                                 commandant [concentration camp commandant]. His name was Geke, Geke [Gerke?]. He was a top Obersturm-[?]-Fuehrer, that is, of the highest ranks of the German party. From the beginning he revealed himself as an intelligent person. He inquired about the state of nutrition on the ghetto so Dr. Elkes reported [that it consists] of fifty grams of bread, so he said that of course on this the ghetto couldn’t live, the people must get more, they must get butter, and they must get other things. And they started giving butter but unfortunately it has cost... [there was a price for it]...
     - who: David Boder
-      start: '00:35:29.854'
-      end: '00:35:30.594'
+      start:
+        sec: '2129.854'
+        mark: '00:35:29.854'
+      end:
+        sec: '2130.594'
+        mark: '00:35:30.594'
       u: When was that?
     - who: Ephraim Gutman
-      start: '00:35:30.594'
-      end: '00:35:33.136'
+      start:
+        sec: '2130.594'
+        mark: '00:35:30.594'
+      end:
+        sec: '2133.136'
+        mark: '00:35:33.136'
       u: That was in 1943, at the time of the high holidays.
     - who: David Boder
-      start: '00:35:33.136'
-      end: '00:35:33.793'
+      start:
+        sec: '2133.136'
+        mark: '00:35:33.136'
+      end:
+        sec: '2133.793'
+        mark: '00:35:33.793'
       u: Yes.
     - who: Ephraim Gutman
-      start: '00:35:33.793'
-      end: '00:35:34.890'
+      start:
+        sec: '2133.793'
+        mark: '00:35:33.793'
+      end:
+        sec: '2134.890'
+        mark: '00:35:34.890'
       u: And...
     - who: David Boder
-      start: '00:35:34.890'
-      end: '00:35:36.692'
+      start:
+        sec: '2134.890'
+        mark: '00:35:34.890'
+      end:
+        sec: '2136.692'
+        mark: '00:35:36.692'
       u: You mean by butter — margarine?
     - who: Ephraim Gutman
-      start: '00:35:36.692'
-      end: '00:35:37.593'
+      start:
+        sec: '2136.692'
+        mark: '00:35:36.692'
+      end:
+        sec: '2137.593'
+        mark: '00:35:37.593'
       u: Butter.
     - who: David Boder
-      start: '00:35:37.593'
-      end: '00:35:38.139'
+      start:
+        sec: '2137.593'
+        mark: '00:35:37.593'
+      end:
+        sec: '2138.139'
+        mark: '00:35:38.139'
       u: What do you mean, real butter?
     - who: Ephraim Gutman
-      start: '00:35:38.139'
-      end: '00:35:40.300'
+      start:
+        sec: '2138.139'
+        mark: '00:35:38.139'
+      end:
+        sec: '2140.300'
+        mark: '00:35:40.300'
       u: Real butter, real butter.
     - who: David Boder
-      start: '00:35:40.300'
-      end: '00:35:41.365'
+      start:
+        sec: '2140.300'
+        mark: '00:35:40.300'
+      end:
+        sec: '2141.365'
+        mark: '00:35:41.365'
       u: Where could that be obtained?
     - who: Ephraim Gutman
-      start: '00:35:41.365'
-      end: '00:36:08.886'
+      start:
+        sec: '2141.365'
+        mark: '00:35:41.365'
+      end:
+        sec: '2168.886'
+        mark: '00:36:08.886'
       u: 'That the Germans... oh, for themselves they had, and what they “required”
         they managed to get for the Jews. They started giving some marmalade [jam].
         And in the ghetto there already appeared a saying, “If you get butter today
@@ -2332,36 +3608,68 @@ recording:
         to permit them to gether some strength for the journey and for the impending
         hard labor.].'
     - who: David Boder
-      start: '00:36:08.886'
-      end: '00:36:10.511'
+      start:
+        sec: '2168.886'
+        mark: '00:36:08.886'
+      end:
+        sec: '2170.511'
+        mark: '00:36:10.511'
       u: To Estonia, to Reval?
     - who: Ephraim Gutman
-      start: '00:36:10.511'
-      end: '00:36:14.077'
+      start:
+        sec: '2170.511'
+        mark: '00:36:10.511'
+      end:
+        sec: '2174.077'
+        mark: '00:36:14.077'
       u: No, to various places of labor. First he...
     - who: David Boder
-      start: '00:36:14.077'
-      end: '00:36:17.195'
+      start:
+        sec: '2174.077'
+        mark: '00:36:14.077'
+      end:
+        sec: '2177.195'
+        mark: '00:36:17.195'
       u: And Estonia was called [then] Russia?
     - who: Ephraim Gutman
-      start: '00:36:17.195'
-      end: '00:36:20.037'
+      start:
+        sec: '2177.195'
+        mark: '00:36:17.195'
+      end:
+        sec: '2180.037'
+        mark: '00:36:20.037'
       u: Estonia was also [among the territories of] former Russia...
     - who: David Boder
-      start: '00:36:20.037'
-      end: '00:36:20.137'
+      start:
+        sec: '2180.037'
+        mark: '00:36:20.037'
+      end:
+        sec: '2180.137'
+        mark: '00:36:20.137'
       u: Yes.
     - who: Ephraim Gutman
-      start: '00:36:20.137'
-      end: '00:36:21.161'
+      start:
+        sec: '2180.137'
+        mark: '00:36:20.137'
+      end:
+        sec: '2181.161'
+        mark: '00:36:21.161'
       u: "... occupied Russia."
     - who: David Boder
-      start: '00:36:21.161'
-      end: '00:36:22.395'
+      start:
+        sec: '2181.161'
+        mark: '00:36:21.161'
+      end:
+        sec: '2182.395'
+        mark: '00:36:22.395'
       u: Yes.
     - who: Ephraim Gutman
-      start: '00:36:22.395'
-      end: '00:37:38.701'
+      start:
+        sec: '2182.395'
+        mark: '00:36:22.395'
+      end:
+        sec: '2258.701'
+        mark: '00:37:38.701'
       u: First he announced, a few days before the events, that is, before the 28th
         of October, he announced that he needs 2,000 Jews for work 20 kilometers away
         from Kovno. And it came out afterwards that he has told a lie and that he
@@ -2379,21 +3687,37 @@ recording:
         be burned; it was clear to them that they too will be burned, so every German
         who would enter there the chamber, what do they call it...
     - who: David Boder
-      start: '00:37:38.701'
-      end: '00:37:39.457'
+      start:
+        sec: '2258.701'
+        mark: '00:37:38.701'
+      end:
+        sec: '2259.457'
+        mark: '00:37:39.457'
       u: In the gas chamber.
     - who: Ephraim Gutman
-      start: '00:37:39.457'
-      end: '00:37:46.394'
+      start:
+        sec: '2259.457'
+        mark: '00:37:39.457'
+      end:
+        sec: '2266.394'
+        mark: '00:37:46.394'
       u: No, where they burned, in the crematory. So when he [the German] would come
         in they would strangle him and throw him into the furnace.
     - who: David Boder
-      start: '00:37:46.394'
-      end: '00:37:47.660'
+      start:
+        sec: '2266.394'
+        mark: '00:37:46.394'
+      end:
+        sec: '2267.660'
+        mark: '00:37:47.660'
       u: Was there no search [for these missing Germans]?
     - who: Ephraim Gutman
-      start: '00:37:47.660'
-      end: '00:38:09.406'
+      start:
+        sec: '2267.660'
+        mark: '00:37:47.660'
+      end:
+        sec: '2289.406'
+        mark: '00:38:09.406'
       u: And so disappeared many Germans until the suspicion was aroused that they
         disappeared all in the “chamber”. And then they all were discovered and for
         that they all were thrown into the “chamber”. This I have learned now from
@@ -2402,12 +3726,20 @@ recording:
         was married once to that person, but was not alive any more] who told me that
         a comrade who has managed to escape from the chamber has told him...
     - who: David Boder
-      start: '00:38:09.406'
-      end: '00:38:10.154'
+      start:
+        sec: '2289.406'
+        mark: '00:38:09.406'
+      end:
+        sec: '2290.154'
+        mark: '00:38:10.154'
       u: From the crematory?
     - who: Ephraim Gutman
-      start: '00:38:10.154'
-      end: '00:39:02.529'
+      start:
+        sec: '2290.154'
+        mark: '00:38:10.154'
+      end:
+        sec: '2342.529'
+        mark: '00:39:02.529'
       u: Yes, from the crematory, [has told him] that my brother was the organizer
         of this act of vengeance against the Germans. And now we continue. Events
         in the ghetto proceeded, not in the ghetto but the Kon-lager, events proceeded
@@ -2419,38 +3751,66 @@ recording:
         always before all the actions people in the ghetto had a presentiment that
         something was going to happen.
     - who: David Boder
-      start: '00:39:02.529'
-      end: '00:39:31.443'
+      start:
+        sec: '2342.529'
+        mark: '00:39:02.529'
+      end:
+        sec: '2371.443'
+        mark: '00:39:31.443'
       u: "[In English] This concludes, this concludes Spool 124 of Mr. Ephraim Gutman
         and we are going over, we are going over to Spool 125. We are taking now about
         the so-called Aktion gegen Alte und Kinder. Paris, September the 12th, 1946,
         in Hénonville."
     - who: David Boder
-      start: '00:39:31.443'
-      end: '00:40:11.170'
+      start:
+        sec: '2371.443'
+        mark: '00:39:31.443'
+      end:
+        sec: '2411.170'
+        mark: '00:40:11.170'
       u: This spool, which is called 125 should really be called 125A because there
         is another section of an interviewee. January 29, 1950. Boder.
     - who: David Boder
-      start: '00:40:11.170'
-      end: '00:40:31.447'
+      start:
+        sec: '2411.170'
+        mark: '00:40:11.170'
+      end:
+        sec: '2431.447'
+        mark: '00:40:31.447'
       u: This is Spool 125, Mr. Ephraim Gutman reporting, a continuation of Spool
         124. France, Hénonville, fifty Kilometers (50 km) from Paris at a home maintained
         by for displaced Jews, maintained by the Agudah in combination with the ORT.
     - who: David Boder
-      start: '00:40:31.447'
-      end: '00:40:36.287'
+      start:
+        sec: '2431.447'
+        mark: '00:40:31.447'
+      end:
+        sec: '2436.287'
+        mark: '00:40:36.287'
       u: And so you said that they started in Kovno against old men and children.
     - who: Ephraim Gutman
-      start: '00:40:36.287'
-      end: '00:40:36.785'
+      start:
+        sec: '2436.287'
+        mark: '00:40:36.287'
+      end:
+        sec: '2436.785'
+        mark: '00:40:36.785'
       u: Yes.
     - who: David Boder
-      start: '00:40:36.785'
-      end: '00:40:38.629'
+      start:
+        sec: '2436.785'
+        mark: '00:40:36.785'
+      end:
+        sec: '2438.629'
+        mark: '00:40:38.629'
       u: When did that happen and what was it all about?
     - who: Ephraim Gutman
-      start: '00:40:38.629'
-      end: '00:41:07.589'
+      start:
+        sec: '2438.629'
+        mark: '00:40:38.629'
+      end:
+        sec: '2467.589'
+        mark: '00:41:07.589'
       u: 'That happened the 28th of October [Footnote 2: The date—the 28th of October—is
         apparently very deeply fixated in his memory.], [he corrects himself] the
         28th, the 27th of March, 1944. I want to remark that before an action there
@@ -2459,28 +3819,52 @@ recording:
         that something was in the offing against the ghetto. And in the evening of
         the 26th, there came Geke, the commandant of the lager [camp]...'
     - who: David Boder
-      start: '00:41:07.589'
-      end: '00:41:08.961'
+      start:
+        sec: '2467.589'
+        mark: '00:41:07.589'
+      end:
+        sec: '2468.961'
+        mark: '00:41:08.961'
       u: How do you spell his name?
     - who: Ephraim Gutman
-      start: '00:41:08.961'
-      end: '00:41:10.318'
+      start:
+        sec: '2468.961'
+        mark: '00:41:08.961'
+      end:
+        sec: '2470.318'
+        mark: '00:41:10.318'
       u: Geke.
     - who: David Boder
-      start: '00:41:10.318'
-      end: '00:41:12.493'
+      start:
+        sec: '2470.318'
+        mark: '00:41:10.318'
+      end:
+        sec: '2472.493'
+        mark: '00:41:12.493'
       u: G-e-c-k-e?
     - who: Ephraim Gutman
-      start: '00:41:12.493'
-      end: '00:41:13.061'
+      start:
+        sec: '2472.493'
+        mark: '00:41:12.493'
+      end:
+        sec: '2473.061'
+        mark: '00:41:13.061'
       u: That I don’t know.
     - who: David Boder
-      start: '00:41:13.061'
-      end: '00:41:14.183'
+      start:
+        sec: '2473.061'
+        mark: '00:41:13.061'
+      end:
+        sec: '2474.183'
+        mark: '00:41:14.183'
       u: Oh, well.
     - who: Ephraim Gutman
-      start: '00:41:14.183'
-      end: '00:41:36.446'
+      start:
+        sec: '2474.183'
+        mark: '00:41:14.183'
+      end:
+        sec: '2496.446'
+        mark: '00:41:36.446'
       u: And so Geke came to the police, to the chief of the Jewish police. And he
         ordered that tomorrow morning, that is, the 27th of March, 1941, [he speaks
         very fast] the Jewish police should assemble at the office of the German commandant
@@ -2488,30 +3872,54 @@ recording:
         statement would indicate that the events reported occured not in 1941 but
         as he stated before in 1944], that is...
     - who: David Boder
-      start: '00:41:36.446'
-      end: '00:41:39.757'
+      start:
+        sec: '2496.446'
+        mark: '00:41:36.446'
+      end:
+        sec: '2499.757'
+        mark: '00:41:39.757'
       u: Tell me something in a few words about the Jewish police.
     - who: Ephraim Gutman
-      start: '00:41:39.757'
-      end: '00:41:44.994'
+      start:
+        sec: '2499.757'
+        mark: '00:41:39.757'
+      end:
+        sec: '2504.994'
+        mark: '00:41:44.994'
       u: About the Jewish police we will talk in connection with the child action
         and we will see pretty soon what kind of people they were.
     - who: David Boder
-      start: '00:41:44.994'
-      end: '00:41:45.815'
+      start:
+        sec: '2504.994'
+        mark: '00:41:44.994'
+      end:
+        sec: '2505.815'
+        mark: '00:41:45.815'
       u: Yes.
     - who: Ephraim Gutman
-      start: '00:41:45.815'
-      end: '00:41:54.040'
+      start:
+        sec: '2505.815'
+        mark: '00:41:45.815'
+      end:
+        sec: '2514.040'
+        mark: '00:41:54.040'
       u: "...and they should all assemble for instructions, to listen to some kind
         of a speech. And they came rather cleanly dressed..."
     - who: David Boder
-      start: '00:41:54.040'
-      end: '00:41:54.585'
+      start:
+        sec: '2514.040'
+        mark: '00:41:54.040'
+      end:
+        sec: '2514.585'
+        mark: '00:41:54.585'
       u: The police...
     - who: Ephraim Gutman
-      start: '00:41:54.585'
-      end: '00:42:32.832'
+      start:
+        sec: '2514.585'
+        mark: '00:41:54.585'
+      end:
+        sec: '2552.832'
+        mark: '00:42:32.832'
       u: 'Yes, the police arrived in the morning, it was eight o’clock, and as soon
         as they arrived at the German commandant’s office, there appeared from the
         hallways of the offices of the German commandant the white Russians, that
@@ -2525,38 +3933,70 @@ recording:
         into these freight trucks and they were driven away to the ninth fort. This
         all was an overture to the play to come. At that moment...'
     - who: David Boder
-      start: '00:42:32.832'
-      end: '00:42:34.832'
+      start:
+        sec: '2552.832'
+        mark: '00:42:32.832'
+      end:
+        sec: '2554.832'
+        mark: '00:42:34.832'
       u: And the police were...executed?
     - who: Ephraim Gutman
-      start: '00:42:34.832'
-      end: '00:42:42.659'
+      start:
+        sec: '2554.832'
+        mark: '00:42:34.832'
+      end:
+        sec: '2562.659'
+        mark: '00:42:42.659'
       u: No, unfortunately, many of the police remained alive, I want to repeat unfornately
         a few of the police remained alive. Afterwards...
     - who: David Boder
-      start: '00:42:42.659'
-      end: '00:42:44.389'
+      start:
+        sec: '2562.659'
+        mark: '00:42:42.659'
+      end:
+        sec: '2564.389'
+        mark: '00:42:44.389'
       u: What does it mean—a few? What have they done to the rest?
     - who: Ephraim Gutman
-      start: '00:42:44.389'
-      end: '00:42:54.683'
+      start:
+        sec: '2564.389'
+        mark: '00:42:44.389'
+      end:
+        sec: '2574.683'
+        mark: '00:42:54.683'
       u: That I will tell you about soon. Also, at the same time, when they led out
         of the ghetto, a little vehicle, a taxi arrived in the ghetto with a megaphone.
     - who: David Boder
-      start: '00:42:54.683'
-      end: '00:42:55.438'
+      start:
+        sec: '2574.683'
+        mark: '00:42:54.683'
+      end:
+        sec: '2575.438'
+        mark: '00:42:55.438'
       u: A what?
     - who: Ephraim Gutman
-      start: '00:42:55.438'
-      end: '00:42:56.355'
+      start:
+        sec: '2575.438'
+        mark: '00:42:55.438'
+      end:
+        sec: '2576.355'
+        mark: '00:42:56.355'
       u: With a megaphone, a loudspeaker.
     - who: David Boder
-      start: '00:42:56.355'
-      end: '00:42:56.762'
+      start:
+        sec: '2576.355'
+        mark: '00:42:56.355'
+      end:
+        sec: '2576.762'
+        mark: '00:42:56.762'
       u: Yes...
     - who: Ephraim Gutman
-      start: '00:42:56.762'
-      end: '00:43:43.517'
+      start:
+        sec: '2576.762'
+        mark: '00:42:56.762'
+      end:
+        sec: '2623.517'
+        mark: '00:43:43.517'
       u: 'And in it sat a man, whether it was a German or a Jew, we wouldn’t know.
         And this little vehicle ran through the whole ghetto, through all the little
         streets and called out: “Attention, attention! All Jews should retire to their
@@ -2570,32 +4010,56 @@ recording:
         People understood that something is coming about to happen. People who had
         prepared hideouts or in the ghetto they were called malines...'
     - who: David Boder
-      start: '00:43:43.517'
-      end: '00:43:44.329'
+      start:
+        sec: '2623.517'
+        mark: '00:43:43.517'
+      end:
+        sec: '2624.329'
+        mark: '00:43:44.329'
       u: What, malines?
     - who: Ephraim Gutman
-      start: '00:43:44.329'
-      end: '00:43:45.321'
+      start:
+        sec: '2624.329'
+        mark: '00:43:44.329'
+      end:
+        sec: '2625.321'
+        mark: '00:43:45.321'
       u: M-a-l-i-n-e-s.
     - who: David Boder
-      start: '00:43:45.321'
-      end: '00:43:46.426'
+      start:
+        sec: '2625.321'
+        mark: '00:43:45.321'
+      end:
+        sec: '2626.426'
+        mark: '00:43:46.426'
       u: Not bunkers.
     - who: Ephraim Gutman
-      start: '00:43:46.426'
-      end: '00:44:03.109'
+      start:
+        sec: '2626.426'
+        mark: '00:43:46.426'
+      end:
+        sec: '2643.109'
+        mark: '00:44:03.109'
       u: Bunkers is in German. And malines originates from the Hebrew word malon which
         means a hideout. In the ghetto they were called malines, possibly the word
         originated with the thieves, because the thieves used to say that things had
         to be “malinated,” when they would steal something they would say that the
         thing had to be “malinated.” That means to hide it.
     - who: David Boder
-      start: '00:44:03.109'
-      end: '00:44:03.823'
+      start:
+        sec: '2643.109'
+        mark: '00:44:03.109'
+      end:
+        sec: '2643.823'
+        mark: '00:44:03.823'
       u: Jewish thieves?
     - who: Ephraim Gutman
-      start: '00:44:03.823'
-      end: '00:44:54.706'
+      start:
+        sec: '2643.823'
+        mark: '00:44:03.823'
+      end:
+        sec: '2694.706'
+        mark: '00:44:54.706'
       u: Yes, [We have here a peculiar phenomenon of language mixture. Malina means
         in Russian a raspberry or a raspberry shrub. Malinate is a makeshift word
         which could mean covering up with something sweet hiding it under a sweet,
@@ -2612,20 +4076,36 @@ recording:
         was at the moment still on the ninth fort and was not yet shot. All at once...
         the action dragged itself out until seven o’clock in the evening... then...
     - who: David Boder
-      start: '00:44:54.706'
-      end: '00:44:56.912'
+      start:
+        sec: '2694.706'
+        mark: '00:44:54.706'
+      end:
+        sec: '2696.912'
+        mark: '00:44:56.912'
       u: How many people were there in the Jewish police?
     - who: Ephraim Gutman
-      start: '00:44:56.912'
-      end: '00:44:59.137'
+      start:
+        sec: '2696.912'
+        mark: '00:44:56.912'
+      end:
+        sec: '2699.137'
+        mark: '00:44:59.137'
       u: There were more than three hundred men in the Jewish police.
     - who: David Boder
-      start: '00:44:59.137'
-      end: '00:45:01.718'
+      start:
+        sec: '2699.137'
+        mark: '00:44:59.137'
+      end:
+        sec: '2701.718'
+        mark: '00:45:01.718'
       u: Is that so? Did they wear a uniform?
     - who: Ephraim Gutman
-      start: '00:45:01.718'
-      end: '00:45:32.465'
+      start:
+        sec: '2701.718'
+        mark: '00:45:01.718'
+      end:
+        sec: '2732.465'
+        mark: '00:45:32.465'
       u: They were wearing only a cap, a special cap with the star of David, J.G.P.
         – that means Jewish Ghetto Police, or how it was called later lager police
         and on their arm, on the left hand they were carrying a band with a blue star
@@ -2634,20 +4114,36 @@ recording:
         of the sector to which he belonged, of the sector to whose militia he belonged.
         And...
     - who: David Boder
-      start: '00:45:32.465'
-      end: '00:45:33.806'
+      start:
+        sec: '2732.465'
+        mark: '00:45:32.465'
+      end:
+        sec: '2733.806'
+        mark: '00:45:33.806'
       u: Were they carrying revolvers?
     - who: Ephraim Gutman
-      start: '00:45:33.806'
-      end: '00:45:35.731'
+      start:
+        sec: '2733.806'
+        mark: '00:45:33.806'
+      end:
+        sec: '2735.731'
+        mark: '00:45:35.731'
       u: No, they had no arms.
     - who: David Boder
-      start: '00:45:35.731'
-      end: '00:45:36.147'
+      start:
+        sec: '2735.731'
+        mark: '00:45:35.731'
+      end:
+        sec: '2736.147'
+        mark: '00:45:36.147'
       u: What did they have?
     - who: Ephraim Gutman
-      start: '00:45:36.147'
-      end: '00:46:13.032'
+      start:
+        sec: '2736.147'
+        mark: '00:45:36.147'
+      end:
+        sec: '2773.032'
+        mark: '00:46:13.032'
       u: Only cold weapons, that is, only a little club or a nagaika [the horsewhips
         which became famous by their use by the Russian Cossacks of the time of the
         Czar] and... the action was ended at seven o’clock in the evening and people
@@ -2660,12 +4156,20 @@ recording:
         back from work and did not find either the father or the mother or their children.
         And...
     - who: David Boder
-      start: '00:46:13.032'
-      end: '00:46:15.996'
+      start:
+        sec: '2773.032'
+        mark: '00:46:13.032'
+      end:
+        sec: '2775.996'
+        mark: '00:46:15.996'
       u: You said that that morning they were searching only for children?
     - who: Ephraim Gutman
-      start: '00:46:15.996'
-      end: '00:46:50.473'
+      start:
+        sec: '2775.996'
+        mark: '00:46:15.996'
+      end:
+        sec: '2810.473'
+        mark: '00:46:50.473'
       u: Oh, yes, the same thing happened to father and mother. The old ones and the
         little ones went together the first day. The action was designated “the old
         ones and small children,” but their zeal was directed against small children.
@@ -2674,12 +4178,20 @@ recording:
         day. Unfortunately it was observed that the same guard... I want to remark
         that on a day of the action the ghetto was especially guarded...
     - who: David Boder
-      start: '00:46:50.473'
-      end: '00:46:53.103'
+      start:
+        sec: '2810.473'
+        mark: '00:46:50.473'
+      end:
+        sec: '2813.103'
+        mark: '00:46:53.103'
       u: H-um.
     - who: Ephraim Gutman
-      start: '00:46:53.103'
-      end: '00:47:52.656'
+      start:
+        sec: '2813.103'
+        mark: '00:46:53.103'
+      end:
+        sec: '2872.656'
+        mark: '00:47:52.656'
       u: "... the ghetto was especially guarded so that the Jews should be unable
         to escape during an action but then when the action was over at seven o’clock
         in the evening, the German police were not removed from around the fence.
@@ -2694,23 +4206,39 @@ recording:
         already completed in the year ‘43, that is, the Vilna ghetto was liquidated
         already in ‘43."
     - who: David Boder
-      start: '00:47:52.656'
-      end: '00:47:54.094'
+      start:
+        sec: '2872.656'
+        mark: '00:47:52.656'
+      end:
+        sec: '2874.094'
+        mark: '00:47:54.094'
       u: In what way was it liquidated?
     - who: Ephraim Gutman
-      start: '00:47:54.094'
-      end: '00:48:07.266'
+      start:
+        sec: '2874.094'
+        mark: '00:47:54.094'
+      end:
+        sec: '2887.266'
+        mark: '00:48:07.266'
       u: Also everybody was led away to Estonia. They were liquidated – the greater
         part were shot on Panar, which is not far from Vilna. [Here apparently the
         door to the interview room was opened and somebody called Mr. Gutman. He replies,
         “Yes, I am coming soon.”]
     - who: David Boder
-      start: '00:48:07.266'
-      end: '00:48:10.027'
+      start:
+        sec: '2887.266'
+        mark: '00:48:07.266'
+      end:
+        sec: '2890.027'
+        mark: '00:48:10.027'
       u: You were talking about the action on the following day...
     - who: Ephraim Gutman
-      start: '00:48:10.027'
-      end: '00:48:50.596'
+      start:
+        sec: '2890.027'
+        mark: '00:48:10.027'
+      end:
+        sec: '2930.596'
+        mark: '00:48:50.596'
       u: 'Yes, and the police was on the ninth fort and the next morning early Kittel,
         he was the one who liquidated the ghettoof Vilna, came up to the ninth fort
         where the Jewish police was held under arrest and informed them: Since they
@@ -2721,12 +4249,20 @@ recording:
         they mounted an automobile together with Kittel and they arrived at the ghetto
         and pointed out where the malines were, that is...'
     - who: David Boder
-      start: '00:48:50.596'
-      end: '00:48:52.984'
+      start:
+        sec: '2930.596'
+        mark: '00:48:50.596'
+      end:
+        sec: '2932.984'
+        mark: '00:48:52.984'
       u: What number do you imply by many? You said there were three hundred.
     - who: Ephraim Gutman
-      start: '00:48:52.984'
-      end: '00:49:24.716'
+      start:
+        sec: '2932.984'
+        mark: '00:48:52.984'
+      end:
+        sec: '2964.716'
+        mark: '00:49:24.716'
       u: There were three hundred Jewish policemen. So among them were sixty Jewish
         policemen of whom it is known who drove into the ghetto with the automobiles
         and have pointed out whereabouts of the malines. I want to point out that
@@ -2736,12 +4272,20 @@ recording:
         they took out from there the old ones and the little children and all were
         led away to the fort and were shot. The police...
     - who: David Boder
-      start: '00:49:24.716'
-      end: '00:49:26.973'
+      start:
+        sec: '2964.716'
+        mark: '00:49:24.716'
+      end:
+        sec: '2966.973'
+        mark: '00:49:26.973'
       u: How could the Jewish police know?
     - who: Ephraim Gutman
-      start: '00:49:26.973'
-      end: '00:50:53.080'
+      start:
+        sec: '2966.973'
+        mark: '00:49:26.973'
+      end:
+        sec: '3053.080'
+        mark: '00:50:53.080'
       u: 'The Jewish police... in the construction of the malines [hideouts] people
         would not take precautions against the Jewish police; it was assumed that
         they were our friends. However, it revealed itself that they were our enemies.
@@ -2770,32 +4314,56 @@ recording:
         will also come,” [the words of the German were given in correct German] that
         is: “Your turn will come but for the time being you still must work.”'
     - who: David Boder
-      start: '00:50:53.080'
-      end: '00:50:54.380'
+      start:
+        sec: '3053.080'
+        mark: '00:50:53.080'
+      end:
+        sec: '3054.380'
+        mark: '00:50:54.380'
       u: Yes.
     - who: Ephraim Gutman
-      start: '00:50:54.380'
-      end: '00:51:09.569'
+      start:
+        sec: '3054.380'
+        mark: '00:50:54.380'
+      end:
+        sec: '3069.569'
+        mark: '00:51:09.569'
       u: And that day, in the evening, again at seven o’clock in the evening the action
         against the children was over. This I want to emphasize that the action against
         the children has made the strongest impression in the ghetto, much more than
         the great action against the 12,000 Jews on the 28th of October, 1941.
     - who: David Boder
-      start: '00:51:09.569'
-      end: '00:51:10.666'
+      start:
+        sec: '3069.569'
+        mark: '00:51:09.569'
+      end:
+        sec: '3070.666'
+        mark: '00:51:10.666'
       u: "[the interviewer apparently did not get one of the words clearly.] The strongest
         what?"
     - who: Ephraim Gutman
-      start: '00:51:10.666'
-      end: '00:51:12.712'
+      start:
+        sec: '3070.666'
+        mark: '00:51:10.666'
+      end:
+        sec: '3072.712'
+        mark: '00:51:12.712'
       u: The strongest impression, the most horrible impression.
     - who: David Boder
-      start: '00:51:12.712'
-      end: '00:51:12.827'
+      start:
+        sec: '3072.712'
+        mark: '00:51:12.712'
+      end:
+        sec: '3072.827'
+        mark: '00:51:12.827'
       u: Yes.
     - who: Ephraim Gutman
-      start: '00:51:12.827'
-      end: '00:52:35.044'
+      start:
+        sec: '3072.827'
+        mark: '00:51:12.827'
+      end:
+        sec: '3155.044'
+        mark: '00:52:35.044'
       u: Because the children... seeing that the children are being taken away and
         the old people, it was interpreted as a preparation for the total destruction
         of the ghetto, or how they called it later lager. And so this was over, the
@@ -2815,12 +4383,20 @@ recording:
         that in the ghetto were [concealed] arms and so on and so forth, so that the
         blame fell upon the higher [ranks] of the Jewish police because they...
     - who: David Boder
-      start: '00:52:35.044'
-      end: '00:52:41.035'
+      start:
+        sec: '3155.044'
+        mark: '00:52:35.044'
+      end:
+        sec: '3161.035'
+        mark: '00:52:41.035'
       u: You mean higher and lower in the sense of character, or in rank?
     - who: Ephraim Gutman
-      start: '00:52:41.035'
-      end: '00:53:30.078'
+      start:
+        sec: '3161.035'
+        mark: '00:52:41.035'
+      end:
+        sec: '3210.078'
+        mark: '00:53:30.078'
       u: No, we mean higher in rank. If we talk about higher we mean in rank. Form
         the just a bit higher policeman up to the chief of police, all were shot.
         There was one Moshe Levin, he was the chief of the Jewish police in the lager,
@@ -2831,8 +4407,12 @@ recording:
         not betray anything about the ghetto to the Germans because they will be shot
         anyway and they should not bestain the Jewish names.
     - who: David Boder
-      start: '00:53:30.078'
-      end: '00:54:47.823'
+      start:
+        sec: '3210.078'
+        mark: '00:53:30.078'
+      end:
+        sec: '3287.823'
+        mark: '00:54:47.823'
       u: A remark of the translator David P. Boder. Chicago, January the 29th, 1950.
         This is a duplicate spool prepared under the Public Health Grant... and the
         will be listed or cataloged as Spool 125A, because we discovered that on the

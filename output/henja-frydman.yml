@@ -41,273 +41,517 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:23.407'
-      end: '00:01:07.087'
+      start:
+        sec: '23.407'
+        mark: '00:00:23.407'
+      end:
+        sec: '67.087'
+        mark: '00:01:07.087'
       u: August 7, 1946, Paris. On Rue de Patin, a home for adult displaced people.
         Interviewee is Miss Henja Frydman, 23 years old, tattoo number 46603 and a
         triangle. She has some kind of administrative position, as secretary in some
         office, in part an elective post. She was elected by the deportees themselves.
         She will tell us her story in German. [She subsequently changes to Yiddish.]
     - who: David Boder
-      start: '00:01:07.087'
-      end: '00:01:13.780'
+      start:
+        sec: '67.087'
+        mark: '00:01:07.087'
+      end:
+        sec: '73.780'
+        mark: '00:01:13.780'
       u: "[In German] Miss Frydman, tell us again your full name. How old are you,
         and where are you from, and so on?"
     - who: Henja Frydman
-      start: '00:01:13.780'
-      end: '00:01:27.561'
+      start:
+        sec: '73.780'
+        mark: '00:01:13.780'
+      end:
+        sec: '87.561'
+        mark: '00:01:27.561'
       u: My name is Frydman, Henja. I was born...in ’24. My parents are Russian. I
         was arrested...
     - who: David Boder
-      start: '00:01:27.561'
-      end: '00:01:38.537'
+      start:
+        sec: '87.561'
+        mark: '00:01:27.561'
+      end:
+        sec: '98.537'
+        mark: '00:01:38.537'
       u: "[interrupting] Miss Frydman, what was the occupation of your parents? How
         many were there in your family?"
     - who: Henja Frydman
-      start: '00:01:38.537'
-      end: '00:01:47.241'
+      start:
+        sec: '98.537'
+        mark: '00:01:38.537'
+      end:
+        sec: '107.241'
+        mark: '00:01:47.241'
       u: We were a family of five people. Two brothers, I, and my parents.Henja is
         referring here to her family who lived in Paris. Subsequently, she reveals
         that she has three other siblings, two sisters and a brother, living in Palestine
         at the time of the interview.1
     - who: David Boder
-      start: '00:01:47.241'
-      end: '00:01:51.131'
+      start:
+        sec: '107.241'
+        mark: '00:01:47.241'
+      end:
+        sec: '111.131'
+        mark: '00:01:51.131'
       u: 'Oh: Were you...were your brother older or younger?'
     - who: Henja Frydman
-      start: '00:01:51.131'
-      end: '00:01:53.797'
+      start:
+        sec: '111.131'
+        mark: '00:01:51.131'
+      end:
+        sec: '113.797'
+        mark: '00:01:53.797'
       u: The brothers were older.
     - who: David Boder
-      start: '00:01:53.797'
-      end: '00:01:55.906'
+      start:
+        sec: '113.797'
+        mark: '00:01:53.797'
+      end:
+        sec: '115.906'
+        mark: '00:01:55.906'
       u: So. And you were the youngest one?
     - who: Henja Frydman
-      start: '00:01:55.906'
-      end: '00:01:57.684'
+      start:
+        sec: '115.906'
+        mark: '00:01:55.906'
+      end:
+        sec: '117.684'
+        mark: '00:01:57.684'
       u: I was the youngest one?
     - who: David Boder
-      start: '00:01:57.684'
-      end: '00:02:01.450'
+      start:
+        sec: '117.684'
+        mark: '00:01:57.684'
+      end:
+        sec: '121.450'
+        mark: '00:02:01.450'
       u: Yes. And what was the occupation of your parents?
     - who: Henja Frydman
-      start: '00:02:01.450'
-      end: '00:02:04.043'
+      start:
+        sec: '121.450'
+        mark: '00:02:01.450'
+      end:
+        sec: '124.043'
+        mark: '00:02:04.043'
       u: My father was a merchant.
     - who: David Boder
-      start: '00:02:04.043'
-      end: '00:02:06.387'
+      start:
+        sec: '124.043'
+        mark: '00:02:04.043'
+      end:
+        sec: '126.387'
+        mark: '00:02:06.387'
       u: What was he selling?
     - who: Henja Frydman
-      start: '00:02:06.387'
-      end: '00:02:08.512'
+      start:
+        sec: '126.387'
+        mark: '00:02:06.387'
+      end:
+        sec: '128.512'
+        mark: '00:02:08.512'
       u: Bonneterie.
     - who: David Boder
-      start: '00:02:08.512'
-      end: '00:02:09.200'
+      start:
+        sec: '128.512'
+        mark: '00:02:08.512'
+      end:
+        sec: '129.200'
+        mark: '00:02:09.200'
       u: What?
     - who: Henja Frydman
-      start: '00:02:09.200'
-      end: '00:02:13.337'
+      start:
+        sec: '129.200'
+        mark: '00:02:09.200'
+      end:
+        sec: '133.337'
+        mark: '00:02:13.337'
       u: That is in German—underwear.
     - who: David Boder
-      start: '00:02:13.337'
-      end: '00:02:14.587'
+      start:
+        sec: '133.337'
+        mark: '00:02:13.337'
+      end:
+        sec: '134.587'
+        mark: '00:02:14.587'
       u: Yes, underwear.
     - who: Henja Frydman
-      start: '00:02:14.587'
-      end: '00:02:15.181'
+      start:
+        sec: '134.587'
+        mark: '00:02:14.587'
+      end:
+        sec: '135.181'
+        mark: '00:02:15.181'
       u: Underwear.
     - who: David Boder
-      start: '00:02:15.181'
-      end: '00:02:16.059'
+      start:
+        sec: '135.181'
+        mark: '00:02:15.181'
+      end:
+        sec: '136.059'
+        mark: '00:02:16.059'
       u: Did he have a store?
     - who: Henja Frydman
-      start: '00:02:16.059'
-      end: '00:02:19.575'
+      start:
+        sec: '136.059'
+        mark: '00:02:16.059'
+      end:
+        sec: '139.575'
+        mark: '00:02:19.575'
       u: No, not a store. By way of his hands.
     - who: David Boder
-      start: '00:02:19.575'
-      end: '00:02:26.456'
+      start:
+        sec: '139.575'
+        mark: '00:02:19.575'
+      end:
+        sec: '146.456'
+        mark: '00:02:26.456'
       u: Yes. From hand to hand. Now let us go on. You were in Pinsk.
     - who: Henja Frydman
-      start: '00:02:26.456'
-      end: '00:02:25.029'
+      start:
+        sec: '146.456'
+        mark: '00:02:26.456'
+      end:
+        sec: '145.029'
+        mark: '00:02:25.029'
       u: I was born in Pinsk.In 1924, when Henja was born, Pinsk was in eastern Poland.
         Today it is part of Belarus. Between the two wars, anti-Semitism and the economic
         downturn caused by the Great Depression led to large scale Jewish emigration
         from Pinsk.2
     - who: David Boder
-      start: '00:02:25.029'
-      end: '00:02:30.784'
+      start:
+        sec: '145.029'
+        mark: '00:02:25.029'
+      end:
+        sec: '150.784'
+        mark: '00:02:30.784'
       u: But where were you when the Germans came to Poland?
     - who: Henja Frydman
-      start: '00:02:30.784'
-      end: '00:02:34.472'
+      start:
+        sec: '150.784'
+        mark: '00:02:30.784'
+      end:
+        sec: '154.472'
+        mark: '00:02:34.472'
       u: Oh, no. I am already in France for fifteen years.
     - who: David Boder
-      start: '00:02:34.472'
-      end: '00:02:35.268'
+      start:
+        sec: '154.472'
+        mark: '00:02:34.472'
+      end:
+        sec: '155.268'
+        mark: '00:02:35.268'
       u: Oh?
     - who: Henja Frydman
-      start: '00:02:35.268'
-      end: '00:02:36.939'
+      start:
+        sec: '155.268'
+        mark: '00:02:35.268'
+      end:
+        sec: '156.939'
+        mark: '00:02:36.939'
       u: I came here as a child.
     - who: David Boder
-      start: '00:02:36.939'
-      end: '00:02:41.486'
+      start:
+        sec: '156.939'
+        mark: '00:02:36.939'
+      end:
+        sec: '161.486'
+        mark: '00:02:41.486'
       u: Then your parents had moved from Pinsk to France.
     - who: Henja Frydman
-      start: '00:02:41.486'
-      end: '00:02:48.405'
+      start:
+        sec: '161.486'
+        mark: '00:02:41.486'
+      end:
+        sec: '168.405'
+        mark: '00:02:48.405'
       u: From Pinsk they came...from Russia they came to Pinsk, from Pinsk to Poland;
         that was during the Russian revolution, in Russia.
     - who: David Boder
-      start: '00:02:48.405'
-      end: '00:02:49.983'
+      start:
+        sec: '168.405'
+        mark: '00:02:48.405'
+      end:
+        sec: '169.983'
+        mark: '00:02:49.983'
       u: Yes, and then,—
     - who: Henja Frydman
-      start: '00:02:49.983'
-      end: '00:02:52.405'
+      start:
+        sec: '169.983'
+        mark: '00:02:49.983'
+      end:
+        sec: '172.405'
+        mark: '00:02:52.405'
       u: And then they moved to France.
     - who: David Boder
-      start: '00:02:52.405'
-      end: '00:02:55.847'
+      start:
+        sec: '172.405'
+        mark: '00:02:52.405'
+      end:
+        sec: '175.847'
+        mark: '00:02:55.847'
       u: Oh. How old were you when you came to France?
     - who: Henja Frydman
-      start: '00:02:55.847'
-      end: '00:02:56.300'
+      start:
+        sec: '175.847'
+        mark: '00:02:55.847'
+      end:
+        sec: '176.300'
+        mark: '00:02:56.300'
       u: Seven years.
     - who: David Boder
-      start: '00:02:56.300'
-      end: '00:02:58.079'
+      start:
+        sec: '176.300'
+        mark: '00:02:56.300'
+      end:
+        sec: '178.079'
+        mark: '00:02:58.079'
       u: You were a seven-year-old child.
     - who: Henja Frydman
-      start: '00:02:58.079'
-      end: '00:02:58.454'
+      start:
+        sec: '178.079'
+        mark: '00:02:58.079'
+      end:
+        sec: '178.454'
+        mark: '00:02:58.454'
       u: Yes.
     - who: David Boder
-      start: '00:02:58.454'
-      end: '00:03:02.277'
+      start:
+        sec: '178.454'
+        mark: '00:02:58.454'
+      end:
+        sec: '182.277'
+        mark: '00:03:02.277'
       u: And here your father also worked selling underwear?
     - who: Henja Frydman
-      start: '00:03:02.277'
-      end: '00:03:10.678'
+      start:
+        sec: '182.277'
+        mark: '00:03:02.277'
+      end:
+        sec: '190.678'
+        mark: '00:03:10.678'
       u: Yes. Underwear and various other small things. Just like all other Jews started
         to make a living.
     - who: David Boder
-      start: '00:03:10.678'
-      end: '00:03:14.350'
+      start:
+        sec: '190.678'
+        mark: '00:03:10.678'
+      end:
+        sec: '194.350'
+        mark: '00:03:14.350'
       u: Oh, then the Germans came while you were in France.
     - who: Henja Frydman
-      start: '00:03:14.350'
-      end: '00:03:14.819'
+      start:
+        sec: '194.350'
+        mark: '00:03:14.350'
+      end:
+        sec: '194.819'
+        mark: '00:03:14.819'
       u: In France.
     - who: David Boder
-      start: '00:03:14.819'
-      end: '00:03:16.189'
+      start:
+        sec: '194.819'
+        mark: '00:03:14.819'
+      end:
+        sec: '196.189'
+        mark: '00:03:16.189'
       u: Oh, Now, go on. Tell us.
     - who: Henja Frydman
-      start: '00:03:16.189'
-      end: '00:03:18.784'
+      start:
+        sec: '196.189'
+        mark: '00:03:16.189'
+      end:
+        sec: '198.784'
+        mark: '00:03:18.784'
       u: They have come in the year, —‘40. They occupied Paris.
     - who: David Boder
-      start: '00:03:18.784'
-      end: '00:03:19.096'
+      start:
+        sec: '198.784'
+        mark: '00:03:18.784'
+      end:
+        sec: '199.096'
+        mark: '00:03:19.096'
       u: Yes.
     - who: Henja Frydman
-      start: '00:03:19.096'
-      end: '00:03:32.478'
+      start:
+        sec: '199.096'
+        mark: '00:03:19.096'
+      end:
+        sec: '212.478'
+        mark: '00:03:32.478'
       u: And so about a year or six months passed, and my brother was arrested. He
         was then 26 years old.Henja’s brother was most probably arrested in round-up
         of foreign born Jewish males in Paris in August 1941.3
     - who: David Boder
-      start: '00:03:32.478'
-      end: '00:03:33.837'
+      start:
+        sec: '212.478'
+        mark: '00:03:32.478'
+      end:
+        sec: '213.837'
+        mark: '00:03:33.837'
       u: Why was he arrested?
     - who: Henja Frydman
-      start: '00:03:33.837'
-      end: '00:04:01.407'
+      start:
+        sec: '213.837'
+        mark: '00:03:33.837'
+      end:
+        sec: '241.407'
+        mark: '00:04:01.407'
       u: He was riding to work on a bicycle, and on the way he sees a big raid. The
         French had erected a barricade, and people were being arrested. He was riding
         to work, and he noticed that it was not exactly safe. So he turned back to
         the house to tell my father and my younger brother that they should not leave
         the house.
     - who: David Boder
-      start: '00:04:01.407'
-      end: '00:04:06.088'
+      start:
+        sec: '241.407'
+        mark: '00:04:01.407'
+      end:
+        sec: '246.088'
+        mark: '00:04:06.088'
       u: Where was your older brother? Oh yes, that was your older brother.
     - who: Henja Frydman
-      start: '00:04:06.088'
-      end: '00:04:08.682'
+      start:
+        sec: '246.088'
+        mark: '00:04:06.088'
+      end:
+        sec: '248.682'
+        mark: '00:04:08.682'
       u: That was the older brother.
     - who: David Boder
-      start: '00:04:08.682'
-      end: '00:04:15.667'
+      start:
+        sec: '248.682'
+        mark: '00:04:08.682'
+      end:
+        sec: '255.667'
+        mark: '00:04:15.667'
       u: Well, so what happened then?
     - who: Henja Frydman
-      start: '00:04:15.667'
-      end: '00:04:44.205'
+      start:
+        sec: '255.667'
+        mark: '00:04:15.667'
+      end:
+        sec: '284.205'
+        mark: '00:04:44.205'
       u: While he was riding homeward, he was stopped. They requested his papers,
         and he was what they call in France a engagé volontaire, that is, he had enlisted
         in the army voluntarily when the war started. But that did not count. he was
         taken away to Drancy.
     - who: David Boder
-      start: '00:04:44.205'
-      end: '00:04:48.620'
+      start:
+        sec: '284.205'
+        mark: '00:04:44.205'
+      end:
+        sec: '288.620'
+        mark: '00:04:48.620'
       u: Well, he was a volunteer in the war against the Germans.
     - who: Henja Frydman
-      start: '00:04:48.620'
-      end: '00:04:49.511'
+      start:
+        sec: '288.620'
+        mark: '00:04:48.620'
+      end:
+        sec: '289.511'
+        mark: '00:04:49.511'
       u: Against the Germans.
     - who: David Boder
-      start: '00:04:49.511'
-      end: '00:04:53.574'
+      start:
+        sec: '289.511'
+        mark: '00:04:49.511'
+      end:
+        sec: '293.574'
+        mark: '00:04:53.574'
       u: And then he was arrested by the French when the Germans were here?
     - who: Henja Frydman
-      start: '00:04:53.574'
-      end: '00:04:55.382'
+      start:
+        sec: '293.574'
+        mark: '00:04:53.574'
+      end:
+        sec: '295.382'
+        mark: '00:04:55.382'
       u: When the Germans were here,
     - who: David Boder
-      start: '00:04:55.382'
-      end: '00:04:59.428'
+      start:
+        sec: '295.382'
+        mark: '00:04:55.382'
+      end:
+        sec: '299.428'
+        mark: '00:04:59.428'
       u: yes. So that didn’t count that he was—nothing counted.
     - who: Henja Frydman
-      start: '00:04:59.428'
-      end: '00:05:08.132'
+      start:
+        sec: '299.428'
+        mark: '00:04:59.428'
+      end:
+        sec: '308.132'
+        mark: '00:05:08.132'
       u: They saw his name was Frydman, they saw that he was Jewish, and they did
         not look any further at his paper.
     - who: David Boder
-      start: '00:05:08.132'
-      end: '00:05:12.420'
+      start:
+        sec: '308.132'
+        mark: '00:05:08.132'
+      end:
+        sec: '312.420'
+        mark: '00:05:12.420'
       u: At that time, it was already compulsory to wear the star of David?
     - who: Henja Frydman
-      start: '00:05:12.420'
-      end: '00:05:15.639'
+      start:
+        sec: '312.420'
+        mark: '00:05:12.420'
+      end:
+        sec: '315.639'
+        mark: '00:05:15.639'
       u: No, at that time the star of David was not yet worn.
     - who: David Boder
-      start: '00:05:15.639'
-      end: '00:05:18.295'
+      start:
+        sec: '315.639'
+        mark: '00:05:15.639'
+      end:
+        sec: '318.295'
+        mark: '00:05:18.295'
       u: So they sent him where to?
     - who: Henja Frydman
-      start: '00:05:18.295'
-      end: '00:05:22.358'
+      start:
+        sec: '318.295'
+        mark: '00:05:18.295'
+      end:
+        sec: '322.358'
+        mark: '00:05:22.358'
       u: They sent him away to the first lager in Paris. Drancy.
     - who: David Boder
-      start: '00:05:22.358'
-      end: '00:05:24.499'
+      start:
+        sec: '322.358'
+        mark: '00:05:22.358'
+      end:
+        sec: '324.499'
+        mark: '00:05:24.499'
       u: Drancy, Yes.
     - who: Henja Frydman
-      start: '00:05:24.499'
-      end: '00:05:29.952'
+      start:
+        sec: '324.499'
+        mark: '00:05:24.499'
+      end:
+        sec: '329.952'
+        mark: '00:05:29.952'
       u: and [here a few words are incomprehensible; she apparently weeps.]
     - who: David Boder
-      start: '00:05:29.952'
-      end: '00:05:31.827'
+      start:
+        sec: '329.952'
+        mark: '00:05:29.952'
+      end:
+        sec: '331.827'
+        mark: '00:05:31.827'
       u: And from there did you hear from him?
     - who: Henja Frydman
-      start: '00:05:31.827'
-      end: '00:06:52.859'
+      start:
+        sec: '331.827'
+        mark: '00:05:31.827'
+      end:
+        sec: '412.859'
+        mark: '00:06:52.859'
       u: At the beginning we had no news from there. What was going on at home one
         can imagine. The mother [a long pause], she didn’t know what to do. I went
         into the streets [one word not clear] to investigate what exactly was happening.
@@ -320,41 +564,73 @@ recording:
         diarrhea and dysentery. The discipline in the lager was very strict. I shall
         not describe it.
     - who: David Boder
-      start: '00:06:52.859'
-      end: '00:07:03.528'
+      start:
+        sec: '412.859'
+        mark: '00:06:52.859'
+      end:
+        sec: '423.528'
+        mark: '00:07:03.528'
       u: Why not? Tell us; we want to know all about it. Do not skip. These things
         you have heard from other people?
     - who: Henja Frydman
-      start: '00:07:03.528'
-      end: '00:07:13.260'
+      start:
+        sec: '423.528'
+        mark: '00:07:03.528'
+      end:
+        sec: '433.260'
+        mark: '00:07:13.260'
       u: No. I did not hear it from other people. Because in a short time, in spite
         of the orders of the Germans and of the French, I managed to get into Drancy.
     - who: David Boder
-      start: '00:07:13.260'
-      end: '00:07:18.776'
+      start:
+        sec: '433.260'
+        mark: '00:07:13.260'
+      end:
+        sec: '438.776'
+        mark: '00:07:18.776'
       u: Then let’s wait with it a bit. First tell me again. Your brother was in Drancy,
         and then?
     - who: Henja Frydman
-      start: '00:07:18.776'
-      end: '00:07:22.780'
+      start:
+        sec: '438.776'
+        mark: '00:07:18.776'
+      end:
+        sec: '442.780'
+        mark: '00:07:22.780'
       u: For three months we had no word from him.
     - who: David Boder
-      start: '00:07:22.780'
-      end: '00:07:24.806'
+      start:
+        sec: '442.780'
+        mark: '00:07:22.780'
+      end:
+        sec: '444.806'
+        mark: '00:07:24.806'
       u: Could you send him food?
     - who: Henja Frydman
-      start: '00:07:24.806'
-      end: '00:07:44.049'
+      start:
+        sec: '444.806'
+        mark: '00:07:24.806'
+      end:
+        sec: '464.049'
+        mark: '00:07:44.049'
       u: No. For the first three months it was prohibited to send food. There was
         just nothing we could do to help our own in the lager. We had to suffer through
         these months just as it was.
     - who: David Boder
-      start: '00:07:44.049'
-      end: '00:07:46.768'
+      start:
+        sec: '464.049'
+        mark: '00:07:44.049'
+      end:
+        sec: '466.768'
+        mark: '00:07:46.768'
       u: Well, what happened then?
     - who: Henja Frydman
-      start: '00:07:46.768'
-      end: '00:08:48.739'
+      start:
+        sec: '466.768'
+        mark: '00:07:46.768'
+      end:
+        sec: '528.739'
+        mark: '00:08:48.739'
       u: After three months they started writing. One post-card with a few words in
         which he said, I am in Drancy, I am well, and nothing more. They didn’t have
         to write because we heard already what was going on in that lager from the
@@ -368,132 +644,248 @@ recording:
         which it was run by the Germans until August 17, 1944. The collaborationist
         Vichy regime greatly facilitated German rule in France.4
     - who: David Boder
-      start: '00:08:48.739'
-      end: '00:08:49.661'
+      start:
+        sec: '528.739'
+        mark: '00:08:48.739'
+      end:
+        sec: '529.661'
+        mark: '00:08:49.661'
       u: Why?
     - who: Henja Frydman
-      start: '00:08:49.661'
-      end: '00:08:56.913'
+      start:
+        sec: '529.661'
+        mark: '00:08:49.661'
+      end:
+        sec: '536.913'
+        mark: '00:08:56.913'
       u: Because after this misfortune there came other catastropnes. And worse than
         the other.
     - who: David Boder
-      start: '00:08:56.913'
-      end: '00:09:18.593'
+      start:
+        sec: '536.913'
+        mark: '00:08:56.913'
+      end:
+        sec: '558.593'
+        mark: '00:09:18.593'
       u: Well, you understand how important it is that these events be described.
         It is hard for you to talk. It is hard for me to listen but it has to be done.
         You understand. Go on as well as you can.
     - who: Henja Frydman
-      start: '00:09:18.593'
-      end: '00:09:39.575'
+      start:
+        sec: '558.593'
+        mark: '00:09:18.593'
+      end:
+        sec: '579.575'
+        mark: '00:09:39.575'
       u: In three months a lot of people already started to die. The Germans gave
         an order that they pick out the young ones up to the age of twenty-five who
         were in a bad state.
     - who: David Boder
-      start: '00:09:39.575'
-      end: '00:09:39.575'
+      start:
+        sec: '579.575'
+        mark: '00:09:39.575'
+      end:
+        sec: '579.575'
+        mark: '00:09:39.575'
       u: What does that mean?
     - who: Henja Frydman
-      start: '00:09:39.575'
-      end: '00:00:00.000'
+      start:
+        sec: '579.575'
+        mark: '00:09:39.575'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: In a bad condition.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:09:42.599'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '582.599'
+        mark: '00:09:42.599'
       u: To set them free?
     - who: Henja Frydman
-      start: '00:09:42.599'
-      end: '00:09:47.438'
+      start:
+        sec: '582.599'
+        mark: '00:09:42.599'
+      end:
+        sec: '587.438'
+        mark: '00:09:47.438'
       u: Yes. Only those up to the age of twenty-five who are in a bad condition.
     - who: David Boder
-      start: '00:09:47.438'
-      end: '00:09:47.985'
+      start:
+        sec: '587.438'
+        mark: '00:09:47.438'
+      end:
+        sec: '587.985'
+        mark: '00:09:47.985'
       u: Yes.
     - who: Henja Frydman
-      start: '00:09:47.985'
-      end: '00:10:03.493'
+      start:
+        sec: '587.985'
+        mark: '00:09:47.985'
+      end:
+        sec: '603.493'
+        mark: '00:10:03.493'
       u: We started then to hope that our brother would get out. He was twenty-six
         years old. I went again to Drancy and saw the people who were released.
     - who: David Boder
-      start: '00:10:03.493'
-      end: '00:10:07.416'
+      start:
+        sec: '603.493'
+        mark: '00:10:03.493'
+      end:
+        sec: '607.416'
+        mark: '00:10:07.416'
       u: Had you been to Drancy once before?
     - who: Henja Frydman
-      start: '00:10:07.416'
-      end: '00:10:18.587'
+      start:
+        sec: '607.416'
+        mark: '00:10:07.416'
+      end:
+        sec: '618.587'
+        mark: '00:10:18.587'
       u: I was here already before. But I couldn’t see him, because they were not
         permitted to show their faces. And we couldn’t see them.
     - who: David Boder
-      start: '00:10:18.587'
-      end: '00:10:25.537'
+      start:
+        sec: '618.587'
+        mark: '00:10:18.587'
+      end:
+        sec: '625.537'
+        mark: '00:10:25.537'
       u: Could you please describe the place of Drancy where they were kept?
     - who: Henja Frydman
-      start: '00:10:25.537'
-      end: '00:10:27.989'
+      start:
+        sec: '625.537'
+        mark: '00:10:25.537'
+      end:
+        sec: '627.989'
+        mark: '00:10:27.989'
       u: I can describe this place very well, because—
     - who: David Boder
-      start: '00:10:27.989'
-      end: '00:10:30.923'
+      start:
+        sec: '627.989'
+        mark: '00:10:27.989'
+      end:
+        sec: '630.923'
+        mark: '00:10:30.923'
       u: Oh, yes. Let us do it later. Because you were there.
     - who: Henja Frydman
-      start: '00:10:30.923'
-      end: '00:10:36.206'
+      start:
+        sec: '630.923'
+        mark: '00:10:30.923'
+      end:
+        sec: '636.206'
+        mark: '00:10:36.206'
       u: I lived there for a year before Drancy became a lager.
     - who: David Boder
-      start: '00:10:36.206'
-      end: '00:10:36.753'
+      start:
+        sec: '636.206'
+        mark: '00:10:36.206'
+      end:
+        sec: '636.753'
+        mark: '00:10:36.753'
       u: Oh.
     - who: Henja Frydman
-      start: '00:10:36.753'
-      end: '00:10:41.795'
+      start:
+        sec: '636.753'
+        mark: '00:10:36.753'
+      end:
+        sec: '641.795'
+        mark: '00:10:41.795'
       u: I lived there when they started building.
     - who: David Boder
-      start: '00:10:41.795'
-      end: '00:10:43.217'
+      start:
+        sec: '641.795'
+        mark: '00:10:41.795'
+      end:
+        sec: '643.217'
+        mark: '00:10:43.217'
       u: When they started building?
     - who: Henja Frydman
-      start: '00:10:43.217'
-      end: '00:10:57.988'
+      start:
+        sec: '643.217'
+        mark: '00:10:43.217'
+      end:
+        sec: '657.988'
+        mark: '00:10:57.988'
       u: Yes. Since in America there are tall buildings, they started here to build
         such a building, which was intended for the gendarmerie.
     - who: David Boder
-      start: '00:10:57.988'
-      end: '00:10:58.692'
+      start:
+        sec: '657.988'
+        mark: '00:10:57.988'
+      end:
+        sec: '658.692'
+        mark: '00:10:58.692'
       u: Yes.
     - who: Henja Frydman
-      start: '00:10:58.692'
-      end: '00:11:25.990'
+      start:
+        sec: '658.692'
+        mark: '00:10:58.692'
+      end:
+        sec: '685.990'
+        mark: '00:11:25.990'
       u: And as a child I was going to play there, and a few years afterwards I was
         going to see my brother there. The buildings were ready, though the people
         who lived in these buildings didn’t know for what purpose and for whom they
         would be used.
     - who: David Boder
-      start: '00:11:25.990'
-      end: '00:11:29.243'
+      start:
+        sec: '685.990'
+        mark: '00:11:25.990'
+      end:
+        sec: '689.243'
+        mark: '00:11:29.243'
       u: Then the building was built a long time before?
     - who: Henja Frydman
-      start: '00:11:29.243'
-      end: '00:11:32.315'
+      start:
+        sec: '689.243'
+        mark: '00:11:29.243'
+      end:
+        sec: '692.315'
+        mark: '00:11:32.315'
       u: A long time before. A number of years.
     - who: David Boder
-      start: '00:11:32.315'
-      end: '00:11:36.412'
+      start:
+        sec: '692.315'
+        mark: '00:11:32.315'
+      end:
+        sec: '696.412'
+        mark: '00:11:36.412'
       u: Yes. It was not built by prisoners.
     - who: Henja Frydman
-      start: '00:11:36.412'
-      end: '00:11:49.489'
+      start:
+        sec: '696.412'
+        mark: '00:11:36.412'
+      end:
+        sec: '709.489'
+        mark: '00:11:49.489'
       u: No, no. They looked very nice, like buildings for large families, or for
         soldiers or for police who had an armory.
     - who: David Boder
-      start: '00:11:49.489'
-      end: '00:11:54.285'
+      start:
+        sec: '709.489'
+        mark: '00:11:49.489'
+      end:
+        sec: '714.285'
+        mark: '00:11:54.285'
       u: So when you came to Drancy—
     - who: Henja Frydman
-      start: '00:11:54.285'
-      end: '00:12:01.556'
+      start:
+        sec: '714.285'
+        mark: '00:11:54.285'
+      end:
+        sec: '721.556'
+        mark: '00:12:01.556'
       u: When I came to Drancy, I was very much—it is hard for me to tell it in Yiddish—surprised.
     - who: David Boder
-      start: '00:12:01.556'
-      end: '00:12:03.827'
+      start:
+        sec: '721.556'
+        mark: '00:12:01.556'
+      end:
+        sec: '723.827'
+        mark: '00:12:03.827'
       u: 'You were very much surprised. [Footnote: She stated at the beginning that
         she would speak German. Her German was rather ungrammatical but fluent. During
         the interview she does not call her dialect German but Yiddish. Here we have
@@ -506,37 +898,65 @@ recording:
         experiences, the tension caused by the interview process, and the time interviewees
         spent with persecuted victims of other nationalities.5'
     - who: Henja Frydman
-      start: '00:12:03.827'
-      end: '00:12:13.164'
+      start:
+        sec: '723.827'
+        mark: '00:12:03.827'
+      end:
+        sec: '733.164'
+        mark: '00:12:13.164'
       u: I was very much surprised. Here the houses are ready, and instead of people
         living in them they were occupied by Jewish prisoners.
     - who: David Boder
-      start: '00:12:13.164'
-      end: '00:12:21.026'
+      start:
+        sec: '733.164'
+        mark: '00:12:13.164'
+      end:
+        sec: '741.026'
+        mark: '00:12:21.026'
       u: Now then, after three months, why was not your brother released?
     - who: Henja Frydman
-      start: '00:12:21.026'
-      end: '00:12:54.740'
+      start:
+        sec: '741.026'
+        mark: '00:12:21.026'
+      end:
+        sec: '774.740'
+        mark: '00:12:54.740'
       u: He was not released because he looked too well, and because he was one year
         older. The number of the released was very small. I was waiting all day, and
         before my eyes there came out corpses, just corpses. I was sixteen years old,
         and for the first time before my eyes marched dead people. I have never before
         in my life seen a corpse.
     - who: David Boder
-      start: '00:12:54.740'
-      end: '00:12:56.114'
+      start:
+        sec: '774.740'
+        mark: '00:12:54.740'
+      end:
+        sec: '776.114'
+        mark: '00:12:56.114'
       u: Men and women?
     - who: Henja Frydman
-      start: '00:12:56.114'
-      end: '00:12:59.078'
+      start:
+        sec: '776.114'
+        mark: '00:12:56.114'
+      end:
+        sec: '779.078'
+        mark: '00:12:59.078'
       u: Just men, only men. They were only men.
     - who: David Boder
-      start: '00:12:59.078'
-      end: '00:12:59.844'
+      start:
+        sec: '779.078'
+        mark: '00:12:59.078'
+      end:
+        sec: '779.844'
+        mark: '00:12:59.844'
       u: Yes.
     - who: Henja Frydman
-      start: '00:12:59.844'
-      end: '00:13:56.326'
+      start:
+        sec: '779.844'
+        mark: '00:12:59.844'
+      end:
+        sec: '836.326'
+        mark: '00:13:56.326'
       u: They were unable to walk, their eyes looked wild, they were unable to talk.
         The same picture we have seen from the lager Auschwitz or other various lagers.
         None humans. It was grotesque. Two legs, two hands they had, but no face of
@@ -545,12 +965,20 @@ recording:
         and they took them home and their joy was great. And the mourning of those
         whose own remained in the lager was also very great.
     - who: David Boder
-      start: '00:13:56.326'
-      end: '00:13:57.145'
+      start:
+        sec: '836.326'
+        mark: '00:13:56.326'
+      end:
+        sec: '837.145'
+        mark: '00:13:57.145'
       u: What happened to them?
     - who: Henja Frydman
-      start: '00:13:57.145'
-      end: '00:14:25.073'
+      start:
+        sec: '837.145'
+        mark: '00:13:57.145'
+      end:
+        sec: '865.073'
+        mark: '00:14:25.073'
       u: A large number died at home, because if a mother got back her child, he was
         given his ration, and he being very hungry threw himself at the food, and
         they would get sick, and they would not adjust to the change.This is precisely
@@ -558,13 +986,21 @@ recording:
         Many of the newly freed inmates became sick and died due to the effects of
         the sudden change in diet, which their weakened bodies could not handle.6
     - who: David Boder
-      start: '00:14:25.073'
-      end: '00:14:27.344'
+      start:
+        sec: '865.073'
+        mark: '00:14:25.073'
+      end:
+        sec: '867.344'
+        mark: '00:14:27.344'
       u: The change? [Interviewer translates thus what is really a neologism which
         she made up for the word change.]
     - who: Henja Frydman
-      start: '00:14:27.344'
-      end: '00:15:18.199'
+      start:
+        sec: '867.344'
+        mark: '00:14:27.344'
+      end:
+        sec: '918.199'
+        mark: '00:15:18.199'
       u: The change of the food—of the food and also of life. And so the time passed,
         and the people who remained in Drancy remained there. Conditions improved
         there a little bit. We were allowed to send packages to the lager, and it
@@ -573,12 +1009,20 @@ recording:
         to get letters. Not in the legal way. In an illegal way. And my brother wrote
         that we should not worry about him. Nothing would happen.
     - who: David Boder
-      start: '00:15:18.199'
-      end: '00:15:20.246'
+      start:
+        sec: '918.199'
+        mark: '00:15:18.199'
+      end:
+        sec: '920.246'
+        mark: '00:15:20.246'
       u: What do you mean, ‘nothing would happen’?
     - who: Henja Frydman
-      start: '00:15:20.246'
-      end: '00:16:01.717'
+      start:
+        sec: '920.246'
+        mark: '00:15:20.246'
+      end:
+        sec: '961.717'
+        mark: '00:16:01.717'
       u: Nothing would happen, he would come through, that the Germans would go away.
         He wanted to give hope to the family. But he was intelligent enough not to
         expect anything. People talked already about deportations. To be shipped away,
@@ -589,50 +1033,90 @@ recording:
         and elsewhere when talking about her family illustrates how attached she was
         to her parents and two brothers, and how deeply felt their loss was for her.7
     - who: David Boder
-      start: '00:16:01.717'
-      end: '00:16:06.729'
+      start:
+        sec: '961.717'
+        mark: '00:16:01.717'
+      end:
+        sec: '966.729'
+        mark: '00:16:06.729'
       u: They knew in advance that they were being deported?
     - who: Henja Frydman
-      start: '00:16:06.729'
-      end: '00:16:08.536'
+      start:
+        sec: '966.729'
+        mark: '00:16:06.729'
+      end:
+        sec: '968.536'
+        mark: '00:16:08.536'
       u: It was known that they were being deported.
     - who: David Boder
-      start: '00:16:08.536'
-      end: '00:16:09.099'
+      start:
+        sec: '968.536'
+        mark: '00:16:08.536'
+      end:
+        sec: '969.099'
+        mark: '00:16:09.099'
       u: Yes.
     - who: Henja Frydman
-      start: '00:16:09.099'
-      end: '00:16:36.339'
+      start:
+        sec: '969.099'
+        mark: '00:16:09.099'
+      end:
+        sec: '996.339'
+        mark: '00:16:36.339'
       u: It was told that they are going to lagers to work. But our instinct told
         us that it is not for work, because we already had seen what they made of
         people still infants near to Paris, that humans were made into no-humans.
         Deported. And there was no more word from him.
     - who: David Boder
-      start: '00:16:36.339'
-      end: '00:16:38.369'
+      start:
+        sec: '996.339'
+        mark: '00:16:36.339'
+      end:
+        sec: '998.369'
+        mark: '00:16:38.369'
       u: Where was he deported? Do you know?
     - who: Henja Frydman
-      start: '00:16:38.369'
-      end: '00:16:40.291'
+      start:
+        sec: '998.369'
+        mark: '00:16:38.369'
+      end:
+        sec: '1000.291'
+        mark: '00:16:40.291'
       u: We didn’t know where he was deported.
     - who: David Boder
-      start: '00:16:40.291'
-      end: '00:16:42.833'
+      start:
+        sec: '1000.291'
+        mark: '00:16:40.291'
+      end:
+        sec: '1002.833'
+        mark: '00:16:42.833'
       u: Was it found out later?
     - who: Henja Frydman
-      start: '00:16:42.833'
-      end: '00:17:07.346'
+      start:
+        sec: '1002.833'
+        mark: '00:16:42.833'
+      end:
+        sec: '1027.346'
+        mark: '00:17:07.346'
       u: Afterwards, when I was deported to Auschwitz, I asked and around everywhere
         among the men. Possibly somebody knew, but nobody had seen him. [Her speech
         here is still interrupted by repeated blowing of her nose.] Why he wasn’t
         seen I know; because my brother had died of typhus, right at the beginning.
     - who: David Boder
-      start: '00:17:07.346'
-      end: '00:17:09.906'
+      start:
+        sec: '1027.346'
+        mark: '00:17:07.346'
+      end:
+        sec: '1029.906'
+        mark: '00:17:09.906'
       u: Who informed you about that?
     - who: Henja Frydman
-      start: '00:17:09.906'
-      end: '00:18:07.433'
+      start:
+        sec: '1029.906'
+        mark: '00:17:09.906'
+      end:
+        sec: '1087.433'
+        mark: '00:18:07.433'
       u: One of our acquaintances who has now returned. He had seen him in the lager
         Auschwitz in 1942, that my brother fell, that he got sick with typhus, and
         died immediately afterwards. In 1942 it was impossible to overcome an illness
@@ -647,12 +1131,20 @@ recording:
         might have been the cynical, ironic sign, “Arbeit Macht Frei” (“Work Sets
         You Free”).8
     - who: David Boder
-      start: '00:18:07.433'
-      end: '00:18:08.951'
+      start:
+        sec: '1087.433'
+        mark: '00:18:07.433'
+      end:
+        sec: '1088.951'
+        mark: '00:18:08.951'
       u: Where was it written?
     - who: Henja Frydman
-      start: '00:18:08.951'
-      end: '00:18:21.674'
+      start:
+        sec: '1088.951'
+        mark: '00:18:08.951'
+      end:
+        sec: '1101.674'
+        mark: '00:18:21.674'
       u: "[Somewhat resentful] It was written—and one could understand the meaning
         of Dante. [Interviewer appeared somewhat surprised, because she gave the French
         pronunciation of the name, which at the moment he failed to understand, and
@@ -660,85 +1152,157 @@ recording:
         be to the greeting for those entering hell in Dante’s Inferno: “Abandon Hope
         All You Who Enter Here.”9"
     - who: David Boder
-      start: '00:18:21.674'
-      end: '00:18:22.267'
+      start:
+        sec: '1101.674'
+        mark: '00:18:21.674'
+      end:
+        sec: '1102.267'
+        mark: '00:18:22.267'
       u: Oh, yes.
     - who: Henja Frydman
-      start: '00:18:22.267'
-      end: '00:18:43.755'
+      start:
+        sec: '1102.267'
+        mark: '00:18:22.267'
+      end:
+        sec: '1123.755'
+        mark: '00:18:43.755'
       u: "‘He who enters here does not come out anymore.’ And so it was. People entered
         but did not come out. Oh, yes, they came out through the chimneys. There are
         various ways to get out, and through these ways [the chimneys] the Jews came
         out."
     - who: David Boder
-      start: '00:18:43.755'
-      end: '00:18:45.755'
+      start:
+        sec: '1123.755'
+        mark: '00:18:43.755'
+      end:
+        sec: '1125.755'
+        mark: '00:18:45.755'
       u: The chimneys—that were—
     - who: Henja Frydman
-      start: '00:18:45.755'
-      end: '00:18:47.005'
+      start:
+        sec: '1125.755'
+        mark: '00:18:45.755'
+      end:
+        sec: '1127.005'
+        mark: '00:18:47.005'
       u: The crematories.
     - who: David Boder
-      start: '00:18:47.005'
-      end: '00:18:49.050'
+      start:
+        sec: '1127.005'
+        mark: '00:18:47.005'
+      end:
+        sec: '1129.050'
+        mark: '00:18:49.050'
       u: The chimneys.
     - who: Henja Frydman
-      start: '00:18:49.050'
-      end: '00:18:50.284'
+      start:
+        sec: '1129.050'
+        mark: '00:18:49.050'
+      end:
+        sec: '1130.284'
+        mark: '00:18:50.284'
       u: Yes, the chimneys.
     - who: David Boder
-      start: '00:18:50.284'
-      end: '00:18:54.550'
+      start:
+        sec: '1130.284'
+        mark: '00:18:50.284'
+      end:
+        sec: '1134.550'
+        mark: '00:18:54.550'
       u: And you were still at home?
     - who: Henja Frydman
-      start: '00:18:54.550'
-      end: '00:19:11.761'
+      start:
+        sec: '1134.550'
+        mark: '00:18:54.550'
+      end:
+        sec: '1151.761'
+        mark: '00:19:11.761'
       u: And we still were at home. The time passed. Life is strong. We remained with
         hope, with little hope. And we lived on. I studied.
     - who: David Boder
-      start: '00:19:11.761'
-      end: '00:19:12.948'
+      start:
+        sec: '1151.761'
+        mark: '00:19:11.761'
+      end:
+        sec: '1152.948'
+        mark: '00:19:12.948'
       u: Where did you study?
     - who: Henja Frydman
-      start: '00:19:12.948'
-      end: '00:19:14.698'
+      start:
+        sec: '1152.948'
+        mark: '00:19:12.948'
+      end:
+        sec: '1154.698'
+        mark: '00:19:14.698'
       u: In the “faculty” of Paris.
     - who: David Boder
-      start: '00:19:14.698'
-      end: '00:19:21.517'
+      start:
+        sec: '1154.698'
+        mark: '00:19:14.698'
+      end:
+        sec: '1161.517'
+        mark: '00:19:21.517'
       u: What did you study, Henja?
     - who: Henja Frydman
-      start: '00:19:21.517'
-      end: '00:19:24.650'
+      start:
+        sec: '1161.517'
+        mark: '00:19:21.517'
+      end:
+        sec: '1164.650'
+        mark: '00:19:24.650'
       u: For teacher. To become [a teacher] of foreign languages.
     - who: David Boder
-      start: '00:19:24.650'
-      end: '00:19:26.572'
+      start:
+        sec: '1164.650'
+        mark: '00:19:24.650'
+      end:
+        sec: '1166.572'
+        mark: '00:19:26.572'
       u: What language did you study?
     - who: Henja Frydman
-      start: '00:19:26.572'
-      end: '00:19:43.301'
+      start:
+        sec: '1166.572'
+        mark: '00:19:26.572'
+      end:
+        sec: '1183.301'
+        mark: '00:19:43.301'
       u: English, English! I can’t speak [it] anymore, because I have forgotten it
         in the lager, almost everything I have learned. It comes back in trickles.
         But with great difficulty. My father worked, my younger brother also worked.
     - who: David Boder
-      start: '00:19:43.301'
-      end: '00:19:45.285'
+      start:
+        sec: '1183.301'
+        mark: '00:19:43.301'
+      end:
+        sec: '1185.285'
+        mark: '00:19:45.285'
       u: What did your father work in?
     - who: Henja Frydman
-      start: '00:19:45.285'
-      end: '00:20:18.818'
+      start:
+        sec: '1185.285'
+        mark: '00:19:45.285'
+      end:
+        sec: '1218.818'
+        mark: '00:20:18.818'
       u: There wasn’t much to do, but he peddled, the same as before, from hand to
         hand. We had enough to live on, to live very simply. But in those times that
         was already unimportant. What was important was to manage to survive the Germans,
         and to be—to take care that the family should not be struck again.
     - who: David Boder
-      start: '00:20:18.818'
-      end: '00:20:19.302'
+      start:
+        sec: '1218.818'
+        mark: '00:20:18.818'
+      end:
+        sec: '1219.302'
+        mark: '00:20:19.302'
       u: And so?
     - who: Henja Frydman
-      start: '00:20:19.302'
-      end: '00:21:33.400'
+      start:
+        sec: '1219.302'
+        mark: '00:20:19.302'
+      end:
+        sec: '1293.400'
+        mark: '00:21:33.400'
       u: And so the time passed, and one day we got word that the Germans were preparing
         a torch raid on the Jews, especially against young girls and young boys. From
         eighteen to twenty—twenty-three—twenty-five years of age. We found it out
@@ -748,14 +1312,22 @@ recording:
         to go away to one of his friends. And so—that was—I really can’t tell you
         exactly when.
     - who: David Boder
-      start: '00:21:33.400'
-      end: '00:21:41.231'
+      start:
+        sec: '1293.400'
+        mark: '00:21:33.400'
+      end:
+        sec: '1301.231'
+        mark: '00:21:41.231'
       u: The dates are unimportant. Just tell what happened. The historical facts
         are taken care of in another manner.Namely, in the introduction and footnotes
         to these interviews.10
     - who: Henja Frydman
-      start: '00:21:41.231'
-      end: '00:24:13.130'
+      start:
+        sec: '1301.231'
+        mark: '00:21:41.231'
+      end:
+        sec: '1453.130'
+        mark: '00:24:13.130'
       u: My friend received me very well. The night—this I am unable to describe.
         My parents remained at home. And I did not believe that they would take only
         the young. My suspicions were correct. At night they came to our home, as
@@ -775,32 +1347,56 @@ recording:
         months my parents were hiding with those Jews and lived in terror. They could
         not leave the house. Neither could they work.
     - who: David Boder
-      start: '00:24:13.130'
-      end: '00:24:14.942'
+      start:
+        sec: '1453.130'
+        mark: '00:24:13.130'
+      end:
+        sec: '1454.942'
+        mark: '00:24:14.942'
       u: And where were you?
     - who: Henja Frydman
-      start: '00:24:14.942'
-      end: '00:24:30.225'
+      start:
+        sec: '1454.942'
+        mark: '00:24:14.942'
+      end:
+        sec: '1470.225'
+        mark: '00:24:30.225'
       u: I was hiding with the French. I would come three times a week to see my parents.
         I managed by that time to get French papers as an Aryan, not as a Jewess.
     - who: David Boder
-      start: '00:24:30.225'
-      end: '00:24:31.397'
+      start:
+        sec: '1470.225'
+        mark: '00:24:30.225'
+      end:
+        sec: '1471.397'
+        mark: '00:24:31.397'
       u: And your brother?
     - who: Henja Frydman
-      start: '00:24:31.397'
-      end: '00:25:03.218'
+      start:
+        sec: '1471.397'
+        mark: '00:24:31.397'
+      end:
+        sec: '1503.218'
+        mark: '00:25:03.218'
       u: My brother was with my parents. He remained together with them. I started
         working with the French Resistance, with the youth. And they fixed the papers
         for me. My parents did not know about it. I did not want to tell them, so
         that they should not have to worry about me.
     - who: David Boder
-      start: '00:25:03.218'
-      end: '00:25:09.435'
+      start:
+        sec: '1503.218'
+        mark: '00:25:03.218'
+      end:
+        sec: '1509.435'
+        mark: '00:25:09.435'
       u: Tell me a bit. How was the Resistance formed?
     - who: Henja Frydman
-      start: '00:25:09.435'
-      end: '00:27:49.751'
+      start:
+        sec: '1509.435'
+        mark: '00:25:09.435'
+      end:
+        sec: '1669.751'
+        mark: '00:27:49.751'
       u: The Resistance was formed through small groups of young people, who belonged
         to various clubs. Sport clubs managed to get together. At school they also
         had talks among themselves. In my group we made a Jewish section, because
@@ -825,77 +1421,141 @@ recording:
         merged with the general communist resistance movement. The acronym for the
         military branch of the communist resistance was FTP-MOI.11
     - who: David Boder
-      start: '00:27:49.751'
-      end: '00:27:59.462'
+      start:
+        sec: '1669.751'
+        mark: '00:27:49.751'
+      end:
+        sec: '1679.462'
+        mark: '00:27:59.462'
       u: Since when did you belong to the Communist youth? Did you belong to the Communist
         youth before or only when you started to work with the Resistance?
     - who: Henja Frydman
-      start: '00:27:59.462'
-      end: '00:28:08.102'
+      start:
+        sec: '1679.462'
+        mark: '00:27:59.462'
+      end:
+        sec: '1688.102'
+        mark: '00:28:08.102'
       u: I belonged to it already before. And then with my Communist friends I found
         a contact with the Resistance.
     - who: David Boder
-      start: '00:28:08.102'
-      end: '00:28:11.242'
+      start:
+        sec: '1688.102'
+        mark: '00:28:08.102'
+      end:
+        sec: '1691.242'
+        mark: '00:28:11.242'
       u: How old were you then?
     - who: Henja Frydman
-      start: '00:28:11.242'
-      end: '00:28:13.304'
+      start:
+        sec: '1691.242'
+        mark: '00:28:11.242'
+      end:
+        sec: '1693.304'
+        mark: '00:28:13.304'
       u: I was eighteen years old.
     - who: David Boder
-      start: '00:28:13.304'
-      end: '00:28:21.977'
+      start:
+        sec: '1693.304'
+        mark: '00:28:13.304'
+      end:
+        sec: '1701.977'
+        mark: '00:28:21.977'
       u: Well?
     - who: Henja Frydman
-      start: '00:28:21.977'
-      end: '00:28:39.820'
+      start:
+        sec: '1701.977'
+        mark: '00:28:21.977'
+      end:
+        sec: '1719.820'
+        mark: '00:28:39.820'
       u: To describe further the Resistance. It was that which the papers wrote so
         much after liberation. Many fell, and many were imprisoned.
     - who: David Boder
-      start: '00:28:39.820'
-      end: '00:28:46.097'
+      start:
+        sec: '1719.820'
+        mark: '00:28:39.820'
+      end:
+        sec: '1726.097'
+        mark: '00:28:46.097'
       u: What did you do personally in the Resistance?
     - who: Henja Frydman
-      start: '00:28:46.097'
-      end: '00:29:05.337'
+      start:
+        sec: '1726.097'
+        mark: '00:28:46.097'
+      end:
+        sec: '1745.337'
+        mark: '00:29:05.337'
       u: I was connected with the solidarity group, because as a young child my character
         was developed towards service to others. Also as a propagandist; that meant
         to supply the population with tracts. [Apparently leaflets]
     - who: David Boder
-      start: '00:29:05.337'
-      end: '00:29:06.464'
+      start:
+        sec: '1745.337'
+        mark: '00:29:05.337'
+      end:
+        sec: '1746.464'
+        mark: '00:29:06.464'
       u: Written?
     - who: Henja Frydman
-      start: '00:29:06.464'
-      end: '00:29:16.597'
+      start:
+        sec: '1746.464'
+        mark: '00:29:06.464'
+      end:
+        sec: '1756.597'
+        mark: '00:29:16.597'
       u: Typed on the typewriter. I was working at night, at home on the typewriter,
         making the leaflets for distribution, or getting those tracts.
     - who: David Boder
-      start: '00:29:16.597'
-      end: '00:29:18.236'
+      start:
+        sec: '1756.597'
+        mark: '00:29:16.597'
+      end:
+        sec: '1758.236'
+        mark: '00:29:18.236'
       u: What are those tracts? Papers?
     - who: Henja Frydman
-      start: '00:29:18.236'
-      end: '00:29:45.896'
+      start:
+        sec: '1758.236'
+        mark: '00:29:18.236'
+      end:
+        sec: '1785.896'
+        mark: '00:29:45.896'
       u: Papers on which propaganda was written. And we spoke to the French people,
         that they should not be influenced by the collaborationists and they should
         not trust a German.
     - who: David Boder
-      start: '00:29:45.896'
-      end: '00:29:47.083'
+      start:
+        sec: '1785.896'
+        mark: '00:29:45.896'
+      end:
+        sec: '1787.083'
+        mark: '00:29:47.083'
       u: Well, how long?
     - who: Henja Frydman
-      start: '00:29:47.083'
-      end: '00:30:02.999'
+      start:
+        sec: '1787.083'
+        mark: '00:29:47.083'
+      end:
+        sec: '1802.999'
+        mark: '00:30:02.999'
       u: I worked a year and lived in a room high up and visited my parents three
         times a week. They didn’t know anything about it.
     - who: David Boder
-      start: '00:30:02.999'
-      end: '00:30:07.770'
+      start:
+        sec: '1802.999'
+        mark: '00:30:02.999'
+      end:
+        sec: '1807.770'
+        mark: '00:30:07.770'
       u: What do you mean by that?
     - who: Henja Frydman
-      start: '00:30:07.770'
-      end: '00:31:26.492'
+      start:
+        sec: '1807.770'
+        mark: '00:30:07.770'
+      end:
+        sec: '1886.492'
+        mark: '00:31:26.492'
       u: I would come to visit my parents three times a week, to see what was going
         on. In time they returned to our home. And my younger brother worked in a
         fur coat factory. When my father told me to return home because my brother
@@ -903,42 +1563,74 @@ recording:
         The Germans. One fur coat, two fur coats, said my father. You cannot fight
         the German, and with it [apparently “making coats”] you won’t help the Germans.
     - who: David Boder
-      start: '00:31:26.492'
-      end: '00:32:12.861'
+      start:
+        sec: '1886.492'
+        mark: '00:31:26.492'
+      end:
+        sec: '1932.861'
+        mark: '00:32:12.861'
       u: "[In English]This is the end of the spool 29 by Miss Frydman . We shall continue
         on spool 30. Paris, August 7 1946. 9 Rue de Patin, in a home for adult displaced
         jewish person."
     - who: David Boder
-      start: '00:32:12.861'
-      end: '00:32:39.941'
+      start:
+        sec: '1932.861'
+        mark: '00:32:12.861'
+      end:
+        sec: '1959.941'
+        mark: '00:32:39.941'
       u: "[In English] This is spool 30. August 7 1946. 9 rue de Patin in Paris, a
         home for adult jewish displaced people. This is a continuation of the report
         of Miss Henya Frydman, age 23."
     - who: David Boder
-      start: '00:32:39.941'
-      end: '00:32:45.463'
+      start:
+        sec: '1959.941'
+        mark: '00:32:39.941'
+      end:
+        sec: '1965.463'
+        mark: '00:32:45.463'
       u: "[In Yiddish] And so your father told you to go to work. Go on."
     - who: Henja Frydman
-      start: '00:32:45.463'
-      end: '00:33:03.673'
+      start:
+        sec: '1965.463'
+        mark: '00:32:45.463'
+      end:
+        sec: '1983.673'
+        mark: '00:33:03.673'
       u: I should stay home and stay with them, because he did not want us to be separated.
         But I didn’t grant his wish. [pause]
     - who: David Boder
-      start: '00:33:03.673'
-      end: '00:33:05.209'
+      start:
+        sec: '1983.673'
+        mark: '00:33:03.673'
+      end:
+        sec: '1985.209'
+        mark: '00:33:05.209'
       u: Why?
     - who: Henja Frydman
-      start: '00:33:05.209'
-      end: '00:33:18.052'
+      start:
+        sec: '1985.209'
+        mark: '00:33:05.209'
+      end:
+        sec: '1998.052'
+        mark: '00:33:18.052'
       u: Why? First I belonged to the Resistance, and the Resistance did not permit
         one to work for the Germans, only against the Germans.
     - who: David Boder
-      start: '00:33:18.052'
-      end: '00:33:19.739'
+      start:
+        sec: '1998.052'
+        mark: '00:33:18.052'
+      end:
+        sec: '1999.739'
+        mark: '00:33:19.739'
       u: Only against the Germans.
     - who: Henja Frydman
-      start: '00:33:19.739'
-      end: '00:35:39.720'
+      start:
+        sec: '1999.739'
+        mark: '00:33:19.739'
+      end:
+        sec: '2139.720'
+        mark: '00:35:39.720'
       u: Only against the Germans. And secondly, a Jew in general should not move
         for the Germans even a finger because that was his greatest enemy in the world.
         He had a task to destroy them. Not for them, but against them, he had to take
@@ -957,12 +1649,20 @@ recording:
         time, because it was impossible to visit them often. The police on the streets
         were very strict. They questioned one for his papers.
     - who: David Boder
-      start: '00:35:39.720'
-      end: '00:35:41.548'
+      start:
+        sec: '2139.720'
+        mark: '00:35:39.720'
+      end:
+        sec: '2141.548'
+        mark: '00:35:41.548'
       u: But you had Aryan papers.
     - who: Henja Frydman
-      start: '00:35:41.548'
-      end: '00:36:24.855'
+      start:
+        sec: '2141.548'
+        mark: '00:35:41.548'
+      end:
+        sec: '2184.855'
+        mark: '00:36:24.855'
       u: Aryan papers, but they could see very readily that my papers were not in
         order. I had no occupational papers. I had no identification of nationality.
         They were just simply cards. Only to give the person who possessed such a
@@ -970,12 +1670,20 @@ recording:
         a risk. One day I went for a meeting with comrades of my party and of the
         Resistance.
     - who: David Boder
-      start: '00:36:24.855'
-      end: '00:36:27.386'
+      start:
+        sec: '2184.855'
+        mark: '00:36:24.855'
+      end:
+        sec: '2187.386'
+        mark: '00:36:27.386'
       u: Were you still with the Jewish section?
     - who: Henja Frydman
-      start: '00:36:27.386'
-      end: '00:37:11.160'
+      start:
+        sec: '2187.386'
+        mark: '00:36:27.386'
+      end:
+        sec: '2231.160'
+        mark: '00:37:11.160'
       u: Together. Now it was already mixed. In time we found ways, with some mishaps
         along the way. Such things happened. But we started working together. Once
         I come to a meeting and I don’t find anybody. I go from friend to friend and
@@ -983,20 +1691,36 @@ recording:
         who worked with me. And I am given to understand that I can’t remain anymore
         where I have been living.
     - who: David Boder
-      start: '00:37:11.160'
-      end: '00:37:13.020'
+      start:
+        sec: '2231.160'
+        mark: '00:37:11.160'
+      end:
+        sec: '2233.020'
+        mark: '00:37:13.020'
       u: Who gave you to understand that?
     - who: Henja Frydman
-      start: '00:37:13.020'
-      end: '00:37:14.805'
+      start:
+        sec: '2233.020'
+        mark: '00:37:13.020'
+      end:
+        sec: '2234.805'
+        mark: '00:37:14.805'
       u: A responsible—
     - who: David Boder
-      start: '00:37:14.805'
-      end: '00:37:15.602'
+      start:
+        sec: '2234.805'
+        mark: '00:37:14.805'
+      end:
+        sec: '2235.602'
+        mark: '00:37:15.602'
       u: Person?
     - who: Henja Frydman
-      start: '00:37:15.602'
-      end: '00:38:21.240'
+      start:
+        sec: '2235.602'
+        mark: '00:37:15.602'
+      end:
+        sec: '2301.240'
+        mark: '00:38:21.240'
       u: Person. The problem was about my parents.Family solidarity helped those persecuted
         maintain their morale, but it also inhibited active resistance. Young adult
         children were concerned about their parents and wanted to protect and shelter
@@ -1011,20 +1735,36 @@ recording:
         drove me, and I went ahead. Before going up to my room, I asked the concierge—what
         they call them in France, which means—-
     - who: David Boder
-      start: '00:38:21.240'
-      end: '00:38:21.724'
+      start:
+        sec: '2301.240'
+        mark: '00:38:21.240'
+      end:
+        sec: '2301.724'
+        mark: '00:38:21.724'
       u: Yes?
     - who: Henja Frydman
-      start: '00:38:21.724'
-      end: '00:38:23.021'
+      start:
+        sec: '2301.724'
+        mark: '00:38:21.724'
+      end:
+        sec: '2303.021'
+        mark: '00:38:23.021'
       u: The one who watches.
     - who: David Boder
-      start: '00:38:23.021'
-      end: '00:38:24.380'
+      start:
+        sec: '2303.021'
+        mark: '00:38:23.021'
+      end:
+        sec: '2304.380'
+        mark: '00:38:24.380'
       u: The janitress?
     - who: Henja Frydman
-      start: '00:38:24.380'
-      end: '00:38:39.573'
+      start:
+        sec: '2304.380'
+        mark: '00:38:24.380'
+      end:
+        sec: '2319.573'
+        mark: '00:38:39.573'
       u: The janitress. Yes. ‘Nobody was here to see me?’ She says, ‘No.’It is unclear
         whether or not the concierge knew that the French police were waiting for
         Henja in her room and failed to warn her. It is, however, indisputable that
@@ -1035,20 +1775,36 @@ recording:
         for me?’ She says, ‘No.’ She did not know who I was. She did not know that
         I was Jewish.
     - who: David Boder
-      start: '00:38:39.573'
-      end: '00:38:42.778'
+      start:
+        sec: '2319.573'
+        mark: '00:38:39.573'
+      end:
+        sec: '2322.778'
+        mark: '00:38:42.778'
       u: Was that the janitress?—where your parents lived?
     - who: Henja Frydman
-      start: '00:38:42.778'
-      end: '00:38:46.731'
+      start:
+        sec: '2322.778'
+        mark: '00:38:42.778'
+      end:
+        sec: '2326.731'
+        mark: '00:38:46.731'
       u: No, no, no. That was where I was hiding as an Aryan.
     - who: David Boder
-      start: '00:38:46.731'
-      end: '00:38:47.356'
+      start:
+        sec: '2326.731'
+        mark: '00:38:46.731'
+      end:
+        sec: '2327.356'
+        mark: '00:38:47.356'
       u: Oh, yes.
     - who: Henja Frydman
-      start: '00:38:47.356'
-      end: '00:39:27.756'
+      start:
+        sec: '2327.356'
+        mark: '00:38:47.356'
+      end:
+        sec: '2367.756'
+        mark: '00:39:27.756'
       u: Yes. And I go up to my room. When I put the key to open the door there stand
         before me three French inspectors, from the special brigade. The special police
         against the political—one can say a second bureau that was composed not of
@@ -1058,12 +1814,20 @@ recording:
         Vichy government. The French police had records which helped in their identification
         of suspects.14
     - who: David Boder
-      start: '00:39:27.756'
-      end: '00:39:29.334'
+      start:
+        sec: '2367.756'
+        mark: '00:39:27.756'
+      end:
+        sec: '2369.334'
+        mark: '00:39:29.334'
       u: The interests of the country?
     - who: Henja Frydman
-      start: '00:39:29.334'
-      end: '00:40:37.114'
+      start:
+        sec: '2369.334'
+        mark: '00:39:29.334'
+      end:
+        sec: '2437.114'
+        mark: '00:40:37.114'
       u: The interests of the country, but in the interests of the Germans. These
         were Frenchmen. Three revolvers appeared before my eyes. I began to laugh.
         I laughed from nervousness. I also laughed because I was eighteen years old,
@@ -1074,31 +1838,55 @@ recording:
         they searched. They tried to find tracts or books. They found nothing in my
         place, because I had enough prudence—
     - who: David Boder
-      start: '00:40:37.114'
-      end: '00:40:37.989'
+      start:
+        sec: '2437.114'
+        mark: '00:40:37.114'
+      end:
+        sec: '2437.989'
+        mark: '00:40:37.989'
       u: Caution?
     - who: Henja Frydman
-      start: '00:40:37.989'
-      end: '00:40:59.899'
+      start:
+        sec: '2437.989'
+        mark: '00:40:37.989'
+      end:
+        sec: '2459.899'
+        mark: '00:40:59.899'
       u: Caution. Not to keep in my room incriminating material. My last name, my
         Jewish last name, was not disclosed. My French name was Feran, Evelyn. But
         they discovered immediately my real name, and said—
     - who: David Boder
-      start: '00:40:59.899'
-      end: '00:41:01.383'
+      start:
+        sec: '2459.899'
+        mark: '00:40:59.899'
+      end:
+        sec: '2461.383'
+        mark: '00:41:01.383'
       u: Oh. How did they discover it?
     - who: Henja Frydman
-      start: '00:41:01.383'
-      end: '00:41:20.883'
+      start:
+        sec: '2461.383'
+        mark: '00:41:01.383'
+      end:
+        sec: '2480.883'
+        mark: '00:41:20.883'
       u: They discovered it through the police. They investigated my biography, which
         was found with one of the responsible comrades who was arrested.
     - who: David Boder
-      start: '00:41:20.883'
-      end: '00:41:22.649'
+      start:
+        sec: '2480.883'
+        mark: '00:41:20.883'
+      end:
+        sec: '2482.649'
+        mark: '00:41:22.649'
       u: Oh, they found it with him?
     - who: Henja Frydman
-      start: '00:41:22.649'
-      end: '00:43:23.989'
+      start:
+        sec: '2482.649'
+        mark: '00:41:22.649'
+      end:
+        sec: '2603.989'
+        mark: '00:43:23.989'
       u: They found it with him. It was well hidden in his place, but they still found
         it, and in spite of the fact that the biography was written in a secret code,
         the still found out my real name, my address. In my biography it was stated
@@ -1114,20 +1902,36 @@ recording:
         that he would get out from me immediately the truth. ‘What do you live from,’
         he asked me, ‘Sure you are not a smart girl? ‘You may think what you wish.’
     - who: David Boder
-      start: '00:43:23.989'
-      end: '00:43:25.271'
+      start:
+        sec: '2603.989'
+        mark: '00:43:23.989'
+      end:
+        sec: '2605.271'
+        mark: '00:43:25.271'
       u: What does smart girl mean?
     - who: Henja Frydman
-      start: '00:43:25.271'
-      end: '00:43:29.681'
+      start:
+        sec: '2605.271'
+        mark: '00:43:25.271'
+      end:
+        sec: '2609.681'
+        mark: '00:43:29.681'
       u: I live from what men give me—money to live on.
     - who: David Boder
-      start: '00:43:29.681'
-      end: '00:43:30.291'
+      start:
+        sec: '2609.681'
+        mark: '00:43:29.681'
+      end:
+        sec: '2610.291'
+        mark: '00:43:30.291'
       u: Oh.
     - who: Henja Frydman
-      start: '00:43:30.291'
-      end: '00:45:54.331'
+      start:
+        sec: '2610.291'
+        mark: '00:43:30.291'
+      end:
+        sec: '2754.331'
+        mark: '00:45:54.331'
       u: I could not tell him that I lived from money that my parents were giving
         me because I did not want to talk about my parents. I knew that one word about
         my parents, and they would be taken also. Where from do I have the papers?
@@ -1145,23 +1949,39 @@ recording:
         taken to the bureau, and there were hundreds of inspectors. One after another,
         they interrogated me.
     - who: David Boder
-      start: '00:45:54.331'
-      end: '00:45:55.550'
+      start:
+        sec: '2754.331'
+        mark: '00:45:54.331'
+      end:
+        sec: '2755.550'
+        mark: '00:45:55.550'
       u: They questioned you?
     - who: Henja Frydman
-      start: '00:45:55.550'
-      end: '00:46:23.734'
+      start:
+        sec: '2755.550'
+        mark: '00:45:55.550'
+      end:
+        sec: '2783.734'
+        mark: '00:46:23.734'
       u: Questioned me. I answered irrelevant things. They asked me who got me into
         the political Resistance. I didn’t tell them who. What are my ideas? My answers
         were, if they were going to arrest people, they should be able to find out
         what kind of convictions those people have.
     - who: David Boder
-      start: '00:46:23.734'
-      end: '00:46:28.463'
+      start:
+        sec: '2783.734'
+        mark: '00:46:23.734'
+      end:
+        sec: '2788.463'
+        mark: '00:46:28.463'
       u: Weren’t you afraid to give such answers?
     - who: Henja Frydman
-      start: '00:46:28.463'
-      end: '00:47:54.691'
+      start:
+        sec: '2788.463'
+        mark: '00:46:28.463'
+      end:
+        sec: '2874.691'
+        mark: '00:47:54.691'
       u: I was not afraid, because I knew whether I talked or didn’t they would beat
         me anyway, but by accident or by luck they did not beat me. And why? For two
         days, day and night, they were beating my comrades who were arrested before
@@ -1176,24 +1996,40 @@ recording:
         them, they should find out that we hadn’t seen each other for a long time.
         And so it was.
     - who: David Boder
-      start: '00:47:54.691'
-      end: '00:47:57.644'
+      start:
+        sec: '2874.691'
+        mark: '00:47:54.691'
+      end:
+        sec: '2877.644'
+        mark: '00:47:57.644'
       u: And how long had you not seen your parents?
     - who: Henja Frydman
-      start: '00:47:57.644'
-      end: '00:48:39.572'
+      start:
+        sec: '2877.644'
+        mark: '00:47:57.644'
+      end:
+        sec: '2919.572'
+        mark: '00:48:39.572'
       u: One week’s time—one weeks time. But nobody knew about it. Only my parents
         had seen me. The neighbors didn’t even know that I was in Paris. They thought
         that the daughter of Aaron Frydman, my parents, had abandoned her parents
         and had gone away. From the prefecture I went to the French depot, where I
         met my political friends from the Resistance. We started to compare notes.
     - who: David Boder
-      start: '00:48:39.572'
-      end: '00:48:40.994'
+      start:
+        sec: '2919.572'
+        mark: '00:48:39.572'
+      end:
+        sec: '2920.994'
+        mark: '00:48:40.994'
       u: Also Jewish girls.
     - who: Henja Frydman
-      start: '00:48:40.994'
-      end: '00:49:02.866'
+      start:
+        sec: '2920.994'
+        mark: '00:48:40.994'
+      end:
+        sec: '2942.866'
+        mark: '00:49:02.866'
       u: Also Jewish. Only Jewish girls. We were sixty Jewish women in that depot.
         And sixty Jewish women. I emphasize sixty Jewish women, sixty Jewish girls,
         because it is being said that the Jews were hiding and that the Jews did nothing.The
@@ -1202,12 +2038,20 @@ recording:
         estimated that some 25% of the French Jewish community was involved in resistance
         work, a far greater percentage than that of the general population.15
     - who: David Boder
-      start: '00:49:02.866'
-      end: '00:49:04.241'
+      start:
+        sec: '2942.866'
+        mark: '00:49:02.866'
+      end:
+        sec: '2944.241'
+        mark: '00:49:04.241'
       u: Who says that?
     - who: Henja Frydman
-      start: '00:49:04.241'
-      end: '00:51:33.142'
+      start:
+        sec: '2944.241'
+        mark: '00:49:04.241'
+      end:
+        sec: '3093.142'
+        mark: '00:51:33.142'
       u: The French. The anti-Semites. And it is being said everywhere. What good
         a Jew does is not being acknowledged. What he does wrong there is a whole
         world to yell about it, and to describe it. They didn’t talk about the sixty
@@ -1226,24 +2070,40 @@ recording:
         was one place, Drancy, and from Drancy—deportation. I came to the same lager
         where my brother was. I even met some men who had lived together with my brother.
     - who: David Boder
-      start: '00:51:33.142'
-      end: '00:51:36.467'
+      start:
+        sec: '3093.142'
+        mark: '00:51:33.142'
+      end:
+        sec: '3096.467'
+        mark: '00:51:36.467'
       u: But he wasn’t there anymore?
     - who: Henja Frydman
-      start: '00:51:36.467'
-      end: '00:52:03.944'
+      start:
+        sec: '3096.467'
+        mark: '00:51:36.467'
+      end:
+        sec: '3123.944'
+        mark: '00:52:03.944'
       u: He wasn’t there anymore, because by that time he was already in Auschwitz,
         I believe. We spent three months in Drancy. During these three months there
         was no talk about deportation. Before, by the hundreds, people—men, women,
         and children—were already deported from this lager. And we were waiting. We
         knew our turn would come.
     - who: David Boder
-      start: '00:52:03.944'
-      end: '00:52:08.506'
+      start:
+        sec: '3123.944'
+        mark: '00:52:03.944'
+      end:
+        sec: '3128.506'
+        mark: '00:52:08.506'
       u: Will you please describe the lager now?
     - who: Henja Frydman
-      start: '00:52:08.506'
-      end: '00:52:56.002'
+      start:
+        sec: '3128.506'
+        mark: '00:52:08.506'
+      end:
+        sec: '3176.002'
+        mark: '00:52:56.002'
       u: Drancy was an armory for men and women. By the time I came to Drancy, there
         were already separate barracks for men and separate barracks for women. Separate
         barracks for foreign [Jews] and separate barracks for French Jews. There were
@@ -1253,22 +2113,38 @@ recording:
         living situation at Drancy improved from what they had been at the beginning
         of the camp’s existence with the help of French Jewish organizations.16
     - who: David Boder
-      start: '00:52:56.002'
-      end: '00:53:00.740'
+      start:
+        sec: '3176.002'
+        mark: '00:52:56.002'
+      end:
+        sec: '3180.740'
+        mark: '00:53:00.740'
       u: What were people doing there all day?
     - who: Henja Frydman
-      start: '00:53:00.740'
-      end: '00:53:24.166'
+      start:
+        sec: '3180.740'
+        mark: '00:53:00.740'
+      end:
+        sec: '3204.166'
+        mark: '00:53:24.166'
       u: All day people were doing nothing. In the morning they would take men and
         women to straighten up the rooms, to cook and to peel potatoes. Everything
         we got was rotten. We did not get anything fresh.
     - who: David Boder
-      start: '00:53:24.166'
-      end: '00:53:27.482'
+      start:
+        sec: '3204.166'
+        mark: '00:53:24.166'
+      end:
+        sec: '3207.482'
+        mark: '00:53:27.482'
       u: Did they peel the potatoes before cooking, or after the cooking?
     - who: Henja Frydman
-      start: '00:53:27.482'
-      end: '00:54:48.980'
+      start:
+        sec: '3207.482'
+        mark: '00:53:27.482'
+      end:
+        sec: '3288.980'
+        mark: '00:54:48.980'
       u: The potatoes were peeled before cooking. The food was no good, but we received
         packages from home. That was permitted, a package a week. Many did not receive
         packages, because there were no more families at home. And we shared with
@@ -1284,67 +2160,123 @@ recording:
         as forms of resistance. Subsequently, Henja relates that when she and others
         were deported to Drancy they were singing.17
     - who: David Boder
-      start: '00:54:48.980'
-      end: '00:54:52.980'
+      start:
+        sec: '3288.980'
+        mark: '00:54:48.980'
+      end:
+        sec: '3292.980'
+        mark: '00:54:52.980'
       u: Could you get together with the men, or were all the women all by themselves?
     - who: Henja Frydman
-      start: '00:54:52.980'
-      end: '00:55:29.361'
+      start:
+        sec: '3292.980'
+        mark: '00:54:52.980'
+      end:
+        sec: '3329.361'
+        mark: '00:55:29.361'
       u: We could get together with them. Up until nine o’clock in the evening, one
         could get together with them. There were many strict rules, but for us it
         wasn’t so hard. Some have managed to get out from the dungeons of the French
         Gestapo, the German Gestapo, so here it appeared like a boarding house.
     - who: David Boder
-      start: '00:55:29.361'
-      end: '00:55:34.489'
+      start:
+        sec: '3329.361'
+        mark: '00:55:29.361'
+      end:
+        sec: '3334.489'
+        mark: '00:55:34.489'
       u: Would they allow you to get together, to talk, to sing?
     - who: Henja Frydman
-      start: '00:55:34.489'
-      end: '00:56:40.919'
+      start:
+        sec: '3334.489'
+        mark: '00:55:34.489'
+      end:
+        sec: '3400.919'
+        mark: '00:56:40.919'
       u: |-
         Yes. We could get together. We would sing. We even danced. They day passed quickly, and the three months, that is the time that I was in Drancy, passed quickly. Through the wires we looked at freedom, and freedom was within ten meters from us. We were thinking about liberty, about home, about the family, who no doubt were deeply longing for us. From day to day, and all at once the lager is blocked, and the lager
                                 commandant, the German—his name is known, because he was arrested—came to the lager.
     - who: David Boder
-      start: '00:56:40.919'
-      end: '00:56:42.262'
+      start:
+        sec: '3400.919'
+        mark: '00:56:40.919'
+      end:
+        sec: '3402.262'
+        mark: '00:56:42.262'
       u: What was his name?
     - who: Henja Frydman
-      start: '00:56:42.262'
-      end: '00:56:50.286'
+      start:
+        sec: '3402.262'
+        mark: '00:56:42.262'
+      end:
+        sec: '3410.286'
+        mark: '00:56:50.286'
       u: His name is—[a pause]—I can’t recall. He is famous, the lager commander of
         Drancy.
     - who: David Boder
-      start: '00:56:50.286'
-      end: '00:56:51.953'
+      start:
+        sec: '3410.286'
+        mark: '00:56:50.286'
+      end:
+        sec: '3411.953'
+        mark: '00:56:51.953'
       u: Yes. Was he arrested?
     - who: Henja Frydman
-      start: '00:56:51.953'
-      end: '00:57:01.051'
+      start:
+        sec: '3411.953'
+        mark: '00:56:51.953'
+      end:
+        sec: '3421.051'
+        mark: '00:57:01.051'
       u: Brenner! Brenner is his name. He was arrested after liberation. He was seen,
         and he was arrested.
     - who: David Boder
-      start: '00:57:01.051'
-      end: '00:57:02.723'
+      start:
+        sec: '3421.051'
+        mark: '00:57:01.051'
+      end:
+        sec: '3422.723'
+        mark: '00:57:02.723'
       u: What did they do to him?
     - who: Henja Frydman
-      start: '00:57:02.723'
-      end: '00:57:13.449'
+      start:
+        sec: '3422.723'
+        mark: '00:57:02.723'
+      end:
+        sec: '3433.449'
+        mark: '00:57:13.449'
       u: He was tried—in a court. In—Nurnberg. I think he was also there.
     - who: David Boder
-      start: '00:57:13.449'
-      end: '00:57:13.980'
+      start:
+        sec: '3433.449'
+        mark: '00:57:13.449'
+      end:
+        sec: '3433.980'
+        mark: '00:57:13.980'
       u: Yes?
     - who: Henja Frydman
-      start: '00:57:13.980'
-      end: '00:57:17.613'
+      start:
+        sec: '3433.980'
+        mark: '00:57:13.980'
+      end:
+        sec: '3437.613'
+        mark: '00:57:17.613'
       u: "[Somewhat hesitantly, as if she were not sure] He was given the death penalty."
     - who: David Boder
-      start: '00:57:17.613'
-      end: '00:57:22.535'
+      start:
+        sec: '3437.613'
+        mark: '00:57:17.613'
+      end:
+        sec: '3442.535'
+        mark: '00:57:22.535'
       u: Was the sentence carried out? Was he executed?
     - who: Henja Frydman
-      start: '00:57:22.535'
-      end: '00:58:18.872'
+      start:
+        sec: '3442.535'
+        mark: '00:57:22.535'
+      end:
+        sec: '3498.872'
+        mark: '00:58:18.872'
       u: "[Excitedly] Yes, he was executed. There was, of course, a reason to execute
         him. He has sent enough people to their death. And his trial has taken too
         much time, just like all other trials. He was executed.Alois Brunner, one
@@ -1374,12 +2306,20 @@ recording:
         have to walk. The trucks went straight to the gas chambers. It is unclear
         who the “he” to whom Henja refers might be.19"
     - who: David Boder
-      start: '00:58:18.872'
-      end: '00:58:23.903'
+      start:
+        sec: '3498.872'
+        mark: '00:58:18.872'
+      end:
+        sec: '3503.903'
+        mark: '00:58:23.903'
       u: But you were getting packages. Wasn’t it known that they came from your family?
     - who: Henja Frydman
-      start: '00:58:23.903'
-      end: '00:59:22.581'
+      start:
+        sec: '3503.903'
+        mark: '00:58:23.903'
+      end:
+        sec: '3562.581'
+        mark: '00:59:22.581'
       u: They knew, but frequently the packages would not come with the address of
         the family. I didn’t tell them where my family lived. And three days passed,
         three days of blockade, very strictly; one couldn’t say a word in the lager.
@@ -1389,12 +2329,20 @@ recording:
         morning they came into our rooms. They called out our names and told us to
         get ready for deportation.
     - who: David Boder
-      start: '00:59:22.581'
-      end: '00:59:25.538'
+      start:
+        sec: '3562.581'
+        mark: '00:59:22.581'
+      end:
+        sec: '3565.538'
+        mark: '00:59:25.538'
       u: "[Words did not appear in original text.]"
     - who: Henja Frydman
-      start: '00:59:25.538'
-      end: '01:00:40.737'
+      start:
+        sec: '3565.538'
+        mark: '00:59:25.538'
+      end:
+        sec: '3640.737'
+        mark: '01:00:40.737'
       u: In the year ’43 in the month of April. Oh, no, it was the twenty-third of
         June. I remember that date very well. One post card to write to the family.
         Our sadness was very great, not because we were afraid to be deported. Even
@@ -1404,28 +2352,52 @@ recording:
         to be deported, and I was among them. And my whole group. That day our friends
         from Twines [??] arrived, very emaciated.
     - who: David Boder
-      start: '01:00:40.737'
-      end: '01:00:41.784'
+      start:
+        sec: '3640.737'
+        mark: '01:00:40.737'
+      end:
+        sec: '3641.784'
+        mark: '01:00:41.784'
       u: Where is Twines?
     - who: Henja Frydman
-      start: '01:00:41.784'
-      end: '01:00:46.144'
+      start:
+        sec: '3641.784'
+        mark: '01:00:41.784'
+      end:
+        sec: '3646.144'
+        mark: '01:00:46.144'
       u: A prison.
     - who: David Boder
-      start: '01:00:46.144'
-      end: '01:00:46.831'
+      start:
+        sec: '3646.144'
+        mark: '01:00:46.144'
+      end:
+        sec: '3646.831'
+        mark: '01:00:46.831'
       u: Yes.
     - who: Henja Frydman
-      start: '01:00:46.831'
-      end: '01:00:56.113'
+      start:
+        sec: '3646.831'
+        mark: '01:00:46.831'
+      end:
+        sec: '3656.113'
+        mark: '01:00:56.113'
       u: From Sante Romainville, and they came from there.
     - who: David Boder
-      start: '01:00:56.113'
-      end: '01:00:57.550'
+      start:
+        sec: '3656.113'
+        mark: '01:00:56.113'
+      end:
+        sec: '3657.550'
+        mark: '01:00:57.550'
       u: All girls, too?
     - who: Henja Frydman
-      start: '01:00:57.550'
-      end: '01:01:54.868'
+      start:
+        sec: '3657.550'
+        mark: '01:00:57.550'
+      end:
+        sec: '3714.868'
+        mark: '01:01:54.868'
       u: Boys and girls, assigned to be deported, to be sent away. [A pause] Each
         of us wrote a postcard home. I personally wrote to my parents that I am departing,
         where I am going I don’t know, but I hope to be back to see them. I wrote
@@ -1433,37 +2405,61 @@ recording:
         He will not be satisfied with a few Jews. I told them that I would try to
         understand the events, that I should try to escape from the transport.
     - who: David Boder
-      start: '01:01:54.868'
-      end: '01:01:56.462'
+      start:
+        sec: '3714.868'
+        mark: '01:01:54.868'
+      end:
+        sec: '3716.462'
+        mark: '01:01:56.462'
       u: Run away?
     - who: Henja Frydman
-      start: '01:01:56.462'
-      end: '01:02:41.373'
+      start:
+        sec: '3716.462'
+        mark: '01:01:56.462'
+      end:
+        sec: '3761.373'
+        mark: '01:02:41.373'
       u: To run away. And if I should succeed, they should not remain at home, because
         they would come to them, and they would be taken in my place if they should
         be found. My writing was without success. My parents received the postcard,
         but they thought that my youth gave me ideas. In the train we were locked
         up, seventy to a car, in a cattle car.
     - who: David Boder
-      start: '01:02:41.373'
-      end: '01:02:45.150'
+      start:
+        sec: '3761.373'
+        mark: '01:02:41.373'
+      end:
+        sec: '3765.150'
+        mark: '01:02:45.150'
       u: What was it, and open car?
     - who: Henja Frydman
-      start: '01:02:45.150'
-      end: '01:03:07.699'
+      start:
+        sec: '3765.150'
+        mark: '01:02:45.150'
+      end:
+        sec: '3787.699'
+        mark: '01:03:07.699'
       u: No, entirely closed. Women, men, and children together. The windows were
         shut. All the food we had was just what they gave us before embarking and
         what packages we had.
     - who: David Boder
-      start: '01:03:07.699'
-      end: '01:03:36.964'
+      start:
+        sec: '3787.699'
+        mark: '01:03:07.699'
+      end:
+        sec: '3816.964'
+        mark: '01:03:36.964'
       u: "[In English] This concludes Spool 30 of Ms. Henja Frydman, the second spool
         of the interview, and we are going over to the third. This is an Illinois
         Institute of Technology recording on the wire recorder, done on August 7,
         1946....August 7, 1946, 9 Rue de Patin in Paris."
     - who: David Boder
-      start: '01:03:36.964'
-      end: '01:04:48.486'
+      start:
+        sec: '3816.964'
+        mark: '01:03:36.964'
+      end:
+        sec: '3888.486'
+        mark: '01:04:48.486'
       u: This is Spool 9-9-31. The additional 9 indicates that the reproduction was
         done... made not from the original but from a satisfactory reproduction. The
         orginal was slightly damaged after the reproduction was made. There is some
@@ -1471,8 +2467,12 @@ recording:
         interview was annouced, a kind of a chit-chat between the interviewer and
         the interviewee. October 22nd, 1950. Boder.
     - who: Henja Frydman
-      start: '01:04:48.486'
-      end: '01:05:06.531'
+      start:
+        sec: '3888.486'
+        mark: '01:04:48.486'
+      end:
+        sec: '3906.531'
+        mark: '01:05:06.531'
       u: 'One thing I wanted: to write. I wanted to describe all this. But I tore
         up everything I had written. When I would think back to the life in the lager,
         it was hard for me to write my own biography.A number of the survivors, Elie
@@ -1482,77 +2482,137 @@ recording:
         new spool of wire was being adjusted, and were recorded inadvertently. We
         continue with what follows.]'
     - who: David Boder
-      start: '01:05:06.531'
-      end: '01:05:25.877'
+      start:
+        sec: '3906.531'
+        mark: '01:05:06.531'
+      end:
+        sec: '3925.877'
+        mark: '01:05:25.877'
       u: "[In English] This is Spool 31, a continuation of spool 29 and 30 of Henya
         Frydman. We are now at the moment where the deportees were put into trains
         for deportation from Drancy to Germany."
     - who: David Boder
-      start: '01:05:25.877'
-      end: '01:05:28.529'
+      start:
+        sec: '3925.877'
+        mark: '01:05:25.877'
+      end:
+        sec: '3928.529'
+        mark: '01:05:28.529'
       u: "[In Yiddish] And now?"
     - who: Henja Frydman
-      start: '01:05:28.529'
-      end: '01:05:43.431'
+      start:
+        sec: '3928.529'
+        mark: '01:05:28.529'
+      end:
+        sec: '3943.431'
+        mark: '01:05:43.431'
       u: Three days we traveled by rail. Three frightful days. No air, no toilet.
     - who: David Boder
-      start: '01:05:43.431'
-      end: '01:05:45.790'
+      start:
+        sec: '3943.431'
+        mark: '01:05:43.431'
+      end:
+        sec: '3945.790'
+        mark: '01:05:45.790'
       u: So what would you do about the toilet?
     - who: Henja Frydman
-      start: '01:05:45.790'
-      end: '01:06:02.012'
+      start:
+        sec: '3945.790'
+        mark: '01:05:45.790'
+      end:
+        sec: '3962.012'
+        mark: '01:06:02.012'
       u: They gave us a bucket, and there among men, women, and children, everyone
         had—
     - who: David Boder
-      start: '01:06:02.012'
-      end: '01:06:02.328'
+      start:
+        sec: '3962.012'
+        mark: '01:06:02.012'
+      end:
+        sec: '3962.328'
+        mark: '01:06:02.328'
       u: To take care of himself.
     - who: Henja Frydman
-      start: '01:06:02.328'
-      end: '01:06:44.874'
+      start:
+        sec: '3962.328'
+        mark: '01:06:02.328'
+      end:
+        sec: '4004.874'
+        mark: '01:06:44.874'
       u: |-
         To take care of himself. The air—that I don’t need to describe. One was badly nauseated from the food that we had. The meat we got in the lager
                                 Drancy before leaving was very bad, and we wanted to drink. Drink! There wasn’t anything. From time to time the train would stop, and we could send out one bucket of the two that we had for a toilet to get some water, and we drank water. And from the water there started a terrible diarrhea.
     - who: David Boder
-      start: '01:06:44.874'
-      end: '01:06:45.890'
+      start:
+        sec: '4004.874'
+        mark: '01:06:44.874'
+      end:
+        sec: '4005.890'
+        mark: '01:06:45.890'
       u: Diarrhea?
     - who: Henja Frydman
-      start: '01:06:45.890'
-      end: '01:07:27.572'
+      start:
+        sec: '4005.890'
+        mark: '01:06:45.890'
+      end:
+        sec: '4047.572'
+        mark: '01:07:27.572'
       u: Diarrhea. And you can imagine that it was just impossible to stand it in
         the car. Women fainted. No medicines, no doctor, no nothing. People got sick.
         And in other cars during these three days people went insane and also were
         dying. We tried to make a plan of escape.
     - who: David Boder
-      start: '01:07:27.572'
-      end: '01:07:28.748'
+      start:
+        sec: '4047.572'
+        mark: '01:07:27.572'
+      end:
+        sec: '4048.748'
+        mark: '01:07:28.748'
       u: To run away?
     - who: Henja Frydman
-      start: '01:07:28.748'
-      end: '01:07:39.526'
+      start:
+        sec: '4048.748'
+        mark: '01:07:28.748'
+      end:
+        sec: '4059.526'
+        mark: '01:07:39.526'
       u: To run away. Unfortunately, the greater part of my comrades were some with
         their mothers, some with their sisters.
     - who: David Boder
-      start: '01:07:39.526'
-      end: '01:07:40.385'
+      start:
+        sec: '4059.526'
+        mark: '01:07:39.526'
+      end:
+        sec: '4060.385'
+        mark: '01:07:40.385'
       u: In the train?
     - who: Henja Frydman
-      start: '01:07:40.385'
-      end: '01:08:15.659'
+      start:
+        sec: '4060.385'
+        mark: '01:07:40.385'
+      end:
+        sec: '4095.659'
+        mark: '01:08:15.659'
       u: In the train. Because they gathered the families together with other comrades
         when they went down with the Resistance, their whole family was arrested,
         and they were deported in families. And so one didn’t want to abandon the
         mother, another didn’t want to abandon the sister, another had a child. And
         the three days passed, and we remained in the car. And so we arrived at Oświęcim.
     - who: David Boder
-      start: '01:08:15.659'
-      end: '01:08:17.018'
+      start:
+        sec: '4095.659'
+        mark: '01:08:15.659'
+      end:
+        sec: '4097.018'
+        mark: '01:08:17.018'
       u: Oświęcim? That is—?
     - who: Henja Frydman
-      start: '01:08:17.018'
-      end: '01:09:30.679'
+      start:
+        sec: '4097.018'
+        mark: '01:08:17.018'
+      end:
+        sec: '4170.679'
+        mark: '01:09:30.679'
       u: Oświęcim is in Polish and Auschwitz in French. The first thing we saw were
         very emaciated men, in bathing suits.”Auschwitz” is in fact German. The “bathing
         suits” Henja describes were probably in fact the striped prisoner uniforms
@@ -1564,39 +2624,71 @@ recording:
         there were a lot of children, and I also forgot to tell you that when we departed
         for Drancy we were singing.
     - who: David Boder
-      start: '01:09:30.679'
-      end: '01:09:31.554'
+      start:
+        sec: '4170.679'
+        mark: '01:09:30.679'
+      end:
+        sec: '4171.554'
+        mark: '01:09:31.554'
       u: From Drancy?
     - who: Henja Frydman
-      start: '01:09:31.554'
-      end: '01:09:51.614'
+      start:
+        sec: '4171.554'
+        mark: '01:09:31.554'
+      end:
+        sec: '4191.614'
+        mark: '01:09:51.614'
       u: From Drancy. The French Marseillaise, a revolutionary song. We were screaming,
         we were yelling that they shouldn’t let them deport us. And the police threw
         themselves on us and even wanted to fight with us.
     - who: David Boder
-      start: '01:09:51.614'
-      end: '01:09:54.869'
+      start:
+        sec: '4191.614'
+        mark: '01:09:51.614'
+      end:
+        sec: '4194.869'
+        mark: '01:09:54.869'
       u: Do you remember any of these songs?
     - who: Henja Frydman
-      start: '01:09:54.869'
-      end: '01:09:56.168'
+      start:
+        sec: '4194.869'
+        mark: '01:09:54.869'
+      end:
+        sec: '4196.168'
+        mark: '01:09:56.168'
       u: The Marseillaise?
     - who: David Boder
-      start: '01:09:56.168'
-      end: '01:10:07.231'
+      start:
+        sec: '4196.168'
+        mark: '01:09:56.168'
+      end:
+        sec: '4207.231'
+        mark: '01:10:07.231'
       u: No; some other? Some of the Resistance, revolutionary songs? Can you remember
         any? [There is a silence. Apparently she shook her head.]
     - who: Henja Frydman
-      start: '01:10:07.231'
-      end: '01:10:08.644'
+      start:
+        sec: '4207.231'
+        mark: '01:10:07.231'
+      end:
+        sec: '4208.644'
+        mark: '01:10:08.644'
       u: May be just the words.
     - who: David Boder
-      start: '01:10:08.644'
-      end: '01:10:26.340'
+      start:
+        sec: '4208.644'
+        mark: '01:10:08.644'
+      end:
+        sec: '4226.340'
+        mark: '01:10:26.340'
       u: Yes just in a low sing a few—just in a light voice, but give the words clearly.
     - who: Henja Frydman
-      start: '01:10:26.340'
-      end: '01:12:15.364'
+      start:
+        sec: '4226.340'
+        mark: '01:10:26.340'
+      end:
+        sec: '4335.364'
+        mark: '01:12:15.364'
       u: I shall try. [She sings one verse, of eight lines in French, to the tune
         of the so-called Wrshavjanka, a melody which was sung by the Revolutionaries
         in Russia. Whether the words are new or the same has yet to be established.
@@ -1607,20 +2699,36 @@ recording:
         vain you, boy, are coming,” but the second half appears not to be in Russian.
         The words will be given in the appendix.]
     - who: David Boder
-      start: '01:12:15.364'
-      end: '01:12:19.918'
+      start:
+        sec: '4335.364'
+        mark: '01:12:15.364'
+      end:
+        sec: '4339.918'
+        mark: '01:12:19.918'
       u: And so you arrived.
     - who: Henja Frydman
-      start: '01:12:19.918'
-      end: '01:12:20.910'
+      start:
+        sec: '4339.918'
+        mark: '01:12:19.918'
+      end:
+        sec: '4340.910'
+        mark: '01:12:20.910'
       u: At Auschwitz.
     - who: David Boder
-      start: '01:12:20.910'
-      end: '01:12:21.269'
+      start:
+        sec: '4340.910'
+        mark: '01:12:20.910'
+      end:
+        sec: '4341.269'
+        mark: '01:12:21.269'
       u: Yes. [She nervously blows her nose.]
     - who: Henja Frydman
-      start: '01:12:21.269'
-      end: '01:18:15.468'
+      start:
+        sec: '4341.269'
+        mark: '01:12:21.269'
+      end:
+        sec: '4695.468'
+        mark: '01:18:15.468'
       u: Now begins the long chapter of two years imprisonment in Auschwitz. It will
         not be easy for me, indeed, as all of us say when we are asked to tell. To
         tell! That is the hardest thing for us. Why? Because there are no words. No
@@ -1665,12 +2773,20 @@ recording:
         first of all to take off our “fingers” the golden things that one had, watches,
         engagement rings—all that was taken off.
     - who: David Boder
-      start: '01:18:15.468'
-      end: '01:18:18.140'
+      start:
+        sec: '4695.468'
+        mark: '01:18:15.468'
+      end:
+        sec: '4698.140'
+        mark: '01:18:18.140'
       u: Were you permitted to have that in Drancy?
     - who: Henja Frydman
-      start: '01:18:18.140'
-      end: '01:20:03.352'
+      start:
+        sec: '4698.140'
+        mark: '01:18:18.140'
+      end:
+        sec: '4803.352'
+        mark: '01:20:03.352'
       u: It was not permitted in Drancy, but many women and people had hidden these
         things, and there was no very strict control. Why wasn’t it very strict? Because
         they knew that in Oświęcim they would be taken away. And immediately they
@@ -1692,12 +2808,20 @@ recording:
         tired. One of our friends were insane and was yelling, because things made
         a terrible impression on her. She was in panic.
     - who: David Boder
-      start: '01:20:03.352'
-      end: '01:20:05.118'
+      start:
+        sec: '4803.352'
+        mark: '01:20:03.352'
+      end:
+        sec: '4805.118'
+        mark: '01:20:05.118'
       u: What did she yell?
     - who: Henja Frydman
-      start: '01:20:05.118'
-      end: '01:22:12.172'
+      start:
+        sec: '4805.118'
+        mark: '01:20:05.118'
+      end:
+        sec: '4932.172'
+        mark: '01:22:12.172'
       u: She was yelling—I don’t remember exactly. All I know is she went insane from
         the transport. She went insane because she left in France a child. From fright,
         we were lying one over the other like animals. Stepping one on the other.
@@ -1713,12 +2837,20 @@ recording:
         in rags, faces full of panic, in tatters, marching five abreast, and singing
         because they were ordered to sing.
     - who: David Boder
-      start: '01:22:12.172'
-      end: '01:22:13.734'
+      start:
+        sec: '4932.172'
+        mark: '01:22:12.172'
+      end:
+        sec: '4933.734'
+        mark: '01:22:13.734'
       u: What were they singing?
     - who: Henja Frydman
-      start: '01:22:13.734'
-      end: '01:23:55.830'
+      start:
+        sec: '4933.734'
+        mark: '01:22:13.734'
+      end:
+        sec: '5035.830'
+        mark: '01:23:55.830'
       u: German songs. German songs, German marches, that the Germans have taught
         them in the lager. And so we had the first contact with Auschwitz. With clubs
         and with yells we were told to take off all we had on. Naked men worked in
@@ -1732,12 +2864,20 @@ recording:
         them, the first question, where did the truck go on which our parents went
         off and our other friends.
     - who: David Boder
-      start: '01:23:55.830'
-      end: '01:23:57.487'
+      start:
+        sec: '5035.830'
+        mark: '01:23:55.830'
+      end:
+        sec: '5037.487'
+        mark: '01:23:57.487'
       u: Your parents weren’t there?
     - who: Henja Frydman
-      start: '01:23:57.487'
-      end: '01:25:34.187'
+      start:
+        sec: '5037.487'
+        mark: '01:23:57.487'
+      end:
+        sec: '5134.187'
+        mark: '01:25:34.187'
       u: My parents weren’t there, but the parents of the others. And they said, ‘The
         trucks? Do you see, girls, buildings there yonder which look so normal. Girls,
         they are the crematories!’ ‘Crematories? What does it mean—crematories?’ ‘Don’t
@@ -1752,12 +2892,20 @@ recording:
         All the hair from the head. We look at each other. The fright. People are
         beaten. Hair is being shorn. People scream. The language we don’t understand.
     - who: David Boder
-      start: '01:25:34.187'
-      end: '01:25:35.977'
+      start:
+        sec: '5134.187'
+        mark: '01:25:34.187'
+      end:
+        sec: '5135.977'
+        mark: '01:25:35.977'
       u: Who was beating you?
     - who: Henja Frydman
-      start: '01:25:35.977'
-      end: '01:28:43.905'
+      start:
+        sec: '5135.977'
+        mark: '01:25:35.977'
+      end:
+        sec: '5323.905'
+        mark: '01:28:43.905'
       u: The Germans. One couldn’t move without getting a blow. Our hair fell to the
         ground. We looked at each other. One doesn’t recognize faces. I failed to
         recognize my best friend, and I began to laugh, to laugh terribly, a hysterical
@@ -1777,28 +2925,52 @@ recording:
         we go to the bureau. The Germans register us. Register our identity, the name,
         the family name, occupation and nationality, and so on. From there—
     - who: David Boder
-      start: '01:28:43.905'
-      end: '01:28:46.046'
+      start:
+        sec: '5323.905'
+        mark: '01:28:43.905'
+      end:
+        sec: '5326.046'
+        mark: '01:28:46.046'
       u: What nationality did you give?
     - who: Henja Frydman
-      start: '01:28:46.046'
-      end: '01:28:48.624'
+      start:
+        sec: '5326.046'
+        mark: '01:28:46.046'
+      end:
+        sec: '5328.624'
+        mark: '01:28:48.624'
       u: I gave the French nationality.
     - who: David Boder
-      start: '01:28:48.624'
-      end: '01:28:50.593'
+      start:
+        sec: '5328.624'
+        mark: '01:28:48.624'
+      end:
+        sec: '5330.593'
+        mark: '01:28:50.593'
       u: Did you tell them you were Jewish?
     - who: Henja Frydman
-      start: '01:28:50.593'
-      end: '01:28:51.953'
+      start:
+        sec: '5330.593'
+        mark: '01:28:50.593'
+      end:
+        sec: '5331.953'
+        mark: '01:28:51.953'
       u: Jewish?
     - who: David Boder
-      start: '01:28:51.953'
-      end: '01:28:53.203'
+      start:
+        sec: '5331.953'
+        mark: '01:28:51.953'
+      end:
+        sec: '5333.203'
+        mark: '01:28:53.203'
       u: Yes.
     - who: Henja Frydman
-      start: '01:28:53.203'
-      end: '01:30:14.043'
+      start:
+        sec: '5333.203'
+        mark: '01:28:53.203'
+      end:
+        sec: '5414.043'
+        mark: '01:30:14.043'
       u: They knew that we were Jews. From the bureau again with blows we were led
         into a block. In the block we met old prisoners, girls. When we come, they
         ask us what is going on in the country. They told us about the lager. They
@@ -1825,39 +2997,71 @@ recording:
         o’clock. The first thing is the Appell—the Appell or roll-call. We all go
         outside.
     - who: David Boder
-      start: '01:30:14.043'
-      end: '01:30:16.200'
+      start:
+        sec: '5414.043'
+        mark: '01:30:14.043'
+      end:
+        sec: '5416.200'
+        mark: '01:30:16.200'
       u: Did you get shoes?
     - who: Henja Frydman
-      start: '01:30:16.200'
-      end: '01:30:19.387'
+      start:
+        sec: '5416.200'
+        mark: '01:30:16.200'
+      end:
+        sec: '5419.387'
+        mark: '01:30:19.387'
       u: Shoes yes.
     - who: David Boder
-      start: '01:30:19.387'
-      end: '01:30:20.746'
+      start:
+        sec: '5419.387'
+        mark: '01:30:19.387'
+      end:
+        sec: '5420.746'
+        mark: '01:30:20.746'
       u: Stockings?
     - who: Henja Frydman
-      start: '01:30:20.746'
-      end: '01:30:37.110'
+      start:
+        sec: '5420.746'
+        mark: '01:30:20.746'
+      end:
+        sec: '5437.110'
+        mark: '01:30:37.110'
       u: |-
         Stockings? No. Large shoes in which one could not walk. In the block there was a block
                                 trusty, with servants, and all these were prisoners. The block
                                 trusty—
     - who: David Boder
-      start: '01:30:37.110'
-      end: '01:30:37.954'
+      start:
+        sec: '5437.110'
+        mark: '01:30:37.110'
+      end:
+        sec: '5437.954'
+        mark: '01:30:37.954'
       u: A Jewess?
     - who: Henja Frydman
-      start: '01:30:37.954'
-      end: '01:30:41.279'
+      start:
+        sec: '5437.954'
+        mark: '01:30:37.954'
+      end:
+        sec: '5441.279'
+        mark: '01:30:41.279'
       u: A Jewess. The large number of them were Slovakians
     - who: David Boder
-      start: '01:30:41.279'
-      end: '01:30:42.404'
+      start:
+        sec: '5441.279'
+        mark: '01:30:41.279'
+      end:
+        sec: '5442.404'
+        mark: '01:30:42.404'
       u: But Jewish ones?
     - who: Henja Frydman
-      start: '01:30:42.404'
-      end: '01:34:13.497'
+      start:
+        sec: '5442.404'
+        mark: '01:30:42.404'
+      end:
+        sec: '5653.497'
+        mark: '01:34:13.497'
       u: Jewish ones, who cannot be complimented very much, because often they were
         as bad as the Germans. It is a pity, but it is just so. But this is already
         another chapter. This ‘count Appell’ lasted exactly three hours. For three
@@ -1884,52 +3088,92 @@ recording:
         hundreds; one could not stand it or sleep at night, so badly were we itching
         from the lice, the bedbugs, the fleas.
     - who: David Boder
-      start: '01:34:13.497'
-      end: '01:34:23.446'
+      start:
+        sec: '5653.497'
+        mark: '01:34:13.497'
+      end:
+        sec: '5663.446'
+        mark: '01:34:23.446'
       u: It is said that the Germans wanted to keep things clean, that they had insecticide
         powder and so on.
     - who: Henja Frydman
-      start: '01:34:23.446'
-      end: '01:34:34.233'
+      start:
+        sec: '5663.446'
+        mark: '01:34:23.446'
+      end:
+        sec: '5674.233'
+        mark: '01:34:34.233'
       u: Yes, that is what they say. We even had in our block delousing sessions.
         ‘One louse, and you are dead.’
     - who: David Boder
-      start: '01:34:34.233'
-      end: '01:34:35.233'
+      start:
+        sec: '5674.233'
+        mark: '01:34:34.233'
+      end:
+        sec: '5675.233'
+        mark: '01:34:35.233'
       u: What does that mean?
     - who: Henja Frydman
-      start: '01:34:35.233'
-      end: '01:34:53.961'
+      start:
+        sec: '5675.233'
+        mark: '01:34:35.233'
+      end:
+        sec: '5693.961'
+        mark: '01:34:53.961'
       u: One louse, and you will be dead. That is, you had to watch very carefully
         to be clean. They also would say, ‘the one who keeps himself clean’ is a human
         being. And so on.
     - who: David Boder
-      start: '01:34:53.961'
-      end: '01:34:56.918'
+      start:
+        sec: '5693.961'
+        mark: '01:34:53.961'
+      end:
+        sec: '5696.918'
+        mark: '01:34:56.918'
       u: 'A saying. [Footnote: Here the interviewer and interviewee apparently misunderstood
         each other. She used the word “lausung” designating a delousing session; but
         she pronounced it like “losung” meaning a slogan or password.]'
     - who: Henja Frydman
-      start: '01:34:56.918'
-      end: '01:35:05.086'
+      start:
+        sec: '5696.918'
+        mark: '01:34:56.918'
+      end:
+        sec: '5705.086'
+        mark: '01:35:05.086'
       u: Yes, yes. Written in the blocks. I don’t know.
     - who: David Boder
-      start: '01:35:05.086'
-      end: '01:35:18.384'
+      start:
+        sec: '5705.086'
+        mark: '01:35:05.086'
+      end:
+        sec: '5718.384'
+        mark: '01:35:18.384'
       u: This concludes Spool 31, Henja Frydman. Illinois Institute of Technology
         Wire Recording.
     - who: David Boder
-      start: '01:35:18.384'
-      end: '01:35:39.311'
+      start:
+        sec: '5718.384'
+        mark: '01:35:18.384'
+      end:
+        sec: '5739.311'
+        mark: '01:35:39.311'
       u: Spool 32, August 7, 1946, at 9 Rue de Gui Patin, Paris. Miss Henja Frydman,
         continuation of Spools 29, 30 and 31.
     - who: David Boder
-      start: '01:35:39.311'
-      end: '01:35:41.546'
+      start:
+        sec: '5739.311'
+        mark: '01:35:39.311'
+      end:
+        sec: '5741.546'
+        mark: '01:35:41.546'
       u: And so?
     - who: Henja Frydman
-      start: '01:35:41.546'
-      end: '01:38:01.820'
+      start:
+        sec: '5741.546'
+        mark: '01:35:41.546'
+      end:
+        sec: '5881.820'
+        mark: '01:38:01.820'
       u: The work in the lager of Auschwitz. In the year 1943 it wasn’t called anymore
         an extermination camp, but a work camp, and the slogan of the Germans was
         “work makes free.” Our slogan was “Work makes free in the crematories two
@@ -1947,12 +3191,20 @@ recording:
         women who had arrived yesterday, beautiful and young, and they laughed at
         the derelicts into which they had been converted in one day.
     - who: David Boder
-      start: '01:38:01.820'
-      end: '01:38:04.808'
+      start:
+        sec: '5881.820'
+        mark: '01:38:01.820'
+      end:
+        sec: '5884.808'
+        mark: '01:38:04.808'
       u: Oh, you are speaking of your first day at work.
     - who: Henja Frydman
-      start: '01:38:04.808'
-      end: '01:41:51.663'
+      start:
+        sec: '5884.808'
+        mark: '01:38:04.808'
+      end:
+        sec: '6111.663'
+        mark: '01:41:51.663'
       u: At work, yes. If a guard had a chance to hit somebody, he did so. If he had
         a chance to set the dog on us, he did so as well. One company leader, that
         is, a German soldier, got out of formation and marched among us, leading us
@@ -1983,163 +3235,307 @@ recording:
         the what the prisoners could expect in the camp. They had no rights whatsoever,
         and the scope of SS power over them was unlimited.26
     - who: David Boder
-      start: '01:41:51.663'
-      end: '01:41:56.385'
+      start:
+        sec: '6111.663'
+        mark: '01:41:51.663'
+      end:
+        sec: '6116.385'
+        mark: '01:41:56.385'
       u: Wasn’t there any flax in the water with the straw?
     - who: Henja Frydman
-      start: '01:41:56.385'
-      end: '01:41:57.850'
+      start:
+        sec: '6116.385'
+        mark: '01:41:56.385'
+      end:
+        sec: '6117.850'
+        mark: '01:41:57.850'
       u: What is flax?
     - who: David Boder
-      start: '01:41:57.850'
-      end: '01:42:03.141'
+      start:
+        sec: '6117.850'
+        mark: '01:41:57.850'
+      end:
+        sec: '6123.141'
+        mark: '01:42:03.141'
       u: Those threads that are being grown.
     - who: Henja Frydman
-      start: '01:42:03.141'
-      end: '01:42:10.090'
+      start:
+        sec: '6123.141'
+        mark: '01:42:03.141'
+      end:
+        sec: '6130.090'
+        mark: '01:42:10.090'
       u: Yes, yes, that is what we had to pull out. [It is not clear whether interviewer
         and interviewee really understood each other] . And that we had to pull out.
     - who: David Boder
-      start: '01:42:10.090'
-      end: '01:42:13.293'
+      start:
+        sec: '6130.090'
+        mark: '01:42:10.090'
+      end:
+        sec: '6133.293'
+        mark: '01:42:13.293'
       u: You mean the weeds from the pond.
     - who: Henja Frydman
-      start: '01:42:13.293'
-      end: '01:42:14.699'
+      start:
+        sec: '6133.293'
+        mark: '01:42:13.293'
+      end:
+        sec: '6134.699'
+        mark: '01:42:14.699'
       u: Yes.
     - who: David Boder
-      start: '01:42:14.699'
-      end: '01:42:16.059'
+      start:
+        sec: '6134.699'
+        mark: '01:42:14.699'
+      end:
+        sec: '6136.059'
+        mark: '01:42:16.059'
       u: Go on.
     - who: Henja Frydman
-      start: '01:42:16.059'
-      end: '01:42:22.538'
+      start:
+        sec: '6136.059'
+        mark: '01:42:16.059'
+      end:
+        sec: '6142.538'
+        mark: '01:42:22.538'
       u: And if anybody would raise her head from the water, a German pushed her back
         again into the water with his foot.
     - who: David Boder
-      start: '01:42:22.538'
-      end: '01:42:25.271'
+      start:
+        sec: '6142.538'
+        mark: '01:42:22.538'
+      end:
+        sec: '6145.271'
+        mark: '01:42:25.271'
       u: How could anybody keep his head under water?
     - who: Henja Frydman
-      start: '01:42:25.271'
-      end: '01:42:35.281'
+      start:
+        sec: '6145.271'
+        mark: '01:42:25.271'
+      end:
+        sec: '6155.281'
+        mark: '01:42:35.281'
       u: We did. You are asking how we could do it. We had our heads in the water.
         Whether on could not, that’s how it was.
     - who: David Boder
-      start: '01:42:35.281'
-      end: '01:42:36.625'
+      start:
+        sec: '6155.281'
+        mark: '01:42:35.281'
+      end:
+        sec: '6156.625'
+        mark: '01:42:36.625'
       u: With your mouth under water?
     - who: Henja Frydman
-      start: '01:42:36.625'
-      end: '01:43:05.246'
+      start:
+        sec: '6156.625'
+        mark: '01:42:36.625'
+      end:
+        sec: '6185.246'
+        mark: '01:43:05.246'
       u: Yes, yes, yes. With the mouth and everything. Yes, the water was high. Clear
         over the head, especially made, made to order, as we say. When we had picked
         a large quantity of weeds from the water, we had to carry it out to one side,
         and then, quick, quick, quick, run back into the water and pull again.
     - who: David Boder
-      start: '01:43:05.246'
-      end: '01:43:08.111'
+      start:
+        sec: '6185.246'
+        mark: '01:43:05.246'
+      end:
+        sec: '6188.111'
+        mark: '01:43:08.111'
       u: Well, then you could get your head out from the water, now and then?
     - who: Henja Frydman
-      start: '01:43:08.111'
-      end: '01:43:18.315'
+      start:
+        sec: '6188.111'
+        mark: '01:43:08.111'
+      end:
+        sec: '6198.315'
+        mark: '01:43:18.315'
       u: Yes, when we were getting out, and that was a happy moment, because we could
         breathe some air, getting out of the water. How cold we were, I don’t have
         to tell you.
     - who: David Boder
-      start: '01:43:18.315'
-      end: '01:43:19.909'
+      start:
+        sec: '6198.315'
+        mark: '01:43:18.315'
+      end:
+        sec: '6199.909'
+        mark: '01:43:19.909'
       u: What month was it, did you say?
     - who: Henja Frydman
-      start: '01:43:19.909'
-      end: '01:43:20.722'
+      start:
+        sec: '6199.909'
+        mark: '01:43:19.909'
+      end:
+        sec: '6200.722'
+        mark: '01:43:20.722'
       u: In June,
     - who: David Boder
-      start: '01:43:20.722'
-      end: '01:43:26.320'
+      start:
+        sec: '6200.722'
+        mark: '01:43:20.722'
+      end:
+        sec: '6206.320'
+        mark: '01:43:26.320'
       u: In June—well—
     - who: Henja Frydman
-      start: '01:43:26.320'
-      end: '01:43:40.884'
+      start:
+        sec: '6206.320'
+        mark: '01:43:26.320'
+      end:
+        sec: '6220.884'
+        mark: '01:43:40.884'
       u: So the day passed until one o’clock, that is, from six o’clock to one o’clock.
         In the water, with beatings, and they gave us some food.
     - who: David Boder
-      start: '01:43:40.884'
-      end: '01:43:58.010'
+      start:
+        sec: '6220.884'
+        mark: '01:43:40.884'
+      end:
+        sec: '6238.010'
+        mark: '01:43:58.010'
       u: But I should like to clear that up a bit. You were told to get into the water.
         And then you were to pull out the weeds.
     - who: Henja Frydman
-      start: '01:43:58.010'
-      end: '01:43:58.588'
+      start:
+        sec: '6238.010'
+        mark: '01:43:58.010'
+      end:
+        sec: '6238.588'
+        mark: '01:43:58.588'
       u: Yes.
     - who: David Boder
-      start: '01:43:58.588'
-      end: '01:44:05.349'
+      start:
+        sec: '6238.588'
+        mark: '01:43:58.588'
+      end:
+        sec: '6245.349'
+        mark: '01:44:05.349'
       u: So you had to go in with water over your head. For how many seconds at a
         time.
     - who: Henja Frydman
-      start: '01:44:05.349'
-      end: '01:44:20.742'
+      start:
+        sec: '6245.349'
+        mark: '01:44:05.349'
+      end:
+        sec: '6260.742'
+        mark: '01:44:20.742'
       u: How many seconds? As long as one could keep his head under water. Then one
         had to pull it out, and one would take out her head, and leave it out until
         the German would notice the head, and as soon as he would see the head, he
         would beat her, and a second head would come out—
     - who: David Boder
-      start: '01:44:20.742'
-      end: '01:44:25.023'
+      start:
+        sec: '6260.742'
+        mark: '01:44:20.742'
+      end:
+        sec: '6265.023'
+        mark: '01:44:25.023'
       u: Oh, one would stick her head out.
     - who: Henja Frydman
-      start: '01:44:25.023'
-      end: '01:44:29.186'
+      start:
+        sec: '6265.023'
+        mark: '01:44:25.023'
+      end:
+        sec: '6269.186'
+        mark: '01:44:29.186'
       u: Yes, and everyone would take a chance to raise her head, because it was impossible
         to stay that way.
     - who: David Boder
-      start: '01:44:29.186'
-      end: '01:44:30.765'
+      start:
+        sec: '6269.186'
+        mark: '01:44:29.186'
+      end:
+        sec: '6270.765'
+        mark: '01:44:30.765'
       u: Yes, go on.
     - who: Henja Frydman
-      start: '01:44:30.765'
-      end: '01:44:37.650'
+      start:
+        sec: '6270.765'
+        mark: '01:44:30.765'
+      end:
+        sec: '6277.650'
+        mark: '01:44:37.650'
       u: Our lunch. Standing up, in half an hour, they passed it around.
     - who: David Boder
-      start: '01:44:37.650'
-      end: '01:44:40.181'
+      start:
+        sec: '6277.650'
+        mark: '01:44:37.650'
+      end:
+        sec: '6280.181'
+        mark: '01:44:40.181'
       u: So when did you get out of the water?
     - who: Henja Frydman
-      start: '01:44:40.181'
-      end: '01:44:44.712'
+      start:
+        sec: '6280.181'
+        mark: '01:44:40.181'
+      end:
+        sec: '6284.712'
+        mark: '01:44:44.712'
       u: At one o’clock. In and out, carrying out the weeds.
     - who: David Boder
-      start: '01:44:44.712'
-      end: '01:44:45.931'
+      start:
+        sec: '6284.712'
+        mark: '01:44:44.712'
+      end:
+        sec: '6285.931'
+        mark: '01:44:45.931'
       u: In your clothes.
     - who: Henja Frydman
-      start: '01:44:45.931'
-      end: '01:44:47.165'
+      start:
+        sec: '6285.931'
+        mark: '01:44:45.931'
+      end:
+        sec: '6287.165'
+        mark: '01:44:47.165'
       u: In our clothes, yes.
     - who: David Boder
-      start: '01:44:47.165'
-      end: '01:44:47.696'
+      start:
+        sec: '6287.165'
+        mark: '01:44:47.165'
+      end:
+        sec: '6287.696'
+        mark: '01:44:47.696'
       u: Without shoes?
     - who: Henja Frydman
-      start: '01:44:47.696'
-      end: '01:44:49.609'
+      start:
+        sec: '6287.696'
+        mark: '01:44:47.696'
+      end:
+        sec: '6289.609'
+        mark: '01:44:49.609'
       u: Without shoes, with our clothes, without shoes.
     - who: David Boder
-      start: '01:44:49.609'
-      end: '01:44:50.218'
+      start:
+        sec: '6289.609'
+        mark: '01:44:49.609'
+      end:
+        sec: '6290.218'
+        mark: '01:44:50.218'
       u: Yes.
     - who: Henja Frydman
-      start: '01:44:50.218'
-      end: '01:44:52.093'
+      start:
+        sec: '6290.218'
+        mark: '01:44:50.218'
+      end:
+        sec: '6292.093'
+        mark: '01:44:52.093'
       u: The lunch consisted—
     - who: David Boder
-      start: '01:44:52.093'
-      end: '01:44:52.936'
+      start:
+        sec: '6292.093'
+        mark: '01:44:52.093'
+      end:
+        sec: '6292.936'
+        mark: '01:44:52.936'
       u: Only girls?
     - who: Henja Frydman
-      start: '01:44:52.936'
-      end: '01:46:23.186'
+      start:
+        sec: '6292.936'
+        mark: '01:44:52.936'
+      end:
+        sec: '6383.186'
+        mark: '01:46:23.186'
       u: Only girls, women and girls. That was the platoon, and the platoon was called
         Platoon 203. This was one of the very bad platoons, because the division commander
         who led us was a real sadist. For him life consisted in being able to torture
@@ -2153,82 +3549,150 @@ recording:
         Auschwitz, and you shall work.’ And he told us, ‘You don’t know what we call
         work. You will learn’.
     - who: David Boder
-      start: '01:46:23.186'
-      end: '01:46:23.920'
+      start:
+        sec: '6383.186'
+        mark: '01:46:23.186'
+      end:
+        sec: '6383.920'
+        mark: '01:46:23.920'
       u: Yes.
     - who: Henja Frydman
-      start: '01:46:23.920'
-      end: '01:46:25.342'
+      start:
+        sec: '6383.920'
+        mark: '01:46:23.920'
+      end:
+        sec: '6385.342'
+        mark: '01:46:25.342'
       u: The soup—
     - who: David Boder
-      start: '01:46:25.342'
-      end: '01:46:30.111'
+      start:
+        sec: '6385.342'
+        mark: '01:46:25.342'
+      end:
+        sec: '6390.111'
+        mark: '01:46:30.111'
       u: So what happened at one o’clock, you got out of the water?
     - who: Henja Frydman
-      start: '01:46:30.111'
-      end: '01:46:34.604'
+      start:
+        sec: '6390.111'
+        mark: '01:46:30.111'
+      end:
+        sec: '6394.604'
+        mark: '01:46:34.604'
       u: Yes, to eat. We had half an hour to eat.
     - who: Henja Frydman
-      start: '01:46:34.604'
-      end: '01:47:02.810'
+      start:
+        sec: '6394.604'
+        mark: '01:46:34.604'
+      end:
+        sec: '6422.810'
+        mark: '01:47:02.810'
       u: No, no. It was brought. There was a detail which brought the food to the
         place of work. The soup contained various wild weeds, but that didn’t matter;
         we were hungry. We got it in a bowl for six. We ate six from a bowl. I do
         not speak of spoons, because there were no spoons.
     - who: David Boder
-      start: '01:47:02.810'
-      end: '01:47:04.600'
+      start:
+        sec: '6422.810'
+        mark: '01:47:02.810'
+      end:
+        sec: '6424.600'
+        mark: '01:47:04.600'
       u: So how do they eat, six from a bowl?
     - who: Henja Frydman
-      start: '01:47:04.600'
-      end: '01:47:13.453'
+      start:
+        sec: '6424.600'
+        mark: '01:47:04.600'
+      end:
+        sec: '6433.453'
+        mark: '01:47:13.453'
       u: We were six, and we picked it up, one at a time, and each one would take
         a sip, and so in turn.Prisoner solidarity, such as that described here and
         elsewhere by Henja, was a crucial element in promoting survival. Despite the
         horrendous conditions they had to endure, many prisoners helped each other.27
     - who: David Boder
-      start: '01:47:13.453'
-      end: '01:47:15.297'
+      start:
+        sec: '6433.453'
+        mark: '01:47:13.453'
+      end:
+        sec: '6435.297'
+        mark: '01:47:15.297'
       u: The bowl was passed around?
     - who: Henja Frydman
-      start: '01:47:15.297'
-      end: '01:47:20.434'
+      start:
+        sec: '6435.297'
+        mark: '01:47:15.297'
+      end:
+        sec: '6440.434'
+        mark: '01:47:20.434'
       u: The bowl was passed. The bowl was dirty and it was hard, but we ate.
     - who: David Boder
-      start: '01:47:20.434'
-      end: '01:47:22.031'
+      start:
+        sec: '6440.434'
+        mark: '01:47:20.434'
+      end:
+        sec: '6442.031'
+        mark: '01:47:22.031'
       u: What was the bowl like? Was it hot?
     - who: Henja Frydman
-      start: '01:47:22.031'
-      end: '01:47:25.562'
+      start:
+        sec: '6442.031'
+        mark: '01:47:22.031'
+      end:
+        sec: '6445.562'
+        mark: '01:47:25.562'
       u: The bowl was of iron. They were iron bowls.
     - who: David Boder
-      start: '01:47:25.562'
-      end: '01:47:26.327'
+      start:
+        sec: '6445.562'
+        mark: '01:47:25.562'
+      end:
+        sec: '6446.327'
+        mark: '01:47:26.327'
       u: Iron bowls.
     - who: Henja Frydman
-      start: '01:47:26.327'
-      end: '01:47:58.878'
+      start:
+        sec: '6446.327'
+        mark: '01:47:26.327'
+      end:
+        sec: '6478.878'
+        mark: '01:47:58.878'
       u: Metal bowls. We had to eat very fast. That was not important. Of course,
         we did not have our fill, bit we had a chance to stand a bit without bending
         all the time. That day we ate standing up. The next day we ate on our knees.
         The third day standing on one leg.
     - who: David Boder
-      start: '01:47:58.878'
-      end: '01:48:00.081'
+      start:
+        sec: '6478.878'
+        mark: '01:47:58.878'
+      end:
+        sec: '6480.081'
+        mark: '01:48:00.081'
       u: What’s that?
     - who: Henja Frydman
-      start: '01:48:00.081'
-      end: '01:48:05.726'
+      start:
+        sec: '6480.081'
+        mark: '01:48:00.081'
+      end:
+        sec: '6485.726'
+        mark: '01:48:05.726'
       u: Well, just in whatever way it would please the platoon commander. To torture
         us.
     - who: David Boder
-      start: '01:48:05.726'
-      end: '01:48:08.161'
+      start:
+        sec: '6485.726'
+        mark: '01:48:05.726'
+      end:
+        sec: '6488.161'
+        mark: '01:48:08.161'
       u: So he made you eat standing—
     - who: Henja Frydman
-      start: '01:48:08.161'
-      end: '01:48:47.253'
+      start:
+        sec: '6488.161'
+        mark: '01:48:08.161'
+      end:
+        sec: '6527.253'
+        mark: '01:48:47.253'
       u: Always in a different manner. [Here we hear on the wire violent sneezing.
         If often happens that when an interviewee speaks of a certain condition that
         apparently evoked sneezing or coughing, he begins to sneeze or cough. We have
@@ -2239,31 +3703,55 @@ recording:
         had to tear it up. They gave us a special too [she uses the French word for
         “crowbar”]—that is, a kind of thick stick.
     - who: David Boder
-      start: '01:48:47.253'
-      end: '01:48:48.112'
+      start:
+        sec: '6527.253'
+        mark: '01:48:47.253'
+      end:
+        sec: '6528.112'
+        mark: '01:48:48.112'
       u: An iron one.
     - who: Henja Frydman
-      start: '01:48:48.112'
-      end: '01:48:58.131'
+      start:
+        sec: '6528.112'
+        mark: '01:48:48.112'
+      end:
+        sec: '6538.131'
+        mark: '01:48:58.131'
       u: No, of wood, which one holds, together with several others. A group of six
         girls were holding it. And we strike the stones.
     - who: David Boder
-      start: '01:48:58.131'
-      end: '01:48:58.897'
+      start:
+        sec: '6538.131'
+        mark: '01:48:58.131'
+      end:
+        sec: '6538.897'
+        mark: '01:48:58.897'
       u: The bricks?
     - who: Henja Frydman
-      start: '01:48:58.897'
-      end: '01:49:18.595'
+      start:
+        sec: '6538.897'
+        mark: '01:48:58.897'
+      end:
+        sec: '6558.595'
+        mark: '01:49:18.595'
       u: The German counts one, two, three, and we have to strike a blow, and every
         time something must fall down. One has to be pretty strong for that. On that
         place—
     - who: David Boder
-      start: '01:49:18.595'
-      end: '01:49:21.860'
+      start:
+        sec: '6558.595'
+        mark: '01:49:18.595'
+      end:
+        sec: '6561.860'
+        mark: '01:49:21.860'
       u: What kind of building was it?
     - who: Henja Frydman
-      start: '01:49:21.860'
-      end: '01:50:50.643'
+      start:
+        sec: '6561.860'
+        mark: '01:49:21.860'
+      end:
+        sec: '6650.643'
+        mark: '01:50:50.643'
       u: A destroyed building, in which I believe some time ago people lived. They
         were destroying all the houses around the place. Out of the stone of the houses
         they built the lager. We had to stand and work in the place where the stones
@@ -2277,24 +3765,40 @@ recording:
         own shoes, one would put on whatever could be found. And back we went to the
         lager.
     - who: David Boder
-      start: '01:50:50.643'
-      end: '01:50:52.190'
+      start:
+        sec: '6650.643'
+        mark: '01:50:50.643'
+      end:
+        sec: '6652.190'
+        mark: '01:50:52.190'
       u: How many kilometers was is?
     - who: Henja Frydman
-      start: '01:50:52.190'
-      end: '01:51:23.360'
+      start:
+        sec: '6652.190'
+        mark: '01:50:52.190'
+      end:
+        sec: '6683.360'
+        mark: '01:51:23.360'
       u: Eight kilometers. That day it was eight kilometers. That means coming and
         going sixteen kilometers. And for all day a little piece of bread and a bit
         of soup. And under bad weather conditions, because in June the Polish climate
         is very hot. It is cold in the morning, but in the daytime it is hot. There
         was no water to drink. It was indeed a good beginning.
     - who: David Boder
-      start: '01:51:23.360'
-      end: '01:51:25.391'
+      start:
+        sec: '6683.360'
+        mark: '01:51:23.360'
+      end:
+        sec: '6685.391'
+        mark: '01:51:25.391'
       u: And all this happened the first day?
     - who: Henja Frydman
-      start: '01:51:25.391'
-      end: '01:52:38.345'
+      start:
+        sec: '6685.391'
+        mark: '01:51:25.391'
+      end:
+        sec: '6758.345'
+        mark: '01:52:38.345'
       u: All this happened the first day. We came back to the lager again. The “count
         Appell”. Many girls fainted during that time while we were waiting for them
         to come and count us. After that they gave us our supper, for we were given
@@ -2312,12 +3816,20 @@ recording:
         illness, exhaustion, and deprivation, managed to survive through solidarity
         with others, living one moment at a time, and luck.28
     - who: David Boder
-      start: '01:52:38.345'
-      end: '01:52:40.407'
+      start:
+        sec: '6758.345'
+        mark: '01:52:38.345'
+      end:
+        sec: '6760.407'
+        mark: '01:52:40.407'
       u: Were the children with them?
     - who: Henja Frydman
-      start: '01:52:40.407'
-      end: '01:53:48.277'
+      start:
+        sec: '6760.407'
+        mark: '01:52:40.407'
+      end:
+        sec: '6828.277'
+        mark: '01:53:48.277'
       u: 'No, the children either remained in France, if they managed to hide them,
         or the children were brought to the lager and there perished in the gas,[Footnote:
         The custom to use the word gas to designate the gas chambers, or gas-killings
@@ -2337,20 +3849,36 @@ recording:
         that came from Dachau, which was composed by the first prisoners of Dachau,
         and this song was very well suited to the lager.'
     - who: David Boder
-      start: '01:53:48.277'
-      end: '01:53:52.464'
+      start:
+        sec: '6828.277'
+        mark: '01:53:48.277'
+      end:
+        sec: '6832.464'
+        mark: '01:53:52.464'
       u: How did that song come over to Drancy?
     - who: Henja Frydman
-      start: '01:53:52.464'
-      end: '01:53:55.480'
+      start:
+        sec: '6832.464'
+        mark: '01:53:52.464'
+      end:
+        sec: '6835.480'
+        mark: '01:53:55.480'
       u: To Drancy? Through political prisoners.
     - who: David Boder
-      start: '01:53:55.480'
-      end: '01:53:56.810'
+      start:
+        sec: '6835.480'
+        mark: '01:53:55.480'
+      end:
+        sec: '6836.810'
+        mark: '01:53:56.810'
       u: What language was it in?
     - who: Henja Frydman
-      start: '01:53:56.810'
-      end: '01:55:58.358'
+      start:
+        sec: '6836.810'
+        mark: '01:53:56.810'
+      end:
+        sec: '6958.358'
+        mark: '01:55:58.358'
       u: 'French. That was translated from the German. Then the song says: ‘Far away
         in some place there are large spaces of bad soil, where the bullets do not
         sing in the dried up trees. You only hear the steps of the Germans and the
@@ -2358,13 +3886,21 @@ recording:
         lager.’ That song indeed described the lager. The tune itself was a good description.
         It is a very sad tune. We sang that song, and so passed the day.'
     - who: David Boder
-      start: '01:55:58.358'
-      end: '01:56:01.358'
+      start:
+        sec: '6958.358'
+        mark: '01:55:58.358'
+      end:
+        sec: '6961.358'
+        mark: '01:56:01.358'
       u: What melody was it? [Here she sings the famous song which is on the other
         spools, and will be inserted here later.]
     - who: Henja Frydman
-      start: '01:56:01.358'
-      end: '02:00:23.562'
+      start:
+        sec: '6961.358'
+        mark: '01:56:01.358'
+      end:
+        sec: '7223.562'
+        mark: '02:00:23.562'
       u: These two verses told a lot. ‘Death to the one who tries to escape.’ And
         so it was. Not only death to the one who tries to escape, run away, but death
         to all those who are there. Now I shall start the chapter, the general chapter
@@ -2393,12 +3929,20 @@ recording:
         were some who sought in various ways to alleviate the plight of the prisoners
         and engage in different forms of clandestine resistance.29
     - who: David Boder
-      start: '02:00:23.562'
-      end: '02:00:26.234'
+      start:
+        sec: '7223.562'
+        mark: '02:00:23.562'
+      end:
+        sec: '7226.234'
+        mark: '02:00:26.234'
       u: Of course, they burned only the bodies.
     - who: Henja Frydman
-      start: '02:00:26.234'
-      end: '02:03:59.755'
+      start:
+        sec: '7226.234'
+        mark: '02:00:26.234'
+      end:
+        sec: '7439.755'
+        mark: '02:03:59.755'
       u: They burned the bodies, yes. They burned the bodies because, before the people
         went through the gas chambers, they told the people that they were going bathing,
         that they were going to take a shower. And these gas chambers, according to
@@ -2437,12 +3981,20 @@ recording:
         Henja’s position as a “nurse” in the camp “hospital” is not stated. This indoor
         job was another factor in Henja’s survival31
     - who: David Boder
-      start: '02:03:59.755'
-      end: '02:04:00.723'
+      start:
+        sec: '7439.755'
+        mark: '02:03:59.755'
+      end:
+        sec: '7440.723'
+        mark: '02:04:00.723'
       u: A what?
     - who: Henja Frydman
-      start: '02:04:00.723'
-      end: '02:05:56.165'
+      start:
+        sec: '7440.723'
+        mark: '02:04:00.723'
+      end:
+        sec: '7556.165'
+        mark: '02:05:56.165'
       u: A messenger. That is, she had a good job in the lager, which consisted of
         making lists of the people in the hospital who should go to work in the lager.
         She was in contact with the woman lager manager, the German, and she did a
@@ -2459,61 +4011,109 @@ recording:
         Molly was standing before our eyes, pale. And the woman lager leader made
         a speech. She said...
     - who: David Boder
-      start: '02:05:56.165'
-      end: '00:00:00.000'
+      start:
+        sec: '7556.165'
+        mark: '02:05:56.165'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: This concludes Spool 32. We are in the moment of the execution of the girl
         who saved the speaker’s life twice.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Spool 33. This is a continuation of Spool 32. The interviewee is Miss Henja
         Frydman. She was in the midst of telling a story about her friend who saved
         her life several times and was now to be executed.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And so, Miss Frydman, tell us again about the girl who helped you, while
         you were sick with typhus. What was her name?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Her name was Molly Zinnenbaum. As I was telling you, we assembled on the
         square of the lager.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: She had escaped?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: She had escaped and for fifteen days she was hiding in Poland. Then she was
         returned.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: How did they find her?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: A Polish prisoner had arranged for her identification papers. The Germans
         had various methods. The Polish girl was beaten, and she reported that Molly
         was located in such-and-such a place.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes.
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: So it was. Molly had indeed hid there, and she was found. And she was returned
         to Auschwitz and held in a bunker, where she was kept for six weeks.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: What is a bunker?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: A bunker in Auschwitz is a small room where one hardly can sit down; one
         cannot stand up, one cannot move, and one cannot see anybody. She was many
         times taken out of that bunker and interrogated. I cannot tell you exactly
@@ -2533,21 +4133,37 @@ recording:
         herself with a razor blade and the moment when the Germans wanted to hang
         her she cut her arteries on the hands.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Oh.
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: So that she not be shot [shot seems to be used as a synonym for killed.]
         by German hands.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Shot or hanged?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Hanged, by German hands. The work service leader approached her. He wanted
         to stop the bleeding, but Molly slapped his face. A commotion spread over
         the lager. For the first time we saw a Jewish prisoner raise his hand against
@@ -2556,12 +4172,20 @@ recording:
         push cart in which we carted sand, and they threw Molly in it. She was tied
         up and carted to the hospital. It was impossible to stop it.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: The bleeding?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes, and since the Germans wanted to shoot her [again meaning apparently
         to kill her] before she died by her own hand, she was taken in this state
         to the crematory, and there she was shot by the chief of the crematory, Moll.The
@@ -2571,53 +4195,101 @@ recording:
         He became head of the gas chambers and crematoria in Birkenau. After the war,
         in November 1945, Moll was tried and executed.32
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Do you know what happened to Moll? Was he arrested?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[After a long pause] According to what I have heard, Moll was arrested.
         Whether it is so, I do not know."
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And that all happened in Auschwitz?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: All that happened in Birkenau and Auschwitz.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And how long did that all last?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[Speaking at the same time] And that is the end of Molly’s story."
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: How long were you in Birkenau?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I spent two years in Birkenau. Right up to liberation.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: So. And who liberated you?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: The Russians.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Tell me, how did this liberation occur?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I remained in the hospital with the sick. By that time I was a nurse. The
         Germans laughed and still told us that they would come back to take us, to
         evacuate us, because the Russians were approaching. Three days passed and
@@ -2630,12 +4302,20 @@ recording:
         of sixty, was ten, and that was considered a very high percentage. We remained
         because we constantly kept together and kept up contact with each other.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And then, how did the Russians come?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[Simultaneously] I was belonging to a group that held us up. When the Russians
         came, they immediately cut the wire and received us with great respect. The
         soldiers who liberated our lager proved to us that there are still human beings
@@ -2645,32 +4325,56 @@ recording:
         and by and by, those who could return home, that meant those from Poland,
         the Polish, because there were not only Jews, but also Polish women—"
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: What do you mean, ‘there were not only Jews’?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: There was a lager for non-Jewish prisoners. Aryans, and a large number of
         Poles among them.Poles were the first prisoners incarcerated in Auschwitz.
         Some 75,000 perished there.33
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes.
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: We remained in the lager, since we were nurses, to help the Russians with
         the sick. I remained with them for three months. I worked as a nurse, I worked
         and—
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Did they pay you?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: They-no, they gave us to understand that during the time until we could be
         sent home we ought to remain with the sick. We understood each other well,
         and we remained. After three months we were liberat—we were sent to Kattowitz
@@ -2680,148 +4384,284 @@ recording:
         to the Russian Black Sea port of Odessa from where Henja embarked on her voyage
         to France.34
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Odessa?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Odessa, yes.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes.
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And from Odessa to France.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: By boat?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: By boat. By an English boat.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: How many were you? French women and men?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: There were many of us. There were people in Kattowitz from various lagers.
         That was a point of concentration.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: How did it look in Odessa?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I personally haven’t seen any of Odessa. I went directly into the hospital.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Why? Were you sick?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Because I was sick. I had mastoid trouble.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Oh, were you operated on in Odessa?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I was not operated on in Odessa, because all the medical people, all the
         surgeons, were mobilized to the front. And so I was operated on upon my return
         to France.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: You were operated on in France? Where was the operation?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: On the left side.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Your left ear?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Are you completely well?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes, completely well.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Can you hear with your left ear?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes, very well. I got well immediately, because I had a very good doctor.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And so you returned to France?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: To France.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Well, what did you find there?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: In France I did not find anybody. My parents were deported four months after
         my deportation.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Did you know it?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: That I already knew in the lager, because by some chance I met a girl friend,
         an acquaintance, who was in the same transport with my parents. She told me
         that my father, my mother, and my brother had arrived with that transport
         and got into the trucks.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: They came to the same lager?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Also to Auschwitz. To the same lager.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: But—
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I even found in the lager a photograph of mine that was brought there by
         my parents.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: So. How did you find that?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: This was found in the division which received the people upon their arrival,
         their things; and among the things it happened that one of them recognized
         me and showed me that picture.Henja is speaking about a section of the camp
@@ -2831,101 +4671,189 @@ recording:
         personally profiting from them. This was but a part of the corruption that
         pervaded Auschwitz.35
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: A prisoner?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: A prisoner. I understood immediately that these were my parents who had come,
         because nobody in France had my picture, since I belonged to the Resistance.
         Only my parents would have had my picture. And that is how I learned that
         they had arrived and went directly into the gas.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: How old was your brother?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: My brother was twenty-two years old.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And he was taken with the parents?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: With the parents?
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Why?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: As I figure it, he did not want to separate himself from the parents.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: So.
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And he remained together with them. My parents hoped, I believe, all through
         their journey, to see their daughter. But it did not happen that way.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: What are you doing now in France?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I arrived, and I immediately started to work.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: In what line?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I was one of the first Jewish deportees from France who returned, and upon
         my arrival there was already formed a union of Jewish deportees.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: French, or all?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: All of them, without exception, and I have been working with this union since
         I have returned.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Is this a job? Do you earn something?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes. I am getting 6,000 francs a month as a secretary. [At the black market
         rate this was about $30.00 a month.] As a secretary I work ordinarily just
         like any other secretary, but my work, or course, isn’t like in any ordinary
         office.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes.
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: But I work here because it gives me something to do.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Can you live on 6,000 francs?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: No, one cannot live on 6,000 francs, but still one lives on what he has.
         Many people in France do not earn more than I do, and they live. One adapts
         himself to any conditions. It is not hard for me, because anything is good
@@ -2942,50 +4870,90 @@ recording:
         and losses. Like so many others, Henja experienced survivor guilt, questioning
         why she survived while so many others perished.36
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: What are you planning to do? Tell me, what are you planning to do in general?
         Are you going to stay with the union, or do you intend to learn something?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I regret very much that I could no continue with my studies because—
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: What were you studying?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: 'Literature. I was an especially great student. I took my examination of
         “maturity”[Footnote: “Maturity examination” or Matura is equivalent to an
         examination for admission to the university, or to about the sophomore level
         of American colleges.], because I always like literature; I was interested
         in it. I regret now that I don’t have the time.'
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And you want to remain in France?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes. I shall remain in France, because where else could I go? And I have
         nothing.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Have you relatives in America? Or in Palestine?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I do have—in Palestine I have two sisters.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: You have two sisters!
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Two sisters, who are married and have children. Also a brother, who served
         in the English army for five years; for four years he was a prisoner of the
         Germans. They are in Palestine and want me to come over there. I should like
@@ -2997,49 +4965,89 @@ recording:
         more than others; that is true. We have a more difficult task, but what does
         it matter where one fights, as long as it is a same idea?
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Are you a Communist?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: 'Yes, I am, and I believe I shall remain one.Henja’s ideological commitment
         played a role in her survival by bolstering her will and spirit. It gave her
         a motive for surviving: to live in order to build a more just and humane world
         and to take part in the ongoing struggle against fascism.37'
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Is there a strong Communist movement in France?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes. A very strong one.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Is it the same movement as in Russia? What do the communists here in France
         demand?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[After a long pause] The Communists in France—really one shouldn’t say the
         Communists."
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Why not.
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I should say the working class.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes.
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: 'Intellectuals, the students, demand, as the whole world knows, just what
         all the workers in the world demand: to live like human beings. And for that
         they will fight to their last drop of blood, as they have been fighting up
@@ -3047,73 +5055,129 @@ recording:
         Those who have remained [survived], with those who have remained “there”,
         those who have formerly been with the Resistance—'
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And so—
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[Continuing]—to improve the life of the people and to improve one’s personal
         life, a young person should be able to study, if he wants to; the working
         man should be allowed to work and earn a living, not to live just for food,
         and worry from morning to night about what he will be doing tomorrow. Justice,
         that is what we want. A human way of life."
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Tell me, what on an average does a worker earn now in France, per month?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Little. The working man who works in a factory and is specialized earns from
         eight thousand to ten thousand francs a month. And to live normally, and that
         means not to starve, to have what the body demands, you need at least fifteen
         thousand francs a month per person. And that he doesn’t have.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I know typists and officers who make twelve or thirteen thousand a month.
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: No, they are great specialists or somebody working in a commercial field,
         an office of a business where the owner earns an awful lot. Then he pays as
         much as he pleases. But the normal price is eight—between six and eight thousand
         francs.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Now for instance, a woman who sits in the metro and punches tickets. What
         does she earn?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Very little. I believe between four and five thousand francs a month.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Four to five thousand francs a month! Not much. Do you have relatives in
         America?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I have a cousin of my mother’s in America.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Have you written to him?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: No.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[After a pause] Do you want to say something else? What would you want to
         tell the students in the United States?"
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[After a long pause] I would tell the youth of America, in the first place,
         to see to it that the world, and America itself, which at present occupies
         the first place among countries of the world, and which could finance all
@@ -3124,38 +5188,70 @@ recording:
         and that it can happen again. Therefore human society must strive to prevent
         future genocides and be alert to their warning signs.38"
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Do you believe that Fascism could return?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: How could that happen?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Fascism can return if the world does not become once and for all—honest,
         and if the people of all countries do not hold together. I can only say that
         up to now things are not going right.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: How long did you work with the Russians?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Three months.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Well, how did things look there? What are your impressions of the Russians?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I can’t give you broad impressions, because I was, as I told you, in the
         hospital; and so I can’t tell you because I have nothing to say. I saw only
         one thing, that the people, the individuals with whom I talked, were great
@@ -3163,37 +5259,69 @@ recording:
         worked with us. I saw them working at night. They were working very hard,
         but they like their life.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Didn’t they complain about the Bolsheviks?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Oh, no, nobody complained. On the contrary, they had a bit of an ironical
         attitude toward the Europeans.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Why?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Because—
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: What was it, what was the reason for the irony?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Ilya Ehrenburg recently told us in Paris, to understand, with his personal
         irony, that in Russia maybe not everybody has his automobile, and he is making
         in many of the other things that they have, for example, in America, but he
@@ -3207,33 +5335,61 @@ recording:
         became a key spokesman for Soviet intellectuals seeking liberal reforms and
         an outspoken opponent of Soviet anti-Semitism.39
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes.
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: The Russian man is deep. He thinks a lot. He thinks during the nights.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Did you hear Ehrenburg before he went to America or after his return.
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: After he came back.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Tell me more, what did he say?
     - who: Henja Frydman
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: He liked America very much, but he is very proud of Russia. I think that
         is enough.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '02:06:12.244'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '7572.244'
+        mark: '02:06:12.244'
       u: Yes. [A pause.] Well, this concludes Miss Henja Frydman’s fifth spool. The
         records are from Spool 29 to Spool 33, up to nearly twenty-six minutes of
         the last spool. She was very cooperative. She gave me a whole morning and

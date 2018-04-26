@@ -38,17 +38,29 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:01.775'
-      end: '00:00:00.000'
+      start:
+        sec: '1.775'
+        mark: '00:00:01.775'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[In English ] This is Spool number eleven, taken the 31st of July, 1946,
         in a suburb of Paris, Chateau de..."
     - who: Jurek Kestenberg
-      start: '00:00:00.000'
-      end: '00:00:12.487'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '12.487'
+        mark: '00:00:12.487'
       u: Boucicaut.
     - who: David Boder
-      start: '00:00:12.487'
-      end: '00:00:57.855'
+      start:
+        sec: '12.487'
+        mark: '00:00:12.487'
+      end:
+        sec: '57.855'
+        mark: '00:00:57.855'
       u: Chateau de Boucicaut, where about forty-five boys evacuated from the Buchenwald
         live...where about forty-five boys evacuated from the Buchenwald live under
         the direction of a house mother, and they learn a trade mostly under the direction...or
@@ -57,102 +69,194 @@ recording:
         not necessarily at Buchenwald. [In Yiddish] What is your name Jurek? Say it
         again.
     - who: Jurek Kestenberg
-      start: '00:00:57.855'
-      end: '00:00:59.489'
+      start:
+        sec: '57.855'
+        mark: '00:00:57.855'
+      end:
+        sec: '59.489'
+        mark: '00:00:59.489'
       u: Kestenberg, Jurek.
     - who: David Boder
-      start: '00:00:59.489'
-      end: '00:01:02.176'
+      start:
+        sec: '59.489'
+        mark: '00:00:59.489'
+      end:
+        sec: '62.176'
+        mark: '00:01:02.176'
       u: Kestenberg, Jurek. And how old are you?
     - who: Jurek Kestenberg
-      start: '00:01:02.176'
-      end: '00:01:04.282'
+      start:
+        sec: '62.176'
+        mark: '00:01:02.176'
+      end:
+        sec: '64.282'
+        mark: '00:01:04.282'
       u: Seventeen years. Born in Warsaw.
     - who: David Boder
-      start: '00:01:04.282'
-      end: '00:01:11.745'
+      start:
+        sec: '64.282'
+        mark: '00:01:04.282'
+      end:
+        sec: '71.745'
+        mark: '00:01:11.745'
       u: You were born in Warsaw. Well, tell me now, where were you when the war started?
     - who: Jurek Kestenberg
-      start: '00:01:11.745'
-      end: '00:01:20.691'
+      start:
+        sec: '71.745'
+        mark: '00:01:11.745'
+      end:
+        sec: '80.691'
+        mark: '00:01:20.691'
       u: When the war star-...started I was in Warsaw. When the Germans entered Warsaw,
         I remained [there] until they made a ghetto.
     - who: David Boder
-      start: '00:01:20.691'
-      end: '00:01:24.010'
+      start:
+        sec: '80.691'
+        mark: '00:01:20.691'
+      end:
+        sec: '84.010'
+        mark: '00:01:24.010'
       u: Hm. Tell me, do you have parents?
     - who: Jurek Kestenberg
-      start: '00:01:24.010'
-      end: '00:01:24.892'
+      start:
+        sec: '84.010'
+        mark: '00:01:24.010'
+      end:
+        sec: '84.892'
+        mark: '00:01:24.892'
       u: No. my parents...
     - who: David Boder
-      start: '00:01:24.892'
-      end: '00:01:25.984'
+      start:
+        sec: '84.892'
+        mark: '00:01:24.892'
+      end:
+        sec: '85.984'
+        mark: '00:01:25.984'
       u: But that time in Warsaw?
     - who: Jurek Kestenberg
-      start: '00:01:25.984'
-      end: '00:01:26.706'
+      start:
+        sec: '85.984'
+        mark: '00:01:25.984'
+      end:
+        sec: '86.706'
+        mark: '00:01:26.706'
       u: Yes, yes. Then I had.
     - who: David Boder
-      start: '00:01:26.706'
-      end: '00:01:31.401'
+      start:
+        sec: '86.706'
+        mark: '00:01:26.706'
+      end:
+        sec: '91.401'
+        mark: '00:01:31.401'
       u: Yes. Now tell me, of how many persons did your family consist?
     - who: Jurek Kestenberg
-      start: '00:01:31.401'
-      end: '00:01:38.241'
+      start:
+        sec: '91.401'
+        mark: '00:01:31.401'
+      end:
+        sec: '98.241'
+        mark: '00:01:38.241'
       u: My family...my family consisted of the persons, that means, I, my...my mother,
         and my father.
     - who: David Boder
-      start: '00:01:38.241'
-      end: '00:01:40.055'
+      start:
+        sec: '98.241'
+        mark: '00:01:38.241'
+      end:
+        sec: '100.055'
+        mark: '00:01:40.055'
       u: Oh! You have no brothers or sisters.
     - who: Jurek Kestenberg
-      start: '00:01:40.055'
-      end: '00:01:41.079'
+      start:
+        sec: '100.055'
+        mark: '00:01:40.055'
+      end:
+        sec: '101.079'
+        mark: '00:01:41.079'
       u: No, no, no brothers.
     - who: David Boder
-      start: '00:01:41.079'
-      end: '00:01:44.729'
+      start:
+        sec: '101.079'
+        mark: '00:01:41.079'
+      end:
+        sec: '104.729'
+        mark: '00:01:44.729'
       u: And nobody lived with you, a grandfather, a grandmother?
     - who: Jurek Kestenberg
-      start: '00:01:44.729'
-      end: '00:01:45.340'
+      start:
+        sec: '104.729'
+        mark: '00:01:44.729'
+      end:
+        sec: '105.340'
+        mark: '00:01:45.340'
       u: Neither.
     - who: David Boder
-      start: '00:01:45.340'
-      end: '00:01:49.992'
+      start:
+        sec: '105.340'
+        mark: '00:01:45.340'
+      end:
+        sec: '109.992'
+        mark: '00:01:49.992'
       u: And how old were you when the...the Germans arrived in Warsaw?
     - who: David Boder
-      start: '00:01:49.992'
-      end: '00:01:50.594'
+      start:
+        sec: '109.992'
+        mark: '00:01:49.992'
+      end:
+        sec: '110.594'
+        mark: '00:01:50.594'
       u: Twelve years.
     - who: David Boder
-      start: '00:01:50.594'
-      end: '00:01:52.950'
+      start:
+        sec: '110.594'
+        mark: '00:01:50.594'
+      end:
+        sec: '112.950'
+        mark: '00:01:52.950'
       u: Twelve years. Well now, tell the story how...
     - who: Jurek Kestenberg
-      start: '00:01:52.950'
-      end: '00:02:00.954'
+      start:
+        sec: '112.950'
+        mark: '00:01:52.950'
+      end:
+        sec: '120.954'
+        mark: '00:02:00.954'
       u: And so, I was...I worked. I was twelve years old when the Germans arrived
         in Warsaw. It was quiet.
     - who: David Boder
-      start: '00:02:00.954'
-      end: '00:02:02.308'
+      start:
+        sec: '120.954'
+        mark: '00:02:00.954'
+      end:
+        sec: '122.308'
+        mark: '00:02:02.308'
       u: Speak Yiddish. [Jurek alternates between Yiddish and poor attempts at German]
     - who: Jurek Kestenberg
-      start: '00:02:02.308'
-      end: '00:02:24.822'
+      start:
+        sec: '122.308'
+        mark: '00:02:02.308'
+      end:
+        sec: '144.822'
+        mark: '00:02:24.822'
       u: It was quiet until the Germans made the Ghetto. In the Ghetto our agony began.
         All our...the entire misery began in the Ghetto. And so, after a long time,
         after a...not such a long [time], after a month’s time the Germans gave a
         new order, that all Jews have to wear white bands with a blue star of David.
     - who: David Boder
-      start: '00:02:24.822'
-      end: '00:02:26.336'
+      start:
+        sec: '144.822'
+        mark: '00:02:24.822'
+      end:
+        sec: '146.336'
+        mark: '00:02:26.336'
       u: Hm. [From the adjoining room comes the lusty barking of a dog]
     - who: Jurek Kestenberg
-      start: '00:02:26.336'
-      end: '00:03:26.560'
+      start:
+        sec: '146.336'
+        mark: '00:02:26.336'
+      end:
+        sec: '206.560'
+        mark: '00:03:26.560'
       u: From that time began our whole...whole agony. After that, there had again
         passed two, three, months, [and] the Germans said that this is impossible.
         So many Jews in Warsaw, because from all the little towns Jews came to Warsaw.
@@ -167,77 +271,149 @@ recording:
         the people don’t want to come [go] Everyone wants to remain at home. And so
         the Germans themselves began to grab on the streets...
     - who: David Boder
-      start: '00:03:26.560'
-      end: '00:03:27.201'
+      start:
+        sec: '206.560'
+        mark: '00:03:26.560'
+      end:
+        sec: '207.201'
+        mark: '00:03:27.201'
       u: From the ghetto?
     - who: Jurek Kestenberg
-      start: '00:03:27.201'
-      end: '00:03:27.902'
+      start:
+        sec: '207.201'
+        mark: '00:03:27.201'
+      end:
+        sec: '207.902'
+        mark: '00:03:27.902'
       u: From the ghetto.
     - who: David Boder
-      start: '00:03:27.902'
-      end: '00:03:28.504'
+      start:
+        sec: '207.902'
+        mark: '00:03:27.902'
+      end:
+        sec: '208.504'
+        mark: '00:03:28.504'
       u: Yes?
     - who: Jurek Kestenberg
-      start: '00:03:28.504'
-      end: '00:03:29.055'
+      start:
+        sec: '208.504'
+        mark: '00:03:28.504'
+      end:
+        sec: '209.055'
+        mark: '00:03:29.055'
       u: And so...
     - who: David Boder
-      start: '00:03:29.055'
-      end: '00:03:31.261'
+      start:
+        sec: '209.055'
+        mark: '00:03:29.055'
+      end:
+        sec: '211.261'
+        mark: '00:03:31.261'
       u: What comprised the Ghetto of Warsaw?
     - who: Jurek Kestenberg
-      start: '00:03:31.261'
-      end: '00:03:35.242'
+      start:
+        sec: '211.261'
+        mark: '00:03:31.261'
+      end:
+        sec: '215.242'
+        mark: '00:03:35.242'
       u: Oh, the Ghetto was...I can’t figure it exactly, because I don’t remember,
         but...
     - who: David Boder
-      start: '00:03:35.242'
-      end: '00:03:35.612'
+      start:
+        sec: '215.242'
+        mark: '00:03:35.242'
+      end:
+        sec: '215.612'
+        mark: '00:03:35.612'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:03:35.612'
-      end: '00:03:38.802'
+      start:
+        sec: '215.612'
+        mark: '00:03:35.612'
+      end:
+        sec: '218.802'
+        mark: '00:03:38.802'
       u: Iron [Zelazna] Street and Leszano [Street] and so forth.
     - who: David Boder
-      start: '00:03:38.802'
-      end: '00:00:00.000'
+      start:
+        sec: '218.802'
+        mark: '00:03:38.802'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: All such...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:03:40.827'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '220.827'
+        mark: '00:03:40.827'
       u: Go on.
     - who: Jurek Kestenberg
-      start: '00:03:40.827'
-      end: '00:03:46.304'
+      start:
+        sec: '220.827'
+        mark: '00:03:40.827'
+      end:
+        sec: '226.304'
+        mark: '00:03:46.304'
       u: And so they sent the Ukrainians, the most terrible [of] the German, the German...the...the...
     - who: David Boder
-      start: '00:03:46.304'
-      end: '00:03:46.494'
+      start:
+        sec: '226.304'
+        mark: '00:03:46.304'
+      end:
+        sec: '226.494'
+        mark: '00:03:46.494'
       u: Soldiers.
     - who: Jurek Kestenberg
-      start: '00:03:46.494'
-      end: '00:00:00.000'
+      start:
+        sec: '226.494'
+        mark: '00:03:46.494'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Soldiers. They sent them, and they were grabbing on the streets.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:03:50.601'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '230.601'
+        mark: '00:03:50.601'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:03:50.601'
-      end: '00:03:54.152'
+      start:
+        sec: '230.601'
+        mark: '00:03:50.601'
+      end:
+        sec: '234.152'
+        mark: '00:03:54.152'
       u: Still so many couldn’t be caught on the streets because people were hiding.
     - who: David Boder
-      start: '00:03:54.152'
-      end: '00:03:54.673'
+      start:
+        sec: '234.152'
+        mark: '00:03:54.152'
+      end:
+        sec: '234.673'
+        mark: '00:03:54.673'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:03:54.673'
-      end: '00:04:45.123'
+      start:
+        sec: '234.673'
+        mark: '00:03:54.673'
+      end:
+        sec: '285.123'
+        mark: '00:04:45.123'
       u: And so they took by the blocks [Blockenweise], by houses. They would take
         and surround a house, and it was called out, ‘All Jews fall in!’ And those
         who didn’t come down were shot. They used dogs, various other methods. They
@@ -249,244 +425,468 @@ recording:
         provisions, food. We should be able to wait there. Maybe we will be able somehow
         to survive the whole...
     - who: David Boder
-      start: '00:04:45.123'
-      end: '00:04:45.444'
+      start:
+        sec: '285.123'
+        mark: '00:04:45.123'
+      end:
+        sec: '285.444'
+        mark: '00:04:45.444'
       u: Wait, Jurek.
     - who: Jurek Kestenberg
-      start: '00:04:45.444'
-      end: '00:04:45.925'
+      start:
+        sec: '285.444'
+        mark: '00:04:45.444'
+      end:
+        sec: '285.925'
+        mark: '00:04:45.925'
       u: ". . . thing."
     - who: David Boder
-      start: '00:04:45.925'
-      end: '00:04:48.634'
+      start:
+        sec: '285.925'
+        mark: '00:04:45.925'
+      end:
+        sec: '288.634'
+        mark: '00:04:48.634'
       u: What’s your father’s occupation?
     - who: Jurek Kestenberg
-      start: '00:04:48.634'
-      end: '00:04:52.133'
+      start:
+        sec: '288.634'
+        mark: '00:04:48.634'
+      end:
+        sec: '292.133'
+        mark: '00:04:52.133'
       u: My father’s occupation was...he had a factory, of soap.
     - who: David Boder
-      start: '00:04:52.133'
-      end: '00:04:53.397'
+      start:
+        sec: '292.133'
+        mark: '00:04:52.133'
+      end:
+        sec: '293.397'
+        mark: '00:04:53.397'
       u: He had soap factory.
     - who: Jurek Kestenberg
-      start: '00:04:53.397'
-      end: '00:04:53.969'
+      start:
+        sec: '293.397'
+        mark: '00:04:53.397'
+      end:
+        sec: '293.969'
+        mark: '00:04:53.969'
       u: Yes.
     - who: David Boder
-      start: '00:04:53.969'
-      end: '00:04:56.436'
+      start:
+        sec: '293.969'
+        mark: '00:04:53.969'
+      end:
+        sec: '296.436'
+        mark: '00:04:56.436'
       u: How many people worked for him?
     - who: Jurek Kestenberg
-      start: '00:04:56.436'
-      end: '00:04:59.084'
+      start:
+        sec: '296.436'
+        mark: '00:04:56.436'
+      end:
+        sec: '299.084'
+        mark: '00:04:59.084'
       u: Oh, I don’t know exactly. I believe forty people.
     - who: David Boder
-      start: '00:04:59.084'
-      end: '00:05:05.042'
+      start:
+        sec: '299.084'
+        mark: '00:04:59.084'
+      end:
+        sec: '305.042'
+        mark: '00:05:05.042'
       u: Forty people. And what school did you attend?
     - who: Jurek Kestenberg
-      start: '00:05:05.042'
-      end: '00:05:06.787'
+      start:
+        sec: '305.042'
+        mark: '00:05:05.042'
+      end:
+        sec: '306.787'
+        mark: '00:05:06.787'
       u: A ‘normal’ [in this case, usual] school.
     - who: David Boder
-      start: '00:05:06.787'
-      end: '00:05:10.609'
+      start:
+        sec: '306.787'
+        mark: '00:05:06.787'
+      end:
+        sec: '310.609'
+        mark: '00:05:10.609'
       u: Hm, yes. On what street in Warsaw did you live?
     - who: Jurek Kestenberg
-      start: '00:05:10.609'
-      end: '00:05:11.912'
+      start:
+        sec: '310.609'
+        mark: '00:05:10.609'
+      end:
+        sec: '311.912'
+        mark: '00:05:11.912'
       u: Bagatelle Street.
     - who: Jurek Kestenberg
-      start: '00:05:11.912'
-      end: '00:00:00.000'
+      start:
+        sec: '311.912'
+        mark: '00:05:11.912'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Bagatelle Street. All right, nu?
     - who: Jurek Kestenberg
-      start: '00:00:00.000'
-      end: '00:05:15.442'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '315.442'
+        mark: '00:05:15.442'
       u: Bagatelle Street.
     - who: David Boder
-      start: '00:05:15.442'
-      end: '00:05:18.490'
+      start:
+        sec: '315.442'
+        mark: '00:05:15.442'
+      end:
+        sec: '318.490'
+        mark: '00:05:18.490'
       u: And so people were often building a...
     - who: Jurek Kestenberg
-      start: '00:05:18.490'
-      end: '00:05:18.911'
+      start:
+        sec: '318.490'
+        mark: '00:05:18.490'
+      end:
+        sec: '318.911'
+        mark: '00:05:18.911'
       u: Bunkers.
     - who: David Boder
-      start: '00:05:18.911'
-      end: '00:05:19.664'
+      start:
+        sec: '318.911'
+        mark: '00:05:18.911'
+      end:
+        sec: '319.664'
+        mark: '00:05:19.664'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:05:19.664'
-      end: '00:05:21.238'
+      start:
+        sec: '319.664'
+        mark: '00:05:19.664'
+      end:
+        sec: '321.238'
+        mark: '00:05:21.238'
       u: So that people should be able to hide.
     - who: David Boder
-      start: '00:05:21.238'
-      end: '00:05:22.571'
+      start:
+        sec: '321.238'
+        mark: '00:05:21.238'
+      end:
+        sec: '322.571'
+        mark: '00:05:22.571'
       u: And the factory...
     - who: Jurek Kestenberg
-      start: '00:05:22.571'
-      end: '00:05:25.529'
+      start:
+        sec: '322.571'
+        mark: '00:05:22.571'
+      end:
+        sec: '325.529'
+        mark: '00:05:25.529'
       u: The factory was burned down during the bombing of Warsaw.
     - who: David Boder
-      start: '00:05:25.529'
-      end: '00:05:26.350'
+      start:
+        sec: '325.529'
+        mark: '00:05:25.529'
+      end:
+        sec: '326.350'
+        mark: '00:05:26.350'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:05:26.350'
-      end: '00:05:34.114'
+      start:
+        sec: '326.350'
+        mark: '00:05:26.350'
+      end:
+        sec: '334.114'
+        mark: '00:05:34.114'
       u: Completely burned, so we remained without...entirely without any means of
         livelihood, but for the money we had saved from before the war [word not clear]
     - who: David Boder
-      start: '00:05:34.114'
-      end: '00:05:34.544'
+      start:
+        sec: '334.114'
+        mark: '00:05:34.114'
+      end:
+        sec: '334.544'
+        mark: '00:05:34.544'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:05:34.544'
-      end: '00:05:51.335'
+      start:
+        sec: '334.544'
+        mark: '00:05:34.544'
+      end:
+        sec: '351.335'
+        mark: '00:05:51.335'
       u: On that we lived all the time. After that people found out that all the transports
         that had left...it was not, alas, for resettlement East, like the Germans
         had said, but it was for extermination in such a lager that was called Treblinka.
     - who: David Boder
-      start: '00:05:51.335'
-      end: '00:05:52.217'
+      start:
+        sec: '351.335'
+        mark: '00:05:51.335'
+      end:
+        sec: '352.217'
+        mark: '00:05:52.217'
       u: Treb-...Treblinka.
     - who: Jurek Kestenberg
-      start: '00:05:52.217'
-      end: '00:05:52.647'
+      start:
+        sec: '352.217'
+        mark: '00:05:52.217'
+      end:
+        sec: '352.647'
+        mark: '00:05:52.647'
       u: Treblinka.
     - who: David Boder
-      start: '00:05:52.647'
-      end: '00:05:54.423'
+      start:
+        sec: '352.647'
+        mark: '00:05:52.647'
+      end:
+        sec: '354.423'
+        mark: '00:05:54.423'
       u: Yes?
     - who: Jurek Kestenberg
-      start: '00:05:54.423'
-      end: '00:06:12.847'
+      start:
+        sec: '354.423'
+        mark: '00:05:54.423'
+      end:
+        sec: '372.847'
+        mark: '00:06:12.847'
       u: Yes. And then began a terrible panic in the whole Ghetto. Everybody...people
         didn’t know what to do, because people knew that if one goes to Treblinka,
         it is death! It is a prepared death. One is gassed and so on. Now everybody
         was already building bunkers. Anybody who only had the means, whoever had
         a few...a few Zlotys in the pocket built bunkers.
     - who: Jurek Kestenberg
-      start: '00:06:12.847'
-      end: '00:06:14.773'
+      start:
+        sec: '372.847'
+        mark: '00:06:12.847'
+      end:
+        sec: '374.773'
+        mark: '00:06:14.773'
       u: What were they, those bunkers?
     - who: Jurek Kestenberg
-      start: '00:06:14.773'
-      end: '00:06:17.481'
+      start:
+        sec: '374.773'
+        mark: '00:06:14.773'
+      end:
+        sec: '377.481'
+        mark: '00:06:17.481'
       u: Bunkers were such cellars, or various other...
     - who: David Boder
-      start: '00:06:17.481'
-      end: '00:06:18.013'
+      start:
+        sec: '377.481'
+        mark: '00:06:17.481'
+      end:
+        sec: '378.013'
+        mark: '00:06:18.013'
       u: Cellars.
     - who: Jurek Kestenberg
-      start: '00:06:18.013'
-      end: '00:06:27.221'
+      start:
+        sec: '378.013'
+        mark: '00:06:18.013'
+      end:
+        sec: '387.221'
+        mark: '00:06:27.221'
       u: Cellars, or various....Everybody invented whatever he could. And there were
         people who partitioned off a room [by making false wall], partitioned...well,
         partitioned...
     - who: David Boder
-      start: '00:06:27.221'
-      end: '00:06:27.380'
+      start:
+        sec: '387.221'
+        mark: '00:06:27.221'
+      end:
+        sec: '387.380'
+        mark: '00:06:27.380'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:06:27.380'
-      end: '00:06:28.193'
+      start:
+        sec: '387.380'
+        mark: '00:06:27.380'
+      end:
+        sec: '388.193'
+        mark: '00:06:28.193'
       u: ". . . in such a way that it couldn’t be recognized..."
     - who: David Boder
-      start: '00:06:28.193'
-      end: '00:06:28.443'
+      start:
+        sec: '388.193'
+        mark: '00:06:28.193'
+      end:
+        sec: '388.443'
+        mark: '00:06:28.443'
       u: And where...
     - who: Jurek Kestenberg
-      start: '00:06:28.443'
-      end: '00:06:29.686'
+      start:
+        sec: '388.443'
+        mark: '00:06:28.443'
+      end:
+        sec: '389.686'
+        mark: '00:06:29.686'
       u: ". . . and went in there and sat."
     - who: David Boder
-      start: '00:06:29.686'
-      end: '00:06:34.750'
+      start:
+        sec: '389.686'
+        mark: '00:06:29.686'
+      end:
+        sec: '394.750'
+        mark: '00:06:34.750'
       u: And where was everything done? One had to go to...to the toilet?
     - who: Jurek Kestenberg
-      start: '00:06:34.750'
-      end: '00:06:36.917'
+      start:
+        sec: '394.750'
+        mark: '00:06:34.750'
+      end:
+        sec: '396.917'
+        mark: '00:06:36.917'
       u: Nu, everything like that was done in the bunker, everything.
     - who: David Boder
-      start: '00:06:36.917'
-      end: '00:06:38.130'
+      start:
+        sec: '396.917'
+        mark: '00:06:36.917'
+      end:
+        sec: '398.130'
+        mark: '00:06:38.130'
       u: And then it was taken out?
     - who: Jurek Kestenberg
-      start: '00:06:38.130'
-      end: '00:06:41.088'
+      start:
+        sec: '398.130'
+        mark: '00:06:38.130'
+      end:
+        sec: '401.088'
+        mark: '00:06:41.088'
       u: Carried out at night or otherwise [?]. It was...
     - who: David Boder
-      start: '00:06:41.088'
-      end: '00:06:41.639'
+      start:
+        sec: '401.088'
+        mark: '00:06:41.088'
+      end:
+        sec: '401.639'
+        mark: '00:06:41.639'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:06:41.639'
-      end: '00:06:47.726'
+      start:
+        sec: '401.639'
+        mark: '00:06:41.639'
+      end:
+        sec: '407.726'
+        mark: '00:06:47.726'
       u: One had to be very careful. Towards the end, alas, there appeared the Jewish...how
         does one say it, informers.
     - who: David Boder
-      start: '00:06:47.726'
-      end: '00:06:48.358'
+      start:
+        sec: '407.726'
+        mark: '00:06:47.726'
+      end:
+        sec: '408.358'
+        mark: '00:06:48.358'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:06:48.358'
-      end: '00:06:55.941'
+      start:
+        sec: '408.358'
+        mark: '00:06:48.358'
+      end:
+        sec: '415.941'
+        mark: '00:06:55.941'
       u: Because they went around with the Germans. They did...they...they thought
         they will be able to save their lives. They informed about the bunkers. They
         were showing, ‘Here [is] a bunker. Here [is] a bunker.’
     - who: David Boder
-      start: '00:06:55.941'
-      end: '00:06:56.823'
+      start:
+        sec: '415.941'
+        mark: '00:06:55.941'
+      end:
+        sec: '416.823'
+        mark: '00:06:56.823'
       u: And have they...
     - who: Jurek Kestenberg
-      start: '00:06:56.823'
-      end: '00:07:01.376'
+      start:
+        sec: '416.823'
+        mark: '00:06:56.823'
+      end:
+        sec: '421.376'
+        mark: '00:07:01.376'
       u: And the people [SS] shot. And the end of all the...the informers was such
         that they were all shot, too.
     - who: David Boder
-      start: '00:07:01.376'
-      end: '00:07:03.913'
+      start:
+        sec: '421.376'
+        mark: '00:07:01.376'
+      end:
+        sec: '423.913'
+        mark: '00:07:03.913'
       u: These informers were inside the Ghetto or outside?
     - who: Jurek Kestenberg
-      start: '00:07:03.913'
-      end: '00:07:05.457'
+      start:
+        sec: '423.913'
+        mark: '00:07:03.913'
+      end:
+        sec: '425.457'
+        mark: '00:07:05.457'
       u: Inside the Ghetto, everything inside the Ghetto.
     - who: David Boder
-      start: '00:07:05.457'
-      end: '00:07:07.452'
+      start:
+        sec: '425.457'
+        mark: '00:07:05.457'
+      end:
+        sec: '427.452'
+        mark: '00:07:07.452'
       u: Oh! People had bunkers inside the Ghetto?
     - who: Jurek Kestenberg
-      start: '00:07:07.452'
-      end: '00:07:12.014'
+      start:
+        sec: '427.452'
+        mark: '00:07:07.452'
+      end:
+        sec: '432.014'
+        mark: '00:07:12.014'
       u: Inside the Ghetto, everything inside the Ghetto. On the Polish side people
         couldn’t have, because the Poles were informing.
     - who: David Boder
-      start: '00:07:12.014'
-      end: '00:07:13.106'
+      start:
+        sec: '432.014'
+        mark: '00:07:12.014'
+      end:
+        sec: '433.106'
+        mark: '00:07:13.106'
       u: Yes. Nu?
     - who: Jurek Kestenberg
-      start: '00:07:13.106'
-      end: '00:07:20.298'
+      start:
+        sec: '433.106'
+        mark: '00:07:13.106'
+      end:
+        sec: '440.298'
+        mark: '00:07:20.298'
       u: And then there were very rich people, and they made bunkers which were joined
         together with the sewers...
     - who: David Boder
-      start: '00:07:20.298'
-      end: '00:07:21.119'
+      start:
+        sec: '440.298'
+        mark: '00:07:20.298'
+      end:
+        sec: '441.119'
+        mark: '00:07:21.119'
       u: Yes?
     - who: Jurek Kestenberg
-      start: '00:07:21.119'
-      end: '00:07:25.844'
+      start:
+        sec: '441.119'
+        mark: '00:07:21.119'
+      end:
+        sec: '445.844'
+        mark: '00:07:25.844'
       u: ". . . so that when danger, a great danger, comes one should be able to go
         over through the sewers to the Polish side."
     - who: David Boder
-      start: '00:07:25.844'
-      end: '00:07:26.304'
+      start:
+        sec: '445.844'
+        mark: '00:07:25.844'
+      end:
+        sec: '446.304'
+        mark: '00:07:26.304'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:07:26.304'
-      end: '00:07:53.221'
+      start:
+        sec: '446.304'
+        mark: '00:07:26.304'
+      end:
+        sec: '473.221'
+        mark: '00:07:53.221'
       u: But these were exceptions who were very rich. They could do it. And so the
         Germans gave an order that in three, four weeks the Ghetto was to be entirely
         emptied. Nobody, no one can remain. And meanwhile there were in the Ghetto
@@ -494,20 +894,36 @@ recording:
         Ghetto. So it was considered that to be led to death like pigs, that is no
         death.
     - who: David Boder
-      start: '00:07:53.221'
-      end: '00:07:53.763'
+      start:
+        sec: '473.221'
+        mark: '00:07:53.221'
+      end:
+        sec: '473.763'
+        mark: '00:07:53.763'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:07:53.763'
-      end: '00:07:56.682'
+      start:
+        sec: '473.763'
+        mark: '00:07:53.763'
+      end:
+        sec: '476.682'
+        mark: '00:07:56.682'
       u: So let us die like one should die, heroically, heroically.
     - who: David Boder
-      start: '00:07:56.682'
-      end: '00:07:58.015'
+      start:
+        sec: '476.682'
+        mark: '00:07:56.682'
+      end:
+        sec: '478.015'
+        mark: '00:07:58.015'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:07:58.015'
-      end: '00:08:27.296'
+      start:
+        sec: '478.015'
+        mark: '00:07:58.015'
+      end:
+        sec: '507.296'
+        mark: '00:08:27.296'
       u: And people started...and the Germans everyday were grabbing people, grabbing.
         And so there had remained only seventy thousand people. People decided to
         make an uprising in the Warsaw Ghetto. The uprising was....The Polish parties
@@ -517,12 +933,20 @@ recording:
         exactly, because I don’t remember. I was at that time hidden...hidden I was
         at that time.
     - who: David Boder
-      start: '00:08:27.296'
-      end: '00:08:27.847'
+      start:
+        sec: '507.296'
+        mark: '00:08:27.296'
+      end:
+        sec: '507.847'
+        mark: '00:08:27.847'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:08:27.847'
-      end: '00:09:01.928'
+      start:
+        sec: '507.847'
+        mark: '00:08:27.847'
+      end:
+        sec: '541.928'
+        mark: '00:09:01.928'
       u: I, my father and my mother were hidden. And so we had some more relatives
         in the Ghetto, but the relatives were living on the other side of the Ghetto.
         When we had built the bunker....We had built it, and the relatives came [over]
@@ -531,128 +955,248 @@ recording:
         the underground organization. The first...the first week of the battle my
         uncle was shot by the Germans, and we remained.
     - who: David Boder
-      start: '00:09:01.928'
-      end: '00:09:02.981'
+      start:
+        sec: '541.928'
+        mark: '00:09:01.928'
+      end:
+        sec: '542.981'
+        mark: '00:09:02.981'
       u: Where was he shot?
     - who: Jurek Kestenberg
-      start: '00:09:02.981'
-      end: '00:09:05.569'
+      start:
+        sec: '542.981'
+        mark: '00:09:02.981'
+      end:
+        sec: '545.569'
+        mark: '00:09:05.569'
       u: In the Ghetto, in the street fighting. In the street where...
     - who: David Boder
-      start: '00:09:05.569'
-      end: '00:09:07.374'
+      start:
+        sec: '545.569'
+        mark: '00:09:05.569'
+      end:
+        sec: '547.374'
+        mark: '00:09:07.374'
       u: Did you see the street fighting?
     - who: Jurek Kestenberg
-      start: '00:09:07.374'
-      end: '00:09:15.559'
+      start:
+        sec: '547.374'
+        mark: '00:09:07.374'
+      end:
+        sec: '555.559'
+        mark: '00:09:15.559'
       u: No, but we were told. Because we were all hidden, we couldn’t see, because
         it was without windows, without anything. Only at night we went out.
     - who: David Boder
-      start: '00:09:15.559'
-      end: '00:09:16.402'
+      start:
+        sec: '555.559'
+        mark: '00:09:15.559'
+      end:
+        sec: '556.402'
+        mark: '00:09:16.402'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:09:16.402'
-      end: '00:00:00.000'
+      start:
+        sec: '556.402'
+        mark: '00:09:16.402'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And the uncle was...was shot.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:09:20.202'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '560.202'
+        mark: '00:09:20.202'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:09:20.202'
-      end: '00:09:26.010'
+      start:
+        sec: '560.202'
+        mark: '00:09:20.202'
+      end:
+        sec: '566.010'
+        mark: '00:09:26.010'
       u: And so only a few people remained, I, my father and my mother, and the...the
         rest that had remained.
     - who: David Boder
-      start: '00:09:26.010'
-      end: '00:09:27.554'
+      start:
+        sec: '566.010'
+        mark: '00:09:26.010'
+      end:
+        sec: '567.554'
+        mark: '00:09:27.554'
       u: Were there any other children with you?
     - who: Jurek Kestenberg
-      start: '00:09:27.554'
-      end: '00:09:32.438'
+      start:
+        sec: '567.554'
+        mark: '00:09:27.554'
+      end:
+        sec: '572.438'
+        mark: '00:09:32.438'
       u: No, only two [girl] cousins. One cousin was five years [old]
     - who: David Boder
-      start: '00:09:32.438'
-      end: '00:09:32.928'
+      start:
+        sec: '572.438'
+        mark: '00:09:32.438'
+      end:
+        sec: '572.928'
+        mark: '00:09:32.928'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:09:32.928'
-      end: '00:09:34.343'
+      start:
+        sec: '572.928'
+        mark: '00:09:32.928'
+      end:
+        sec: '574.343'
+        mark: '00:09:34.343'
       u: And the other one was seventeen years [old]
     - who: David Boder
-      start: '00:09:34.343'
-      end: '00:09:34.623'
+      start:
+        sec: '574.343'
+        mark: '00:09:34.343'
+      end:
+        sec: '574.623'
+        mark: '00:09:34.623'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:09:34.623'
-      end: '00:09:38.393'
+      start:
+        sec: '574.623'
+        mark: '00:09:34.623'
+      end:
+        sec: '578.393'
+        mark: '00:09:38.393'
       u: The cousin who was five I just found in Poland.
     - who: David Boder
-      start: '00:09:38.393'
-      end: '00:09:39.356'
+      start:
+        sec: '578.393'
+        mark: '00:09:38.393'
+      end:
+        sec: '579.356'
+        mark: '00:09:39.356'
       u: You have found her?
     - who: Jurek Kestenberg
-      start: '00:09:39.356'
-      end: '00:09:45.043'
+      start:
+        sec: '579.356'
+        mark: '00:09:39.356'
+      end:
+        sec: '585.043'
+        mark: '00:09:45.043'
       u: Yes, and she is in a children’s home [in Polish], that is, a home for children
         in Poland.
     - who: David Boder
-      start: '00:09:45.043'
-      end: '00:09:45.946'
+      start:
+        sec: '585.043'
+        mark: '00:09:45.043'
+      end:
+        sec: '585.946'
+        mark: '00:09:45.946'
       u: Yes?
     - who: Jurek Kestenberg
-      start: '00:09:45.946'
-      end: '00:09:48.061'
+      start:
+        sec: '585.946'
+        mark: '00:09:45.946'
+      end:
+        sec: '588.061'
+        mark: '00:09:48.061'
       u: And so there remained the mother of the...of the little [girl] cousin.
     - who: David Boder
-      start: '00:09:48.061'
-      end: '00:09:49.776'
+      start:
+        sec: '588.061'
+        mark: '00:09:48.061'
+      end:
+        sec: '589.776'
+        mark: '00:09:49.776'
       u: How did you find her?
     - who: Jurek Kestenberg
-      start: '00:09:49.776'
-      end: '00:09:51.070'
+      start:
+        sec: '589.776'
+        mark: '00:09:49.776'
+      end:
+        sec: '591.070'
+        mark: '00:09:51.070'
       u: In [word not clear], Poland.
     - who: David Boder
-      start: '00:09:51.070'
-      end: '00:09:54.802'
+      start:
+        sec: '591.070'
+        mark: '00:09:51.070'
+      end:
+        sec: '594.802'
+        mark: '00:09:54.802'
       u: But how...how...who...how did you find it out?
     - who: Jurek Kestenberg
-      start: '00:09:54.802'
-      end: '00:09:58.241'
+      start:
+        sec: '594.802'
+        mark: '00:09:54.802'
+      end:
+        sec: '598.241'
+        mark: '00:09:58.241'
       u: I don’t know. I received a telegram that...that she is alive. Then...
     - who: David Boder
-      start: '00:09:58.241'
-      end: '00:09:58.994'
+      start:
+        sec: '598.241'
+        mark: '00:09:58.241'
+      end:
+        sec: '598.994'
+        mark: '00:09:58.994'
       u: And how did she know about you?
     - who: Jurek Kestenberg
-      start: '00:09:58.994'
-      end: '00:09:59.785'
+      start:
+        sec: '598.994'
+        mark: '00:09:58.994'
+      end:
+        sec: '599.785'
+        mark: '00:09:59.785'
       u: I don’t know?
     - who: David Boder
-      start: '00:09:59.785'
-      end: '00:10:00.718'
+      start:
+        sec: '599.785'
+        mark: '00:09:59.785'
+      end:
+        sec: '600.718'
+        mark: '00:10:00.718'
       u: You don’t know?
     - who: Jurek Kestenberg
-      start: '00:10:00.718'
-      end: '00:10:04.389'
+      start:
+        sec: '600.718'
+        mark: '00:10:00.718'
+      end:
+        sec: '604.389'
+        mark: '00:10:04.389'
       u: In general I know nothing, because I did write letters, but have received
         no answers to the letters.
     - who: David Boder
-      start: '00:10:04.389'
-      end: '00:10:06.195'
+      start:
+        sec: '604.389'
+        mark: '00:10:04.389'
+      end:
+        sec: '606.195'
+        mark: '00:10:06.195'
       u: Hm, yes?
     - who: Jurek Kestenberg
-      start: '00:10:06.195'
-      end: '00:10:08.187'
+      start:
+        sec: '606.195'
+        mark: '00:10:06.195'
+      end:
+        sec: '608.187'
+        mark: '00:10:08.187'
       u: It is just lucky that I have found her.
     - who: David Boder
-      start: '00:10:08.187'
-      end: '00:10:08.761'
+      start:
+        sec: '608.187'
+        mark: '00:10:08.187'
+      end:
+        sec: '608.761'
+        mark: '00:10:08.761'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:10:08.761'
-      end: '00:10:36.055'
+      start:
+        sec: '608.761'
+        mark: '00:10:08.761'
+      end:
+        sec: '636.055'
+        mark: '00:10:36.055'
       u: And so there had remained the mother of that child and all of us. And so
         we wanted to take the small child over to the Polish side, because we knew
         that if the small child would remain with us in the bunker it would sooner
@@ -662,20 +1206,36 @@ recording:
         that small child over to the Polish side, to an acquaintance of ours, to a
         Gentile woman...
     - who: David Boder
-      start: '00:10:36.055'
-      end: '00:10:36.872'
+      start:
+        sec: '636.055'
+        mark: '00:10:36.055'
+      end:
+        sec: '636.872'
+        mark: '00:10:36.872'
       u: Speak slower.
     - who: Jurek Kestenberg
-      start: '00:10:36.872'
-      end: '00:10:44.668'
+      start:
+        sec: '636.872'
+        mark: '00:10:36.872'
+      end:
+        sec: '644.668'
+        mark: '00:10:44.668'
       u: ". . . who kept the child with her. [Pause]"
     - who: David Boder
-      start: '00:10:44.668'
-      end: '00:10:46.177'
+      start:
+        sec: '644.668'
+        mark: '00:10:44.668'
+      end:
+        sec: '646.177'
+        mark: '00:10:46.177'
       u: Nu? And the others?
     - who: Jurek Kestenberg
-      start: '00:10:46.177'
-      end: '00:11:09.631'
+      start:
+        sec: '646.177'
+        mark: '00:10:46.177'
+      end:
+        sec: '669.631'
+        mark: '00:11:09.631'
       u: And the others? We, in the meantime, remained in the bunker. And so we heard
         every night, we heard loud shootings. The whole Ghetto was trembling, and
         we thought that it is already the end with us. At night, when darkness came,
@@ -683,20 +1243,36 @@ recording:
         to the windows and saw how the Ghetto looks. At night towards the end, the
         Ghetto was illuminated like in the daytime.
     - who: David Boder
-      start: '00:11:09.631'
-      end: '00:11:10.072'
+      start:
+        sec: '669.631'
+        mark: '00:11:09.631'
+      end:
+        sec: '670.072'
+        mark: '00:11:10.072'
       u: How?
     - who: Jurek Kestenberg
-      start: '00:11:10.072'
-      end: '00:11:11.448'
+      start:
+        sec: '670.072'
+        mark: '00:11:10.072'
+      end:
+        sec: '671.448'
+        mark: '00:11:11.448'
       u: The wholeGhetto was burning.
     - who: David Boder
-      start: '00:11:11.448'
-      end: '00:11:11.690'
+      start:
+        sec: '671.448'
+        mark: '00:11:11.448'
+      end:
+        sec: '671.690'
+        mark: '00:11:11.690'
       u: And...
     - who: Jurek Kestenberg
-      start: '00:11:11.690'
-      end: '00:11:38.241'
+      start:
+        sec: '671.690'
+        mark: '00:11:11.690'
+      end:
+        sec: '698.241'
+        mark: '00:11:38.241'
       u: The Germans saw that they have no means of bringing the other people out
         of the bunkers and such. They took and set afire everything that came under
         their hands. They saw with any other means they won’t succeed, only by setting
@@ -705,35 +1281,59 @@ recording:
         go outdoors. They were either...either they were shot or they were taken to
         Treblinka.
     - who: David Boder
-      start: '00:11:38.241'
-      end: '00:11:39.418'
+      start:
+        sec: '698.241'
+        mark: '00:11:38.241'
+      end:
+        sec: '699.418'
+        mark: '00:11:39.418'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:11:39.418'
-      end: '00:11:54.784'
+      start:
+        sec: '699.418'
+        mark: '00:11:39.418'
+      end:
+        sec: '714.784'
+        mark: '00:11:54.784'
       u: Towards the end there came an order that people should not be taken any more
         to Treblinka, because the Germans were...were afraid that this is much too
         easy a death for these Jews. So they wanted to make death a little harder.
         So they were sending to another lager in Poland called Majdanek.
     - who: David Boder
-      start: '00:11:54.784'
-      end: '00:11:56.987'
+      start:
+        sec: '714.784'
+        mark: '00:11:54.784'
+      end:
+        sec: '716.987'
+        mark: '00:11:56.987'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:11:56.987'
-      end: '00:12:16.092'
+      start:
+        sec: '716.987'
+        mark: '00:11:56.987'
+      end:
+        sec: '736.092'
+        mark: '00:12:16.092'
       u: And so people saw that...that death is approaching. People saw already, as
         one says, death before the eyes. People took and everybody...how does one
         say? People were already taking leave of one another. They were praying, everything.
         And there came a day, two days later, we saw our house is burning. There was
         a terrible panic, and...
     - who: David Boder
-      start: '00:12:16.092'
-      end: '00:12:16.623'
+      start:
+        sec: '736.092'
+        mark: '00:12:16.092'
+      end:
+        sec: '736.623'
+        mark: '00:12:16.623'
       u: Your house.
     - who: Jurek Kestenberg
-      start: '00:12:16.623'
-      end: '00:13:33.969'
+      start:
+        sec: '736.623'
+        mark: '00:12:16.623'
+      end:
+        sec: '813.969'
+        mark: '00:13:33.969'
       u: Your house..[corrects himself] our house, because we had the bunker there
         at home. And so we saw that the house is burning. We already saw that it is
         very bad with us. What does one do now? Go down and give oneself up into the
@@ -754,23 +1354,39 @@ recording:
         shot on the spot. And so we came out with the hands in the...the air. We went
         out. The Germans surr-...surrounded us.
     - who: David Boder
-      start: '00:13:33.969'
-      end: '00:13:35.152'
+      start:
+        sec: '813.969'
+        mark: '00:13:33.969'
+      end:
+        sec: '815.152'
+        mark: '00:13:35.152'
       u: Your family? Yes.
     - who: Jurek Kestenberg
-      start: '00:13:35.152'
-      end: '00:13:47.876'
+      start:
+        sec: '815.152'
+        mark: '00:13:35.152'
+      end:
+        sec: '827.876'
+        mark: '00:13:47.876'
       u: Yes. We were surrounded. They said to...looked over all the things that we
         had. We had a little food there, some shirts, various other things. Everything
         that we had was taken away, money, and so on, and so on, and we went [were
         taken] away.
     - who: David Boder
-      start: '00:13:47.876'
-      end: '00:13:49.084'
+      start:
+        sec: '827.876'
+        mark: '00:13:47.876'
+      end:
+        sec: '829.084'
+        mark: '00:13:49.084'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:13:49.084'
-      end: '00:14:14.850'
+      start:
+        sec: '829.084'
+        mark: '00:13:49.084'
+      end:
+        sec: '854.850'
+        mark: '00:14:14.850'
       u: Two SS men were leading us. And so it was a kind...a miracle that it wasn’t
         [they weren’t] all the murderers who were leading us, the two SS men. By chance
         they were two decent SS men. And so I still had...in the pocket I had with
@@ -778,75 +1394,139 @@ recording:
         the SS man says to us, ‘You are going to death now, but if you will give me
         something maybe I will be able to do something so you won’t be shot.’
     - who: David Boder
-      start: '00:14:14.850'
-      end: '00:14:15.653'
+      start:
+        sec: '854.850'
+        mark: '00:14:14.850'
+      end:
+        sec: '855.653'
+        mark: '00:14:15.653'
       u: The SS man?
     - who: Jurek Kestenberg
-      start: '00:14:15.653'
-      end: '00:14:22.462'
+      start:
+        sec: '855.653'
+        mark: '00:14:15.653'
+      end:
+        sec: '862.462'
+        mark: '00:14:22.462'
       u: Yes. We were very astonished, but I gave him my little watch, and he thanked
         me very much. He gave us there a little coffee to drink and so on.
     - who: David Boder
-      start: '00:14:22.462'
-      end: '00:14:23.476'
+      start:
+        sec: '862.462'
+        mark: '00:14:22.462'
+      end:
+        sec: '863.476'
+        mark: '00:14:23.476'
       u: He gave you coffee?
     - who: Jurek Kestenberg
-      start: '00:14:23.476'
-      end: '00:14:27.551'
+      start:
+        sec: '863.476'
+        mark: '00:14:23.476'
+      end:
+        sec: '867.551'
+        mark: '00:14:27.551'
       u: Yes. And he disappeared, disappeared suddenly. The SS man ran away somewhere,
         and he disappeared.
     - who: David Boder
-      start: '00:14:27.551'
-      end: '00:14:28.625'
+      start:
+        sec: '867.551'
+        mark: '00:14:27.551'
+      end:
+        sec: '868.625'
+        mark: '00:14:28.625'
       u: The German?
     - who: Jurek Kestenberg
-      start: '00:14:28.625'
-      end: '00:14:29.501'
+      start:
+        sec: '868.625'
+        mark: '00:14:28.625'
+      end:
+        sec: '869.501'
+        mark: '00:14:29.501'
       u: Yes. He took the little watch.
     - who: David Boder
-      start: '00:14:29.501'
-      end: '00:14:30.847'
+      start:
+        sec: '869.501'
+        mark: '00:14:29.501'
+      end:
+        sec: '870.847'
+        mark: '00:14:30.847'
       u: And who remained?
     - who: Jurek Kestenberg
-      start: '00:14:30.847'
-      end: '00:14:31.783'
+      start:
+        sec: '870.847'
+        mark: '00:14:30.847'
+      end:
+        sec: '871.783'
+        mark: '00:14:31.783'
       u: Another German, an SS man.
     - who: David Boder
-      start: '00:14:31.783'
-      end: '00:14:32.193'
+      start:
+        sec: '871.783'
+        mark: '00:14:31.783'
+      end:
+        sec: '872.193'
+        mark: '00:14:32.193'
       u: Another SS man.
     - who: Jurek Kestenberg
-      start: '00:14:32.193'
-      end: '00:14:32.737'
+      start:
+        sec: '872.193'
+        mark: '00:14:32.193'
+      end:
+        sec: '872.737'
+        mark: '00:14:32.737'
       u: There were two.
     - who: David Boder
-      start: '00:14:32.737'
-      end: '00:14:33.389'
+      start:
+        sec: '872.737'
+        mark: '00:14:32.737'
+      end:
+        sec: '873.389'
+        mark: '00:14:33.389'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:14:33.389'
-      end: '00:14:44.966'
+      start:
+        sec: '873.389'
+        mark: '00:14:33.389'
+      end:
+        sec: '884.966'
+        mark: '00:14:44.966'
       u: "[For] six people there were two SS, and so he ran away someplace and wasn’t
         seen any more. We were led over to a square. It was the corner of Nowolipia
         and Carmelitzka."
     - who: David Boder
-      start: '00:14:44.966'
-      end: '00:14:46.083'
+      start:
+        sec: '884.966'
+        mark: '00:14:44.966'
+      end:
+        sec: '886.083'
+        mark: '00:14:46.083'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:14:46.083'
-      end: '00:15:04.940'
+      start:
+        sec: '886.083'
+        mark: '00:14:46.083'
+      end:
+        sec: '904.940'
+        mark: '00:15:04.940'
       u: The streets, everything was in flames [word not clear] We were lined up.
         A large crowd had been gathered already. They were already around seven hundred,
         eight hundred people. All had come out from bunkers. They surrounded us, arranged
         [us] in one column, and we walked as far as the..as it is called, Umschlagplatz.
     - who: David Boder
-      start: '00:15:04.940'
-      end: '00:15:05.876'
+      start:
+        sec: '904.940'
+        mark: '00:15:04.940'
+      end:
+        sec: '905.876'
+        mark: '00:15:05.876'
       u: What is Umschlagplatz?
     - who: Jurek Kestenberg
-      start: '00:15:05.876'
-      end: '00:15:30.715'
+      start:
+        sec: '905.876'
+        mark: '00:15:05.876'
+      end:
+        sec: '930.715'
+        mark: '00:15:30.715'
       u: Umschlagplatz was a house where all the people were being assembled, all
         those who were going to...to Treblinka or to Majdanek. There was the point
         where all the people were concentrated. There came the trains, and we were
@@ -854,151 +1534,279 @@ recording:
         at the Umcshlagplatz [distribution depot] We saw many dead lying right next
         to the Umschlagplatz. And the Ukrainians, those German bandits...
     - who: David Boder
-      start: '00:15:30.715'
-      end: '00:15:31.639'
+      start:
+        sec: '930.715'
+        mark: '00:15:30.715'
+      end:
+        sec: '931.639'
+        mark: '00:15:31.639'
       u: Did you see it yourself?
     - who: Jurek Kestenberg
-      start: '00:15:31.639'
-      end: '00:15:52.542'
+      start:
+        sec: '931.639'
+        mark: '00:15:31.639'
+      end:
+        sec: '952.542'
+        mark: '00:15:52.542'
       u: I saw it myself. And the German Ukrainians, bandits were laughing. From afar
         yet they were showing us, ‘See where you are going. There are only corpses.’
         They were laughing. They nearly burst from laughing, from joy. And so we arrived
         there at the Umschlagplatz. The Umschlagplatz was a beautiful mansion, a beautiful...such
         a building. How does one say it? A beautiful house!
     - who: David Boder
-      start: '00:15:52.542'
-      end: '00:15:53.538'
+      start:
+        sec: '952.542'
+        mark: '00:15:52.542'
+      end:
+        sec: '953.538'
+        mark: '00:15:53.538'
       u: A house, yes.
     - who: Jurek Kestenberg
-      start: '00:15:53.538'
-      end: '00:16:03.586'
+      start:
+        sec: '953.538'
+        mark: '00:15:53.538'
+      end:
+        sec: '963.586'
+        mark: '00:16:03.586'
       u: Of four, five stories. And we were led in there. And there we were supposed
         to wait for the train, till the train arrives to lead us to death. And so
         as I have said before...
     - who: David Boder
-      start: '00:16:03.586'
-      end: '00:16:05.306'
+      start:
+        sec: '963.586'
+        mark: '00:16:03.586'
+      end:
+        sec: '965.306'
+        mark: '00:16:05.306'
       u: Were you told that you will be led to death?
     - who: Jurek Kestenberg
-      start: '00:16:05.306'
-      end: '00:16:06.966'
+      start:
+        sec: '965.306'
+        mark: '00:16:05.306'
+      end:
+        sec: '966.966'
+        mark: '00:16:06.966'
       u: We were told that we were going to death [to die]
     - who: David Boder
-      start: '00:16:06.966'
-      end: '00:16:07.570'
+      start:
+        sec: '966.966'
+        mark: '00:16:06.966'
+      end:
+        sec: '967.570'
+        mark: '00:16:07.570'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:16:07.570'
-      end: '00:16:12.447'
+      start:
+        sec: '967.570'
+        mark: '00:16:07.570'
+      end:
+        sec: '972.447'
+        mark: '00:16:12.447'
       u: Because they were sadists. They were happy that...that...that they can tell
         us something which will make us despair.
     - who: David Boder
-      start: '00:16:12.447'
-      end: '00:16:13.232'
+      start:
+        sec: '972.447'
+        mark: '00:16:12.447'
+      end:
+        sec: '973.232'
+        mark: '00:16:13.232'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:16:13.232'
-      end: '00:16:29.729'
+      start:
+        sec: '973.232'
+        mark: '00:16:13.232'
+      end:
+        sec: '989.729'
+        mark: '00:16:29.729'
       u: As I have already said, towards the end came an order not to send to Treblinka,
         but to Majdanek, because in Majdanek, if one...if one wants to die one has
         to suffer a bit. One has to go through panics. In Treblinka death was much
         easier. They wanted to send to Majdanek.
     - who: David Boder
-      start: '00:16:29.729'
-      end: '00:16:32.101'
+      start:
+        sec: '989.729'
+        mark: '00:16:29.729'
+      end:
+        sec: '992.101'
+        mark: '00:16:32.101'
       u: What was in Majdanek? In Majdanek was what?
     - who: Jurek Kestenberg
-      start: '00:16:32.101'
-      end: '00:16:34.003'
+      start:
+        sec: '992.101'
+        mark: '00:16:32.101'
+      end:
+        sec: '994.003'
+        mark: '00:16:34.003'
       u: In Majdanek death was not as fast.
     - who: David Boder
-      start: '00:16:34.003'
-      end: '00:16:37.069'
+      start:
+        sec: '994.003'
+        mark: '00:16:34.003'
+      end:
+        sec: '997.069'
+        mark: '00:16:37.069'
       u: Hm. And in Treblinka?
     - who: Jurek Kestenberg
-      start: '00:16:37.069'
-      end: '00:16:39.092'
+      start:
+        sec: '997.069'
+        mark: '00:16:37.069'
+      end:
+        sec: '999.092'
+        mark: '00:16:39.092'
       u: In Treblinka everybody was gassed immediately.
     - who: David Boder
-      start: '00:16:39.092'
-      end: '00:16:40.740'
+      start:
+        sec: '999.092'
+        mark: '00:16:39.092'
+      end:
+        sec: '1000.740'
+        mark: '00:16:40.740'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:16:40.740'
-      end: '00:16:42.931'
+      start:
+        sec: '1000.740'
+        mark: '00:16:40.740'
+      end:
+        sec: '1002.931'
+        mark: '00:16:42.931'
       u: Pardon, I have forgotten to mention something.
     - who: David Boder
-      start: '00:16:42.931'
-      end: '00:16:44.410'
+      start:
+        sec: '1002.931'
+        mark: '00:16:42.931'
+      end:
+        sec: '1004.410'
+        mark: '00:16:44.410'
       u: Yes. Say whatever you...
     - who: Jurek Kestenberg
-      start: '00:16:44.410'
-      end: '00:16:57.116'
+      start:
+        sec: '1004.410'
+        mark: '00:16:44.410'
+      end:
+        sec: '1017.116'
+        mark: '00:16:57.116'
       u: Two weeks before...before the expulsion, before that expulsion, I was going...I
         was taking lessons from a teacher, privately at [his] home, because Jews were
         not supposed to. They were not allowed to go to school. So I was studying
         with such a professor.
     - who: David Boder
-      start: '00:16:57.116'
-      end: '00:16:58.384'
+      start:
+        sec: '1017.116'
+        mark: '00:16:57.116'
+      end:
+        sec: '1018.384'
+        mark: '00:16:58.384'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:16:58.384'
-      end: '00:17:05.314'
+      start:
+        sec: '1018.384'
+        mark: '00:16:58.384'
+      end:
+        sec: '1025.314'
+        mark: '00:17:05.314'
       u: And while [we were] walking to school, the Ukrainians surrounded the streets,
         and they caught me.
     - who: David Boder
-      start: '00:17:05.314'
-      end: '00:17:06.539'
+      start:
+        sec: '1025.314'
+        mark: '00:17:05.314'
+      end:
+        sec: '1026.539'
+        mark: '00:17:06.539'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:17:06.539'
-      end: '00:17:26.670'
+      start:
+        sec: '1026.539'
+        mark: '00:17:06.539'
+      end:
+        sec: '1046.670'
+        mark: '00:17:26.670'
       u: And the Ukrainians had surrounded the streets, seizing all the people who
         they wanted to send East. And so, unfortunately, I fell into such a transport.
         I was caught and taken to the distribution depot. But at that time it was
         not yet so bad. They loaded us into the train, and we were told that we are
         going to Majdanek..[correct himself] to Treblinka, rather.
     - who: David Boder
-      start: '00:17:26.670'
-      end: '00:17:27.696'
+      start:
+        sec: '1046.670'
+        mark: '00:17:26.670'
+      end:
+        sec: '1047.696'
+        mark: '00:17:27.696'
       u: There were children only.
     - who: Jurek Kestenberg
-      start: '00:17:27.696'
-      end: '00:17:28.149'
+      start:
+        sec: '1047.696'
+        mark: '00:17:27.696'
+      end:
+        sec: '1048.149'
+        mark: '00:17:28.149'
       u: Yes.
     - who: David Boder
-      start: '00:17:28.149'
-      end: '00:17:28.390'
+      start:
+        sec: '1048.149'
+        mark: '00:17:28.149'
+      end:
+        sec: '1048.390'
+        mark: '00:17:28.390'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:17:28.390'
-      end: '00:17:31.894'
+      start:
+        sec: '1048.390'
+        mark: '00:17:28.390'
+      end:
+        sec: '1051.894'
+        mark: '00:17:31.894'
       u: The whole transport did not consist of children alone. There were grown-ups,
         too.
     - who: David Boder
-      start: '00:17:31.894'
-      end: '00:17:32.063'
+      start:
+        sec: '1051.894'
+        mark: '00:17:31.894'
+      end:
+        sec: '1052.063'
+        mark: '00:17:32.063'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:17:32.063'
-      end: '00:17:32.425'
+      start:
+        sec: '1052.063'
+        mark: '00:17:32.063'
+      end:
+        sec: '1052.425'
+        mark: '00:17:32.425'
       u: All were caught.
     - who: David Boder
-      start: '00:17:32.425'
-      end: '00:17:33.693'
+      start:
+        sec: '1052.425'
+        mark: '00:17:32.425'
+      end:
+        sec: '1053.693'
+        mark: '00:17:33.693'
       u: But you were by yourself?
     - who: Jurek Kestenberg
-      start: '00:17:33.693'
-      end: '00:17:34.043'
+      start:
+        sec: '1053.693'
+        mark: '00:17:33.693'
+      end:
+        sec: '1054.043'
+        mark: '00:17:34.043'
       u: Yes.
     - who: David Boder
-      start: '00:17:34.043'
-      end: '00:17:34.556'
+      start:
+        sec: '1054.043'
+        mark: '00:17:34.043'
+      end:
+        sec: '1054.556'
+        mark: '00:17:34.556'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:17:34.556'
-      end: '00:18:09.136'
+      start:
+        sec: '1054.556'
+        mark: '00:17:34.556'
+      end:
+        sec: '1089.136'
+        mark: '00:18:09.136'
       u: Because my parents were at home. I had been going to a...to my teacher for
         a lesson. And we were at that time about two, three thousand people. And so
         we were sent away. It was said that we are going to Treblinka to [meet our]
@@ -1008,12 +1816,20 @@ recording:
         files, to file the...the...the bars, to file through the bars of the train
         [windows]
     - who: David Boder
-      start: '00:18:09.136'
-      end: '00:18:10.361'
+      start:
+        sec: '1089.136'
+        mark: '00:18:09.136'
+      end:
+        sec: '1090.361'
+        mark: '00:18:10.361'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:18:10.361'
-      end: '00:18:42.175'
+      start:
+        sec: '1090.361'
+        mark: '00:18:10.361'
+      end:
+        sec: '1122.175'
+        mark: '00:18:42.175'
       u: And so they cut the bars, and two people jumped from the train. What happened
         to them I don’t know, because I only heard shots. The Germans were firing
         after them. The main thing is that after ten minutes I had thought it over.
@@ -1022,87 +1838,167 @@ recording:
         got out on the roof, and the Ukrainians were standing on the steps of the
         train. They didn’t see it, because the windows led to the roof of the...
     - who: David Boder
-      start: '00:18:42.175'
-      end: '00:18:42.284'
+      start:
+        sec: '1122.175'
+        mark: '00:18:42.175'
+      end:
+        sec: '1122.284'
+        mark: '00:18:42.284'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:18:42.284'
-      end: '00:18:43.600'
+      start:
+        sec: '1122.284'
+        mark: '00:18:42.284'
+      end:
+        sec: '1123.600'
+        mark: '00:18:43.600'
       u: ". . . of the train."
     - who: David Boder
-      start: '00:18:43.600'
-      end: '00:18:45.188'
+      start:
+        sec: '1123.600'
+        mark: '00:18:43.600'
+      end:
+        sec: '1125.188'
+        mark: '00:18:45.188'
       u: What was it, a passenger RR-car?
     - who: Jurek Kestenberg
-      start: '00:18:45.188'
-      end: '00:18:46.655'
+      start:
+        sec: '1125.188'
+        mark: '00:18:45.188'
+      end:
+        sec: '1126.655'
+        mark: '00:18:46.655'
       u: No, No, A freight train it was.
     - who: David Boder
-      start: '00:18:46.655'
-      end: '00:18:48.544'
+      start:
+        sec: '1126.655'
+        mark: '00:18:46.655'
+      end:
+        sec: '1128.544'
+        mark: '00:18:48.544'
       u: So how can one climb on the roof?
     - who: Jurek Kestenberg
-      start: '00:18:48.544'
-      end: '00:18:51.230'
+      start:
+        sec: '1128.544'
+        mark: '00:18:48.544'
+      end:
+        sec: '1131.230'
+        mark: '00:18:51.230'
       u: Because the people were standing. A full train of people. One put the hands
         under...
     - who: David Boder
-      start: '00:18:51.230'
-      end: '00:18:51.351'
+      start:
+        sec: '1131.230'
+        mark: '00:18:51.230'
+      end:
+        sec: '1131.351'
+        mark: '00:18:51.351'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:18:51.351'
-      end: '00:18:52.106'
+      start:
+        sec: '1131.351'
+        mark: '00:18:51.351'
+      end:
+        sec: '1132.106'
+        mark: '00:18:52.106'
       u: Thus one did climb...
     - who: David Boder
-      start: '00:18:52.106'
-      end: '00:18:52.184'
+      start:
+        sec: '1132.106'
+        mark: '00:18:52.106'
+      end:
+        sec: '1132.184'
+        mark: '00:18:52.184'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:18:52.184'
-      end: '00:18:54.146'
+      start:
+        sec: '1132.184'
+        mark: '00:18:52.184'
+      end:
+        sec: '1134.146'
+        mark: '00:18:54.146'
       u: ". . . on the roof."
     - who: David Boder
-      start: '00:18:54.146'
-      end: '00:18:55.987'
+      start:
+        sec: '1134.146'
+        mark: '00:18:54.146'
+      end:
+        sec: '1135.987'
+        mark: '00:18:55.987'
       u: On the roof. The people supported with their hands.
     - who: Jurek Kestenberg
-      start: '00:18:55.987'
-      end: '00:18:57.406'
+      start:
+        sec: '1135.987'
+        mark: '00:18:55.987'
+      end:
+        sec: '1137.406'
+        mark: '00:18:57.406'
       u: The people were helping. Everybody wanted to see...
     - who: David Boder
-      start: '00:18:57.406'
-      end: '00:18:57.635'
+      start:
+        sec: '1137.406'
+        mark: '00:18:57.406'
+      end:
+        sec: '1137.635'
+        mark: '00:18:57.635'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:18:57.635'
-      end: '00:18:59.326'
+      start:
+        sec: '1137.635'
+        mark: '00:18:57.635'
+      end:
+        sec: '1139.326'
+        mark: '00:18:59.326'
       u: ". . . somebody may save himself."
     - who: David Boder
-      start: '00:18:59.326'
-      end: '00:18:59.887'
+      start:
+        sec: '1139.326'
+        mark: '00:18:59.326'
+      end:
+        sec: '1139.887'
+        mark: '00:18:59.887'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:18:59.887'
-      end: '00:19:08.519'
+      start:
+        sec: '1139.887'
+        mark: '00:18:59.887'
+      end:
+        sec: '1148.519'
+        mark: '00:19:08.519'
       u: And so I got out on the roof. I was lying so. I was afraid that the Ukrainians
         might see me. I was lying so till I saw that...that the train was going up
         such a hill.
     - who: David Boder
-      start: '00:19:08.519'
-      end: '00:19:09.093'
+      start:
+        sec: '1148.519'
+        mark: '00:19:08.519'
+      end:
+        sec: '1149.093'
+        mark: '00:19:09.093'
       u: Yes?
     - who: Jurek Kestenberg
-      start: '00:19:09.093'
-      end: '00:19:11.948'
+      start:
+        sec: '1149.093'
+        mark: '00:19:09.093'
+      end:
+        sec: '1151.948'
+        mark: '00:19:11.948'
       u: What does hill mean? The tracks are on grass, high.
     - who: David Boder
-      start: '00:19:11.948'
-      end: '00:19:12.190'
+      start:
+        sec: '1151.948'
+        mark: '00:19:11.948'
+      end:
+        sec: '1152.190'
+        mark: '00:19:12.190'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:19:12.190'
-      end: '00:19:48.653'
+      start:
+        sec: '1152.190'
+        mark: '00:19:12.190'
+      end:
+        sec: '1188.653'
+        mark: '00:19:48.653'
       u: And here it is better to jump, because if one jumps on a level stretch, one
         can fall under the train. But if one jumps on a hill, one falls, rolls down
         the hill, right down there. And so, I thought it over well and jumped. I don’t
@@ -1112,64 +2008,120 @@ recording:
         playing, running, jumping. I started yelling, and the children ran away and
         brought with them, must be, their father, an old Gentile.
     - who: David Boder
-      start: '00:19:48.653'
-      end: '00:19:49.124'
+      start:
+        sec: '1188.653'
+        mark: '00:19:48.653'
+      end:
+        sec: '1189.124'
+        mark: '00:19:49.124'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:19:49.124'
-      end: '00:19:57.532'
+      start:
+        sec: '1189.124'
+        mark: '00:19:49.124'
+      end:
+        sec: '1197.532'
+        mark: '00:19:57.532'
       u: Brought him along. The father took me into the house. By chance I was lucky,
         because he was a very decent Gentile. He took me into the house.
     - who: David Boder
-      start: '00:19:57.532'
-      end: '00:19:58.408'
+      start:
+        sec: '1197.532'
+        mark: '00:19:57.532'
+      end:
+        sec: '1198.408'
+        mark: '00:19:58.408'
       u: A Gentile?
     - who: Jurek Kestenberg
-      start: '00:19:58.408'
-      end: '00:19:59.090'
+      start:
+        sec: '1198.408'
+        mark: '00:19:58.408'
+      end:
+        sec: '1199.090'
+        mark: '00:19:59.090'
       u: Yes.
     - who: David Boder
-      start: '00:19:59.090'
-      end: '00:19:59.362'
+      start:
+        sec: '1199.090'
+        mark: '00:19:59.090'
+      end:
+        sec: '1199.362'
+        mark: '00:19:59.362'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:19:59.362'
-      end: '00:20:06.533'
+      start:
+        sec: '1199.362'
+        mark: '00:19:59.362'
+      end:
+        sec: '1206.533'
+        mark: '00:20:06.533'
       u: And he makes me a...a...How does one say it? A bandage on the leg, because
         it appeared that I had a bullet in my leg as far as the bone.
     - who: David Boder
-      start: '00:20:06.533'
-      end: '00:20:06.895'
+      start:
+        sec: '1206.533'
+        mark: '00:20:06.533'
+      end:
+        sec: '1206.895'
+        mark: '00:20:06.895'
       u: A what?
     - who: Jurek Kestenberg
-      start: '00:20:06.895'
-      end: '00:20:09.340'
+      start:
+        sec: '1206.895'
+        mark: '00:20:06.895'
+      end:
+        sec: '1209.340'
+        mark: '00:20:09.340'
       u: A bullet from a rifle shot.
     - who: David Boder
-      start: '00:20:09.340'
-      end: '00:20:10.324'
+      start:
+        sec: '1209.340'
+        mark: '00:20:09.340'
+      end:
+        sec: '1210.324'
+        mark: '00:20:10.324'
       u: Oh! You still have...
     - who: Jurek Kestenberg
-      start: '00:20:10.324'
-      end: '00:20:11.881'
+      start:
+        sec: '1210.324'
+        mark: '00:20:10.324'
+      end:
+        sec: '1211.881'
+        mark: '00:20:11.881'
       u: Here. Yes. I can show it to you.
     - who: David Boder
-      start: '00:20:11.881'
-      end: '00:20:23.561'
+      start:
+        sec: '1211.881'
+        mark: '00:20:11.881'
+      end:
+        sec: '1223.561'
+        mark: '00:20:23.561'
       u: "[In English] He is now showing me a bullet wound on the leg which he got
         when he jumped off the train trying to escape from a transport that was sent
         to...Treblinka?"
     - who: Jurek Kestenberg
-      start: '00:20:23.561'
-      end: '00:20:23.954'
+      start:
+        sec: '1223.561'
+        mark: '00:20:23.561'
+      end:
+        sec: '1223.954'
+        mark: '00:20:23.954'
       u: Yes.
     - who: David Boder
-      start: '00:20:23.954'
-      end: '00:20:25.934'
+      start:
+        sec: '1223.954'
+        mark: '00:20:23.954'
+      end:
+        sec: '1225.934'
+        mark: '00:20:25.934'
       u: Yes. All right.
     - who: Jurek Kestenberg
-      start: '00:20:25.934'
-      end: '00:21:08.013'
+      start:
+        sec: '1225.934'
+        mark: '00:20:25.934'
+      end:
+        sec: '1268.013'
+        mark: '00:21:08.013'
       u: And so the woman bandaged me. The Poles, the peasants had there various medicines.
         They brought it, and put [it] on, and I was with them four days. After four
         days they gave me to eat well. They gave me to eat and to drink. They had
@@ -1180,76 +2132,140 @@ recording:
         about ten kilometers. After ten kilometers I already went on foot, walked
         to Warsaw. I still had money.
     - who: David Boder
-      start: '00:21:08.013'
-      end: '00:21:09.221'
+      start:
+        sec: '1268.013'
+        mark: '00:21:08.013'
+      end:
+        sec: '1269.221'
+        mark: '00:21:09.221'
       u: Did you pay him anything?
     - who: Jurek Kestenberg
-      start: '00:21:09.221'
-      end: '00:21:24.299'
+      start:
+        sec: '1269.221'
+        mark: '00:21:09.221'
+      end:
+        sec: '1284.299'
+        mark: '00:21:24.299'
       u: No, nothing. He didn’t want to take anything. At present I happened to find
         his address, not found, but I remembered his address, so I wrote him a letter
         two, three weeks ago. I have not received an answer from him yet. And so I
         got into Warsaw.
     - who: David Boder
-      start: '00:21:24.299'
-      end: '00:21:25.778'
+      start:
+        sec: '1284.299'
+        mark: '00:21:24.299'
+      end:
+        sec: '1285.778'
+        mark: '00:21:25.778'
       u: You have written to that peasant.
     - who: Jurek Kestenberg
-      start: '00:21:25.778'
-      end: '00:21:26.080'
+      start:
+        sec: '1285.778'
+        mark: '00:21:25.778'
+      end:
+        sec: '1286.080'
+        mark: '00:21:26.080'
       u: Yes.
     - who: David Boder
-      start: '00:21:26.080'
-      end: '00:21:26.382'
+      start:
+        sec: '1286.080'
+        mark: '00:21:26.080'
+      end:
+        sec: '1286.382'
+        mark: '00:21:26.382'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:21:26.382'
-      end: '00:21:27.788'
+      start:
+        sec: '1286.382'
+        mark: '00:21:26.382'
+      end:
+        sec: '1287.788'
+        mark: '00:21:27.788'
       u: I have not received an answer yet.
     - who: David Boder
-      start: '00:21:27.788'
-      end: '00:21:28.211'
+      start:
+        sec: '1287.788'
+        mark: '00:21:27.788'
+      end:
+        sec: '1288.211'
+        mark: '00:21:28.211'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:21:28.211'
-      end: '00:21:33.813'
+      start:
+        sec: '1288.211'
+        mark: '00:21:28.211'
+      end:
+        sec: '1293.813'
+        mark: '00:21:33.813'
       u: So I got into Warsaw. So I...I bribed the Polish policeman.
     - who: David Boder
-      start: '00:21:33.813'
-      end: '00:21:34.012'
+      start:
+        sec: '1293.813'
+        mark: '00:21:33.813'
+      end:
+        sec: '1294.012'
+        mark: '00:21:34.012'
       u: With what?
     - who: Jurek Kestenberg
-      start: '00:21:34.012'
-      end: '00:21:47.171'
+      start:
+        sec: '1294.012'
+        mark: '00:21:34.012'
+      end:
+        sec: '1307.171'
+        mark: '00:21:47.171'
       u: I gave him money. I had money on me. I had eight hundred Zlotys, so I gave
         him two hundred Zlotys. He let me into the Ghetto. He led me through. I looked
         terrible. The face [was] all lacerated because I had fallen on my face...
     - who: David Boder
-      start: '00:21:47.171'
-      end: '00:21:47.745'
+      start:
+        sec: '1307.171'
+        mark: '00:21:47.171'
+      end:
+        sec: '1307.745'
+        mark: '00:21:47.745'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:21:47.745'
-      end: '00:22:06.234'
+      start:
+        sec: '1307.745'
+        mark: '00:21:47.745'
+      end:
+        sec: '1326.234'
+        mark: '00:22:06.234'
       u: ". . . while falling on the grass. Everything torn. I ran into the house.
         You can imagine, you can well imagine the joy on seeing me walk into the house.
         Everybody was already certain that I am no more. After being absent for such
         a time, everybody was already certain..."
     - who: David Boder
-      start: '00:22:06.234'
-      end: '00:22:07.580'
+      start:
+        sec: '1326.234'
+        mark: '00:22:06.234'
+      end:
+        sec: '1327.580'
+        mark: '00:22:07.580'
       u: How many days were you away?
     - who: Jurek Kestenberg
-      start: '00:22:07.580'
-      end: '00:22:08.123'
+      start:
+        sec: '1327.580'
+        mark: '00:22:07.580'
+      end:
+        sec: '1328.123'
+        mark: '00:22:08.123'
       u: Four days.
     - who: David Boder
-      start: '00:22:08.123'
-      end: '00:22:08.908'
+      start:
+        sec: '1328.123'
+        mark: '00:22:08.123'
+      end:
+        sec: '1328.908'
+        mark: '00:22:08.908'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:22:08.908'
-      end: '00:23:08.810'
+      start:
+        sec: '1328.908'
+        mark: '00:22:08.908'
+      end:
+        sec: '1388.810'
+        mark: '00:23:08.810'
       u: Everybody was certain that I am already...that I am not alive any more. You
         can imagine everyone’s joy that occurred at home. Nu, after two weeks...it
         was two weeks later, yes, everything had already healed, everything. The leg
@@ -1264,127 +2280,239 @@ recording:
         a search...a search. The men were undressed nude, the women nude. They looked
         for money. They were always looking for money, money and diamonds, all things.
     - who: David Boder
-      start: '00:23:08.810'
-      end: '00:23:10.712'
+      start:
+        sec: '1388.810'
+        mark: '00:23:08.810'
+      end:
+        sec: '1390.712'
+        mark: '00:23:10.712'
       u: And the women and men were kept together?
     - who: Jurek Kestenberg
-      start: '00:23:10.712'
-      end: '00:00:00.000'
+      start:
+        sec: '1390.712'
+        mark: '00:23:10.712'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: No, no separately. The women were taken separately into a room and the men
         separately. They were undressed nude.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:23:15.891'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '1395.891'
+        mark: '00:23:15.891'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:23:15.891'
-      end: '00:23:18.306'
+      start:
+        sec: '1395.891'
+        mark: '00:23:15.891'
+      end:
+        sec: '1398.306'
+        mark: '00:23:18.306'
       u: And a [personal] search was made, searched...
     - who: David Boder
-      start: '00:23:18.306'
-      end: '00:23:20.195'
+      start:
+        sec: '1398.306'
+        mark: '00:23:18.306'
+      end:
+        sec: '1400.195'
+        mark: '00:23:20.195'
       u: And you had remained with your father and...
     - who: Jurek Kestenberg
-      start: '00:23:20.195'
-      end: '00:23:22.248'
+      start:
+        sec: '1400.195'
+        mark: '00:23:20.195'
+      end:
+        sec: '1402.248'
+        mark: '00:23:22.248'
       u: With the father, with the mother, and with my...with my...
     - who: David Boder
-      start: '00:23:22.248'
-      end: '00:23:24.982'
+      start:
+        sec: '1402.248'
+        mark: '00:23:22.248'
+      end:
+        sec: '1404.982'
+        mark: '00:23:24.982'
       u: But the mother was taken into another room.
     - who: Jurek Kestenberg
-      start: '00:23:24.982'
-      end: '00:23:43.272'
+      start:
+        sec: '1404.982'
+        mark: '00:23:24.982'
+      end:
+        sec: '1423.272'
+        mark: '00:23:43.272'
       u: Into another room. They were undressed, and they were...they were searched
         for money. Luckily they didn’t find anything, because my mother didn’t have
         anything on her any more, and she was returned again to us to our room. And
         so after two days of such...such a hardship...
     - who: David Boder
-      start: '00:23:43.272'
-      end: '00:23:46.381'
+      start:
+        sec: '1423.272'
+        mark: '00:23:43.272'
+      end:
+        sec: '1426.381'
+        mark: '00:23:46.381'
       u: You stayed in the distribution depot for two days?
     - who: Jurek Kestenberg
-      start: '00:23:46.381'
-      end: '00:23:47.606'
+      start:
+        sec: '1426.381'
+        mark: '00:23:46.381'
+      end:
+        sec: '1427.606'
+        mark: '00:23:47.606'
       u: Two days we stayed there in the distribution depot.
     - who: David Boder
-      start: '00:23:47.606'
-      end: '00:23:48.693'
+      start:
+        sec: '1427.606'
+        mark: '00:23:47.606'
+      end:
+        sec: '1428.693'
+        mark: '00:23:48.693'
       u: Were you given to eat?
     - who: Jurek Kestenberg
-      start: '00:23:48.693'
-      end: '00:23:54.295'
+      start:
+        sec: '1428.693'
+        mark: '00:23:48.693'
+      end:
+        sec: '1434.295'
+        mark: '00:23:54.295'
       u: We were not given anything to eat, but we still had...everybody had with
         him what he took along from the bunker, a few rusks and piece of...
     - who: David Boder
-      start: '00:23:54.295'
-      end: '00:23:54.917'
+      start:
+        sec: '1434.295'
+        mark: '00:23:54.295'
+      end:
+        sec: '1434.917'
+        mark: '00:23:54.917'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:23:54.917'
-      end: '00:24:09.482'
+      start:
+        sec: '1434.917'
+        mark: '00:23:54.917'
+      end:
+        sec: '1449.482'
+        mark: '00:24:09.482'
       u: ". . . other things. We lived on that. After that, we heard the train was
         arriving, and everybody had to go outside, into the train. We were arranged
         in pairs and threes, and we were packed into the train, a hundred and twenty
         people in a RR-car. Thus we..."
     - who: David Boder
-      start: '00:24:09.482'
-      end: '00:24:10.086'
+      start:
+        sec: '1449.482'
+        mark: '00:24:09.482'
+      end:
+        sec: '1450.086'
+        mark: '00:24:10.086'
       u: A hundred and twenty people?
     - who: Jurek Kestenberg
-      start: '00:24:10.086'
-      end: '00:24:12.983'
+      start:
+        sec: '1450.086'
+        mark: '00:24:10.086'
+      end:
+        sec: '1452.983'
+        mark: '00:24:12.983'
       u: A hundred and twenty people in one RR-car, a closed RR-car.
     - who: David Boder
-      start: '00:24:12.983'
-      end: '00:24:13.255'
+      start:
+        sec: '1452.983'
+        mark: '00:24:12.983'
+      end:
+        sec: '1453.255'
+        mark: '00:24:13.255'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:24:13.255'
-      end: '00:24:21.790'
+      start:
+        sec: '1453.255'
+        mark: '00:24:13.255'
+      end:
+        sec: '1461.790'
+        mark: '00:24:21.790'
       u: We could not breathe at all. And so after...after a journey of two hours
         there were already in our wagon three people asphyxiated, suffocated.
     - who: David Boder
-      start: '00:24:21.790'
-      end: '00:24:21.881'
+      start:
+        sec: '1461.790'
+        mark: '00:24:21.790'
+      end:
+        sec: '1461.881'
+        mark: '00:24:21.881'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:24:21.881'
-      end: '00:24:23.137'
+      start:
+        sec: '1461.881'
+        mark: '00:24:21.881'
+      end:
+        sec: '1463.137'
+        mark: '00:24:23.137'
       u: Because they had no air.
     - who: David Boder
-      start: '00:24:23.137'
-      end: '00:24:24.030'
+      start:
+        sec: '1463.137'
+        mark: '00:24:23.137'
+      end:
+        sec: '1464.030'
+        mark: '00:24:24.030'
       u: Hm
     - who: Jurek Kestenberg
-      start: '00:24:24.030'
-      end: '00:24:30.700'
+      start:
+        sec: '1464.030'
+        mark: '00:24:24.030'
+      end:
+        sec: '1470.700'
+        mark: '00:24:30.700'
       u: Because the Ukrainians were playing with us. As soon as the wagons were closed...there
         were iron windows that could be shut.
     - who: David Boder
-      start: '00:24:30.700'
-      end: '00:24:31.395'
+      start:
+        sec: '1470.700'
+        mark: '00:24:30.700'
+      end:
+        sec: '1471.395'
+        mark: '00:24:31.395'
       u: What was there?
     - who: Jurek Kestenberg
-      start: '00:24:31.395'
-      end: '00:24:32.530'
+      start:
+        sec: '1471.395'
+        mark: '00:24:31.395'
+      end:
+        sec: '1472.530'
+        mark: '00:24:32.530'
       u: Iron windows.
     - who: David Boder
-      start: '00:24:32.530'
-      end: '00:24:33.906'
+      start:
+        sec: '1472.530'
+        mark: '00:24:32.530'
+      end:
+        sec: '1473.906'
+        mark: '00:24:33.906'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:24:33.906'
-      end: '00:24:41.180'
+      start:
+        sec: '1473.906'
+        mark: '00:24:33.906'
+      end:
+        sec: '1481.180'
+        mark: '00:24:41.180'
       u: Windows that could be shut. So they took and closed the windows completely.
         And they said whoever wants the windows to be opened has to give money.
     - who: David Boder
-      start: '00:24:41.180'
-      end: '00:24:41.530'
+      start:
+        sec: '1481.180'
+        mark: '00:24:41.180'
+      end:
+        sec: '1481.530'
+        mark: '00:24:41.530'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:24:41.530'
-      end: '00:25:41.438'
+      start:
+        sec: '1481.530'
+        mark: '00:24:41.530'
+      end:
+        sec: '1541.438'
+        mark: '00:25:41.438'
       u: Who [If we] will give the money, they will open the window. However, the
         people did not have any money, because everything had been taken away there
         at the distribution depot during the search, but there were found some people
@@ -1401,21 +2529,37 @@ recording:
         on the spot. A little boy wanted to give water. He was shot right away, shot
         on the spot. He...
     - who: David Boder
-      start: '00:25:41.438'
-      end: '00:25:42.271'
+      start:
+        sec: '1541.438'
+        mark: '00:25:41.438'
+      end:
+        sec: '1542.271'
+        mark: '00:25:42.271'
       u: The boy was shot?
     - who: Jurek Kestenberg
-      start: '00:25:42.271'
-      end: '00:25:47.692'
+      start:
+        sec: '1542.271'
+        mark: '00:25:42.271'
+      end:
+        sec: '1547.692'
+        mark: '00:25:47.692'
       u: He was immediately shot. He remained lying right there with the little bottle
         in the hand. He could not even hand over a little water.
     - who: David Boder
-      start: '00:25:47.692'
-      end: '00:25:51.603'
+      start:
+        sec: '1547.692'
+        mark: '00:25:47.692'
+      end:
+        sec: '1551.603'
+        mark: '00:25:51.603'
       u: A little slower please. Nu.
     - who: Jurek Kestenberg
-      start: '00:25:51.603'
-      end: '00:26:50.515'
+      start:
+        sec: '1551.603'
+        mark: '00:25:51.603'
+      end:
+        sec: '1610.515'
+        mark: '00:26:50.515'
       u: And after a time we arrived in Majdanek. I can’t say exactly how long we
         rode because we had no watches. People did not think at all about time. People
         thought just about getting out, be it Treblinka, be it Majdanek. Just to get
@@ -1428,28 +2572,52 @@ recording:
         chased out in one line everybody on...on...on a...on a...such a platform.
         Chased out everybody and [ordered,]’Run, run fast.’ You can imag...
     - who: David Boder
-      start: '00:26:50.515'
-      end: '00:26:51.209'
+      start:
+        sec: '1610.515'
+        mark: '00:26:50.515'
+      end:
+        sec: '1611.209'
+        mark: '00:26:51.209'
       u: What is that?
     - who: Jurek Kestenberg
-      start: '00:26:51.209'
-      end: '00:26:52.477'
+      start:
+        sec: '1611.209'
+        mark: '00:26:51.209'
+      end:
+        sec: '1612.477'
+        mark: '00:26:52.477'
       u: To run.
     - who: David Boder
-      start: '00:26:52.477'
-      end: '00:26:54.125'
+      start:
+        sec: '1612.477'
+        mark: '00:26:52.477'
+      end:
+        sec: '1614.125'
+        mark: '00:26:54.125'
       u: Run to where?
     - who: Jurek Kestenberg
-      start: '00:26:54.125'
-      end: '00:26:55.682'
+      start:
+        sec: '1614.125'
+        mark: '00:26:54.125'
+      end:
+        sec: '1615.682'
+        mark: '00:26:55.682'
       u: No, in one line. There stood such a house.
     - who: David Boder
-      start: '00:26:55.682'
-      end: '00:26:56.135'
+      start:
+        sec: '1615.682'
+        mark: '00:26:55.682'
+      end:
+        sec: '1616.135'
+        mark: '00:26:56.135'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:26:56.135'
-      end: '00:27:52.893'
+      start:
+        sec: '1616.135'
+        mark: '00:26:56.135'
+      end:
+        sec: '1672.893'
+        mark: '00:27:52.893'
       u: Right nearby. And we were supposed to go in there to bathe. We were told.
         And so you can imagine, everybody...how is it possible after riding such a
         long time where we didn’t have a drop of water, were so weakened. Suddenly
@@ -1464,328 +2632,632 @@ recording:
         were separated. The women taken separately. The men were taken separately,
         and small children were taken separately.
     - who: David Boder
-      start: '00:27:52.893'
-      end: '00:27:54.239'
+      start:
+        sec: '1672.893'
+        mark: '00:27:52.893'
+      end:
+        sec: '1674.239'
+        mark: '00:27:54.239'
       u: Who? Where to?
     - who: Jurek Kestenberg
-      start: '00:27:54.239'
-      end: '00:27:55.899'
+      start:
+        sec: '1674.239'
+        mark: '00:27:54.239'
+      end:
+        sec: '1675.899'
+        mark: '00:27:55.899'
       u: The small children, up to ten years, were taken separately.
     - who: David Boder
-      start: '00:27:55.899'
-      end: '00:27:56.774'
+      start:
+        sec: '1675.899'
+        mark: '00:27:55.899'
+      end:
+        sec: '1676.774'
+        mark: '00:27:56.774'
       u: Who did that? The...
     - who: Jurek Kestenberg
-      start: '00:27:56.774'
-      end: '00:27:57.589'
+      start:
+        sec: '1676.774'
+        mark: '00:27:56.774'
+      end:
+        sec: '1677.589'
+        mark: '00:27:57.589'
       u: The SS.
     - who: David Boder
-      start: '00:27:57.589'
-      end: '00:27:58.072'
+      start:
+        sec: '1677.589'
+        mark: '00:27:57.589'
+      end:
+        sec: '1678.072'
+        mark: '00:27:58.072'
       u: The SS?
     - who: Jurek Kestenberg
-      start: '00:27:58.072'
-      end: '00:27:59.038'
+      start:
+        sec: '1678.072'
+        mark: '00:27:58.072'
+      end:
+        sec: '1679.038'
+        mark: '00:27:59.038'
       u: Officers, all...
     - who: David Boder
-      start: '00:27:59.038'
-      end: '00:27:59.660'
+      start:
+        sec: '1679.038'
+        mark: '00:27:59.038'
+      end:
+        sec: '1679.660'
+        mark: '00:27:59.660'
       u: Yes?
     - who: Jurek Kestenberg
-      start: '00:27:59.660'
-      end: '00:28:11.901'
+      start:
+        sec: '1679.660'
+        mark: '00:27:59.660'
+      end:
+        sec: '1691.901'
+        mark: '00:28:11.901'
       u: With large whips they took and separated the little children. Every child,
         children up to ten, separately, and all the women separately, and the men
         separately, and we were sent into the bath [he uses the word Bud which could
         be taken for room, shack, hence the question]
     - who: David Boder
-      start: '00:28:11.901'
-      end: '00:28:13.712'
+      start:
+        sec: '1691.901'
+        mark: '00:28:11.901'
+      end:
+        sec: '1693.712'
+        mark: '00:28:13.712'
       u: What is a Bud, a house?
     - who: Jurek Kestenberg
-      start: '00:28:13.712'
-      end: '00:28:15.493'
+      start:
+        sec: '1693.712'
+        mark: '00:28:13.712'
+      end:
+        sec: '1695.493'
+        mark: '00:28:15.493'
       u: A house for bathing.
     - who: David Boder
-      start: '00:28:15.493'
-      end: '00:28:16.054'
+      start:
+        sec: '1695.493'
+        mark: '00:28:15.493'
+      end:
+        sec: '1696.054'
+        mark: '00:28:16.054'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:28:16.054'
-      end: '00:28:16.718'
+      start:
+        sec: '1696.054'
+        mark: '00:28:16.054'
+      end:
+        sec: '1696.718'
+        mark: '00:28:16.718'
       u: A...a shower...
     - who: David Boder
-      start: '00:28:16.718'
-      end: '00:28:17.111'
+      start:
+        sec: '1696.718'
+        mark: '00:28:16.718'
+      end:
+        sec: '1697.111'
+        mark: '00:28:17.111'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:28:17.111'
-      end: '00:28:34.151'
+      start:
+        sec: '1697.111'
+        mark: '00:28:17.111'
+      end:
+        sec: '1714.151'
+        mark: '00:28:34.151'
       u: ". . . to wash. We were sent in there. A search was made again, completely
         nude. They looked into the nose, ears, mouth. Looked whether we have money.
         They still found on many people money in the mouth. They found diamonds. They
         found some tiny diamonds inside the ear, stuck in."
     - who: David Boder
-      start: '00:28:34.151'
-      end: '00:28:35.992'
+      start:
+        sec: '1714.151'
+        mark: '00:28:34.151'
+      end:
+        sec: '1715.992'
+        mark: '00:28:35.992'
       u: What did they do when they found something?
     - who: Jurek Kestenberg
-      start: '00:28:35.992'
-      end: '00:28:38.316'
+      start:
+        sec: '1715.992'
+        mark: '00:28:35.992'
+      end:
+        sec: '1718.316'
+        mark: '00:28:38.316'
       u: They took and they only beat. They didn’t do anything [word not clear]
     - who: David Boder
-      start: '00:28:38.316'
-      end: '00:28:39.674'
+      start:
+        sec: '1718.316'
+        mark: '00:28:38.316'
+      end:
+        sec: '1719.674'
+        mark: '00:28:39.674'
       u: They did nothing.
     - who: Jurek Kestenberg
-      start: '00:28:39.674'
-      end: '00:28:41.334'
+      start:
+        sec: '1719.674'
+        mark: '00:28:39.674'
+      end:
+        sec: '1721.334'
+        mark: '00:28:41.334'
       u: They took away and beat.
     - who: David Boder
-      start: '00:28:41.334'
-      end: '00:28:43.335'
+      start:
+        sec: '1721.334'
+        mark: '00:28:41.334'
+      end:
+        sec: '1723.335'
+        mark: '00:28:43.335'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:28:43.335'
-      end: '00:28:58.353'
+      start:
+        sec: '1723.335'
+        mark: '00:28:43.335'
+      end:
+        sec: '1738.353'
+        mark: '00:28:58.353'
       u: And after the bath, we were given a ‘good’ beating. And one was asked, if
         they saw a young boy, he was asked, ‘How old are you?’ They asked me, and
         I said, ‘Sixteen years,’ even though I was only thirteen years old.
     - who: David Boder
-      start: '00:28:58.353'
-      end: '00:29:01.643'
+      start:
+        sec: '1738.353'
+        mark: '00:28:58.353'
+      end:
+        sec: '1741.643'
+        mark: '00:29:01.643'
       u: Hm. [Words not clear]
     - who: Jurek Kestenberg
-      start: '00:29:01.643'
-      end: '00:29:12.738'
+      start:
+        sec: '1741.643'
+        mark: '00:29:01.643'
+      end:
+        sec: '1752.738'
+        mark: '00:29:12.738'
       u: Sixteen years. He looked at me. So he says, ‘Well, let it be. Let him remain.’
         So I remained there with my father, and we got there into a ‘block.’
     - who: David Boder
-      start: '00:29:12.738'
-      end: '00:29:15.080'
+      start:
+        sec: '1752.738'
+        mark: '00:29:12.738'
+      end:
+        sec: '1755.080'
+        mark: '00:29:15.080'
       u: You didn’t have that little girl with you?
     - who: Jurek Kestenberg
-      start: '00:29:15.080'
-      end: '00:29:18.219'
+      start:
+        sec: '1755.080'
+        mark: '00:29:15.080'
+      end:
+        sec: '1758.219'
+        mark: '00:29:18.219'
       u: No, no. The little girl had been...as I mentioned before...
     - who: David Boder
-      start: '00:29:18.219'
-      end: '00:29:18.479'
+      start:
+        sec: '1758.219'
+        mark: '00:29:18.219'
+      end:
+        sec: '1758.479'
+        mark: '00:29:18.479'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:29:18.479'
-      end: '00:29:18.980'
+      start:
+        sec: '1758.479'
+        mark: '00:29:18.479'
+      end:
+        sec: '1758.980'
+        mark: '00:29:18.980'
       u: ". . . was taken to the Polish side."
     - who: David Boder
-      start: '00:29:18.980'
-      end: '00:29:19.584'
+      start:
+        sec: '1758.980'
+        mark: '00:29:18.980'
+      end:
+        sec: '1759.584'
+        mark: '00:29:19.584'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:29:19.584'
-      end: '00:29:21.202'
+      start:
+        sec: '1759.584'
+        mark: '00:29:19.584'
+      end:
+        sec: '1761.202'
+        mark: '00:29:21.202'
       u: She was staying there with a...with a Gentile woman.
     - who: David Boder
-      start: '00:29:21.202'
-      end: '00:29:21.643'
+      start:
+        sec: '1761.202'
+        mark: '00:29:21.202'
+      end:
+        sec: '1761.643'
+        mark: '00:29:21.643'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:29:21.643'
-      end: '00:29:22.265'
+      start:
+        sec: '1761.643'
+        mark: '00:29:21.643'
+      end:
+        sec: '1762.265'
+        mark: '00:29:22.265'
       u: With an acquaintance.
     - who: David Boder
-      start: '00:29:22.265'
-      end: '00:29:24.426'
+      start:
+        sec: '1762.265'
+        mark: '00:29:22.265'
+      end:
+        sec: '1764.426'
+        mark: '00:29:24.426'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:29:24.426'
-      end: '00:29:32.865'
+      start:
+        sec: '1764.426'
+        mark: '00:29:24.426'
+      end:
+        sec: '1772.865'
+        mark: '00:29:32.865'
       u: And we got inside. With the father we were sent into the same block. I was
         lucky that I was sent inside together with my father.
     - who: David Boder
-      start: '00:29:32.865'
-      end: '00:29:34.362'
+      start:
+        sec: '1772.865'
+        mark: '00:29:32.865'
+      end:
+        sec: '1774.362'
+        mark: '00:29:34.362'
       u: Yes. And the mother?
     - who: Jurek Kestenberg
-      start: '00:29:34.362'
-      end: '00:29:36.493'
+      start:
+        sec: '1774.362'
+        mark: '00:29:34.362'
+      end:
+        sec: '1776.493'
+        mark: '00:29:36.493'
       u: And the mother was sent away separately, to another...
     - who: David Boder
-      start: '00:29:36.493'
-      end: '00:29:36.632'
+      start:
+        sec: '1776.493'
+        mark: '00:29:36.493'
+      end:
+        sec: '1776.632'
+        mark: '00:29:36.632'
       u: With the two...
     - who: Jurek Kestenberg
-      start: '00:29:36.632'
-      end: '00:29:38.733'
+      start:
+        sec: '1776.632'
+        mark: '00:29:36.632'
+      end:
+        sec: '1778.733'
+        mark: '00:29:38.733'
       u: ". . . to another field, with the women."
     - who: David Boder
-      start: '00:29:38.733'
-      end: '00:29:40.260'
+      start:
+        sec: '1778.733'
+        mark: '00:29:38.733'
+      end:
+        sec: '1780.260'
+        mark: '00:29:40.260'
       u: With the women. Yes.
     - who: Jurek Kestenberg
-      start: '00:29:40.260'
-      end: '00:29:49.828'
+      start:
+        sec: '1780.260'
+        mark: '00:29:40.260'
+      end:
+        sec: '1789.828'
+        mark: '00:29:49.828'
       u: And so we remained sitting in that...in that block. One day...on the second
         day we were already sent to work...to work...That means we carried Scheisse.
     - who: David Boder
-      start: '00:29:49.828'
-      end: '00:29:50.299'
+      start:
+        sec: '1789.828'
+        mark: '00:29:49.828'
+      end:
+        sec: '1790.299'
+        mark: '00:29:50.299'
       u: What is that?
     - who: Jurek Kestenberg
-      start: '00:29:50.299'
-      end: '00:29:52.973'
+      start:
+        sec: '1790.299'
+        mark: '00:29:50.299'
+      end:
+        sec: '1792.973'
+        mark: '00:29:52.973'
       u: Carrying Scheisse. We carried Scheisse.
     - who: David Boder
-      start: '00:29:52.973'
-      end: '00:29:53.818'
+      start:
+        sec: '1792.973'
+        mark: '00:29:52.973'
+      end:
+        sec: '1793.818'
+        mark: '00:29:53.818'
       u: What is Scheisse?
     - who: Jurek Kestenberg
-      start: '00:29:53.818'
-      end: '00:29:55.206'
+      start:
+        sec: '1793.818'
+        mark: '00:29:53.818'
+      end:
+        sec: '1795.206'
+        mark: '00:29:55.206'
       u: You don’t know what Scheisse means?
     - who: David Boder
-      start: '00:29:55.206'
-      end: '00:29:55.448'
+      start:
+        sec: '1795.206'
+        mark: '00:29:55.206'
+      end:
+        sec: '1795.448'
+        mark: '00:29:55.448'
       u: No.
     - who: Jurek Kestenberg
-      start: '00:29:55.448'
-      end: '00:29:56.311'
+      start:
+        sec: '1795.448'
+        mark: '00:29:55.448'
+      end:
+        sec: '1796.311'
+        mark: '00:29:56.311'
       u: Feces.
     - who: David Boder
-      start: '00:29:56.311'
-      end: '00:29:56.734'
+      start:
+        sec: '1796.311'
+        mark: '00:29:56.311'
+      end:
+        sec: '1796.734'
+        mark: '00:29:56.734'
       u: Oh.
     - who: Jurek Kestenberg
-      start: '00:29:56.734'
-      end: '00:29:57.899'
+      start:
+        sec: '1796.734'
+        mark: '00:29:56.734'
+      end:
+        sec: '1797.899'
+        mark: '00:29:57.899'
       u: We carried feces [human excrements] in the...
     - who: David Boder
-      start: '00:29:57.899'
-      end: '00:29:58.521'
+      start:
+        sec: '1797.899'
+        mark: '00:29:57.899'
+      end:
+        sec: '1798.521'
+        mark: '00:29:58.521'
       u: "[Words not clear]"
     - who: Jurek Kestenberg
-      start: '00:29:58.521'
-      end: '00:00:00.000'
+      start:
+        sec: '1798.521'
+        mark: '00:29:58.521'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: ". . . in the...such...in such special holders...holders [carrying-buckets]
         And so with that people had to trot."
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:30:05.330'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '1805.330'
+        mark: '00:30:05.330'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:30:05.330'
-      end: '00:30:13.708'
+      start:
+        sec: '1805.330'
+        mark: '00:30:05.330'
+      end:
+        sec: '1813.708'
+        mark: '00:30:13.708'
       u: 'One had to run. One had to run and jump with it, make various gymnastics,
         and the Germans...[Note: Such procedures were known as punitive sports]'
     - who: David Boder
-      start: '00:30:13.708'
-      end: '00:30:16.243'
+      start:
+        sec: '1813.708'
+        mark: '00:30:13.708'
+      end:
+        sec: '1816.243'
+        mark: '00:30:16.243'
       u: What does it mean, ‘carrying feces’? Why did people have to carry feces?
     - who: Jurek Kestenberg
-      start: '00:30:16.243'
-      end: '00:30:17.451'
+      start:
+        sec: '1816.243'
+        mark: '00:30:16.243'
+      end:
+        sec: '1817.451'
+        mark: '00:30:17.451'
       u: Because they just liked it so.
     - who: David Boder
-      start: '00:30:17.451'
-      end: '00:30:18.888'
+      start:
+        sec: '1817.451'
+        mark: '00:30:17.451'
+      end:
+        sec: '1818.888'
+        mark: '00:30:18.888'
       u: Oh, not to...to clean up?
     - who: Jurek Kestenberg
-      start: '00:30:18.888'
-      end: '00:30:20.989'
+      start:
+        sec: '1818.888'
+        mark: '00:30:18.888'
+      end:
+        sec: '1820.989'
+        mark: '00:30:20.989'
       u: No, not as work. They liked it.
     - who: David Boder
-      start: '00:30:20.989'
-      end: '00:30:21.128'
+      start:
+        sec: '1820.989'
+        mark: '00:30:20.989'
+      end:
+        sec: '1821.128'
+        mark: '00:30:21.128'
       u: And the...
     - who: Jurek Kestenberg
-      start: '00:30:21.128'
-      end: '00:30:22.655'
+      start:
+        sec: '1821.128'
+        mark: '00:30:21.128'
+      end:
+        sec: '1822.655'
+        mark: '00:30:22.655'
       u: There and back, there and back.
     - who: David Boder
-      start: '00:30:22.655'
-      end: '00:30:23.289'
+      start:
+        sec: '1822.655'
+        mark: '00:30:22.655'
+      end:
+        sec: '1823.289'
+        mark: '00:30:23.289'
       u: In the hands, or what?
     - who: Jurek Kestenberg
-      start: '00:30:23.289'
-      end: '00:30:25.209'
+      start:
+        sec: '1823.289'
+        mark: '00:30:23.289'
+      end:
+        sec: '1825.209'
+        mark: '00:30:25.209'
       u: No, in a holder, in a special holder out of boards.
     - who: David Boder
-      start: '00:30:25.209'
-      end: '00:30:26.012'
+      start:
+        sec: '1825.209'
+        mark: '00:30:25.209'
+      end:
+        sec: '1826.012'
+        mark: '00:30:26.012'
       u: How many people?
     - who: Jurek Kestenberg
-      start: '00:30:26.012'
-      end: '00:30:27.871'
+      start:
+        sec: '1826.012'
+        mark: '00:30:26.012'
+      end:
+        sec: '1827.871'
+        mark: '00:30:27.871'
       u: Two, two people to a holder...
     - who: David Boder
-      start: '00:30:27.871'
-      end: '00:30:28.746'
+      start:
+        sec: '1827.871'
+        mark: '00:30:27.871'
+      end:
+        sec: '1828.746'
+        mark: '00:30:28.746'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:30:28.746'
-      end: '00:30:29.863'
+      start:
+        sec: '1828.746'
+        mark: '00:30:28.746'
+      end:
+        sec: '1829.863'
+        mark: '00:30:29.863'
       u: ". . . and so on [? ."
     - who: David Boder
-      start: '00:30:29.863'
-      end: '00:30:30.195'
+      start:
+        sec: '1829.863'
+        mark: '00:30:29.863'
+      end:
+        sec: '1830.195'
+        mark: '00:30:30.195'
       u: And where did they...
     - who: Jurek Kestenberg
-      start: '00:30:30.195'
-      end: '00:30:30.950'
+      start:
+        sec: '1830.195'
+        mark: '00:30:30.195'
+      end:
+        sec: '1830.950'
+        mark: '00:30:30.950'
       u: And they told us to run there and back, there and back.
     - who: David Boder
-      start: '00:30:30.950'
-      end: '00:30:32.839'
+      start:
+        sec: '1830.950'
+        mark: '00:30:30.950'
+      end:
+        sec: '1832.839'
+        mark: '00:30:32.839'
       u: And from where were the feces taken?
     - who: Jurek Kestenberg
-      start: '00:30:32.839'
-      end: '00:30:35.707'
+      start:
+        sec: '1832.839'
+        mark: '00:30:32.839'
+      end:
+        sec: '1835.707'
+        mark: '00:30:35.707'
       u: From the toilets. There were no toilets like here.
     - who: David Boder
-      start: '00:30:35.707'
-      end: '00:30:36.631'
+      start:
+        sec: '1835.707'
+        mark: '00:30:35.707'
+      end:
+        sec: '1836.631'
+        mark: '00:30:36.631'
       u: Hm, hm.
     - who: Jurek Kestenberg
-      start: '00:30:36.631'
-      end: '00:30:41.780'
+      start:
+        sec: '1836.631'
+        mark: '00:30:36.631'
+      end:
+        sec: '1841.780'
+        mark: '00:30:41.780'
       u: There was a ditch with a large...large board. And all together...all together
         did...
     - who: David Boder
-      start: '00:30:41.780'
-      end: '00:30:43.205'
+      start:
+        sec: '1841.780'
+        mark: '00:30:41.780'
+      end:
+        sec: '1843.205'
+        mark: '00:30:43.205'
       u: Yes. And then?
     - who: Jurek Kestenberg
-      start: '00:30:43.205'
-      end: '00:31:09.078'
+      start:
+        sec: '1843.205'
+        mark: '00:30:43.205'
+      end:
+        sec: '1869.078'
+        mark: '00:31:09.078'
       u: When we took [scooped] it out, we had to run with it [for] half a day, until
         dinner. And after dinner people had to take everything out and throw it away
         outside. And so after such work, after a day of such work people could not
         stand on the feet any more. Whoever did not run well, or whoever did not jump
         well, if it was not to the Germans’ liking, he immediately got clubbed, beaten.
     - who: David Boder
-      start: '00:31:09.078'
-      end: '00:31:10.919'
+      start:
+        sec: '1869.078'
+        mark: '00:31:09.078'
+      end:
+        sec: '1870.919'
+        mark: '00:31:10.919'
       u: But this was not work. It was not...
     - who: Jurek Kestenberg
-      start: '00:31:10.919'
-      end: '00:31:17.589'
+      start:
+        sec: '1870.919'
+        mark: '00:31:10.919'
+      end:
+        sec: '1877.589'
+        mark: '00:31:17.589'
       u: It was not work! It was just to exterminate people. It was not work, work
         that is of some use.
     - who: David Boder
-      start: '00:31:17.589'
-      end: '00:31:18.193'
+      start:
+        sec: '1877.589'
+        mark: '00:31:17.589'
+      end:
+        sec: '1878.193'
+        mark: '00:31:18.193'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:31:18.193'
-      end: '00:31:21.350'
+      start:
+        sec: '1878.193'
+        mark: '00:31:18.193'
+      end:
+        sec: '1881.350'
+        mark: '00:31:21.350'
       u: This was work so that they could exterminate people. The people should become
         weak.
     - who: David Boder
-      start: '00:31:21.350'
-      end: '00:31:22.394'
+      start:
+        sec: '1881.350'
+        mark: '00:31:21.350'
+      end:
+        sec: '1882.394'
+        mark: '00:31:22.394'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:31:22.394'
-      end: '00:31:54.991'
+      start:
+        sec: '1882.394'
+        mark: '00:31:22.394'
+      end:
+        sec: '1914.991'
+        mark: '00:31:54.991'
       u: And so every day occurred the same. Every day happened the same. At four
         o’clock people arose. We went to sleep at....At four o’clock an Appell was
         made, looked if all are present, whether nobody was missing. If one was missing
@@ -1794,74 +3266,138 @@ recording:
         know how he escaped. By some miracle he escaped. So we stood for fourteen
         hours waiting till they caught that person.
     - who: David Boder
-      start: '00:31:54.991'
-      end: '00:31:55.746'
+      start:
+        sec: '1914.991'
+        mark: '00:31:54.991'
+      end:
+        sec: '1915.746'
+        mark: '00:31:55.746'
       u: Fourteen hours?
     - who: Jurek Kestenberg
-      start: '00:31:55.746'
-      end: '00:31:57.967'
+      start:
+        sec: '1915.746'
+        mark: '00:31:55.746'
+      end:
+        sec: '1917.967'
+        mark: '00:31:57.967'
       u: Fourteen hours people had to stand outdoors waiting.
     - who: David Boder
-      start: '00:31:57.967'
-      end: '00:31:59.114'
+      start:
+        sec: '1917.967'
+        mark: '00:31:57.967'
+      end:
+        sec: '1919.114'
+        mark: '00:31:59.114'
       u: At night?
     - who: Jurek Kestenberg
-      start: '00:31:59.114'
-      end: '00:31:59.899'
+      start:
+        sec: '1919.114'
+        mark: '00:31:59.114'
+      end:
+        sec: '1919.899'
+        mark: '00:31:59.899'
       u: At night.
     - who: David Boder
-      start: '00:31:59.899'
-      end: '00:32:00.098'
+      start:
+        sec: '1919.899'
+        mark: '00:31:59.899'
+      end:
+        sec: '1920.098'
+        mark: '00:32:00.098'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:32:00.098'
-      end: '00:32:03.267'
+      start:
+        sec: '1920.098'
+        mark: '00:32:00.098'
+      end:
+        sec: '1923.267'
+        mark: '00:32:03.267'
       u: From six o’clock in the evening we had to stand till...till eight o’clock
         in the morning.
     - who: David Boder
-      start: '00:32:03.267'
-      end: '00:32:06.225'
+      start:
+        sec: '1923.267'
+        mark: '00:32:03.267'
+      end:
+        sec: '1926.225'
+        mark: '00:32:06.225'
       u: Yes?
     - who: Jurek Kestenberg
-      start: '00:32:06.225'
-      end: '00:32:30.886'
+      start:
+        sec: '1926.225'
+        mark: '00:32:06.225'
+      end:
+        sec: '1950.886'
+        mark: '00:32:30.886'
       u: People had to wait till that man was found. Thus the Ukrainians left with
         the dogs, and they brought that man, alas, already nearly torn to pieces.
         The dogs almost tore apart that man. He was caught. About fifteen kilometers
         away from the lager that man was caught. And so we were in Majdanek, in such
         predicaments. We were there eight weeks. That means two months.
     - who: David Boder
-      start: '00:32:30.886'
-      end: '00:32:32.111'
+      start:
+        sec: '1950.886'
+        mark: '00:32:30.886'
+      end:
+        sec: '1952.111'
+        mark: '00:32:32.111'
       u: Yes?
     - who: Jurek Kestenberg
-      start: '00:32:32.111'
-      end: '00:32:42.916'
+      start:
+        sec: '1952.111'
+        mark: '00:32:32.111'
+      end:
+        sec: '1962.916'
+        mark: '00:32:42.916'
       u: And so, fortunately, either the Russians were approaching, or what, it was
         said that the lager was being entirely evacuated. All the people are to leave.
     - who: David Boder
-      start: '00:32:42.916'
-      end: '00:32:44.214'
+      start:
+        sec: '1962.916'
+        mark: '00:32:42.916'
+      end:
+        sec: '1964.214'
+        mark: '00:32:44.214'
       u: Which year was it in?
     - who: Jurek Kestenberg
-      start: '00:32:44.214'
-      end: '00:32:50.208'
+      start:
+        sec: '1964.214'
+        mark: '00:32:44.214'
+      end:
+        sec: '1970.208'
+        mark: '00:32:50.208'
       u: This was in nineteen forty-three, I believe.
     - who: David Boder
-      start: '00:32:50.208'
-      end: '00:32:50.437'
+      start:
+        sec: '1970.208'
+        mark: '00:32:50.208'
+      end:
+        sec: '1970.437'
+        mark: '00:32:50.437'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:32:50.437'
-      end: '00:32:52.218'
+      start:
+        sec: '1970.437'
+        mark: '00:32:50.437'
+      end:
+        sec: '1972.218'
+        mark: '00:32:52.218'
       u: Forty-three. Yes, forty-three...
     - who: David Boder
-      start: '00:32:52.218'
-      end: '00:32:54.391'
+      start:
+        sec: '1972.218'
+        mark: '00:32:52.218'
+      end:
+        sec: '1974.391'
+        mark: '00:32:54.391'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:32:54.391'
-      end: '00:00:00.000'
+      start:
+        sec: '1974.391'
+        mark: '00:32:54.391'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: ". . . that the lager is to be evacuated. The same night when it was said
         that the lager is being evacuated, we saw at night that the women...from the
         lager of the women there had left eight dark trucks covered entirely with
@@ -1874,215 +3410,407 @@ recording:
         We had to go by such a house. It was quite openly written. Outside was written
         ‘Gas Chamber.’ Everyone could see."
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:33:45.748'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '2025.748'
+        mark: '00:33:45.748'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:33:45.748'
-      end: '00:34:01.242'
+      start:
+        sec: '2025.748'
+        mark: '00:33:45.748'
+      end:
+        sec: '2041.242'
+        mark: '00:34:01.242'
       u: And it was seen that those trucks driving at night went in the direction
         of the gas chamber with all those...all those women and children. Since that
         time until now we did not have any news from those people. That means that
         they were surely gassed, or burned. I don’t know what the Germans did there.
     - who: David Boder
-      start: '00:34:01.242'
-      end: '00:34:04.143'
+      start:
+        sec: '2041.242'
+        mark: '00:34:01.242'
+      end:
+        sec: '2044.143'
+        mark: '00:34:04.143'
       u: And it was not possible to write letters between the women and men?
     - who: Jurek Kestenberg
-      start: '00:34:04.143'
-      end: '00:34:16.793'
+      start:
+        sec: '2044.143'
+        mark: '00:34:04.143'
+      end:
+        sec: '2056.793'
+        mark: '00:34:16.793'
       u: Absolutely no! Because to say one word...because it was this way. The men
         were on four fields. That means every field consisted of twenty-two barracks.
     - who: David Boder
-      start: '00:34:16.793'
-      end: '00:34:17.539'
+      start:
+        sec: '2056.793'
+        mark: '00:34:16.793'
+      end:
+        sec: '2057.539'
+        mark: '00:34:17.539'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:34:17.539'
-      end: '00:00:00.000'
+      start:
+        sec: '2057.539'
+        mark: '00:34:17.539'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Twenty-two barracks. There were four fields. Every field was separated from
         the other with a wire [fence]
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:34:25.062'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '2065.062'
+        mark: '00:34:25.062'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:34:25.062'
-      end: '00:34:42.636'
+      start:
+        sec: '2065.062'
+        mark: '00:34:25.062'
+      end:
+        sec: '2082.636'
+        mark: '00:34:42.636'
       u: And the women were on a fifth field, also separated with a wire so that we
         could see them from afar, but to talk was forbidden. For the least word there
         was a punishment, either by hanging or by shooting. And so on the last day
         before leaving...
     - who: David Boder
-      start: '00:34:42.636'
-      end: '00:34:45.536'
+      start:
+        sec: '2082.636'
+        mark: '00:34:42.636'
+      end:
+        sec: '2085.536'
+        mark: '00:34:45.536'
       u: Did you see how people were being shot?
     - who: Jurek Kestenberg
-      start: '00:34:45.536'
-      end: '00:34:55.200'
+      start:
+        sec: '2085.536'
+        mark: '00:34:45.536'
+      end:
+        sec: '2095.200'
+        mark: '00:34:55.200'
       u: No. I didn’t see that. We saw one who went over the wires to talk with the
         wife. He was instantly shot. Every fifty meters around the wire there was
         a tower.
     - who: David Boder
-      start: '00:34:55.200'
-      end: '00:34:56.288'
+      start:
+        sec: '2095.200'
+        mark: '00:34:55.200'
+      end:
+        sec: '2096.288'
+        mark: '00:34:56.288'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:34:56.288'
-      end: '00:35:08.454'
+      start:
+        sec: '2096.288'
+        mark: '00:34:56.288'
+      end:
+        sec: '2108.454'
+        mark: '00:35:08.454'
       u: Inside that tower were sitting two Ukrainians with machine guns. They watched
         that no one escapes, or people shouldn’t talk, and so on. And so..[pause]
     - who: David Boder
-      start: '00:35:08.454'
-      end: '00:35:10.025'
+      start:
+        sec: '2108.454'
+        mark: '00:35:08.454'
+      end:
+        sec: '2110.025'
+        mark: '00:35:10.025'
       u: Yes?
     - who: Jurek Kestenberg
-      start: '00:35:10.025'
-      end: '00:35:49.487'
+      start:
+        sec: '2110.025'
+        mark: '00:35:10.025'
+      end:
+        sec: '2149.487'
+        mark: '00:35:49.487'
       u: |-
         After about two, three days after that, the lager was evacuated. Not the entire lager, but the field in which I was with my father and another field were evacuated. We were sent to a lager
                                 Skarzysko. People already were thanking God that we had been sent away from there, because people knew that if one stays there any longer, a little longer, another week, two weeks, we could not hold out. And so people already thought that we are going again to death, to Treblinka now, or somewhere. But no, The Germans sent us to Skarzysko to work. In Skarzysko I worked for thirteen months.
     - who: David Boder
-      start: '00:35:49.487'
-      end: '00:35:50.907'
+      start:
+        sec: '2149.487'
+        mark: '00:35:49.487'
+      end:
+        sec: '2150.907'
+        mark: '00:35:50.907'
       u: What did you do?
     - who: Jurek Kestenberg
-      start: '00:35:50.907'
-      end: '00:35:53.203'
+      start:
+        sec: '2150.907'
+        mark: '00:35:50.907'
+      end:
+        sec: '2153.203'
+        mark: '00:35:53.203'
       u: Thirteen months I worked on a locomotive.
     - who: David Boder
-      start: '00:35:53.203'
-      end: '00:35:54.653'
+      start:
+        sec: '2153.203'
+        mark: '00:35:53.203'
+      end:
+        sec: '2154.653'
+        mark: '00:35:54.653'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:35:54.653'
-      end: '00:35:58.279'
+      start:
+        sec: '2154.653'
+        mark: '00:35:54.653'
+      end:
+        sec: '2158.279'
+        mark: '00:35:58.279'
       u: After that I worked in a...in a boiler house.
     - who: David Boder
-      start: '00:35:58.279'
-      end: '00:36:00.838'
+      start:
+        sec: '2158.279'
+        mark: '00:35:58.279'
+      end:
+        sec: '2160.838'
+        mark: '00:36:00.838'
       u: What did you do on the locomotive? Did you ride on her?
     - who: Jurek Kestenberg
-      start: '00:36:00.838'
-      end: '00:36:05.602'
+      start:
+        sec: '2160.838'
+        mark: '00:36:00.838'
+      end:
+        sec: '2165.602'
+        mark: '00:36:05.602'
       u: Yes, I was a stoker. The driver was Pole, and I was a stoker.
     - who: David Boder
-      start: '00:36:05.602'
-      end: '00:36:06.327'
+      start:
+        sec: '2165.602'
+        mark: '00:36:05.602'
+      end:
+        sec: '2166.327'
+        mark: '00:36:06.327'
       u: And...
     - who: Jurek Kestenberg
-      start: '00:36:06.327'
-      end: '00:00:00.000'
+      start:
+        sec: '2166.327'
+        mark: '00:36:06.327'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: We carried...there was an ammunition factory.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:36:09.590'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '2169.590'
+        mark: '00:36:09.590'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:36:09.590'
-      end: '00:36:14.847'
+      start:
+        sec: '2169.590'
+        mark: '00:36:09.590'
+      end:
+        sec: '2174.847'
+        mark: '00:36:14.847'
       u: And there we....The wagons with the ammunition were shuttled. With the locomotive
         we pulled those wagons.
     - who: David Boder
-      start: '00:36:14.847'
-      end: '00:36:17.294'
+      start:
+        sec: '2174.847'
+        mark: '00:36:14.847'
+      end:
+        sec: '2177.294'
+        mark: '00:36:17.294'
       u: It was a local locomotive?
     - who: Jurek Kestenberg
-      start: '00:36:17.294'
-      end: '00:36:18.835'
+      start:
+        sec: '2177.294'
+        mark: '00:36:17.294'
+      end:
+        sec: '2178.835'
+        mark: '00:36:18.835'
       u: No, no. it was a big locomotive.
     - who: David Boder
-      start: '00:36:18.835'
-      end: '00:36:19.158'
+      start:
+        sec: '2178.835'
+        mark: '00:36:18.835'
+      end:
+        sec: '2179.158'
+        mark: '00:36:19.158'
       u: But you...
     - who: Jurek Kestenberg
-      start: '00:36:19.158'
-      end: '00:36:19.521'
+      start:
+        sec: '2179.158'
+        mark: '00:36:19.158'
+      end:
+        sec: '2179.521'
+        mark: '00:36:19.521'
       u: It was a large factory.
     - who: David Boder
-      start: '00:36:19.521'
-      end: '00:36:20.539'
+      start:
+        sec: '2179.521'
+        mark: '00:36:19.521'
+      end:
+        sec: '2180.539'
+        mark: '00:36:20.539'
       u: ". . . did not leave [go far]"
     - who: Jurek Kestenberg
-      start: '00:36:20.539'
-      end: '00:36:21.808'
+      start:
+        sec: '2180.539'
+        mark: '00:36:20.539'
+      end:
+        sec: '2181.808'
+        mark: '00:36:21.808'
       u: No, no, no. Only in the factory.
     - who: David Boder
-      start: '00:36:21.808'
-      end: '00:36:23.923'
+      start:
+        sec: '2181.808'
+        mark: '00:36:21.808'
+      end:
+        sec: '2183.923'
+        mark: '00:36:23.923'
       u: Just for the road [a slip]
     - who: Jurek Kestenberg
-      start: '00:36:23.923'
-      end: '00:36:25.153'
+      start:
+        sec: '2183.923'
+        mark: '00:36:23.923'
+      end:
+        sec: '2185.153'
+        mark: '00:36:25.153'
       u: For the entire factory.
     - who: David Boder
-      start: '00:36:25.153'
-      end: '00:36:25.446'
+      start:
+        sec: '2185.153'
+        mark: '00:36:25.153'
+      end:
+        sec: '2185.446'
+        mark: '00:36:25.446'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:36:25.446'
-      end: '00:36:28.316'
+      start:
+        sec: '2185.446'
+        mark: '00:36:25.446'
+      end:
+        sec: '2188.316'
+        mark: '00:36:28.316'
       u: It was a huge factory, a very large factory it was.
     - who: David Boder
-      start: '00:36:28.316'
-      end: '00:36:29.313'
+      start:
+        sec: '2188.316'
+        mark: '00:36:28.316'
+      end:
+        sec: '2189.313'
+        mark: '00:36:29.313'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:36:29.313'
-      end: '00:36:35.778'
+      start:
+        sec: '2189.313'
+        mark: '00:36:29.313'
+      end:
+        sec: '2195.778'
+        mark: '00:36:35.778'
       u: And so my father got into...he got a very hard job. He had to carry shells.
     - who: David Boder
-      start: '00:36:35.778'
-      end: '00:36:36.896'
+      start:
+        sec: '2195.778'
+        mark: '00:36:35.778'
+      end:
+        sec: '2196.896'
+        mark: '00:36:36.896'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:36:36.896'
-      end: '00:36:39.797'
+      start:
+        sec: '2196.896'
+        mark: '00:36:36.896'
+      end:
+        sec: '2199.797'
+        mark: '00:36:39.797'
       u: And the father...I saw that the father will not last much longer.
     - who: David Boder
-      start: '00:36:39.797'
-      end: '00:36:41.087'
+      start:
+        sec: '2199.797'
+        mark: '00:36:39.797'
+      end:
+        sec: '2201.087'
+        mark: '00:36:41.087'
       u: How old was your father?
     - who: Jurek Kestenberg
-      start: '00:36:41.087'
-      end: '00:36:45.951'
+      start:
+        sec: '2201.087'
+        mark: '00:36:41.087'
+      end:
+        sec: '2205.951'
+        mark: '00:36:45.951'
       u: My father was born in nineteen...in eighteen ninety-six.
     - who: David Boder
-      start: '00:36:45.951'
-      end: '00:36:47.734'
+      start:
+        sec: '2205.951'
+        mark: '00:36:45.951'
+      end:
+        sec: '2207.734'
+        mark: '00:36:47.734'
       u: Aha. Nu.
     - who: Jurek Kestenberg
-      start: '00:36:47.734'
-      end: '00:36:58.510'
+      start:
+        sec: '2207.734'
+        mark: '00:36:47.734'
+      end:
+        sec: '2218.510'
+        mark: '00:36:58.510'
       u: And so the father became constantly thinner [and] thinner. I, as a young
         boy, could perhaps last longer than the father, because the father was very
         tall. He needed a lot to eat.
     - who: David Boder
-      start: '00:36:58.510'
-      end: '00:37:00.142'
+      start:
+        sec: '2218.510'
+        mark: '00:36:58.510'
+      end:
+        sec: '2220.142'
+        mark: '00:37:00.142'
       u: He was tall...
     - who: Jurek Kestenberg
-      start: '00:37:00.142'
-      end: '00:37:07.595'
+      start:
+        sec: '2220.142'
+        mark: '00:37:00.142'
+      end:
+        sec: '2227.595'
+        mark: '00:37:07.595'
       u: A very tall man...a very tall man. And he required...his organism required
         more food than mine.
     - who: David Boder
-      start: '00:37:07.595'
-      end: '00:37:08.955'
+      start:
+        sec: '2227.595'
+        mark: '00:37:07.595'
+      end:
+        sec: '2228.955'
+        mark: '00:37:08.955'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:37:08.955'
-      end: '00:37:18.221'
+      start:
+        sec: '2228.955'
+        mark: '00:37:08.955'
+      end:
+        sec: '2238.221'
+        mark: '00:37:18.221'
       u: And, unfortunately, there was not enough to eat. We got twelve dekas of bread
         per day and two liters of soup. That liter of soup was no soup, but clear
         water it was.
     - who: David Boder
-      start: '00:37:18.221'
-      end: '00:37:20.025'
+      start:
+        sec: '2238.221'
+        mark: '00:37:18.221'
+      end:
+        sec: '2240.025'
+        mark: '00:37:20.025'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:37:20.025'
-      end: '00:37:45.627'
+      start:
+        sec: '2240.025'
+        mark: '00:37:20.025'
+      end:
+        sec: '2265.627'
+        mark: '00:37:45.627'
       u: And there we...and so one ‘nice’ day I saw that the father’s face was completely
         swollen. I did not know what...what it comes from, because a lot of people
         were walking around swollen. It was said that it is from...from too much work
@@ -2090,84 +3818,156 @@ recording:
         said it was from hunger. Unfortunately, he does not know if there was any
         hope of saving the father.
     - who: David Boder
-      start: '00:37:45.627'
-      end: '00:37:47.461'
+      start:
+        sec: '2265.627'
+        mark: '00:37:45.627'
+      end:
+        sec: '2267.461'
+        mark: '00:37:47.461'
       u: Who was the doctor? Was it a Jewish doctor?
     - who: Jurek Kestenberg
-      start: '00:37:47.461'
-      end: '00:38:06.243'
+      start:
+        sec: '2267.461'
+        mark: '00:37:47.461'
+      end:
+        sec: '2286.243'
+        mark: '00:38:06.243'
       u: A Jewish doctor, a murderer. He, too was a murderer. They all were, all murderers.
         The...the...the leaders of the lager, though they were Jews, but they were
         all murderers. The worst...the worst sort of Jews. All, all the bandits who
         before the war did not have any way of making a living. The thieves, they
         were put into the lager and made to be our leaders.
     - who: David Boder
-      start: '00:38:06.243'
-      end: '00:38:09.416'
+      start:
+        sec: '2286.243'
+        mark: '00:38:06.243'
+      end:
+        sec: '2289.416'
+        mark: '00:38:09.416'
       u: Hm. And the doctor. Still a doctor is...
     - who: Jurek Kestenberg
-      start: '00:38:09.416'
-      end: '00:38:17.171'
+      start:
+        sec: '2289.416'
+        mark: '00:38:09.416'
+      end:
+        sec: '2297.171'
+        mark: '00:38:17.171'
       u: But...it...eh...he had such a disgusting character, a murderous character,
         the whole doctor.
     - who: David Boder
-      start: '00:38:17.171'
-      end: '00:38:17.685'
+      start:
+        sec: '2297.171'
+        mark: '00:38:17.171'
+      end:
+        sec: '2297.685'
+        mark: '00:38:17.685'
       u: That Jewish doctor?
     - who: Jurek Kestenberg
-      start: '00:38:17.685'
-      end: '00:38:18.945'
+      start:
+        sec: '2297.685'
+        mark: '00:38:17.685'
+      end:
+        sec: '2298.945'
+        mark: '00:38:18.945'
       u: That Jewish doctor.
     - who: David Boder
-      start: '00:38:18.945'
-      end: '00:38:19.268'
+      start:
+        sec: '2298.945'
+        mark: '00:38:18.945'
+      end:
+        sec: '2299.268'
+        mark: '00:38:19.268'
       u: Yes?
     - who: Jurek Kestenberg
-      start: '00:38:19.268'
-      end: '00:00:00.000'
+      start:
+        sec: '2299.268'
+        mark: '00:38:19.268'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And he told me so frankly that there is not a bit of hope. I have to...I
         have to bid good bye to the father.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:38:26.005'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '2306.005'
+        mark: '00:38:26.005'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:38:26.005'
-      end: '00:38:30.567'
+      start:
+        sec: '2306.005'
+        mark: '00:38:26.005'
+      end:
+        sec: '2310.567'
+        mark: '00:38:30.567'
       u: He told me so frankly. [Pause]
     - who: David Boder
-      start: '00:38:30.567'
-      end: '00:38:35.734'
+      start:
+        sec: '2310.567'
+        mark: '00:38:30.567'
+      end:
+        sec: '2315.734'
+        mark: '00:38:35.734'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:38:35.734'
-      end: '00:38:43.036'
+      start:
+        sec: '2315.734'
+        mark: '00:38:35.734'
+      end:
+        sec: '2323.036'
+        mark: '00:38:43.036'
       u: "[Pause.] When I worked there outside on the locomotive, it always happened
         that the Pole...the Pole who worked there with me..."
     - who: David Boder
-      start: '00:38:43.036'
-      end: '00:38:43.822'
+      start:
+        sec: '2323.036'
+        mark: '00:38:43.036'
+      end:
+        sec: '2323.822'
+        mark: '00:38:43.822'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:38:43.822'
-      end: '00:38:48.737'
+      start:
+        sec: '2323.822'
+        mark: '00:38:43.822'
+      end:
+        sec: '2328.737'
+        mark: '00:38:48.737'
       u: They [the Poles] weren’t in a lager. They came from the outside to work.
         it was also forced labor.
     - who: David Boder
-      start: '00:38:48.737'
-      end: '00:38:49.221'
+      start:
+        sec: '2328.737'
+        mark: '00:38:48.737'
+      end:
+        sec: '2329.221'
+        mark: '00:38:49.221'
       u: Hm, yes.
     - who: Jurek Kestenberg
-      start: '00:38:49.221'
-      end: '00:38:50.723'
+      start:
+        sec: '2329.221'
+        mark: '00:38:49.221'
+      end:
+        sec: '2330.723'
+        mark: '00:38:50.723'
       u: They would come inside.
     - who: David Boder
-      start: '00:38:50.723'
-      end: '00:38:51.318'
+      start:
+        sec: '2330.723'
+        mark: '00:38:50.723'
+      end:
+        sec: '2331.318'
+        mark: '00:38:51.318'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:38:51.318'
-      end: '00:39:34.876'
+      start:
+        sec: '2331.318'
+        mark: '00:38:51.318'
+      end:
+        sec: '2374.876'
+        mark: '00:39:34.876'
       u: They brought me often a little piece of bread or something. I always hid
         [it] and carried it to the father. But I didn’t have that much, to be able
         to give the father a great deal of help. After a month’s time I saw that the
@@ -2177,100 +3977,180 @@ recording:
         people lay there on the hay. They lay, and they died there. And they...and
         the doctor soon...that same doctor immediately took...
     - who: David Boder
-      start: '00:39:34.876'
-      end: '00:39:35.571'
+      start:
+        sec: '2374.876'
+        mark: '00:39:34.876'
+      end:
+        sec: '2375.571'
+        mark: '00:39:35.571'
       u: That Jewish doctor?
     - who: Jurek Kestenberg
-      start: '00:39:35.571'
-      end: '00:39:42.717'
+      start:
+        sec: '2375.571'
+        mark: '00:39:35.571'
+      end:
+        sec: '2382.717'
+        mark: '00:39:42.717'
       u: That Jewish doctor. He immediately looked...when one died, he immediately
         looked into the mouth if he doesn’t perchance have gold teeth.
     - who: David Boder
-      start: '00:39:42.717'
-      end: '00:39:45.669'
+      start:
+        sec: '2382.717'
+        mark: '00:39:42.717'
+      end:
+        sec: '2385.669'
+        mark: '00:39:45.669'
       u: Words not clear;[outside noise]
     - who: Jurek Kestenberg
-      start: '00:39:45.669'
-      end: '00:40:13.189'
+      start:
+        sec: '2385.669'
+        mark: '00:39:45.669'
+      end:
+        sec: '2413.189'
+        mark: '00:40:13.189'
       u: If he had some gold teeth in the mouth he right away pulled the teeth. And
         by it he made money and...And so the father went to the hospital. Every day
         after work I went there to the father to the hospital. And I saw that, alas,
         there was no more chance to save him, the father, because with every...every
         minute he would become..[abrupt end of spool 11]
     - who: David Boder
-      start: '00:40:13.189'
-      end: '00:40:30.068'
+      start:
+        sec: '2413.189'
+        mark: '00:40:13.189'
+      end:
+        sec: '2430.068'
+        mark: '00:40:30.068'
       u: "[In English] July12th...[correction] July 31st, 1946. this is Spoll 12 [A],
         continuation of spool 11. The narrator is Jurek Kestenberg, seventeen years
         old...old, in the Chateau de Casenbout."
     - who: Jurek Kestenberg
-      start: '00:40:30.068'
-      end: '00:40:31.186'
+      start:
+        sec: '2430.068'
+        mark: '00:40:30.068'
+      end:
+        sec: '2431.186'
+        mark: '00:40:31.186'
       u: "[Whispers] Boucicaut."
     - who: David Boder
-      start: '00:40:31.186'
-      end: '00:40:45.769'
+      start:
+        sec: '2431.186'
+        mark: '00:40:31.186'
+      end:
+        sec: '2445.769'
+        mark: '00:40:45.769'
       u: Chateau de Boucicaut. Chateau de Boucicaut. [In German] And so you were saying,
         Jurek, your father was in the hospital. Yes.
     - who: Jurek Kestenberg
-      start: '00:40:45.769'
-      end: '00:41:13.603'
+      start:
+        sec: '2445.769'
+        mark: '00:40:45.769'
+      end:
+        sec: '2473.603'
+        mark: '00:41:13.603'
       u: And so my father...my father was in the hospital, in such a hospital. And
         after [he was] lying there for two weeks, I returned from work. I went into
         the hospital. I wanted to visit the father. I entered. I did not see the father
         any more. The father wasn’t the any more. I immediately understood that the
         father had already died. And you can imagine my...my...how does one say it?
     - who: David Boder
-      start: '00:41:13.603'
-      end: '00:41:15.467'
+      start:
+        sec: '2473.603'
+        mark: '00:41:13.603'
+      end:
+        sec: '2475.467'
+        mark: '00:41:15.467'
       u: "[Whispers] ‘My feelings.’"
     - who: Jurek Kestenberg
-      start: '00:41:15.467'
-      end: '00:41:42.915'
+      start:
+        sec: '2475.467'
+        mark: '00:41:15.467'
+      end:
+        sec: '2502.915'
+        mark: '00:41:42.915'
       u: You can never [?] imagine my heart. How I looked then. I knew that I have
         remained now alone. Out of the entire family I have remained now all alone.
         And so I saw there was no other counsel. Crying won’t help any. Again I went
         to work. Again I worked. And after thirteen months there came an order. It
         became known that the Russians...
     - who: David Boder
-      start: '00:41:42.915'
-      end: '00:41:45.112'
+      start:
+        sec: '2502.915'
+        mark: '00:41:42.915'
+      end:
+        sec: '2505.112'
+        mark: '00:41:45.112'
       u: In which lager was that, in Treblinka?
     - who: Jurek Kestenberg
-      start: '00:41:45.112'
-      end: '00:41:47.127'
+      start:
+        sec: '2505.112'
+        mark: '00:41:45.112'
+      end:
+        sec: '2507.127'
+        mark: '00:41:47.127'
       u: In Skarzysko. Skarzysko.
     - who: David Boder
-      start: '00:41:47.127'
-      end: '00:41:48.668'
+      start:
+        sec: '2507.127'
+        mark: '00:41:47.127'
+      end:
+        sec: '2508.668'
+        mark: '00:41:48.668'
       u: Was that not Treblinka?
     - who: Jurek Kestenberg
-      start: '00:41:48.668'
-      end: '00:00:00.000'
+      start:
+        sec: '2508.668'
+        mark: '00:41:48.668'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: No, no, not Treblinka.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I went Majdanek to Skarzysko, a work lager.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: In Treblinka one did not work. In Treblinka one was soon exterminated.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:41:55.759'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '2515.759'
+        mark: '00:41:55.759'
       u: Aha.
     - who: Jurek Kestenberg
-      start: '00:41:55.759'
-      end: '00:00:00.000'
+      start:
+        sec: '2515.759'
+        mark: '00:41:55.759'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And after thirteen months it was found out that the Russians are steadily
         approaching the lager. The Russians are approaching. Shooting was already
         heard. Day and night we saw fire in the distance. And so everybody thought
@@ -2280,41 +4160,73 @@ recording:
         where everybody watched. If one should be missing, nobody would be evacuated.
         He would be searched for so long until he was found.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:42:17.082'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '2537.082'
+        mark: '00:42:17.082'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:42:17.082'
-      end: '00:42:46.814'
+      start:
+        sec: '2537.082'
+        mark: '00:42:17.082'
+      end:
+        sec: '2566.814'
+        mark: '00:42:46.814'
       u: And so we had no other choice. We had to present ourselves, and we had to
         leave. We were again put...packed into wagons. Again, this time a hundred
         people to a wagon. Not a hundred and twenty as before, but no, a hundred people
         to a wagon. And we were taken to Buchenwald.
     - who: David Boder
-      start: '00:42:46.814'
-      end: '00:42:48.378'
+      start:
+        sec: '2566.814'
+        mark: '00:42:46.814'
+      end:
+        sec: '2568.378'
+        mark: '00:42:48.378'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:42:48.378'
-      end: '00:42:49.728'
+      start:
+        sec: '2568.378'
+        mark: '00:42:48.378'
+      end:
+        sec: '2569.728'
+        mark: '00:42:49.728'
       u: In Buchenwald...
     - who: David Boder
-      start: '00:42:49.728'
-      end: '00:42:50.876'
+      start:
+        sec: '2569.728'
+        mark: '00:42:49.728'
+      end:
+        sec: '2570.876'
+        mark: '00:42:50.876'
       u: And there...
     - who: Jurek Kestenberg
-      start: '00:42:50.876'
-      end: '00:45:54.914'
+      start:
+        sec: '2570.876'
+        mark: '00:42:50.876'
+      end:
+        sec: '2754.914'
+        mark: '00:45:54.914'
       u: |-
         We arrived. We were there the first transport of Polish Jews which arrived in Buchenwald. And so since there were already many Jews in Buchenwald, possibly not from Poland....But there were already many Jews in Buchenwald who had possibly a lot to say there, because they were already...a few Jews were already block
                                 trusties, and so on, and so on. We were received rather nicely. The...the prisoners received us rather nicely, because Buchenwald was a political lager. It was not a lager for extermination like Majdanek or Skarzysko. This was a lager for politicals. We were received rather nicely. The prisoners did for us whatever they could. And most they did for the younger ones. That means [those] up to seventeen, eighteen years. He immediately ordered food, because we were so starved. We were soon given to eat. And we remained in Buchenwald. We remained...I was [there] eight or nine months. I don’t remember too well. we were given into a block of...Buchenwald consists of two lager, a large lager and a small lager. In the small lager that means it was much worse than in the large lager. In the small lager were only people, those who worked very hard, no, worked not so hard, bit they sat [around], had little to eat, and so forth. We, the younger ones, were transferred to the large lager. I was in block number twenty-three. This was a special block, a Jew-block, The Germans called it. And there I was two months. I rested up before I went to work. All that, thanks to the Jewish prisoners who had arranged everything so well that we shouldn’t have to go to work immediately, but we should be able to rest up for a couple of months. And so we had rested up for a time, and then we went to work. The work was not so hard. The work consisted only of a few bricks...to carry bricks, because they were building, the Germans were building there various bunkers and so forth. Kitchens they were building. And so it went on till the bombing. That means for the bombing there arrived...one...one day there arrived Anglo-American aircraft, and they bombed. That means they were probably so well informed, the Germans...eh...eh...the English aircraft, that they did not bomb the lager but they bombed everything round and round the lager. That means the German SS armoires and all the important...important German points they bombed. The lager itself they did not bomb.
     - who: David Boder
-      start: '00:45:54.914'
-      end: '00:45:56.718'
+      start:
+        sec: '2754.914'
+        mark: '00:45:54.914'
+      end:
+        sec: '2756.718'
+        mark: '00:45:56.718'
       u: Were the airplanes shot at?
     - who: Jurek Kestenberg
-      start: '00:45:56.718'
-      end: '00:46:29.494'
+      start:
+        sec: '2756.718'
+        mark: '00:45:56.718'
+      end:
+        sec: '2789.494'
+        mark: '00:46:29.494'
       u: Yes, the Germans were shooting at them. One...one airplane I saw shot down,
         but the SS armoires, all those German factories which were around, all those
         munition factories were all destroyed. Everything was destroyed from A to
@@ -2323,20 +4235,36 @@ recording:
         that were the kitchen to burn down, we will have it very bitter here. We will
         be evacuated from the lager. We won’t have [a place] from which to eat and...
     - who: David Boder
-      start: '00:46:29.494'
-      end: '00:46:31.488'
+      start:
+        sec: '2789.494'
+        mark: '00:46:29.494'
+      end:
+        sec: '2791.488'
+        mark: '00:46:31.488'
       u: The kitchen where they cooked?
     - who: Jurek Kestenberg
-      start: '00:46:31.488'
-      end: '00:46:32.395'
+      start:
+        sec: '2791.488'
+        mark: '00:46:31.488'
+      end:
+        sec: '2792.395'
+        mark: '00:46:32.395'
       u: For the prisoners, for us.
     - who: David Boder
-      start: '00:46:32.395'
-      end: '00:46:33.564'
+      start:
+        sec: '2792.395'
+        mark: '00:46:32.395'
+      end:
+        sec: '2793.564'
+        mark: '00:46:33.564'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:46:33.564'
-      end: '00:00:00.000'
+      start:
+        sec: '2793.564'
+        mark: '00:46:33.564'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And so all of us, all the prisoners...there were in the camp perhaps...I
         don’t know exactly how many people there were. I know there were many thousand
         people. There were perhaps twenty, thirty thousand people at that time in
@@ -2347,12 +4275,20 @@ recording:
         work had become harder, because we had to rebuild everything that the...the
         Americans had destroyed.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:47:15.715'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '2835.715'
+        mark: '00:47:15.715'
       u: Nu?
     - who: Jurek Kestenberg
-      start: '00:47:15.715'
-      end: '00:48:09.404'
+      start:
+        sec: '2835.715'
+        mark: '00:47:15.715'
+      end:
+        sec: '2889.404'
+        mark: '00:48:09.404'
       u: After eight months...I don’t remember exactly the numbers, because I don’t
         remember all that too well. The...the time that I was in the lager I don’t
         remember too well. And so after eight months...it was exactly eight months...it
@@ -2363,29 +4299,53 @@ recording:
         We found that out. There was a great joy in the lager when we....when we heard
         that.
     - who: David Boder
-      start: '00:48:09.404'
-      end: '00:48:14.022'
+      start:
+        sec: '2889.404'
+        mark: '00:48:09.404'
+      end:
+        sec: '2894.022'
+        mark: '00:48:14.022'
       u: When you were rejoicing in the lager, didn’t the SS see that? You were...
     - who: Jurek Kestenberg
-      start: '00:48:14.022'
-      end: '00:00:00.000'
+      start:
+        sec: '2894.022'
+        mark: '00:48:14.022'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: The SS saw [it], but they couldn’t do anything [about it], because the people
         came home from work...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:48:17.843'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '2897.843'
+        mark: '00:48:17.843'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:48:17.843'
-      end: '00:00:00.000'
+      start:
+        sec: '2897.843'
+        mark: '00:48:17.843'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Various people were working. A part of the people worked outside...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:48:22.449'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '2902.449'
+        mark: '00:48:22.449'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:48:22.449'
-      end: '00:48:49.547'
+      start:
+        sec: '2902.449'
+        mark: '00:48:22.449'
+      end:
+        sec: '2929.547'
+        mark: '00:48:49.547'
       u: ". . . outside the lager. A part of the people worked inside the lager. The
         people who worked outside the lager. when they returned to the lager. they
         told various news that they had heard outside. There was, for instance, one
@@ -2393,64 +4353,112 @@ recording:
         what is happening in the world, that the Americans are moving forwards, that
         the Germans are on the run, and so on, and so on."
     - who: David Boder
-      start: '00:48:49.547'
-      end: '00:48:50.574'
+      start:
+        sec: '2929.547'
+        mark: '00:48:49.547'
+      end:
+        sec: '2930.574'
+        mark: '00:48:50.574'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:48:50.574'
-      end: '00:00:00.000'
+      start:
+        sec: '2930.574'
+        mark: '00:48:50.574'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And so the people who were working outside, returning to the lager, they
         told [us] everything that they had heard.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:48:56.266'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '2936.266'
+        mark: '00:48:56.266'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:48:56.266'
-      end: '00:49:17.865'
+      start:
+        sec: '2936.266'
+        mark: '00:48:56.266'
+      end:
+        sec: '2957.865'
+        mark: '00:49:17.865'
       u: And we were very glad about it. And so when the Germans saw that the Americans
         are moving forward, they ordered that the entire lager be evacuated. Everybody,
         with no exceptions, has to be evacuated. Now we already knew that now we must...we
         must not allow ourselves to be evacuated, because the Americans are already...are
         already very close.
     - who: David Boder
-      start: '00:49:17.865'
-      end: '00:49:19.464'
+      start:
+        sec: '2957.865'
+        mark: '00:49:17.865'
+      end:
+        sec: '2959.464'
+        mark: '00:49:19.464'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:49:19.464'
-      end: '00:49:37.181'
+      start:
+        sec: '2959.464'
+        mark: '00:49:19.464'
+      end:
+        sec: '2977.181'
+        mark: '00:49:37.181'
       u: With all our strength we avoided being evacuated. We ran down...we were running
         from one block to the other. We were hiding. We were...we were hiding, and
         did not let ourselves be evacuated. But the Germans came into the lager, surrounded
         entire blocks, sent everybody up to the gate...sent to the gate...up to the
         gate...
     - who: David Boder
-      start: '00:49:37.181'
-      end: '00:49:38.497'
+      start:
+        sec: '2977.181'
+        mark: '00:49:37.181'
+      end:
+        sec: '2978.497'
+        mark: '00:49:38.497'
       u: Who was sending?
     - who: Jurek Kestenberg
-      start: '00:49:38.497'
-      end: '00:49:46.181'
+      start:
+        sec: '2978.497'
+        mark: '00:49:38.497'
+      end:
+        sec: '2986.181'
+        mark: '00:49:46.181'
       u: The Germans. Up to the gate. Everybody must leave the lager. The lager is
         going to be evacuated. And it was said that we are going to...to Theresienstadt.
     - who: David Boder
-      start: '00:49:46.181'
-      end: '00:49:47.056'
+      start:
+        sec: '2986.181'
+        mark: '00:49:46.181'
+      end:
+        sec: '2987.056'
+        mark: '00:49:47.056'
       u: Theresienstadt?
     - who: Jurek Kestenberg
-      start: '00:49:47.056'
-      end: '00:49:58.344'
+      start:
+        sec: '2987.056'
+        mark: '00:49:47.056'
+      end:
+        sec: '2998.344'
+        mark: '00:49:58.344'
       u: Theresienstadt, also a lager. We will work the. Because now we have to run
         away from the Americans. They said, ‘The mean enemy is coming here, and we
         have to run away from him.’
     - who: David Boder
-      start: '00:49:58.344'
-      end: '00:49:59.340'
+      start:
+        sec: '2998.344'
+        mark: '00:49:58.344'
+      end:
+        sec: '2999.340'
+        mark: '00:49:59.340'
       u: And?
     - who: Jurek Kestenberg
-      start: '00:49:59.340'
-      end: '00:51:11.637'
+      start:
+        sec: '2999.340'
+        mark: '00:49:59.340'
+      end:
+        sec: '3071.637'
+        mark: '00:51:11.637'
       u: It was announced through the loudspeaker. There was a large loudspeaker.
         Everything they...everything was announced then through...through the loudspeaker
         by the Germans. All Jews assemble on the appell square! And so we at that
@@ -2466,117 +4474,213 @@ recording:
         the papers, everything had been burned down during the bombardment by the...during
         the bombing.
     - who: David Boder
-      start: '00:51:11.637'
-      end: '00:51:12.373'
+      start:
+        sec: '3071.637'
+        mark: '00:51:11.637'
+      end:
+        sec: '3072.373'
+        mark: '00:51:12.373'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:51:12.373'
-      end: '00:51:24.886'
+      start:
+        sec: '3072.373'
+        mark: '00:51:12.373'
+      end:
+        sec: '3084.886'
+        mark: '00:51:24.886'
       u: Now they didn’t know too well any more which is a Jewish block, and so on.
         And so the block elder had to sign, vouching with his head that he has not
         one Jew in the block. And in the meantime we were...we all were there. We
         were Jews only there.
     - who: David Boder
-      start: '00:51:24.886'
-      end: '00:51:25.912'
+      start:
+        sec: '3084.886'
+        mark: '00:51:24.886'
+      end:
+        sec: '3085.912'
+        mark: '00:51:25.912'
       u: All were Jews?
     - who: Jurek Kestenberg
-      start: '00:51:25.912'
-      end: '00:51:28.629'
+      start:
+        sec: '3085.912'
+        mark: '00:51:25.912'
+      end:
+        sec: '3088.629'
+        mark: '00:51:28.629'
       u: Indeed, all were Jews! He had not a single Gentile!
     - who: David Boder
-      start: '00:51:28.629'
-      end: '00:51:28.979'
+      start:
+        sec: '3088.629'
+        mark: '00:51:28.629'
+      end:
+        sec: '3088.979'
+        mark: '00:51:28.979'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:51:28.979'
-      end: '00:51:30.458'
+      start:
+        sec: '3088.979'
+        mark: '00:51:28.979'
+      end:
+        sec: '3090.458'
+        mark: '00:51:30.458'
       u: He had only Jews. He had vouched...
     - who: David Boder
-      start: '00:51:30.458'
-      end: '00:51:31.502'
+      start:
+        sec: '3090.458'
+        mark: '00:51:30.458'
+      end:
+        sec: '3091.502'
+        mark: '00:51:31.502'
       u: And that was a Czech?
     - who: Jurek Kestenberg
-      start: '00:51:31.502'
-      end: '00:51:41.734'
+      start:
+        sec: '3091.502'
+        mark: '00:51:31.502'
+      end:
+        sec: '3101.734'
+        mark: '00:51:41.734'
       u: Yes, a Czech. He guaranteed that he does not have a single Jew. In general
         all the Czechs in the lager behaved very well. They acted well towards us.
         And they did a lot...
     - who: David Boder
-      start: '00:51:41.734'
-      end: '00:51:42.869'
+      start:
+        sec: '3101.734'
+        mark: '00:51:41.734'
+      end:
+        sec: '3102.869'
+        mark: '00:51:42.869'
       u: Was he a prisoner?
     - who: Jurek Kestenberg
-      start: '00:51:42.869'
-      end: '00:51:44.034'
+      start:
+        sec: '3102.869'
+        mark: '00:51:42.869'
+      end:
+        sec: '3104.034'
+        mark: '00:51:44.034'
       u: A prisoner, a prisoner.
     - who: David Boder
-      start: '00:51:44.034'
-      end: '00:51:44.324'
+      start:
+        sec: '3104.034'
+        mark: '00:51:44.034'
+      end:
+        sec: '3104.324'
+        mark: '00:51:44.324'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:51:44.324'
-      end: '00:51:56.203'
+      start:
+        sec: '3104.324'
+        mark: '00:51:44.324'
+      end:
+        sec: '3116.203'
+        mark: '00:51:56.203'
       u: There were no non-prisoners in the lager, only prisoners. All the Czechs
         behaved very decently towards us. And..[pause]
     - who: David Boder
-      start: '00:51:56.203'
-      end: '00:52:08.910'
+      start:
+        sec: '3116.203'
+        mark: '00:51:56.203'
+      end:
+        sec: '3128.910'
+        mark: '00:52:08.910'
       u: And then? [Long pause.] So that was [words not clear] Now what happened afterwards?
     - who: Jurek Kestenberg
-      start: '00:52:08.910'
-      end: '00:52:35.268'
+      start:
+        sec: '3128.910'
+        mark: '00:52:08.910'
+      end:
+        sec: '3155.268'
+        mark: '00:52:35.268'
       u: Well, afterwards...and so night arrived. We went to sleep. And at night we
         heard terrible shootings. We saw for the first time a Russian airplane flying
         over the lager. One Russian airplane flew over the lager. We signaled. We
         threw hats in the air. And the Germans who were in the towers around the lager
         hid the heads into the collars, hid the whole head. They were afraid.
     - who: David Boder
-      start: '00:52:35.268'
-      end: '00:52:36.475'
+      start:
+        sec: '3155.268'
+        mark: '00:52:35.268'
+      end:
+        sec: '3156.475'
+        mark: '00:52:36.475'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:52:36.475'
-      end: '00:52:58.477'
+      start:
+        sec: '3156.475'
+        mark: '00:52:36.475'
+      end:
+        sec: '3178.477'
+        mark: '00:52:58.477'
       u: And so on the next day we heard shots, the shooting coming steadily closer.
         Machine guns, tanks. And from our block we saw, far away, we saw tanks passing
         by. We did not know whose tanks they are, whether they are German tanks or
         American tanks. And we saw the Germans who were standing in the towers around
         the lager. They were not Germans. They were Ukrainians.
     - who: David Boder
-      start: '00:52:58.477'
-      end: '00:52:59.504'
+      start:
+        sec: '3178.477'
+        mark: '00:52:58.477'
+      end:
+        sec: '3179.504'
+        mark: '00:52:59.504'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:52:59.504'
-      end: '00:53:04.804'
+      start:
+        sec: '3179.504'
+        mark: '00:52:59.504'
+      end:
+        sec: '3184.804'
+        mark: '00:53:04.804'
       u: They were running down from the towers and running into the woods, because
         Buchenwald was...all around Buchenwald there was a forest.
     - who: David Boder
-      start: '00:53:04.804'
-      end: '00:53:05.758'
+      start:
+        sec: '3184.804'
+        mark: '00:53:04.804'
+      end:
+        sec: '3185.758'
+        mark: '00:53:05.758'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '00:53:05.758'
-      end: '00:53:18.561'
+      start:
+        sec: '3185.758'
+        mark: '00:53:05.758'
+      end:
+        sec: '3198.561'
+        mark: '00:53:18.561'
       u: They ran into the forest. When we saw this, that they are running into the
         forest, the prisoners risked their lives, and they took scissors and cut through
         all those wires, electric wires.
     - who: David Boder
-      start: '00:53:18.561'
-      end: '00:53:19.388'
+      start:
+        sec: '3198.561'
+        mark: '00:53:18.561'
+      end:
+        sec: '3199.388'
+        mark: '00:53:19.388'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:53:19.388'
-      end: '00:53:22.002'
+      start:
+        sec: '3199.388'
+        mark: '00:53:19.388'
+      end:
+        sec: '3202.002'
+        mark: '00:53:22.002'
       u: And they were running down, straight when we saw the tanks coming.
     - who: David Boder
-      start: '00:53:22.002'
-      end: '00:53:22.967'
+      start:
+        sec: '3202.002'
+        mark: '00:53:22.002'
+      end:
+        sec: '3202.967'
+        mark: '00:53:22.967'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:53:22.967'
-      end: '00:54:06.075'
+      start:
+        sec: '3202.967'
+        mark: '00:53:22.967'
+      end:
+        sec: '3246.075'
+        mark: '00:54:06.075'
       u: And at that time I was with my...my two comrades. We ran over to such a tank.
         From afar he probably saw for the first time such people. That tank...he stuck
         his head out and was wondering. He didn’t know what sort of people we are.
@@ -2587,40 +4691,72 @@ recording:
         he gave us right away to eat. He gave us canned food and chocolates, and...and
         other things. Like one says, he lifted up our hearts.
     - who: David Boder
-      start: '00:54:06.075'
-      end: '00:54:07.240'
+      start:
+        sec: '3246.075'
+        mark: '00:54:06.075'
+      end:
+        sec: '3247.240'
+        mark: '00:54:07.240'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:54:07.240'
-      end: '00:54:20.960'
+      start:
+        sec: '3247.240'
+        mark: '00:54:07.240'
+      end:
+        sec: '3260.960'
+        mark: '00:54:20.960'
       u: We returned to the lager. And we didn’t find one German in the lager any
         more. All had escaped into the woods. The prisoners took axes and stones and...and
         beams, and we ran into the forest to look for the SS.
     - who: David Boder
-      start: '00:54:20.960'
-      end: '00:54:22.077'
+      start:
+        sec: '3260.960'
+        mark: '00:54:20.960'
+      end:
+        sec: '3262.077'
+        mark: '00:54:22.077'
       u: Were any found?
     - who: Jurek Kestenberg
-      start: '00:54:22.077'
-      end: '00:54:26.623'
+      start:
+        sec: '3262.077'
+        mark: '00:54:22.077'
+      end:
+        sec: '3266.623'
+        mark: '00:54:26.623'
       u: We found. The first...in the first two hours we found seventeen SS hidden
         in the woods.
     - who: David Boder
-      start: '00:54:26.623'
-      end: '00:54:27.178'
+      start:
+        sec: '3266.623'
+        mark: '00:54:26.623'
+      end:
+        sec: '3267.178'
+        mark: '00:54:27.178'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:54:27.178'
-      end: '00:54:33.776'
+      start:
+        sec: '3267.178'
+        mark: '00:54:27.178'
+      end:
+        sec: '3273.776'
+        mark: '00:54:33.776'
       u: One [was] on a tree. He didn’t want to come down. They took from another
         SS...they had immediately taken away all the weapons...
     - who: David Boder
-      start: '00:54:33.776'
-      end: '00:54:33.975'
+      start:
+        sec: '3273.776'
+        mark: '00:54:33.776'
+      end:
+        sec: '3273.975'
+        mark: '00:54:33.975'
       u: Yes,
     - who: Jurek Kestenberg
-      start: '00:54:33.975'
-      end: '00:54:56.751'
+      start:
+        sec: '3273.975'
+        mark: '00:54:33.975'
+      end:
+        sec: '3296.751'
+        mark: '00:54:56.751'
       u: ". . . all the arms. They shot him down from the tree, the prisoners. And
         they were herded in, all the SS, into one block. Officers, three higher ranking
         officers, had been caught. All were herded into one block and a few people
@@ -2628,30 +4764,54 @@ recording:
         for us, because we forced them. When they saw a prisoner they had to remove
         their hats for us now."
     - who: David Boder
-      start: '00:54:56.751'
-      end: '00:54:57.669'
+      start:
+        sec: '3296.751'
+        mark: '00:54:56.751'
+      end:
+        sec: '3297.669'
+        mark: '00:54:57.669'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:54:57.669'
-      end: '00:55:01.641'
+      start:
+        sec: '3297.669'
+        mark: '00:54:57.669'
+      end:
+        sec: '3301.641'
+        mark: '00:55:01.641'
       u: And they were abused. They were abused until the Americans came into the
         lager.
     - who: David Boder
-      start: '00:55:01.641'
-      end: '00:55:02.214'
+      start:
+        sec: '3301.641'
+        mark: '00:55:01.641'
+      end:
+        sec: '3302.214'
+        mark: '00:55:02.214'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:55:02.214'
-      end: '00:55:06.772'
+      start:
+        sec: '3302.214'
+        mark: '00:55:02.214'
+      end:
+        sec: '3306.772'
+        mark: '00:55:06.772'
       u: The Americans came into the lager after a two days. Before that the prisoners
         themselves held the...
     - who: David Boder
-      start: '00:55:06.772'
-      end: '00:55:07.364'
+      start:
+        sec: '3306.772'
+        mark: '00:55:06.772'
+      end:
+        sec: '3307.364'
+        mark: '00:55:07.364'
       u: The lager.
     - who: Jurek Kestenberg
-      start: '00:55:07.364'
-      end: '00:55:45.843'
+      start:
+        sec: '3307.364'
+        mark: '00:55:07.364'
+      end:
+        sec: '3345.843'
+        mark: '00:55:45.843'
       u: The lager in their hands. After two days the Americans entered the lager.
         Ach! You can’t...it is impossible to imagine the joy. We carried them in.
         On the [our] hands we carried them in. We carried them. We tossed them up
@@ -2662,12 +4822,20 @@ recording:
         Now suddenly the Americans arrived [and] liberated us. We just didn’t want
         to believe ourselves, didn’t want and couldn’t believe.
     - who: David Boder
-      start: '00:55:45.843'
-      end: '00:55:48.608'
+      start:
+        sec: '3345.843'
+        mark: '00:55:45.843'
+      end:
+        sec: '3348.608'
+        mark: '00:55:48.608'
       u: Jurek, how did you get to Paris?
     - who: Jurek Kestenberg
-      start: '00:55:48.608'
-      end: '00:56:20.535'
+      start:
+        sec: '3348.608'
+        mark: '00:55:48.608'
+      end:
+        sec: '3380.535'
+        mark: '00:56:20.535'
       u: And so after the liberation from Buchenwald all the youngsters were taken
         and transferred to the SS armory which had remained standing. Because not
         all the armories had been bombed out. A few had remained. We were taken there,
@@ -2676,40 +4844,72 @@ recording:
         were abused. They were harassed, the Germans there in the towns all around.
         And one beaut...one day there came a car with representatives of UNRRA.
     - who: David Boder
-      start: '00:56:20.535'
-      end: '00:56:21.773'
+      start:
+        sec: '3380.535'
+        mark: '00:56:20.535'
+      end:
+        sec: '3381.773'
+        mark: '00:56:21.773'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:56:21.773'
-      end: '00:56:24.387'
+      start:
+        sec: '3381.773'
+        mark: '00:56:21.773'
+      end:
+        sec: '3384.387'
+        mark: '00:56:24.387'
       u: And they said that we are going to be taken to Belgium.
     - who: David Boder
-      start: '00:56:24.387'
-      end: '00:56:26.488'
+      start:
+        sec: '3384.387'
+        mark: '00:56:24.387'
+      end:
+        sec: '3386.488'
+        mark: '00:56:26.488'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:56:26.488'
-      end: '00:56:48.750'
+      start:
+        sec: '3386.488'
+        mark: '00:56:26.488'
+      end:
+        sec: '3408.750'
+        mark: '00:56:48.750'
       u: A week later were registered all those who wanted to go to Belgium, all those
         who wanted to go to Poland, all those who wanted to go to Palestine. Everyone’s
         destination was written down. Later on there came again someone from the UNRRA...UNRRA
         [and] said no. We are not going to Belgium. We are going to France. We were
         registered. There was at that time an American Rabbi. His name was Rabbi Marcus.
     - who: David Boder
-      start: '00:56:48.750'
-      end: '00:56:49.643'
+      start:
+        sec: '3408.750'
+        mark: '00:56:48.750'
+      end:
+        sec: '3409.643'
+        mark: '00:56:49.643'
       u: Rabbi Marcus?
     - who: Jurek Kestenberg
-      start: '00:56:49.643'
-      end: '00:56:54.925'
+      start:
+        sec: '3409.643'
+        mark: '00:56:49.643'
+      end:
+        sec: '3414.925'
+        mark: '00:56:54.925'
       u: Yes. He took us over. And then there was Rabbi Schechter.
     - who: David Boder
-      start: '00:56:54.925'
-      end: '00:56:55.800'
+      start:
+        sec: '3414.925'
+        mark: '00:56:54.925'
+      end:
+        sec: '3415.800'
+        mark: '00:56:55.800'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:56:55.800'
-      end: '00:57:43.437'
+      start:
+        sec: '3415.800'
+        mark: '00:56:55.800'
+      end:
+        sec: '3463.437'
+        mark: '00:57:43.437'
       u: He arrived in Buchenwald first, the first Jew, that Rabbi Scheschter. He
         made...there was at that time Pesach, or something. He distributed Matzos
         at that time. Services were conducted that day. Rabbi Marcus accompanied the
@@ -2721,164 +4921,312 @@ recording:
         up a little after all...after all that agony that we had endured. We were
         there two months. And now we are here in Paris, in the Chateau Boucicout.
     - who: David Boder
-      start: '00:57:43.437'
-      end: '00:57:47.904'
+      start:
+        sec: '3463.437'
+        mark: '00:57:43.437'
+      end:
+        sec: '3467.904'
+        mark: '00:57:47.904'
       u: And what do you want to do? You are studying to be a dental technician?
     - who: Jurek Kestenberg
-      start: '00:57:47.904'
-      end: '00:57:48.477'
+      start:
+        sec: '3467.904'
+        mark: '00:57:47.904'
+      end:
+        sec: '3468.477'
+        mark: '00:57:48.477'
       u: Yes.
     - who: David Boder
-      start: '00:57:48.477'
-      end: '00:57:50.469'
+      start:
+        sec: '3468.477'
+        mark: '00:57:48.477'
+      end:
+        sec: '3470.469'
+        mark: '00:57:50.469'
       u: And where do you want to go then?
     - who: Jurek Kestenberg
-      start: '00:57:50.469'
-      end: '00:57:51.646'
+      start:
+        sec: '3470.469'
+        mark: '00:57:50.469'
+      end:
+        sec: '3471.646'
+        mark: '00:57:51.646'
       u: I don’t know yet.
     - who: David Boder
-      start: '00:57:51.646'
-      end: '00:58:26.714'
+      start:
+        sec: '3471.646'
+        mark: '00:57:51.646'
+      end:
+        sec: '3506.714'
+        mark: '00:58:26.714'
       u: You don’t know yet where you want to go. [Here follows an attempt at the
         TAT.] I have here a few pictures, and I try sometimes...I want to see, for
         instance...number12M. What does this picture remind you of about the last
         four years?
     - who: Jurek Kestenberg
-      start: '00:58:26.714'
-      end: '00:58:27.366'
+      start:
+        sec: '3506.714'
+        mark: '00:58:26.714'
+      end:
+        sec: '3507.366'
+        mark: '00:58:27.366'
       u: Pardon?
     - who: David Boder
-      start: '00:58:27.366'
-      end: '00:58:34.537'
+      start:
+        sec: '3507.366'
+        mark: '00:58:27.366'
+      end:
+        sec: '3514.537'
+        mark: '00:58:34.537'
       u: Yes, what is this picture? What does it remind you of?
     - who: Jurek Kestenberg
-      start: '00:58:34.537'
-      end: '00:58:37.133'
+      start:
+        sec: '3514.537'
+        mark: '00:58:34.537'
+      end:
+        sec: '3517.133'
+        mark: '00:58:37.133'
       u: This picture, what it reminds me of?
     - who: David Boder
-      start: '00:58:37.133'
-      end: '00:58:45.904'
+      start:
+        sec: '3517.133'
+        mark: '00:58:37.133'
+      end:
+        sec: '3525.904'
+        mark: '00:58:45.904'
       u: Yes. What do you see in this picture?
     - who: Jurek Kestenberg
-      start: '00:58:45.904'
-      end: '00:58:50.389'
+      start:
+        sec: '3525.904'
+        mark: '00:58:45.904'
+      end:
+        sec: '3530.389'
+        mark: '00:58:50.389'
       u: It is too bad that the face of this person can’t be seen. If the face of
         this man could be seen I could tell you much more.
     - who: David Boder
-      start: '00:58:50.389'
-      end: '00:59:03.566'
+      start:
+        sec: '3530.389'
+        mark: '00:58:50.389'
+      end:
+        sec: '3543.566'
+        mark: '00:59:03.566'
       u: Nu, what can you say the way you see it? Whatever you think. What does it
         remind you of?
     - who: Jurek Kestenberg
-      start: '00:59:03.566'
-      end: '00:59:07.701'
+      start:
+        sec: '3543.566'
+        mark: '00:59:03.566'
+      end:
+        sec: '3547.701'
+        mark: '00:59:07.701'
       u: It reminds me, for instance, of...that...for instance, he is his son.
     - who: David Boder
-      start: '00:59:07.701'
-      end: '00:59:08.202'
+      start:
+        sec: '3547.701'
+        mark: '00:59:07.701'
+      end:
+        sec: '3548.202'
+        mark: '00:59:08.202'
       u: Yes?
     - who: Jurek Kestenberg
-      start: '00:59:08.202'
-      end: '00:59:08.534'
+      start:
+        sec: '3548.202'
+        mark: '00:59:08.202'
+      end:
+        sec: '3548.534'
+        mark: '00:59:08.534'
       u: This one.
     - who: David Boder
-      start: '00:59:08.534'
-      end: '00:59:09.367'
+      start:
+        sec: '3548.534'
+        mark: '00:59:08.534'
+      end:
+        sec: '3549.367'
+        mark: '00:59:09.367'
       u: Yes?
     - who: Jurek Kestenberg
-      start: '00:59:09.367'
-      end: '00:59:19.979'
+      start:
+        sec: '3549.367'
+        mark: '00:59:09.367'
+      end:
+        sec: '3559.979'
+        mark: '00:59:19.979'
       u: The...the son is not alive. And here can be seen the...the father, or it
         is the brother, or the father. The face can’t be seen. And he cries over him,
         or something like that.
     - who: David Boder
-      start: '00:59:19.979'
-      end: '00:59:27.331'
+      start:
+        sec: '3559.979'
+        mark: '00:59:19.979'
+      end:
+        sec: '3567.331'
+        mark: '00:59:27.331'
       u: Hm. And what is this? This is number 19F. What is this? Hold it. Hold it
         in your hand.
     - who: Jurek Kestenberg
-      start: '00:59:27.331'
-      end: '00:59:29.233'
+      start:
+        sec: '3567.331'
+        mark: '00:59:27.331'
+      end:
+        sec: '3569.233'
+        mark: '00:59:29.233'
       u: Oh, this reminds me of a panic...
     - who: David Boder
-      start: '00:59:29.233'
-      end: '00:59:29.764'
+      start:
+        sec: '3569.233'
+        mark: '00:59:29.233'
+      end:
+        sec: '3569.764'
+        mark: '00:59:29.764'
       u: Hm.
     - who: Jurek Kestenberg
-      start: '00:59:29.764'
-      end: '00:59:45.639'
+      start:
+        sec: '3569.764'
+        mark: '00:59:29.764'
+      end:
+        sec: '3585.639'
+        mark: '00:59:45.639'
       u: ". . . that arose in the lager when the Germans...when...when we would see
         a lot of Germans coming. When we...not only [in] a lager, even in the Ghetto.
         When we saw Germans passing by, people ran away with such wide open eyes...with
         such...with such..."
     - who: David Boder
-      start: '00:59:45.639'
-      end: '00:59:47.499'
+      start:
+        sec: '3585.639'
+        mark: '00:59:45.639'
+      end:
+        sec: '3587.499'
+        mark: '00:59:47.499'
       u: Hm. Yes.
     - who: Jurek Kestenberg
-      start: '00:59:47.499'
-      end: '00:59:51.724'
+      start:
+        sec: '3587.499'
+        mark: '00:59:47.499'
+      end:
+        sec: '3591.724'
+        mark: '00:59:51.724'
       u: ". . . terrified eyes. Thus people were running. This woman, for instance..."
     - who: David Boder
-      start: '00:59:51.724'
-      end: '01:00:10.980'
+      start:
+        sec: '3591.724'
+        mark: '00:59:51.724'
+      end:
+        sec: '3610.980'
+        mark: '01:00:10.980'
       u: Yes. Number 15. What is this? [Long pause.] Yes, hold it.
     - who: Jurek Kestenberg
-      start: '01:00:10.980'
-      end: '01:00:14.952'
+      start:
+        sec: '3610.980'
+        mark: '01:00:10.980'
+      end:
+        sec: '3614.952'
+        mark: '01:00:14.952'
       u: This is on a...on a...how does one say it? On a sacred field.
     - who: David Boder
-      start: '01:00:14.952'
-      end: '01:00:16.087'
+      start:
+        sec: '3614.952'
+        mark: '01:00:14.952'
+      end:
+        sec: '3616.087'
+        mark: '01:00:16.087'
       u: What is that?
     - who: Jurek Kestenberg
-      start: '01:00:16.087'
-      end: '01:00:20.119'
+      start:
+        sec: '3616.087'
+        mark: '01:00:16.087'
+      end:
+        sec: '3620.119'
+        mark: '01:00:20.119'
       u: On a sacred field. How does one say it in German? [Words not clear]
     - who: David Boder
-      start: '01:00:20.119'
-      end: '01:00:21.749'
+      start:
+        sec: '3620.119'
+        mark: '01:00:20.119'
+      end:
+        sec: '3621.749'
+        mark: '01:00:21.749'
       u: Yes.
     - who: Jurek Kestenberg
-      start: '01:00:21.749'
-      end: '01:00:23.487'
+      start:
+        sec: '3621.749'
+        mark: '01:00:21.749'
+      end:
+        sec: '3623.487'
+        mark: '01:00:23.487'
       u: What is it called in German?
     - who: David Boder
-      start: '01:00:23.487'
-      end: '01:00:24.483'
+      start:
+        sec: '3623.487'
+        mark: '01:00:23.487'
+      end:
+        sec: '3624.483'
+        mark: '01:00:24.483'
       u: Beth Olom? [this is the Hebrew equivalent for cemetery commonly used]
     - who: Jurek Kestenberg
-      start: '01:00:24.483'
-      end: '01:00:26.204'
+      start:
+        sec: '3624.483'
+        mark: '01:00:24.483'
+      end:
+        sec: '3626.204'
+        mark: '01:00:26.204'
       u: Beth...Beth...Beth Olom.
     - who: David Boder
-      start: '01:00:26.204'
-      end: '01:00:26.916'
+      start:
+        sec: '3626.204'
+        mark: '01:00:26.204'
+      end:
+        sec: '3626.916'
+        mark: '01:00:26.916'
       u: Yes?
     - who: Jurek Kestenberg
-      start: '01:00:26.916'
-      end: '01:00:31.685'
+      start:
+        sec: '3626.916'
+        mark: '01:00:26.916'
+      end:
+        sec: '3631.685'
+        mark: '01:00:31.685'
       u: On a cemetery. How one comes to a grave in which is his...
     - who: David Boder
-      start: '01:00:31.685'
-      end: '01:00:38.252'
+      start:
+        sec: '3631.685'
+        mark: '01:00:31.685'
+      end:
+        sec: '3638.252'
+        mark: '01:00:38.252'
       u: One moment. And what is this?
     - who: Jurek Kestenberg
-      start: '01:00:38.252'
-      end: '01:00:43.081'
+      start:
+        sec: '3638.252'
+        mark: '01:00:38.252'
+      end:
+        sec: '3643.081'
+        mark: '01:00:43.081'
       u: A boy is meditating. [Pause]
     - who: David Boder
-      start: '01:00:43.081'
-      end: '01:00:52.649'
+      start:
+        sec: '3643.081'
+        mark: '01:00:43.081'
+      end:
+        sec: '3652.649'
+        mark: '01:00:52.649'
       u: Whatever comes to your mind. And what is this? What is this?
     - who: Jurek Kestenberg
-      start: '01:00:52.649'
-      end: '01:01:02.295'
+      start:
+        sec: '3652.649'
+        mark: '01:00:52.649'
+      end:
+        sec: '3662.295'
+        mark: '01:01:02.295'
       u: This is a...the work on the field. For instance, the husband is working,
         and the wife stands and watches, and...
     - who: David Boder
-      start: '01:01:02.295'
-      end: '01:02:34.893'
+      start:
+        sec: '3662.295'
+        mark: '01:01:02.295'
+      end:
+        sec: '3754.893'
+        mark: '01:02:34.893'
       u: "[In English] Well, this concludes the interview with Jurek Kestenberg, seventeen
         years old, from Warsaw. the beginning of this interview is on Spool 11, and
         this is Spool 12 [A] Well, Jurek [words not clear]"

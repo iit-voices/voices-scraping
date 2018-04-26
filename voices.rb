@@ -357,13 +357,16 @@ Dir.glob(files).each do |file|
     @t.css('#content > ul + ul > li').each do |li|
       @u = Utterance.new
       @u.who = li.css('.who span text()').to_s.strip
-      @u.start = time_marker(li.css('.utterance').attr('start')).to_s.strip
+      @u.start = Hash.new
+      @u.end = {sec:'',mark:''}
+      @u.start[:sec] = li.css('.utterance').attr('start').to_s.strip.gsub(/x/,'')
+      @u.start[:mark] = time_marker(@u.start[:sec])
       # If there's a previous record, back up and set the end value to the current record's start
       # value
       if @trans.interview.length > 0
-        @trans.interview.last[:end] = @u.start
+        @trans.interview.last[:end][:sec] = @u.start[:sec]
+        @trans.interview.last[:end][:mark] = @u.start[:mark]
       end
-      @u.end = li.next
       # Subtitute ugly ` . . . ` ellipsis with `...`
       @u.u = li.css('.utterance text()').to_s.strip.gsub(/\s\.\s\.\s\.\s?/,'...').smart_format.gsub(/…/,'...')
       # Add the utterance onto the end of the transcript array
@@ -372,7 +375,8 @@ Dir.glob(files).each do |file|
 
     # Set the end value for the last utterance
     if @trans.interview.length > 0
-      @trans.interview.last[:end] = @r.duration
+      @trans.interview.last[:end][:sec] = time_seconds(@r.duration.to_s)
+      @trans.interview.last[:end][:mark] = @r.duration.to_s
     end
 
     if t.text.match?(/Transcript/)

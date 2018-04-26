@@ -39,280 +39,536 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:01.974'
-      end: '00:01:09.926'
+      start:
+        sec: '1.974'
+        mark: '00:00:01.974'
+      end:
+        sec: '69.926'
+        mark: '00:01:09.926'
       u: This is Spool 9-12B, the second part of Spool 12. Taken in Paris at Chateau
         Boucicout, among the Buchenwald children. It starts with a rather unharmonius
         singing, but the melody can probably be recognized and the words eventually
         translated, if that hasn’t been done. The interviewee is Kalman Eisenberg,
         who later sings the solo song.
     - who: Kalman Eisenberg
-      start: '00:01:09.926'
-      end: '00:04:05.531'
+      start:
+        sec: '69.926'
+        mark: '00:01:09.926'
+      end:
+        sec: '245.531'
+        mark: '00:04:05.531'
       u: "[Singing]."
     - who: David Boder
-      start: '00:04:05.531'
-      end: '00:04:08.300'
+      start:
+        sec: '245.531'
+        mark: '00:04:05.531'
+      end:
+        sec: '248.300'
+        mark: '00:04:08.300'
       u: All right. That was very good. What is your name?
     - who: Kalman Eisenberg
-      start: '00:04:08.300'
-      end: '00:04:09.245'
+      start:
+        sec: '248.300'
+        mark: '00:04:08.300'
+      end:
+        sec: '249.245'
+        mark: '00:04:09.245'
       u: Eisenberg.
     - who: David Boder
-      start: '00:04:09.245'
-      end: '00:04:11.691'
+      start:
+        sec: '249.245'
+        mark: '00:04:09.245'
+      end:
+        sec: '251.691'
+        mark: '00:04:11.691'
       u: And the first name?
     - who: Kalman Eisenberg
-      start: '00:04:11.691'
-      end: '00:04:20.392'
+      start:
+        sec: '251.691'
+        mark: '00:04:11.691'
+      end:
+        sec: '260.392'
+        mark: '00:04:20.392'
       u: "[In a tone imitating a radio announcer:] This is Chaver [comrade] Eisenberg
         from Poland singing, having gone through five years of concentration camps
         in Germany."
     - who: David Boder
-      start: '00:04:20.392'
-      end: '00:04:49.500'
+      start:
+        sec: '260.392'
+        mark: '00:04:20.392'
+      end:
+        sec: '289.500'
+        mark: '00:04:49.500'
       u: Thank you very much. July 31st, 1946. Still at the Chateau...what is it?
         Still at the Chateau Boucicout. This is the third subject, a young man, just
         finished singing a song. His name is Eisenberg. What is your name, your full
         name?
     - who: Kalman Eisenberg
-      start: '00:04:49.500'
-      end: '00:04:51.231'
+      start:
+        sec: '289.500'
+        mark: '00:04:49.500'
+      end:
+        sec: '291.231'
+        mark: '00:04:51.231'
       u: Eisenberg, Kalman.
     - who: David Boder
-      start: '00:04:51.231'
-      end: '00:04:51.936'
+      start:
+        sec: '291.231'
+        mark: '00:04:51.231'
+      end:
+        sec: '291.936'
+        mark: '00:04:51.936'
       u: Kalman?
     - who: Kalman Eisenberg
-      start: '00:04:51.936'
-      end: '00:04:52.575'
+      start:
+        sec: '291.936'
+        mark: '00:04:51.936'
+      end:
+        sec: '292.575'
+        mark: '00:04:52.575'
       u: Yes.
     - who: David Boder
-      start: '00:04:52.575'
-      end: '00:04:58.938'
+      start:
+        sec: '292.575'
+        mark: '00:04:52.575'
+      end:
+        sec: '298.938'
+        mark: '00:04:58.938'
       u: Kalman...Kalman Eisenberg. Nu, tell me, Eisenberg, where were you born?
     - who: Kalman Eisenberg
-      start: '00:04:58.938'
-      end: '00:05:02.683'
+      start:
+        sec: '298.938'
+        mark: '00:04:58.938'
+      end:
+        sec: '302.683'
+        mark: '00:05:02.683'
       u: I was born in Germany...in a small town, Starachowice.
     - who: David Boder
-      start: '00:05:02.683'
-      end: '00:05:05.963'
+      start:
+        sec: '302.683'
+        mark: '00:05:02.683'
+      end:
+        sec: '305.963'
+        mark: '00:05:05.963'
       u: Then you are German by birth?
     - who: Kalman Eisenberg
-      start: '00:05:05.963'
-      end: '00:05:07.841'
+      start:
+        sec: '305.963'
+        mark: '00:05:05.963'
+      end:
+        sec: '307.841'
+        mark: '00:05:07.841'
       u: Yes. That was in Germany.
     - who: David Boder
-      start: '00:05:07.841'
-      end: '00:05:12.024'
+      start:
+        sec: '307.841'
+        mark: '00:05:07.841'
+      end:
+        sec: '312.024'
+        mark: '00:05:12.024'
       u: Yes. You were a German citizen, correct?
     - who: Kalman Eisenberg
-      start: '00:05:12.024'
-      end: '00:05:15.207'
+      start:
+        sec: '312.024'
+        mark: '00:05:12.024'
+      end:
+        sec: '315.207'
+        mark: '00:05:15.207'
       u: Starachowice is Middle-Poland, in Congress-Poland.
     - who: David Boder
-      start: '00:05:15.207'
-      end: '00:05:16.686'
+      start:
+        sec: '315.207'
+        mark: '00:05:15.207'
+      end:
+        sec: '316.686'
+        mark: '00:05:16.686'
       u: Oh, that was in Middle-Poland.
     - who: Kalman Eisenberg
-      start: '00:05:16.686'
-      end: '00:05:17.848'
+      start:
+        sec: '316.686'
+        mark: '00:05:16.686'
+      end:
+        sec: '317.848'
+        mark: '00:05:17.848'
       u: Congress-Poland [Congress-Poland is the heart of Poland, the area around
         Warsaw].
     - who: David Boder
-      start: '00:05:17.848'
-      end: '00:05:20.152'
+      start:
+        sec: '317.848'
+        mark: '00:05:17.848'
+      end:
+        sec: '320.152'
+        mark: '00:05:20.152'
       u: Was is Germany or was it Poland?
     - who: Kalman Eisenberg
-      start: '00:05:20.152'
-      end: '00:05:20.520'
+      start:
+        sec: '320.152'
+        mark: '00:05:20.152'
+      end:
+        sec: '320.520'
+        mark: '00:05:20.520'
       u: Poland.
     - who: David Boder
-      start: '00:05:20.520'
-      end: '00:05:23.742'
+      start:
+        sec: '320.520'
+        mark: '00:05:20.520'
+      end:
+        sec: '323.742'
+        mark: '00:05:23.742'
       u: Poland. And how old are you now?
     - who: Kalman Eisenberg
-      start: '00:05:23.742'
-      end: '00:05:25.008'
+      start:
+        sec: '323.742'
+        mark: '00:05:23.742'
+      end:
+        sec: '325.008'
+        mark: '00:05:25.008'
       u: Eighteen.
     - who: David Boder
-      start: '00:05:25.008'
-      end: '00:05:34.051'
+      start:
+        sec: '325.008'
+        mark: '00:05:25.008'
+      end:
+        sec: '334.051'
+        mark: '00:05:34.051'
       u: You are now eighteen years [old]. And tell me, how old were you when the
         Germans came to your place?
     - who: Kalman Eisenberg
-      start: '00:05:34.051'
-      end: '00:05:36.247'
+      start:
+        sec: '334.051'
+        mark: '00:05:34.051'
+      end:
+        sec: '336.247'
+        mark: '00:05:36.247'
       u: When they came I was fourteen years old.
     - who: David Boder
-      start: '00:05:36.247'
-      end: '00:05:37.204'
+      start:
+        sec: '336.247'
+        mark: '00:05:36.247'
+      end:
+        sec: '337.204'
+        mark: '00:05:37.204'
       u: You were fourteen years old.
     - who: Kalman Eisenberg
-      start: '00:05:37.204'
-      end: '00:05:37.831'
+      start:
+        sec: '337.204'
+        mark: '00:05:37.204'
+      end:
+        sec: '337.831'
+        mark: '00:05:37.831'
       u: Fourteen years.
     - who: David Boder
-      start: '00:05:37.831'
-      end: '00:05:54.003'
+      start:
+        sec: '337.831'
+        mark: '00:05:37.831'
+      end:
+        sec: '354.003'
+        mark: '00:05:54.003'
       u: All right. Tell me, what happened during the first days when the Germans
         entered. But speak slowly so that it could be well understood. Go ahead. Begin.
     - who: Kalman Eisenberg
-      start: '00:05:54.003'
-      end: '00:06:00.974'
+      start:
+        sec: '354.003'
+        mark: '00:05:54.003'
+      end:
+        sec: '360.974'
+        mark: '00:06:00.974'
       u: And so at first...when the Germans entered...entered...to us...into the town,
         the parents immediately...
     - who: David Boder
-      start: '00:06:00.974'
-      end: '00:06:02.891'
+      start:
+        sec: '360.974'
+        mark: '00:06:00.974'
+      end:
+        sec: '362.891'
+        mark: '00:06:02.891'
       u: What was the name of the town?
     - who: Kalman Eisenberg
-      start: '00:06:02.891'
-      end: '00:06:03.693'
+      start:
+        sec: '362.891'
+        mark: '00:06:02.891'
+      end:
+        sec: '363.693'
+        mark: '00:06:03.693'
       u: Starachowice.
     - who: David Boder
-      start: '00:06:03.693'
-      end: '00:06:04.204'
+      start:
+        sec: '363.693'
+        mark: '00:06:03.693'
+      end:
+        sec: '364.204'
+        mark: '00:06:04.204'
       u: Un-huh.
     - who: Kalman Eisenberg
-      start: '00:06:04.204'
-      end: '00:06:24.327'
+      start:
+        sec: '364.204'
+        mark: '00:06:04.204'
+      end:
+        sec: '384.327'
+        mark: '00:06:24.327'
       u: That is Middle Poland. That is Starachowice. Skarzysko. Ostrowiec. This was
         the center of the Polish textile[?] manufacturing region. And this was one
         of the towns of that center. Starachowice. I was born in Starachowice. As
         soon as the Germans entered in the year ’39, we immediately left the town,
         left with the whole family to a little town.
     - who: David Boder
-      start: '00:06:24.327'
-      end: '00:06:24.579'
+      start:
+        sec: '384.327'
+        mark: '00:06:24.327'
+      end:
+        sec: '384.579'
+        mark: '00:06:24.579'
       u: Tell me...
     - who: Kalman Eisenberg
-      start: '00:06:24.579'
-      end: '00:06:25.303'
+      start:
+        sec: '384.579'
+        mark: '00:06:24.579'
+      end:
+        sec: '385.303'
+        mark: '00:06:25.303'
       u: "[Word not clear, the name of the little town.]"
     - who: David Boder
-      start: '00:06:25.303'
-      end: '00:06:29.176'
+      start:
+        sec: '385.303'
+        mark: '00:06:25.303'
+      end:
+        sec: '389.176'
+        mark: '00:06:29.176'
       u: How large...tell me, Mr...eh...
     - who: Kalman Eisenberg
-      start: '00:06:29.176'
-      end: '00:06:29.900'
+      start:
+        sec: '389.176'
+        mark: '00:06:29.176'
+      end:
+        sec: '389.900'
+        mark: '00:06:29.900'
       u: Eisenberg.
     - who: David Boder
-      start: '00:06:29.900'
-      end: '00:06:33.645'
+      start:
+        sec: '389.900'
+        mark: '00:06:29.900'
+      end:
+        sec: '393.645'
+        mark: '00:06:33.645'
       u: "...Eisenberg, how large was your family?"
     - who: Kalman Eisenberg
-      start: '00:06:33.645'
-      end: '00:06:36.635'
+      start:
+        sec: '393.645'
+        mark: '00:06:33.645'
+      end:
+        sec: '396.635'
+        mark: '00:06:36.635'
       u: Our family consisted of seven people.
     - who: David Boder
-      start: '00:06:36.635'
-      end: '00:06:41.464'
+      start:
+        sec: '396.635'
+        mark: '00:06:36.635'
+      end:
+        sec: '401.464'
+        mark: '00:06:41.464'
       u: Yes? Tell me, a father, a mother, and who else?
     - who: Kalman Eisenberg
-      start: '00:06:41.464'
-      end: '00:06:43.001'
+      start:
+        sec: '401.464'
+        mark: '00:06:41.464'
+      end:
+        sec: '403.001'
+        mark: '00:06:43.001'
       u: No, a father I did not have.
     - who: David Boder
-      start: '00:06:43.001'
-      end: '00:06:43.319'
+      start:
+        sec: '403.001'
+        mark: '00:06:43.001'
+      end:
+        sec: '403.319'
+        mark: '00:06:43.319'
       u: Oh.
     - who: Kalman Eisenberg
-      start: '00:06:43.319'
-      end: '00:06:53.942'
+      start:
+        sec: '403.319'
+        mark: '00:06:43.319'
+      end:
+        sec: '413.942'
+        mark: '00:06:53.942'
       u: I had a mother forty years old and two older brothers, one of whom perished
         with a tragic death, in my arms, [inflicted]by the Germans.
     - who: David Boder
-      start: '00:06:53.942'
-      end: '00:06:54.786'
+      start:
+        sec: '413.942'
+        mark: '00:06:53.942'
+      end:
+        sec: '414.786'
+        mark: '00:06:54.786'
       u: Nu, and?
     - who: Kalman Eisenberg
-      start: '00:06:54.786'
-      end: '00:07:03.043'
+      start:
+        sec: '414.786'
+        mark: '00:06:54.786'
+      end:
+        sec: '423.043'
+        mark: '00:07:03.043'
       u: And the rest, one sister and the other brother, were taken to Treblinka about
         whom till this day there is not word.
     - who: David Boder
-      start: '00:07:03.043'
-      end: '00:07:12.937'
+      start:
+        sec: '423.043'
+        mark: '00:07:03.043'
+      end:
+        sec: '432.937'
+        mark: '00:07:12.937'
       u: Wait. I want that in order. So you were at home. Who...who was supporting
         the family? Who was caring for the family?
     - who: Kalman Eisenberg
-      start: '00:07:12.937'
-      end: '00:07:15.278'
+      start:
+        sec: '432.937'
+        mark: '00:07:12.937'
+      end:
+        sec: '435.278'
+        mark: '00:07:15.278'
       u: And so my older brother took care of the family, and...
     - who: David Boder
-      start: '00:07:15.278'
-      end: '00:07:16.361'
+      start:
+        sec: '435.278'
+        mark: '00:07:15.278'
+      end:
+        sec: '436.361'
+        mark: '00:07:16.361'
       u: Before the Germans entered?
     - who: Kalman Eisenberg
-      start: '00:07:16.361'
-      end: '00:07:18.355'
+      start:
+        sec: '436.361'
+        mark: '00:07:16.361'
+      end:
+        sec: '438.355'
+        mark: '00:07:18.355'
       u: Before the Germans entered...[he] took care...
     - who: David Boder
-      start: '00:07:18.355'
-      end: '00:07:21.844'
+      start:
+        sec: '438.355'
+        mark: '00:07:18.355'
+      end:
+        sec: '441.844'
+        mark: '00:07:21.844'
       u: Yes. What was the occupation of your older brother?
     - who: Kalman Eisenberg
-      start: '00:07:21.844'
-      end: '00:07:23.959'
+      start:
+        sec: '441.844'
+        mark: '00:07:21.844'
+      end:
+        sec: '443.959'
+        mark: '00:07:23.959'
       u: My older brother was a cobbler.
     - who: David Boder
-      start: '00:07:23.959'
-      end: '00:07:23.959'
+      start:
+        sec: '443.959'
+        mark: '00:07:23.959'
+      end:
+        sec: '443.959'
+        mark: '00:07:23.959'
       u: A cobbler.
     - who: Kalman Eisenberg
-      start: '00:07:23.959'
-      end: '00:07:24.779'
+      start:
+        sec: '443.959'
+        mark: '00:07:23.959'
+      end:
+        sec: '444.779'
+        mark: '00:07:24.779'
       u: A cobbler.
     - who: David Boder
-      start: '00:07:24.779'
-      end: '00:07:30.055'
+      start:
+        sec: '444.779'
+        mark: '00:07:24.779'
+      end:
+        sec: '450.055'
+        mark: '00:07:30.055'
       u: Yes. And who else of the family was working?
     - who: Kalman Eisenberg
-      start: '00:07:30.055'
-      end: '00:07:32.797'
+      start:
+        sec: '450.055'
+        mark: '00:07:30.055'
+      end:
+        sec: '452.797'
+        mark: '00:07:32.797'
       u: Only the older brother and the mother were working. No one else.
     - who: David Boder
-      start: '00:07:32.797'
-      end: '00:07:34.427'
+      start:
+        sec: '452.797'
+        mark: '00:07:32.797'
+      end:
+        sec: '454.427'
+        mark: '00:07:34.427'
       u: And what did your mother do?
     - who: Kalman Eisenberg
-      start: '00:07:34.427'
-      end: '00:07:39.320'
+      start:
+        sec: '454.427'
+        mark: '00:07:34.427'
+      end:
+        sec: '459.320'
+        mark: '00:07:39.320'
       u: The mother was helping out the brother. She traded a little in dry goods.
     - who: David Boder
-      start: '00:07:39.320'
-      end: '00:07:40.154'
+      start:
+        sec: '459.320'
+        mark: '00:07:39.320'
+      end:
+        sec: '460.154'
+        mark: '00:07:40.154'
       u: Traded a little in dry goods.
     - who: Kalman Eisenberg
-      start: '00:07:40.154'
-      end: '00:07:41.114'
+      start:
+        sec: '460.154'
+        mark: '00:07:40.154'
+      end:
+        sec: '461.114'
+        mark: '00:07:41.114'
       u: Yes.
     - who: David Boder
-      start: '00:07:41.114'
-      end: '00:07:45.096'
+      start:
+        sec: '461.114'
+        mark: '00:07:41.114'
+      end:
+        sec: '465.096'
+        mark: '00:07:45.096'
       u: And your brothers and sisters were then older or younger?
     - who: Kalman Eisenberg
-      start: '00:07:45.096'
-      end: '00:07:50.463'
+      start:
+        sec: '465.096'
+        mark: '00:07:45.096'
+      end:
+        sec: '470.463'
+        mark: '00:07:50.463'
       u: All younger. Younger. And they were going to school...also in difficult circumstances.
     - who: David Boder
-      start: '00:07:50.463'
-      end: '00:07:52.888'
+      start:
+        sec: '470.463'
+        mark: '00:07:50.463'
+      end:
+        sec: '472.888'
+        mark: '00:07:52.888'
       u: You were the second?
     - who: Kalman Eisenberg
-      start: '00:07:52.888'
-      end: '00:07:53.460'
+      start:
+        sec: '472.888'
+        mark: '00:07:52.888'
+      end:
+        sec: '473.460'
+        mark: '00:07:53.460'
       u: The second.
     - who: David Boder
-      start: '00:07:53.460'
-      end: '00:08:00.242'
+      start:
+        sec: '473.460'
+        mark: '00:07:53.460'
+      end:
+        sec: '480.242'
+        mark: '00:08:00.242'
       u: And so tell me in order what happened when the Germans entered.
     - who: Kalman Eisenberg
-      start: '00:08:00.242'
-      end: '00:11:14.762'
+      start:
+        sec: '480.242'
+        mark: '00:08:00.242'
+      end:
+        sec: '674.762'
+        mark: '00:11:14.762'
       u: As soon as the Germans entered our town we left immediately for another town,
         a small town in which very few people lived. Since our town was a manufacturing
         city with large factories, people were very scared. And a week’s time, two
@@ -349,53 +605,101 @@ recording:
         like cattle into RR-cars and shipped away. Many people, one may say...report
         that fifty per cent remained there in the lager...
     - who: David Boder
-      start: '00:11:14.762'
-      end: '00:11:17.723'
+      start:
+        sec: '674.762'
+        mark: '00:11:14.762'
+      end:
+        sec: '677.723'
+        mark: '00:11:17.723'
       u: Now wait. Were you there with those people?
     - who: Kalman Eisenberg
-      start: '00:11:17.723'
-      end: '00:11:19.462'
+      start:
+        sec: '677.723'
+        mark: '00:11:17.723'
+      end:
+        sec: '679.462'
+        mark: '00:11:19.462'
       u: No. Just my brother.
     - who: David Boder
-      start: '00:11:19.462'
-      end: '00:11:20.501'
+      start:
+        sec: '679.462'
+        mark: '00:11:19.462'
+      end:
+        sec: '680.501'
+        mark: '00:11:20.501'
       u: What?
     - who: Kalman Eisenberg
-      start: '00:11:20.501'
-      end: '00:11:22.270'
+      start:
+        sec: '680.501'
+        mark: '00:11:20.501'
+      end:
+        sec: '682.270'
+        mark: '00:11:22.270'
       u: My brother was with those people.
     - who: David Boder
-      start: '00:11:22.270'
-      end: '00:11:24.611'
+      start:
+        sec: '682.270'
+        mark: '00:11:22.270'
+      end:
+        sec: '684.611'
+        mark: '00:11:24.611'
       u: But you were not there?
     - who: Kalman Eisenberg
-      start: '00:11:24.611'
-      end: '00:11:25.821'
+      start:
+        sec: '684.611'
+        mark: '00:11:24.611'
+      end:
+        sec: '685.821'
+        mark: '00:11:25.821'
       u: I was not. My brother was.
     - who: David Boder
-      start: '00:11:25.821'
-      end: '00:11:25.821'
+      start:
+        sec: '685.821'
+        mark: '00:11:25.821'
+      end:
+        sec: '685.821'
+        mark: '00:11:25.821'
       u: I want that you should tell me your story.
     - who: Kalman Eisenberg
-      start: '00:11:25.821'
-      end: '00:11:30.314'
+      start:
+        sec: '685.821'
+        mark: '00:11:25.821'
+      end:
+        sec: '690.314'
+        mark: '00:11:30.314'
       u: My story.
     - who: David Boder
-      start: '00:11:30.314'
-      end: '00:11:35.882'
+      start:
+        sec: '690.314'
+        mark: '00:11:30.314'
+      end:
+        sec: '695.882'
+        mark: '00:11:35.882'
       u: Yes. Your and your family’s [words not clear]. Your brother had been called
         but you were not taken.
     - who: Kalman Eisenberg
-      start: '00:11:35.882'
-      end: '00:11:38.460'
+      start:
+        sec: '695.882'
+        mark: '00:11:35.882'
+      end:
+        sec: '698.460'
+        mark: '00:11:38.460'
       u: No, I was too young.
     - who: David Boder
-      start: '00:11:38.460'
-      end: '00:11:39.069'
+      start:
+        sec: '698.460'
+        mark: '00:11:38.460'
+      end:
+        sec: '699.069'
+        mark: '00:11:39.069'
       u: Hm.
     - who: Kalman Eisenberg
-      start: '00:11:39.069'
-      end: '00:12:19.305'
+      start:
+        sec: '699.069'
+        mark: '00:11:39.069'
+      end:
+        sec: '739.305'
+        mark: '00:12:19.305'
       u: I was only fifteen years old, and only from eighteen to forty-five were taken.
         And so the brother was there. By accident, when he saw that death is already
         near him, he risked his life and ran away. He was shot after with many bullets,
@@ -405,12 +709,20 @@ recording:
         was...when an order had been given that children from twelve years have to
         go to work for the Germans, every day...
     - who: David Boder
-      start: '00:12:19.305'
-      end: '00:12:19.943'
+      start:
+        sec: '739.305'
+        mark: '00:12:19.305'
+      end:
+        sec: '739.943'
+        mark: '00:12:19.943'
       u: Hm.
     - who: Kalman Eisenberg
-      start: '00:12:19.943'
-      end: '00:13:22.907'
+      start:
+        sec: '739.943'
+        mark: '00:12:19.943'
+      end:
+        sec: '802.907'
+        mark: '00:13:22.907'
       u: Without wages, without pay, and also to get beaten. I go once to a ‘chief’
         whose name was...eh...what was his name? Altoff. A chief Von [?] Altoff. His
         name was Altoff. He was a ‘leader’ of the...of a factory, a German. He took
@@ -423,109 +735,205 @@ recording:
         such a...in such a way they tried to liquidate us in the quickest manner.
         And afterwards he took...and said...
     - who: David Boder
-      start: '00:13:22.907'
-      end: '00:13:24.719'
+      start:
+        sec: '802.907'
+        mark: '00:13:22.907'
+      end:
+        sec: '804.719'
+        mark: '00:13:24.719'
       u: What is a ‘Nagan’? [Nagan is the make of a revolver. He may confuse it with
         the term Nagaika, a short, heavy horse whip used by the cossacks].
     - who: Kalman Eisenberg
-      start: '00:13:24.719'
-      end: '00:13:31.045'
+      start:
+        sec: '804.719'
+        mark: '00:13:24.719'
+      end:
+        sec: '811.045'
+        mark: '00:13:31.045'
       u: That is a rubber, a special...a special rubber...a thick one that with one
         blow...
     - who: David Boder
-      start: '00:13:31.045'
-      end: '00:13:31.246'
+      start:
+        sec: '811.045'
+        mark: '00:13:31.045'
+      end:
+        sec: '811.246'
+        mark: '00:13:31.246'
       u: Yes?
     - who: Kalman Eisenberg
-      start: '00:13:31.246'
-      end: '00:13:38.673'
+      start:
+        sec: '811.246'
+        mark: '00:13:31.246'
+      end:
+        sec: '818.673'
+        mark: '00:13:38.673'
       u: One blow with it, then there shows...there is immediately a mark on that
         place, a black mark. There is immediately a black welt on that place.
     - who: David Boder
-      start: '00:13:38.673'
-      end: '00:13:39.256'
+      start:
+        sec: '818.673'
+        mark: '00:13:38.673'
+      end:
+        sec: '819.256'
+        mark: '00:13:39.256'
       u: Yes.
     - who: Kalman Eisenberg
-      start: '00:13:39.256'
-      end: '00:13:44.240'
+      start:
+        sec: '819.256'
+        mark: '00:13:39.256'
+      end:
+        sec: '824.240'
+        mark: '00:13:44.240'
       u: That is a terrible thing which the Germans used a lot against the Jews.
     - who: David Boder
-      start: '00:13:44.240'
-      end: '00:13:47.102'
+      start:
+        sec: '824.240'
+        mark: '00:13:44.240'
+      end:
+        sec: '827.102'
+        mark: '00:13:47.102'
       u: Hm.
     - who: Kalman Eisenberg
-      start: '00:13:47.102'
-      end: '00:13:58.394'
+      start:
+        sec: '827.102'
+        mark: '00:13:47.102'
+      end:
+        sec: '838.394'
+        mark: '00:13:58.394'
       u: And afterwards he took...he said for two people to fill up a RR-car with
         coal, and for two people to lay down on the floor and they should be entirely
         covered [buried]. After that, after they were covered...
     - who: David Boder
-      start: '00:13:58.394'
-      end: '00:13:59.860'
+      start:
+        sec: '838.394'
+        mark: '00:13:58.394'
+      end:
+        sec: '839.860'
+        mark: '00:13:59.860'
       u: Who said that that should be done?
     - who: Kalman Eisenberg
-      start: '00:13:59.860'
-      end: '00:14:03.659'
+      start:
+        sec: '839.860'
+        mark: '00:13:59.860'
+      end:
+        sec: '843.659'
+        mark: '00:14:03.659'
       u: That...that...that Wehrmacht leader of the Germans, that Altoff.
     - who: David Boder
-      start: '00:14:03.659'
-      end: '00:14:04.024'
+      start:
+        sec: '843.659'
+        mark: '00:14:03.659'
+      end:
+        sec: '844.024'
+        mark: '00:14:04.024'
       u: Hm.
     - who: Kalman Eisenberg
-      start: '00:14:04.024'
-      end: '00:14:08.224'
+      start:
+        sec: '844.024'
+        mark: '00:14:04.024'
+      end:
+        sec: '848.224'
+        mark: '00:14:08.224'
       u: He was a big leader of a factory. Altoff.
     - who: David Boder
-      start: '00:14:08.224'
-      end: '00:14:09.416'
+      start:
+        sec: '848.224'
+        mark: '00:14:08.224'
+      end:
+        sec: '849.416'
+        mark: '00:14:09.416'
       u: Hm, to cover them with coal?
     - who: Kalman Eisenberg
-      start: '00:14:09.416'
-      end: '00:14:24.450'
+      start:
+        sec: '849.416'
+        mark: '00:14:09.416'
+      end:
+        sec: '864.450'
+        mark: '00:14:24.450'
       u: To cover them with coal. When they were covered with coal, he was standing
         [there], and he laughed. He laughed at us. He smiled, and afterwards he ordered
         us not to dig them up. They should come up by themselves. And if they cannot
         come up, they can remain there, too.
     - who: David Boder
-      start: '00:14:24.450'
-      end: '00:14:26.911'
+      start:
+        sec: '864.450'
+        mark: '00:14:24.450'
+      end:
+        sec: '866.911'
+        mark: '00:14:26.911'
       u: Hm.
     - who: Kalman Eisenberg
-      start: '00:14:26.911'
-      end: '00:14:36.125'
+      start:
+        sec: '866.911'
+        mark: '00:14:26.911'
+      end:
+        sec: '876.125'
+        mark: '00:14:36.125'
       u: This was going on for a long time. We were terribly tormented, and we endured
         very bad times. All of a sudden there began arriving in our town...
     - who: David Boder
-      start: '00:14:36.125'
-      end: '00:14:37.572'
+      start:
+        sec: '876.125'
+        mark: '00:14:36.125'
+      end:
+        sec: '877.572'
+        mark: '00:14:37.572'
       u: That was in your town?
     - who: Kalman Eisenberg
-      start: '00:14:37.572'
-      end: '00:14:38.272'
+      start:
+        sec: '877.572'
+        mark: '00:14:37.572'
+      end:
+        sec: '878.272'
+        mark: '00:14:38.272'
       u: In ‘your’ town.
     - who: David Boder
-      start: '00:14:38.272'
-      end: '00:14:38.462'
+      start:
+        sec: '878.272'
+        mark: '00:14:38.272'
+      end:
+        sec: '878.462'
+        mark: '00:14:38.462'
       u: And...
     - who: Kalman Eisenberg
-      start: '00:14:38.462'
-      end: '00:14:39.253'
+      start:
+        sec: '878.462'
+        mark: '00:14:38.462'
+      end:
+        sec: '879.253'
+        mark: '00:14:39.253'
       u: In Starachowice.
     - who: David Boder
-      start: '00:14:39.253'
-      end: '00:14:39.527'
+      start:
+        sec: '879.253'
+        mark: '00:14:39.253'
+      end:
+        sec: '879.527'
+        mark: '00:14:39.527'
       u: And...
     - who: Kalman Eisenberg
-      start: '00:14:39.527'
-      end: '00:14:40.501'
+      start:
+        sec: '879.527'
+        mark: '00:14:39.527'
+      end:
+        sec: '880.501'
+        mark: '00:14:40.501'
       u: Starachowice.
     - who: David Boder
-      start: '00:14:40.501'
-      end: '00:14:42.787'
+      start:
+        sec: '880.501'
+        mark: '00:14:40.501'
+      end:
+        sec: '882.787'
+        mark: '00:14:42.787'
       u: And at night we went home to sleep?
     - who: Kalman Eisenberg
-      start: '00:14:42.787'
-      end: '00:16:24.915'
+      start:
+        sec: '882.787'
+        mark: '00:14:42.787'
+      end:
+        sec: '984.915'
+        mark: '00:16:24.915'
       u: And at night we went to sleep. When we went home to sleep, the oldest...a
         father I did not have. The mother, to earn for bread she could not, because
         she had to stay only on the streets that had been assigned. And on the other
@@ -548,47 +956,87 @@ recording:
         the clothes on. [He used the word Ungetuigs for clothes which was not understood
         by the interviewer.]
     - who: David Boder
-      start: '00:16:24.915'
-      end: '00:16:25.965'
+      start:
+        sec: '984.915'
+        mark: '00:16:24.915'
+      end:
+        sec: '985.965'
+        mark: '00:16:25.965'
       u: How did one sleep?
     - who: Kalman Eisenberg
-      start: '00:16:25.965'
-      end: '00:16:28.272'
+      start:
+        sec: '985.965'
+        mark: '00:16:25.965'
+      end:
+        sec: '988.272'
+        mark: '00:16:28.272'
       u: In the clothes. In the clothes we slept.
     - who: David Boder
-      start: '00:16:28.272'
-      end: '00:16:28.607'
+      start:
+        sec: '988.272'
+        mark: '00:16:28.272'
+      end:
+        sec: '988.607'
+        mark: '00:16:28.607'
       u: What is that?
     - who: Kalman Eisenberg
-      start: '00:16:28.607'
-      end: '00:16:29.480'
+      start:
+        sec: '988.607'
+        mark: '00:16:28.607'
+      end:
+        sec: '989.480'
+        mark: '00:16:29.480'
       u: With the trousers on.
     - who: David Boder
-      start: '00:16:29.480'
-      end: '00:16:31.198'
+      start:
+        sec: '989.480'
+        mark: '00:16:29.480'
+      end:
+        sec: '991.198'
+        mark: '00:16:31.198'
       u: Yes.
     - who: Kalman Eisenberg
-      start: '00:16:31.198'
-      end: '00:16:46.241'
+      start:
+        sec: '991.198'
+        mark: '00:16:31.198'
+      end:
+        sec: '1006.241'
+        mark: '00:16:46.241'
       u: We slept with clothes on, in the trousers, the jacket, the shirt, everything
         ready, and a small bundle at the head. We took that bundle and ran out at
         once. Coming out of the house, there were already waiting Germans with guns,
         with grenades in the hands.
     - who: David Boder
-      start: '00:16:46.241'
-      end: '00:16:46.988'
+      start:
+        sec: '1006.241'
+        mark: '00:16:46.241'
+      end:
+        sec: '1006.988'
+        mark: '00:16:46.988'
       u: Only children?
     - who: Kalman Eisenberg
-      start: '00:16:46.988'
-      end: '00:16:50.121'
+      start:
+        sec: '1006.988'
+        mark: '00:16:46.988'
+      end:
+        sec: '1010.121'
+        mark: '00:16:50.121'
       u: Only...Germans. Everybody!
     - who: David Boder
-      start: '00:16:50.121'
-      end: '00:16:50.266'
+      start:
+        sec: '1010.121'
+        mark: '00:16:50.121'
+      end:
+        sec: '1010.266'
+        mark: '00:16:50.266'
       u: Yes.
     - who: Kalman Eisenberg
-      start: '00:16:50.266'
-      end: '00:18:48.676'
+      start:
+        sec: '1010.266'
+        mark: '00:16:50.266'
+      end:
+        sec: '1128.676'
+        mark: '00:18:48.676'
       u: The whole family went out. The whole family came out of the house. There
         were already Germans waiting with grenades, with machine guns in the hands
         and looked for the moment to kill us. But we had...but we were following the
@@ -611,65 +1059,117 @@ recording:
         They soon took off my jacket and my boots, and they asked if I do not have
         any money or anything else.
     - who: David Boder
-      start: '00:18:48.676'
-      end: '00:18:50.413'
+      start:
+        sec: '1128.676'
+        mark: '00:18:48.676'
+      end:
+        sec: '1130.413'
+        mark: '00:18:50.413'
       u: How old were you then?
     - who: Kalman Eisenberg
-      start: '00:18:50.413'
-      end: '00:18:57.076'
+      start:
+        sec: '1130.413'
+        mark: '00:18:50.413'
+      end:
+        sec: '1137.076'
+        mark: '00:18:57.076'
       u: I was then fifteen years old when all that happened. Also the Germans...
     - who: David Boder
-      start: '00:18:57.076'
-      end: '00:18:58.733'
+      start:
+        sec: '1137.076'
+        mark: '00:18:57.076'
+      end:
+        sec: '1138.733'
+        mark: '00:18:58.733'
       u: In which year was it?
     - who: Kalman Eisenberg
-      start: '00:18:58.733'
-      end: '00:19:01.337'
+      start:
+        sec: '1138.733'
+        mark: '00:18:58.733'
+      end:
+        sec: '1141.337'
+        mark: '00:19:01.337'
       u: That was in the year ’40. [Corrects himself:] In the year ’42.
     - who: David Boder
-      start: '00:19:01.337'
-      end: '00:19:02.447'
+      start:
+        sec: '1141.337'
+        mark: '00:19:01.337'
+      end:
+        sec: '1142.447'
+        mark: '00:19:02.447'
       u: Yes.
     - who: Kalman Eisenberg
-      start: '00:19:02.447'
-      end: '00:19:14.680'
+      start:
+        sec: '1142.447'
+        mark: '00:19:02.447'
+      end:
+        sec: '1154.680'
+        mark: '00:19:14.680'
       u: 'Thousand, nine hundred and forty-two. The end of 1942. In the tenth... in
         the tenth month. [NOTE: Spool 12 ends here. The continuatin of the interview
         took place on the following day. Mr. Eisenberg undoubtedly must have ‘prepared’
         himself for the continuation of the narrative, which may account for the apparent
         increase in pathos in his style.]'
     - who: David Boder
-      start: '00:19:14.680'
-      end: '00:19:54.088'
+      start:
+        sec: '1154.680'
+        mark: '00:19:14.680'
+      end:
+        sec: '1194.088'
+        mark: '00:19:54.088'
       u: "[In English:] August 1st, 1946 [the following day]. Chateau Boucicout ‘under’
         Paris. This is Spool 13, a continuation from a short introduction on Spool
         12 by Kalman Eisenberg. He will continue right on this spool although we have
         lost some continuity on account of some recorder trouble."
     - who: David Boder
-      start: '00:19:54.088'
-      end: '00:20:00.742'
+      start:
+        sec: '1194.088'
+        mark: '00:19:54.088'
+      end:
+        sec: '1200.742'
+        mark: '00:20:00.742'
       u: "[In German:] Say a few words. Say who you are."
     - who: Kalman Eisenberg
-      start: '00:20:00.742'
-      end: '00:20:09.816'
+      start:
+        sec: '1200.742'
+        mark: '00:20:00.742'
+      end:
+        sec: '1209.816'
+        mark: '00:20:09.816'
       u: I am Eisenberg, Kalman. My name is Eisenberg, Kalman, born in Poland in the
         town Starachowice.
     - who: David Boder
-      start: '00:20:09.816'
-      end: '00:20:13.827'
+      start:
+        sec: '1209.816'
+        mark: '00:20:09.816'
+      end:
+        sec: '1213.827'
+        mark: '00:20:13.827'
       u: Go ahead. Say whatever you want [words not clear].
     - who: Kalman Eisenberg
-      start: '00:20:13.827'
-      end: '00:20:16.866'
+      start:
+        sec: '1213.827'
+        mark: '00:20:13.827'
+      end:
+        sec: '1216.866'
+        mark: '00:20:16.866'
       u: "[Whispers:] Where shall I start?"
     - who: David Boder
-      start: '00:20:16.866'
-      end: '00:20:24.413'
+      start:
+        sec: '1216.866'
+        mark: '00:20:16.866'
+      end:
+        sec: '1224.413'
+        mark: '00:20:24.413'
       u: Wherever you want. It does not matter, yes? Whatever you remember. Where
         did we stop yesterday?
     - who: Kalman Eisenberg
-      start: '00:20:24.413'
-      end: '00:22:27.265'
+      start:
+        sec: '1224.413'
+        mark: '00:20:24.413'
+      end:
+        sec: '1347.265'
+        mark: '00:22:27.265'
       u: And so, standing on that market place where all the Jews were removed to...we
         were already standing arranged in fours...and [I] heard the last words of
         my mother, how she said to me, ‘No! You are going with us. Whatever will happen
@@ -689,12 +1189,20 @@ recording:
         to turn and take a look at my mother. I soon got [it] with a riding crop over
         the head that to this day I still have a souvenir of that instant.
     - who: David Boder
-      start: '00:22:27.265'
-      end: '00:22:31.135'
+      start:
+        sec: '1347.265'
+        mark: '00:22:27.265'
+      end:
+        sec: '1351.135'
+        mark: '00:22:31.135'
       u: What were the last words which you have heard from your mother?
     - who: Kalman Eisenberg
-      start: '00:22:31.135'
-      end: '00:23:55.861'
+      start:
+        sec: '1351.135'
+        mark: '00:22:31.135'
+      end:
+        sec: '1435.861'
+        mark: '00:23:55.861'
       u: My mother, when I was leaving, spoke, ‘My child, go. Maybe you will remain
         alive. But we, we know for sure that we are going to death. And you should
         take revenge for our blood, innocent blood that is being spilled innocently
@@ -709,52 +1217,92 @@ recording:
         immediately ten people were selected. Anybody might have become that burned
         offering.
     - who: David Boder
-      start: '00:23:55.861'
-      end: '00:23:57.352'
+      start:
+        sec: '1435.861'
+        mark: '00:23:55.861'
+      end:
+        sec: '1437.352'
+        mark: '00:23:57.352'
       u: What did he say? In the name....?
     - who: Kalman Eisenberg
-      start: '00:23:57.352'
-      end: '00:24:18.302'
+      start:
+        sec: '1437.352'
+        mark: '00:23:57.352'
+      end:
+        sec: '1458.302'
+        mark: '00:24:18.302'
       u: In the name of our Fuehrer of the Reich ten people will be shot. And when
         those ten people were shot we were standing all around [in a circle], and
         those ten people [were] shot in the center. And they said that the same thing
         will happen to every Jew, to every woman, to every child who won’t hand over
         his possessions that he has hidden on him.
     - who: David Boder
-      start: '00:24:18.302'
-      end: '00:24:20.762'
+      start:
+        sec: '1458.302'
+        mark: '00:24:18.302'
+      end:
+        sec: '1460.762'
+        mark: '00:24:20.762'
       u: How were the ten people selected?
     - who: Kalman Eisenberg
-      start: '00:24:20.762'
-      end: '00:24:32.833'
+      start:
+        sec: '1460.762'
+        mark: '00:24:20.762'
+      end:
+        sec: '1472.833'
+        mark: '00:24:32.833'
       u: He passed through. Whoever he pleased, whoever caught...whoever struck his
         fancy. He made a sign with the revolver in his hand. And he had to step out
         in spite of knowing that he is going to a certain death.
     - who: David Boder
-      start: '00:24:32.833'
-      end: '00:24:36.773'
+      start:
+        sec: '1472.833'
+        mark: '00:24:32.833'
+      end:
+        sec: '1476.773'
+        mark: '00:24:36.773'
       u: Did he pick older people, younger people [words not clear]?
     - who: Kalman Eisenberg
-      start: '00:24:36.773'
-      end: '00:24:46.204'
+      start:
+        sec: '1476.773'
+        mark: '00:24:36.773'
+      end:
+        sec: '1486.204'
+        mark: '00:24:46.204'
       u: Whoever...whoever caught his eye. Whoever was standing near him. Whoever
         struck his fancy he took. There was no difference whether young or old. The
         burned offering could have been any one, whoever stood there.
     - who: David Boder
-      start: '00:24:46.204'
-      end: '00:24:49.385'
+      start:
+        sec: '1486.204'
+        mark: '00:24:46.204'
+      end:
+        sec: '1489.385'
+        mark: '00:24:49.385'
       u: Nu?
     - who: Kalman Eisenberg
-      start: '00:24:49.385'
-      end: '00:24:51.348'
+      start:
+        sec: '1489.385'
+        mark: '00:24:49.385'
+      end:
+        sec: '1491.348'
+        mark: '00:24:51.348'
       u: And afterwards when those ten people had been shot...
     - who: David Boder
-      start: '00:24:51.348'
-      end: '00:24:55.091'
+      start:
+        sec: '1491.348'
+        mark: '00:24:51.348'
+      end:
+        sec: '1495.091'
+        mark: '00:24:55.091'
       u: Did those people say anything before they were shot?
     - who: Kalman Eisenberg
-      start: '00:24:55.091'
-      end: '00:26:19.942'
+      start:
+        sec: '1495.091'
+        mark: '00:24:55.091'
+      end:
+        sec: '1579.942'
+        mark: '00:26:19.942'
       u: Yes. The last words of those people...we heard nothing more but, ‘Shema Yisroeil’
         [Hear, Oh, Israel], nothing else. These were their last words. And a few people
         going to be shot fainted instantly, and fell on the spot. And afterwards,
@@ -769,20 +1317,36 @@ recording:
         [Words not clear. As I have explained...explained, everyone...two people received
         one little bed. That bed was 1.20 meters long and 60 centimeters wide.
     - who: David Boder
-      start: '00:26:19.942'
-      end: '00:26:21.281'
+      start:
+        sec: '1579.942'
+        mark: '00:26:19.942'
+      end:
+        sec: '1581.281'
+        mark: '00:26:21.281'
       u: What kind of little beds were they?
     - who: Kalman Eisenberg
-      start: '00:26:21.281'
-      end: '00:26:23.956'
+      start:
+        sec: '1581.281'
+        mark: '00:26:21.281'
+      end:
+        sec: '1583.956'
+        mark: '00:26:23.956'
       u: Wooden ones. Three-tiered little beds made out of wood.
     - who: David Boder
-      start: '00:26:23.956'
-      end: '00:26:24.926'
+      start:
+        sec: '1583.956'
+        mark: '00:26:23.956'
+      end:
+        sec: '1584.926'
+        mark: '00:26:24.926'
       u: Hm.
     - who: Kalman Eisenberg
-      start: '00:26:24.926'
-      end: '00:28:25.807'
+      start:
+        sec: '1584.926'
+        mark: '00:26:24.926'
+      end:
+        sec: '1705.807'
+        mark: '00:28:25.807'
       u: Such a bed, 1.20 meters long and 60 centimeters wide, was given to two people.
         On that we had to sleep. When we entered that lager, the cries, the wailing
         of everybody was terrible. It looked like Tishe B’ab [a fast day commemorating
@@ -802,12 +1366,20 @@ recording:
         a Ukrainian, got a fancy and shot [burst] into our barrack. And there fell
         two badly wounded and three dead.
     - who: David Boder
-      start: '00:28:25.807'
-      end: '00:28:29.617'
+      start:
+        sec: '1705.807'
+        mark: '00:28:25.807'
+      end:
+        sec: '1709.617'
+        mark: '00:28:29.617'
       u: How can there fall two badly wounded and three dead from one shot?
     - who: Kalman Eisenberg
-      start: '00:28:29.617'
-      end: '00:30:05.245'
+      start:
+        sec: '1709.617'
+        mark: '00:28:29.617'
+      end:
+        sec: '1805.245'
+        mark: '00:30:05.245'
       u: From a machine gun. It was a shot from a machine gun. And if all the bullets
         had found a mark, there would have been many more victims. But, thank God,
         it only cost three burned offerings and two wounded. And so, tacken aback
@@ -826,22 +1398,38 @@ recording:
         lager. By six o’clock in the morning there came in a Jew who was...who had
         been elected temporarily to take charge of the lager.
     - who: David Boder
-      start: '00:30:05.245'
-      end: '00:30:06.749'
+      start:
+        sec: '1805.245'
+        mark: '00:30:05.245'
+      end:
+        sec: '1806.749'
+        mark: '00:30:06.749'
       u: Who elected him?
     - who: Kalman Eisenberg
-      start: '00:30:06.749'
-      end: '00:30:21.862'
+      start:
+        sec: '1806.749'
+        mark: '00:30:06.749'
+      end:
+        sec: '1821.862'
+        mark: '00:30:21.862'
       u: A Jew. His name was [first name not clear] Wilczyk. Born also...born I do
         not know where, but he had been living for a long time in Starachowice. An
         elderly Jew around forty years. He was made a temporary overseer of the lager.
     - who: David Boder
-      start: '00:30:21.862'
-      end: '00:30:23.260'
+      start:
+        sec: '1821.862'
+        mark: '00:30:21.862'
+      end:
+        sec: '1823.260'
+        mark: '00:30:23.260'
       u: Who made him? The Germans or the Jews?
     - who: Kalman Eisenberg
-      start: '00:30:23.260'
-      end: '00:33:51.409'
+      start:
+        sec: '1823.260'
+        mark: '00:30:23.260'
+      end:
+        sec: '2031.409'
+        mark: '00:33:51.409'
       u: The Germans. [Corrects himself:] The Ukrainians. The guards [authorities]
         of the lager made him so temporarily. And he came in...he came into the block,
         and he told us to get dressed and go to work. In five minutes everybody was
@@ -872,52 +1460,100 @@ recording:
         and the Germans knows that he has lost the war. He will finish us all off
         on the spot just where we are.’ Two three...two days this situation [?] lasted.
     - who: David Boder
-      start: '00:33:51.409'
-      end: '00:33:52.780'
+      start:
+        sec: '2031.409'
+        mark: '00:33:51.409'
+      end:
+        sec: '2032.780'
+        mark: '00:33:52.780'
       u: Which lager was that?
     - who: Kalman Eisenberg
-      start: '00:33:52.780'
-      end: '00:33:54.118'
+      start:
+        sec: '2032.780'
+        mark: '00:33:52.780'
+      end:
+        sec: '2034.118'
+        mark: '00:33:54.118'
       u: In Starachowice.
     - who: David Boder
-      start: '00:33:54.118'
-      end: '00:33:54.735'
+      start:
+        sec: '2034.118'
+        mark: '00:33:54.118'
+      end:
+        sec: '2034.735'
+        mark: '00:33:54.735'
       u: Yes.
     - who: Kalman Eisenberg
-      start: '00:33:54.735'
-      end: '00:33:54.999'
+      start:
+        sec: '2034.735'
+        mark: '00:33:54.735'
+      end:
+        sec: '2034.999'
+        mark: '00:33:54.999'
       u: Two days...
     - who: David Boder
-      start: '00:33:54.999'
-      end: '00:33:56.177'
+      start:
+        sec: '2034.999'
+        mark: '00:33:54.999'
+      end:
+        sec: '2036.177'
+        mark: '00:33:56.177'
       u: That is the town or the lager [?]?
     - who: Kalman Eisenberg
-      start: '00:33:56.177'
-      end: '00:33:58.508'
+      start:
+        sec: '2036.177'
+        mark: '00:33:56.177'
+      end:
+        sec: '2038.508'
+        mark: '00:33:58.508'
       u: That is the town and also the lager. They were together [?].
     - who: David Boder
-      start: '00:33:58.508'
-      end: '00:33:59.582'
+      start:
+        sec: '2038.508'
+        mark: '00:33:58.508'
+      end:
+        sec: '2039.582'
+        mark: '00:33:59.582'
       u: Where you were born?
     - who: Kalman Eisenberg
-      start: '00:33:59.582'
-      end: '00:34:01.321'
+      start:
+        sec: '2039.582'
+        mark: '00:33:59.582'
+      end:
+        sec: '2041.321'
+        mark: '00:34:01.321'
       u: Yes, where I was born.
     - who: David Boder
-      start: '00:34:01.321'
-      end: '00:34:05.992'
+      start:
+        sec: '2041.321'
+        mark: '00:34:01.321'
+      end:
+        sec: '2045.992'
+        mark: '00:34:05.992'
       u: Hm. Have you heard about your mother since then?
     - who: Kalman Eisenberg
-      start: '00:34:05.992'
-      end: '00:34:09.958'
+      start:
+        sec: '2045.992'
+        mark: '00:34:05.992'
+      end:
+        sec: '2049.958'
+        mark: '00:34:09.958'
       u: My mother had already been sent away a long time, and we were in that lager.
     - who: David Boder
-      start: '00:34:09.958'
-      end: '00:34:13.555'
+      start:
+        sec: '2049.958'
+        mark: '00:34:09.958'
+      end:
+        sec: '2053.555'
+        mark: '00:34:13.555'
       u: Hm.
     - who: Kalman Eisenberg
-      start: '00:34:13.555'
-      end: '00:36:28.085'
+      start:
+        sec: '2053.555'
+        mark: '00:34:13.555'
+      end:
+        sec: '2188.085'
+        mark: '00:36:28.085'
       u: And so next morning comes an order. The section which is working from seven
         in the morning till three in the afternoon can still go to work. It became
         a little easier, but still people were still going around with the same fright.
@@ -941,60 +1577,108 @@ recording:
         the entire plant [to see] whether, God forbid, a Jew did not hide himself
         there and escape at night into the forest and hide himself.
     - who: David Boder
-      start: '00:36:28.085'
-      end: '00:36:30.416'
+      start:
+        sec: '2188.085'
+        mark: '00:36:28.085'
+      end:
+        sec: '2190.416'
+        mark: '00:36:30.416'
       u: That is what that man had related?
     - who: Kalman Eisenberg
-      start: '00:36:30.416'
-      end: '00:36:30.977'
+      start:
+        sec: '2190.416'
+        mark: '00:36:30.416'
+      end:
+        sec: '2190.977'
+        mark: '00:36:30.977'
       u: Yes.
     - who: David Boder
-      start: '00:36:30.977'
-      end: '00:36:31.955'
+      start:
+        sec: '2190.977'
+        mark: '00:36:30.977'
+      end:
+        sec: '2191.955'
+        mark: '00:36:31.955'
       u: Nu? [Both apparently have lost the thread of the narrative.]
     - who: Kalman Eisenberg
-      start: '00:36:31.955'
-      end: '00:36:58.194'
+      start:
+        sec: '2191.955'
+        mark: '00:36:31.955'
+      end:
+        sec: '2218.194'
+        mark: '00:36:58.194'
       u: To that lager came again an order that the second...the second shift, from
         three to eleven at night, cannot go to work any more. With a terrible fright
         all of us went around again. All of a sudden the ‘Commandant’ of the lager...that
         same Wilczyk who was the overseer had become ‘Commandant’ of the lager.
     - who: David Boder
-      start: '00:36:58.194'
-      end: '00:36:58.987'
+      start:
+        sec: '2218.194'
+        mark: '00:36:58.194'
+      end:
+        sec: '2218.987'
+        mark: '00:36:58.987'
       u: A Jew....A Jew?
     - who: Kalman Eisenberg
-      start: '00:36:58.987'
-      end: '00:37:12.400'
+      start:
+        sec: '2218.987'
+        mark: '00:36:58.987'
+      end:
+        sec: '2232.400'
+        mark: '00:37:12.400'
       u: A Jew. He had become ‘Commandant’ of the lager. That is ‘Commandant’ in our
         eyes, but he had not much say with the Germans.
     - who: David Boder
-      start: '00:37:12.400'
-      end: '00:37:16.093'
+      start:
+        sec: '2232.400'
+        mark: '00:37:12.400'
+      end:
+        sec: '2236.093'
+        mark: '00:37:16.093'
       u: What sort of a man was he?
     - who: Kalman Eisenberg
-      start: '00:37:16.093'
-      end: '00:37:34.441'
+      start:
+        sec: '2236.093'
+        mark: '00:37:16.093'
+      end:
+        sec: '2254.441'
+        mark: '00:37:34.441'
       u: He was a quite ordinary man who...an older man of forty years, who could
         speak a little more. He had a little more experience, but otherwise quite
         an ordinary man. It just happened that he was made ‘Commandant’ of the lager.
         There were...[?]
     - who: David Boder
-      start: '00:37:34.441'
-      end: '00:37:36.268'
+      start:
+        sec: '2254.441'
+        mark: '00:37:34.441'
+      end:
+        sec: '2256.268'
+        mark: '00:37:36.268'
       u: How did he treat the Jews?
     - who: Kalman Eisenberg
-      start: '00:37:36.268'
-      end: '00:37:41.366'
+      start:
+        sec: '2256.268'
+        mark: '00:37:36.268'
+      end:
+        sec: '2261.366'
+        mark: '00:37:41.366'
       u: The Jews he treated quite well. Nothing can be said. He was also tortured
         the same as we were.
     - who: David Boder
-      start: '00:37:41.366'
-      end: '00:37:41.892'
+      start:
+        sec: '2261.366'
+        mark: '00:37:41.366'
+      end:
+        sec: '2261.892'
+        mark: '00:37:41.892'
       u: Hm.
     - who: Kalman Eisenberg
-      start: '00:37:41.892'
-      end: '00:40:38.495'
+      start:
+        sec: '2261.892'
+        mark: '00:37:41.892'
+      end:
+        sec: '2438.495'
+        mark: '00:40:38.495'
       u: But the only thing...he carried the name of ‘Commandant’ of the lager, but
         much...much to say he did not have. Absolutely nothing to say. In the afternoon
         a decision was made by the Jews that from this lager we have to get away.
@@ -1021,12 +1705,20 @@ recording:
         [it] and did not have the possibilities any more of running over to the fence
         and running away, because death awaited them immediately.
     - who: David Boder
-      start: '00:40:38.495'
-      end: '00:40:39.685'
+      start:
+        sec: '2438.495'
+        mark: '00:40:38.495'
+      end:
+        sec: '2439.685'
+        mark: '00:40:39.685'
       u: Where were you?
     - who: Kalman Eisenberg
-      start: '00:40:39.685'
-      end: '00:41:14.085'
+      start:
+        sec: '2439.685'
+        mark: '00:40:39.685'
+      end:
+        sec: '2474.085'
+        mark: '00:41:14.085'
       u: We...I myself was lying under a...under the barrack, under the block, not
         far from the wires and watched for the moment so that I could escape. But
         I noticed that terrible fire [shooting]. And the...and from that terrible
@@ -1035,36 +1727,68 @@ recording:
         Many people...the feet, the hands...and of one it even tore off the head.
         I noticed at the moment...
     - who: David Boder
-      start: '00:41:14.085'
-      end: '00:41:16.861'
+      start:
+        sec: '2474.085'
+        mark: '00:41:14.085'
+      end:
+        sec: '2476.861'
+        mark: '00:41:16.861'
       u: How was his head torn off? From the shooting or from...
     - who: Kalman Eisenberg
-      start: '00:41:16.861'
-      end: '00:41:19.147'
+      start:
+        sec: '2476.861'
+        mark: '00:41:16.861'
+      end:
+        sec: '2479.147'
+        mark: '00:41:19.147'
       u: From...from the grenades. From grenades.
     - who: David Boder
-      start: '00:41:19.147'
-      end: '00:41:20.625'
+      start:
+        sec: '2479.147'
+        mark: '00:41:19.147'
+      end:
+        sec: '2480.625'
+        mark: '00:41:20.625'
       u: Oh. Who was throwing grenades?
     - who: Kalman Eisenberg
-      start: '00:41:20.625'
-      end: '00:41:22.161'
+      start:
+        sec: '2480.625'
+        mark: '00:41:20.625'
+      end:
+        sec: '2482.161'
+        mark: '00:41:22.161'
       u: The...the...the guards. They saw...
     - who: David Boder
-      start: '00:41:22.161'
-      end: '00:41:24.129'
+      start:
+        sec: '2482.161'
+        mark: '00:41:22.161'
+      end:
+        sec: '2484.129'
+        mark: '00:41:24.129'
       u: And the guards were Ukrainians or...
     - who: Kalman Eisenberg
-      start: '00:41:24.129'
-      end: '00:41:28.095'
+      start:
+        sec: '2484.129'
+        mark: '00:41:24.129'
+      end:
+        sec: '2488.095'
+        mark: '00:41:28.095'
       u: The guards were Ukrainians and Germans.
     - who: David Boder
-      start: '00:41:28.095'
-      end: '00:41:28.874'
+      start:
+        sec: '2488.095'
+        mark: '00:41:28.095'
+      end:
+        sec: '2488.874'
+        mark: '00:41:28.874'
       u: Hm.
     - who: Kalman Eisenberg
-      start: '00:41:28.874'
-      end: '00:42:37.709'
+      start:
+        sec: '2488.874'
+        mark: '00:41:28.874'
+      end:
+        sec: '2557.709'
+        mark: '00:42:37.709'
       u: In a few seconds the whole lager was surrounded by many sentries and the
         Germans. And to escape was out of the question. Everybody [was] chased into
         the barrack. Everybody was silent, more dead than alive, and awaited the order
@@ -1075,102 +1799,198 @@ recording:
         we were all lined up and all our clothes everything that one had on, was taken
         away.
     - who: David Boder
-      start: '00:42:37.709'
-      end: '00:42:38.352'
+      start:
+        sec: '2557.709'
+        mark: '00:42:37.709'
+      end:
+        sec: '2558.352'
+        mark: '00:42:38.352'
       u: What was taken away?
     - who: Kalman Eisenberg
-      start: '00:42:38.352'
-      end: '00:42:41.567'
+      start:
+        sec: '2558.352'
+        mark: '00:42:38.352'
+      end:
+        sec: '2561.567'
+        mark: '00:42:41.567'
       u: The Untuigs [clothes], so that the people should not be able to escape.
     - who: David Boder
-      start: '00:42:41.567'
-      end: '00:42:42.557'
+      start:
+        sec: '2561.567'
+        mark: '00:42:41.567'
+      end:
+        sec: '2562.557'
+        mark: '00:42:42.557'
       u: What is ‘Untuigs’?
     - who: Kalman Eisenberg
-      start: '00:42:42.557'
-      end: '00:42:45.886'
+      start:
+        sec: '2562.557'
+        mark: '00:42:42.557'
+      end:
+        sec: '2565.886'
+        mark: '00:42:45.886'
       u: Trouser, jacket, shoes, the...the...
     - who: David Boder
-      start: '00:42:45.886'
-      end: '00:42:47.603'
+      start:
+        sec: '2565.886'
+        mark: '00:42:45.886'
+      end:
+        sec: '2567.603'
+        mark: '00:42:47.603'
       u: So what did you remain with?
     - who: Kalman Eisenberg
-      start: '00:42:47.603'
-      end: '00:42:49.921'
+      start:
+        sec: '2567.603'
+        mark: '00:42:47.603'
+      end:
+        sec: '2569.921'
+        mark: '00:42:49.921'
       u: We remained just in a shirt and a pair of shorts [underwear].
     - who: David Boder
-      start: '00:42:49.921'
-      end: '00:42:51.306'
+      start:
+        sec: '2569.921'
+        mark: '00:42:49.921'
+      end:
+        sec: '2571.306'
+        mark: '00:42:51.306'
       u: Hm.
     - who: Kalman Eisenberg
-      start: '00:42:51.306'
-      end: '00:43:02.425'
+      start:
+        sec: '2571.306'
+        mark: '00:42:51.306'
+      end:
+        sec: '2582.425'
+        mark: '00:43:02.425'
       u: But many people had hidden in the straw mattresses, on which they slept...they
         had hidden spare trousers, spare manarka.
     - who: David Boder
-      start: '00:43:02.425'
-      end: '00:43:03.288'
+      start:
+        sec: '2582.425'
+        mark: '00:43:02.425'
+      end:
+        sec: '2583.288'
+        mark: '00:43:03.288'
       u: What is a ‘manarka’?
     - who: Kalman Eisenberg
-      start: '00:43:03.288'
-      end: '00:43:04.398'
+      start:
+        sec: '2583.288'
+        mark: '00:43:03.288'
+      end:
+        sec: '2584.398'
+        mark: '00:43:04.398'
       u: A coat.
     - who: David Boder
-      start: '00:43:04.398'
-      end: '00:43:04.787'
+      start:
+        sec: '2584.398'
+        mark: '00:43:04.398'
+      end:
+        sec: '2584.787'
+        mark: '00:43:04.787'
       u: A coat.
     - who: Kalman Eisenberg
-      start: '00:43:04.787'
-      end: '00:43:15.140'
+      start:
+        sec: '2584.787'
+        mark: '00:43:04.787'
+      end:
+        sec: '2595.140'
+        mark: '00:43:15.140'
       u: A coat. And all the clothes on that square that have been taken away [were
         put] into the storehouse.
     - who: David Boder
-      start: '00:43:15.140'
-      end: '00:43:17.366'
+      start:
+        sec: '2595.140'
+        mark: '00:43:15.140'
+      end:
+        sec: '2597.366'
+        mark: '00:43:17.366'
       u: In what language is ‘Untuigs’?
     - who: Kalman Eisenberg
-      start: '00:43:17.366'
-      end: '00:43:19.119'
+      start:
+        sec: '2597.366'
+        mark: '00:43:17.366'
+      end:
+        sec: '2599.119'
+        mark: '00:43:19.119'
       u: Ungetuigs? That is just [word not clear].
     - who: David Boder
-      start: '00:43:19.119'
-      end: '00:43:19.607'
+      start:
+        sec: '2599.119'
+        mark: '00:43:19.119'
+      end:
+        sec: '2599.607'
+        mark: '00:43:19.607'
       u: Polish or Yiddish?
     - who: Kalman Eisenberg
-      start: '00:43:19.607'
-      end: '00:43:21.649'
+      start:
+        sec: '2599.607'
+        mark: '00:43:19.607'
+      end:
+        sec: '2601.649'
+        mark: '00:43:21.649'
       u: That is...no...Ubranie is in Polish.
     - who: David Boder
-      start: '00:43:21.649'
-      end: '00:43:22.158'
+      start:
+        sec: '2601.649'
+        mark: '00:43:21.649'
+      end:
+        sec: '2602.158'
+        mark: '00:43:22.158'
       u: "‘Ubranie.’"
     - who: Kalman Eisenberg
-      start: '00:43:22.158'
-      end: '00:43:24.082'
+      start:
+        sec: '2602.158'
+        mark: '00:43:22.158'
+      end:
+        sec: '2604.082'
+        mark: '00:43:24.082'
       u: But Untuigs is in Yiddish.
     - who: David Boder
-      start: '00:43:24.082'
-      end: '00:43:24.397'
+      start:
+        sec: '2604.082'
+        mark: '00:43:24.082'
+      end:
+        sec: '2604.397'
+        mark: '00:43:24.397'
       u: 'Yes. [Root is German: antun, to put on, ‘put-ons,’ like pull-over.]'
     - who: Kalman Eisenberg
-      start: '00:43:24.397'
-      end: '00:43:27.021'
+      start:
+        sec: '2604.397'
+        mark: '00:43:24.397'
+      end:
+        sec: '2607.021'
+        mark: '00:43:27.021'
       u: Untuigs.
     - who: David Boder
-      start: '00:43:27.021'
-      end: '00:43:28.287'
+      start:
+        sec: '2607.021'
+        mark: '00:43:27.021'
+      end:
+        sec: '2608.287'
+        mark: '00:43:28.287'
       u: "‘Untuigs’ is in Yiddish."
     - who: Kalman Eisenberg
-      start: '00:43:28.287'
-      end: '00:43:28.875'
+      start:
+        sec: '2608.287'
+        mark: '00:43:28.287'
+      end:
+        sec: '2608.875'
+        mark: '00:43:28.875'
       u: In Yiddish.
     - who: David Boder
-      start: '00:43:28.875'
-      end: '00:43:29.162'
+      start:
+        sec: '2608.875'
+        mark: '00:43:28.875'
+      end:
+        sec: '2609.162'
+        mark: '00:43:29.162'
       u: Hm.
     - who: Kalman Eisenberg
-      start: '00:43:29.162'
-      end: '00:00:00.000'
+      start:
+        sec: '2609.162'
+        mark: '00:43:29.162'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And all that was taken away, and it was put into the warehouse. And with
         that the Germans thought we will not be able to escape. And once in plain
         daylight we again awaited the monemt when the...there was a very weak guard.
@@ -1180,13 +2000,21 @@ recording:
         [they] fired into it with machine guns and grenades, but [a few words not
         clear]....[End of Spool 13.]
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[In German:] Now please start with the same day when [words not clear]...[In
         English:] This is Spool 14 and Kalman...Kalman Eisenberg is continuing."
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[In Yiddish:] On the same day, in the afternoon, [we] were able to find
         a moment when there was a light guard, and a few people approached the gate,
         the wires. And like snakes they slithered over the fence in order to get over
@@ -1204,32 +2032,56 @@ recording:
         then altogether three hundred people. These three hundred people were also
         taken over to us, to the larger lager."
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Where was this lager?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: This lager, too, was in Starachowice, but the [lager] where we were was a
         large lager that counted up to two, three thousand people, and there were
         smaller subdivision where there were only a hundred and fifty people in each.
         When they brought the three hundred people to us, to the large lager, a girl
         looked around herself [and saw] where she is...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: How many women were there?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Women made up twenty per cent. Twenty per cent, one may say, were women.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Where, in your lager?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: In the small lagers. In our lager there were forty percent women. A young
         girl, born in Lodz, named [words not clear] looked around at the conditions
         in which she finds herself. So she said, ‘Jew, time now counts in minutes.
@@ -1241,39 +2093,71 @@ recording:
         In the same moment the guards ran up, Ukranians who stood around the commandant,
         and they fired in the air...they fired...in the air...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: This was not a Jewish commandant?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: No. He was a ‘German’ commandant of the Ukrainians. He had the responsibility
         for the entire guard of the lager.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And the guard soon surrounded us completely and began firing on the people.
         But thank God, there were no wounded, no dead. The girl by accident was only
         wounded.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Wounded.
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Wounded, very lightly wounded. And the rest of the people who remained were...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Did she shoot the commandant?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: No. She just tore the revolver out of his hand. And the guards all around
         were firing, because it was very dark, so that she was only lightly wounded.
         The rest of the people were standing...were taken to the other end of the
@@ -1281,12 +2165,20 @@ recording:
         the girl. In the morning they search for the girl. The girl was hiding in
         a barrack. She was dragged out of the barrack and was taken to give account.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: What?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: To give account. She had dared to go over to a...a German and throw herself
         on him and grab his revolver. But the girl defended herself, that when she
         saw the ‘last moments’ such an excitement came over her, such a...into her
@@ -1294,45 +2186,77 @@ recording:
         with much labor and struggle, we succeeded in saving the girl from death,
         from...from...from death by German hands.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Tell me, how did you succeed? Tell it please.
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: A great deal...a great deal of work was done on the Germans. It has cost
         us very much money. The Jews gave up the last possessions.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Where did they get these possessions?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: The Jews had left it with the Gentiles. And man still brought it...still
         brought it to the Jews, because they were working in the same factories. They
         would return it to the Jews. And the money that they had left every Jew handed
         over in order to save the young girl of eighteen years from death. And by
         accident it was possible to save the girl.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: How, through the judge, or what?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: There was no court. There on the square. The main chief of the guard was
         called. The story was told to him, that she threw herself on...on the commandant
         of the lager, on the German. But the chief was a big glutton for money. He
         loved money and gold very much. And the Jews were not sorry to hand over the
         last possessions they had...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Hm.
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: It was handed over, and the girl was saved. This girl is still alive today,
         to this day, in Germany. Afterwards, [after] all this had happened, an order
         came that tomorrow morning RR-cars will arrive and all...[an empty stretch
@@ -1340,67 +2264,123 @@ recording:
         no one had a mind to eat. The mouth could not eat. Thus we sat all night thinking.
         And now I must go back to a few instances...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I cannot take [words not clear; apparently request is made not to deal with
         hearsay material]. Now...
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And now I must go back and mention a few instances that happened in the same
         [other?] lager.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: No. I don’t want about other lagers. I only want [words not clear].
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[Words not clear.] This passed in the same...yes."
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes.
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Now I must go back...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: What happened afterwards? Don’t go back. Then you remained there overnight.
         What happened afterwards?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: During the night...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Tell me your story. Yes.
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: During the night nothing special happened. The next morning early we awaited
         the RR-cars. [Words not clear.]
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes. Tell what you have [to say]. Go ahead. Nu?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: All night long we sat and thought. But I have forgotten to mention a few
         previous instances which I must mention and which will never leave my head.
         For example, there was...there were tow girls who worked in a factory. Which
         two girls...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Did you know the two girls?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes. The girls come from...one [comes] from Bodziecin and one from Lodz.
         And one girl had a mother, an elderly mother of forty years. The two girls
         were very beautiful. And a manager, a young German, in the factory had his
@@ -1410,20 +2390,36 @@ recording:
         was on a hill — and were thrown down from the hill from a tower [?], and they
         were shot in the air. The old mother of the young girl...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Did you see it?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes, I saw it.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Hm.
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[The mother] hears it, how the...about the misfortune of her daughter. She
         climbed a tower which was not occupied by...by the sentries, which [the tower]
         stood in the middle of the square. It was not ocupied by guards. [She] climbed
@@ -1432,12 +2428,20 @@ recording:
         was a murderer. He drove down every day, and he could not eat breakfast if
         he did not see the blood of ten Jews. And every day there was the same story."
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: This happened in your lager?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: This [happened] in our lager, in Starachowice. Afterwards happened when one
         women, after being in the lager four months, gave birth to a child...After
         having been four months in the lager she gave birth to this child. And an
@@ -1449,58 +2453,106 @@ recording:
         in their beds. There was a group...the first group [consisted] of twenty people.
         A month later the sick became more numerous. There were fifty.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Fifty what?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Fifty people became sick with the...with typhus.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: During what period?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: This was in...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I mean in a week or in a month?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: This was a month later, when the twenty people were shot in their beds. A
         month later fifty people became sick with typhus, from lack of cleanliness,
         from hunger. In the middle...in the middle of the night the same murderer
         drove up and took out...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: What was his name?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: His name was Altoff. I have mentioned him already several times.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Yes, yes. Nu?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: A very....Looking at him a person was overcome by panic, by terror. He was
         a very terrible...[voices in the background; then empty wire]...The second
         group of people, fifty in number, were shot in the same manner.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: All right. No more about general [?] stories....[Tell me about] your last
         days in the lager [?].
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Afterwards, when we left our lager, we went to Czestochowa. In Czestochowa
         they did not want to receive us, so we went on to Auschwitz. In Auschwitz
         we were a week’s time. The same night when we arrived, at night, we heard
@@ -1509,20 +2561,36 @@ recording:
         had been taken, and pits were dug, and in these pits they were burned alive,
         without gassing.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: The Gypsies?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: The Gypsies.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: What...
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Without gassing. The Gypsies had been there until then, for two years. Suddenly
         an order came to burn them. After having been there, in the Gypsy Lager, a
         week’s time, we left for Buna. In Buna I was a few months. Many cases also
@@ -1530,35 +2598,59 @@ recording:
         of bread on the building-site, they would take and eat it. Upon returning
         to the lag-...[a pause, possibly a break in the wire].
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Tell me, Kalman. You say that the Gypsies were burned without having been
         gassed. How are people burned without gassing?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: 'Oh, that happened [thus]: Wide pits were dug. Wood was piled in the pits.
         And the Gypsies were chased into the pits, doused with gasoline and set on
         fire with grenades. Grenades were tossed in, exploded, and the wood...the
         wood which had been !!! u was here !!! doused with gasoline caught fire and
         [word not clear] alive. The cries could be heard over the whole lager.'
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Did you see it?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: We saw it ourselves. We...we waited for...we thought...supposed that our
         turn would come, too. But, thank God, we were saved from it, from this evil
         edict.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Go on.
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Afterwards from the Gypsy Later we came to be in Buna. In Buna I was a short
         time. And there, too, happened very many tragic moments about which there
         is much to tell. But I want to go on. From Buna we went...from Buna...the
@@ -1569,13 +2661,21 @@ recording:
         the severest frosts. We were given, along on the journey, only thirty dekas
         of bread, nothing else.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Kalman, how do you explain the fact that the Germans dragged you from one
         lager to another, and that they did not do away with you as with the Gypsies?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: It was an accident. Perhaps they did not have any more time to do the same
         to us, or they still had a figured-out moment [idea] that some people must
         remain, or they had yet another place to employ us. That is why, perhaps,
@@ -1611,30 +2711,54 @@ recording:
         that. We...we dragged along for two weeks. During the night we walked, and
         during the day we lay in the woods. Four, five days...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Why did you...why did you lie in the woods?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Because they had no other place in which to hide us except in the woods.
         During the night we marched on the highway, and during the day we lay in the
         woods.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Why were you hiding in the woods?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: They had no place to hide us. There was no other place.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: How.
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: They had occupied...the Russians, Americans, and the English had occupied.
         So they kept us in the woods. There were no more lagers for us. While in the
         woods, we lay [there] for five days during which it rained continuously. It
@@ -1652,12 +2776,20 @@ recording:
         or...or dead. I could have been beaten or pricked. I could feel absolutely
         nothing.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Nu.
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And then there arrived...and then there arrived comrades from Buchenwald
         who had...whom we had met on the road. And they had also gone through the
         same hardships. And we walked on. We walked again at night, and again we lay
@@ -1691,12 +2823,20 @@ recording:
         we went over to the tank, there was a man with gun in hand. And he asked us
         who we are. He saw at once that we are...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: In what language did he ask?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: He asked in English. And then I say to me comrads,’What is he asking? I do
         not understand.’ Staring at me thus with his eyes, I immediately saw in his
         eyes that he wants to say something. Says he, ‘Aren’t you Jews by any chance?’
@@ -1704,95 +2844,175 @@ recording:
         And the American Jew in the tank was a...a man from Vilna, a Jew from Vilna.
         He gave [us] immediately direction...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Do you know his name?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: His name I did not...I did not...I do not know. He gave us immediately directions
         where...where we should go. And he gave [us] immediately what what we needed.
         He gave us coffee [possibly cigarettes], chocolate, chewing gum, all such
         things, and plenty of wine to drink. He told us where his company was located
         [his speech becomes fast]...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Slow down.
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: We should...we should stay there, with his company, and there we will have
         the best of everything. Thus, half weak, after the liberation there were very
         many comrades who were very, very sick. They died after the liberation, alas.
         Then...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: How did you get to Buchenwald?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: To...to Buchenwald I came for one week only, to work. The.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Under the Germans?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Under the Germans.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: Nu?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I came to Buchenwald for one week to work. I observed no special cases in
         Buchenwald. But there are other comrades from Buchenwald who went through
         much and have very much to relate.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And so how did you get to France?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: To France...to France I came with a special transport which was sent from
         Germany...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And what...
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "...through...through the UNRRA. Which was sent through the UNRRA."
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And what do you plan on doing now?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And so now here in France everyone...everyone...
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: What do you plan on doing?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: I am learning [word not clear]. This is work on leather goods. Others are
         learning to be tailors. Others are learning to be dental technicians.
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: And what do you plan on doing when you finish your training?
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: When I will have learned by trade I have in America...in America, in New
         York, in Brooklyn I have an aunt, S. Hecker, 142 [word not clear] Street,
         from whom I have already received the ‘papers.’ And I think of going to America
@@ -1800,41 +3020,69 @@ recording:
         will sing a lager song, which lager song we were singing [?] and which will
         never leave my head [be forgotten].
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[singing] [I.] Sadness and courage is in our hearts. / Every day brings
         new sorrows. / Everyday brings fresh sufferings, / And not a word is allowed
         to utter."
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[Chorus:] Oh and woe to our years / When we went to the lager. / Rather
         than eat lager bread, / It is better to suffer hunger and privation."
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[II.] At four o’clock the people are awakened. / A tumult reigns like on
         a Beth Olom [cemetery]. / There is a rush for bread and coffee. / ‘Fall in!’
         and, ‘March!’ is heard in a murderous, chill voice."
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[Chorus:] Oh and woe to our years / When we went to the lager. / Rather
         than eat lager bread, / It is better to suffer hunger and privation."
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[III.] All day long leaning on [holding] the shovel, / Frozen cold, emaciated
         by hunger / The wind blows through the bones. / For dinner you shall eat disease
         and stones."
     - who: Kalman Eisenberg
-      start: '00:00:00.000'
-      end: '00:00:00.000'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: "[Chorus:] Oh and woe to our years / When we went to the lager. / Rather
         than eat lager bread, / It is better to suffer hunger and privation."
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:44:14.276'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '2654.276'
+        mark: '00:44:14.276'
       u: "[In English:] This concludes the record of Eisenberg. He could tell us an
         awful lot more, but we had trouble with the recorder, and I spent with him
         the whole morning. It took me nearly two hours of recording, and that will

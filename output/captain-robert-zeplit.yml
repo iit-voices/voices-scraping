@@ -32,16 +32,24 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:00.186'
-      end: '00:01:15.555'
+      start:
+        sec: '0.186'
+        mark: '00:00:00.186'
+      end:
+        sec: '75.555'
+        mark: '00:01:15.555'
       u: "[In English] November the 2nd, 1949. A duplication for the United States
         Public Health Service. Spool 9-139B, the second part of spool 139 which we
         have called now 139A. Captain Zeplit study starts. At the beginning there
         are a few sentences spoken in Russian by a woman who apparently stepped into
         the interview room and we had to demonstrate the machine to her."
     - who: David Boder
-      start: '00:01:15.555'
-      end: '00:01:53.856'
+      start:
+        sec: '75.555'
+        mark: '00:01:15.555'
+      end:
+        sec: '113.856'
+        mark: '00:01:53.856'
       u: 'Munich Germany, September the 21st 1946, in the Lohengrin camp occupied
         predominantly by [free?] Baltian gender population: Latvians, Estonians and
         Lithuanians. The interviewee is Mr. Robert Zeplit, a seaman who spent a long
@@ -50,291 +58,559 @@ recording:
         you turn around here. And talk in this direction in general. You don’t have
         to directly...'
     - who: David Boder
-      start: '00:01:53.856'
-      end: '00:01:58.922'
+      start:
+        sec: '113.856'
+        mark: '00:01:53.856'
+      end:
+        sec: '118.922'
+        mark: '00:01:58.922'
       u: Will you tell us again what is your name, how old are you and where were
         you born.
     - who: Robert Zeplit
-      start: '00:01:58.922'
-      end: '00:02:07.618'
+      start:
+        sec: '118.922'
+        mark: '00:01:58.922'
+      end:
+        sec: '127.618'
+        mark: '00:02:07.618'
       u: My name is Robert Zeplit. I was born in Latvia 1890 in January.
     - who: David Boder
-      start: '00:02:07.618'
-      end: '00:02:12.467'
+      start:
+        sec: '127.618'
+        mark: '00:02:07.618'
+      end:
+        sec: '132.467'
+        mark: '00:02:12.467'
       u: In January 1890. So you are now about fifty-six years old?
     - who: Robert Zeplit
-      start: '00:02:12.467'
-      end: '00:02:13.748'
+      start:
+        sec: '132.467'
+        mark: '00:02:12.467'
+      end:
+        sec: '133.748'
+        mark: '00:02:13.748'
       u: That’s right sir.
     - who: David Boder
-      start: '00:02:13.748'
-      end: '00:02:15.991'
+      start:
+        sec: '133.748'
+        mark: '00:02:13.748'
+      end:
+        sec: '135.991'
+        mark: '00:02:15.991'
       u: All right, what is your occupation Mr. Zeplit?
     - who: Robert Zeplit
-      start: '00:02:15.991'
-      end: '00:02:17.241'
+      start:
+        sec: '135.991'
+        mark: '00:02:15.991'
+      end:
+        sec: '137.241'
+        mark: '00:02:17.241'
       u: I am ship’s captain.
     - who: David Boder
-      start: '00:02:17.241'
-      end: '00:02:20.229'
+      start:
+        sec: '137.241'
+        mark: '00:02:17.241'
+      end:
+        sec: '140.229'
+        mark: '00:02:20.229'
       u: You are a ship’s captain? Are you a licensed ship’s captain?
     - who: Robert Zeplit
-      start: '00:02:20.229'
-      end: '00:02:20.952'
+      start:
+        sec: '140.229'
+        mark: '00:02:20.229'
+      end:
+        sec: '140.952'
+        mark: '00:02:20.952'
       u: Yes, sir.
     - who: David Boder
-      start: '00:02:20.952'
-      end: '00:02:26.836'
+      start:
+        sec: '140.952'
+        mark: '00:02:20.952'
+      end:
+        sec: '146.836'
+        mark: '00:02:26.836'
       u: What kind of ships did you...lead? What kind of ships did you travel?
     - who: Robert Zeplit
-      start: '00:02:26.836'
-      end: '00:02:37.529'
+      start:
+        sec: '146.836'
+        mark: '00:02:26.836'
+      end:
+        sec: '157.529'
+        mark: '00:02:37.529'
       u: I carried two captain’s licenses, a Russian license and from 1912...a Latvian
         captain’s license.
     - who: David Boder
-      start: '00:02:37.529'
-      end: '00:02:39.617'
+      start:
+        sec: '157.529'
+        mark: '00:02:37.529'
+      end:
+        sec: '159.617'
+        mark: '00:02:39.617'
       u: A Latvian? From 1912?
     - who: Robert Zeplit
-      start: '00:02:39.617'
-      end: '00:02:40.557'
+      start:
+        sec: '159.617'
+        mark: '00:02:39.617'
+      end:
+        sec: '160.557'
+        mark: '00:02:40.557'
       u: '1912.'
     - who: David Boder
-      start: '00:02:40.557'
-      end: '00:02:42.273'
+      start:
+        sec: '160.557'
+        mark: '00:02:40.557'
+      end:
+        sec: '162.273'
+        mark: '00:02:42.273'
       u: Were there already Latvian captains...?
     - who: Robert Zeplit
-      start: '00:02:42.273'
-      end: '00:02:46.191'
+      start:
+        sec: '162.273'
+        mark: '00:02:42.273'
+      end:
+        sec: '166.191'
+        mark: '00:02:46.191'
       u: No. There are times when the Latvian’s was Russian citizens...
     - who: David Boder
-      start: '00:02:46.191'
-      end: '00:02:47.379'
+      start:
+        sec: '166.191'
+        mark: '00:02:46.191'
+      end:
+        sec: '167.379'
+        mark: '00:02:47.379'
       u: 'Yes'
     - who: Robert Zeplit
-      start: '00:02:47.379'
-      end: '00:02:51.359'
+      start:
+        sec: '167.379'
+        mark: '00:02:47.379'
+      end:
+        sec: '171.359'
+        mark: '00:02:51.359'
       u: ". . . and I finished the navigation school in 1912..."
     - who: David Boder
-      start: '00:02:51.359'
-      end: '00:02:52.423'
+      start:
+        sec: '171.359'
+        mark: '00:02:51.359'
+      end:
+        sec: '172.423'
+        mark: '00:02:52.423'
       u: Where did you finish navigation school?
     - who: Robert Zeplit
-      start: '00:02:52.423'
-      end: '00:02:53.208'
+      start:
+        sec: '172.423'
+        mark: '00:02:52.423'
+      end:
+        sec: '173.208'
+        mark: '00:02:53.208'
       u: Riga.
     - who: David Boder
-      start: '00:02:53.208'
-      end: '00:02:53.807'
+      start:
+        sec: '173.208'
+        mark: '00:02:53.208'
+      end:
+        sec: '173.807'
+        mark: '00:02:53.807'
       u: Where?
     - who: Robert Zeplit
-      start: '00:02:53.807'
-      end: '00:02:54.468'
+      start:
+        sec: '173.807'
+        mark: '00:02:53.807'
+      end:
+        sec: '174.468'
+        mark: '00:02:54.468'
       u: In Riga.
     - who: David Boder
-      start: '00:02:54.468'
-      end: '00:02:54.788'
+      start:
+        sec: '174.468'
+        mark: '00:02:54.468'
+      end:
+        sec: '174.788'
+        mark: '00:02:54.788'
       u: Riga! [emphasis for pronunciation]
     - who: Robert Zeplit
-      start: '00:02:54.788'
-      end: '00:02:55.201'
+      start:
+        sec: '174.788'
+        mark: '00:02:54.788'
+      end:
+        sec: '175.201'
+        mark: '00:02:55.201'
       u: Riga.
     - who: David Boder
-      start: '00:02:55.201'
-      end: '00:03:00.360'
+      start:
+        sec: '175.201'
+        mark: '00:02:55.201'
+      end:
+        sec: '180.360'
+        mark: '00:03:00.360'
       u: Where you finished your navigation school in Riga and then got the captain
         certificate.
     - who: Robert Zeplit
-      start: '00:03:00.360'
-      end: '00:03:01.207'
+      start:
+        sec: '180.360'
+        mark: '00:03:00.360'
+      end:
+        sec: '181.207'
+        mark: '00:03:01.207'
       u: Yes.
     - who: David Boder
-      start: '00:03:01.207'
-      end: '00:03:04.784'
+      start:
+        sec: '181.207'
+        mark: '00:03:01.207'
+      end:
+        sec: '184.784'
+        mark: '00:03:04.784'
       u: All right let’s see...
     - who: David Boder
-      start: '00:03:04.784'
-      end: '00:03:19.004'
+      start:
+        sec: '184.784'
+        mark: '00:03:04.784'
+      end:
+        sec: '199.004'
+        mark: '00:03:19.004'
       u: Now, will you tell me now, Captain Zeplit, where were you when the war started
         and what happened to you since then?
     - who: Robert Zeplit
-      start: '00:03:19.004'
-      end: '00:03:33.192'
+      start:
+        sec: '199.004'
+        mark: '00:03:19.004'
+      end:
+        sec: '213.192'
+        mark: '00:03:33.192'
       u: I was in the United States till...1939, July month. I came back to Latvia
         to get my legal papers for entry in United States to become United States
         citizen.
     - who: David Boder
-      start: '00:03:33.192'
-      end: '00:03:35.807'
+      start:
+        sec: '213.192'
+        mark: '00:03:33.192'
+      end:
+        sec: '215.807'
+        mark: '00:03:35.807'
       u: What for were you in the United States—what were you doing here?
     - who: Robert Zeplit
-      start: '00:03:35.807'
-      end: '00:03:41.649'
+      start:
+        sec: '215.807'
+        mark: '00:03:35.807'
+      end:
+        sec: '221.649'
+        mark: '00:03:41.649'
       u: Well, I was working on ships as quartermaster [?], as boats-man and various
         other jobs.
     - who: David Boder
-      start: '00:03:41.649'
-      end: '00:03:43.996'
+      start:
+        sec: '221.649'
+        mark: '00:03:41.649'
+      end:
+        sec: '223.996'
+        mark: '00:03:43.996'
       u: What kind of ships were you working on?
     - who: Robert Zeplit
-      start: '00:03:43.996'
-      end: '00:03:53.547'
+      start:
+        sec: '223.996'
+        mark: '00:03:43.996'
+      end:
+        sec: '233.547'
+        mark: '00:03:53.547'
       u: City-service [unintelligible]...Sanitary Company [?], Gulf [intellible] Company
         and...Texas Company.
     - who: David Boder
-      start: '00:03:53.547'
-      end: '00:03:55.834'
+      start:
+        sec: '233.547'
+        mark: '00:03:53.547'
+      end:
+        sec: '235.834'
+        mark: '00:03:55.834'
       u: And where were the ship going?
     - who: Robert Zeplit
-      start: '00:03:55.834'
-      end: '00:03:59.571'
+      start:
+        sec: '235.834'
+        mark: '00:03:55.834'
+      end:
+        sec: '239.571'
+        mark: '00:03:59.571'
       u: From New York/Boston from north to south Texas
     - who: David Boder
-      start: '00:03:59.571'
-      end: '00:04:02.583'
+      start:
+        sec: '239.571'
+        mark: '00:03:59.571'
+      end:
+        sec: '242.583'
+        mark: '00:04:02.583'
       u: Aha, they were running along the American shore.
     - who: Robert Zeplit
-      start: '00:04:02.583'
-      end: '00:04:03.662'
+      start:
+        sec: '242.583'
+        mark: '00:04:02.583'
+      end:
+        sec: '243.662'
+        mark: '00:04:03.662'
       u: American shore, that’s right.
     - who: David Boder
-      start: '00:04:03.662'
-      end: '00:04:07.127'
+      start:
+        sec: '243.662'
+        mark: '00:04:03.662'
+      end:
+        sec: '247.127'
+        mark: '00:04:07.127'
       u: And why did you have to go back to Latvia to get your papers?
     - who: Robert Zeplit
-      start: '00:04:07.127'
-      end: '00:04:25.759'
+      start:
+        sec: '247.127'
+        mark: '00:04:07.127'
+      end:
+        sec: '265.759'
+        mark: '00:04:25.759'
       u: Well I took my first papers in Jackson in Florida, 1923 but after three years
         I sign as second mate on a [Norwegian?] ship and that was the reason I lose
         my rights...my right to become a citizen.
     - who: David Boder
-      start: '00:04:25.759'
-      end: '00:04:29.647'
+      start:
+        sec: '265.759'
+        mark: '00:04:25.759'
+      end:
+        sec: '269.647'
+        mark: '00:04:29.647'
       u: To become a citizen. And so you had to go back and start anew.
     - who: Robert Zeplit
-      start: '00:04:29.647'
-      end: '00:04:30.816'
+      start:
+        sec: '269.647'
+        mark: '00:04:29.647'
+      end:
+        sec: '270.816'
+        mark: '00:04:30.816'
       u: Start from the new.
     - who: David Boder
-      start: '00:04:30.816'
-      end: '00:04:36.879'
+      start:
+        sec: '270.816'
+        mark: '00:04:30.816'
+      end:
+        sec: '276.879'
+        mark: '00:04:36.879'
       u: All right, so you came in 1939 to Latvia. What was Latvia then?
     - who: Robert Zeplit
-      start: '00:04:36.879'
-      end: '00:04:41.251'
+      start:
+        sec: '276.879'
+        mark: '00:04:36.879'
+      end:
+        sec: '281.251'
+        mark: '00:04:41.251'
       u: Latvia was independent country with its own president.
     - who: David Boder
-      start: '00:04:41.251'
-      end: '00:04:43.085'
+      start:
+        sec: '281.251'
+        mark: '00:04:41.251'
+      end:
+        sec: '283.085'
+        mark: '00:04:43.085'
       u: The president was Ulmanis.
     - who: Robert Zeplit
-      start: '00:04:43.085'
-      end: '00:04:43.922'
+      start:
+        sec: '283.085'
+        mark: '00:04:43.085'
+      end:
+        sec: '283.922'
+        mark: '00:04:43.922'
       u: Was Ulmanis.
     - who: David Boder
-      start: '00:04:43.922'
-      end: '00:04:46.602'
+      start:
+        sec: '283.922'
+        mark: '00:04:43.922'
+      end:
+        sec: '286.602'
+        mark: '00:04:46.602'
       u: But there was no parliament in Latvia
     - who: Robert Zeplit
-      start: '00:04:46.602'
-      end: '00:04:48.678'
+      start:
+        sec: '286.602'
+        mark: '00:04:46.602'
+      end:
+        sec: '288.678'
+        mark: '00:04:48.678'
       u: No, there was parliament.
     - who: David Boder
-      start: '00:04:48.678'
-      end: '00:04:51.992'
+      start:
+        sec: '288.678'
+        mark: '00:04:48.678'
+      end:
+        sec: '291.992'
+        mark: '00:04:51.992'
       u: Well, didn’t Ulmanis dismiss the parliament?
     - who: Robert Zeplit
-      start: '00:04:51.992'
-      end: '00:05:09.597'
+      start:
+        sec: '291.992'
+        mark: '00:04:51.992'
+      end:
+        sec: '309.597'
+        mark: '00:05:09.597'
       u: Well, uh...I don’t know because I was so many years away I don’t know exactly
         how the Parliament was changing in Latvia but Ulmanis was the President and
         so far as I know there was...there was Parliament too. Parliament too...
     - who: David Boder
-      start: '00:05:09.597'
-      end: '00:05:12.247'
+      start:
+        sec: '309.597'
+        mark: '00:05:09.597'
+      end:
+        sec: '312.247'
+        mark: '00:05:12.247'
       u: Wasn’t Ulmanis just a dictator like any other dictator?
     - who: Robert Zeplit
-      start: '00:05:12.247'
-      end: '00:05:30.184'
+      start:
+        sec: '312.247'
+        mark: '00:05:12.247'
+      end:
+        sec: '330.184'
+        mark: '00:05:30.184'
       u: No, he wasn’t [bad?] dictator. But he took all the...businesses in his own
         hands and to...do all the...
     - who: David Boder
-      start: '00:05:30.184'
-      end: '00:05:31.414'
+      start:
+        sec: '330.184'
+        mark: '00:05:30.184'
+      end:
+        sec: '331.414'
+        mark: '00:05:31.414'
       u: The administration himself.
     - who: Robert Zeplit
-      start: '00:05:31.414'
-      end: '00:05:35.483'
+      start:
+        sec: '331.414'
+        mark: '00:05:31.414'
+      end:
+        sec: '335.483'
+        mark: '00:05:35.483'
       u: ". . . administration by himself together with advisors."
     - who: David Boder
-      start: '00:05:35.483'
-      end: '00:05:55.375'
+      start:
+        sec: '335.483'
+        mark: '00:05:35.483'
+      end:
+        sec: '355.375'
+        mark: '00:05:55.375'
       u: Uh huh.
     - who: David Boder
-      start: '00:05:55.375'
-      end: '00:06:07.547'
+      start:
+        sec: '355.375'
+        mark: '00:05:55.375'
+      end:
+        sec: '367.547'
+        mark: '00:06:07.547'
       u: "[Break in the wire] We had here a break in the wire. I am interviewing Captain
         Robert Zeplit and we are practically at the beginning of his story."
     - who: David Boder
-      start: '00:06:07.547'
-      end: '00:06:20.287'
+      start:
+        sec: '367.547'
+        mark: '00:06:07.547'
+      end:
+        sec: '380.287'
+        mark: '00:06:20.287'
       u: Also, Captain Zeplit, you were telling me that you lost the...[value?] of
         your first - the first of your first papers - and so you had to go back to
         Latvia and start anew getting your Visa to the States.
     - who: Robert Zeplit
-      start: '00:06:20.287'
-      end: '00:06:20.671'
+      start:
+        sec: '380.287'
+        mark: '00:06:20.287'
+      end:
+        sec: '380.671'
+        mark: '00:06:20.671'
       u: That’s right.
     - who: David Boder
-      start: '00:06:20.671'
-      end: '00:06:22.052'
+      start:
+        sec: '380.671'
+        mark: '00:06:20.671'
+      end:
+        sec: '382.052'
+        mark: '00:06:22.052'
       u: In what year was that?
     - who: Robert Zeplit
-      start: '00:06:22.052'
-      end: '00:06:23.584'
+      start:
+        sec: '382.052'
+        mark: '00:06:22.052'
+      end:
+        sec: '383.584'
+        mark: '00:06:23.584'
       u: '1939.'
     - who: David Boder
-      start: '00:06:23.584'
-      end: '00:06:26.898'
+      start:
+        sec: '383.584'
+        mark: '00:06:23.584'
+      end:
+        sec: '386.898'
+        mark: '00:06:26.898'
       u: All right, now go ahead. And what happened then?
     - who: Robert Zeplit
-      start: '00:06:26.898'
-      end: '00:06:39.548'
+      start:
+        sec: '386.898'
+        mark: '00:06:26.898'
+      end:
+        sec: '399.548'
+        mark: '00:06:39.548'
       u: Well, I came to Latvia in 1939 just month and a half before the war broke
         out between Germany and Poland. I never heard since...they never...not let
         me out from Latvia.
     - who: David Boder
-      start: '00:06:39.548'
-      end: '00:06:41.352'
+      start:
+        sec: '399.548'
+        mark: '00:06:39.548'
+      end:
+        sec: '401.352'
+        mark: '00:06:41.352'
       u: They don’t—didn’t let you go from Latvia?
     - who: Robert Zeplit
-      start: '00:06:41.352'
-      end: '00:06:42.008'
+      start:
+        sec: '401.352'
+        mark: '00:06:41.352'
+      end:
+        sec: '402.008'
+        mark: '00:06:42.008'
       u: No.
     - who: David Boder
-      start: '00:06:42.008'
-      end: '00:06:42.784'
+      start:
+        sec: '402.008'
+        mark: '00:06:42.008'
+      end:
+        sec: '402.784'
+        mark: '00:06:42.784'
       u: Yes.
     - who: Robert Zeplit
-      start: '00:06:42.784'
-      end: '00:06:49.210'
+      start:
+        sec: '402.784'
+        mark: '00:06:42.784'
+      end:
+        sec: '409.210'
+        mark: '00:06:49.210'
       u: And I was in Latvia until the day the Bolshevikii came...
     - who: David Boder
-      start: '00:06:49.210'
-      end: '00:06:50.560'
+      start:
+        sec: '409.210'
+        mark: '00:06:49.210'
+      end:
+        sec: '410.560'
+        mark: '00:06:50.560'
       u: Yes.
     - who: Robert Zeplit
-      start: '00:06:50.560'
-      end: '00:06:53.481'
+      start:
+        sec: '410.560'
+        mark: '00:06:50.560'
+      end:
+        sec: '413.481'
+        mark: '00:06:53.481'
       u: ". . . until the last day when the Germans pushed me out."
     - who: David Boder
-      start: '00:06:53.481'
-      end: '00:07:03.960'
+      start:
+        sec: '413.481'
+        mark: '00:06:53.481'
+      end:
+        sec: '423.960'
+        mark: '00:07:03.960'
       u: Uh-huh, well, tell me now how did the Russians (or the Soviets or the Bolsheviks
         what you call them) how did they come into Latvia? What happened then?
     - who: Robert Zeplit
-      start: '00:07:03.960'
-      end: '00:07:46.879'
+      start:
+        sec: '423.960'
+        mark: '00:07:03.960'
+      end:
+        sec: '466.879'
+        mark: '00:07:46.879'
       u: Well, they...so much I know they come friendly the first days but after they
         start acting against the Latvian people—very [harshly?]. In nineteen-the last
         what I see with my own eyes- in 1941, 14 June they was picking people during
@@ -342,1412 +618,2728 @@ recording:
         to railroad station. And they was loaded in railroad stations for transportation
         in Russia.
     - who: David Boder
-      start: '00:07:46.879'
-      end: '00:07:48.411'
+      start:
+        sec: '466.879'
+        mark: '00:07:46.879'
+      end:
+        sec: '468.411'
+        mark: '00:07:48.411'
       u: What for?
     - who: Robert Zeplit
-      start: '00:07:48.411'
-      end: '00:07:54.226'
+      start:
+        sec: '468.411'
+        mark: '00:07:48.411'
+      end:
+        sec: '474.226'
+        mark: '00:07:54.226'
       u: Well, to guess, I don’t know.
     - who: David Boder
-      start: '00:07:54.226'
-      end: '00:07:58.537'
+      start:
+        sec: '474.226'
+        mark: '00:07:54.226'
+      end:
+        sec: '478.537'
+        mark: '00:07:58.537'
       u: Did some of these people come back?
     - who: Robert Zeplit
-      start: '00:07:58.537'
-      end: '00:08:00.461'
+      start:
+        sec: '478.537'
+        mark: '00:07:58.537'
+      end:
+        sec: '480.461'
+        mark: '00:08:00.461'
       u: Not so far I know, I don’t know.
     - who: David Boder
-      start: '00:08:00.461'
-      end: '00:08:04.984'
+      start:
+        sec: '480.461'
+        mark: '00:08:00.461'
+      end:
+        sec: '484.984'
+        mark: '00:08:04.984'
       u: You don’t know. And those were Latvians that they were loading in trucks.
     - who: Robert Zeplit
-      start: '00:08:04.984'
-      end: '00:08:15.186'
+      start:
+        sec: '484.984'
+        mark: '00:08:04.984'
+      end:
+        sec: '495.186'
+        mark: '00:08:15.186'
       u: Latvians and uh...not all Latvians but there was uh...all the Latvian citizens
         there was...all the nation was what was in Latvia.
     - who: David Boder
-      start: '00:08:15.186'
-      end: '00:08:18.833'
+      start:
+        sec: '495.186'
+        mark: '00:08:15.186'
+      end:
+        sec: '498.833'
+        mark: '00:08:18.833'
       u: ". . . that were in Latvia. Well did they take rich people, did they take..."
     - who: Robert Zeplit
-      start: '00:08:18.833'
-      end: '00:08:19.338'
+      start:
+        sec: '498.833'
+        mark: '00:08:18.833'
+      end:
+        sec: '499.338'
+        mark: '00:08:19.338'
       u: No.
     - who: David Boder
-      start: '00:08:19.338'
-      end: '00:08:20.477'
+      start:
+        sec: '499.338'
+        mark: '00:08:19.338'
+      end:
+        sec: '500.477'
+        mark: '00:08:20.477'
       u: ". . . poor people, what kind of people did they take...?"
     - who: Robert Zeplit
-      start: '00:08:20.477'
-      end: '00:08:40.964'
+      start:
+        sec: '500.477'
+        mark: '00:08:20.477'
+      end:
+        sec: '520.964'
+        mark: '00:08:40.964'
       u: That was surprise me because I heard that the Russians they were against
         the rich people but that time they was picking over the working class—working
         class too—most of them. They were sent out from Latvia, 36,000 and I guess
         from this 36,000 there was most working class.
     - who: David Boder
-      start: '00:08:40.964'
-      end: '00:09:00.399'
+      start:
+        sec: '520.964'
+        mark: '00:08:40.964'
+      end:
+        sec: '540.399'
+        mark: '00:09:00.399'
       u: Yes - there can’t be 36,000 rich people in a small country like Latvia. Now
         tell me this...did they mistreat the people? Did they shoot any people? Did
         they...what did they do otherwise?
     - who: Robert Zeplit
-      start: '00:09:00.399'
-      end: '00:09:04.529'
+      start:
+        sec: '540.399'
+        mark: '00:09:00.399'
+      end:
+        sec: '544.529'
+        mark: '00:09:04.529'
       u: They...some of them was shot in Latvia.
     - who: David Boder
-      start: '00:09:04.529'
-      end: '00:09:06.091'
+      start:
+        sec: '544.529'
+        mark: '00:09:04.529'
+      end:
+        sec: '546.091'
+        mark: '00:09:06.091'
       u: Who were they?
     - who: Robert Zeplit
-      start: '00:09:06.091'
-      end: '00:09:13.997'
+      start:
+        sec: '546.091'
+        mark: '00:09:06.091'
+      end:
+        sec: '553.997'
+        mark: '00:09:13.997'
       u: Nu. Who was in the police duty and one other...politiken...
     - who: David Boder
-      start: '00:09:13.997'
-      end: '00:09:15.317'
+      start:
+        sec: '553.997'
+        mark: '00:09:13.997'
+      end:
+        sec: '555.317'
+        mark: '00:09:15.317'
       u: Yes.
     - who: Robert Zeplit
-      start: '00:09:15.317'
-      end: '00:09:16.486'
+      start:
+        sec: '555.317'
+        mark: '00:09:15.317'
+      end:
+        sec: '556.486'
+        mark: '00:09:16.486'
       u: ". . . and..."
     - who: David Boder
-      start: '00:09:16.486'
-      end: '00:09:19.136'
+      start:
+        sec: '556.486'
+        mark: '00:09:16.486'
+      end:
+        sec: '559.136'
+        mark: '00:09:19.136'
       u: What happened to Ulmanis?
     - who: Robert Zeplit
-      start: '00:09:19.136'
-      end: '00:09:42.175'
+      start:
+        sec: '559.136'
+        mark: '00:09:19.136'
+      end:
+        sec: '582.175'
+        mark: '00:09:42.175'
       u: Well Ulmanis was...for a long time he was in his castle and the Russians
         kept guards and never let nobody go to him. After he was sent to Russia the
         last, what uh...I know he was in Crimea
     - who: David Boder
-      start: '00:09:42.175'
-      end: '00:09:54.005'
+      start:
+        sec: '582.175'
+        mark: '00:09:42.175'
+      end:
+        sec: '594.005'
+        mark: '00:09:54.005'
       u: In Crimea. Now tell me this...there were Germans in Latvia weren’t there?
         All kind of, all the barons and so on what happened to them?
     - who: Robert Zeplit
-      start: '00:09:54.005'
-      end: '00:10:00.410'
+      start:
+        sec: '594.005'
+        mark: '00:09:54.005'
+      end:
+        sec: '600.410'
+        mark: '00:10:00.410'
       u: Well some of them were sent out and some not.
     - who: David Boder
-      start: '00:10:00.410'
-      end: '00:10:05.658'
+      start:
+        sec: '600.410'
+        mark: '00:10:00.410'
+      end:
+        sec: '605.658'
+        mark: '00:10:05.658'
       u: Now tell me and then what? Latvia became a Soviet country?
     - who: Robert Zeplit
-      start: '00:10:05.658'
-      end: '00:10:11.238'
+      start:
+        sec: '605.658'
+        mark: '00:10:05.658'
+      end:
+        sec: '611.238'
+        mark: '00:10:11.238'
       u: Well there was voting...to join the Soviet Union.
     - who: Robert Zeplit
-      start: '00:10:11.238'
-      end: '00:10:16.914'
+      start:
+        sec: '611.238'
+        mark: '00:10:11.238'
+      end:
+        sec: '616.914'
+        mark: '00:10:16.914'
       u: But the voting was forced on the Latvian people.
     - who: David Boder
-      start: '00:10:16.914'
-      end: '00:10:23.431'
+      start:
+        sec: '616.914'
+        mark: '00:10:16.914'
+      end:
+        sec: '623.431'
+        mark: '00:10:23.431'
       u: Now tell me this—weren’t there many Latvians that were Communists?
     - who: Robert Zeplit
-      start: '00:10:23.431'
-      end: '00:10:26.685'
+      start:
+        sec: '623.431'
+        mark: '00:10:23.431'
+      end:
+        sec: '626.685'
+        mark: '00:10:26.685'
       u: Not many.
     - who: David Boder
-      start: '00:10:26.685'
-      end: '00:10:31.903'
+      start:
+        sec: '626.685'
+        mark: '00:10:26.685'
+      end:
+        sec: '631.903'
+        mark: '00:10:31.903'
       u: Did there any Latvians come from Russia with the Soviets?
     - who: Robert Zeplit
-      start: '00:10:31.903'
-      end: '00:10:33.344'
+      start:
+        sec: '631.903'
+        mark: '00:10:31.903'
+      end:
+        sec: '633.344'
+        mark: '00:10:33.344'
       u: Yes, many of them.
     - who: David Boder
-      start: '00:10:33.344'
-      end: '00:10:35.299'
+      start:
+        sec: '633.344'
+        mark: '00:10:33.344'
+      end:
+        sec: '635.299'
+        mark: '00:10:35.299'
       u: Who were communists in Russia?
     - who: Robert Zeplit
-      start: '00:10:35.299'
-      end: '00:10:36.166'
+      start:
+        sec: '635.299'
+        mark: '00:10:35.299'
+      end:
+        sec: '636.166'
+        mark: '00:10:36.166'
       u: Yeah.
     - who: David Boder
-      start: '00:10:36.166'
-      end: '00:10:49.390'
+      start:
+        sec: '636.166'
+        mark: '00:10:36.166'
+      end:
+        sec: '649.390'
+        mark: '00:10:49.390'
       u: Uh huh. Tell me then, how long did it last? How long did the Bolsheviks run
         the country? What did they do? Did they...? How did people work or son on?
         They didn’t take you?
     - who: Robert Zeplit
-      start: '00:10:49.390'
-      end: '00:10:51.586'
+      start:
+        sec: '649.390'
+        mark: '00:10:49.390'
+      end:
+        sec: '651.586'
+        mark: '00:10:51.586'
       u: No, my story is long.
     - who: David Boder
-      start: '00:10:51.586'
-      end: '00:10:54.387'
+      start:
+        sec: '651.586'
+        mark: '00:10:51.586'
+      end:
+        sec: '654.387'
+        mark: '00:10:54.387'
       u: Well tell your story, we have time.
     - who: Robert Zeplit
-      start: '00:10:54.387'
-      end: '00:11:15.576'
+      start:
+        sec: '654.387'
+        mark: '00:10:54.387'
+      end:
+        sec: '675.576'
+        mark: '00:11:15.576'
       u: When the Bolshevikii came here in Latvia, everyone was [write?] what he did
         and what education. Well sir, [what I brought showed?] I was in the United
         States for so many years and I had such and such education.
     - who: David Boder
-      start: '00:11:15.576'
-      end: '00:11:16.564'
+      start:
+        sec: '675.576'
+        mark: '00:11:15.576'
+      end:
+        sec: '676.564'
+        mark: '00:11:16.564'
       u: Yes.
     - who: Robert Zeplit
-      start: '00:11:16.564'
-      end: '00:11:18.821'
+      start:
+        sec: '676.564'
+        mark: '00:11:16.564'
+      end:
+        sec: '678.821'
+        mark: '00:11:18.821'
       u: They never let me have a job.
     - who: David Boder
-      start: '00:11:18.821'
-      end: '00:11:19.930'
+      start:
+        sec: '678.821'
+        mark: '00:11:18.821'
+      end:
+        sec: '679.930'
+        mark: '00:11:19.930'
       u: Why?
     - who: Robert Zeplit
-      start: '00:11:19.930'
-      end: '00:11:27.262'
+      start:
+        sec: '679.930'
+        mark: '00:11:19.930'
+      end:
+        sec: '687.262'
+        mark: '00:11:27.262'
       u: Well I don’t know because they was afraid, the Russians was afraid of people
         who see the...world.
     - who: David Boder
-      start: '00:11:27.262'
-      end: '00:11:28.915'
+      start:
+        sec: '687.262'
+        mark: '00:11:27.262'
+      end:
+        sec: '688.915'
+        mark: '00:11:28.915'
       u: See what?
     - who: Robert Zeplit
-      start: '00:11:28.915'
-      end: '00:11:35.646'
+      start:
+        sec: '688.915'
+        mark: '00:11:28.915'
+      end:
+        sec: '695.646'
+        mark: '00:11:35.646'
       u: See the world...nu. Who was in other countries.
     - who: David Boder
-      start: '00:11:35.646'
-      end: '00:11:38.719'
+      start:
+        sec: '695.646'
+        mark: '00:11:35.646'
+      end:
+        sec: '698.719'
+        mark: '00:11:38.719'
       u: Oh, who have seen other countries who have seen the world
     - who: Robert Zeplit
-      start: '00:11:38.719'
-      end: '00:11:45.810'
+      start:
+        sec: '698.719'
+        mark: '00:11:38.719'
+      end:
+        sec: '705.810'
+        mark: '00:11:45.810'
       u: Yes. So I get a job on a little tug boat as a captain...
     - who: David Boder
-      start: '00:11:45.810'
-      end: '00:11:47.281'
+      start:
+        sec: '705.810'
+        mark: '00:11:45.810'
+      end:
+        sec: '707.281'
+        mark: '00:11:47.281'
       u: From the Russians?
     - who: Robert Zeplit
-      start: '00:11:47.281'
-      end: '00:11:51.471'
+      start:
+        sec: '707.281'
+        mark: '00:11:47.281'
+      end:
+        sec: '711.471'
+        mark: '00:11:51.471'
       u: Latvians. [Worked well?] because the managers was Russians.
     - who: David Boder
-      start: '00:11:51.471'
-      end: '00:11:52.429'
+      start:
+        sec: '711.471'
+        mark: '00:11:51.471'
+      end:
+        sec: '712.429'
+        mark: '00:11:52.429'
       u: 'Yes'
     - who: Robert Zeplit
-      start: '00:11:52.429'
-      end: '00:11:59.013'
+      start:
+        sec: '712.429'
+        mark: '00:11:52.429'
+      end:
+        sec: '719.013'
+        mark: '00:11:59.013'
       u: But I was suspect and somebody was always looking after me.
     - who: David Boder
-      start: '00:11:59.013'
-      end: '00:12:02.632'
+      start:
+        sec: '719.013'
+        mark: '00:11:59.013'
+      end:
+        sec: '722.632'
+        mark: '00:12:02.632'
       u: Now so you got a job on a tug boat and what happened then?
     - who: Robert Zeplit
-      start: '00:12:02.632'
-      end: '00:12:27.946'
+      start:
+        sec: '722.632'
+        mark: '00:12:02.632'
+      end:
+        sec: '747.946'
+        mark: '00:12:27.946'
       u: Well I’d been working on the tugboat till the day the Germans enter—the Germans
         came (the 4th of July, 1941). But...1941, 28 June, I get orders from the Russians,
         not me alone but all the ships captain’s, go with ships to Russia.
     - who: David Boder
-      start: '00:12:27.946'
-      end: '00:12:29.236'
+      start:
+        sec: '747.946'
+        mark: '00:12:27.946'
+      end:
+        sec: '749.236'
+        mark: '00:12:29.236'
       u: Where to?
     - who: Robert Zeplit
-      start: '00:12:29.236'
-      end: '00:12:30.496'
+      start:
+        sec: '749.236'
+        mark: '00:12:29.236'
+      end:
+        sec: '750.496'
+        mark: '00:12:30.496'
       u: To Pärnu.
     - who: David Boder
-      start: '00:12:30.496'
-      end: '00:12:32.511'
+      start:
+        sec: '750.496'
+        mark: '00:12:30.496'
+      end:
+        sec: '752.511'
+        mark: '00:12:32.511'
       u: Oh. Pärnu was Russia or Estonia?
     - who: Robert Zeplit
-      start: '00:12:32.511'
-      end: '00:12:33.680'
+      start:
+        sec: '752.511'
+        mark: '00:12:32.511'
+      end:
+        sec: '753.680'
+        mark: '00:12:33.680'
       u: No, Estonia
     - who: David Boder
-      start: '00:12:33.680'
-      end: '00:12:34.366'
+      start:
+        sec: '753.680'
+        mark: '00:12:33.680'
+      end:
+        sec: '754.366'
+        mark: '00:12:34.366'
       u: Yes.
     - who: Robert Zeplit
-      start: '00:12:34.366'
-      end: '00:12:38.979'
+      start:
+        sec: '754.366'
+        mark: '00:12:34.366'
+      end:
+        sec: '758.979'
+        mark: '00:12:38.979'
       u: But we received the orders for us to go to Pärnu.
     - who: David Boder
-      start: '00:12:38.979'
-      end: '00:12:41.508'
+      start:
+        sec: '758.979'
+        mark: '00:12:38.979'
+      end:
+        sec: '761.508'
+        mark: '00:12:41.508'
       u: What was the Russian name for Pärnu?
     - who: Robert Zeplit
-      start: '00:12:41.508'
-      end: '00:12:42.617'
+      start:
+        sec: '761.508'
+        mark: '00:12:41.508'
+      end:
+        sec: '762.617'
+        mark: '00:12:42.617'
       u: Pärnu.
     - who: David Boder
-      start: '00:12:42.617'
-      end: '00:12:46.112'
+      start:
+        sec: '762.617'
+        mark: '00:12:42.617'
+      end:
+        sec: '766.112'
+        mark: '00:12:46.112'
       u: And so? What did you do?
     - who: Robert Zeplit
-      start: '00:12:46.112'
-      end: '00:12:55.076'
+      start:
+        sec: '766.112'
+        mark: '00:12:46.112'
+      end:
+        sec: '775.076'
+        mark: '00:12:55.076'
       u: Well I went with my ship on the sea together with other ships. At nighttime—half
         past one—I run on shore.
     - who: Robert Zeplit
-      start: '00:12:55.076'
-      end: '00:12:55.973'
+      start:
+        sec: '775.076'
+        mark: '00:12:55.076'
+      end:
+        sec: '775.973'
+        mark: '00:12:55.973'
       u: The ship...
     - who: David Boder
-      start: '00:12:55.973'
-      end: '00:12:57.052'
+      start:
+        sec: '775.973'
+        mark: '00:12:55.973'
+      end:
+        sec: '777.052'
+        mark: '00:12:57.052'
       u: On purpose?
     - who: Robert Zeplit
-      start: '00:12:57.052'
-      end: '00:13:10.915'
+      start:
+        sec: '777.052'
+        mark: '00:12:57.052'
+      end:
+        sec: '790.915'
+        mark: '00:13:10.915'
       u: Yes. And I was eight days in the woods. I hide myself because I know when
         they gonna catch me I know what is going to happen with me.
     - who: David Boder
-      start: '00:13:10.915'
-      end: '00:13:13.988'
+      start:
+        sec: '790.915'
+        mark: '00:13:10.915'
+      end:
+        sec: '793.988'
+        mark: '00:13:13.988'
       u: Yes, and the rest of the people on the ship?
     - who: Robert Zeplit
-      start: '00:13:13.988'
-      end: '00:13:15.157'
+      start:
+        sec: '793.988'
+        mark: '00:13:13.988'
+      end:
+        sec: '795.157'
+        mark: '00:13:15.157'
       u: Saved...
     - who: David Boder
-      start: '00:13:15.157'
-      end: '00:13:16.840'
+      start:
+        sec: '795.157'
+        mark: '00:13:15.157'
+      end:
+        sec: '796.840'
+        mark: '00:13:16.840'
       u: They run away with you.
     - who: Robert Zeplit
-      start: '00:13:16.840'
-      end: '00:13:20.396'
+      start:
+        sec: '796.840'
+        mark: '00:13:16.840'
+      end:
+        sec: '800.396'
+        mark: '00:13:20.396'
       u: Run away with me. But I wasn’t together with them; I was alone.
     - who: David Boder
-      start: '00:13:20.396'
-      end: '00:13:22.834'
+      start:
+        sec: '800.396'
+        mark: '00:13:20.396'
+      end:
+        sec: '802.834'
+        mark: '00:13:22.834'
       u: Were they all Latvians?
     - who: Robert Zeplit
-      start: '00:13:22.834'
-      end: '00:13:23.792'
+      start:
+        sec: '802.834'
+        mark: '00:13:22.834'
+      end:
+        sec: '803.792'
+        mark: '00:13:23.792'
       u: All Latvians.
     - who: David Boder
-      start: '00:13:23.792'
-      end: '00:13:30.850'
+      start:
+        sec: '803.792'
+        mark: '00:13:23.792'
+      end:
+        sec: '810.850'
+        mark: '00:13:30.850'
       u: Yes. Nu. So you went eight days in the woods in Estonia. Then what happened?
     - who: Robert Zeplit
-      start: '00:13:30.850'
-      end: '00:13:33.077'
+      start:
+        sec: '810.850'
+        mark: '00:13:30.850'
+      end:
+        sec: '813.077'
+        mark: '00:13:33.077'
       u: Then came the Germans
     - who: David Boder
-      start: '00:13:33.077'
-      end: '00:13:34.518'
+      start:
+        sec: '813.077'
+        mark: '00:13:33.077'
+      end:
+        sec: '814.518'
+        mark: '00:13:34.518'
       u: That quick?
     - who: Robert Zeplit
-      start: '00:13:34.518'
-      end: '00:13:38.074'
+      start:
+        sec: '814.518'
+        mark: '00:13:34.518'
+      end:
+        sec: '818.074'
+        mark: '00:13:38.074'
       u: Well that was...fourth...yeah.
     - who: David Boder
-      start: '00:13:38.074'
-      end: '00:13:38.971'
+      start:
+        sec: '818.074'
+        mark: '00:13:38.074'
+      end:
+        sec: '818.971'
+        mark: '00:13:38.971'
       u: Oh, uh...
     - who: Robert Zeplit
-      start: '00:13:38.971'
-      end: '00:13:43.282'
+      start:
+        sec: '818.971'
+        mark: '00:13:38.971'
+      end:
+        sec: '823.282'
+        mark: '00:13:43.282'
       u: 1st...July...Germans came to Riga.
     - who: David Boder
-      start: '00:13:43.282'
-      end: '00:13:49.738'
+      start:
+        sec: '823.282'
+        mark: '00:13:43.282'
+      end:
+        sec: '829.738'
+        mark: '00:13:49.738'
       u: That means you have told to go with the ships to Russia when the Russians
         and Germans already started fighting.
     - who: Robert Zeplit
-      start: '00:13:49.738'
-      end: '00:13:50.998'
+      start:
+        sec: '829.738'
+        mark: '00:13:49.738'
+      end:
+        sec: '830.998'
+        mark: '00:13:50.998'
       u: Started...[unintelligible; talking over each other]...
     - who: David Boder
-      start: '00:13:50.998'
-      end: '00:13:56.986'
+      start:
+        sec: '830.998'
+        mark: '00:13:50.998'
+      end:
+        sec: '836.986'
+        mark: '00:13:56.986'
       u: All right, so then...you...and in eight days came the Germans. Then what
         happened?
     - who: Robert Zeplit
-      start: '00:13:56.986'
-      end: '00:13:58.548'
+      start:
+        sec: '836.986'
+        mark: '00:13:56.986'
+      end:
+        sec: '838.548'
+        mark: '00:13:58.548'
       u: Well, I came back to Riga.
     - who: David Boder
-      start: '00:13:58.548'
-      end: '00:13:59.829'
+      start:
+        sec: '838.548'
+        mark: '00:13:58.548'
+      end:
+        sec: '839.829'
+        mark: '00:13:59.829'
       u: Yes.
     - who: Robert Zeplit
-      start: '00:13:59.829'
-      end: '00:14:04.533'
+      start:
+        sec: '839.829'
+        mark: '00:13:59.829'
+      end:
+        sec: '844.533'
+        mark: '00:14:04.533'
       u: In Riga I get job again on the riverboat as captain.
     - who: David Boder
-      start: '00:14:04.533'
-      end: '00:14:06.065'
+      start:
+        sec: '844.533'
+        mark: '00:14:04.533'
+      end:
+        sec: '846.065'
+        mark: '00:14:06.065'
       u: From the Germans now?
     - who: Robert Zeplit
-      start: '00:14:06.065'
-      end: '00:14:08.020'
+      start:
+        sec: '846.065'
+        mark: '00:14:06.065'
+      end:
+        sec: '848.020'
+        mark: '00:14:08.020'
       u: No they was Latvians.
     - who: David Boder
-      start: '00:14:08.020'
-      end: '00:14:14.597'
+      start:
+        sec: '848.020'
+        mark: '00:14:08.020'
+      end:
+        sec: '854.597'
+        mark: '00:14:14.597'
       u: They were Latvians...for the start. Tell me what did the Germans do when
         they came to Latvia?
     - who: Robert Zeplit
-      start: '00:14:14.597'
-      end: '00:14:21.990'
+      start:
+        sec: '854.597'
+        mark: '00:14:14.597'
+      end:
+        sec: '861.990'
+        mark: '00:14:21.990'
       u: Well, we expect it will be better but after they start out the same as the
         Russians did.
     - who: David Boder
-      start: '00:14:21.990'
-      end: '00:14:23.914'
+      start:
+        sec: '861.990'
+        mark: '00:14:21.990'
+      end:
+        sec: '863.914'
+        mark: '00:14:23.914'
       u: What did they do?
     - who: Robert Zeplit
-      start: '00:14:23.914'
-      end: '00:14:34.116'
+      start:
+        sec: '863.914'
+        mark: '00:14:23.914'
+      end:
+        sec: '874.116'
+        mark: '00:14:34.116'
       u: Well they force us to do such work we dislike and we never had free hands
         to pick out the job what kind of we want
     - who: David Boder
-      start: '00:14:34.116'
-      end: '00:14:38.699'
+      start:
+        sec: '874.116'
+        mark: '00:14:34.116'
+      end:
+        sec: '878.699'
+        mark: '00:14:38.699'
       u: Yes. What did the Germans do with the Jews in that place?
     - who: Robert Zeplit
-      start: '00:14:38.699'
-      end: '00:14:43.675'
+      start:
+        sec: '878.699'
+        mark: '00:14:38.699'
+      end:
+        sec: '883.675'
+        mark: '00:14:43.675'
       u: Well, they did the same what they did here in Germany.
     - who: David Boder
-      start: '00:14:43.675'
-      end: '00:14:45.237'
+      start:
+        sec: '883.675'
+        mark: '00:14:43.675'
+      end:
+        sec: '885.237'
+        mark: '00:14:45.237'
       u: Yes.
     - who: Robert Zeplit
-      start: '00:14:45.237'
-      end: '00:14:55.832'
+      start:
+        sec: '885.237'
+        mark: '00:14:45.237'
+      end:
+        sec: '895.832'
+        mark: '00:14:55.832'
       u: They arrested them, sent to concentration camps. And telling the truth, there
         was many shot.
     - who: David Boder
-      start: '00:14:55.832'
-      end: '00:15:00.204'
+      start:
+        sec: '895.832'
+        mark: '00:14:55.832'
+      end:
+        sec: '900.204'
+        mark: '00:15:00.204'
       u: Well many shot—did any one remain alive?
     - who: Robert Zeplit
-      start: '00:15:00.204'
-      end: '00:15:02.914'
+      start:
+        sec: '900.204'
+        mark: '00:15:00.204'
+      end:
+        sec: '902.914'
+        mark: '00:15:02.914'
       u: Oh yes.
     - who: David Boder
-      start: '00:15:02.914'
-      end: '00:15:09.521'
+      start:
+        sec: '902.914'
+        mark: '00:15:02.914'
+      end:
+        sec: '909.521'
+        mark: '00:15:09.521'
       u: Now tell me then again...
     - who: David Boder
-      start: '00:15:09.521'
-      end: '00:15:50.800'
+      start:
+        sec: '909.521'
+        mark: '00:15:09.521'
+      end:
+        sec: '950.800'
+        mark: '00:15:50.800'
       u: This is Spool 9-139B which has come as so often to an abrupt end because
         we were running these spool sometimes until the last inch of wire. The continuation
         is, if I’m not mistaken, on Spool 9-140. Boder. That can be checked from the
         index book. November the 1st, 1949. This is a reproduction for the U.S. Public
         Health Service.
     - who: Shirley Clifford
-      start: '00:15:50.800'
-      end: '00:16:10.925'
+      start:
+        sec: '950.800'
+        mark: '00:15:50.800'
+      end:
+        sec: '970.925'
+        mark: '00:16:10.925'
       u: This is Spool 9-140A, a continuation of Spool 9-139B. Captain Zeplit. October
         16th, 1950. Shirley Clifford.
     - who: David Boder
-      start: '00:16:10.925'
-      end: '00:16:29.799'
+      start:
+        sec: '970.925'
+        mark: '00:16:10.925'
+      end:
+        sec: '989.799'
+        mark: '00:16:29.799'
       u: Munich, September the 21st 1946 at Lohengrin camp, a Latvian and Estonian
         camp of about two thousand people. The interviewee is Captain Robert Zeplit
         a seaman who lived in the United States for about sixteen years and we have
         the good opportunity to interview him in English.
     - who: David Boder
-      start: '00:16:29.799'
-      end: '00:16:41.124'
+      start:
+        sec: '989.799'
+        mark: '00:16:29.799'
+      end:
+        sec: '1001.124'
+        mark: '00:16:41.124'
       u: Also...um...Captain Zeplit you say that the cooperation of Germans with...[correction]
         the Latvians with the Germans was in most cases not voluntary.
     - who: Robert Zeplit
-      start: '00:16:41.124'
-      end: '00:17:00.281'
+      start:
+        sec: '1001.124'
+        mark: '00:16:41.124'
+      end:
+        sec: '1020.281'
+        mark: '00:17:00.281'
       u: Not voluntary because Germans is old enemies for generations. But we was
         forced from both sides this small nation from one side from the Russians the
         other from the Germans. We wasn’t able to do nothing what the Germans told
         us...was bound to do.
     - who: David Boder
-      start: '00:17:00.281'
-      end: '00:17:05.274'
+      start:
+        sec: '1020.281'
+        mark: '00:17:00.281'
+      end:
+        sec: '1025.274'
+        mark: '00:17:05.274'
       u: Well, but, who managed the city who were the polizei?
     - who: Robert Zeplit
-      start: '00:17:05.274'
-      end: '00:17:15.567'
+      start:
+        sec: '1025.274'
+        mark: '00:17:05.274'
+      end:
+        sec: '1035.567'
+        mark: '00:17:15.567'
       u: They was all Germans. Germans was the head ones but the Latvians was taken
         on the job as police and...
     - who: David Boder
-      start: '00:17:15.567'
-      end: '00:17:15.830'
+      start:
+        sec: '1035.567'
+        mark: '00:17:15.567'
+      end:
+        sec: '1035.830'
+        mark: '00:17:15.830'
       u: ". . . so on."
     - who: Robert Zeplit
-      start: '00:17:15.830'
-      end: '00:17:19.718'
+      start:
+        sec: '1035.830'
+        mark: '00:17:15.830'
+      end:
+        sec: '1039.718'
+        mark: '00:17:19.718'
       u: ". . . some in other place. Directions they get from Germans."
     - who: David Boder
-      start: '00:17:19.718'
-      end: '00:17:26.023'
+      start:
+        sec: '1039.718'
+        mark: '00:17:19.718'
+      end:
+        sec: '1046.023'
+        mark: '00:17:26.023'
       u: All right, then what happened when the Germans stayed on? What happened to
         you?
     - who: Robert Zeplit
-      start: '00:17:26.023'
-      end: '00:17:34.808'
+      start:
+        sec: '1046.023'
+        mark: '00:17:26.023'
+      end:
+        sec: '1054.808'
+        mark: '00:17:34.808'
       u: Well, I was captain on board a riverboat.
     - who: David Boder
-      start: '00:17:34.808'
-      end: '00:17:35.977'
+      start:
+        sec: '1054.808'
+        mark: '00:17:34.808'
+      end:
+        sec: '1055.977'
+        mark: '00:17:35.977'
       u: On what river did the boat go?
     - who: Robert Zeplit
-      start: '00:17:35.977'
-      end: '00:17:41.859'
+      start:
+        sec: '1055.977'
+        mark: '00:17:35.977'
+      end:
+        sec: '1061.859'
+        mark: '00:17:41.859'
       u: Dvina. Well, she was sea-going ship too. And uh...
     - who: David Boder
-      start: '00:17:41.859'
-      end: '00:17:43.300'
+      start:
+        sec: '1061.859'
+        mark: '00:17:41.859'
+      end:
+        sec: '1063.300'
+        mark: '00:17:43.300'
       u: What was the name of the ship?
     - who: Robert Zeplit
-      start: '00:17:43.300'
-      end: '00:17:45.587'
+      start:
+        sec: '1063.300'
+        mark: '00:17:43.300'
+      end:
+        sec: '1065.587'
+        mark: '00:17:45.587'
       u: "‘R’ - the letter ‘R’. [?]"
     - who: David Boder
-      start: '00:17:45.587'
-      end: '00:17:46.273'
+      start:
+        sec: '1065.587'
+        mark: '00:17:45.587'
+      end:
+        sec: '1066.273'
+        mark: '00:17:46.273'
       u: "‘R?’"
     - who: Robert Zeplit
-      start: '00:17:46.273'
-      end: '00:17:47.261'
+      start:
+        sec: '1066.273'
+        mark: '00:17:46.273'
+      end:
+        sec: '1067.261'
+        mark: '00:17:47.261'
       u: "‘R.’"
     - who: David Boder
-      start: '00:17:47.261'
-      end: '00:17:50.515'
+      start:
+        sec: '1067.261'
+        mark: '00:17:47.261'
+      end:
+        sec: '1070.515'
+        mark: '00:17:50.515'
       u: Wasn’t that all the [bottle-hulled?] ships with that letter ‘R?’
     - who: Robert Zeplit
-      start: '00:17:50.515'
-      end: '00:17:58.775'
+      start:
+        sec: '1070.515'
+        mark: '00:17:50.515'
+      end:
+        sec: '1078.775'
+        mark: '00:17:58.775'
       u: No, the ship was built in Sweden special for...river service in Riga.
     - who: David Boder
-      start: '00:17:58.775'
-      end: '00:18:00.005'
+      start:
+        sec: '1078.775'
+        mark: '00:17:58.775'
+      end:
+        sec: '1080.005'
+        mark: '00:18:00.005'
       u: All right and you...
     - who: Robert Zeplit
-      start: '00:18:00.005'
-      end: '00:18:06.763'
+      start:
+        sec: '1080.005'
+        mark: '00:18:00.005'
+      end:
+        sec: '1086.763'
+        mark: '00:18:06.763'
       u: ". . . I received orders from the Germans to prepare myself to go to Germany..."
     - who: David Boder
-      start: '00:18:06.763'
-      end: '00:18:07.902'
+      start:
+        sec: '1086.763'
+        mark: '00:18:06.763'
+      end:
+        sec: '1087.902'
+        mark: '00:18:07.902'
       u: When was that?
     - who: Robert Zeplit
-      start: '00:18:07.902'
-      end: '00:18:11.820'
+      start:
+        sec: '1087.902'
+        mark: '00:18:07.902'
+      end:
+        sec: '1091.820'
+        mark: '00:18:11.820'
       u: ". . . in 1944 in 1st October."
     - who: David Boder
-      start: '00:18:11.820'
-      end: '00:18:13.775'
+      start:
+        sec: '1091.820'
+        mark: '00:18:11.820'
+      end:
+        sec: '1093.775'
+        mark: '00:18:13.775'
       u: Oh, that’s from when the Russians came there.
     - who: Robert Zeplit
-      start: '00:18:13.775'
-      end: '00:18:16.183'
+      start:
+        sec: '1093.775'
+        mark: '00:18:13.775'
+      end:
+        sec: '1096.183'
+        mark: '00:18:16.183'
       u: Yeah, when the Russians was...
     - who: David Boder
-      start: '00:18:16.183'
-      end: '00:18:16.506'
+      start:
+        sec: '1096.183'
+        mark: '00:18:16.183'
+      end:
+        sec: '1096.506'
+        mark: '00:18:16.506'
       u: ". . . coming near."
     - who: Robert Zeplit
-      start: '00:18:16.506'
-      end: '00:18:18.733'
+      start:
+        sec: '1096.506'
+        mark: '00:18:16.506'
+      end:
+        sec: '1098.733'
+        mark: '00:18:18.733'
       u: About twenty, twenty-five kilometers from Riga.
     - who: David Boder
-      start: '00:18:18.733'
-      end: '00:18:22.591'
+      start:
+        sec: '1098.733'
+        mark: '00:18:18.733'
+      end:
+        sec: '1102.591'
+        mark: '00:18:22.591'
       u: ". . . from Riga, uh-huh. So they told you to prepare to go to Germany?"
     - who: Robert Zeplit
-      start: '00:18:22.591'
-      end: '00:18:22.763'
+      start:
+        sec: '1102.591'
+        mark: '00:18:22.591'
+      end:
+        sec: '1102.763'
+        mark: '00:18:22.763'
       u: Yes.
     - who: David Boder
-      start: '00:18:22.763'
-      end: '00:18:23.962'
+      start:
+        sec: '1102.763'
+        mark: '00:18:22.763'
+      end:
+        sec: '1103.962'
+        mark: '00:18:23.962'
       u: All right, what did you do?
     - who: Robert Zeplit
-      start: '00:18:23.962'
-      end: '00:18:42.325'
+      start:
+        sec: '1103.962'
+        mark: '00:18:23.962'
+      end:
+        sec: '1122.325'
+        mark: '00:18:42.325'
       u: Well, but I was bringing the ship over to somewhere else. So I never show
         [up?] on the ship for two days and the second night, half past one, German
         police was at my home, took me and my wife, and put in the car and bring me
         to the railroad station. They never told me what and what I can guess for
         what.
     - who: David Boder
-      start: '00:18:42.325'
-      end: '00:18:44.431'
+      start:
+        sec: '1122.325'
+        mark: '00:18:42.325'
+      end:
+        sec: '1124.431'
+        mark: '00:18:44.431'
       u: Yes. What can you guess—what was it?
     - who: Robert Zeplit
-      start: '00:18:44.431'
-      end: '00:18:45.993'
+      start:
+        sec: '1124.431'
+        mark: '00:18:44.431'
+      end:
+        sec: '1125.993'
+        mark: '00:18:45.993'
       u: Because I never show on the ship.
     - who: David Boder
-      start: '00:18:45.993'
-      end: '00:18:49.579'
+      start:
+        sec: '1125.993'
+        mark: '00:18:45.993'
+      end:
+        sec: '1129.579'
+        mark: '00:18:49.579'
       u: Ah, because you didn’t come to the ship. All right, so?
     - who: Robert Zeplit
-      start: '00:18:49.579'
-      end: '00:18:54.917'
+      start:
+        sec: '1129.579'
+        mark: '00:18:49.579'
+      end:
+        sec: '1134.917'
+        mark: '00:18:54.917'
       u: So they sent me to [Liepāja?], we was guarded by 220 men.
     - who: David Boder
-      start: '00:18:54.917'
-      end: '00:18:55.663'
+      start:
+        sec: '1134.917'
+        mark: '00:18:54.917'
+      end:
+        sec: '1135.663'
+        mark: '00:18:55.663'
       u: By the railroad...at the railroad.
     - who: Robert Zeplit
-      start: '00:18:55.663'
-      end: '00:18:56.107'
+      start:
+        sec: '1135.663'
+        mark: '00:18:55.663'
+      end:
+        sec: '1136.107'
+        mark: '00:18:56.107'
       u: By the railroad.
     - who: David Boder
-      start: '00:18:56.107'
-      end: '00:18:58.424'
+      start:
+        sec: '1136.107'
+        mark: '00:18:56.107'
+      end:
+        sec: '1138.424'
+        mark: '00:18:58.424'
       u: By what kind of cars did they ship you?
     - who: Robert Zeplit
-      start: '00:18:58.424'
-      end: '00:18:59.926'
+      start:
+        sec: '1138.424'
+        mark: '00:18:58.424'
+      end:
+        sec: '1139.926'
+        mark: '00:18:59.926'
       u: In box cars.
     - who: David Boder
-      start: '00:18:59.926'
-      end: '00:19:07.222'
+      start:
+        sec: '1139.926'
+        mark: '00:18:59.926'
+      end:
+        sec: '1147.222'
+        mark: '00:19:07.222'
       u: In the box cars—freight cars. You know the American name for that—in freight
         cars. 120 men—was there only men or...
     - who: Robert Zeplit
-      start: '00:19:07.222'
-      end: '00:19:09.207'
+      start:
+        sec: '1147.222'
+        mark: '00:19:07.222'
+      end:
+        sec: '1149.207'
+        mark: '00:19:09.207'
       u: No, there was women and children too.
     - who: David Boder
-      start: '00:19:09.207'
-      end: '00:19:10.286'
+      start:
+        sec: '1149.207'
+        mark: '00:19:09.207'
+      end:
+        sec: '1150.286'
+        mark: '00:19:10.286'
       u: All Latvians?
     - who: Robert Zeplit
-      start: '00:19:10.286'
-      end: '00:19:11.032'
+      start:
+        sec: '1150.286'
+        mark: '00:19:10.286'
+      end:
+        sec: '1151.032'
+        mark: '00:19:11.032'
       u: All Latvians.
     - who: David Boder
-      start: '00:19:11.032'
-      end: '00:19:14.618'
+      start:
+        sec: '1151.032'
+        mark: '00:19:11.032'
+      end:
+        sec: '1154.618'
+        mark: '00:19:14.618'
       u: Yes, all right. From Riga to [Liepāja?] it isn’t long—about six hours?
     - who: Robert Zeplit
-      start: '00:19:14.618'
-      end: '00:19:19.956'
+      start:
+        sec: '1154.618'
+        mark: '00:19:14.618'
+      end:
+        sec: '1159.956'
+        mark: '00:19:19.956'
       u: No. Within more about twelve hours because there wasn’t the traffic so fast
         as...
     - who: David Boder
-      start: '00:19:19.956'
-      end: '00:19:22.666'
+      start:
+        sec: '1159.956'
+        mark: '00:19:19.956'
+      end:
+        sec: '1162.666'
+        mark: '00:19:22.666'
       u: Did they give you something to eat?
     - who: Robert Zeplit
-      start: '00:19:22.666'
-      end: '00:19:28.367'
+      start:
+        sec: '1162.666'
+        mark: '00:19:22.666'
+      end:
+        sec: '1168.367'
+        mark: '00:19:28.367'
       u: No. Not much. What we had with us...
     - who: David Boder
-      start: '00:19:28.367'
-      end: '00:19:31.862'
+      start:
+        sec: '1168.367'
+        mark: '00:19:28.367'
+      end:
+        sec: '1171.862'
+        mark: '00:19:31.862'
       u: You had some provisions. Were you with your wife and children in the...
     - who: Robert Zeplit
-      start: '00:19:31.862'
-      end: '00:19:33.786'
+      start:
+        sec: '1171.862'
+        mark: '00:19:31.862'
+      end:
+        sec: '1173.786'
+        mark: '00:19:33.786'
       u: No I have no children. I was only...
     - who: David Boder
-      start: '00:19:33.786'
-      end: '00:19:34.139'
+      start:
+        sec: '1173.786'
+        mark: '00:19:33.786'
+      end:
+        sec: '1174.139'
+        mark: '00:19:34.139'
       u: Only with you wife.
     - who: Robert Zeplit
-      start: '00:19:34.139'
-      end: '00:19:34.764'
+      start:
+        sec: '1174.139'
+        mark: '00:19:34.139'
+      end:
+        sec: '1174.764'
+        mark: '00:19:34.764'
       u: ". . . with my wife."
     - who: David Boder
-      start: '00:19:34.764'
-      end: '00:19:37.142'
+      start:
+        sec: '1174.764'
+        mark: '00:19:34.764'
+      end:
+        sec: '1177.142'
+        mark: '00:19:37.142'
       u: All right and so?
     - who: Robert Zeplit
-      start: '00:19:37.142'
-      end: '00:19:39.610'
+      start:
+        sec: '1177.142'
+        mark: '00:19:37.142'
+      end:
+        sec: '1179.610'
+        mark: '00:19:39.610'
       u: So in [Liepāja?] we was in camp.
     - who: David Boder
-      start: '00:19:39.610'
-      end: '00:19:42.350'
+      start:
+        sec: '1179.610'
+        mark: '00:19:39.610'
+      end:
+        sec: '1182.350'
+        mark: '00:19:42.350'
       u: Uh huh, for how long?
     - who: Robert Zeplit
-      start: '00:19:42.350'
-      end: '00:19:52.583'
+      start:
+        sec: '1182.350'
+        mark: '00:19:42.350'
+      end:
+        sec: '1192.583'
+        mark: '00:19:52.583'
       u: Three day—four days. Four days. And then sent on a ship to Danzig. From Danzig
         we was loaded...
     - who: David Boder
-      start: '00:19:52.583'
-      end: '00:19:55.474'
+      start:
+        sec: '1192.583'
+        mark: '00:19:52.583'
+      end:
+        sec: '1195.474'
+        mark: '00:19:55.474'
       u: How did you go on the ship—as passengers?
     - who: Robert Zeplit
-      start: '00:19:55.474'
-      end: '00:20:00.601'
+      start:
+        sec: '1195.474'
+        mark: '00:19:55.474'
+      end:
+        sec: '1200.601'
+        mark: '00:20:00.601'
       u: Well the ship was crowded with people. About three thousand people was on
         the ship.
     - who: David Boder
-      start: '00:20:00.601'
-      end: '00:20:03.764'
+      start:
+        sec: '1200.601'
+        mark: '00:20:00.601'
+      end:
+        sec: '1203.764'
+        mark: '00:20:03.764'
       u: And...what was the capacity of such a ship?
     - who: Robert Zeplit
-      start: '00:20:03.764'
-      end: '00:20:07.592'
+      start:
+        sec: '1203.764'
+        mark: '00:20:03.764'
+      end:
+        sec: '1207.592'
+        mark: '00:20:07.592'
       u: Twelve thousand—twelve to fifteen thousand...tons.
     - who: David Boder
-      start: '00:20:07.592'
-      end: '00:20:09.245'
+      start:
+        sec: '1207.592'
+        mark: '00:20:07.592'
+      end:
+        sec: '1209.245'
+        mark: '00:20:09.245'
       u: Tons. Well that was a big ship.
     - who: Robert Zeplit
-      start: '00:20:09.245'
-      end: '00:20:10.112'
+      start:
+        sec: '1209.245'
+        mark: '00:20:09.245'
+      end:
+        sec: '1210.112'
+        mark: '00:20:10.112'
       u: Big ship, yes.
     - who: David Boder
-      start: '00:20:10.112'
-      end: '00:20:12.369'
+      start:
+        sec: '1210.112'
+        mark: '00:20:10.112'
+      end:
+        sec: '1212.369'
+        mark: '00:20:12.369'
       u: All right and where did they have you? On deck? In the cabin...?
     - who: Robert Zeplit
-      start: '00:20:12.369'
-      end: '00:20:17.013'
+      start:
+        sec: '1212.369'
+        mark: '00:20:12.369'
+      end:
+        sec: '1217.013'
+        mark: '00:20:17.013'
       u: No, we the 120 men was separate down below on the ‘tween deck.
     - who: David Boder
-      start: '00:20:17.013'
-      end: '00:20:18.363'
+      start:
+        sec: '1217.013'
+        mark: '00:20:17.013'
+      end:
+        sec: '1218.363'
+        mark: '00:20:18.363'
       u: Ah hah, from the others?
     - who: Robert Zeplit
-      start: '00:20:18.363'
-      end: '00:20:18.716'
+      start:
+        sec: '1218.363'
+        mark: '00:20:18.363'
+      end:
+        sec: '1218.716'
+        mark: '00:20:18.716'
       u: Yes.
     - who: David Boder
-      start: '00:20:18.716'
-      end: '00:20:21.003'
+      start:
+        sec: '1218.716'
+        mark: '00:20:18.716'
+      end:
+        sec: '1221.003'
+        mark: '00:20:21.003'
       u: And who were the other people on the ship?
     - who: Robert Zeplit
-      start: '00:20:21.003'
-      end: '00:20:24.740'
+      start:
+        sec: '1221.003'
+        mark: '00:20:21.003'
+      end:
+        sec: '1224.740'
+        mark: '00:20:24.740'
       u: Well I don’t know they were most pulled from Latvia and...
     - who: David Boder
-      start: '00:20:24.740'
-      end: '00:20:27.238'
+      start:
+        sec: '1224.740'
+        mark: '00:20:24.740'
+      end:
+        sec: '1227.238'
+        mark: '00:20:27.238'
       u: Uh-huh—Latvian people...
     - who: David Boder
-      start: '00:20:27.238'
-      end: '00:20:28.921'
+      start:
+        sec: '1227.238'
+        mark: '00:20:27.238'
+      end:
+        sec: '1228.921'
+        mark: '00:20:28.921'
       u: So the ship—where did the ship go?
     - who: Robert Zeplit
-      start: '00:20:28.921'
-      end: '00:20:30.030'
+      start:
+        sec: '1228.921'
+        mark: '00:20:28.921'
+      end:
+        sec: '1230.030'
+        mark: '00:20:30.030'
       u: To Danzig
     - who: David Boder
-      start: '00:20:30.030'
-      end: '00:20:31.139'
+      start:
+        sec: '1230.030'
+        mark: '00:20:30.030'
+      end:
+        sec: '1231.139'
+        mark: '00:20:31.139'
       u: All right, and what happened then?
     - who: Robert Zeplit
-      start: '00:20:31.139'
-      end: '00:20:36.326'
+      start:
+        sec: '1231.139'
+        mark: '00:20:31.139'
+      end:
+        sec: '1236.326'
+        mark: '00:20:36.326'
       u: Well in Danzig, they sent us to [Stargard?]
     - who: David Boder
-      start: '00:20:36.326'
-      end: '00:20:36.891'
+      start:
+        sec: '1236.326'
+        mark: '00:20:36.326'
+      end:
+        sec: '1236.891'
+        mark: '00:20:36.891'
       u: What’s that?
     - who: Robert Zeplit
-      start: '00:20:36.891'
-      end: '00:20:38.846'
+      start:
+        sec: '1236.891'
+        mark: '00:20:36.891'
+      end:
+        sec: '1238.846'
+        mark: '00:20:38.846'
       u: "[Stargard?], a city in Germany [formerly Poland?]."
     - who: David Boder
-      start: '00:20:38.846'
-      end: '00:20:40.529'
+      start:
+        sec: '1238.846'
+        mark: '00:20:38.846'
+      end:
+        sec: '1240.529'
+        mark: '00:20:40.529'
       u: Yes.
     - who: Robert Zeplit
-      start: '00:20:40.529'
-      end: '00:20:41.336'
+      start:
+        sec: '1240.529'
+        mark: '00:20:40.529'
+      end:
+        sec: '1241.336'
+        mark: '00:20:41.336'
       u: I was...[cuts off]
     - who: David Boder
-      start: '00:20:41.336'
-      end: '00:20:42.686'
+      start:
+        sec: '1241.336'
+        mark: '00:20:41.336'
+      end:
+        sec: '1242.686'
+        mark: '00:20:42.686'
       u: All right, in [Stargard?] what was...
     - who: Robert Zeplit
-      start: '00:20:42.686'
-      end: '00:20:47.541'
+      start:
+        sec: '1242.686'
+        mark: '00:20:42.686'
+      end:
+        sec: '1247.541'
+        mark: '00:20:47.541'
       u: In [Stargard?] they put us the 120 men in concentration camp.
     - who: David Boder
-      start: '00:20:47.541'
-      end: '00:20:49.163'
+      start:
+        sec: '1247.541'
+        mark: '00:20:47.541'
+      end:
+        sec: '1249.163'
+        mark: '00:20:49.163'
       u: Oh, yes.
     - who: Robert Zeplit
-      start: '00:20:49.163'
-      end: '00:20:56.465'
+      start:
+        sec: '1249.163'
+        mark: '00:20:49.163'
+      end:
+        sec: '1256.465'
+        mark: '00:20:56.465'
       u: But the next day I was so lucky I get out through the gate in other long
         side was other camp.
     - who: David Boder
-      start: '00:20:56.465'
-      end: '00:20:56.728'
+      start:
+        sec: '1256.465'
+        mark: '00:20:56.465'
+      end:
+        sec: '1256.728'
+        mark: '00:20:56.728'
       u: Yes.
     - who: Robert Zeplit
-      start: '00:20:56.728'
-      end: '00:21:01.100'
+      start:
+        sec: '1256.728'
+        mark: '00:20:56.728'
+      end:
+        sec: '1261.100'
+        mark: '00:21:01.100'
       u: And I went in other camp and managed to get through the gate.
     - who: David Boder
-      start: '00:21:01.100'
-      end: '00:21:02.239'
+      start:
+        sec: '1261.100'
+        mark: '00:21:01.100'
+      end:
+        sec: '1262.239'
+        mark: '00:21:02.239'
       u: Yes.
     - who: Robert Zeplit
-      start: '00:21:02.239'
-      end: '00:21:15.642'
+      start:
+        sec: '1262.239'
+        mark: '00:21:02.239'
+      end:
+        sec: '1275.642'
+        mark: '00:21:15.642'
       u: So I took the train to check out from the German border to Czechoslovakia
         but there was Germans—same—and I couldn’t get living quarters, let to stay...
     - who: David Boder
-      start: '00:21:15.642'
-      end: '00:21:16.509'
+      start:
+        sec: '1275.642'
+        mark: '00:21:15.642'
+      end:
+        sec: '1276.509'
+        mark: '00:21:16.509'
       u: Where?
     - who: Robert Zeplit
-      start: '00:21:16.509'
-      end: '00:21:17.285'
+      start:
+        sec: '1276.509'
+        mark: '00:21:16.509'
+      end:
+        sec: '1277.285'
+        mark: '00:21:17.285'
       u: In Czechoslovakia.
     - who: David Boder
-      start: '00:21:17.285'
-      end: '00:21:21.143'
+      start:
+        sec: '1277.285'
+        mark: '00:21:17.285'
+      end:
+        sec: '1281.143'
+        mark: '00:21:21.143'
       u: Oh, so you got out from Germany to Czechoslovakia? Did you buy ticket or
         what?
     - who: Robert Zeplit
-      start: '00:21:21.143'
-      end: '00:21:25.031'
+      start:
+        sec: '1281.143'
+        mark: '00:21:21.143'
+      end:
+        sec: '1285.031'
+        mark: '00:21:25.031'
       u: I bought ticket, yeah, because I run out from the concentration camp
     - who: David Boder
-      start: '00:21:25.031'
-      end: '00:21:25.928'
+      start:
+        sec: '1285.031'
+        mark: '00:21:25.031'
+      end:
+        sec: '1285.928'
+        mark: '00:21:25.928'
       u: and your wife?
     - who: Robert Zeplit
-      start: '00:21:25.928'
-      end: '00:21:26.946'
+      start:
+        sec: '1285.928'
+        mark: '00:21:25.928'
+      end:
+        sec: '1286.946'
+        mark: '00:21:26.946'
       u: My wife too.
     - who: David Boder
-      start: '00:21:26.946'
-      end: '00:21:29.958'
+      start:
+        sec: '1286.946'
+        mark: '00:21:26.946'
+      end:
+        sec: '1289.958'
+        mark: '00:21:29.958'
       u: You and your wife ran out? What language do you speak?
     - who: Robert Zeplit
-      start: '00:21:29.958'
-      end: '00:21:31.580'
+      start:
+        sec: '1289.958'
+        mark: '00:21:29.958'
+      end:
+        sec: '1291.580'
+        mark: '00:21:31.580'
       u: Well, I can talk...
     - who: David Boder
-      start: '00:21:31.580'
-      end: '00:21:32.507'
+      start:
+        sec: '1291.580'
+        mark: '00:21:31.580'
+      end:
+        sec: '1292.507'
+        mark: '00:21:32.507'
       u: German?
     - who: Robert Zeplit
-      start: '00:21:32.507'
-      end: '00:21:32.921'
+      start:
+        sec: '1292.507'
+        mark: '00:21:32.507'
+      end:
+        sec: '1292.921'
+        mark: '00:21:32.921'
       u: ". . . German."
     - who: David Boder
-      start: '00:21:32.921'
-      end: '00:21:36.477'
+      start:
+        sec: '1292.921'
+        mark: '00:21:32.921'
+      end:
+        sec: '1296.477'
+        mark: '00:21:36.477'
       u: Ah-hah. So, nobody asked you anything, papers, nothing?
     - who: Robert Zeplit
-      start: '00:21:36.477'
-      end: '00:21:44.232'
+      start:
+        sec: '1296.477'
+        mark: '00:21:36.477'
+      end:
+        sec: '1304.232'
+        mark: '00:21:44.232'
       u: No, through the gate I managed to get one passed through the gate from the
         other camp but through the gate from the concentration camp in the other camp...
     - who: David Boder
-      start: '00:21:44.232'
-      end: '00:21:45.069'
+      start:
+        sec: '1304.232'
+        mark: '00:21:44.232'
+      end:
+        sec: '1305.069'
+        mark: '00:21:45.069'
       u: Yeah.
     - who: Robert Zeplit
-      start: '00:21:45.069'
-      end: '00:21:46.359'
+      start:
+        sec: '1305.069'
+        mark: '00:21:45.069'
+      end:
+        sec: '1306.359'
+        mark: '00:21:46.359'
       u: ". . . I went through the fence."
     - who: David Boder
-      start: '00:21:46.359'
-      end: '00:21:49.009'
+      start:
+        sec: '1306.359'
+        mark: '00:21:46.359'
+      end:
+        sec: '1309.009'
+        mark: '00:21:49.009'
       u: Through the fence? Wasn’t it an electric fence?
     - who: Robert Zeplit
-      start: '00:21:49.009'
-      end: '00:21:49.574'
+      start:
+        sec: '1309.009'
+        mark: '00:21:49.009'
+      end:
+        sec: '1309.574'
+        mark: '00:21:49.574'
       u: No.
     - who: David Boder
-      start: '00:21:49.574'
-      end: '00:21:50.018'
+      start:
+        sec: '1309.574'
+        mark: '00:21:49.574'
+      end:
+        sec: '1310.018'
+        mark: '00:21:50.018'
       u: No.
     - who: David Boder
-      start: '00:21:50.018'
-      end: '00:21:51.610'
+      start:
+        sec: '1310.018'
+        mark: '00:21:50.018'
+      end:
+        sec: '1311.610'
+        mark: '00:21:51.610'
       u: You just went through. You and your wife?
     - who: Robert Zeplit
-      start: '00:21:51.610'
-      end: '00:21:52.084'
+      start:
+        sec: '1311.610'
+        mark: '00:21:51.610'
+      end:
+        sec: '1312.084'
+        mark: '00:21:52.084'
       u: Yeah.
     - who: David Boder
-      start: '00:21:52.084'
-      end: '00:21:52.377'
+      start:
+        sec: '1312.084'
+        mark: '00:21:52.084'
+      end:
+        sec: '1312.377'
+        mark: '00:21:52.377'
       u: Uh huh.
     - who: Robert Zeplit
-      start: '00:21:52.377'
-      end: '00:21:55.480'
+      start:
+        sec: '1312.377'
+        mark: '00:21:52.377'
+      end:
+        sec: '1315.480'
+        mark: '00:21:55.480'
       u: We had a few suitcases with us and...at nighttime.
     - who: David Boder
-      start: '00:21:55.480'
-      end: '00:21:58.794'
+      start:
+        sec: '1315.480'
+        mark: '00:21:55.480'
+      end:
+        sec: '1318.794'
+        mark: '00:21:58.794'
       u: Did anybody of the Nazis help you? Did you...?
     - who: Robert Zeplit
-      start: '00:21:58.794'
-      end: '00:22:01.867'
+      start:
+        sec: '1318.794'
+        mark: '00:21:58.794'
+      end:
+        sec: '1321.867'
+        mark: '00:22:01.867'
       u: Yes they did, Latvians from the other camp help me out.
     - who: David Boder
-      start: '00:22:01.867'
-      end: '00:22:05.634'
+      start:
+        sec: '1321.867'
+        mark: '00:22:01.867'
+      end:
+        sec: '1325.634'
+        mark: '00:22:05.634'
       u: Oh, and the Latvians in the other camps were what? Watchmen?
     - who: Robert Zeplit
-      start: '00:22:05.634'
-      end: '00:22:10.791'
+      start:
+        sec: '1325.634'
+        mark: '00:22:05.634'
+      end:
+        sec: '1330.791'
+        mark: '00:22:10.791'
       u: No. They was...I guess...refuge from...
     - who: David Boder
-      start: '00:22:10.791'
-      end: '00:22:11.809'
+      start:
+        sec: '1330.791'
+        mark: '00:22:10.791'
+      end:
+        sec: '1331.809'
+        mark: '00:22:11.809'
       u: Refugees from Latvia...
     - who: Robert Zeplit
-      start: '00:22:11.809'
-      end: '00:22:12.374'
+      start:
+        sec: '1331.809'
+        mark: '00:22:11.809'
+      end:
+        sec: '1332.374'
+        mark: '00:22:12.374'
       u: From Latvia.
     - who: David Boder
-      start: '00:22:12.374'
-      end: '00:22:16.987'
+      start:
+        sec: '1332.374'
+        mark: '00:22:12.374'
+      end:
+        sec: '1336.987'
+        mark: '00:22:16.987'
       u: All right. And you managed to get away to Czechoslovakia? How many days did
         you travel to Czechoslovakia?
     - who: Robert Zeplit
-      start: '00:22:16.987'
-      end: '00:22:18.549'
+      start:
+        sec: '1336.987'
+        mark: '00:22:16.987'
+      end:
+        sec: '1338.549'
+        mark: '00:22:18.549'
       u: About two and a half days.
     - who: David Boder
-      start: '00:22:18.549'
-      end: '00:22:20.141'
+      start:
+        sec: '1338.549'
+        mark: '00:22:18.549'
+      end:
+        sec: '1340.141'
+        mark: '00:22:20.141'
       u: And nobody touched you on the train?
     - who: Robert Zeplit
-      start: '00:22:20.141'
-      end: '00:22:20.585'
+      start:
+        sec: '1340.141'
+        mark: '00:22:20.141'
+      end:
+        sec: '1340.585'
+        mark: '00:22:20.585'
       u: No.
     - who: David Boder
-      start: '00:22:20.585'
-      end: '00:22:23.386'
+      start:
+        sec: '1340.585'
+        mark: '00:22:20.585'
+      end:
+        sec: '1343.386'
+        mark: '00:22:23.386'
       u: All right. So you came to Czechoslovakia and then what did you do?
     - who: Robert Zeplit
-      start: '00:22:23.386'
-      end: '00:22:25.764'
+      start:
+        sec: '1343.386'
+        mark: '00:22:23.386'
+      end:
+        sec: '1345.764'
+        mark: '00:22:25.764'
       u: I tried to get a job but I couldn’t get...
     - who: David Boder
-      start: '00:22:25.764'
-      end: '00:22:27.779'
+      start:
+        sec: '1345.764'
+        mark: '00:22:25.764'
+      end:
+        sec: '1347.779'
+        mark: '00:22:27.779'
       u: Well the Germans were in Czechoslovakia?
     - who: Robert Zeplit
-      start: '00:22:27.779'
-      end: '00:22:29.824'
+      start:
+        sec: '1347.779'
+        mark: '00:22:27.779'
+      end:
+        sec: '1349.824'
+        mark: '00:22:29.824'
       u: Yes, the Germans was in Czechoslovakia.
     - who: David Boder
-      start: '00:22:29.824'
-      end: '00:22:31.114'
+      start:
+        sec: '1349.824'
+        mark: '00:22:29.824'
+      end:
+        sec: '1351.114'
+        mark: '00:22:31.114'
       u: Did they ask you where you from?
     - who: Robert Zeplit
-      start: '00:22:31.114'
-      end: '00:22:33.492'
+      start:
+        sec: '1351.114'
+        mark: '00:22:31.114'
+      end:
+        sec: '1353.492'
+        mark: '00:22:33.492'
       u: Yeah, I get arrested again in Czechoslovakia...
     - who: David Boder
-      start: '00:22:33.492'
-      end: '00:22:33.876'
+      start:
+        sec: '1353.492'
+        mark: '00:22:33.492'
+      end:
+        sec: '1353.876'
+        mark: '00:22:33.876'
       u: Nu. And then...?
     - who: Robert Zeplit
-      start: '00:22:33.876'
-      end: '00:22:34.985'
+      start:
+        sec: '1353.876'
+        mark: '00:22:33.876'
+      end:
+        sec: '1354.985'
+        mark: '00:22:34.985'
       u: ". . . and put me in a camp."
     - who: David Boder
-      start: '00:22:34.985'
-      end: '00:22:36.387'
+      start:
+        sec: '1354.985'
+        mark: '00:22:34.985'
+      end:
+        sec: '1356.387'
+        mark: '00:22:36.387'
       u: Yes. With your wife?
     - who: Robert Zeplit
-      start: '00:22:36.387'
-      end: '00:22:37.103'
+      start:
+        sec: '1356.387'
+        mark: '00:22:36.387'
+      end:
+        sec: '1357.103'
+        mark: '00:22:37.103'
       u: With my wife.
     - who: David Boder
-      start: '00:22:37.103'
-      end: '00:22:37.487'
+      start:
+        sec: '1357.103'
+        mark: '00:22:37.103'
+      end:
+        sec: '1357.487'
+        mark: '00:22:37.487'
       u: And then?
     - who: Robert Zeplit
-      start: '00:22:37.487'
-      end: '00:22:42.523'
+      start:
+        sec: '1357.487'
+        mark: '00:22:37.487'
+      end:
+        sec: '1362.523'
+        mark: '00:22:42.523'
       u: And from the camp they sent me to [Pishmiel?] they was a factory...a paper
         mill.
     - who: David Boder
-      start: '00:22:42.523'
-      end: '00:22:43.118'
+      start:
+        sec: '1362.523'
+        mark: '00:22:42.523'
+      end:
+        sec: '1363.118'
+        mark: '00:22:43.118'
       u: Yes.
     - who: Robert Zeplit
-      start: '00:22:43.118'
-      end: '00:22:48.849'
+      start:
+        sec: '1363.118'
+        mark: '00:22:43.118'
+      end:
+        sec: '1368.849'
+        mark: '00:22:48.849'
       u: "-as worker. And I was in that place till the liberation day. I was working
         as labor."
     - who: David Boder
-      start: '00:22:48.849'
-      end: '00:22:50.864'
+      start:
+        sec: '1368.849'
+        mark: '00:22:48.849'
+      end:
+        sec: '1370.864'
+        mark: '00:22:50.864'
       u: Uh-huh. And who came to liberate you?
     - who: Robert Zeplit
-      start: '00:22:50.864'
-      end: '00:22:52.094'
+      start:
+        sec: '1370.864'
+        mark: '00:22:50.864'
+      end:
+        sec: '1372.094'
+        mark: '00:22:52.094'
       u: Americans.
     - who: David Boder
-      start: '00:22:52.094'
-      end: '00:22:52.840'
+      start:
+        sec: '1372.094'
+        mark: '00:22:52.094'
+      end:
+        sec: '1372.840'
+        mark: '00:22:52.840'
       u: The Americans did?
     - who: Robert Zeplit
-      start: '00:22:52.840'
-      end: '00:22:53.375'
+      start:
+        sec: '1372.840'
+        mark: '00:22:52.840'
+      end:
+        sec: '1373.375'
+        mark: '00:22:53.375'
       u: The Americans did.
     - who: David Boder
-      start: '00:22:53.375'
-      end: '00:22:59.408'
+      start:
+        sec: '1373.375'
+        mark: '00:22:53.375'
+      end:
+        sec: '1379.408'
+        mark: '00:22:59.408'
       u: All right. Now tell me about the last days before the liberation. What happened
         in the camp?
     - who: Robert Zeplit
-      start: '00:22:59.408'
-      end: '00:23:05.683'
+      start:
+        sec: '1379.408'
+        mark: '00:22:59.408'
+      end:
+        sec: '1385.683'
+        mark: '00:23:05.683'
       u: Well there was all quiet. Because the Germans, the leaders, was long ago
         they disappeared.
     - who: David Boder
-      start: '00:23:05.683'
-      end: '00:23:06.399'
+      start:
+        sec: '1385.683'
+        mark: '00:23:05.683'
+      end:
+        sec: '1386.399'
+        mark: '00:23:06.399'
       u: Yes.
     - who: Robert Zeplit
-      start: '00:23:06.399'
-      end: '00:23:10.166'
+      start:
+        sec: '1386.399'
+        mark: '00:23:06.399'
+      end:
+        sec: '1390.166'
+        mark: '00:23:10.166'
       u: So we was [lately?] in all quiet there wasn’t fighting going around that
         place.
     - who: David Boder
-      start: '00:23:10.166'
-      end: '00:23:10.912'
+      start:
+        sec: '1390.166'
+        mark: '00:23:10.166'
+      end:
+        sec: '1390.912'
+        mark: '00:23:10.912'
       u: Yes.
     - who: Robert Zeplit
-      start: '00:23:10.912'
-      end: '00:23:19.997'
+      start:
+        sec: '1390.912'
+        mark: '00:23:10.912'
+      end:
+        sec: '1399.997'
+        mark: '00:23:19.997'
       u: We was so happy...Then one morning about seven o’clock I guess it was. And
         I see the American troops came here.
     - who: David Boder
-      start: '00:23:19.997'
-      end: '00:23:22.556'
+      start:
+        sec: '1399.997'
+        mark: '00:23:19.997'
+      end:
+        sec: '1402.556'
+        mark: '00:23:22.556'
       u: And then? What happened then?
     - who: Robert Zeplit
-      start: '00:23:22.556'
-      end: '00:23:24.783'
+      start:
+        sec: '1402.556'
+        mark: '00:23:22.556'
+      end:
+        sec: '1404.783'
+        mark: '00:23:24.783'
       u: Well I was still working in the factory.
     - who: David Boder
-      start: '00:23:24.783'
-      end: '00:23:26.043'
+      start:
+        sec: '1404.783'
+        mark: '00:23:24.783'
+      end:
+        sec: '1406.043'
+        mark: '00:23:26.043'
       u: Whose factory was it?
     - who: Robert Zeplit
-      start: '00:23:26.043'
-      end: '00:23:28.511'
+      start:
+        sec: '1406.043'
+        mark: '00:23:26.043'
+      end:
+        sec: '1408.511'
+        mark: '00:23:28.511'
       u: That was Czechoslovakian factory.
     - who: David Boder
-      start: '00:23:28.511'
-      end: '00:23:31.825'
+      start:
+        sec: '1408.511'
+        mark: '00:23:28.511'
+      end:
+        sec: '1411.825'
+        mark: '00:23:31.825'
       u: And they continued working with the Germans? They continued working with...
     - who: Robert Zeplit
-      start: '00:23:31.825'
-      end: '00:23:39.610'
+      start:
+        sec: '1411.825'
+        mark: '00:23:31.825'
+      end:
+        sec: '1419.610'
+        mark: '00:23:39.610'
       u: Yeah, the Americans was therein and I was...integrated...[Boder speaking
         over]...Americans for the repair job.
     - who: David Boder
-      start: '00:23:39.610'
-      end: '00:23:41.716'
+      start:
+        sec: '1419.610'
+        mark: '00:23:39.610'
+      end:
+        sec: '1421.716'
+        mark: '00:23:41.716'
       u: Uh-huh. What kind of a factory was it?
     - who: Robert Zeplit
-      start: '00:23:41.716'
-      end: '00:23:42.704'
+      start:
+        sec: '1421.716'
+        mark: '00:23:41.716'
+      end:
+        sec: '1422.704'
+        mark: '00:23:42.704'
       u: Paper mill.
     - who: David Boder
-      start: '00:23:42.704'
-      end: '00:23:44.477'
+      start:
+        sec: '1422.704'
+        mark: '00:23:42.704'
+      end:
+        sec: '1424.477'
+        mark: '00:23:44.477'
       u: A paper mill and you continued working?
     - who: Robert Zeplit
-      start: '00:23:44.477'
-      end: '00:23:45.072'
+      start:
+        sec: '1424.477'
+        mark: '00:23:44.477'
+      end:
+        sec: '1425.072'
+        mark: '00:23:45.072'
       u: "[I] continued working."
     - who: David Boder
-      start: '00:23:45.072'
-      end: '00:23:50.138'
+      start:
+        sec: '1425.072'
+        mark: '00:23:45.072'
+      end:
+        sec: '1430.138'
+        mark: '00:23:50.138'
       u: All right. Well, didn’t the...weren’t the engineers and the others, weren’t
         they Germans?
     - who: Robert Zeplit
-      start: '00:23:50.138'
-      end: '00:24:10.402'
+      start:
+        sec: '1430.138'
+        mark: '00:23:50.138'
+      end:
+        sec: '1450.402'
+        mark: '00:24:10.402'
       u: No, the Germans was but during week time there came Czechs and the Germans
         get arrested, one other arrested and one other...gritty job and I don’t know
         how the change was but in short time the factory was in Czech hands.
     - who: David Boder
-      start: '00:24:10.402'
-      end: '00:24:14.532'
+      start:
+        sec: '1450.402'
+        mark: '00:24:10.402'
+      end:
+        sec: '1454.532'
+        mark: '00:24:14.532'
       u: All right. And so how long were you staying in Czechoslovakia?
     - who: Robert Zeplit
-      start: '00:24:14.532'
-      end: '00:24:27.816'
+      start:
+        sec: '1454.532'
+        mark: '00:24:14.532'
+      end:
+        sec: '1467.816'
+        mark: '00:24:27.816'
       u: I stay until it was July...in August month. I came to this Lohengrin camp,
         the Americans sent me out from Czechoslovakia the twenty...no, the 6th September.
     - who: David Boder
-      start: '00:24:27.816'
-      end: '00:24:29.015'
+      start:
+        sec: '1467.816'
+        mark: '00:24:27.816'
+      end:
+        sec: '1469.015'
+        mark: '00:24:29.015'
       u: Of what year?
     - who: Robert Zeplit
-      start: '00:24:29.015'
-      end: '00:24:30.668'
+      start:
+        sec: '1469.015'
+        mark: '00:24:29.015'
+      end:
+        sec: '1470.668'
+        mark: '00:24:30.668'
       u: Last year.
     - who: David Boder
-      start: '00:24:30.668'
-      end: '00:24:31.475'
+      start:
+        sec: '1470.668'
+        mark: '00:24:30.668'
+      end:
+        sec: '1471.475'
+        mark: '00:24:31.475'
       u: A year ago?
     - who: Robert Zeplit
-      start: '00:24:31.475'
-      end: '00:24:32.312'
+      start:
+        sec: '1471.475'
+        mark: '00:24:31.475'
+      end:
+        sec: '1472.312'
+        mark: '00:24:32.312'
       u: Year ago.
     - who: David Boder
-      start: '00:24:32.312'
-      end: '00:24:34.508'
+      start:
+        sec: '1472.312'
+        mark: '00:24:32.312'
+      end:
+        sec: '1474.508'
+        mark: '00:24:34.508'
       u: And now you are already a year in Lohengrin camp?
     - who: Robert Zeplit
-      start: '00:24:34.508'
-      end: '00:24:35.496'
+      start:
+        sec: '1474.508'
+        mark: '00:24:34.508'
+      end:
+        sec: '1475.496'
+        mark: '00:24:35.496'
       u: That’s right.
     - who: David Boder
-      start: '00:24:35.496'
-      end: '00:24:36.937'
+      start:
+        sec: '1475.496'
+        mark: '00:24:35.496'
+      end:
+        sec: '1476.937'
+        mark: '00:24:36.937'
       u: Uh-huh. And your wife is with you?
     - who: Robert Zeplit
-      start: '00:24:36.937'
-      end: '00:24:37.864'
+      start:
+        sec: '1476.937'
+        mark: '00:24:36.937'
+      end:
+        sec: '1477.864'
+        mark: '00:24:37.864'
       u: My wife is with me.
     - who: David Boder
-      start: '00:24:37.864'
-      end: '00:24:42.175'
+      start:
+        sec: '1477.864'
+        mark: '00:24:37.864'
+      end:
+        sec: '1482.175'
+        mark: '00:24:42.175'
       u: Tell me something about Lohengrin camp. What kind of a camp is it?
     - who: Robert Zeplit
-      start: '00:24:42.175'
-      end: '00:24:50.474'
+      start:
+        sec: '1482.175'
+        mark: '00:24:42.175'
+      end:
+        sec: '1490.474'
+        mark: '00:24:50.474'
       u: Well, I’m used to this place, we do our work...[break in tape — begins again
         in German but soon switches to English]
     - who: David Boder
-      start: '00:24:50.474'
-      end: '00:25:06.797'
+      start:
+        sec: '1490.474'
+        mark: '00:24:50.474'
+      end:
+        sec: '1506.797'
+        mark: '00:25:06.797'
       u: ". . . well and here you are a year. Tell me something about the camp. Who
         lives here and how do they live here?"
     - who: Robert Zeplit
-      start: '00:25:06.797'
-      end: '00:25:18.540'
+      start:
+        sec: '1506.797'
+        mark: '00:25:06.797'
+      end:
+        sec: '1518.540'
+        mark: '00:25:18.540'
       u: Well, they are living here Estonians, Latvians, and Lithuanians and some
         of them Russians what do they call “Staad-in-laws” [?]. Well, I like this
         camp very well...
     - who: David Boder
-      start: '00:25:18.540'
-      end: '00:25:23.576'
+      start:
+        sec: '1518.540'
+        mark: '00:25:18.540'
+      end:
+        sec: '1523.576'
+        mark: '00:25:23.576'
       u: Now how do you live here? Now for instance you are with the Latvians. Are
         you in barracks or in rooms?
     - who: Robert Zeplit
-      start: '00:25:23.576'
-      end: '00:25:28.401'
+      start:
+        sec: '1523.576'
+        mark: '00:25:23.576'
+      end:
+        sec: '1528.401'
+        mark: '00:25:28.401'
       u: We are in the...soldier barracks.
     - who: David Boder
-      start: '00:25:28.401'
-      end: '00:25:29.087'
+      start:
+        sec: '1528.401'
+        mark: '00:25:28.401'
+      end:
+        sec: '1529.087'
+        mark: '00:25:29.087'
       u: Yes, and...
     - who: Robert Zeplit
-      start: '00:25:29.087'
-      end: '00:25:35.936'
+      start:
+        sec: '1529.087'
+        mark: '00:25:29.087'
+      end:
+        sec: '1535.936'
+        mark: '00:25:35.936'
       u: We have separate—not separate rooms but in each room we are living about
         from six to ten people.
     - who: David Boder
-      start: '00:25:35.936'
-      end: '00:25:37.196'
+      start:
+        sec: '1535.936'
+        mark: '00:25:35.936'
+      end:
+        sec: '1537.196'
+        mark: '00:25:37.196'
       u: Men and women together?
     - who: Robert Zeplit
-      start: '00:25:37.196'
-      end: '00:25:38.969'
+      start:
+        sec: '1537.196'
+        mark: '00:25:37.196'
+      end:
+        sec: '1538.969'
+        mark: '00:25:38.969'
       u: Men and women together.
     - who: David Boder
-      start: '00:25:38.969'
-      end: '00:25:40.984'
+      start:
+        sec: '1538.969'
+        mark: '00:25:38.969'
+      end:
+        sec: '1540.984'
+        mark: '00:25:40.984'
       u: And how do you separate the families?
     - who: Robert Zeplit
-      start: '00:25:40.984'
-      end: '00:25:54.458'
+      start:
+        sec: '1540.984'
+        mark: '00:25:40.984'
+      end:
+        sec: '1554.458'
+        mark: '00:25:54.458'
       u: Well they separate under sections. They put kind of cardboard between your
         section and so they are separate not in the voice but in the eyes we cannot
         see each other.
     - who: David Boder
-      start: '00:25:54.458'
-      end: '00:25:59.283'
+      start:
+        sec: '1554.458'
+        mark: '00:25:54.458'
+      end:
+        sec: '1559.283'
+        mark: '00:25:59.283'
       u: In the voice...[laughing] In the voice you are together but...
     - who: Robert Zeplit
-      start: '00:25:59.283'
-      end: '00:26:00.603'
+      start:
+        sec: '1559.283'
+        mark: '00:25:59.283'
+      end:
+        sec: '1560.603'
+        mark: '00:26:00.603'
       u: ". . . in the eyes we are separate"
     - who: David Boder
-      start: '00:26:00.603'
-      end: '00:26:07.452'
+      start:
+        sec: '1560.603'
+        mark: '00:26:00.603'
+      end:
+        sec: '1567.452'
+        mark: '00:26:07.452'
       u: Now tell me how do people really live husband and wife of one family and
         another family in one room?
     - who: Robert Zeplit
-      start: '00:26:07.452'
-      end: '00:26:25.530'
+      start:
+        sec: '1567.452'
+        mark: '00:26:07.452'
+      end:
+        sec: '1585.530'
+        mark: '00:26:25.530'
       u: Well, our situation is very difficult to explain to people who have never
         been in such a life but we are satisfied and we believe there will come some
         day we go back to our real life.
     - who: David Boder
-      start: '00:26:25.530'
-      end: '00:26:26.911'
+      start:
+        sec: '1585.530'
+        mark: '00:26:25.530'
+      end:
+        sec: '1586.911'
+        mark: '00:26:26.911'
       u: Now what do you...
     - who: Robert Zeplit
-      start: '00:26:26.911'
-      end: '00:26:37.476'
+      start:
+        sec: '1586.911'
+        mark: '00:26:26.911'
+      end:
+        sec: '1597.476'
+        mark: '00:26:37.476'
       u: We have a patient to wait for we get orders go back to our free Latvia or
         where we gonna be sent.
     - who: David Boder
-      start: '00:26:37.476'
-      end: '00:26:42.331'
+      start:
+        sec: '1597.476'
+        mark: '00:26:37.476'
+      end:
+        sec: '1602.331'
+        mark: '00:26:42.331'
       u: Well is Latvia now Russia again?
     - who: Robert Zeplit
-      start: '00:26:42.331'
-      end: '00:26:43.530'
+      start:
+        sec: '1602.331'
+        mark: '00:26:42.331'
+      end:
+        sec: '1603.530'
+        mark: '00:26:43.530'
       u: No.
     - who: David Boder
-      start: '00:26:43.530'
-      end: '00:26:44.367'
+      start:
+        sec: '1603.530'
+        mark: '00:26:43.530'
+      end:
+        sec: '1604.367'
+        mark: '00:26:44.367'
       u: What is it?
     - who: Robert Zeplit
-      start: '00:26:44.367'
-      end: '00:26:55.023'
+      start:
+        sec: '1604.367'
+        mark: '00:26:44.367'
+      end:
+        sec: '1615.023'
+        mark: '00:26:55.023'
       u: This Russians are only occupied in Lativa but nobody recognized the occupation
         so far I know from the papers.
     - who: David Boder
-      start: '00:26:55.023'
-      end: '00:27:01.600'
+      start:
+        sec: '1615.023'
+        mark: '00:26:55.023'
+      end:
+        sec: '1621.600'
+        mark: '00:27:01.600'
       u: You think America has not recognized the occupation of Latvia by the Russians?
     - who: Robert Zeplit
-      start: '00:27:01.600'
-      end: '00:27:03.494'
+      start:
+        sec: '1621.600'
+        mark: '00:27:01.600'
+      end:
+        sec: '1623.494'
+        mark: '00:27:03.494'
       u: Till now, no.
     - who: David Boder
-      start: '00:27:03.494'
-      end: '00:27:05.267'
+      start:
+        sec: '1623.494'
+        mark: '00:27:03.494'
+      end:
+        sec: '1625.267'
+        mark: '00:27:05.267'
       u: Well, and if Latvia...
     - who: Robert Zeplit
-      start: '00:27:05.267'
-      end: '00:27:06.708'
+      start:
+        sec: '1625.267'
+        mark: '00:27:05.267'
+      end:
+        sec: '1626.708'
+        mark: '00:27:06.708'
       u: Not publicly.
     - who: David Boder
-      start: '00:27:06.708'
-      end: '00:27:13.436'
+      start:
+        sec: '1626.708'
+        mark: '00:27:06.708'
+      end:
+        sec: '1633.436'
+        mark: '00:27:13.436'
       u: No, it isn’t finished there was no peace treaty. So you think that there
         is a chance that Latvia will become again independent?
     - who: Robert Zeplit
-      start: '00:27:13.436'
-      end: '00:27:15.270'
+      start:
+        sec: '1633.436'
+        mark: '00:27:13.436'
+      end:
+        sec: '1635.270'
+        mark: '00:27:15.270'
       u: All can chance can be.
     - who: David Boder
-      start: '00:27:15.270'
-      end: '00:27:18.282'
+      start:
+        sec: '1635.270'
+        mark: '00:27:15.270'
+      end:
+        sec: '1638.282'
+        mark: '00:27:18.282'
       u: All right. Don’t you plan to go to America?
     - who: Robert Zeplit
-      start: '00:27:18.282'
-      end: '00:27:38.773'
+      start:
+        sec: '1638.282'
+        mark: '00:27:18.282'
+      end:
+        sec: '1658.773'
+        mark: '00:27:38.773'
       u: I will be the gladdest man in the world when I will get the day closer when
         I go back across the ocean to[old?] United States because no country in this
         world is so...good for a working man and for living conditions as United States.
     - who: David Boder
-      start: '00:27:38.773'
-      end: '00:27:42.148'
+      start:
+        sec: '1658.773'
+        mark: '00:27:38.773'
+      end:
+        sec: '1662.148'
+        mark: '00:27:42.148'
       u: All right are you trying to get an affidavit?
     - who: Robert Zeplit
-      start: '00:27:42.148'
-      end: '00:27:43.619'
+      start:
+        sec: '1662.148'
+        mark: '00:27:42.148'
+      end:
+        sec: '1663.619'
+        mark: '00:27:43.619'
       u: Yes.
     - who: David Boder
-      start: '00:27:43.619'
-      end: '00:27:51.223'
+      start:
+        sec: '1663.619'
+        mark: '00:27:43.619'
+      end:
+        sec: '1671.223'
+        mark: '00:27:51.223'
       u: To whom have you written? Well I was in Linsdt but it’s long ago and the
         first day when the Americans came...
     - who: David Boder
-      start: '00:27:51.223'
-      end: '00:27:52.996'
+      start:
+        sec: '1671.223'
+        mark: '00:27:51.223'
+      end:
+        sec: '1672.996'
+        mark: '00:27:52.996'
       u: Yes.
     - who: Robert Zeplit
-      start: '00:27:52.996'
-      end: '00:28:07.852'
+      start:
+        sec: '1672.996'
+        mark: '00:27:52.996'
+      end:
+        sec: '1687.852'
+        mark: '00:28:07.852'
       u: And now I gonna wait to the day when they gonna tell us that it’s impossible
         to...go to Latvia.
     - who: David Boder
-      start: '00:28:07.852'
-      end: '00:28:09.716'
+      start:
+        sec: '1687.852'
+        mark: '00:28:07.852'
+      end:
+        sec: '1689.716'
+        mark: '00:28:09.716'
       u: Yes, and then?
     - who: Robert Zeplit
-      start: '00:28:09.716'
-      end: '00:28:17.743'
+      start:
+        sec: '1689.716'
+        mark: '00:28:09.716'
+      end:
+        sec: '1697.743'
+        mark: '00:28:17.743'
       u: Then I will go spend my last days from my life, if I will have the chance,
         in the United States.
     - who: David Boder
-      start: '00:28:17.743'
-      end: '00:28:21.057'
+      start:
+        sec: '1697.743'
+        mark: '00:28:17.743'
+      end:
+        sec: '1701.057'
+        mark: '00:28:21.057'
       u: Well do you have relatives in the United States? Do you have friends there?
     - who: Robert Zeplit
-      start: '00:28:21.057'
-      end: '00:28:22.498'
+      start:
+        sec: '1701.057'
+        mark: '00:28:21.057'
+      end:
+        sec: '1702.498'
+        mark: '00:28:22.498'
       u: No.
     - who: David Boder
-      start: '00:28:22.498'
-      end: '00:28:24.513'
+      start:
+        sec: '1702.498'
+        mark: '00:28:22.498'
+      end:
+        sec: '1704.513'
+        mark: '00:28:24.513'
       u: Well you worked for Standard Oil, didn’t you?
     - who: Robert Zeplit
-      start: '00:28:24.513'
-      end: '00:28:36.558'
+      start:
+        sec: '1704.513'
+        mark: '00:28:24.513'
+      end:
+        sec: '1716.558'
+        mark: '00:28:36.558'
       u: I worked for City Service Oil Company, Standard Oil Texas Company and I was
         for four and half years in [Aronimink?] Gulf Club.
     - who: David Boder
-      start: '00:28:36.558'
-      end: '00:28:37.365'
+      start:
+        sec: '1716.558'
+        mark: '00:28:36.558'
+      end:
+        sec: '1717.365'
+        mark: '00:28:37.365'
       u: Golf...
     - who: Robert Zeplit
-      start: '00:28:37.365'
-      end: '00:28:38.746'
+      start:
+        sec: '1717.365'
+        mark: '00:28:37.365'
+      end:
+        sec: '1718.746'
+        mark: '00:28:38.746'
       u: Golf club. It’s twenty miles...
     - who: David Boder
-      start: '00:28:38.746'
-      end: '00:28:40.006'
+      start:
+        sec: '1718.746'
+        mark: '00:28:38.746'
+      end:
+        sec: '1720.006'
+        mark: '00:28:40.006'
       u: What is it a Golf club?
     - who: Robert Zeplit
-      start: '00:28:40.006'
-      end: '00:28:40.420'
+      start:
+        sec: '1720.006'
+        mark: '00:28:40.006'
+      end:
+        sec: '1720.420'
+        mark: '00:28:40.420'
       u: Yes.
     - who: David Boder
-      start: '00:28:40.420'
-      end: '00:28:41.529'
+      start:
+        sec: '1720.420'
+        mark: '00:28:40.420'
+      end:
+        sec: '1721.529'
+        mark: '00:28:41.529'
       u: What were you doing there?
     - who: Robert Zeplit
-      start: '00:28:41.529'
-      end: '00:28:48.773'
+      start:
+        sec: '1721.529'
+        mark: '00:28:41.529'
+      end:
+        sec: '1728.773'
+        mark: '00:28:48.773'
       u: Well I was engineer and I was watchman on...all kind of work.
     - who: David Boder
-      start: '00:28:48.773'
-      end: '00:28:51.664'
+      start:
+        sec: '1728.773'
+        mark: '00:28:48.773'
+      end:
+        sec: '1731.664'
+        mark: '00:28:51.664'
       u: Well don’t you remember any people who knew you there?
     - who: Robert Zeplit
-      start: '00:28:51.664'
-      end: '00:28:53.558'
+      start:
+        sec: '1731.664'
+        mark: '00:28:51.664'
+      end:
+        sec: '1733.558'
+        mark: '00:28:53.558'
       u: I remember very well.
     - who: David Boder
-      start: '00:28:53.558'
-      end: '00:28:55.120'
+      start:
+        sec: '1733.558'
+        mark: '00:28:53.558'
+      end:
+        sec: '1735.120'
+        mark: '00:28:55.120'
       u: Couldn’t you write to them?
     - who: Robert Zeplit
-      start: '00:28:55.120'
-      end: '00:29:02.845'
+      start:
+        sec: '1735.120'
+        mark: '00:28:55.120'
+      end:
+        sec: '1742.845'
+        mark: '00:29:02.845'
       u: I can write but I don’t think the people can help me much in this situation
         we are now DPs.
     - who: David Boder
-      start: '00:29:02.845'
-      end: '00:29:06.340'
+      start:
+        sec: '1742.845'
+        mark: '00:29:02.845'
+      end:
+        sec: '1746.340'
+        mark: '00:29:06.340'
       u: Why couldn’t they help you?
     - who: Robert Zeplit
-      start: '00:29:06.340'
-      end: '00:29:08.446'
+      start:
+        sec: '1746.340'
+        mark: '00:29:06.340'
+      end:
+        sec: '1748.446'
+        mark: '00:29:08.446'
       u: Well...
     - who: David Boder
-      start: '00:29:08.446'
-      end: '00:29:14.842'
+      start:
+        sec: '1748.446'
+        mark: '00:29:08.446'
+      end:
+        sec: '1754.842'
+        mark: '00:29:14.842'
       u: You worked on American ships, you were sixteen years in America, there should
         be a way, you speak the language. Does your wife speak English?
     - who: Robert Zeplit
-      start: '00:29:14.842'
-      end: '00:29:15.618'
+      start:
+        sec: '1754.842'
+        mark: '00:29:14.842'
+      end:
+        sec: '1755.618'
+        mark: '00:29:15.618'
       u: No.
     - who: David Boder
-      start: '00:29:15.618'
-      end: '00:29:18.177'
+      start:
+        sec: '1755.618'
+        mark: '00:29:15.618'
+      end:
+        sec: '1758.177'
+        mark: '00:29:18.177'
       u: No. Where did you marry? In Latvia?
     - who: Robert Zeplit
-      start: '00:29:18.177'
-      end: '00:29:20.645'
+      start:
+        sec: '1758.177'
+        mark: '00:29:18.177'
+      end:
+        sec: '1760.645'
+        mark: '00:29:20.645'
       u: I married 1942.
     - who: David Boder
-      start: '00:29:20.645'
-      end: '00:29:21.995'
+      start:
+        sec: '1760.645'
+        mark: '00:29:20.645'
+      end:
+        sec: '1761.995'
+        mark: '00:29:21.995'
       u: Oh, you married that late in life.
     - who: Robert Zeplit
-      start: '00:29:21.995'
-      end: '00:29:24.342'
+      start:
+        sec: '1761.995'
+        mark: '00:29:21.995'
+      end:
+        sec: '1764.342'
+        mark: '00:29:24.342'
       u: That late.
     - who: David Boder
-      start: '00:29:24.342'
-      end: '00:29:44.756'
+      start:
+        sec: '1764.342'
+        mark: '00:29:24.342'
+      end:
+        sec: '1784.756'
+        mark: '00:29:44.756'
       u: Well Captain Zeplit that was a very important and valuable story you have
         told me. I would like to talk yet to other Latvians if we have time. I hope
         you get somehow settled in Latvia or in the States. Anything you want to say
         yet more?
     - who: Robert Zeplit
-      start: '00:29:44.756'
-      end: '00:29:57.043'
+      start:
+        sec: '1784.756'
+        mark: '00:29:44.756'
+      end:
+        sec: '1797.043'
+        mark: '00:29:57.043'
       u: Well, maybe somebody in United States will listen this then remember old
         “Bob” especially in Aronimink Golf Club and maybe these...
     - who: David Boder
-      start: '00:29:57.043'
-      end: '00:29:58.816'
+      start:
+        sec: '1797.043'
+        mark: '00:29:57.043'
+      end:
+        sec: '1798.816'
+        mark: '00:29:58.816'
       u: In what city was that golf club?
     - who: Robert Zeplit
-      start: '00:29:58.816'
-      end: '00:30:01.314'
+      start:
+        sec: '1798.816'
+        mark: '00:29:58.816'
+      end:
+        sec: '1801.314'
+        mark: '00:30:01.314'
       u: In Philadelphia, twenty miles south from Philadelphia.
     - who: David Boder
-      start: '00:30:01.314'
-      end: '00:30:03.752'
+      start:
+        sec: '1801.314'
+        mark: '00:30:01.314'
+      end:
+        sec: '1803.752'
+        mark: '00:30:03.752'
       u: What was the name of the Golf Club?
     - who: Robert Zeplit
-      start: '00:30:03.752'
-      end: '00:30:04.619'
+      start:
+        sec: '1803.752'
+        mark: '00:30:03.752'
+      end:
+        sec: '1804.619'
+        mark: '00:30:04.619'
       u: Aronimink.
     - who: David Boder
-      start: '00:30:04.619'
-      end: '00:30:05.637'
+      start:
+        sec: '1804.619'
+        mark: '00:30:04.619'
+      end:
+        sec: '1805.637'
+        mark: '00:30:05.637'
       u: Aronimink?
     - who: Robert Zeplit
-      start: '00:30:05.637'
-      end: '00:30:07.048'
+      start:
+        sec: '1805.637'
+        mark: '00:30:05.637'
+      end:
+        sec: '1807.048'
+        mark: '00:30:07.048'
       u: Aronimink.
     - who: David Boder
-      start: '00:30:07.048'
-      end: '00:30:09.395'
+      start:
+        sec: '1807.048'
+        mark: '00:30:07.048'
+      end:
+        sec: '1809.395'
+        mark: '00:30:09.395'
       u: Who were the members of this?
     - who: Robert Zeplit
-      start: '00:30:09.395'
-      end: '00:30:13.344'
+      start:
+        sec: '1809.395'
+        mark: '00:30:09.395'
+      end:
+        sec: '1813.344'
+        mark: '00:30:13.344'
       u: Many...Michael O’Connor.
     - who: David Boder
-      start: '00:30:13.344'
-      end: '00:30:16.658'
+      start:
+        sec: '1813.344'
+        mark: '00:30:13.344'
+      end:
+        sec: '1816.658'
+        mark: '00:30:16.658'
       u: "[mumbling] golf club. Michael O’Conner."
     - who: Robert Zeplit
-      start: '00:30:16.658'
-      end: '00:30:19.277'
+      start:
+        sec: '1816.658'
+        mark: '00:30:16.658'
+      end:
+        sec: '1819.277'
+        mark: '00:30:19.277'
       u: Michael, that’s what they called him, Michael...
     - who: David Boder
-      start: '00:30:19.277'
-      end: '00:30:20.386'
+      start:
+        sec: '1819.277'
+        mark: '00:30:19.277'
+      end:
+        sec: '1820.386'
+        mark: '00:30:20.386'
       u: O-Conner.
     - who: Robert Zeplit
-      start: '00:30:20.386'
-      end: '00:30:21.465'
+      start:
+        sec: '1820.386'
+        mark: '00:30:20.386'
+      end:
+        sec: '1821.465'
+        mark: '00:30:21.465'
       u: O’Conner.
     - who: David Boder
-      start: '00:30:21.465'
-      end: '00:30:25.474'
+      start:
+        sec: '1821.465'
+        mark: '00:30:21.465'
+      end:
+        sec: '1825.474'
+        mark: '00:30:25.474'
       u: All right. Yes. Nu, go ahead.
     - who: Robert Zeplit
-      start: '00:30:25.474'
-      end: '00:30:33.018'
+      start:
+        sec: '1825.474'
+        mark: '00:30:25.474'
+      end:
+        sec: '1833.018'
+        mark: '00:30:33.018'
       u: And if somebody as I told, somebody gonna hear this they remember old Bob
         and maybe some days we gonna see again.
     - who: David Boder
-      start: '00:30:33.018'
-      end: '00:30:57.189'
+      start:
+        sec: '1833.018'
+        mark: '00:30:33.018'
+      end:
+        sec: '1857.189'
+        mark: '00:30:57.189'
       u: All right, old Bob...Thank you very much Captain Zeplit, this concludes at
         fourteen minutes the interview with Captain Robert Zeplit which we started
         twenty minutes of spool 139. Lohengrin camp for displaced Baltics, Munich,
         Germany September 21, 1946.
     - who: David Boder
-      start: '00:30:57.189'
-      end: '00:33:02.824'
+      start:
+        sec: '1857.189'
+        mark: '00:30:57.189'
+      end:
+        sec: '1982.824'
+        mark: '00:33:02.824'
       u: This concludes transcription Spool 9-140A Captain Zeplit. 9-140B will...[break
         in tape]...to 9-141 the interview with Mrs. Anna Paul given in the book as
         Anna Prest for there is so much to tell. Boder.

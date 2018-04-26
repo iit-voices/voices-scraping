@@ -36,16 +36,28 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:22.545'
-      end: '00:00:26.831'
+      start:
+        sec: '22.545'
+        mark: '00:00:22.545'
+      end:
+        sec: '26.831'
+        mark: '00:00:26.831'
       u: "[In English] Yes, introduce yourself."
     - who: Marcelle Kahn
-      start: '00:00:26.831'
-      end: '00:01:13.059'
+      start:
+        sec: '26.831'
+        mark: '00:00:26.831'
+      end:
+        sec: '73.059'
+        mark: '00:01:13.059'
       u: "[In French] Alors, donne ton nom et quelques détails de ta carrière."
     - who: Abraham Schrameck
-      start: '00:01:13.059'
-      end: '00:06:20.187'
+      start:
+        sec: '73.059'
+        mark: '00:01:13.059'
+      end:
+        sec: '380.187'
+        mark: '00:06:20.187'
       u: Je compte actuellement cinquante ans de vie publique dans mon pays. Vingt-cinq
         ans de carrière administrative et pendant le même temps, de mandat législatif.
         Je n’avais jamais songé dans mon tout jeune âge, fils de modeste négociant
@@ -75,8 +87,12 @@ recording:
         droite qui manifestaient un peu trop publiquement déjà leur haine des institutions
         républicaines. Et lorsque le gouvernement a retiré, j’ai repris donc mon mandat.
     - who: Abraham Schrameck
-      start: '00:06:20.187'
-      end: '00:07:54.725'
+      start:
+        sec: '380.187'
+        mark: '00:06:20.187'
+      end:
+        sec: '474.725'
+        mark: '00:07:54.725'
       u: Faisant partie au Sénat des commissions des finances et de la commission
         de l’aviation, qui me permettait de me rendre compte de la situation dans
         laquelle nous nous trouvions au point de vue de notre défense contre les attaques
@@ -89,8 +105,12 @@ recording:
         pas toujours trouvé, auprès ni du gouvernement ni de l’ensemble même de l’opinion
         publique, le crédit, l’accueil que nos observations auraient dû...[pause]...huh?
     - who: Abraham Schrameck
-      start: '00:07:54.725'
-      end: '00:15:12.694'
+      start:
+        sec: '474.725'
+        mark: '00:07:54.725'
+      end:
+        sec: '912.694'
+        mark: '00:15:12.694'
       u: ". . . justifier, oui. [“pas le mot, mais enfin ça ne fait rien...” parle
         loin de mic] et que malheureusement, l’évènement a démontré que nous étions
         encore au-dessous de la vérité. Nous n’avions jamais cessé de signaler, en
@@ -149,41 +169,69 @@ recording:
         pas à peine connues de nom autrefois, sont mis à ma disposition pour me faciliter
         éventuellement les...des possibilités d’existence."
     - who: Abraham Schrameck
-      start: '00:15:12.694'
-      end: '00:15:19.787'
+      start:
+        sec: '912.694'
+        mark: '00:15:12.694'
+      end:
+        sec: '919.787'
+        mark: '00:15:19.787'
       u: Ca suffit. J’ai répondu à votre question?
     - who: David Boder
-      start: '00:15:19.787'
-      end: '00:15:24.513'
+      start:
+        sec: '919.787'
+        mark: '00:15:19.787'
+      end:
+        sec: '924.513'
+        mark: '00:15:24.513'
       u: "[In English] Yes. I’m thinking of something."
     - who: Abraham Schrameck
-      start: '00:15:24.513'
-      end: '00:15:58.124'
+      start:
+        sec: '924.513'
+        mark: '00:15:24.513'
+      end:
+        sec: '958.124'
+        mark: '00:15:58.124'
       u: "[In French] Pendant ce temps, à Paris où j’avais un appartement, il va sans
         dire que les Allemands ont fait place nette. Il n’y a rien resté de tout ce
         que j’avais, ni d’une bibliothèque, ni de tout ce que j’avais de mes parents,
         depuis plus d’une centaine d’années. Tout a été emporté, et je me suis trouvé
         dénué de tous moyens de recommencer ou de continuer mon ancienne existence."
     - who: David Boder
-      start: '00:15:58.124'
-      end: '00:16:24.529'
+      start:
+        sec: '958.124'
+        mark: '00:15:58.124'
+      end:
+        sec: '984.529'
+        mark: '00:16:24.529'
       u: "[In English] [To interpreter] I want to know if there were many of your
         father’s friends collaborating with Vichy and the Germans."
     - who: Abraham Schrameck
-      start: '00:16:24.529'
-      end: '00:16:36.620'
+      start:
+        sec: '984.529'
+        mark: '00:16:24.529'
+      end:
+        sec: '996.620'
+        mark: '00:16:36.620'
       u: "[In French] Des amis politiques?"
     - who: Abraham Schrameck
-      start: '00:16:36.620'
-      end: '00:17:15.753'
+      start:
+        sec: '996.620'
+        mark: '00:16:36.620'
+      end:
+        sec: '1035.753'
+        mark: '00:17:15.753'
       u: Je n’en vois pas. Ils sont très rares. Il n’y en a même pas. Et voici pourquoi.
         C’est parce que Monsieur Laval, auparavant au Parlement, ne jouissait pas
         déjà d’une très bonne réputation. Il était déjà considéré comme, depuis pas
         mal d’années, comme faisant au Parlement ce qui pouvait être agréable à l’Allemagne.
         On se souvenait qu’à la guerre précédente, il était allé...où c’était?
     - who: Abraham Schrameck
-      start: '00:17:15.753'
-      end: '00:19:11.519'
+      start:
+        sec: '1035.753'
+        mark: '00:17:15.753'
+      end:
+        sec: '1151.519'
+        mark: '00:19:11.519'
       u: ". . . à Quintal pour essayer d’obtenir en faveur des Allemands une paix
         blanche, n’est-ce pas? Et chaque fois que des débats de politique étrangère
         s’établissent...s’instituaient au Parlement, eh bien, il se manifestait anti-britannique,
@@ -199,8 +247,12 @@ recording:
         Maréchal ne se fierait pas à Laval, et puis il s’en débarrasserait aussi promptement
         qu’il le pourrait. Au lieu de ça, il semble qu’il soit laissé complètement...euh..."
     - who: Abraham Schrameck
-      start: '00:19:11.519'
-      end: '00:20:59.882'
+      start:
+        sec: '1151.519'
+        mark: '00:19:11.519'
+      end:
+        sec: '1259.882'
+        mark: '00:20:59.882'
       u: ". . . guidé, inspiré par ce mauvais génie, et...il est bien certain que
         ça n’a pas permis...que ça écartait beaucoup de ceux que connaissait le Maréchal,
         du gouvernement, du Maréchal lui-même et de Vichy. D’ailleurs, ce qui le prouve,
@@ -216,23 +268,35 @@ recording:
         et n’ont aucune fait face aux objectifs que le Maréchal Pétain s’était proposé
         de leur dernière [inintelligible]."
     - who: David Boder
-      start: '00:20:59.882'
-      end: '00:21:34.882'
+      start:
+        sec: '1259.882'
+        mark: '00:20:59.882'
+      end:
+        sec: '1294.882'
+        mark: '00:21:34.882'
       u: "[In English] What I wanted to know is when France was split so to speak
         in two, to what extent were all [Schrameck interrupts with a sneeze] personally
         good or bad to each other? Now for instance, your father was in prison for
         three months. Where did your friends from before, that would have done something
         to get him out and not...[inaudible]? That’s what I mean."
     - who: Louis Kahn
-      start: '00:21:34.882'
-      end: '00:22:00.375'
+      start:
+        sec: '1294.882'
+        mark: '00:21:34.882'
+      end:
+        sec: '1320.375'
+        mark: '00:22:00.375'
       u: "[In French] Le professeur Boder voudrait savoir si, à la suite de la division
         de la France en deux zones, les Français ont eux-mêmes été divisés entre eux.
         Et si en particulier, du fait qu’on vous étiez mis en prison, vos amis se
         détournaient de vous."
     - who: Abraham Schrameck
-      start: '00:22:00.375'
-      end: '00:24:09.959'
+      start:
+        sec: '1320.375'
+        mark: '00:22:00.375'
+      end:
+        sec: '1449.959'
+        mark: '00:24:09.959'
       u: Je ne peux pas dire qu’ils se détournaient de moi. Mais il est certain que
         pour la plupart, à quelques exceptions intéressantes près d’ailleurs, ils
         prenaient beaucoup de précautions et que s’il y a quelques-uns qui sont venus
@@ -252,53 +316,93 @@ recording:
         ces tribulations. Eh bien, il s’en est trouvé tout de même qui ont eu ce courage.
         Et en nombre relativement sérieux.
     - who: David Boder
-      start: '00:24:09.959'
-      end: '00:24:35.349'
+      start:
+        sec: '1449.959'
+        mark: '00:24:09.959'
+      end:
+        sec: '1475.349'
+        mark: '00:24:35.349'
       u: "[In English] Well, Monsieur Schrameck, I did not understand everything you
         said, but you said it so interestingly that I think that the people in America
         and our students would listen to your story with very great interest. Would
         you tell me how old you are?"
     - who: Abraham Schrameck
-      start: '00:24:35.349'
-      end: '00:24:41.473'
+      start:
+        sec: '1475.349'
+        mark: '00:24:35.349'
+      end:
+        sec: '1481.473'
+        mark: '00:24:41.473'
       u: "[In French] Eh bien, j’ai maintenant soixante dix-huit ans."
     - who: David Boder
-      start: '00:24:41.473'
-      end: '00:24:53.761'
+      start:
+        sec: '1481.473'
+        mark: '00:24:41.473'
+      end:
+        sec: '1493.761'
+        mark: '00:24:53.761'
       u: "[In English] Seventy-eight. Well, looks still like a young man."
     - who: Marcelle Kahn
-      start: '00:24:53.761'
-      end: '00:25:46.349'
+      start:
+        sec: '1493.761'
+        mark: '00:24:53.761'
+      end:
+        sec: '1546.349'
+        mark: '00:25:46.349'
       u: When my father was in prison in Pellevoisin, his birthday was celebrated
         with a cake, his seventy-fourth birthday was celebrated with Marx Dormoy,
         with Mandel who has been killed.
     - who: Abraham Schrameck
-      start: '00:25:46.349'
-      end: '00:25:51.243'
+      start:
+        sec: '1546.349'
+        mark: '00:25:46.349'
+      end:
+        sec: '1551.243'
+        mark: '00:25:51.243'
       u: "[In French] L’administrateur, le Président de la chambre, comment il s’appelle?
         Vincent Auriol?"
     - who: Marcelle Kahn
-      start: '00:25:51.243'
-      end: '00:25:58.101'
+      start:
+        sec: '1551.243'
+        mark: '00:25:51.243'
+      end:
+        sec: '1558.101'
+        mark: '00:25:58.101'
       u: Vincent Auriol.
     - who: David Boder
-      start: '00:25:58.101'
-      end: '00:26:00.660'
+      start:
+        sec: '1558.101'
+        mark: '00:25:58.101'
+      end:
+        sec: '1560.66'
+        mark: '00:26:00.660'
       u: "[In English] Well, it takes great courage to celebrate it."
   translation:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:22.545'
-      end: '00:00:26.831'
+      start:
+        sec: '22.545'
+        mark: '00:00:22.545'
+      end:
+        sec: '26.831'
+        mark: '00:00:26.831'
       u: "[In English] Yes, introduce yourself."
     - who: Marcelle Kahn
-      start: '00:00:26.831'
-      end: '00:01:13.059'
+      start:
+        sec: '26.831'
+        mark: '00:00:26.831'
+      end:
+        sec: '73.059'
+        mark: '00:01:13.059'
       u: "[In French] Give your name and some details about your career."
     - who: Abraham Schrameck
-      start: '00:01:13.059'
-      end: '00:06:20.187'
+      start:
+        sec: '73.059'
+        mark: '00:01:13.059'
+      end:
+        sec: '380.187'
+        mark: '00:06:20.187'
       u: "[In French] To date I have done fifty years of public service for my country.
         Twenty-five years of my administrative career and during the same time, elected
         office in the legislature. I never dreamed when I was very young, the son
@@ -350,8 +454,12 @@ recording:
         in the National Assembly who voted for the dissolution of the Third Republic.
         He completed his senatorial mandate in October, 1945.8"
     - who: Abraham Schrameck
-      start: '00:06:20.187'
-      end: '00:07:54.725'
+      start:
+        sec: '380.187'
+        mark: '00:06:20.187'
+      end:
+        sec: '474.725'
+        mark: '00:07:54.725'
       u: As a member of the Senate, on the finance committee and the aviation committee,
         which enabled me to be aware of the situation in which we found ourselves,
         from the standpoint of our defense against potential attacks from Germany
@@ -366,8 +474,12 @@ recording:
         with the government nor even throughout the range of public opinion, the credit,
         the acceptance that our observations should have...[pause]...huh?
     - who: Abraham Schrameck
-      start: '00:07:54.725'
-      end: '00:15:12.694'
+      start:
+        sec: '474.725'
+        mark: '00:07:54.725'
+      end:
+        sec: '912.694'
+        mark: '00:15:12.694'
       u: ". . . justified, yes...[aside off mic: “not the right word, but no matter”].
         And unfortunately, events demonstrated that we were still underestimating
         the truth. We never stopped pointing out in particular the truly excessively
@@ -451,16 +563,28 @@ recording:
         Jews from France who perished during the Holocaust, about one-third were citizens
         of long standing. 8,700 were age 67 or older.15"
     - who: Abraham Schrameck
-      start: '00:15:12.694'
-      end: '00:15:19.787'
+      start:
+        sec: '912.694'
+        mark: '00:15:12.694'
+      end:
+        sec: '919.787'
+        mark: '00:15:19.787'
       u: That’s enough. Did I answer your question?
     - who: David Boder
-      start: '00:15:19.787'
-      end: '00:15:24.513'
+      start:
+        sec: '919.787'
+        mark: '00:15:19.787'
+      end:
+        sec: '924.513'
+        mark: '00:15:24.513'
       u: "[In English] Yes. I’m thinking of something."
     - who: Abraham Schrameck
-      start: '00:15:24.513'
-      end: '00:15:58.124'
+      start:
+        sec: '924.513'
+        mark: '00:15:24.513'
+      end:
+        sec: '958.124'
+        mark: '00:15:58.124'
       u: "[In French] At that time, in Paris where I had an apartment, it goes without
         saying that the Germans made a clean sweep of the place. Nothing remained
         of all my things, not a bookshelf, or anything that once belonged to my parents,
@@ -468,25 +592,41 @@ recording:
         of any means of taking up or continuing my former life.This was but one example
         of the Nazi zeal for lawless plunder and pillage.16"
     - who: David Boder
-      start: '00:15:58.124'
-      end: '00:16:24.529'
+      start:
+        sec: '958.124'
+        mark: '00:15:58.124'
+      end:
+        sec: '984.529'
+        mark: '00:16:24.529'
       u: "[In English] [To interpreter] I want to know if there were many of your
         father’s friends collaborating with Vichy and the Germans."
     - who: Abraham Schrameck
-      start: '00:16:24.529'
-      end: '00:16:36.620'
+      start:
+        sec: '984.529'
+        mark: '00:16:24.529'
+      end:
+        sec: '996.620'
+        mark: '00:16:36.620'
       u: "[In French] Political friends?"
     - who: Abraham Schrameck
-      start: '00:16:36.620'
-      end: '00:17:15.753'
+      start:
+        sec: '996.620'
+        mark: '00:16:36.620'
+      end:
+        sec: '1035.753'
+        mark: '00:17:15.753'
       u: I can’t think of any. They are very rare. There just aren’t any. And here’s
         why. It’s because Mr. Laval, who had previously been in the Parliament, already
         did not have a very good reputation. He was already considered as, for quite
         a few years, as doing in Parliament whatever would be agreeable to Germany.
         He was remembered as having gone, in the last war, to...where was that?
     - who: Abraham Schrameck
-      start: '00:17:15.753'
-      end: '00:19:11.519'
+      start:
+        sec: '1035.753'
+        mark: '00:17:15.753'
+      end:
+        sec: '1151.519'
+        mark: '00:19:11.519'
       u: ". . . to Quintal to try to work out a peaceful solution in favor of the
         Germans, isn’t that right? And each time that we had debates on foreign politics...when
         these debates took place in Parliament, he showed himself to be anti-British,
@@ -504,8 +644,12 @@ recording:
         would get rid of him as quickly as he could. Instead of that, it seems that
         he let himself be completely...uh..."
     - who: Abraham Schrameck
-      start: '00:19:11.519'
-      end: '00:20:59.882'
+      start:
+        sec: '1151.519'
+        mark: '00:19:11.519'
+      end:
+        sec: '1259.882'
+        mark: '00:20:59.882'
       u: ". . . guided, inspired by this evil genius, and...it is very true that this
         did not enable...that this separated many who knew the Maréchal, from the
         government, from the Maréchal himself, and from Vichy. Furthermore, what proves
@@ -528,23 +672,35 @@ recording:
         who surrounded him. The watchwords of the xenophobic and chauvinistic National
         Revolution were, work, family and patriotism.18"
     - who: David Boder
-      start: '00:20:59.882'
-      end: '00:21:34.882'
+      start:
+        sec: '1259.882'
+        mark: '00:20:59.882'
+      end:
+        sec: '1294.882'
+        mark: '00:21:34.882'
       u: "[In English] What I wanted to know is when France was split so to speak
         in two, to what extent were all [Schrameck interrupts with a sneeze] personally
         good or bad to each other? Now for instance, your father was in prison for
         three months. Where did your friends from before, that would have done something
         to get him out and not...[inaudible]? That’s what I mean."
     - who: Louis Kahn
-      start: '00:21:34.882'
-      end: '00:22:00.375'
+      start:
+        sec: '1294.882'
+        mark: '00:21:34.882'
+      end:
+        sec: '1320.375'
+        mark: '00:22:00.375'
       u: "[In French] Professor Boder would like to know if, after France was divided
         into two zones, the French were themselves divided. And if, specifically,
         given the fact that you had been imprisoned, your friends turned away from
         you."
     - who: Abraham Schrameck
-      start: '00:22:00.375'
-      end: '00:24:09.959'
+      start:
+        sec: '1320.375'
+        mark: '00:22:00.375'
+      end:
+        sec: '1449.959'
+        mark: '00:24:09.959'
       u: I cannot say that they turned away from me. But I can definitely say that
         for the most part, with a few interesting exceptions, that they were taking
         lots of precautions, and that if some of them came to see me, well, there
@@ -568,40 +724,68 @@ recording:
         of them.Nevertheless, there were those whose compassion, patriotism and courage
         overcame self-interest, apathy, and fear to extend a helping hand.20
     - who: David Boder
-      start: '00:24:09.959'
-      end: '00:24:35.349'
+      start:
+        sec: '1449.959'
+        mark: '00:24:09.959'
+      end:
+        sec: '1475.349'
+        mark: '00:24:35.349'
       u: "[In English] Well, Monsieur Schrameck, I did not understand everything you
         said, but you said it so interestingly that I think that the people in America
         and our students would listen to your story with very great interest. Would
         you tell me how old you are?"
     - who: Abraham Schrameck
-      start: '00:24:35.349'
-      end: '00:24:41.473'
+      start:
+        sec: '1475.349'
+        mark: '00:24:35.349'
+      end:
+        sec: '1481.473'
+        mark: '00:24:41.473'
       u: "[In French] Well, I’m presently seventy-eight years old."
     - who: David Boder
-      start: '00:24:41.473'
-      end: '00:24:53.761'
+      start:
+        sec: '1481.473'
+        mark: '00:24:41.473'
+      end:
+        sec: '1493.761'
+        mark: '00:24:53.761'
       u: "[In English] Seventy-eight. Well, looks still like a young man."
     - who: Marcelle Kahn
-      start: '00:24:53.761'
-      end: '00:25:46.349'
+      start:
+        sec: '1493.761'
+        mark: '00:24:53.761'
+      end:
+        sec: '1546.349'
+        mark: '00:25:46.349'
       u: When my father was in prison in Pellevoisin, his birthday was celebrated
         with a cake, his seventy-fourth birthday was celebrated with Marx Dormoy,
         with Mandel who has been killed.
     - who: Abraham Schrameck
-      start: '00:25:46.349'
-      end: '00:25:51.243'
+      start:
+        sec: '1546.349'
+        mark: '00:25:46.349'
+      end:
+        sec: '1551.243'
+        mark: '00:25:51.243'
       u: "[In French] The Administrator, the President of the Chamber, what was his
         name? Vincent Auriol?This remark is out of context so it is difficult to know
         why Mr. Schramack asked the question. Vincent Auriol served as president of
         the French Fourth Republic from 1947-1954.21"
     - who: Marcelle Kahn
-      start: '00:25:51.243'
-      end: '00:25:58.101'
+      start:
+        sec: '1551.243'
+        mark: '00:25:51.243'
+      end:
+        sec: '1558.101'
+        mark: '00:25:58.101'
       u: Vincent Auriol.
     - who: David Boder
-      start: '00:25:58.101'
-      end: '00:26:00.660'
+      start:
+        sec: '1558.101'
+        mark: '00:25:58.101'
+      end:
+        sec: '1560.66'
+        mark: '00:26:00.660'
       u: "[In English] Well, it takes great courage to celebrate it."
   commentary:
     text: "<p>Abraham Schramack had a distinguished career as a governmental administrator

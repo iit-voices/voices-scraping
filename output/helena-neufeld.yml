@@ -41,44 +41,76 @@ recording:
     language: ru
     interview:
     - who: David Boder
-      start: '00:00:00.594'
-      end: '00:01:20.208'
+      start:
+        sec: '0.594'
+        mark: '00:00:00.594'
+      end:
+        sec: '80.208'
+        mark: '00:01:20.208'
       u: "[In English] For some reason, the first few words on this spool are missing.
         This is Spool 9-20. In other words, it is a reproduction of the original Spool
         number 20. Boder."
     - who: David Boder
-      start: '00:01:20.208'
-      end: '00:01:35.631'
+      start:
+        sec: '80.208'
+        mark: '00:01:20.208'
+      end:
+        sec: '95.631'
+        mark: '00:01:35.631'
       u: ". . . a young married woman, she understands a bit English, German, and
         Yiddish, but she prefers for fluency to speak Polish. Eh...[unintelligible]
         eh, Mrs. Neufeld..."
     - who: David Boder
-      start: '00:01:35.631'
-      end: '00:01:50.167'
+      start:
+        sec: '95.631'
+        mark: '00:01:35.631'
+      end:
+        sec: '110.167'
+        mark: '00:01:50.167'
       u: "[In Russian] Расскажите мне, откуда вы и [неразборчиво] как вы попали в
         Париж? Говорите по-польски."
     - who: Helena Neufeld
-      start: '00:01:50.167'
-      end: '00:02:09.448'
+      start:
+        sec: '110.167'
+        mark: '00:01:50.167'
+      end:
+        sec: '129.448'
+        mark: '00:02:09.448'
       u: "[In Polish] Byłam w obozie w Belsen w Niemczech do wyzwolenia, potem przyjechałam
         do Paryża, gdzie mam moją rodzinę, jedyną, która pozostała mi przy życiu.
         Ponieważ cała rodzina w Polsce zginęła."
     - who: David Boder
-      start: '00:02:09.448'
-      end: '00:02:11.378'
+      start:
+        sec: '129.448'
+        mark: '00:02:09.448'
+      end:
+        sec: '131.378'
+        mark: '00:02:11.378'
       u: "[In Russian] А где вы родились?"
     - who: Helena Neufeld
-      start: '00:02:11.378'
-      end: '00:02:12.614'
+      start:
+        sec: '131.378'
+        mark: '00:02:11.378'
+      end:
+        sec: '132.614'
+        mark: '00:02:12.614'
       u: "[In Polish] W Warszawie."
     - who: David Boder
-      start: '00:02:12.614'
-      end: '00:02:22.981'
+      start:
+        sec: '132.614'
+        mark: '00:02:12.614'
+      end:
+        sec: '142.981'
+        mark: '00:02:22.981'
       u: "[In Russian] Вы родились в Варшаве и в каком году? Расскажите мне все, что
         случилось в таком времени, как немцы пришли сюда."
     - who: Helena Neufeld
-      start: '00:02:22.981'
-      end: '00:03:38.818'
+      start:
+        sec: '142.981'
+        mark: '00:02:22.981'
+      end:
+        sec: '218.818'
+        mark: '00:03:38.818'
       u: "[In Polish] Kiedy Niemcy przyszli do Warszawy, byłam w Warszawie jeszcze
         krótki czas do października czterdz...trzydziestego dziewiątego roku. W październiku
         przeszłam granicę sowiecko-niemiecką. Pojechałam do Lwowa. Tam mieszkałam
@@ -90,34 +122,58 @@ recording:
         ze Lwowa, nielegalnie, do Warszawy, ponieważ w Warszawie znajdowała się moja
         rodzina."
     - who: David Boder
-      start: '00:03:38.818'
-      end: '00:03:45.331'
+      start:
+        sec: '218.818'
+        mark: '00:03:38.818'
+      end:
+        sec: '225.331'
+        mark: '00:03:45.331'
       u: "[In Russian] Вы говорите, что был погром в Львове?"
     - who: Helena Neufeld
-      start: '00:03:45.331'
-      end: '00:04:21.346'
+      start:
+        sec: '225.331'
+        mark: '00:03:45.331'
+      end:
+        sec: '261.346'
+        mark: '00:04:21.346'
       u: "[In Polish] We Lwowie był pogrom w kilka dni po wkroczeniu Niemców. Pogrom
         był dokonany właściwie nie przez samych Niemców, ale głównie przez Ukraińców...był
         to prawdziwie bestialski pogrom. Ukraińcy, Ukraińcy posługiwali się po prostu
         starym chłopskim systemem. Zabijali pałkami ludzi na śmierć, zabijali dzieci.
         Było wtedy bardzo wiele ofiar wśród Żydów."
     - who: David Boder
-      start: '00:04:21.346'
-      end: '00:04:24.271'
+      start:
+        sec: '261.346'
+        mark: '00:04:21.346'
+      end:
+        sec: '264.271'
+        mark: '00:04:24.271'
       u: "[In Russian] А немцы позволили им этот погром?"
     - who: Helena Neufeld
-      start: '00:04:24.271'
-      end: '00:04:39.603'
+      start:
+        sec: '264.271'
+        mark: '00:04:24.271'
+      end:
+        sec: '279.603'
+        mark: '00:04:39.603'
       u: "[In Polish] Niemcy...to było właściwie zaaranżowane przez Niemców, ale Niemcy
         woleli nie występować jawnie sami, tylko woleli, żeby to wyglądało jako spontaniczny
         odruch Ukraińców."
     - who: David Boder
-      start: '00:04:39.603'
-      end: '00:04:43.206'
+      start:
+        sec: '279.603'
+        mark: '00:04:39.603'
+      end:
+        sec: '283.206'
+        mark: '00:04:43.206'
       u: "[In Russian] А как вы вернулись в Варшаву?"
     - who: Helena Neufeld
-      start: '00:04:43.206'
-      end: '00:05:58.279'
+      start:
+        sec: '283.206'
+        mark: '00:04:43.206'
+      end:
+        sec: '358.279'
+        mark: '00:05:58.279'
       u: "[In Polish] Do Warszawy jechałam właściwie jako Aryjka, jako Polka, katoliczka,
         ale nie miałam żadnych dokumentów, przy czym jestem dosyć podobna do Żydówki,
         więc droga była bardzo niebezpieczna. W Krakowie na dworcu, to było o dwunastej
@@ -131,30 +187,54 @@ recording:
         dzielnicę polską i dostałam się do...dostałam się do getta przez jakąś dziurę
         w murze."
     - who: David Boder
-      start: '00:05:58.279'
-      end: '00:06:01.581'
+      start:
+        sec: '358.279'
+        mark: '00:05:58.279'
+      end:
+        sec: '361.581'
+        mark: '00:06:01.581'
       u: "[In Russian] А вы что, были уже замужем тогда?"
     - who: Helena Neufeld
-      start: '00:06:01.581'
-      end: '00:06:02.380'
+      start:
+        sec: '361.581'
+        mark: '00:06:01.581'
+      end:
+        sec: '362.380'
+        mark: '00:06:02.380'
       u: "[In Polish] Nie, nie byłam zamężna, nie."
     - who: David Boder
-      start: '00:06:02.380'
-      end: '00:06:07.733'
+      start:
+        sec: '362.380'
+        mark: '00:06:02.380'
+      end:
+        sec: '367.733'
+        mark: '00:06:07.733'
       u: "[In Russian] Нет, вы не были замужем. Конечно. А вот в Варшаве вы, значит,
         жили в гетто?"
     - who: Helena Neufeld
-      start: '00:06:07.733'
-      end: '00:06:19.778'
+      start:
+        sec: '367.733'
+        mark: '00:06:07.733'
+      end:
+        sec: '379.778'
+        mark: '00:06:19.778'
       u: "[In Polish] Tak, w Warszawie byłam w getcie od listopada czterdziestego
         pierwszego roku. Przez cały czas, aż do akcji wysiedleńczej."
     - who: David Boder
-      start: '00:06:19.778'
-      end: '00:06:25.175'
+      start:
+        sec: '379.778'
+        mark: '00:06:19.778'
+      end:
+        sec: '385.175'
+        mark: '00:06:25.175'
       u: "[In Russian] Расскажите мне, как была жизнь в варшавском гетто."
     - who: Helena Neufeld
-      start: '00:06:25.175'
-      end: '00:07:24.771'
+      start:
+        sec: '385.175'
+        mark: '00:06:25.175'
+      end:
+        sec: '444.771'
+        mark: '00:07:24.771'
       u: "[In Polish] Kiedy pierwszy raz znalazłam się w getcie, nie mogę opisać,
         jak wstrząsające wrażenie to wywołało na mnie. Od razu natknęłam się na takie
         widoki, z którymi już później się oswoiłam, ale o których nigdy nie mogę zapomnieć.
@@ -165,188 +245,352 @@ recording:
         To był jakiś dziwny świat ludzi z opaskami, ale ludzie ci zachowywali się
         jak normalni, porusza..."
     - who: David Boder
-      start: '00:07:24.771'
-      end: '00:07:29.505'
+      start:
+        sec: '444.771'
+        mark: '00:07:24.771'
+      end:
+        sec: '449.505'
+        mark: '00:07:29.505'
       u: "[In Russian] Ну и как [неразборчиво] в гетто?"
     - who: Helena Neufeld
-      start: '00:07:29.505'
-      end: '00:07:46.570'
+      start:
+        sec: '449.505'
+        mark: '00:07:29.505'
+      end:
+        sec: '466.570'
+        mark: '00:07:46.570'
       u: "[In Polish] W getcie byłam do chwili głównej akcji, to znaczy do lip...do
         dwudziestego drugiego lipca czterdziestego drugiego roku. Następnie przeżyłam
         tą całą akcję."
     - who: David Boder
-      start: '00:07:46.570'
-      end: '00:07:51.694'
+      start:
+        sec: '466.570'
+        mark: '00:07:46.570'
+      end:
+        sec: '471.694'
+        mark: '00:07:51.694'
       u: "[In Russian] Скажите мне, кто была с вами...был ваш отец, мать...где все
         эти были?"
     - who: Helena Neufeld
-      start: '00:07:51.694'
-      end: '00:08:16.508'
+      start:
+        sec: '471.694'
+        mark: '00:07:51.694'
+      end:
+        sec: '496.508'
+        mark: '00:08:16.508'
       u: "[In Polish] Nie, kiedy przyjechałam do Warszawy, ojciec mój już nie żył,
         a brat został zabity przez Niemców. Brat był bardzo wcześnie zabrany, ponieważ
         jeszcze, zdaje się w czterdziestym roku, Niemcy wzięli wielu inteligentów
         żydowskich jako zakładników i później ich rozstrzelali. Tak że byłam z matką
         i z siostrą."
     - who: David Boder
-      start: '00:08:16.508'
-      end: '00:08:23.263'
+      start:
+        sec: '496.508'
+        mark: '00:08:16.508'
+      end:
+        sec: '503.263'
+        mark: '00:08:23.263'
       u: "[In Russian] А где ваш отец был э-э-э...сперва э-э-э...как э-э-э...ваш отец...что...умер
         сперва или что?"
     - who: Helena Neufeld
-      start: '00:08:23.263'
-      end: '00:08:43.676'
+      start:
+        sec: '503.263'
+        mark: '00:08:23.263'
+      end:
+        sec: '523.676'
+        mark: '00:08:43.676'
       u: "[In Polish] Ojciec umarł w parę miesięcy po wybuchu wojny. Dokładnie nie
         wiem, bo byłam we Lwowie. Był bardzo słabym człowiekiem, przeżył bombardowanie
         Warszawy...I w ogóle był człowiekiem bardzo delikatnym i to wszystko, co widział,
         wpływało bardzo źle i pogorszyło to jego stan tak, że umarł w kilka miesięcy
         potem."
     - who: David Boder
-      start: '00:08:43.676'
-      end: '00:08:47.023'
+      start:
+        sec: '523.676'
+        mark: '00:08:43.676'
+      end:
+        sec: '527.023'
+        mark: '00:08:47.023'
       u: "[In Russian] А чем ваш отец занимался? С чего ваша семья жила до войны?"
     - who: Helena Neufeld
-      start: '00:08:47.023'
-      end: '00:08:49.269'
+      start:
+        sec: '527.023'
+        mark: '00:08:47.023'
+      end:
+        sec: '529.269'
+        mark: '00:08:49.269'
       u: "[In Polish] Ojciec był nauczycielem."
     - who: David Boder
-      start: '00:08:49.269'
-      end: '00:08:49.902'
+      start:
+        sec: '529.269'
+        mark: '00:08:49.269'
+      end:
+        sec: '529.902'
+        mark: '00:08:49.902'
       u: "[In Russian] Что?"
     - who: Helena Neufeld
-      start: '00:08:49.902'
-      end: '00:08:51.983'
+      start:
+        sec: '529.902'
+        mark: '00:08:49.902'
+      end:
+        sec: '531.983'
+        mark: '00:08:51.983'
       u: "[In Polish] Ojciec był nauczycielem."
     - who: David Boder
-      start: '00:08:51.983'
-      end: '00:08:55.224'
+      start:
+        sec: '531.983'
+        mark: '00:08:51.983'
+      end:
+        sec: '535.224'
+        mark: '00:08:55.224'
       u: "[In Russian] Это что? Учителем? И что учил?"
     - who: Helena Neufeld
-      start: '00:08:55.224'
-      end: '00:09:02.249'
+      start:
+        sec: '535.224'
+        mark: '00:08:55.224'
+      end:
+        sec: '542.249'
+        mark: '00:09:02.249'
       u: "[In Polish] Ojciec uczył języka polskiego, matematyki w szkołach powszechnych
         dla dzieci żydowskich."
     - who: David Boder
-      start: '00:09:02.249'
-      end: '00:09:06.621'
+      start:
+        sec: '542.249'
+        mark: '00:09:02.249'
+      end:
+        sec: '546.621'
+        mark: '00:09:06.621'
       u: "[In Russian] Ага. А сам он что окончил?"
     - who: Helena Neufeld
-      start: '00:09:06.621'
-      end: '00:09:28.722'
+      start:
+        sec: '546.621'
+        mark: '00:09:06.621'
+      end:
+        sec: '568.722'
+        mark: '00:09:28.722'
       u: "[In Polish] Ojciec mój uczył się na kursach zorganizowanych przez synagogę
         żydowską, dla Żydów, którzy chcieli się uczyć nauk świeckich, a potem zdawał
         egzamin nauczycielski u jakiegoś profesora polskiego. Otrzymał dyplom."
     - who: David Boder
-      start: '00:09:28.722'
-      end: '00:09:32.235'
+      start:
+        sec: '568.722'
+        mark: '00:09:28.722'
+      end:
+        sec: '572.235'
+        mark: '00:09:32.235'
       u: "[In Russian] И он умер, значит, после того, как немцы пришли в Польшу..."
     - who: Helena Neufeld
-      start: '00:09:32.235'
-      end: '00:09:33.004'
+      start:
+        sec: '572.235'
+        mark: '00:09:32.235'
+      end:
+        sec: '573.004'
+        mark: '00:09:33.004'
       u: "[In Polish] Tak, umarł w parę miesięcy po tym."
     - who: David Boder
-      start: '00:09:33.004'
-      end: '00:09:34.406'
+      start:
+        sec: '573.004'
+        mark: '00:09:33.004'
+      end:
+        sec: '574.406'
+        mark: '00:09:34.406'
       u: "[In Russian] Он где умер? В Варшаве?"
     - who: Helena Neufeld
-      start: '00:09:34.406'
-      end: '00:09:35.371'
+      start:
+        sec: '574.406'
+        mark: '00:09:34.406'
+      end:
+        sec: '575.371'
+        mark: '00:09:35.371'
       u: "[In Polish] Tak umarł w Warszawie."
     - who: David Boder
-      start: '00:09:35.371'
-      end: '00:09:38.642'
+      start:
+        sec: '575.371'
+        mark: '00:09:35.371'
+      end:
+        sec: '578.642'
+        mark: '00:09:38.642'
       u: "[In Russian] Ну...а...в гетто он умер?"
     - who: Helena Neufeld
-      start: '00:09:38.642'
-      end: '00:09:40.451'
+      start:
+        sec: '578.642'
+        mark: '00:09:38.642'
+      end:
+        sec: '580.451'
+        mark: '00:09:40.451'
       u: "[In Polish]...jeszcze nie było getta."
     - who: David Boder
-      start: '00:09:40.451'
-      end: '00:09:41.657'
+      start:
+        sec: '580.451'
+        mark: '00:09:40.451'
+      end:
+        sec: '581.657'
+        mark: '00:09:41.657'
       u: Jeszcze nie...
     - who: David Boder
-      start: '00:09:41.657'
-      end: '00:09:46.150'
+      start:
+        sec: '581.657'
+        mark: '00:09:41.657'
+      end:
+        sec: '586.150'
+        mark: '00:09:46.150'
       u: "[In Russian] Ну, значит, вы были в гетто и с кем вы были в гетто?"
     - who: Helena Neufeld
-      start: '00:09:46.150'
-      end: '00:09:49.723'
+      start:
+        sec: '586.150'
+        mark: '00:09:46.150'
+      end:
+        sec: '589.723'
+        mark: '00:09:49.723'
       u: "[In Polish]...z matką, z siostrą i z mężem siostry."
     - who: David Boder
-      start: '00:09:49.723'
-      end: '00:09:51.969'
+      start:
+        sec: '589.723'
+        mark: '00:09:49.723'
+      end:
+        sec: '591.969'
+        mark: '00:09:51.969'
       u: "[In Russian] И где вы жили там?"
     - who: Helena Neufeld
-      start: '00:09:51.969'
-      end: '00:09:55.165'
+      start:
+        sec: '591.969'
+        mark: '00:09:51.969'
+      end:
+        sec: '595.165'
+        mark: '00:09:55.165'
       u: "[In Polish] Myśmy żyli na Nowolipiu w domu..."
     - who: David Boder
-      start: '00:09:55.165'
-      end: '00:09:56.552'
+      start:
+        sec: '595.165'
+        mark: '00:09:55.165'
+      end:
+        sec: '596.552'
+        mark: '00:09:56.552'
       u: "[In Russian] В доме?"
     - who: Helena Neufeld
-      start: '00:09:56.552'
-      end: '00:10:01.979'
+      start:
+        sec: '596.552'
+        mark: '00:09:56.552'
+      end:
+        sec: '601.979'
+        mark: '00:10:01.979'
       u: "[In Polish]...w naszym mieszkaniu, ponieważ to mieszka...Nowolipie należało
         do getta."
     - who: David Boder
-      start: '00:10:01.979'
-      end: '00:10:07.467'
+      start:
+        sec: '601.979'
+        mark: '00:10:01.979'
+      end:
+        sec: '607.467'
+        mark: '00:10:07.467'
       u: "[In Russian] А...значит, вы остались в своем доме, потому что [неразборчиво]
         сделали часть гетто. Хорошо."
     - who: Helena Neufeld
-      start: '00:10:07.467'
-      end: '00:10:07.708'
+      start:
+        sec: '607.467'
+        mark: '00:10:07.467'
+      end:
+        sec: '607.708'
+        mark: '00:10:07.708'
       u: "[In Polish] Tak."
     - who: David Boder
-      start: '00:10:07.708'
-      end: '00:10:16.226'
+      start:
+        sec: '607.708'
+        mark: '00:10:07.708'
+      end:
+        sec: '616.226'
+        mark: '00:10:16.226'
       u: "[In Russian] А этот дом принадлежал кому? [неразборчиво] Кто был хозяин
         дома?"
     - who: Helena Neufeld
-      start: '00:10:16.226'
-      end: '00:10:19.091'
+      start:
+        sec: '616.226'
+        mark: '00:10:16.226'
+      end:
+        sec: '619.091'
+        mark: '00:10:19.091'
       u: "[In Polish] No był właściciel domu, przed wojną..."
     - who: David Boder
-      start: '00:10:19.091'
-      end: '00:10:19.950'
+      start:
+        sec: '619.091'
+        mark: '00:10:19.091'
+      end:
+        sec: '619.950'
+        mark: '00:10:19.950'
       u: "[In Russian] Еврей или..."
     - who: Helena Neufeld
-      start: '00:10:19.950'
-      end: '00:10:22.061'
+      start:
+        sec: '619.950'
+        mark: '00:10:19.950'
+      end:
+        sec: '622.061'
+        mark: '00:10:22.061'
       u: "[In Polish] To był Żyd."
     - who: David Boder
-      start: '00:10:22.061'
-      end: '00:10:26.719'
+      start:
+        sec: '622.061'
+        mark: '00:10:22.061'
+      end:
+        sec: '626.719'
+        mark: '00:10:26.719'
       u: "[In Russian] Да. И вы платили за квартиру?"
     - who: Helena Neufeld
-      start: '00:10:26.719'
-      end: '00:10:31.332'
+      start:
+        sec: '626.719'
+        mark: '00:10:26.719'
+      end:
+        sec: '631.332'
+        mark: '00:10:31.332'
       u: "[In Polish]...z początku płaciliśmy, a potem...ja nie pamiętam."
     - who: David Boder
-      start: '00:10:31.332'
-      end: '00:10:35.131'
+      start:
+        sec: '631.332'
+        mark: '00:10:31.332'
+      end:
+        sec: '635.131'
+        mark: '00:10:35.131'
       u: "[In Russian] Хорошо. Когда вы, значит, вышли из гетто?"
     - who: Helena Neufeld
-      start: '00:10:35.131'
-      end: '00:10:51.435'
+      start:
+        sec: '635.131'
+        mark: '00:10:35.131'
+      end:
+        sec: '651.435'
+        mark: '00:10:51.435'
       u: "[In Polish] Potem zaczęła się akcja wysiedleńcza w dwudzie...dwudziestego
         drugiego lipca czterdziestego drugiego roku...wtedy ukrywaliśmy się trochę."
     - who: David Boder
-      start: '00:10:51.435'
-      end: '00:10:52.432'
+      start:
+        sec: '651.435'
+        mark: '00:10:51.435'
+      end:
+        sec: '652.432'
+        mark: '00:10:52.432'
       u: "[In Russian] В гетто?"
     - who: Helena Neufeld
-      start: '00:10:52.432'
-      end: '00:10:59.516'
+      start:
+        sec: '652.432'
+        mark: '00:10:52.432'
+      end:
+        sec: '659.516'
+        mark: '00:10:59.516'
       u: "[In Polish] W samym getcie, jeżeli akcja była w...na jednej ulicy, tośmy
         przechodzili na drugą ulicę."
     - who: David Boder
-      start: '00:10:59.516'
-      end: '00:11:02.787'
+      start:
+        sec: '659.516'
+        mark: '00:10:59.516'
+      end:
+        sec: '662.787'
+        mark: '00:11:02.787'
       u: "[In Russian] А какая это акция была, скажите [неразборчиво]..."
     - who: Helena Neufeld
-      start: '00:11:02.787'
-      end: '00:11:52.241'
+      start:
+        sec: '662.787'
+        mark: '00:11:02.787'
+      end:
+        sec: '712.241'
+        mark: '00:11:52.241'
       u: "[In Polish] Niemcy...ukazały się plakaty na murach, podpisane nawet przez
         gminę żydowską, że wszyscy Żydzi powinni zgłosić się do punktów przesiedleńczych...i
         będą przesiedleni na wschód. Każdy otrzyma trzy kilo chleba, kilo marmolady,
@@ -355,31 +599,55 @@ recording:
         wymienione, że od akcji wysiedleńczej zwolnieni są ci Żydzi, którzy pracują
         w fabrykach niemieckich, następnie pracownicy gminy żydowskiej."
     - who: David Boder
-      start: '00:11:52.241'
-      end: '00:11:56.447'
+      start:
+        sec: '712.241'
+        mark: '00:11:52.241'
+      end:
+        sec: '716.447'
+        mark: '00:11:56.447'
       u: "[In Russian] И там это...были госпитали в гетто...были доктора?"
     - who: Helena Neufeld
-      start: '00:11:56.447'
-      end: '00:12:15.472'
+      start:
+        sec: '716.447'
+        mark: '00:11:56.447'
+      end:
+        sec: '735.472'
+        mark: '00:12:15.472'
       u: "[In Polish] Tak, były szpitale w getcie, byli lekarze, tylko że chorzy umierali
         po prostu z głodu. Było mało lekarstw. Nawet jak chorego udało się wyleczyć,
         to i tak nie miało się go czym odżywiać. Tak że była bardzo duża śmiertelność."
     - who: David Boder
-      start: '00:12:15.472'
-      end: '00:12:23.611'
+      start:
+        sec: '735.472'
+        mark: '00:12:15.472'
+      end:
+        sec: '743.611'
+        mark: '00:12:23.611'
       u: "[In Russian] И куда и где хоронили людей? А где хоронили [неразборчиво]?"
     - who: Helena Neufeld
-      start: '00:12:23.611'
-      end: '00:12:27.184'
+      start:
+        sec: '743.611'
+        mark: '00:12:23.611'
+      end:
+        sec: '747.184'
+        mark: '00:12:27.184'
       u: "[In Polish] Ludzi chowano na cmentarzu żydowskim."
     - who: David Boder
-      start: '00:12:27.184'
-      end: '00:12:35.973'
+      start:
+        sec: '747.184'
+        mark: '00:12:27.184'
+      end:
+        sec: '755.973'
+        mark: '00:12:35.973'
       u: "[In German/English] Was...was, war [unintelligible]...was that in Ghetto?
         The jüdische?"
     - who: Helena Neufeld
-      start: '00:12:35.973'
-      end: '00:13:10.119'
+      start:
+        sec: '755.973'
+        mark: '00:12:35.973'
+      end:
+        sec: '790.119'
+        mark: '00:13:10.119'
       u: "[In Polish] Cmentarz żydowski był trochę poza gettem, ale dostawało się
         przepustki i można było...nawet rodzina też mogła odprowadzić tych zmarłych...i
         można było ich chować na cmentarzu na getcie, na starym żydowskim cmentarzu.
@@ -387,12 +655,20 @@ recording:
         śmiertelność ostatnio około pięciu tysięcy ludzi miesięcznie, a tych, którzy
         mogli sobie pozwolić, chowano w grobach pojedynczych."
     - who: David Boder
-      start: '00:13:10.119'
-      end: '00:13:15.366'
+      start:
+        sec: '790.119'
+        mark: '00:13:10.119'
+      end:
+        sec: '795.366'
+        mark: '00:13:15.366'
       u: "[In Russian] Ну а потом как вы уехали из гетто?"
     - who: Helena Neufeld
-      start: '00:13:15.366'
-      end: '00:15:12.022'
+      start:
+        sec: '795.366'
+        mark: '00:13:15.366'
+      end:
+        sec: '912.022'
+        mark: '00:15:12.022'
       u: "[In Polish] Potem...po pierwszej akcji ja zostałam, dlatego że była...pozostało
         jeszcze około czterdziestu tysięcy Żydów po pierwszej akcji. Więc z tego część
         została na terenach kilku fabryk niemieckich, w których wyrabiano mundury
@@ -411,12 +687,20 @@ recording:
         na ulicy Puławskiej. Miałam tam znajomych, Aryjczyków. Wysiadłam z auta i
         w ten sposób wyszłam z getta."
     - who: David Boder
-      start: '00:15:12.022'
-      end: '00:15:16.937'
+      start:
+        sec: '912.022'
+        mark: '00:15:12.022'
+      end:
+        sec: '916.937'
+        mark: '00:15:16.937'
       u: "[In Russian] [неразборчиво] говорите дальше."
     - who: Helena Neufeld
-      start: '00:15:16.937'
-      end: '00:15:51.475'
+      start:
+        sec: '916.937'
+        mark: '00:15:16.937'
+      end:
+        sec: '951.475'
+        mark: '00:15:51.475'
       u: "[In Polish] No, było mi bardzo trudno ukrywać się, ponieważ mam wygląd bardzo
         semicki. Ci Polacy, u których byłam, przyjęli mnie dobrze, ale musiałam szereg
         razy zmieniać mieszkanie. Ostatni raz zamieszkałam na Muranowskiej ulicy,
@@ -424,20 +708,36 @@ recording:
         czterdziestego trzeciego roku. Powstanie w getcie warszawskim,...ponieważ
         nasze okna..."
     - who: David Boder
-      start: '00:15:51.475'
-      end: '00:15:53.450'
+      start:
+        sec: '951.475'
+        mark: '00:15:51.475'
+      end:
+        sec: '953.450'
+        mark: '00:15:53.450'
       u: "[In Russian] Вы были там, когда [неразборчиво]"
     - who: Helena Neufeld
-      start: '00:15:53.450'
-      end: '00:15:55.545'
+      start:
+        sec: '953.450'
+        mark: '00:15:53.450'
+      end:
+        sec: '955.545'
+        mark: '00:15:55.545'
       u: Я была, видела, я видела.
     - who: David Boder
-      start: '00:15:55.545'
-      end: '00:15:58.983'
+      start:
+        sec: '955.545'
+        mark: '00:15:55.545'
+      end:
+        sec: '958.983'
+        mark: '00:15:58.983'
       u: Вы видели. Ну, расскажите про восстание.
     - who: Helena Neufeld
-      start: '00:15:58.983'
-      end: '00:18:05.741'
+      start:
+        sec: '958.983'
+        mark: '00:15:58.983'
+      end:
+        sec: '1085.741'
+        mark: '00:18:05.741'
       u: "[In Polish] Więc okna nasze wychodziły akurat na róg ulicy Muranowskiej
         i Nalewek. W ten sposób mogliśmy obserwować cały plac Muranowski, część Nalewek
         i ulicę...zdaje się Miłą, która prowadziła właśnie do tego Umschlagplatzu,
@@ -456,13 +756,21 @@ recording:
         z Nalewki powoli wyjeżdżały dwa tanki niemieckie. No to już znaczyło, że to
         jest koniec getta."
     - who: David Boder
-      start: '00:18:05.741'
-      end: '00:18:11.937'
+      start:
+        sec: '1085.741'
+        mark: '00:18:05.741'
+      end:
+        sec: '1091.937'
+        mark: '00:18:11.937'
       u: "[In Russian] Ну, расскажите, что потом случилось с вами, как долго вы были
         в Варшаве и как вы убрались из Варшавы."
     - who: Helena Neufeld
-      start: '00:18:11.937'
-      end: '00:18:57.238'
+      start:
+        sec: '1091.937'
+        mark: '00:18:11.937'
+      end:
+        sec: '1137.238'
+        mark: '00:18:57.238'
       u: "[In Polish] Potem ukrywałam się jeszcze jakiś czas, ale było mi bardzo trudno
         ukrywać się. Później Niemcy zabrali nas do...zabrali mnie do obozu. Do Belsen-Bergen.
         To było w lipcu czterdziestego trzeciego roku. W tym obozie byłam dwadzieścia
@@ -471,85 +779,157 @@ recording:
         Anglicy. Ewakuowano nas dziesiątego kwietnia. Dwa tygodnie byłam w pociągu
         do dwudziestego trzeciego kwietnia."
     - who: David Boder
-      start: '00:18:57.238'
-      end: '00:18:59.620'
+      start:
+        sec: '1137.238'
+        mark: '00:18:57.238'
+      end:
+        sec: '1139.620'
+        mark: '00:18:59.620'
       u: "[In Russian] Вас эвакуировали из Бельзен?"
     - who: Helena Neufeld
-      start: '00:18:59.620'
-      end: '00:19:00.284'
+      start:
+        sec: '1139.620'
+        mark: '00:18:59.620'
+      end:
+        sec: '1140.284'
+        mark: '00:19:00.284'
       u: "[In Polish] Tak..."
     - who: David Boder
-      start: '00:19:00.284'
-      end: '00:19:01.445'
+      start:
+        sec: '1140.284'
+        mark: '00:19:00.284'
+      end:
+        sec: '1141.445'
+        mark: '00:19:01.445'
       u: "[In Russian] Кто?"
     - who: Helena Neufeld
-      start: '00:19:01.445'
-      end: '00:19:16.054'
+      start:
+        sec: '1141.445'
+        mark: '00:19:01.445'
+      end:
+        sec: '1156.054'
+        mark: '00:19:16.054'
       u: "[In Polish] Niemcy, Niemcy mieli zwyczaj, wszystkie obozy, do których zbliżali
         się Anglicy czy Amerykanie, ewakuować. O ile zdążyli. Tak więc Belsen też
         zaczęli ewakuować i mnie ewakuowali."
     - who: David Boder
-      start: '00:19:16.054'
-      end: '00:19:16.054'
+      start:
+        sec: '1156.054'
+        mark: '00:19:16.054'
+      end:
+        sec: '1156.054'
+        mark: '00:19:16.054'
       u: "[In Russian] В Бельзен знали, что вы еврейка?"
     - who: Helena Neufeld
-      start: '00:19:16.054'
-      end: '00:19:29.275'
+      start:
+        sec: '1156.054'
+        mark: '00:19:16.054'
+      end:
+        sec: '1169.275'
+        mark: '00:19:29.275'
       u: "[In Polish] Tak w Belsen byli...było bardzo wielu Żydów. Byli Żydzi polscy,
         Żydzi węgierscy, Żydzi rumuńscy, jugosłowiańscy, Żydzi holenderscy."
     - who: David Boder
-      start: '00:19:29.275'
-      end: '00:19:34.129'
+      start:
+        sec: '1169.275'
+        mark: '00:19:29.275'
+      end:
+        sec: '1174.129'
+        mark: '00:19:34.129'
       u: "[In Russian] Ага, э-э-э...как долго вы были в Бельзен?"
     - who: Helena Neufeld
-      start: '00:19:34.129'
-      end: '00:19:36.843'
+      start:
+        sec: '1174.129'
+        mark: '00:19:34.129'
+      end:
+        sec: '1176.843'
+        mark: '00:19:36.843'
       u: "[In Polish] Przeszło dwadzieścia miesięcy."
     - who: David Boder
-      start: '00:19:36.843'
-      end: '00:19:37.974'
+      start:
+        sec: '1176.843'
+        mark: '00:19:36.843'
+      end:
+        sec: '1177.974'
+        mark: '00:19:37.974'
       u: "[In Russian] Сколько?"
     - who: Helena Neufeld
-      start: '00:19:37.974'
-      end: '00:19:39.738'
+      start:
+        sec: '1177.974'
+        mark: '00:19:37.974'
+      end:
+        sec: '1179.738'
+        mark: '00:19:39.738'
       u: Больше чем двадцать.
     - who: David Boder
-      start: '00:19:39.738'
-      end: '00:19:47.533'
+      start:
+        sec: '1179.738'
+        mark: '00:19:39.738'
+      end:
+        sec: '1187.533'
+        mark: '00:19:47.533'
       u: Двадцать месяцев. Расскажите про жизнь в Бельзен. Как вы жили в этом...блок
         ваш...и так далее.
     - who: Helena Neufeld
-      start: '00:19:47.533'
-      end: '00:19:49.086'
+      start:
+        sec: '1187.533'
+        mark: '00:19:47.533'
+      end:
+        sec: '1189.086'
+        mark: '00:19:49.086'
       u: "[In Polish] Więc..."
     - who: David Boder
-      start: '00:19:49.086'
-      end: '00:19:50.006'
+      start:
+        sec: '1189.086'
+        mark: '00:19:49.086'
+      end:
+        sec: '1190.006'
+        mark: '00:19:50.006'
       u: "[In Russian] Вы работали в Бельзен?"
     - who: Helena Neufeld
-      start: '00:19:50.006'
-      end: '00:19:51.890'
+      start:
+        sec: '1190.006'
+        mark: '00:19:50.006'
+      end:
+        sec: '1191.890'
+        mark: '00:19:51.890'
       u: "[In Polish] Nie, myśmy nie pracowali."
     - who: David Boder
-      start: '00:19:51.890'
-      end: '00:19:58.826'
+      start:
+        sec: '1191.890'
+        mark: '00:19:51.890'
+      end:
+        sec: '1198.826'
+        mark: '00:19:58.826'
       u: "[In Russian] Нет. Значит, двадцать месяцев вы не работали. Сколько вас было
         человек в одном блоке?"
     - who: Helena Neufeld
-      start: '00:19:58.826'
-      end: '00:20:28.299'
+      start:
+        sec: '1198.826'
+        mark: '00:19:58.826'
+      end:
+        sec: '1228.299'
+        mark: '00:20:28.299'
       u: "[In Polish] Początkowo to była...myśmy byli trzymani oddzielnie...to byli
         Żydzi z Polski. Więc to była grupa przeszło dwa tysiące pięćset osób...początkowo.
         Następnie zaczęto w październiku...już po trzech miesiącach wysłano z naszej
         grupy przeszło tysiąc osób. Blisko dwa tysiące osób. Później dowiedzieliśmy
         się, że wysłano ich do Oświęcimia."
     - who: David Boder
-      start: '00:20:28.299'
-      end: '00:20:31.721'
+      start:
+        sec: '1228.299'
+        mark: '00:20:28.299'
+      end:
+        sec: '1231.721'
+        mark: '00:20:31.721'
       u: "[In Russian] Э-э-э...как вы спали там в этом бараке?"
     - who: Helena Neufeld
-      start: '00:20:31.721'
-      end: '00:21:03.350'
+      start:
+        sec: '1231.721'
+        mark: '00:20:31.721'
+      end:
+        sec: '1263.350'
+        mark: '00:21:03.350'
       u: "[In Polish] Z początku warunki jeszcze były trochę lepsze. Nie było tak
         ciasno. Więc każdy z nas miał swoją pryczę..., ale prycze były dwupiętrowe.
         Jedna była dolna, a druga była górna...i bardzo ciasno ustawione. Nie można
@@ -557,46 +937,86 @@ recording:
         Przykrywaliśmy się kocami. Mieliśmy takie sienniki. Dostawaliśmy zupę, chleb,
         czasem trochę margaryny."
     - who: David Boder
-      start: '00:21:03.350'
-      end: '00:21:05.295'
+      start:
+        sec: '1263.350'
+        mark: '00:21:03.350'
+      end:
+        sec: '1265.295'
+        mark: '00:21:05.295'
       u: "[In Russian] А что делали целый день?"
     - who: Helena Neufeld
-      start: '00:21:05.295'
-      end: '00:21:12.757'
+      start:
+        sec: '1265.295'
+        mark: '00:21:05.295'
+      end:
+        sec: '1272.757'
+        mark: '00:21:12.757'
       u: "[In Polish] Nic...nic. Nasza grupa nie pracowała. Były grupy, które pracowały,
         inne nie pracowały."
     - who: David Boder
-      start: '00:21:12.757'
-      end: '00:21:18.154'
+      start:
+        sec: '1272.757'
+        mark: '00:21:12.757'
+      end:
+        sec: '1278.154'
+        mark: '00:21:18.154'
       u: "[In Russian] А вы знали эту женщину в Бельзен...как ее звали?"
     - who: Helena Neufeld
-      start: '00:21:18.154'
-      end: '00:21:19.179'
+      start:
+        sec: '1278.154'
+        mark: '00:21:18.154'
+      end:
+        sec: '1279.179'
+        mark: '00:21:19.179'
       u: "[In Polish] Irma..."
     - who: David Boder
-      start: '00:21:19.179'
-      end: '00:21:20.747'
+      start:
+        sec: '1279.179'
+        mark: '00:21:19.179'
+      end:
+        sec: '1280.747'
+        mark: '00:21:20.747'
       u: "[In Russian] Ирма [неразборчиво]?"
     - who: Helena Neufeld
-      start: '00:21:20.747'
-      end: '00:21:24.305'
+      start:
+        sec: '1280.747'
+        mark: '00:21:20.747'
+      end:
+        sec: '1284.305'
+        mark: '00:21:24.305'
       u: "[In Polish] Nie, ja jej nie znałam, ale komendanta Kramera znałam."
     - who: David Boder
-      start: '00:21:24.305'
-      end: '00:21:25.722'
+      start:
+        sec: '1284.305'
+        mark: '00:21:24.305'
+      end:
+        sec: '1285.722'
+        mark: '00:21:25.722'
       u: "[In Russian] Вы знали Крамера?"
     - who: Helena Neufeld
-      start: '00:21:25.722'
-      end: '00:21:34.984'
+      start:
+        sec: '1285.722'
+        mark: '00:21:25.722'
+      end:
+        sec: '1294.984'
+        mark: '00:21:34.984'
       u: "[In Polish] Tak. Widziałam go parę razy. Z początku mieliśmy innego komendanta,
         Hassa, a potem zastąpił go Kramer."
     - who: David Boder
-      start: '00:21:34.984'
-      end: '00:21:40.065'
+      start:
+        sec: '1294.984'
+        mark: '00:21:34.984'
+      end:
+        sec: '1300.065'
+        mark: '00:21:40.065'
       u: "[In Russian] А вы были здоровы в Бельзен?"
     - who: Helena Neufeld
-      start: '00:21:40.065'
-      end: '00:22:30.719'
+      start:
+        sec: '1300.065'
+        mark: '00:21:40.065'
+      end:
+        sec: '1350.719'
+        mark: '00:22:30.719'
       u: "[In Polish] Nie...w Belsen...Przyjechałam do Belsen już chora,...bo byłam
         jeszcze dwa tygodnie w więzieniu, w Warszawie, na Pawiaku. No i poza tym byłam,
         przeżyłam bardzo dużo w czasie, kiedy się ukrywałam. Przyjechałam chora i
@@ -606,429 +1026,829 @@ recording:
         coraz gorzej. Pierwszy rok jeszcze jako takośmy wytrzymali. Chociaż zimę spędziliśmy
         w kamiennych barakach. Było zimno. Dachy przeciekały. Woda się lała."
     - who: David Boder
-      start: '00:22:30.719'
-      end: '00:22:37.518'
+      start:
+        sec: '1350.719'
+        mark: '00:22:30.719'
+      end:
+        sec: '1357.518'
+        mark: '00:22:37.518'
       u: "[In Russian] Так...скажите, а если кто-нибудь заболевал, что делали тогда?"
     - who: Helena Neufeld
-      start: '00:22:37.518'
-      end: '00:22:57.855'
+      start:
+        sec: '1357.518'
+        mark: '00:22:37.518'
+      end:
+        sec: '1377.855'
+        mark: '00:22:57.855'
       u: "[In Polish] Było...między tymi więźniami był, byli lekarze. Oni leczyli
         chorych, a oprócz tego był taki duży szpital. Jak były jakieś poważniejsze
         wypadki, to meldowało się niemieckiemu lekarzowi,...no i tych chorych się
         zabierało do szpitala."
     - who: David Boder
-      start: '00:22:57.855'
-      end: '00:23:03.719'
+      start:
+        sec: '1377.855'
+        mark: '00:22:57.855'
+      end:
+        sec: '1383.719'
+        mark: '00:23:03.719'
       u: "[In Russian] Так...а потом, значит, вас эвакуировали из Бельзен куда?"
     - who: Helena Neufeld
-      start: '00:23:03.719'
-      end: '00:23:18.041'
+      start:
+        sec: '1383.719'
+        mark: '00:23:03.719'
+      end:
+        sec: '1398.041'
+        mark: '00:23:18.041'
       u: "[In Polish] Ten pociąg jechał tam i z powrotem, tam i z powrotem, dlatego
         że wszystkie drogi były przecięte i były bombardowane, stacje się paliły,
         tak że pociąg miał jechać do Theresienstadt, do Czech..."
     - who: David Boder
-      start: '00:23:18.041'
-      end: '00:23:18.689'
+      start:
+        sec: '1398.041'
+        mark: '00:23:18.041'
+      end:
+        sec: '1398.689'
+        mark: '00:23:18.689'
       u: "[In German] Tschech—..."
     - who: Helena Neufeld
-      start: '00:23:18.689'
-      end: '00:23:27.523'
+      start:
+        sec: '1398.689'
+        mark: '00:23:18.689'
+      end:
+        sec: '1407.523'
+        mark: '00:23:27.523'
       u: "[In Polish]...tak, ale bardzo niedaleko zajechał, dlatego że maszynista
         nie mógł prowadzić pociągu po tych bombardowanych drogach."
     - who: David Boder
-      start: '00:23:27.523'
-      end: '00:23:28.277'
+      start:
+        sec: '1407.523'
+        mark: '00:23:27.523'
+      end:
+        sec: '1408.277'
+        mark: '00:23:28.277'
       u: "[In Russian] [неразборчиво]"
     - who: Helena Neufeld
-      start: '00:23:28.277'
-      end: '00:23:31.594'
+      start:
+        sec: '1408.277'
+        mark: '00:23:28.277'
+      end:
+        sec: '1411.594'
+        mark: '00:23:31.594'
       u: "[In Polish] Były naloty...Nie. Były naloty, bombardowania..."
     - who: David Boder
-      start: '00:23:31.594'
-      end: '00:23:33.659'
+      start:
+        sec: '1411.594'
+        mark: '00:23:31.594'
+      end:
+        sec: '1413.659'
+        mark: '00:23:33.659'
       u: "[In Russian] Вы не доехали до Терезиенштадт..."
     - who: Helena Neufeld
-      start: '00:23:33.659'
-      end: '00:23:34.745'
+      start:
+        sec: '1413.659'
+        mark: '00:23:33.659'
+      end:
+        sec: '1414.745'
+        mark: '00:23:34.745'
       u: "[In Polish] Nie, myśmy gdzieś byli..."
     - who: David Boder
-      start: '00:23:34.745'
-      end: '00:23:36.629'
+      start:
+        sec: '1414.745'
+        mark: '00:23:34.745'
+      end:
+        sec: '1416.629'
+        mark: '00:23:36.629'
       u: "[In Russian]...И кто вас освободил?"
     - who: Helena Neufeld
-      start: '00:23:36.629'
-      end: '00:23:37.926'
+      start:
+        sec: '1416.629'
+        mark: '00:23:36.629'
+      end:
+        sec: '1417.926'
+        mark: '00:23:37.926'
       u: "[In Polish] Rosjanie."
     - who: David Boder
-      start: '00:23:37.926'
-      end: '00:23:38.846'
+      start:
+        sec: '1417.926'
+        mark: '00:23:37.926'
+      end:
+        sec: '1418.846'
+        mark: '00:23:38.846'
       u: "[In Russian] Русские?"
     - who: Helena Neufeld
-      start: '00:23:38.846'
-      end: '00:23:39.555'
+      start:
+        sec: '1418.846'
+        mark: '00:23:38.846'
+      end:
+        sec: '1419.555'
+        mark: '00:23:39.555'
       u: "[In Polish] Tak."
     - who: David Boder
-      start: '00:23:39.555'
-      end: '00:23:44.575'
+      start:
+        sec: '1419.555'
+        mark: '00:23:39.555'
+      end:
+        sec: '1424.575'
+        mark: '00:23:44.575'
       u: "[In Russian] Русские вас освободили? Расскажите, как случилось это."
     - who: Helena Neufeld
-      start: '00:23:44.575'
-      end: '00:23:45.811'
+      start:
+        sec: '1424.575'
+        mark: '00:23:44.575'
+      end:
+        sec: '1425.811'
+        mark: '00:23:45.811'
       u: "[In Polish] [niezrozumiały]"
     - who: David Boder
-      start: '00:23:45.811'
-      end: '00:23:47.168'
+      start:
+        sec: '1425.811'
+        mark: '00:23:45.811'
+      end:
+        sec: '1427.168'
+        mark: '00:23:47.168'
       u: "[In Russian] Вы были в поездах?"
     - who: Helena Neufeld
-      start: '00:23:47.168'
-      end: '00:24:11.534'
+      start:
+        sec: '1427.168'
+        mark: '00:23:47.168'
+      end:
+        sec: '1451.534'
+        mark: '00:24:11.534'
       u: "[In Polish]...myśmy byli w wagonach...w wagonie towarowym. Noc...nawet całą
         noc pociąg stał. Nawet było dosyć spokojnie. Z daleka było słychać strzały,
         ale nie było żadnego nalotu. Z samego rana, o szóstej może, ktoś przebiegł
         koło naszego wagonu i powiedział: „już są Rosjanie, już Niemcy uciekli”."
     - who: David Boder
-      start: '00:24:11.534'
-      end: '00:24:16.358'
+      start:
+        sec: '1451.534'
+        mark: '00:24:11.534'
+      end:
+        sec: '1456.358'
+        mark: '00:24:16.358'
       u: "[In Russian] Что они, русские, вам дали есть?"
     - who: Helena Neufeld
-      start: '00:24:16.358'
-      end: '00:24:34.901'
+      start:
+        sec: '1456.358'
+        mark: '00:24:16.358'
+      end:
+        sec: '1474.901'
+        mark: '00:24:34.901'
       u: "[In Polish] Tak, więc wszyscy wybiegli z wagonu i rzeczywiście byli dwaj
         sowieccy żołnierze na koniach. No i powiedzieli: „wyjdźcie już z wagonów.
         Każdy może iść na wieś. Tam znajdziecie...wejdźcie do mieszkań, tam...”."
     - who: David Boder
-      start: '00:24:34.901'
-      end: '00:24:36.876'
+      start:
+        sec: '1474.901'
+        mark: '00:24:34.901'
+      end:
+        sec: '1476.876'
+        mark: '00:24:36.876'
       u: "[In Russian] В каком городе это было?"
     - who: Helena Neufeld
-      start: '00:24:36.876'
-      end: '00:24:44.534'
+      start:
+        sec: '1476.876'
+        mark: '00:24:36.876'
+      end:
+        sec: '1484.534'
+        mark: '00:24:44.534'
       u: "[In Polish]...to było koło...[niezrozumiały], gdzieś koło Drezna. Małe miasteczko."
     - who: David Boder
-      start: '00:24:44.534'
-      end: '00:24:48.273'
+      start:
+        sec: '1484.534'
+        mark: '00:24:44.534'
+      end:
+        sec: '1488.273'
+        mark: '00:24:48.273'
       u: "[In Russian] Хорошо. [неразборчиво] ну, оттуда когда вас освободили...куда
         вы поехали?"
     - who: Helena Neufeld
-      start: '00:24:48.273'
-      end: '00:24:51.017'
+      start:
+        sec: '1488.273'
+        mark: '00:24:48.273'
+      end:
+        sec: '1491.017'
+        mark: '00:24:51.017'
       u: "[In Polish]...myśmy byli chorzy bardzo, więc..."
     - who: David Boder
-      start: '00:24:51.017'
-      end: '00:24:52.751'
+      start:
+        sec: '1491.017'
+        mark: '00:24:51.017'
+      end:
+        sec: '1492.751'
+        mark: '00:24:52.751'
       u: "[In Russian] Ваша сестра была с вами?"
     - who: Helena Neufeld
-      start: '00:24:52.751'
-      end: '00:25:07.359'
+      start:
+        sec: '1492.751'
+        mark: '00:24:52.751'
+      end:
+        sec: '1507.359'
+        mark: '00:25:07.359'
       u: "[In Polish] Nie, nie było z mojej rodziny nikogo. Więc poszliśmy do najbliższej
         wioski niemieckiej. Tam weszliśmy do domu niemieckiego, wykąpaliśmy się, po
         pierwsze, i położyliśmy się do łóżek, i leżeliśmy w łóżkach."
     - who: David Boder
-      start: '00:25:07.359'
-      end: '00:25:11.460'
+      start:
+        sec: '1507.359'
+        mark: '00:25:07.359'
+      end:
+        sec: '1511.460'
+        mark: '00:25:11.460'
       u: "[In Russian] И оттуда куда вы поехали?"
     - who: Helena Neufeld
-      start: '00:25:11.460'
-      end: '00:25:23.023'
+      start:
+        sec: '1511.460'
+        mark: '00:25:11.460'
+      end:
+        sec: '1523.023'
+        mark: '00:25:23.023'
       u: "[In Polish] Leże...miesiąc czasu leżeliśmy tam, bo nie mieliśmy sił chodzić.
         Byliśmy bardzo słabi, a potem ja pojechałam do Paryża."
     - who: David Boder
-      start: '00:25:23.023'
-      end: '00:25:24.787'
+      start:
+        sec: '1523.023'
+        mark: '00:25:23.023'
+      end:
+        sec: '1524.787'
+        mark: '00:25:24.787'
       u: "[In Russian] Зачем вы в Париж поехали? У ва..."
     - who: Helena Neufeld
-      start: '00:25:24.787'
-      end: '00:25:38.521'
+      start:
+        sec: '1524.787'
+        mark: '00:25:24.787'
+      end:
+        sec: '1538.521'
+        mark: '00:25:38.521'
       u: "[In Polish] Bo w Polsce nie miałam rodziny...wiedziałam przecież,...matka
         moja zginęła w czasie akcji jeszcze. Jej siostra, też wiedziałam, że zginęła.
         Tak że pojechałam do Paryża, gdzie mam rodzinę."
     - who: David Boder
-      start: '00:25:38.521'
-      end: '00:25:40.345'
+      start:
+        sec: '1538.521'
+        mark: '00:25:38.521'
+      end:
+        sec: '1540.345'
+        mark: '00:25:40.345'
       u: "[In Russian] У вас есть родственники в Париже?"
     - who: Helena Neufeld
-      start: '00:25:40.345'
-      end: '00:25:41.913'
+      start:
+        sec: '1540.345'
+        mark: '00:25:40.345'
+      end:
+        sec: '1541.913'
+        mark: '00:25:41.913'
       u: "[In Polish] Mam kuzynki dwie."
     - who: David Boder
-      start: '00:25:41.913'
-      end: '00:25:43.572'
+      start:
+        sec: '1541.913'
+        mark: '00:25:41.913'
+      end:
+        sec: '1543.572'
+        mark: '00:25:43.572'
       u: "[In Russian] У вас есть две кузины тут, в Париже."
     - who: Helena Neufeld
-      start: '00:25:43.572'
-      end: '00:25:44.477'
+      start:
+        sec: '1543.572'
+        mark: '00:25:43.572'
+      end:
+        sec: '1544.477'
+        mark: '00:25:44.477'
       u: "[In Polish] Tak, tak."
     - who: David Boder
-      start: '00:25:44.477'
-      end: '00:25:49.799'
+      start:
+        sec: '1544.477'
+        mark: '00:25:44.477'
+      end:
+        sec: '1549.799'
+        mark: '00:25:49.799'
       u: "[In Russian] Ну, а что вы теперь собирали...А где вы вышли замуж?"
     - who: Helena Neufeld
-      start: '00:25:49.799'
-      end: '00:25:53.251'
+      start:
+        sec: '1549.799'
+        mark: '00:25:49.799'
+      end:
+        sec: '1553.251'
+        mark: '00:25:53.251'
       u: "[In Polish] Za mąż ja wyszłam w getcie."
     - who: David Boder
-      start: '00:25:53.251'
-      end: '00:25:55.090'
+      start:
+        sec: '1553.251'
+        mark: '00:25:53.251'
+      end:
+        sec: '1555.090'
+        mark: '00:25:55.090'
       u: "[In Russian] О! Вы вышли в гетто?"
     - who: Helena Neufeld
-      start: '00:25:55.090'
-      end: '00:25:55.452'
+      start:
+        sec: '1555.090'
+        mark: '00:25:55.090'
+      end:
+        sec: '1555.452'
+        mark: '00:25:55.452'
       u: "[In Polish] Tak."
     - who: David Boder
-      start: '00:25:55.452'
-      end: '00:25:56.628'
+      start:
+        sec: '1555.452'
+        mark: '00:25:55.452'
+      end:
+        sec: '1556.628'
+        mark: '00:25:56.628'
       u: "[In Russian] И что с мужем вашим [неразборчиво]."
     - who: Helena Neufeld
-      start: '00:25:56.628'
-      end: '00:25:59.432'
+      start:
+        sec: '1556.628'
+        mark: '00:25:56.628'
+      end:
+        sec: '1559.432'
+        mark: '00:25:59.432'
       u: "[In Polish] Mąż też był w obozie."
     - who: David Boder
-      start: '00:25:59.432'
-      end: '00:26:00.307'
+      start:
+        sec: '1559.432'
+        mark: '00:25:59.432'
+      end:
+        sec: '1560.307'
+        mark: '00:26:00.307'
       u: "[In Russian] Куда?"
     - who: Helena Neufeld
-      start: '00:26:00.307'
-      end: '00:26:02.312'
+      start:
+        sec: '1560.307'
+        mark: '00:26:00.307'
+      end:
+        sec: '1562.312'
+        mark: '00:26:02.312'
       u: "[In Polish]...też był...w Belsen był."
     - who: David Boder
-      start: '00:26:02.312'
-      end: '00:26:06.895'
+      start:
+        sec: '1562.312'
+        mark: '00:26:02.312'
+      end:
+        sec: '1566.895'
+        mark: '00:26:06.895'
       u: "[In Russian] Вас послали, мужчин и женщин...А немцы знали, что это был ваш
         муж?"
     - who: Helena Neufeld
-      start: '00:26:06.895'
-      end: '00:26:11.222'
+      start:
+        sec: '1566.895'
+        mark: '00:26:06.895'
+      end:
+        sec: '1571.222'
+        mark: '00:26:11.222'
       u: "[In Polish] Tak, tak, oni znali, że to mój mąż."
     - who: David Boder
-      start: '00:26:11.222'
-      end: '00:26:17.719'
+      start:
+        sec: '1571.222'
+        mark: '00:26:11.222'
+      end:
+        sec: '1577.719'
+        mark: '00:26:17.719'
       u: "[In Russian] И э-э-э...потом с вами все время ехали, доехали до Бельзен
         и остались [неразборчиво]."
     - who: Helena Neufeld
-      start: '00:26:17.719'
-      end: '00:26:23.931'
+      start:
+        sec: '1577.719'
+        mark: '00:26:17.719'
+      end:
+        sec: '1583.931'
+        mark: '00:26:23.931'
       u: "[In Polish] W Belsen, tam byliśmy oddzielnie, a potem znów byliśmy razem,
         a potem nas ewakuowali."
     - who: David Boder
-      start: '00:26:23.931'
-      end: '00:26:26.750'
+      start:
+        sec: '1583.931'
+        mark: '00:26:23.931'
+      end:
+        sec: '1586.750'
+        mark: '00:26:26.750'
       u: "[In Russian] И были вместе, когда русские пришли...вы были вместе?"
     - who: Helena Neufeld
-      start: '00:26:26.750'
-      end: '00:26:27.745'
+      start:
+        sec: '1586.750'
+        mark: '00:26:26.750'
+      end:
+        sec: '1587.745'
+        mark: '00:26:27.745'
       u: "[In Polish] Wszyscy, tak."
     - who: David Boder
-      start: '00:26:27.745'
-      end: '00:26:31.936'
+      start:
+        sec: '1587.745'
+        mark: '00:26:27.745'
+      end:
+        sec: '1591.936'
+        mark: '00:26:31.936'
       u: "[In Russian] Вы были вместе. И тогда вы решили оба поехать в Париж?"
     - who: Helena Neufeld
-      start: '00:26:31.936'
-      end: '00:26:32.358'
+      start:
+        sec: '1591.936'
+        mark: '00:26:31.936'
+      end:
+        sec: '1592.358'
+        mark: '00:26:32.358'
       u: "[In Polish] Tak."
     - who: David Boder
-      start: '00:26:32.358'
-      end: '00:26:34.408'
+      start:
+        sec: '1592.358'
+        mark: '00:26:32.358'
+      end:
+        sec: '1594.408'
+        mark: '00:26:34.408'
       u: "[In Russian] Как вы поехали, у вас были деньги?"
     - who: Helena Neufeld
-      start: '00:26:34.408'
-      end: '00:26:46.318'
+      start:
+        sec: '1594.408'
+        mark: '00:26:34.408'
+      end:
+        sec: '1606.318'
+        mark: '00:26:46.318'
       u: "[In Polish] Nie, myśmy nie mieli wcale pieniędzy i jechaliśmy bez pieniędzy
         cały czas, autami wojskowymi, a potem pociągami dla repatriantów."
     - who: David Boder
-      start: '00:26:46.318'
-      end: '00:26:48.805'
+      start:
+        sec: '1606.318'
+        mark: '00:26:46.318'
+      end:
+        sec: '1608.805'
+        mark: '00:26:48.805'
       u: "[In Russian] Вас впустили во Францию или [неразборчиво]?"
     - who: Helena Neufeld
-      start: '00:26:48.805'
-      end: '00:26:52.484'
+      start:
+        sec: '1608.805'
+        mark: '00:26:48.805'
+      end:
+        sec: '1612.484'
+        mark: '00:26:52.484'
       u: "[In Polish]...wpuścili. Ja mówię trochę po francusku i ja mam rodzinę..."
     - who: David Boder
-      start: '00:26:52.484'
-      end: '00:26:54.549'
+      start:
+        sec: '1612.484'
+        mark: '00:26:52.484'
+      end:
+        sec: '1614.549'
+        mark: '00:26:54.549'
       u: "[In Russian] Где вы учились по-французски?"
     - who: Helena Neufeld
-      start: '00:26:54.549'
-      end: '00:26:57.564'
+      start:
+        sec: '1614.549'
+        mark: '00:26:54.549'
+      end:
+        sec: '1617.564'
+        mark: '00:26:57.564'
       u: "[In Polish] W szkole jeszcze nauczyłam się, ja bardzo lubiłam francuski."
     - who: David Boder
-      start: '00:26:57.564'
-      end: '00:26:59.343'
+      start:
+        sec: '1617.564'
+        mark: '00:26:57.564'
+      end:
+        sec: '1619.343'
+        mark: '00:26:59.343'
       u: "[In Russian] Вы что, ходили в гимназию в Варшаве?"
     - who: Helena Neufeld
-      start: '00:26:59.343'
-      end: '00:27:00.037'
+      start:
+        sec: '1619.343'
+        mark: '00:26:59.343'
+      end:
+        sec: '1620.037'
+        mark: '00:27:00.037'
       u: "[In Polish] Tak."
     - who: David Boder
-      start: '00:27:00.037'
-      end: '00:27:02.042'
+      start:
+        sec: '1620.037'
+        mark: '00:27:00.037'
+      end:
+        sec: '1622.042'
+        mark: '00:27:02.042'
       u: "[In Russian] Да. А ваш муж где учился?"
     - who: Helena Neufeld
-      start: '00:27:02.042'
-      end: '00:27:03.308'
+      start:
+        sec: '1622.042'
+        mark: '00:27:02.042'
+      end:
+        sec: '1623.308'
+        mark: '00:27:03.308'
       u: "[In Polish] Też w Warszawie."
     - who: David Boder
-      start: '00:27:03.308'
-      end: '00:27:06.444'
+      start:
+        sec: '1623.308'
+        mark: '00:27:03.308'
+      end:
+        sec: '1626.444'
+        mark: '00:27:06.444'
       u: "[In Russian] А откуда он английский знает?"
     - who: Helena Neufeld
-      start: '00:27:06.444'
-      end: '00:27:08.193'
+      start:
+        sec: '1626.444'
+        mark: '00:27:06.444'
+      end:
+        sec: '1628.193'
+        mark: '00:27:08.193'
       u: "[In Polish] On uczył się angielskiego."
     - who: David Boder
-      start: '00:27:08.193'
-      end: '00:27:12.942'
+      start:
+        sec: '1628.193'
+        mark: '00:27:08.193'
+      end:
+        sec: '1632.942'
+        mark: '00:27:12.942'
       u: "[In Russian] Ага. А что ваш муж делает в Париже?"
     - who: Helena Neufeld
-      start: '00:27:12.942'
-      end: '00:27:21.218'
+      start:
+        sec: '1632.942'
+        mark: '00:27:12.942'
+      end:
+        sec: '1641.218'
+        mark: '00:27:21.218'
       u: "[In Polish] No...z początku myśmy nic nie robili, myśmy się źle czuli. Teraz
         on pracował trochę jako tłumacz."
     - who: David Boder
-      start: '00:27:21.218'
-      end: '00:27:24.445'
+      start:
+        sec: '1641.218'
+        mark: '00:27:21.218'
+      end:
+        sec: '1644.445'
+        mark: '00:27:24.445'
       u: "[In Russian] А что вы собираетесь делать?"
     - who: Helena Neufeld
-      start: '00:27:24.445'
-      end: '00:27:36.219'
+      start:
+        sec: '1644.445'
+        mark: '00:27:24.445'
+      end:
+        sec: '1656.219'
+        mark: '00:27:36.219'
       u: "[In Polish] Nie wiemy jeszcze, to bardzo ciężka decyzja. Mam przyjaciół
         w Ameryce, którzy bardzo chcą, żebym tam pojechała. Rodziny nie mam gdzie
         indziej. Może zostanę w Paryżu. Nie wiadomo."
     - who: David Boder
-      start: '00:27:36.219'
-      end: '00:27:38.526'
+      start:
+        sec: '1656.219'
+        mark: '00:27:36.219'
+      end:
+        sec: '1658.526'
+        mark: '00:27:38.526'
       u: "[In Russian] Ага. У вас есть родственники в Америке?"
     - who: Helena Neufeld
-      start: '00:27:38.526'
-      end: '00:27:42.400'
+      start:
+        sec: '1658.526'
+        mark: '00:27:38.526'
+      end:
+        sec: '1662.400'
+        mark: '00:27:42.400'
       u: Нет. Подруги.
     - who: Helena Neufeld
-      start: '00:27:42.400'
-      end: '00:27:44.179'
+      start:
+        sec: '1662.400'
+        mark: '00:27:42.400'
+      end:
+        sec: '1664.179'
+        mark: '00:27:44.179'
       u: "[In Polish] Przyjaciół mam w Ameryce. [niezrozumiały]"
     - who: David Boder
-      start: '00:27:44.179'
-      end: '00:27:48.431'
+      start:
+        sec: '1664.179'
+        mark: '00:27:44.179'
+      end:
+        sec: '1668.431'
+        mark: '00:27:48.431'
       u: "[In Russian] Нет родственников. А ваш муж чем занимается? Что он работает?"
     - who: Helena Neufeld
-      start: '00:27:48.431'
-      end: '00:27:50.587'
+      start:
+        sec: '1668.431'
+        mark: '00:27:48.431'
+      end:
+        sec: '1670.587'
+        mark: '00:27:50.587'
       u: "[In Polish] On pracował jako tłumacz."
     - who: David Boder
-      start: '00:27:50.587'
-      end: '00:27:51.296'
+      start:
+        sec: '1670.587'
+        mark: '00:27:50.587'
+      end:
+        sec: '1671.296'
+        mark: '00:27:51.296'
       u: "[In Russian] [неразборчиво]"
     - who: Helena Neufeld
-      start: '00:27:51.296'
-      end: '00:27:53.934'
+      start:
+        sec: '1671.296'
+        mark: '00:27:51.296'
+      end:
+        sec: '1673.934'
+        mark: '00:27:53.934'
       u: "[In Polish] Z Amerykanami."
     - who: David Boder
-      start: '00:27:53.934'
-      end: '00:27:54.989'
+      start:
+        sec: '1673.934'
+        mark: '00:27:53.934'
+      end:
+        sec: '1674.989'
+        mark: '00:27:54.989'
       u: "[In Russian] С американскими?"
     - who: Helena Neufeld
-      start: '00:27:54.989'
-      end: '00:27:58.065'
+      start:
+        sec: '1674.989'
+        mark: '00:27:54.989'
+      end:
+        sec: '1678.065'
+        mark: '00:27:58.065'
       u: "[In Polish] Tutaj, w amerykańskich instytucjach, bo zna angielski."
     - who: David Boder
-      start: '00:27:58.065'
-      end: '00:27:59.377'
+      start:
+        sec: '1678.065'
+        mark: '00:27:58.065'
+      end:
+        sec: '1679.377'
+        mark: '00:27:59.377'
       u: "[In Russian] Что он делает?"
     - who: Helena Neufeld
-      start: '00:27:59.377'
-      end: '00:28:01.653'
+      start:
+        sec: '1679.377'
+        mark: '00:27:59.377'
+      end:
+        sec: '1681.653'
+        mark: '00:28:01.653'
       u: "[In Polish] Ja nie wiem nawet."
     - who: David Boder
-      start: '00:28:01.653'
-      end: '00:28:05.965'
+      start:
+        sec: '1681.653'
+        mark: '00:28:01.653'
+      end:
+        sec: '1685.965'
+        mark: '00:28:05.965'
       u: "[In Russian] И для американского правительства, и для еврейских организаций."
     - who: Helena Neufeld
-      start: '00:28:05.965'
-      end: '00:28:10.563'
+      start:
+        sec: '1685.965'
+        mark: '00:28:05.965'
+      end:
+        sec: '1690.563'
+        mark: '00:28:10.563'
       u: "[In Polish] Nie, nie, to nie to...nie wiem...dla polskich czy dla amerykańskich."
     - who: David Boder
-      start: '00:28:10.563'
-      end: '00:28:13.412'
+      start:
+        sec: '1690.563'
+        mark: '00:28:10.563'
+      end:
+        sec: '1693.412'
+        mark: '00:28:13.412'
       u: "[In Russian] Да. Он работает для них. И он придет домой в десять часов?"
     - who: Helena Neufeld
-      start: '00:28:13.412'
-      end: '00:28:14.076'
+      start:
+        sec: '1693.412'
+        mark: '00:28:13.412'
+      end:
+        sec: '1694.076'
+        mark: '00:28:14.076'
       u: "[In Polish] Tak, on przyjdzie."
     - who: David Boder
-      start: '00:28:14.076'
-      end: '00:28:26.875'
+      start:
+        sec: '1694.076'
+        mark: '00:28:14.076'
+      end:
+        sec: '1706.875'
+        mark: '00:28:26.875'
       u: "[In Russian] Он придет. Скажите, [неразборчиво] были какие-нибудь песни,
         которые эти пленные пели?"
     - who: Helena Neufeld
-      start: '00:28:26.875'
-      end: '00:28:27.734'
+      start:
+        sec: '1706.875'
+        mark: '00:28:26.875'
+      end:
+        sec: '1707.734'
+        mark: '00:28:27.734'
       u: "[In Polish] My?"
     - who: David Boder
-      start: '00:28:27.734'
-      end: '00:28:29.996'
+      start:
+        sec: '1707.734'
+        mark: '00:28:27.734'
+      end:
+        sec: '1709.996'
+        mark: '00:28:29.996'
       u: "[In Russian] Да."
     - who: Helena Neufeld
-      start: '00:28:29.996'
-      end: '00:28:31.971'
+      start:
+        sec: '1709.996'
+        mark: '00:28:29.996'
+      end:
+        sec: '1711.971'
+        mark: '00:28:31.971'
       u: "[In Polish]...pieśni mało..."
     - who: David Boder
-      start: '00:28:31.971'
-      end: '00:28:33.916'
+      start:
+        sec: '1711.971'
+        mark: '00:28:31.971'
+      end:
+        sec: '1713.916'
+        mark: '00:28:33.916'
       u: "[In Russian] [неразборчиво]"
     - who: Helena Neufeld
-      start: '00:28:33.916'
-      end: '00:28:35.017'
+      start:
+        sec: '1713.916'
+        mark: '00:28:33.916'
+      end:
+        sec: '1715.017'
+        mark: '00:28:35.017'
       u: "[In Polish] Tak, były..."
     - who: David Boder
-      start: '00:28:35.017'
-      end: '00:28:38.288'
+      start:
+        sec: '1715.017'
+        mark: '00:28:35.017'
+      end:
+        sec: '1718.288'
+        mark: '00:28:38.288'
       u: "[In Russian] [неразборчиво] есть новые песни, которые делали в этом лагере?"
     - who: Helena Neufeld
-      start: '00:28:38.288'
-      end: '00:28:41.394'
+      start:
+        sec: '1718.288'
+        mark: '00:28:38.288'
+      end:
+        sec: '1721.394'
+        mark: '00:28:41.394'
       u: "[In Polish] Nie, nie, nie...nie."
     - who: David Boder
-      start: '00:28:41.394'
-      end: '00:28:42.072'
+      start:
+        sec: '1721.394'
+        mark: '00:28:41.394'
+      end:
+        sec: '1722.072'
+        mark: '00:28:42.072'
       u: "[In Russian] Вы не знаете..."
     - who: Helena Neufeld
-      start: '00:28:42.072'
-      end: '00:28:46.384'
+      start:
+        sec: '1722.072'
+        mark: '00:28:42.072'
+      end:
+        sec: '1726.384'
+        mark: '00:28:46.384'
       u: "[In Polish] Nie, nie...u nas owszem pisano wiersze."
     - who: David Boder
-      start: '00:28:46.384'
-      end: '00:28:46.881'
+      start:
+        sec: '1726.384'
+        mark: '00:28:46.384'
+      end:
+        sec: '1726.881'
+        mark: '00:28:46.881'
       u: "[In Russian] Что?"
     - who: Helena Neufeld
-      start: '00:28:46.881'
-      end: '00:28:48.902'
+      start:
+        sec: '1726.881'
+        mark: '00:28:46.881'
+      end:
+        sec: '1728.902'
+        mark: '00:28:48.902'
       u: "[In Polish] Wiersze."
     - who: Helena Neufeld
-      start: '00:28:48.902'
-      end: '00:28:49.520'
+      start:
+        sec: '1728.902'
+        mark: '00:28:48.902'
+      end:
+        sec: '1729.520'
+        mark: '00:28:49.520'
       u: "[In Russian] Стихи."
     - who: David Boder
-      start: '00:28:49.520'
-      end: '00:28:51.812'
+      start:
+        sec: '1729.520'
+        mark: '00:28:49.520'
+      end:
+        sec: '1731.812'
+        mark: '00:28:51.812'
       u: Писали...и тоже стихи писали? Знаете какие-нибудь [неразборчиво]?
     - who: Helena Neufeld
-      start: '00:28:51.812'
-      end: '00:28:55.807'
+      start:
+        sec: '1731.812'
+        mark: '00:28:51.812'
+      end:
+        sec: '1735.807'
+        mark: '00:28:55.807'
       u: "[In Polish] Nie, ja nie pisałam, może mąż będzie pamiętał coś."
     - who: David Boder
-      start: '00:28:55.807'
-      end: '00:28:57.812'
+      start:
+        sec: '1735.807'
+        mark: '00:28:55.807'
+      end:
+        sec: '1737.812'
+        mark: '00:28:57.812'
       u: "[In Russian] Вы знаете какие-нибудь [неразборчиво]?"
     - who: Helena Neufeld
-      start: '00:28:57.812'
-      end: '00:28:58.717'
+      start:
+        sec: '1737.812'
+        mark: '00:28:57.812'
+      end:
+        sec: '1738.717'
+        mark: '00:28:58.717'
       u: "[In Polish] Nie."
     - who: David Boder
-      start: '00:28:58.717'
-      end: '00:29:00.358'
+      start:
+        sec: '1738.717'
+        mark: '00:28:58.717'
+      end:
+        sec: '1740.358'
+        mark: '00:29:00.358'
       u: "[In Russian] Не знаете..."
     - who: David Boder
-      start: '00:29:00.358'
-      end: '00:29:56.366'
+      start:
+        sec: '1740.358'
+        mark: '00:29:00.358'
+      end:
+        sec: '1796.366'
+        mark: '00:29:56.366'
       u: "[In English] Well, this concludes the record of Ms. Helena Neufeld. Eh...she...eh...insists
         on making her record in Polish, she is apparently conscious about her language,
         and she is staying with her hus..., she married her husband in the Ghetto
@@ -1038,79 +1858,139 @@ recording:
         On the question of [unintelligible] she tells me that she is a dentist graduated
         from Warsaw."
     - who: David Boder
-      start: '00:29:56.366'
-      end: '00:30:02.487'
+      start:
+        sec: '1796.366'
+        mark: '00:29:56.366'
+      end:
+        sec: '1802.487'
+        mark: '00:30:02.487'
       u: "[In German] Wann haben Sie dentistry studiert?"
     - who: Helena Neufeld
-      start: '00:30:02.487'
-      end: '00:30:04.100'
+      start:
+        sec: '1802.487'
+        mark: '00:30:02.487'
+      end:
+        sec: '1804.100'
+        mark: '00:30:04.100'
       u: "[In Polish] [niezrozumiały]"
     - who: David Boder
-      start: '00:30:04.100'
-      end: '00:30:07.236'
+      start:
+        sec: '1804.100'
+        mark: '00:30:04.100'
+      end:
+        sec: '1807.236'
+        mark: '00:30:07.236'
       u: "[In Russian] [неразборчиво]?"
     - who: Helena Neufeld
-      start: '00:30:07.236'
-      end: '00:30:19.311'
+      start:
+        sec: '1807.236'
+        mark: '00:30:07.236'
+      end:
+        sec: '1819.311'
+        mark: '00:30:19.311'
       u: "[In Polish] Studiowałam od trzydziestego pierwszego do końca trzydziestego
         piątego roku...tysiąc dziewięćset trzydziestego pierwszego do końca tysiąc
         dziewięćset trzydziestego piątego roku."
     - who: David Boder
-      start: '00:30:19.311'
-      end: '00:30:21.603'
+      start:
+        sec: '1819.311'
+        mark: '00:30:19.311'
+      end:
+        sec: '1821.603'
+        mark: '00:30:21.603'
       u: "[In Russian] Так сколько же вам лет?"
     - who: Helena Neufeld
-      start: '00:30:21.603'
-      end: '00:30:23.978'
+      start:
+        sec: '1821.603'
+        mark: '00:30:21.603'
+      end:
+        sec: '1823.978'
+        mark: '00:30:23.978'
       u: Тридцать три.
     - who: Helena Neufeld
-      start: '00:30:23.978'
-      end: '00:30:25.266'
+      start:
+        sec: '1823.978'
+        mark: '00:30:23.978'
+      end:
+        sec: '1825.266'
+        mark: '00:30:25.266'
       u: "[In Polish] Trzydzieści trzy."
     - who: David Boder
-      start: '00:30:25.266'
-      end: '00:30:31.869'
+      start:
+        sec: '1825.266'
+        mark: '00:30:25.266'
+      end:
+        sec: '1831.869'
+        mark: '00:30:31.869'
       u: "[In Russian] Вы что, поступили в зубоврачебную школу в Варшаве? Когда? Сразу
         после гимназии?"
     - who: Helena Neufeld
-      start: '00:30:31.869'
-      end: '00:30:47.846'
+      start:
+        sec: '1831.869'
+        mark: '00:30:31.869'
+      end:
+        sec: '1847.846'
+        mark: '00:30:47.846'
       u: "[In Polish] Nie, właściwie nie chciałam [niezrozumiały] romanistykę. Chciałam
         wyjechać za granicę do Francji, ale rodzice bardzo pragnęli, żebym wstąpiła
         na dentystykę, więc..."
     - who: David Boder
-      start: '00:30:47.846'
-      end: '00:30:55.474'
+      start:
+        sec: '1847.846'
+        mark: '00:30:47.846'
+      end:
+        sec: '1855.474'
+        mark: '00:30:55.474'
       u: "[In Russian] Что вы теперь работаете тут? У дантиста или как, сами работаете?"
     - who: Helena Neufeld
-      start: '00:30:55.474'
-      end: '00:30:54.563'
+      start:
+        sec: '1855.474'
+        mark: '00:30:55.474'
+      end:
+        sec: '1854.563'
+        mark: '00:30:54.563'
       u: "[In Polish] [niezrozumiały]"
   translation:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:00.594'
-      end: '00:01:20.208'
+      start:
+        sec: '0.594'
+        mark: '00:00:00.594'
+      end:
+        sec: '80.208'
+        mark: '00:01:20.208'
       u: "[In English] For some reasons the first few words in this spool are missing.
         This is Spool 9-20. In other words this is a reproduction of the original
         Spool number 20. Boder."
     - who: David Boder
-      start: '00:01:20.208'
-      end: '00:01:35.631'
+      start:
+        sec: '80.208'
+        mark: '00:01:20.208'
+      end:
+        sec: '95.631'
+        mark: '00:01:35.631'
       u: "[Missing: “This is Spool number 20, taken at the Jewish Committee’s home
         in Paris on Rue Guy Patin on August the 3rd, 1946. The person to be interviewed
         is Mrs. Helena Neufeld...”]...a young married woman. She understands a bit
         of English, German, and Yiddish, but she prefers, for fluency, to speak Polish.
         Eh...[unintelligible] eh, Mrs. Neufeld..."
     - who: David Boder
-      start: '00:01:35.631'
-      end: '00:01:50.167'
+      start:
+        sec: '95.631'
+        mark: '00:01:35.631'
+      end:
+        sec: '110.167'
+        mark: '00:01:50.167'
       u: "[In Russian] Tell me where you are from, and how did you come to Paris?
         Speak Polish."
     - who: Helena Neufeld
-      start: '00:01:50.167'
-      end: '00:02:05.408'
+      start:
+        sec: '110.167'
+        mark: '00:01:50.167'
+      end:
+        sec: '125.408'
+        mark: '00:02:05.408'
       u: "[In Polish] I was in Camp Belsen in Germany till the liberation.When Bergen
         Belsen was liberated by British troops on  April 15, 1945, there were some
         58,000 surviving inmates and 10,000 corpses. Anne Frank and her sister had
@@ -1120,61 +2000,109 @@ recording:
         of the camp.1 Afterwards I came to Paris where I have relatives, the only
         ones who remained alive."
     - who: David Boder
-      start: '00:02:05.408'
-      end: '00:02:06.011'
+      start:
+        sec: '125.408'
+        mark: '00:02:05.408'
+      end:
+        sec: '126.011'
+        mark: '00:02:06.011'
       u: "[In Russian] Aha."
     - who: Helena Neufeld
-      start: '00:02:06.011'
-      end: '00:02:09.448'
+      start:
+        sec: '126.011'
+        mark: '00:02:06.011'
+      end:
+        sec: '129.448'
+        mark: '00:02:09.448'
       u: "[In Polish] The rest of the family in Poland was killed."
     - who: David Boder
-      start: '00:02:09.448'
-      end: '00:02:11.378'
+      start:
+        sec: '129.448'
+        mark: '00:02:09.448'
+      end:
+        sec: '131.378'
+        mark: '00:02:11.378'
       u: "[In Russian] And where were you born?"
     - who: Helena Neufeld
-      start: '00:02:11.378'
-      end: '00:02:12.614'
+      start:
+        sec: '131.378'
+        mark: '00:02:11.378'
+      end:
+        sec: '132.614'
+        mark: '00:02:12.614'
       u: "[In Polish] In Warsaw."
     - who: David Boder
-      start: '00:02:12.614'
-      end: '00:02:22.981'
+      start:
+        sec: '132.614'
+        mark: '00:02:12.614'
+      end:
+        sec: '142.981'
+        mark: '00:02:22.981'
       u: "[In Russian] Yes. You were born in Warsaw. Tell me what happened when the
         Germans came there."
     - who: Helena Neufeld
-      start: '00:02:22.981'
-      end: '00:03:38.818'
+      start:
+        sec: '142.981'
+        mark: '00:02:22.981'
+      end:
+        sec: '218.818'
+        mark: '00:03:38.818'
       u: |-
         When the Germans arrived in Warsaw. I remained in Warsaw a short time, till October, ’39. In October I crossed the Soviet-German border. I went to Lwow.World War II began with Germany’s attack on Poland on September 1, 1939. On September 28, 1939, Warsaw, Poland’s capital, surrendered, and in the early days of October the last battles were fought. On September 17, 1939, Soviet forces invaded eastern Poland and overran large parts of the country including the large industrial and cultural center of Lwow (Ger. Lemberg).
         Lwow had a Jewish community in 1939 of approximately 110,000 making it the third largest Jewish community in Poland. Mrs. Neufeld was one of the some 100,000 Jewish refugees from German occupied western Poland who fled to the city.2 There I lived about a year and a half. Then I lived through the entry...the outbreak of the Soviet-German war.The Soviet German war began on June 22, 1941 with the German invasion of the Soviet Union. The Germans routed Soviet forces in the early weeks of the invasion and rapidly captured Lwow, which fell on June 30, 1941.3 I wasn’t able to leave Lwow fast enough, because the evacuation took place very fast. I was trapped by the Germans in Lwow. There I lived through a terrible pogrom which took place in the first days after the Germans arrived.There had been a great deal of antisemitism in Lwow in part because the Poles and Ukrainians in the city each accused the Jews of helping the other. The murder of Jews began on the same day as the German occupation with Germans and Ukrainians taking part. The Lwow pogrom lasted from June 30 to July 3, 1941. In four days of killing, approximately 4,000 Jews were murdered. From July 25-27, the Ukrainians carried out another pogrom this time murdering a further 2,000. Only a handful of the Jews of Lwow survived the war.4 I was in Lwow till [words not clear]...till the creation of the Ghetto in Lwow.The Germans established the Lwow ghetto in November/December 1941. 5,000 sick and elderly Jews were killed during the move to the ghetto.5 Then I ran away from Lwow illegally, to Warsaw, because my family was living in Warsaw.
     - who: David Boder
-      start: '00:03:38.818'
-      end: '00:03:45.331'
+      start:
+        sec: '218.818'
+        mark: '00:03:38.818'
+      end:
+        sec: '225.331'
+        mark: '00:03:45.331'
       u: "[In Russian] You said that there was a pogom in Lwow?"
     - who: Helena Neufeld
-      start: '00:03:45.331'
-      end: '00:04:21.346'
+      start:
+        sec: '225.331'
+        mark: '00:03:45.331'
+      end:
+        sec: '261.346'
+        mark: '00:04:21.346'
       u: "[In Polish] Yes. The pogrom in Lwow took place a few days after the Germans
         arrived. The Pogrom was carried out actually not by the Germans themselves,
         but mostly by the Ukrainians. It was really a bestial pogrom. The Ukr-...Ukrainians
         simply made use of the old Polish system. They beat people to death with clubs.
         They killed children. There were many Jewish victims at that time."
     - who: David Boder
-      start: '00:04:21.346'
-      end: '00:04:24.271'
+      start:
+        sec: '261.346'
+        mark: '00:04:21.346'
+      end:
+        sec: '264.271'
+        mark: '00:04:24.271'
       u: "[In Russian] The Germans allowed them to make a pogrom?"
     - who: Helena Neufeld
-      start: '00:04:24.271'
-      end: '00:04:39.603'
+      start:
+        sec: '264.271'
+        mark: '00:04:24.271'
+      end:
+        sec: '279.603'
+        mark: '00:04:39.603'
       u: "[In Polish] The Germans? [Chuckle.] It had actually been arranged by the
         Germans. But the Germans preferred not to take an active part, but they preferred
         that it should look like a spontaneous uprising of the Ukrainians."
     - who: David Boder
-      start: '00:04:39.603'
-      end: '00:04:43.206'
+      start:
+        sec: '279.603'
+        mark: '00:04:39.603'
+      end:
+        sec: '283.206'
+        mark: '00:04:43.206'
       u: "[In Russian] How did you return to Warsaw?"
     - who: Helena Neufeld
-      start: '00:04:43.206'
-      end: '00:05:12.387'
+      start:
+        sec: '283.206'
+        mark: '00:04:43.206'
+      end:
+        sec: '312.387'
+        mark: '00:05:12.387'
       u: "[In Polish] Warsaw...to Warsaw I traveled actually as an Aryan, as a Polish
         woman, a Catholic. However, I didn’t have any documents. Since I look quite
         a bit like a Jewess, the trip was dangerous. In Cracow on the railroad station—it
@@ -1184,12 +2112,20 @@ recording:
         received a good deal of support from these individuals in countries such as
         Poland.6"
     - who: David Boder
-      start: '00:05:12.387'
-      end: '00:05:13.337'
+      start:
+        sec: '312.387'
+        mark: '00:05:12.387'
+      end:
+        sec: '313.337'
+        mark: '00:05:13.337'
       u: "[In Russian] Yes?"
     - who: Helena Neufeld
-      start: '00:05:13.337'
-      end: '00:05:58.279'
+      start:
+        sec: '313.337'
+        mark: '00:05:13.337'
+      end:
+        sec: '358.279'
+        mark: '00:05:58.279'
       u: "[In Polish]...a German informer, yes, he caught me. He asked me for papers.
         I didn’t have any papers. I found myself at the Gestapo, but by accident,
         thanks to that, that I had met there some railway official, a Pole, a very
@@ -1204,28 +2140,52 @@ recording:
         which she could enter the ghetto and rejoin her family. Perhaps the opening
         had been made by those who smuggled food into the ghetto.7"
     - who: David Boder
-      start: '00:05:58.279'
-      end: '00:06:01.581'
+      start:
+        sec: '358.279'
+        mark: '00:05:58.279'
+      end:
+        sec: '361.581'
+        mark: '00:06:01.581'
       u: "[In Russian] Were you married then?"
     - who: Helena Neufeld
-      start: '00:06:01.581'
-      end: '00:06:02.380'
+      start:
+        sec: '361.581'
+        mark: '00:06:01.581'
+      end:
+        sec: '362.380'
+        mark: '00:06:02.380'
       u: "[In Polish] No, I wasn’t married."
     - who: David Boder
-      start: '00:06:02.380'
-      end: '00:06:03.511'
+      start:
+        sec: '362.380'
+        mark: '00:06:02.380'
+      end:
+        sec: '363.511'
+        mark: '00:06:03.511'
       u: "[In Russian] You weren’t married."
     - who: Helena Neufeld
-      start: '00:06:03.511'
-      end: '00:06:04.220'
+      start:
+        sec: '363.511'
+        mark: '00:06:03.511'
+      end:
+        sec: '364.220'
+        mark: '00:06:04.220'
       u: "[In Polish] No."
     - who: David Boder
-      start: '00:06:04.220'
-      end: '00:06:07.733'
+      start:
+        sec: '364.220'
+        mark: '00:06:04.220'
+      end:
+        sec: '367.733'
+        mark: '00:06:07.733'
       u: "[In Russian] In Warsaw you lived in the Ghetto?"
     - who: Helena Neufeld
-      start: '00:06:07.733'
-      end: '00:06:19.778'
+      start:
+        sec: '367.733'
+        mark: '00:06:07.733'
+      end:
+        sec: '379.778'
+        mark: '00:06:19.778'
       u: "[In Polish] Yes. I was in the Warsaw Ghetto from November, ’41, throughout
         the entire time till the resettlement action.The mass deportation from the
         Warsaw ghetto began on July 22, 1942 and lasted until September 12 of that
@@ -1233,20 +2193,36 @@ recording:
         were deported to the Treblinka extermination camp where they were murdered
         by gas.8"
     - who: David Boder
-      start: '00:06:19.778'
-      end: '00:06:25.175'
+      start:
+        sec: '379.778'
+        mark: '00:06:19.778'
+      end:
+        sec: '385.175'
+        mark: '00:06:25.175'
       u: "[In Russian] Tell me, how was life in the Warsaw Ghetto?"
     - who: Helena Neufeld
-      start: '00:06:25.175'
-      end: '00:06:29.004'
+      start:
+        sec: '385.175'
+        mark: '00:06:25.175'
+      end:
+        sec: '389.004'
+        mark: '00:06:29.004'
       u: "[In Polish] Upon first coming into the Ghetto..."
     - who: David Boder
-      start: '00:06:29.004'
-      end: '00:06:29.607'
+      start:
+        sec: '389.004'
+        mark: '00:06:29.004'
+      end:
+        sec: '389.607'
+        mark: '00:06:29.607'
       u: "[In Russian] Yes."
     - who: Helena Neufeld
-      start: '00:06:29.607'
-      end: '00:07:24.771'
+      start:
+        sec: '389.607'
+        mark: '00:06:29.607'
+      end:
+        sec: '444.771'
+        mark: '00:07:24.771'
       u: "[In Polish] I cannot describe the shocking impression it had aroused in
         me. At once I came upon sights which I later encountered much too often, but
         which I shall never be able to forget. There were many houses in ruins inside
@@ -1258,37 +2234,61 @@ recording:
         with armbands. But people were behaving as if that was normal. They were moving
         about..."
     - who: David Boder
-      start: '00:07:24.771'
-      end: '00:07:29.505'
+      start:
+        sec: '444.771'
+        mark: '00:07:24.771'
+      end:
+        sec: '449.505'
+        mark: '00:07:29.505'
       u: "[In Russian] What? [For some reason there is a chuckle in which both participate.]
         Yes. And how long were you in the Ghetto?"
     - who: Helena Neufeld
-      start: '00:07:29.505'
-      end: '00:07:46.570'
+      start:
+        sec: '449.505'
+        mark: '00:07:29.505'
+      end:
+        sec: '466.570'
+        mark: '00:07:46.570'
       u: "[In Polish] I was in the Ghetto till the moment of the main action, that
         means till Jul-...till the 22nd of July, 1942. Then I lived through there
         the entire action."
     - who: David Boder
-      start: '00:07:46.570'
-      end: '00:07:51.694'
+      start:
+        sec: '466.570'
+        mark: '00:07:46.570'
+      end:
+        sec: '471.694'
+        mark: '00:07:51.694'
       u: "[In Russian] Wait a moment. Who was with you? Was your father there? Your
         mother? Who else was there?"
     - who: Helena Neufeld
-      start: '00:07:51.694'
-      end: '00:08:16.508'
+      start:
+        sec: '471.694'
+        mark: '00:07:51.694'
+      end:
+        sec: '496.508'
+        mark: '00:08:16.508'
       u: "[In Polish] No. When I arrived in Warsaw my father wasn’t alive any more,
         and my brother had been killed by the Germans. My brother had been very early
         taken away. In ’40 yet the Germans had taken many Jewish intellectuals as
         hostages and shot them afterwards. So that I was [there] with my mother and
         my sister."
     - who: David Boder
-      start: '00:08:16.508'
-      end: '00:08:23.263'
+      start:
+        sec: '496.508'
+        mark: '00:08:16.508'
+      end:
+        sec: '503.263'
+        mark: '00:08:23.263'
       u: "[In Russian] Aha. And where was your father? Eh...how did your father...did
         your father die before, or what?"
     - who: Helena Neufeld
-      start: '00:08:23.263'
-      end: '00:08:32.565'
+      start:
+        sec: '503.263'
+        mark: '00:08:23.263'
+      end:
+        sec: '512.565'
+        mark: '00:08:32.565'
       u: "[In Polish] My father died a few months after the outbreak of the war. I
         do not know exactly when, because I was in Lwow. He was a very frail man.
         He had lived through the bombing...From the outbreak of the war, Warsaw experienced
@@ -1296,195 +2296,375 @@ recording:
         after the first week. The Germans then bombed the city at will and many Warsaw
         residents perished. German artillery also indiscriminately shelled the city.9"
     - who: David Boder
-      start: '00:08:32.565'
-      end: '00:08:33.032'
+      start:
+        sec: '512.565'
+        mark: '00:08:32.565'
+      end:
+        sec: '513.032'
+        mark: '00:08:33.032'
       u: "[In Russian] Aha."
     - who: Helena Neufeld
-      start: '00:08:33.032'
-      end: '00:08:37.947'
+      start:
+        sec: '513.032'
+        mark: '00:08:33.032'
+      end:
+        sec: '517.947'
+        mark: '00:08:37.947'
       u: "[In Polish]...of Warsaw. And he was altogether a very delicate person, and
         everything that he saw..."
     - who: David Boder
-      start: '00:08:37.947'
-      end: '00:08:38.264'
+      start:
+        sec: '517.947'
+        mark: '00:08:37.947'
+      end:
+        sec: '518.264'
+        mark: '00:08:38.264'
       u: "[In Russian] Aha."
     - who: Helena Neufeld
-      start: '00:08:38.264'
-      end: '00:08:43.676'
+      start:
+        sec: '518.264'
+        mark: '00:08:38.264'
+      end:
+        sec: '523.676'
+        mark: '00:08:43.676'
       u: "[In Polish]...and things were looking very bad, and that made his condition
         worse, so that he died a few months later."
     - who: David Boder
-      start: '00:08:43.676'
-      end: '00:08:47.023'
+      start:
+        sec: '523.676'
+        mark: '00:08:43.676'
+      end:
+        sec: '527.023'
+        mark: '00:08:47.023'
       u: "[In Russian] What was your father’s occupation? What did your family live
         on before the war?"
     - who: Helena Neufeld
-      start: '00:08:47.023'
-      end: '00:08:49.269'
+      start:
+        sec: '527.023'
+        mark: '00:08:47.023'
+      end:
+        sec: '529.269'
+        mark: '00:08:49.269'
       u: "[In Polish] My father was a teacher."
     - who: David Boder
-      start: '00:08:49.269'
-      end: '00:08:49.902'
+      start:
+        sec: '529.269'
+        mark: '00:08:49.269'
+      end:
+        sec: '529.902'
+        mark: '00:08:49.902'
       u: "[In Russian] What?"
     - who: Helena Neufeld
-      start: '00:08:49.902'
-      end: '00:08:51.983'
+      start:
+        sec: '529.902'
+        mark: '00:08:49.902'
+      end:
+        sec: '531.983'
+        mark: '00:08:51.983'
       u: "[In Polish] My father was a teacher."
     - who: David Boder
-      start: '00:08:51.983'
-      end: '00:08:55.224'
+      start:
+        sec: '531.983'
+        mark: '00:08:51.983'
+      end:
+        sec: '535.224'
+        mark: '00:08:55.224'
       u: "[In Russian] A teacher? What did he teach?"
     - who: Helena Neufeld
-      start: '00:08:55.224'
-      end: '00:09:02.249'
+      start:
+        sec: '535.224'
+        mark: '00:08:55.224'
+      end:
+        sec: '542.249'
+        mark: '00:09:02.249'
       u: "[In Polish] Father taught the Polish language, mathematics, in the public
         schools for Jewish children."
     - who: David Boder
-      start: '00:09:02.249'
-      end: '00:09:06.621'
+      start:
+        sec: '542.249'
+        mark: '00:09:02.249'
+      end:
+        sec: '546.621'
+        mark: '00:09:06.621'
       u: "[In Russian] Aha. And he himself, what did he finish [what training did
         he have] ?"
     - who: Helena Neufeld
-      start: '00:09:06.621'
-      end: '00:09:19.902'
+      start:
+        sec: '546.621'
+        mark: '00:09:06.621'
+      end:
+        sec: '559.902'
+        mark: '00:09:19.902'
       u: "[In Polish] My father studied in schools established by Jewish synagogues
         for Jews who wanted to receive a liberal education."
     - who: David Boder
-      start: '00:09:19.902'
-      end: '00:09:20.219'
+      start:
+        sec: '559.902'
+        mark: '00:09:19.902'
+      end:
+        sec: '560.219'
+        mark: '00:09:20.219'
       u: "[In Russian] Aha."
     - who: Helena Neufeld
-      start: '00:09:20.219'
-      end: '00:09:26.294'
+      start:
+        sec: '560.219'
+        mark: '00:09:20.219'
+      end:
+        sec: '566.294'
+        mark: '00:09:26.294'
       u: "[In Polish] And afterwards he passed a teacher’s examination with a certain
         Polish professor."
     - who: David Boder
-      start: '00:09:26.294'
-      end: '00:09:26.807'
+      start:
+        sec: '566.294'
+        mark: '00:09:26.294'
+      end:
+        sec: '566.807'
+        mark: '00:09:26.807'
       u: "[In Russian] Aha."
     - who: Helena Neufeld
-      start: '00:09:26.807'
-      end: '00:09:28.722'
+      start:
+        sec: '566.807'
+        mark: '00:09:26.807'
+      end:
+        sec: '568.722'
+        mark: '00:09:28.722'
       u: "[In Polish] He received a teacher’s diploma."
     - who: David Boder
-      start: '00:09:28.722'
-      end: '00:09:32.235'
+      start:
+        sec: '568.722'
+        mark: '00:09:28.722'
+      end:
+        sec: '572.235'
+        mark: '00:09:32.235'
       u: "[In Russian] That means he died before the Germans entered Poland?"
     - who: Helena Neufeld
-      start: '00:09:32.235'
-      end: '00:09:33.004'
+      start:
+        sec: '572.235'
+        mark: '00:09:32.235'
+      end:
+        sec: '573.004'
+        mark: '00:09:33.004'
       u: "[In Polish] Yes. He died a few..."
     - who: David Boder
-      start: '00:09:33.004'
-      end: '00:09:34.406'
+      start:
+        sec: '573.004'
+        mark: '00:09:33.004'
+      end:
+        sec: '574.406'
+        mark: '00:09:34.406'
       u: "[In Russian] Where did he die, in Warsaw?"
     - who: Helena Neufeld
-      start: '00:09:34.406'
-      end: '00:09:35.371'
+      start:
+        sec: '574.406'
+        mark: '00:09:34.406'
+      end:
+        sec: '575.371'
+        mark: '00:09:35.371'
       u: "[In Polish] In Warsaw."
     - who: David Boder
-      start: '00:09:35.371'
-      end: '00:09:38.642'
+      start:
+        sec: '575.371'
+        mark: '00:09:35.371'
+      end:
+        sec: '578.642'
+        mark: '00:09:38.642'
       u: "[In Russian] Aha. Nu, and...did he die in the Ghetto?"
     - who: Helena Neufeld
-      start: '00:09:38.642'
-      end: '00:09:40.451'
+      start:
+        sec: '578.642'
+        mark: '00:09:38.642'
+      end:
+        sec: '580.451'
+        mark: '00:09:40.451'
       u: "[In Polish] There was no Ghetto yet."
     - who: David Boder
-      start: '00:09:40.451'
-      end: '00:09:41.657'
+      start:
+        sec: '580.451'
+        mark: '00:09:40.451'
+      end:
+        sec: '581.657'
+        mark: '00:09:41.657'
       u: "[In Polish] There was no Ghetto yet."
     - who: David Boder
-      start: '00:09:41.657'
-      end: '00:09:46.150'
+      start:
+        sec: '581.657'
+        mark: '00:09:41.657'
+      end:
+        sec: '586.150'
+        mark: '00:09:46.150'
       u: "[In Russian] So you were in the Ghetto. With whom were you in the Ghetto."
     - who: Helena Neufeld
-      start: '00:09:46.150'
-      end: '00:09:49.723'
+      start:
+        sec: '586.150'
+        mark: '00:09:46.150'
+      end:
+        sec: '589.723'
+        mark: '00:09:49.723'
       u: "[In Polish] With [my] mother, with [my] sister, and with [my] sister’s husband."
     - who: David Boder
-      start: '00:09:49.723'
-      end: '00:09:51.969'
+      start:
+        sec: '589.723'
+        mark: '00:09:49.723'
+      end:
+        sec: '591.969'
+        mark: '00:09:51.969'
       u: "[In Russian] Where did you live?"
     - who: Helena Neufeld
-      start: '00:09:51.969'
-      end: '00:09:55.165'
+      start:
+        sec: '591.969'
+        mark: '00:09:51.969'
+      end:
+        sec: '595.165'
+        mark: '00:09:55.165'
       u: "[In Polish] We lived on Nowolipia, in..."
     - who: David Boder
-      start: '00:09:55.165'
-      end: '00:09:56.552'
+      start:
+        sec: '595.165'
+        mark: '00:09:55.165'
+      end:
+        sec: '596.552'
+        mark: '00:09:56.552'
       u: "[In Russian] In a house?"
     - who: Helena Neufeld
-      start: '00:09:56.552'
-      end: '00:10:01.979'
+      start:
+        sec: '596.552'
+        mark: '00:09:56.552'
+      end:
+        sec: '601.979'
+        mark: '00:10:01.979'
       u: "[In Polish] In our apartment. That apartment...Nowolipia belonged to the
         Ghetto."
     - who: David Boder
-      start: '00:10:01.979'
-      end: '00:10:04.301'
+      start:
+        sec: '601.979'
+        mark: '00:10:01.979'
+      end:
+        sec: '604.301'
+        mark: '00:10:04.301'
       u: "[In Russian] Aha. So you remained in your apartment..."
     - who: Helena Neufeld
-      start: '00:10:04.301'
-      end: '00:10:05.432'
+      start:
+        sec: '604.301'
+        mark: '00:10:04.301'
+      end:
+        sec: '605.432'
+        mark: '00:10:05.432'
       u: "[In Polish] Yes."
     - who: David Boder
-      start: '00:10:05.432'
-      end: '00:10:07.467'
+      start:
+        sec: '605.432'
+        mark: '00:10:05.432'
+      end:
+        sec: '607.467'
+        mark: '00:10:07.467'
       u: "[In Russian]...because Nowolipia was made a part of the Ghetto."
     - who: Helena Neufeld
-      start: '00:10:07.467'
-      end: '00:10:07.708'
+      start:
+        sec: '607.467'
+        mark: '00:10:07.467'
+      end:
+        sec: '607.708'
+        mark: '00:10:07.708'
       u: "[In Polish] Yes."
     - who: David Boder
-      start: '00:10:07.708'
-      end: '00:10:16.226'
+      start:
+        sec: '607.708'
+        mark: '00:10:07.708'
+      end:
+        sec: '616.226'
+        mark: '00:10:16.226'
       u: "[In Russian] All right. That house belonged to whom? [Pause.] Well, who
         was the landlord of the house?"
     - who: Helena Neufeld
-      start: '00:10:16.226'
-      end: '00:10:19.091'
+      start:
+        sec: '616.226'
+        mark: '00:10:16.226'
+      end:
+        sec: '619.091'
+        mark: '00:10:19.091'
       u: "[In Polish] Nu, there was the owner of the house. Before the war he was..."
     - who: David Boder
-      start: '00:10:19.091'
-      end: '00:10:19.950'
+      start:
+        sec: '619.091'
+        mark: '00:10:19.091'
+      end:
+        sec: '619.950'
+        mark: '00:10:19.950'
       u: "[In Russian] A Jew or..."
     - who: Helena Neufeld
-      start: '00:10:19.950'
-      end: '00:10:22.061'
+      start:
+        sec: '619.950'
+        mark: '00:10:19.950'
+      end:
+        sec: '622.061'
+        mark: '00:10:22.061'
       u: "[In Polish] It was a Jew. [Words not clear.]"
     - who: David Boder
-      start: '00:10:22.061'
-      end: '00:10:26.719'
+      start:
+        sec: '622.061'
+        mark: '00:10:22.061'
+      end:
+        sec: '626.719'
+        mark: '00:10:26.719'
       u: "[In Russian] Yes. And did you pay rent?"
     - who: Helena Neufeld
-      start: '00:10:26.719'
-      end: '00:10:31.332'
+      start:
+        sec: '626.719'
+        mark: '00:10:26.719'
+      end:
+        sec: '631.332'
+        mark: '00:10:31.332'
       u: "[In Polish] In the beginning we paid and later on...I don’t remember."
     - who: David Boder
-      start: '00:10:31.332'
-      end: '00:10:35.131'
+      start:
+        sec: '631.332'
+        mark: '00:10:31.332'
+      end:
+        sec: '635.131'
+        mark: '00:10:35.131'
       u: "[In Russian] All right. When did you go into the Ghetto?"
     - who: Helena Neufeld
-      start: '00:10:35.131'
-      end: '00:10:51.435'
+      start:
+        sec: '635.131'
+        mark: '00:10:35.131'
+      end:
+        sec: '651.435'
+        mark: '00:10:51.435'
       u: "[In Polish] Then the resettlement action started, on the 22nd of July, 1942.
         At that time...we were hiding a little..."
     - who: David Boder
-      start: '00:10:51.435'
-      end: '00:10:52.400'
+      start:
+        sec: '651.435'
+        mark: '00:10:51.435'
+      end:
+        sec: '652.400'
+        mark: '00:10:52.400'
       u: "[In Russian] In the Ghetto?"
     - who: Helena Neufeld
-      start: '00:10:52.400'
-      end: '00:10:59.516'
+      start:
+        sec: '652.400'
+        mark: '00:10:52.400'
+      end:
+        sec: '659.516'
+        mark: '00:10:59.516'
       u: "[In Polish] In the Ghetto itself. If the action took place on one street,
         we would go over to the next street."
     - who: David Boder
-      start: '00:10:59.516'
-      end: '00:11:02.787'
+      start:
+        sec: '659.516'
+        mark: '00:10:59.516'
+      end:
+        sec: '662.787'
+        mark: '00:11:02.787'
       u: "[In Russian] What kind of action was it? Tell me about the action."
     - who: Helena Neufeld
-      start: '00:11:02.787'
-      end: '00:11:52.241'
+      start:
+        sec: '662.787'
+        mark: '00:11:02.787'
+      end:
+        sec: '712.241'
+        mark: '00:11:52.241'
       u: "[In Polish] Then appeared...the Germans...posters appeared upon the walls,
         even signed by the Jewish Community Council, that all the Jews have to report
         to resettlement points, and they will be resettled to the East. Everyone will
@@ -1501,13 +2681,21 @@ recording:
         and her family resisted German blandishments by doing everything possible
         to avoid deportation.10"
     - who: David Boder
-      start: '00:11:52.241'
-      end: '00:11:56.447'
+      start:
+        sec: '712.241'
+        mark: '00:11:52.241'
+      end:
+        sec: '716.447'
+        mark: '00:11:56.447'
       u: "[In Russian] And there, what...Were there any hospitals in the Ghetto? Were
         there doctors?"
     - who: Helena Neufeld
-      start: '00:11:56.447'
-      end: '00:12:15.472'
+      start:
+        sec: '716.447'
+        mark: '00:11:56.447'
+      end:
+        sec: '735.472'
+        mark: '00:12:15.472'
       u: "[In Polish] Yes. There were hospitals in the Ghetto. There were doctors.
         Only the sick were dying simply of hunger. There was little medicine. Even
         if they did succeed in curing a sick person, there still was no food to nurse
@@ -1521,56 +2709,104 @@ recording:
         but, as Mrs. Neufeld indicates, they were often helpless in the face of acute
         shortages of food and medicine.11"
     - who: David Boder
-      start: '00:12:15.472'
-      end: '00:12:18.922'
+      start:
+        sec: '735.472'
+        mark: '00:12:15.472'
+      end:
+        sec: '738.922'
+        mark: '00:12:18.922'
       u: "[In Russian] And where to...where were the people buried?"
     - who: Helena Neufeld
-      start: '00:12:18.922'
-      end: '00:12:20.038'
+      start:
+        sec: '738.922'
+        mark: '00:12:18.922'
+      end:
+        sec: '740.038'
+        mark: '00:12:20.038'
       u: "[In Polish] What is that?"
     - who: David Boder
-      start: '00:12:20.038'
-      end: '00:12:23.611'
+      start:
+        sec: '740.038'
+        mark: '00:12:20.038'
+      end:
+        sec: '743.611'
+        mark: '00:12:23.611'
       u: "[In Russian] Where were they buried? [In German] Where were they buried?"
     - who: Helena Neufeld
-      start: '00:12:23.611'
-      end: '00:12:27.184'
+      start:
+        sec: '743.611'
+        mark: '00:12:23.611'
+      end:
+        sec: '747.184'
+        mark: '00:12:27.184'
       u: "[In Polish] Oh. People were buried in the Jewish cemetery."
     - who: David Boder
-      start: '00:12:27.184'
-      end: '00:12:35.973'
+      start:
+        sec: '747.184'
+        mark: '00:12:27.184'
+      end:
+        sec: '755.973'
+        mark: '00:12:35.973'
       u: "[In German/English] Was...was the Jewish cemetery inside the Ghetto?"
     - who: Helena Neufeld
-      start: '00:12:35.973'
-      end: '00:12:47.476'
+      start:
+        sec: '755.973'
+        mark: '00:12:35.973'
+      end:
+        sec: '767.476'
+        mark: '00:12:47.476'
       u: "[In Polish] The Jewish cemetery was a little outside the Ghetto, but passes
         could be gotten, and one could...even the family could accompany the deceased."
     - who: David Boder
-      start: '00:12:47.476'
-      end: '00:12:47.853'
+      start:
+        sec: '767.476'
+        mark: '00:12:47.476'
+      end:
+        sec: '767.853'
+        mark: '00:12:47.853'
       u: "[In Russian] Yes."
     - who: Helena Neufeld
-      start: '00:12:47.853'
-      end: '00:12:53.235'
+      start:
+        sec: '767.853'
+        mark: '00:12:47.853'
+      end:
+        sec: '773.235'
+        mark: '00:12:53.235'
       u: "[In Polish] Yes. And they could be buried in the cemetery on Gesia [Street]
         , in the old Jewish cemetery."
     - who: David Boder
-      start: '00:12:53.235'
-      end: '00:12:53.823'
+      start:
+        sec: '773.235'
+        mark: '00:12:53.235'
+      end:
+        sec: '773.823'
+        mark: '00:12:53.823'
       u: "[In Russian] Aha."
     - who: Helena Neufeld
-      start: '00:12:53.823'
-      end: '00:13:10.119'
+      start:
+        sec: '773.823'
+        mark: '00:12:53.823'
+      end:
+        sec: '790.119'
+        mark: '00:13:10.119'
       u: "[In Polish] The poor were buried in communal graves. There were huge communal
         graves, because the mortality toward the end was around five thousand people
         a month, and those who could afford it were buried in individual graves."
     - who: David Boder
-      start: '00:13:10.119'
-      end: '00:13:15.366'
+      start:
+        sec: '790.119'
+        mark: '00:13:10.119'
+      end:
+        sec: '795.366'
+        mark: '00:13:15.366'
       u: "[In Russian] Yes. Nu? Afterwards how did you leave the Ghetto?"
     - who: Helena Neufeld
-      start: '00:13:15.366'
-      end: '00:13:49.270'
+      start:
+        sec: '795.366'
+        mark: '00:13:15.366'
+      end:
+        sec: '829.270'
+        mark: '00:13:49.270'
       u: "[In Polish] Afterwards, after the first action, I remained, because there
         was...there had remained around forty thousand Jews after the first action.
         Of them a part was left in a few German plants in which were manufactured
@@ -1580,12 +2816,20 @@ recording:
         were about 35,000 Jews who remained legally  in the ghetto and about 25,000
         who were there illegally.12"
     - who: David Boder
-      start: '00:13:49.270'
-      end: '00:13:50.416'
+      start:
+        sec: '829.270'
+        mark: '00:13:49.270'
+      end:
+        sec: '830.416'
+        mark: '00:13:50.416'
       u: "[In Russian] Hm."
     - who: Helena Neufeld
-      start: '00:13:50.416'
-      end: '00:15:12.022'
+      start:
+        sec: '830.416'
+        mark: '00:13:50.416'
+      end:
+        sec: '912.022'
+        mark: '00:15:12.022'
       u: "[In Polish] I was in the Ghetto till January, ’43. In January the second
         action broke out, and in January I escaped to the Aryan side during the course
         of the second action.The Germans launched a second wave of deportations on
@@ -1605,38 +2849,70 @@ recording:
         the case with so many others, was most fortuitous. She was among the more
         than 25,000 Jews hidden by sympathetic Poles in “Aryan” Warsaw.14"
     - who: David Boder
-      start: '00:15:12.022'
-      end: '00:15:16.937'
+      start:
+        sec: '912.022'
+        mark: '00:15:12.022'
+      end:
+        sec: '916.937'
+        mark: '00:15:16.937'
       u: "[In Russian] What happened then? Continue, please."
     - who: Helena Neufeld
-      start: '00:15:16.937'
-      end: '00:15:49.469'
+      start:
+        sec: '916.937'
+        mark: '00:15:16.937'
+      end:
+        sec: '949.469'
+        mark: '00:15:49.469'
       u: |-
         [In Polish] Nu, it was very difficult for me to hide, because I have a very Semitic appearance. The Poles with whom I was hiding received me well, but I had to change my lodgings several times. The last time I was living on Muranowski Street right across from the Ghetto. Well, and that is how I was able to see the German action of April, ’43, the uprising of the Warsaw Ghetto.The uprising of the Warsaw ghetto, the most sustained and famous Jewish revolt during the Holocaust, began on April 19, 1943, the eve of the Passover holiday.
         15
     - who: David Boder
-      start: '00:15:49.469'
-      end: '00:15:50.133'
+      start:
+        sec: '949.469'
+        mark: '00:15:49.469'
+      end:
+        sec: '950.133'
+        mark: '00:15:50.133'
       u: "[In Russian] Yes."
     - who: Helena Neufeld
-      start: '00:15:50.133'
-      end: '00:15:51.475'
+      start:
+        sec: '950.133'
+        mark: '00:15:50.133'
+      end:
+        sec: '951.475'
+        mark: '00:15:51.475'
       u: "[In Polish] Because our windows..."
     - who: David Boder
-      start: '00:15:51.475'
-      end: '00:15:53.450'
+      start:
+        sec: '951.475'
+        mark: '00:15:51.475'
+      end:
+        sec: '953.450'
+        mark: '00:15:53.450'
       u: "[In Russian] Did you live there during the uprising?"
     - who: Helena Neufeld
-      start: '00:15:53.450'
-      end: '00:15:55.545'
+      start:
+        sec: '953.450'
+        mark: '00:15:53.450'
+      end:
+        sec: '955.545'
+        mark: '00:15:55.545'
       u: I lived vis-a-vis. I saw [it]
     - who: David Boder
-      start: '00:15:55.545'
-      end: '00:15:58.983'
+      start:
+        sec: '955.545'
+        mark: '00:15:55.545'
+      end:
+        sec: '958.983'
+        mark: '00:15:58.983'
       u: Yes, you saw [it] Now tell about the uprising.
     - who: Helena Neufeld
-      start: '00:15:58.983'
-      end: '00:18:05.741'
+      start:
+        sec: '958.983'
+        mark: '00:15:58.983'
+      end:
+        sec: '1085.741'
+        mark: '00:18:05.741'
       u: "[In Polish] Our windows faced directly the corner of Muranowska and Nalewki
         Streets. In this way we could observe the whole Muranowska Square, part of
         Nalewki [Street] , and, I think, Mila Street which led precisely to that distribution
@@ -1661,13 +2937,21 @@ recording:
         quell the rebellion, but it took them about one month to do so, more time
         that it had taken them to conquer some European countries.16"
     - who: David Boder
-      start: '00:18:05.741'
-      end: '00:18:11.937'
+      start:
+        sec: '1085.741'
+        mark: '00:18:05.741'
+      end:
+        sec: '1091.937'
+        mark: '00:18:11.937'
       u: "[In Russian] Tell me, what happened to you afterwards? How long were you
         in Warsaw, and how did you get out of Warsaw?"
     - who: Helena Neufeld
-      start: '00:18:11.937'
-      end: '00:18:57.238'
+      start:
+        sec: '1091.937'
+        mark: '00:18:11.937'
+      end:
+        sec: '1137.238'
+        mark: '00:18:57.238'
       u: "[In Polish] Afterwards I was still hiding for some time, but it was very
         difficult for me to hide. Later on the Germans took us to...took me to the
         lager, to Bergen-Belsen. This was in July in the year ’43. In this lager I
@@ -1677,174 +2961,326 @@ recording:
         I was in the train, until the 23rd of April.Mrs. Neufeld was evacuated just
         five days before Bergen Belsen was liberated.17"
     - who: David Boder
-      start: '00:18:57.238'
-      end: '00:18:59.620'
+      start:
+        sec: '1137.238'
+        mark: '00:18:57.238'
+      end:
+        sec: '1139.620'
+        mark: '00:18:59.620'
       u: "[In Russian] You were evacuated from Belsen."
     - who: Helena Neufeld
-      start: '00:18:59.620'
-      end: '00:19:00.284'
+      start:
+        sec: '1139.620'
+        mark: '00:18:59.620'
+      end:
+        sec: '1140.284'
+        mark: '00:19:00.284'
       u: "[In Polish] Yes."
     - who: David Boder
-      start: '00:19:00.284'
-      end: '00:19:01.445'
+      start:
+        sec: '1140.284'
+        mark: '00:19:00.284'
+      end:
+        sec: '1141.445'
+        mark: '00:19:01.445'
       u: "[In Russian] Who?"
     - who: Helena Neufeld
-      start: '00:19:01.445'
-      end: '00:19:09.269'
+      start:
+        sec: '1141.445'
+        mark: '00:19:01.445'
+      end:
+        sec: '1149.269'
+        mark: '00:19:09.269'
       u: "[In Polish] The Germans. The Germans were in the habit of evacuating all
         the camps which the English or the Americans were approaching, provided they
         had time."
     - who: David Boder
-      start: '00:19:09.269'
-      end: '00:19:09.812'
+      start:
+        sec: '1149.269'
+        mark: '00:19:09.269'
+      end:
+        sec: '1149.812'
+        mark: '00:19:09.812'
       u: "[In Russian] Hm."
     - who: Helena Neufeld
-      start: '00:19:09.812'
-      end: '00:19:13.747'
+      start:
+        sec: '1149.812'
+        mark: '00:19:09.812'
+      end:
+        sec: '1153.747'
+        mark: '00:19:13.747'
       u: "[In Polish] They began to evacuate Belsen, too, and I was evacuated."
     - who: David Boder
-      start: '00:19:13.747'
-      end: '00:19:16.054'
+      start:
+        sec: '1153.747'
+        mark: '00:19:13.747'
+      end:
+        sec: '1156.054'
+        mark: '00:19:16.054'
       u: "[In Russian] Did they know in Belsen that you are a Jewess?"
     - who: Helena Neufeld
-      start: '00:19:16.054'
-      end: '00:19:29.275'
+      start:
+        sec: '1156.054'
+        mark: '00:19:16.054'
+      end:
+        sec: '1169.275'
+        mark: '00:19:29.275'
       u: "[In Polish] Yes. In Belsen there were very many Jews. There were Polish
         Jews, Hungarian Jews, Rumanian Jews, Yugoslavian, Dutch Jews."
     - who: David Boder
-      start: '00:19:29.275'
-      end: '00:19:34.129'
+      start:
+        sec: '1169.275'
+        mark: '00:19:29.275'
+      end:
+        sec: '1174.129'
+        mark: '00:19:34.129'
       u: "[In Russian] Aha. How long were you in Belsen?"
     - who: Helena Neufeld
-      start: '00:19:34.129'
-      end: '00:19:36.843'
+      start:
+        sec: '1174.129'
+        mark: '00:19:34.129'
+      end:
+        sec: '1176.843'
+        mark: '00:19:36.843'
       u: "[In Polish] Over twenty months."
     - who: David Boder
-      start: '00:19:36.843'
-      end: '00:19:37.974'
+      start:
+        sec: '1176.843'
+        mark: '00:19:36.843'
+      end:
+        sec: '1177.974'
+        mark: '00:19:37.974'
       u: "[In Russian] How many?"
     - who: Helena Neufeld
-      start: '00:19:37.974'
-      end: '00:19:39.738'
+      start:
+        sec: '1177.974'
+        mark: '00:19:37.974'
+      end:
+        sec: '1179.738'
+        mark: '00:19:39.738'
       u: Over twenty months.
     - who: David Boder
-      start: '00:19:39.738'
-      end: '00:19:40.658'
+      start:
+        sec: '1179.738'
+        mark: '00:19:39.738'
+      end:
+        sec: '1180.658'
+        mark: '00:19:40.658'
       u: Twenty months?
     - who: Helena Neufeld
-      start: '00:19:40.658'
-      end: '00:19:41.186'
+      start:
+        sec: '1180.658'
+        mark: '00:19:40.658'
+      end:
+        sec: '1181.186'
+        mark: '00:19:41.186'
       u: "[In Polish] Yes."
     - who: David Boder
-      start: '00:19:41.186'
-      end: '00:19:47.533'
+      start:
+        sec: '1181.186'
+        mark: '00:19:41.186'
+      end:
+        sec: '1187.533'
+        mark: '00:19:47.533'
       u: "[In Russian] Tell me about the life in Belsen. How were you living in your
         block and so forth?"
     - who: Helena Neufeld
-      start: '00:19:47.533'
-      end: '00:19:49.086'
+      start:
+        sec: '1187.533'
+        mark: '00:19:47.533'
+      end:
+        sec: '1189.086'
+        mark: '00:19:49.086'
       u: "[In Polish] So..."
     - who: David Boder
-      start: '00:19:49.086'
-      end: '00:19:50.006'
+      start:
+        sec: '1189.086'
+        mark: '00:19:49.086'
+      end:
+        sec: '1190.006'
+        mark: '00:19:50.006'
       u: "[In Russian] Did you work in Belsen?"
     - who: Helena Neufeld
-      start: '00:19:50.006'
-      end: '00:19:51.197'
+      start:
+        sec: '1190.006'
+        mark: '00:19:50.006'
+      end:
+        sec: '1191.197'
+        mark: '00:19:51.197'
       u: "[In Polish] No, we didn’t..."
     - who: David Boder
-      start: '00:19:51.197'
-      end: '00:19:51.393'
+      start:
+        sec: '1191.197'
+        mark: '00:19:51.197'
+      end:
+        sec: '1191.393'
+        mark: '00:19:51.393'
       u: "[In Russian] No."
     - who: Helena Neufeld
-      start: '00:19:51.393'
-      end: '00:19:51.890'
+      start:
+        sec: '1191.393'
+        mark: '00:19:51.393'
+      end:
+        sec: '1191.890'
+        mark: '00:19:51.890'
       u: "[In Polish]...work."
     - who: David Boder
-      start: '00:19:51.890'
-      end: '00:19:54.574'
+      start:
+        sec: '1191.890'
+        mark: '00:19:51.890'
+      end:
+        sec: '1194.574'
+        mark: '00:19:54.574'
       u: "[In Russian] That means you didn’t work for twenty months?"
     - who: Helena Neufeld
-      start: '00:19:54.574'
-      end: '00:19:55.102'
+      start:
+        sec: '1194.574'
+        mark: '00:19:54.574'
+      end:
+        sec: '1195.102'
+        mark: '00:19:55.102'
       u: "[In Polish] No."
     - who: David Boder
-      start: '00:19:55.102'
-      end: '00:19:58.826'
+      start:
+        sec: '1195.102'
+        mark: '00:19:55.102'
+      end:
+        sec: '1198.826'
+        mark: '00:19:58.826'
       u: "[In Russian] How many people were in a block?"
     - who: Helena Neufeld
-      start: '00:19:58.826'
-      end: '00:20:21.364'
+      start:
+        sec: '1198.826'
+        mark: '00:19:58.826'
+      end:
+        sec: '1221.364'
+        mark: '00:20:21.364'
       u: "[In Polish] In the beginning there were...we were kept separately, the Polish
         Jews. This was a group of over two thousand five hundred persons, in the beginning.
         Later on they began...in October, after three months, they sent out over a
         thousand people from our group."
     - who: David Boder
-      start: '00:20:21.364'
-      end: '00:20:22.555'
+      start:
+        sec: '1221.364'
+        mark: '00:20:21.364'
+      end:
+        sec: '1222.555'
+        mark: '00:20:22.555'
       u: "[In Russian] Hm."
     - who: Helena Neufeld
-      start: '00:20:22.555'
-      end: '00:20:28.299'
+      start:
+        sec: '1222.555'
+        mark: '00:20:22.555'
+      end:
+        sec: '1228.299'
+        mark: '00:20:28.299'
       u: |-
         [In Polish] About two thousand people. Later we found out that they were sent to Auschwitz.Bergen Belsen was established in July 1943 so Mrs. Neufeld was there almost from its inception. It began as a prisoner of war camp but had five satellite camps among which was one for Jews from Poland who had papers issued by various countries mainly in Latin America. As Mrs. Neufeld subsequently indicates, the prisoners in this satellite camp did not have to engage  in forced labor and conditions were at first better than those elsewhere in Belsen. The deportation of some 1,700 prisoners from this satellite camp to Auschwitz did indeed occur in October 1943.
         350 more were deported to Auschwitz in early 1944. Mrs. Neufeld and, as she will later reveal, her husband, who had been sent to Belsen with her, were among the several hundred who remained in the camp. Just why they were spared is unknown.18
     - who: David Boder
-      start: '00:20:28.299'
-      end: '00:20:31.721'
+      start:
+        sec: '1228.299'
+        mark: '00:20:28.299'
+      end:
+        sec: '1231.721'
+        mark: '00:20:31.721'
       u: "[In Russian] How did you sleep there in the barracks?"
     - who: Helena Neufeld
-      start: '00:20:31.721'
-      end: '00:20:38.234'
+      start:
+        sec: '1231.721'
+        mark: '00:20:31.721'
+      end:
+        sec: '1238.234'
+        mark: '00:20:38.234'
       u: "[In Polish] In the beginning conditions were still a little better. It wasn’t
         that crowded, and every one of us had his plank bed."
     - who: David Boder
-      start: '00:20:38.234'
-      end: '00:20:39.968'
+      start:
+        sec: '1238.234'
+        mark: '00:20:38.234'
+      end:
+        sec: '1239.968'
+        mark: '00:20:39.968'
       u: "[In Russian] Yes?"
     - who: Helena Neufeld
-      start: '00:20:39.968'
-      end: '00:21:03.350'
+      start:
+        sec: '1239.968'
+        mark: '00:20:39.968'
+      end:
+        sec: '1263.350'
+        mark: '00:21:03.350'
       u: "[In Polish] But the plank beds were two-tiered, a lower one and an upper
         one, very closely set. One couldn’t turn around. The spaces between them were
         very narrow. This fatigued us very much. We covered ourselves with blankets.
         We had such paillasses. We received a soup, bread, sometimes a little margarine."
     - who: David Boder
-      start: '00:21:03.350'
-      end: '00:21:05.295'
+      start:
+        sec: '1263.350'
+        mark: '00:21:03.350'
+      end:
+        sec: '1265.295'
+        mark: '00:21:05.295'
       u: "[In Russian] What did you do all day?"
     - who: Helena Neufeld
-      start: '00:21:05.295'
-      end: '00:21:12.757'
+      start:
+        sec: '1265.295'
+        mark: '00:21:05.295'
+      end:
+        sec: '1272.757'
+        mark: '00:21:12.757'
       u: "[In Polish] Nothing, nothing. Our group didn’t work. There were groups which
         worked, and which didn’t work."
     - who: David Boder
-      start: '00:21:12.757'
-      end: '00:21:18.154'
+      start:
+        sec: '1272.757'
+        mark: '00:21:12.757'
+      end:
+        sec: '1278.154'
+        mark: '00:21:18.154'
       u: "[In Russian] Did you know in Belsen that woman...What was she called?...eh..."
     - who: Helena Neufeld
-      start: '00:21:18.154'
-      end: '00:21:19.179'
+      start:
+        sec: '1278.154'
+        mark: '00:21:18.154'
+      end:
+        sec: '1279.179'
+        mark: '00:21:19.179'
       u: "[In Polish] Irma..."
     - who: David Boder
-      start: '00:21:19.179'
-      end: '00:21:20.747'
+      start:
+        sec: '1279.179'
+        mark: '00:21:19.179'
+      end:
+        sec: '1280.747'
+        mark: '00:21:20.747'
       u: "[In Russian] Irma Gray, or...[reference to Irma Grese]Irma Grese, a female
         camp supervisor, was known as “the bitch of Belsen” due to the inhuman cruelty
         she displayed towards the prisoners. She was sentence to death for her crimes
         by a British military court and hanged in December 1945 at the age of twenty
         one.19"
     - who: Helena Neufeld
-      start: '00:21:20.747'
-      end: '00:21:24.305'
+      start:
+        sec: '1280.747'
+        mark: '00:21:20.747'
+      end:
+        sec: '1284.305'
+        mark: '00:21:24.305'
       u: "[In Polish] No, I didn’t know her, but I knew the Commandant Kramer."
     - who: David Boder
-      start: '00:21:24.305'
-      end: '00:21:25.722'
+      start:
+        sec: '1284.305'
+        mark: '00:21:24.305'
+      end:
+        sec: '1285.722'
+        mark: '00:21:25.722'
       u: "[In Russian] You did know Kramer?"
     - who: Helena Neufeld
-      start: '00:21:25.722'
-      end: '00:21:34.984'
+      start:
+        sec: '1285.722'
+        mark: '00:21:25.722'
+      end:
+        sec: '1294.984'
+        mark: '00:21:34.984'
       u: "[In Polish] Yes. I saw him a few times. In the beginning we had a different
         Commandant, Kass [?] , and afterwards Kramer took his place.Josef Kramer was
         appointed commandant of Bergen Belsen on December 2, 1944. Before his appointment,
@@ -1853,20 +3289,36 @@ recording:
         court, sentenced to death and hanged on December 12, 1945 at the age of thirty
         nine. Adolf Hass and Siegfried Leidle preceded Kramer as Auschwitz commandants.20"
     - who: David Boder
-      start: '00:21:34.984'
-      end: '00:21:35.467'
+      start:
+        sec: '1294.984'
+        mark: '00:21:34.984'
+      end:
+        sec: '1295.467'
+        mark: '00:21:35.467'
       u: "[In Russian] Hm."
     - who: Helena Neufeld
-      start: '00:21:35.467'
-      end: '00:21:36.537'
+      start:
+        sec: '1295.467'
+        mark: '00:21:35.467'
+      end:
+        sec: '1296.537'
+        mark: '00:21:36.537'
       u: "[In Polish] Yes."
     - who: David Boder
-      start: '00:21:36.537'
-      end: '00:21:40.065'
+      start:
+        sec: '1296.537'
+        mark: '00:21:36.537'
+      end:
+        sec: '1300.065'
+        mark: '00:21:40.065'
       u: "[In Russian] Yes. And you, were you in good health in Belsen?"
     - who: Helena Neufeld
-      start: '00:21:40.065'
-      end: '00:21:48.824'
+      start:
+        sec: '1300.065'
+        mark: '00:21:40.065'
+      end:
+        sec: '1308.824'
+        mark: '00:21:48.824'
       u: "[In Polish] No. In Belsen...I arrived in Belsen already sick, because I
         had been in prison for two weeks in Warsaw, in the Pawiak [Prison]Pawiak prison
         was located in the Jewish quarter of Warsaw. It was the main prison used by
@@ -1875,12 +3327,20 @@ recording:
         Pawiak held a number of Jewish prisoners caught on the “Aryan” side of Warsaw
         such as Mrs. Neufeld.21"
     - who: David Boder
-      start: '00:21:48.824'
-      end: '00:21:49.593'
+      start:
+        sec: '1308.824'
+        mark: '00:21:48.824'
+      end:
+        sec: '1309.593'
+        mark: '00:21:49.593'
       u: "[In Russian] Hm."
     - who: Helena Neufeld
-      start: '00:21:49.593'
-      end: '00:22:30.719'
+      start:
+        sec: '1309.593'
+        mark: '00:21:49.593'
+      end:
+        sec: '1350.719'
+        mark: '00:22:30.719'
       u: "[In Polish] Well, and besides, I had gone through a great deal during the
         time when I was hiding. I arrived sick, and later on...everybody was sick,
         because we got very little food, so that everybody was very weak. At first
@@ -1894,23 +3354,39 @@ recording:
         Belsen claimed more than 18,000 lives. From January 1945 to mid April of that
         year, some 35,000 prisoners perished and were buried in mass graves.22"
     - who: David Boder
-      start: '00:22:30.719'
-      end: '00:22:37.518'
+      start:
+        sec: '1350.719'
+        mark: '00:22:30.719'
+      end:
+        sec: '1357.518'
+        mark: '00:22:37.518'
       u: "[In Russian] Yes. Tell me, if anybody got sick what did they do then?"
     - who: Helena Neufeld
-      start: '00:22:37.518'
-      end: '00:22:57.855'
+      start:
+        sec: '1357.518'
+        mark: '00:22:37.518'
+      end:
+        sec: '1377.855'
+        mark: '00:22:57.855'
       u: "[In Polish] There were...among the prisoners there were doctors. They treated
         the sick, and besides that there was a large hospital. In case there were
         any serious cases it was reported to the German doctor. Well, and the sick
         were taken to the hospital."
     - who: David Boder
-      start: '00:22:57.855'
-      end: '00:23:03.719'
+      start:
+        sec: '1377.855'
+        mark: '00:22:57.855'
+      end:
+        sec: '1383.719'
+        mark: '00:23:03.719'
       u: "[In Russian] Yes. And later on you were evacuated from Belsen. Where to?"
     - who: Helena Neufeld
-      start: '00:23:03.719'
-      end: '00:23:18.041'
+      start:
+        sec: '1383.719'
+        mark: '00:23:03.719'
+      end:
+        sec: '1398.041'
+        mark: '00:23:18.041'
       u: "[In Polish] The train was traveling there and back, there and back. Because
         all the roads were out and were bombed. Railroad stations were burning, so
         that...the train was supposed to go to Theresenstadt, to Czechoslovakia.Theresienstadt
@@ -1918,209 +3394,401 @@ recording:
         It was liberated by the Red Army on May 8, 1945. 33,000 Jews perished in Theresienstadt,
         and 88,000 were deported from there to extermination camps.23"
     - who: David Boder
-      start: '00:23:18.041'
-      end: '00:23:18.689'
+      start:
+        sec: '1398.041'
+        mark: '00:23:18.041'
+      end:
+        sec: '1398.689'
+        mark: '00:23:18.689'
       u: "[In German] Czech—..."
     - who: Helena Neufeld
-      start: '00:23:18.689'
-      end: '00:23:27.523'
+      start:
+        sec: '1398.689'
+        mark: '00:23:18.689'
+      end:
+        sec: '1407.523'
+        mark: '00:23:27.523'
       u: "[In Polish] Yes. But it didn’t travel very far, because the engineer couldn’t
         run the train on the bombed out roads."
     - who: David Boder
-      start: '00:23:27.523'
-      end: '00:23:28.277'
+      start:
+        sec: '1407.523'
+        mark: '00:23:27.523'
+      end:
+        sec: '1408.277'
+        mark: '00:23:28.277'
       u: "[In Russian] Yes. [Words not clear.]"
     - who: Helena Neufeld
-      start: '00:23:28.277'
-      end: '00:23:31.594'
+      start:
+        sec: '1408.277'
+        mark: '00:23:28.277'
+      end:
+        sec: '1411.594'
+        mark: '00:23:31.594'
       u: "[In Polish] There were air raids. No? There were air raids. We were bombed."
     - who: David Boder
-      start: '00:23:31.594'
-      end: '00:23:33.659'
+      start:
+        sec: '1411.594'
+        mark: '00:23:31.594'
+      end:
+        sec: '1413.659'
+        mark: '00:23:33.659'
       u: "[In Russian] You didn’t go to Theresenstadt?"
     - who: Helena Neufeld
-      start: '00:23:33.659'
-      end: '00:23:34.081'
+      start:
+        sec: '1413.659'
+        mark: '00:23:33.659'
+      end:
+        sec: '1414.081'
+        mark: '00:23:34.081'
       u: "[In Polish] No."
     - who: David Boder
-      start: '00:23:34.081'
-      end: '00:23:34.217'
+      start:
+        sec: '1414.081'
+        mark: '00:23:34.081'
+      end:
+        sec: '1414.217'
+        mark: '00:23:34.217'
       u: "[In Russian] No."
     - who: Helena Neufeld
-      start: '00:23:34.217'
-      end: '00:23:34.745'
+      start:
+        sec: '1414.217'
+        mark: '00:23:34.217'
+      end:
+        sec: '1414.745'
+        mark: '00:23:34.745'
       u: "[In Polish] We were of course..."
     - who: David Boder
-      start: '00:23:34.745'
-      end: '00:23:36.629'
+      start:
+        sec: '1414.745'
+        mark: '00:23:34.745'
+      end:
+        sec: '1416.629'
+        mark: '00:23:36.629'
       u: "[In Russian] And who liberated you?"
     - who: Helena Neufeld
-      start: '00:23:36.629'
-      end: '00:23:37.926'
+      start:
+        sec: '1416.629'
+        mark: '00:23:36.629'
+      end:
+        sec: '1417.926'
+        mark: '00:23:37.926'
       u: "[In Polish] The Russians."
     - who: David Boder
-      start: '00:23:37.926'
-      end: '00:23:38.846'
+      start:
+        sec: '1417.926'
+        mark: '00:23:37.926'
+      end:
+        sec: '1418.846'
+        mark: '00:23:38.846'
       u: "[In Russian] The Russians?"
     - who: Helena Neufeld
-      start: '00:23:38.846'
-      end: '00:23:39.555'
+      start:
+        sec: '1418.846'
+        mark: '00:23:38.846'
+      end:
+        sec: '1419.555'
+        mark: '00:23:39.555'
       u: "[In Polish] Yes."
     - who: David Boder
-      start: '00:23:39.555'
-      end: '00:23:44.575'
+      start:
+        sec: '1419.555'
+        mark: '00:23:39.555'
+      end:
+        sec: '1424.575'
+        mark: '00:23:44.575'
       u: "[In Russian] The Russians liberated you. Tell [me] , how did it happen?"
     - who: Helena Neufeld
-      start: '00:23:44.575'
-      end: '00:23:45.811'
+      start:
+        sec: '1424.575'
+        mark: '00:23:44.575'
+      end:
+        sec: '1425.811'
+        mark: '00:23:45.811'
       u: "[In Polish] During one..."
     - who: David Boder
-      start: '00:23:45.811'
-      end: '00:23:47.168'
+      start:
+        sec: '1425.811'
+        mark: '00:23:45.811'
+      end:
+        sec: '1427.168'
+        mark: '00:23:47.168'
       u: "[In Russian] Were you in trains?"
     - who: Helena Neufeld
-      start: '00:23:47.168'
-      end: '00:24:11.534'
+      start:
+        sec: '1427.168'
+        mark: '00:23:47.168'
+      end:
+        sec: '1451.534'
+        mark: '00:24:11.534'
       u: "[In Polish] We were in RR-cars, in a freight car, even during the night.
         All night the train was standing. It was even quite peaceful. From afar shots
         could be heard, but there was no air raid. Early in the morning, around six,
         someone ran past our RR-car and said, ‘The Russians are already here.’"
     - who: David Boder
-      start: '00:24:11.534'
-      end: '00:24:12.182'
+      start:
+        sec: '1451.534'
+        mark: '00:24:11.534'
+      end:
+        sec: '1452.182'
+        mark: '00:24:12.182'
       u: "[In Russian] Aha."
     - who: Helena Neufeld
-      start: '00:24:12.182'
-      end: '00:24:13.720'
+      start:
+        sec: '1452.182'
+        mark: '00:24:12.182'
+      end:
+        sec: '1453.720'
+        mark: '00:24:13.720'
       u: "[In Polish] The Germans had already run away."
     - who: David Boder
-      start: '00:24:13.720'
-      end: '00:24:16.358'
+      start:
+        sec: '1453.720'
+        mark: '00:24:13.720'
+      end:
+        sec: '1456.358'
+        mark: '00:24:16.358'
       u: "[In Russian] Did the Russians feed you?"
     - who: Helena Neufeld
-      start: '00:24:16.358'
-      end: '00:24:34.901'
+      start:
+        sec: '1456.358'
+        mark: '00:24:16.358'
+      end:
+        sec: '1474.901'
+        mark: '00:24:34.901'
       u: "[In Polish] Yes. Then all the people ran out of the RR-cars, and there really
         were two Russian soldiers on horses. And they said, ‘You can leave the RR-cars
         now. Everybody can go to the village. There you will find...go into the houses.
         There...’"
     - who: David Boder
-      start: '00:24:34.901'
-      end: '00:24:36.876'
+      start:
+        sec: '1474.901'
+        mark: '00:24:34.901'
+      end:
+        sec: '1476.876'
+        mark: '00:24:36.876'
       u: "[In Russian] In what town was that?"
     - who: Helena Neufeld
-      start: '00:24:36.876'
-      end: '00:24:43.464'
+      start:
+        sec: '1476.876'
+        mark: '00:24:36.876'
+      end:
+        sec: '1483.464'
+        mark: '00:24:43.464'
       u: "[In Polish] It was...somewhat around Falkenburg, near Theresenstadt.Falkenberg
         is actually in eastern Germany northeast of Leipzig.24"
     - who: David Boder
-      start: '00:24:43.464'
-      end: '00:24:43.871'
+      start:
+        sec: '1483.464'
+        mark: '00:24:43.464'
+      end:
+        sec: '1483.871'
+        mark: '00:24:43.871'
       u: "[In Russian] Aha."
     - who: Helena Neufeld
-      start: '00:24:43.871'
-      end: '00:24:44.534'
+      start:
+        sec: '1483.871'
+        mark: '00:24:43.871'
+      end:
+        sec: '1484.534'
+        mark: '00:24:44.534'
       u: "[In Polish] A small town."
     - who: David Boder
-      start: '00:24:44.534'
-      end: '00:24:48.273'
+      start:
+        sec: '1484.534'
+        mark: '00:24:44.534'
+      end:
+        sec: '1488.273'
+        mark: '00:24:48.273'
       u: "[In Russian] All right. After the liberation where did you go from there?"
     - who: Helena Neufeld
-      start: '00:24:48.273'
-      end: '00:24:51.017'
+      start:
+        sec: '1488.273'
+        mark: '00:24:48.273'
+      end:
+        sec: '1491.017'
+        mark: '00:24:51.017'
       u: "[In Polish] We were very sick then."
     - who: David Boder
-      start: '00:24:51.017'
-      end: '00:24:52.751'
+      start:
+        sec: '1491.017'
+        mark: '00:24:51.017'
+      end:
+        sec: '1492.751'
+        mark: '00:24:52.751'
       u: "[In Russian] Your sister was with you?"
     - who: Helena Neufeld
-      start: '00:24:52.751'
-      end: '00:24:54.756'
+      start:
+        sec: '1492.751'
+        mark: '00:24:52.751'
+      end:
+        sec: '1494.756'
+        mark: '00:24:54.756'
       u: "[In Polish] No, there was no one from my family, no one."
     - who: David Boder
-      start: '00:24:54.756'
-      end: '00:24:55.359'
+      start:
+        sec: '1494.756'
+        mark: '00:24:54.756'
+      end:
+        sec: '1495.359'
+        mark: '00:24:55.359'
       u: "[In Russian] Yes."
     - who: Helena Neufeld
-      start: '00:24:55.359'
-      end: '00:25:07.359'
+      start:
+        sec: '1495.359'
+        mark: '00:24:55.359'
+      end:
+        sec: '1507.359'
+        mark: '00:25:07.359'
       u: "[In Polish] Then we went to the nearest German village. There we went into
         a German house. First of all we bathed and climbed into beds and [chuckle]
         lay in the beds."
     - who: David Boder
-      start: '00:25:07.359'
-      end: '00:25:11.460'
+      start:
+        sec: '1507.359'
+        mark: '00:25:07.359'
+      end:
+        sec: '1511.460'
+        mark: '00:25:11.460'
       u: "[In Russian] Yes. And from there where did you go?"
     - who: Helena Neufeld
-      start: '00:25:11.460'
-      end: '00:25:23.023'
+      start:
+        sec: '1511.460'
+        mark: '00:25:11.460'
+      end:
+        sec: '1523.023'
+        mark: '00:25:23.023'
       u: "[In Polish] We lay...a month’s time we lay there, because we had no strength
         to walk. We were very weak, and afterwards I went to Paris."
     - who: David Boder
-      start: '00:25:23.023'
-      end: '00:25:24.787'
+      start:
+        sec: '1523.023'
+        mark: '00:25:23.023'
+      end:
+        sec: '1524.787'
+        mark: '00:25:24.787'
       u: "[In Russian] Why did you go to Paris? You have..."
     - who: Helena Neufeld
-      start: '00:25:24.787'
-      end: '00:25:38.521'
+      start:
+        sec: '1524.787'
+        mark: '00:25:24.787'
+      end:
+        sec: '1538.521'
+        mark: '00:25:38.521'
       u: "[In Polish] Because in Poland I had no family. I knew, of course, my mother
         had perished during the action. And my sister I also knew had perished. So
         that I went to Paris where I have family."
     - who: David Boder
-      start: '00:25:38.521'
-      end: '00:25:40.345'
+      start:
+        sec: '1538.521'
+        mark: '00:25:38.521'
+      end:
+        sec: '1540.345'
+        mark: '00:25:40.345'
       u: "[In Russian] You do have family in Paris?"
     - who: Helena Neufeld
-      start: '00:25:40.345'
-      end: '00:25:41.913'
+      start:
+        sec: '1540.345'
+        mark: '00:25:40.345'
+      end:
+        sec: '1541.913'
+        mark: '00:25:41.913'
       u: "[In Polish] I have two [female] cousins."
     - who: David Boder
-      start: '00:25:41.913'
-      end: '00:25:43.466'
+      start:
+        sec: '1541.913'
+        mark: '00:25:41.913'
+      end:
+        sec: '1543.466'
+        mark: '00:25:43.466'
       u: "[In Russian] You have two cousins here..."
     - who: Helena Neufeld
-      start: '00:25:43.466'
-      end: '00:25:43.572'
+      start:
+        sec: '1543.466'
+        mark: '00:25:43.466'
+      end:
+        sec: '1543.572'
+        mark: '00:25:43.572'
       u: "[In Polish] Yes."
     - who: David Boder
-      start: '00:25:43.572'
-      end: '00:25:44.160'
+      start:
+        sec: '1543.572'
+        mark: '00:25:43.572'
+      end:
+        sec: '1544.160'
+        mark: '00:25:44.160'
       u: "[In Russian]...in Paris."
     - who: Helena Neufeld
-      start: '00:25:44.160'
-      end: '00:25:44.477'
+      start:
+        sec: '1544.160'
+        mark: '00:25:44.160'
+      end:
+        sec: '1544.477'
+        mark: '00:25:44.477'
       u: "[In Polish] Yes."
     - who: David Boder
-      start: '00:25:44.477'
-      end: '00:25:49.799'
+      start:
+        sec: '1544.477'
+        mark: '00:25:44.477'
+      end:
+        sec: '1549.799'
+        mark: '00:25:49.799'
       u: "[In Russian] And what do you intend to...Where did you get married?"
     - who: Helena Neufeld
-      start: '00:25:49.799'
-      end: '00:25:53.251'
+      start:
+        sec: '1549.799'
+        mark: '00:25:49.799'
+      end:
+        sec: '1553.251'
+        mark: '00:25:53.251'
       u: "[In Polish] I got married in the Ghetto."
     - who: David Boder
-      start: '00:25:53.251'
-      end: '00:25:55.090'
+      start:
+        sec: '1553.251'
+        mark: '00:25:53.251'
+      end:
+        sec: '1555.090'
+        mark: '00:25:55.090'
       u: "[In Russian] Oh! You got married in the Ghetto."
     - who: Helena Neufeld
-      start: '00:25:55.090'
-      end: '00:25:55.452'
+      start:
+        sec: '1555.090'
+        mark: '00:25:55.090'
+      end:
+        sec: '1555.452'
+        mark: '00:25:55.452'
       u: "[In Polish] Yes."
     - who: David Boder
-      start: '00:25:55.452'
-      end: '00:25:56.628'
+      start:
+        sec: '1555.452'
+        mark: '00:25:55.452'
+      end:
+        sec: '1556.628'
+        mark: '00:25:56.628'
       u: "[In Russian] And what happened to your husband?"
     - who: Helena Neufeld
-      start: '00:25:56.628'
-      end: '00:25:59.432'
+      start:
+        sec: '1556.628'
+        mark: '00:25:56.628'
+      end:
+        sec: '1559.432'
+        mark: '00:25:59.432'
       u: "[In Polish] My husband was also in a lager."
     - who: David Boder
-      start: '00:25:59.432'
-      end: '00:26:00.307'
+      start:
+        sec: '1559.432'
+        mark: '00:25:59.432'
+      end:
+        sec: '1560.307'
+        mark: '00:26:00.307'
       u: "[In Russian] Where?"
     - who: Helena Neufeld
-      start: '00:26:00.307'
-      end: '00:26:02.312'
+      start:
+        sec: '1560.307'
+        mark: '00:26:00.307'
+      end:
+        sec: '1562.312'
+        mark: '00:26:02.312'
       u: "[In Polish] He was also...he was in Belsen.It is not clear whether or not
         Mrs. Neufeld’s husband was with her in hiding in “Aryan” Warsaw or in Pawiak
         prison though this was probably the case. It is also not clear why the couple
@@ -2128,57 +3796,105 @@ recording:
         foreign countries in their possession. It is quite plausible that the Neufeld’s
         had such papers, but the interview does not reveal to where.25"
     - who: David Boder
-      start: '00:26:02.312'
-      end: '00:26:06.895'
+      start:
+        sec: '1562.312'
+        mark: '00:26:02.312'
+      end:
+        sec: '1566.895'
+        mark: '00:26:06.895'
       u: "[In Russian] Oh. They sent men and women. Did the Germans know that he was
         your husband?"
     - who: Helena Neufeld
-      start: '00:26:06.895'
-      end: '00:26:11.222'
+      start:
+        sec: '1566.895'
+        mark: '00:26:06.895'
+      end:
+        sec: '1571.222'
+        mark: '00:26:11.222'
       u: "[In Polish] Yes. Yes, they knew that he was my husband."
     - who: David Boder
-      start: '00:26:11.222'
-      end: '00:26:17.719'
+      start:
+        sec: '1571.222'
+        mark: '00:26:11.222'
+      end:
+        sec: '1577.719'
+        mark: '00:26:17.719'
       u: "[In Russian] And he went with you together all the time, and arrived in
         Belsen? And from Belsen you were evacuated..."
     - who: Helena Neufeld
-      start: '00:26:17.719'
-      end: '00:26:23.931'
+      start:
+        sec: '1577.719'
+        mark: '00:26:17.719'
+      end:
+        sec: '1583.931'
+        mark: '00:26:23.931'
       u: "[In Polish] In Belsen, there we lived separately. And then we were again
         together. And then we were evacuated."
     - who: David Boder
-      start: '00:26:23.931'
-      end: '00:26:26.750'
+      start:
+        sec: '1583.931'
+        mark: '00:26:23.931'
+      end:
+        sec: '1586.750'
+        mark: '00:26:26.750'
       u: "[In Russian] And you were together...And when the Russsians arrived you
         were together?"
     - who: Helena Neufeld
-      start: '00:26:26.750'
-      end: '00:26:27.745'
+      start:
+        sec: '1586.750'
+        mark: '00:26:26.750'
+      end:
+        sec: '1587.745'
+        mark: '00:26:27.745'
       u: "[In Polish] Yes. Everybody..."
     - who: David Boder
-      start: '00:26:27.745'
-      end: '00:26:31.936'
+      start:
+        sec: '1587.745'
+        mark: '00:26:27.745'
+      end:
+        sec: '1591.936'
+        mark: '00:26:31.936'
       u: "[In Russian] Yes, you were together. And then you two decided to go to Paris."
     - who: Helena Neufeld
-      start: '00:26:31.936'
-      end: '00:26:32.358'
+      start:
+        sec: '1591.936'
+        mark: '00:26:31.936'
+      end:
+        sec: '1592.358'
+        mark: '00:26:32.358'
       u: "[In Polish] Yes."
     - who: David Boder
-      start: '00:26:32.358'
-      end: '00:26:34.408'
+      start:
+        sec: '1592.358'
+        mark: '00:26:32.358'
+      end:
+        sec: '1594.408'
+        mark: '00:26:34.408'
       u: "[In Russian] How did you travel? Did you have money?"
     - who: Helena Neufeld
-      start: '00:26:34.408'
-      end: '00:26:46.318'
+      start:
+        sec: '1594.408'
+        mark: '00:26:34.408'
+      end:
+        sec: '1606.318'
+        mark: '00:26:46.318'
       u: "[In Polish] No, we had no money whatsoever, but we traveled without money
         all the time. In military cars and later in trains for the repatriates."
     - who: David Boder
-      start: '00:26:46.318'
-      end: '00:26:48.805'
+      start:
+        sec: '1606.318'
+        mark: '00:26:46.318'
+      end:
+        sec: '1608.805'
+        mark: '00:26:48.805'
       u: "[In Russian] Did they allow you to enter France, or you..."
     - who: Helena Neufeld
-      start: '00:26:48.805'
-      end: '00:26:52.484'
+      start:
+        sec: '1608.805'
+        mark: '00:26:48.805'
+      end:
+        sec: '1612.484'
+        mark: '00:26:52.484'
       u: "[In Polish] They let us in. I speak a little French, and I have family in
         Paris.Had Mrs. Neufeld and her husband been liberated in Bergen Belsen and
         remained there, they would have become part of the largest Displaced Persons
@@ -2189,208 +3905,404 @@ recording:
         the search for relatives, and the political struggle for rights and immigration
         to Palestine and then the State of Israel.26"
     - who: David Boder
-      start: '00:26:52.484'
-      end: '00:26:54.549'
+      start:
+        sec: '1612.484'
+        mark: '00:26:52.484'
+      end:
+        sec: '1614.549'
+        mark: '00:26:54.549'
       u: "[In Russian] Where did you learn to speak French?"
     - who: Helena Neufeld
-      start: '00:26:54.549'
-      end: '00:26:57.564'
+      start:
+        sec: '1614.549'
+        mark: '00:26:54.549'
+      end:
+        sec: '1617.564'
+        mark: '00:26:57.564'
       u: "[In Polish] I learned it in school yet. I liked the French language very
         much."
     - who: David Boder
-      start: '00:26:57.564'
-      end: '00:26:59.343'
+      start:
+        sec: '1617.564'
+        mark: '00:26:57.564'
+      end:
+        sec: '1619.343'
+        mark: '00:26:59.343'
       u: "[In Russian] Did you attend the gymnasium in Warsaw?"
     - who: Helena Neufeld
-      start: '00:26:59.343'
-      end: '00:27:00.037'
+      start:
+        sec: '1619.343'
+        mark: '00:26:59.343'
+      end:
+        sec: '1620.037'
+        mark: '00:27:00.037'
       u: "[In Polish] Yes."
     - who: David Boder
-      start: '00:27:00.037'
-      end: '00:27:02.042'
+      start:
+        sec: '1620.037'
+        mark: '00:27:00.037'
+      end:
+        sec: '1622.042'
+        mark: '00:27:02.042'
       u: "[In Russian] Yes. And where did your husband study?"
     - who: Helena Neufeld
-      start: '00:27:02.042'
-      end: '00:27:03.308'
+      start:
+        sec: '1622.042'
+        mark: '00:27:02.042'
+      end:
+        sec: '1623.308'
+        mark: '00:27:03.308'
       u: "[In Polish] Also in Warsaw."
     - who: David Boder
-      start: '00:27:03.308'
-      end: '00:27:06.444'
+      start:
+        sec: '1623.308'
+        mark: '00:27:03.308'
+      end:
+        sec: '1626.444'
+        mark: '00:27:06.444'
       u: "[In Russian] How come he knows English?"
     - who: Helena Neufeld
-      start: '00:27:06.444'
-      end: '00:27:08.193'
+      start:
+        sec: '1626.444'
+        mark: '00:27:06.444'
+      end:
+        sec: '1628.193'
+        mark: '00:27:08.193'
       u: "[In Polish] He studied English."
     - who: David Boder
-      start: '00:27:08.193'
-      end: '00:27:12.942'
+      start:
+        sec: '1628.193'
+        mark: '00:27:08.193'
+      end:
+        sec: '1632.942'
+        mark: '00:27:12.942'
       u: "[In Russian] Aha, and what does your husband do in Paris?"
     - who: Helena Neufeld
-      start: '00:27:12.942'
-      end: '00:27:21.218'
+      start:
+        sec: '1632.942'
+        mark: '00:27:12.942'
+      end:
+        sec: '1641.218'
+        mark: '00:27:21.218'
       u: "[In Polish] Well, in the beginning we didn’t do anything. We weren’t feeling
         well. Now he is working a little as an interpreter."
     - who: David Boder
-      start: '00:27:21.218'
-      end: '00:27:24.445'
+      start:
+        sec: '1641.218'
+        mark: '00:27:21.218'
+      end:
+        sec: '1644.445'
+        mark: '00:27:24.445'
       u: "[In Russian] Aha, and what do you intend to do?"
     - who: Helena Neufeld
-      start: '00:27:24.445'
-      end: '00:27:36.219'
+      start:
+        sec: '1644.445'
+        mark: '00:27:24.445'
+      end:
+        sec: '1656.219'
+        mark: '00:27:36.219'
       u: "[In Polish] We don’t know yet. It is a very hard decision. We have friends
         in America who want us very much to come over. I don’t have any family anywhere
         else. Maybe I will remain in Paris. We don’t know yet."
     - who: David Boder
-      start: '00:27:36.219'
-      end: '00:27:38.526'
+      start:
+        sec: '1656.219'
+        mark: '00:27:36.219'
+      end:
+        sec: '1658.526'
+        mark: '00:27:38.526'
       u: "[In Russian] Aha. You have relatives in America?"
     - who: Helena Neufeld
-      start: '00:27:38.526'
-      end: '00:27:42.400'
+      start:
+        sec: '1658.526'
+        mark: '00:27:38.526'
+      end:
+        sec: '1662.400'
+        mark: '00:27:42.400'
       u: No. Just girl friends.
     - who: Helena Neufeld
-      start: '00:27:42.400'
-      end: '00:27:44.179'
+      start:
+        sec: '1662.400'
+        mark: '00:27:42.400'
+      end:
+        sec: '1664.179'
+        mark: '00:27:44.179'
       u: "[In Polish] In America I have friends, a girl friend."
     - who: David Boder
-      start: '00:27:44.179'
-      end: '00:27:48.431'
+      start:
+        sec: '1664.179'
+        mark: '00:27:44.179'
+      end:
+        sec: '1668.431'
+        mark: '00:27:48.431'
       u: "[In Russian] But you have no relatives. And your husband, what is his occupation?
         What does he do?"
     - who: Helena Neufeld
-      start: '00:27:48.431'
-      end: '00:27:50.587'
+      start:
+        sec: '1668.431'
+        mark: '00:27:48.431'
+      end:
+        sec: '1670.587'
+        mark: '00:27:50.587'
       u: "[In Polish] He was working as an interpreter."
     - who: David Boder
-      start: '00:27:50.587'
-      end: '00:27:51.296'
+      start:
+        sec: '1670.587'
+        mark: '00:27:50.587'
+      end:
+        sec: '1671.296'
+        mark: '00:27:51.296'
       u: "[In Russian] What is that?"
     - who: Helena Neufeld
-      start: '00:27:51.296'
-      end: '00:27:53.934'
+      start:
+        sec: '1671.296'
+        mark: '00:27:51.296'
+      end:
+        sec: '1673.934'
+        mark: '00:27:53.934'
       u: "[In Polish] With the Americans."
     - who: David Boder
-      start: '00:27:53.934'
-      end: '00:27:54.989'
+      start:
+        sec: '1673.934'
+        mark: '00:27:53.934'
+      end:
+        sec: '1674.989'
+        mark: '00:27:54.989'
       u: "[In Russian] With the Americans?"
     - who: Helena Neufeld
-      start: '00:27:54.989'
-      end: '00:27:58.065'
+      start:
+        sec: '1674.989'
+        mark: '00:27:54.989'
+      end:
+        sec: '1678.065'
+        mark: '00:27:58.065'
       u: "[In Polish] Here. In Americans institutions, because he knows English."
     - who: David Boder
-      start: '00:27:58.065'
-      end: '00:27:59.377'
+      start:
+        sec: '1678.065'
+        mark: '00:27:58.065'
+      end:
+        sec: '1679.377'
+        mark: '00:27:59.377'
       u: "[In Russian] What institutions?"
     - who: Helena Neufeld
-      start: '00:27:59.377'
-      end: '00:28:01.653'
+      start:
+        sec: '1679.377'
+        mark: '00:27:59.377'
+      end:
+        sec: '1681.653'
+        mark: '00:28:01.653'
       u: "[In Polish] I don’t even know."
     - who: David Boder
-      start: '00:28:01.653'
-      end: '00:28:05.965'
+      start:
+        sec: '1681.653'
+        mark: '00:28:01.653'
+      end:
+        sec: '1685.965'
+        mark: '00:28:05.965'
       u: "[In Russian] For the American government or for Jewish organizations?"
     - who: Helena Neufeld
-      start: '00:28:05.965'
-      end: '00:28:10.563'
+      start:
+        sec: '1685.965'
+        mark: '00:28:05.965'
+      end:
+        sec: '1690.563'
+        mark: '00:28:10.563'
       u: "[In Polish] No, no. They aren’t...I don’t know whether for Polish or for
         American."
     - who: David Boder
-      start: '00:28:10.563'
-      end: '00:28:13.412'
+      start:
+        sec: '1690.563'
+        mark: '00:28:10.563'
+      end:
+        sec: '1693.412'
+        mark: '00:28:13.412'
       u: "[In Russian] Yes. He is working for them."
     - who: Helena Neufeld
-      start: '00:28:13.412'
-      end: '00:28:14.076'
+      start:
+        sec: '1693.412'
+        mark: '00:28:13.412'
+      end:
+        sec: '1694.076'
+        mark: '00:28:14.076'
       u: "[In Polish] Yes."
     - who: David Boder
-      start: '00:28:14.076'
-      end: '00:28:15.749'
+      start:
+        sec: '1694.076'
+        mark: '00:28:14.076'
+      end:
+        sec: '1695.749'
+        mark: '00:28:15.749'
       u: "[In Russian] And he will return home by ten o’clock?"
     - who: Helena Neufeld
-      start: '00:28:15.749'
-      end: '00:28:17.166'
+      start:
+        sec: '1695.749'
+        mark: '00:28:15.749'
+      end:
+        sec: '1697.166'
+        mark: '00:28:17.166'
       u: "[In Polish] Yes. He will return..."
     - who: David Boder
-      start: '00:28:17.166'
-      end: '00:28:26.875'
+      start:
+        sec: '1697.166'
+        mark: '00:28:17.166'
+      end:
+        sec: '1706.875'
+        mark: '00:28:26.875'
       u: "[In Russian] [Words not clear.] Tell me, in Belsen did you have any songs
         which the prisoners were singing?"
     - who: Helena Neufeld
-      start: '00:28:26.875'
-      end: '00:28:27.734'
+      start:
+        sec: '1706.875'
+        mark: '00:28:26.875'
+      end:
+        sec: '1707.734'
+        mark: '00:28:27.734'
       u: "[In Polish] We?"
     - who: David Boder
-      start: '00:28:27.734'
-      end: '00:28:29.996'
+      start:
+        sec: '1707.734'
+        mark: '00:28:27.734'
+      end:
+        sec: '1709.996'
+        mark: '00:28:29.996'
       u: "[In Russian] Yes."
     - who: Helena Neufeld
-      start: '00:28:29.996'
-      end: '00:28:31.971'
+      start:
+        sec: '1709.996'
+        mark: '00:28:29.996'
+      end:
+        sec: '1711.971'
+        mark: '00:28:31.971'
       u: "[In Polish] Songs? Very few..."
     - who: David Boder
-      start: '00:28:31.971'
-      end: '00:28:33.916'
+      start:
+        sec: '1711.971'
+        mark: '00:28:31.971'
+      end:
+        sec: '1713.916'
+        mark: '00:28:33.916'
       u: "[In Russian] Yes. Jewish or..."
     - who: Helena Neufeld
-      start: '00:28:33.916'
-      end: '00:28:35.017'
+      start:
+        sec: '1713.916'
+        mark: '00:28:33.916'
+      end:
+        sec: '1715.017'
+        mark: '00:28:35.017'
       u: "[In Polish] Yes, there were."
     - who: David Boder
-      start: '00:28:35.017'
-      end: '00:28:38.288'
+      start:
+        sec: '1715.017'
+        mark: '00:28:35.017'
+      end:
+        sec: '1718.288'
+        mark: '00:28:38.288'
       u: "[In Russian]...new songs which were composed there in the lager?"
     - who: Helena Neufeld
-      start: '00:28:38.288'
-      end: '00:28:41.394'
+      start:
+        sec: '1718.288'
+        mark: '00:28:38.288'
+      end:
+        sec: '1721.394'
+        mark: '00:28:41.394'
       u: "[In Polish] No, no, no, no."
     - who: David Boder
-      start: '00:28:41.394'
-      end: '00:28:42.072'
+      start:
+        sec: '1721.394'
+        mark: '00:28:41.394'
+      end:
+        sec: '1722.072'
+        mark: '00:28:42.072'
       u: "[In Russian] You don’t know any?"
     - who: Helena Neufeld
-      start: '00:28:42.072'
-      end: '00:28:46.384'
+      start:
+        sec: '1722.072'
+        mark: '00:28:42.072'
+      end:
+        sec: '1726.384'
+        mark: '00:28:46.384'
       u: "[In Polish] No, no. By us...Of course, people wrote verse."
     - who: David Boder
-      start: '00:28:46.384'
-      end: '00:28:46.881'
+      start:
+        sec: '1726.384'
+        mark: '00:28:46.384'
+      end:
+        sec: '1726.881'
+        mark: '00:28:46.881'
       u: "[In Russian] What?"
     - who: Helena Neufeld
-      start: '00:28:46.881'
-      end: '00:28:48.902'
+      start:
+        sec: '1726.881'
+        mark: '00:28:46.881'
+      end:
+        sec: '1728.902'
+        mark: '00:28:48.902'
       u: "[In Polish] Verse. [In Russian] Verse."
     - who: David Boder
-      start: '00:28:48.902'
-      end: '00:28:49.520'
+      start:
+        sec: '1728.902'
+        mark: '00:28:48.902'
+      end:
+        sec: '1729.520'
+        mark: '00:28:49.520'
       u: "[In Russian] People wrote.This was a form of resistance, a way of affirming
         one’s humanity in inhuman conditions.27"
     - who: Helena Neufeld
-      start: '00:28:49.520'
-      end: '00:28:49.942'
+      start:
+        sec: '1729.520'
+        mark: '00:28:49.520'
+      end:
+        sec: '1729.942'
+        mark: '00:28:49.942'
       u: "[In Polish] Yes."
     - who: David Boder
-      start: '00:28:49.942'
-      end: '00:28:51.812'
+      start:
+        sec: '1729.942'
+        mark: '00:28:49.942'
+      end:
+        sec: '1731.812'
+        mark: '00:28:51.812'
       u: "[In Russian] Did you also write poetry? Do you know any?"
     - who: Helena Neufeld
-      start: '00:28:51.812'
-      end: '00:28:55.807'
+      start:
+        sec: '1731.812'
+        mark: '00:28:51.812'
+      end:
+        sec: '1735.807'
+        mark: '00:28:55.807'
       u: "[In Polish] No, I didn’t write [any] Maybe my husband will remember some."
     - who: David Boder
-      start: '00:28:55.807'
-      end: '00:28:57.812'
+      start:
+        sec: '1735.807'
+        mark: '00:28:55.807'
+      end:
+        sec: '1737.812'
+        mark: '00:28:57.812'
       u: "[In Russian] Do you know any?"
     - who: Helena Neufeld
-      start: '00:28:57.812'
-      end: '00:28:58.717'
+      start:
+        sec: '1737.812'
+        mark: '00:28:57.812'
+      end:
+        sec: '1738.717'
+        mark: '00:28:58.717'
       u: "[In Polish] No."
     - who: David Boder
-      start: '00:28:58.717'
-      end: '00:29:00.358'
+      start:
+        sec: '1738.717'
+        mark: '00:28:58.717'
+      end:
+        sec: '1740.358'
+        mark: '00:29:00.358'
       u: "[In Russian] You don’t know any."
     - who: David Boder
-      start: '00:29:00.358'
-      end: '00:29:56.366'
+      start:
+        sec: '1740.358'
+        mark: '00:29:00.358'
+      end:
+        sec: '1796.366'
+        mark: '00:29:56.366'
       u: "[In English] Well, this concludes the record of Mrs. Helena Neufeld. She
         insists on making her record in Polish. She is apparently conscious about
         her language. And she is saying that she married her husband in the ghetto
@@ -2400,63 +4312,115 @@ recording:
         question ‘What is she working in?’ she tells me she is a dentist, graduated
         from Warsaw."
     - who: David Boder
-      start: '00:29:56.366'
-      end: '00:30:02.487'
+      start:
+        sec: '1796.366'
+        mark: '00:29:56.366'
+      end:
+        sec: '1802.487'
+        mark: '00:30:02.487'
       u: "[In German] When did you study dentistry?"
     - who: Helena Neufeld
-      start: '00:30:02.487'
-      end: '00:30:04.100'
+      start:
+        sec: '1802.487'
+        mark: '00:30:02.487'
+      end:
+        sec: '1804.100'
+        mark: '00:30:04.100'
       u: "[In Polish] [Words not clear.]"
     - who: David Boder
-      start: '00:30:04.100'
-      end: '00:30:07.236'
+      start:
+        sec: '1804.100'
+        mark: '00:30:04.100'
+      end:
+        sec: '1807.236'
+        mark: '00:30:07.236'
       u: "[In Russian] When did you study in Warsaw? How long ago?"
     - who: Helena Neufeld
-      start: '00:30:07.236'
-      end: '00:30:19.311'
+      start:
+        sec: '1807.236'
+        mark: '00:30:07.236'
+      end:
+        sec: '1819.311'
+        mark: '00:30:19.311'
       u: "[In Polish] I studied from 1931 to the end of 1935. From 1931 to the end
         of 1935."
     - who: David Boder
-      start: '00:30:19.311'
-      end: '00:30:21.603'
+      start:
+        sec: '1819.311'
+        mark: '00:30:19.311'
+      end:
+        sec: '1821.603'
+        mark: '00:30:21.603'
       u: "[In Russian] How old are you now?"
     - who: Helena Neufeld
-      start: '00:30:21.603'
-      end: '00:30:23.978'
+      start:
+        sec: '1821.603'
+        mark: '00:30:21.603'
+      end:
+        sec: '1823.978'
+        mark: '00:30:23.978'
       u: Thirty-three.
     - who: Helena Neufeld
-      start: '00:30:23.978'
-      end: '00:30:25.266'
+      start:
+        sec: '1823.978'
+        mark: '00:30:23.978'
+      end:
+        sec: '1825.266'
+        mark: '00:30:25.266'
       u: "[In Polish] Trzydzieści trzy."
     - who: David Boder
-      start: '00:30:25.266'
-      end: '00:30:31.869'
+      start:
+        sec: '1825.266'
+        mark: '00:30:25.266'
+      end:
+        sec: '1831.869'
+        mark: '00:30:31.869'
       u: "[In Russian] Did you enter a technical school in Warsaw? When? Right after
         the gymnasium?"
     - who: Helena Neufeld
-      start: '00:30:31.869'
-      end: '00:30:47.846'
+      start:
+        sec: '1831.869'
+        mark: '00:30:31.869'
+      end:
+        sec: '1847.846'
+        mark: '00:30:47.846'
       u: "[In Polish] No. I really didn’t want to study for a dentist. One year I
         studied Romantics,Mrs. Neufeld might have been alluding to romance languages.
         She indicated earlier that she was very fond of the French language in her
         Warsaw gymnasium.  28 I wanted to travel abroad, to France, but my parents
         insisted that I study for a dentist, so then..."
     - who: David Boder
-      start: '00:30:47.846'
-      end: '00:30:48.359'
+      start:
+        sec: '1847.846'
+        mark: '00:30:47.846'
+      end:
+        sec: '1848.359'
+        mark: '00:30:48.359'
       u: "[In Russian] Aha."
     - who: Helena Neufeld
-      start: '00:30:48.359'
-      end: '00:30:49.173'
+      start:
+        sec: '1848.359'
+        mark: '00:30:48.359'
+      end:
+        sec: '1849.173'
+        mark: '00:30:49.173'
       u: "[In Polish]...after a year, after..."
     - who: David Boder
-      start: '00:30:49.173'
-      end: '00:30:55.474'
+      start:
+        sec: '1849.173'
+        mark: '00:30:49.173'
+      end:
+        sec: '1855.474'
+        mark: '00:30:55.474'
       u: "[In Russian] Where are you working here? For a dentist, or are you working
         for yourself?"
     - who: Helena Neufeld
-      start: '00:30:55.474'
-      end: '00:30:54.563'
+      start:
+        sec: '1855.474'
+        mark: '00:30:55.474'
+      end:
+        sec: '1854.563'
+        mark: '00:30:54.563'
       u: "[In Polish] For myself. I can’t [words not clear]"
   commentary:
     text: "<p>David Boder interviewed Helena Neufeld at an adult home for Jews in

@@ -40,116 +40,216 @@ recording:
     language: es
     interview:
     - who: David Boder
-      start: '00:00:00.603'
-      end: '00:00:53.917'
+      start:
+        sec: '0.603'
+        mark: '00:00:00.603'
+      end:
+        sec: '53.917'
+        mark: '00:00:53.917'
       u: "[In English] Chicago, June the 26th, 1950. This is Spool 9-21B, the second
         half of Spool 9-21. The first half is Dr. Lipschitz which we called 9-21A,
         the second is Mr. Nino Barzilai which we call 9-21B."
     - who: David Boder
-      start: '00:00:53.917'
-      end: '00:01:03.636'
+      start:
+        sec: '53.917'
+        mark: '00:00:53.917'
+      end:
+        sec: '63.636'
+        mark: '00:01:03.636'
       u: "[In Spanish] [Ininteligible] Ud. habla aquí en esta dirección..."
     - who: David Boder
-      start: '00:01:03.636'
-      end: '00:01:22.442'
+      start:
+        sec: '63.636'
+        mark: '00:01:03.636'
+      end:
+        sec: '82.442'
+        mark: '00:01:22.442'
       u: "[In English] Paris, August 4th, Sunday, in the home for adult Jews. We are
         now going to interview a gentleman from Greece, Señor Nino Barzilai...who
         speaks Spanish."
     - who: David Boder
-      start: '00:01:22.442'
-      end: '00:01:29.200'
+      start:
+        sec: '82.442'
+        mark: '00:01:22.442'
+      end:
+        sec: '89.200'
+        mark: '00:01:29.200'
       u: "[In Spanish] Sr. Barzilai, dígame, ¿está Ud. nacido en Grecia?"
     - who: Nino Barzilai
-      start: '00:01:29.200'
-      end: '00:01:32.954'
+      start:
+        sec: '89.200'
+        mark: '00:01:29.200'
+      end:
+        sec: '92.954'
+        mark: '00:01:32.954'
       u: Sí señor, yo he nacido en Thessaloniki, en Grecia..
     - who: David Boder
-      start: '00:01:32.954'
-      end: '00:01:37.056'
+      start:
+        sec: '92.954'
+        mark: '00:01:32.954'
+      end:
+        sec: '97.056'
+        mark: '00:01:37.056'
       u: Sí, ¿y cuántos años tiene Ud. ahora?
     - who: Nino Barzilai
-      start: '00:01:37.056'
-      end: '00:01:38.716'
+      start:
+        sec: '97.056'
+        mark: '00:01:37.056'
+      end:
+        sec: '98.716'
+        mark: '00:01:38.716'
       u: 54 años.
     - who: David Boder
-      start: '00:01:38.716'
-      end: '00:01:50.180'
+      start:
+        sec: '98.716'
+        mark: '00:01:38.716'
+      end:
+        sec: '110.180'
+        mark: '00:01:50.180'
       u: Tiene Ud. 54 años, ¡no parece Ud. tan...de tan edad!...dígame, entonces...¿y
         vivía Ud. es Grecia todo el tiempo?
     - who: Nino Barzilai
-      start: '00:01:50.180'
-      end: '00:02:00.296'
+      start:
+        sec: '110.180'
+        mark: '00:01:50.180'
+      end:
+        sec: '120.296'
+        mark: '00:02:00.296'
       u: No señor, yo vivía en España, durante 20 años y al declararse la guerra civil
         de España, he vuelto a Grecia dónde tenía familia.
     - who: David Boder
-      start: '00:02:00.296'
-      end: '00:02:03.025'
+      start:
+        sec: '120.296'
+        mark: '00:02:00.296'
+      end:
+        sec: '123.025'
+        mark: '00:02:03.025'
       u: "¿Es Ud. casado?"
     - who: Nino Barzilai
-      start: '00:02:03.025'
-      end: '00:02:07.020'
+      start:
+        sec: '123.025'
+        mark: '00:02:03.025'
+      end:
+        sec: '127.020'
+        mark: '00:02:07.020'
       u: Sí señor, tengo un hijo de 15 años.
     - who: David Boder
-      start: '00:02:07.020'
-      end: '00:02:08.874'
+      start:
+        sec: '127.020'
+        mark: '00:02:07.020'
+      end:
+        sec: '128.874'
+        mark: '00:02:08.874'
       u: "¿Y su esposa?"
     - who: Nino Barzilai
-      start: '00:02:08.874'
-      end: '00:02:10.834'
+      start:
+        sec: '128.874'
+        mark: '00:02:08.874'
+      end:
+        sec: '130.834'
+        mark: '00:02:10.834'
       u: Y mi esposa también está aquí conmigo.
     - who: David Boder
-      start: '00:02:10.834'
-      end: '00:02:25.894'
+      start:
+        sec: '130.834'
+        mark: '00:02:10.834'
+      end:
+        sec: '145.894'
+        mark: '00:02:25.894'
       u: Están aquí con Ud.; pues entonces señor, comience Ud. a decirnos...¿como
         pasó...la situación de ocupación de Grecia por los alemanes?
     - who: Nino Barzilai
-      start: '00:02:25.894'
-      end: '00:03:03.598'
+      start:
+        sec: '145.894'
+        mark: '00:02:25.894'
+      end:
+        sec: '183.598'
+        mark: '00:03:03.598'
       u: Pues...mire Ud...hemos vuelto a Grecia como le he dicho, como teníamos familia,
         a que acabara la guerra civil de España y volver a nuestro sitio. Al llegar
         a Grecia, nos sorprendió la guerra ítalo-griega y, naturalmente, no hubo ocasión
         para volver a España sea porque las comunicaciones estaban interrumpidas,
         sea porque la guerra civil duraba todavía en España.
     - who: David Boder
-      start: '00:03:03.598'
-      end: '00:03:06.869'
+      start:
+        sec: '183.598'
+        mark: '00:03:03.598'
+      end:
+        sec: '186.869'
+        mark: '00:03:06.869'
       u: "¿Y qué es su ocupación Sr. Barzilai?"
     - who: Nino Barzilai
-      start: '00:03:06.869'
-      end: '00:03:17.442'
+      start:
+        sec: '186.869'
+        mark: '00:03:06.869'
+      end:
+        sec: '197.442'
+        mark: '00:03:17.442'
       u: En Grecia, yo me ocupé de la venta de tejidos para trajes de señora. Estaba
         muy bien establecido, tenía mi despacho...
     - who: David Boder
-      start: '00:03:17.442'
-      end: '00:03:18.241'
+      start:
+        sec: '197.442'
+        mark: '00:03:17.442'
+      end:
+        sec: '198.241'
+        mark: '00:03:18.241'
       u: En Grecia.
     - who: Nino Barzilai
-      start: '00:03:18.241'
-      end: '00:03:21.543'
+      start:
+        sec: '198.241'
+        mark: '00:03:18.241'
+      end:
+        sec: '201.543'
+        mark: '00:03:21.543'
       u: En Grecia, en Atenas, cerca la [ininteligible].
     - who: David Boder
-      start: '00:03:21.543'
-      end: '00:03:23.850'
+      start:
+        sec: '201.543'
+        mark: '00:03:21.543'
+      end:
+        sec: '203.850'
+        mark: '00:03:23.850'
       u: "¿Y qué hacía Ud. en España?"
     - who: Nino Barzilai
-      start: '00:03:23.850'
-      end: '00:03:27.785'
+      start:
+        sec: '203.850'
+        mark: '00:03:23.850'
+      end:
+        sec: '207.785'
+        mark: '00:03:27.785'
       u: En España yo me ocupaba de la bijouterie.
     - who: David Boder
-      start: '00:03:27.785'
-      end: '00:03:32.443'
+      start:
+        sec: '207.785'
+        mark: '00:03:27.785'
+      end:
+        sec: '212.443'
+        mark: '00:03:32.443'
       u: Entonces se regresó Ud. a Grecia, ¿y ya estaban los alemanes ahí?
     - who: Nino Barzilai
-      start: '00:03:32.443'
-      end: '00:03:37.418'
+      start:
+        sec: '212.443'
+        mark: '00:03:32.443'
+      end:
+        sec: '217.418'
+        mark: '00:03:37.418'
       u: Cuando regresé a Grecia los alemanes todavía no habían llegado.
     - who: David Boder
-      start: '00:03:37.418'
-      end: '00:03:38.654'
+      start:
+        sec: '217.418'
+        mark: '00:03:37.418'
+      end:
+        sec: '218.654'
+        mark: '00:03:38.654'
       u: Y Bueno...
     - who: Nino Barzilai
-      start: '00:03:38.654'
-      end: '00:04:15.595'
+      start:
+        sec: '218.654'
+        mark: '00:03:38.654'
+      end:
+        sec: '255.595'
+        mark: '00:04:15.595'
       u: Después cuando empezó la guerra italiana...Italia con Grecia, entonces, cuando
         pasó un poco de tiempo que volvieron los alemanes y entraron en Grecia; nosotros
         marchamos de Salónica para Atenas y nos establecimos en Atenas. Allá tenía
@@ -157,20 +257,36 @@ recording:
         un anuncio en los periódicos, que todos los judíos debían de presentarse...como
         súbdito extranjero portugués, me he presentado también a...
     - who: David Boder
-      start: '00:04:15.595'
-      end: '00:04:17.404'
+      start:
+        sec: '255.595'
+        mark: '00:04:15.595'
+      end:
+        sec: '257.404'
+        mark: '00:04:17.404'
       u: "¿Es Ud. portugués?"
     - who: Nino Barzilai
-      start: '00:04:17.404'
-      end: '00:04:18.068'
+      start:
+        sec: '257.404'
+        mark: '00:04:17.404'
+      end:
+        sec: '258.068'
+        mark: '00:04:18.068'
       u: Sí señor.
     - who: David Boder
-      start: '00:04:18.068'
-      end: '00:04:19.802'
+      start:
+        sec: '258.068'
+        mark: '00:04:18.068'
+      end:
+        sec: '259.802'
+        mark: '00:04:19.802'
       u: "¿Nació Ud. en Portugal?"
     - who: Nino Barzilai
-      start: '00:04:19.802'
-      end: '00:05:03.818'
+      start:
+        sec: '259.802'
+        mark: '00:04:19.802'
+      end:
+        sec: '303.818'
+        mark: '00:05:03.818'
       u: 'No señor, soy de [ininteligible] mi familia era de [ininteligible]...entonces
         como...me presenté como portugués a las autoridades alemanas, con documentación
         portuguesa; como el gran rabino de Atenas era un pariente mío y por casualidad
@@ -178,65 +294,113 @@ recording:
         del gran rabino: me han puesto en un campo de concentración en Haïdari, Atenas,
         dónde pasé 5 meses y medio a trabajos forzados.'
     - who: David Boder
-      start: '00:05:03.818'
-      end: '00:05:07.029'
+      start:
+        sec: '303.818'
+        mark: '00:05:03.818'
+      end:
+        sec: '307.029'
+        mark: '00:05:07.029'
       u: "¿Qué clase de trabajo hacían allá en el campo de concentración?"
     - who: Nino Barzilai
-      start: '00:05:07.029'
-      end: '00:05:19.368'
+      start:
+        sec: '307.029'
+        mark: '00:05:07.029'
+      end:
+        sec: '319.368'
+        mark: '00:05:19.368'
       u: Nos daban a transportar piedras todo el día, y arena, de un sitio a otro,
         un trabajo bastante duro donde nos castigaban mucho y nos pegaban.
     - who: David Boder
-      start: '00:05:19.368'
-      end: '00:05:23.031'
+      start:
+        sec: '319.368'
+        mark: '00:05:19.368'
+      end:
+        sec: '323.031'
+        mark: '00:05:23.031'
       u: "¿Y qué hacían con la arena?"
     - who: Nino Barzilai
-      start: '00:05:23.031'
-      end: '00:05:58.447'
+      start:
+        sec: '323.031'
+        mark: '00:05:23.031'
+      end:
+        sec: '358.447'
+        mark: '00:05:58.447'
       u: Era un trabajo que ellos habían hecho inventar para poder trabajar, para
         poder cansarnos, porque transportábamos las piedras de un sitio a otro y al
         otro día nos hacían volver las mismas piedras al mismo sitio. No había ni
         trabajos de fortificación ni trabajos de nada, solamente este transporte que
         nos hacían trabajar todos los días [ininteligible].
     - who: David Boder
-      start: '00:05:58.447'
-      end: '00:06:01.598'
+      start:
+        sec: '358.447'
+        mark: '00:05:58.447'
+      end:
+        sec: '361.598'
+        mark: '00:06:01.598'
       u: Continúe Ud. señor, la recepción es buena
     - who: Nino Barzilai
-      start: '00:06:01.598'
-      end: '00:06:28.150'
+      start:
+        sec: '361.598'
+        mark: '00:06:01.598'
+      end:
+        sec: '388.150'
+        mark: '00:06:28.150'
       u: Después de estar 5 meses y medio en el campo de concentración de Haïdari,
         llegó el día dónde recogieron a todos los judíos de Atenas y los trajeron
         a todos en el mismo campo de concentración. Allá estuvimos...unos ocho días
         juntos, todos los judíos, que han llegado de Atenas.
     - who: David Boder
-      start: '00:06:28.150'
-      end: '00:06:29.733'
+      start:
+        sec: '388.150'
+        mark: '00:06:28.150'
+      end:
+        sec: '389.733'
+        mark: '00:06:29.733'
       u: Todavía en Grecia.
     - who: Nino Barzilai
-      start: '00:06:29.733'
-      end: '00:06:45.083'
+      start:
+        sec: '389.733'
+        mark: '00:06:29.733'
+      end:
+        sec: '405.083'
+        mark: '00:06:45.083'
       u: En Grecia, sí. Y llegó el día de la deportación. Ese día de la deportación,
         a las cuatro de la mañana, nos han despertado y nos han dado diez minutos
         para estar prontos para marchar..
     - who: David Boder
-      start: '00:06:45.083'
-      end: '00:06:48.415'
+      start:
+        sec: '405.083'
+        mark: '00:06:45.083'
+      end:
+        sec: '408.415'
+        mark: '00:06:48.415'
       u: "¿Cuánta gente cree que estuvo ahí?"
     - who: Nino Barzilai
-      start: '00:06:48.415'
-      end: '00:06:51.612'
+      start:
+        sec: '408.415'
+        mark: '00:06:48.415'
+      end:
+        sec: '411.612'
+        mark: '00:06:51.612'
       u: Allá creo que había cerca de dos mil.
     - who: David Boder
-      start: '00:06:51.612'
-      end: '00:07:14.609'
+      start:
+        sec: '411.612'
+        mark: '00:06:51.612'
+      end:
+        sec: '434.609'
+        mark: '00:07:14.609'
       u: Dos mil, judíos. Miré Ud. Sr. Barzilai no tenemos la costumbre de hablar
         en esta investigación de mem...de papel, pero cómo Ud. tiene aquí el memorándum
         sobre los judíos en Grecia y no sabemos mucho de esto, vamos a hacer una excepción
         que lea Ud. el memorándum que Ud. tiene aquí.
     - who: Nino Barzilai
-      start: '00:07:14.609'
-      end: '00:08:07.232'
+      start:
+        sec: '434.609'
+        mark: '00:07:14.609'
+      end:
+        sec: '487.232'
+        mark: '00:08:07.232'
       u: Y déjeme decirle en todo caso, que nosotros con el convoi que se formó para
         marchar en Polonia, sacaron a los súbditos extranjeros y nos han puesto en
         un convoi separado. Quiere decir los súbditos argentinos quedaron en el mismo
@@ -246,64 +410,120 @@ recording:
         Alemania, vinimos al campo de Bergen-Belsen y allá nos detuvieron hasta 14
         meses.
     - who: David Boder
-      start: '00:08:07.232'
-      end: '00:08:08.770'
+      start:
+        sec: '487.232'
+        mark: '00:08:07.232'
+      end:
+        sec: '488.770'
+        mark: '00:08:08.770'
       u: En Bergen-Belsen.
     - who: Nino Barzilai
-      start: '00:08:08.770'
-      end: '00:08:34.642'
+      start:
+        sec: '488.770'
+        mark: '00:08:08.770'
+      end:
+        sec: '514.642'
+        mark: '00:08:34.642'
       u: En Bergen-Belsen, Alemania. Y de allá...cuando los ingleses, que estaban
         cerca de Berlín, vea Ud., nos han puesto en un treno y nos han dirigido a
         Börgermoor. Allá quedamos con el treno una noche.
     - who: David Boder
-      start: '00:08:34.642'
-      end: '00:08:37.205'
+      start:
+        sec: '514.642'
+        mark: '00:08:34.642'
+      end:
+        sec: '517.205'
+        mark: '00:08:37.205'
       u: "¿Y dónde estaba su esposa y su hijo?"
     - who: Nino Barzilai
-      start: '00:08:37.205'
-      end: '00:08:46.220'
+      start:
+        sec: '517.205'
+        mark: '00:08:37.205'
+      end:
+        sec: '526.220'
+        mark: '00:08:46.220'
       u: Mi esposa y mi hijo, los encontré en el treno cuando íbamos para Alemania,
         para Bergen-Belsen.
     - who: David Boder
-      start: '00:08:46.220'
-      end: '00:08:46.763'
+      start:
+        sec: '526.220'
+        mark: '00:08:46.220'
+      end:
+        sec: '526.763'
+        mark: '00:08:46.763'
       u: Sí.
     - who: Nino Barzilai
-      start: '00:08:46.763'
-      end: '00:08:58.416'
+      start:
+        sec: '526.763'
+        mark: '00:08:46.763'
+      end:
+        sec: '538.416'
+        mark: '00:08:58.416'
       u: Los alemanes nos trajeron a la estación del treno y allá partimos juntos
         con el convoi de los españoles y portugueses.
     - who: David Boder
-      start: '00:08:58.416'
-      end: '00:09:00.195'
+      start:
+        sec: '538.416'
+        mark: '00:08:58.416'
+      end:
+        sec: '540.195'
+        mark: '00:09:00.195'
       u: Sí.
     - who: Nino Barzilai
-      start: '00:09:00.195'
-      end: '00:09:05.502'
+      start:
+        sec: '540.195'
+        mark: '00:09:00.195'
+      end:
+        sec: '545.502'
+        mark: '00:09:05.502'
       u: Y estuvimos juntos en Bergen-Belsen con mi señora y mi hijo.
     - who: David Boder
-      start: '00:09:05.502'
-      end: '00:09:07.296'
+      start:
+        sec: '545.502'
+        mark: '00:09:05.502'
+      end:
+        sec: '547.296'
+        mark: '00:09:07.296'
       u: "¿En el mismo block, en el mismo...?"
     - who: Nino Barzilai
-      start: '00:09:07.296'
-      end: '00:09:10.085'
+      start:
+        sec: '547.296'
+        mark: '00:09:07.296'
+      end:
+        sec: '550.085'
+        mark: '00:09:10.085'
       u: En el mismo campo, en diferentes barracas.
     - who: David Boder
-      start: '00:09:10.085'
-      end: '00:09:10.974'
+      start:
+        sec: '550.085'
+        mark: '00:09:10.085'
+      end:
+        sec: '550.974'
+        mark: '00:09:10.974'
       u: Sí.
     - who: Nino Barzilai
-      start: '00:09:10.974'
-      end: '00:09:14.231'
+      start:
+        sec: '550.974'
+        mark: '00:09:10.974'
+      end:
+        sec: '554.231'
+        mark: '00:09:14.231'
       u: Las mujeres separadas, y los hombres separados.
     - who: David Boder
-      start: '00:09:14.231'
-      end: '00:09:15.543'
+      start:
+        sec: '554.231'
+        mark: '00:09:14.231'
+      end:
+        sec: '555.543'
+        mark: '00:09:15.543'
       u: Sí.
     - who: Nino Barzilai
-      start: '00:09:15.543'
-      end: '00:11:11.480'
+      start:
+        sec: '555.543'
+        mark: '00:09:15.543'
+      end:
+        sec: '671.480'
+        mark: '00:11:11.480'
       u: Allá estuvimos como le he dicho 14 meses. Cuando nos han puesto en el treno
         para marchar, que nos han dicho que íbamos a España, vinimos hasta Börgermoor.
         Allá hubo un par de bombardeos de la parte de los americanos, duró bastante
@@ -322,69 +542,125 @@ recording:
         de reunir todos en la plaza del pueblo para poder marchar todos juntos en
         unas casas que nos habían preparado para estar, hasta que marcháramos todos...[Ininteligible]
     - who: David Boder
-      start: '00:11:11.480'
-      end: '00:11:14.375'
+      start:
+        sec: '671.480'
+        mark: '00:11:11.480'
+      end:
+        sec: '674.375'
+        mark: '00:11:14.375'
       u: "¿Qué hacían los 14 meses en Bergen-Belsen?"
     - who: Nino Barzilai
-      start: '00:11:14.375'
-      end: '00:11:22.983'
+      start:
+        sec: '674.375'
+        mark: '00:11:14.375'
+      end:
+        sec: '682.983'
+        mark: '00:11:22.983'
       u: Nosotros como súbditos extranjeros no trabajábamos, estábamos encerrados
         en las barracas, encerrados allá.
     - who: David Boder
-      start: '00:11:22.983'
-      end: '00:11:32.486'
+      start:
+        sec: '682.983'
+        mark: '00:11:22.983'
+      end:
+        sec: '692.486'
+        mark: '00:11:32.486'
       u: "¿Y no vinieron...los españoles o alguien de...cerca de España...o de [ininteligible]?"
     - who: Nino Barzilai
-      start: '00:11:32.486'
-      end: '00:11:40.687'
+      start:
+        sec: '692.486'
+        mark: '00:11:32.486'
+      end:
+        sec: '700.687'
+        mark: '00:11:40.687'
       u: Nadie, nadie hizo nada por nosotros. Se escribieron muchas cartas y ninguna
         contestación ha llegado.
     - who: David Boder
-      start: '00:11:40.687'
-      end: '00:11:43.522'
+      start:
+        sec: '700.687'
+        mark: '00:11:40.687'
+      end:
+        sec: '703.522'
+        mark: '00:11:43.522'
       u: "¿Fueron Uds. solamente judíos?"
     - who: Nino Barzilai
-      start: '00:11:43.522'
-      end: '00:11:44.924'
+      start:
+        sec: '703.522'
+        mark: '00:11:43.522'
+      end:
+        sec: '704.924'
+        mark: '00:11:44.924'
       u: Todos judíos.
     - who: David Boder
-      start: '00:11:44.924'
-      end: '00:11:45.768'
+      start:
+        sec: '704.924'
+        mark: '00:11:44.924'
+      end:
+        sec: '705.768'
+        mark: '00:11:45.768'
       u: Todos judíos.
     - who: Nino Barzilai
-      start: '00:11:45.768'
-      end: '00:12:02.897'
+      start:
+        sec: '705.768'
+        mark: '00:11:45.768'
+      end:
+        sec: '722.897'
+        mark: '00:12:02.897'
       u: En el mismo campo de Bergen-Belsen juntábamos nosotros, súbditos argentinos
         y súbditos turcos. Los súbditos turcos antes de marchar nosotros, habían marchado
         ya, ocho días antes que nosotros fueron liberados. Eso lo aprendimos después,
         al salir nosotros.
     - who: David Boder
-      start: '00:12:02.897'
-      end: '00:12:06.259'
+      start:
+        sec: '722.897'
+        mark: '00:12:02.897'
+      end:
+        sec: '726.259'
+        mark: '00:12:06.259'
       u: "¿Liberados por quién?"
     - who: Nino Barzilai
-      start: '00:12:06.259'
-      end: '00:12:14.535'
+      start:
+        sec: '726.259'
+        mark: '00:12:06.259'
+      end:
+        sec: '734.535'
+        mark: '00:12:14.535'
       u: Se dice que los acompañaron hasta la frontera suiza y que allá el consulado
         se encargó de ellos.
     - who: David Boder
-      start: '00:12:14.535'
-      end: '00:12:20.176'
+      start:
+        sec: '734.535'
+        mark: '00:12:14.535'
+      end:
+        sec: '740.176'
+        mark: '00:12:20.176'
       u: Bueno, entonces diga Ud. ahora, vamos a ver que...dígame...
     - who: Nino Barzilai
-      start: '00:12:20.176'
-      end: '00:12:41.255'
+      start:
+        sec: '740.176'
+        mark: '00:12:20.176'
+      end:
+        sec: '761.255'
+        mark: '00:12:41.255'
       u: Como le he dicho, que después que fuimos liberados por los americanos, los
         americanos nos han enviado a Francia...hemos, la primera estación de Francia
         que hemos hecho fue...[Interrupción, no audio]
     - who: David Boder
-      start: '00:12:41.255'
-      end: '00:12:56.607'
+      start:
+        sec: '761.255'
+        mark: '00:12:41.255'
+      end:
+        sec: '776.607'
+        mark: '00:12:56.607'
       u: No, no...it will be good, wherever...¿Y después? [Ininteligible] No, está
         bien.
     - who: Nino Barzilai
-      start: '00:12:56.607'
-      end: '00:13:35.582'
+      start:
+        sec: '776.607'
+        mark: '00:12:56.607'
+      end:
+        sec: '815.582'
+        mark: '00:13:35.582'
       u: No recuerdo bien. Nos han dirigido verso París y todos los déportées que
         hemos llegado a París somos altamente reconocientes al gobierno francés y
         al pueblo francés en general por el apoyo favorable que nos dan ellos. Nos
@@ -392,59 +668,107 @@ recording:
         descalzados y desnudos, y nos han dado la buena comida que no olvidaremos
         nunca lo que la Francia ha hecho por todos los deportados.
     - who: David Boder
-      start: '00:13:35.582'
-      end: '00:13:38.959'
+      start:
+        sec: '815.582'
+        mark: '00:13:35.582'
+      end:
+        sec: '818.959'
+        mark: '00:13:38.959'
       u: Aja. ¿Y ahora qué está Ud. haciendo señor?
     - who: Nino Barzilai
-      start: '00:13:38.959'
-      end: '00:13:56.345'
+      start:
+        sec: '818.959'
+        mark: '00:13:38.959'
+      end:
+        sec: '836.345'
+        mark: '00:13:56.345'
       u: Nosotros estamos todavía en el centre de accueil de la calle [ininteligible],
         todavía no hemos encontrado ninguna casa para podernos establecer. Mi hijo
         lo he puesto en una escuela francesa dónde está aprendiendo un oficio.
     - who: David Boder
-      start: '00:13:56.345'
-      end: '00:13:58.199'
+      start:
+        sec: '836.345'
+        mark: '00:13:56.345'
+      end:
+        sec: '838.199'
+        mark: '00:13:58.199'
       u: "¿Qué oficio está aprendiendo?"
     - who: Nino Barzilai
-      start: '00:13:58.199'
-      end: '00:13:59.888'
+      start:
+        sec: '838.199'
+        mark: '00:13:58.199'
+      end:
+        sec: '839.888'
+        mark: '00:13:59.888'
       u: Ebanistería.
     - who: David Boder
-      start: '00:13:59.888'
-      end: '00:14:01.049'
+      start:
+        sec: '839.888'
+        mark: '00:13:59.888'
+      end:
+        sec: '841.049'
+        mark: '00:14:01.049'
       u: Aja. Ebanistería.
     - who: Nino Barzilai
-      start: '00:14:01.049'
-      end: '00:14:09.401'
+      start:
+        sec: '841.049'
+        mark: '00:14:01.049'
+      end:
+        sec: '849.401'
+        mark: '00:14:09.401'
       u: Yo como tengo también el oficio de electricista, me han conseguido la casa
         del trabajo.
     - who: David Boder
-      start: '00:14:09.401'
-      end: '00:14:10.699'
+      start:
+        sec: '849.401'
+        mark: '00:14:09.401'
+      end:
+        sec: '850.699'
+        mark: '00:14:10.699'
       u: Le han conseguido.
     - who: Nino Barzilai
-      start: '00:14:10.699'
-      end: '00:14:22.048'
+      start:
+        sec: '850.699'
+        mark: '00:14:10.699'
+      end:
+        sec: '862.048'
+        mark: '00:14:22.048'
       u: Sí, si...y poco a poco estoy empezando a trabajar. Y creemos que podemos
         quedar aquí en Francia, por la zona.
     - who: David Boder
-      start: '00:14:22.048'
-      end: '00:14:23.405'
+      start:
+        sec: '862.048'
+        mark: '00:14:22.048'
+      end:
+        sec: '863.405'
+        mark: '00:14:23.405'
       u: Y establecerse.
     - who: Nino Barzilai
-      start: '00:14:23.405'
-      end: '00:14:49.319'
+      start:
+        sec: '863.405'
+        mark: '00:14:23.405'
+      end:
+        sec: '889.319'
+        mark: '00:14:49.319'
       u: Y establecernos. Aquí llevo una lista que será muy interesante para todos
         los judíos de Grecia que se encuentran en el extranjero. Una lista de los
         pocos judíos que volvieron a Grecia, de cada provincia en provincia de Grecia,
         con sus habitantes antes de la guerra, y los que quedaron y volvieron.
     - who: David Boder
-      start: '00:14:49.319'
-      end: '00:14:51.708'
+      start:
+        sec: '889.319'
+        mark: '00:14:49.319'
+      end:
+        sec: '891.708'
+        mark: '00:14:51.708'
       u: Bueno.
     - who: Nino Barzilai
-      start: '00:14:51.708'
-      end: '00:16:17.759'
+      start:
+        sec: '891.708'
+        mark: '00:14:51.708'
+      end:
+        sec: '977.759'
+        mark: '00:16:17.759'
       u: En la provincia de Didimoticho eran 900 judíos, hoy han vuelto 33, se han
         perdido 96 por ciento; en la aldea Orestiada [Interrupción, no audio]...han
         vuelto 3, 98 por ciento; Alexandroupolis, 140 judíos, 97 por ciento; Komotini,
@@ -453,49 +777,93 @@ recording:
         97%; [ininteligible] 600, no han vuelto más que 3, 98%; Tessaloniki, la gran
         comunidad judía, 56.000, han vuelto 1.950, 96%.
     - who: David Boder
-      start: '00:16:17.759'
-      end: '00:16:19.900'
+      start:
+        sec: '977.759'
+        mark: '00:16:17.759'
+      end:
+        sec: '979.900'
+        mark: '00:16:19.900'
       u: 96% ¿perdidos?
     - who: Nino Barzilai
-      start: '00:16:19.900'
-      end: '00:16:28.990'
+      start:
+        sec: '979.900'
+        mark: '00:16:19.900'
+      end:
+        sec: '988.990'
+        mark: '00:16:28.990'
       u: Perdidos, sí señor. Veroia, 460 judíos, han vuelto 131...
     - who: David Boder
-      start: '00:16:28.990'
-      end: '00:16:29.744'
+      start:
+        sec: '988.990'
+        mark: '00:16:28.990'
+      end:
+        sec: '989.744'
+        mark: '00:16:29.744'
       u: Bueno señor...
     - who: Nino Barzilai
-      start: '00:16:29.744'
-      end: '00:16:30.980'
+      start:
+        sec: '989.744'
+        mark: '00:16:29.744'
+      end:
+        sec: '990.980'
+        mark: '00:16:30.980'
       u: 32%.
     - who: David Boder
-      start: '00:16:30.980'
-      end: '00:16:35.141'
+      start:
+        sec: '990.980'
+        mark: '00:16:30.980'
+      end:
+        sec: '995.141'
+        mark: '00:16:35.141'
       u: "¿Ud. puede darme una copia de ese papel o a dónde se lo pedimos?"
     - who: Nino Barzilai
-      start: '00:16:35.141'
-      end: '00:16:36.711'
+      start:
+        sec: '995.141'
+        mark: '00:16:35.141'
+      end:
+        sec: '996.711'
+        mark: '00:16:36.711'
       u: Con mucho placer, sí señor.
     - who: David Boder
-      start: '00:16:36.711'
-      end: '00:16:37.412'
+      start:
+        sec: '996.711'
+        mark: '00:16:36.711'
+      end:
+        sec: '997.412'
+        mark: '00:16:37.412'
       u: Bueno.
     - who: Nino Barzilai
-      start: '00:16:37.412'
-      end: '00:16:40.068'
+      start:
+        sec: '997.412'
+        mark: '00:16:37.412'
+      end:
+        sec: '1000.068'
+        mark: '00:16:40.068'
       u: Yo le daré la copia. Continuaremos...[Ininteligible].
     - who: David Boder
-      start: '00:16:40.068'
-      end: '00:16:46.394'
+      start:
+        sec: '1000.068'
+        mark: '00:16:40.068'
+      end:
+        sec: '1006.394'
+        mark: '00:16:46.394'
       u: "[Ininteligible]"
     - who: Nino Barzilai
-      start: '00:16:46.394'
-      end: '00:17:09.004'
+      start:
+        sec: '1006.394'
+        mark: '00:16:46.394'
+      end:
+        sec: '1029.004'
+        mark: '00:17:09.004'
       u: Kastoria, 900 judíos, 35 han vuelto, 96% de pérdida; Florina, 400 judíos,
         74 han vuelto, 84%; Thessalia, 520, 360, 31%...
     - who: David Boder
-      start: '00:17:09.004'
-      end: '00:17:29.756'
+      start:
+        sec: '1029.004'
+        mark: '00:17:09.004'
+      end:
+        sec: '1049.756'
+        mark: '00:17:29.756'
       u: Bueno señor, [ininteligible] si Ud. me da la copia. Entonces señor...le agradezco
         mucho por su información y especialmente [ininteligible] porque yo intento
         de irme a México y un reporte...[extremos precipitadamente]
@@ -503,18 +871,30 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:00.603'
-      end: '00:00:53.917'
+      start:
+        sec: '0.603'
+        mark: '00:00:00.603'
+      end:
+        sec: '53.917'
+        mark: '00:00:53.917'
       u: "[In English] Chicago, June the 26th, 1950. This is Spool 9-21B, the second
         half of Spool 9-21. The first half is Dr. Lipschitz which we called 9-21A,
         the second is Mr. Nino Barzilai which we call 9-21B."
     - who: David Boder
-      start: '00:00:53.917'
-      end: '00:01:03.636'
+      start:
+        sec: '53.917'
+        mark: '00:00:53.917'
+      end:
+        sec: '63.636'
+        mark: '00:01:03.636'
       u: "[In Spanish] You have to speak in this direction..."
     - who: David Boder
-      start: '00:01:03.636'
-      end: '00:01:22.442'
+      start:
+        sec: '63.636'
+        mark: '00:01:03.636'
+      end:
+        sec: '82.442'
+        mark: '00:01:22.442'
       u: "[In English] Paris, August the 4th, Sunday, in the home for adult Jews.
         We are now going to interview a gentleman from Greece, Señor Nino Barzilai...who
         speaks Spanish.Nino Barzilai’s native language was Ladino, which was spoken
@@ -522,12 +902,20 @@ recording:
         the Balkans. Ladino contains elements of Spanish and Hebrew. Ladino’s Spanish
         component enabled Nino Barzilai to speak Spanish in a fluent manner.1"
     - who: David Boder
-      start: '00:01:22.442'
-      end: '00:01:29.200'
+      start:
+        sec: '82.442'
+        mark: '00:01:22.442'
+      end:
+        sec: '89.200'
+        mark: '00:01:29.200'
       u: "[In Spanish] Mr. Barzilai, can you tell me if you were born in Greece?"
     - who: Nino Barzilai
-      start: '00:01:29.200'
-      end: '00:01:32.954'
+      start:
+        sec: '89.200'
+        mark: '00:01:29.200'
+      end:
+        sec: '92.954'
+        mark: '00:01:32.954'
       u: Yes, Sir. I was born in Thessaloniki, Greece.Thessaloniki or Salonika was
         home to the most flourishing Sephardic Jewish community in the world before
         the Holocaust. Nearly all of its pre-war Jewish population of some 56,000
@@ -535,21 +923,37 @@ recording:
         Sephardic Jewish community of Salonika, the heart of Sephardic world Jewry,
         was almost totally annihilated.2
     - who: David Boder
-      start: '00:01:32.954'
-      end: '00:01:37.056'
+      start:
+        sec: '92.954'
+        mark: '00:01:32.954'
+      end:
+        sec: '97.056'
+        mark: '00:01:37.056'
       u: How old are you now?
     - who: Nino Barzilai
-      start: '00:01:37.056'
-      end: '00:01:38.716'
+      start:
+        sec: '97.056'
+        mark: '00:01:37.056'
+      end:
+        sec: '98.716'
+        mark: '00:01:38.716'
       u: Fifty-four years old.
     - who: David Boder
-      start: '00:01:38.716'
-      end: '00:01:50.180'
+      start:
+        sec: '98.716'
+        mark: '00:01:38.716'
+      end:
+        sec: '110.180'
+        mark: '00:01:50.180'
       u: Oh, you are fifty-four! You don’t look...you don’t seem that age! So, tell
         me...have you always lived in Greece?
     - who: Nino Barzilai
-      start: '00:01:50.180'
-      end: '00:02:00.296'
+      start:
+        sec: '110.180'
+        mark: '00:01:50.180'
+      end:
+        sec: '120.296'
+        mark: '00:02:00.296'
       u: No, Sir. I lived in Spain for twenty years. When the war was declared, the
         Spanish Civil War, I came back to Greece where I had my family.The Spanish
         Civil War (1936-39) began with a military revolt led by General Francisco
@@ -561,29 +965,53 @@ recording:
         help from the Soviet Union as well as from the International Brigades, sympathetic
         volunteers who came from other European countries and the United States.3
     - who: David Boder
-      start: '00:02:00.296'
-      end: '00:02:03.025'
+      start:
+        sec: '120.296'
+        mark: '00:02:00.296'
+      end:
+        sec: '123.025'
+        mark: '00:02:03.025'
       u: Are you married?
     - who: Nino Barzilai
-      start: '00:02:03.025'
-      end: '00:02:07.020'
+      start:
+        sec: '123.025'
+        mark: '00:02:03.025'
+      end:
+        sec: '127.020'
+        mark: '00:02:07.020'
       u: Yes, sir. I have a fifteen-year-old son.
     - who: David Boder
-      start: '00:02:07.020'
-      end: '00:02:08.874'
+      start:
+        sec: '127.020'
+        mark: '00:02:07.020'
+      end:
+        sec: '128.874'
+        mark: '00:02:08.874'
       u: What about your wife?
     - who: Nino Barzilai
-      start: '00:02:08.874'
-      end: '00:02:10.834'
+      start:
+        sec: '128.874'
+        mark: '00:02:08.874'
+      end:
+        sec: '130.834'
+        mark: '00:02:10.834'
       u: My wife is also here with me.
     - who: David Boder
-      start: '00:02:10.834'
-      end: '00:02:25.894'
+      start:
+        sec: '130.834'
+        mark: '00:02:10.834'
+      end:
+        sec: '145.894'
+        mark: '00:02:25.894'
       u: They are here with you. So, please tell us...how were you affected by the
         occupation of Greece by Germans?
     - who: Nino Barzilai
-      start: '00:02:25.894'
-      end: '00:03:03.598'
+      start:
+        sec: '145.894'
+        mark: '00:02:25.894'
+      end:
+        sec: '183.598'
+        mark: '00:03:03.598'
       u: Well...you see...as I have told you, we came back to Greece because we had
         some relatives, and we were going to wait till the end of the Spanish Civil
         War to come back to our place. When we arrived in Greece, the Italian-Greek
@@ -593,46 +1021,86 @@ recording:
         The Greeks fought valiantly, and the war stalemated for a time. Even though
         the Spanish Civil War ended in 1939, Spain was a ravaged and devastated country.4
     - who: David Boder
-      start: '00:03:03.598'
-      end: '00:03:06.869'
+      start:
+        sec: '183.598'
+        mark: '00:03:03.598'
+      end:
+        sec: '186.869'
+        mark: '00:03:06.869'
       u: And what did you do for a living, Mr. Barzilai?
     - who: Nino Barzilai
-      start: '00:03:06.869'
-      end: '00:03:17.442'
+      start:
+        sec: '186.869'
+        mark: '00:03:06.869'
+      end:
+        sec: '197.442'
+        mark: '00:03:17.442'
       u: In Greece, I sold fabrics for women’s garments. I was well established...I
         had my own office...
     - who: David Boder
-      start: '00:03:17.442'
-      end: '00:03:18.241'
+      start:
+        sec: '197.442'
+        mark: '00:03:17.442'
+      end:
+        sec: '198.241'
+        mark: '00:03:18.241'
       u: In Greece.
     - who: Nino Barzilai
-      start: '00:03:18.241'
-      end: '00:03:21.543'
+      start:
+        sec: '198.241'
+        mark: '00:03:18.241'
+      end:
+        sec: '201.543'
+        mark: '00:03:21.543'
       u: In Greece, Athens, near [unintelligible].
     - who: David Boder
-      start: '00:03:21.543'
-      end: '00:03:23.850'
+      start:
+        sec: '201.543'
+        mark: '00:03:21.543'
+      end:
+        sec: '203.850'
+        mark: '00:03:23.850'
       u: And what did you do in Spain?
     - who: Nino Barzilai
-      start: '00:03:23.850'
-      end: '00:03:27.785'
+      start:
+        sec: '203.850'
+        mark: '00:03:23.850'
+      end:
+        sec: '207.785'
+        mark: '00:03:27.785'
       u: In Spain I was in the business of bijouterie.The business of bijouterie Mr.
         Barzilai refers to is the jewelry business.5
     - who: David Boder
-      start: '00:03:27.785'
-      end: '00:03:32.443'
+      start:
+        sec: '207.785'
+        mark: '00:03:27.785'
+      end:
+        sec: '212.443'
+        mark: '00:03:32.443'
       u: So, you came back to Greece. Were the Germans already there?
     - who: Nino Barzilai
-      start: '00:03:32.443'
-      end: '00:03:37.418'
+      start:
+        sec: '212.443'
+        mark: '00:03:32.443'
+      end:
+        sec: '217.418'
+        mark: '00:03:37.418'
       u: When I came back to Greece, the Germans had not invaded yet.
     - who: David Boder
-      start: '00:03:37.418'
-      end: '00:03:38.654'
+      start:
+        sec: '217.418'
+        mark: '00:03:37.418'
+      end:
+        sec: '218.654'
+        mark: '00:03:38.654'
       u: OK, then...
     - who: Nino Barzilai
-      start: '00:03:38.654'
-      end: '00:04:15.595'
+      start:
+        sec: '218.654'
+        mark: '00:03:38.654'
+      end:
+        sec: '255.595'
+        mark: '00:04:15.595'
       u: 'Later, the Italian War started...Italy and Greece, and then, after some
         time, the Germans came and occupied Greece. We left Salonica, and moved to
         Athens, where we settled.Mr. Barzilai and his family were among the thousands
@@ -651,20 +1119,36 @@ recording:
         the confiscation of Jewish property, which resulted in the impoverishment
         of the community and plunged many Jews into destitution.7'
     - who: David Boder
-      start: '00:04:15.595'
-      end: '00:04:17.404'
+      start:
+        sec: '255.595'
+        mark: '00:04:15.595'
+      end:
+        sec: '257.404'
+        mark: '00:04:17.404'
       u: Are you Portuguese?
     - who: Nino Barzilai
-      start: '00:04:17.404'
-      end: '00:04:18.068'
+      start:
+        sec: '257.404'
+        mark: '00:04:17.404'
+      end:
+        sec: '258.068'
+        mark: '00:04:18.068'
       u: Yes, I am.
     - who: David Boder
-      start: '00:04:18.068'
-      end: '00:04:19.802'
+      start:
+        sec: '258.068'
+        mark: '00:04:18.068'
+      end:
+        sec: '259.802'
+        mark: '00:04:19.802'
       u: Were you born in Portugal?
     - who: Nino Barzilai
-      start: '00:04:19.802'
-      end: '00:05:03.818'
+      start:
+        sec: '259.802'
+        mark: '00:04:19.802'
+      end:
+        sec: '303.818'
+        mark: '00:05:03.818'
       u: No, Sir. I am [unintelligible] my family was from [unintelligible]...so...I
         presented myself to the German authorities as Portuguese, with Portuguese
         documents. And since the Chief Rabbi was a relative of mine and happened to
@@ -680,21 +1164,37 @@ recording:
         It was located in the town of Haidary near Athens. The majority of its inmates
         were transported to Bergen-Belsen or to Auschwitz.9
     - who: David Boder
-      start: '00:05:03.818'
-      end: '00:05:07.029'
+      start:
+        sec: '303.818'
+        mark: '00:05:03.818'
+      end:
+        sec: '307.029'
+        mark: '00:05:07.029'
       u: What kind of labor did you do at the concentration camp?
     - who: Nino Barzilai
-      start: '00:05:07.029'
-      end: '00:05:19.368'
+      start:
+        sec: '307.029'
+        mark: '00:05:07.029'
+      end:
+        sec: '319.368'
+        mark: '00:05:19.368'
       u: We had to move stones and sand during the whole day, from one place to another.
         It was hard and we were hit and punished a lot.
     - who: David Boder
-      start: '00:05:19.368'
-      end: '00:05:23.031'
+      start:
+        sec: '319.368'
+        mark: '00:05:19.368'
+      end:
+        sec: '323.031'
+        mark: '00:05:23.031'
       u: What did you do with the sand?
     - who: Nino Barzilai
-      start: '00:05:23.031'
-      end: '00:05:58.447'
+      start:
+        sec: '323.031'
+        mark: '00:05:23.031'
+      end:
+        sec: '358.447'
+        mark: '00:05:58.447'
       u: They “invented” this labor for us to work, to make us feel tired, because
         we transported stones from one place to another, and the following day, we
         would move the same stones back to their original place. We were not working
@@ -703,42 +1203,74 @@ recording:
         purpose and other forms of useless labor were used in many concentration camps
         for tormenting and weakening the prisoners.10
     - who: David Boder
-      start: '00:05:58.447'
-      end: '00:06:01.598'
+      start:
+        sec: '358.447'
+        mark: '00:05:58.447'
+      end:
+        sec: '361.598'
+        mark: '00:06:01.598'
       u: You can continue, we have good reception.
     - who: Nino Barzilai
-      start: '00:06:01.598'
-      end: '00:06:28.150'
+      start:
+        sec: '361.598'
+        mark: '00:06:01.598'
+      end:
+        sec: '388.150'
+        mark: '00:06:28.150'
       u: After more than five and a half months in the Haidari concentration camp,
         all Jews from Athens were brought to the same camp. We were together...for
         about eight days...all Jews coming from Athens.
     - who: David Boder
-      start: '00:06:28.150'
-      end: '00:06:29.733'
+      start:
+        sec: '388.150'
+        mark: '00:06:28.150'
+      end:
+        sec: '389.733'
+        mark: '00:06:29.733'
       u: Still in Greece?
     - who: Nino Barzilai
-      start: '00:06:29.733'
-      end: '00:06:45.083'
+      start:
+        sec: '389.733'
+        mark: '00:06:29.733'
+      end:
+        sec: '405.083'
+        mark: '00:06:45.083'
       u: Yes. In Greece. And the day of our deportation came...we were woken up at
         four in the morning and we were given ten minutes to get ready to depart.
     - who: David Boder
-      start: '00:06:45.083'
-      end: '00:06:48.415'
+      start:
+        sec: '405.083'
+        mark: '00:06:45.083'
+      end:
+        sec: '408.415'
+        mark: '00:06:48.415'
       u: How many people do you think there were in that camp?
     - who: Nino Barzilai
-      start: '00:06:48.415'
-      end: '00:06:51.612'
+      start:
+        sec: '408.415'
+        mark: '00:06:48.415'
+      end:
+        sec: '411.612'
+        mark: '00:06:51.612'
       u: I think there were around two thousand people.
     - who: David Boder
-      start: '00:06:51.612'
-      end: '00:07:14.609'
+      start:
+        sec: '411.612'
+        mark: '00:06:51.612'
+      end:
+        sec: '434.609'
+        mark: '00:07:14.609'
       u: Two thousand Jews. Look Mr. Barzilai, in this research, we usually do not
         speak about the mem—...about papers, but since you have the memorandum about
         Jews in Greece and we do not know much about this, we are going to make an
         exception and I will ask you to read the memorandum you have here.
     - who: Nino Barzilai
-      start: '00:07:14.609'
-      end: '00:08:07.232'
+      start:
+        sec: '434.609'
+        mark: '00:07:14.609'
+      end:
+        sec: '487.232'
+        mark: '00:08:07.232'
       u: Allow me to tell you that in the convoy that was sent to Poland all foreign
         subjects were included and we were sent in a separate convoy. This means the
         Argentine subjects stayed in the Haidari camp while the Spanish and Portuguese
@@ -756,12 +1288,20 @@ recording:
         existence, five satellite camps were established, one of which was the “neutral
         camp” in which Mr. Barzilai and his family were interned.12
     - who: David Boder
-      start: '00:08:07.232'
-      end: '00:08:08.770'
+      start:
+        sec: '487.232'
+        mark: '00:08:07.232'
+      end:
+        sec: '488.770'
+        mark: '00:08:08.770'
       u: In Bergen-Belsen.
     - who: Nino Barzilai
-      start: '00:08:08.770'
-      end: '00:08:34.642'
+      start:
+        sec: '488.770'
+        mark: '00:08:08.770'
+      end:
+        sec: '514.642'
+        mark: '00:08:34.642'
       u: In Bergen-Belsen, Germany. And from there...when the English were near Berlin,What
         Mr. Barzilai meant was that the British army was nearing the camp which was
         liberated on April 15, 1945. The British found 60,000 emaciated and starving
@@ -773,54 +1313,102 @@ recording:
         on the Barzilai’s deportation train were freed by American troops before they
         reached Boegermoor.14
     - who: David Boder
-      start: '00:08:34.642'
-      end: '00:08:37.205'
+      start:
+        sec: '514.642'
+        mark: '00:08:34.642'
+      end:
+        sec: '517.205'
+        mark: '00:08:37.205'
       u: Where were your wife and your son?
     - who: Nino Barzilai
-      start: '00:08:37.205'
-      end: '00:08:46.220'
+      start:
+        sec: '517.205'
+        mark: '00:08:37.205'
+      end:
+        sec: '526.220'
+        mark: '00:08:46.220'
       u: I found my wife and my son on the train that was taking us to Germany, to
         Bergen-Belsen.
     - who: David Boder
-      start: '00:08:46.220'
-      end: '00:08:46.763'
+      start:
+        sec: '526.220'
+        mark: '00:08:46.220'
+      end:
+        sec: '526.763'
+        mark: '00:08:46.763'
       u: All right.
     - who: Nino Barzilai
-      start: '00:08:46.763'
-      end: '00:08:58.416'
+      start:
+        sec: '526.763'
+        mark: '00:08:46.763'
+      end:
+        sec: '538.416'
+        mark: '00:08:58.416'
       u: The Germans took us to the train station, and from there we departed on a
         joint convoy both Spaniards and Portuguese.
     - who: David Boder
-      start: '00:08:58.416'
-      end: '00:09:00.195'
+      start:
+        sec: '538.416'
+        mark: '00:08:58.416'
+      end:
+        sec: '540.195'
+        mark: '00:09:00.195'
       u: OK.
     - who: Nino Barzilai
-      start: '00:09:00.195'
-      end: '00:09:05.502'
+      start:
+        sec: '540.195'
+        mark: '00:09:00.195'
+      end:
+        sec: '545.502'
+        mark: '00:09:05.502'
       u: And, I was together with my wife and my son in Bergen-Belsen.
     - who: David Boder
-      start: '00:09:05.502'
-      end: '00:09:07.296'
+      start:
+        sec: '545.502'
+        mark: '00:09:05.502'
+      end:
+        sec: '547.296'
+        mark: '00:09:07.296'
       u: Were you in the same block?
     - who: Nino Barzilai
-      start: '00:09:07.296'
-      end: '00:09:10.085'
+      start:
+        sec: '547.296'
+        mark: '00:09:07.296'
+      end:
+        sec: '550.085'
+        mark: '00:09:10.085'
       u: We were in the same camp, but in different barracks.
     - who: David Boder
-      start: '00:09:10.085'
-      end: '00:09:10.974'
+      start:
+        sec: '550.085'
+        mark: '00:09:10.085'
+      end:
+        sec: '550.974'
+        mark: '00:09:10.974'
       u: I see.
     - who: Nino Barzilai
-      start: '00:09:10.974'
-      end: '00:09:14.231'
+      start:
+        sec: '550.974'
+        mark: '00:09:10.974'
+      end:
+        sec: '554.231'
+        mark: '00:09:14.231'
       u: Women and men were separate.
     - who: David Boder
-      start: '00:09:14.231'
-      end: '00:09:15.543'
+      start:
+        sec: '554.231'
+        mark: '00:09:14.231'
+      end:
+        sec: '555.543'
+        mark: '00:09:15.543'
       u: I see.
     - who: Nino Barzilai
-      start: '00:09:15.543'
-      end: '00:11:11.480'
+      start:
+        sec: '555.543'
+        mark: '00:09:15.543'
+      end:
+        sec: '671.480'
+        mark: '00:11:11.480'
       u: As I told you, we were there for 14 months and we were placed on a train
         and we were told we were to be taken to Spain, but we came to Börgermoor.
         There, there were a number of bombings by Americans, that lasted for a whole
@@ -839,68 +1427,124 @@ recording:
         and other initial contacts which liberated concentration camp inmates had
         with the American army were most positive.15
     - who: David Boder
-      start: '00:11:11.480'
-      end: '00:11:14.375'
+      start:
+        sec: '671.480'
+        mark: '00:11:11.480'
+      end:
+        sec: '674.375'
+        mark: '00:11:14.375'
       u: What did you do during those 14 months in Bergen-Belsen?
     - who: Nino Barzilai
-      start: '00:11:14.375'
-      end: '00:11:22.983'
+      start:
+        sec: '674.375'
+        mark: '00:11:14.375'
+      end:
+        sec: '682.983'
+        mark: '00:11:22.983'
       u: We, as foreign subjects, did not work. We were locked in the barracks.
     - who: David Boder
-      start: '00:11:22.983'
-      end: '00:11:32.486'
+      start:
+        sec: '682.983'
+        mark: '00:11:22.983'
+      end:
+        sec: '692.486'
+        mark: '00:11:32.486'
       u: Didn’t the Spaniards...or somebody from the neighboring areas come...or from...[unintelligible]?
     - who: Nino Barzilai
-      start: '00:11:32.486'
-      end: '00:11:40.687'
+      start:
+        sec: '692.486'
+        mark: '00:11:32.486'
+      end:
+        sec: '700.687'
+        mark: '00:11:40.687'
       u: Nobody. Nobody did anything for us. Many letters were written but there were
         no replies.
     - who: David Boder
-      start: '00:11:40.687'
-      end: '00:11:43.522'
+      start:
+        sec: '700.687'
+        mark: '00:11:40.687'
+      end:
+        sec: '703.522'
+        mark: '00:11:43.522'
       u: Were there only Jews?
     - who: Nino Barzilai
-      start: '00:11:43.522'
-      end: '00:11:44.924'
+      start:
+        sec: '703.522'
+        mark: '00:11:43.522'
+      end:
+        sec: '704.924'
+        mark: '00:11:44.924'
       u: All of us were Jews.
     - who: David Boder
-      start: '00:11:44.924'
-      end: '00:11:45.768'
+      start:
+        sec: '704.924'
+        mark: '00:11:44.924'
+      end:
+        sec: '705.768'
+        mark: '00:11:45.768'
       u: All Jews...
     - who: Nino Barzilai
-      start: '00:11:45.768'
-      end: '00:12:02.897'
+      start:
+        sec: '705.768'
+        mark: '00:11:45.768'
+      end:
+        sec: '722.897'
+        mark: '00:12:02.897'
       u: In Bergen-Belsen we were together with Argentine subjects, Turkish subjects.Although
         Turkey had fought on the German side during World War I, it was neutral during
         World War II so those Jews with Turkish citizenship received some protection.16
         Before we left, the Turkish subjects had been freed. They were freed eight
         days before us. We learnt about it some days later, when we left.
     - who: David Boder
-      start: '00:12:02.897'
-      end: '00:12:06.259'
+      start:
+        sec: '722.897'
+        mark: '00:12:02.897'
+      end:
+        sec: '726.259'
+        mark: '00:12:06.259'
       u: Who freed them?
     - who: Nino Barzilai
-      start: '00:12:06.259'
-      end: '00:12:14.535'
+      start:
+        sec: '726.259'
+        mark: '00:12:06.259'
+      end:
+        sec: '734.535'
+        mark: '00:12:14.535'
       u: It was said they had been escorted to the Swiss border, and there, the Consulate
         took care of them.
     - who: David Boder
-      start: '00:12:14.535'
-      end: '00:12:20.176'
+      start:
+        sec: '734.535'
+        mark: '00:12:14.535'
+      end:
+        sec: '740.176'
+        mark: '00:12:20.176'
       u: OK. Then, tell me...well...tell me...
     - who: Nino Barzilai
-      start: '00:12:20.176'
-      end: '00:12:41.255'
+      start:
+        sec: '740.176'
+        mark: '00:12:20.176'
+      end:
+        sec: '761.255'
+        mark: '00:12:41.255'
       u: As I have told you, after being freed by Americans, we were sent to France...the
         first French station we reached was...[audio interruption]
     - who: David Boder
-      start: '00:12:41.255'
-      end: '00:12:56.607'
+      start:
+        sec: '761.255'
+        mark: '00:12:41.255'
+      end:
+        sec: '776.607'
+        mark: '00:12:56.607'
       u: No, no...it will be good, wherever...What happened then? [unintelligible]
         Don’t worry, it is just fine.
     - who: Nino Barzilai
-      start: '00:12:56.607'
-      end: '00:13:35.582'
+      start:
+        sec: '776.607'
+        mark: '00:12:56.607'
+      end:
+        sec: '815.582'
+        mark: '00:13:35.582'
       u: I really can’t remember. We were taken directly to Paris and all those who
         had been deported reached Paris very thankful to the French government and
         to the French people in general because of the support they offered us. We
@@ -910,57 +1554,105 @@ recording:
         Reconciliation was able to provide food and shelter for some 75% of the some
         40,000 Holocaust survivors who came to France following their liberation.17
     - who: David Boder
-      start: '00:13:35.582'
-      end: '00:13:38.959'
+      start:
+        sec: '815.582'
+        mark: '00:13:35.582'
+      end:
+        sec: '818.959'
+        mark: '00:13:38.959'
       u: Good. And what are you doing now, Sir?
     - who: Nino Barzilai
-      start: '00:13:38.959'
-      end: '00:13:56.345'
+      start:
+        sec: '818.959'
+        mark: '00:13:38.959'
+      end:
+        sec: '836.345'
+        mark: '00:13:56.345'
       u: We are still in the center located on [unintelligible] Street. We still have
         not found a house to settle. My son is learning a trade in the French school.
     - who: David Boder
-      start: '00:13:56.345'
-      end: '00:13:58.199'
+      start:
+        sec: '836.345'
+        mark: '00:13:56.345'
+      end:
+        sec: '838.199'
+        mark: '00:13:58.199'
       u: What trade is he learning?
     - who: Nino Barzilai
-      start: '00:13:58.199'
-      end: '00:13:59.888'
+      start:
+        sec: '838.199'
+        mark: '00:13:58.199'
+      end:
+        sec: '839.888'
+        mark: '00:13:59.888'
       u: Woodworking.
     - who: David Boder
-      start: '00:13:59.888'
-      end: '00:14:01.049'
+      start:
+        sec: '839.888'
+        mark: '00:13:59.888'
+      end:
+        sec: '841.049'
+        mark: '00:14:01.049'
       u: Oh, woodworking.
     - who: Nino Barzilai
-      start: '00:14:01.049'
-      end: '00:14:09.401'
+      start:
+        sec: '841.049'
+        mark: '00:14:01.049'
+      end:
+        sec: '849.401'
+        mark: '00:14:09.401'
       u: As I am an electrician, I have been given a job.
     - who: David Boder
-      start: '00:14:09.401'
-      end: '00:14:10.699'
+      start:
+        sec: '849.401'
+        mark: '00:14:09.401'
+      end:
+        sec: '850.699'
+        mark: '00:14:10.699'
       u: So you are working.
     - who: Nino Barzilai
-      start: '00:14:10.699'
-      end: '00:14:22.048'
+      start:
+        sec: '850.699'
+        mark: '00:14:10.699'
+      end:
+        sec: '862.048'
+        mark: '00:14:22.048'
       u: Well, I will soon start to work. We believe we can stay here in France, in
         this area.
     - who: David Boder
-      start: '00:14:22.048'
-      end: '00:14:23.405'
+      start:
+        sec: '862.048'
+        mark: '00:14:22.048'
+      end:
+        sec: '863.405'
+        mark: '00:14:23.405'
       u: To settle here.
     - who: Nino Barzilai
-      start: '00:14:23.405'
-      end: '00:14:49.319'
+      start:
+        sec: '863.405'
+        mark: '00:14:23.405'
+      end:
+        sec: '889.319'
+        mark: '00:14:49.319'
       u: Yes. To settle here. I have a list that will be of great interest to all
         Jews from Greece who are still abroad. It is a list of the few Jews that returned
         to Greece in each Greek province. It includes the inhabitants before the war,
         and the ones left or those who returned.
     - who: David Boder
-      start: '00:14:49.319'
-      end: '00:14:51.708'
+      start:
+        sec: '889.319'
+        mark: '00:14:49.319'
+      end:
+        sec: '891.708'
+        mark: '00:14:51.708'
       u: Good.
     - who: Nino Barzilai
-      start: '00:14:51.708'
-      end: '00:16:17.759'
+      start:
+        sec: '891.708'
+        mark: '00:14:51.708'
+      end:
+        sec: '977.759'
+        mark: '00:16:17.759'
       u: In the Province of Didymoteicho, there were 900 Jews, and 33 have returned
         to this date, so 96% are missing. In Orestiada town [audio interruption]...3
         have returned, 98% are still missing. In  Alexandroupoli, 140 Jews, 97% are
@@ -973,49 +1665,93 @@ recording:
         heartbreaking. Some 65,000 of the 75,000 Jews in Greece in 1939 were murdered.
         Mr. Barzilai’s lists provide some indication of the awful death toll.18
     - who: David Boder
-      start: '00:16:17.759'
-      end: '00:16:19.900'
+      start:
+        sec: '977.759'
+        mark: '00:16:17.759'
+      end:
+        sec: '979.900'
+        mark: '00:16:19.900'
       u: 96% missing?
     - who: Nino Barzilai
-      start: '00:16:19.900'
-      end: '00:16:28.990'
+      start:
+        sec: '979.900'
+        mark: '00:16:19.900'
+      end:
+        sec: '988.990'
+        mark: '00:16:28.990'
       u: Missing, Sir. Veroia, 460 Jews, 131 have returned...
     - who: David Boder
-      start: '00:16:28.990'
-      end: '00:16:29.744'
+      start:
+        sec: '988.990'
+        mark: '00:16:28.990'
+      end:
+        sec: '989.744'
+        mark: '00:16:29.744'
       u: Well, Sir...
     - who: Nino Barzilai
-      start: '00:16:29.744'
-      end: '00:16:30.980'
+      start:
+        sec: '989.744'
+        mark: '00:16:29.744'
+      end:
+        sec: '990.980'
+        mark: '00:16:30.980'
       u: 32%.
     - who: David Boder
-      start: '00:16:30.980'
-      end: '00:16:35.141'
+      start:
+        sec: '990.980'
+        mark: '00:16:30.980'
+      end:
+        sec: '995.141'
+        mark: '00:16:35.141'
       u: Can you give me a copy of this document or can we get it somewhere?
     - who: Nino Barzilai
-      start: '00:16:35.141'
-      end: '00:16:36.711'
+      start:
+        sec: '995.141'
+        mark: '00:16:35.141'
+      end:
+        sec: '996.711'
+        mark: '00:16:36.711'
       u: I will be pleased to give it to you, Sir.
     - who: David Boder
-      start: '00:16:36.711'
-      end: '00:16:37.412'
+      start:
+        sec: '996.711'
+        mark: '00:16:36.711'
+      end:
+        sec: '997.412'
+        mark: '00:16:37.412'
       u: All right.
     - who: Nino Barzilai
-      start: '00:16:37.412'
-      end: '00:16:40.068'
+      start:
+        sec: '997.412'
+        mark: '00:16:37.412'
+      end:
+        sec: '1000.068'
+        mark: '00:16:40.068'
       u: I will give you the copy. Let’s continue...[unintelligible].
     - who: David Boder
-      start: '00:16:40.068'
-      end: '00:16:46.394'
+      start:
+        sec: '1000.068'
+        mark: '00:16:40.068'
+      end:
+        sec: '1006.394'
+        mark: '00:16:46.394'
       u: "[unintelligible]"
     - who: Nino Barzilai
-      start: '00:16:46.394'
-      end: '00:17:09.004'
+      start:
+        sec: '1006.394'
+        mark: '00:16:46.394'
+      end:
+        sec: '1029.004'
+        mark: '00:17:09.004'
       u: Kastoria, 900 Jews, 35 have returned, 96% missing; Florina, 400 Jews, 74
         have returned, 84%; Thessalia, 520, 360, 31%...
     - who: David Boder
-      start: '00:17:09.004'
-      end: '00:17:29.756'
+      start:
+        sec: '1029.004'
+        mark: '00:17:09.004'
+      end:
+        sec: '1049.756'
+        mark: '00:17:29.756'
       u: Well, Sir, [unintelligible] if you give me the copy. Then, Sir...I thank
         you for this information and particularly [unintelligible], because I am trying
         to go to Mexico, and a report...[ends abruptly]

@@ -34,21 +34,33 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:00.423'
-      end: '00:00:33.451'
+      start:
+        sec: '0.423'
+        mark: '00:00:00.423'
+      end:
+        sec: '33.451'
+        mark: '00:00:33.451'
       u: "[In English:] Spool 117. Bellevue, a suburb of Paris. A home of displaced
         children. September 7, 1946. [Incorrect date — should be Spetember 8]. We
         are going to interview Mr. Joseph Ferber, 33 years old, a teacher of sports
         and a general instructor at the school for displaced children under the direction
         of Miss Lena Kuechler."
     - who: David Boder
-      start: '00:00:33.451'
-      end: '00:00:43.500'
+      start:
+        sec: '33.451'
+        mark: '00:00:33.451'
+      end:
+        sec: '43.500'
+        mark: '00:00:43.500'
       u: "[In Yiddish:] And so, Mr. Ferber, would you tell me again where you are
         from and where you were when the war began?"
     - who: Joseph Ferber
-      start: '00:00:43.500'
-      end: '00:01:06.717'
+      start:
+        sec: '43.500'
+        mark: '00:00:43.500'
+      end:
+        sec: '66.717'
+        mark: '00:01:06.717'
       u: I was born in Brody,Brody (Yid. Brod) was in the Tarnopol district of Poland
         (then southeastern Poland, now northwestern Ukraine). The town was a center
         of nineteenth century Jewish progressive thinking and had a strong Zionist
@@ -65,20 +77,36 @@ recording:
         the city became the seat of the Nazi General Government run by the notorious
         Hans Frank.2
     - who: David Boder
-      start: '00:01:06.717'
-      end: '00:01:08.061'
+      start:
+        sec: '66.717'
+        mark: '00:01:06.717'
+      end:
+        sec: '68.061'
+        mark: '00:01:08.061'
       u: At what were you working?
     - who: Joseph Ferber
-      start: '00:01:08.061'
-      end: '00:01:09.514'
+      start:
+        sec: '68.061'
+        mark: '00:01:08.061'
+      end:
+        sec: '69.514'
+        mark: '00:01:09.514'
       u: As a bookkeeper.
     - who: David Boder
-      start: '00:01:09.514'
-      end: '00:01:10.311'
+      start:
+        sec: '69.514'
+        mark: '00:01:09.514'
+      end:
+        sec: '70.311'
+        mark: '00:01:10.311'
       u: Hm.
     - who: Joseph Ferber
-      start: '00:01:10.311'
-      end: '00:01:33.670'
+      start:
+        sec: '70.311'
+        mark: '00:01:10.311'
+      end:
+        sec: '93.670'
+        mark: '00:01:33.670'
       u: When the German-Polish war began I returned to Brody. There I...the Soviets
         had come there on the seventeenth of September, 1939. Under them I also worked
         as a teller in a bank, as inspector, and then also as a bookkeeper.Mr. Ferber
@@ -86,14 +114,22 @@ recording:
         of Poland on September 1, 1939. Two days later France and Great Britain declared
         war on Germany.3
     - who: David Boder
-      start: '00:01:33.670'
-      end: '00:01:51.560'
+      start:
+        sec: '93.670'
+        mark: '00:01:33.670'
+      end:
+        sec: '111.560'
+        mark: '00:01:51.560'
       u: And so tell me, Mr. Ferber, how did that suddenly change from the Polish
         government to the Soviet? Did they immediately install in your place the whole
         Soviet regime?
     - who: Joseph Ferber
-      start: '00:01:51.560'
-      end: '00:02:28.808'
+      start:
+        sec: '111.560'
+        mark: '00:01:51.560'
+      end:
+        sec: '148.808'
+        mark: '00:02:28.808'
       u: No. Following the escape in September, during the war, of the Polish government
         to Rumania, the Soviet government declared that all political and diplomatic
         relations between them are terminated. On the 17th of September the Red Army
@@ -111,12 +147,20 @@ recording:
         the two totalitarian powers. The protocol called for the division of Poland
         between them by force of arms.4
     - who: David Boder
-      start: '00:02:28.808'
-      end: '00:02:29.511'
+      start:
+        sec: '148.808'
+        mark: '00:02:28.808'
+      end:
+        sec: '149.511'
+        mark: '00:02:29.511'
       u: Go on.
     - who: Joseph Ferber
-      start: '00:02:29.511'
-      end: '00:03:45.059'
+      start:
+        sec: '149.511'
+        mark: '00:02:29.511'
+      end:
+        sec: '225.059'
+        mark: '00:03:45.059'
       u: Well, [the conditions] there were quite good. One cannot say that it was
         not good. Social justice was established. Everybody had to work. Large private
         fortunes, factories, and large estates became nationalized; that means were
@@ -132,13 +176,21 @@ recording:
         autonomy, and deported the “hostile class element” to Siberia. These policies
         impacted the general population as well.5
     - who: David Boder
-      start: '00:03:45.059'
-      end: '00:03:54.918'
+      start:
+        sec: '225.059'
+        mark: '00:03:45.059'
+      end:
+        sec: '234.918'
+        mark: '00:03:54.918'
       u: The Poles, however, still remained there in Poland. Did they express any
         anti-Semitism?
     - who: Joseph Ferber
-      start: '00:03:54.918'
-      end: '00:04:16.026'
+      start:
+        sec: '234.918'
+        mark: '00:03:54.918'
+      end:
+        sec: '256.026'
+        mark: '00:04:16.026'
       u: The majority of such rabid Poles who had been planted there by the Polish
         government that they should polonize the land were taken out deep into Russia.
         And the rest had to sit quietly. They waited until the war started on June
@@ -146,12 +198,20 @@ recording:
         as well as Jews. This accounted for the efforts of the Polish government to
         “polonize” the area.6
     - who: David Boder
-      start: '00:04:16.026'
-      end: '00:04:16.745'
+      start:
+        sec: '256.026'
+        mark: '00:04:16.026'
+      end:
+        sec: '256.745'
+        mark: '00:04:16.745'
       u: Hm.
     - who: Joseph Ferber
-      start: '00:04:16.745'
-      end: '00:04:58.400'
+      start:
+        sec: '256.745'
+        mark: '00:04:16.745'
+      end:
+        sec: '298.400'
+        mark: '00:04:58.400'
       u: At that time, on the first day, I was drafted into the Red Army. At that
         time, one can say, emerged anew all those Polish anti-Soviet elements which,
         in the first days of the war, carried out sabotage, who had shot [sniped]
@@ -173,12 +233,20 @@ recording:
         the German surrender on February 2, 1943, marked the turning point of the
         war on the eastern front.7
     - who: David Boder
-      start: '00:04:58.400'
-      end: '00:05:02.916'
+      start:
+        sec: '298.400'
+        mark: '00:04:58.400'
+      end:
+        sec: '302.916'
+        mark: '00:05:02.916'
       u: How long were you in the Red army?
     - who: Joseph Ferber
-      start: '00:05:02.916'
-      end: '00:05:45.217'
+      start:
+        sec: '302.916'
+        mark: '00:05:02.916'
+      end:
+        sec: '345.217'
+        mark: '00:05:45.217'
       u: I was in the Red army close to four and a half years, since the first day
         of the war until at this time a year ago when I was released as a former Polish
         citizen. I was discharged and I went back to Cracow, but before that I had
@@ -188,66 +256,122 @@ recording:
         went through Hungary, through Rumania, through Czechoslavakia and finally
         Austria. There, on the 9th of May, 1945, we finished the war.
     - who: David Boder
-      start: '00:05:45.217'
-      end: '00:05:47.106'
+      start:
+        sec: '345.217'
+        mark: '00:05:45.217'
+      end:
+        sec: '347.106'
+        mark: '00:05:47.106'
       u: Hm. There you were demobilized?
     - who: Joseph Ferber
-      start: '00:05:47.106'
-      end: '00:05:52.997'
+      start:
+        sec: '347.106'
+        mark: '00:05:47.106'
+      end:
+        sec: '352.997'
+        mark: '00:05:52.997'
       u: No, I was demobilized still later, when I returned to Soviet Russia, to Chernovtsy.Chernevtsky
         was a town located in western Ukraine. It was occupied by Romania, Germany’s
         World War II ally. During the Romanian occupation, the Jews of Chernevtsky
         were persecuted and ghettoized, and their population was decimated.9
     - who: David Boder
-      start: '00:05:52.997'
-      end: '00:05:53.685'
+      start:
+        sec: '352.997'
+        mark: '00:05:52.997'
+      end:
+        sec: '353.685'
+        mark: '00:05:53.685'
       u: Hm.
     - who: Joseph Ferber
-      start: '00:05:53.685'
-      end: '00:05:58.278'
+      start:
+        sec: '353.685'
+        mark: '00:05:53.685'
+      end:
+        sec: '358.278'
+        mark: '00:05:58.278'
       u: There I was freed. From there I went back to Poland, to Cracow.
     - who: David Boder
-      start: '00:05:58.278'
-      end: '00:06:00.620'
+      start:
+        sec: '358.278'
+        mark: '00:05:58.278'
+      end:
+        sec: '360.620'
+        mark: '00:06:00.620'
       u: Did they permit anyone to leave who wanted to?
     - who: Joseph Ferber
-      start: '00:06:00.620'
-      end: '00:06:13.266'
+      start:
+        sec: '360.620'
+        mark: '00:06:00.620'
+      end:
+        sec: '373.266'
+        mark: '00:06:13.266'
       u: Yes. All former Polish citizens had a right to be set free according to the
         treaty which was effected by the Soviet and Polish governments, of the 6th
         of July, 1945.
     - who: David Boder
-      start: '00:06:13.266'
-      end: '00:06:14.579'
+      start:
+        sec: '373.266'
+        mark: '00:06:13.266'
+      end:
+        sec: '374.579'
+        mark: '00:06:14.579'
       u: "’45."
     - who: Joseph Ferber
-      start: '00:06:14.579'
-      end: '00:06:23.329'
+      start:
+        sec: '374.579'
+        mark: '00:06:14.579'
+      end:
+        sec: '383.329'
+        mark: '00:06:23.329'
       u: Had a right to return to Poland. On this ground many, many former Polish
         citizens are even today returning from Soviet Russia to Poland.
     - who: David Boder
-      start: '00:06:23.329'
-      end: '00:06:24.907'
+      start:
+        sec: '383.329'
+        mark: '00:06:23.329'
+      end:
+        sec: '384.907'
+        mark: '00:06:24.907'
       u: They are still returning now?
     - who: Joseph Ferber
-      start: '00:06:24.907'
-      end: '00:06:28.626'
+      start:
+        sec: '384.907'
+        mark: '00:06:24.907'
+      end:
+        sec: '388.626'
+        mark: '00:06:28.626'
       u: Even now there is going on...which is called repatriation.
     - who: David Boder
-      start: '00:06:28.626'
-      end: '00:06:29.079'
+      start:
+        sec: '388.626'
+        mark: '00:06:28.626'
+      end:
+        sec: '389.079'
+        mark: '00:06:29.079'
       u: Hm.
     - who: Joseph Ferber
-      start: '00:06:29.079'
-      end: '00:06:31.719'
+      start:
+        sec: '389.079'
+        mark: '00:06:29.079'
+      end:
+        sec: '391.719'
+        mark: '00:06:31.719'
       u: The great repatriation which is going on even today.
     - who: David Boder
-      start: '00:06:31.719'
-      end: '00:06:33.453'
+      start:
+        sec: '391.719'
+        mark: '00:06:31.719'
+      end:
+        sec: '393.453'
+        mark: '00:06:33.453'
       u: They are returning from Siberia and from...
     - who: Joseph Ferber
-      start: '00:06:33.453'
-      end: '00:07:16.858'
+      start:
+        sec: '393.453'
+        mark: '00:06:33.453'
+      end:
+        sec: '436.858'
+        mark: '00:07:16.858'
       u: From Siberia...and from whole Russia. All those who were...who had escaped
         during the war to Soviet Russia and were in the defense deep in the country,
         all those have remained alive. In contrast, when we were advancing with the
@@ -266,37 +390,69 @@ recording:
         It had some forty subcamps. Like Mr. Ferber, many survivors experienced the
         loss of their entire families. 10
     - who: David Boder
-      start: '00:07:16.858'
-      end: '00:07:17.945'
+      start:
+        sec: '436.858'
+        mark: '00:07:16.858'
+      end:
+        sec: '437.945'
+        mark: '00:07:17.945'
       u: Your native town was what?
     - who: Joseph Ferber
-      start: '00:07:17.945'
-      end: '00:07:18.664'
+      start:
+        sec: '437.945'
+        mark: '00:07:17.945'
+      end:
+        sec: '438.664'
+        mark: '00:07:18.664'
       u: Brody.
     - who: David Boder
-      start: '00:07:18.664'
-      end: '00:07:19.320'
+      start:
+        sec: '438.664'
+        mark: '00:07:18.664'
+      end:
+        sec: '439.320'
+        mark: '00:07:19.320'
       u: Brody?
     - who: Joseph Ferber
-      start: '00:07:19.320'
-      end: '00:07:20.399'
+      start:
+        sec: '439.320'
+        mark: '00:07:19.320'
+      end:
+        sec: '440.399'
+        mark: '00:07:20.399'
       u: Yes, I did not find anyone there .
     - who: David Boder
-      start: '00:07:20.399'
-      end: '00:07:21.117'
+      start:
+        sec: '440.399'
+        mark: '00:07:20.399'
+      end:
+        sec: '441.117'
+        mark: '00:07:21.117'
       u: You found no one there.
     - who: Joseph Ferber
-      start: '00:07:21.117'
-      end: '00:07:26.839'
+      start:
+        sec: '441.117'
+        mark: '00:07:21.117'
+      end:
+        sec: '446.839'
+        mark: '00:07:26.839'
       u: Even of the house not a trace had remained. A desert. Everything destroyed,
         everything burned.
     - who: David Boder
-      start: '00:07:26.839'
-      end: '00:07:30.672'
+      start:
+        sec: '446.839'
+        mark: '00:07:26.839'
+      end:
+        sec: '450.672'
+        mark: '00:07:30.672'
       u: Was there...was it burned by the war?
     - who: Joseph Ferber
-      start: '00:07:30.672'
-      end: '00:08:01.935'
+      start:
+        sec: '450.672'
+        mark: '00:07:30.672'
+      end:
+        sec: '481.935'
+        mark: '00:08:01.935'
       u: Partly by the war and partly through...during the occupation. The Germans
         simply destroyed everything that carried a Jewish mark. Besides that the front
         had stood there four months, from spring...the entire spring of 1944, and
@@ -304,60 +460,108 @@ recording:
         systematically from house to house and blasted everything. In many cases it
         happened that in these houses there were Jews hidden deep underground in bunkers.
     - who: David Boder
-      start: '00:08:01.935'
-      end: '00:08:02.591'
+      start:
+        sec: '481.935'
+        mark: '00:08:01.935'
+      end:
+        sec: '482.591'
+        mark: '00:08:02.591'
       u: Hm.
     - who: Joseph Ferber
-      start: '00:08:02.591'
-      end: '00:08:18.062'
+      start:
+        sec: '482.591'
+        mark: '00:08:02.591'
+      end:
+        sec: '498.062'
+        mark: '00:08:18.062'
       u: And the Germans were not able to drag them out from there. They would toss
         in grenades or burning strew. Or even with mines they would demolish these
         houses. In this way many...hundreds of people were entombed [burned] and lie
         there to this day.
     - who: David Boder
-      start: '00:08:18.062'
-      end: '00:08:18.984'
+      start:
+        sec: '498.062'
+        mark: '00:08:18.062'
+      end:
+        sec: '498.984'
+        mark: '00:08:18.984'
       u: Who told you that?
     - who: Joseph Ferber
-      start: '00:08:18.984'
-      end: '00:08:31.166'
+      start:
+        sec: '498.984'
+        mark: '00:08:18.984'
+      end:
+        sec: '511.166'
+        mark: '00:08:31.166'
       u: This was told to me by a few...a small number of Jews who had remained alive
         there in the town, Jews who, in an extraordinary manner, had hidden among
         Christians, but very few. There were altogether about ten of these people.
     - who: David Boder
-      start: '00:08:31.166'
-      end: '00:08:31.854'
+      start:
+        sec: '511.166'
+        mark: '00:08:31.166'
+      end:
+        sec: '511.854'
+        mark: '00:08:31.854'
       u: And...
     - who: Joseph Ferber
-      start: '00:08:31.854'
-      end: '00:08:44.253'
+      start:
+        sec: '511.854'
+        mark: '00:08:31.854'
+      end:
+        sec: '524.253'
+        mark: '00:08:44.253'
       u: People who were in the woods as partisans, they have told me that. Besides
         that, I saw it with my own eyes, I saw the whole town devastated, destroyed.
     - who: David Boder
-      start: '00:08:44.253'
-      end: '00:08:47.590'
+      start:
+        sec: '524.253'
+        mark: '00:08:44.253'
+      end:
+        sec: '527.590'
+        mark: '00:08:47.590'
       u: Nu, what did you do then, when you returned to Brody?
     - who: Joseph Ferber
-      start: '00:08:47.590'
-      end: '00:08:58.835'
+      start:
+        sec: '527.590'
+        mark: '00:08:47.590'
+      end:
+        sec: '538.835'
+        mark: '00:08:58.835'
       u: Nu, from Brody...in Brody I stopped over only for a few days , because I
         had nowhere to stay there. The whole town was a cemetery. From there I returned
         there where I worked before the war. I came to Cracow, but also...
     - who: David Boder
-      start: '00:08:58.835'
-      end: '00:08:59.804'
+      start:
+        sec: '538.835'
+        mark: '00:08:58.835'
+      end:
+        sec: '539.804'
+        mark: '00:08:59.804'
       u: To Cracow.
     - who: Joseph Ferber
-      start: '00:08:59.804'
-      end: '00:09:00.428'
+      start:
+        sec: '539.804'
+        mark: '00:08:59.804'
+      end:
+        sec: '540.428'
+        mark: '00:09:00.428'
       u: To Cracow, yes.
     - who: David Boder
-      start: '00:09:00.428'
-      end: '00:09:01.022'
+      start:
+        sec: '540.428'
+        mark: '00:09:00.428'
+      end:
+        sec: '541.022'
+        mark: '00:09:01.022'
       u: Nu?
     - who: Joseph Ferber
-      start: '00:09:01.022'
-      end: '00:09:30.061'
+      start:
+        sec: '541.022'
+        mark: '00:09:01.022'
+      end:
+        sec: '570.061'
+        mark: '00:09:30.061'
       u: Also in Cracow I found nobody. Then soon I was engaged to work in a children’s
         home for Jewish orphans in Zakopane as commander of the self-defense [a type
         of private local underground organization which, dating from the time of the
@@ -374,20 +578,36 @@ recording:
         the small number of Jewish survivors. Some three million Polish Jews perished
         during the Holocaust, and about 300,000 survived.11
     - who: David Boder
-      start: '00:09:30.061'
-      end: '00:09:31.467'
+      start:
+        sec: '570.061'
+        mark: '00:09:30.061'
+      end:
+        sec: '571.467'
+        mark: '00:09:31.467'
       u: Who gave you the weapons?
     - who: Joseph Ferber
-      start: '00:09:31.467'
-      end: '00:09:33.920'
+      start:
+        sec: '571.467'
+        mark: '00:09:31.467'
+      end:
+        sec: '573.920'
+        mark: '00:09:33.920'
       u: These were given to us by the Polish Defense Authority.
     - who: David Boder
-      start: '00:09:33.920'
-      end: '00:09:34.529'
+      start:
+        sec: '573.920'
+        mark: '00:09:33.920'
+      end:
+        sec: '574.529'
+        mark: '00:09:34.529'
       u: Yes?
     - who: Joseph Ferber
-      start: '00:09:34.529'
-      end: '00:10:03.345'
+      start:
+        sec: '574.529'
+        mark: '00:09:34.529'
+      end:
+        sec: '603.345'
+        mark: '00:10:03.345'
       u: There we had to stand day and night and guard the lives of the Jewish orphans,
         because there was a threat of great danger. But since this danger increased
         from day to day and the Poles were throwing down on us leaflets in which they
@@ -399,20 +619,36 @@ recording:
         in the interwar period in the form of economic boycotts and occasional violence.
         Anti-Semitic agitation revived after the war, directed at the handful of survivors.12
     - who: David Boder
-      start: '00:10:03.345'
-      end: '00:10:08.615'
+      start:
+        sec: '603.345'
+        mark: '00:10:03.345'
+      end:
+        sec: '608.615'
+        mark: '00:10:08.615'
       u: How is that? The Polish government was a...a pro-Soviet government.
     - who: Joseph Ferber
-      start: '00:10:08.615'
-      end: '00:10:09.209'
+      start:
+        sec: '608.615'
+        mark: '00:10:08.615'
+      end:
+        sec: '609.209'
+        mark: '00:10:09.209'
       u: Yes.
     - who: David Boder
-      start: '00:10:09.209'
-      end: '00:10:11.381'
+      start:
+        sec: '609.209'
+        mark: '00:10:09.209'
+      end:
+        sec: '611.381'
+        mark: '00:10:11.381'
       u: They were liberal? They were socialists?
     - who: Joseph Ferber
-      start: '00:10:11.381'
-      end: '00:10:41.237'
+      start:
+        sec: '611.381'
+        mark: '00:10:11.381'
+      end:
+        sec: '641.237'
+        mark: '00:10:41.237'
       u: The government was and is to this day a very good one. It is a loyal...it
         is liberal government and a truly democratic one, but, unfortunately, many
         elements, wild elements, of the people, who are infected by the anti-Semitic
@@ -423,12 +659,20 @@ recording:
         the new government. The new regime, under the control of the Stalinist Soviet
         Union, was anything but democratic.13
     - who: David Boder
-      start: '00:10:41.237'
-      end: '00:10:41.831'
+      start:
+        sec: '641.237'
+        mark: '00:10:41.237'
+      end:
+        sec: '641.831'
+        mark: '00:10:41.831'
       u: Nu?
     - who: Joseph Ferber
-      start: '00:10:41.831'
-      end: '00:11:08.547'
+      start:
+        sec: '641.831'
+        mark: '00:10:41.831'
+      end:
+        sec: '668.547'
+        mark: '00:11:08.547'
       u: "...who are supported, as it had been proven with documents, by [General]
         Anders and by the so called government...Polish government in London, these
         are carrying out to this day an ugly, loaths-...loathsome action [against]
@@ -446,82 +690,146 @@ recording:
         played a significant role in dispelling doubts in western countries about
         Nazi genocide.14"
     - who: David Boder
-      start: '00:11:08.547'
-      end: '00:11:12.531'
+      start:
+        sec: '668.547'
+        mark: '00:11:08.547'
+      end:
+        sec: '672.531'
+        mark: '00:11:12.531'
       u: Nu, you were in Zakopane with the children’s home?
     - who: Joseph Ferber
-      start: '00:11:12.531'
-      end: '00:11:13.109'
+      start:
+        sec: '672.531'
+        mark: '00:11:12.531'
+      end:
+        sec: '673.109'
+        mark: '00:11:13.109'
       u: Yes.
     - who: David Boder
-      start: '00:11:13.109'
-      end: '00:11:14.578'
+      start:
+        sec: '673.109'
+        mark: '00:11:13.109'
+      end:
+        sec: '674.578'
+        mark: '00:11:14.578'
       u: So what was decided to do?
     - who: Joseph Ferber
-      start: '00:11:14.578'
-      end: '00:11:21.025'
+      start:
+        sec: '674.578'
+        mark: '00:11:14.578'
+      end:
+        sec: '681.025'
+        mark: '00:11:21.025'
       u: It was decided to flee from there as soon as possible. We turned to the Vaad
         Hatzala. They...The Vaad ha-Hatzlaha was a body originally established by
         the American Orthodox Jewish community to rescue rabbis and yeshiva students
         during World War II. Following the revelation of the Final Solution, it expanded
         its activities to assist all European Jewry.15
     - who: David Boder
-      start: '00:11:21.025'
-      end: '00:11:22.118'
+      start:
+        sec: '681.025'
+        mark: '00:11:21.025'
+      end:
+        sec: '682.118'
+        mark: '00:11:22.118'
       u: What is that?
     - who: Joseph Ferber
-      start: '00:11:22.118'
-      end: '00:11:36.789'
+      start:
+        sec: '682.118'
+        mark: '00:11:22.118'
+      end:
+        sec: '696.789'
+        mark: '00:11:36.789'
       u: The Vaad Hatzala is such an organization which rescues Jewish souls. This
         organization made it possible for the children together with the personnel
         to leave as former Greek citizens...
     - who: David Boder
-      start: '00:11:36.789'
-      end: '00:11:39.147'
+      start:
+        sec: '696.789'
+        mark: '00:11:36.789'
+      end:
+        sec: '699.147'
+        mark: '00:11:39.147'
       u: Greek citizens?
     - who: Joseph Ferber
-      start: '00:11:39.147'
-      end: '00:11:39.819'
+      start:
+        sec: '699.147'
+        mark: '00:11:39.147'
+      end:
+        sec: '699.819'
+        mark: '00:11:39.819'
       u: Yes.
     - who: David Boder
-      start: '00:11:39.819'
-      end: '00:11:40.882'
+      start:
+        sec: '699.819'
+        mark: '00:11:39.819'
+      end:
+        sec: '700.882'
+        mark: '00:11:40.882'
       u: "[Chuckle.] Are they Greek?"
     - who: Joseph Ferber
-      start: '00:11:40.882'
-      end: '00:11:53.606'
+      start:
+        sec: '700.882'
+        mark: '00:11:40.882'
+      end:
+        sec: '713.606'
+        mark: '00:11:53.606'
       u: No, but it was made up so [presented that way. We wrote that once there were
         other refugees which the Germans had dragged off, and that they are returning
         now to their homes. On the border, on the Polish-Czech border, they created
         difficulties for us.
     - who: David Boder
-      start: '00:11:53.606'
-      end: '00:11:55.074'
+      start:
+        sec: '713.606'
+        mark: '00:11:53.606'
+      end:
+        sec: '715.074'
+        mark: '00:11:55.074'
       u: Who, the Poles of the Czechs?
     - who: Joseph Ferber
-      start: '00:11:55.074'
-      end: '00:11:55.871'
+      start:
+        sec: '715.074'
+        mark: '00:11:55.074'
+      end:
+        sec: '715.871'
+        mark: '00:11:55.871'
       u: The Czechs.
     - who: David Boder
-      start: '00:11:55.871'
-      end: '00:11:56.621'
+      start:
+        sec: '715.871'
+        mark: '00:11:55.871'
+      end:
+        sec: '716.621'
+        mark: '00:11:56.621'
       u: Yes?
     - who: Joseph Ferber
-      start: '00:11:56.621'
-      end: '00:12:17.917'
+      start:
+        sec: '716.621'
+        mark: '00:11:56.621'
+      end:
+        sec: '737.917'
+        mark: '00:12:17.917'
       u: They wanted to send [us] back to Poland, but we succeeded. We pleaded with
         them and they permitted [us] to enter Prague. From Prague we journeyed already
         in good style as far as France. Here we received a house, and here we carry
         on our work of pedagogical leadership with the children, with the children
         who are demonstrating very good fruits of the work.
     - who: David Boder
-      start: '00:12:17.917'
-      end: '00:12:22.776'
+      start:
+        sec: '737.917'
+        mark: '00:12:17.917'
+      end:
+        sec: '742.776'
+        mark: '00:12:22.776'
       u: What will become of the children? What will become of all of you? [Pause.]
         I mean, what will you all do? Will you remain in France?
     - who: Joseph Ferber
-      start: '00:12:22.776'
-      end: '00:00:00.000'
+      start:
+        sec: '742.776'
+        mark: '00:12:22.776'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: No, our aim is to come to Eretz Yisroeil, [?] to Palestine, because we are
         convinced that we have no other place on this earth except in our own homeland.
         There we hope we will not be looked upon as foreign citizens. There it will
@@ -530,15 +838,23 @@ recording:
         shared by many European Jews who wanted to make their way to Palestine and
         establish an independent Jewish homeland.16
     - who: David Boder
-      start: '00:00:00.000'
-      end: '00:13:11.800'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '791.800'
+        mark: '00:13:11.800'
       u: Nu, Mr. Ferber, you are, of course, an intelligent person and you are of
         course reading the papers and all that. You know what is [in English:] going...[in
         Yiddish:] what is happening in Palestine. Do you think that it will remain
         our country? The Arabs, neither, want that we should come in there.
     - who: Joseph Ferber
-      start: '00:13:11.800'
-      end: '00:14:30.374'
+      start:
+        sec: '791.800'
+        mark: '00:13:11.800'
+      end:
+        sec: '870.374'
+        mark: '00:14:30.374'
       u: 'Our standpoint is as follows: We hold that, as all the people in the world
         have their own piece of ground in the world, so the Jews must have their own
         piece of ground. We cannot count [depend] on anybody, just as no one wanted
@@ -562,13 +878,21 @@ recording:
         Jewry.” During World War II, he pursued Arab national political goals and
         gave active support to the Nazi genocide against European Jewry.17'
     - who: David Boder
-      start: '00:14:30.374'
-      end: '00:14:37.327'
+      start:
+        sec: '870.374'
+        mark: '00:14:30.374'
+      end:
+        sec: '877.327'
+        mark: '00:14:37.327'
       u: What does it mean ‘we have survived Haman and Hitler’? Millions of people
         did not survive Hitler.
     - who: Joseph Ferber
-      start: '00:14:37.327'
-      end: '00:15:03.484'
+      start:
+        sec: '877.327'
+        mark: '00:14:37.327'
+      end:
+        sec: '903.484'
+        mark: '00:15:03.484'
       u: Millions did not survive, but the people as such has remained and will remain.
         Because a people is immortal. Individual persons may die. Haman, too, as well
         as Hitler have disappeared. Even Churchill had...had to step aside, and we
@@ -586,47 +910,87 @@ recording:
         months after the proclamation of the State of Israel, he granted it Britain’s
         de facto recognition.18
     - who: David Boder
-      start: '00:15:03.484'
-      end: '00:15:05.984'
+      start:
+        sec: '903.484'
+        mark: '00:15:03.484'
+      end:
+        sec: '905.984'
+        mark: '00:15:05.984'
       u: Nu, and what does one do here all day?
     - who: Joseph Ferber
-      start: '00:15:05.984'
-      end: '00:15:13.432'
+      start:
+        sec: '905.984'
+        mark: '00:15:05.984'
+      end:
+        sec: '913.432'
+        mark: '00:15:13.432'
       u: An intensive job is being done here. From morning till night we work with
         the children.
     - who: David Boder
-      start: '00:15:13.432'
-      end: '00:15:15.072'
+      start:
+        sec: '913.432'
+        mark: '00:15:13.432'
+      end:
+        sec: '915.072'
+        mark: '00:15:15.072'
       u: How many children are there here?
     - who: Joseph Ferber
-      start: '00:15:15.072'
-      end: '00:15:16.743'
+      start:
+        sec: '915.072'
+        mark: '00:15:15.072'
+      end:
+        sec: '916.743'
+        mark: '00:15:16.743'
       u: Now we have sixty children.
     - who: David Boder
-      start: '00:15:16.743'
-      end: '00:15:17.931'
+      start:
+        sec: '916.743'
+        mark: '00:15:16.743'
+      end:
+        sec: '917.931'
+        mark: '00:15:17.931'
       u: What are their ages?
     - who: Joseph Ferber
-      start: '00:15:17.931'
-      end: '00:15:21.603'
+      start:
+        sec: '917.931'
+        mark: '00:15:17.931'
+      end:
+        sec: '921.603'
+        mark: '00:15:21.603'
       u: The children are from four up to fifteen, sixteen years.
     - who: David Boder
-      start: '00:15:21.603'
-      end: '00:15:35.846'
+      start:
+        sec: '921.603'
+        mark: '00:15:21.603'
+      end:
+        sec: '935.846'
+        mark: '00:15:35.846'
       u: Tell me one thing. If so many have been annihilated, and women have been
         annihilated, from where did you get small children? You are already how long
         from Zakopane? How old is the children’s home in Zakopane?
     - who: Joseph Ferber
-      start: '00:15:35.846'
-      end: '00:15:39.565'
+      start:
+        sec: '935.846'
+        mark: '00:15:35.846'
+      end:
+        sec: '939.565'
+        mark: '00:15:39.565'
       u: It is already over a year since our children’s home was established.
     - who: David Boder
-      start: '00:15:39.565'
-      end: '00:15:42.611'
+      start:
+        sec: '939.565'
+        mark: '00:15:39.565'
+      end:
+        sec: '942.611'
+        mark: '00:15:42.611'
       u: And so, from where did the small children come?
     - who: Joseph Ferber
-      start: '00:15:42.611'
-      end: '00:16:21.771'
+      start:
+        sec: '942.611'
+        mark: '00:15:42.611'
+      end:
+        sec: '981.771'
+        mark: '00:16:21.771'
       u: Many children have survived for the reason that good [kind] Christians had
         taken them in and have not minded that they themselves were in danger of being
         killed if such a child were found with them. They would hide these children,
@@ -641,24 +1005,40 @@ recording:
         In risking their lives, they embodied the truth of the saying that “Whoever
         Saves One Life Saves the Entire World.”19
     - who: David Boder
-      start: '00:16:21.771'
-      end: '00:16:34.923'
+      start:
+        sec: '981.771'
+        mark: '00:16:21.771'
+      end:
+        sec: '994.923'
+        mark: '00:16:34.923'
       u: And so, do you think that the monastaries and convents hid children who [because
         they] said they were not Jewish? [Pause.] Do you think that the monastaries
         would not have hidden Jewish children if they knew it?
     - who: Joseph Ferber
-      start: '00:16:34.923'
-      end: '00:16:38.579'
+      start:
+        sec: '994.923'
+        mark: '00:16:34.923'
+      end:
+        sec: '998.579'
+        mark: '00:16:38.579'
       u: No. If they would have known that they are Jewish children, perhaps they
         would not have hidden them.In fact, some Polish monasteries, primarily Franciscan,
         did save Jewish children.20
     - who: David Boder
-      start: '00:16:38.579'
-      end: '00:16:41.236'
+      start:
+        sec: '998.579'
+        mark: '00:16:38.579'
+      end:
+        sec: '1001.236'
+        mark: '00:16:41.236'
       u: But with boys it was possible to know.
     - who: Joseph Ferber
-      start: '00:16:41.236'
-      end: '00:17:31.626'
+      start:
+        sec: '1001.236'
+        mark: '00:16:41.236'
+      end:
+        sec: '1051.626'
+        mark: '00:17:31.626'
       u: No, they were not too strongly controlled. They were not too strongly controlled.
         They would see a child, so it was admitted. The child would not say anything.
         It did not want to say that it has Jewish parents, so they would think that
@@ -672,325 +1052,629 @@ recording:
         So we brought them back from there and the children returned to our fold,
         to our national fold.
     - who: David Boder
-      start: '00:17:31.626'
-      end: '00:17:33.470'
+      start:
+        sec: '1051.626'
+        mark: '00:17:31.626'
+      end:
+        sec: '1053.470'
+        mark: '00:17:33.470'
       u: What is an Ochronka? [We had used this term, hence the question.]
     - who: Joseph Ferber
-      start: '00:17:33.470'
-      end: '00:17:36.205'
+      start:
+        sec: '1053.470'
+        mark: '00:17:33.470'
+      end:
+        sec: '1056.205'
+        mark: '00:17:36.205'
       u: An Ochronka is a children’s home, in Polish.
     - who: David Boder
-      start: '00:17:36.205'
-      end: '00:17:38.830'
+      start:
+        sec: '1056.205'
+        mark: '00:17:36.205'
+      end:
+        sec: '1058.830'
+        mark: '00:17:38.830'
       u: They were in a Polish children’s home.
     - who: Joseph Ferber
-      start: '00:17:38.830'
-      end: '00:17:40.049'
+      start:
+        sec: '1058.830'
+        mark: '00:17:38.830'
+      end:
+        sec: '1060.049'
+        mark: '00:17:40.049'
       u: Yes, in a Polish children’s home.
     - who: David Boder
-      start: '00:17:40.049'
-      end: '00:17:44.896'
+      start:
+        sec: '1060.049'
+        mark: '00:17:40.049'
+      end:
+        sec: '1064.896'
+        mark: '00:17:44.896'
       u: And so, you had found out...what does it mean, ‘they were bought back’?
     - who: Joseph Ferber
-      start: '00:17:44.896'
-      end: '00:18:07.446'
+      start:
+        sec: '1064.896'
+        mark: '00:17:44.896'
+      end:
+        sec: '1087.446'
+        mark: '00:18:07.446'
       u: We simply had to pay a price for them, to pay money for them, a certain sum
         of money, a very large one even, and besides that, to give a lot of products
         [food] and things, foodstuffs and victuals for that, that the children had
         been feed [by them] for three, four years, or two years. So we paid it back
         in kind [merchandise].
     - who: David Boder
-      start: '00:18:07.446'
-      end: '00:18:09.962'
+      start:
+        sec: '1087.446'
+        mark: '00:18:07.446'
+      end:
+        sec: '1089.962'
+        mark: '00:18:09.962'
       u: Oh, and who gave it?
     - who: Joseph Ferber
-      start: '00:18:09.962'
-      end: '00:18:12.337'
+      start:
+        sec: '1089.962'
+        mark: '00:18:09.962'
+      end:
+        sec: '1092.337'
+        mark: '00:18:12.337'
       u: Our head mistress, Madame Kuechler.
     - who: David Boder
-      start: '00:18:12.337'
-      end: '00:18:13.743'
+      start:
+        sec: '1092.337'
+        mark: '00:18:12.337'
+      end:
+        sec: '1093.743'
+        mark: '00:18:13.743'
       u: And where did she get it?
     - who: Joseph Ferber
-      start: '00:18:13.743'
-      end: '00:18:21.195'
+      start:
+        sec: '1093.743'
+        mark: '00:18:13.743'
+      end:
+        sec: '1101.195'
+        mark: '00:18:21.195'
       u: She got it all from the Jewish Committee and also from the Vaad Hatzala which
         used to subsidize us.The “committee” Mr. Ferber is referring to is the American
         Jewish Joint Distribution Committee, the American Jewry’s chief overseas relief
         and rehabilitation agency before, during, and after the Holocaust.21
     - who: David Boder
-      start: '00:18:21.195'
-      end: '00:18:23.726'
+      start:
+        sec: '1101.195'
+        mark: '00:18:21.195'
+      end:
+        sec: '1103.726'
+        mark: '00:18:23.726'
       u: Hm. Vaad Hatzala?
     - who: Joseph Ferber
-      start: '00:18:23.726'
-      end: '00:18:25.663'
+      start:
+        sec: '1103.726'
+        mark: '00:18:23.726'
+      end:
+        sec: '1105.663'
+        mark: '00:18:25.663'
       u: Vaad Hatzala.
     - who: David Boder
-      start: '00:18:25.663'
-      end: '00:18:27.069'
+      start:
+        sec: '1105.663'
+        mark: '00:18:25.663'
+      end:
+        sec: '1107.069'
+        mark: '00:18:27.069'
       u: Vaad Hatzala.
     - who: Joseph Ferber
-      start: '00:18:27.069'
-      end: '00:18:27.632'
+      start:
+        sec: '1107.069'
+        mark: '00:18:27.069'
+      end:
+        sec: '1107.632'
+        mark: '00:18:27.632'
       u: Hatzala.
     - who: David Boder
-      start: '00:18:27.632'
-      end: '00:18:28.351'
+      start:
+        sec: '1107.632'
+        mark: '00:18:27.632'
+      end:
+        sec: '1108.351'
+        mark: '00:18:28.351'
       u: How do you spell it?
     - who: Joseph Ferber
-      start: '00:18:28.351'
-      end: '00:18:29.617'
+      start:
+        sec: '1108.351'
+        mark: '00:18:28.351'
+      end:
+        sec: '1109.617'
+        mark: '00:18:29.617'
       u: In Yiddish or in...
     - who: David Boder
-      start: '00:18:29.617'
-      end: '00:18:33.717'
+      start:
+        sec: '1109.617'
+        mark: '00:18:29.617'
+      end:
+        sec: '1113.717'
+        mark: '00:18:33.717'
       u: How do you spell it with Latin letters, with German letters?
     - who: Joseph Ferber
-      start: '00:18:33.717'
-      end: '00:18:34.655'
+      start:
+        sec: '1113.717'
+        mark: '00:18:33.717'
+      end:
+        sec: '1114.655'
+        mark: '00:18:34.655'
       u: V - A...
     - who: David Boder
-      start: '00:18:34.655'
-      end: '00:18:36.890'
+      start:
+        sec: '1114.655'
+        mark: '00:18:34.655'
+      end:
+        sec: '1116.890'
+        mark: '00:18:36.890'
       u: V - A...
     - who: Joseph Ferber
-      start: '00:18:36.890'
-      end: '00:18:37.812'
+      start:
+        sec: '1116.890'
+        mark: '00:18:36.890'
+      end:
+        sec: '1117.812'
+        mark: '00:18:37.812'
       u: "...A..."
     - who: David Boder
-      start: '00:18:37.812'
-      end: '00:18:38.843'
+      start:
+        sec: '1117.812'
+        mark: '00:18:37.812'
+      end:
+        sec: '1118.843'
+        mark: '00:18:38.843'
       u: "...two/A’s/..."
     - who: Joseph Ferber
-      start: '00:18:38.843'
-      end: '00:18:39.499'
+      start:
+        sec: '1118.843'
+        mark: '00:18:38.843'
+      end:
+        sec: '1119.499'
+        mark: '00:18:39.499'
       u: Two.
     - who: David Boder
-      start: '00:18:39.499'
-      end: '00:18:39.937'
+      start:
+        sec: '1119.499'
+        mark: '00:18:39.499'
+      end:
+        sec: '1119.937'
+        mark: '00:18:39.937'
       u: Yes.
     - who: Joseph Ferber
-      start: '00:18:39.937'
-      end: '00:18:40.562'
+      start:
+        sec: '1119.937'
+        mark: '00:18:39.937'
+      end:
+        sec: '1120.562'
+        mark: '00:18:40.562'
       u: "...D..."
     - who: David Boder
-      start: '00:18:40.562'
-      end: '00:18:41.218'
+      start:
+        sec: '1120.562'
+        mark: '00:18:40.562'
+      end:
+        sec: '1121.218'
+        mark: '00:18:41.218'
       u: "...D..."
     - who: Joseph Ferber
-      start: '00:18:41.218'
-      end: '00:18:47.186'
+      start:
+        sec: '1121.218'
+        mark: '00:18:41.218'
+      end:
+        sec: '1127.186'
+        mark: '00:18:47.186'
       u: "...H - A - T - Z - A - L - A."
     - who: David Boder
-      start: '00:18:47.186'
-      end: '00:18:49.530'
+      start:
+        sec: '1127.186'
+        mark: '00:18:47.186'
+      end:
+        sec: '1129.530'
+        mark: '00:18:49.530'
       u: Hm, and what does Vaad Hatzala mean?
     - who: Joseph Ferber
-      start: '00:18:49.530'
-      end: '00:18:53.998'
+      start:
+        sec: '1129.530'
+        mark: '00:18:49.530'
+      end:
+        sec: '1133.998'
+        mark: '00:18:53.998'
       u: The Committee for Rescue...the Rescue Committee.
     - who: David Boder
-      start: '00:18:53.998'
-      end: '00:18:57.138'
+      start:
+        sec: '1133.998'
+        mark: '00:18:53.998'
+      end:
+        sec: '1137.138'
+        mark: '00:18:57.138'
       u: Who...when were these Vaad Hatzala’s established?
     - who: Joseph Ferber
-      start: '00:18:57.138'
-      end: '00:18:59.669'
+      start:
+        sec: '1137.138'
+        mark: '00:18:57.138'
+      end:
+        sec: '1139.669'
+        mark: '00:18:59.669'
       u: During the war.
     - who: David Boder
-      start: '00:18:59.669'
-      end: '00:19:02.360'
+      start:
+        sec: '1139.669'
+        mark: '00:18:59.669'
+      end:
+        sec: '1142.360'
+        mark: '00:19:02.360'
       u: Hm. Already since the war.
     - who: Joseph Ferber
-      start: '00:19:02.360'
-      end: '00:19:02.922'
+      start:
+        sec: '1142.360'
+        mark: '00:19:02.360'
+      end:
+        sec: '1142.922'
+        mark: '00:19:02.922'
       u: Yes.
     - who: David Boder
-      start: '00:19:02.922'
-      end: '00:19:09.968'
+      start:
+        sec: '1142.922'
+        mark: '00:19:02.922'
+      end:
+        sec: '1149.968'
+        mark: '00:19:09.968'
       u: Nu, and...what did you say before? You said they were Greek children?
     - who: Joseph Ferber
-      start: '00:19:09.968'
-      end: '00:19:14.469'
+      start:
+        sec: '1149.968'
+        mark: '00:19:09.968'
+      end:
+        sec: '1154.469'
+        mark: '00:19:14.469'
       u: Yes. We had to fabricate false papers [proving] that they are Greek.
     - who: David Boder
-      start: '00:19:14.469'
-      end: '00:19:15.813'
+      start:
+        sec: '1154.469'
+        mark: '00:19:14.469'
+      end:
+        sec: '1155.813'
+        mark: '00:19:15.813'
       u: For whom, for the Poles?
     - who: Joseph Ferber
-      start: '00:19:15.813'
-      end: '00:19:20.969'
+      start:
+        sec: '1155.813'
+        mark: '00:19:15.813'
+      end:
+        sec: '1160.969'
+        mark: '00:19:20.969'
       u: Yes, for everbody. For the Polish border as well as for the Czech [border].
     - who: David Boder
-      start: '00:19:20.969'
-      end: '00:19:24.337'
+      start:
+        sec: '1160.969'
+        mark: '00:19:20.969'
+      end:
+        sec: '1164.337'
+        mark: '00:19:24.337'
       u: But from Prague you already traveled with Polish...
     - who: Joseph Ferber
-      start: '00:19:24.337'
-      end: '00:19:29.649'
+      start:
+        sec: '1164.337'
+        mark: '00:19:24.337'
+      end:
+        sec: '1169.649'
+        mark: '00:19:29.649'
       u: We did not say either what nationals we were. We had made out already such
         papers that we are going to France.
     - who: David Boder
-      start: '00:19:29.649'
-      end: '00:19:31.540'
+      start:
+        sec: '1169.649'
+        mark: '00:19:29.649'
+      end:
+        sec: '1171.540'
+        mark: '00:19:31.540'
       u: And France let you in?
     - who: Joseph Ferber
-      start: '00:19:31.540'
-      end: '00:19:41.458'
+      start:
+        sec: '1171.540'
+        mark: '00:19:31.540'
+      end:
+        sec: '1181.458'
+        mark: '00:19:41.458'
       u: Yes. France is a very liberal country, a truly democratic [country] where
         every man has a genuine right to live. They are giving facilities The French...
     - who: David Boder
-      start: '00:19:41.458'
-      end: '00:19:42.021'
+      start:
+        sec: '1181.458'
+        mark: '00:19:41.458'
+      end:
+        sec: '1182.021'
+        mark: '00:19:42.021'
       u: Nu, what?
     - who: Joseph Ferber
-      start: '00:19:42.021'
-      end: '00:19:42.396'
+      start:
+        sec: '1182.021'
+        mark: '00:19:42.021'
+      end:
+        sec: '1182.396'
+        mark: '00:19:42.396'
       u: "...looks..."
     - who: David Boder
-      start: '00:19:42.396'
-      end: '00:19:44.365'
+      start:
+        sec: '1182.396'
+        mark: '00:19:42.396'
+      end:
+        sec: '1184.365'
+        mark: '00:19:44.365'
       u: Well what....Who gave you the busses?
     - who: Joseph Ferber
-      start: '00:19:44.365'
-      end: '00:19:47.255'
+      start:
+        sec: '1184.365'
+        mark: '00:19:44.365'
+      end:
+        sec: '1187.255'
+        mark: '00:19:47.255'
       u: Also from the Committee.
     - who: David Boder
-      start: '00:19:47.255'
-      end: '00:19:49.942'
+      start:
+        sec: '1187.255'
+        mark: '00:19:47.255'
+      end:
+        sec: '1189.942'
+        mark: '00:19:49.942'
       u: You went through Germany?
     - who: Joseph Ferber
-      start: '00:19:49.942'
-      end: '00:19:50.442'
+      start:
+        sec: '1189.942'
+        mark: '00:19:49.942'
+      end:
+        sec: '1190.442'
+        mark: '00:19:50.442'
       u: Yes.
     - who: David Boder
-      start: '00:19:50.442'
-      end: '00:19:51.286'
+      start:
+        sec: '1190.442'
+        mark: '00:19:50.442'
+      end:
+        sec: '1191.286'
+        mark: '00:19:51.286'
       u: You were permitted to go through.
     - who: Joseph Ferber
-      start: '00:19:51.286'
-      end: '00:19:51.723'
+      start:
+        sec: '1191.286'
+        mark: '00:19:51.286'
+      end:
+        sec: '1191.723'
+        mark: '00:19:51.723'
       u: Yes.
     - who: David Boder
-      start: '00:19:51.723'
-      end: '00:19:57.174'
+      start:
+        sec: '1191.723'
+        mark: '00:19:51.723'
+      end:
+        sec: '1197.174'
+        mark: '00:19:57.174'
       u: And then when you arrived at the French...French border, what...
     - who: Joseph Ferber
-      start: '00:19:57.174'
-      end: '00:20:00.314'
+      start:
+        sec: '1197.174'
+        mark: '00:19:57.174'
+      end:
+        sec: '1200.314'
+        mark: '00:20:00.314'
       u: We were also permitted to go through. They looked at the papers and nothing
         was said.
     - who: David Boder
-      start: '00:20:00.314'
-      end: '00:20:01.564'
+      start:
+        sec: '1200.314'
+        mark: '00:20:00.314'
+      end:
+        sec: '1201.564'
+        mark: '00:20:01.564'
       u: And you arrived in Paris?
     - who: Joseph Ferber
-      start: '00:20:01.564'
-      end: '00:20:01.939'
+      start:
+        sec: '1201.564'
+        mark: '00:20:01.564'
+      end:
+        sec: '1201.939'
+        mark: '00:20:01.939'
       u: Yes.
     - who: David Boder
-      start: '00:20:01.939'
-      end: '00:20:05.033'
+      start:
+        sec: '1201.939'
+        mark: '00:20:01.939'
+      end:
+        sec: '1205.033'
+        mark: '00:20:05.033'
       u: And where did you stop after you...you arrived [??]
     - who: Joseph Ferber
-      start: '00:20:05.033'
-      end: '00:20:10.251'
+      start:
+        sec: '1205.033'
+        mark: '00:20:05.033'
+      end:
+        sec: '1210.251'
+        mark: '00:20:10.251'
       u: No, we were sent at once to a house. At first...it is called...the town is
         called Barbizon.
     - who: David Boder
-      start: '00:20:10.251'
-      end: '00:20:11.017'
+      start:
+        sec: '1210.251'
+        mark: '00:20:10.251'
+      end:
+        sec: '1211.017'
+        mark: '00:20:11.017'
       u: Yes.
     - who: Joseph Ferber
-      start: '00:20:11.017'
-      end: '00:20:15.329'
+      start:
+        sec: '1211.017'
+        mark: '00:20:11.017'
+      end:
+        sec: '1215.329'
+        mark: '00:20:15.329'
       u: And then we were transferred to another locality, Courbevoie, also not far
         from Paris.
     - who: David Boder
-      start: '00:20:15.329'
-      end: '00:20:16.032'
+      start:
+        sec: '1215.329'
+        mark: '00:20:15.329'
+      end:
+        sec: '1216.032'
+        mark: '00:20:16.032'
       u: Hm.
     - who: Joseph Ferber
-      start: '00:20:16.032'
-      end: '00:20:21.110'
+      start:
+        sec: '1216.032'
+        mark: '00:20:16.032'
+      end:
+        sec: '1221.110'
+        mark: '00:20:21.110'
       u: And lately, a few weeks ago, we came to a new house, to Bellevue where we
         are now.
     - who: David Boder
-      start: '00:20:21.110'
-      end: '00:20:30.864'
+      start:
+        sec: '1221.110'
+        mark: '00:20:21.110'
+      end:
+        sec: '1230.864'
+        mark: '00:20:30.864'
       u: Nu, it is said that many children are arriving from Poland, from Hungary,
         and from elsewhere. Who brings them over? How are they found?
     - who: Joseph Ferber
-      start: '00:20:30.864'
-      end: '00:20:39.536'
+      start:
+        sec: '1230.864'
+        mark: '00:20:30.864'
+      end:
+        sec: '1239.536'
+        mark: '00:20:39.536'
       u: All that is being done through Vaad Hatzala. There are a whole series of
         committees which devote themselves to this thing, which work very actively...
     - who: David Boder
-      start: '00:20:39.536'
-      end: '00:20:39.911'
+      start:
+        sec: '1239.536'
+        mark: '00:20:39.536'
+      end:
+        sec: '1239.911'
+        mark: '00:20:39.911'
       u: Yes.
     - who: Joseph Ferber
-      start: '00:20:39.911'
-      end: '00:20:41.270'
+      start:
+        sec: '1239.911'
+        mark: '00:20:39.911'
+      end:
+        sec: '1241.270'
+        mark: '00:20:41.270'
       u: "...and carry out all the..."
     - who: David Boder
-      start: '00:20:41.270'
-      end: '00:20:43.035'
+      start:
+        sec: '1241.270'
+        mark: '00:20:41.270'
+      end:
+        sec: '1243.035'
+        mark: '00:20:43.035'
       u: They are not the American committees.
     - who: Joseph Ferber
-      start: '00:20:43.035'
-      end: '00:20:47.066'
+      start:
+        sec: '1243.035'
+        mark: '00:20:43.035'
+      end:
+        sec: '1247.066'
+        mark: '00:20:47.066'
       u: The American committees support it.
     - who: David Boder
-      start: '00:20:47.066'
-      end: '00:20:47.519'
+      start:
+        sec: '1247.066'
+        mark: '00:20:47.066'
+      end:
+        sec: '1247.519'
+        mark: '00:20:47.519'
       u: Yes.
     - who: Joseph Ferber
-      start: '00:20:47.519'
-      end: '00:20:50.003'
+      start:
+        sec: '1247.519'
+        mark: '00:20:47.519'
+      end:
+        sec: '1250.003'
+        mark: '00:20:50.003'
       u: But the initiative does not lie in their hands.
     - who: David Boder
-      start: '00:20:50.003'
-      end: '00:20:53.956'
+      start:
+        sec: '1250.003'
+        mark: '00:20:50.003'
+      end:
+        sec: '1253.956'
+        mark: '00:20:53.956'
       u: And what is the fundamental aim of the Vaad Hatzala?
     - who: Joseph Ferber
-      start: '00:20:53.956'
-      end: '00:20:56.065'
+      start:
+        sec: '1253.956'
+        mark: '00:20:53.956'
+      end:
+        sec: '1256.065'
+        mark: '00:20:56.065'
       u: To rescue Jewish souls [lives].
     - who: David Boder
-      start: '00:20:56.065'
-      end: '00:20:59.236'
+      start:
+        sec: '1256.065'
+        mark: '00:20:56.065'
+      end:
+        sec: '1259.236'
+        mark: '00:20:59.236'
       u: Are they Zionists?
     - who: Joseph Ferber
-      start: '00:20:59.236'
-      end: '00:21:00.315'
+      start:
+        sec: '1259.236'
+        mark: '00:20:59.236'
+      end:
+        sec: '1260.315'
+        mark: '00:21:00.315'
       u: Yes.
     - who: David Boder
-      start: '00:21:00.315'
-      end: '00:21:01.627'
+      start:
+        sec: '1260.315'
+        mark: '00:21:00.315'
+      end:
+        sec: '1261.627'
+        mark: '00:21:01.627'
       u: They are Zionists.
     - who: Joseph Ferber
-      start: '00:21:01.627'
-      end: '00:21:07.189'
+      start:
+        sec: '1261.627'
+        mark: '00:21:01.627'
+      end:
+        sec: '1267.189'
+        mark: '00:21:07.189'
       u: Yes. It is tied in with Eretz Yisroeil, interconnected with Eretz Yieroeil.
         The initiative emanates from Palestine.
     - who: David Boder
-      start: '00:21:07.189'
-      end: '00:21:09.439'
+      start:
+        sec: '1267.189'
+        mark: '00:21:07.189'
+      end:
+        sec: '1269.439'
+        mark: '00:21:09.439'
       u: Oh, the initiative is from Palestine.
     - who: Joseph Ferber
-      start: '00:21:09.439'
-      end: '00:21:10.001'
+      start:
+        sec: '1269.439'
+        mark: '00:21:09.439'
+      end:
+        sec: '1270.001'
+        mark: '00:21:10.001'
       u: Yes.
     - who: David Boder
-      start: '00:21:10.001'
-      end: '00:21:14.517'
+      start:
+        sec: '1270.001'
+        mark: '00:21:10.001'
+      end:
+        sec: '1274.517'
+        mark: '00:21:14.517'
       u: Tell me, here were today such...such young people from Palestine. Who are
         they?
     - who: Joseph Ferber
-      start: '00:21:14.517'
-      end: '00:21:39.324'
+      start:
+        sec: '1274.517'
+        mark: '00:21:14.517'
+      end:
+        sec: '1299.324'
+        mark: '00:21:39.324'
       u: These are messengers from Eretz Yisroeil, people who are being sent from
         there to work in Galuth [Diaspora], to sustain the spirit of the Jewish people,
         to work in the Aliyah, that means, in the immigration of the Jews to Eretz
@@ -1002,48 +1686,88 @@ recording:
         which became a unifying force in the Jewish world and came to enjoy widespread
         sympathy in the world at large.22
     - who: David Boder
-      start: '00:21:39.324'
-      end: '00:21:43.636'
+      start:
+        sec: '1299.324'
+        mark: '00:21:39.324'
+      end:
+        sec: '1303.636'
+        mark: '00:21:43.636'
       u: So how is...the man who came today is from Eretz Yisroeil?
     - who: Joseph Ferber
-      start: '00:21:43.636'
-      end: '00:21:44.089'
+      start:
+        sec: '1303.636'
+        mark: '00:21:43.636'
+      end:
+        sec: '1304.089'
+        mark: '00:21:44.089'
       u: Yes.
     - who: David Boder
-      start: '00:21:44.089'
-      end: '00:21:46.979'
+      start:
+        sec: '1304.089'
+        mark: '00:21:44.089'
+      end:
+        sec: '1306.979'
+        mark: '00:21:46.979'
       u: How did he get together with the children which you have brought over?
     - who: Joseph Ferber
-      start: '00:21:46.979'
-      end: '00:21:58.979'
+      start:
+        sec: '1306.979'
+        mark: '00:21:46.979'
+      end:
+        sec: '1318.979'
+        mark: '00:21:58.979'
       u: Nu, he...he must have contacts already. To him there are already given...he
         is informed that there and there are located such and such children with whom
         he should work and whom he should prepare for a future life in Eretz Yisroeil.
     - who: David Boder
-      start: '00:21:58.979'
-      end: '00:22:01.541'
+      start:
+        sec: '1318.979'
+        mark: '00:21:58.979'
+      end:
+        sec: '1321.541'
+        mark: '00:22:01.541'
       u: That is not any more the Vaad Hatzala.
     - who: Joseph Ferber
-      start: '00:22:01.541'
-      end: '00:22:06.650'
+      start:
+        sec: '1321.541'
+        mark: '00:22:01.541'
+      end:
+        sec: '1326.650'
+        mark: '00:22:06.650'
       u: No, I do not think so. It is already simply from the governm-...Zionist Executive.
     - who: David Boder
-      start: '00:22:06.650'
-      end: '00:22:07.650'
+      start:
+        sec: '1326.650'
+        mark: '00:22:06.650'
+      end:
+        sec: '1327.650'
+        mark: '00:22:07.650'
       u: In Palestine.
     - who: Joseph Ferber
-      start: '00:22:07.650'
-      end: '00:22:08.400'
+      start:
+        sec: '1327.650'
+        mark: '00:22:07.650'
+      end:
+        sec: '1328.400'
+        mark: '00:22:08.400'
       u: In Palestine.
     - who: David Boder
-      start: '00:22:08.400'
-      end: '00:22:25.601'
+      start:
+        sec: '1328.400'
+        mark: '00:22:08.400'
+      end:
+        sec: '1345.601'
+        mark: '00:22:25.601'
       u: Tell me something about your service in Russia. Can you explain to me why
         the Jews, who had entered...saved themselves in Russia, don’t want ...why
         don’t they want to remain there?
     - who: Joseph Ferber
-      start: '00:22:25.601'
-      end: '00:23:35.416'
+      start:
+        sec: '1345.601'
+        mark: '00:22:25.601'
+      end:
+        sec: '1415.416'
+        mark: '00:23:35.416'
       u: Every Jew hopes that he will still find someone at home, that he will perhaps
         find his house, his belongings, or something else. And this, in fact, is the
         quintessence, that everyone is drawn to the place where he was born. Because
@@ -1065,15 +1789,23 @@ recording:
         Soviet Jewry, anti-Semitism became one of the chief policies of the Stalinist
         regime. 23
     - who: David Boder
-      start: '00:23:35.416'
-      end: '00:23:59.447'
+      start:
+        sec: '1415.416'
+        mark: '00:23:35.416'
+      end:
+        sec: '1439.447'
+        mark: '00:23:59.447'
       u: Nu, you say that in Poland the government is, more or less, liberal. Would
         it not be sensible to remain there and to combat the anti-Semitism, and to
         settle there and build there Jewish communities until the situation in Palestine
         will clear up?
     - who: Joseph Ferber
-      start: '00:23:59.447'
-      end: '00:25:12.598'
+      start:
+        sec: '1439.447'
+        mark: '00:23:59.447'
+      end:
+        sec: '1512.598'
+        mark: '00:25:12.598'
       u: Something else is to be considered here. On the ruins which we find we do
         not want to build any more. When we come and find a burned home, a destroyed
         workshop, seeing that we have lost everything, everything that was dear was
@@ -1098,52 +1830,96 @@ recording:
         from Europe primarily to settle in Palestine. It existed from 1945 until December,
         1950 when its Central Committee ceased to exist.25
     - who: David Boder
-      start: '00:25:12.598'
-      end: '00:25:15.025'
+      start:
+        sec: '1512.598'
+        mark: '00:25:12.598'
+      end:
+        sec: '1515.025'
+        mark: '00:25:15.025'
       u: How did you call it? The...
     - who: Joseph Ferber
-      start: '00:25:15.025'
-      end: '00:25:16.756'
+      start:
+        sec: '1515.025'
+        mark: '00:25:15.025'
+      end:
+        sec: '1516.756'
+        mark: '00:25:16.756'
       u: Shaarith Hapleta
     - who: David Boder
-      start: '00:25:16.756'
-      end: '00:25:20.852'
+      start:
+        sec: '1516.756'
+        mark: '00:25:16.756'
+      end:
+        sec: '1520.852'
+        mark: '00:25:20.852'
       u: How do you spell it? [Pause]. What is the Shaarith Hapleta?
     - who: Joseph Ferber
-      start: '00:25:20.852'
-      end: '00:25:41.098'
+      start:
+        sec: '1520.852'
+        mark: '00:25:20.852'
+      end:
+        sec: '1541.098'
+        mark: '00:25:41.098'
       u: By the name of Shaarith Hapleta are called all these Jews who have remained
         alive from the terrible holocaust, from the six million who were killed. This
         is the small number...this is such...it means simply those who have...the
         tiny remnant which has remained alive.
     - who: David Boder
-      start: '00:25:41.098'
-      end: '00:25:43.872'
+      start:
+        sec: '1541.098'
+        mark: '00:25:41.098'
+      end:
+        sec: '1543.872'
+        mark: '00:25:43.872'
       u: What do the two words Shaarith Hapleta mean?
     - who: Joseph Ferber
-      start: '00:25:43.872'
-      end: '00:25:49.667'
+      start:
+        sec: '1543.872'
+        mark: '00:25:43.872'
+      end:
+        sec: '1549.667'
+        mark: '00:25:49.667'
       u: Shaarith means the remaining, and Hapleta, the escaped, who have escaped
         from death.
     - who: David Boder
-      start: '00:25:49.667'
-      end: '00:25:51.168'
+      start:
+        sec: '1549.667'
+        mark: '00:25:49.667'
+      end:
+        sec: '1551.168'
+        mark: '00:25:51.168'
       u: Oh, that’s what it means.
     - who: Joseph Ferber
-      start: '00:25:51.168'
-      end: '00:25:57.779'
+      start:
+        sec: '1551.168'
+        mark: '00:25:51.168'
+      end:
+        sec: '1557.779'
+        mark: '00:25:57.779'
       u: A term which is found very often in the press.
     - who: David Boder
-      start: '00:25:57.779'
-      end: '00:25:58.466'
+      start:
+        sec: '1557.779'
+        mark: '00:25:57.779'
+      end:
+        sec: '1558.466'
+        mark: '00:25:58.466'
       u: Yes.
     - who: Joseph Ferber
-      start: '00:25:58.466'
-      end: '00:25:59.436'
+      start:
+        sec: '1558.466'
+        mark: '00:25:58.466'
+      end:
+        sec: '1559.436'
+        mark: '00:25:59.436'
       u: In the Jewish as well as in the non-Jewish.
     - who: David Boder
-      start: '00:25:59.436'
-      end: '00:26:18.298'
+      start:
+        sec: '1559.436'
+        mark: '00:25:59.436'
+      end:
+        sec: '1578.298'
+        mark: '00:26:18.298'
       u: Yes, I know the term, but I did not know the particulars. And how do you,
         as a teacher, imagine? These children here are all [in Hebrew] orphans...[repeats
         in German:] orphans?A number of biblical commandments stress the importance
@@ -1151,17 +1927,29 @@ recording:
         commandments were reinforced in the Talmud and translated into Jewish communal
         care for orphans throughout the centuries.26
     - who: Joseph Ferber
-      start: '00:26:18.298'
-      end: '00:26:18.986'
+      start:
+        sec: '1578.298'
+        mark: '00:26:18.298'
+      end:
+        sec: '1578.986'
+        mark: '00:26:18.986'
       u: Yes.
     - who: David Boder
-      start: '00:26:18.986'
-      end: '00:26:29.365'
+      start:
+        sec: '1578.986'
+        mark: '00:26:18.986'
+      end:
+        sec: '1589.365'
+        mark: '00:26:29.365'
       u: Some, I understand, have relatives in America. Would it not be better for
         them to get their affidavits and go to America?
     - who: Joseph Ferber
-      start: '00:26:29.365'
-      end: '00:27:34.506'
+      start:
+        sec: '1589.365'
+        mark: '00:26:29.365'
+      end:
+        sec: '1654.506'
+        mark: '00:27:34.506'
       u: We want, since we have lived with the children during this year very close
         together...and the children address us in no other manner than mother, father,
         and we all regard ourselves as one big family, all of us who have lost everything,
@@ -1176,36 +1964,60 @@ recording:
         and all of us together have only one thought and one idea, to go to Eretz
         Yisroeil.
     - who: David Boder
-      start: '00:27:34.506'
-      end: '00:27:42.431'
+      start:
+        sec: '1654.506'
+        mark: '00:27:34.506'
+      end:
+        sec: '1662.431'
+        mark: '00:27:42.431'
       u: Nu, when you will come to Eretz Yisroeil, will you distribute the children
         to families, or will you keep them again together?
     - who: Joseph Ferber
-      start: '00:27:42.431'
-      end: '00:27:48.078'
+      start:
+        sec: '1662.431'
+        mark: '00:27:42.431'
+      end:
+        sec: '1668.078'
+        mark: '00:27:48.078'
       u: We will strive to live again in Eretz Yisroeil again in one community, which
         goes under the name of Kibbutz.
     - who: David Boder
-      start: '00:27:48.078'
-      end: '00:27:49.610'
+      start:
+        sec: '1668.078'
+        mark: '00:27:48.078'
+      end:
+        sec: '1669.610'
+        mark: '00:27:49.610'
       u: Kibbutz, nu?
     - who: Joseph Ferber
-      start: '00:27:49.610'
-      end: '00:28:12.458'
+      start:
+        sec: '1669.610'
+        mark: '00:27:49.610'
+      end:
+        sec: '1692.458'
+        mark: '00:28:12.458'
       u: But, children, we know, always go their own way. Those children who will
         show abilities to learn and study [get a higher education], those will go
         to study. Other children who will want to go to work, these will work. But
         we hope that the children will be good people, people who will be useful to
         all mankind.
     - who: David Boder
-      start: '00:28:12.458'
-      end: '00:28:31.267'
+      start:
+        sec: '1692.458'
+        mark: '00:28:12.458'
+      end:
+        sec: '1711.267'
+        mark: '00:28:31.267'
       u: Do you think that it is possible to raise good people in such — I understand
         good people — but is it the best thing to do, to raise children in such groups,
         instead of giving them...of distributing them among families?
     - who: Joseph Ferber
-      start: '00:28:31.267'
-      end: '00:29:29.331'
+      start:
+        sec: '1711.267'
+        mark: '00:28:31.267'
+      end:
+        sec: '1769.331'
+        mark: '00:29:29.331'
       u: "[Pause.] Yes. Because the facts show that a private life has many more faults
         than a collective life. We see, for instance, that to our children the concept
         of egoism is completely alien. In them egoism became completely discarded.
@@ -1217,12 +2029,20 @@ recording:
         indeed, raises our courage for our further work, to go on raising these children
         in a social and democratic spirit. [Pause.]"
     - who: David Boder
-      start: '00:29:29.331'
-      end: '00:29:38.427'
+      start:
+        sec: '1769.331'
+        mark: '00:29:29.331'
+      end:
+        sec: '1778.427'
+        mark: '00:29:38.427'
       u: What would you want to say to the American Jews or to the American workers?
     - who: Joseph Ferber
-      start: '00:29:38.427'
-      end: '00:30:42.395'
+      start:
+        sec: '1778.427'
+        mark: '00:29:38.427'
+      end:
+        sec: '1842.395'
+        mark: '00:30:42.395'
       u: To the American Jews and to the American workers, as our brothers, we have
         only one message. When we hear the name Jew, or when we happen to meet on
         the street a Jew, there awakens in our [hearts] a great mass of really deep
@@ -1234,16 +2054,24 @@ recording:
         these brothers of ours in America should help us, be it morally and be it
         materially. And our work will be for them our best gratitude.
     - who: David Boder
-      start: '00:30:42.395'
-      end: '00:31:06.996'
+      start:
+        sec: '1842.395'
+        mark: '00:30:42.395'
+      end:
+        sec: '1866.996'
+        mark: '00:31:06.996'
       u: Well, I thank you very much Mr. Ferber. It was very interesting and very
         important. It gives us a better understanding of these groups of children
         about which still very little has been said and very little written. So, it
         will be very interesting to follow up the study of these groups. I thank you
         very much.
     - who: David Boder
-      start: '00:31:06.996'
-      end: '00:31:27.320'
+      start:
+        sec: '1866.996'
+        mark: '00:31:06.996'
+      end:
+        sec: '1887.32'
+        mark: '00:31:27.320'
       u: "[In English:] This concludes the interview with Mr. Joseph Ferber on Spool
         117, twenty-six [ indicator] minutes of the spool. Bellevue near Paris. September
         7, 1946. [Incorrect date — should be Spetember 8]. Illinois Institute of Technology

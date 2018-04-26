@@ -40,39 +40,67 @@ recording:
     language: de
     interview:
     - who: David Boder
-      start: '00:00:02.291'
-      end: '00:00:26.472'
+      start:
+        sec: '2.291'
+        mark: '00:00:02.291'
+      end:
+        sec: '26.472'
+        mark: '00:00:26.472'
       u: "[In English] This is spool number 28. An interview with Lieutenant André
         Richard from Paris, by means of an interpreter, Miss Bertha Goldwasser...Miss
         Bertha Goldwasser...now...a...eh..."
     - who: David Boder
-      start: '00:00:26.472'
-      end: '00:00:37.208'
+      start:
+        sec: '26.472'
+        mark: '00:00:26.472'
+      end:
+        sec: '37.208'
+        mark: '00:00:37.208'
       u: "[In German] Now, wollen Sie ihn bitten, dass er seinen Namen sagt und wie
         alt er ist und was er jetzt tut?"
     - who: Bertha Goldwasser
-      start: '00:00:37.208'
-      end: '00:00:46.344'
+      start:
+        sec: '37.208'
+        mark: '00:00:37.208'
+      end:
+        sec: '46.344'
+        mark: '00:00:46.344'
       u: "[In French] Si vous voulez Monsieur Richard, dire votre nom, votre adresse,
         votre profession et quel âge vous avez ?"
     - who: André Richard
-      start: '00:00:46.344'
-      end: '00:01:01.374'
+      start:
+        sec: '46.344'
+        mark: '00:00:46.344'
+      end:
+        sec: '61.374'
+        mark: '00:01:01.374'
       u: André Richard, 2 Cité Condorcet, Paris IXème. Je suis artiste au Théâtre
         National de l’Opéra à Paris.
     - who: David Boder
-      start: '00:01:01.374'
-      end: '00:01:10.088'
+      start:
+        sec: '61.374'
+        mark: '00:01:01.374'
+      end:
+        sec: '70.088'
+        mark: '00:01:10.088'
       u: "[In German] Wollen Sie ihn fragen, was er getan hat und wo er war, wenn
         die Deutschen nach Paris gekommen?"
     - who: Bertha Goldwasser
-      start: '00:01:10.088'
-      end: '00:01:18.998'
+      start:
+        sec: '70.088'
+        mark: '00:01:10.088'
+      end:
+        sec: '78.998'
+        mark: '00:01:18.998'
       u: "[In French] Si vous voulez bien gentiment nous dire qu’est ce que vous avez
         fait pendant l’Occupation ici à Paris ?"
     - who: André Richard
-      start: '00:01:18.998'
-      end: '00:04:31.911'
+      start:
+        sec: '78.998'
+        mark: '00:01:18.998'
+      end:
+        sec: '271.911'
+        mark: '00:04:31.911'
       u: Ce que j’ai fait pendant l’Occupation, je suis entré dans la Résistance,
         sous les ordres du commandant Bordé et du colonel Goisé. Le commandant Bordé
         a formé le groupe la Marseillaise. Le groupe la Marseillaise comprenait trois
@@ -106,21 +134,33 @@ recording:
         que j’ai donné des tracts à différents camarades n’est-ce pas, qui d’ailleurs
         se sont fort bien accomplis de la mission dont je les avais chargés.
     - who: David Boder
-      start: '00:04:31.911'
-      end: '00:04:51.087'
+      start:
+        sec: '271.911'
+        mark: '00:04:31.911'
+      end:
+        sec: '291.087'
+        mark: '00:04:51.087'
       u: "[In German] Now, äh, was waren die Anfänge von der Résistance? Wer hat die
         Résistance formiert? Waren da gewisse Gruppen, die schon bevor die Deutschen
         kamen, sich zusammengelegt haben, um zu resistieren?"
     - who: Bertha Goldwasser
-      start: '00:04:51.087'
-      end: '00:05:07.896'
+      start:
+        sec: '291.087'
+        mark: '00:04:51.087'
+      end:
+        sec: '307.896'
+        mark: '00:05:07.896'
       u: "[In French] Monsieur le professeur vous demande, Monsieur Richard, est-ce
         que les groupes de résistance étaient préparés avant l’Occupation ici à Paris,
         où la résistance était formée et comment, et quel caractère elle a pris en
         général ?"
     - who: André Richard
-      start: '00:05:07.896'
-      end: '00:09:15.729'
+      start:
+        sec: '307.896'
+        mark: '00:05:07.896'
+      end:
+        sec: '555.729'
+        mark: '00:09:15.729'
       u: Et bien les groupes à mon avis de résistance, n’étaient pas formés avant
         l’Occupation car...nous...pour moi, à mon avis personnel c’est que nous avons
         été trahis sur toute la ligne, du plus haut jusqu’au plus petit. Maintenant,
@@ -170,14 +210,22 @@ recording:
         et bien souvent je suis rentré seul alors que nous étions partis à une vingtaine,
         et je suis rentré seul de ces missions, qui étaient vraiment périlleuses.
     - who: David Boder
-      start: '00:09:15.729'
-      end: '00:09:35.474'
+      start:
+        sec: '555.729'
+        mark: '00:09:15.729'
+      end:
+        sec: '575.474'
+        mark: '00:09:35.474'
       u: "[In German] Ich stell jetzt eine andere Frage: Man hat in Amerika soviel
         gesprochen darüber, dass man am Anfang den Krieg verloren hat, weil die Arbeiter
         gegen den Krieg waren und den Krieg sabotiert haben."
     - who: Bertha Goldwasser
-      start: '00:09:35.474'
-      end: '00:10:02.744'
+      start:
+        sec: '575.474'
+        mark: '00:09:35.474'
+      end:
+        sec: '602.744'
+        mark: '00:10:02.744'
       u: "[In French] Monsieur le professeur me dit de vous demander...il me dit de
         vous dire l’opinion de l’Amérique, car en Amérique, on ne [inaudible] cette
         opinion...que la guerre ici en France était terrible [inaudible] parce que
@@ -185,17 +233,29 @@ recording:
         à la guerre et puis, ils ont saboté dans l’usine [inaudible], est-ce que c’est
         vrai ?"
     - who: André Richard
-      start: '00:10:02.744'
-      end: '00:10:13.538'
+      start:
+        sec: '602.744'
+        mark: '00:10:02.744'
+      end:
+        sec: '613.538'
+        mark: '00:10:13.538'
       u: Et bien je lui dirais que...les ouvriers, n’est-ce pas...à ma connaissance,
         les ouvriers ont fait leur devoir...les ouvriers font toujours leur devoir.
     - who: David Boder
-      start: '00:10:13.538'
-      end: '00:10:15.468'
+      start:
+        sec: '613.538'
+        mark: '00:10:13.538'
+      end:
+        sec: '615.468'
+        mark: '00:10:15.468'
       u: "[In German] [He said something in the background - unintelligible]"
     - who: Bertha Goldwasser
-      start: '00:10:15.468'
-      end: '00:10:59.035'
+      start:
+        sec: '615.468'
+        mark: '00:10:15.468'
+      end:
+        sec: '659.035'
+        mark: '00:10:59.035'
       u: "[In German] Herr Richard sagt, dass der Arbeiter in Frankreich hat nicht
         sabotiert. Er hat sich gestellt im Beruf, er hat sich gestellt für auf den
         Platz, man hat ihn geführt. Aber Frankreich und die ganze Kriegs...[unverständlich]
@@ -205,19 +265,31 @@ recording:
         als Gefangener von den Feind als Gefangener. Dann hat er sich zurückgezogen.
         Meine Meinung ist, dass jeder von uns hätte das auch gemacht."
     - who: David Boder
-      start: '00:10:59.035'
-      end: '00:11:14.005'
+      start:
+        sec: '659.035'
+        mark: '00:10:59.035'
+      end:
+        sec: '674.005'
+        mark: '00:11:14.005'
       u: Ja, nun will er weiter sagen, wie kam denn die, äh, wie wenn sich die Résistance
         entwickelt hat. Welche Gruppen haben hauptsächlich die Résistance gewollt?
     - who: Bertha Goldwasser
-      start: '00:11:14.005'
-      end: '00:11:25.598'
+      start:
+        sec: '674.005'
+        mark: '00:11:14.005'
+      end:
+        sec: '685.598'
+        mark: '00:11:25.598'
       u: "[In French] Le professeur vous demande, quand la Résistance s’est groupée,
         que vous citiez ici les noms des groupes lesquels sont...ont commencé à aider
         la Résistance."
     - who: André Richard
-      start: '00:11:25.598'
-      end: '00:14:42.080'
+      start:
+        sec: '685.598'
+        mark: '00:11:25.598'
+      end:
+        sec: '882.080'
+        mark: '00:14:42.080'
       u: Les groupes, n’est-ce pas, les groupes, à eux seuls formaient la Résistance,
         la Résistance n’étaient formée que de groupes, que l’on appelait n’est-ce
         pas, soit par exemple réseau Turenne n’est-ce pas, le groupe Turenne, réseau
@@ -262,19 +334,31 @@ recording:
         pour la France, et je suis...je suis sûr que demain, il est encore prêt à
         faire tout pour la France.
     - who: David Boder
-      start: '00:14:42.080'
-      end: '00:14:53.974'
+      start:
+        sec: '882.080'
+        mark: '00:14:42.080'
+      end:
+        sec: '893.974'
+        mark: '00:14:53.974'
       u: "[In German] What was the, äh, was war die das Verhältnis meisten der Universitätsprofessoren
         zu der Résistance?"
     - who: Bertha Goldwasser
-      start: '00:14:53.974'
-      end: '00:15:07.859'
+      start:
+        sec: '893.974'
+        mark: '00:14:53.974'
+      end:
+        sec: '907.859'
+        mark: '00:15:07.859'
       u: "[In French] Les professeurs...Comment se sont comportés les professeurs
         de l’Université, en général les intellectuels pour la Résistance ? Est-ce
         que les intellectuels ont fait aussi la Résistance ?"
     - who: André Richard
-      start: '00:15:07.859'
-      end: '00:15:54.161'
+      start:
+        sec: '907.859'
+        mark: '00:15:07.859'
+      end:
+        sec: '954.161'
+        mark: '00:15:54.161'
       u: Oui, certains...certains professeurs ont fait la Résistance...mais pas tous,
         pas tous parce que...il y avait évidemment les collaborateurs. N’est-ce pas,
         on ne peut pas, même parmi les intellectuels il y a eu...j’ai eu dans mon
@@ -286,19 +370,31 @@ recording:
         professeurs et des intellectuels qui étaient dans la Résistance et qui ont
         fait tout leur devoir.
     - who: David Boder
-      start: '00:15:54.161'
-      end: '00:16:11.241'
+      start:
+        sec: '954.161'
+        mark: '00:15:54.161'
+      end:
+        sec: '971.241'
+        mark: '00:16:11.241'
       u: "[In German] And dieselbe Frage, äh, wie haben sich die Schauspieler, das
         Theater und die Literatur zu der, zu den Deutschen und der Résistance verhalten?"
     - who: Bertha Goldwasser
-      start: '00:16:11.241'
-      end: '00:16:27.055'
+      start:
+        sec: '971.241'
+        mark: '00:16:11.241'
+      end:
+        sec: '987.055'
+        mark: '00:16:27.055'
       u: "[In French] Comment se sont comportés les artistes français et aussi...le...les
         littéraires, les écrivains, les danseurs, plusieurs euh...tous ceux qui sont
         dans cette corporation ?"
     - who: André Richard
-      start: '00:16:27.055'
-      end: '00:17:54.705'
+      start:
+        sec: '987.055'
+        mark: '00:16:27.055'
+      end:
+        sec: '1074.705'
+        mark: '00:17:54.705'
       u: Et bien dans cette corporation, évidemment il y eu malheureusement beaucoup
         de collaborateurs, mais enfin, il y a eu des gens qui n’ont pas collaboré.
         Evidemment...je puis dire qu’il y a eu à peu près dans la proportion...dans
@@ -316,29 +412,49 @@ recording:
         j’espère que...un effort va être fait pour oublier tout ça et que tous...et
         toutes repartiront du bon pied.
     - who: David Boder
-      start: '00:17:54.705'
-      end: '00:18:08.710'
+      start:
+        sec: '1074.705'
+        mark: '00:17:54.705'
+      end:
+        sec: '1088.710'
+        mark: '00:18:08.710'
       u: "[In German] Ich möchte jetzt wissen, sind viele und, sind viele vom Militär
         aktiv mit den Deutschen mitgegangen?"
     - who: Bertha Goldwasser
-      start: '00:18:08.710'
-      end: '00:18:22.270'
+      start:
+        sec: '1088.710'
+        mark: '00:18:08.710'
+      end:
+        sec: '1102.270'
+        mark: '00:18:22.270'
       u: "[In French] Monsieur le professeur vous demande, est-ce que beaucoup...des
         militaires, des soldats, des...des gradés même, étaient avec les Allemands
         ?...Est-ce que beaucoup de militaires..."
     - who: David Boder
-      start: '00:18:22.270'
-      end: '00:18:22.406'
+      start:
+        sec: '1102.270'
+        mark: '00:18:22.270'
+      end:
+        sec: '1102.406'
+        mark: '00:18:22.406'
       u: "[In German] The interviewer interrupts interpreter here I can’t tell what
         language it is [unintelligible]"
     - who: Bertha Goldwasser
-      start: '00:18:22.406'
-      end: '00:18:30.411'
+      start:
+        sec: '1102.406'
+        mark: '00:18:22.406'
+      end:
+        sec: '1110.411'
+        mark: '00:18:30.411'
       u: "[In French]...de militaires, des...des gradés, est-ce qu’ils collaboraient
         avec des Allemands directement ?"
     - who: André Richard
-      start: '00:18:30.411'
-      end: '00:19:08.772'
+      start:
+        sec: '1110.411'
+        mark: '00:18:30.411'
+      end:
+        sec: '1148.772'
+        mark: '00:19:08.772'
       u: Oh ben à ma connaissance n’est-ce pas...heu oui il y a eu beaucoup d’officiers
         qui malheureusement ont collaboré, d’ailleurs il n’y a qu’à reprendre les
         jugements faits jusqu’à présent par les tribunaux français, ça vous donnera
@@ -348,26 +464,42 @@ recording:
         collabore pas avec un ennemi. Ca...pour moi c’est, c’est la forme même presque
         de la psychiatrie, c’est un fou...tout simplement.
     - who: Bertha Goldwasser
-      start: '00:19:08.772'
-      end: '00:19:44.664'
+      start:
+        sec: '1148.772'
+        mark: '00:19:08.772'
+      end:
+        sec: '1184.664'
+        mark: '00:19:44.664'
       u: "[In German] Herr Richard sagt, dass man soll durchschauen die kritischen
         Gesetzen und auch die im Krieg...[unverständlich] Verhandlungen. Dann wird
         man sehen, wie viele im Dienst verurteilte gewordene Militärleute von Frankreich,
         die welche haben mit den Deutschen kollaboriert. So, und in Kontakt gestanden."
     - who: David Boder
-      start: '00:19:44.664'
-      end: '00:19:56.604'
+      start:
+        sec: '1184.664'
+        mark: '00:19:44.664'
+      end:
+        sec: '1196.604'
+        mark: '00:19:56.604'
       u: ". . . Nun, was denkt er, wie wird sich jetzt in Frankreich das alles entwickeln,
         bis es normal wird?"
     - who: Bertha Goldwasser
-      start: '00:19:56.604'
-      end: '00:20:12.106'
+      start:
+        sec: '1196.604'
+        mark: '00:19:56.604'
+      end:
+        sec: '1212.106'
+        mark: '00:20:12.106'
       u: "[In French] Comment pensez-vous, Monsieur Richard, voir maintenant arranger...ici
         dans la France, la vie, comment elle va revenir, et dans quel...quel avenir
         nous attend ?"
     - who: André Richard
-      start: '00:20:12.106'
-      end: '00:21:52.410'
+      start:
+        sec: '1212.106'
+        mark: '00:20:12.106'
+      end:
+        sec: '1312.410'
+        mark: '00:21:52.410'
       u: Moi vous savez, l’avenir nous attend, c’est que, à l’heure actuelle, la politique,
         n’est-ce pas est une chose que je ne comprends pas, et que je ne cherche pas
         à comprendre, car vous savez, les gens qui font de la politique, sont des
@@ -387,18 +519,30 @@ recording:
         qu’elle mérite, et bien c’est un imposteur qui n’appartient pas aux hommes
         actuels.
     - who: David Boder
-      start: '00:21:52.410'
-      end: '00:22:03.865'
+      start:
+        sec: '1312.410'
+        mark: '00:21:52.410'
+      end:
+        sec: '1323.865'
+        mark: '00:22:03.865'
       u: "[In German] Äh, will er uns sagen, welcher in seiner Aktivität der gefährlichste
         Moment gewesen ist?"
     - who: Bertha Goldwasser
-      start: '00:22:03.865'
-      end: '00:22:17.418'
+      start:
+        sec: '1323.865'
+        mark: '00:22:03.865'
+      end:
+        sec: '1337.418'
+        mark: '00:22:17.418'
       u: "[In French] Est-ce que vous pouvez nous citer le cas dans le moment, que
         vous avez...dans le moment de votre mission qui était le plus dangereux ?"
     - who: André Richard
-      start: '00:22:17.418'
-      end: '00:24:26.193'
+      start:
+        sec: '1337.418'
+        mark: '00:22:17.418'
+      end:
+        sec: '1466.193'
+        mark: '00:24:26.193'
       u: Le cas dans les missions qui a été le plus dangereux, et bien, c’est quand
         je suis allé...quand je suis allé, n’est-ce pas, pour réveiller tous les pauvres
         types qui devaient aller faire sauter, n’est-ce pas les...les ouvrages allemands.
@@ -420,20 +564,32 @@ recording:
         qui a été un des résistants, enfin le plus, à mon avis parmi la police, le
         plus épatant, et bien...est aussi lui à l’heure actuelle resté dans l’ombre.
     - who: David Boder
-      start: '00:24:26.193'
-      end: '00:24:48.845'
+      start:
+        sec: '1466.193'
+        mark: '00:24:26.193'
+      end:
+        sec: '1488.845'
+        mark: '00:24:48.845'
       u: "[In German] Äh, waren äh welche komischen Momente, äh, in diesem äh, in
         äh, während der äh des Daseins der Deutschen hier? Sind da welche Anekdoten,
         die man von denen erzählt?"
     - who: Bertha Goldwasser
-      start: '00:24:48.845'
-      end: '00:25:00.416'
+      start:
+        sec: '1488.845'
+        mark: '00:24:48.845'
+      end:
+        sec: '1500.416'
+        mark: '00:25:00.416'
       u: "[In French] Euh, Monsieur le professeur vous demande est-ce qu’il y a aussi,
         des moments comiques, qu’on peut raconter, du passé, quand il y avait des
         Allemands ici ?"
     - who: André Richard
-      start: '00:25:00.416'
-      end: '00:28:15.089'
+      start:
+        sec: '1500.416'
+        mark: '00:25:00.416'
+      end:
+        sec: '1695.089'
+        mark: '00:28:15.089'
       u: 'Et bien il y en a, oui il y en a, parce que vraiment...les Allemands étaient
         par moment très comiques. Et un jour justement, en sortant de chez moi boulevard
         Barbès, j’ai rencontré, n’est-ce pas, une...une colonie de petits enfants
@@ -469,13 +625,21 @@ recording:
         je n’ai pas besoin de vous dire, évidemment, la duperie dont l’Allemand a
         été coupable.'
     - who: David Boder
-      start: '00:28:15.089'
-      end: '00:28:29.727'
+      start:
+        sec: '1695.089'
+        mark: '00:28:15.089'
+      end:
+        sec: '1709.727'
+        mark: '00:28:29.727'
       u: "[In German] Eine Frage, denkt er, dass der Antisemitismus, den die Nazis
         hier entwickelt haben, dass viel davon noch ist, dass viel noch nach dem Krieg?"
     - who: Bertha Goldwasser
-      start: '00:28:29.727'
-      end: '00:29:03.396'
+      start:
+        sec: '1709.727'
+        mark: '00:28:29.727'
+      end:
+        sec: '1743.396'
+        mark: '00:29:03.396'
       u: "[In French] Pensez-vous que les allemands vont s’aimer ici en France ? Est-ce
         qu’il restera encore de...est-ce qu’il restera encore l’antisémitisme...est-ce
         que les Français, ils vont vraiment se laisser bourrer le crâne, comme on
@@ -483,8 +647,12 @@ recording:
         et c’est les juifs qui l’ont pris quoi, et ça c’est leur mot d’ordre, n’est-ce
         pas, pour gagner le monde. Que pensez-vous de cela ?"
     - who: André Richard
-      start: '00:29:03.396'
-      end: '00:30:11.726'
+      start:
+        sec: '1743.396'
+        mark: '00:29:03.396'
+      end:
+        sec: '1811.726'
+        mark: '00:30:11.726'
       u: Et bien, à mon avis, malheureusement oui. Malheureusement oui, il y a des
         germes qui restent en France. Et...vous savez, je crois qu’il faut tout faire
         pour effacer ces germes, car tout de même, n’est-ce pas ces germes arriveront
@@ -497,74 +665,134 @@ recording:
         de toute religion, qui à mon avis, les divise. Si vous supprimez les religions,
         vous aurez...fait un grand pas pour la défense de la liberté.
     - who: David Boder
-      start: '00:30:11.726'
-      end: '00:30:21.691'
+      start:
+        sec: '1811.726'
+        mark: '00:30:11.726'
+      end:
+        sec: '1821.691'
+        mark: '00:30:21.691'
       u: "[In German] Monsieur Richard, ich danke Ihnen sehr, es war ein..."
     - who: David Boder
-      start: '00:30:21.691'
-      end: '00:30:27.374'
+      start:
+        sec: '1821.691'
+        mark: '00:30:21.691'
+      end:
+        sec: '1827.374'
+        mark: '00:30:27.374'
       u: "[In English]...I think that the Frenchmen in Chicago and the"
     - who: David Boder
-      start: '00:30:27.374'
-      end: '00:30:34.852'
+      start:
+        sec: '1827.374'
+        mark: '00:30:27.374'
+      end:
+        sec: '1834.852'
+        mark: '00:30:34.852'
       u: "[In German]...unsere Studenten werden mit großer Interesse diesen Werk anhören."
     - who: Bertha Goldwasser
-      start: '00:30:34.852'
-      end: '00:30:45.088'
+      start:
+        sec: '1834.852'
+        mark: '00:30:34.852'
+      end:
+        sec: '1845.088'
+        mark: '00:30:45.088'
       u: "[In French] Monsieur le professeur vous remercie beaucoup. Il espère que
         les étudiants et aussi les Français qui se trouvent à Chicago vont écouter
         les tables avec un très grand plaisir."
     - who: David Boder
-      start: '00:30:45.088'
-      end: '00:30:52.083'
+      start:
+        sec: '1845.088'
+        mark: '00:30:45.088'
+      end:
+        sec: '1852.083'
+        mark: '00:30:52.083'
       u: "[In German] Danke sehr."
     - who: David Boder
-      start: '00:30:52.083'
-      end: '00:30:56.274'
+      start:
+        sec: '1852.083'
+        mark: '00:30:52.083'
+      end:
+        sec: '1856.274'
+        mark: '00:30:56.274'
       u: "[In English] This concludes spool 28 taken from André [inaudible]"
     - who: André Richard
-      start: '00:30:56.274'
-      end: '00:31:07.283'
+      start:
+        sec: '1856.274'
+        mark: '00:30:56.274'
+      end:
+        sec: '1867.283'
+        mark: '00:31:07.283'
       u: "[In French] Et bien, à l’Opéra, je chante Rigoletto, je chante Faust, je
         chante Roméo et Juliette."
     - who: David Boder
-      start: '00:31:07.283'
-      end: '00:31:08.700'
+      start:
+        sec: '1867.283'
+        mark: '00:31:07.283'
+      end:
+        sec: '1868.700'
+        mark: '00:31:08.700'
       u: Quel rôle dans Faust ?
     - who: André Richard
-      start: '00:31:08.700'
-      end: '00:31:10.479'
+      start:
+        sec: '1868.700'
+        mark: '00:31:08.700'
+      end:
+        sec: '1870.479'
+        mark: '00:31:10.479'
       u: Euh, Méphisto.
     - who: David Boder
-      start: '00:31:10.479'
-      end: '00:31:15.001'
+      start:
+        sec: '1870.479'
+        mark: '00:31:10.479'
+      end:
+        sec: '1875.001'
+        mark: '00:31:15.001'
       u: Oh, Méphisto ! Vous ne chantez pas Boris Godounov ?
     - who: André Richard
-      start: '00:31:15.001'
-      end: '00:31:22.906'
+      start:
+        sec: '1875.001'
+        mark: '00:31:15.001'
+      end:
+        sec: '1882.906'
+        mark: '00:31:22.906'
       u: Et bien plus tard, j’espère le chanter, je l’ai à l’étude.
   translation:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:02.291'
-      end: '00:00:26.472'
+      start:
+        sec: '2.291'
+        mark: '00:00:02.291'
+      end:
+        sec: '26.472'
+        mark: '00:00:26.472'
       u: "[In English] This is spool number 28. An interview with Lieutenant André
         Richard from Paris, by means of an interpreter, Miss Bertha Goldwasser...Miss
         Bertha Goldwasser...now...a...eh..."
     - who: David Boder
-      start: '00:00:26.472'
-      end: '00:00:37.208'
+      start:
+        sec: '26.472'
+        mark: '00:00:26.472'
+      end:
+        sec: '37.208'
+        mark: '00:00:37.208'
       u: "[In German] Now, I would like to ask him to tell us his name, how old he
         is and what he does now?"
     - who: Bertha Goldwasser
-      start: '00:00:37.208'
-      end: '00:00:46.344'
+      start:
+        sec: '37.208'
+        mark: '00:00:37.208'
+      end:
+        sec: '46.344'
+        mark: '00:00:46.344'
       u: "[In French] Mr. Richard, could you please say your name, address, occupation
         and age?"
     - who: André Richard
-      start: '00:00:46.344'
-      end: '00:01:01.374'
+      start:
+        sec: '46.344'
+        mark: '00:00:46.344'
+      end:
+        sec: '61.374'
+        mark: '00:01:01.374'
       u: André Richard, 2 Cité Condorcet, Paris 9th arrondissement. I am an artist
         at the Théâtre National de l’Opéra in Paris.The Theatre Nationale de l’Opera
         in Paris was at the time the premier location for outstanding opera and dance
@@ -574,18 +802,30 @@ recording:
         and yet he was willing to risk his career and, indeed, his life for the cause
         in which he believed.1
     - who: David Boder
-      start: '00:01:01.374'
-      end: '00:01:10.088'
+      start:
+        sec: '61.374'
+        mark: '00:01:01.374'
+      end:
+        sec: '70.088'
+        mark: '00:01:10.088'
       u: "[In German] Please ask him what he was doing and where he was when the Germans
         came to Paris?"
     - who: Bertha Goldwasser
-      start: '00:01:10.088'
-      end: '00:01:18.998'
+      start:
+        sec: '70.088'
+        mark: '00:01:10.088'
+      end:
+        sec: '78.998'
+        mark: '00:01:18.998'
       u: "[In French] Could you please be so kind as to tell us what you did during
         the Occupation here in Paris?"
     - who: André Richard
-      start: '00:01:18.998'
-      end: '00:04:31.911'
+      start:
+        sec: '78.998'
+        mark: '00:01:18.998'
+      end:
+        sec: '271.911'
+        mark: '00:04:31.911'
       u: 'Here is what I did during the Occupation: I joined the Resistance movement
         under Major Bordé and Colonel Goisé’s command. Major Bordé created La Marseillaise
         group.The Marseillaise is the French national anthem, and during the occupation
@@ -631,20 +871,32 @@ recording:
         aid was negligible and resistance took the form of distributing leaflets,
         tracts, and especially underground newspapers.4'
     - who: David Boder
-      start: '00:04:31.911'
-      end: '00:04:51.087'
+      start:
+        sec: '271.911'
+        mark: '00:04:31.911'
+      end:
+        sec: '291.087'
+        mark: '00:04:51.087'
       u: "[In German] Now, er, what were the beginnings of the French Resistance movement?
         Who formed the Resistance movement? Were there certain groups who got together
         to resist even before the Germans came?"
     - who: Bertha Goldwasser
-      start: '00:04:51.087'
-      end: '00:05:07.896'
+      start:
+        sec: '291.087'
+        mark: '00:04:51.087'
+      end:
+        sec: '307.896'
+        mark: '00:05:07.896'
       u: "[In French] Mr. Professor asks, Mr. Richard, if the resistance groups existed
         before the Occupation here in Paris, where and how did the Resistance movement
         develop itself and what was its general nature?"
     - who: André Richard
-      start: '00:05:07.896'
-      end: '00:09:15.729'
+      start:
+        sec: '307.896'
+        mark: '00:05:07.896'
+      end:
+        sec: '555.729'
+        mark: '00:09:15.729'
       u: 'Well, in my opinion, the resistance groups were not formed before the Occupation
         because...we...to me, in my personal opinion, we have been betrayed in all
         respects, from top to bottom. Now the resistance developed because we were
@@ -713,8 +965,12 @@ recording:
         had gone, and I came back alone from these assignments, which were really
         perilous.'
     - who: David Boder
-      start: '00:09:15.729'
-      end: '00:09:35.474'
+      start:
+        sec: '555.729'
+        mark: '00:09:15.729'
+      end:
+        sec: '575.474'
+        mark: '00:09:35.474'
       u: "[In German] I’ll move on to another question: Much has been said in America
         about the war being lost from the beginning, because the workers were against
         it and sabotaged the war effort.What Boder is alluding to here is the insinuation
@@ -726,25 +982,41 @@ recording:
         invaded the Soviet Union on June 22, 1941, did French communists call for
         resistance to the Germans.10"
     - who: Bertha Goldwasser
-      start: '00:09:35.474'
-      end: '00:10:02.744'
+      start:
+        sec: '575.474'
+        mark: '00:09:35.474'
+      end:
+        sec: '602.744'
+        mark: '00:10:02.744'
       u: "[In French] Mr. Professor tells me to ask you...he asks me to tell you the
         American opinion, because in America, people don’t [inaudible] such an opinion...that
         the war here in France was dreadful [inaudible] because the workmen did not
         want, er...did not want to join forces and go to war and then, they sabotaged
         the factory [inaudible], is that true?"
     - who: André Richard
-      start: '00:10:02.744'
-      end: '00:10:13.538'
+      start:
+        sec: '602.744'
+        mark: '00:10:02.744'
+      end:
+        sec: '613.538'
+        mark: '00:10:13.538'
       u: Well, I would tell him that workmen, right...as far as I know, the workmen
         did their duty...workmen always do their duty.
     - who: David Boder
-      start: '00:10:13.538'
-      end: '00:10:15.468'
+      start:
+        sec: '613.538'
+        mark: '00:10:13.538'
+      end:
+        sec: '615.468'
+        mark: '00:10:15.468'
       u: "[In German] [He said something in the background - unintelligible]"
     - who: Bertha Goldwasser
-      start: '00:10:15.468'
-      end: '00:10:59.035'
+      start:
+        sec: '615.468'
+        mark: '00:10:15.468'
+      end:
+        sec: '659.035'
+        mark: '00:10:59.035'
       u: Mr. Richard says that the workers in France did not sabotage the war effort.
         He stayed in his job, he stayed where he was, he was involved. But France
         and the entire war...[unintelligible] about the Government, and because the
@@ -755,19 +1027,31 @@ recording:
         of Mr. Richard’s response here, it is difficult to decipher exactly what he
         wishes to communicate.11
     - who: David Boder
-      start: '00:10:59.035'
-      end: '00:11:14.005'
+      start:
+        sec: '659.035'
+        mark: '00:10:59.035'
+      end:
+        sec: '674.005'
+        mark: '00:11:14.005'
       u: Yes. Now, does he want to say any more about, er, how and when the Resistance
         movement developed. Which groups mainly wanted the Resistance?
     - who: Bertha Goldwasser
-      start: '00:11:14.005'
-      end: '00:11:25.598'
+      start:
+        sec: '674.005'
+        mark: '00:11:14.005'
+      end:
+        sec: '685.598'
+        mark: '00:11:25.598'
       u: "[In French] The Professor would like to know now, when the Resistance formed
         into groups, if you can name the groups that...began to help the Resistance
         movement."
     - who: André Richard
-      start: '00:11:25.598'
-      end: '00:14:42.080'
+      start:
+        sec: '685.598'
+        mark: '00:11:25.598'
+      end:
+        sec: '882.080'
+        mark: '00:14:42.080'
       u: The groups, right, the groups in themselves formed the Resistance movement,
         the Resistance movement was not only made of groups, which were called, right,
         either for example the Turenne network, right, the Turenne group, La Marseillaise
@@ -831,19 +1115,31 @@ recording:
         did everything for France, and I am...I am certain that tomorrow, they will
         still be willing to do anything for France.
     - who: David Boder
-      start: '00:14:42.080'
-      end: '00:14:53.974'
+      start:
+        sec: '882.080'
+        mark: '00:14:42.080'
+      end:
+        sec: '893.974'
+        mark: '00:14:53.974'
       u: "[In German] What was the, er, what was the relationship of the university
         lecturers to the Resistance mainly?"
     - who: Bertha Goldwasser
-      start: '00:14:53.974'
-      end: '00:15:07.859'
+      start:
+        sec: '893.974'
+        mark: '00:14:53.974'
+      end:
+        sec: '907.859'
+        mark: '00:15:07.859'
       u: "[In French] Teachers...How did teachers from universities, intellectual
         people in general, behave with regard to the Resistance movement? Did intellectuals
         also take part in the Resistance movement?"
     - who: André Richard
-      start: '00:15:07.859'
-      end: '00:15:54.161'
+      start:
+        sec: '907.859'
+        mark: '00:15:07.859'
+      end:
+        sec: '954.161'
+        mark: '00:15:54.161'
       u: Yes, some...some teachers were part of the Resistance movement...but not
         all of them, not all because...of course, there were the collaborationists.
         Indeed, you can’t, even among intellectuals there were...I had in my group,
@@ -860,19 +1156,31 @@ recording:
         what was, as time went on, a more repressive and fearsome occupation. Another
         minority in each group actively engaged in resistance.16
     - who: David Boder
-      start: '00:15:54.161'
-      end: '00:16:11.241'
+      start:
+        sec: '954.161'
+        mark: '00:15:54.161'
+      end:
+        sec: '971.241'
+        mark: '00:16:11.241'
       u: "[In German] And the same question, er, how did the thespians, the theatre
         and writers of literature behave towards the Germans and the Resistance movement?"
     - who: Bertha Goldwasser
-      start: '00:16:11.241'
-      end: '00:16:27.055'
+      start:
+        sec: '971.241'
+        mark: '00:16:11.241'
+      end:
+        sec: '987.055'
+        mark: '00:16:27.055'
       u: "[In French] How did French artists as well as...the...members of literary
         circles, writers, dancers, several er...all the people from this body of crafts,
         behave?"
     - who: André Richard
-      start: '00:16:27.055'
-      end: '00:17:54.705'
+      start:
+        sec: '987.055'
+        mark: '00:16:27.055'
+      end:
+        sec: '1074.705'
+        mark: '00:17:54.705'
       u: Well in such body of crafts, of course, there were numerous collaborationists
         but, some people did not collaborate. Of course...I can say that there was
         approximately about...about...from 60% to 80%...of people who collaborated
@@ -893,27 +1201,47 @@ recording:
         resumed and the weak Fourth Republic was proclaimed, and when France attempted
         at great cost (but in vain) to re-establish its colonial empire.17
     - who: David Boder
-      start: '00:17:54.705'
-      end: '00:18:08.710'
+      start:
+        sec: '1074.705'
+        mark: '00:17:54.705'
+      end:
+        sec: '1088.710'
+        mark: '00:18:08.710'
       u: "[In German] I would now like to know whether a lot of military personnel
         collaborated actively with the Germans?"
     - who: Bertha Goldwasser
-      start: '00:18:08.710'
-      end: '00:18:22.270'
+      start:
+        sec: '1088.710'
+        mark: '00:18:08.710'
+      end:
+        sec: '1102.270'
+        mark: '00:18:22.270'
       u: "[In French] Mr. Professor asks you if many...servicemen, soldiers, even...even
         non-commissioned officers, were on the German side?...Were there many servicemen..."
     - who: David Boder
-      start: '00:18:22.270'
-      end: '00:18:22.406'
+      start:
+        sec: '1102.270'
+        mark: '00:18:22.270'
+      end:
+        sec: '1102.406'
+        mark: '00:18:22.406'
       u: "[In German] [The interviewer interrupts interpreter here] [unintelligible]"
     - who: Bertha Goldwasser
-      start: '00:18:22.406'
-      end: '00:18:30.411'
+      start:
+        sec: '1102.406'
+        mark: '00:18:22.406'
+      end:
+        sec: '1110.411'
+        mark: '00:18:30.411'
       u: "[In French]...servicemen, and...and non-commissioned officers, did they
         directly collaborate with the Germans?"
     - who: André Richard
-      start: '00:18:30.411'
-      end: '00:19:08.772'
+      start:
+        sec: '1110.411'
+        mark: '00:18:30.411'
+      end:
+        sec: '1148.772'
+        mark: '00:19:08.772'
       u: Oh well, to my knowledge, right...well, yes there were many officers who,
         regrettably, did collaborate, for that matter, you just need to refer to the
         judgments adjudicated to date by French courts to get an idea of how the officers,
@@ -927,26 +1255,42 @@ recording:
         were receptive to its anti-Semitic measures, and thought that collaboration
         was necessary to save France in the face of overwhelming German military dominance.18
     - who: Bertha Goldwasser
-      start: '00:19:08.772'
-      end: '00:19:44.664'
+      start:
+        sec: '1148.772'
+        mark: '00:19:08.772'
+      end:
+        sec: '1184.664'
+        mark: '00:19:44.664'
       u: "[In German] Mr. Richard says that we should see through the critical legislation
         and even the in the war...[unintelligible] negotiations. Then we will see
         how many military personnel from France were pressed into service and collaborated
         with the Germans. And kept in touch."
     - who: David Boder
-      start: '00:19:44.664'
-      end: '00:19:56.604'
+      start:
+        sec: '1184.664'
+        mark: '00:19:44.664'
+      end:
+        sec: '1196.604'
+        mark: '00:19:56.604'
       u: ". . . Now, what does he think, how will all this develop now in France,
         until things return to normal?"
     - who: Bertha Goldwasser
-      start: '00:19:56.604'
-      end: '00:20:12.106'
+      start:
+        sec: '1196.604'
+        mark: '00:19:56.604'
+      end:
+        sec: '1212.106'
+        mark: '00:20:12.106'
       u: "[In French] How do you think, Mr. Richard, things will organize from now
         on...here in France, life, how is it going to be, and in which...what kind
         of future are we heading to?"
     - who: André Richard
-      start: '00:20:12.106'
-      end: '00:21:52.410'
+      start:
+        sec: '1212.106'
+        mark: '00:20:12.106'
+      end:
+        sec: '1312.410'
+        mark: '00:21:52.410'
       u: To me, you know, our future is that, nowadays, politics, right, is something
         I do not understand, and that I am not trying to understand because, you know,
         people involved in politics are already almost insane people and are only
@@ -971,18 +1315,30 @@ recording:
         de Gaulle, it is quite likely that he applauded de Gaulle’s rise to power
         in 1958 and the creation of the Fifth Republic.20
     - who: David Boder
-      start: '00:21:52.410'
-      end: '00:22:03.865'
+      start:
+        sec: '1312.410'
+        mark: '00:21:52.410'
+      end:
+        sec: '1323.865'
+        mark: '00:22:03.865'
       u: "[In German] Er, does he want to tell us what the most dangerous moment was
         in his activity?"
     - who: Bertha Goldwasser
-      start: '00:22:03.865'
-      end: '00:22:17.418'
+      start:
+        sec: '1323.865'
+        mark: '00:22:03.865'
+      end:
+        sec: '1337.418'
+        mark: '00:22:17.418'
       u: "[In French] Could you please relate the moment you had...during your mission
         which was the most dangerous?"
     - who: André Richard
-      start: '00:22:17.418'
-      end: '00:24:26.193'
+      start:
+        sec: '1337.418'
+        mark: '00:22:17.418'
+      end:
+        sec: '1466.193'
+        mark: '00:24:26.193'
       u: The most dangerous event in my assignments, well, was when I went...when
         I went, right, to wake up all the poor chaps who had to go and blow up, right,
         the...German constructions. Well, I carried in my haversack, and in a small
@@ -1009,19 +1365,31 @@ recording:
         found that they could rely less and less on the cooperation of the French
         police.22
     - who: David Boder
-      start: '00:24:26.193'
-      end: '00:24:48.845'
+      start:
+        sec: '1466.193'
+        mark: '00:24:26.193'
+      end:
+        sec: '1488.845'
+        mark: '00:24:48.845'
       u: "[In German] Er, were there any comical moments, er, in this, er, in er,
         while, er, the Germans were in occupation here? Are there any stories you
         can tell us about them?"
     - who: Bertha Goldwasser
-      start: '00:24:48.845'
-      end: '00:25:00.416'
+      start:
+        sec: '1488.845'
+        mark: '00:24:48.845'
+      end:
+        sec: '1500.416'
+        mark: '00:25:00.416'
       u: "[In French] Er, Mr. Professor asks if there also are funny moments that
         you can relate, from the past, when Germans were here?"
     - who: André Richard
-      start: '00:25:00.416'
-      end: '00:28:15.089'
+      start:
+        sec: '1500.416'
+        mark: '00:25:00.416'
+      end:
+        sec: '1695.089'
+        mark: '00:28:15.089'
       u: 'Well, yes there are a few, because really...sometimes the Germans could
         be very funny. And one day, in fact, as I left my place on boulevard Barbès,
         I came across, right, a...a bunch of little Jewish kids who were led, right,
@@ -1061,14 +1429,22 @@ recording:
         walked away very pretentiously, although he said goodbye to her, but I don’t
         need to tell you, of course, the deception the German suffered.'
     - who: David Boder
-      start: '00:28:15.089'
-      end: '00:28:29.727'
+      start:
+        sec: '1695.089'
+        mark: '00:28:15.089'
+      end:
+        sec: '1709.727'
+        mark: '00:28:29.727'
       u: "[In German] A question. Does he think that the anti-Semitism which the Nazis
         promoted here is still very much alive, that even after the war this is still
         around?"
     - who: Bertha Goldwasser
-      start: '00:28:29.727'
-      end: '00:29:03.396'
+      start:
+        sec: '1709.727'
+        mark: '00:28:29.727'
+      end:
+        sec: '1743.396'
+        mark: '00:29:03.396'
       u: "[In French] Do you think the Germans will be liked here in France? Will
         there still be...will there still be anti-Semitism...will the French let themselves
         be brainwashed, as we say, by the Germans who say that only the Jews are guilty
@@ -1079,8 +1455,12 @@ recording:
         Jewish world conspiracy for all of humanity’s ills, including, absurdly enough,
         starting World War II.25"
     - who: André Richard
-      start: '00:29:03.396'
-      end: '00:30:11.726'
+      start:
+        sec: '1743.396'
+        mark: '00:29:03.396'
+      end:
+        sec: '1811.726'
+        mark: '00:30:11.726'
       u: Well, in my opinion, unfortunately yes. Regrettably, yes, germs will remain
         in France. And...you know, I think we should use our best efforts to get rid
         of those germs because, still, right, such germs will manage to grow in secret
@@ -1104,50 +1484,94 @@ recording:
         Holocaust and the deaths of some 77,000 French Jews, anti-Semitism was not
         fully extinguished after the war.26
     - who: David Boder
-      start: '00:30:11.726'
-      end: '00:30:21.691'
+      start:
+        sec: '1811.726'
+        mark: '00:30:11.726'
+      end:
+        sec: '1821.691'
+        mark: '00:30:21.691'
       u: "[In German] Monsieur Richard, thank you very much, it was a..."
     - who: David Boder
-      start: '00:30:21.691'
-      end: '00:30:27.370'
+      start:
+        sec: '1821.691'
+        mark: '00:30:21.691'
+      end:
+        sec: '1827.37'
+        mark: '00:30:27.370'
       u: "[In English]...I think that the Frenchmen in Chicago and the"
     - who: David Boder
-      start: '00:30:27.370'
-      end: '00:30:34.852'
+      start:
+        sec: '1827.37'
+        mark: '00:30:27.370'
+      end:
+        sec: '1834.852'
+        mark: '00:30:34.852'
       u: "[In German]...our students will listen to this work with great interest."
     - who: Bertha Goldwasser
-      start: '00:30:34.852'
-      end: '00:30:45.088'
+      start:
+        sec: '1834.852'
+        mark: '00:30:34.852'
+      end:
+        sec: '1845.088'
+        mark: '00:30:45.088'
       u: "[In French] Mr. Professor is very grateful. He hopes the students and French
         people living in Chicago will listen to the tapes with great pleasure."
     - who: David Boder
-      start: '00:30:45.088'
-      end: '00:30:52.083'
+      start:
+        sec: '1845.088'
+        mark: '00:30:45.088'
+      end:
+        sec: '1852.083'
+        mark: '00:30:52.083'
       u: "[In German] Many thanks."
     - who: David Boder
-      start: '00:30:52.083'
-      end: '00:30:56.274'
+      start:
+        sec: '1852.083'
+        mark: '00:30:52.083'
+      end:
+        sec: '1856.274'
+        mark: '00:30:56.274'
       u: "[In English] This concludes spool 28 taken from André [inaudible]"
     - who: André Richard
-      start: '00:30:56.274'
-      end: '00:31:07.283'
+      start:
+        sec: '1856.274'
+        mark: '00:30:56.274'
+      end:
+        sec: '1867.283'
+        mark: '00:31:07.283'
       u: "[In French] Well, at the Opera, I sing Rigoletto, I sing Faust, I sing Romeo
         and Juliet."
     - who: David Boder
-      start: '00:31:07.283'
-      end: '00:31:08.700'
+      start:
+        sec: '1867.283'
+        mark: '00:31:07.283'
+      end:
+        sec: '1868.700'
+        mark: '00:31:08.700'
       u: What part do you play in Faust?
     - who: André Richard
-      start: '00:31:08.700'
-      end: '00:31:10.479'
+      start:
+        sec: '1868.700'
+        mark: '00:31:08.700'
+      end:
+        sec: '1870.479'
+        mark: '00:31:10.479'
       u: Er, Mephisto.
     - who: David Boder
-      start: '00:31:10.479'
-      end: '00:31:15.001'
+      start:
+        sec: '1870.479'
+        mark: '00:31:10.479'
+      end:
+        sec: '1875.001'
+        mark: '00:31:15.001'
       u: Oh, Mephisto! Don’t you sing Boris Godunov?
     - who: André Richard
-      start: '00:31:15.001'
-      end: '00:31:22.906'
+      start:
+        sec: '1875.001'
+        mark: '00:31:15.001'
+      end:
+        sec: '1882.906'
+        mark: '00:31:22.906'
       u: Well, later, I hope I will be able to sing it, it’s under consideration.
   commentary:
     text: "<p>André Richard was a talented singer in the renowned Paris Opera as well

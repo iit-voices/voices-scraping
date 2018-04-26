@@ -33,608 +33,1176 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:04.161'
-      end: '00:00:09.770'
+      start:
+        sec: '4.161'
+        mark: '00:00:04.161'
+      end:
+        sec: '9.770'
+        mark: '00:00:09.770'
       u: "[In Yiddish] Talk in here. And so, Rose, tell me again, what is your name
         and how old are you?"
     - who: Raisel Meltzak
-      start: '00:00:09.770'
-      end: '00:00:12.014'
+      start:
+        sec: '9.770'
+        mark: '00:00:09.770'
+      end:
+        sec: '12.014'
+        mark: '00:00:12.014'
       u: "[Words not clear]...speak Polish?"
     - who: David Boder
-      start: '00:00:12.014'
-      end: '00:00:17.282'
+      start:
+        sec: '12.014'
+        mark: '00:00:12.014'
+      end:
+        sec: '17.282'
+        mark: '00:00:17.282'
       u: No, no, no. I have asked you before. Yiddish. You must speak Yiddish. Nu?
     - who: Raisel Meltzak
-      start: '00:00:17.282'
-      end: '00:00:22.934'
+      start:
+        sec: '17.282'
+        mark: '00:00:17.282'
+      end:
+        sec: '22.934'
+        mark: '00:00:22.934'
       u: Rose Meltzak. On the 30th...
     - who: David Boder
-      start: '00:00:22.934'
-      end: '00:00:24.161'
+      start:
+        sec: '22.934'
+        mark: '00:00:22.934'
+      end:
+        sec: '24.161'
+        mark: '00:00:24.161'
       u: How old are you?
     - who: Raisel Meltzak
-      start: '00:00:24.161'
-      end: '00:00:31.137'
+      start:
+        sec: '24.161'
+        mark: '00:00:24.161'
+      end:
+        sec: '31.137'
+        mark: '00:00:31.137'
       u: Eh...eh.../pause/
     - who: David Boder
-      start: '00:00:31.137'
-      end: '00:00:33.173'
+      start:
+        sec: '31.137'
+        mark: '00:00:31.137'
+      end:
+        sec: '33.173'
+        mark: '00:00:33.173'
       u: In short, how old are you?
     - who: Raisel Meltzak
-      start: '00:00:33.173'
-      end: '00:00:33.973'
+      start:
+        sec: '33.173'
+        mark: '00:00:33.173'
+      end:
+        sec: '33.973'
+        mark: '00:00:33.973'
       u: Thirteen.
     - who: David Boder
-      start: '00:00:33.973'
-      end: '00:00:34.871'
+      start:
+        sec: '33.973'
+        mark: '00:00:33.973'
+      end:
+        sec: '34.871'
+        mark: '00:00:34.871'
       u: You are thirteen years old.
     - who: Raisel Meltzak
-      start: '00:00:34.871'
-      end: '00:00:35.170'
+      start:
+        sec: '34.871'
+        mark: '00:00:34.871'
+      end:
+        sec: '35.170'
+        mark: '00:00:35.170'
       u: Yes.
     - who: David Boder
-      start: '00:00:35.170'
-      end: '00:00:37.296'
+      start:
+        sec: '35.170'
+        mark: '00:00:35.170'
+      end:
+        sec: '37.296'
+        mark: '00:00:37.296'
       u: "[Words not clear]."
     - who: Raisel Meltzak
-      start: '00:00:37.296'
-      end: '00:00:39.092'
+      start:
+        sec: '37.296'
+        mark: '00:00:37.296'
+      end:
+        sec: '39.092'
+        mark: '00:00:39.092'
       u: In January.
     - who: David Boder
-      start: '00:00:39.092'
-      end: '00:00:43.673'
+      start:
+        sec: '39.092'
+        mark: '00:00:39.092'
+      end:
+        sec: '43.673'
+        mark: '00:00:43.673'
       u: Wait a moment. Where were you when the war broke out?
     - who: Raisel Meltzak
-      start: '00:00:43.673'
-      end: '00:00:45.110'
+      start:
+        sec: '43.673'
+        mark: '00:00:43.673'
+      end:
+        sec: '45.110'
+        mark: '00:00:45.110'
       u: In the forest.
     - who: David Boder
-      start: '00:00:45.110'
-      end: '00:00:46.848'
+      start:
+        sec: '45.110'
+        mark: '00:00:45.110'
+      end:
+        sec: '46.848'
+        mark: '00:00:46.848'
       u: When the war broke out?
     - who: Raisel Meltzak
-      start: '00:00:46.848'
-      end: '00:00:50.082'
+      start:
+        sec: '46.848'
+        mark: '00:00:46.848'
+      end:
+        sec: '50.082'
+        mark: '00:00:50.082'
       u: At home still. In Busk. With the mother and with the father.
     - who: David Boder
-      start: '00:00:50.082'
-      end: '00:00:51.038'
+      start:
+        sec: '50.082'
+        mark: '00:00:50.082'
+      end:
+        sec: '51.038'
+        mark: '00:00:51.038'
       u: In which town?
     - who: Raisel Meltzak
-      start: '00:00:51.038'
-      end: '00:00:52.226'
+      start:
+        sec: '51.038'
+        mark: '00:00:51.038'
+      end:
+        sec: '52.226'
+        mark: '00:00:52.226'
       u: In Busk.
     - who: David Boder
-      start: '00:00:52.226'
-      end: '00:00:53.125'
+      start:
+        sec: '52.226'
+        mark: '00:00:52.226'
+      end:
+        sec: '53.125'
+        mark: '00:00:53.125'
       u: In Busk?
     - who: Raisel Meltzak
-      start: '00:00:53.125'
-      end: '00:00:53.933'
+      start:
+        sec: '53.125'
+        mark: '00:00:53.125'
+      end:
+        sec: '53.933'
+        mark: '00:00:53.933'
       u: Yes.
     - who: David Boder
-      start: '00:00:53.933'
-      end: '00:00:56.658'
+      start:
+        sec: '53.933'
+        mark: '00:00:53.933'
+      end:
+        sec: '56.658'
+        mark: '00:00:56.658'
       u: And how old were you then?
     - who: Raisel Meltzak
-      start: '00:00:56.658'
-      end: '00:00:58.125'
+      start:
+        sec: '56.658'
+        mark: '00:00:56.658'
+      end:
+        sec: '58.125'
+        mark: '00:00:58.125'
       u: I do not remember.
     - who: David Boder
-      start: '00:00:58.125'
-      end: '00:00:58.815'
+      start:
+        sec: '58.125'
+        mark: '00:00:58.125'
+      end:
+        sec: '58.815'
+        mark: '00:00:58.815'
       u: You do not remember.
     - who: Raisel Meltzak
-      start: '00:00:58.815'
-      end: '00:00:59.292'
+      start:
+        sec: '58.815'
+        mark: '00:00:58.815'
+      end:
+        sec: '59.292'
+        mark: '00:00:59.292'
       u: No.
     - who: David Boder
-      start: '00:00:59.292'
-      end: '00:01:01.091'
+      start:
+        sec: '59.292'
+        mark: '00:00:59.292'
+      end:
+        sec: '61.091'
+        mark: '00:01:01.091'
       u: You were a little girl.
     - who: Raisel Meltzak
-      start: '00:01:01.091'
-      end: '00:01:01.658'
+      start:
+        sec: '61.091'
+        mark: '00:01:01.091'
+      end:
+        sec: '61.658'
+        mark: '00:01:01.658'
       u: Yes.
     - who: David Boder
-      start: '00:01:01.658'
-      end: '00:01:03.783'
+      start:
+        sec: '61.658'
+        mark: '00:01:01.658'
+      end:
+        sec: '63.783'
+        mark: '00:01:03.783'
       u: Were you seven, eight years old?
     - who: Raisel Meltzak
-      start: '00:01:03.783'
-      end: '00:01:05.163'
+      start:
+        sec: '63.783'
+        mark: '00:01:03.783'
+      end:
+        sec: '65.163'
+        mark: '00:01:05.163'
       u: I do not remember.
     - who: David Boder
-      start: '00:01:05.163'
-      end: '00:01:05.702'
+      start:
+        sec: '65.163'
+        mark: '00:01:05.163'
+      end:
+        sec: '65.702'
+        mark: '00:01:05.702'
       u: You do not remember.
     - who: Raisel Meltzak
-      start: '00:01:05.702'
-      end: '00:01:06.061'
+      start:
+        sec: '65.702'
+        mark: '00:01:05.702'
+      end:
+        sec: '66.061'
+        mark: '00:01:06.061'
       u: "[Giggles.]"
     - who: David Boder
-      start: '00:01:06.061'
-      end: '00:01:12.197'
+      start:
+        sec: '66.061'
+        mark: '00:01:06.061'
+      end:
+        sec: '72.197'
+        mark: '00:01:12.197'
       u: And so. Nu, and when the war broke out, what happened then?
     - who: Raisel Meltzak
-      start: '00:01:12.197'
-      end: '00:01:13.606'
+      start:
+        sec: '72.197'
+        mark: '00:01:12.197'
+      end:
+        sec: '73.606'
+        mark: '00:01:13.606'
       u: To us?
     - who: David Boder
-      start: '00:01:13.606'
-      end: '00:01:15.073'
+      start:
+        sec: '73.606'
+        mark: '00:01:13.606'
+      end:
+        sec: '75.073'
+        mark: '00:01:15.073'
       u: To you. To your family.
     - who: Raisel Meltzak
-      start: '00:01:15.073'
-      end: '00:01:20.891'
+      start:
+        sec: '75.073'
+        mark: '00:01:15.073'
+      end:
+        sec: '80.891'
+        mark: '00:01:20.891'
       u: Aha. [When] the Germans were there my father worked in the Judenrat [Jewish
         Community Council].
     - who: David Boder
-      start: '00:01:20.891'
-      end: '00:01:21.810'
+      start:
+        sec: '80.891'
+        mark: '00:01:20.891'
+      end:
+        sec: '81.810'
+        mark: '00:01:21.810'
       u: In Judenrat?
     - who: Raisel Meltzak
-      start: '00:01:21.810'
-      end: '00:01:22.448'
+      start:
+        sec: '81.810'
+        mark: '00:01:21.810'
+      end:
+        sec: '82.448'
+        mark: '00:01:22.448'
       u: Yes.
     - who: David Boder
-      start: '00:01:22.448'
-      end: '00:01:22.927'
+      start:
+        sec: '82.448'
+        mark: '00:01:22.448'
+      end:
+        sec: '82.927'
+        mark: '00:01:22.927'
       u: Nu.
     - who: Raisel Meltzak
-      start: '00:01:22.927'
-      end: '00:01:31.819'
+      start:
+        sec: '82.927'
+        mark: '00:01:22.927'
+      end:
+        sec: '91.819'
+        mark: '00:01:31.819'
       u: He was, well, no rich [?]. He just worked. When the Germans were with us...
     - who: David Boder
-      start: '00:01:31.819'
-      end: '00:01:32.207'
+      start:
+        sec: '91.819'
+        mark: '00:01:31.819'
+      end:
+        sec: '92.207'
+        mark: '00:01:32.207'
       u: Nu?
     - who: Raisel Meltzak
-      start: '00:01:32.207'
-      end: '00:01:39.363'
+      start:
+        sec: '92.207'
+        mark: '00:01:32.207'
+      end:
+        sec: '99.363'
+        mark: '00:01:39.363'
       u: ". . . my father, earlier yet, excav-...excav-...how does one say it?—made
         such a hole [cave]..."
     - who: David Boder
-      start: '00:01:39.363'
-      end: '00:01:39.632'
+      start:
+        sec: '99.363'
+        mark: '00:01:39.363'
+      end:
+        sec: '99.632'
+        mark: '00:01:39.632'
       u: Yes.
     - who: Raisel Meltzak
-      start: '00:01:39.632'
-      end: '00:01:45.203'
+      start:
+        sec: '99.632'
+        mark: '00:01:39.632'
+      end:
+        sec: '105.203'
+        mark: '00:01:45.203'
       u: ". . . where I, my mother, my father, and my little brother three years old..."
     - who: David Boder
-      start: '00:01:45.203'
-      end: '00:01:45.620'
+      start:
+        sec: '105.203'
+        mark: '00:01:45.203'
+      end:
+        sec: '105.620'
+        mark: '00:01:45.620'
       u: Yes?
     - who: Raisel Meltzak
-      start: '00:01:45.620'
-      end: '00:01:53.009'
+      start:
+        sec: '105.620'
+        mark: '00:01:45.620'
+      end:
+        sec: '113.009'
+        mark: '00:01:53.009'
       u: ". . . and we hid there. We sat there not a [full] month."
     - who: David Boder
-      start: '00:01:53.009'
-      end: '00:01:53.520'
+      start:
+        sec: '113.009'
+        mark: '00:01:53.009'
+      end:
+        sec: '113.520'
+        mark: '00:01:53.520'
       u: Yes.
     - who: Raisel Meltzak
-      start: '00:01:53.520'
-      end: '00:01:54.686'
+      start:
+        sec: '113.520'
+        mark: '00:01:53.520'
+      end:
+        sec: '114.686'
+        mark: '00:01:54.686'
       u: Hid. Hidden. Around two weeks.
     - who: David Boder
-      start: '00:01:54.686'
-      end: '00:01:57.470'
+      start:
+        sec: '114.686'
+        mark: '00:01:54.686'
+      end:
+        sec: '117.470'
+        mark: '00:01:57.470'
       u: What was the name of the town?...What was the name of the town?
     - who: Raisel Meltzak
-      start: '00:01:57.470'
-      end: '00:01:58.219'
+      start:
+        sec: '117.470'
+        mark: '00:01:57.470'
+      end:
+        sec: '118.219'
+        mark: '00:01:58.219'
       u: Busk.
     - who: David Boder
-      start: '00:01:58.219'
-      end: '00:01:58.848'
+      start:
+        sec: '118.219'
+        mark: '00:01:58.219'
+      end:
+        sec: '118.848'
+        mark: '00:01:58.848'
       u: Busk?
     - who: Raisel Meltzak
-      start: '00:01:58.848'
-      end: '00:01:59.626'
+      start:
+        sec: '118.848'
+        mark: '00:01:58.848'
+      end:
+        sec: '119.626'
+        mark: '00:01:59.626'
       u: Yes.
     - who: David Boder
-      start: '00:01:59.626'
-      end: '00:02:02.981'
+      start:
+        sec: '119.626'
+        mark: '00:01:59.626'
+      end:
+        sec: '122.981'
+        mark: '00:02:02.981'
       u: Was it near Warsaw? What city was it near?
     - who: Raisel Meltzak
-      start: '00:02:02.981'
-      end: '00:02:06.153'
+      start:
+        sec: '122.981'
+        mark: '00:02:02.981'
+      end:
+        sec: '126.153'
+        mark: '00:02:06.153'
       u: It was near Zlochev, Ternopol.
     - who: David Boder
-      start: '00:02:06.153'
-      end: '00:02:07.293'
+      start:
+        sec: '126.153'
+        mark: '00:02:06.153'
+      end:
+        sec: '127.293'
+        mark: '00:02:07.293'
       u: Near Ternopol.
     - who: Raisel Meltzak
-      start: '00:02:07.293'
-      end: '00:02:08.339'
+      start:
+        sec: '127.293'
+        mark: '00:02:07.293'
+      end:
+        sec: '128.339'
+        mark: '00:02:08.339'
       u: Yes.
     - who: David Boder
-      start: '00:02:08.339'
-      end: '00:02:12.921'
+      start:
+        sec: '128.339'
+        mark: '00:02:08.339'
+      end:
+        sec: '132.921'
+        mark: '00:02:12.921'
       u: All right, now we know. Nu, when did the father make...the father made a
         hole in which to hide?
     - who: Raisel Meltzak
-      start: '00:02:12.921'
-      end: '00:02:13.608'
+      start:
+        sec: '132.921'
+        mark: '00:02:12.921'
+      end:
+        sec: '133.608'
+        mark: '00:02:13.608'
       u: I do not remember any more?
     - who: David Boder
-      start: '00:02:13.608'
-      end: '00:02:14.389'
+      start:
+        sec: '133.608'
+        mark: '00:02:13.608'
+      end:
+        sec: '134.389'
+        mark: '00:02:14.389'
       u: You do not remember.
     - who: Raisel Meltzak
-      start: '00:02:14.389'
-      end: '00:02:14.668'
+      start:
+        sec: '134.389'
+        mark: '00:02:14.389'
+      end:
+        sec: '134.668'
+        mark: '00:02:14.668'
       u: No.
     - who: David Boder
-      start: '00:02:14.668'
-      end: '00:02:15.833'
+      start:
+        sec: '134.668'
+        mark: '00:02:14.668'
+      end:
+        sec: '135.833'
+        mark: '00:02:15.833'
       u: Nu, did you hide...
     - who: Raisel Meltzak
-      start: '00:02:15.833'
-      end: '00:02:16.793'
+      start:
+        sec: '135.833'
+        mark: '00:02:15.833'
+      end:
+        sec: '136.793'
+        mark: '00:02:16.793'
       u: I tell only what I know.
     - who: David Boder
-      start: '00:02:16.793'
-      end: '00:02:20.088'
+      start:
+        sec: '136.793'
+        mark: '00:02:16.793'
+      end:
+        sec: '140.088'
+        mark: '00:02:20.088'
       u: Yes. Good. You hid in a hole.
     - who: Raisel Meltzak
-      start: '00:02:20.088'
-      end: '00:02:20.356'
+      start:
+        sec: '140.088'
+        mark: '00:02:20.088'
+      end:
+        sec: '140.356'
+        mark: '00:02:20.356'
       u: Yes.
     - who: David Boder
-      start: '00:02:20.356'
-      end: '00:02:22.181'
+      start:
+        sec: '140.356'
+        mark: '00:02:20.356'
+      end:
+        sec: '142.181'
+        mark: '00:02:22.181'
       u: Why did you have to hide?
     - who: Raisel Meltzak
-      start: '00:02:22.181'
-      end: '00:02:25.120'
+      start:
+        sec: '142.181'
+        mark: '00:02:22.181'
+      end:
+        sec: '145.120'
+        mark: '00:02:25.120'
       u: Because the Germans wanted to kill us.
     - who: David Boder
-      start: '00:02:25.120'
-      end: '00:02:27.600'
+      start:
+        sec: '145.120'
+        mark: '00:02:25.120'
+      end:
+        sec: '147.600'
+        mark: '00:02:27.600'
       u: Aha. Nu, what happened then?
     - who: Raisel Meltzak
-      start: '00:02:27.600'
-      end: '00:02:34.246'
+      start:
+        sec: '147.600'
+        mark: '00:02:27.600'
+      end:
+        sec: '154.246'
+        mark: '00:02:34.246'
       u: There we...we lay. It was a—Can I tell where the hole was?
     - who: David Boder
-      start: '00:02:34.246'
-      end: '00:02:35.386'
+      start:
+        sec: '154.246'
+        mark: '00:02:34.246'
+      end:
+        sec: '155.386'
+        mark: '00:02:35.386'
       u: Yes, naturally.
     - who: Raisel Meltzak
-      start: '00:02:35.386'
-      end: '00:02:42.015'
+      start:
+        sec: '155.386'
+        mark: '00:02:35.386'
+      end:
+        sec: '162.015'
+        mark: '00:02:42.015'
       u: There it was...It was such a hole, there where horses stood.
     - who: David Boder
-      start: '00:02:42.015'
-      end: '00:02:42.288'
+      start:
+        sec: '162.015'
+        mark: '00:02:42.015'
+      end:
+        sec: '162.288'
+        mark: '00:02:42.288'
       u: Yes?
     - who: Raisel Meltzak
-      start: '00:02:42.288'
-      end: '00:02:43.540'
+      start:
+        sec: '162.288'
+        mark: '00:02:42.288'
+      end:
+        sec: '163.540'
+        mark: '00:02:43.540'
       u: Such a stable.
     - who: David Boder
-      start: '00:02:43.540'
-      end: '00:02:44.021'
+      start:
+        sec: '163.540'
+        mark: '00:02:43.540'
+      end:
+        sec: '164.021'
+        mark: '00:02:44.021'
       u: Yes?
     - who: Raisel Meltzak
-      start: '00:02:44.021'
-      end: '00:02:47.288'
+      start:
+        sec: '164.021'
+        mark: '00:02:44.021'
+      end:
+        sec: '167.288'
+        mark: '00:02:47.288'
       u: And under the stable we had that hole...
     - who: David Boder
-      start: '00:02:47.288'
-      end: '00:02:48.410'
+      start:
+        sec: '167.288'
+        mark: '00:02:47.288'
+      end:
+        sec: '168.410'
+        mark: '00:02:48.410'
       u: Yes.
     - who: Raisel Meltzak
-      start: '00:02:48.410'
-      end: '00:02:51.284'
+      start:
+        sec: '168.410'
+        mark: '00:02:48.410'
+      end:
+        sec: '171.284'
+        mark: '00:02:51.284'
       u: ". . . where we sat. There on top was an attic."
     - who: David Boder
-      start: '00:02:51.284'
-      end: '00:02:52.035'
+      start:
+        sec: '171.284'
+        mark: '00:02:51.284'
+      end:
+        sec: '172.035'
+        mark: '00:02:52.035'
       u: Hm.
     - who: Raisel Meltzak
-      start: '00:02:52.035'
-      end: '00:03:08.165'
+      start:
+        sec: '172.035'
+        mark: '00:02:52.035'
+      end:
+        sec: '188.165'
+        mark: '00:03:08.165'
       u: And in the attic the Germans were walking. My brother—he was not even three
         years old then—began to cry. My mother gave him to...to drink. He refused.
         He cried so we thought that the Germans would kill us. But they did not hear
         [him]. We had enough money. My father was a horse trader.
     - who: David Boder
-      start: '00:03:08.165'
-      end: '00:03:08.706'
+      start:
+        sec: '188.165'
+        mark: '00:03:08.165'
+      end:
+        sec: '188.706'
+        mark: '00:03:08.706'
       u: Aha.
     - who: Raisel Meltzak
-      start: '00:03:08.706'
-      end: '00:03:24.782'
+      start:
+        sec: '188.706'
+        mark: '00:03:08.706'
+      end:
+        sec: '204.782'
+        mark: '00:03:24.782'
       u: We...we were not poor. A gentile woman brought us food. Not much, because
         we had been robbed, too [possibly she means cheated], but...
     - who: David Boder
-      start: '00:03:24.782'
-      end: '00:03:25.509'
+      start:
+        sec: '204.782'
+        mark: '00:03:24.782'
+      end:
+        sec: '205.509'
+        mark: '00:03:25.509'
       u: You had been robbed?
     - who: Raisel Meltzak
-      start: '00:03:25.509'
-      end: '00:03:25.989'
+      start:
+        sec: '205.509'
+        mark: '00:03:25.509'
+      end:
+        sec: '205.989'
+        mark: '00:03:25.989'
       u: Yes, yes.
     - who: David Boder
-      start: '00:03:25.989'
-      end: '00:03:26.856'
+      start:
+        sec: '205.989'
+        mark: '00:03:25.989'
+      end:
+        sec: '206.856'
+        mark: '00:03:26.856'
       u: What was taken from you?
     - who: Raisel Meltzak
-      start: '00:03:26.856'
-      end: '00:03:30.272'
+      start:
+        sec: '206.856'
+        mark: '00:03:26.856'
+      end:
+        sec: '210.272'
+        mark: '00:03:30.272'
       u: Things were taken from us, gold, such things.
     - who: David Boder
-      start: '00:03:30.272'
-      end: '00:03:31.138'
+      start:
+        sec: '210.272'
+        mark: '00:03:30.272'
+      end:
+        sec: '211.138'
+        mark: '00:03:31.138'
       u: Nu?
     - who: Raisel Meltzak
-      start: '00:03:31.138'
-      end: '00:03:32.814'
+      start:
+        sec: '211.138'
+        mark: '00:03:31.138'
+      end:
+        sec: '212.814'
+        mark: '00:03:32.814'
       u: And afterwards my father...
     - who: David Boder
-      start: '00:03:32.814'
-      end: '00:03:33.892'
+      start:
+        sec: '212.814'
+        mark: '00:03:32.814'
+      end:
+        sec: '213.892'
+        mark: '00:03:33.892'
       u: Who took it?
     - who: Raisel Meltzak
-      start: '00:03:33.892'
-      end: '00:03:37.168'
+      start:
+        sec: '213.892'
+        mark: '00:03:33.892'
+      end:
+        sec: '217.168'
+        mark: '00:03:37.168'
       u: Gentiles. The Ukrainians. I lived in the Ukraine.
     - who: David Boder
-      start: '00:03:37.168'
-      end: '00:03:37.828'
+      start:
+        sec: '217.168'
+        mark: '00:03:37.168'
+      end:
+        sec: '217.828'
+        mark: '00:03:37.828'
       u: Yes.
     - who: Raisel Meltzak
-      start: '00:03:37.828'
-      end: '00:03:52.138'
+      start:
+        sec: '217.828'
+        mark: '00:03:37.828'
+      end:
+        sec: '232.138'
+        mark: '00:03:52.138'
       u: There the gentiles robbed us, at night. Any my father paid the gentiles to
         bring us food. And she...she brought us a little soup, such a cold one.
     - who: David Boder
-      start: '00:03:52.138'
-      end: '00:03:52.743'
+      start:
+        sec: '232.138'
+        mark: '00:03:52.138'
+      end:
+        sec: '232.743'
+        mark: '00:03:52.743'
       u: Hm.
     - who: Raisel Meltzak
-      start: '00:03:52.743'
-      end: '00:04:13.440'
+      start:
+        sec: '232.743'
+        mark: '00:03:52.743'
+      end:
+        sec: '253.440'
+        mark: '00:04:13.440'
       u: It was not good. Well, it is better than nothing. Then we...the gentile woman
         said that the Germans were coming with dogs, and she must...The Germans had
         such dogs which only had to sniff to know where we are, where there is a Jew.
         And we ran away in the morning. In the morning, it was such...
     - who: David Boder
-      start: '00:04:13.440'
-      end: '00:04:14.512'
+      start:
+        sec: '253.440'
+        mark: '00:04:13.440'
+      end:
+        sec: '254.512'
+        mark: '00:04:14.512'
       u: Who ran away? You ran away?
     - who: Raisel Meltzak
-      start: '00:04:14.512'
-      end: '00:04:16.518'
+      start:
+        sec: '254.512'
+        mark: '00:04:14.512'
+      end:
+        sec: '256.518'
+        mark: '00:04:16.518'
       u: Yes. All of us.
     - who: David Boder
-      start: '00:04:16.518'
-      end: '00:04:16.998'
+      start:
+        sec: '256.518'
+        mark: '00:04:16.518'
+      end:
+        sec: '256.998'
+        mark: '00:04:16.998'
       u: Yes.
     - who: Raisel Meltzak
-      start: '00:04:16.998'
-      end: '00:04:18.136'
+      start:
+        sec: '256.998'
+        mark: '00:04:16.998'
+      end:
+        sec: '258.136'
+        mark: '00:04:18.136'
       u: Yes. I, the mother, the father, [in a barely audible whisper] the little
         brother.
     - who: David Boder
-      start: '00:04:18.136'
-      end: '00:04:19.152'
+      start:
+        sec: '258.136'
+        mark: '00:04:18.136'
+      end:
+        sec: '259.152'
+        mark: '00:04:19.152'
       u: Hm.
     - who: Raisel Meltzak
-      start: '00:04:19.152'
-      end: '00:04:29.813'
+      start:
+        sec: '259.152'
+        mark: '00:04:19.152'
+      end:
+        sec: '269.813'
+        mark: '00:04:29.813'
       u: And the gentile woman...We were in a grove. We got so scared. There were
         many Jews lying unbur-...not yet buried, but they just lay about.
     - who: David Boder
-      start: '00:04:29.813'
-      end: '00:04:30.610'
+      start:
+        sec: '269.813'
+        mark: '00:04:29.813'
+      end:
+        sec: '270.610'
+        mark: '00:04:30.610'
       u: Dead people?
     - who: Raisel Meltzak
-      start: '00:04:30.610'
-      end: '00:04:31.310'
+      start:
+        sec: '270.610'
+        mark: '00:04:30.610'
+      end:
+        sec: '271.310'
+        mark: '00:04:31.310'
       u: Yes, dead people.
     - who: David Boder
-      start: '00:04:31.310'
-      end: '00:04:32.238'
+      start:
+        sec: '271.310'
+        mark: '00:04:31.310'
+      end:
+        sec: '272.238'
+        mark: '00:04:32.238'
       u: Did you yourself see that?
     - who: Raisel Meltzak
-      start: '00:04:32.238'
-      end: '00:04:32.238'
+      start:
+        sec: '272.238'
+        mark: '00:04:32.238'
+      end:
+        sec: '272.238'
+        mark: '00:04:32.238'
       u: Yes, I saw that.
     - who: David Boder
-      start: '00:04:32.238'
-      end: '00:04:34.814'
+      start:
+        sec: '272.238'
+        mark: '00:04:32.238'
+      end:
+        sec: '274.814'
+        mark: '00:04:34.814'
       u: Go on.
     - who: Raisel Meltzak
-      start: '00:04:34.814'
-      end: '00:04:56.431'
+      start:
+        sec: '274.814'
+        mark: '00:04:34.814'
+      end:
+        sec: '296.431'
+        mark: '00:04:56.431'
       u: And we got away. It was so muddy it came up to...it was very...it was going
         on winter. It was going on winter. And...and we still had enough money, but
         the Ukrainians looted us. They took everything away from us. We remained in
         just one...one shirt.
     - who: David Boder
-      start: '00:04:56.431'
-      end: '00:04:57.299'
+      start:
+        sec: '296.431'
+        mark: '00:04:56.431'
+      end:
+        sec: '297.299'
+        mark: '00:04:57.299'
       u: What do you mean, ‘in one shirt’?
     - who: Raisel Meltzak
-      start: '00:04:57.299'
-      end: '00:05:02.510'
+      start:
+        sec: '297.299'
+        mark: '00:04:57.299'
+      end:
+        sec: '302.510'
+        mark: '00:05:02.510'
       u: In one shirt. We only had that what we had on us. [That] they did not take
         away but that which we carried.
     - who: David Boder
-      start: '00:05:02.510'
-      end: '00:05:09.801'
+      start:
+        sec: '302.510'
+        mark: '00:05:02.510'
+      end:
+        sec: '309.801'
+        mark: '00:05:09.801'
       u: But you wore more than a shirt. You wore a dress, a coat.
     - who: Raisel Meltzak
-      start: '00:05:09.801'
-      end: '00:05:12.102'
+      start:
+        sec: '309.801'
+        mark: '00:05:09.801'
+      end:
+        sec: '312.102'
+        mark: '00:05:12.102'
       u: Yes. A coat they took off, too.
     - who: David Boder
-      start: '00:05:12.102'
-      end: '00:05:14.315'
+      start:
+        sec: '312.102'
+        mark: '00:05:12.102'
+      end:
+        sec: '314.315'
+        mark: '00:05:14.315'
       u: The coat.
     - who: Raisel Meltzak
-      start: '00:05:14.315'
-      end: '00:05:34.740'
+      start:
+        sec: '314.315'
+        mark: '00:05:14.315'
+      end:
+        sec: '334.740'
+        mark: '00:05:34.740'
       u: Yes. We had left only one dress, two dresses, just what we wore. This was
         not taken away. But a coat they took off. And we went on. Afterwards we sat
         in the forest. Eh...and they took everything away from us, the—what is it
         in Yiddish?—the pastuchy [Polish for shepards].
     - who: David Boder
-      start: '00:05:34.740'
-      end: '00:05:36.117'
+      start:
+        sec: '334.740'
+        mark: '00:05:34.740'
+      end:
+        sec: '336.117'
+        mark: '00:05:36.117'
       u: Yes. Shepards.
     - who: Raisel Meltzak
-      start: '00:05:36.117'
-      end: '00:05:36.448'
+      start:
+        sec: '336.117'
+        mark: '00:05:36.117'
+      end:
+        sec: '336.448'
+        mark: '00:05:36.448'
       u: Yes.
     - who: David Boder
-      start: '00:05:36.448'
-      end: '00:05:36.896'
+      start:
+        sec: '336.448'
+        mark: '00:05:36.448'
+      end:
+        sec: '336.896'
+        mark: '00:05:36.896'
       u: Go on.
     - who: Raisel Meltzak
-      start: '00:05:36.896'
-      end: '00:05:49.352'
+      start:
+        sec: '336.896'
+        mark: '00:05:36.896'
+      end:
+        sec: '349.352'
+        mark: '00:05:49.352'
       u: They took everything away from us. And...all right. I was...It was raining.
         We were all sitting. We made a shack out of sticks and out of hay and other
         such things.
     - who: David Boder
-      start: '00:05:49.352'
-      end: '00:05:49.800'
+      start:
+        sec: '349.352'
+        mark: '00:05:49.352'
+      end:
+        sec: '349.800'
+        mark: '00:05:49.800'
       u: Yes.
     - who: Raisel Meltzak
-      start: '00:05:49.800'
-      end: '00:05:57.745'
+      start:
+        sec: '349.800'
+        mark: '00:05:49.800'
+      end:
+        sec: '357.745'
+        mark: '00:05:57.745'
       u: And we were sitting there. Afterwards two other Jews arrived, a girl [a young
         woman?] and a boy [a young man?] from Busk, from our home town.
     - who: David Boder
-      start: '00:05:57.745'
-      end: '00:05:58.882'
+      start:
+        sec: '357.745'
+        mark: '00:05:57.745'
+      end:
+        sec: '358.882'
+        mark: '00:05:58.882'
       u: Hm.
     - who: Raisel Meltzak
-      start: '00:05:58.882'
-      end: '00:06:03.284'
+      start:
+        sec: '358.882'
+        mark: '00:05:58.882'
+      end:
+        sec: '363.284'
+        mark: '00:06:03.284'
       u: And they said...They dragged away my father, and he went. [They possibly
         belonged to the Jewish police.]
     - who: David Boder
-      start: '00:06:03.284'
-      end: '00:06:05.230'
+      start:
+        sec: '363.284'
+        mark: '00:06:03.284'
+      end:
+        sec: '365.230'
+        mark: '00:06:05.230'
       u: Wasn’t your father with you?
     - who: Raisel Meltzak
-      start: '00:06:05.230'
-      end: '00:06:14.700'
+      start:
+        sec: '365.230'
+        mark: '00:06:05.230'
+      end:
+        sec: '374.700'
+        mark: '00:06:14.700'
       u: Yes, he was with us, but then they came, and, the girl and the boy, and dragged
         him away. He did not want to go, but they dragged him away.
     - who: David Boder
-      start: '00:06:14.700'
-      end: '00:06:18.221'
+      start:
+        sec: '374.700'
+        mark: '00:06:14.700'
+      end:
+        sec: '378.221'
+        mark: '00:06:18.221'
       u: How could the girl and the boy drag him away?
     - who: Raisel Meltzak
-      start: '00:06:18.221'
-      end: '00:06:25.768'
+      start:
+        sec: '378.221'
+        mark: '00:06:18.221'
+      end:
+        sec: '385.768'
+        mark: '00:06:25.768'
       u: They began...they took him aside and persuaded my father...why should he
         remain here?...[apparently imitating the conversation] that so he will be
         killed, and so he will be killed...[The so and so seem not to mean here either
         way, but an ennumeration of possibilities].
     - who: David Boder
-      start: '00:06:25.768'
-      end: '00:06:25.292'
+      start:
+        sec: '385.768'
+        mark: '00:06:25.768'
+      end:
+        sec: '385.292'
+        mark: '00:06:25.292'
       u: Oh.
     - who: Raisel Meltzak
-      start: '00:06:25.292'
-      end: '00:06:26.206'
+      start:
+        sec: '385.292'
+        mark: '00:06:25.292'
+      end:
+        sec: '386.206'
+        mark: '00:06:26.206'
       u: But...
     - who: David Boder
-      start: '00:06:26.206'
-      end: '00:06:27.410'
+      start:
+        sec: '386.206'
+        mark: '00:06:26.206'
+      end:
+        sec: '387.410'
+        mark: '00:06:27.410'
       u: Oh, they persuaded him to go.
     - who: Raisel Meltzak
-      start: '00:06:27.410'
-      end: '00:06:30.283'
+      start:
+        sec: '387.410'
+        mark: '00:06:27.410'
+      end:
+        sec: '390.283'
+        mark: '00:06:30.283'
       u: Yes, yes, that he should go to a lager.
     - who: David Boder
-      start: '00:06:30.283'
-      end: '00:06:31.362'
+      start:
+        sec: '390.283'
+        mark: '00:06:30.283'
+      end:
+        sec: '391.362'
+        mark: '00:06:31.362'
       u: And who remained?
     - who: Raisel Meltzak
-      start: '00:06:31.362'
-      end: '00:06:32.998'
+      start:
+        sec: '391.362'
+        mark: '00:06:31.362'
+      end:
+        sec: '392.998'
+        mark: '00:06:32.998'
       u: I with the mother and [barely audible whisper] the little brother.
     - who: David Boder
-      start: '00:06:32.998'
-      end: '00:06:33.879'
+      start:
+        sec: '392.998'
+        mark: '00:06:32.998'
+      end:
+        sec: '393.879'
+        mark: '00:06:33.879'
       u: In the forest.
     - who: Raisel Meltzak
-      start: '00:06:33.879'
-      end: '00:06:38.518'
+      start:
+        sec: '393.879'
+        mark: '00:06:33.879'
+      end:
+        sec: '398.518'
+        mark: '00:06:38.518'
       u: Yes, we remained in the forest. Afterwards we—shall I tell...
     - who: David Boder
-      start: '00:06:38.518'
-      end: '00:06:38.850'
+      start:
+        sec: '398.518'
+        mark: '00:06:38.518'
+      end:
+        sec: '398.850'
+        mark: '00:06:38.850'
       u: Yes.
     - who: Raisel Meltzak
-      start: '00:06:38.850'
-      end: '00:06:39.386'
+      start:
+        sec: '398.850'
+        mark: '00:06:38.850'
+      end:
+        sec: '399.386'
+        mark: '00:06:39.386'
       u: ". . . everything about the whole life?"
     - who: David Boder
-      start: '00:06:39.386'
-      end: '00:06:40.923'
+      start:
+        sec: '399.386'
+        mark: '00:06:39.386'
+      end:
+        sec: '400.923'
+        mark: '00:06:40.923'
       u: Yes, yes.
     - who: Raisel Meltzak
-      start: '00:06:40.923'
-      end: '00:06:55.200'
+      start:
+        sec: '400.923'
+        mark: '00:06:40.923'
+      end:
+        sec: '415.200'
+        mark: '00:06:55.200'
       u: Afterwards we...eh...we remained alone. The father said, ‘Shh’...My mother’s
         name was was Rachel...’Rachel, if you want to come, you and Raisel’...My Jewish
         name is Raisel.
     - who: David Boder
-      start: '00:06:55.200'
-      end: '00:06:55.672'
+      start:
+        sec: '415.200'
+        mark: '00:06:55.200'
+      end:
+        sec: '415.672'
+        mark: '00:06:55.672'
       u: Yes.
     - who: Raisel Meltzak
-      start: '00:06:55.672'
-      end: '00:07:09.320'
+      start:
+        sec: '415.672'
+        mark: '00:06:55.672'
+      end:
+        sec: '429.320'
+        mark: '00:07:09.320'
       u: "‘If you [singular] want to go’...if you [plural] want to go with me, you
         must take the little brother and set him under a tree, or else you must throw
         him into...whichever...whichever you want, as long as you do not take him
         along’ [Little children, liable to cry unexpectedly, were one of the paramount
         handicaps in flight. —D.P.B.]"
     - who: David Boder
-      start: '00:07:09.320'
-      end: '00:07:09.919'
+      start:
+        sec: '429.320'
+        mark: '00:07:09.320'
+      end:
+        sec: '429.919'
+        mark: '00:07:09.919'
       u: The baby?
     - who: Raisel Meltzak
-      start: '00:07:09.919'
-      end: '00:07:14.531'
+      start:
+        sec: '429.919'
+        mark: '00:07:09.919'
+      end:
+        sec: '434.531'
+        mark: '00:07:14.531'
       u: Yes, yes. That’s what he told me. It is all true. [Words not clear] very,
         very...
     - who: David Boder
-      start: '00:07:14.531'
-      end: '00:07:17.473'
+      start:
+        sec: '434.531'
+        mark: '00:07:14.531'
+      end:
+        sec: '437.473'
+        mark: '00:07:17.473'
       u: Well, yes. I understood. Why did he want...
     - who: Raisel Meltzak
-      start: '00:07:17.473'
-      end: '00:07:20.647'
+      start:
+        sec: '437.473'
+        mark: '00:07:17.473'
+      end:
+        sec: '440.647'
+        mark: '00:07:20.647'
       u: I do not know. I was still little. I did not understand at all.
     - who: David Boder
-      start: '00:07:20.647'
-      end: '00:07:25.318'
+      start:
+        sec: '440.647'
+        mark: '00:07:20.647'
+      end:
+        sec: '445.318'
+        mark: '00:07:25.318'
       u: Wait a moment. [Adjusting equipment.] And so, what happened? Go on.
     - who: Raisel Meltzak
-      start: '00:07:25.318'
-      end: '00:07:27.922'
+      start:
+        sec: '445.318'
+        mark: '00:07:25.318'
+      end:
+        sec: '447.922'
+        mark: '00:07:27.922'
       u: Eh...eh...Go on, yes?
     - who: Raisel Meltzak
-      start: '00:07:27.922'
-      end: '00:07:28.402'
+      start:
+        sec: '447.922'
+        mark: '00:07:27.922'
+      end:
+        sec: '448.402'
+        mark: '00:07:28.402'
       u: 'yes'
     - who: Raisel Meltzak
-      start: '00:07:28.402'
-      end: '00:08:12.473'
+      start:
+        sec: '448.402'
+        mark: '00:07:28.402'
+      end:
+        sec: '492.473'
+        mark: '00:08:12.473'
       u: And afterwards my brother...All right. My mother said, ‘No! I will not leave
         the brother behind. And what will...The children...Whatever will happen to
         me will happen to the children. Whatever will happen to the children will
@@ -645,55 +1213,103 @@ recording:
         Ah, he went away. And he went away. He did not want to remain with us. Afterwards
         we went...The Ukranians, the police, caught us and started to beat him...
     - who: David Boder
-      start: '00:08:12.473'
-      end: '00:08:12.952'
+      start:
+        sec: '492.473'
+        mark: '00:08:12.473'
+      end:
+        sec: '492.952'
+        mark: '00:08:12.952'
       u: Whom?
     - who: Raisel Meltzak
-      start: '00:08:12.952'
-      end: '00:08:32.524'
+      start:
+        sec: '492.952'
+        mark: '00:08:12.952'
+      end:
+        sec: '512.524'
+        mark: '00:08:32.524'
       u: Us. Me and the mother. They began to beat and kick the mother. She did not...she
         cried so. She did not...she did not know what was happening to her. She fell
         down, my mother. They began to kick and beat me. I was thr-...thrown into
         a...into such a...such a ditch [word in Polish dialect].
     - who: David Boder
-      start: '00:08:32.524'
-      end: '00:08:33.782'
+      start:
+        sec: '512.524'
+        mark: '00:08:32.524'
+      end:
+        sec: '513.782'
+        mark: '00:08:33.782'
       u: Into what? Into a ditch?
     - who: Raisel Meltzak
-      start: '00:08:33.782'
-      end: '00:08:36.147'
+      start:
+        sec: '513.782'
+        mark: '00:08:33.782'
+      end:
+        sec: '516.147'
+        mark: '00:08:36.147'
       u: I was thrown into a ditch [word in Polish].
     - who: David Boder
-      start: '00:08:36.147'
-      end: '00:08:37.015'
+      start:
+        sec: '516.147'
+        mark: '00:08:36.147'
+      end:
+        sec: '517.015'
+        mark: '00:08:37.015'
       u: Into a what?
     - who: Raisel Meltzak
-      start: '00:08:37.015'
-      end: '00:08:38.250'
+      start:
+        sec: '517.015'
+        mark: '00:08:37.015'
+      end:
+        sec: '518.250'
+        mark: '00:08:38.250'
       u: Into a ditch.
     - who: David Boder
-      start: '00:08:38.250'
-      end: '00:08:39.143'
+      start:
+        sec: '518.250'
+        mark: '00:08:38.250'
+      end:
+        sec: '519.143'
+        mark: '00:08:39.143'
       u: What does it mean?
     - who: Raisel Meltzak
-      start: '00:08:39.143'
-      end: '00:08:42.015'
+      start:
+        sec: '519.143'
+        mark: '00:08:39.143'
+      end:
+        sec: '522.015'
+        mark: '00:08:42.015'
       u: Such a—how is it in Yiddish?
     - who: David Boder
-      start: '00:08:42.015'
-      end: '00:08:43.512'
+      start:
+        sec: '522.015'
+        mark: '00:08:42.015'
+      end:
+        sec: '523.512'
+        mark: '00:08:43.512'
       u: Say it in Polish.
     - who: Raisel Meltzak
-      start: '00:08:43.512'
-      end: '00:08:47.943'
+      start:
+        sec: '523.512'
+        mark: '00:08:43.512'
+      end:
+        sec: '527.943'
+        mark: '00:08:47.943'
       u: "[In Polish] Into...into such a hole."
     - who: David Boder
-      start: '00:08:47.943'
-      end: '00:08:49.081'
+      start:
+        sec: '527.943'
+        mark: '00:08:47.943'
+      end:
+        sec: '529.081'
+        mark: '00:08:49.081'
       u: Yes. Go on.
     - who: Raisel Meltzak
-      start: '00:08:49.081'
-      end: '00:09:41.355'
+      start:
+        sec: '529.081'
+        mark: '00:08:49.081'
+      end:
+        sec: '581.355'
+        mark: '00:09:41.355'
       u: And there...[in Yiddish] and there I was thrown in. They began to beat me
         with a horse whip. Afterwards my mother got up and pulled me out. The brother,
         she left him standing on the street, and me she...I got out. And then I cried
@@ -705,64 +1321,120 @@ recording:
         that, and he left. It was all the same already to him. After that, what else?
         [A very friendly, confident giggle.] I have already forgotten...
     - who: David Boder
-      start: '00:09:41.355'
-      end: '00:09:41.894'
+      start:
+        sec: '581.355'
+        mark: '00:09:41.355'
+      end:
+        sec: '581.894'
+        mark: '00:09:41.894'
       u: Of course.
     - who: Raisel Meltzak
-      start: '00:09:41.894'
-      end: '00:09:51.726'
+      start:
+        sec: '581.894'
+        mark: '00:09:41.894'
+      end:
+        sec: '591.726'
+        mark: '00:09:51.726'
       u: ". . . quite a bit. Such a long time. Aha. After that we went away. We went
         to Antolowka. Antolowka."
     - who: David Boder
-      start: '00:09:51.726'
-      end: '00:09:52.538'
+      start:
+        sec: '591.726'
+        mark: '00:09:51.726'
+      end:
+        sec: '592.538'
+        mark: '00:09:52.538'
       u: What is that?
     - who: Raisel Meltzak
-      start: '00:09:52.538'
-      end: '00:09:54.662'
+      start:
+        sec: '592.538'
+        mark: '00:09:52.538'
+      end:
+        sec: '594.662'
+        mark: '00:09:54.662'
       u: There were such...Germans...
     - who: David Boder
-      start: '00:09:54.662'
-      end: '00:09:56.278'
+      start:
+        sec: '594.662'
+        mark: '00:09:54.662'
+      end:
+        sec: '596.278'
+        mark: '00:09:56.278'
       u: Yes.
     - who: Raisel Meltzak
-      start: '00:09:56.278'
-      end: '00:09:57.012'
+      start:
+        sec: '596.278'
+        mark: '00:09:56.278'
+      end:
+        sec: '597.012'
+        mark: '00:09:57.012'
       u: ". . . such folk-...folk-Germans."
     - who: David Boder
-      start: '00:09:57.012'
-      end: '00:09:57.668'
+      start:
+        sec: '597.012'
+        mark: '00:09:57.012'
+      end:
+        sec: '597.668'
+        mark: '00:09:57.668'
       u: A small town.
     - who: Raisel Meltzak
-      start: '00:09:57.668'
-      end: '00:09:59.668'
+      start:
+        sec: '597.668'
+        mark: '00:09:57.668'
+      end:
+        sec: '599.668'
+        mark: '00:09:59.668'
       u: Yes. Folk-...folk-Germans...
     - who: David Boder
-      start: '00:09:59.668'
-      end: '00:10:00.527'
+      start:
+        sec: '599.668'
+        mark: '00:09:59.668'
+      end:
+        sec: '600.527'
+        mark: '00:10:00.527'
       u: Hm.
     - who: Raisel Meltzak
-      start: '00:10:00.527'
-      end: '00:10:16.429'
+      start:
+        sec: '600.527'
+        mark: '00:10:00.527'
+      end:
+        sec: '616.429'
+        mark: '00:10:16.429'
       u: ". . . were there. They spoke German. I was there. They were very kind, very
         kind. They gave us food. They brought us food to the forest. I was [there]
         with the mother. Afterwards one...I have forgotten already. What is it in
         Polish? Do you understand Polish?"
     - who: David Boder
-      start: '00:10:16.429'
-      end: '00:10:17.351'
+      start:
+        sec: '616.429'
+        mark: '00:10:16.429'
+      end:
+        sec: '617.351'
+        mark: '00:10:17.351'
       u: What is it?
     - who: Raisel Meltzak
-      start: '00:10:17.351'
-      end: '00:10:20.882'
+      start:
+        sec: '617.351'
+        mark: '00:10:17.351'
+      end:
+        sec: '620.882'
+        mark: '00:10:20.882'
       u: "[In Polish] A policeman."
     - who: David Boder
-      start: '00:10:20.882'
-      end: '00:10:21.803'
+      start:
+        sec: '620.882'
+        mark: '00:10:20.882'
+      end:
+        sec: '621.803'
+        mark: '00:10:21.803'
       u: A policeman. Nu?
     - who: Raisel Meltzak
-      start: '00:10:21.803'
-      end: '00:10:54.865'
+      start:
+        sec: '621.803'
+        mark: '00:10:21.803'
+      end:
+        sec: '654.865'
+        mark: '00:10:54.865'
       u: "[In Yiddish] The police caught us there in the forest. We were asked where
         we are from and what we are doing here and what business we have there. So
         we said, ‘We are Jews.’ We answered simply, ‘We are Jews, and we have nobody.’
@@ -771,135 +1443,255 @@ recording:
         The mother pleaded so, she cried, to let us go. We gave him something, so
         he let us go."
     - who: David Boder
-      start: '00:10:54.865'
-      end: '00:10:56.036'
+      start:
+        sec: '654.865'
+        mark: '00:10:54.865'
+      end:
+        sec: '656.036'
+        mark: '00:10:56.036'
       u: You gave him something?
     - who: Raisel Meltzak
-      start: '00:10:56.036'
-      end: '00:11:04.426'
+      start:
+        sec: '656.036'
+        mark: '00:10:56.036'
+      end:
+        sec: '664.426'
+        mark: '00:11:04.426'
       u: Yes, the mother gave him something, so he let us go. After that we went to
         Huta...Huta...[Khust?] Olejska.
     - who: David Boder
-      start: '00:11:04.426'
-      end: '00:11:05.130'
+      start:
+        sec: '664.426'
+        mark: '00:11:04.426'
+      end:
+        sec: '665.130'
+        mark: '00:11:05.130'
       u: Hm.
     - who: Raisel Meltzak
-      start: '00:11:05.130'
-      end: '00:11:08.599'
+      start:
+        sec: '665.130'
+        mark: '00:11:05.130'
+      end:
+        sec: '668.599'
+        mark: '00:11:08.599'
       u: It is a Polish [in Polish] village—how does one say it?
     - who: David Boder
-      start: '00:11:08.599'
-      end: '00:11:09.584'
+      start:
+        sec: '668.599'
+        mark: '00:11:08.599'
+      end:
+        sec: '669.584'
+        mark: '00:11:09.584'
       u: A Polish village?
     - who: Raisel Meltzak
-      start: '00:11:09.584'
-      end: '00:11:18.833'
+      start:
+        sec: '669.584'
+        mark: '00:11:09.584'
+      end:
+        sec: '678.833'
+        mark: '00:11:18.833'
       u: A Polish village, yes. We were there. The gentiles were also very kind. We
         were there. We slept in barns.
     - who: David Boder
-      start: '00:11:18.833'
-      end: '00:11:19.521'
+      start:
+        sec: '678.833'
+        mark: '00:11:18.833'
+      end:
+        sec: '679.521'
+        mark: '00:11:19.521'
       u: Yes.
     - who: Raisel Meltzak
-      start: '00:11:19.521'
-      end: '00:11:35.954'
+      start:
+        sec: '679.521'
+        mark: '00:11:19.521'
+      end:
+        sec: '695.954'
+        mark: '00:11:35.954'
       u: We slept here a day, here a day, here a night. Thus we slept. My mother...I
         helped a little. The mother helped a little. We worked in the garden. We did
         all that...I had a—[In Polish] how does one say cow?
     - who: David Boder
-      start: '00:11:35.954'
-      end: '00:11:37.672'
+      start:
+        sec: '695.954'
+        mark: '00:11:35.954'
+      end:
+        sec: '697.672'
+        mark: '00:11:37.672'
       u: A cow?
     - who: Raisel Meltzak
-      start: '00:11:37.672'
-      end: '00:11:38.672'
+      start:
+        sec: '697.672'
+        mark: '00:11:37.672'
+      end:
+        sec: '698.672'
+        mark: '00:11:38.672'
       u: Yes, a cow.
     - who: David Boder
-      start: '00:11:38.672'
-      end: '00:11:39.172'
+      start:
+        sec: '698.672'
+        mark: '00:11:38.672'
+      end:
+        sec: '699.172'
+        mark: '00:11:39.172'
       u: Nu?
     - who: Raisel Meltzak
-      start: '00:11:39.172'
-      end: '00:11:46.031'
+      start:
+        sec: '699.172'
+        mark: '00:11:39.172'
+      end:
+        sec: '706.031'
+        mark: '00:11:46.031'
       u: We had...I tended [the cow] all day until night. Afterwards we left for Huta
         Olejska.
     - who: David Boder
-      start: '00:11:46.031'
-      end: '00:11:47.968'
+      start:
+        sec: '706.031'
+        mark: '00:11:46.031'
+      end:
+        sec: '707.968'
+        mark: '00:11:47.968'
       u: And the little brother was with you.
     - who: Raisel Meltzak
-      start: '00:11:47.968'
-      end: '00:11:52.296'
+      start:
+        sec: '707.968'
+        mark: '00:11:47.968'
+      end:
+        sec: '712.296'
+        mark: '00:11:52.296'
       u: Yes. After that, when we were in Huta Olejska...
     - who: David Boder
-      start: '00:11:52.296'
-      end: '00:11:53.733'
+      start:
+        sec: '712.296'
+        mark: '00:11:52.296'
+      end:
+        sec: '713.733'
+        mark: '00:11:53.733'
       u: Yes?
     - who: Raisel Meltzak
-      start: '00:11:53.733'
-      end: '00:12:04.467'
+      start:
+        sec: '713.733'
+        mark: '00:11:53.733'
+      end:
+        sec: '724.467'
+        mark: '00:12:04.467'
       u: ". . . we went back there [where] we had been, with the Germans. I have already
         forgotten what the name of it is. There my brother died."
     - who: David Boder
-      start: '00:12:04.467'
-      end: '00:12:05.935'
+      start:
+        sec: '724.467'
+        mark: '00:12:04.467'
+      end:
+        sec: '725.935'
+        mark: '00:12:05.935'
       u: What did he die from?
     - who: Raisel Meltzak
-      start: '00:12:05.935'
-      end: '00:12:09.560'
+      start:
+        sec: '725.935'
+        mark: '00:12:05.935'
+      end:
+        sec: '729.560'
+        mark: '00:12:09.560'
       u: Yes, yes, he died. My brother had such a stomach...
     - who: David Boder
-      start: '00:12:09.560'
-      end: '00:12:10.341'
+      start:
+        sec: '729.560'
+        mark: '00:12:09.560'
+      end:
+        sec: '730.341'
+        mark: '00:12:10.341'
       u: Oh.
     - who: Raisel Meltzak
-      start: '00:12:10.341'
-      end: '00:12:11.857'
+      start:
+        sec: '730.341'
+        mark: '00:12:10.341'
+      end:
+        sec: '731.857'
+        mark: '00:12:11.857'
       u: ". . . such a large [stomach]—I do not know how it is [said] in Yiddish."
     - who: David Boder
-      start: '00:12:11.857'
-      end: '00:12:13.295'
+      start:
+        sec: '731.857'
+        mark: '00:12:11.857'
+      end:
+        sec: '733.295'
+        mark: '00:12:13.295'
       u: All right. Nu?
     - who: Raisel Meltzak
-      start: '00:12:13.295'
-      end: '00:12:29.093'
+      start:
+        sec: '733.295'
+        mark: '00:12:13.295'
+      end:
+        sec: '749.093'
+        mark: '00:12:29.093'
       u: And he died. We...my mother...He told my mother that his stomach hurts him,
         everything hurts him, and he cannot walk. And my mother set him down, and
         I with the mother went for bottles. My mother went to pick...There were bottles
         there with which I could go to the gentiles...
     - who: David Boder
-      start: '00:12:29.093'
-      end: '00:12:29.781'
+      start:
+        sec: '749.093'
+        mark: '00:12:29.093'
+      end:
+        sec: '749.781'
+        mark: '00:12:29.781'
       u: Hm.
     - who: Raisel Meltzak
-      start: '00:12:29.781'
-      end: '00:12:31.000'
+      start:
+        sec: '749.781'
+        mark: '00:12:29.781'
+      end:
+        sec: '751.000'
+        mark: '00:12:31.000'
       u: ". . . and bring water..."
     - who: David Boder
-      start: '00:12:31.000'
-      end: '00:12:31.625'
+      start:
+        sec: '751.000'
+        mark: '00:12:31.000'
+      end:
+        sec: '751.625'
+        mark: '00:12:31.625'
       u: Yes.
     - who: Raisel Meltzak
-      start: '00:12:31.625'
-      end: '00:12:32.906'
+      start:
+        sec: '751.625'
+        mark: '00:12:31.625'
+      end:
+        sec: '752.906'
+        mark: '00:12:32.906'
       u: ". . . or a little milk."
     - who: David Boder
-      start: '00:12:32.906'
-      end: '00:12:33.594'
+      start:
+        sec: '752.906'
+        mark: '00:12:32.906'
+      end:
+        sec: '753.594'
+        mark: '00:12:33.594'
       u: Yes. Nu?
     - who: Raisel Meltzak
-      start: '00:12:33.594'
-      end: '00:12:46.094'
+      start:
+        sec: '753.594'
+        mark: '00:12:33.594'
+      end:
+        sec: '766.094'
+        mark: '00:12:46.094'
       u: And...and...and my brother had already died when we came from...and my mother
         had gone there. I said, ‘You will go and pick’...from there I used to bring
         a little milk...
     - who: David Boder
-      start: '00:12:46.094'
-      end: '00:12:47.313'
+      start:
+        sec: '766.094'
+        mark: '00:12:46.094'
+      end:
+        sec: '767.313'
+        mark: '00:12:47.313'
       u: Yes.
     - who: Raisel Meltzak
-      start: '00:12:47.313'
-      end: '00:13:08.815'
+      start:
+        sec: '767.313'
+        mark: '00:12:47.313'
+      end:
+        sec: '788.815'
+        mark: '00:13:08.815'
       u: ". . . or water. There I would leave the bottles. I always used to say, ‘I
         am...I feel...I do not need any more.’ I said this to the mother, because
         we were not supposed to be here in the forest, because the gentiles had said
@@ -907,63 +1699,119 @@ recording:
         go. And my mother took the bottles and went to the village[?]. And when I
         came [returned] the brother was already dead."
     - who: David Boder
-      start: '00:13:08.815'
-      end: '00:13:09.893'
+      start:
+        sec: '788.815'
+        mark: '00:13:08.815'
+      end:
+        sec: '789.893'
+        mark: '00:13:09.893'
       u: Nu?
     - who: Raisel Meltzak
-      start: '00:13:09.893'
-      end: '00:13:20.721'
+      start:
+        sec: '789.893'
+        mark: '00:13:09.893'
+      end:
+        sec: '800.721'
+        mark: '00:13:20.721'
       u: The brother was already dead. And my mother cried so much. In the forest
         there are many—how does one say it?—[in Polish] trees?
     - who: David Boder
-      start: '00:13:20.721'
-      end: '00:13:21.846'
+      start:
+        sec: '800.721'
+        mark: '00:13:20.721'
+      end:
+        sec: '801.846'
+        mark: '00:13:21.846'
       u: Trees.
     - who: Raisel Meltzak
-      start: '00:13:21.846'
-      end: '00:13:27.017'
+      start:
+        sec: '801.846'
+        mark: '00:13:21.846'
+      end:
+        sec: '807.017'
+        mark: '00:13:27.017'
       u: Trees. So she began to do it so, with her head [she apparently demonstrates].
         She had such bumps.
     - who: David Boder
-      start: '00:13:27.017'
-      end: '00:13:27.919'
+      start:
+        sec: '807.017'
+        mark: '00:13:27.017'
+      end:
+        sec: '807.919'
+        mark: '00:13:27.919'
       u: She beat herself...
     - who: Raisel Meltzak
-      start: '00:13:27.919'
-      end: '00:13:28.325'
+      start:
+        sec: '807.919'
+        mark: '00:13:27.919'
+      end:
+        sec: '808.325'
+        mark: '00:13:28.325'
       u: Yes.
     - who: David Boder
-      start: '00:13:28.325'
-      end: '00:13:29.044'
+      start:
+        sec: '808.325'
+        mark: '00:13:28.325'
+      end:
+        sec: '809.044'
+        mark: '00:13:29.044'
       u: ". . . against the trees?"
     - who: Raisel Meltzak
-      start: '00:13:29.044'
-      end: '00:13:37.418'
+      start:
+        sec: '809.044'
+        mark: '00:13:29.044'
+      end:
+        sec: '817.418'
+        mark: '00:13:37.418'
       u: Yes. And she cried so very much. She screamed. She could not bear it. After
         my brother died we...we buried him.
     - who: David Boder
-      start: '00:13:37.418'
-      end: '00:13:39.101'
+      start:
+        sec: '817.418'
+        mark: '00:13:37.418'
+      end:
+        sec: '819.101'
+        mark: '00:13:39.101'
       u: Who buried him?
     - who: Raisel Meltzak
-      start: '00:13:39.101'
-      end: '00:13:39.944'
+      start:
+        sec: '819.101'
+        mark: '00:13:39.101'
+      end:
+        sec: '819.944'
+        mark: '00:13:39.944'
       u: I with the mother.
     - who: David Boder
-      start: '00:13:39.944'
-      end: '00:13:41.413'
+      start:
+        sec: '819.944'
+        mark: '00:13:39.944'
+      end:
+        sec: '821.413'
+        mark: '00:13:41.413'
       u: You with the mother?
     - who: Raisel Meltzak
-      start: '00:13:41.413'
-      end: '00:13:41.960'
+      start:
+        sec: '821.413'
+        mark: '00:13:41.413'
+      end:
+        sec: '821.960'
+        mark: '00:13:41.960'
       u: Yes, I with the mother.
     - who: David Boder
-      start: '00:13:41.960'
-      end: '00:13:42.491'
+      start:
+        sec: '821.960'
+        mark: '00:13:41.960'
+      end:
+        sec: '822.491'
+        mark: '00:13:42.491'
       u: In the forest?
     - who: Raisel Meltzak
-      start: '00:13:42.491'
-      end: '00:14:12.528'
+      start:
+        sec: '822.491'
+        mark: '00:13:42.491'
+      end:
+        sec: '852.528'
+        mark: '00:14:12.528'
       u: Yes, in the forest. Nothing, just dug such a tiny grave. He was only three
         years old. He was very small. And afterwards I remained with the mother. The
         mother cried very much. [short break in the wire]...very much. My mother was
@@ -972,45 +1820,85 @@ recording:
         my mother another month, [or] two. I was with the mother another two months.
         And my mother died.
     - who: David Boder
-      start: '00:14:12.528'
-      end: '00:14:13.247'
+      start:
+        sec: '852.528'
+        mark: '00:14:12.528'
+      end:
+        sec: '853.247'
+        mark: '00:14:13.247'
       u: Where?
     - who: Raisel Meltzak
-      start: '00:14:13.247'
-      end: '00:14:13.747'
+      start:
+        sec: '853.247'
+        mark: '00:14:13.247'
+      end:
+        sec: '853.747'
+        mark: '00:14:13.747'
       u: My mother died.
     - who: David Boder
-      start: '00:14:13.747'
-      end: '00:14:14.247'
+      start:
+        sec: '853.747'
+        mark: '00:14:13.747'
+      end:
+        sec: '854.247'
+        mark: '00:14:14.247'
       u: In the forest?
     - who: Raisel Meltzak
-      start: '00:14:14.247'
-      end: '00:14:19.779'
+      start:
+        sec: '854.247'
+        mark: '00:14:14.247'
+      end:
+        sec: '859.779'
+        mark: '00:14:19.779'
       u: Yes, in the forest. Everything in the forest, because I was in the forest
         three years [words not clear].
     - who: David Boder
-      start: '00:14:19.779'
-      end: '00:14:20.639'
+      start:
+        sec: '859.779'
+        mark: '00:14:19.779'
+      end:
+        sec: '860.639'
+        mark: '00:14:20.639'
       u: Aha.
     - who: Raisel Meltzak
-      start: '00:14:20.639'
-      end: '00:14:21.967'
+      start:
+        sec: '860.639'
+        mark: '00:14:20.639'
+      end:
+        sec: '861.967'
+        mark: '00:14:21.967'
       u: Two and a half [years], not three.
     - who: David Boder
-      start: '00:14:21.967'
-      end: '00:14:25.912'
+      start:
+        sec: '861.967'
+        mark: '00:14:21.967'
+      end:
+        sec: '865.912'
+        mark: '00:14:25.912'
       u: "[In whispers] You must go?"
     - who: Raisel Meltzak
-      start: '00:14:25.912'
-      end: '00:14:26.490'
+      start:
+        sec: '865.912'
+        mark: '00:14:25.912'
+      end:
+        sec: '866.490'
+        mark: '00:14:26.490'
       u: Yes.
     - who: David Boder
-      start: '00:14:26.490'
-      end: '00:14:28.724'
+      start:
+        sec: '866.490'
+        mark: '00:14:26.490'
+      end:
+        sec: '868.724'
+        mark: '00:14:28.724'
       u: We shall talk again later, yes?
     - who: Raisel Meltzak
-      start: '00:14:28.724'
-      end: '00:14:27.944'
+      start:
+        sec: '868.724'
+        mark: '00:14:28.724'
+      end:
+        sec: '867.944'
+        mark: '00:14:27.944'
       u: Yes.
   commentary:
     text: "<p>Short interviews with orphan charges at the Bellevue home for displaced

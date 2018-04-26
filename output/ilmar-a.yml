@@ -36,30 +36,50 @@ recording:
     language: de
     interview:
     - who: David Boder
-      start: '00:00:01.631'
-      end: '00:01:20.579'
+      start:
+        sec: '1.631'
+        mark: '00:00:01.631'
+      end:
+        sec: '80.579'
+        mark: '00:01:20.579'
       u: "[In English] Spool 152A, Spool 152A. Ilmar A., that seems the name, it can
         be corrected later. Spool 152A. Boder. These are the short spools from the
         students of the UNRRA University."
     - who: David Boder
-      start: '00:01:20.579'
-      end: '00:01:50.969'
+      start:
+        sec: '80.579'
+        mark: '00:01:20.579'
+      end:
+        sec: '110.969'
+        mark: '00:01:50.969'
       u: Munich, September the 24th, 1946, at the Deutsches Museum in Munich, the
         UNRRA University for Displaced Persons. The interviewee is Mr. Hilman, [corrects
         himself] Ilmar A., 23 years old, an Estonian, who is going to give us a half-hour
         report on his experiences. We are reducing it now to half-hours because the
         students want to have a cross-section to report.
     - who: David Boder
-      start: '00:01:50.969'
-      end: '00:01:53.494'
+      start:
+        sec: '110.969'
+        mark: '00:01:50.969'
+      end:
+        sec: '113.494'
+        mark: '00:01:53.494'
       u: "[In German] Also, Herr Ilmar."
     - who: Ilmar A.
-      start: '00:01:53.494'
-      end: '00:01:54.190'
+      start:
+        sec: '113.494'
+        mark: '00:01:53.494'
+      end:
+        sec: '114.190'
+        mark: '00:01:54.190'
       u: Ja.
     - who: David Boder
-      start: '00:01:54.190'
-      end: '00:02:38.589'
+      start:
+        sec: '114.190'
+        mark: '00:01:54.190'
+      end:
+        sec: '158.589'
+        mark: '00:02:38.589'
       u: 'Ich will Ihnen etwas klar sagen. Erzählen Sie mir nicht allgemeine Sachen
         über die politische Lage oder so. Darüber sind [evtl. „wir informiert“]. Was
         ich will, Sie sollen zu mir in einer halben Stunde alles nacherzählen, was
@@ -69,113 +89,213 @@ recording:
         was Ihnen passiert hat, von der Zeit, dass die Sowjets nach Estland gekommen
         sind, nicht wahr...'
     - who: Ilmar A.
-      start: '00:02:38.589'
-      end: '00:02:38.857'
+      start:
+        sec: '158.589'
+        mark: '00:02:38.589'
+      end:
+        sec: '158.857'
+        mark: '00:02:38.857'
       u: Ja.
     - who: David Boder
-      start: '00:02:38.857'
-      end: '00:03:04.510'
+      start:
+        sec: '158.857'
+        mark: '00:02:38.857'
+      end:
+        sec: '184.510'
+        mark: '00:03:04.510'
       u: "..bis heutigen Tag. Aber Ihnen persönlich. Wo haben Sie gelebt, mit Ihren
         Eltern. Wo sind Sie gegangen? Was hat Ihnen passiert? Nicht wahr? Also, sprechen
         Sie hier in der Direktion [Anm.: er meint „Richtung“] des Mikrofons. [Beugen
         Sie [es] sich runter], kommen Sie näher. Sagen Sie mir nochmal, wo waren Sie
         und was hat Ihnen passiert, wenn die Sowjets nach Estonien gekommen sind?"
     - who: Ilmar A.
-      start: '00:03:04.510'
-      end: '00:03:19.465'
+      start:
+        sec: '184.510'
+        mark: '00:03:04.510'
+      end:
+        sec: '199.465'
+        mark: '00:03:19.465'
       u: Wenn die Sowjets in Estonien gekommen, dann war, dann war ich Schüler in
         der, das war in 1940.
     - who: David Boder
-      start: '00:03:19.465'
-      end: '00:03:23.527'
+      start:
+        sec: '199.465'
+        mark: '00:03:19.465'
+      end:
+        sec: '203.527'
+        mark: '00:03:23.527'
       u: Wie alt waren Sie dann? In welcher Klasse waren Sie in der Schule?
     - who: Ilmar A.
-      start: '00:03:23.527'
-      end: '00:03:31.514'
+      start:
+        sec: '203.527'
+        mark: '00:03:23.527'
+      end:
+        sec: '211.514'
+        mark: '00:03:31.514'
       u: Dann war ich siebzehn Jahre alt. Dann war ich siebzehn Jahre alt. Und ich
         besuchte die erste Klasse im Gymnasium.
     - who: David Boder
-      start: '00:03:31.514'
-      end: '00:03:33.753'
+      start:
+        sec: '211.514'
+        mark: '00:03:31.514'
+      end:
+        sec: '213.753'
+        mark: '00:03:33.753'
       u: Was heißt „erste Klasse“? Die höchste Klasse?
     - who: Ilmar A.
-      start: '00:03:33.753'
-      end: '00:03:38.540'
+      start:
+        sec: '213.753'
+        mark: '00:03:33.753'
+      end:
+        sec: '218.540'
+        mark: '00:03:38.540'
       u: "„Die erste“ das heißt der, die vierte Klasse, vierte Klasse"
     - who: David Boder
-      start: '00:03:38.540'
-      end: '00:03:40.240'
+      start:
+        sec: '218.540'
+        mark: '00:03:38.540'
+      end:
+        sec: '220.240'
+        mark: '00:03:40.240'
       u: ". . . der Volks-"
     - who: Ilmar A.
-      start: '00:03:40.240'
-      end: '00:03:41.959'
+      start:
+        sec: '220.240'
+        mark: '00:03:40.240'
+      end:
+        sec: '221.959'
+        mark: '00:03:41.959'
       u: der Volks-, äh, der Mittelschule.
     - who: David Boder
-      start: '00:03:41.959'
-      end: '00:03:45.686'
+      start:
+        sec: '221.959'
+        mark: '00:03:41.959'
+      end:
+        sec: '225.686'
+        mark: '00:03:45.686'
       u: Ja. Die vierte Klasse der Mittelschule. Das war also nach dem Pro-Gymnasium?
     - who: Ilmar A.
-      start: '00:03:45.686'
-      end: '00:03:46.951'
+      start:
+        sec: '225.686'
+        mark: '00:03:45.686'
+      end:
+        sec: '226.951'
+        mark: '00:03:46.951'
       u: Das war nach dem Pro-Gymnasium.
     - who: David Boder
-      start: '00:03:46.951'
-      end: '00:03:49.916'
+      start:
+        sec: '226.951'
+        mark: '00:03:46.951'
+      end:
+        sec: '229.916'
+        mark: '00:03:49.916'
       u: Ja. Nun, und in welcher Stadt waren Sie?
     - who: Ilmar A.
-      start: '00:03:49.916'
-      end: '00:03:51.914'
+      start:
+        sec: '229.916'
+        mark: '00:03:49.916'
+      end:
+        sec: '231.914'
+        mark: '00:03:51.914'
       u: Das war in Tartu.
     - who: David Boder
-      start: '00:03:51.914'
-      end: '00:03:52.647'
+      start:
+        sec: '231.914'
+        mark: '00:03:51.914'
+      end:
+        sec: '232.647'
+        mark: '00:03:52.647'
       u: 'In Dorpat [Anm.: dt. Name von Tartu]?'
     - who: Ilmar A.
-      start: '00:03:52.647'
-      end: '00:03:53.398'
+      start:
+        sec: '232.647'
+        mark: '00:03:52.647'
+      end:
+        sec: '233.398'
+        mark: '00:03:53.398'
       u: In Dorpat.
     - who: David Boder
-      start: '00:03:53.398'
-      end: '00:03:55.321'
+      start:
+        sec: '233.398'
+        mark: '00:03:53.398'
+      end:
+        sec: '235.321'
+        mark: '00:03:55.321'
       u: Aha, das war die berühmte Jurjev Universität.
     - who: Ilmar A.
-      start: '00:03:55.321'
-      end: '00:03:56.612'
+      start:
+        sec: '235.321'
+        mark: '00:03:55.321'
+      end:
+        sec: '236.612'
+        mark: '00:03:56.612'
       u: Jurjev Universität.
     - who: David Boder
-      start: '00:03:56.612'
-      end: '00:03:59.577'
+      start:
+        sec: '236.612'
+        mark: '00:03:56.612'
+      end:
+        sec: '239.577'
+        mark: '00:03:59.577'
       u: Ja. Und wer waren Ihre Eltern, Ilman?Boder spricht den Namen oft Ilman oder
         Hilman aus; der häufigste estnische Männervorname ist allerdings „Ilmar“.1
     - who: Ilmar A.
-      start: '00:03:59.577'
-      end: '00:04:01.816'
+      start:
+        sec: '239.577'
+        mark: '00:03:59.577'
+      end:
+        sec: '241.816'
+        mark: '00:04:01.816'
       u: Meine Eltern waren Bauern.
     - who: David Boder
-      start: '00:04:01.816'
-      end: '00:04:03.404'
+      start:
+        sec: '241.816'
+        mark: '00:04:01.816'
+      end:
+        sec: '243.404'
+        mark: '00:04:03.404'
       u: Aha, und wo haben die gelebt?
     - who: Ilmar A.
-      start: '00:04:03.404'
-      end: '00:04:05.978'
+      start:
+        sec: '243.404'
+        mark: '00:04:03.404'
+      end:
+        sec: '245.978'
+        mark: '00:04:05.978'
       u: Die haben gelebt in [Ortsname; klingt wie „Tartaulag“], Gemeinde [Gemeindename,
         klingt wie „Saparau“ oder „Saparai“].
     - who: David Boder
-      start: '00:04:05.978'
-      end: '00:04:06.246'
+      start:
+        sec: '245.978'
+        mark: '00:04:05.978'
+      end:
+        sec: '246.246'
+        mark: '00:04:06.246'
       u: Aha.
     - who: Ilmar A.
-      start: '00:04:06.246'
-      end: '00:04:07.369'
+      start:
+        sec: '246.246'
+        mark: '00:04:06.246'
+      end:
+        sec: '247.369'
+        mark: '00:04:07.369'
       u: In [unverständlich].
     - who: David Boder
-      start: '00:04:07.369'
-      end: '00:04:14.630'
+      start:
+        sec: '247.369'
+        mark: '00:04:07.369'
+      end:
+        sec: '254.630'
+        mark: '00:04:14.630'
       u: Also, erzählen Sie mir, was hat in der Universität passiert, wenn die Sowjets
         gekommen sind und was hat bei Ihnen zu Hause passiert?
     - who: Ilmar A.
-      start: '00:04:14.630'
-      end: '00:05:08.622'
+      start:
+        sec: '254.630'
+        mark: '00:04:14.630'
+      end:
+        sec: '308.622'
+        mark: '00:05:08.622'
       u: Wenn die Sowjets sie sind zu uns kommen, dann war ich nicht Student, sondern
         war ich Schüler, war ich in Tartu, in der, alle waren zu Hause am ersten Morgen.
         Aber mein Vater hatte auch ein Fabrik und ein, einen Hof, ungefähr 35 Hektar.
@@ -183,508 +303,956 @@ recording:
         wurden ein Teil von meiner Verwandten verschleppt nach Sibirien. Deswegen,
         das waren auch Demokraten. Und...
     - who: David Boder
-      start: '00:05:08.622'
-      end: '00:05:09.697'
+      start:
+        sec: '308.622'
+        mark: '00:05:08.622'
+      end:
+        sec: '309.697'
+        mark: '00:05:09.697'
       u: Was war das?
     - who: Ilmar A.
-      start: '00:05:09.697'
-      end: '00:05:12.555'
+      start:
+        sec: '309.697'
+        mark: '00:05:09.697'
+      end:
+        sec: '312.555'
+        mark: '00:05:12.555'
       u: Die hatten demokratische Meinung.
     - who: David Boder
-      start: '00:05:12.555'
-      end: '00:05:15.287'
+      start:
+        sec: '312.555'
+        mark: '00:05:12.555'
+      end:
+        sec: '315.287'
+        mark: '00:05:15.287'
       u: Ja, was heißt das, sie hatten „demokratische Meinung“?
     - who: Ilmar A.
-      start: '00:05:15.287'
-      end: '00:05:21.381'
+      start:
+        sec: '315.287'
+        mark: '00:05:15.287'
+      end:
+        sec: '321.381'
+        mark: '00:05:21.381'
       u: Dass sie waren ehemalige, so, Angehörigen von der [Name der Organisation
         unverständlich].
     - who: David Boder
-      start: '00:05:21.381'
-      end: '00:05:26.106'
+      start:
+        sec: '321.381'
+        mark: '00:05:21.381'
+      end:
+        sec: '326.106'
+        mark: '00:05:26.106'
       u: Nun ja , und? Weiter?
     - who: Ilmar A.
-      start: '00:05:26.106'
-      end: '00:05:36.550'
+      start:
+        sec: '326.106'
+        mark: '00:05:26.106'
+      end:
+        sec: '336.550'
+        mark: '00:05:36.550'
       u: Und am 19., [verbessert sich] 1941, am vierzehnten Juni...
     - who: David Boder
-      start: '00:05:36.550'
-      end: '00:05:37.847'
+      start:
+        sec: '336.550'
+        mark: '00:05:36.550'
+      end:
+        sec: '337.847'
+        mark: '00:05:37.847'
       u: "[unverständlich; evtl. „Junitag“]"
     - who: Ilmar A.
-      start: '00:05:37.847'
-      end: '00:05:49.942'
+      start:
+        sec: '337.847'
+        mark: '00:05:37.847'
+      end:
+        sec: '349.942'
+        mark: '00:05:49.942'
       u: Ja, am 14. Junitag [unverständlich] wir haben so, so Bescheid bekommen, dass
         die Verschleppten konnten, wir waren im Wald.
     - who: David Boder
-      start: '00:05:49.942'
-      end: '00:05:51.286'
+      start:
+        sec: '349.942'
+        mark: '00:05:49.942'
+      end:
+        sec: '351.286'
+        mark: '00:05:51.286'
       u: Wer war im Wald?
     - who: Ilmar A.
-      start: '00:05:51.286'
-      end: '00:05:53.967'
+      start:
+        sec: '351.286'
+        mark: '00:05:51.286'
+      end:
+        sec: '353.967'
+        mark: '00:05:53.967'
       u: Meine Eltern und ich.
     - who: David Boder
-      start: '00:05:53.967'
-      end: '00:05:55.311'
+      start:
+        sec: '353.967'
+        mark: '00:05:53.967'
+      end:
+        sec: '355.311'
+        mark: '00:05:55.311'
       u: Nun, weiter.
     - who: Ilmar A.
-      start: '00:05:55.311'
-      end: '00:05:56.695'
+      start:
+        sec: '355.311'
+        mark: '00:05:55.311'
+      end:
+        sec: '356.695'
+        mark: '00:05:56.695'
       u: Und ..
     - who: David Boder
-      start: '00:05:56.695'
-      end: '00:05:59.946'
+      start:
+        sec: '356.695'
+        mark: '00:05:56.695'
+      end:
+        sec: '359.946'
+        mark: '00:05:59.946'
       u: Sie waren im Wald. Wie haben Sie im Walde gelebt?
     - who: Ilmar A.
-      start: '00:05:59.946'
-      end: '00:06:08.267'
+      start:
+        sec: '359.946'
+        mark: '00:05:59.946'
+      end:
+        sec: '368.267'
+        mark: '00:06:08.267'
       u: Wir waren im Walde. Die, wir versteckten uns im Wald.
     - who: David Boder
-      start: '00:06:08.267'
-      end: '00:06:10.249'
+      start:
+        sec: '368.267'
+        mark: '00:06:08.267'
+      end:
+        sec: '370.249'
+        mark: '00:06:10.249'
       u: Nun ja, haben Sie dort ein Haus gehabt?
     - who: Ilmar A.
-      start: '00:06:10.249'
-      end: '00:06:13.460'
+      start:
+        sec: '370.249'
+        mark: '00:06:10.249'
+      end:
+        sec: '373.460'
+        mark: '00:06:13.460'
       u: Nein, wir hatten kein Haus, sondern wir hatten ein...
     - who: David Boder
-      start: '00:06:13.460'
-      end: '00:06:14.089'
+      start:
+        sec: '373.460'
+        mark: '00:06:13.460'
+      end:
+        sec: '374.089'
+        mark: '00:06:14.089'
       u: Zelt?
     - who: Ilmar A.
-      start: '00:06:14.089'
-      end: '00:06:21.684'
+      start:
+        sec: '374.089'
+        mark: '00:06:14.089'
+      end:
+        sec: '381.684'
+        mark: '00:06:21.684'
       u: Zelt, oder so was. Und wir sind versteckt. Und...
     - who: David Boder
-      start: '00:06:21.684'
-      end: '00:06:23.622'
+      start:
+        sec: '381.684'
+        mark: '00:06:21.684'
+      end:
+        sec: '383.622'
+        mark: '00:06:23.622'
       u: Wer war das alles zusammen, dieses Versteck?
     - who: Ilmar A.
-      start: '00:06:23.622'
-      end: '00:06:26.230'
+      start:
+        sec: '383.622'
+        mark: '00:06:23.622'
+      end:
+        sec: '386.230'
+        mark: '00:06:26.230'
       u: Meine Eltern, meine Eltern, meine Schwester und ich.
     - who: David Boder
-      start: '00:06:26.230'
-      end: '00:06:29.535'
+      start:
+        sec: '386.230'
+        mark: '00:06:26.230'
+      end:
+        sec: '389.535'
+        mark: '00:06:29.535'
       u: Ja. Wie viele, äh, wie viele Leute sind Sie in Ihrer Familie?
     - who: Ilmar A.
-      start: '00:06:29.535'
-      end: '00:06:30.385'
+      start:
+        sec: '389.535'
+        mark: '00:06:29.535'
+      end:
+        sec: '390.385'
+        mark: '00:06:30.385'
       u: Sieben Leute.
     - who: David Boder
-      start: '00:06:30.385'
-      end: '00:06:33.697'
+      start:
+        sec: '390.385'
+        mark: '00:06:30.385'
+      end:
+        sec: '393.697'
+        mark: '00:06:33.697'
       u: Aha. Und die ganze Familie hat sich im Walde versteckt?
     - who: Ilmar A.
-      start: '00:06:33.697'
-      end: '00:06:34.071'
+      start:
+        sec: '393.697'
+        mark: '00:06:33.697'
+      end:
+        sec: '394.071'
+        mark: '00:06:34.071'
       u: Ja.
     - who: David Boder
-      start: '00:06:34.071'
-      end: '00:06:36.980'
+      start:
+        sec: '394.071'
+        mark: '00:06:34.071'
+      end:
+        sec: '396.980'
+        mark: '00:06:36.980'
       u: Nun, wie lange haben Sie Sich im Walde versteckt?
     - who: Ilmar A.
-      start: '00:06:36.980'
-      end: '00:07:34.438'
+      start:
+        sec: '396.980'
+        mark: '00:06:36.980'
+      end:
+        sec: '454.438'
+        mark: '00:07:34.438'
       u: Wir waren im Walde bloß, äh, vier, vier Wochen. Dann am 21. Juni 1941 ist,
         äh, sind aufgebrochen mit Richtung Deutschland, und...Und das war im Juli,
         die Deutschen sind schon zu uns gekommen. Und dann konnten wir wieder von
         der Walde raus. Dann im 1941, im Herbst besuchten wir meine Bruder Walter
         und am, das war im Jahre 1942, [unverständlich].
     - who: David Boder
-      start: '00:07:34.438'
-      end: '00:07:35.977'
+      start:
+        sec: '454.438'
+        mark: '00:07:34.438'
+      end:
+        sec: '455.977'
+        mark: '00:07:35.977'
       u: Erzählen Sie das nochmal.
     - who: Ilmar A.
-      start: '00:07:35.977'
-      end: '00:07:36.882'
+      start:
+        sec: '455.977'
+        mark: '00:07:35.977'
+      end:
+        sec: '456.882'
+        mark: '00:07:36.882'
       u: Was?
     - who: David Boder
-      start: '00:07:36.882'
-      end: '00:07:42.605'
+      start:
+        sec: '456.882'
+        mark: '00:07:36.882'
+      end:
+        sec: '462.605'
+        mark: '00:07:42.605'
       u: Weiter. Haben die, die Deutschen irgendwie sich in die Schule hineingemischt?
     - who: Ilmar A.
-      start: '00:07:42.605'
-      end: '00:08:16.516'
+      start:
+        sec: '462.605'
+        mark: '00:07:42.605'
+      end:
+        sec: '496.516'
+        mark: '00:08:16.516'
       u: Ja. Die Deutschen haben so [unverständlich] eingemischt, weil die, die konnten
         nicht unsere Organisation und so was haben. Früher wir hatten ein [unverständlich]-Organisation,
         das sich in die, die, für uns, äh, Haus-Organisation. Und wenn die wussten,
         die kommen zu uns, dann konnten wir die Organisation abschließen. Und ich
         war auch Mitglied dabei.
     - who: David Boder
-      start: '00:08:16.516'
-      end: '00:08:17.934'
+      start:
+        sec: '496.516'
+        mark: '00:08:16.516'
+      end:
+        sec: '497.934'
+        mark: '00:08:17.934'
       u: Und das wurde abgeschlossen?
     - who: Ilmar A.
-      start: '00:08:17.934'
-      end: '00:08:18.967'
+      start:
+        sec: '497.934'
+        mark: '00:08:17.934'
+      end:
+        sec: '498.967'
+        mark: '00:08:18.967'
       u: Das wurde abgeschlossen.
     - who: David Boder
-      start: '00:08:18.967'
-      end: '00:08:21.894'
+      start:
+        sec: '498.967'
+        mark: '00:08:18.967'
+      end:
+        sec: '501.894'
+        mark: '00:08:21.894'
       u: Nun, und nachher? Wenn die Deutschen kamen?
     - who: Ilmar A.
-      start: '00:08:21.894'
-      end: '00:08:38.234'
+      start:
+        sec: '501.894'
+        mark: '00:08:21.894'
+      end:
+        sec: '518.234'
+        mark: '00:08:38.234'
       u: Wenn die Deutschen kamen, dann konnten wir das nicht mehr öffnen. Und, das
         war im Jahre 1942, bin ich in die Universität dann, in die Dorpater Universität.
     - who: David Boder
-      start: '00:08:38.234'
-      end: '00:08:46.411'
+      start:
+        sec: '518.234'
+        mark: '00:08:38.234'
+      end:
+        sec: '526.411'
+        mark: '00:08:46.411'
       u: Nun. Wollen Sie mir eins sagen; wenn die Russen gekommen sind, haben Sie
         gedacht, dass jetzt Estland Sowjet wird?
     - who: Ilmar A.
-      start: '00:08:46.411'
-      end: '00:08:49.734'
+      start:
+        sec: '526.411'
+        mark: '00:08:46.411'
+      end:
+        sec: '529.734'
+        mark: '00:08:49.734'
       u: Ja. Die haben gesagt, dass Estland wird Sowjetunion.
     - who: David Boder
-      start: '00:08:49.734'
-      end: '00:08:51.372'
+      start:
+        sec: '529.734'
+        mark: '00:08:49.734'
+      end:
+        sec: '531.372'
+        mark: '00:08:51.372'
       u: Und geht nach Russland rüber?
     - who: Ilmar A.
-      start: '00:08:51.372'
-      end: '00:08:56.028'
+      start:
+        sec: '531.372'
+        mark: '00:08:51.372'
+      end:
+        sec: '536.028'
+        mark: '00:08:56.028'
       u: Ja. Das, so, offiziell die haben nicht gesagt.
     - who: David Boder
-      start: '00:08:56.028'
-      end: '00:08:56.409'
+      start:
+        sec: '536.028'
+        mark: '00:08:56.028'
+      end:
+        sec: '536.409'
+        mark: '00:08:56.409'
       u: Aha.
     - who: Ilmar A.
-      start: '00:08:56.409'
-      end: '00:08:58.871'
+      start:
+        sec: '536.409'
+        mark: '00:08:56.409'
+      end:
+        sec: '538.871'
+        mark: '00:08:58.871'
       u: Sondern es erschien so.
     - who: David Boder
-      start: '00:08:58.871'
-      end: '00:09:02.634'
+      start:
+        sec: '538.871'
+        mark: '00:08:58.871'
+      end:
+        sec: '542.634'
+        mark: '00:09:02.634'
       u: Nun ja. Aber offiziell haben sie gesagt, Estland bleibt allein?
     - who: Ilmar A.
-      start: '00:09:02.634'
-      end: '00:09:13.174'
+      start:
+        sec: '542.634'
+        mark: '00:09:02.634'
+      end:
+        sec: '553.174'
+        mark: '00:09:13.174'
       u: Nein, die haben nicht gesagt, weil wir hatten keine inter-, inter-, Verwaltung.
         Sondern wir hatten plötzlich, äh, sowjetische Verwaltung.
     - who: David Boder
-      start: '00:09:13.174'
-      end: '00:09:20.032'
+      start:
+        sec: '553.174'
+        mark: '00:09:13.174'
+      end:
+        sec: '560.032'
+        mark: '00:09:20.032'
       u: Ja. Nun. Dann wenn die Deutschen gehen. Haben die Deutschen gesagt, dass
         Estland wird frei sein?
     - who: Ilmar A.
-      start: '00:09:20.032'
-      end: '00:09:22.146'
+      start:
+        sec: '560.032'
+        mark: '00:09:20.032'
+      end:
+        sec: '562.146'
+        mark: '00:09:22.146'
       u: Nein, die Deutschen haben das auch nicht gesagt.
     - who: David Boder
-      start: '00:09:22.146'
-      end: '00:09:23.747'
+      start:
+        sec: '562.146'
+        mark: '00:09:22.146'
+      end:
+        sec: '563.747'
+        mark: '00:09:23.747'
       u: Was haben die gesagt?
     - who: Ilmar A.
-      start: '00:09:23.747'
-      end: '00:09:32.352'
+      start:
+        sec: '563.747'
+        mark: '00:09:23.747'
+      end:
+        sec: '572.352'
+        mark: '00:09:32.352'
       u: Dass die haben nicht gesagt, die hatten Besatzungstruppen drin. Und wir sollten
         auch als [unverständlich]-Besetzte Deutsche sein.
     - who: David Boder
-      start: '00:09:32.352'
-      end: '00:09:38.521'
+      start:
+        sec: '572.352'
+        mark: '00:09:32.352'
+      end:
+        sec: '578.521'
+        mark: '00:09:38.521'
       u: Ach so. Die Deutschen, haben die Deutschen gesagt, dass sie Estland zu Deutschland
         nehmen?
     - who: Ilmar A.
-      start: '00:09:38.521'
-      end: '00:09:50.113'
+      start:
+        sec: '578.521'
+        mark: '00:09:38.521'
+      end:
+        sec: '590.113'
+        mark: '00:09:50.113'
       u: Äh, vorläufig die haben nicht gesagt, sondern das war ein Besatzungsgebiet.
         Und die wollten uns, von uns alles Mögliche, äh, ausrotten.
     - who: David Boder
-      start: '00:09:50.113'
-      end: '00:10:02.503'
+      start:
+        sec: '590.113'
+        mark: '00:09:50.113'
+      end:
+        sec: '602.503'
+        mark: '00:10:02.503'
       u: Ach so. Also weder die Deutschen noch die Russen haben Estland inkorporiert?
         Die Russen haben nicht eine Sowjetrepublik von Estland gemacht, haben sie?
     - who: Ilmar A.
-      start: '00:10:02.503'
-      end: '00:10:05.614'
+      start:
+        sec: '602.503'
+        mark: '00:10:02.503'
+      end:
+        sec: '605.614'
+        mark: '00:10:05.614'
       u: Ja, die haben Sowjet, Estland –republik gemacht.
     - who: David Boder
-      start: '00:10:05.614'
-      end: '00:10:06.838'
+      start:
+        sec: '605.614'
+        mark: '00:10:05.614'
+      end:
+        sec: '606.838'
+        mark: '00:10:06.838'
       u: Estland ist eine Sowjetrepublik geworden?
     - who: Ilmar A.
-      start: '00:10:06.838'
-      end: '00:10:07.670'
+      start:
+        sec: '606.838'
+        mark: '00:10:06.838'
+      end:
+        sec: '607.670'
+        mark: '00:10:07.670'
       u: Ja.
     - who: David Boder
-      start: '00:10:07.670'
-      end: '00:10:12.814'
+      start:
+        sec: '607.670'
+        mark: '00:10:07.670'
+      end:
+        sec: '612.814'
+        mark: '00:10:12.814'
       u: Und wenn die Deutschen kamen, haben die Deutschen gesagt, dass sie nehmen
         Estland zu, oder was?
     - who: Ilmar A.
-      start: '00:10:12.814'
-      end: '00:10:16.870'
+      start:
+        sec: '612.814'
+        mark: '00:10:12.814'
+      end:
+        sec: '616.870'
+        mark: '00:10:16.870'
       u: Nein, die haben nicht getan, sondern es war ein Besatzungsgebiet.
     - who: David Boder
-      start: '00:10:16.870'
-      end: '00:10:23.453'
+      start:
+        sec: '616.870'
+        mark: '00:10:16.870'
+      end:
+        sec: '623.453'
+        mark: '00:10:23.453'
       u: Ja. Nun, Sie waren in einem besetzt, äh [korrigiert sich] Besatzungsgebiet.
         Und Sie mussten gewisse Arbeiten für die Deutschen leisten.
     - who: Ilmar A.
-      start: '00:10:23.453'
-      end: '00:10:25.329'
+      start:
+        sec: '623.453'
+        mark: '00:10:23.453'
+      end:
+        sec: '625.329'
+        mark: '00:10:25.329'
       u: Die Deutschen leisten, ja.
     - who: David Boder
-      start: '00:10:25.329'
-      end: '00:10:33.891'
+      start:
+        sec: '625.329'
+        mark: '00:10:25.329'
+      end:
+        sec: '633.891'
+        mark: '00:10:33.891'
       u: Haben die, die Deutschen welche Leute verhaftet, äh, hingerichtet und so
         weiter, oder verschleppt, wie die Russen es getan haben?
     - who: Ilmar A.
-      start: '00:10:33.891'
-      end: '00:10:44.275'
+      start:
+        sec: '633.891'
+        mark: '00:10:33.891'
+      end:
+        sec: '644.275'
+        mark: '00:10:44.275'
       u: Ja. Die Deutschen haben das auch gemacht in höheren Maßen. Weil in 1942 besuche
         ich die Dorpater Universität und ich war damals sehr.
     - who: David Boder
-      start: '00:10:44.275'
-      end: '00:10:45.726'
+      start:
+        sec: '644.275'
+        mark: '00:10:44.275'
+      end:
+        sec: '645.726'
+        mark: '00:10:45.726'
       u: Ja.
     - who: Ilmar A.
-      start: '00:10:45.726'
-      end: '00:11:19.147'
+      start:
+        sec: '645.726'
+        mark: '00:10:45.726'
+      end:
+        sec: '679.147'
+        mark: '00:11:19.147'
       u: Die, die, die Deutschen haben, äh, unsere Professoren und unsere Studenten
         verfolgt. Und SB-Leute, halt, halt die Polizei hat mich immer und immer verfolgt.
         Und, äh, das war in 1943. In [undeutlich] wurde eine ganze Menge, fast 50
         Prozent, äh, [undeutlich] von unsere Professoren und auch ein Teil von Studenten
         verhaftet.
     - who: David Boder
-      start: '00:11:19.147'
-      end: '00:11:21.993'
+      start:
+        sec: '679.147'
+        mark: '00:11:19.147'
+      end:
+        sec: '681.993'
+        mark: '00:11:21.993'
       u: Aha. Und was hat man mit denen getan?
     - who: Ilmar A.
-      start: '00:11:21.993'
-      end: '00:11:28.601'
+      start:
+        sec: '681.993'
+        mark: '00:11:21.993'
+      end:
+        sec: '688.601'
+        mark: '00:11:28.601'
       u: Die, die haben sie in, ins, äh, Zuchthaus gebracht.
     - who: David Boder
-      start: '00:11:28.601'
-      end: '00:11:30.606'
+      start:
+        sec: '688.601'
+        mark: '00:11:28.601'
+      end:
+        sec: '690.606'
+        mark: '00:11:30.606'
       u: Und, Sie haben sie auch verhaftet?
     - who: Ilmar A.
-      start: '00:11:30.606'
-      end: '00:11:37.653'
+      start:
+        sec: '690.606'
+        mark: '00:11:30.606'
+      end:
+        sec: '697.653'
+        mark: '00:11:37.653'
       u: Nein, ich meine und, deswegen, das waren unsere Studenten, und das, das eine
         Organisation oder eine...
     - who: David Boder
-      start: '00:11:37.653'
-      end: '00:11:38.322'
+      start:
+        sec: '697.653'
+        mark: '00:11:37.653'
+      end:
+        sec: '698.322'
+        mark: '00:11:38.322'
       u: Ja.
     - who: Ilmar A.
-      start: '00:11:38.322'
-      end: '00:11:39.563'
+      start:
+        sec: '698.322'
+        mark: '00:11:38.322'
+      end:
+        sec: '699.563'
+        mark: '00:11:39.563'
       u: ". . . Gemeinschaftfamilie."
     - who: David Boder
-      start: '00:11:39.563'
-      end: '00:11:42.084'
+      start:
+        sec: '699.563'
+        mark: '00:11:39.563'
+      end:
+        sec: '702.084'
+        mark: '00:11:42.084'
       u: Hat man Sie auch genommen? Sie persönlich?
     - who: Ilmar A.
-      start: '00:11:42.084'
-      end: '00:11:47.966'
+      start:
+        sec: '702.084'
+        mark: '00:11:42.084'
+      end:
+        sec: '707.966'
+        mark: '00:11:47.966'
       u: Mich persönlich haben die nicht genommen. Aber ich wusste, dass die [undeutlich]
         wollten.
     - who: David Boder
-      start: '00:11:47.966'
-      end: '00:12:00.151'
+      start:
+        sec: '707.966'
+        mark: '00:11:47.966'
+      end:
+        sec: '720.151'
+        mark: '00:12:00.151'
       u: Nun? Und dann, sagen Sie mir, äh, was hat weiter passiert?
     - who: Ilmar A.
-      start: '00:12:00.151'
-      end: '00:12:17.174'
+      start:
+        sec: '720.151'
+        mark: '00:12:00.151'
+      end:
+        sec: '737.174'
+        mark: '00:12:17.174'
       u: Das war ´42, äh, dann bin ich auf Land hier gegangen zu meinen Eltern und
         wir hatten einen Hof auf dem Lande. Die Fabrik hatten wir nicht mehr und die
         Russen haben die Fabrik [unverständliches Verb, endet auf „ –tiert“].
     - who: David Boder
-      start: '00:12:17.174'
-      end: '00:12:18.473'
+      start:
+        sec: '737.174'
+        mark: '00:12:17.174'
+      end:
+        sec: '738.473'
+        mark: '00:12:18.473'
       u: Was für eine Fabrik war das?
     - who: Ilmar A.
-      start: '00:12:18.473'
-      end: '00:12:19.982'
+      start:
+        sec: '738.473'
+        mark: '00:12:18.473'
+      end:
+        sec: '739.982'
+        mark: '00:12:19.982'
       u: Das war Back-Fabrik.
     - who: David Boder
-      start: '00:12:19.982'
-      end: '00:12:22.045'
+      start:
+        sec: '739.982'
+        mark: '00:12:19.982'
+      end:
+        sec: '742.045'
+        mark: '00:12:22.045'
       u: Nun, haben die Deutschen die Fabrik zurückgegeben?
     - who: Ilmar A.
-      start: '00:12:22.045'
-      end: '00:12:38.017'
+      start:
+        sec: '742.045'
+        mark: '00:12:22.045'
+      end:
+        sec: '758.017'
+        mark: '00:12:38.017'
       u: Nein. Die Deutschen haben das auch nicht zurückgeben, sondern sie haben alles,
         äh, alle Sachen, alle Maschinen und, äh, [unverständlich]
     - who: David Boder
-      start: '00:12:38.017'
-      end: '00:12:39.831'
+      start:
+        sec: '758.017'
+        mark: '00:12:38.017'
+      end:
+        sec: '759.831'
+        mark: '00:12:39.831'
       u: "[Unverständlich]?"
     - who: Ilmar A.
-      start: '00:12:39.831'
-      end: '00:12:44.149'
+      start:
+        sec: '759.831'
+        mark: '00:12:39.831'
+      end:
+        sec: '764.149'
+        mark: '00:12:44.149'
       u: Ja.
     - who: David Boder
-      start: '00:12:44.149'
-      end: '00:12:54.309'
+      start:
+        sec: '764.149'
+        mark: '00:12:44.149'
+      end:
+        sec: '774.309'
+        mark: '00:12:54.309'
       u: Nun, weiter. Wollten Sie sagen, dass die Deutschen Ihre Maschinen mitgenommen
         haben, oder sie haben die Maschinen sozusagen arbeiten gelassen für die Deutschen?
     - who: Ilmar A.
-      start: '00:12:54.309'
-      end: '00:13:05.290'
+      start:
+        sec: '774.309'
+        mark: '00:12:54.309'
+      end:
+        sec: '785.290'
+        mark: '00:13:05.290'
       u: Sie haben zuerst arbeiten gelassen für die Deutschen und zuletzt, wenn sie
         sonst nichts mehr her-kommen, dann haben die Maschinen zurückgebracht,...
     - who: David Boder
-      start: '00:13:05.290'
-      end: '00:13:05.748'
+      start:
+        sec: '785.290'
+        mark: '00:13:05.290'
+      end:
+        sec: '785.748'
+        mark: '00:13:05.748'
       u: ". . . evakuiert?"
     - who: Ilmar A.
-      start: '00:13:05.748'
-      end: '00:13:08.670'
+      start:
+        sec: '785.748'
+        mark: '00:13:05.748'
+      end:
+        sec: '788.670'
+        mark: '00:13:08.670'
       u: ". . . evakuiert nach Deutschland."
     - who: David Boder
-      start: '00:13:08.670'
-      end: '00:13:11.554'
+      start:
+        sec: '788.670'
+        mark: '00:13:08.670'
+      end:
+        sec: '791.554'
+        mark: '00:13:11.554'
       u: Ja. Und Sie waren in der Universität?
     - who: Ilmar A.
-      start: '00:13:11.554'
-      end: '00:13:15.049'
+      start:
+        sec: '791.554'
+        mark: '00:13:11.554'
+      end:
+        sec: '795.049'
+        mark: '00:13:15.049'
       u: Äh, ich war, äh, im Winter war ich in der Universität.
     - who: David Boder
-      start: '00:13:15.049'
-      end: '00:13:19.326'
+      start:
+        sec: '795.049'
+        mark: '00:13:15.049'
+      end:
+        sec: '799.326'
+        mark: '00:13:19.326'
       u: Ja. Und dann was hat Ihnen weiter passiert? Ihnen und Ihrer Familie?
     - who: Ilmar A.
-      start: '00:13:19.326'
-      end: '00:13:43.335'
+      start:
+        sec: '799.326'
+        mark: '00:13:19.326'
+      end:
+        sec: '823.335'
+        mark: '00:13:43.335'
       u: Dann, äh, ich war, im Sommer war ich auf dem Lande. Und im Herbst bin ich
         nach Tartu wieder zurückgekehrt. Und ich konnte studieren bis 1944, Februar.
     - who: David Boder
-      start: '00:13:43.335'
-      end: '00:13:44.808'
+      start:
+        sec: '823.335'
+        mark: '00:13:43.335'
+      end:
+        sec: '824.808'
+        mark: '00:13:44.808'
       u: Und dann?
     - who: Ilmar A.
-      start: '00:13:44.808'
-      end: '00:13:53.133'
+      start:
+        sec: '824.808'
+        mark: '00:13:44.808'
+      end:
+        sec: '833.133'
+        mark: '00:13:53.133'
       u: Dann s/wollte ich wieder aufs Lande gehen, weil die sonst, ich, wieder [undeutlich,
         evtl. „näher und näher“] kommen,
     - who: David Boder
-      start: '00:13:53.133'
-      end: '00:13:53.773'
+      start:
+        sec: '833.133'
+        mark: '00:13:53.133'
+      end:
+        sec: '833.773'
+        mark: '00:13:53.773'
       u: "[undeutliches Verb]?"
     - who: Ilmar A.
-      start: '00:13:53.773'
-      end: '00:14:16.365'
+      start:
+        sec: '833.773'
+        mark: '00:13:53.773'
+      end:
+        sec: '856.365'
+        mark: '00:14:16.365'
       u: Ja, [undeutlich; wiederholt Boder]. Und unsere Universität sollte seine Türe
         abschließen. [Unverständlich], ich war auf dem Lande, was die Deutschen haben
         wieder eine Verhaftung gemacht, von den Professoren und, äh, von den, auch
         ein Teil von den Studenten.
     - who: David Boder
-      start: '00:14:16.365'
-      end: '00:14:20.184'
+      start:
+        sec: '856.365'
+        mark: '00:14:16.365'
+      end:
+        sec: '860.184'
+        mark: '00:14:20.184'
       u: Und was haben sie gesagt, warum haben sie die Leute verhaftet?
     - who: Ilmar A.
-      start: '00:14:20.184'
-      end: '00:14:37.472'
+      start:
+        sec: '860.184'
+        mark: '00:14:20.184'
+      end:
+        sec: '877.472'
+        mark: '00:14:37.472'
       u: Deswegen haben die verhaftet, dass die hatten Zweifel auf uns, dass wir haben
         Verbindungen mit Finnland und mit Schweden. Und wir haben auch geholfen, das
         ist die Wahrheit, dass wir haben geholfen die Leute nach Finnland und nach
         Schweden flüchten.
     - who: David Boder
-      start: '00:14:37.472'
-      end: '00:14:42.939'
+      start:
+        sec: '877.472'
+        mark: '00:14:37.472'
+      end:
+        sec: '882.939'
+        mark: '00:14:42.939'
       u: Aha. Aber Finnland hat ja mit den Deutschen gekämpft, die Finnland war ja
         auf der deutschen Seite?
     - who: Ilmar A.
-      start: '00:14:42.939'
-      end: '00:14:53.136'
+      start:
+        sec: '882.939'
+        mark: '00:14:42.939'
+      end:
+        sec: '893.136'
+        mark: '00:14:53.136'
       u: Ja, die Finnland war auf deutsche Seite, die sollte auf deutsche Seite sein.
         Deswegen dass Russland wollte Finnland besetzen.
     - who: David Boder
-      start: '00:14:53.136'
-      end: '00:14:57.129'
+      start:
+        sec: '893.136'
+        mark: '00:14:53.136'
+      end:
+        sec: '897.129'
+        mark: '00:14:57.129'
       u: Aber warum haben dann die Deutschen Angst gehabt, dass Sie nach Finnland
         gehen?
     - who: Ilmar A.
-      start: '00:14:57.129'
-      end: '00:15:23.410'
+      start:
+        sec: '897.129'
+        mark: '00:14:57.129'
+      end:
+        sec: '923.410'
+        mark: '00:15:23.410'
       u: Deswegen wollten sie uns nicht nach Finnland schicken, weil wir, die [betont]
         Leute, das wollten nach Finnland flüchten gehen, haben gesagt [unverständlich],
         die waren nicht gerichtet als Kommunisten auch nicht gerichtet als Nazisten
         oder Faschisten. Die waren, äh, so...
     - who: David Boder
-      start: '00:15:23.410'
-      end: '00:15:24.205'
+      start:
+        sec: '923.410'
+        mark: '00:15:23.410'
+      end:
+        sec: '924.205'
+        mark: '00:15:24.205'
       u: Unparteiisch?
     - who: Ilmar A.
-      start: '00:15:24.205'
-      end: '00:15:26.415'
+      start:
+        sec: '924.205'
+        mark: '00:15:24.205'
+      end:
+        sec: '926.415'
+        mark: '00:15:26.415'
       u: Unparteiisch, freie Demokraten.
     - who: David Boder
-      start: '00:15:26.415'
-      end: '00:15:30.874'
+      start:
+        sec: '926.415'
+        mark: '00:15:26.415'
+      end:
+        sec: '930.874'
+        mark: '00:15:30.874'
       u: Und, weiter?
     - who: Ilmar A.
-      start: '00:15:30.874'
-      end: '00:15:50.680'
+      start:
+        sec: '930.874'
+        mark: '00:15:30.874'
+      end:
+        sec: '950.680'
+        mark: '00:15:50.680'
       u: Und ein Teil von uns ist dann nach Finnland und nach Schweden geflüchtet.
         Jetzt haben wir in Schweden 35.000 Personen, haben wir dort Untergrund-Personen
         und auch meistens intelligent.
     - who: David Boder
-      start: '00:15:50.680'
-      end: '00:15:56.302'
+      start:
+        sec: '950.680'
+        mark: '00:15:50.680'
+      end:
+        sec: '956.302'
+        mark: '00:15:56.302'
       u: Ja. Und, wie leben die dort in Schweden? Leben die auch so wie hier, wie
         die, die...
     - who: Ilmar A.
-      start: '00:15:56.302'
-      end: '00:16:25.298'
+      start:
+        sec: '956.302'
+        mark: '00:15:56.302'
+      end:
+        sec: '985.298'
+        mark: '00:16:25.298'
       u: Die, die leben nicht in Schweden, wie die [unklar], sondern die müssen dort
         arbeiten. Und die haben schon gelernt schwedische Sprache. Und arbeiten irgendwo
         in der Handwerk und haben sich ganz einfach Arbeiten. Aber, so, Facharbeit
         haben sie nicht gekriegt, weil sind sie Professoren, oder die Intelligenz
         hat nicht gekriegt ein entsprechende Arbeit, sondern müssen..
     - who: David Boder
-      start: '00:16:25.298'
-      end: '00:16:26.015'
+      start:
+        sec: '985.298'
+        mark: '00:16:25.298'
+      end:
+        sec: '986.015'
+        mark: '00:16:26.015'
       u: Physisch arbeiten?
     - who: Ilmar A.
-      start: '00:16:26.015'
-      end: '00:16:28.264'
+      start:
+        sec: '986.015'
+        mark: '00:16:26.015'
+      end:
+        sec: '988.264'
+        mark: '00:16:28.264'
       u: Physische Arbeit machen, leisten.
     - who: David Boder
-      start: '00:16:28.264'
-      end: '00:16:31.673'
+      start:
+        sec: '988.264'
+        mark: '00:16:28.264'
+      end:
+        sec: '991.673'
+        mark: '00:16:31.673'
       u: Und die UNRRA hilft dort, oder, äh,?
     - who: Ilmar A.
-      start: '00:16:31.673'
-      end: '00:16:38.903'
+      start:
+        sec: '991.673'
+        mark: '00:16:31.673'
+      end:
+        sec: '998.903'
+        mark: '00:16:38.903'
       u: Das habe ich keine Ahnung, aber glaube ich, dass ist UNRRA ist nicht dort,
         sondern..
     - who: David Boder
-      start: '00:16:38.903'
-      end: '00:16:39.709'
+      start:
+        sec: '998.903'
+        mark: '00:16:38.903'
+      end:
+        sec: '999.709'
+        mark: '00:16:39.709'
       u: Sie sind einfach dort...
     - who: Ilmar A.
-      start: '00:16:39.709'
-      end: '00:16:40.094'
+      start:
+        sec: '999.709'
+        mark: '00:16:39.709'
+      end:
+        sec: '1000.094'
+        mark: '00:16:40.094'
       u: einfach
     - who: David Boder
-      start: '00:16:40.094'
-      end: '00:16:41.578'
+      start:
+        sec: '1000.094'
+        mark: '00:16:40.094'
+      end:
+        sec: '1001.578'
+        mark: '00:16:41.578'
       u: ". . . wie Migranten, wie Emigranten?"
     - who: Ilmar A.
-      start: '00:16:41.578'
-      end: '00:16:43.380'
+      start:
+        sec: '1001.578'
+        mark: '00:16:41.578'
+      end:
+        sec: '1003.380'
+        mark: '00:16:43.380'
       u: wie Emigranten, als Emigranten dort.
     - who: David Boder
-      start: '00:16:43.380'
-      end: '00:16:46.154'
+      start:
+        sec: '1003.380'
+        mark: '00:16:43.380'
+      end:
+        sec: '1006.154'
+        mark: '00:16:46.154'
       u: Nun, weiter, was hat Ihnen?
     - who: Ilmar A.
-      start: '00:16:46.154'
-      end: '00:17:02.912'
+      start:
+        sec: '1006.154'
+        mark: '00:16:46.154'
+      end:
+        sec: '1022.912'
+        mark: '00:17:02.912'
       u: Hier konnte ich immer mehr [undeutlich] von, bis September 1944. Dann sollte
         ich von meinem Haus wegkommen, sollte mein Haus ichverlassen.
     - who: David Boder
-      start: '00:17:02.912'
-      end: '00:17:03.960'
+      start:
+        sec: '1022.912'
+        mark: '00:17:02.912'
+      end:
+        sec: '1023.960'
+        mark: '00:17:03.960'
       u: Warum?
     - who: Ilmar A.
-      start: '00:17:03.960'
-      end: '00:18:00.722'
+      start:
+        sec: '1023.960'
+        mark: '00:17:03.960'
+      end:
+        sec: '1080.722'
+        mark: '00:18:00.722'
       u: Deswegen weil die Front ist näherge-, näherkommen und ich wollte nach Schweden
         flüchten. Aber meine Eltern sind zurückgeblieben. Und die konnten nicht mitkommen,
         deswegen weil sie waren, äh, alt. Gesundheit war nicht mehr in Ordnung. Das
@@ -693,543 +1261,1043 @@ recording:
         flüchten. Wir waren schon unterwegs so ein Tag, aber in der Nacht wir hatten
         Unglück und die Deutschen haben uns geschnappt.
     - who: David Boder
-      start: '00:18:00.722'
-      end: '00:18:01.845'
+      start:
+        sec: '1080.722'
+        mark: '00:18:00.722'
+      end:
+        sec: '1081.845'
+        mark: '00:18:01.845'
       u: Wo war das?
     - who: Ilmar A.
-      start: '00:18:01.845'
-      end: '00:18:03.543'
+      start:
+        sec: '1081.845'
+        mark: '00:18:01.845'
+      end:
+        sec: '1083.543'
+        mark: '00:18:03.543'
       u: Das war auf der See.
     - who: David Boder
-      start: '00:18:03.543'
-      end: '00:18:05.999'
+      start:
+        sec: '1083.543'
+        mark: '00:18:03.543'
+      end:
+        sec: '1085.999'
+        mark: '00:18:05.999'
       u: Und was sind Sie, bei, bei Boot gegangen?
     - who: Ilmar A.
-      start: '00:18:05.999'
-      end: '00:18:06.892'
+      start:
+        sec: '1085.999'
+        mark: '00:18:05.999'
+      end:
+        sec: '1086.892'
+        mark: '00:18:06.892'
       u: Ja, bei Boot.
     - who: David Boder
-      start: '00:18:06.892'
-      end: '00:18:08.098'
+      start:
+        sec: '1086.892'
+        mark: '00:18:06.892'
+      end:
+        sec: '1088.098'
+        mark: '00:18:08.098'
       u: Was für ein Boot?
     - who: Ilmar A.
-      start: '00:18:08.098'
-      end: '00:18:11.209'
+      start:
+        sec: '1088.098'
+        mark: '00:18:08.098'
+      end:
+        sec: '1091.209'
+        mark: '00:18:11.209'
       u: Das war ganz einfach ein kleines, kleines Boot.
     - who: David Boder
-      start: '00:18:11.209'
-      end: '00:18:12.098'
+      start:
+        sec: '1091.209'
+        mark: '00:18:11.209'
+      end:
+        sec: '1092.098'
+        mark: '00:18:12.098'
       u: Motorboot?
     - who: Ilmar A.
-      start: '00:18:12.098'
-      end: '00:18:14.769'
+      start:
+        sec: '1092.098'
+        mark: '00:18:12.098'
+      end:
+        sec: '1094.769'
+        mark: '00:18:14.769'
       u: Nein, [unverständlich]. Ja, es war ein Motorboot.
     - who: David Boder
-      start: '00:18:14.769'
-      end: '00:18:16.551'
+      start:
+        sec: '1094.769'
+        mark: '00:18:14.769'
+      end:
+        sec: '1096.551'
+        mark: '00:18:16.551'
       u: Und wo wollten Sie hinübergehen?
     - who: Ilmar A.
-      start: '00:18:16.551'
-      end: '00:18:18.015'
+      start:
+        sec: '1096.551'
+        mark: '00:18:16.551'
+      end:
+        sec: '1098.015'
+        mark: '00:18:18.015'
       u: Wir wollten nach Schweden übergehen.
     - who: David Boder
-      start: '00:18:18.015'
-      end: '00:18:21.305'
+      start:
+        sec: '1098.015'
+        mark: '00:18:18.015'
+      end:
+        sec: '1101.305'
+        mark: '00:18:21.305'
       u: Konnte man auf solch einem Boot nach Schweden rüberfahren?
     - who: Ilmar A.
-      start: '00:18:21.305'
-      end: '00:18:22.908'
+      start:
+        sec: '1101.305'
+        mark: '00:18:21.305'
+      end:
+        sec: '1102.908'
+        mark: '00:18:22.908'
       u: Nein, sie dürfen nicht rüberfahren.
     - who: David Boder
-      start: '00:18:22.908'
-      end: '00:18:26.829'
+      start:
+        sec: '1102.908'
+        mark: '00:18:22.908'
+      end:
+        sec: '1106.829'
+        mark: '00:18:26.829'
       u: Ja, aber ich meine, kann solch ein Boot nach Schweden rüberfahren?
     - who: Ilmar A.
-      start: '00:18:26.829'
-      end: '00:18:34.940'
+      start:
+        sec: '1106.829'
+        mark: '00:18:26.829'
+      end:
+        sec: '1114.940'
+        mark: '00:18:34.940'
       u: Ja, wir dachten schon, dass wir können zu fahren, das war, äh, die letzte
         Möglichkeit.
     - who: David Boder
-      start: '00:18:34.940'
-      end: '00:18:36.920'
+      start:
+        sec: '1114.940'
+        mark: '00:18:34.940'
+      end:
+        sec: '1116.920'
+        mark: '00:18:36.920'
       u: Wie viel Leute waren im Boot?
     - who: Ilmar A.
-      start: '00:18:36.920'
-      end: '00:18:39.321'
+      start:
+        sec: '1116.920'
+        mark: '00:18:36.920'
+      end:
+        sec: '1119.321'
+        mark: '00:18:39.321'
       u: Das war sechs Leute im Boot.
     - who: David Boder
-      start: '00:18:39.321'
-      end: '00:18:40.908'
+      start:
+        sec: '1119.321'
+        mark: '00:18:39.321'
+      end:
+        sec: '1120.908'
+        mark: '00:18:40.908'
       u: Aha, und das hat einen Motor gehabt?
     - who: Ilmar A.
-      start: '00:18:40.908'
-      end: '00:18:41.491'
+      start:
+        sec: '1120.908'
+        mark: '00:18:40.908'
+      end:
+        sec: '1121.491'
+        mark: '00:18:41.491'
       u: Ja.
     - who: David Boder
-      start: '00:18:41.491'
-      end: '00:18:44.959'
+      start:
+        sec: '1121.491'
+        mark: '00:18:41.491'
+      end:
+        sec: '1124.959'
+        mark: '00:18:44.959'
       u: Und haben Sie genug Gasolin gehabt, rüberzuholen [sic!]?
     - who: Ilmar A.
-      start: '00:18:44.959'
-      end: '00:18:52.797'
+      start:
+        sec: '1124.959'
+        mark: '00:18:44.959'
+      end:
+        sec: '1132.797'
+        mark: '00:18:52.797'
       u: Ja, wir haben nicht so viel Gasolin gehabt, aber wir hatten, äh, auch Ruder
         dabei.
     - who: David Boder
-      start: '00:18:52.797'
-      end: '00:18:53.666'
+      start:
+        sec: '1132.797'
+        mark: '00:18:52.797'
+      end:
+        sec: '1133.666'
+        mark: '00:18:53.666'
       u: Aha.
     - who: Ilmar A.
-      start: '00:18:53.666'
-      end: '00:18:58.817'
+      start:
+        sec: '1133.666'
+        mark: '00:18:53.666'
+      end:
+        sec: '1138.817'
+        mark: '00:18:58.817'
       u: Ja, und zuletzt wir vielleicht hätten ge-, gerudert.
     - who: David Boder
-      start: '00:18:58.817'
-      end: '00:19:02.698'
+      start:
+        sec: '1138.817'
+        mark: '00:18:58.817'
+      end:
+        sec: '1142.698'
+        mark: '00:19:02.698'
       u: Nun. Und wo haben Sie die Deutschen gefangen?
     - who: Ilmar A.
-      start: '00:19:02.698'
-      end: '00:19:09.575'
+      start:
+        sec: '1142.698'
+        mark: '00:19:02.698'
+      end:
+        sec: '1149.575'
+        mark: '00:19:09.575'
       u: Die Deutschen ungefähr in der Mitte auf der See haben uns geschnappt.
     - who: David Boder
-      start: '00:19:09.575'
-      end: '00:19:11.952'
+      start:
+        sec: '1149.575'
+        mark: '00:19:09.575'
+      end:
+        sec: '1151.952'
+        mark: '00:19:11.952'
       u: Wie viel Tage waren Sie schon weg vom, vom Ufer?
     - who: Ilmar A.
-      start: '00:19:11.952'
-      end: '00:19:14.111'
+      start:
+        sec: '1151.952'
+        mark: '00:19:11.952'
+      end:
+        sec: '1154.111'
+        mark: '00:19:14.111'
       u: Ich war ungefähr einen Tag weg.
     - who: David Boder
-      start: '00:19:14.111'
-      end: '00:19:16.468'
+      start:
+        sec: '1154.111'
+        mark: '00:19:14.111'
+      end:
+        sec: '1156.468'
+        mark: '00:19:16.468'
       u: Aha. Nun das war doch nicht in der Mitte, man kann ja nicht...
     - who: Ilmar A.
-      start: '00:19:16.468'
-      end: '00:19:19.635'
+      start:
+        sec: '1156.468'
+        mark: '00:19:16.468'
+      end:
+        sec: '1159.635'
+        mark: '00:19:19.635'
       u: "[Unverständlich] ein Tag, in zwei Tagen bist Du auch herüber."
     - who: David Boder
-      start: '00:19:19.635'
-      end: '00:19:20.246'
+      start:
+        sec: '1159.635'
+        mark: '00:19:19.635'
+      end:
+        sec: '1160.246'
+        mark: '00:19:20.246'
       u: "[erstaunt] Nach Schweden?"
     - who: Ilmar A.
-      start: '00:19:20.246'
-      end: '00:19:21.810'
+      start:
+        sec: '1160.246'
+        mark: '00:19:20.246'
+      end:
+        sec: '1161.810'
+        mark: '00:19:21.810'
       u: Ja, nach Schweden.Von Estland nach Schweden sind es mehrere hundert Kilometer!
         Meint er vielleicht Finnland?1
     - who: David Boder
-      start: '00:19:21.810'
-      end: '00:19:24.147'
+      start:
+        sec: '1161.810'
+        mark: '00:19:21.810'
+      end:
+        sec: '1164.147'
+        mark: '00:19:24.147'
       u: Achja, und weiter.
     - who: Ilmar A.
-      start: '00:19:24.147'
-      end: '00:19:32.913'
+      start:
+        sec: '1164.147'
+        mark: '00:19:24.147'
+      end:
+        sec: '1172.913'
+        mark: '00:19:32.913'
       u: Und die haben uns nach Deutschland gebracht.
     - who: David Boder
-      start: '00:19:32.913'
-      end: '00:19:34.890'
+      start:
+        sec: '1172.913'
+        mark: '00:19:32.913'
+      end:
+        sec: '1174.890'
+        mark: '00:19:34.890'
       u: Und was hat dann passiert?
     - who: Ilmar A.
-      start: '00:19:34.890'
-      end: '00:19:58.910'
+      start:
+        sec: '1174.890'
+        mark: '00:19:34.890'
+      end:
+        sec: '1198.910'
+        mark: '00:19:58.910'
       u: Das war im Lager und ich bin der Sohn eines Bauern. Dann ich habe gesagt,
         dass ich kann irgendwo auf dem Lande arbeiten. Dann ich habe jetzt gemeint,
         dann kann ich vielleicht am besten so am Leben bleiben. Weil die Verpflegung
         war sehr schlecht.
     - who: David Boder
-      start: '00:19:58.910'
-      end: '00:20:01.089'
+      start:
+        sec: '1198.910'
+        mark: '00:19:58.910'
+      end:
+        sec: '1201.089'
+        mark: '00:20:01.089'
       u: In was für einem Lager waren Sie?
     - who: Ilmar A.
-      start: '00:20:01.089'
-      end: '00:20:03.129'
+      start:
+        sec: '1201.089'
+        mark: '00:20:01.089'
+      end:
+        sec: '1203.129'
+        mark: '00:20:03.129'
       u: Das war in [Gotenhafen?].
     - who: David Boder
-      start: '00:20:03.129'
-      end: '00:20:07.907'
+      start:
+        sec: '1203.129'
+        mark: '00:20:03.129'
+      end:
+        sec: '1207.907'
+        mark: '00:20:07.907'
       u: "[unverständlich; evtl. „ - am Hafen“?]. Wie viel Leute waren in diesem Lager
         im Allgemeinen? War das ein großes Konzentrationslager?"
     - who: Ilmar A.
-      start: '00:20:07.907'
-      end: '00:20:19.054'
+      start:
+        sec: '1207.907'
+        mark: '00:20:07.907'
+      end:
+        sec: '1219.054'
+        mark: '00:20:19.054'
       u: Das ist, das war nicht Konzentrationslager, sondern das war ein Durchgangslager
         oder so was und der Zahl der Leute kann ich nicht sagen.
     - who: David Boder
-      start: '00:20:19.054'
-      end: '00:20:22.205'
+      start:
+        sec: '1219.054'
+        mark: '00:20:19.054'
+      end:
+        sec: '1222.205'
+        mark: '00:20:22.205'
       u: So ungefähr, wie viel schätzen Sie?
     - who: Ilmar A.
-      start: '00:20:22.205'
-      end: '00:20:23.729'
+      start:
+        sec: '1222.205'
+        mark: '00:20:22.205'
+      end:
+        sec: '1223.729'
+        mark: '00:20:23.729'
       u: Die waren 1000 dort.
     - who: David Boder
-      start: '00:20:23.729'
-      end: '00:20:24.320'
+      start:
+        sec: '1223.729'
+        mark: '00:20:23.729'
+      end:
+        sec: '1224.320'
+        mark: '00:20:24.320'
       u: '1000.'
     - who: Ilmar A.
-      start: '00:20:24.320'
-      end: '00:20:24.832'
+      start:
+        sec: '1224.320'
+        mark: '00:20:24.320'
+      end:
+        sec: '1224.832'
+        mark: '00:20:24.832'
       u: Ja.
     - who: David Boder
-      start: '00:20:24.832'
-      end: '00:20:31.158'
+      start:
+        sec: '1224.832'
+        mark: '00:20:24.832'
+      end:
+        sec: '1231.158'
+        mark: '00:20:31.158'
       u: Und wie hat, haben sich die Deutschen gegen Ihnen persönlich benommen?
     - who: Ilmar A.
-      start: '00:20:31.158'
-      end: '00:20:50.012'
+      start:
+        sec: '1231.158'
+        mark: '00:20:31.158'
+      end:
+        sec: '1250.012'
+        mark: '00:20:50.012'
       u: Zuerst waren sie [unverständlich], aber zuletzt sie haben gesagt, „Ja, Sie
         können dort auf die Arbeit gehen und können Sie auch dann weggehen“, sie waren
         dort bloß drei Tage. Ich habe erzählt, dass ich bin Sohn des Bauers und ich
         kann auf dem Lande irgendwo arbeiten.
     - who: David Boder
-      start: '00:20:50.012'
-      end: '00:20:51.278'
+      start:
+        sec: '1250.012'
+        mark: '00:20:50.012'
+      end:
+        sec: '1251.278'
+        mark: '00:20:51.278'
       u: Sie waren im Lager bloß drei Tage?
     - who: Ilmar A.
-      start: '00:20:51.278'
-      end: '00:20:51.810'
+      start:
+        sec: '1251.278'
+        mark: '00:20:51.278'
+      end:
+        sec: '1251.810'
+        mark: '00:20:51.810'
       u: Ja, ja.
     - who: David Boder
-      start: '00:20:51.810'
-      end: '00:20:53.612'
+      start:
+        sec: '1251.810'
+        mark: '00:20:51.810'
+      end:
+        sec: '1253.612'
+        mark: '00:20:53.612'
       u: Nun, weiter.
     - who: Ilmar A.
-      start: '00:20:53.612'
-      end: '00:20:56.326'
+      start:
+        sec: '1253.612'
+        mark: '00:20:53.612'
+      end:
+        sec: '1256.326'
+        mark: '00:20:56.326'
       u: Dann bin ich gegangen nach...
     - who: David Boder
-      start: '00:20:56.326'
-      end: '00:21:00.072'
+      start:
+        sec: '1256.326'
+        mark: '00:20:56.326'
+      end:
+        sec: '1260.072'
+        mark: '00:21:00.072'
       u: Haben Sie die Deutschen nach irgendwelcher Zeit geschlagen?
     - who: Ilmar A.
-      start: '00:21:00.072'
-      end: '00:21:03.148'
+      start:
+        sec: '1260.072'
+        mark: '00:21:00.072'
+      end:
+        sec: '1263.148'
+        mark: '00:21:03.148'
       u: Nein, mich persönlich geschlagen haben sie nicht.
     - who: David Boder
-      start: '00:21:03.148'
-      end: '00:21:06.319'
+      start:
+        sec: '1263.148'
+        mark: '00:21:03.148'
+      end:
+        sec: '1266.319'
+        mark: '00:21:06.319'
       u: Warum nicht? Haben die jemand anders geschlagen?
     - who: Ilmar A.
-      start: '00:21:06.319'
-      end: '00:21:09.609'
+      start:
+        sec: '1266.319'
+        mark: '00:21:06.319'
+      end:
+        sec: '1269.609'
+        mark: '00:21:09.609'
       u: Das habe ich gesehen, aber mich haben sie nicht, nicht.
     - who: Ilmar A.
-      start: '00:21:09.609'
-      end: '00:21:13.811'
+      start:
+        sec: '1269.609'
+        mark: '00:21:09.609'
+      end:
+        sec: '1273.811'
+        mark: '00:21:13.811'
       u: Und wer waren die Leute, die sie geschlagen haben?
     - who: Ilmar A.
-      start: '00:21:13.811'
-      end: '00:21:28.143'
+      start:
+        sec: '1273.811'
+        mark: '00:21:13.811'
+      end:
+        sec: '1288.143'
+        mark: '00:21:28.143'
       u: Das kann ich nicht sagen. Ich weiß nicht, was für Nationalität oder so was
         haben, das waren, äh, von vielen Nationalitäten, auch Letten, Litauer, Polen,
         und alle mögliche.
     - who: David Boder
-      start: '00:21:28.143'
-      end: '00:21:31.274'
+      start:
+        sec: '1288.143'
+        mark: '00:21:28.143'
+      end:
+        sec: '1291.274'
+        mark: '00:21:31.274'
       u: Nun, weiter. Sind Sie aufs Land gegangen?
     - who: Ilmar A.
-      start: '00:21:31.274'
-      end: '00:21:42.123'
+      start:
+        sec: '1291.274'
+        mark: '00:21:31.274'
+      end:
+        sec: '1302.123'
+        mark: '00:21:42.123'
       u: Und ich war auf dem Lande und ich arbeitete dort bis, äh, 5. Mai 1945.
     - who: David Boder
-      start: '00:21:42.123'
-      end: '00:21:49.659'
+      start:
+        sec: '1302.123'
+        mark: '00:21:42.123'
+      end:
+        sec: '1309.659'
+        mark: '00:21:49.659'
       u: Was hat dann passiert? (Einen Moment.) [Boder spricht mit jemand im Hintergrund?].
         Wie hat sich der Bauer gegen Ihnen benommen? Hat er Ihnen genug zu essen gegeben?
     - who: Ilmar A.
-      start: '00:21:49.659'
-      end: '00:21:56.044'
+      start:
+        sec: '1309.659'
+        mark: '00:21:49.659'
+      end:
+        sec: '1316.044'
+        mark: '00:21:56.044'
       u: Genug Essen hat er nicht gegeben, sondern ich habe extra gegessen.
     - who: David Boder
-      start: '00:21:56.044'
-      end: '00:21:56.926'
+      start:
+        sec: '1316.044'
+        mark: '00:21:56.044'
+      end:
+        sec: '1316.926'
+        mark: '00:21:56.926'
       u: Was heißt „extra gegessen“?
     - who: Ilmar A.
-      start: '00:21:56.926'
-      end: '00:22:10.073'
+      start:
+        sec: '1316.926'
+        mark: '00:21:56.926'
+      end:
+        sec: '1330.073'
+        mark: '00:22:10.073'
       u: Extra gegessen im, in einem Zimmer und der Bauer hat gegessen im Speisesaal.
     - who: David Boder
-      start: '00:22:10.073'
-      end: '00:22:16.875'
+      start:
+        sec: '1330.073'
+        mark: '00:22:10.073'
+      end:
+        sec: '1336.875'
+        mark: '00:22:16.875'
       u: Und was haben sie Ihnen, und haben sie Ihnen etwas bezahlt?
     - who: Ilmar A.
-      start: '00:22:16.875'
-      end: '00:22:21.256'
+      start:
+        sec: '1336.875'
+        mark: '00:22:16.875'
+      end:
+        sec: '1341.256'
+        mark: '00:22:21.256'
       u: Dort bezahlt haben sie uns 23 Mark pro Monat.
     - who: David Boder
-      start: '00:22:21.256'
-      end: '00:22:24.089'
+      start:
+        sec: '1341.256'
+        mark: '00:22:21.256'
+      end:
+        sec: '1344.089'
+        mark: '00:22:24.089'
       u: Und wer war mit Ihnen?
     - who: Ilmar A.
-      start: '00:22:24.089'
-      end: '00:22:25.133'
+      start:
+        sec: '1344.089'
+        mark: '00:22:24.089'
+      end:
+        sec: '1345.133'
+        mark: '00:22:25.133'
       u: Wie bitte?
     - who: David Boder
-      start: '00:22:25.133'
-      end: '00:22:28.284'
+      start:
+        sec: '1345.133'
+        mark: '00:22:25.133'
+      end:
+        sec: '1348.284'
+        mark: '00:22:28.284'
       u: Sie sagen „uns“, wer war denn noch mit Ihnen?
     - who: Ilmar A.
-      start: '00:22:28.284'
-      end: '00:22:31.018'
+      start:
+        sec: '1348.284'
+        mark: '00:22:28.284'
+      end:
+        sec: '1351.018'
+        mark: '00:22:31.018'
       u: Na, ich meine das, äh,
     - who: David Boder
-      start: '00:22:31.018'
-      end: '00:22:31.689'
+      start:
+        sec: '1351.018'
+        mark: '00:22:31.018'
+      end:
+        sec: '1351.689'
+        mark: '00:22:31.689'
       u: Im Allgemeinen?
     - who: Ilmar A.
-      start: '00:22:31.689'
-      end: '00:22:33.352'
+      start:
+        sec: '1351.689'
+        mark: '00:22:31.689'
+      end:
+        sec: '1353.352'
+        mark: '00:22:33.352'
       u: im allgemeinen, [undeutlich].
     - who: David Boder
-      start: '00:22:33.352'
-      end: '00:22:38.765'
+      start:
+        sec: '1353.352'
+        mark: '00:22:33.352'
+      end:
+        sec: '1358.765'
+        mark: '00:22:38.765'
       u: 23 Mark pro Monat. Und was konnte man für 23 Mark kaufen?
     - who: Ilmar A.
-      start: '00:22:38.765'
-      end: '00:22:42.908'
+      start:
+        sec: '1358.765'
+        mark: '00:22:38.765'
+      end:
+        sec: '1362.908'
+        mark: '00:22:42.908'
       u: Für das Geld konnte man nichts kaufen.
     - who: David Boder
-      start: '00:22:42.908'
-      end: '00:22:44.745'
+      start:
+        sec: '1362.908'
+        mark: '00:22:42.908'
+      end:
+        sec: '1364.745'
+        mark: '00:22:44.745'
       u: Haben Sie eine Lebensmittelkarte gehabt?
     - who: Ilmar A.
-      start: '00:22:44.745'
-      end: '00:22:49.324'
+      start:
+        sec: '1364.745'
+        mark: '00:22:44.745'
+      end:
+        sec: '1369.324'
+        mark: '00:22:49.324'
       u: Nein. Ich habe nicht gehabt, sondern Bauer hat mir gegeben. Zu Essen gegeben.
     - who: David Boder
-      start: '00:22:49.324'
-      end: '00:22:58.070'
+      start:
+        sec: '1369.324'
+        mark: '00:22:49.324'
+      end:
+        sec: '1378.070'
+        mark: '00:22:58.070'
       u: Zu Essen gegeben. Wie hat der Bauer, wie hat der Bauer sich benommen? War
         er anständig? War er freundlich?
     - who: Ilmar A.
-      start: '00:22:58.070'
-      end: '00:23:13.602'
+      start:
+        sec: '1378.070'
+        mark: '00:22:58.070'
+      end:
+        sec: '1393.602'
+        mark: '00:23:13.602'
       u: Zuerst war er nicht freundlich, aber zuletzt ich habe gut gearbeitet, weil
         ich bin doch junger Mann und der Bauer war ganz anständig.
     - who: David Boder
-      start: '00:23:13.602'
-      end: '00:23:19.626'
+      start:
+        sec: '1393.602'
+        mark: '00:23:13.602'
+      end:
+        sec: '1399.626'
+        mark: '00:23:19.626'
       u: Nun. Und was hat im 5. Mai, sagten Sie ja, den 5. März [sic], was ist dann
         passiert? Was war das?
     - who: Ilmar A.
-      start: '00:23:19.626'
-      end: '00:23:31.448'
+      start:
+        sec: '1399.626'
+        mark: '00:23:19.626'
+      end:
+        sec: '1411.448'
+        mark: '00:23:31.448'
       u: Dann sind die Amerikanische Besatzungstruppe gekommen und wir sind gefreit
         von Deutschen, wir konnten von Amerikaner verpflegt werden.
     - who: David Boder
-      start: '00:23:31.448'
-      end: '00:23:33.012'
+      start:
+        sec: '1411.448'
+        mark: '00:23:31.448'
+      end:
+        sec: '1413.012'
+        mark: '00:23:33.012'
       u: Wo war das? War das im...?
     - who: Ilmar A.
-      start: '00:23:33.012'
-      end: '00:23:34.870'
+      start:
+        sec: '1413.012'
+        mark: '00:23:33.012'
+      end:
+        sec: '1414.870'
+        mark: '00:23:34.870'
       u: Das war in Oberlungwitz, das war...
     - who: David Boder
-      start: '00:23:34.870'
-      end: '00:23:36.592'
+      start:
+        sec: '1414.870'
+        mark: '00:23:34.870'
+      end:
+        sec: '1416.592'
+        mark: '00:23:36.592'
       u: Ist das in der Amerikanischen Zone?
     - who: Ilmar A.
-      start: '00:23:36.592'
-      end: '00:23:42.104'
+      start:
+        sec: '1416.592'
+        mark: '00:23:36.592'
+      end:
+        sec: '1422.104'
+        mark: '00:23:42.104'
       u: Nein, das ist nicht jetzt in Amerikanische Zone, sondern jetzt ist die Russische
         Zone.
     - who: David Boder
-      start: '00:23:42.104'
-      end: '00:23:43.195'
+      start:
+        sec: '1422.104'
+        mark: '00:23:42.104'
+      end:
+        sec: '1423.195'
+        mark: '00:23:43.195'
       u: Es ist die Russische Zone?
     - who: Ilmar A.
-      start: '00:23:43.195'
-      end: '00:23:43.945'
+      start:
+        sec: '1423.195'
+        mark: '00:23:43.195'
+      end:
+        sec: '1423.945'
+        mark: '00:23:43.945'
       u: Ja.
     - who: David Boder
-      start: '00:23:43.945'
-      end: '00:23:48.505'
+      start:
+        sec: '1423.945'
+        mark: '00:23:43.945'
+      end:
+        sec: '1428.505'
+        mark: '00:23:48.505'
       u: Und, sind Sie von der Zone nach hier gekommen, nach München?
     - who: Ilmar A.
-      start: '00:23:48.505'
-      end: '00:23:54.473'
+      start:
+        sec: '1428.505'
+        mark: '00:23:48.505'
+      end:
+        sec: '1434.473'
+        mark: '00:23:54.473'
       u: Ich bin von der Zone so ge-, geflüchtet wieder.
     - who: David Boder
-      start: '00:23:54.473'
-      end: '00:23:55.342'
+      start:
+        sec: '1434.473'
+        mark: '00:23:54.473'
+      end:
+        sec: '1435.342'
+        mark: '00:23:55.342'
       u: Warum?
     - who: Ilmar A.
-      start: '00:23:55.342'
-      end: '00:24:11.886'
+      start:
+        sec: '1435.342'
+        mark: '00:23:55.342'
+      end:
+        sec: '1451.886'
+        mark: '00:24:11.886'
       u: Deswegen weil ich habe gehört, dass die Russen kommen hin. Und ich hatte
         sowieso Angst, weil ich flüchte schon 1944 vor den Russen und ich weiß, was
         das bedeutet, das war
     - who: David Boder
-      start: '00:24:11.886'
-      end: '00:24:15.945'
+      start:
+        sec: '1451.886'
+        mark: '00:24:11.886'
+      end:
+        sec: '1455.945'
+        mark: '00:24:15.945'
       u: "[unterbricht] In `44 sind Sie doch nicht von den Russen geflohen? `44 sind
         Sie von den Deutschen geflohen."
     - who: Ilmar A.
-      start: '00:24:15.945'
-      end: '00:24:17.846'
+      start:
+        sec: '1455.945'
+        mark: '00:24:15.945'
+      end:
+        sec: '1457.846'
+        mark: '00:24:17.846'
       u: Von den Deutschen und auch hier von den Russen.
     - who: David Boder
-      start: '00:24:17.846'
-      end: '00:24:17.846'
+      start:
+        sec: '1457.846'
+        mark: '00:24:17.846'
+      end:
+        sec: '1457.846'
+        mark: '00:24:17.846'
       u: Ach dass die Russen kommen, ja.
     - who: Ilmar A.
-      start: '00:24:17.846'
-      end: '00:24:37.015'
+      start:
+        sec: '1457.846'
+        mark: '00:24:17.846'
+      end:
+        sec: '1477.015'
+        mark: '00:24:37.015'
       u: Die Russen sind gekommen und ich weiß, was es bedeutet, eine russische Besatzung
         deswegen, dass, äh, im 1941 am 14. Juli, man wurde, wurde verschleppt 60.000
         Männern und Frauen nach Sibirien. 60.000 von uns
     - who: David Boder
-      start: '00:24:37.015'
-      end: '00:24:37.606'
+      start:
+        sec: '1477.015'
+        mark: '00:24:37.015'
+      end:
+        sec: '1477.606'
+        mark: '00:24:37.606'
       u: Sechzehn ?
     - who: Ilmar A.
-      start: '00:24:37.606'
-      end: '00:24:38.495'
+      start:
+        sec: '1477.606'
+        mark: '00:24:37.606'
+      end:
+        sec: '1478.495'
+        mark: '00:24:38.495'
       u: Sechzig.
     - who: David Boder
-      start: '00:24:38.495'
-      end: '00:24:39.047'
+      start:
+        sec: '1478.495'
+        mark: '00:24:38.495'
+      end:
+        sec: '1479.047'
+        mark: '00:24:39.047'
       u: Sechzigtausend.
     - who: Ilmar A.
-      start: '00:24:39.047'
-      end: '00:24:48.583'
+      start:
+        sec: '1479.047'
+        mark: '00:24:39.047'
+      end:
+        sec: '1488.583'
+        mark: '00:24:48.583'
       u: Ja. Das bedeutet, äh, ein, äh, sieben Prozent ..
     - who: David Boder
-      start: '00:24:48.583'
-      end: '00:24:49.460'
+      start:
+        sec: '1488.583'
+        mark: '00:24:48.583'
+      end:
+        sec: '1489.460'
+        mark: '00:24:49.460'
       u: Ja, von den ganzen
     - who: Ilmar A.
-      start: '00:24:49.460'
-      end: '00:24:51.662'
+      start:
+        sec: '1489.460'
+        mark: '00:24:49.460'
+      end:
+        sec: '1491.662'
+        mark: '00:24:51.662'
       u: von den ganzen Bevölkerung.
     - who: David Boder
-      start: '00:24:51.662'
-      end: '00:25:04.254'
+      start:
+        sec: '1491.662'
+        mark: '00:24:51.662'
+      end:
+        sec: '1504.254'
+        mark: '00:25:04.254'
       u: Nun? [Kurze Pause in der Aufnahme] Was hat dort passiert?
     - who: Ilmar A.
-      start: '00:25:04.254'
-      end: '00:25:24.012'
+      start:
+        sec: '1504.254'
+        mark: '00:25:04.254'
+      end:
+        sec: '1524.012'
+        mark: '00:25:24.012'
       u: Hier habe ich gelebt und ich wollte wieder hier weiterstudieren und ich habe
         gebeten, Möglichkeit zu geben, hier in Deutschland irgendwo weiterstudieren.
         Jetzt habe ich gehört, dass
     - who: David Boder
-      start: '00:25:24.012'
-      end: '00:25:24.504'
+      start:
+        sec: '1524.012'
+        mark: '00:25:24.012'
+      end:
+        sec: '1524.504'
+        mark: '00:25:24.504'
       u: Ja?
     - who: Ilmar A.
-      start: '00:25:24.504'
-      end: '00:25:35.171'
+      start:
+        sec: '1524.504'
+        mark: '00:25:24.504'
+      end:
+        sec: '1535.171'
+        mark: '00:25:35.171'
       u: habe ich gehört, dass hier in München wird, gründet eine UNRRA-Universität,
         das ist eine internationale Universität, wo studieren 19, 12...
     - who: David Boder
-      start: '00:25:35.171'
-      end: '00:25:37.449'
+      start:
+        sec: '1535.171'
+        mark: '00:25:35.171'
+      end:
+        sec: '1537.449'
+        mark: '00:25:37.449'
       u: Aha. Und was studieren Sie hier?
     - who: Ilmar A.
-      start: '00:25:37.449'
-      end: '00:25:39.092'
+      start:
+        sec: '1537.449'
+        mark: '00:25:37.449'
+      end:
+        sec: '1539.092'
+        mark: '00:25:39.092'
       u: Ich studiere Bauwesen.
     - who: David Boder
-      start: '00:25:39.092'
-      end: '00:25:40.021'
+      start:
+        sec: '1539.092'
+        mark: '00:25:39.092'
+      end:
+        sec: '1540.021'
+        mark: '00:25:40.021'
       u: Was? Bauwesen?
     - who: Ilmar A.
-      start: '00:25:40.021'
-      end: '00:25:40.513'
+      start:
+        sec: '1540.021'
+        mark: '00:25:40.021'
+      end:
+        sec: '1540.513'
+        mark: '00:25:40.513'
       u: Bauwesen.
     - who: David Boder
-      start: '00:25:40.513'
-      end: '00:25:40.926'
+      start:
+        sec: '1540.513'
+        mark: '00:25:40.513'
+      end:
+        sec: '1540.926'
+        mark: '00:25:40.926'
       u: Architektur?
     - who: Ilmar A.
-      start: '00:25:40.926'
-      end: '00:25:44.871'
+      start:
+        sec: '1540.926'
+        mark: '00:25:40.926'
+      end:
+        sec: '1544.871'
+        mark: '00:25:44.871'
       u: Archi-, nein, nicht Archi-, sondern Fachrichtung Bauwesen.
     - who: David Boder
-      start: '00:25:44.871'
-      end: '00:25:46.752'
+      start:
+        sec: '1544.871'
+        mark: '00:25:44.871'
+      end:
+        sec: '1546.752'
+        mark: '00:25:46.752'
       u: Nun ja, Häuser zu bauen?
     - who: Ilmar A.
-      start: '00:25:46.752'
-      end: '00:25:48.812'
+      start:
+        sec: '1546.752'
+        mark: '00:25:46.752'
+      end:
+        sec: '1548.812'
+        mark: '00:25:48.812'
       u: Häuser Tief- und Hochbau.
     - who: David Boder
-      start: '00:25:48.812'
-      end: '00:25:50.473'
+      start:
+        sec: '1548.812'
+        mark: '00:25:48.812'
+      end:
+        sec: '1550.473'
+        mark: '00:25:50.473'
       u: Was heißt Tiefbau?
     - who: Ilmar A.
-      start: '00:25:50.473'
-      end: '00:25:56.313'
+      start:
+        sec: '1550.473'
+        mark: '00:25:50.473'
+      end:
+        sec: '1556.313'
+        mark: '00:25:56.313'
       u: Dass, auch Wasserbau, äh, und Kanal, Kanäle, und [unverständlich] und so
         weiter.
     - who: David Boder
-      start: '00:25:56.313'
-      end: '00:26:00.138'
+      start:
+        sec: '1556.313'
+        mark: '00:25:56.313'
+      end:
+        sec: '1560.138'
+        mark: '00:26:00.138'
       u: Aha, und wie lange wird das nehmen?
     - who: Ilmar A.
-      start: '00:26:00.138'
-      end: '00:26:06.274'
+      start:
+        sec: '1560.138'
+        mark: '00:26:00.138'
+      end:
+        sec: '1566.274'
+        mark: '00:26:06.274'
       u: Hier in Deutschland wird es nehmen 3 Jahre. Wir haben Tri-Semester, wir haben
         drei Semester im Jahr.
     - who: David Boder
-      start: '00:26:06.274'
-      end: '00:26:09.211'
+      start:
+        sec: '1566.274'
+        mark: '00:26:06.274'
+      end:
+        sec: '1569.211'
+        mark: '00:26:09.211'
       u: Ja. Und in welcher Sprache wird es unterrichtet?
     - who: Ilmar A.
-      start: '00:26:09.211'
-      end: '00:26:12.074'
+      start:
+        sec: '1569.211'
+        mark: '00:26:09.211'
+      end:
+        sec: '1572.074'
+        mark: '00:26:12.074'
       u: Unterrichtet wird auf der deutschen Sprache.
     - who: David Boder
-      start: '00:26:12.074'
-      end: '00:26:19.523'
+      start:
+        sec: '1572.074'
+        mark: '00:26:12.074'
+      end:
+        sec: '1579.523'
+        mark: '00:26:19.523'
       u: Nun, sagen Sie mal. Und wo denken Sie von hier zu gehen? Hören Sie von Ihren
         Eltern? Was hat Ihren Eltern passiert?
     - who: Ilmar A.
-      start: '00:26:19.523'
-      end: '00:26:33.760'
+      start:
+        sec: '1579.523'
+        mark: '00:26:19.523'
+      end:
+        sec: '1593.760'
+        mark: '00:26:33.760'
       u: Ich habe nicht von meinen Eltern gehört, deswegen weil wir haben keine Verbindung.
         Meiner Meinung nach sind meine Eltern schon verschleppt worden nach Sibirien.
         Das ist wahrscheinlich.
     - who: David Boder
-      start: '00:26:33.760'
-      end: '00:26:37.486'
+      start:
+        sec: '1593.760'
+        mark: '00:26:33.760'
+      end:
+        sec: '1597.486'
+        mark: '00:26:37.486'
       u: Und was tun die Leute, wenn sie nach Sibirien verschleppt werden?
     - who: Ilmar A.
-      start: '00:26:37.486'
-      end: '00:26:42.087'
+      start:
+        sec: '1597.486'
+        mark: '00:26:37.486'
+      end:
+        sec: '1602.087'
+        mark: '00:26:42.087'
       u: Die sind, äh, Facharbeiter.
     - who: David Boder
-      start: '00:26:42.087'
-      end: '00:26:50.257'
+      start:
+        sec: '1602.087'
+        mark: '00:26:42.087'
+      end:
+        sec: '1610.257'
+        mark: '00:26:50.257'
       u: Nun, sagen Sie mir, wie und, äh...
     - who: Ilmar A.
-      start: '00:26:50.257'
-      end: '00:26:55.999'
+      start:
+        sec: '1610.257'
+        mark: '00:26:50.257'
+      end:
+        sec: '1615.999'
+        mark: '00:26:55.999'
       u: ". . . einen Onkel in Amerika haben, aber ich weiß kein Anschrift, ich weiß
         keine Adresse."
     - who: David Boder
-      start: '00:26:55.999'
-      end: '00:27:05.840'
+      start:
+        sec: '1615.999'
+        mark: '00:26:55.999'
+      end:
+        sec: '1625.840'
+        mark: '00:27:05.840'
       u: Nun, Herr Ilman, ich möchte noch so vieles von Ihnen hören, aber ich habe
         mir vorgenommen, dass ich von allen eine halbe Stunde, mit allen eine halbe
         Stunde spreche. Wir sind schon eine halbe Stunde zusammen [die vorliegende
         Aufnahme ist noch keine 27 Minuten gelaufen, was die abrupten Themenwechsel
         erklären könnte].
     - who: Ilmar A.
-      start: '00:27:05.840'
-      end: '00:27:06.525'
+      start:
+        sec: '1625.840'
+        mark: '00:27:05.840'
+      end:
+        sec: '1626.525'
+        mark: '00:27:06.525'
       u: Ja.
     - who: David Boder
-      start: '00:27:06.525'
-      end: '00:27:10.473'
+      start:
+        sec: '1626.525'
+        mark: '00:27:06.525'
+      end:
+        sec: '1630.473'
+        mark: '00:27:10.473'
       u: Nun, also wollen Sie mir jetzt den nächsten Herren hereinschicken?
     - who: David Boder
-      start: '00:27:10.473'
-      end: '00:27:23.810'
+      start:
+        sec: '1630.473'
+        mark: '00:27:10.473'
+      end:
+        sec: '1643.810'
+        mark: '00:27:23.810'
       u: "[In English] This concludes the interview with Ilmar A., he doesn’t give
         his full name, 23 years old, Estonian student of the UNRRA University in Munich,
         September the 24th, 1946, Illinois Institute of Technology wire recording."
     - who: David Boder
-      start: '00:27:23.810'
-      end: '00:27:57.766'
+      start:
+        sec: '1643.810'
+        mark: '00:27:23.810'
+      end:
+        sec: '1677.766'
+        mark: '00:27:57.766'
       u: This is reproduction 9-152-A, the continuation of Spool 152 will be then
         on 9-152-B, split up for convenience. This is the spool re-duplicated for
         the U.S. Public Health Service. November 11, 1949.
@@ -1237,30 +2305,50 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:01.631'
-      end: '00:01:20.579'
+      start:
+        sec: '1.631'
+        mark: '00:00:01.631'
+      end:
+        sec: '80.579'
+        mark: '00:01:20.579'
       u: "[In English] Spool 152A, Spool 152A. Ilmar A., that seems the name, it can
         be corrected later. Spool 152A. Boder. These are the short spools from the
         students of the UNRRA University."
     - who: David Boder
-      start: '00:01:20.579'
-      end: '00:01:50.969'
+      start:
+        sec: '80.579'
+        mark: '00:01:20.579'
+      end:
+        sec: '110.969'
+        mark: '00:01:50.969'
       u: Munich, September the 24th, 1946, at the Deutsches Museum in Munich, the
         UNRRA University for Displaced Persons. The interviewee is Mr. Hilman, [corrects
         himself] Ilmar A., 23 years old, an Estonian, who is going to give us a half-hour
         report on his experiences. We are reducing it now to half-hours because the
         students want to have a cross-section to report.
     - who: David Boder
-      start: '00:01:50.969'
-      end: '00:01:53.494'
+      start:
+        sec: '110.969'
+        mark: '00:01:50.969'
+      end:
+        sec: '113.494'
+        mark: '00:01:53.494'
       u: "[In German] So, Mr. Ilmar."
     - who: Ilmar A.
-      start: '00:01:53.494'
-      end: '00:01:54.190'
+      start:
+        sec: '113.494'
+        mark: '00:01:53.494'
+      end:
+        sec: '114.190'
+        mark: '00:01:54.190'
       u: Yes.
     - who: David Boder
-      start: '00:01:54.190'
-      end: '00:02:38.589'
+      start:
+        sec: '114.190'
+        mark: '00:01:54.190'
+      end:
+        sec: '158.589'
+        mark: '00:02:38.589'
       u: 'Let me tell you frankly [?]: Do not tell me some general things about the
         political situation or the like. About this [possibly “we are informed”?].
         What I want you to do in this half-hour is to narrate what happened to you
@@ -1268,118 +2356,218 @@ recording:
         You know? So, I want this: Would you tell me where you were and what has happened
         to you from the time the Soviets came to Estonia, you know?'
     - who: Ilmar A.
-      start: '00:02:38.589'
-      end: '00:02:38.857'
+      start:
+        sec: '158.589'
+        mark: '00:02:38.589'
+      end:
+        sec: '158.857'
+        mark: '00:02:38.857'
       u: Yes.
     - who: David Boder
-      start: '00:02:38.857'
-      end: '00:03:04.510'
+      start:
+        sec: '158.857'
+        mark: '00:02:38.857'
+      end:
+        sec: '184.510'
+        mark: '00:03:04.510'
       u: ". . . until today. But to you personally. Where did you live, with your
         parents. Where did you go? What happened to you? You know? So, please speak
         into the direction of this here microphone. [Bend down to the microphone?],
         come closer. Tell me, again, where were you and what happened to you when
         the Soviets came to Estonia?"
     - who: Ilmar A.
-      start: '00:03:04.510'
-      end: '00:03:19.465'
+      start:
+        sec: '184.510'
+        mark: '00:03:04.510'
+      end:
+        sec: '199.465'
+        mark: '00:03:19.465'
       u: When the Soviets came to Estonia I was, was a student at the, that was in
         1940.
     - who: David Boder
-      start: '00:03:19.465'
-      end: '00:03:23.527'
+      start:
+        sec: '199.465'
+        mark: '00:03:19.465'
+      end:
+        sec: '203.527'
+        mark: '00:03:23.527'
       u: How old were you then? What grade were you in school?
     - who: Ilmar A.
-      start: '00:03:23.527'
-      end: '00:03:31.514'
+      start:
+        sec: '203.527'
+        mark: '00:03:23.527'
+      end:
+        sec: '211.514'
+        mark: '00:03:31.514'
       u: Then, I was seventeen years old. Then I was seventeen years old. And I was
         in the first grade of the “Gymnasium.”
     - who: David Boder
-      start: '00:03:31.514'
-      end: '00:03:33.753'
+      start:
+        sec: '211.514'
+        mark: '00:03:31.514'
+      end:
+        sec: '213.753'
+        mark: '00:03:33.753'
       u: What means “first grade”? The highest grade?
     - who: Ilmar A.
-      start: '00:03:33.753'
-      end: '00:03:38.540'
+      start:
+        sec: '213.753'
+        mark: '00:03:33.753'
+      end:
+        sec: '218.540'
+        mark: '00:03:38.540'
       u: "“The first” means the, the fourth grade, fourth grade..."
     - who: David Boder
-      start: '00:03:38.540'
-      end: '00:03:40.240'
+      start:
+        sec: '218.540'
+        mark: '00:03:38.540'
+      end:
+        sec: '220.240'
+        mark: '00:03:40.240'
       u: ". . . of the “Volks-”?"
     - who: Ilmar A.
-      start: '00:03:40.240'
-      end: '00:03:41.959'
+      start:
+        sec: '220.240'
+        mark: '00:03:40.240'
+      end:
+        sec: '221.959'
+        mark: '00:03:41.959'
       u: of the “Volks-,” uh, of the “Mittelschule.”Literally “middle school,” albeit
         with a different meaning than in the modern U.S. educational system1
     - who: David Boder
-      start: '00:03:41.959'
-      end: '00:03:45.686'
+      start:
+        sec: '221.959'
+        mark: '00:03:41.959'
+      end:
+        sec: '225.686'
+        mark: '00:03:45.686'
       u: Yes. The fourth grade of the “Mittelschule.” So that was after the “Pro-Gymnasium”?A
         type of school no longer existing2
     - who: Ilmar A.
-      start: '00:03:45.686'
-      end: '00:03:46.951'
+      start:
+        sec: '225.686'
+        mark: '00:03:45.686'
+      end:
+        sec: '226.951'
+        mark: '00:03:46.951'
       u: That was after the “Pro-Gymnasium.”
     - who: David Boder
-      start: '00:03:46.951'
-      end: '00:03:49.916'
+      start:
+        sec: '226.951'
+        mark: '00:03:46.951'
+      end:
+        sec: '229.916'
+        mark: '00:03:49.916'
       u: Yes. So, and in which city were you?
     - who: Ilmar A.
-      start: '00:03:49.916'
-      end: '00:03:51.914'
+      start:
+        sec: '229.916'
+        mark: '00:03:49.916'
+      end:
+        sec: '231.914'
+        mark: '00:03:51.914'
       u: That was in Tartu.
     - who: David Boder
-      start: '00:03:51.914'
-      end: '00:03:52.647'
+      start:
+        sec: '231.914'
+        mark: '00:03:51.914'
+      end:
+        sec: '232.647'
+        mark: '00:03:52.647'
       u: In Dorpat?Dorpat is the German name for the Estonian city Tartu.3
     - who: Ilmar A.
-      start: '00:03:52.647'
-      end: '00:03:53.398'
+      start:
+        sec: '232.647'
+        mark: '00:03:52.647'
+      end:
+        sec: '233.398'
+        mark: '00:03:53.398'
       u: In Dorpat.
     - who: David Boder
-      start: '00:03:53.398'
-      end: '00:03:55.321'
+      start:
+        sec: '233.398'
+        mark: '00:03:53.398'
+      end:
+        sec: '235.321'
+        mark: '00:03:55.321'
       u: I see, that was the famous Yuryev University.Yuryev used to be the Russian
         name for Tartu.4
     - who: Ilmar A.
-      start: '00:03:55.321'
-      end: '00:03:56.612'
+      start:
+        sec: '235.321'
+        mark: '00:03:55.321'
+      end:
+        sec: '236.612'
+        mark: '00:03:56.612'
       u: Yuryev University.
     - who: David Boder
-      start: '00:03:56.612'
-      end: '00:03:59.577'
+      start:
+        sec: '236.612'
+        mark: '00:03:56.612'
+      end:
+        sec: '239.577'
+        mark: '00:03:59.577'
       u: Yes. And who were your parents, Ilman?Boder repeatedly mispronounces the
         interviewee’s name. Ilmar, however, is one of the most common Estonian given
         names, which speaks for “Ilmar” as the correct name.5
     - who: Ilmar A.
-      start: '00:03:59.577'
-      end: '00:04:01.816'
+      start:
+        sec: '239.577'
+        mark: '00:03:59.577'
+      end:
+        sec: '241.816'
+        mark: '00:04:01.816'
       u: My parents were farmers.
     - who: David Boder
-      start: '00:04:01.816'
-      end: '00:04:03.404'
+      start:
+        sec: '241.816'
+        mark: '00:04:01.816'
+      end:
+        sec: '243.404'
+        mark: '00:04:03.404'
       u: I see, and where did they live?
     - who: Ilmar A.
-      start: '00:04:03.404'
-      end: '00:04:05.978'
+      start:
+        sec: '243.404'
+        mark: '00:04:03.404'
+      end:
+        sec: '245.978'
+        mark: '00:04:05.978'
       u: They lived in [place name; sounds like “Tartaulag”?], in the municipality
         of [name unintelligible; sounds like “Saparau” or “Saparai”?].
     - who: David Boder
-      start: '00:04:05.978'
-      end: '00:04:06.246'
+      start:
+        sec: '245.978'
+        mark: '00:04:05.978'
+      end:
+        sec: '246.246'
+        mark: '00:04:06.246'
       u: I see.
     - who: Ilmar A.
-      start: '00:04:06.246'
-      end: '00:04:07.369'
+      start:
+        sec: '246.246'
+        mark: '00:04:06.246'
+      end:
+        sec: '247.369'
+        mark: '00:04:07.369'
       u: In [unintelligible; possibly the name of the larger administrative unit,
         such as county, district, or region].
     - who: David Boder
-      start: '00:04:07.369'
-      end: '00:04:14.630'
+      start:
+        sec: '247.369'
+        mark: '00:04:07.369'
+      end:
+        sec: '254.630'
+        mark: '00:04:14.630'
       u: So, tell me what happened in the university when the Soviets came, and what
         happened at your home.
     - who: Ilmar A.
-      start: '00:04:14.630'
-      end: '00:05:08.622'
+      start:
+        sec: '254.630'
+        mark: '00:04:14.630'
+      end:
+        sec: '308.622'
+        mark: '00:05:08.622'
       u: When the Soviets came to us I was not a [university] student, but a [high
         school] student. I was in Tartu in the, everybody was at home the first morning.
         But my father also had a factory and an, a farm, about thirty-five hectare.1
@@ -1387,129 +2575,249 @@ recording:
         until June 14, 1941 that several of my relatives were deported to Siberia.
         That’s because, they were also Democrats. And...
     - who: David Boder
-      start: '00:05:08.622'
-      end: '00:05:09.697'
+      start:
+        sec: '308.622'
+        mark: '00:05:08.622'
+      end:
+        sec: '309.697'
+        mark: '00:05:09.697'
       u: What was that?
     - who: Ilmar A.
-      start: '00:05:09.697'
-      end: '00:05:12.555'
+      start:
+        sec: '309.697'
+        mark: '00:05:09.697'
+      end:
+        sec: '312.555'
+        mark: '00:05:12.555'
       u: They had democratic opinion.
     - who: David Boder
-      start: '00:05:12.555'
-      end: '00:05:15.287'
+      start:
+        sec: '312.555'
+        mark: '00:05:12.555'
+      end:
+        sec: '315.287'
+        mark: '00:05:15.287'
       u: Yes, but what do you mean by they had “democratic opinion”?
     - who: Ilmar A.
-      start: '00:05:15.287'
-      end: '00:05:21.381'
+      start:
+        sec: '315.287'
+        mark: '00:05:15.287'
+      end:
+        sec: '321.381'
+        mark: '00:05:21.381'
       u: That they used to be, uh, members of the [name of the organization unintelligible].
     - who: David Boder
-      start: '00:05:21.381'
-      end: '00:05:26.106'
+      start:
+        sec: '321.381'
+        mark: '00:05:21.381'
+      end:
+        sec: '326.106'
+        mark: '00:05:26.106'
       u: I see, and? Continue.
     - who: Ilmar A.
-      start: '00:05:26.106'
-      end: '00:05:36.550'
+      start:
+        sec: '326.106'
+        mark: '00:05:26.106'
+      end:
+        sec: '336.550'
+        mark: '00:05:36.550'
       u: And on the 19th, [corrects himself] in 1941, on the 14th of June...
     - who: David Boder
-      start: '00:05:36.550'
-      end: '00:05:37.847'
+      start:
+        sec: '336.550'
+        mark: '00:05:36.550'
+      end:
+        sec: '337.847'
+        mark: '00:05:37.847'
       u: "[unintelligible correction; possibly “June day”?]."
     - who: Ilmar A.
-      start: '00:05:37.847'
-      end: '00:05:49.942'
+      start:
+        sec: '337.847'
+        mark: '00:05:37.847'
+      end:
+        sec: '349.942'
+        mark: '00:05:49.942'
       u: Yes, on the 14th June-day [unintelligible] we got word that the deported
         could, we were in the forest.
     - who: David Boder
-      start: '00:05:49.942'
-      end: '00:05:51.286'
+      start:
+        sec: '349.942'
+        mark: '00:05:49.942'
+      end:
+        sec: '351.286'
+        mark: '00:05:51.286'
       u: Who was in the forest?
     - who: Ilmar A.
-      start: '00:05:51.286'
-      end: '00:05:53.967'
+      start:
+        sec: '351.286'
+        mark: '00:05:51.286'
+      end:
+        sec: '353.967'
+        mark: '00:05:53.967'
       u: My parents and I.
     - who: David Boder
-      start: '00:05:53.967'
-      end: '00:05:55.311'
+      start:
+        sec: '353.967'
+        mark: '00:05:53.967'
+      end:
+        sec: '355.311'
+        mark: '00:05:55.311'
       u: Now, go on.
     - who: Ilmar A.
-      start: '00:05:55.311'
-      end: '00:05:56.695'
+      start:
+        sec: '355.311'
+        mark: '00:05:55.311'
+      end:
+        sec: '356.695'
+        mark: '00:05:56.695'
       u: And...
     - who: David Boder
-      start: '00:05:56.695'
-      end: '00:05:59.946'
+      start:
+        sec: '356.695'
+        mark: '00:05:56.695'
+      end:
+        sec: '359.946'
+        mark: '00:05:59.946'
       u: So, you were in the forest. How did you live in the forest?
     - who: Ilmar A.
-      start: '00:05:59.946'
-      end: '00:06:08.267'
+      start:
+        sec: '359.946'
+        mark: '00:05:59.946'
+      end:
+        sec: '368.267'
+        mark: '00:06:08.267'
       u: We were in the forest. We, we hid in the forest.
     - who: David Boder
-      start: '00:06:08.267'
-      end: '00:06:10.249'
+      start:
+        sec: '368.267'
+        mark: '00:06:08.267'
+      end:
+        sec: '370.249'
+        mark: '00:06:10.249'
       u: Well, did you have a house there?
     - who: Ilmar A.
-      start: '00:06:10.249'
-      end: '00:06:13.460'
+      start:
+        sec: '370.249'
+        mark: '00:06:10.249'
+      end:
+        sec: '373.460'
+        mark: '00:06:13.460'
       u: No, we didn’t have a house, but we had a...
     - who: David Boder
-      start: '00:06:13.460'
-      end: '00:06:14.089'
+      start:
+        sec: '373.460'
+        mark: '00:06:13.460'
+      end:
+        sec: '374.089'
+        mark: '00:06:14.089'
       u: Tent?
     - who: Ilmar A.
-      start: '00:06:14.089'
-      end: '00:06:21.684'
+      start:
+        sec: '374.089'
+        mark: '00:06:14.089'
+      end:
+        sec: '381.684'
+        mark: '00:06:21.684'
       u: Tent, or something like it. And we are hidden. And...
     - who: David Boder
-      start: '00:06:21.684'
-      end: '00:06:23.622'
+      start:
+        sec: '381.684'
+        mark: '00:06:21.684'
+      end:
+        sec: '383.622'
+        mark: '00:06:23.622'
       u: Who was there together, in this hide-out?
     - who: Ilmar A.
-      start: '00:06:23.622'
-      end: '00:06:26.230'
+      start:
+        sec: '383.622'
+        mark: '00:06:23.622'
+      end:
+        sec: '386.230'
+        mark: '00:06:26.230'
       u: My parents. My parents, my sister [he possibly means “siblings”?], and I.
     - who: David Boder
-      start: '00:06:26.230'
-      end: '00:06:29.535'
+      start:
+        sec: '386.230'
+        mark: '00:06:26.230'
+      end:
+        sec: '389.535'
+        mark: '00:06:29.535'
       u: Yes. How many, uh, how many people are there in your family?
     - who: Ilmar A.
-      start: '00:06:29.535'
-      end: '00:06:30.385'
+      start:
+        sec: '389.535'
+        mark: '00:06:29.535'
+      end:
+        sec: '390.385'
+        mark: '00:06:30.385'
       u: Seven people.
     - who: David Boder
-      start: '00:06:30.385'
-      end: '00:06:33.697'
+      start:
+        sec: '390.385'
+        mark: '00:06:30.385'
+      end:
+        sec: '393.697'
+        mark: '00:06:33.697'
       u: I see. And the entire family hid in the forest.
     - who: Ilmar A.
-      start: '00:06:33.697'
-      end: '00:06:34.071'
+      start:
+        sec: '393.697'
+        mark: '00:06:33.697'
+      end:
+        sec: '394.071'
+        mark: '00:06:34.071'
       u: Yes.
     - who: David Boder
-      start: '00:06:34.071'
-      end: '00:06:36.980'
+      start:
+        sec: '394.071'
+        mark: '00:06:34.071'
+      end:
+        sec: '396.980'
+        mark: '00:06:36.980'
       u: Now, how long did you hide in the forest?
     - who: Ilmar A.
-      start: '00:06:36.980'
-      end: '00:07:34.438'
+      start:
+        sec: '396.980'
+        mark: '00:06:36.980'
+      end:
+        sec: '454.438'
+        mark: '00:07:34.438'
       u: We were in the forest only, uh, four, four weeks. Then, on the June 21, 1941
         is, uh, we started in the direction of Germany, and...And that was in July.
         The Germans already came to us. And then we could return out of the forest.
         Then in 1941, in the fall we visited my brother Walter on the, that was in
         the year of 1942, [unintelligible].
     - who: David Boder
-      start: '00:07:34.438'
-      end: '00:07:35.977'
+      start:
+        sec: '454.438'
+        mark: '00:07:34.438'
+      end:
+        sec: '455.977'
+        mark: '00:07:35.977'
       u: Tell that again.
     - who: Ilmar A.
-      start: '00:07:35.977'
-      end: '00:07:36.882'
+      start:
+        sec: '455.977'
+        mark: '00:07:35.977'
+      end:
+        sec: '456.882'
+        mark: '00:07:36.882'
       u: What?
     - who: David Boder
-      start: '00:07:36.882'
-      end: '00:07:42.605'
+      start:
+        sec: '456.882'
+        mark: '00:07:36.882'
+      end:
+        sec: '462.605'
+        mark: '00:07:42.605'
       u: Go on. Did the, did the Germans interfere in any way with the school?
     - who: Ilmar A.
-      start: '00:07:42.605'
-      end: '00:08:16.516'
+      start:
+        sec: '462.605'
+        mark: '00:07:42.605'
+      end:
+        sec: '496.516'
+        mark: '00:08:16.516'
       u: Yes. The Germans did interfere with the school in a [unintelligible] way.
         Because they, they could not have our organization and the like. Previously,
         we had a [unintelligible]-organization, which in the, that, for our house-organization.
@@ -1517,139 +2825,259 @@ recording:
         lock [he possibly means “close down”?] the organization. And I, too, was a
         member.
     - who: David Boder
-      start: '00:08:16.516'
-      end: '00:08:17.934'
+      start:
+        sec: '496.516'
+        mark: '00:08:16.516'
+      end:
+        sec: '497.934'
+        mark: '00:08:17.934'
       u: And that was “locked”?
     - who: Ilmar A.
-      start: '00:08:17.934'
-      end: '00:08:18.967'
+      start:
+        sec: '497.934'
+        mark: '00:08:17.934'
+      end:
+        sec: '498.967'
+        mark: '00:08:18.967'
       u: That was locked.
     - who: David Boder
-      start: '00:08:18.967'
-      end: '00:08:21.894'
+      start:
+        sec: '498.967'
+        mark: '00:08:18.967'
+      end:
+        sec: '501.894'
+        mark: '00:08:21.894'
       u: Well, and then? When the Germans came?
     - who: Ilmar A.
-      start: '00:08:21.894'
-      end: '00:08:38.234'
+      start:
+        sec: '501.894'
+        mark: '00:08:21.894'
+      end:
+        sec: '518.234'
+        mark: '00:08:38.234'
       u: When the Germans came we could no longer open that [organization]. And, that
         was in the year of 1942, I went to the university then, to Dorpat University.
     - who: David Boder
-      start: '00:08:38.234'
-      end: '00:08:46.411'
+      start:
+        sec: '518.234'
+        mark: '00:08:38.234'
+      end:
+        sec: '526.411'
+        mark: '00:08:46.411'
       u: 'Now. Will you tell me: when the Russians came, did you think that Estonia
         will become Soviet?'
     - who: Ilmar A.
-      start: '00:08:46.411'
-      end: '00:08:49.734'
+      start:
+        sec: '526.411'
+        mark: '00:08:46.411'
+      end:
+        sec: '529.734'
+        mark: '00:08:49.734'
       u: Yes. They said that Estonia will become Soviet Union.
     - who: David Boder
-      start: '00:08:49.734'
-      end: '00:08:51.372'
+      start:
+        sec: '529.734'
+        mark: '00:08:49.734'
+      end:
+        sec: '531.372'
+        mark: '00:08:51.372'
       u: And goes over to Russia?
     - who: Ilmar A.
-      start: '00:08:51.372'
-      end: '00:08:56.028'
+      start:
+        sec: '531.372'
+        mark: '00:08:51.372'
+      end:
+        sec: '536.028'
+        mark: '00:08:56.028'
       u: Yes. That, officially they did not say that.
     - who: David Boder
-      start: '00:08:56.028'
-      end: '00:08:56.409'
+      start:
+        sec: '536.028'
+        mark: '00:08:56.028'
+      end:
+        sec: '536.409'
+        mark: '00:08:56.409'
       u: I see.
     - who: Ilmar A.
-      start: '00:08:56.409'
-      end: '00:08:58.871'
+      start:
+        sec: '536.409'
+        mark: '00:08:56.409'
+      end:
+        sec: '538.871'
+        mark: '00:08:58.871'
       u: But it appeared that way.
     - who: David Boder
-      start: '00:08:58.871'
-      end: '00:09:02.634'
+      start:
+        sec: '538.871'
+        mark: '00:08:58.871'
+      end:
+        sec: '542.634'
+        mark: '00:09:02.634'
       u: Well. But officially they said that Estonia would remain alone [he means
         “independent”]?
     - who: Ilmar A.
-      start: '00:09:02.634'
-      end: '00:09:13.174'
+      start:
+        sec: '542.634'
+        mark: '00:09:02.634'
+      end:
+        sec: '553.174'
+        mark: '00:09:13.174'
       u: No, they did not say because we had no inter—, inter—, no administration.
         Instead we all of a sudden had, uh, Soviet administration.
     - who: David Boder
-      start: '00:09:13.174'
-      end: '00:09:20.032'
+      start:
+        sec: '553.174'
+        mark: '00:09:13.174'
+      end:
+        sec: '560.032'
+        mark: '00:09:20.032'
       u: Yes. Well. When the Germans go [Boder probably means “came”]. Did the Germans
         say that Estonia will be free?
     - who: Ilmar A.
-      start: '00:09:20.032'
-      end: '00:09:22.146'
+      start:
+        sec: '560.032'
+        mark: '00:09:20.032'
+      end:
+        sec: '562.146'
+        mark: '00:09:22.146'
       u: No, the Germans did not say that either.
     - who: David Boder
-      start: '00:09:22.146'
-      end: '00:09:23.747'
+      start:
+        sec: '562.146'
+        mark: '00:09:22.146'
+      end:
+        sec: '563.747'
+        mark: '00:09:23.747'
       u: What did they say?
     - who: Ilmar A.
-      start: '00:09:23.747'
-      end: '00:09:32.352'
+      start:
+        sec: '563.747'
+        mark: '00:09:23.747'
+      end:
+        sec: '572.352'
+        mark: '00:09:32.352'
       u: This they did not say. They had occupation troops. And we should be Germans
         as [unintelligible]-occupied, too.
     - who: David Boder
-      start: '00:09:32.352'
-      end: '00:09:38.521'
+      start:
+        sec: '572.352'
+        mark: '00:09:32.352'
+      end:
+        sec: '578.521'
+        mark: '00:09:38.521'
       u: Oh, I see. The Germans, did the Germans say that they would take Estonia
         to Germany?
     - who: Ilmar A.
-      start: '00:09:38.521'
-      end: '00:09:50.113'
+      start:
+        sec: '578.521'
+        mark: '00:09:38.521'
+      end:
+        sec: '590.113'
+        mark: '00:09:50.113'
       u: Uh, for the time being they did not say, but it was an occupied territory.
         And they wanted us, uh, to extinguish everything of us.He probably confuses
         German words, trying to say either “kill everyone” or “take everything,” or
         something along these lines.7
     - who: David Boder
-      start: '00:09:50.113'
-      end: '00:10:02.503'
+      start:
+        sec: '590.113'
+        mark: '00:09:50.113'
+      end:
+        sec: '602.503'
+        mark: '00:10:02.503'
       u: I see. So neither the Germans nor the Russians incorporated Estonia? The
         Russians did not turn Estonia into a Soviet Republic, did they?
     - who: Ilmar A.
-      start: '00:10:02.503'
-      end: '00:10:05.614'
+      start:
+        sec: '602.503'
+        mark: '00:10:02.503'
+      end:
+        sec: '605.614'
+        mark: '00:10:05.614'
       u: Yes, they made Soviet, Estonia Soviet Republic.
     - who: David Boder
-      start: '00:10:05.614'
-      end: '00:10:06.838'
+      start:
+        sec: '605.614'
+        mark: '00:10:05.614'
+      end:
+        sec: '606.838'
+        mark: '00:10:06.838'
       u: Estonia became a Soviet Republic?
     - who: Ilmar A.
-      start: '00:10:06.838'
-      end: '00:10:07.670'
+      start:
+        sec: '606.838'
+        mark: '00:10:06.838'
+      end:
+        sec: '607.670'
+        mark: '00:10:07.670'
       u: Yes.
     - who: David Boder
-      start: '00:10:07.670'
-      end: '00:10:12.814'
+      start:
+        sec: '607.670'
+        mark: '00:10:07.670'
+      end:
+        sec: '612.814'
+        mark: '00:10:12.814'
       u: And when the Germans came, did the Germans say that they will take Estonia,
         or what?
     - who: Ilmar A.
-      start: '00:10:12.814'
-      end: '00:10:16.870'
+      start:
+        sec: '612.814'
+        mark: '00:10:12.814'
+      end:
+        sec: '616.870'
+        mark: '00:10:16.870'
       u: No, they did not, instead it was an occupied territory.
     - who: David Boder
-      start: '00:10:16.870'
-      end: '00:10:23.453'
+      start:
+        sec: '616.870'
+        mark: '00:10:16.870'
+      end:
+        sec: '623.453'
+        mark: '00:10:23.453'
       u: Yes. Now, you were in an occupation, [corrects himself] occupied territory.
         And you had to do certain labor for the Germans?
     - who: Ilmar A.
-      start: '00:10:23.453'
-      end: '00:10:25.329'
+      start:
+        sec: '623.453'
+        mark: '00:10:23.453'
+      end:
+        sec: '625.329'
+        mark: '00:10:25.329'
       u: For the Germans, yes.
     - who: David Boder
-      start: '00:10:25.329'
-      end: '00:10:33.891'
+      start:
+        sec: '625.329'
+        mark: '00:10:25.329'
+      end:
+        sec: '633.891'
+        mark: '00:10:33.891'
       u: Did the, the Germans arrest, uh, execute, and so forth certain people, or
         did they deport them, as the Russians had done?
     - who: Ilmar A.
-      start: '00:10:33.891'
-      end: '00:10:44.275'
+      start:
+        sec: '633.891'
+        mark: '00:10:33.891'
+      end:
+        sec: '644.275'
+        mark: '00:10:44.275'
       u: Yes. The Germans did that, too, to a greater extent. Because in 1942 I was
         at the Dorpat University and, back then, I was very...
     - who: David Boder
-      start: '00:10:44.275'
-      end: '00:10:45.726'
+      start:
+        sec: '644.275'
+        mark: '00:10:44.275'
+      end:
+        sec: '645.726'
+        mark: '00:10:45.726'
       u: Yes.
     - who: Ilmar A.
-      start: '00:10:45.726'
-      end: '00:11:19.147'
+      start:
+        sec: '645.726'
+        mark: '00:10:45.726'
+      end:
+        sec: '679.147'
+        mark: '00:11:19.147'
       u: The, the, the Germans did, uh, persecute our professors and our students.
         And SB-people [unclear what he means by SB], you know, police always and always
         followed/persecuted [unclear which meaning of the German word “verfolgen”
@@ -1657,241 +3085,449 @@ recording:
         almost fifty percent, uh, [unintelligible] of our professors and also some
         of the students were arrested.
     - who: David Boder
-      start: '00:11:19.147'
-      end: '00:11:21.993'
+      start:
+        sec: '679.147'
+        mark: '00:11:19.147'
+      end:
+        sec: '681.993'
+        mark: '00:11:21.993'
       u: I see. And what did they do with them?
     - who: Ilmar A.
-      start: '00:11:21.993'
-      end: '00:11:28.601'
+      start:
+        sec: '681.993'
+        mark: '00:11:21.993'
+      end:
+        sec: '688.601'
+        mark: '00:11:28.601'
       u: They, they, brought them, uh, into prison.
     - who: David Boder
-      start: '00:11:28.601'
-      end: '00:11:30.606'
+      start:
+        sec: '688.601'
+        mark: '00:11:28.601'
+      end:
+        sec: '690.606'
+        mark: '00:11:30.606'
       u: And, were you arrested, too?
     - who: Ilmar A.
-      start: '00:11:30.606'
-      end: '00:11:37.653'
+      start:
+        sec: '690.606'
+        mark: '00:11:30.606'
+      end:
+        sec: '697.653'
+        mark: '00:11:37.653'
       u: No, I mean and, therefore, these were our students and that, that one organization
         or a...
     - who: David Boder
-      start: '00:11:37.653'
-      end: '00:11:38.322'
+      start:
+        sec: '697.653'
+        mark: '00:11:37.653'
+      end:
+        sec: '698.322'
+        mark: '00:11:38.322'
       u: Yes.
     - who: Ilmar A.
-      start: '00:11:38.322'
-      end: '00:11:39.563'
+      start:
+        sec: '698.322'
+        mark: '00:11:38.322'
+      end:
+        sec: '699.563'
+        mark: '00:11:39.563'
       u: ". . . communal family.Literal translation of the German “Gemeinschaftfamilie,”
         which is a grammatically correct German compound noun, the meaning of which
         is not clear.8"
     - who: David Boder
-      start: '00:11:39.563'
-      end: '00:11:42.084'
+      start:
+        sec: '699.563'
+        mark: '00:11:39.563'
+      end:
+        sec: '702.084'
+        mark: '00:11:42.084'
       u: Were you taken as well? You personally?
     - who: Ilmar A.
-      start: '00:11:42.084'
-      end: '00:11:47.966'
+      start:
+        sec: '702.084'
+        mark: '00:11:42.084'
+      end:
+        sec: '707.966'
+        mark: '00:11:47.966'
       u: I personally was not taken. But I knew that they wanted to.
     - who: David Boder
-      start: '00:11:47.966'
-      end: '00:12:00.151'
+      start:
+        sec: '707.966'
+        mark: '00:11:47.966'
+      end:
+        sec: '720.151'
+        mark: '00:12:00.151'
       u: Well? And then, tell me, uh, what happened then?
     - who: Ilmar A.
-      start: '00:12:00.151'
-      end: '00:12:17.174'
+      start:
+        sec: '720.151'
+        mark: '00:12:00.151'
+      end:
+        sec: '737.174'
+        mark: '00:12:17.174'
       u: That was ’42. Uh, then I went to the countryside to my parents and we had
         a farm in the countryside. The factory we no longer had and the Russians had
         [unintelligible; some participle ending in “-tiert”] the factory.
     - who: David Boder
-      start: '00:12:17.174'
-      end: '00:12:18.473'
+      start:
+        sec: '737.174'
+        mark: '00:12:17.174'
+      end:
+        sec: '738.473'
+        mark: '00:12:18.473'
       u: What kind of factory was that?
     - who: Ilmar A.
-      start: '00:12:18.473'
-      end: '00:12:19.982'
+      start:
+        sec: '738.473'
+        mark: '00:12:18.473'
+      end:
+        sec: '739.982'
+        mark: '00:12:19.982'
       u: That was baking-factory.
     - who: David Boder
-      start: '00:12:19.982'
-      end: '00:12:22.045'
+      start:
+        sec: '739.982'
+        mark: '00:12:19.982'
+      end:
+        sec: '742.045'
+        mark: '00:12:22.045'
       u: Now, did the Germans return the factory?
     - who: Ilmar A.
-      start: '00:12:22.045'
-      end: '00:12:38.017'
+      start:
+        sec: '742.045'
+        mark: '00:12:22.045'
+      end:
+        sec: '758.017'
+        mark: '00:12:38.017'
       u: No. The Germans did not return that either but they [verb unintelligible]
         everything, uh, all things, all machinery.
     - who: David Boder
-      start: '00:12:38.017'
-      end: '00:12:39.831'
+      start:
+        sec: '758.017'
+        mark: '00:12:38.017'
+      end:
+        sec: '759.831'
+        mark: '00:12:39.831'
       u: "[verb; unintelligible]?"
     - who: Ilmar A.
-      start: '00:12:39.831'
-      end: '00:12:44.149'
+      start:
+        sec: '759.831'
+        mark: '00:12:39.831'
+      end:
+        sec: '764.149'
+        mark: '00:12:44.149'
       u: Yes.
     - who: David Boder
-      start: '00:12:44.149'
-      end: '00:12:54.309'
+      start:
+        sec: '764.149'
+        mark: '00:12:44.149'
+      end:
+        sec: '774.309'
+        mark: '00:12:54.309'
       u: Well, continue. Were you trying to say that the Germans took away your machinery,
         or did they have the machines work for the Germans, so to say?
     - who: Ilmar A.
-      start: '00:12:54.309'
-      end: '00:13:05.290'
+      start:
+        sec: '774.309'
+        mark: '00:12:54.309'
+      end:
+        sec: '785.290'
+        mark: '00:13:05.290'
       u: At first, they let them work for the Germans and at last, when they did not
         come [he probably means “get,” which is similar in German; “kommen” and “bekommen”]
         anything anymore, then they brought the machines back...
     - who: David Boder
-      start: '00:13:05.290'
-      end: '00:13:05.748'
+      start:
+        sec: '785.290'
+        mark: '00:13:05.290'
+      end:
+        sec: '785.748'
+        mark: '00:13:05.748'
       u: ". . . evacuated?"
     - who: Ilmar A.
-      start: '00:13:05.748'
-      end: '00:13:08.670'
+      start:
+        sec: '785.748'
+        mark: '00:13:05.748'
+      end:
+        sec: '788.670'
+        mark: '00:13:08.670'
       u: ". . . evacuated them to Germany."
     - who: David Boder
-      start: '00:13:08.670'
-      end: '00:13:11.554'
+      start:
+        sec: '788.670'
+        mark: '00:13:08.670'
+      end:
+        sec: '791.554'
+        mark: '00:13:11.554'
       u: Yes. And you were at the university?
     - who: Ilmar A.
-      start: '00:13:11.554'
-      end: '00:13:15.049'
+      start:
+        sec: '791.554'
+        mark: '00:13:11.554'
+      end:
+        sec: '795.049'
+        mark: '00:13:15.049'
       u: Uh, I was, during winter I was at the university.
     - who: David Boder
-      start: '00:13:15.049'
-      end: '00:13:19.326'
+      start:
+        sec: '795.049'
+        mark: '00:13:15.049'
+      end:
+        sec: '799.326'
+        mark: '00:13:19.326'
       u: Yes. And what happened to you next? To you and your family?
     - who: Ilmar A.
-      start: '00:13:19.326'
-      end: '00:13:43.335'
+      start:
+        sec: '799.326'
+        mark: '00:13:19.326'
+      end:
+        sec: '823.335'
+        mark: '00:13:43.335'
       u: Then, uh, I was, in summer, I was in the countryside. And in the fall I returned
         to Tartu. And I was able to study until 1944, February.
     - who: David Boder
-      start: '00:13:43.335'
-      end: '00:13:44.808'
+      start:
+        sec: '823.335'
+        mark: '00:13:43.335'
+      end:
+        sec: '824.808'
+        mark: '00:13:44.808'
       u: And then?
     - who: Ilmar A.
-      start: '00:13:44.808'
-      end: '00:13:53.133'
+      start:
+        sec: '824.808'
+        mark: '00:13:44.808'
+      end:
+        sec: '833.133'
+        mark: '00:13:53.133'
       u: 'Then I wanted [or: “should”] to go to the countryside again, because they,
         otherwise, I, again [nearer and nearer?] came [unintelligible, possibly “nearer
         and nearer”]...'
     - who: David Boder
-      start: '00:13:53.133'
-      end: '00:13:53.773'
+      start:
+        sec: '833.133'
+        mark: '00:13:53.133'
+      end:
+        sec: '833.773'
+        mark: '00:13:53.773'
       u: "[unintelligible, Boder suggests some verb]?"
     - who: Ilmar A.
-      start: '00:13:53.773'
-      end: '00:14:16.365'
+      start:
+        sec: '833.773'
+        mark: '00:13:53.773'
+      end:
+        sec: '856.365'
+        mark: '00:14:16.365'
       u: Yes, [repeats what Boder said]. And our university should lock its door.
         [unintelligible], I was in the countryside what [he means “when”] the Germans
         again made an arrest, our professors and of the, also a group of students.
     - who: David Boder
-      start: '00:14:16.365'
-      end: '00:14:20.184'
+      start:
+        sec: '856.365'
+        mark: '00:14:16.365'
+      end:
+        sec: '860.184'
+        mark: '00:14:20.184'
       u: And what did they say as to why they arrested them?
     - who: Ilmar A.
-      start: '00:14:20.184'
-      end: '00:14:37.472'
+      start:
+        sec: '860.184'
+        mark: '00:14:20.184'
+      end:
+        sec: '877.472'
+        mark: '00:14:37.472'
       u: They arrested them because they had doubts [he means “suspicions”] about
         us, that we were having connections to Finland and Sweden. And we were indeed
         helping, and this is the truth, that we were helping people flee to Finland
         and Sweden.
     - who: David Boder
-      start: '00:14:37.472'
-      end: '00:14:42.939'
+      start:
+        sec: '877.472'
+        mark: '00:14:37.472'
+      end:
+        sec: '882.939'
+        mark: '00:14:42.939'
       u: I see. But Finland was fighting with the Germans, Finland was on the side
         of the Germans?
     - who: Ilmar A.
-      start: '00:14:42.939'
-      end: '00:14:53.136'
+      start:
+        sec: '882.939'
+        mark: '00:14:42.939'
+      end:
+        sec: '893.136'
+        mark: '00:14:53.136'
       u: Yes. Finland was on the German side, it was supposed to be on the German
         side. That’s why the Russians wanted to occupy Finland.
     - who: David Boder
-      start: '00:14:53.136'
-      end: '00:14:57.129'
+      start:
+        sec: '893.136'
+        mark: '00:14:53.136'
+      end:
+        sec: '897.129'
+        mark: '00:14:57.129'
       u: But why, then, were the Germans afraid of you going to Finland?
     - who: Ilmar A.
-      start: '00:14:57.129'
-      end: '00:15:23.410'
+      start:
+        sec: '897.129'
+        mark: '00:14:57.129'
+      end:
+        sec: '923.410'
+        mark: '00:15:23.410'
       u: They did not want to send us to Finland because we, the people that wanted
         to flee to Finland said [unintelligible], they were neither “directed” [he
         perhaps means something like “politically oriented”] as Communists nor directed
         as Nazists [sic] or Fascists. They were, uh, so...
     - who: David Boder
-      start: '00:15:23.410'
-      end: '00:15:24.205'
+      start:
+        sec: '923.410'
+        mark: '00:15:23.410'
+      end:
+        sec: '924.205'
+        mark: '00:15:24.205'
       u: Impartial?
     - who: Ilmar A.
-      start: '00:15:24.205'
-      end: '00:15:26.415'
+      start:
+        sec: '924.205'
+        mark: '00:15:24.205'
+      end:
+        sec: '926.415'
+        mark: '00:15:26.415'
       u: Impartial, free Democrats.
     - who: David Boder
-      start: '00:15:26.415'
-      end: '00:15:30.874'
+      start:
+        sec: '926.415'
+        mark: '00:15:26.415'
+      end:
+        sec: '930.874'
+        mark: '00:15:30.874'
       u: And, go on.
     - who: Ilmar A.
-      start: '00:15:30.874'
-      end: '00:15:50.680'
+      start:
+        sec: '930.874'
+        mark: '00:15:30.874'
+      end:
+        sec: '950.680'
+        mark: '00:15:50.680'
       u: A few of us then fled to Finland and Sweden. Now, we are having 35,000 people
         in Sweden, we have them there as underground people and mostly intelligent.
     - who: David Boder
-      start: '00:15:50.680'
-      end: '00:15:56.302'
+      start:
+        sec: '950.680'
+        mark: '00:15:50.680'
+      end:
+        sec: '956.302'
+        mark: '00:15:56.302'
       u: And, how do they live there in Sweden? Do they live the same as here, like
         the, the...
     - who: Ilmar A.
-      start: '00:15:56.302'
-      end: '00:16:25.298'
+      start:
+        sec: '956.302'
+        mark: '00:15:56.302'
+      end:
+        sec: '985.298'
+        mark: '00:16:25.298'
       u: They, they do not live in Sweden like the [unintelligible], but they have
         to work. And they have already learned the Swedish language. And are working
         somewhere in the trades and are having very simple work. But, such, specialized
         work they were not able to secure because they are professors, or the intelligence
         and they could not get adequate work but have to...
     - who: David Boder
-      start: '00:16:25.298'
-      end: '00:16:26.015'
+      start:
+        sec: '985.298'
+        mark: '00:16:25.298'
+      end:
+        sec: '986.015'
+        mark: '00:16:26.015'
       u: ". . . work physically?"
     - who: Ilmar A.
-      start: '00:16:26.015'
-      end: '00:16:28.264'
+      start:
+        sec: '986.015'
+        mark: '00:16:26.015'
+      end:
+        sec: '988.264'
+        mark: '00:16:28.264'
       u: Make, perform physical labor.
     - who: David Boder
-      start: '00:16:28.264'
-      end: '00:16:31.673'
+      start:
+        sec: '988.264'
+        mark: '00:16:28.264'
+      end:
+        sec: '991.673'
+        mark: '00:16:31.673'
       u: And the UNRRA is helping there, or, uh...?
     - who: Ilmar A.
-      start: '00:16:31.673'
-      end: '00:16:38.903'
+      start:
+        sec: '991.673'
+        mark: '00:16:31.673'
+      end:
+        sec: '998.903'
+        mark: '00:16:38.903'
       u: Of that I have no clue. But I believe the UNRRA is not there but...
     - who: David Boder
-      start: '00:16:38.903'
-      end: '00:16:39.709'
+      start:
+        sec: '998.903'
+        mark: '00:16:38.903'
+      end:
+        sec: '999.709'
+        mark: '00:16:39.709'
       u: They are simply there...
     - who: Ilmar A.
-      start: '00:16:39.709'
-      end: '00:16:40.094'
+      start:
+        sec: '999.709'
+        mark: '00:16:39.709'
+      end:
+        sec: '1000.094'
+        mark: '00:16:40.094'
       u: ". . . simply..."
     - who: David Boder
-      start: '00:16:40.094'
-      end: '00:16:41.578'
+      start:
+        sec: '1000.094'
+        mark: '00:16:40.094'
+      end:
+        sec: '1001.578'
+        mark: '00:16:41.578'
       u: ". . . like migrants, like emigrants?"
     - who: Ilmar A.
-      start: '00:16:41.578'
-      end: '00:16:43.380'
+      start:
+        sec: '1001.578'
+        mark: '00:16:41.578'
+      end:
+        sec: '1003.380'
+        mark: '00:16:43.380'
       u: ". . . like emigrants, like emigrants there."
     - who: David Boder
-      start: '00:16:43.380'
-      end: '00:16:46.154'
+      start:
+        sec: '1003.380'
+        mark: '00:16:43.380'
+      end:
+        sec: '1006.154'
+        mark: '00:16:46.154'
       u: Now, continue, what happened to you?
     - who: Ilmar A.
-      start: '00:16:46.154'
-      end: '00:17:02.912'
+      start:
+        sec: '1006.154'
+        mark: '00:16:46.154'
+      end:
+        sec: '1022.912'
+        mark: '00:17:02.912'
       u: Here I could, [unintelligible] from, until September 1944. Then I should
         come away from my house, should leave my house.
     - who: David Boder
-      start: '00:17:02.912'
-      end: '00:17:03.960'
+      start:
+        sec: '1022.912'
+        mark: '00:17:02.912'
+      end:
+        sec: '1023.960'
+        mark: '00:17:03.960'
       u: Why?
     - who: Ilmar A.
-      start: '00:17:03.960'
-      end: '00:18:00.722'
+      start:
+        sec: '1023.960'
+        mark: '00:17:03.960'
+      end:
+        sec: '1080.722'
+        mark: '00:18:00.722'
       u: That was because the front came closer and closer, and I wanted to flee to
         Sweden. But my parents stayed behind. And they could not come with me because
         they were, uh, old. Health was no longer good. That was September 20, 1944;
@@ -1900,542 +3536,1042 @@ recording:
         way already for a day or so, but at night we had an accident and the Germans
         caught us.
     - who: David Boder
-      start: '00:18:00.722'
-      end: '00:18:01.845'
+      start:
+        sec: '1080.722'
+        mark: '00:18:00.722'
+      end:
+        sec: '1081.845'
+        mark: '00:18:01.845'
       u: Where was that?
     - who: Ilmar A.
-      start: '00:18:01.845'
-      end: '00:18:03.543'
+      start:
+        sec: '1081.845'
+        mark: '00:18:01.845'
+      end:
+        sec: '1083.543'
+        mark: '00:18:03.543'
       u: That was on the sea.
     - who: David Boder
-      start: '00:18:03.543'
-      end: '00:18:05.999'
+      start:
+        sec: '1083.543'
+        mark: '00:18:03.543'
+      end:
+        sec: '1085.999'
+        mark: '00:18:05.999'
       u: And what, you, you went by boat?
     - who: Ilmar A.
-      start: '00:18:05.999'
-      end: '00:18:06.892'
+      start:
+        sec: '1085.999'
+        mark: '00:18:05.999'
+      end:
+        sec: '1086.892'
+        mark: '00:18:06.892'
       u: Yes, by boat.
     - who: David Boder
-      start: '00:18:06.892'
-      end: '00:18:08.098'
+      start:
+        sec: '1086.892'
+        mark: '00:18:06.892'
+      end:
+        sec: '1088.098'
+        mark: '00:18:08.098'
       u: What kind of boat?
     - who: Ilmar A.
-      start: '00:18:08.098'
-      end: '00:18:11.209'
+      start:
+        sec: '1088.098'
+        mark: '00:18:08.098'
+      end:
+        sec: '1091.209'
+        mark: '00:18:11.209'
       u: That was simply a small, small boat.
     - who: David Boder
-      start: '00:18:11.209'
-      end: '00:18:12.098'
+      start:
+        sec: '1091.209'
+        mark: '00:18:11.209'
+      end:
+        sec: '1092.098'
+        mark: '00:18:12.098'
       u: Motor boat?
     - who: Ilmar A.
-      start: '00:18:12.098'
-      end: '00:18:14.769'
+      start:
+        sec: '1092.098'
+        mark: '00:18:12.098'
+      end:
+        sec: '1094.769'
+        mark: '00:18:14.769'
       u: No, [inaudible]. Yes, it was a motor boat.
     - who: David Boder
-      start: '00:18:14.769'
-      end: '00:18:16.551'
+      start:
+        sec: '1094.769'
+        mark: '00:18:14.769'
+      end:
+        sec: '1096.551'
+        mark: '00:18:16.551'
       u: And where did you want to cross over?
     - who: Ilmar A.
-      start: '00:18:16.551'
-      end: '00:18:18.015'
+      start:
+        sec: '1096.551'
+        mark: '00:18:16.551'
+      end:
+        sec: '1098.015'
+        mark: '00:18:18.015'
       u: We wanted to cross over to Sweden.
     - who: David Boder
-      start: '00:18:18.015'
-      end: '00:18:21.305'
+      start:
+        sec: '1098.015'
+        mark: '00:18:18.015'
+      end:
+        sec: '1101.305'
+        mark: '00:18:21.305'
       u: Was it possible to drive over to Sweden in such a boat?
     - who: Ilmar A.
-      start: '00:18:21.305'
-      end: '00:18:22.908'
+      start:
+        sec: '1101.305'
+        mark: '00:18:21.305'
+      end:
+        sec: '1102.908'
+        mark: '00:18:22.908'
       u: No, you were not allowed to cross over.
     - who: David Boder
-      start: '00:18:22.908'
-      end: '00:18:26.829'
+      start:
+        sec: '1102.908'
+        mark: '00:18:22.908'
+      end:
+        sec: '1106.829'
+        mark: '00:18:26.829'
       u: Yes, but I mean, can such a boat drive over to Sweden?
     - who: Ilmar A.
-      start: '00:18:26.829'
-      end: '00:18:34.940'
+      start:
+        sec: '1106.829'
+        mark: '00:18:26.829'
+      end:
+        sec: '1114.940'
+        mark: '00:18:34.940'
       u: Yes, we thought that we could drive over. It was, uh, the last option.
     - who: David Boder
-      start: '00:18:34.940'
-      end: '00:18:36.920'
+      start:
+        sec: '1114.940'
+        mark: '00:18:34.940'
+      end:
+        sec: '1116.920'
+        mark: '00:18:36.920'
       u: How many people were in the boat?
     - who: Ilmar A.
-      start: '00:18:36.920'
-      end: '00:18:39.321'
+      start:
+        sec: '1116.920'
+        mark: '00:18:36.920'
+      end:
+        sec: '1119.321'
+        mark: '00:18:39.321'
       u: There were six people in the boat.
     - who: David Boder
-      start: '00:18:39.321'
-      end: '00:18:40.908'
+      start:
+        sec: '1119.321'
+        mark: '00:18:39.321'
+      end:
+        sec: '1120.908'
+        mark: '00:18:40.908'
       u: I see, and it had an engine?
     - who: Ilmar A.
-      start: '00:18:40.908'
-      end: '00:18:41.491'
+      start:
+        sec: '1120.908'
+        mark: '00:18:40.908'
+      end:
+        sec: '1121.491'
+        mark: '00:18:41.491'
       u: Yes.
     - who: David Boder
-      start: '00:18:41.491'
-      end: '00:18:44.959'
+      start:
+        sec: '1121.491'
+        mark: '00:18:41.491'
+      end:
+        sec: '1124.959'
+        mark: '00:18:44.959'
       u: And did you have enough gasoline to cross over?
     - who: Ilmar A.
-      start: '00:18:44.959'
-      end: '00:18:52.797'
+      start:
+        sec: '1124.959'
+        mark: '00:18:44.959'
+      end:
+        sec: '1132.797'
+        mark: '00:18:52.797'
       u: Yes, we did not have so much gasoline, but we also had, uh, oars.
     - who: David Boder
-      start: '00:18:52.797'
-      end: '00:18:53.666'
+      start:
+        sec: '1132.797'
+        mark: '00:18:52.797'
+      end:
+        sec: '1133.666'
+        mark: '00:18:53.666'
       u: I see.
     - who: Ilmar A.
-      start: '00:18:53.666'
-      end: '00:18:58.817'
+      start:
+        sec: '1133.666'
+        mark: '00:18:53.666'
+      end:
+        sec: '1138.817'
+        mark: '00:18:58.817'
       u: Yes, and at last we maybe would have, uh, rowed.
     - who: David Boder
-      start: '00:18:58.817'
-      end: '00:19:02.698'
+      start:
+        sec: '1138.817'
+        mark: '00:18:58.817'
+      end:
+        sec: '1142.698'
+        mark: '00:19:02.698'
       u: And where did the Germans catch you?
     - who: Ilmar A.
-      start: '00:19:02.698'
-      end: '00:19:09.575'
+      start:
+        sec: '1142.698'
+        mark: '00:19:02.698'
+      end:
+        sec: '1149.575'
+        mark: '00:19:09.575'
       u: The Germans caught us about halfway across the Sea.
     - who: David Boder
-      start: '00:19:09.575'
-      end: '00:19:11.952'
+      start:
+        sec: '1149.575'
+        mark: '00:19:09.575'
+      end:
+        sec: '1151.952'
+        mark: '00:19:11.952'
       u: How many days had you been away from, from shore?
     - who: Ilmar A.
-      start: '00:19:11.952'
-      end: '00:19:14.111'
+      start:
+        sec: '1151.952'
+        mark: '00:19:11.952'
+      end:
+        sec: '1154.111'
+        mark: '00:19:14.111'
       u: I was about a day.
     - who: David Boder
-      start: '00:19:14.111'
-      end: '00:19:16.468'
+      start:
+        sec: '1154.111'
+        mark: '00:19:14.111'
+      end:
+        sec: '1156.468'
+        mark: '00:19:16.468'
       u: I see. Well, [disbelieving] that was not halfway across, I mean, one cannot...
     - who: Ilmar A.
-      start: '00:19:16.468'
-      end: '00:19:19.635'
+      start:
+        sec: '1156.468'
+        mark: '00:19:16.468'
+      end:
+        sec: '1159.635'
+        mark: '00:19:19.635'
       u: "[unintelligible] one day, and in two days you are already across."
     - who: David Boder
-      start: '00:19:19.635'
-      end: '00:19:20.246'
+      start:
+        sec: '1159.635'
+        mark: '00:19:19.635'
+      end:
+        sec: '1160.246'
+        mark: '00:19:20.246'
       u: "[surprised] To Sweden?"
     - who: Ilmar A.
-      start: '00:19:20.246'
-      end: '00:19:21.810'
+      start:
+        sec: '1160.246'
+        mark: '00:19:20.246'
+      end:
+        sec: '1161.810'
+        mark: '00:19:21.810'
       u: Yes, to Sweden.Given the distance, this may be impossible. He may be talking
         about Finland?9
     - who: David Boder
-      start: '00:19:21.810'
-      end: '00:19:24.147'
+      start:
+        sec: '1161.810'
+        mark: '00:19:21.810'
+      end:
+        sec: '1164.147'
+        mark: '00:19:24.147'
       u: Ok, continue.
     - who: Ilmar A.
-      start: '00:19:24.147'
-      end: '00:19:32.913'
+      start:
+        sec: '1164.147'
+        mark: '00:19:24.147'
+      end:
+        sec: '1172.913'
+        mark: '00:19:32.913'
       u: And they brought us to Germany.
     - who: David Boder
-      start: '00:19:32.913'
-      end: '00:19:34.890'
+      start:
+        sec: '1172.913'
+        mark: '00:19:32.913'
+      end:
+        sec: '1174.890'
+        mark: '00:19:34.890'
       u: And what happened then?
     - who: Ilmar A.
-      start: '00:19:34.890'
-      end: '00:19:58.910'
+      start:
+        sec: '1174.890'
+        mark: '00:19:34.890'
+      end:
+        sec: '1198.910'
+        mark: '00:19:58.910'
       u: That was in the lager and I am the son of a farmer. Then I said that I can
         do field work somewhere. Because then I believed that possibly that was the
         best way to stay alive. Because the food was very bad.
     - who: David Boder
-      start: '00:19:58.910'
-      end: '00:20:01.089'
+      start:
+        sec: '1198.910'
+        mark: '00:19:58.910'
+      end:
+        sec: '1201.089'
+        mark: '00:20:01.089'
       u: In which lager were you?
     - who: Ilmar A.
-      start: '00:20:01.089'
-      end: '00:20:03.129'
+      start:
+        sec: '1201.089'
+        mark: '00:20:01.089'
+      end:
+        sec: '1203.129'
+        mark: '00:20:03.129'
       u: That was in [Gotenhafen?].This phrase is difficult to discern, but it appears
         he says something ending with “hafen.” The most probable place would be Gotenhafen,
         a subcamp of the Stutthof concentration camp. Many Baltic slave laborers were
         evacuated to Stutthof in August-September 1944.10
     - who: David Boder
-      start: '00:20:03.129'
-      end: '00:20:07.907'
+      start:
+        sec: '1203.129'
+        mark: '00:20:03.129'
+      end:
+        sec: '1207.907'
+        mark: '00:20:07.907'
       u: "[unintelligible]. How many people were there in this lager in general? Was
         that a big concentration camp?"
     - who: Ilmar A.
-      start: '00:20:07.907'
-      end: '00:20:19.054'
+      start:
+        sec: '1207.907'
+        mark: '00:20:07.907'
+      end:
+        sec: '1219.054'
+        mark: '00:20:19.054'
       u: That is, that was not a concentration camp, but it was a “Durchgangslager”
         [transit camp] or some such, and the number of people I cannot tell.
     - who: David Boder
-      start: '00:20:19.054'
-      end: '00:20:22.205'
+      start:
+        sec: '1219.054'
+        mark: '00:20:19.054'
+      end:
+        sec: '1222.205'
+        mark: '00:20:22.205'
       u: Roughly, how many would you estimate?
     - who: Ilmar A.
-      start: '00:20:22.205'
-      end: '00:20:23.729'
+      start:
+        sec: '1222.205'
+        mark: '00:20:22.205'
+      end:
+        sec: '1223.729'
+        mark: '00:20:23.729'
       u: There were a thousand there.
     - who: David Boder
-      start: '00:20:23.729'
-      end: '00:20:24.320'
+      start:
+        sec: '1223.729'
+        mark: '00:20:23.729'
+      end:
+        sec: '1224.320'
+        mark: '00:20:24.320'
       u: A thousand.
     - who: Ilmar A.
-      start: '00:20:24.320'
-      end: '00:20:24.832'
+      start:
+        sec: '1224.320'
+        mark: '00:20:24.320'
+      end:
+        sec: '1224.832'
+        mark: '00:20:24.832'
       u: Yes.
     - who: David Boder
-      start: '00:20:24.832'
-      end: '00:20:31.158'
+      start:
+        sec: '1224.832'
+        mark: '00:20:24.832'
+      end:
+        sec: '1231.158'
+        mark: '00:20:31.158'
       u: And how, how did the Germans behave toward you personally?
     - who: Ilmar A.
-      start: '00:20:31.158'
-      end: '00:20:50.012'
+      start:
+        sec: '1231.158'
+        mark: '00:20:31.158'
+      end:
+        sec: '1250.012'
+        mark: '00:20:50.012'
       u: At first they were [unintelligible]. But in the end they said, “yes, you
         can go to work there and you can go away then, they/you [same word in German]
         were there only three days.” I told that I was the son of a farmer and that
         I can do field work.
     - who: David Boder
-      start: '00:20:50.012'
-      end: '00:20:51.278'
+      start:
+        sec: '1250.012'
+        mark: '00:20:50.012'
+      end:
+        sec: '1251.278'
+        mark: '00:20:51.278'
       u: You were in the camp only three days?
     - who: Ilmar A.
-      start: '00:20:51.278'
-      end: '00:20:51.810'
+      start:
+        sec: '1251.278'
+        mark: '00:20:51.278'
+      end:
+        sec: '1251.810'
+        mark: '00:20:51.810'
       u: Yes, yes.
     - who: David Boder
-      start: '00:20:51.810'
-      end: '00:20:53.612'
+      start:
+        sec: '1251.810'
+        mark: '00:20:51.810'
+      end:
+        sec: '1253.612'
+        mark: '00:20:53.612'
       u: Well, go on.
     - who: Ilmar A.
-      start: '00:20:53.612'
-      end: '00:20:56.326'
+      start:
+        sec: '1253.612'
+        mark: '00:20:53.612'
+      end:
+        sec: '1256.326'
+        mark: '00:20:56.326'
       u: Then I went to...
     - who: David Boder
-      start: '00:20:56.326'
-      end: '00:21:00.072'
+      start:
+        sec: '1256.326'
+        mark: '00:20:56.326'
+      end:
+        sec: '1260.072'
+        mark: '00:21:00.072'
       u: Did the Germans beat you at any time?
     - who: Ilmar A.
-      start: '00:21:00.072'
-      end: '00:21:03.148'
+      start:
+        sec: '1260.072'
+        mark: '00:21:00.072'
+      end:
+        sec: '1263.148'
+        mark: '00:21:03.148'
       u: No, I personally was never beaten.
     - who: David Boder
-      start: '00:21:03.148'
-      end: '00:21:06.319'
+      start:
+        sec: '1263.148'
+        mark: '00:21:03.148'
+      end:
+        sec: '1266.319'
+        mark: '00:21:06.319'
       u: Why not? Did they beat anybody else?
     - who: Ilmar A.
-      start: '00:21:06.319'
-      end: '00:21:09.609'
+      start:
+        sec: '1266.319'
+        mark: '00:21:06.319'
+      end:
+        sec: '1269.609'
+        mark: '00:21:09.609'
       u: I saw that, but me, they never, no.
     - who: David Boder
-      start: '00:21:09.609'
-      end: '00:21:13.811'
+      start:
+        sec: '1269.609'
+        mark: '00:21:09.609'
+      end:
+        sec: '1273.811'
+        mark: '00:21:13.811'
       u: And who were the people whom they did beat?
     - who: Ilmar A.
-      start: '00:21:13.811'
-      end: '00:21:28.143'
+      start:
+        sec: '1273.811'
+        mark: '00:21:13.811'
+      end:
+        sec: '1288.143'
+        mark: '00:21:28.143'
       u: This I cannot say. I do not know what nationality or what they have, they
         were, uh, of many nationalities, Lets, Lithuanians, Poles, all sorts of people.
     - who: David Boder
-      start: '00:21:28.143'
-      end: '00:21:31.274'
+      start:
+        sec: '1288.143'
+        mark: '00:21:28.143'
+      end:
+        sec: '1291.274'
+        mark: '00:21:31.274'
       u: Well, go on. Did you go to the countryside?
     - who: Ilmar A.
-      start: '00:21:31.274'
-      end: '00:21:42.123'
+      start:
+        sec: '1291.274'
+        mark: '00:21:31.274'
+      end:
+        sec: '1302.123'
+        mark: '00:21:42.123'
       u: And I was in the countryside and I worked there until, uh, May 5, 1945.
     - who: David Boder
-      start: '00:21:42.123'
-      end: '00:21:49.659'
+      start:
+        sec: '1302.123'
+        mark: '00:21:42.123'
+      end:
+        sec: '1309.659'
+        mark: '00:21:49.659'
       u: What happened then? (One moment.) [Boder as if talking to someone in the
         background]. How did the farmer behave toward you? Did he give you enough
         to eat?
     - who: Ilmar A.
-      start: '00:21:49.659'
-      end: '00:21:56.044'
+      start:
+        sec: '1309.659'
+        mark: '00:21:49.659'
+      end:
+        sec: '1316.044'
+        mark: '00:21:56.044'
       u: Enough food he did not give, but I ate separately.
     - who: David Boder
-      start: '00:21:56.044'
-      end: '00:21:56.926'
+      start:
+        sec: '1316.044'
+        mark: '00:21:56.044'
+      end:
+        sec: '1316.926'
+        mark: '00:21:56.926'
       u: What does that mean, you “ate separately”?
     - who: Ilmar A.
-      start: '00:21:56.926'
-      end: '00:22:10.073'
+      start:
+        sec: '1316.926'
+        mark: '00:21:56.926'
+      end:
+        sec: '1330.073'
+        mark: '00:22:10.073'
       u: Ate extra in, in a room and the farmer ate in the dining room.
     - who: David Boder
-      start: '00:22:10.073'
-      end: '00:22:16.875'
+      start:
+        sec: '1330.073'
+        mark: '00:22:10.073'
+      end:
+        sec: '1336.875'
+        mark: '00:22:16.875'
       u: And what did they [no verb] you, [corrects himself] and did they pay you
         anything?
     - who: Ilmar A.
-      start: '00:22:16.875'
-      end: '00:22:21.256'
+      start:
+        sec: '1336.875'
+        mark: '00:22:16.875'
+      end:
+        sec: '1341.256'
+        mark: '00:22:21.256'
       u: There they paid us twenty-three marks per month.
     - who: David Boder
-      start: '00:22:21.256'
-      end: '00:22:24.089'
+      start:
+        sec: '1341.256'
+        mark: '00:22:21.256'
+      end:
+        sec: '1344.089'
+        mark: '00:22:24.089'
       u: And who was with you?
     - who: Ilmar A.
-      start: '00:22:24.089'
-      end: '00:22:25.133'
+      start:
+        sec: '1344.089'
+        mark: '00:22:24.089'
+      end:
+        sec: '1345.133'
+        mark: '00:22:25.133'
       u: I beg your pardon?
     - who: David Boder
-      start: '00:22:25.133'
-      end: '00:22:28.284'
+      start:
+        sec: '1345.133'
+        mark: '00:22:25.133'
+      end:
+        sec: '1348.284'
+        mark: '00:22:28.284'
       u: You say “us,” who was there with you?
     - who: Ilmar A.
-      start: '00:22:28.284'
-      end: '00:22:31.018'
+      start:
+        sec: '1348.284'
+        mark: '00:22:28.284'
+      end:
+        sec: '1351.018'
+        mark: '00:22:31.018'
       u: Well, I meant that, uh,...
     - who: David Boder
-      start: '00:22:31.018'
-      end: '00:22:31.689'
+      start:
+        sec: '1351.018'
+        mark: '00:22:31.018'
+      end:
+        sec: '1351.689'
+        mark: '00:22:31.689'
       u: ". . . in general?"
     - who: Ilmar A.
-      start: '00:22:31.689'
-      end: '00:22:33.352'
+      start:
+        sec: '1351.689'
+        mark: '00:22:31.689'
+      end:
+        sec: '1353.352'
+        mark: '00:22:33.352'
       u: ". . . in general, [unintelligible]."
     - who: David Boder
-      start: '00:22:33.352'
-      end: '00:22:38.765'
+      start:
+        sec: '1353.352'
+        mark: '00:22:33.352'
+      end:
+        sec: '1358.765'
+        mark: '00:22:38.765'
       u: Twenty-three marks per month. And what was there to buy with twenty-three
         marks?
     - who: Ilmar A.
-      start: '00:22:38.765'
-      end: '00:22:42.908'
+      start:
+        sec: '1358.765'
+        mark: '00:22:38.765'
+      end:
+        sec: '1362.908'
+        mark: '00:22:42.908'
       u: For the money, you could not buy anything.
     - who: David Boder
-      start: '00:22:42.908'
-      end: '00:22:44.745'
+      start:
+        sec: '1362.908'
+        mark: '00:22:42.908'
+      end:
+        sec: '1364.745'
+        mark: '00:22:44.745'
       u: Did you have a ration card?
     - who: Ilmar A.
-      start: '00:22:44.745'
-      end: '00:22:49.324'
+      start:
+        sec: '1364.745'
+        mark: '00:22:44.745'
+      end:
+        sec: '1369.324'
+        mark: '00:22:49.324'
       u: No, I did not have. Instead, the farmer gave me. Gave food.
     - who: David Boder
-      start: '00:22:49.324'
-      end: '00:22:58.070'
+      start:
+        sec: '1369.324'
+        mark: '00:22:49.324'
+      end:
+        sec: '1378.070'
+        mark: '00:22:58.070'
       u: Gave food. How did the farmer, how did the farmer behave? Was he decent?
         Was he friendly?
     - who: Ilmar A.
-      start: '00:22:58.070'
-      end: '00:23:13.602'
+      start:
+        sec: '1378.070'
+        mark: '00:22:58.070'
+      end:
+        sec: '1393.602'
+        mark: '00:23:13.602'
       u: At first, he was not friendly. But in the end I worked well, because I am
         a young man after all, and the farmer was quite decent.
     - who: David Boder
-      start: '00:23:13.602'
-      end: '00:23:19.626'
+      start:
+        sec: '1393.602'
+        mark: '00:23:13.602'
+      end:
+        sec: '1399.626'
+        mark: '00:23:19.626'
       u: Well. And what happened on May 5, that’s what you said, right, March 5 [sic],
         what happened then? What was that?
     - who: Ilmar A.
-      start: '00:23:19.626'
-      end: '00:23:31.448'
+      start:
+        sec: '1399.626'
+        mark: '00:23:19.626'
+      end:
+        sec: '1411.448'
+        mark: '00:23:31.448'
       u: Then the American occupation troops arrived and we were freed from the Germans,
         and we could be supplied for by the Americans.
     - who: David Boder
-      start: '00:23:31.448'
-      end: '00:23:33.012'
+      start:
+        sec: '1411.448'
+        mark: '00:23:31.448'
+      end:
+        sec: '1413.012'
+        mark: '00:23:33.012'
       u: Where was that? Was that in...?
     - who: Ilmar A.
-      start: '00:23:33.012'
-      end: '00:23:34.870'
+      start:
+        sec: '1413.012'
+        mark: '00:23:33.012'
+      end:
+        sec: '1414.870'
+        mark: '00:23:34.870'
       u: That was in Oberlungwitz, that was...
     - who: David Boder
-      start: '00:23:34.870'
-      end: '00:23:36.592'
+      start:
+        sec: '1414.870'
+        mark: '00:23:34.870'
+      end:
+        sec: '1416.592'
+        mark: '00:23:36.592'
       u: Is that in the American Zone?
     - who: Ilmar A.
-      start: '00:23:36.592'
-      end: '00:23:42.104'
+      start:
+        sec: '1416.592'
+        mark: '00:23:36.592'
+      end:
+        sec: '1422.104'
+        mark: '00:23:42.104'
       u: No, this is not in the American Zone now, it is now the Russian Zone.
     - who: David Boder
-      start: '00:23:42.104'
-      end: '00:23:43.195'
+      start:
+        sec: '1422.104'
+        mark: '00:23:42.104'
+      end:
+        sec: '1423.195'
+        mark: '00:23:43.195'
       u: It is the Russian Zone?
     - who: Ilmar A.
-      start: '00:23:43.195'
-      end: '00:23:43.945'
+      start:
+        sec: '1423.195'
+        mark: '00:23:43.195'
+      end:
+        sec: '1423.945'
+        mark: '00:23:43.945'
       u: Yes.
     - who: David Boder
-      start: '00:23:43.945'
-      end: '00:23:48.505'
+      start:
+        sec: '1423.945'
+        mark: '00:23:43.945'
+      end:
+        sec: '1428.505'
+        mark: '00:23:48.505'
       u: And, did you get from that zone to here, to Munich?
     - who: Ilmar A.
-      start: '00:23:48.505'
-      end: '00:23:54.473'
+      start:
+        sec: '1428.505'
+        mark: '00:23:48.505'
+      end:
+        sec: '1434.473'
+        mark: '00:23:54.473'
       u: I flee—, I fled from that zone again.
     - who: David Boder
-      start: '00:23:54.473'
-      end: '00:23:55.342'
+      start:
+        sec: '1434.473'
+        mark: '00:23:54.473'
+      end:
+        sec: '1435.342'
+        mark: '00:23:55.342'
       u: Why?
     - who: Ilmar A.
-      start: '00:23:55.342'
-      end: '00:24:11.886'
+      start:
+        sec: '1435.342'
+        mark: '00:23:55.342'
+      end:
+        sec: '1451.886'
+        mark: '00:24:11.886'
       u: That is because I heard that the Russians would be coming there. And I was
         afraid already because I flee already from the Russians in 1944 and I know
         what that means; that was...
     - who: David Boder
-      start: '00:24:11.886'
-      end: '00:24:15.945'
+      start:
+        sec: '1451.886'
+        mark: '00:24:11.886'
+      end:
+        sec: '1455.945'
+        mark: '00:24:15.945'
       u: "[interrupts] In ’44 you were not fleeing from the Russians, were you? ’44
         you were fleeing from the Germans, right?"
     - who: Ilmar A.
-      start: '00:24:15.945'
-      end: '00:24:17.846'
+      start:
+        sec: '1455.945'
+        mark: '00:24:15.945'
+      end:
+        sec: '1457.846'
+        mark: '00:24:17.846'
       u: From the Germans and here as well from the Russians.
     - who: David Boder
-      start: '00:24:17.846'
-      end: '00:24:17.846'
+      start:
+        sec: '1457.846'
+        mark: '00:24:17.846'
+      end:
+        sec: '1457.846'
+        mark: '00:24:17.846'
       u: Oh, that the Russians are coming, yes.
     - who: Ilmar A.
-      start: '00:24:17.846'
-      end: '00:24:37.015'
+      start:
+        sec: '1457.846'
+        mark: '00:24:17.846'
+      end:
+        sec: '1477.015'
+        mark: '00:24:37.015'
       u: The Russians were coming and I know what it means, a Russian occupation because,
         that, uh, in 1941, on the 14th July one was, were deported sixty thousand
         men and women to Siberia. Sixty thousand of us.
     - who: David Boder
-      start: '00:24:37.015'
-      end: '00:24:37.606'
+      start:
+        sec: '1477.015'
+        mark: '00:24:37.015'
+      end:
+        sec: '1477.606'
+        mark: '00:24:37.606'
       u: Sixteen?
     - who: Ilmar A.
-      start: '00:24:37.606'
-      end: '00:24:38.495'
+      start:
+        sec: '1477.606'
+        mark: '00:24:37.606'
+      end:
+        sec: '1478.495'
+        mark: '00:24:38.495'
       u: Sixty.
     - who: David Boder
-      start: '00:24:38.495'
-      end: '00:24:39.047'
+      start:
+        sec: '1478.495'
+        mark: '00:24:38.495'
+      end:
+        sec: '1479.047'
+        mark: '00:24:39.047'
       u: Sixty-thousand.
     - who: Ilmar A.
-      start: '00:24:39.047'
-      end: '00:24:48.583'
+      start:
+        sec: '1479.047'
+        mark: '00:24:39.047'
+      end:
+        sec: '1488.583'
+        mark: '00:24:48.583'
       u: Yes. That means, uh, one, uh, seven percent...
     - who: David Boder
-      start: '00:24:48.583'
-      end: '00:24:49.460'
+      start:
+        sec: '1488.583'
+        mark: '00:24:48.583'
+      end:
+        sec: '1489.460'
+        mark: '00:24:49.460'
       u: Yes, of the whole.
     - who: Ilmar A.
-      start: '00:24:49.460'
-      end: '00:24:51.662'
+      start:
+        sec: '1489.460'
+        mark: '00:24:49.460'
+      end:
+        sec: '1491.662'
+        mark: '00:24:51.662'
       u: of the whole population.
     - who: David Boder
-      start: '00:24:51.662'
-      end: '00:25:04.254'
+      start:
+        sec: '1491.662'
+        mark: '00:24:51.662'
+      end:
+        sec: '1504.254'
+        mark: '00:25:04.254'
       u: Well? [short break in the recording] What happened there?
     - who: Ilmar A.
-      start: '00:25:04.254'
-      end: '00:25:24.012'
+      start:
+        sec: '1504.254'
+        mark: '00:25:04.254'
+      end:
+        sec: '1524.012'
+        mark: '00:25:24.012'
       u: Here I lived and I wanted to go on with my studies and I asked to be given
         the chance to continue studying somewhere in Germany. Now I have heard that...
     - who: David Boder
-      start: '00:25:24.012'
-      end: '00:25:24.504'
+      start:
+        sec: '1524.012'
+        mark: '00:25:24.012'
+      end:
+        sec: '1524.504'
+        mark: '00:25:24.504'
       u: Yes?
     - who: Ilmar A.
-      start: '00:25:24.504'
-      end: '00:25:35.171'
+      start:
+        sec: '1524.504'
+        mark: '00:25:24.504'
+      end:
+        sec: '1535.171'
+        mark: '00:25:35.171'
       u: ". . . I heard that here in Munich is, founds a UNRRA University, that is
         an international university where there are studying nineteen, twelve..."
     - who: David Boder
-      start: '00:25:35.171'
-      end: '00:25:37.449'
+      start:
+        sec: '1535.171'
+        mark: '00:25:35.171'
+      end:
+        sec: '1537.449'
+        mark: '00:25:37.449'
       u: I see. What are you studying here?
     - who: Ilmar A.
-      start: '00:25:37.449'
-      end: '00:25:39.092'
+      start:
+        sec: '1537.449'
+        mark: '00:25:37.449'
+      end:
+        sec: '1539.092'
+        mark: '00:25:39.092'
       u: I am studying “Bauwesen” [Building or construction].
     - who: David Boder
-      start: '00:25:39.092'
-      end: '00:25:40.021'
+      start:
+        sec: '1539.092'
+        mark: '00:25:39.092'
+      end:
+        sec: '1540.021'
+        mark: '00:25:40.021'
       u: What? “Bauwesen”?
     - who: Ilmar A.
-      start: '00:25:40.021'
-      end: '00:25:40.513'
+      start:
+        sec: '1540.021'
+        mark: '00:25:40.021'
+      end:
+        sec: '1540.513'
+        mark: '00:25:40.513'
       u: "“Bauwesen.”"
     - who: David Boder
-      start: '00:25:40.513'
-      end: '00:25:40.926'
+      start:
+        sec: '1540.513'
+        mark: '00:25:40.513'
+      end:
+        sec: '1540.926'
+        mark: '00:25:40.926'
       u: Architecture?
     - who: Ilmar A.
-      start: '00:25:40.926'
-      end: '00:25:44.871'
+      start:
+        sec: '1540.926'
+        mark: '00:25:40.926'
+      end:
+        sec: '1544.871'
+        mark: '00:25:44.871'
       u: Archi—, no, not archi—, but subject area “Bauwesen.”
     - who: David Boder
-      start: '00:25:44.871'
-      end: '00:25:46.752'
+      start:
+        sec: '1544.871'
+        mark: '00:25:44.871'
+      end:
+        sec: '1546.752'
+        mark: '00:25:46.752'
       u: Well, building houses?
     - who: Ilmar A.
-      start: '00:25:46.752'
-      end: '00:25:48.812'
+      start:
+        sec: '1546.752'
+        mark: '00:25:46.752'
+      end:
+        sec: '1548.812'
+        mark: '00:25:48.812'
       u: Houses, “Tief- und Hochbau.”"Tief” means “low”; “Hoch” means “high.” These
         two terms designate two branches of construction –- having to do with constructions
         that are either below or above the ground.11
     - who: David Boder
-      start: '00:25:48.812'
-      end: '00:25:50.473'
+      start:
+        sec: '1548.812'
+        mark: '00:25:48.812'
+      end:
+        sec: '1550.473'
+        mark: '00:25:50.473'
       u: What means “Tiefbau”?
     - who: Ilmar A.
-      start: '00:25:50.473'
-      end: '00:25:56.313'
+      start:
+        sec: '1550.473'
+        mark: '00:25:50.473'
+      end:
+        sec: '1556.313'
+        mark: '00:25:56.313'
       u: That, also hydraulic engineering, uh, and canals, channels, and [unintelligible]
         and so forth.
     - who: David Boder
-      start: '00:25:56.313'
-      end: '00:26:00.138'
+      start:
+        sec: '1556.313'
+        mark: '00:25:56.313'
+      end:
+        sec: '1560.138'
+        mark: '00:26:00.138'
       u: I see, and how long is that going to take?
     - who: Ilmar A.
-      start: '00:26:00.138'
-      end: '00:26:06.274'
+      start:
+        sec: '1560.138'
+        mark: '00:26:00.138'
+      end:
+        sec: '1566.274'
+        mark: '00:26:06.274'
       u: Here in Germany it will take three years. We have tri-semesters, we have
         three semesters a year.
     - who: David Boder
-      start: '00:26:06.274'
-      end: '00:26:09.211'
+      start:
+        sec: '1566.274'
+        mark: '00:26:06.274'
+      end:
+        sec: '1569.211'
+        mark: '00:26:09.211'
       u: Yes. And what is the language of instruction?
     - who: Ilmar A.
-      start: '00:26:09.211'
-      end: '00:26:12.074'
+      start:
+        sec: '1569.211'
+        mark: '00:26:09.211'
+      end:
+        sec: '1572.074'
+        mark: '00:26:12.074'
       u: Instruction is in the German language.
     - who: David Boder
-      start: '00:26:12.074'
-      end: '00:26:19.523'
+      start:
+        sec: '1572.074'
+        mark: '00:26:12.074'
+      end:
+        sec: '1579.523'
+        mark: '00:26:19.523'
       u: Now, tell me. Where do you think of going from here? Are you hearing word
         from your parents? What happened with your parents?
     - who: Ilmar A.
-      start: '00:26:19.523'
-      end: '00:26:33.760'
+      start:
+        sec: '1579.523'
+        mark: '00:26:19.523'
+      end:
+        sec: '1593.760'
+        mark: '00:26:33.760'
       u: I have not heard from my parents, that is because we have no connection.
         In my opinion, my parents have already been deported to Siberia. That is probable.
     - who: David Boder
-      start: '00:26:33.760'
-      end: '00:26:37.486'
+      start:
+        sec: '1593.760'
+        mark: '00:26:33.760'
+      end:
+        sec: '1597.486'
+        mark: '00:26:37.486'
       u: And what are the people doing when they are deported to Siberia?
     - who: Ilmar A.
-      start: '00:26:37.486'
-      end: '00:26:42.087'
+      start:
+        sec: '1597.486'
+        mark: '00:26:37.486'
+      end:
+        sec: '1602.087'
+        mark: '00:26:42.087'
       u: They are, uh, skilled laborers.
     - who: David Boder
-      start: '00:26:42.087'
-      end: '00:26:50.257'
+      start:
+        sec: '1602.087'
+        mark: '00:26:42.087'
+      end:
+        sec: '1610.257'
+        mark: '00:26:50.257'
       u: Now, tell me, how and, uh...
     - who: Ilmar A.
-      start: '00:26:50.257'
-      end: '00:26:55.999'
+      start:
+        sec: '1610.257'
+        mark: '00:26:50.257'
+      end:
+        sec: '1615.999'
+        mark: '00:26:55.999'
       u: ". . . have an uncle in America, but I know no address, I know no address."
     - who: David Boder
-      start: '00:26:55.999'
-      end: '00:27:05.840'
+      start:
+        sec: '1615.999'
+        mark: '00:26:55.999'
+      end:
+        sec: '1625.840'
+        mark: '00:27:05.840'
       u: Now, Mr. Ilman, there are so many more things I want to hear from you, but
         I have resolved that I from all half an hour, that I talk with everyone for
         half an hour. We have been together now for half an hour.
     - who: Ilmar A.
-      start: '00:27:05.840'
-      end: '00:27:06.525'
+      start:
+        sec: '1625.840'
+        mark: '00:27:05.840'
+      end:
+        sec: '1626.525'
+        mark: '00:27:06.525'
       u: Yes.
     - who: David Boder
-      start: '00:27:06.525'
-      end: '00:27:10.473'
+      start:
+        sec: '1626.525'
+        mark: '00:27:06.525'
+      end:
+        sec: '1630.473'
+        mark: '00:27:10.473'
       u: Well, will you please send in the next gentleman?
     - who: David Boder
-      start: '00:27:10.473'
-      end: '00:27:23.810'
+      start:
+        sec: '1630.473'
+        mark: '00:27:10.473'
+      end:
+        sec: '1643.810'
+        mark: '00:27:23.810'
       u: "[In English] This concludes the interview with Ilmar A., he doesn’t give
         his full name, twenty-three years old, Estonian student of the UNRRA University
         in Munich, September the 24th, 1946, Illinois Institute of Technology wire
         recording."
     - who: David Boder
-      start: '00:27:23.810'
-      end: '00:27:57.766'
+      start:
+        sec: '1643.810'
+        mark: '00:27:23.810'
+      end:
+        sec: '1677.766'
+        mark: '00:27:57.766'
       u: This is reproduction 9-152-A, the continuation of Spool 152 will be then
         on 9-152-B, split up for convenience. This is the spool re-duplicated for
         the U.S. Public Health Service. November 11, 1949.

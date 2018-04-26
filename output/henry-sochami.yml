@@ -37,613 +37,1197 @@ recording:
     language: es
     interview:
     - who: David Boder
-      start: '00:00:01.087'
-      end: '00:00:36.162'
+      start:
+        sec: '1.087'
+        mark: '00:00:01.087'
+      end:
+        sec: '36.162'
+        mark: '00:00:36.162'
       u: "[In English] This is Spool 43 taken from Mr. Henry Sochami, 38 years old,
         tattoo number 109752 triangle, meaning Jewish, a tattoo of the camp of Auschwitz.
         He will speak Spanish, he can speak German but it’s rather...slow, and we
         prefer to use the language he can speak most fluently."
     - who: David Boder
-      start: '00:00:36.162'
-      end: '00:00:44.492'
+      start:
+        sec: '36.162'
+        mark: '00:00:36.162'
+      end:
+        sec: '44.492'
+        mark: '00:00:44.492'
       u: "[In Spanish] Ehh...Señor Sochami, eh...dígame dónde nació Ud. y de qué nacionalidad
         es Ud."
     - who: Henry Sochami
-      start: '00:00:44.492'
-      end: '00:00:46.665'
+      start:
+        sec: '44.492'
+        mark: '00:00:44.492'
+      end:
+        sec: '46.665'
+        mark: '00:00:46.665'
       u: Es nacionalidad griega.
     - who: David Boder
-      start: '00:00:46.665'
-      end: '00:00:47.510'
+      start:
+        sec: '46.665'
+        mark: '00:00:46.665'
+      end:
+        sec: '47.510'
+        mark: '00:00:47.510'
       u: "¿Sí?"
     - who: Henry Sochami
-      start: '00:00:47.510'
-      end: '00:00:48.929'
+      start:
+        sec: '47.510'
+        mark: '00:00:47.510'
+      end:
+        sec: '48.929'
+        mark: '00:00:48.929'
       u: "[Inintelegible]"
     - who: David Boder
-      start: '00:00:48.929'
-      end: '00:00:49.309'
+      start:
+        sec: '48.929'
+        mark: '00:00:48.929'
+      end:
+        sec: '49.309'
+        mark: '00:00:49.309'
       u: Sí.
     - who: Henry Sochami
-      start: '00:00:49.309'
-      end: '00:00:50.335'
+      start:
+        sec: '49.309'
+        mark: '00:00:49.309'
+      end:
+        sec: '50.335'
+        mark: '00:00:50.335'
       u: "[Inintelegible]"
     - who: David Boder
-      start: '00:00:50.335'
-      end: '00:00:53.504'
+      start:
+        sec: '50.335'
+        mark: '00:00:50.335'
+      end:
+        sec: '53.504'
+        mark: '00:00:53.504'
       u: Sí, Ud. está de nacionalidad greca ¿y dónde nació Ud.?
     - who: Henry Sochami
-      start: '00:00:53.504'
-      end: '00:00:54.682'
+      start:
+        sec: '53.504'
+        mark: '00:00:53.504'
+      end:
+        sec: '54.682'
+        mark: '00:00:54.682'
       u: De Salonic.
     - who: David Boder
-      start: '00:00:54.682'
-      end: '00:00:55.485'
+      start:
+        sec: '54.682'
+        mark: '00:00:54.682'
+      end:
+        sec: '55.485'
+        mark: '00:00:55.485'
       u: Sí.
     - who: Henry Sochami
-      start: '00:00:55.485'
-      end: '00:00:57.676'
+      start:
+        sec: '55.485'
+        mark: '00:00:55.485'
+      end:
+        sec: '57.676'
+        mark: '00:00:57.676'
       u: Después, eh...nos deportaron el...
     - who: David Boder
-      start: '00:00:57.676'
-      end: '00:01:11.982'
+      start:
+        sec: '57.676'
+        mark: '00:00:57.676'
+      end:
+        sec: '71.982'
+        mark: '00:01:11.982'
       u: Ehh...entonces voy a hace...dee...pedirle que me diga Ud., ehh, dónde estuvo
         Ud., cuando llegaron los alemanes, ehh...en la ciudad de su residencia.
     - who: Henry Sochami
-      start: '00:01:11.982'
-      end: '00:01:17.282'
+      start:
+        sec: '71.982'
+        mark: '00:01:11.982'
+      end:
+        sec: '77.282'
+        mark: '00:01:17.282'
       u: Antes de arribar los alemanes yo estuve en la Albania, en la grecha soldado.
     - who: David Boder
-      start: '00:01:17.282'
-      end: '00:01:23.759'
+      start:
+        sec: '77.282'
+        mark: '00:01:17.282'
+      end:
+        sec: '83.759'
+        mark: '00:01:23.759'
       u: "¿Si? Estaba Ud. en el...en el ejército greco y luchaba Ud. ¿contra quién?"
     - who: Henry Sochami
-      start: '00:01:23.759'
-      end: '00:01:25.347'
+      start:
+        sec: '83.759'
+        mark: '00:01:23.759'
+      end:
+        sec: '85.347'
+        mark: '00:01:25.347'
       u: Contraaa...la Italia.
     - who: David Boder
-      start: '00:01:25.347'
-      end: '00:01:30.224'
+      start:
+        sec: '85.347'
+        mark: '00:01:25.347'
+      end:
+        sec: '90.224'
+        mark: '00:01:30.224'
       u: Aja. Grecia see...reunió con Inglaterra en Estados Unidos. Sí.
     - who: Henry Sochami
-      start: '00:01:30.224'
-      end: '00:01:31.311'
+      start:
+        sec: '90.224'
+        mark: '00:01:30.224'
+      end:
+        sec: '91.311'
+        mark: '00:01:31.311'
       u: En Estados Unidos, sí.
     - who: David Boder
-      start: '00:01:31.311'
-      end: '00:01:36.007'
+      start:
+        sec: '91.311'
+        mark: '00:01:31.311'
+      end:
+        sec: '96.007'
+        mark: '00:01:36.007'
       u: Y Ud. luchó contra...contra Italia. ¿Y entonces?
     - who: Henry Sochami
-      start: '00:01:36.007'
-      end: '00:01:40.112'
+      start:
+        sec: '96.007'
+        mark: '00:01:36.007'
+      end:
+        sec: '100.112'
+        mark: '00:01:40.112'
       u: Entonces ehh...estuve, eh...en el combate ocho meses.
     - who: David Boder
-      start: '00:01:40.112'
-      end: '00:01:44.959'
+      start:
+        sec: '100.112'
+        mark: '00:01:40.112'
+      end:
+        sec: '104.959'
+        mark: '00:01:44.959'
       u: Sí. ¿En qué regi...en qué...clase de armas estuvo Ud.?
     - who: Henry Sochami
-      start: '00:01:44.959'
-      end: '00:01:46.770'
+      start:
+        sec: '104.959'
+        mark: '00:01:44.959'
+      end:
+        sec: '106.770'
+        mark: '00:01:46.770'
       u: En la clase mil novescientos se...
     - who: David Boder
-      start: '00:01:46.770'
-      end: '00:01:49.384'
+      start:
+        sec: '106.770'
+        mark: '00:01:46.770'
+      end:
+        sec: '109.384'
+        mark: '00:01:49.384'
       u: No, no. Digo de qué armas, infantería o...
     - who: Henry Sochami
-      start: '00:01:49.384'
-      end: '00:01:55.831'
+      start:
+        sec: '109.384'
+        mark: '00:01:49.384'
+      end:
+        sec: '115.831'
+        mark: '00:01:55.831'
       u: Se llama...se llama tagma télégraphiqué
     - who: David Boder
-      start: '00:01:55.831'
-      end: '00:01:58.928'
+      start:
+        sec: '115.831'
+        mark: '00:01:55.831'
+      end:
+        sec: '118.928'
+        mark: '00:01:58.928'
       u: Ohh! ¿Está...estuvo Ud.[inintelegible]?
     - who: Henry Sochami
-      start: '00:01:58.928'
-      end: '00:01:59.278'
+      start:
+        sec: '118.928'
+        mark: '00:01:58.928'
+      end:
+        sec: '119.278'
+        mark: '00:01:59.278'
       u: Sí.
     - who: David Boder
-      start: '00:01:59.278'
-      end: '00:02:00.968'
+      start:
+        sec: '119.278'
+        mark: '00:01:59.278'
+      end:
+        sec: '120.968'
+        mark: '00:02:00.968'
       u: "¿Y conoce Ud. [inintelegible]?"
     - who: Henry Sochami
-      start: '00:02:00.968'
-      end: '00:02:01.451'
+      start:
+        sec: '120.968'
+        mark: '00:02:00.968'
+      end:
+        sec: '121.451'
+        mark: '00:02:01.451'
       u: No.
     - who: David Boder
-      start: '00:02:01.451'
-      end: '00:02:01.904'
+      start:
+        sec: '121.451'
+        mark: '00:02:01.451'
+      end:
+        sec: '121.904'
+        mark: '00:02:01.904'
       u: "¿No?"
     - who: Henry Sochami
-      start: '00:02:01.904'
-      end: '00:02:03.944'
+      start:
+        sec: '121.904'
+        mark: '00:02:01.904'
+      end:
+        sec: '123.944'
+        mark: '00:02:03.944'
       u: Estuve como clairon.
     - who: David Boder
-      start: '00:02:03.944'
-      end: '00:02:04.880'
+      start:
+        sec: '123.944'
+        mark: '00:02:03.944'
+      end:
+        sec: '124.880'
+        mark: '00:02:04.880'
       u: "¡Aja!"
     - who: Henry Sochami
-      start: '00:02:04.880'
-      end: '00:02:05.290'
+      start:
+        sec: '124.880'
+        mark: '00:02:04.880'
+      end:
+        sec: '125.290'
+        mark: '00:02:05.290'
       u: Trompeta.
     - who: David Boder
-      start: '00:02:05.290'
-      end: '00:02:16.186'
+      start:
+        sec: '125.290'
+        mark: '00:02:05.290'
+      end:
+        sec: '136.186'
+        mark: '00:02:16.186'
       u: Sí. Estuvo Ud. deee...deee...ehh...hombre trompeta en el dee...en un ehh...deta...detachamento
         de...télégraphic.
     - who: Henry Sochami
-      start: '00:02:16.186'
-      end: '00:02:16.566'
+      start:
+        sec: '136.186'
+        mark: '00:02:16.186'
+      end:
+        sec: '136.566'
+        mark: '00:02:16.566'
       u: Télégraphic.
     - who: David Boder
-      start: '00:02:16.566'
-      end: '00:02:17.592'
+      start:
+        sec: '136.566'
+        mark: '00:02:16.566'
+      end:
+        sec: '137.592'
+        mark: '00:02:17.592'
       u: Bueno.
     - who: Henry Sochami
-      start: '00:02:17.592'
-      end: '00:02:18.739'
+      start:
+        sec: '137.592'
+        mark: '00:02:17.592'
+      end:
+        sec: '138.739'
+        mark: '00:02:18.739'
       u: "[Inintelegible]"
     - who: David Boder
-      start: '00:02:18.739'
-      end: '00:02:20.478'
+      start:
+        sec: '138.739'
+        mark: '00:02:18.739'
+      end:
+        sec: '140.478'
+        mark: '00:02:20.478'
       u: "¿Es Ud. músico en general?"
     - who: Henry Sochami
-      start: '00:02:20.478'
-      end: '00:02:20.858'
+      start:
+        sec: '140.478'
+        mark: '00:02:20.478'
+      end:
+        sec: '140.858'
+        mark: '00:02:20.858'
       u: Sí.
     - who: David Boder
-      start: '00:02:20.858'
-      end: '00:02:23.001'
+      start:
+        sec: '140.858'
+        mark: '00:02:20.858'
+      end:
+        sec: '143.001'
+        mark: '00:02:23.001'
       u: Eh, ¿qué instrumento toca?
     - who: Henry Sochami
-      start: '00:02:23.001'
-      end: '00:02:24.057'
+      start:
+        sec: '143.001'
+        mark: '00:02:23.001'
+      end:
+        sec: '144.057'
+        mark: '00:02:24.057'
       u: Clairon.
     - who: David Boder
-      start: '00:02:24.057'
-      end: '00:02:26.261'
+      start:
+        sec: '144.057'
+        mark: '00:02:24.057'
+      end:
+        sec: '146.261'
+        mark: '00:02:26.261'
       u: Así que toca el clairon, bueno.
     - who: Henry Sochami
-      start: '00:02:26.261'
-      end: '00:02:32.949'
+      start:
+        sec: '146.261'
+        mark: '00:02:26.261'
+      end:
+        sec: '152.949'
+        mark: '00:02:32.949'
       u: Después ehh...cuando los alemanes...declararon la guerra a la Grecia.
     - who: David Boder
-      start: '00:02:32.949'
-      end: '00:02:33.704'
+      start:
+        sec: '152.949'
+        mark: '00:02:32.949'
+      end:
+        sec: '153.704'
+        mark: '00:02:33.704'
       u: Sí.
     - who: Henry Sochami
-      start: '00:02:33.704'
-      end: '00:02:38.038'
+      start:
+        sec: '153.704'
+        mark: '00:02:33.704'
+      end:
+        sec: '158.038'
+        mark: '00:02:38.038'
       u: Yo iba me tocaba barreando con, en Albania, con los italianos.
     - who: David Boder
-      start: '00:02:38.038'
-      end: '00:02:39.275'
+      start:
+        sec: '158.038'
+        mark: '00:02:38.038'
+      end:
+        sec: '159.275'
+        mark: '00:02:39.275'
       u: Sí.
     - who: Henry Sochami
-      start: '00:02:39.275'
-      end: '00:03:00.716'
+      start:
+        sec: '159.275'
+        mark: '00:02:39.275'
+      end:
+        sec: '180.716'
+        mark: '00:03:00.716'
       u: De allá cuando...ya ocuparon la ciudad mía, San Nícolo, los alemanes, después
         combatimos en Atenas en todos los lugares de la vieja Grecia. Después de ahí,
         fuimos obligados de rendernos...a los alemanes, y los alemanes nos escortaron
         como fuéramos en nuestras casas.
     - who: David Boder
-      start: '00:03:00.716'
-      end: '00:03:02.225'
+      start:
+        sec: '180.716'
+        mark: '00:03:00.716'
+      end:
+        sec: '182.225'
+        mark: '00:03:02.225'
       u: Sí.
     - who: Henry Sochami
-      start: '00:03:02.225'
-      end: '00:03:05.817'
+      start:
+        sec: '182.225'
+        mark: '00:03:02.225'
+      end:
+        sec: '185.817'
+        mark: '00:03:05.817'
       u: Yo fue en mi casa yo fai/sai mis tres criaturas.
     - who: David Boder
-      start: '00:03:05.817'
-      end: '00:03:06.982'
+      start:
+        sec: '185.817'
+        mark: '00:03:05.817'
+      end:
+        sec: '186.982'
+        mark: '00:03:06.982'
       u: "¿En qué ciudad?"
     - who: Henry Sochami
-      start: '00:03:06.982'
-      end: '00:03:07.845'
+      start:
+        sec: '186.982'
+        mark: '00:03:06.982'
+      end:
+        sec: '187.845'
+        mark: '00:03:07.845'
       u: En Salonic.
     - who: David Boder
-      start: '00:03:07.845'
-      end: '00:03:10.441'
+      start:
+        sec: '187.845'
+        mark: '00:03:07.845'
+      end:
+        sec: '190.441'
+        mark: '00:03:10.441'
       u: Salonic. ¿Y estuvo su esposa con Ud.?
     - who: Henry Sochami
-      start: '00:03:10.441'
-      end: '00:03:10.851'
+      start:
+        sec: '190.441'
+        mark: '00:03:10.441'
+      end:
+        sec: '190.851'
+        mark: '00:03:10.851'
       u: Sí.
     - who: David Boder
-      start: '00:03:10.851'
-      end: '00:03:14.141'
+      start:
+        sec: '190.851'
+        mark: '00:03:10.851'
+      end:
+        sec: '194.141'
+        mark: '00:03:14.141'
       u: Su esposa y tres criaturas, ¿qué año?
     - who: Henry Sochami
-      start: '00:03:14.141'
-      end: '00:03:24.644'
+      start:
+        sec: '194.141'
+        mark: '00:03:14.141'
+      end:
+        sec: '204.644'
+        mark: '00:03:24.644'
       u: Uno 13 años, Ziu Sochami; el segundo, 10 años, xxx Sochami; tres Dora Sochami,
         3 años.
     - who: David Boder
-      start: '00:03:24.644'
-      end: '00:03:25.761'
+      start:
+        sec: '204.644'
+        mark: '00:03:24.644'
+      end:
+        sec: '205.761'
+        mark: '00:03:25.761'
       u: Sí.
     - who: Henry Sochami
-      start: '00:03:25.761'
-      end: '00:03:33.083'
+      start:
+        sec: '205.761'
+        mark: '00:03:25.761'
+      end:
+        sec: '213.083'
+        mark: '00:03:33.083'
       u: Después cuando...vinieron los alemanes nos tomaron a todos los judios, nos
         llevaron en un campo...
     - who: David Boder
-      start: '00:03:33.083'
-      end: '00:03:34.580'
+      start:
+        sec: '213.083'
+        mark: '00:03:33.083'
+      end:
+        sec: '214.580'
+        mark: '00:03:34.580'
       u: Sí, [inintelegible]
     - who: Henry Sochami
-      start: '00:03:34.580'
-      end: '00:03:36.530'
+      start:
+        sec: '214.580'
+        mark: '00:03:34.580'
+      end:
+        sec: '216.530'
+        mark: '00:03:36.530'
       u: No, no. Antes.
     - who: David Boder
-      start: '00:03:36.530'
-      end: '00:03:36.910'
+      start:
+        sec: '216.530'
+        mark: '00:03:36.530'
+      end:
+        sec: '216.910'
+        mark: '00:03:36.910'
       u: Sí.
     - who: Henry Sochami
-      start: '00:03:36.910'
-      end: '00:03:39.415'
+      start:
+        sec: '216.910'
+        mark: '00:03:36.910'
+      end:
+        sec: '219.415'
+        mark: '00:03:39.415'
       u: Nos llevaron ehh...para laborar.
     - who: David Boder
-      start: '00:03:39.415'
-      end: '00:03:40.351'
+      start:
+        sec: '219.415'
+        mark: '00:03:39.415'
+      end:
+        sec: '220.351'
+        mark: '00:03:40.351'
       u: Sí.
     - who: Henry Sochami
-      start: '00:03:40.351'
-      end: '00:03:44.413'
+      start:
+        sec: '220.351'
+        mark: '00:03:40.351'
+      end:
+        sec: '224.413'
+        mark: '00:03:44.413'
       u: De 17 años fina 45 años.
     - who: David Boder
-      start: '00:03:44.413'
-      end: '00:03:44.896'
+      start:
+        sec: '224.413'
+        mark: '00:03:44.413'
+      end:
+        sec: '224.896'
+        mark: '00:03:44.896'
       u: Sí.
     - who: Henry Sochami
-      start: '00:03:44.896'
-      end: '00:03:45.802'
+      start:
+        sec: '224.896'
+        mark: '00:03:44.896'
+      end:
+        sec: '225.802'
+        mark: '00:03:45.802'
       u: Nos llevaron...
     - who: David Boder
-      start: '00:03:45.802'
-      end: '00:03:47.178'
+      start:
+        sec: '225.802'
+        mark: '00:03:45.802'
+      end:
+        sec: '227.178'
+        mark: '00:03:47.178'
       u: "¿Hombres y mujeres?"
     - who: Henry Sochami
-      start: '00:03:47.178'
-      end: '00:03:48.295'
+      start:
+        sec: '227.178'
+        mark: '00:03:47.178'
+      end:
+        sec: '228.295'
+        mark: '00:03:48.295'
       u: No, sólo hombres.
     - who: David Boder
-      start: '00:03:48.295'
-      end: '00:03:48.736'
+      start:
+        sec: '228.295'
+        mark: '00:03:48.295'
+      end:
+        sec: '228.736'
+        mark: '00:03:48.736'
       u: Sí.
     - who: Henry Sochami
-      start: '00:03:48.736'
-      end: '00:03:54.277'
+      start:
+        sec: '228.736'
+        mark: '00:03:48.736'
+      end:
+        sec: '234.277'
+        mark: '00:03:54.277'
       u: Nos tomaron los nombres, y nos dieron unas affiches, y nos llamaban con plazas
     - who: David Boder
-      start: '00:03:54.277'
-      end: '00:03:54.639'
+      start:
+        sec: '234.277'
+        mark: '00:03:54.277'
+      end:
+        sec: '234.639'
+        mark: '00:03:54.639'
       u: Sí.
     - who: Henry Sochami
-      start: '00:03:54.639'
-      end: '00:03:55.816'
+      start:
+        sec: '234.639'
+        mark: '00:03:54.639'
+      end:
+        sec: '235.816'
+        mark: '00:03:55.816'
       u: Compartidas.
     - who: David Boder
-      start: '00:03:55.816'
-      end: '00:03:56.299'
+      start:
+        sec: '235.816'
+        mark: '00:03:55.816'
+      end:
+        sec: '236.299'
+        mark: '00:03:56.299'
       u: Sí.
     - who: Henry Sochami
-      start: '00:03:56.299'
-      end: '00:03:58.442'
+      start:
+        sec: '236.299'
+        mark: '00:03:56.299'
+      end:
+        sec: '238.442'
+        mark: '00:03:58.442'
       u: Para laborar en unos laboros.
     - who: David Boder
-      start: '00:03:58.442'
-      end: '00:03:59.227'
+      start:
+        sec: '238.442'
+        mark: '00:03:58.442'
+      end:
+        sec: '239.227'
+        mark: '00:03:59.227'
       u: Sí.
     - who: Henry Sochami
-      start: '00:03:59.227'
-      end: '00:04:06.398'
+      start:
+        sec: '239.227'
+        mark: '00:03:59.227'
+      end:
+        sec: '246.398'
+        mark: '00:04:06.398'
       u: Después de los laboros, nos llevaron en unas...ehh...líneas de treno, a...hacer
         la guardia.
     - who: David Boder
-      start: '00:04:06.398'
-      end: '00:04:07.364'
+      start:
+        sec: '246.398'
+        mark: '00:04:06.398'
+      end:
+        sec: '247.364'
+        mark: '00:04:07.364'
       u: Bueno.
     - who: Henry Sochami
-      start: '00:04:07.364'
-      end: '00:04:12.392'
+      start:
+        sec: '247.364'
+        mark: '00:04:07.364'
+      end:
+        sec: '252.392'
+        mark: '00:04:12.392'
       u: Después de...la guardamos, ehh...a cerrarnos en gueto...a dormir.
     - who: David Boder
-      start: '00:04:12.392'
-      end: '00:04:13.599'
+      start:
+        sec: '252.392'
+        mark: '00:04:12.392'
+      end:
+        sec: '253.599'
+        mark: '00:04:13.599'
       u: "¿A dormir?"
     - who: Henry Sochami
-      start: '00:04:13.599'
-      end: '00:04:15.350'
+      start:
+        sec: '253.599'
+        mark: '00:04:13.599'
+      end:
+        sec: '255.350'
+        mark: '00:04:15.350'
       u: A dormir, en la stazione.
     - who: David Boder
-      start: '00:04:15.350'
-      end: '00:04:15.610'
+      start:
+        sec: '255.350'
+        mark: '00:04:15.350'
+      end:
+        sec: '255.610'
+        mark: '00:04:15.610'
       u: Si.
     - who: Henry Sochami
-      start: '00:04:15.610'
-      end: '00:04:16.624'
+      start:
+        sec: '255.610'
+        mark: '00:04:15.610'
+      end:
+        sec: '256.624'
+        mark: '00:04:16.624'
       u: En Grecia.
     - who: David Boder
-      start: '00:04:16.624'
-      end: '00:04:16.956'
+      start:
+        sec: '256.624'
+        mark: '00:04:16.624'
+      end:
+        sec: '256.956'
+        mark: '00:04:16.956'
       u: Sí.
     - who: Henry Sochami
-      start: '00:04:16.956'
-      end: '00:04:20.789'
+      start:
+        sec: '256.956'
+        mark: '00:04:16.956'
+      end:
+        sec: '260.789'
+        mark: '00:04:20.789'
       u: Nos cerraron en gueto, estuvimos ocho días en el gueto.
     - who: David Boder
-      start: '00:04:20.789'
-      end: '00:04:21.363'
+      start:
+        sec: '260.789'
+        mark: '00:04:20.789'
+      end:
+        sec: '261.363'
+        mark: '00:04:21.363'
       u: Sí.
     - who: Henry Sochami
-      start: '00:04:21.363'
-      end: '00:04:27.297'
+      start:
+        sec: '261.363'
+        mark: '00:04:21.363'
+      end:
+        sec: '267.297'
+        mark: '00:04:27.297'
       u: Después de los ocho días...nos embarcaron tres mil quinientas personas...
     - who: David Boder
-      start: '00:04:27.297'
-      end: '00:04:28.915'
+      start:
+        sec: '267.297'
+        mark: '00:04:27.297'
+      end:
+        sec: '268.915'
+        mark: '00:04:28.915'
       u: "¿Hombres y mujeres?"
     - who: Henry Sochami
-      start: '00:04:28.915'
-      end: '00:04:30.563'
+      start:
+        sec: '268.915'
+        mark: '00:04:28.915'
+      end:
+        sec: '270.563'
+        mark: '00:04:30.563'
       u: Hombres y mujeres y criaturas.
     - who: David Boder
-      start: '00:04:30.563'
-      end: '00:04:31.275'
+      start:
+        sec: '270.563'
+        mark: '00:04:30.563'
+      end:
+        sec: '271.275'
+        mark: '00:04:31.275'
       u: Sí.
     - who: Henry Sochami
-      start: '00:04:31.275'
-      end: '00:04:33.388'
+      start:
+        sec: '271.275'
+        mark: '00:04:31.275'
+      end:
+        sec: '273.388'
+        mark: '00:04:33.388'
       u: A los trenes cerrados.
     - who: David Boder
-      start: '00:04:33.388'
-      end: '00:04:41.694'
+      start:
+        sec: '273.388'
+        mark: '00:04:33.388'
+      end:
+        sec: '281.694'
+        mark: '00:04:41.694'
       u: Sí. Entonces dígame, ehh...¿alguna vez trabajó Ud. solamente hombres y dónde
         estaba su esposa con las niñas?
     - who: Henry Sochami
-      start: '00:04:41.694'
-      end: '00:04:48.093'
+      start:
+        sec: '281.694'
+        mark: '00:04:41.694'
+      end:
+        sec: '288.093'
+        mark: '00:04:48.093'
       u: Cuando partimos de...San Nico, partimos el 15 marzo, 1943.
     - who: David Boder
-      start: '00:04:48.093'
-      end: '00:04:49.318'
+      start:
+        sec: '288.093'
+        mark: '00:04:48.093'
+      end:
+        sec: '289.318'
+        mark: '00:04:49.318'
       u: "¿Quienes?"
     - who: Henry Sochami
-      start: '00:04:49.318'
-      end: '00:04:52.004'
+      start:
+        sec: '289.318'
+        mark: '00:04:49.318'
+      end:
+        sec: '292.004'
+        mark: '00:04:52.004'
       u: Con la familia que Ud., que...conocía.
     - who: David Boder
-      start: '00:04:52.004'
-      end: '00:04:52.789'
+      start:
+        sec: '292.004'
+        mark: '00:04:52.004'
+      end:
+        sec: '292.789'
+        mark: '00:04:52.789'
       u: Bueno.
     - who: Henry Sochami
-      start: '00:04:52.789'
-      end: '00:04:54.962'
+      start:
+        sec: '292.789'
+        mark: '00:04:52.789'
+      end:
+        sec: '294.962'
+        mark: '00:04:54.962'
       u: Arrivemos en Auschwitz.
     - who: David Boder
-      start: '00:04:54.962'
-      end: '00:04:56.006'
+      start:
+        sec: '294.962'
+        mark: '00:04:54.962'
+      end:
+        sec: '296.006'
+        mark: '00:04:56.006'
       u: "¿En Auschwitz?"
     - who: Henry Sochami
-      start: '00:04:56.006'
-      end: '00:04:59.598'
+      start:
+        sec: '296.006'
+        mark: '00:04:56.006'
+      end:
+        sec: '299.598'
+        mark: '00:04:59.598'
       u: A la estación [initelegible] 21 de marzo.
     - who: David Boder
-      start: '00:04:59.598'
-      end: '00:05:00.854'
+      start:
+        sec: '299.598'
+        mark: '00:04:59.598'
+      end:
+        sec: '300.854'
+        mark: '00:05:00.854'
       u: Sí.
     - who: Henry Sochami
-      start: '00:05:00.854'
-      end: '00:05:05.550'
+      start:
+        sec: '300.854'
+        mark: '00:05:00.854'
+      end:
+        sec: '305.550'
+        mark: '00:05:05.550'
       u: Ahí, vino una selección...ehh...oficiales...
     - who: David Boder
-      start: '00:05:05.550'
-      end: '00:05:06.003'
+      start:
+        sec: '305.550'
+        mark: '00:05:05.550'
+      end:
+        sec: '306.003'
+        mark: '00:05:06.003'
       u: Sí.
     - who: Henry Sochami
-      start: '00:05:06.003'
-      end: '00:05:10.910'
+      start:
+        sec: '306.003'
+        mark: '00:05:06.003'
+      end:
+        sec: '310.910'
+        mark: '00:05:10.910'
       u: ". . . alemanes, partaron criaturas, mujeres y viejos, un lugar..."
     - who: David Boder
-      start: '00:05:10.910'
-      end: '00:05:11.544'
+      start:
+        sec: '310.910'
+        mark: '00:05:10.910'
+      end:
+        sec: '311.544'
+        mark: '00:05:11.544'
       u: Sí.
     - who: Henry Sochami
-      start: '00:05:11.544'
-      end: '00:05:14.502'
+      start:
+        sec: '311.544'
+        mark: '00:05:11.544'
+      end:
+        sec: '314.502'
+        mark: '00:05:14.502'
       u: Y...los que podían laborar de otra parte.
     - who: David Boder
-      start: '00:05:14.502'
-      end: '00:05:15.214'
+      start:
+        sec: '314.502'
+        mark: '00:05:14.502'
+      end:
+        sec: '315.214'
+        mark: '00:05:15.214'
       u: Sí.
     - who: Henry Sochami
-      start: '00:05:15.214'
-      end: '00:05:22.277'
+      start:
+        sec: '315.214'
+        mark: '00:05:15.214'
+      end:
+        sec: '322.277'
+        mark: '00:05:22.277'
       u: Las criaturas y mujeres y los viejos los subieron en unos camiones, y los
         llevaron a...Berkenau.
     - who: David Boder
-      start: '00:05:22.277'
-      end: '00:05:22.796'
+      start:
+        sec: '322.277'
+        mark: '00:05:22.277'
+      end:
+        sec: '322.796'
+        mark: '00:05:22.796'
       u: Birkenau.
     - who: Henry Sochami
-      start: '00:05:22.796'
-      end: '00:05:23.883'
+      start:
+        sec: '322.796'
+        mark: '00:05:22.796'
+      end:
+        sec: '323.883'
+        mark: '00:05:23.883'
       u: Birkenau.
     - who: David Boder
-      start: '00:05:23.883'
-      end: '00:05:24.505'
+      start:
+        sec: '323.883'
+        mark: '00:05:23.883'
+      end:
+        sec: '324.505'
+        mark: '00:05:24.505'
       u: Sí.
     - who: Henry Sochami
-      start: '00:05:24.505'
-      end: '00:05:35.328'
+      start:
+        sec: '324.505'
+        mark: '00:05:24.505'
+      end:
+        sec: '335.328'
+        mark: '00:05:35.328'
       u: Ahí...los pasaron a la chambre à gaz, directamente, sin...quasi dificultad,
         a la mañana lendemain no existía ningunos.
     - who: David Boder
-      start: '00:05:35.328'
-      end: '00:05:37.308'
+      start:
+        sec: '335.328'
+        mark: '00:05:35.328'
+      end:
+        sec: '337.308'
+        mark: '00:05:37.308'
       u: "¿Y esto pasó a su familia?"
     - who: Henry Sochami
-      start: '00:05:37.308'
-      end: '00:05:42.849'
+      start:
+        sec: '337.308'
+        mark: '00:05:37.308'
+      end:
+        sec: '342.849'
+        mark: '00:05:42.849'
       u: Sí, yo, a mi familia también, si a mis criaturas, tres, criaturas y mi mujer.
     - who: David Boder
-      start: '00:05:42.849'
-      end: '00:05:43.453'
+      start:
+        sec: '342.849'
+        mark: '00:05:42.849'
+      end:
+        sec: '343.453'
+        mark: '00:05:43.453'
       u: Sí.
     - who: Henry Sochami
-      start: '00:05:43.453'
-      end: '00:05:49.266'
+      start:
+        sec: '343.453'
+        mark: '00:05:43.453'
+      end:
+        sec: '349.266'
+        mark: '00:05:49.266'
       u: Después...a nosotros nos llevaron en Auschwitz, en Auschwitz nos empecharon
         noche entera, al baño.
     - who: David Boder
-      start: '00:05:49.266'
-      end: '00:05:49.797'
+      start:
+        sec: '349.266'
+        mark: '00:05:49.266'
+      end:
+        sec: '349.797'
+        mark: '00:05:49.797'
       u: Sí.
     - who: Henry Sochami
-      start: '00:05:49.797'
-      end: '00:05:53.811'
+      start:
+        sec: '349.797'
+        mark: '00:05:49.797'
+      end:
+        sec: '353.811'
+        mark: '00:05:53.811'
       u: Nos lavaron, nos quitaron nuestras ropas y nos dieron unas ropas de bañar.
     - who: David Boder
-      start: '00:05:53.811'
-      end: '00:05:54.505'
+      start:
+        sec: '353.811'
+        mark: '00:05:53.811'
+      end:
+        sec: '354.505'
+        mark: '00:05:54.505'
       u: Sí.
     - who: Henry Sochami
-      start: '00:05:54.505'
-      end: '00:05:59.002'
+      start:
+        sec: '354.505'
+        mark: '00:05:54.505'
+      end:
+        sec: '359.002'
+        mark: '00:05:59.002'
       u: De prisioneros. Y nos metieron en cuarentina, cuarenta días.
     - who: David Boder
-      start: '00:05:59.002'
-      end: '00:06:00.994'
+      start:
+        sec: '359.002'
+        mark: '00:05:59.002'
+      end:
+        sec: '360.994'
+        mark: '00:06:00.994'
       u: "¿Y qué hacían en cuarentina?"
     - who: Henry Sochami
-      start: '00:06:00.994'
-      end: '00:06:05.733'
+      start:
+        sec: '360.994'
+        mark: '00:06:00.994'
+      end:
+        sec: '365.733'
+        mark: '00:06:05.733'
       u: La cuarentina a la mañana salíamos afuera, a hacer un poco de gymnastique...
     - who: David Boder
-      start: '00:06:05.733'
-      end: '00:06:06.807'
+      start:
+        sec: '365.733'
+        mark: '00:06:05.733'
+      end:
+        sec: '366.807'
+        mark: '00:06:06.807'
       u: Sí.
     - who: Henry Sochami
-      start: '00:06:06.807'
-      end: '00:06:18.638'
+      start:
+        sec: '366.807'
+        mark: '00:06:06.807'
+      end:
+        sec: '378.638'
+        mark: '00:06:18.638'
       u: Y...más nada. Después de los cuarenta días vinieron unos oficiales, apartaron
         todos los que eran fuertes, labradores, los enviaron...afuera de Auschwitz,
         en otros campos.
     - who: David Boder
-      start: '00:06:18.638'
-      end: '00:06:19.091'
+      start:
+        sec: '378.638'
+        mark: '00:06:18.638'
+      end:
+        sec: '379.091'
+        mark: '00:06:19.091'
       u: Sí.
     - who: Henry Sochami
-      start: '00:06:19.091'
-      end: '00:06:20.570'
+      start:
+        sec: '379.091'
+        mark: '00:06:19.091'
+      end:
+        sec: '380.570'
+        mark: '00:06:20.570'
       u: Y yo quedé en Auschwitz.
     - who: David Boder
-      start: '00:06:20.570'
-      end: '00:06:23.377'
+      start:
+        sec: '380.570'
+        mark: '00:06:20.570'
+      end:
+        sec: '383.377'
+        mark: '00:06:23.377'
       u: "¿Y qué hicieron con los que no pudieron trabajar?"
     - who: Henry Sochami
-      start: '00:06:23.377'
-      end: '00:06:31.303'
+      start:
+        sec: '383.377'
+        mark: '00:06:23.377'
+      end:
+        sec: '391.303'
+        mark: '00:06:31.303'
       u: Los que no podían trabajar los llevaban...eh...en un hospital, del hospital
         los enviaban...a...Birkenau, al crematoire.
     - who: David Boder
-      start: '00:06:31.303'
-      end: '00:06:31.834'
+      start:
+        sec: '391.303'
+        mark: '00:06:31.303'
+      end:
+        sec: '391.834'
+        mark: '00:06:31.834'
       u: Sí.
     - who: Henry Sochami
-      start: '00:06:31.834'
-      end: '00:06:38.263'
+      start:
+        sec: '391.834'
+        mark: '00:06:31.834'
+      end:
+        sec: '398.263'
+        mark: '00:06:38.263'
       u: Los que no podían. Y los que podían laborar nos metieron...a...laborar en
         otros comandos que había ahí.
     - who: David Boder
-      start: '00:06:38.263'
-      end: '00:06:38.945'
+      start:
+        sec: '398.263'
+        mark: '00:06:38.263'
+      end:
+        sec: '398.945'
+        mark: '00:06:38.945'
       u: Sí.
     - who: Henry Sochami
-      start: '00:06:38.945'
-      end: '00:06:44.106'
+      start:
+        sec: '398.945'
+        mark: '00:06:38.945'
+      end:
+        sec: '404.106'
+        mark: '00:06:44.106'
       u: De los comandos...nos apartábamos, batíamos, mataban de leña.
     - who: David Boder
-      start: '00:06:44.106'
-      end: '00:06:44.921'
+      start:
+        sec: '404.106'
+        mark: '00:06:44.106'
+      end:
+        sec: '404.921'
+        mark: '00:06:44.921'
       u: Sí.
     - who: Henry Sochami
-      start: '00:06:44.921'
-      end: '00:06:49.768'
+      start:
+        sec: '404.921'
+        mark: '00:06:44.921'
+      end:
+        sec: '409.768'
+        mark: '00:06:49.768'
       u: Y...comer era un...poco de pan al día con un litro de agua.
     - who: David Boder
-      start: '00:06:49.768'
-      end: '00:06:51.971'
+      start:
+        sec: '409.768'
+        mark: '00:06:49.768'
+      end:
+        sec: '411.971'
+        mark: '00:06:51.971'
       u: "¿Y en qué comandos trabajó Ud.?"
     - who: Henry Sochami
-      start: '00:06:51.971'
-      end: '00:06:53.843'
+      start:
+        sec: '411.971'
+        mark: '00:06:51.971'
+      end:
+        sec: '413.843'
+        mark: '00:06:53.843'
       u: En el folgas
     - who: David Boder
-      start: '00:06:53.843'
-      end: '00:06:55.521'
+      start:
+        sec: '413.843'
+        mark: '00:06:53.843'
+      end:
+        sec: '415.521'
+        mark: '00:06:55.521'
       u: "¿Qué hacían allá?"
     - who: Henry Sochami
-      start: '00:06:55.521'
-      end: '00:06:57.272'
+      start:
+        sec: '415.521'
+        mark: '00:06:55.521'
+      end:
+        sec: '417.272'
+        mark: '00:06:57.272'
       u: Allá hacían la masonería.
     - who: David Boder
-      start: '00:06:57.272'
-      end: '00:06:57.924'
+      start:
+        sec: '417.272'
+        mark: '00:06:57.272'
+      end:
+        sec: '417.924'
+        mark: '00:06:57.924'
       u: "¿Qué?"
     - who: Henry Sochami
-      start: '00:06:57.924'
-      end: '00:06:58.516'
+      start:
+        sec: '417.924'
+        mark: '00:06:57.924'
+      end:
+        sec: '418.516'
+        mark: '00:06:58.516'
       u: Masones.
     - who: David Boder
-      start: '00:06:58.516'
-      end: '00:07:01.009'
+      start:
+        sec: '418.516'
+        mark: '00:06:58.516'
+      end:
+        sec: '421.009'
+        mark: '00:07:01.009'
       u: Aja, hacíannn...ehh...¿piedras?
     - who: Henry Sochami
-      start: '00:07:01.009'
-      end: '00:07:04.860'
+      start:
+        sec: '421.009'
+        mark: '00:07:01.009'
+      end:
+        sec: '424.860'
+        mark: '00:07:04.860'
       u: Sí, piedras...con...había civiles que laboraban.
     - who: David Boder
-      start: '00:07:04.860'
-      end: '00:07:10.263'
+      start:
+        sec: '424.860'
+        mark: '00:07:04.860'
+      end:
+        sec: '430.263'
+        mark: '00:07:10.263'
       u: Sí.
     - who: David Boder
-      start: '00:07:10.263'
-      end: '00:07:15.985'
+      start:
+        sec: '430.263'
+        mark: '00:07:10.263'
+      end:
+        sec: '435.985'
+        mark: '00:07:15.985'
       u: There was a little interruption.
     - who: Henry Sochami
-      start: '00:07:15.985'
-      end: '00:07:27.726'
+      start:
+        sec: '435.985'
+        mark: '00:07:15.985'
+      end:
+        sec: '447.726'
+        mark: '00:07:27.726'
       u: Un mes antes que vinieran los rusos nos evacuaron el campo, me llevaron a
         Wrislaolita/bieslaolit. De Wrislaolita/bieslaolit eran sólo cuarenta judios,
         el resto era todos cristianos.
     - who: David Boder
-      start: '00:07:27.726'
-      end: '00:07:29.887'
+      start:
+        sec: '447.726'
+        mark: '00:07:27.726'
+      end:
+        sec: '449.887'
+        mark: '00:07:29.887'
       u: Un poco más despacio señor.
     - who: Henry Sochami
-      start: '00:07:29.887'
-      end: '00:07:55.608'
+      start:
+        sec: '449.887'
+        mark: '00:07:29.887'
+      end:
+        sec: '475.608'
+        mark: '00:07:55.608'
       u: Los cristianos nos batían enteramente, a los judios porque, no nos podían...hueler.
         Nos apartaban, nos batían, mismo nos llevaban el pan que tomabamos para comer.
         De ahí, antes que los rusos vinieran nos llevaron empujando, nos metieron
         en unos vagones encerrados tres días y tres noches sin comer y sin beber nada.
     - who: David Boder
-      start: '00:07:55.608'
-      end: '00:07:57.962'
+      start:
+        sec: '475.608'
+        mark: '00:07:55.608'
+      end:
+        sec: '477.962'
+        mark: '00:07:57.962'
       u: "¿Se recuerda en qué mes estuvo?"
     - who: Henry Sochami
-      start: '00:07:57.962'
-      end: '00:08:03.033'
+      start:
+        sec: '477.962'
+        mark: '00:07:57.962'
+      end:
+        sec: '483.033'
+        mark: '00:08:03.033'
       u: Ehh...mes de...Fevrier ‘45.
     - who: David Boder
-      start: '00:08:03.033'
-      end: '00:08:07.035'
+      start:
+        sec: '483.033'
+        mark: '00:08:03.033'
+      end:
+        sec: '487.035'
+        mark: '00:08:07.035'
       u: Febrero ’45, sí. Bueno, entonces ahora vamos bien.
     - who: Henry Sochami
-      start: '00:08:07.035'
-      end: '00:08:38.126'
+      start:
+        sec: '487.035'
+        mark: '00:08:07.035'
+      end:
+        sec: '518.126'
+        mark: '00:08:38.126'
       u: Nos llevaron en Buchenwald, ahí había un techo de sesenta y cinco a setenta
         mil personas, de todas las nationalités, mismo francés, italianos, de todas
         las nationalités que existen en el mundo. Ahí nos...ehh...dejaron un poco
@@ -652,20 +1236,36 @@ recording:
         siempre estuve escondiéndome, debajo de las camas debajo de todos los lugares
         por no partir a laborar.
     - who: David Boder
-      start: '00:08:38.126'
-      end: '00:08:43.197'
+      start:
+        sec: '518.126'
+        mark: '00:08:38.126'
+      end:
+        sec: '523.197'
+        mark: '00:08:43.197'
       u: "¡Oh! se podía...¿se podía esconderse a veces? Sí."
     - who: Henry Sochami
-      start: '00:08:43.197'
-      end: '00:08:44.241'
+      start:
+        sec: '523.197'
+        mark: '00:08:43.197'
+      end:
+        sec: '524.241'
+        mark: '00:08:44.241'
       u: A veces [inintelegible].
     - who: David Boder
-      start: '00:08:44.241'
-      end: '00:08:48.195'
+      start:
+        sec: '524.241'
+        mark: '00:08:44.241'
+      end:
+        sec: '528.195'
+        mark: '00:08:48.195'
       u: A veces lo fue posible. Habla más despacio, ¿sí?
     - who: Henry Sochami
-      start: '00:08:48.195'
-      end: '00:09:32.930'
+      start:
+        sec: '528.195'
+        mark: '00:08:48.195'
+      end:
+        sec: '572.930'
+        mark: '00:09:32.930'
       u: De ahí, me tomaron me llevaron en un campo chico. Del campo chico, estuve
         en una barraca nos echábamos, mismo, mille doscientas a mille trescientas
         personas. Siete a ocho de ellas en un metro de lugar. Nos daban de comer a
@@ -675,295 +1275,563 @@ recording:
         tomaba, yo escondía en todos los lugares mismo de dentro de los cristianos
         sin que me conocieran que yo era judío.
     - who: David Boder
-      start: '00:09:32.930'
-      end: '00:09:38.001'
+      start:
+        sec: '572.930'
+        mark: '00:09:32.930'
+      end:
+        sec: '578.001'
+        mark: '00:09:38.001'
       u: Estee...¿llevaron ustedes alguna distinción que fueran judios?
     - who: Henry Sochami
-      start: '00:09:38.001'
-      end: '00:09:43.784'
+      start:
+        sec: '578.001'
+        mark: '00:09:38.001'
+      end:
+        sec: '583.784'
+        mark: '00:09:43.784'
       u: En Auschwitz teníamos una distinción que éramos judíos, mientras que en Buchenwald
         no teníamos nada.
     - who: David Boder
-      start: '00:09:43.784'
-      end: '00:09:44.677'
+      start:
+        sec: '583.784'
+        mark: '00:09:43.784'
+      end:
+        sec: '584.677'
+        mark: '00:09:44.677'
       u: Aja, bueno.
     - who: Henry Sochami
-      start: '00:09:44.677'
-      end: '00:09:45.673'
+      start:
+        sec: '584.677'
+        mark: '00:09:44.677'
+      end:
+        sec: '585.673'
+        mark: '00:09:45.673'
       u: Éramos todos egales.
     - who: David Boder
-      start: '00:09:45.673'
-      end: '00:09:46.699'
+      start:
+        sec: '585.673'
+        mark: '00:09:45.673'
+      end:
+        sec: '586.699'
+        mark: '00:09:46.699'
       u: Sí.
     - who: Henry Sochami
-      start: '00:09:46.699'
-      end: '00:10:09.831'
+      start:
+        sec: '586.699'
+        mark: '00:09:46.699'
+      end:
+        sec: '609.831'
+        mark: '00:10:09.831'
       u: De allá...los judíos que partían transbordo los mataban, más longe en los
         caminos, con mitrailleuses. Y yo me pude esconder tres días debajo de la tierra,
         en una barraca que había fonda, yo con muchos cristianos rusos, que no me
         conocían que yo era judío.
     - who: David Boder
-      start: '00:10:09.831'
-      end: '00:10:10.875'
+      start:
+        sec: '609.831'
+        mark: '00:10:09.831'
+      end:
+        sec: '610.875'
+        mark: '00:10:10.875'
       u: Que no conocían.
     - who: Henry Sochami
-      start: '00:10:10.875'
-      end: '00:10:15.704'
+      start:
+        sec: '610.875'
+        mark: '00:10:10.875'
+      end:
+        sec: '615.704'
+        mark: '00:10:15.704'
       u: No me conocían que si era judío, y yo les decía siempre que era greco cristiano.
     - who: David Boder
-      start: '00:10:15.704'
-      end: '00:10:17.757'
+      start:
+        sec: '615.704'
+        mark: '00:10:15.704'
+      end:
+        sec: '617.757'
+        mark: '00:10:17.757'
       u: Greco cristiano, bueno.
     - who: Henry Sochami
-      start: '00:10:17.757'
-      end: '00:10:34.526'
+      start:
+        sec: '617.757'
+        mark: '00:10:17.757'
+      end:
+        sec: '634.526'
+        mark: '00:10:34.526'
       u: De ahí, vinieron los americanos dos días antes que se fueran los alemanes
         vinieron los americanos verso las cuatro de la tarde al mes de abril, 11;
         el 11 de abril ‘45.
     - who: David Boder
-      start: '00:10:34.526'
-      end: '00:10:35.268'
+      start:
+        sec: '634.526'
+        mark: '00:10:34.526'
+      end:
+        sec: '635.268'
+        mark: '00:10:35.268'
       u: Bueno.
     - who: Henry Sochami
-      start: '00:10:35.268'
-      end: '00:10:41.456'
+      start:
+        sec: '635.268'
+        mark: '00:10:35.268'
+      end:
+        sec: '641.456'
+        mark: '00:10:41.456'
       u: Cuando ví de que los rusos estaban saliendo, antes estábamos escondidos,
         yo no quise salir porque me espantaba.
     - who: David Boder
-      start: '00:10:41.456'
-      end: '00:10:42.229'
+      start:
+        sec: '641.456'
+        mark: '00:10:41.456'
+      end:
+        sec: '642.229'
+        mark: '00:10:42.229'
       u: Bueno.
     - who: Henry Sochami
-      start: '00:10:42.229'
-      end: '00:11:05.969'
+      start:
+        sec: '642.229'
+        mark: '00:10:42.229'
+      end:
+        sec: '665.969'
+        mark: '00:11:05.969'
       u: Cuando ví de todos que se besaban y se abrazaban afuera, metí me cabeza y
         ví de que todos están bailando que habían los americanos venir, y yo entonces
         salí, pesaba 38 kilos, de la hambrera, de todo lo que tenía me estaba cayendo,
         malheureusement mismo me caía el vaso, me metía a cantar y a bailar.
     - who: David Boder
-      start: '00:11:05.969'
-      end: '00:11:07.200'
+      start:
+        sec: '665.969'
+        mark: '00:11:05.969'
+      end:
+        sec: '667.200'
+        mark: '00:11:07.200'
       u: Sí.
     - who: Henry Sochami
-      start: '00:11:07.200'
-      end: '00:11:14.866'
+      start:
+        sec: '667.200'
+        mark: '00:11:07.200'
+      end:
+        sec: '674.866'
+        mark: '00:11:14.866'
       u: Después que los americanos vinieron nos empezaron a dar a comer bueno, y
         a beber, estuve dos meses con los americanos.
     - who: David Boder
-      start: '00:11:14.866'
-      end: '00:11:15.681'
+      start:
+        sec: '674.866'
+        mark: '00:11:14.866'
+      end:
+        sec: '675.681'
+        mark: '00:11:15.681'
       u: "¿Dónde?"
     - who: Henry Sochami
-      start: '00:11:15.681'
-      end: '00:11:17.009'
+      start:
+        sec: '675.681'
+        mark: '00:11:15.681'
+      end:
+        sec: '677.009'
+        mark: '00:11:17.009'
       u: En Buchenwald.
     - who: David Boder
-      start: '00:11:17.009'
-      end: '00:11:18.790'
+      start:
+        sec: '677.009'
+        mark: '00:11:17.009'
+      end:
+        sec: '678.790'
+        mark: '00:11:18.790'
       u: Buchenwald, sí.
     - who: Henry Sochami
-      start: '00:11:18.790'
-      end: '00:11:23.184'
+      start:
+        sec: '678.790'
+        mark: '00:11:18.790'
+      end:
+        sec: '683.184'
+        mark: '00:11:23.184'
       u: Después de dos meses, nos enviaron en Paris por partir en Grecia.
     - who: David Boder
-      start: '00:11:23.184'
-      end: '00:11:23.999'
+      start:
+        sec: '683.184'
+        mark: '00:11:23.184'
+      end:
+        sec: '683.999'
+        mark: '00:11:23.999'
       u: Sí.
     - who: Henry Sochami
-      start: '00:11:23.999'
-      end: '00:11:25.418'
+      start:
+        sec: '683.999'
+        mark: '00:11:23.999'
+      end:
+        sec: '685.418'
+        mark: '00:11:25.418'
       u: Con avión.
     - who: David Boder
-      start: '00:11:25.418'
-      end: '00:11:27.006'
+      start:
+        sec: '685.418'
+        mark: '00:11:25.418'
+      end:
+        sec: '687.006'
+        mark: '00:11:27.006'
       u: Sí.
     - who: Henry Sochami
-      start: '00:11:27.006'
-      end: '00:11:27.899'
+      start:
+        sec: '687.006'
+        mark: '00:11:27.006'
+      end:
+        sec: '687.899'
+        mark: '00:11:27.899'
       u: "[Ininteligible]"
     - who: David Boder
-      start: '00:11:27.899'
-      end: '00:11:29.710'
+      start:
+        sec: '687.899'
+        mark: '00:11:27.899'
+      end:
+        sec: '689.710'
+        mark: '00:11:29.710'
       u: "¿Cuánta gente se estuvo en un avión?"
     - who: Henry Sochami
-      start: '00:11:29.710'
-      end: '00:11:32.185'
+      start:
+        sec: '689.710'
+        mark: '00:11:29.710'
+      end:
+        sec: '692.185'
+        mark: '00:11:32.185'
       u: 53 gregos solos.
     - who: David Boder
-      start: '00:11:32.185'
-      end: '00:11:33.060'
+      start:
+        sec: '692.185'
+        mark: '00:11:32.185'
+      end:
+        sec: '693.060'
+        mark: '00:11:33.060'
       u: Sí.
     - who: Henry Sochami
-      start: '00:11:33.060'
-      end: '00:11:34.388'
+      start:
+        sec: '693.060'
+        mark: '00:11:33.060'
+      end:
+        sec: '694.388'
+        mark: '00:11:34.388'
       u: Y 10 de salonico.
     - who: David Boder
-      start: '00:11:34.388'
-      end: '00:11:35.294'
+      start:
+        sec: '694.388'
+        mark: '00:11:34.388'
+      end:
+        sec: '695.294'
+        mark: '00:11:35.294'
       u: Sí.
     - who: Henry Sochami
-      start: '00:11:35.294'
-      end: '00:11:47.626'
+      start:
+        sec: '695.294'
+        mark: '00:11:35.294'
+      end:
+        sec: '707.626'
+        mark: '00:11:47.626'
       u: Nos vinieron aquí en Paris, el resto partieron para Grecia, y yo como serví
         a la Légion Étrangère Francesa a 1920 y ‘25, al Maroco.
     - who: David Boder
-      start: '00:11:47.626'
-      end: '00:11:49.063'
+      start:
+        sec: '707.626'
+        mark: '00:11:47.626'
+      end:
+        sec: '709.063'
+        mark: '00:11:49.063'
       u: "¡Oh! Sí."
     - who: Henry Sochami
-      start: '00:11:49.063'
-      end: '00:11:53.367'
+      start:
+        sec: '709.063'
+        mark: '00:11:49.063'
+      end:
+        sec: '713.367'
+        mark: '00:11:53.367'
       u: Y tuve, la posibilidad de quedar aquí en Francia.
     - who: David Boder
-      start: '00:11:53.367'
-      end: '00:11:54.683'
+      start:
+        sec: '713.367'
+        mark: '00:11:53.367'
+      end:
+        sec: '714.683'
+        mark: '00:11:54.683'
       u: Aja.
     - who: Henry Sochami
-      start: '00:11:54.683'
-      end: '00:12:03.242'
+      start:
+        sec: '714.683'
+        mark: '00:11:54.683'
+      end:
+        sec: '723.242'
+        mark: '00:12:03.242'
       u: Y por eso ahora, no estuve un año asina, fina cuando yo vine aquí porque
         estaba muy flaco.
     - who: David Boder
-      start: '00:12:03.242'
-      end: '00:12:03.725'
+      start:
+        sec: '723.242'
+        mark: '00:12:03.242'
+      end:
+        sec: '723.725'
+        mark: '00:12:03.725'
       u: Sí.
     - who: Henry Sochami
-      start: '00:12:03.725'
-      end: '00:12:06.351'
+      start:
+        sec: '723.725'
+        mark: '00:12:03.725'
+      end:
+        sec: '726.351'
+        mark: '00:12:06.351'
       u: Y empecé a laborar ahora.
     - who: David Boder
-      start: '00:12:06.351'
-      end: '00:12:08.977'
+      start:
+        sec: '726.351'
+        mark: '00:12:06.351'
+      end:
+        sec: '728.977'
+        mark: '00:12:08.977'
       u: "¿Y para quién trabaja Ud. ahora?"
     - who: Henry Sochami
-      start: '00:12:08.977'
-      end: '00:12:10.504'
+      start:
+        sec: '728.977'
+        mark: '00:12:08.977'
+      end:
+        sec: '730.504'
+        mark: '00:12:10.504'
       u: Para la jorno américain.
     - who: David Boder
-      start: '00:12:10.504'
-      end: '00:12:16.239'
+      start:
+        sec: '730.504'
+        mark: '00:12:10.504'
+      end:
+        sec: '736.239'
+        mark: '00:12:16.239'
       u: Para el jorno américain. ¿Y...qué piensa Ud. hacer en el futuro?
     - who: Henry Sochami
-      start: '00:12:16.239'
-      end: '00:12:26.941'
+      start:
+        sec: '736.239'
+        mark: '00:12:16.239'
+      end:
+        sec: '746.941'
+        mark: '00:12:26.941'
       u: No...más tarde no sé porque ahora laboro aquí, y en cuanto pueda trovare
         un otro trabajo que puedo ganarme más mejor la vida.
     - who: David Boder
-      start: '00:12:26.941'
-      end: '00:12:30.140'
+      start:
+        sec: '746.941'
+        mark: '00:12:26.941'
+      end:
+        sec: '750.140'
+        mark: '00:12:30.140'
       u: Aja. ¿Pero piensa Ud. de quedarse en Francia?
     - who: Henry Sochami
-      start: '00:12:30.140'
-      end: '00:12:30.774'
+      start:
+        sec: '750.140'
+        mark: '00:12:30.140'
+      end:
+        sec: '750.774'
+        mark: '00:12:30.774'
       u: Sí.
     - who: David Boder
-      start: '00:12:30.774'
-      end: '00:12:31.167'
+      start:
+        sec: '750.774'
+        mark: '00:12:30.774'
+      end:
+        sec: '751.167'
+        mark: '00:12:31.167'
       u: Y...
     - who: Henry Sochami
-      start: '00:12:31.167'
-      end: '00:12:34.746'
+      start:
+        sec: '751.167'
+        mark: '00:12:31.167'
+      end:
+        sec: '754.746'
+        mark: '00:12:34.746'
       u: Más tarde puede ser que me voy en Palestina, más tarde.
     - who: David Boder
-      start: '00:12:34.746'
-      end: '00:12:35.350'
+      start:
+        sec: '754.746'
+        mark: '00:12:34.746'
+      end:
+        sec: '755.350'
+        mark: '00:12:35.350'
       u: Aja.
     - who: Henry Sochami
-      start: '00:12:35.350'
-      end: '00:12:38.519'
+      start:
+        sec: '755.350'
+        mark: '00:12:35.350'
+      end:
+        sec: '758.519'
+        mark: '00:12:38.519'
       u: Y...cuando la...situación se arregla.
     - who: David Boder
-      start: '00:12:38.519'
-      end: '00:12:43.590'
+      start:
+        sec: '758.519'
+        mark: '00:12:38.519'
+      end:
+        sec: '763.590'
+        mark: '00:12:43.590'
       u: Aja. ¿Pero...y qué hace Ud. aquí para el journal? ¿qué está trabajando aquí?
     - who: Henry Sochami
-      start: '00:12:43.590'
-      end: '00:12:51.817'
+      start:
+        sec: '763.590'
+        mark: '00:12:43.590'
+      end:
+        sec: '771.817'
+        mark: '00:12:51.817'
       u: Laboro aquí en los [ininteligible] que vienen las cajas pesadas, las llevo
         si tiene taches, trabo enveloppes...eh...
     - who: David Boder
-      start: '00:12:51.817'
-      end: '00:12:53.719'
+      start:
+        sec: '771.817'
+        mark: '00:12:51.817'
+      end:
+        sec: '773.719'
+        mark: '00:12:53.719'
       u: Sí, trabajo de mano.
     - who: Henry Sochami
-      start: '00:12:53.719'
-      end: '00:12:54.854'
+      start:
+        sec: '773.719'
+        mark: '00:12:53.719'
+      end:
+        sec: '774.854'
+        mark: '00:12:54.854'
       u: Trabajo de mano.
     - who: David Boder
-      start: '00:12:54.854'
-      end: '00:12:58.252'
+      start:
+        sec: '774.854'
+        mark: '00:12:54.854'
+      end:
+        sec: '778.252'
+        mark: '00:12:58.252'
       u: Y...¿No tiene familia aquí?
     - who: Henry Sochami
-      start: '00:12:58.252'
-      end: '00:13:13.554'
+      start:
+        sec: '778.252'
+        mark: '00:12:58.252'
+      end:
+        sec: '793.554'
+        mark: '00:13:13.554'
       u: Malheureusement, 27 miembros contaba la familia entera, 3 hermanos, una hermana,
         con las familias todas se fueron al crematoire, y quedo yo solo de toda mi
         familia.
     - who: David Boder
-      start: '00:13:13.554'
-      end: '00:13:13.886'
+      start:
+        sec: '793.554'
+        mark: '00:13:13.554'
+      end:
+        sec: '793.886'
+        mark: '00:13:13.886'
       u: Aja.
     - who: Henry Sochami
-      start: '00:13:13.886'
-      end: '00:13:16.240'
+      start:
+        sec: '793.886'
+        mark: '00:13:13.886'
+      end:
+        sec: '796.240'
+        mark: '00:13:16.240'
       u: De 27 quedo solo en el mundo.
     - who: David Boder
-      start: '00:13:16.240'
-      end: '00:13:20.827'
+      start:
+        sec: '796.240'
+        mark: '00:13:16.240'
+      end:
+        sec: '800.827'
+        mark: '00:13:20.827'
       u: "¿Y...no procuraba Ud. de escribir a Grecia?"
     - who: Henry Sochami
-      start: '00:13:20.827'
-      end: '00:13:29.127'
+      start:
+        sec: '800.827'
+        mark: '00:13:20.827'
+      end:
+        sec: '809.127'
+        mark: '00:13:29.127'
       u: Sí, yo escribí en Grecia sólo que lo que [ininteligible] que me dijeron que
         el hijo grande de de mi hermano se trova vivo.
     - who: David Boder
-      start: '00:13:29.127'
-      end: '00:13:29.688'
+      start:
+        sec: '809.127'
+        mark: '00:13:29.127'
+      end:
+        sec: '809.688'
+        mark: '00:13:29.688'
       u: "¿Cómo?"
     - who: Henry Sochami
-      start: '00:13:29.688'
-      end: '00:13:34.578'
+      start:
+        sec: '809.688'
+        mark: '00:13:29.688'
+      end:
+        sec: '814.578'
+        mark: '00:13:34.578'
       u: Se trova vivo, el hijo grande de...de mi hermano, el grande.
     - who: David Boder
-      start: '00:13:34.578'
-      end: '00:13:35.743'
+      start:
+        sec: '814.578'
+        mark: '00:13:34.578'
+      end:
+        sec: '815.743'
+        mark: '00:13:35.743'
       u: Esta vivo.
     - who: Henry Sochami
-      start: '00:13:35.743'
-      end: '00:13:36.365'
+      start:
+        sec: '815.743'
+        mark: '00:13:35.743'
+      end:
+        sec: '816.365'
+        mark: '00:13:36.365'
       u: Sí.
     - who: David Boder
-      start: '00:13:36.365'
-      end: '00:13:36.655'
+      start:
+        sec: '816.365'
+        mark: '00:13:36.365'
+      end:
+        sec: '816.655'
+        mark: '00:13:36.655'
       u: Aja.
     - who: Henry Sochami
-      start: '00:13:36.655'
-      end: '00:13:53.786'
+      start:
+        sec: '816.655'
+        mark: '00:13:36.655'
+      end:
+        sec: '833.786'
+        mark: '00:13:53.786'
       u: Y una hijita de mi hermana, la grande, dicen que...la vieron viva las otras
         niñas, ma que partió con los belgicanos, ma no sé adónde se trova, si vive,
         o muere, no sé, en qué lugar se trova no sé...me dijeron que se fue en Bélgica.
     - who: David Boder
-      start: '00:13:53.786'
-      end: '00:13:55.977'
+      start:
+        sec: '833.786'
+        mark: '00:13:53.786'
+      end:
+        sec: '835.977'
+        mark: '00:13:55.977'
       u: "¡Oh! Se fue en Bélgica pero no sabe Ud."
     - who: Henry Sochami
-      start: '00:13:55.977'
-      end: '00:13:58.965'
+      start:
+        sec: '835.977'
+        mark: '00:13:55.977'
+      end:
+        sec: '838.965'
+        mark: '00:13:58.965'
       u: Si, no pudo saber adónde [ininteligible]
     - who: David Boder
-      start: '00:13:58.965'
-      end: '00:14:08.683'
+      start:
+        sec: '838.965'
+        mark: '00:13:58.965'
+      end:
+        sec: '848.683'
+        mark: '00:14:08.683'
       u: Pues, monsieur...señor...Sochami, esto estuvo muy interesante, muy importante
         lo que tuvo Ud. decir, muchísimas gracias.
     - who: David Boder
-      start: '00:14:08.683'
-      end: '00:14:30.213'
+      start:
+        sec: '848.683'
+        mark: '00:14:08.683'
+      end:
+        sec: '870.213'
+        mark: '00:14:30.213'
       u: "[In English] That ends the report of Henry Sochami. Taking about...taking
         about twelve minutes of Spool number 43. We will leave the rest for another
         interviewee. Muchas gracias."
     - who: David Boder
-      start: '00:14:30.213'
-      end: '00:15:04.620'
+      start:
+        sec: '870.213'
+        mark: '00:14:30.213'
+      end:
+        sec: '904.62'
+        mark: '00:15:04.620'
       u: Chicago, November the 21st, 1950. This concludes Spool 9-43A of Henry Sochami,
         it is a spool in Spanish. The next Spool 9-43B is by a Mr. Mizrahi and seems
         to be in English. Boder.
@@ -971,456 +1839,884 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:01.087'
-      end: '00:00:36.160'
+      start:
+        sec: '1.087'
+        mark: '00:00:01.087'
+      end:
+        sec: '36.16'
+        mark: '00:00:36.160'
       u: "[In English] This is Spool 43 taken from Mr. Henry Sochami, 38 years old,
         tattoo number 109752 triangle, meaning Jewish, a tattoo of the camp of Auschwitz.
         He will speak Spanish, he can speak German but it’s rather...slow, and we
         prefer to use the language he can speak most fluently."
     - who: David Boder
-      start: '00:00:36.160'
-      end: '00:00:44.492'
+      start:
+        sec: '36.16'
+        mark: '00:00:36.160'
+      end:
+        sec: '44.492'
+        mark: '00:00:44.492'
       u: "[In Spanish] Er...Mr. Sochami, tell me where you were born, and what your
         nationality is."
     - who: Henry Sochami
-      start: '00:00:44.492'
-      end: '00:00:50.335'
+      start:
+        sec: '44.492'
+        mark: '00:00:44.492'
+      end:
+        sec: '50.335'
+        mark: '00:00:50.335'
       u: I am Greek.
     - who: David Boder
-      start: '00:00:50.335'
-      end: '00:00:53.504'
+      start:
+        sec: '50.335'
+        mark: '00:00:50.335'
+      end:
+        sec: '53.504'
+        mark: '00:00:53.504'
       u: Right. And where were you born?
     - who: Henry Sochami
-      start: '00:00:53.504'
-      end: '00:00:54.682'
+      start:
+        sec: '53.504'
+        mark: '00:00:53.504'
+      end:
+        sec: '54.682'
+        mark: '00:00:54.682'
       u: In Salonica.
     - who: David Boder
-      start: '00:00:54.682'
-      end: '00:00:55.485'
+      start:
+        sec: '54.682'
+        mark: '00:00:54.682'
+      end:
+        sec: '55.485'
+        mark: '00:00:55.485'
       u: Right.
     - who: Henry Sochami
-      start: '00:00:55.485'
-      end: '00:00:57.676'
+      start:
+        sec: '55.485'
+        mark: '00:00:55.485'
+      end:
+        sec: '57.676'
+        mark: '00:00:57.676'
       u: We were later deported...
     - who: David Boder
-      start: '00:00:57.676'
-      end: '00:01:11.982'
+      start:
+        sec: '57.676'
+        mark: '00:00:57.676'
+      end:
+        sec: '71.982'
+        mark: '00:01:11.982'
       u: Er...I would like you to tell me where you were when the Germans arrived,
         er...in the city where you resided.
     - who: Henry Sochami
-      start: '00:01:11.982'
-      end: '00:01:17.282'
+      start:
+        sec: '71.982'
+        mark: '00:01:11.982'
+      end:
+        sec: '77.282'
+        mark: '00:01:17.282'
       u: Before the arrival of the Germans, I was in Albany, acting as a Greek soldier.
     - who: David Boder
-      start: '00:01:17.282'
-      end: '00:01:23.759'
+      start:
+        sec: '77.282'
+        mark: '00:01:17.282'
+      end:
+        sec: '83.759'
+        mark: '00:01:23.759'
       u: So you were in the Greek Army. And who were you fighting against?
     - who: Henry Sochami
-      start: '00:01:23.759'
-      end: '00:01:25.347'
+      start:
+        sec: '83.759'
+        mark: '00:01:23.759'
+      end:
+        sec: '85.347'
+        mark: '00:01:25.347'
       u: Against Italy.
     - who: David Boder
-      start: '00:01:25.347'
-      end: '00:01:30.224'
+      start:
+        sec: '85.347'
+        mark: '00:01:25.347'
+      end:
+        sec: '90.224'
+        mark: '00:01:30.224'
       u: All right. Greece joined forces with England and the United States...
     - who: Henry Sochami
-      start: '00:01:30.224'
-      end: '00:01:31.311'
+      start:
+        sec: '90.224'
+        mark: '00:01:30.224'
+      end:
+        sec: '91.311'
+        mark: '00:01:31.311'
       u: The United States, yes.
     - who: David Boder
-      start: '00:01:31.311'
-      end: '00:01:36.007'
+      start:
+        sec: '91.311'
+        mark: '00:01:31.311'
+      end:
+        sec: '96.007'
+        mark: '00:01:36.007'
       u: So you were fighting against Italy. And, what happened?
     - who: Henry Sochami
-      start: '00:01:36.007'
-      end: '00:01:40.112'
+      start:
+        sec: '96.007'
+        mark: '00:01:36.007'
+      end:
+        sec: '100.112'
+        mark: '00:01:40.112'
       u: I was eight months in combat.
     - who: David Boder
-      start: '00:01:40.112'
-      end: '00:01:44.959'
+      start:
+        sec: '100.112'
+        mark: '00:01:40.112'
+      end:
+        sec: '104.959'
+        mark: '00:01:44.959'
       u: In what force were you enlisted?
     - who: Henry Sochami
-      start: '00:01:44.959'
-      end: '00:01:46.770'
+      start:
+        sec: '104.959'
+        mark: '00:01:44.959'
+      end:
+        sec: '106.770'
+        mark: '00:01:46.770'
       u: I was in class 19...
     - who: David Boder
-      start: '00:01:46.770'
-      end: '00:01:49.384'
+      start:
+        sec: '106.770'
+        mark: '00:01:46.770'
+      end:
+        sec: '109.384'
+        mark: '00:01:49.384'
       u: No, no. What force did you belong to? Infantry...
     - who: Henry Sochami
-      start: '00:01:49.384'
-      end: '00:01:55.831'
+      start:
+        sec: '109.384'
+        mark: '00:01:49.384'
+      end:
+        sec: '115.831'
+        mark: '00:01:55.831'
       u: Oh, the name was [unintelligible] télégraphiqué?.
     - who: David Boder
-      start: '00:01:55.831'
-      end: '00:01:58.928'
+      start:
+        sec: '115.831'
+        mark: '00:01:55.831'
+      end:
+        sec: '118.928'
+        mark: '00:01:58.928'
       u: Oh! You were in...[unintelligible]?
     - who: Henry Sochami
-      start: '00:01:58.928'
-      end: '00:01:59.278'
+      start:
+        sec: '118.928'
+        mark: '00:01:58.928'
+      end:
+        sec: '119.278'
+        mark: '00:01:59.278'
       u: "[unintelligible]"
     - who: David Boder
-      start: '00:01:59.278'
-      end: '00:02:00.968'
+      start:
+        sec: '119.278'
+        mark: '00:01:59.278'
+      end:
+        sec: '120.968'
+        mark: '00:02:00.968'
       u: And you know [unintelligible]?
     - who: Henry Sochami
-      start: '00:02:00.968'
-      end: '00:02:01.451'
+      start:
+        sec: '120.968'
+        mark: '00:02:00.968'
+      end:
+        sec: '121.451'
+        mark: '00:02:01.451'
       u: No.
     - who: David Boder
-      start: '00:02:01.451'
-      end: '00:02:01.904'
+      start:
+        sec: '121.451'
+        mark: '00:02:01.451'
+      end:
+        sec: '121.904'
+        mark: '00:02:01.904'
       u: You don’t?
     - who: Henry Sochami
-      start: '00:02:01.904'
-      end: '00:02:03.944'
+      start:
+        sec: '121.904'
+        mark: '00:02:01.904'
+      end:
+        sec: '123.944'
+        mark: '00:02:03.944'
       u: I played the clairon.
     - who: David Boder
-      start: '00:02:03.944'
-      end: '00:02:04.880'
+      start:
+        sec: '123.944'
+        mark: '00:02:03.944'
+      end:
+        sec: '124.880'
+        mark: '00:02:04.880'
       u: Oh, good
     - who: Henry Sochami
-      start: '00:02:04.880'
-      end: '00:02:05.290'
+      start:
+        sec: '124.880'
+        mark: '00:02:04.880'
+      end:
+        sec: '125.290'
+        mark: '00:02:05.290'
       u: I played the bugle.
     - who: David Boder
-      start: '00:02:05.290'
-      end: '00:02:16.186'
+      start:
+        sec: '125.290'
+        mark: '00:02:05.290'
+      end:
+        sec: '136.186'
+        mark: '00:02:16.186'
       u: So, You were the...er...clarinetist in...er...a telegraphic station.
     - who: Henry Sochami
-      start: '00:02:16.186'
-      end: '00:02:18.739'
+      start:
+        sec: '136.186'
+        mark: '00:02:16.186'
+      end:
+        sec: '138.739'
+        mark: '00:02:18.739'
       u: Yes. Télégraphiqué?.
     - who: David Boder
-      start: '00:02:18.739'
-      end: '00:02:20.478'
+      start:
+        sec: '138.739'
+        mark: '00:02:18.739'
+      end:
+        sec: '140.478'
+        mark: '00:02:20.478'
       u: So, could we say you are a musician?
     - who: Henry Sochami
-      start: '00:02:20.478'
-      end: '00:02:20.858'
+      start:
+        sec: '140.478'
+        mark: '00:02:20.478'
+      end:
+        sec: '140.858'
+        mark: '00:02:20.858'
       u: Yes.
     - who: David Boder
-      start: '00:02:20.858'
-      end: '00:02:23.001'
+      start:
+        sec: '140.858'
+        mark: '00:02:20.858'
+      end:
+        sec: '143.001'
+        mark: '00:02:23.001'
       u: Er...What instruments do you play?
     - who: Henry Sochami
-      start: '00:02:23.001'
-      end: '00:02:24.057'
+      start:
+        sec: '143.001'
+        mark: '00:02:23.001'
+      end:
+        sec: '144.057'
+        mark: '00:02:24.057'
       u: The bugle.
     - who: David Boder
-      start: '00:02:24.057'
-      end: '00:02:26.261'
+      start:
+        sec: '144.057'
+        mark: '00:02:24.057'
+      end:
+        sec: '146.261'
+        mark: '00:02:26.261'
       u: So you play the bugle.
     - who: Henry Sochami
-      start: '00:02:26.261'
-      end: '00:02:32.949'
+      start:
+        sec: '146.261'
+        mark: '00:02:26.261'
+      end:
+        sec: '152.949'
+        mark: '00:02:32.949'
       u: Then. When the Germans declared the war against Greece.
     - who: David Boder
-      start: '00:02:32.949'
-      end: '00:02:33.704'
+      start:
+        sec: '152.949'
+        mark: '00:02:32.949'
+      end:
+        sec: '153.704'
+        mark: '00:02:33.704'
       u: Yes.
     - who: Henry Sochami
-      start: '00:02:33.704'
-      end: '00:02:38.038'
+      start:
+        sec: '153.704'
+        mark: '00:02:33.704'
+      end:
+        sec: '158.038'
+        mark: '00:02:38.038'
       u: I was fighting in Albany against Italians.
     - who: David Boder
-      start: '00:02:38.038'
-      end: '00:02:39.275'
+      start:
+        sec: '158.038'
+        mark: '00:02:38.038'
+      end:
+        sec: '159.275'
+        mark: '00:02:39.275'
       u: Right.
     - who: Henry Sochami
-      start: '00:02:39.275'
-      end: '00:03:00.716'
+      start:
+        sec: '159.275'
+        mark: '00:02:39.275'
+      end:
+        sec: '180.716'
+        mark: '00:03:00.716'
       u: Then, when my city...Salonica, was occupied by Germans, we fought in Athens,
         and all the places of the Old Greece. Later, we were forced to surrender to
         the German forces, and Germans escorted us to our houses.
     - who: David Boder
-      start: '00:03:00.716'
-      end: '00:03:02.225'
+      start:
+        sec: '180.716'
+        mark: '00:03:00.716'
+      end:
+        sec: '182.225'
+        mark: '00:03:02.225'
       u: Right.
     - who: Henry Sochami
-      start: '00:03:02.225'
-      end: '00:03:05.817'
+      start:
+        sec: '182.225'
+        mark: '00:03:02.225'
+      end:
+        sec: '185.817'
+        mark: '00:03:05.817'
       u: I went to my house and took my three children.
     - who: David Boder
-      start: '00:03:05.817'
-      end: '00:03:06.982'
+      start:
+        sec: '185.817'
+        mark: '00:03:05.817'
+      end:
+        sec: '186.982'
+        mark: '00:03:06.982'
       u: What was the name of the city?
     - who: Henry Sochami
-      start: '00:03:06.982'
-      end: '00:03:07.845'
+      start:
+        sec: '186.982'
+        mark: '00:03:06.982'
+      end:
+        sec: '187.845'
+        mark: '00:03:07.845'
       u: It was Salonica.
     - who: David Boder
-      start: '00:03:07.845'
-      end: '00:03:10.441'
+      start:
+        sec: '187.845'
+        mark: '00:03:07.845'
+      end:
+        sec: '190.441'
+        mark: '00:03:10.441'
       u: Salonica. And were you with your wife?
     - who: Henry Sochami
-      start: '00:03:10.441'
-      end: '00:03:10.851'
+      start:
+        sec: '190.441'
+        mark: '00:03:10.441'
+      end:
+        sec: '190.851'
+        mark: '00:03:10.851'
       u: Yes.
     - who: David Boder
-      start: '00:03:10.851'
-      end: '00:03:14.141'
+      start:
+        sec: '190.851'
+        mark: '00:03:10.851'
+      end:
+        sec: '194.141'
+        mark: '00:03:14.141'
       u: Your wife and three children. How old were they?
     - who: Henry Sochami
-      start: '00:03:14.141'
-      end: '00:03:24.644'
+      start:
+        sec: '194.141'
+        mark: '00:03:14.141'
+      end:
+        sec: '204.644'
+        mark: '00:03:24.644'
       u: One was 13 years old, [unintelligible name] Sochami; the second one was 10
         years old, [unintelligible name] Sochami; and the third one, Dora Sochami,
         was only 3 years old.
     - who: David Boder
-      start: '00:03:24.644'
-      end: '00:03:25.761'
+      start:
+        sec: '204.644'
+        mark: '00:03:24.644'
+      end:
+        sec: '205.761'
+        mark: '00:03:25.761'
       u: OK.
     - who: Henry Sochami
-      start: '00:03:25.761'
-      end: '00:03:33.083'
+      start:
+        sec: '205.761'
+        mark: '00:03:25.761'
+      end:
+        sec: '213.083'
+        mark: '00:03:33.083'
       u: Then, when the Germans arrived, they took all the Jews and sent us to a camp...
     - who: David Boder
-      start: '00:03:33.083'
-      end: '00:03:34.580'
+      start:
+        sec: '213.083'
+        mark: '00:03:33.083'
+      end:
+        sec: '214.580'
+        mark: '00:03:34.580'
       u: Yes. To Auschwitz?
     - who: Henry Sochami
-      start: '00:03:34.580'
-      end: '00:03:45.802'
+      start:
+        sec: '214.580'
+        mark: '00:03:34.580'
+      end:
+        sec: '225.802'
+        mark: '00:03:45.802'
       u: No, no. Before that. We were taken to a labor camp. Those of us between 17
         and 45 years of age.
     - who: David Boder
-      start: '00:03:45.802'
-      end: '00:03:47.178'
+      start:
+        sec: '225.802'
+        mark: '00:03:45.802'
+      end:
+        sec: '227.178'
+        mark: '00:03:47.178'
       u: Men and Women?
     - who: Henry Sochami
-      start: '00:03:47.178'
-      end: '00:03:54.277'
+      start:
+        sec: '227.178'
+        mark: '00:03:47.178'
+      end:
+        sec: '234.277'
+        mark: '00:03:54.277'
       u: No, just men. Our names were written down, and we were given some signs.
         We were called by [unintelligible]. 3:50
     - who: David Boder
-      start: '00:03:54.277'
-      end: '00:03:54.639'
+      start:
+        sec: '234.277'
+        mark: '00:03:54.277'
+      end:
+        sec: '234.639'
+        mark: '00:03:54.639'
       u: Aha.
     - who: Henry Sochami
-      start: '00:03:54.639'
-      end: '00:03:58.442'
+      start:
+        sec: '234.639'
+        mark: '00:03:54.639'
+      end:
+        sec: '238.442'
+        mark: '00:03:58.442'
       u: Shared. And we had to work.
     - who: David Boder
-      start: '00:03:58.442'
-      end: '00:03:59.227'
+      start:
+        sec: '238.442'
+        mark: '00:03:58.442'
+      end:
+        sec: '239.227'
+        mark: '00:03:59.227'
       u: Aha.
     - who: Henry Sochami
-      start: '00:03:59.227'
-      end: '00:04:06.398'
+      start:
+        sec: '239.227'
+        mark: '00:03:59.227'
+      end:
+        sec: '246.398'
+        mark: '00:04:06.398'
       u: After working there, we were taken to...er...some railways...to guard them.
     - who: David Boder
-      start: '00:04:06.398'
-      end: '00:04:07.364'
+      start:
+        sec: '246.398'
+        mark: '00:04:06.398'
+      end:
+        sec: '247.364'
+        mark: '00:04:07.364'
       u: Aha.
     - who: Henry Sochami
-      start: '00:04:07.364'
-      end: '00:04:12.392'
+      start:
+        sec: '247.364'
+        mark: '00:04:07.364'
+      end:
+        sec: '252.392'
+        mark: '00:04:12.392'
       u: After that, we were taken to a ghetto in [unintelligible]
     - who: David Boder
-      start: '00:04:12.392'
-      end: '00:04:13.599'
+      start:
+        sec: '252.392'
+        mark: '00:04:12.392'
+      end:
+        sec: '253.599'
+        mark: '00:04:13.599'
       u: Where?
     - who: Henry Sochami
-      start: '00:04:13.599'
-      end: '00:04:16.624'
+      start:
+        sec: '253.599'
+        mark: '00:04:13.599'
+      end:
+        sec: '256.624'
+        mark: '00:04:16.624'
       u: In [unintelligible], in Greece. The train station.
     - who: David Boder
-      start: '00:04:16.624'
-      end: '00:04:16.956'
+      start:
+        sec: '256.624'
+        mark: '00:04:16.624'
+      end:
+        sec: '256.956'
+        mark: '00:04:16.956'
       u: OK.
     - who: Henry Sochami
-      start: '00:04:16.956'
-      end: '00:04:20.789'
+      start:
+        sec: '256.956'
+        mark: '00:04:16.956'
+      end:
+        sec: '260.789'
+        mark: '00:04:20.789'
       u: We were locked in the ghetto and we remained there for eight days.
     - who: David Boder
-      start: '00:04:20.789'
-      end: '00:04:21.363'
+      start:
+        sec: '260.789'
+        mark: '00:04:20.789'
+      end:
+        sec: '261.363'
+        mark: '00:04:21.363'
       u: Aha.
     - who: Henry Sochami
-      start: '00:04:21.363'
-      end: '00:04:27.297'
+      start:
+        sec: '261.363'
+        mark: '00:04:21.363'
+      end:
+        sec: '267.297'
+        mark: '00:04:27.297'
       u: After those eight days, three thousand five hundred people were sent...
     - who: David Boder
-      start: '00:04:27.297'
-      end: '00:04:28.915'
+      start:
+        sec: '267.297'
+        mark: '00:04:27.297'
+      end:
+        sec: '268.915'
+        mark: '00:04:28.915'
       u: Men and women?
     - who: Henry Sochami
-      start: '00:04:28.915'
-      end: '00:04:30.563'
+      start:
+        sec: '268.915'
+        mark: '00:04:28.915'
+      end:
+        sec: '270.563'
+        mark: '00:04:30.563'
       u: Men, women, and children.
     - who: David Boder
-      start: '00:04:30.563'
-      end: '00:04:31.275'
+      start:
+        sec: '270.563'
+        mark: '00:04:30.563'
+      end:
+        sec: '271.275'
+        mark: '00:04:31.275'
       u: Right.
     - who: Henry Sochami
-      start: '00:04:31.275'
-      end: '00:04:33.388'
+      start:
+        sec: '271.275'
+        mark: '00:04:31.275'
+      end:
+        sec: '273.388'
+        mark: '00:04:33.388'
       u: We were sent in closed railway cars.
     - who: David Boder
-      start: '00:04:33.388'
-      end: '00:04:41.694'
+      start:
+        sec: '273.388'
+        mark: '00:04:33.388'
+      end:
+        sec: '281.694'
+        mark: '00:04:41.694'
       u: So. As you were saying, you worked only with men...So where were your wife
         and the girls?
     - who: Henry Sochami
-      start: '00:04:41.694'
-      end: '00:04:48.093'
+      start:
+        sec: '281.694'
+        mark: '00:04:41.694'
+      end:
+        sec: '288.093'
+        mark: '00:04:48.093'
       u: When we left Salonica, it was March 15, 1943.
     - who: David Boder
-      start: '00:04:48.093'
-      end: '00:04:49.318'
+      start:
+        sec: '288.093'
+        mark: '00:04:48.093'
+      end:
+        sec: '289.318'
+        mark: '00:04:49.318'
       u: Who were you with?
     - who: Henry Sochami
-      start: '00:04:49.318'
-      end: '00:04:52.004'
+      start:
+        sec: '289.318'
+        mark: '00:04:49.318'
+      end:
+        sec: '292.004'
+        mark: '00:04:52.004'
       u: We were with the [unintelligible family name].
     - who: David Boder
-      start: '00:04:52.004'
-      end: '00:04:52.789'
+      start:
+        sec: '292.004'
+        mark: '00:04:52.004'
+      end:
+        sec: '292.789'
+        mark: '00:04:52.789'
       u: So you knew this family, right?
     - who: Henry Sochami
-      start: '00:04:52.789'
-      end: '00:04:54.962'
+      start:
+        sec: '292.789'
+        mark: '00:04:52.789'
+      end:
+        sec: '294.962'
+        mark: '00:04:54.962'
       u: Yes. We arrived in Auschwitz. We got to the station on March 21.
     - who: David Boder
-      start: '00:04:54.962'
-      end: '00:04:56.006'
+      start:
+        sec: '294.962'
+        mark: '00:04:54.962'
+      end:
+        sec: '296.006'
+        mark: '00:04:56.006'
       u: Right.
     - who: Henry Sochami
-      start: '00:04:56.006'
-      end: '00:05:14.502'
+      start:
+        sec: '296.006'
+        mark: '00:04:56.006'
+      end:
+        sec: '314.502'
+        mark: '00:05:14.502'
       u: There was a selection there...er...some German officers separated children,
         women and old people from those who could work.
     - who: David Boder
-      start: '00:05:14.502'
-      end: '00:05:15.214'
+      start:
+        sec: '314.502'
+        mark: '00:05:14.502'
+      end:
+        sec: '315.214'
+        mark: '00:05:15.214'
       u: Right.
     - who: Henry Sochami
-      start: '00:05:15.214'
-      end: '00:05:22.277'
+      start:
+        sec: '315.214'
+        mark: '00:05:15.214'
+      end:
+        sec: '322.277'
+        mark: '00:05:22.277'
       u: Children, women and old people were placed in trucks and sent to Birkenau.
     - who: David Boder
-      start: '00:05:22.277'
-      end: '00:05:22.796'
+      start:
+        sec: '322.277'
+        mark: '00:05:22.277'
+      end:
+        sec: '322.796'
+        mark: '00:05:22.796'
       u: To Birkenau?
     - who: Henry Sochami
-      start: '00:05:22.796'
-      end: '00:05:35.328'
+      start:
+        sec: '322.796'
+        mark: '00:05:22.796'
+      end:
+        sec: '335.328'
+        mark: '00:05:35.328'
       u: Yes, Birkenau. Once there, they were sent to the gas chamber, directly...almost
         with no difficulties. The following morning, none of them were alive.
     - who: David Boder
-      start: '00:05:35.328'
-      end: '00:05:37.308'
+      start:
+        sec: '335.328'
+        mark: '00:05:35.328'
+      end:
+        sec: '337.308'
+        mark: '00:05:37.308'
       u: Did this happen to your family?
     - who: Henry Sochami
-      start: '00:05:37.308'
-      end: '00:05:42.849'
+      start:
+        sec: '337.308'
+        mark: '00:05:37.308'
+      end:
+        sec: '342.849'
+        mark: '00:05:42.849'
       u: 'Yes. To all my family: three children and my wife.'
     - who: David Boder
-      start: '00:05:42.849'
-      end: '00:05:43.453'
+      start:
+        sec: '342.849'
+        mark: '00:05:42.849'
+      end:
+        sec: '343.453'
+        mark: '00:05:43.453'
       u: Oh.
     - who: Henry Sochami
-      start: '00:05:43.453'
-      end: '00:05:49.266'
+      start:
+        sec: '343.453'
+        mark: '00:05:43.453'
+      end:
+        sec: '349.266'
+        mark: '00:05:49.266'
       u: We were then sent to Auschwitz. Once in Auschwitz, we were left in the bathrooms
         all night long.
     - who: David Boder
-      start: '00:05:49.266'
-      end: '00:05:49.797'
+      start:
+        sec: '349.266'
+        mark: '00:05:49.266'
+      end:
+        sec: '349.797'
+        mark: '00:05:49.797'
       u: Oh.
     - who: Henry Sochami
-      start: '00:05:49.797'
-      end: '00:05:59.002'
+      start:
+        sec: '349.797'
+        mark: '00:05:49.797'
+      end:
+        sec: '359.002'
+        mark: '00:05:59.002'
       u: We were washed, our clothes were taken away, we were given prisoner’s clothes,
         and we were placed under quarantine for forty days.
     - who: David Boder
-      start: '00:05:59.002'
-      end: '00:06:00.994'
+      start:
+        sec: '359.002'
+        mark: '00:05:59.002'
+      end:
+        sec: '360.994'
+        mark: '00:06:00.994'
       u: What did you do while you were in quarantine?
     - who: Henry Sochami
-      start: '00:06:00.994'
-      end: '00:06:05.733'
+      start:
+        sec: '360.994'
+        mark: '00:06:00.994'
+      end:
+        sec: '365.733'
+        mark: '00:06:05.733'
       u: During the quarantine period, we were taken outside to do some physical exercise...and
         that was it.
     - who: David Boder
-      start: '00:06:05.733'
-      end: '00:06:06.807'
+      start:
+        sec: '365.733'
+        mark: '00:06:05.733'
+      end:
+        sec: '366.807'
+        mark: '00:06:06.807'
       u: OK.
     - who: Henry Sochami
-      start: '00:06:06.807'
-      end: '00:06:20.570'
+      start:
+        sec: '366.807'
+        mark: '00:06:06.807'
+      end:
+        sec: '380.570'
+        mark: '00:06:20.570'
       u: After the forty days had passed, some officers came to see us. They selected
         all those men who were strong and working men, and sent them out of Auschwitz,
         to other labor camps. I stayed in Auschwitz.
     - who: David Boder
-      start: '00:06:20.570'
-      end: '00:06:23.377'
+      start:
+        sec: '380.570'
+        mark: '00:06:20.570'
+      end:
+        sec: '383.377'
+        mark: '00:06:23.377'
       u: What happened to those who could not work?
     - who: Henry Sochami
-      start: '00:06:23.377'
-      end: '00:06:31.303'
+      start:
+        sec: '383.377'
+        mark: '00:06:23.377'
+      end:
+        sec: '391.303'
+        mark: '00:06:31.303'
       u: Those who could not work were taken to a hospital...er...from the hospital,
         they were taken to Birkenau, to the crematorium.
     - who: David Boder
-      start: '00:06:31.303'
-      end: '00:06:31.834'
+      start:
+        sec: '391.303'
+        mark: '00:06:31.303'
+      end:
+        sec: '391.834'
+        mark: '00:06:31.834'
       u: Right.
     - who: Henry Sochami
-      start: '00:06:31.834'
-      end: '00:06:38.263'
+      start:
+        sec: '391.834'
+        mark: '00:06:31.834'
+      end:
+        sec: '398.263'
+        mark: '00:06:38.263'
       u: And as for those of us who could work, we were sent to labor camps or commands
         nearby.
     - who: David Boder
-      start: '00:06:38.263'
-      end: '00:06:38.945'
+      start:
+        sec: '398.263'
+        mark: '00:06:38.263'
+      end:
+        sec: '398.945'
+        mark: '00:06:38.945'
       u: Aha.
     - who: Henry Sochami
-      start: '00:06:38.945'
-      end: '00:06:49.768'
+      start:
+        sec: '398.945'
+        mark: '00:06:38.945'
+      end:
+        sec: '409.768'
+        mark: '00:06:49.768'
       u: In the commands...we were left aside, beaten...And our food was a piece of
         bread with a liter of water.
     - who: David Boder
-      start: '00:06:49.768'
-      end: '00:06:51.971'
+      start:
+        sec: '409.768'
+        mark: '00:06:49.768'
+      end:
+        sec: '411.971'
+        mark: '00:06:51.971'
       u: What command did you work in?
     - who: Henry Sochami
-      start: '00:06:51.971'
-      end: '00:06:53.843'
+      start:
+        sec: '411.971'
+        mark: '00:06:51.971'
+      end:
+        sec: '413.843'
+        mark: '00:06:53.843'
       u: In the [unintelligible]
     - who: David Boder
-      start: '00:06:53.843'
-      end: '00:06:55.521'
+      start:
+        sec: '413.843'
+        mark: '00:06:53.843'
+      end:
+        sec: '415.521'
+        mark: '00:06:55.521'
       u: And what did you do there?
     - who: Henry Sochami
-      start: '00:06:55.521'
-      end: '00:06:58.516'
+      start:
+        sec: '415.521'
+        mark: '00:06:55.521'
+      end:
+        sec: '418.516'
+        mark: '00:06:58.516'
       u: There, we practiced masonry.
     - who: David Boder
-      start: '00:06:58.516'
-      end: '00:07:01.009'
+      start:
+        sec: '418.516'
+        mark: '00:06:58.516'
+      end:
+        sec: '421.009'
+        mark: '00:07:01.009'
       u: Oh, you cut stone blocks?
     - who: Henry Sochami
-      start: '00:07:01.009'
-      end: '00:07:10.263'
+      start:
+        sec: '421.009'
+        mark: '00:07:01.009'
+      end:
+        sec: '430.263'
+        mark: '00:07:10.263'
       u: Yes. Stones...with civilians who worked with us.
     - who: David Boder
-      start: '00:07:10.263'
-      end: '00:07:15.985'
+      start:
+        sec: '430.263'
+        mark: '00:07:10.263'
+      end:
+        sec: '435.985'
+        mark: '00:07:15.985'
       u: There was a little interruption.
     - who: Henry Sochami
-      start: '00:07:15.985'
-      end: '00:07:27.726'
+      start:
+        sec: '435.985'
+        mark: '00:07:15.985'
+      end:
+        sec: '447.726'
+        mark: '00:07:27.726'
       u: A month before the Russians’ arrival, the camp was evacuated and we were
         sent to a camp in [unintelligible name]. In [unintelligible name], there were
         only forty Jews, and the rest of the prisoners were Christian.
     - who: David Boder
-      start: '00:07:27.726'
-      end: '00:07:29.887'
+      start:
+        sec: '447.726'
+        mark: '00:07:27.726'
+      end:
+        sec: '449.887'
+        mark: '00:07:29.887'
       u: Could you please speak a little bit slower?
     - who: Henry Sochami
-      start: '00:07:29.887'
-      end: '00:07:55.608'
+      start:
+        sec: '449.887'
+        mark: '00:07:29.887'
+      end:
+        sec: '475.608'
+        mark: '00:07:55.608'
       u: Christians battered us because they could not stand the mere sight of us.
         They would walk away from us, they would beat us, and they would even take
         our bread which was our only food. From there, before the Russians came, we
@@ -1428,20 +2724,36 @@ recording:
         there for three days and three nights, with no food and nothing to drink.
         Nothing.
     - who: David Boder
-      start: '00:07:55.608'
-      end: '00:07:57.962'
+      start:
+        sec: '475.608'
+        mark: '00:07:55.608'
+      end:
+        sec: '477.962'
+        mark: '00:07:57.962'
       u: Do you remember what month it was?
     - who: Henry Sochami
-      start: '00:07:57.962'
-      end: '00:08:03.033'
+      start:
+        sec: '477.962'
+        mark: '00:07:57.962'
+      end:
+        sec: '483.033'
+        mark: '00:08:03.033'
       u: Er...It was February of 1945.
     - who: David Boder
-      start: '00:08:03.033'
-      end: '00:08:07.035'
+      start:
+        sec: '483.033'
+        mark: '00:08:03.033'
+      end:
+        sec: '487.035'
+        mark: '00:08:07.035'
       u: February of 1945. All right.
     - who: Henry Sochami
-      start: '00:08:07.035'
-      end: '00:08:38.126'
+      start:
+        sec: '487.035'
+        mark: '00:08:07.035'
+      end:
+        sec: '518.126'
+        mark: '00:08:38.126'
       u: We were taken to Buchenwald. There were sixty five to seventy thousand people
         under the same roof, from all nationalities, French, Italians...all the nationalities
         in the world. We were in a building for some time, and then there was a selection
@@ -1449,12 +2761,20 @@ recording:
         for forced labors. I would always hid under beds, or anywhere to avoid being
         taken to labor camps.
     - who: David Boder
-      start: '00:08:38.126'
-      end: '00:08:48.195'
+      start:
+        sec: '518.126'
+        mark: '00:08:38.126'
+      end:
+        sec: '528.195'
+        mark: '00:08:48.195'
       u: Oh! So it was possible to hide sometimes, wasn’t it?
     - who: Henry Sochami
-      start: '00:08:48.195'
-      end: '00:09:32.930'
+      start:
+        sec: '528.195'
+        mark: '00:08:48.195'
+      end:
+        sec: '572.930'
+        mark: '00:09:32.930'
       u: It was sometimes possible. From there, I was taken to a small camp. In that
         small camp, I was in a barrack hut with 1,200-1,300 people. There were 7 or
         8 people per square meter. At ten in the morning, we were given a liter of
@@ -1463,292 +2783,560 @@ recording:
         taken away, but Jews were. I would hide anywhere, and I even lived among Christians
         and they did not know I was a Jew.
     - who: David Boder
-      start: '00:09:32.930'
-      end: '00:09:38.001'
+      start:
+        sec: '572.930'
+        mark: '00:09:32.930'
+      end:
+        sec: '578.001'
+        mark: '00:09:38.001'
       u: Did you carry anything that distinguished you as Jews?
     - who: Henry Sochami
-      start: '00:09:38.001'
-      end: '00:09:43.784'
+      start:
+        sec: '578.001'
+        mark: '00:09:38.001'
+      end:
+        sec: '583.784'
+        mark: '00:09:43.784'
       u: In Auschwitz, we carried a sign as Jews, but when we were in Buchenwald we
         did not have anything.
     - who: David Boder
-      start: '00:09:43.784'
-      end: '00:09:44.677'
+      start:
+        sec: '583.784'
+        mark: '00:09:43.784'
+      end:
+        sec: '584.677'
+        mark: '00:09:44.677'
       u: OK.
     - who: Henry Sochami
-      start: '00:09:44.677'
-      end: '00:09:45.673'
+      start:
+        sec: '584.677'
+        mark: '00:09:44.677'
+      end:
+        sec: '585.673'
+        mark: '00:09:45.673'
       u: There were no differences among us.
     - who: David Boder
-      start: '00:09:45.673'
-      end: '00:09:46.699'
+      start:
+        sec: '585.673'
+        mark: '00:09:45.673'
+      end:
+        sec: '586.699'
+        mark: '00:09:46.699'
       u: Aha.
     - who: Henry Sochami
-      start: '00:09:46.699'
-      end: '00:10:09.831'
+      start:
+        sec: '586.699'
+        mark: '00:09:46.699'
+      end:
+        sec: '609.831'
+        mark: '00:10:09.831'
       u: Jews that were taken away from this place, were killed down the road with
         submachine guns. I was able to hid for three days under ground, in a barrack,
         together with many Russian Christians, who did not know I was a Jew.
     - who: David Boder
-      start: '00:10:09.831'
-      end: '00:10:10.875'
+      start:
+        sec: '609.831'
+        mark: '00:10:09.831'
+      end:
+        sec: '610.875'
+        mark: '00:10:10.875'
       u: They didn’t know you.
     - who: Henry Sochami
-      start: '00:10:10.875'
-      end: '00:10:15.704'
+      start:
+        sec: '610.875'
+        mark: '00:10:10.875'
+      end:
+        sec: '615.704'
+        mark: '00:10:15.704'
       u: They didn’t know if I was a Jew. I always told them I was Greek and Christian.
     - who: David Boder
-      start: '00:10:15.704'
-      end: '00:10:17.757'
+      start:
+        sec: '615.704'
+        mark: '00:10:15.704'
+      end:
+        sec: '617.757'
+        mark: '00:10:17.757'
       u: Greek and Christian, I see.
     - who: Henry Sochami
-      start: '00:10:17.757'
-      end: '00:10:34.526'
+      start:
+        sec: '617.757'
+        mark: '00:10:17.757'
+      end:
+        sec: '634.526'
+        mark: '00:10:34.526'
       u: Then, a couple of days before the Germans left, the Americans arrived. It
         was about four in the afternoon, in April; April 11, 1945.
     - who: David Boder
-      start: '00:10:34.526'
-      end: '00:10:35.268'
+      start:
+        sec: '634.526'
+        mark: '00:10:34.526'
+      end:
+        sec: '635.268'
+        mark: '00:10:35.268'
       u: Right.
     - who: Henry Sochami
-      start: '00:10:35.268'
-      end: '00:10:41.456'
+      start:
+        sec: '635.268'
+        mark: '00:10:35.268'
+      end:
+        sec: '641.456'
+        mark: '00:10:41.456'
       u: When I saw the Russians coming out, because we had been hiding, I did not
         want to go out because I was scared.
     - who: David Boder
-      start: '00:10:41.456'
-      end: '00:10:42.229'
+      start:
+        sec: '641.456'
+        mark: '00:10:41.456'
+      end:
+        sec: '642.229'
+        mark: '00:10:42.229'
       u: Right.
     - who: Henry Sochami
-      start: '00:10:42.229'
-      end: '00:11:05.969'
+      start:
+        sec: '642.229'
+        mark: '00:10:42.229'
+      end:
+        sec: '665.969'
+        mark: '00:11:05.969'
       u: Then I saw they were all kissing and embracing each other outside. I looked
         and I saw everybody was dancing because the Americans were coming, so I went
         out. I weighted only 38 kg because of the famine, and though I was falling
         down, I started singing and dancing.
     - who: David Boder
-      start: '00:11:05.969'
-      end: '00:11:07.200'
+      start:
+        sec: '665.969'
+        mark: '00:11:05.969'
+      end:
+        sec: '667.200'
+        mark: '00:11:07.200'
       u: Right.
     - who: Henry Sochami
-      start: '00:11:07.200'
-      end: '00:11:14.866'
+      start:
+        sec: '667.200'
+        mark: '00:11:07.200'
+      end:
+        sec: '674.866'
+        mark: '00:11:14.866'
       u: Once the Americans arrived, we started eating and drinking well, and I was
         with the Americans for two months.
     - who: David Boder
-      start: '00:11:14.866'
-      end: '00:11:15.681'
+      start:
+        sec: '674.866'
+        mark: '00:11:14.866'
+      end:
+        sec: '675.681'
+        mark: '00:11:15.681'
       u: Where?
     - who: Henry Sochami
-      start: '00:11:15.681'
-      end: '00:11:17.009'
+      start:
+        sec: '675.681'
+        mark: '00:11:15.681'
+      end:
+        sec: '677.009'
+        mark: '00:11:17.009'
       u: In Buchenwald.
     - who: David Boder
-      start: '00:11:17.009'
-      end: '00:11:18.790'
+      start:
+        sec: '677.009'
+        mark: '00:11:17.009'
+      end:
+        sec: '678.790'
+        mark: '00:11:18.790'
       u: Buchenwald. I see.
     - who: Henry Sochami
-      start: '00:11:18.790'
-      end: '00:11:23.184'
+      start:
+        sec: '678.790'
+        mark: '00:11:18.790'
+      end:
+        sec: '683.184'
+        mark: '00:11:23.184'
       u: After two months, we were sent to Paris to be taken to Greece.
     - who: David Boder
-      start: '00:11:23.184'
-      end: '00:11:23.999'
+      start:
+        sec: '683.184'
+        mark: '00:11:23.184'
+      end:
+        sec: '683.999'
+        mark: '00:11:23.999'
       u: Right.
     - who: Henry Sochami
-      start: '00:11:23.999'
-      end: '00:11:25.418'
+      start:
+        sec: '683.999'
+        mark: '00:11:23.999'
+      end:
+        sec: '685.418'
+        mark: '00:11:25.418'
       u: By plane.
     - who: David Boder
-      start: '00:11:25.418'
-      end: '00:11:27.006'
+      start:
+        sec: '685.418'
+        mark: '00:11:25.418'
+      end:
+        sec: '687.006'
+        mark: '00:11:27.006'
       u: Aha.
     - who: Henry Sochami
-      start: '00:11:27.006'
-      end: '00:11:27.899'
+      start:
+        sec: '687.006'
+        mark: '00:11:27.006'
+      end:
+        sec: '687.899'
+        mark: '00:11:27.899'
       u: "[Unintelligible]"
     - who: David Boder
-      start: '00:11:27.899'
-      end: '00:11:29.710'
+      start:
+        sec: '687.899'
+        mark: '00:11:27.899'
+      end:
+        sec: '689.710'
+        mark: '00:11:29.710'
       u: How many people were there on the plane?
     - who: Henry Sochami
-      start: '00:11:29.710'
-      end: '00:11:32.185'
+      start:
+        sec: '689.710'
+        mark: '00:11:29.710'
+      end:
+        sec: '692.185'
+        mark: '00:11:32.185'
       u: Only 53 Greek.
     - who: David Boder
-      start: '00:11:32.185'
-      end: '00:11:33.060'
+      start:
+        sec: '692.185'
+        mark: '00:11:32.185'
+      end:
+        sec: '693.060'
+        mark: '00:11:33.060'
       u: Aha.
     - who: Henry Sochami
-      start: '00:11:33.060'
-      end: '00:11:34.388'
+      start:
+        sec: '693.060'
+        mark: '00:11:33.060'
+      end:
+        sec: '694.388'
+        mark: '00:11:34.388'
       u: And 10 from Salonica.
     - who: David Boder
-      start: '00:11:34.388'
-      end: '00:11:35.294'
+      start:
+        sec: '694.388'
+        mark: '00:11:34.388'
+      end:
+        sec: '695.294'
+        mark: '00:11:35.294'
       u: Aha.
     - who: Henry Sochami
-      start: '00:11:35.294'
-      end: '00:11:47.626'
+      start:
+        sec: '695.294'
+        mark: '00:11:35.294'
+      end:
+        sec: '707.626'
+        mark: '00:11:47.626'
       u: We were taken to Paris, and the rest were sent to Greece. And since I had
         served in the French Légion Étrangère from 1920 to 1925, in Morocco...
     - who: David Boder
-      start: '00:11:47.626'
-      end: '00:11:49.063'
+      start:
+        sec: '707.626'
+        mark: '00:11:47.626'
+      end:
+        sec: '709.063'
+        mark: '00:11:49.063'
       u: Oh. Right. Aha.
     - who: Henry Sochami
-      start: '00:11:49.063'
-      end: '00:11:53.367'
+      start:
+        sec: '709.063'
+        mark: '00:11:49.063'
+      end:
+        sec: '713.367'
+        mark: '00:11:53.367'
       u: I had the chance of staying in France.
     - who: David Boder
-      start: '00:11:53.367'
-      end: '00:11:54.683'
+      start:
+        sec: '713.367'
+        mark: '00:11:53.367'
+      end:
+        sec: '714.683'
+        mark: '00:11:54.683'
       u: Aha.
     - who: Henry Sochami
-      start: '00:11:54.683'
-      end: '00:12:03.242'
+      start:
+        sec: '714.683'
+        mark: '00:11:54.683'
+      end:
+        sec: '723.242'
+        mark: '00:12:03.242'
       u: And so I stayed like this for a year because I was really thin.
     - who: David Boder
-      start: '00:12:03.242'
-      end: '00:12:03.725'
+      start:
+        sec: '723.242'
+        mark: '00:12:03.242'
+      end:
+        sec: '723.725'
+        mark: '00:12:03.725'
       u: Aha.
     - who: Henry Sochami
-      start: '00:12:03.725'
-      end: '00:12:06.351'
+      start:
+        sec: '723.725'
+        mark: '00:12:03.725'
+      end:
+        sec: '726.351'
+        mark: '00:12:06.351'
       u: And now, I have started to work.
     - who: David Boder
-      start: '00:12:06.351'
-      end: '00:12:08.977'
+      start:
+        sec: '726.351'
+        mark: '00:12:06.351'
+      end:
+        sec: '728.977'
+        mark: '00:12:08.977'
       u: And who do you work for now?
     - who: Henry Sochami
-      start: '00:12:08.977'
-      end: '00:12:10.504'
+      start:
+        sec: '728.977'
+        mark: '00:12:08.977'
+      end:
+        sec: '730.504'
+        mark: '00:12:10.504'
       u: For an American journal.
     - who: David Boder
-      start: '00:12:10.504'
-      end: '00:12:16.239'
+      start:
+        sec: '730.504'
+        mark: '00:12:10.504'
+      end:
+        sec: '736.239'
+        mark: '00:12:16.239'
       u: OK. And what are you planning to do in the future?
     - who: Henry Sochami
-      start: '00:12:16.239'
-      end: '00:12:26.941'
+      start:
+        sec: '736.239'
+        mark: '00:12:16.239'
+      end:
+        sec: '746.941'
+        mark: '00:12:26.941'
       u: I don’t know...For the time being, I am working here, and as soon as I can
         find another job to earn my living.
     - who: David Boder
-      start: '00:12:26.941'
-      end: '00:12:30.140'
+      start:
+        sec: '746.941'
+        mark: '00:12:26.941'
+      end:
+        sec: '750.140'
+        mark: '00:12:30.140'
       u: Aha. But, are you planning to stay in France?
     - who: Henry Sochami
-      start: '00:12:30.140'
-      end: '00:12:30.774'
+      start:
+        sec: '750.140'
+        mark: '00:12:30.140'
+      end:
+        sec: '750.774'
+        mark: '00:12:30.774'
       u: Yes.
     - who: David Boder
-      start: '00:12:30.774'
-      end: '00:12:31.167'
+      start:
+        sec: '750.774'
+        mark: '00:12:30.774'
+      end:
+        sec: '751.167'
+        mark: '00:12:31.167'
       u: And...
     - who: Henry Sochami
-      start: '00:12:31.167'
-      end: '00:12:34.746'
+      start:
+        sec: '751.167'
+        mark: '00:12:31.167'
+      end:
+        sec: '754.746'
+        mark: '00:12:34.746'
       u: May be I will go to Palestine later.
     - who: David Boder
-      start: '00:12:34.746'
-      end: '00:12:35.350'
+      start:
+        sec: '754.746'
+        mark: '00:12:34.746'
+      end:
+        sec: '755.350'
+        mark: '00:12:35.350'
       u: Aha.
     - who: Henry Sochami
-      start: '00:12:35.350'
-      end: '00:12:38.519'
+      start:
+        sec: '755.350'
+        mark: '00:12:35.350'
+      end:
+        sec: '758.519'
+        mark: '00:12:38.519'
       u: And...as soon as the situation improves.
     - who: David Boder
-      start: '00:12:38.519'
-      end: '00:12:43.590'
+      start:
+        sec: '758.519'
+        mark: '00:12:38.519'
+      end:
+        sec: '763.590'
+        mark: '00:12:43.590'
       u: Aha. And what do you do here for the journal? What are you doing now?
     - who: Henry Sochami
-      start: '00:12:43.590'
-      end: '00:12:51.817'
+      start:
+        sec: '763.590'
+        mark: '00:12:43.590'
+      end:
+        sec: '771.817'
+        mark: '00:12:51.817'
       u: I work here in the [unintelligible], Where they receive heavy boxes. I carry
         them, I close envelopes...er...
     - who: David Boder
-      start: '00:12:51.817'
-      end: '00:12:53.719'
+      start:
+        sec: '771.817'
+        mark: '00:12:51.817'
+      end:
+        sec: '773.719'
+        mark: '00:12:53.719'
       u: So you do manual work.
     - who: Henry Sochami
-      start: '00:12:53.719'
-      end: '00:12:54.854'
+      start:
+        sec: '773.719'
+        mark: '00:12:53.719'
+      end:
+        sec: '774.854'
+        mark: '00:12:54.854'
       u: Yes. Manual work.
     - who: David Boder
-      start: '00:12:54.854'
-      end: '00:12:58.252'
+      start:
+        sec: '774.854'
+        mark: '00:12:54.854'
+      end:
+        sec: '778.252'
+        mark: '00:12:58.252'
       u: Do you have family here?
     - who: Henry Sochami
-      start: '00:12:58.252'
-      end: '00:13:13.554'
+      start:
+        sec: '778.252'
+        mark: '00:12:58.252'
+      end:
+        sec: '793.554'
+        mark: '00:13:13.554'
       u: 'Unfortunately, there were 27 members in my family: 3 brothers, one sister
         with their own families. And they all ended up in [crematories?], and I am
         the only one left in my whole family.'
     - who: David Boder
-      start: '00:13:13.554'
-      end: '00:13:13.886'
+      start:
+        sec: '793.554'
+        mark: '00:13:13.554'
+      end:
+        sec: '793.886'
+        mark: '00:13:13.886'
       u: Aha.
     - who: Henry Sochami
-      start: '00:13:13.886'
-      end: '00:13:16.240'
+      start:
+        sec: '793.886'
+        mark: '00:13:13.886'
+      end:
+        sec: '796.240'
+        mark: '00:13:16.240'
       u: Out of 27, I am alone in the world.
     - who: David Boder
-      start: '00:13:16.240'
-      end: '00:13:20.827'
+      start:
+        sec: '796.240'
+        mark: '00:13:16.240'
+      end:
+        sec: '800.827'
+        mark: '00:13:20.827'
       u: And have you written to Greece?
     - who: Henry Sochami
-      start: '00:13:20.827'
-      end: '00:13:29.127'
+      start:
+        sec: '800.827'
+        mark: '00:13:20.827'
+      end:
+        sec: '809.127'
+        mark: '00:13:29.127'
       u: Yes. I have written to Greece, but [unintelligible] told me that my brother’s
         oldest son is alive.
     - who: David Boder
-      start: '00:13:29.127'
-      end: '00:13:29.688'
+      start:
+        sec: '809.127'
+        mark: '00:13:29.127'
+      end:
+        sec: '809.688'
+        mark: '00:13:29.688'
       u: Pardon me.
     - who: Henry Sochami
-      start: '00:13:29.688'
-      end: '00:13:34.578'
+      start:
+        sec: '809.688'
+        mark: '00:13:29.688'
+      end:
+        sec: '814.578'
+        mark: '00:13:34.578'
       u: My brother’s oldest son is still alive.
     - who: David Boder
-      start: '00:13:34.578'
-      end: '00:13:35.743'
+      start:
+        sec: '814.578'
+        mark: '00:13:34.578'
+      end:
+        sec: '815.743'
+        mark: '00:13:35.743'
       u: So, he is alive.
     - who: Henry Sochami
-      start: '00:13:35.743'
-      end: '00:13:36.365'
+      start:
+        sec: '815.743'
+        mark: '00:13:35.743'
+      end:
+        sec: '816.365'
+        mark: '00:13:36.365'
       u: Yes.
     - who: David Boder
-      start: '00:13:36.365'
-      end: '00:13:36.655'
+      start:
+        sec: '816.365'
+        mark: '00:13:36.365'
+      end:
+        sec: '816.655'
+        mark: '00:13:36.655'
       u: Aha.
     - who: Henry Sochami
-      start: '00:13:36.655'
-      end: '00:13:53.786'
+      start:
+        sec: '816.655'
+        mark: '00:13:36.655'
+      end:
+        sec: '833.786'
+        mark: '00:13:53.786'
       u: And one of my sister’s daughters...people say they saw her alive with other
         girls...but she left with some Belgians, and I have no idea whether she is
         dead or alive...I don’t know where she is...I was told she was sent to Belgium.
     - who: David Boder
-      start: '00:13:53.786'
-      end: '00:13:55.977'
+      start:
+        sec: '833.786'
+        mark: '00:13:53.786'
+      end:
+        sec: '835.977'
+        mark: '00:13:55.977'
       u: Oh. Right. She went to Belgium but you are not sure.
     - who: Henry Sochami
-      start: '00:13:55.977'
-      end: '00:13:58.965'
+      start:
+        sec: '835.977'
+        mark: '00:13:55.977'
+      end:
+        sec: '838.965'
+        mark: '00:13:58.965'
       u: Yes. I don’t know where [unintelligible].
     - who: David Boder
-      start: '00:13:58.965'
-      end: '00:14:08.683'
+      start:
+        sec: '838.965'
+        mark: '00:13:58.965'
+      end:
+        sec: '848.683'
+        mark: '00:14:08.683'
       u: Well, monsieur...Sochami. This has been an interesting conversation. I found
         all you said very interesting. Thank you very much.
     - who: David Boder
-      start: '00:14:08.683'
-      end: '00:14:30.213'
+      start:
+        sec: '848.683'
+        mark: '00:14:08.683'
+      end:
+        sec: '870.213'
+        mark: '00:14:30.213'
       u: "[In English] That ends the report of Henry Sochami. Taking about...taking
         about twelve minutes of Spool number 43. We will leave the rest for another
         interviewee. Thank you very much."
     - who: David Boder
-      start: '00:14:30.213'
-      end: '00:15:04.620'
+      start:
+        sec: '870.213'
+        mark: '00:14:30.213'
+      end:
+        sec: '904.62'
+        mark: '00:15:04.620'
       u: Chicago, November the 21st, 1950. This concludes Spool 9-43A of Henry Sochami,
         it is a spool in Spanish. The next Spool 9-43B is by a Mr. Mizrahi and seems
         to be in English. Boder.

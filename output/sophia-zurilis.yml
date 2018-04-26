@@ -37,109 +37,201 @@ recording:
     language: de
     interview:
     - who: David Boder
-      start: '00:00:00.273'
-      end: '00:00:55.477'
+      start:
+        sec: '0.273'
+        mark: '00:00:00.273'
+      end:
+        sec: '55.477'
+        mark: '00:00:55.477'
       u: "[In English] This is spool 9-141B. Mrs. Sophia, she at the beginning refused
         to give her name and wanted to go under only under the name Sophia. But it
         seems that we later got her name as Sophia Zurilis, or Z-U-R-I-L-I-S. November
         the 7th, 1950. Boder. One should check up, maybe Zurilis is another person.
         But for the time being, we are packing away the spool."
     - who: David Boder
-      start: '00:00:55.477'
-      end: '00:01:25.692'
+      start:
+        sec: '55.477'
+        mark: '00:00:55.477'
+      end:
+        sec: '85.692'
+        mark: '00:01:25.692'
       u: Eh, München, September the 21st, 1946, at Camp Lohengrin, a displaced persons’
         camp for Baltics, Latvian, Lithuanian, and Estonian. I’m interviewing here,
         a, eh, teacher, eh, whose first name is Sophia. And, eh, that is all of the
         name that we will have in this report. Eh, eh, we will have the interview
         in German.
     - who: David Boder
-      start: '00:01:25.692'
-      end: '00:01:36.492'
+      start:
+        sec: '85.692'
+        mark: '00:01:25.692'
+      end:
+        sec: '96.492'
+        mark: '00:01:36.492'
       u: "[In German] Also sagen Sie mir, äh, gnädige Frau, äh, wo waren Sie wenn
         der...Äh, was sind Sie für Nationalität?"
     - who: Sophia Zurilis
-      start: '00:01:36.492'
-      end: '00:01:37.132'
+      start:
+        sec: '96.492'
+        mark: '00:01:36.492'
+      end:
+        sec: '97.132'
+        mark: '00:01:37.132'
       u: Lettin.
     - who: David Boder
-      start: '00:01:37.132'
-      end: '00:01:38.163'
+      start:
+        sec: '97.132'
+        mark: '00:01:37.132'
+      end:
+        sec: '98.163'
+        mark: '00:01:38.163'
       u: Und woher?
     - who: Sophia Zurilis
-      start: '00:01:38.163'
-      end: '00:01:39.377'
+      start:
+        sec: '98.163'
+        mark: '00:01:38.163'
+      end:
+        sec: '99.377'
+        mark: '00:01:39.377'
       u: Ich bin eine Lettin.
     - who: David Boder
-      start: '00:01:39.377'
-      end: '00:01:40.715'
+      start:
+        sec: '99.377'
+        mark: '00:01:39.377'
+      end:
+        sec: '100.715'
+        mark: '00:01:40.715'
       u: Sie sind eine Lettin, [unverständlich].
     - who: Sophia Zurilis
-      start: '00:01:40.715'
-      end: '00:01:43.903'
+      start:
+        sec: '100.715'
+        mark: '00:01:40.715'
+      end:
+        sec: '103.903'
+        mark: '00:01:43.903'
       u: Absolut, ja.
     - who: Sophia Zurilis
-      start: '00:01:43.903'
-      end: '00:01:44.510'
+      start:
+        sec: '103.903'
+        mark: '00:01:43.903'
+      end:
+        sec: '104.510'
+        mark: '00:01:44.510'
       u: Eine Lettin.
     - who: David Boder
-      start: '00:01:44.510'
-      end: '00:01:45.666'
+      start:
+        sec: '104.510'
+        mark: '00:01:44.510'
+      end:
+        sec: '105.666'
+        mark: '00:01:45.666'
       u: Sie sind eine Lettin.
     - who: Sophia Zurilis
-      start: '00:01:45.666'
-      end: '00:01:46.306'
+      start:
+        sec: '105.666'
+        mark: '00:01:45.666'
+      end:
+        sec: '106.306'
+        mark: '00:01:46.306'
       u: Ja.
     - who: David Boder
-      start: '00:01:46.306'
-      end: '00:01:54.041'
+      start:
+        sec: '106.306'
+        mark: '00:01:46.306'
+      end:
+        sec: '114.041'
+        mark: '00:01:54.041'
       u: Und, äh, sagen Sie, wo haben Sie gelebt, wenn die Russen nach Lettland zurückgekommen
         sind?
     - who: Sophia Zurilis
-      start: '00:01:54.041'
-      end: '00:01:55.740'
+      start:
+        sec: '114.041'
+        mark: '00:01:54.041'
+      end:
+        sec: '115.740'
+        mark: '00:01:55.740'
       u: Zurückgekommen sind sie im Jahre ’40.
     - who: David Boder
-      start: '00:01:55.740'
-      end: '00:01:56.350'
+      start:
+        sec: '115.740'
+        mark: '00:01:55.740'
+      end:
+        sec: '116.350'
+        mark: '00:01:56.350'
       u: Ja.
     - who: Sophia Zurilis
-      start: '00:01:56.350'
-      end: '00:01:57.930'
+      start:
+        sec: '116.350'
+        mark: '00:01:56.350'
+      end:
+        sec: '117.930'
+        mark: '00:01:57.930'
       u: Ich war in Riga.
     - who: David Boder
-      start: '00:01:57.930'
-      end: '00:01:58.567'
+      start:
+        sec: '117.930'
+        mark: '00:01:57.930'
+      end:
+        sec: '118.567'
+        mark: '00:01:58.567'
       u: Aha.
     - who: Sophia Zurilis
-      start: '00:01:58.567'
-      end: '00:01:58.901'
+      start:
+        sec: '118.567'
+        mark: '00:01:58.567'
+      end:
+        sec: '118.901'
+        mark: '00:01:58.901'
       u: Ja.
     - who: David Boder
-      start: '00:01:58.901'
-      end: '00:02:00.084'
+      start:
+        sec: '118.901'
+        mark: '00:01:58.901'
+      end:
+        sec: '120.084'
+        mark: '00:02:00.084'
       u: Und was haben Sie dort getan?
     - who: Sophia Zurilis
-      start: '00:02:00.084'
-      end: '00:02:00.873'
+      start:
+        sec: '120.084'
+        mark: '00:02:00.084'
+      end:
+        sec: '120.873'
+        mark: '00:02:00.873'
       u: Auf einer Mädelsschule.
     - who: David Boder
-      start: '00:02:00.873'
-      end: '00:02:16.073'
+      start:
+        sec: '120.873'
+        mark: '00:02:00.873'
+      end:
+        sec: '136.073'
+        mark: '00:02:16.073'
       u: Wann? Also wollen Sie mir jetzt erzählen was da vorgegangen ist, von dem
         Jahre ’40 wie die Russen nach Lettland gekommen sind, und weiter von der russischen
         Okkupation, der deutschen Okkupation, wie sind Sie hier nach, äh, München
         hergekommen?
     - who: Sophia Zurilis
-      start: '00:02:16.073'
-      end: '00:02:16.589'
+      start:
+        sec: '136.073'
+        mark: '00:02:16.073'
+      end:
+        sec: '136.589'
+        mark: '00:02:16.589'
       u: Ja.
     - who: David Boder
-      start: '00:02:16.589'
-      end: '00:02:19.079'
+      start:
+        sec: '136.589'
+        mark: '00:02:16.589'
+      end:
+        sec: '139.079'
+        mark: '00:02:19.079'
       u: Also gehen Sie ganz langsam, Sie brauchen nicht [unverständlich].
     - who: Sophia Zurilis
-      start: '00:02:19.079'
-      end: '00:03:15.510'
+      start:
+        sec: '139.079'
+        mark: '00:02:19.079'
+      end:
+        sec: '195.510'
+        mark: '00:03:15.510'
       u: Ja. [unverständlich] 17. Juni kamen die Bolschewiken in das Land. Zuerst
         kamen sie ganz harmlos und haben uns versprochen, keine Veränderungen in unserem
         Staatswesen zu veranlassen. Es musst nur die Regierung verändert werden, und
@@ -153,78 +245,150 @@ recording:
         die waren auch mit, die waren bewaffnet und so, und die wurden auch gleich,
         ähm, zurückgelegt. Wurden alle entwaffnet.
     - who: David Boder
-      start: '00:03:15.510'
-      end: '00:03:18.119'
+      start:
+        sec: '195.510'
+        mark: '00:03:15.510'
+      end:
+        sec: '198.119'
+        mark: '00:03:18.119'
       u: Warum wurden die Bauern bewaffnet? Waren die Bauern bewaffnet?
     - who: Sophia Zurilis
-      start: '00:03:18.119'
-      end: '00:03:24.280'
+      start:
+        sec: '198.119'
+        mark: '00:03:18.119'
+      end:
+        sec: '204.280'
+        mark: '00:03:24.280'
       u: Na, das so n’, eine, hm, eine Land..., äh, eine Lan..., eine Land..., eine
         Landwehr...
     - who: David Boder
-      start: '00:03:24.280'
-      end: '00:03:24.526'
+      start:
+        sec: '204.280'
+        mark: '00:03:24.280'
+      end:
+        sec: '204.526'
+        mark: '00:03:24.526'
       u: Ja.
     - who: Sophia Zurilis
-      start: '00:03:24.526'
-      end: '00:03:25.712'
+      start:
+        sec: '204.526'
+        mark: '00:03:24.526'
+      end:
+        sec: '205.712'
+        mark: '00:03:25.712'
       u: ". . . die wir da haben, so."
     - who: David Boder
-      start: '00:03:25.712'
-      end: '00:03:25.955'
+      start:
+        sec: '205.712'
+        mark: '00:03:25.712'
+      end:
+        sec: '205.955'
+        mark: '00:03:25.955'
       u: Ja?
     - who: Sophia Zurilis
-      start: '00:03:25.955'
-      end: '00:03:28.172'
+      start:
+        sec: '205.955'
+        mark: '00:03:25.955'
+      end:
+        sec: '208.172'
+        mark: '00:03:28.172'
       u: Eine, eine Zivilorganisation, wahrscheinlich...
     - who: David Boder
-      start: '00:03:28.172'
-      end: '00:03:28.324'
+      start:
+        sec: '208.172'
+        mark: '00:03:28.172'
+      end:
+        sec: '208.324'
+        mark: '00:03:28.324'
       u: Ja.
     - who: Sophia Zurilis
-      start: '00:03:28.324'
-      end: '00:03:29.446'
+      start:
+        sec: '208.324'
+        mark: '00:03:28.324'
+      end:
+        sec: '209.446'
+        mark: '00:03:29.446'
       u: ". . . könnte man das sagen."
     - who: David Boder
-      start: '00:03:29.446'
-      end: '00:03:32.419'
+      start:
+        sec: '209.446'
+        mark: '00:03:29.446'
+      end:
+        sec: '212.419'
+        mark: '00:03:32.419'
       u: Ja. Und was hat mit Ulman passiert, dem Präsidenten?Dies ist eine Referenz
         auf Karlis Ulmanis.3
     - who: Sophia Zurilis
-      start: '00:03:32.419'
-      end: '00:03:36.514'
+      start:
+        sec: '212.419'
+        mark: '00:03:32.419'
+      end:
+        sec: '216.514'
+        mark: '00:03:36.514'
       u: Nu, Ulman wurde gleich, ähm, äh, interniert in seinem Schloss.
     - who: David Boder
-      start: '00:03:36.514'
-      end: '00:03:37.212'
+      start:
+        sec: '216.514'
+        mark: '00:03:36.514'
+      end:
+        sec: '217.212'
+        mark: '00:03:37.212'
       u: Ja?
     - who: Sophia Zurilis
-      start: '00:03:37.212'
-      end: '00:03:43.312'
+      start:
+        sec: '217.212'
+        mark: '00:03:37.212'
+      end:
+        sec: '223.312'
+        mark: '00:03:43.312'
       u: Und, äh, und nachdem wurde er nach Moskau, äh,...
     - who: David Boder
-      start: '00:03:43.312'
-      end: '00:03:44.070'
+      start:
+        sec: '223.312'
+        mark: '00:03:43.312'
+      end:
+        sec: '224.070'
+        mark: '00:03:44.070'
       u: Transportiert?
     - who: Sophia Zurilis
-      start: '00:03:44.070'
-      end: '00:03:47.589'
+      start:
+        sec: '224.070'
+        mark: '00:03:44.070'
+      end:
+        sec: '227.589'
+        mark: '00:03:47.589'
       u: ". . . transportiert, ja, als ein, äh, äh, ein Verhafteter."
     - who: David Boder
-      start: '00:03:47.589'
-      end: '00:03:47.953'
+      start:
+        sec: '227.589'
+        mark: '00:03:47.589'
+      end:
+        sec: '227.953'
+        mark: '00:03:47.953'
       u: Ja.
     - who: Sophia Zurilis
-      start: '00:03:47.953'
-      end: '00:03:48.196'
+      start:
+        sec: '227.953'
+        mark: '00:03:47.953'
+      end:
+        sec: '228.196'
+        mark: '00:03:48.196'
       u: Ja.
     - who: David Boder
-      start: '00:03:48.196'
-      end: '00:03:48.806'
+      start:
+        sec: '228.196'
+        mark: '00:03:48.196'
+      end:
+        sec: '228.806'
+        mark: '00:03:48.806'
       u: Nun?
     - who: Sophia Zurilis
-      start: '00:03:48.806'
-      end: '00:04:19.900'
+      start:
+        sec: '228.806'
+        mark: '00:03:48.806'
+      end:
+        sec: '259.900'
+        mark: '00:04:19.900'
       u: Nu, und dann, äh, und dann war das eben schon gleich in der Schule merk...,
         äh, merkbar. Wir müssen schon gleich die kommunistische Lehre annehmen und
         den Kindern überall die kommunistische äh, Ansichten den Kindern alles ver[unverständlich].
@@ -232,29 +396,53 @@ recording:
         äh, mehr, ähm, unter..., äh, unterrichten und wir müssten, wir müssten bloß,
         wenn möglich, immer gegen was anzeigen.
     - who: David Boder
-      start: '00:04:19.900'
-      end: '00:04:22.034'
+      start:
+        sec: '259.900'
+        mark: '00:04:19.900'
+      end:
+        sec: '262.034'
+        mark: '00:04:22.034'
       u: Ja. Wer hat Sie dazu gezwungen?
     - who: Sophia Zurilis
-      start: '00:04:22.034'
-      end: '00:04:25.702'
+      start:
+        sec: '262.034'
+        mark: '00:04:22.034'
+      end:
+        sec: '265.702'
+        mark: '00:04:25.702'
       u: Nun, das waren die Vorschriften von dem, äh, Ministerium.
     - who: David Boder
-      start: '00:04:25.702'
-      end: '00:04:28.203'
+      start:
+        sec: '265.702'
+        mark: '00:04:25.702'
+      end:
+        sec: '268.203'
+        mark: '00:04:28.203'
       u: Waren da auch lettische Kommunisten in dem...?
     - who: Sophia Zurilis
-      start: '00:04:28.203'
-      end: '00:04:37.341'
+      start:
+        sec: '268.203'
+        mark: '00:04:28.203'
+      end:
+        sec: '277.341'
+        mark: '00:04:37.341'
       u: Ja, ja, da waren auch lettische Kommunisten. Lettische Kommunisten und, äh,
         meistens war‘s alles aus Moskau, die, äh, Vorschriften waren von Moskau.
     - who: David Boder
-      start: '00:04:37.341'
-      end: '00:04:37.792'
+      start:
+        sec: '277.341'
+        mark: '00:04:37.341'
+      end:
+        sec: '277.792'
+        mark: '00:04:37.792'
       u: Ja?
     - who: Sophia Zurilis
-      start: '00:04:37.792'
-      end: '00:05:22.258'
+      start:
+        sec: '277.792'
+        mark: '00:04:37.792'
+      end:
+        sec: '322.258'
+        mark: '00:05:22.258'
       u: Und alle lettischen Kommunisten müssten sich unterwerfen, dem. So war‘s.
         Nur dann, äh, nachdem, äh, ja, wir müssten auch das Programm ganz ändern,
         es waren ander...gleich andere Schulbücher, in der Schule müssten wir ihnen
@@ -265,21 +453,37 @@ recording:
         die Fahne wurd‘ abgenommen und wir dürften nicht, äh, von solchen Sachen nicht,
         sogar in der Schule nicht reden, auch unter den anderen nicht reden. Ja.
     - who: David Boder
-      start: '00:05:22.258'
-      end: '00:05:27.158'
+      start:
+        sec: '322.258'
+        mark: '00:05:22.258'
+      end:
+        sec: '327.158'
+        mark: '00:05:27.158'
       u: Und weiter?
     - who: Sophia Zurilis
-      start: '00:05:27.158'
-      end: '00:05:44.266'
+      start:
+        sec: '327.158'
+        mark: '00:05:27.158'
+      end:
+        sec: '344.266'
+        mark: '00:05:44.266'
       u: Nachher hat die [unverständlich] viel gehört, Menschen sollen verhaftet werden
         und [unverständlich].
     - who: David Boder
-      start: '00:05:44.266'
-      end: '00:05:45.108'
+      start:
+        sec: '344.266'
+        mark: '00:05:44.266'
+      end:
+        sec: '345.108'
+        mark: '00:05:45.108'
       u: Und nun, was ist Ihnen...
     - who: Sophia Zurilis
-      start: '00:05:45.108'
-      end: '00:07:03.967'
+      start:
+        sec: '345.108'
+        mark: '00:05:45.108'
+      end:
+        sec: '423.967'
+        mark: '00:07:03.967'
       u: Nun, mir, mir, ja, ja. Äh, nu, ich muss sagen persönlich hat‘s mir noch nichts
         passiert. Ich hatte es in der Schule ganz still und, äh, einsam, ich verkehrte
         auch nicht mit anderen und ich weiß ja nun, zur Zeit der Bolschewiken dürften
@@ -296,58 +500,106 @@ recording:
         hier, bei den Bolschewiken hat er auch keine politische, äh, Sachen zu tun
         und so hat, war es mit uns nichts passiert.
     - who: David Boder
-      start: '00:07:03.967'
-      end: '00:07:05.296'
+      start:
+        sec: '423.967'
+        mark: '00:07:03.967'
+      end:
+        sec: '425.296'
+        mark: '00:07:05.296'
       u: War Ihr Mann ein Maler?
     - who: Sophia Zurilis
-      start: '00:07:05.296'
-      end: '00:07:06.925'
+      start:
+        sec: '425.296'
+        mark: '00:07:05.296'
+      end:
+        sec: '426.925'
+        mark: '00:07:06.925'
       u: Ja, Kunstmaler.
     - who: David Boder
-      start: '00:07:06.925'
-      end: '00:07:07.767'
+      start:
+        sec: '426.925'
+        mark: '00:07:06.925'
+      end:
+        sec: '427.767'
+        mark: '00:07:07.767'
       u: Ja, nun?
     - who: Sophia Zurilis
-      start: '00:07:07.767'
-      end: '00:07:34.502'
+      start:
+        sec: '427.767'
+        mark: '00:07:07.767'
+      end:
+        sec: '454.502'
+        mark: '00:07:34.502'
       u: Nu, und, äh, und also den 17. Juni, äh, dann, ähm, erfuhren wir, dass viele
         Menschen verhaftet, und wir wissen ja nicht aus welchen Gründen, das wurde
         ja auch nicht gesagt, und viele wurden verhaftet und verschleppt, nach Sibirien.
         Nun, und ich fuhr mit den Kindern gleich nach den Ferie..., es kamen Ferien,
         mit den Kindern nach, äh, an Strande hin, und äh, dann...
     - who: David Boder
-      start: '00:07:34.502'
-      end: '00:07:36.156'
+      start:
+        sec: '454.502'
+        mark: '00:07:34.502'
+      end:
+        sec: '456.156'
+        mark: '00:07:36.156'
       u: Ich verstehe. Wieviel Kinder hatten Sie?
     - who: Sophia Zurilis
-      start: '00:07:36.156'
-      end: '00:07:37.665'
+      start:
+        sec: '456.156'
+        mark: '00:07:36.156'
+      end:
+        sec: '457.665'
+        mark: '00:07:37.665'
       u: Ich hatte drei Kinder.
     - who: David Boder
-      start: '00:07:37.665'
-      end: '00:07:40.070'
+      start:
+        sec: '457.665'
+        mark: '00:07:37.665'
+      end:
+        sec: '460.070'
+        mark: '00:07:40.070'
       u: Und, äh, wo fuhren Sie dann mit Ihren...
     - who: Sophia Zurilis
-      start: '00:07:40.070'
-      end: '00:07:45.577'
+      start:
+        sec: '460.070'
+        mark: '00:07:40.070'
+      end:
+        sec: '465.577'
+        mark: '00:07:45.577'
       u: Nach am Strande zu meiner Villa, ich hatte eine Villa...
     - who: David Boder
-      start: '00:07:45.577'
-      end: '00:07:46.148'
+      start:
+        sec: '465.577'
+        mark: '00:07:45.577'
+      end:
+        sec: '466.148'
+        mark: '00:07:46.148'
       u: Nun?
     - who: Sophia Zurilis
-      start: '00:07:46.148'
-      end: '00:07:59.465'
+      start:
+        sec: '466.148'
+        mark: '00:07:46.148'
+      end:
+        sec: '479.465'
+        mark: '00:07:59.465'
       u: Nun, dann, äh, dann, ähm, dann hab ich auch gehört, äh, dass, dass kommen
         bald die Deutschen und die Russen ziehen schon heraus aus Riga. Und den 21.
         kamen auch die Deutschen...
     - who: David Boder
-      start: '00:07:59.465'
-      end: '00:08:00.283'
+      start:
+        sec: '479.465'
+        mark: '00:07:59.465'
+      end:
+        sec: '480.283'
+        mark: '00:08:00.283'
       u: Einundzwanzigsten was?
     - who: Sophia Zurilis
-      start: '00:08:00.283'
-      end: '00:08:37.930'
+      start:
+        sec: '480.283'
+        mark: '00:08:00.283'
+      end:
+        sec: '517.930'
+        mark: '00:08:37.930'
       u: ". . . 21. Juli kamen, äh, 21. Juni, Verzeihung, 21. Juni h..., hört man
         schon die Deutschen kommen her. Und am 1. Juli kamen die am Strand entlang
         schon herein, und wir waren wirklich froh, dass wir von den Russen befreit
@@ -356,20 +608,36 @@ recording:
         wollen wie die Russen. Nu und dann, aber in der Schule haben wir noch keine
         besondere Spur davon gemerkt..."
     - who: David Boder
-      start: '00:08:37.930'
-      end: '00:08:39.824'
+      start:
+        sec: '517.930'
+        mark: '00:08:37.930'
+      end:
+        sec: '519.824'
+        mark: '00:08:39.824'
       u: Ja, wieder alle, die...
     - who: Sophia Zurilis
-      start: '00:08:39.824'
-      end: '00:08:40.155'
+      start:
+        sec: '519.824'
+        mark: '00:08:39.824'
+      end:
+        sec: '520.155'
+        mark: '00:08:40.155'
       u: Ja, ja.
     - who: David Boder
-      start: '00:08:40.155'
-      end: '00:08:42.536'
+      start:
+        sec: '520.155'
+        mark: '00:08:40.155'
+      end:
+        sec: '522.536'
+        mark: '00:08:42.536'
       u: ". . . die, die Verletzten wurden rausgelassen..."
     - who: Sophia Zurilis
-      start: '00:08:42.536'
-      end: '00:09:57.132'
+      start:
+        sec: '522.536'
+        mark: '00:08:42.536'
+      end:
+        sec: '597.132'
+        mark: '00:09:57.132'
       u: "[unverständlich...] wir bekamen andere Bücher, wir wussten‘s ja auswendig,
         was wir hatten zur Zeit Ulmans, aber es wurden ganz neue gedruckt. Aber die
         waren nicht so, so, so parteiisch wie bei den Kommunisten. [längere Passage
@@ -384,29 +652,53 @@ recording:
         nicht. Denn, äh, die Verhaftung war ja [unverständlich], das war nicht so
         groß wie von den Bolschewiken."
     - who: David Boder
-      start: '00:09:57.132'
-      end: '00:09:58.274'
+      start:
+        sec: '597.132'
+        mark: '00:09:57.132'
+      end:
+        sec: '598.274'
+        mark: '00:09:58.274'
       u: Das waren weniger.
     - who: Sophia Zurilis
-      start: '00:09:58.274'
-      end: '00:09:59.116'
+      start:
+        sec: '598.274'
+        mark: '00:09:58.274'
+      end:
+        sec: '599.116'
+        mark: '00:09:59.116'
       u: Ja, ja.
     - who: David Boder
-      start: '00:09:59.116'
-      end: '00:10:02.162'
+      start:
+        sec: '599.116'
+        mark: '00:09:59.116'
+      end:
+        sec: '602.162'
+        mark: '00:10:02.162'
       u: Nun, und wie haben sich die Deutschen gegen die Juden benommen?
     - who: Sophia Zurilis
-      start: '00:10:02.162'
-      end: '00:10:10.669'
+      start:
+        sec: '602.162'
+        mark: '00:10:02.162'
+      end:
+        sec: '610.669'
+        mark: '00:10:10.669'
       u: Ja, also, mit den Juden, das war so eine Art [unverständlich]. Die Juden
         waren gleich in, äh, in, in, in, wie heißt das gleich...?
     - who: David Boder
-      start: '00:10:10.669'
-      end: '00:10:11.240'
+      start:
+        sec: '610.669'
+        mark: '00:10:10.669'
+      end:
+        sec: '611.240'
+        mark: '00:10:11.240'
       u: In Ghettos?
     - who: Sophia Zurilis
-      start: '00:10:11.240'
-      end: '00:10:39.563'
+      start:
+        sec: '611.240'
+        mark: '00:10:11.240'
+      end:
+        sec: '639.563'
+        mark: '00:10:39.563'
       u: Ja, in Ghetto wurden die Juden gleich ge..., ähm, getrieben, und dann hörten
         wir, nachher hörten wir, sie wurden herausgeführt von Ghetto und erschossen.
         Gewiss, es wurde ja weniges in den Zeitungen geschrieben, es war ja alles
@@ -414,59 +706,107 @@ recording:
         Ebenso wie die Russen, ähm, [unverständlich] die Letten und Andere geschossen
         haben, so haben die Deutschen die...
     - who: David Boder
-      start: '00:10:39.563'
-      end: '00:10:43.802'
+      start:
+        sec: '639.563'
+        mark: '00:10:39.563'
+      end:
+        sec: '643.802'
+        mark: '00:10:43.802'
       u: Ja, und was haben die Deutschen mit den russischen Übrigen gemacht, die dort
         geblieben sind?
     - who: Sophia Zurilis
-      start: '00:10:43.802'
-      end: '00:10:47.776'
+      start:
+        sec: '643.802'
+        mark: '00:10:43.802'
+      end:
+        sec: '647.776'
+        mark: '00:10:47.776'
       u: Also die russischen, ähm, die russischen, die Kommunisten?
     - who: David Boder
-      start: '00:10:47.776'
-      end: '00:10:49.946'
+      start:
+        sec: '647.776'
+        mark: '00:10:47.776'
+      end:
+        sec: '649.946'
+        mark: '00:10:49.946'
       u: Ja, oder haben sie die russischen Soldaten getötet?
     - who: Sophia Zurilis
-      start: '00:10:49.946'
-      end: '00:10:55.958'
+      start:
+        sec: '649.946'
+        mark: '00:10:49.946'
+      end:
+        sec: '655.958'
+        mark: '00:10:55.958'
       u: Ach so. Nein, ähm, Soldaten, das weiß ich nicht. Aber die Kommunisten, die
         wurden verhaftet. Ja.
     - who: David Boder
-      start: '00:10:55.958'
-      end: '00:11:00.588'
+      start:
+        sec: '655.958'
+        mark: '00:10:55.958'
+      end:
+        sec: '660.588'
+        mark: '00:11:00.588'
       u: Nun? Und wie ist es dann mit Ihnen gegangen und was hat dann nachher passiert?
     - who: Sophia Zurilis
-      start: '00:11:00.588'
-      end: '00:11:11.055'
+      start:
+        sec: '660.588'
+        mark: '00:11:00.588'
+      end:
+        sec: '671.055'
+        mark: '00:11:11.055'
       u: Nu, und dann, dann kam die Front immer näher, und dann haben die, die Deutschen
         gesagt, man wird müssen das Land verlassen, Riga.
     - who: David Boder
-      start: '00:11:11.055'
-      end: '00:11:12.113'
+      start:
+        sec: '671.055'
+        mark: '00:11:11.055'
+      end:
+        sec: '672.113'
+        mark: '00:11:12.113'
       u: Wer musste verlassen Riga?
     - who: Sophia Zurilis
-      start: '00:11:12.113'
-      end: '00:11:28.165'
+      start:
+        sec: '672.113'
+        mark: '00:11:12.113'
+      end:
+        sec: '688.165'
+        mark: '00:11:28.165'
       u: Die, das Bevölkerung musste Riga verlassen. Wer von Riga nicht herausgehen
         will, der verzichtet auf die Lebensmittelpunkte [unverständlich] und auf die
         [unverständlich] Material, und, ähm, die sonst, äh, kommt her und man muss
         raus.
     - who: David Boder
-      start: '00:11:28.165'
-      end: '00:11:29.247'
+      start:
+        sec: '688.165'
+        mark: '00:11:28.165'
+      end:
+        sec: '689.247'
+        mark: '00:11:29.247'
       u: Ja?
     - who: Sophia Zurilis
-      start: '00:11:29.247'
-      end: '00:11:35.199'
+      start:
+        sec: '689.247'
+        mark: '00:11:29.247'
+      end:
+        sec: '695.199'
+        mark: '00:11:35.199'
       u: Und dann wurden die Menschen schon [unverständlich] mit, äh, mit, äh, mit
         [unverständlich]...
     - who: David Boder
-      start: '00:11:35.199'
-      end: '00:11:36.066'
+      start:
+        sec: '695.199'
+        mark: '00:11:35.199'
+      end:
+        sec: '696.066'
+        mark: '00:11:36.066'
       u: "[unverständlich]"
     - who: Sophia Zurilis
-      start: '00:11:36.066'
-      end: '00:12:06.079'
+      start:
+        sec: '696.066'
+        mark: '00:11:36.066'
+      end:
+        sec: '726.079'
+        mark: '00:12:06.079'
       u: Ach so. Nu, mir [unverständlich] ich musste nicht heraus, ich konnte bleiben.
         Und ich zögerte nicht, und ich zögerte nicht, weil der Feind, der kam näher
         und Riga wurde schon bedroht, [unverständlich] und auch von, von der Luft,
@@ -474,208 +814,396 @@ recording:
         unverständlich]. Und besonders für meinen [unverständlich], da waren die Bomben
         nun sehr [unverständlich].
     - who: David Boder
-      start: '00:12:06.079'
-      end: '00:12:07.342'
+      start:
+        sec: '726.079'
+        mark: '00:12:06.079'
+      end:
+        sec: '727.342'
+        mark: '00:12:07.342'
       u: Wo wohnten Sie da...
     - who: Sophia Zurilis
-      start: '00:12:07.342'
-      end: '00:12:10.264'
+      start:
+        sec: '727.342'
+        mark: '00:12:07.342'
+      end:
+        sec: '730.264'
+        mark: '00:12:10.264'
       u: Wir wohnten in, äh, Bunker über die Nacht.
     - who: David Boder
-      start: '00:12:10.264'
-      end: '00:12:10.871'
+      start:
+        sec: '730.264'
+        mark: '00:12:10.264'
+      end:
+        sec: '730.871'
+        mark: '00:12:10.871'
       u: "[unverständlich]"
     - who: Sophia Zurilis
-      start: '00:12:10.871'
-      end: '00:12:24.975'
+      start:
+        sec: '730.871'
+        mark: '00:12:10.871'
+      end:
+        sec: '744.975'
+        mark: '00:12:24.975'
       u: Ja. [unverständlich] an der ersten [unverständlich]. Und nu [unverständlich]
         in der Zeitung stand, äh, wieder etwas und, [unverständlich] über den, äh,
         den Fluss da drüber, und es wurde in der Zeitung [unverständlich]...
     - who: Sophia Zurilis
-      start: '00:12:24.975'
-      end: '00:12:45.749'
+      start:
+        sec: '744.975'
+        mark: '00:12:24.975'
+      end:
+        sec: '765.749'
+        mark: '00:12:45.749'
       u: ". . . und [unverständlich] weiter zum Hafen, und von dort im Hafen gleich
         in den Zug, und vom Zug dann raus in Dachau."
     - who: David Boder
-      start: '00:12:45.749'
-      end: '00:12:46.386'
+      start:
+        sec: '765.749'
+        mark: '00:12:45.749'
+      end:
+        sec: '766.386'
+        mark: '00:12:46.386'
       u: In Dachau?
     - who: Sophia Zurilis
-      start: '00:12:46.386'
-      end: '00:12:47.078'
+      start:
+        sec: '766.386'
+        mark: '00:12:46.386'
+      end:
+        sec: '767.078'
+        mark: '00:12:47.078'
       u: Ja, in Dachau.
     - who: David Boder
-      start: '00:12:47.078'
-      end: '00:12:49.339'
+      start:
+        sec: '767.078'
+        mark: '00:12:47.078'
+      end:
+        sec: '769.339'
+        mark: '00:12:49.339'
       u: "[unverständlich]. Was für ein Schiff war das?"
     - who: Sophia Zurilis
-      start: '00:12:49.339'
-      end: '00:12:51.329'
+      start:
+        sec: '769.339'
+        mark: '00:12:49.339'
+      end:
+        sec: '771.329'
+        mark: '00:12:51.329'
       u: Das war ein Schiff Donau.
     - who: David Boder
-      start: '00:12:51.329'
-      end: '00:12:52.117'
+      start:
+        sec: '771.329'
+        mark: '00:12:51.329'
+      end:
+        sec: '772.117'
+        mark: '00:12:52.117'
       u: Donau?
     - who: Sophia Zurilis
-      start: '00:12:52.117'
-      end: '00:12:53.055'
+      start:
+        sec: '772.117'
+        mark: '00:12:52.117'
+      end:
+        sec: '773.055'
+        mark: '00:12:53.055'
       u: Donau, ja.
     - who: David Boder
-      start: '00:12:53.055'
-      end: '00:12:54.504'
+      start:
+        sec: '773.055'
+        mark: '00:12:53.055'
+      end:
+        sec: '774.504'
+        mark: '00:12:54.504'
       u: Okay, war es ein russisches Schiff?
     - who: Sophia Zurilis
-      start: '00:12:54.504'
-      end: '00:12:59.139'
+      start:
+        sec: '774.504'
+        mark: '00:12:54.504'
+      end:
+        sec: '779.139'
+        mark: '00:12:59.139'
       u: Nein, das war ein deutsches Schiff...
     - who: Sophia Zurilis
-      start: '00:12:59.139'
-      end: '00:13:06.835'
+      start:
+        sec: '779.139'
+        mark: '00:12:59.139'
+      end:
+        sec: '786.835'
+        mark: '00:13:06.835'
       u: ". . . mit den Booten würden wir gleich alle [einige Worte unverständlich],
         wir würden alle, äh, nach Dachau gebracht."
     - who: David Boder
-      start: '00:13:06.835'
-      end: '00:13:08.735'
+      start:
+        sec: '786.835'
+        mark: '00:13:06.835'
+      end:
+        sec: '788.735'
+        mark: '00:13:08.735'
       u: Also, waren Sie [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:13:08.735'
-      end: '00:13:09.222'
+      start:
+        sec: '788.735'
+        mark: '00:13:08.735'
+      end:
+        sec: '789.222'
+        mark: '00:13:09.222'
       u: Ja.
     - who: David Boder
-      start: '00:13:09.222'
-      end: '00:13:11.843'
+      start:
+        sec: '789.222'
+        mark: '00:13:09.222'
+      end:
+        sec: '791.843'
+        mark: '00:13:11.843'
       u: Also, Sie persönlich dürften [unverständlich]...
     - who: Sophia Zurilis
-      start: '00:13:11.843'
-      end: '00:13:12.647'
+      start:
+        sec: '791.843'
+        mark: '00:13:11.843'
+      end:
+        sec: '792.647'
+        mark: '00:13:12.647'
       u: Ja.
     - who: David Boder
-      start: '00:13:12.647'
-      end: '00:13:16.172'
+      start:
+        sec: '792.647'
+        mark: '00:13:12.647'
+      end:
+        sec: '796.172'
+        mark: '00:13:16.172'
       u: ". . . erzählen Sie mir die einzelnen Etappen, was haben Sie getan? Haben
         Sie noch Ihren Mann mitgenommen?"
     - who: Sophia Zurilis
-      start: '00:13:16.172'
-      end: '00:13:20.026'
+      start:
+        sec: '796.172'
+        mark: '00:13:16.172'
+      end:
+        sec: '800.026'
+        mark: '00:13:20.026'
       u: Nein, mein Mann ist [unverständlich] im Jahre ´42.
     - who: David Boder
-      start: '00:13:20.026'
-      end: '00:13:21.836'
+      start:
+        sec: '800.026'
+        mark: '00:13:20.026'
+      end:
+        sec: '801.836'
+        mark: '00:13:21.836'
       u: Er ist [unverständlich] nicht da unter den Leichen?
     - who: Sophia Zurilis
-      start: '00:13:21.836'
-      end: '00:13:22.684'
+      start:
+        sec: '801.836'
+        mark: '00:13:21.836'
+      end:
+        sec: '802.684'
+        mark: '00:13:22.684'
       u: Ja, ja.
     - who: David Boder
-      start: '00:13:22.684'
-      end: '00:13:24.313'
+      start:
+        sec: '802.684'
+        mark: '00:13:22.684'
+      end:
+        sec: '804.313'
+        mark: '00:13:24.313'
       u: Aha. Und Sie haben die drei Kinder mitgenommen?
     - who: Sophia Zurilis
-      start: '00:13:24.313'
-      end: '00:13:36.404'
+      start:
+        sec: '804.313'
+        mark: '00:13:24.313'
+      end:
+        sec: '816.404'
+        mark: '00:13:36.404'
       u: Nein, ich bin nur die einzige [unverständlich], da rausgekommen ist [unverständlich].
     - who: David Boder
-      start: '00:13:36.404'
-      end: '00:13:38.454'
+      start:
+        sec: '816.404'
+        mark: '00:13:36.404'
+      end:
+        sec: '818.454'
+        mark: '00:13:38.454'
       u: Und, äh, [unverständlich] Kinder [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:13:38.454'
-      end: '00:13:49.546'
+      start:
+        sec: '818.454'
+        mark: '00:13:38.454'
+      end:
+        sec: '829.546'
+        mark: '00:13:49.546'
       u: Nur das eine. Das andere ist erst [unverständlich] ’44, im Jahre ’44 am,
         äh, ersten August, ja, ersten August ’44 [unverständlich].
     - who: David Boder
-      start: '00:13:49.546'
-      end: '00:13:50.779'
+      start:
+        sec: '829.546'
+        mark: '00:13:49.546'
+      end:
+        sec: '830.779'
+        mark: '00:13:50.779'
       u: "[unverständlich]."
     - who: Sophia Zurilis
-      start: '00:13:50.779'
-      end: '00:13:56.370'
+      start:
+        sec: '830.779'
+        mark: '00:13:50.779'
+      end:
+        sec: '836.370'
+        mark: '00:13:56.370'
       u: Der andere ist nur [unverständlich].
     - who: David Boder
-      start: '00:13:56.370'
-      end: '00:14:00.501'
+      start:
+        sec: '836.370'
+        mark: '00:13:56.370'
+      end:
+        sec: '840.501'
+        mark: '00:14:00.501'
       u: Sagen Sie mir nun, hat er [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:14:00.501'
-      end: '00:14:02.772'
+      start:
+        sec: '840.501'
+        mark: '00:14:00.501'
+      end:
+        sec: '842.772'
+        mark: '00:14:02.772'
       u: Nein, [unverständlich] absolut den Deutschen [unverständlich].
     - who: Sophia Zurilis
-      start: '00:14:02.772'
-      end: '00:14:20.738'
+      start:
+        sec: '842.772'
+        mark: '00:14:02.772'
+      end:
+        sec: '860.738'
+        mark: '00:14:20.738'
       u: ". . . den, den Deutschen zusammen wurd’..., haben keine Armee, aber es waren
         [unverständlich] Menschen. So [unverständlich] der Sohn einberufen und, und,
         äh, alle mussten aufgeschrieben werden, so dass sie nicht [unverständlich]
         werden."
     - who: David Boder
-      start: '00:14:20.738'
-      end: '00:14:24.982'
+      start:
+        sec: '860.738'
+        mark: '00:14:20.738'
+      end:
+        sec: '864.982'
+        mark: '00:14:24.982'
       u: Ja. Nun sagen Sie mal, also Sie haben [unverständlich] ein Kind. Ein Junge
         oder ein Mädchen?
     - who: Sophia Zurilis
-      start: '00:14:24.982'
-      end: '00:14:25.974'
+      start:
+        sec: '864.982'
+        mark: '00:14:24.982'
+      end:
+        sec: '865.974'
+        mark: '00:14:25.974'
       u: Einen Jungen.
     - who: David Boder
-      start: '00:14:25.974'
-      end: '00:14:27.117'
+      start:
+        sec: '865.974'
+        mark: '00:14:25.974'
+      end:
+        sec: '867.117'
+        mark: '00:14:27.117'
       u: Ja, und weiter?
     - who: Sophia Zurilis
-      start: '00:14:27.117'
-      end: '00:14:28.295'
+      start:
+        sec: '867.117'
+        mark: '00:14:27.117'
+      end:
+        sec: '868.295'
+        mark: '00:14:28.295'
       u: "[unverständlich]."
     - who: David Boder
-      start: '00:14:28.295'
-      end: '00:14:30.941'
+      start:
+        sec: '868.295'
+        mark: '00:14:28.295'
+      end:
+        sec: '870.941'
+        mark: '00:14:30.941'
       u: "[unverständlich]?"
     - who: Sophia Zurilis
-      start: '00:14:30.941'
-      end: '00:14:31.729'
+      start:
+        sec: '870.941'
+        mark: '00:14:30.941'
+      end:
+        sec: '871.729'
+        mark: '00:14:31.729'
       u: Ja.
     - who: David Boder
-      start: '00:14:31.729'
-      end: '00:14:32.967'
+      start:
+        sec: '871.729'
+        mark: '00:14:31.729'
+      end:
+        sec: '872.967'
+        mark: '00:14:32.967'
       u: Allein, mit Kleinkind?
     - who: Sophia Zurilis
-      start: '00:14:32.967'
-      end: '00:14:34.711'
+      start:
+        sec: '872.967'
+        mark: '00:14:32.967'
+      end:
+        sec: '874.711'
+        mark: '00:14:34.711'
       u: "[unverständlich]."
     - who: David Boder
-      start: '00:14:34.711'
-      end: '00:14:35.949'
+      start:
+        sec: '874.711'
+        mark: '00:14:34.711'
+      end:
+        sec: '875.949'
+        mark: '00:14:35.949'
       u: "[unverständlich] man hat Sie abgeholt?"
     - who: Sophia Zurilis
-      start: '00:14:35.949'
-      end: '00:14:44.186'
+      start:
+        sec: '875.949'
+        mark: '00:14:35.949'
+      end:
+        sec: '884.186'
+        mark: '00:14:44.186'
       u: Nein [unverständlich / von beiden durcheinander gesprochen]. [unverständlich]
         alle müssten evakuiert werden, sonst werden sie kein Lebens [unverständlich].
     - who: David Boder
-      start: '00:14:44.186'
-      end: '00:14:45.869'
+      start:
+        sec: '884.186'
+        mark: '00:14:44.186'
+      end:
+        sec: '885.869'
+        mark: '00:14:45.869'
       u: Und andere Sachen haben Sie nicht?
     - who: Sophia Zurilis
-      start: '00:14:45.869'
-      end: '00:14:54.406'
+      start:
+        sec: '885.869'
+        mark: '00:14:45.869'
+      end:
+        sec: '894.406'
+        mark: '00:14:54.406'
       u: Nu, Sachen habe ich nur so etwas Seife mitgenommen. [unverständlich] zu entscheiden
         was soll ich mitnehmen, und, äh [unverständlich].
     - who: David Boder
-      start: '00:14:54.406'
-      end: '00:14:55.909'
+      start:
+        sec: '894.406'
+        mark: '00:14:54.406'
+      end:
+        sec: '895.909'
+        mark: '00:14:55.909'
       u: Und Ihre Kinder [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:14:55.909'
-      end: '00:15:20.695'
+      start:
+        sec: '895.909'
+        mark: '00:14:55.909'
+      end:
+        sec: '920.695'
+        mark: '00:15:20.695'
       u: Alles, alles ist da geblieben. Ich konnte nur die Sachen nehmen, die ich
         zur [unverständlich] habe. Und [unverständlich], also ich hab verlernt, ich
         war ganz, äh, ganz zerschmettert, ich war [unverständlich], ich wusste nicht,
         was ich tun soll, was soll ich tun, [ganzer Satz unverständlich], das hab
         ich getan.
     - who: David Boder
-      start: '00:15:20.695'
-      end: '00:15:22.559'
+      start:
+        sec: '920.695'
+        mark: '00:15:20.695'
+      end:
+        sec: '922.559'
+        mark: '00:15:22.559'
       u: Und Sie kamen nach [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:15:22.559'
-      end: '00:15:55.631'
+      start:
+        sec: '922.559'
+        mark: '00:15:22.559'
+      end:
+        sec: '955.631'
+        mark: '00:15:55.631'
       u: 'Das [unverständlich] gesagt. Ach so, von Riga aus wurden wir, ja, wir dachten
         dann so: zuerst wurde besprochen, nach [unverständlich] soll man sich verbergen,
         und dann, äh, [unverständlich] eine große Front [unverständlich] nach Finnland.
@@ -684,475 +1212,907 @@ recording:
         weiter, und dann bis [unverständlich]Hafen, und dann sahen wir, dass wir da
         [unverständlich].'
     - who: David Boder
-      start: '00:15:55.631'
-      end: '00:15:59.605'
+      start:
+        sec: '955.631'
+        mark: '00:15:55.631'
+      end:
+        sec: '959.605'
+        mark: '00:15:59.605'
       u: Also, wie viel sind...wie viel ist auf dem Schiff gefahren, wie viel Leut
         sind mit...
     - who: Sophia Zurilis
-      start: '00:15:59.605'
-      end: '00:16:05.743'
+      start:
+        sec: '959.605'
+        mark: '00:15:59.605'
+      end:
+        sec: '965.743'
+        mark: '00:16:05.743'
       u: Nu, wir waren 4000 Men..., 4000 Menschen. Da waren [unverständlich] und Menschen,
         alles zusammen.
     - who: David Boder
-      start: '00:16:05.743'
-      end: '00:16:07.727'
+      start:
+        sec: '965.743'
+        mark: '00:16:05.743'
+      end:
+        sec: '967.727'
+        mark: '00:16:07.727'
       u: Nun, und wie groß war das Boot?
     - who: Sophia Zurilis
-      start: '00:16:07.727'
-      end: '00:16:12.146'
+      start:
+        sec: '967.727'
+        mark: '00:16:07.727'
+      end:
+        sec: '972.146'
+        mark: '00:16:12.146'
       u: Oh, ich weiß nicht wie groß, wir waren aber sehr viele, 4000 Menschen.
     - who: David Boder
-      start: '00:16:12.146'
-      end: '00:16:13.499'
+      start:
+        sec: '972.146'
+        mark: '00:16:12.146'
+      end:
+        sec: '973.499'
+        mark: '00:16:13.499'
       u: Haben Sie Betten zum Schlafen gehabt?
     - who: Sophia Zurilis
-      start: '00:16:13.499'
-      end: '00:16:32.328'
+      start:
+        sec: '973.499'
+        mark: '00:16:13.499'
+      end:
+        sec: '992.328'
+        mark: '00:16:32.328'
       u: Nein, keine Betten, wir waren alle so in einem Haufen, der halt zusammen
         war. [unverständlich] wir müssen jetzt alle beide mit meinem Sohn übernachten.
         [unverständlich] über fünfzig Menschen und [unverständlich].
     - who: David Boder
-      start: '00:16:32.328'
-      end: '00:16:33.741'
+      start:
+        sec: '992.328'
+        mark: '00:16:32.328'
+      end:
+        sec: '993.741'
+        mark: '00:16:33.741'
       u: Und Ihr Mann hat [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:16:33.741'
-      end: '00:16:37.709'
+      start:
+        sec: '993.741'
+        mark: '00:16:33.741'
+      end:
+        sec: '997.709'
+        mark: '00:16:37.709'
       u: "[unverständlich]."
     - who: David Boder
-      start: '00:16:37.709'
-      end: '00:16:41.256'
+      start:
+        sec: '997.709'
+        mark: '00:16:37.709'
+      end:
+        sec: '1001.256'
+        mark: '00:16:41.256'
       u: Nun, und dann [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:16:41.256'
-      end: '00:16:42.098'
+      start:
+        sec: '1001.256'
+        mark: '00:16:41.256'
+      end:
+        sec: '1002.098'
+        mark: '00:16:42.098'
       u: Ja, ja. Und dann...
     - who: David Boder
-      start: '00:16:42.098'
-      end: '00:16:43.487'
+      start:
+        sec: '1002.098'
+        mark: '00:16:42.098'
+      end:
+        sec: '1003.487'
+        mark: '00:16:43.487'
       u: "[unverständlich]."
     - who: Sophia Zurilis
-      start: '00:16:43.487'
-      end: '00:16:52.301'
+      start:
+        sec: '1003.487'
+        mark: '00:16:43.487'
+      end:
+        sec: '1012.301'
+        mark: '00:16:52.301'
       u: Nu, ich weiß nicht, wir waren so zwanzig, vierzig [einige Worte unverständlich].
     - who: David Boder
-      start: '00:16:52.301'
-      end: '00:16:53.269'
+      start:
+        sec: '1012.301'
+        mark: '00:16:52.301'
+      end:
+        sec: '1013.269'
+        mark: '00:16:53.269'
       u: Und?
     - who: Sophia Zurilis
-      start: '00:16:53.269'
-      end: '00:16:54.267'
+      start:
+        sec: '1013.269'
+        mark: '00:16:53.269'
+      end:
+        sec: '1014.267'
+        mark: '00:16:54.267'
       u: Und dann...
     - who: David Boder
-      start: '00:16:54.267'
-      end: '00:16:55.175'
+      start:
+        sec: '1014.267'
+        mark: '00:16:54.267'
+      end:
+        sec: '1015.175'
+        mark: '00:16:55.175'
       u: Kamen Sie nach Dachau?
     - who: Sophia Zurilis
-      start: '00:16:55.175'
-      end: '00:16:57.977'
+      start:
+        sec: '1015.175'
+        mark: '00:16:55.175'
+      end:
+        sec: '1017.977'
+        mark: '00:16:57.977'
       u: Ja, das [unverständlich], kamen nach Dachau.
     - who: David Boder
-      start: '00:16:57.977'
-      end: '00:16:59.636'
+      start:
+        sec: '1017.977'
+        mark: '00:16:57.977'
+      end:
+        sec: '1019.636'
+        mark: '00:16:59.636'
       u: "[unverständlich]?"
     - who: Sophia Zurilis
-      start: '00:16:59.636'
-      end: '00:17:27.345'
+      start:
+        sec: '1019.636'
+        mark: '00:16:59.636'
+      end:
+        sec: '1047.345'
+        mark: '00:17:27.345'
       u: Nun, Dachau, das war ein Durchgangslager. [unverständlich] war ein Durchgangslager,
         und in dem Durchgangslager waren wir fünf Wochen. Das Essen da, war nun gar
         nicht schlecht. Gab es eine wenige Butter, und, äh, äh, [unverständlich] und
         so Paste und, ja Paste, und, äh, äh, Brot. [unverständlich] zum Abendbrot
         und zum Frühstück.
     - who: David Boder
-      start: '00:17:27.345'
-      end: '00:17:31.163'
+      start:
+        sec: '1047.345'
+        mark: '00:17:27.345'
+      end:
+        sec: '1051.163'
+        mark: '00:17:31.163'
       u: Und wie haben Sie mit dem Wasser [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:17:31.163'
-      end: '00:17:45.357'
+      start:
+        sec: '1051.163'
+        mark: '00:17:31.163'
+      end:
+        sec: '1065.357'
+        mark: '00:17:45.357'
       u: "[unverständlich] zuerst werden in Dachau [einige Sätze unverständlich]..."
     - who: David Boder
-      start: '00:17:45.357'
-      end: '00:17:45.688'
+      start:
+        sec: '1065.357'
+        mark: '00:17:45.357'
+      end:
+        sec: '1065.688'
+        mark: '00:17:45.688'
       u: Ja.
     - who: Sophia Zurilis
-      start: '00:17:45.688'
-      end: '00:17:47.792'
+      start:
+        sec: '1065.688'
+        mark: '00:17:45.688'
+      end:
+        sec: '1067.792'
+        mark: '00:17:47.792'
       u: ". . . [unverständlich]."
     - who: David Boder
-      start: '00:17:47.792'
-      end: '00:17:48.183'
+      start:
+        sec: '1067.792'
+        mark: '00:17:47.792'
+      end:
+        sec: '1068.183'
+        mark: '00:17:48.183'
       u: Ja.
     - who: Sophia Zurilis
-      start: '00:17:48.183'
-      end: '00:17:49.055'
+      start:
+        sec: '1068.183'
+        mark: '00:17:48.183'
+      end:
+        sec: '1069.055'
+        mark: '00:17:49.055'
       u: "[unverständlich]."
     - who: David Boder
-      start: '00:17:49.055'
-      end: '00:17:50.384'
+      start:
+        sec: '1069.055'
+        mark: '00:17:49.055'
+      end:
+        sec: '1070.384'
+        mark: '00:17:50.384'
       u: "[unverständlich]?"
     - who: Sophia Zurilis
-      start: '00:17:50.384'
-      end: '00:17:52.945'
+      start:
+        sec: '1070.384'
+        mark: '00:17:50.384'
+      end:
+        sec: '1072.945'
+        mark: '00:17:52.945'
       u: Und dann wird von [unverständlich].
     - who: David Boder
-      start: '00:17:52.945'
-      end: '00:17:54.298'
+      start:
+        sec: '1072.945'
+        mark: '00:17:52.945'
+      end:
+        sec: '1074.298'
+        mark: '00:17:54.298'
       u: Nur bis [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:17:54.298'
-      end: '00:17:55.416'
+      start:
+        sec: '1074.298'
+        mark: '00:17:54.298'
+      end:
+        sec: '1075.416'
+        mark: '00:17:55.416'
       u: Ja, von...
     - who: David Boder
-      start: '00:17:55.416'
-      end: '00:17:56.679'
+      start:
+        sec: '1075.416'
+        mark: '00:17:55.416'
+      end:
+        sec: '1076.679'
+        mark: '00:17:56.679'
       u: "[unverständlich]."
     - who: Sophia Zurilis
-      start: '00:17:56.679'
-      end: '00:18:19.651'
+      start:
+        sec: '1076.679'
+        mark: '00:17:56.679'
+      end:
+        sec: '1099.651'
+        mark: '00:18:19.651'
       u: "[unverständlich]. Nu, dann hatten wir da, äh, die, die Terrassen, und zwischen
         einer Terrasse werden [unverständlich], und es war auch [unverständlich],
         und es war alles [unverständlich], und da mussten wir auf einer Pritsche schlafen,
         auf, äh, zwei Plätzen mussten drei Menschen schlafen."
     - who: David Boder
-      start: '00:18:19.651'
-      end: '00:18:20.318'
+      start:
+        sec: '1099.651'
+        mark: '00:18:19.651'
+      end:
+        sec: '1100.318'
+        mark: '00:18:20.318'
       u: Aha.
     - who: Sophia Zurilis
-      start: '00:18:20.318'
-      end: '00:18:22.032'
+      start:
+        sec: '1100.318'
+        mark: '00:18:20.318'
+      end:
+        sec: '1102.032'
+        mark: '00:18:22.032'
       u: Und [unverständlich]. Nun...
     - who: David Boder
-      start: '00:18:22.032'
-      end: '00:18:23.631'
+      start:
+        sec: '1102.032'
+        mark: '00:18:22.032'
+      end:
+        sec: '1103.631'
+        mark: '00:18:23.631'
       u: "[unverständlich]?"
     - who: Sophia Zurilis
-      start: '00:18:23.631'
-      end: '00:18:29.283'
+      start:
+        sec: '1103.631'
+        mark: '00:18:23.631'
+      end:
+        sec: '1109.283'
+        mark: '00:18:29.283'
       u: Ähm, dann noch nicht, dann noch nicht. Aber man hat uns ver, äh, verkauft.
     - who: David Boder
-      start: '00:18:29.283'
-      end: '00:18:29.740'
+      start:
+        sec: '1109.283'
+        mark: '00:18:29.283'
+      end:
+        sec: '1109.740'
+        mark: '00:18:29.740'
       u: Ja?
     - who: Sophia Zurilis
-      start: '00:18:29.740'
-      end: '00:18:44.475'
+      start:
+        sec: '1109.740'
+        mark: '00:18:29.740'
+      end:
+        sec: '1124.475'
+        mark: '00:18:44.475'
       u: "[unverständlich] eine ganz große, ähm, Zeit man sah uns [unverständlich].
         [unverständlich] und dann wurden wir mit den [unverständlich] und manchen
         anderen Kollegen nach Rosenheim geschickt, zu der, ähm, zu dem Arbeitsamt."
     - who: David Boder
-      start: '00:18:44.475'
-      end: '00:18:51.660'
+      start:
+        sec: '1124.475'
+        mark: '00:18:44.475'
+      end:
+        sec: '1131.660'
+        mark: '00:18:51.660'
       u: "[unverständlich] geschlagen?"
     - who: Sophia Zurilis
-      start: '00:18:51.660'
-      end: '00:19:04.895'
+      start:
+        sec: '1131.660'
+        mark: '00:18:51.660'
+      end:
+        sec: '1144.895'
+        mark: '00:19:04.895'
       u: Nein, geschlagen nicht. Geschlagen nicht, aber sehr kalt.
     - who: Sophia Zurilis
-      start: '00:19:04.895'
-      end: '00:19:05.363'
+      start:
+        sec: '1144.895'
+        mark: '00:19:04.895'
+      end:
+        sec: '1145.363'
+        mark: '00:19:05.363'
       u: Ja.
     - who: David Boder
-      start: '00:19:05.363'
-      end: '00:19:07.448'
+      start:
+        sec: '1145.363'
+        mark: '00:19:05.363'
+      end:
+        sec: '1147.448'
+        mark: '00:19:07.448'
       u: Ja. Und von Dachau nach Rosenheim?
     - who: Sophia Zurilis
-      start: '00:19:07.448'
-      end: '00:19:19.809'
+      start:
+        sec: '1147.448'
+        mark: '00:19:07.448'
+      end:
+        sec: '1159.809'
+        mark: '00:19:19.809'
       u: Nach Rosenheim, und von Rosenheim aus wurden wir in dem Arbeitsamt zur Arbeit
         bestimmt. Und [unverständlich] geschickt, und dann zu dem [unverständlich]
         arbeiten in der Holzschuhfabrik dort, für, äh, fünf Stunden.
     - who: David Boder
-      start: '00:19:19.809'
-      end: '00:19:21.108'
+      start:
+        sec: '1159.809'
+        mark: '00:19:19.809'
+      end:
+        sec: '1161.108'
+        mark: '00:19:21.108'
       u: Ja. Hat man was bezahlt?
     - who: Sophia Zurilis
-      start: '00:19:21.108'
-      end: '00:19:25.022'
+      start:
+        sec: '1161.108'
+        mark: '00:19:21.108'
+      end:
+        sec: '1165.022'
+        mark: '00:19:25.022'
       u: Wir hatten da 68, äh, Pfennige pro Stunde bekommen.
     - who: David Boder
-      start: '00:19:25.022'
-      end: '00:19:26.140'
+      start:
+        sec: '1165.022'
+        mark: '00:19:25.022'
+      end:
+        sec: '1166.140'
+        mark: '00:19:26.140'
       u: Und haben wie lange...
     - who: Sophia Zurilis
-      start: '00:19:26.140'
-      end: '00:20:03.789'
+      start:
+        sec: '1166.140'
+        mark: '00:19:26.140'
+      end:
+        sec: '1203.789'
+        mark: '00:20:03.789'
       u: Und dann hab ich auch gearbeitet, in eine, äh, Bekleidungshaus, in einem,
         in einer [unverständlich], und da bekam ich auch 68 Pfennige pro Stunde. Und
         dann [unverständlich], dann hat mir gesagt das ist zuviel, ich kann soviel
         nicht arbeiten, wenn [unverständlich]. [Satz unverständlich], aber dann brachten
         sie mir [unverständlich], und, äh, da musst ich dann fünf Stunden arbeiten.
     - who: David Boder
-      start: '00:20:03.789'
-      end: '00:20:04.216'
+      start:
+        sec: '1203.789'
+        mark: '00:20:03.789'
+      end:
+        sec: '1204.216'
+        mark: '00:20:04.216'
       u: "[unverständlich]."
     - who: Sophia Zurilis
-      start: '00:20:04.216'
-      end: '00:20:16.667'
+      start:
+        sec: '1204.216'
+        mark: '00:20:04.216'
+      end:
+        sec: '1216.667'
+        mark: '00:20:16.667'
       u: Fünf Stunden. Fünf Stunden. [mehrere Sätze unverständlich].
     - who: David Boder
-      start: '00:20:16.667'
-      end: '00:20:17.425'
+      start:
+        sec: '1216.667'
+        mark: '00:20:16.667'
+      end:
+        sec: '1217.425'
+        mark: '00:20:17.425'
       u: "[unverständlich]."
     - who: Sophia Zurilis
-      start: '00:20:17.425'
-      end: '00:20:33.363'
+      start:
+        sec: '1217.425'
+        mark: '00:20:17.425'
+      end:
+        sec: '1233.363'
+        mark: '00:20:33.363'
       u: Aber, äh, ähm, aber [unverständlich], wenn wir nicht arbeiten würden, bekommen
         wir keine Karten. Und dann müssten wir [unverständlich] unser Arbeitsamt melden,
         aber [unverständlich]. [Satz unverständlich].
     - who: David Boder
-      start: '00:20:33.363'
-      end: '00:20:38.239'
+      start:
+        sec: '1233.363'
+        mark: '00:20:33.363'
+      end:
+        sec: '1238.239'
+        mark: '00:20:38.239'
       u: Aha. Und, äh, Sie, Sie waren in der [unverständlich], nicht wahr?
     - who: Sophia Zurilis
-      start: '00:20:38.239'
-      end: '00:20:39.748'
+      start:
+        sec: '1238.239'
+        mark: '00:20:38.239'
+      end:
+        sec: '1239.748'
+        mark: '00:20:39.748'
       u: Ja, [unverständlich].
     - who: David Boder
-      start: '00:20:39.748'
-      end: '00:20:41.461'
+      start:
+        sec: '1239.748'
+        mark: '00:20:39.748'
+      end:
+        sec: '1241.461'
+        mark: '00:20:41.461'
       u: Und wie leben Sie in dem Lager?
     - who: Sophia Zurilis
-      start: '00:20:41.461'
-      end: '00:20:44.437'
+      start:
+        sec: '1241.461'
+        mark: '00:20:41.461'
+      end:
+        sec: '1244.437'
+        mark: '00:20:44.437'
       u: Wohne hier im Lager Lohengrin sehr gut.
     - who: David Boder
-      start: '00:20:44.437'
-      end: '00:20:47.924'
+      start:
+        sec: '1244.437'
+        mark: '00:20:44.437'
+      end:
+        sec: '1247.924'
+        mark: '00:20:47.924'
       u: Äh, wie ist die angelegt, wie, äh, wie viel Leute leben hier [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:20:47.924'
-      end: '00:20:54.477'
+      start:
+        sec: '1247.924'
+        mark: '00:20:47.924'
+      end:
+        sec: '1254.477'
+        mark: '00:20:54.477'
       u: Wir sind in einem Zimmer vier Menschen. Ich mit meinem Sohn, dann noch eine
         [unverständlich] und eine meiner früheren Schülerinnen. Wir sind vier Menschen.
     - who: David Boder
-      start: '00:20:54.477'
-      end: '00:20:55.920'
+      start:
+        sec: '1254.477'
+        mark: '00:20:54.477'
+      end:
+        sec: '1255.920'
+        mark: '00:20:55.920'
       u: Ja, also ging‘s Ihnen [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:20:55.920'
-      end: '00:20:57.273'
+      start:
+        sec: '1255.920'
+        mark: '00:20:55.920'
+      end:
+        sec: '1257.273'
+        mark: '00:20:57.273'
       u: "[unverständlich]."
     - who: David Boder
-      start: '00:20:57.273'
-      end: '00:20:58.989'
+      start:
+        sec: '1257.273'
+        mark: '00:20:57.273'
+      end:
+        sec: '1258.989'
+        mark: '00:20:58.989'
       u: Ja. Und [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:20:58.989'
-      end: '00:21:00.510'
+      start:
+        sec: '1258.989'
+        mark: '00:20:58.989'
+      end:
+        sec: '1260.510'
+        mark: '00:21:00.510'
       u: "[unverständlich] so ein bisschen, ja."
     - who: David Boder
-      start: '00:21:00.510'
-      end: '00:21:04.439'
+      start:
+        sec: '1260.510'
+        mark: '00:21:00.510'
+      end:
+        sec: '1264.439'
+        mark: '00:21:04.439'
       u: "[unverständlich]."
     - who: Sophia Zurilis
-      start: '00:21:04.439'
-      end: '00:21:06.543'
+      start:
+        sec: '1264.439'
+        mark: '00:21:04.439'
+      end:
+        sec: '1266.543'
+        mark: '00:21:06.543'
       u: "[unverständlich]."
     - who: David Boder
-      start: '00:21:06.543'
-      end: '00:21:07.626'
+      start:
+        sec: '1266.543'
+        mark: '00:21:06.543'
+      end:
+        sec: '1267.626'
+        mark: '00:21:07.626'
       u: "[unverständlich]."
     - who: Sophia Zurilis
-      start: '00:21:07.626'
-      end: '00:21:08.474'
+      start:
+        sec: '1267.626'
+        mark: '00:21:07.626'
+      end:
+        sec: '1268.474'
+        mark: '00:21:08.474'
       u: Ja.
     - who: David Boder
-      start: '00:21:08.474'
-      end: '00:21:13.199'
+      start:
+        sec: '1268.474'
+        mark: '00:21:08.474'
+      end:
+        sec: '1273.199'
+        mark: '00:21:13.199'
       u: Nun, und, äh, was hatten Sie, wo hatten Sie [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:21:13.199'
-      end: '00:21:18.731'
+      start:
+        sec: '1273.199'
+        mark: '00:21:13.199'
+      end:
+        sec: '1278.731'
+        mark: '00:21:18.731'
       u: Ich weiß nicht. [unverständlich].
     - who: David Boder
-      start: '00:21:18.731'
-      end: '00:21:19.549'
+      start:
+        sec: '1278.731'
+        mark: '00:21:18.731'
+      end:
+        sec: '1279.549'
+        mark: '00:21:19.549'
       u: "[unverständlich]?"
     - who: Sophia Zurilis
-      start: '00:21:19.549'
-      end: '00:21:23.433'
+      start:
+        sec: '1279.549'
+        mark: '00:21:19.549'
+      end:
+        sec: '1283.433'
+        mark: '00:21:23.433'
       u: Ich weiß nicht, was [unverständlich].
     - who: David Boder
-      start: '00:21:23.433'
-      end: '00:21:28.519'
+      start:
+        sec: '1283.433'
+        mark: '00:21:23.433'
+      end:
+        sec: '1288.519'
+        mark: '00:21:28.519'
       u: Äh, sagen Sie, können Sie [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:21:28.519'
-      end: '00:21:33.449'
+      start:
+        sec: '1288.519'
+        mark: '00:21:28.519'
+      end:
+        sec: '1293.449'
+        mark: '00:21:33.449'
       u: Der Winter, der Winter, nein, der Winter wird [unverständlich].
     - who: David Boder
-      start: '00:21:33.449'
-      end: '00:21:34.110'
+      start:
+        sec: '1293.449'
+        mark: '00:21:33.449'
+      end:
+        sec: '1294.110'
+        mark: '00:21:34.110'
       u: Lettischen Gymnasium?
     - who: Sophia Zurilis
-      start: '00:21:34.110'
-      end: '00:21:35.132'
+      start:
+        sec: '1294.110'
+        mark: '00:21:34.110'
+      end:
+        sec: '1295.132'
+        mark: '00:21:35.132'
       u: Lettischen Gymnasium, ja.
     - who: David Boder
-      start: '00:21:35.132'
-      end: '00:21:37.567'
+      start:
+        sec: '1295.132'
+        mark: '00:21:35.132'
+      end:
+        sec: '1297.567'
+        mark: '00:21:37.567'
       u: Und, äh, hatten das nur [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:21:37.567'
-      end: '00:21:46.946'
+      start:
+        sec: '1297.567'
+        mark: '00:21:37.567'
+      end:
+        sec: '1306.946'
+        mark: '00:21:46.946'
       u: Nun, [einige Sätze unverständlich].
     - who: David Boder
-      start: '00:21:46.946'
-      end: '00:21:47.656'
+      start:
+        sec: '1306.946'
+        mark: '00:21:46.946'
+      end:
+        sec: '1307.656'
+        mark: '00:21:47.656'
       u: "[unverständlich]."
     - who: Sophia Zurilis
-      start: '00:21:47.656'
-      end: '00:21:48.528'
+      start:
+        sec: '1307.656'
+        mark: '00:21:47.656'
+      end:
+        sec: '1308.528'
+        mark: '00:21:48.528'
       u: "[unverständlich]."
     - who: David Boder
-      start: '00:21:48.528'
-      end: '00:21:49.701'
+      start:
+        sec: '1308.528'
+        mark: '00:21:48.528'
+      end:
+        sec: '1309.701'
+        mark: '00:21:49.701'
       u: "[unverständlich]."
     - who: Sophia Zurilis
-      start: '00:21:49.701'
-      end: '00:21:53.434'
+      start:
+        sec: '1309.701'
+        mark: '00:21:49.701'
+      end:
+        sec: '1313.434'
+        mark: '00:21:53.434'
       u: Ähm, nach wessen [unverständlich], aber nicht mit der Schule.
     - who: David Boder
-      start: '00:21:53.434'
-      end: '00:21:57.072'
+      start:
+        sec: '1313.434'
+        mark: '00:21:53.434'
+      end:
+        sec: '1317.072'
+        mark: '00:21:57.072'
       u: Und dann, was ist dann, äh, weiter geschehen, was [unverständlich]?
     - who: Sophia Zurilis
-      start: '00:21:57.072'
-      end: '00:21:57.920'
+      start:
+        sec: '1317.072'
+        mark: '00:21:57.072'
+      end:
+        sec: '1317.920'
+        mark: '00:21:57.920'
       u: "[unverständlich]."
     - who: David Boder
-      start: '00:21:57.920'
-      end: '00:21:59.339'
+      start:
+        sec: '1317.920'
+        mark: '00:21:57.920'
+      end:
+        sec: '1319.339'
+        mark: '00:21:59.339'
       u: "[unverständlich]?"
     - who: Sophia Zurilis
-      start: '00:21:59.339'
-      end: '00:22:03.133'
+      start:
+        sec: '1319.339'
+        mark: '00:21:59.339'
+      end:
+        sec: '1323.133'
+        mark: '00:22:03.133'
       u: "[unverständlich]."
     - who: David Boder
-      start: '00:22:03.133'
-      end: '00:22:17.538'
+      start:
+        sec: '1323.133'
+        mark: '00:22:03.133'
+      end:
+        sec: '1337.538'
+        mark: '00:22:17.538'
       u: "[unverständlich]."
     - who: David Boder
-      start: '00:22:17.538'
-      end: '00:22:46.498'
+      start:
+        sec: '1337.538'
+        mark: '00:22:17.538'
+      end:
+        sec: '1366.498'
+        mark: '00:22:46.498'
       u: ". . . [unverständlich]..."
     - who: Sophia Zurilis
-      start: '00:22:46.498'
-      end: '00:23:15.415'
+      start:
+        sec: '1366.498'
+        mark: '00:22:46.498'
+      end:
+        sec: '1395.415'
+        mark: '00:23:15.415'
       u: "[unverständlich]. Wir haben dann versucht [unverständlich], aber der Nachbar,
         ein Ost-[unverständlich], unser Nachbar, [unverständlich], die wollen uns
         bedrücken, und haben uns immer bedrückt, ähm, über hunderte Jahre, äh, in
         der Zelle, haben sie uns bedrückt [unverständlich]."
     - who: David Boder
-      start: '00:23:15.415'
-      end: '00:23:26.484'
+      start:
+        sec: '1395.415'
+        mark: '00:23:15.415'
+      end:
+        sec: '1406.484'
+        mark: '00:23:26.484'
       u: "[einige Sätze unverständlich]."
   translation:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:00.273'
-      end: '00:00:55.477'
+      start:
+        sec: '0.273'
+        mark: '00:00:00.273'
+      end:
+        sec: '55.477'
+        mark: '00:00:55.477'
       u: "[In English] This is spool 9-141B. Mrs. Sophia, she at the beginning refused
         to give her name and wanted to go under only under the name Sophia. But it
         seems that we later got her name as Sophia Zurilis, or Z-U-R-I-L-I-S. November
         the 7th, 1950. Boder. One should check up, maybe Zurilis is another person.
         But for the time being, we are packing away the spool."
     - who: David Boder
-      start: '00:00:55.477'
-      end: '00:01:25.692'
+      start:
+        sec: '55.477'
+        mark: '00:00:55.477'
+      end:
+        sec: '85.692'
+        mark: '00:01:25.692'
       u: Eh, München, September the 21st, 1946, at Camp Lohengrin, a displaced persons’
         camp for Baltics, Latvian, Lithuanian, and Estonian. I’m interviewing here,
         a, eh, teacher, eh, whose first name is Sophia. And, eh, that is all of the
         name that we will have in this report. Eh, eh, we will have the interview
         in German.
     - who: David Boder
-      start: '00:01:25.692'
-      end: '00:01:36.492'
+      start:
+        sec: '85.692'
+        mark: '00:01:25.692'
+      end:
+        sec: '96.492'
+        mark: '00:01:36.492'
       u: "[In German] Well, tell me, eh, madam, eh, where were you when the...Eh,
         what nationality are you?"
     - who: Sophia Zurilis
-      start: '00:01:36.492'
-      end: '00:01:37.132'
+      start:
+        sec: '96.492'
+        mark: '00:01:36.492'
+      end:
+        sec: '97.132'
+        mark: '00:01:37.132'
       u: Latvian.
     - who: David Boder
-      start: '00:01:37.132'
-      end: '00:01:38.163'
+      start:
+        sec: '97.132'
+        mark: '00:01:37.132'
+      end:
+        sec: '98.163'
+        mark: '00:01:38.163'
       u: And from where?
     - who: Sophia Zurilis
-      start: '00:01:38.163'
-      end: '00:01:39.377'
+      start:
+        sec: '98.163'
+        mark: '00:01:38.163'
+      end:
+        sec: '99.377'
+        mark: '00:01:39.377'
       u: I am Latvian.
     - who: David Boder
-      start: '00:01:39.377'
-      end: '00:01:40.715'
+      start:
+        sec: '99.377'
+        mark: '00:01:39.377'
+      end:
+        sec: '100.715'
+        mark: '00:01:40.715'
       u: You are Latvian, [unintelligible].
     - who: Sophia Zurilis
-      start: '00:01:40.715'
-      end: '00:01:43.903'
+      start:
+        sec: '100.715'
+        mark: '00:01:40.715'
+      end:
+        sec: '103.903'
+        mark: '00:01:43.903'
       u: Yes, absolutely.
     - who: Sophia Zurilis
-      start: '00:01:43.903'
-      end: '00:01:44.510'
+      start:
+        sec: '103.903'
+        mark: '00:01:43.903'
+      end:
+        sec: '104.510'
+        mark: '00:01:44.510'
       u: Latvian.
     - who: David Boder
-      start: '00:01:44.510'
-      end: '00:01:45.666'
+      start:
+        sec: '104.510'
+        mark: '00:01:44.510'
+      end:
+        sec: '105.666'
+        mark: '00:01:45.666'
       u: You are Latvian.
     - who: Sophia Zurilis
-      start: '00:01:45.666'
-      end: '00:01:46.306'
+      start:
+        sec: '105.666'
+        mark: '00:01:45.666'
+      end:
+        sec: '106.306'
+        mark: '00:01:46.306'
       u: Yes.
     - who: David Boder
-      start: '00:01:46.306'
-      end: '00:01:54.041'
+      start:
+        sec: '106.306'
+        mark: '00:01:46.306'
+      end:
+        sec: '114.041'
+        mark: '00:01:54.041'
       u: And, eh, tell me, where did you live when the Russians came back to Latvia?
     - who: Sophia Zurilis
-      start: '00:01:54.041'
-      end: '00:01:55.740'
+      start:
+        sec: '114.041'
+        mark: '00:01:54.041'
+      end:
+        sec: '115.740'
+        mark: '00:01:55.740'
       u: They came back in the year 1940.
     - who: David Boder
-      start: '00:01:55.740'
-      end: '00:01:56.350'
+      start:
+        sec: '115.740'
+        mark: '00:01:55.740'
+      end:
+        sec: '116.350'
+        mark: '00:01:56.350'
       u: Yes.
     - who: Sophia Zurilis
-      start: '00:01:56.350'
-      end: '00:01:57.930'
+      start:
+        sec: '116.350'
+        mark: '00:01:56.350'
+      end:
+        sec: '117.930'
+        mark: '00:01:57.930'
       u: I was in Riga.
     - who: David Boder
-      start: '00:01:57.930'
-      end: '00:01:58.567'
+      start:
+        sec: '117.930'
+        mark: '00:01:57.930'
+      end:
+        sec: '118.567'
+        mark: '00:01:58.567'
       u: Aha.
     - who: Sophia Zurilis
-      start: '00:01:58.567'
-      end: '00:01:58.901'
+      start:
+        sec: '118.567'
+        mark: '00:01:58.567'
+      end:
+        sec: '118.901'
+        mark: '00:01:58.901'
       u: Yes.
     - who: David Boder
-      start: '00:01:58.901'
-      end: '00:02:00.084'
+      start:
+        sec: '118.901'
+        mark: '00:01:58.901'
+      end:
+        sec: '120.084'
+        mark: '00:02:00.084'
       u: And what did you do there?
     - who: Sophia Zurilis
-      start: '00:02:00.084'
-      end: '00:02:00.873'
+      start:
+        sec: '120.084'
+        mark: '00:02:00.084'
+      end:
+        sec: '120.873'
+        mark: '00:02:00.873'
       u: At a school for girls.
     - who: David Boder
-      start: '00:02:00.873'
-      end: '00:02:16.073'
+      start:
+        sec: '120.873'
+        mark: '00:02:00.873'
+      end:
+        sec: '136.073'
+        mark: '00:02:16.073'
       u: When? Well, do you want to tell me what happened, from the year 1940 when
         the Russians came to Latvia and onwards, of the Russian occupation, the German
         occupation, how you came here to, eh, Munich?
     - who: Sophia Zurilis
-      start: '00:02:16.073'
-      end: '00:02:16.589'
+      start:
+        sec: '136.073'
+        mark: '00:02:16.073'
+      end:
+        sec: '136.589'
+        mark: '00:02:16.589'
       u: Yes.
     - who: David Boder
-      start: '00:02:16.589'
-      end: '00:02:19.079'
+      start:
+        sec: '136.589'
+        mark: '00:02:16.589'
+      end:
+        sec: '139.079'
+        mark: '00:02:19.079'
       u: Well, proceed slowly; you don’t need to [unintelligible].
     - who: Sophia Zurilis
-      start: '00:02:19.079'
-      end: '00:03:15.510'
+      start:
+        sec: '139.079'
+        mark: '00:02:19.079'
+      end:
+        sec: '195.510'
+        mark: '00:03:15.510'
       u: Yes. [unintelligible] June 17th the Bolsheviks came into the country. At
         first they appeared very inoffensive and promised us not to bring about any
         changes to our political system. Only the government had to be changed, and
@@ -1166,107 +2126,203 @@ recording:
         the, eh, Farmers and, eh, those of the farmers, they, eh, were, they were
         armed and all, and they were also instantly disestablished. All were disarmed.
     - who: David Boder
-      start: '00:03:15.510'
-      end: '00:03:18.119'
+      start:
+        sec: '195.510'
+        mark: '00:03:15.510'
+      end:
+        sec: '198.119'
+        mark: '00:03:18.119'
       u: Why did the farmers get armed? Were the farmers armed?
     - who: Sophia Zurilis
-      start: '00:03:18.119'
-      end: '00:03:24.280'
+      start:
+        sec: '198.119'
+        mark: '00:03:18.119'
+      end:
+        sec: '204.280'
+        mark: '00:03:24.280'
       u: Well, that’s some kind of a, hm, a land..., eh, a lan..., a land..., a “Landwehr”...A
         “Landwehr” roughly equals a militia.3
     - who: David Boder
-      start: '00:03:24.280'
-      end: '00:03:24.526'
+      start:
+        sec: '204.280'
+        mark: '00:03:24.280'
+      end:
+        sec: '204.526'
+        mark: '00:03:24.526'
       u: Yes.
     - who: Sophia Zurilis
-      start: '00:03:24.526'
-      end: '00:03:25.712'
+      start:
+        sec: '204.526'
+        mark: '00:03:24.526'
+      end:
+        sec: '205.712'
+        mark: '00:03:25.712'
       u: ". . . that we have."
     - who: David Boder
-      start: '00:03:25.712'
-      end: '00:03:25.955'
+      start:
+        sec: '205.712'
+        mark: '00:03:25.712'
+      end:
+        sec: '205.955'
+        mark: '00:03:25.955'
       u: Yes?
     - who: Sophia Zurilis
-      start: '00:03:25.955'
-      end: '00:03:28.172'
+      start:
+        sec: '205.955'
+        mark: '00:03:25.955'
+      end:
+        sec: '208.172'
+        mark: '00:03:28.172'
       u: A, a civilian organization, probably...
     - who: David Boder
-      start: '00:03:28.172'
-      end: '00:03:28.324'
+      start:
+        sec: '208.172'
+        mark: '00:03:28.172'
+      end:
+        sec: '208.324'
+        mark: '00:03:28.324'
       u: Yes.
     - who: Sophia Zurilis
-      start: '00:03:28.324'
-      end: '00:03:29.446'
+      start:
+        sec: '208.324'
+        mark: '00:03:28.324'
+      end:
+        sec: '209.446'
+        mark: '00:03:29.446'
       u: ". . . you could say."
     - who: David Boder
-      start: '00:03:29.446'
-      end: '00:03:32.419'
+      start:
+        sec: '209.446'
+        mark: '00:03:29.446'
+      end:
+        sec: '212.419'
+        mark: '00:03:32.419'
       u: Yes. And what happened to Ulman, the President?Karlis Ulmanis is referenced
         here.4
     - who: Sophia Zurilis
-      start: '00:03:32.419'
-      end: '00:03:36.514'
+      start:
+        sec: '212.419'
+        mark: '00:03:32.419'
+      end:
+        sec: '216.514'
+        mark: '00:03:36.514'
       u: Well, Ulman was instantly interned in his Palace.
     - who: David Boder
-      start: '00:03:36.514'
-      end: '00:03:37.212'
+      start:
+        sec: '216.514'
+        mark: '00:03:36.514'
+      end:
+        sec: '217.212'
+        mark: '00:03:37.212'
       u: Yes?
     - who: Sophia Zurilis
-      start: '00:03:37.212'
-      end: '00:03:43.312'
+      start:
+        sec: '217.212'
+        mark: '00:03:37.212'
+      end:
+        sec: '223.312'
+        mark: '00:03:43.312'
       u: And, after that, he was. . .
     - who: David Boder
-      start: '00:03:43.312'
-      end: '00:03:44.070'
+      start:
+        sec: '223.312'
+        mark: '00:03:43.312'
+      end:
+        sec: '224.070'
+        mark: '00:03:44.070'
       u: Transported?
     - who: Sophia Zurilis
-      start: '00:03:44.070'
-      end: '00:03:47.589'
+      start:
+        sec: '224.070'
+        mark: '00:03:44.070'
+      end:
+        sec: '227.589'
+        mark: '00:03:47.589'
       u: ". . . yes, transported to Moscow, as a, eh, eh, a arrested person."
     - who: David Boder
-      start: '00:03:47.589'
-      end: '00:03:47.953'
+      start:
+        sec: '227.589'
+        mark: '00:03:47.589'
+      end:
+        sec: '227.953'
+        mark: '00:03:47.953'
       u: Yes.
     - who: Sophia Zurilis
-      start: '00:03:47.953'
-      end: '00:03:48.196'
+      start:
+        sec: '227.953'
+        mark: '00:03:47.953'
+      end:
+        sec: '228.196'
+        mark: '00:03:48.196'
       u: Yes.
     - who: David Boder
-      start: '00:03:48.196'
-      end: '00:03:48.806'
+      start:
+        sec: '228.196'
+        mark: '00:03:48.196'
+      end:
+        sec: '228.806'
+        mark: '00:03:48.806'
       u: Well?
     - who: Sophia Zurilis
-      start: '00:03:48.806'
-      end: '00:04:19.900'
+      start:
+        sec: '228.806'
+        mark: '00:03:48.806'
+      end:
+        sec: '259.900'
+        mark: '00:04:19.900'
       u: Well, and then, eh, and then immediately it was noticeable in school. We
         had to adopt the communist doctrine and to [unintelligible] all of the communist,
         eh, views to the children. And also, we have to, which [unintelligible], we
         could no longer, eh, eh, teach, eh, religion and we should, we should merely,
         whenever possible, direct against something.
     - who: David Boder
-      start: '00:04:19.900'
-      end: '00:04:22.034'
+      start:
+        sec: '259.900'
+        mark: '00:04:19.900'
+      end:
+        sec: '262.034'
+        mark: '00:04:22.034'
       u: Yes. Who forced you to do that?
     - who: Sophia Zurilis
-      start: '00:04:22.034'
-      end: '00:04:25.702'
+      start:
+        sec: '262.034'
+        mark: '00:04:22.034'
+      end:
+        sec: '265.702'
+        mark: '00:04:25.702'
       u: Well, that were the instructions from the, eh, administration.
     - who: David Boder
-      start: '00:04:25.702'
-      end: '00:04:28.203'
+      start:
+        sec: '265.702'
+        mark: '00:04:25.702'
+      end:
+        sec: '268.203'
+        mark: '00:04:28.203'
       u: Were there any Latvian communists in the. . .?
     - who: Sophia Zurilis
-      start: '00:04:28.203'
-      end: '00:04:37.341'
+      start:
+        sec: '268.203'
+        mark: '00:04:28.203'
+      end:
+        sec: '277.341'
+        mark: '00:04:37.341'
       u: Yes, yes, there were Latvian communists. Latvian communists and, eh, mostly
         all came from Moscow, the, eh, instructions were from Moscow.
     - who: David Boder
-      start: '00:04:37.341'
-      end: '00:04:37.792'
+      start:
+        sec: '277.341'
+        mark: '00:04:37.341'
+      end:
+        sec: '277.792'
+        mark: '00:04:37.792'
       u: Yes?
     - who: Sophia Zurilis
-      start: '00:04:37.792'
-      end: '00:05:22.258'
+      start:
+        sec: '277.792'
+        mark: '00:04:37.792'
+      end:
+        sec: '322.258'
+        mark: '00:05:22.258'
       u: And all Latvian communists had to subject to that. That’s how it was like.
         Only then, eh, after, eh, yes, we had to change the syllabus completely, there
         were differe..., different school books immediately, in school we had to show
@@ -1277,21 +2333,37 @@ recording:
         were not allowed, eh, to talk of such things, not even in school, neither
         amongst the others.
     - who: David Boder
-      start: '00:05:22.258'
-      end: '00:05:27.158'
+      start:
+        sec: '322.258'
+        mark: '00:05:22.258'
+      end:
+        sec: '327.158'
+        mark: '00:05:27.158'
       u: And then?
     - who: Sophia Zurilis
-      start: '00:05:27.158'
-      end: '00:05:44.266'
+      start:
+        sec: '327.158'
+        mark: '00:05:27.158'
+      end:
+        sec: '344.266'
+        mark: '00:05:44.266'
       u: After that the [unintelligible] heard a lot, people were to be arrested and
         [unintelligible].
     - who: David Boder
-      start: '00:05:44.266'
-      end: '00:05:45.108'
+      start:
+        sec: '344.266'
+        mark: '00:05:44.266'
+      end:
+        sec: '345.108'
+        mark: '00:05:45.108'
       u: And well, what is with you?
     - who: Sophia Zurilis
-      start: '00:05:45.108'
-      end: '00:07:03.967'
+      start:
+        sec: '345.108'
+        mark: '00:05:45.108'
+      end:
+        sec: '423.967'
+        mark: '00:07:03.967'
       u: Well, me, me, yes, yes. Eh, well, I have to say nothing had yet happened
         to me personally. For me it was very calm at school and, eh, lonely, I also
         didn’t socialize with others and I now know that at the time of the Bolsheviks
@@ -1308,57 +2380,105 @@ recording:
         to do politically, eh, with the Bolsheviks and such, so it was that nothing
         happened to us.
     - who: David Boder
-      start: '00:07:03.967'
-      end: '00:07:05.296'
+      start:
+        sec: '423.967'
+        mark: '00:07:03.967'
+      end:
+        sec: '425.296'
+        mark: '00:07:05.296'
       u: Was your husband a painter?
     - who: Sophia Zurilis
-      start: '00:07:05.296'
-      end: '00:07:06.925'
+      start:
+        sec: '425.296'
+        mark: '00:07:05.296'
+      end:
+        sec: '426.925'
+        mark: '00:07:06.925'
       u: Yes, artist.
     - who: David Boder
-      start: '00:07:06.925'
-      end: '00:07:07.767'
+      start:
+        sec: '426.925'
+        mark: '00:07:06.925'
+      end:
+        sec: '427.767'
+        mark: '00:07:07.767'
       u: Yes, well?
     - who: Sophia Zurilis
-      start: '00:07:07.767'
-      end: '00:07:34.502'
+      start:
+        sec: '427.767'
+        mark: '00:07:07.767'
+      end:
+        sec: '454.502'
+        mark: '00:07:34.502'
       u: Well, and, eh, and so June 17th then, eh, we learnt that many people got
         arrested, and we don’t know for which reasons, that wasn’t told to us, and
         many got arrested and deported, to Siberia. Well, and I went to, eh, the beach
         with the children right after the holid..., the holidays came, and, eh, then...
     - who: David Boder
-      start: '00:07:34.502'
-      end: '00:07:36.156'
+      start:
+        sec: '454.502'
+        mark: '00:07:34.502'
+      end:
+        sec: '456.156'
+        mark: '00:07:36.156'
       u: I understand. How many children did you have?
     - who: Sophia Zurilis
-      start: '00:07:36.156'
-      end: '00:07:37.665'
+      start:
+        sec: '456.156'
+        mark: '00:07:36.156'
+      end:
+        sec: '457.665'
+        mark: '00:07:37.665'
       u: I had three children.
     - who: David Boder
-      start: '00:07:37.665'
-      end: '00:07:40.070'
+      start:
+        sec: '457.665'
+        mark: '00:07:37.665'
+      end:
+        sec: '460.070'
+        mark: '00:07:40.070'
       u: And, eh, where did you go with your...
     - who: Sophia Zurilis
-      start: '00:07:40.070'
-      end: '00:07:45.577'
+      start:
+        sec: '460.070'
+        mark: '00:07:40.070'
+      end:
+        sec: '465.577'
+        mark: '00:07:45.577'
       u: To the beach, to my villa, I had a villa...
     - who: David Boder
-      start: '00:07:45.577'
-      end: '00:07:46.148'
+      start:
+        sec: '465.577'
+        mark: '00:07:45.577'
+      end:
+        sec: '466.148'
+        mark: '00:07:46.148'
       u: Well?
     - who: Sophia Zurilis
-      start: '00:07:46.148'
-      end: '00:07:59.465'
+      start:
+        sec: '466.148'
+        mark: '00:07:46.148'
+      end:
+        sec: '479.465'
+        mark: '00:07:59.465'
       u: Well, then, eh, then, eh, then I heard, eh, that, that soon the Germans come
         and the Russians are already pulling out from Riga. And on the 21st, the Germans
         arrived...
     - who: David Boder
-      start: '00:07:59.465'
-      end: '00:08:00.283'
+      start:
+        sec: '479.465'
+        mark: '00:07:59.465'
+      end:
+        sec: '480.283'
+        mark: '00:08:00.283'
       u: Which 21st?
     - who: Sophia Zurilis
-      start: '00:08:00.283'
-      end: '00:08:37.930'
+      start:
+        sec: '480.283'
+        mark: '00:08:00.283'
+      end:
+        sec: '517.930'
+        mark: '00:08:37.930'
       u: ". . . July 21st came, eh, June 21st, excuse me, June 21st y—..., you hear
         of the Germans arriving. And on July 1st they came in along the beach and
         we were really glad to be freed from the Russians. Well, and, eh, for a, for
@@ -1366,20 +2486,36 @@ recording:
         the Germans want to suppress us just as the Russians did. Well and then, but
         in school we did not yet notice any special hint..."
     - who: David Boder
-      start: '00:08:37.930'
-      end: '00:08:39.824'
+      start:
+        sec: '517.930'
+        mark: '00:08:37.930'
+      end:
+        sec: '519.824'
+        mark: '00:08:39.824'
       u: Yes, again all, which...
     - who: Sophia Zurilis
-      start: '00:08:39.824'
-      end: '00:08:40.155'
+      start:
+        sec: '519.824'
+        mark: '00:08:39.824'
+      end:
+        sec: '520.155'
+        mark: '00:08:40.155'
       u: Yes, yes.
     - who: David Boder
-      start: '00:08:40.155'
-      end: '00:08:42.536'
+      start:
+        sec: '520.155'
+        mark: '00:08:40.155'
+      end:
+        sec: '522.536'
+        mark: '00:08:42.536'
       u: ". . . the, the wounded were let go..."
     - who: Sophia Zurilis
-      start: '00:08:42.536'
-      end: '00:09:57.132'
+      start:
+        sec: '522.536'
+        mark: '00:08:42.536'
+      end:
+        sec: '597.132'
+        mark: '00:09:57.132'
       u: "[unintelligible] we got different books, we knew by heart what we had during
         the time of Ulman, but they were completely printed anew. But they were not
         as, as, as biased as with the communists. [Longer passage unintelligible]
@@ -1393,29 +2529,53 @@ recording:
         Because, eh, the arrest was [unintelligible], that was not as big as that
         of the Bolsheviks."
     - who: David Boder
-      start: '00:09:57.132'
-      end: '00:09:58.274'
+      start:
+        sec: '597.132'
+        mark: '00:09:57.132'
+      end:
+        sec: '598.274'
+        mark: '00:09:58.274'
       u: There were fewer...
     - who: Sophia Zurilis
-      start: '00:09:58.274'
-      end: '00:09:59.116'
+      start:
+        sec: '598.274'
+        mark: '00:09:58.274'
+      end:
+        sec: '599.116'
+        mark: '00:09:59.116'
       u: Yes, yes.
     - who: David Boder
-      start: '00:09:59.116'
-      end: '00:10:02.162'
+      start:
+        sec: '599.116'
+        mark: '00:09:59.116'
+      end:
+        sec: '602.162'
+        mark: '00:10:02.162'
       u: Well, and how did the Germans behave towards the Jews?
     - who: Sophia Zurilis
-      start: '00:10:02.162'
-      end: '00:10:10.669'
+      start:
+        sec: '602.162'
+        mark: '00:10:02.162'
+      end:
+        sec: '610.669'
+        mark: '00:10:10.669'
       u: Yes, well, with the Jews, that was some kind of [unintelligible]. The Jews
         were immediately in, eh, in, in, in, how is that called...?
     - who: David Boder
-      start: '00:10:10.669'
-      end: '00:10:11.240'
+      start:
+        sec: '610.669'
+        mark: '00:10:10.669'
+      end:
+        sec: '611.240'
+        mark: '00:10:11.240'
       u: In ghettos?
     - who: Sophia Zurilis
-      start: '00:10:11.240'
-      end: '00:10:39.563'
+      start:
+        sec: '611.240'
+        mark: '00:10:11.240'
+      end:
+        sec: '639.563'
+        mark: '00:10:39.563'
       u: Yes, the Jews were immediately dr..., eh, driven to the ghetto, and then
         we heard, later we heard they were led out of the ghetto,and shot. Indeed,
         little was written in the newspapers, it was all [unintelligible], but the
@@ -1423,262 +2583,498 @@ recording:
         the Russians, eh, [unintelligible] shot the Latvians and others, the Germans
         did the...
     - who: David Boder
-      start: '00:10:39.563'
-      end: '00:10:43.802'
+      start:
+        sec: '639.563'
+        mark: '00:10:39.563'
+      end:
+        sec: '643.802'
+        mark: '00:10:43.802'
       u: Yes, and what did the Germans do to the remaining Russians, who stayed there?
     - who: Sophia Zurilis
-      start: '00:10:43.802'
-      end: '00:10:47.776'
+      start:
+        sec: '643.802'
+        mark: '00:10:43.802'
+      end:
+        sec: '647.776'
+        mark: '00:10:47.776'
       u: Well, the Russian, eh, the Russian, the communists?
     - who: David Boder
-      start: '00:10:47.776'
-      end: '00:10:49.946'
+      start:
+        sec: '647.776'
+        mark: '00:10:47.776'
+      end:
+        sec: '649.946'
+        mark: '00:10:49.946'
       u: Yes, or did they kill the Russian soldiers?
     - who: Sophia Zurilis
-      start: '00:10:49.946'
-      end: '00:10:55.958'
+      start:
+        sec: '649.946'
+        mark: '00:10:49.946'
+      end:
+        sec: '655.958'
+        mark: '00:10:55.958'
       u: Well. No, eh, soldiers, I don’t know that. But the communists, they were
         arrested. Yes.
     - who: David Boder
-      start: '00:10:55.958'
-      end: '00:11:00.588'
+      start:
+        sec: '655.958'
+        mark: '00:10:55.958'
+      end:
+        sec: '660.588'
+        mark: '00:11:00.588'
       u: Well, and what did you do, and what happened after that?
     - who: Sophia Zurilis
-      start: '00:11:00.588'
-      end: '00:11:11.055'
+      start:
+        sec: '660.588'
+        mark: '00:11:00.588'
+      end:
+        sec: '671.055'
+        mark: '00:11:11.055'
       u: Well, and then, then the front steadily closed in and then the, the Germans
         told us one would have to leave the country, Riga.
     - who: David Boder
-      start: '00:11:11.055'
-      end: '00:11:12.113'
+      start:
+        sec: '671.055'
+        mark: '00:11:11.055'
+      end:
+        sec: '672.113'
+        mark: '00:11:12.113'
       u: Who had to leave Riga?
     - who: Sophia Zurilis
-      start: '00:11:12.113'
-      end: '00:11:28.165'
+      start:
+        sec: '672.113'
+        mark: '00:11:12.113'
+      end:
+        sec: '688.165'
+        mark: '00:11:28.165'
       u: The, the population had to leave Riga. Who doesn’t want to leave Riga goes
         without food stamps [unintelligible] and without the [unintelligible] material
         and, eh, the others, eh, comes to you and you must leave.
     - who: David Boder
-      start: '00:11:28.165'
-      end: '00:11:29.247'
+      start:
+        sec: '688.165'
+        mark: '00:11:28.165'
+      end:
+        sec: '689.247'
+        mark: '00:11:29.247'
       u: Yes?
     - who: Sophia Zurilis
-      start: '00:11:29.247'
-      end: '00:11:35.199'
+      start:
+        sec: '689.247'
+        mark: '00:11:29.247'
+      end:
+        sec: '695.199'
+        mark: '00:11:35.199'
       u: And then the people were already [unintelligible] with, eh, with, eh, with
         [unintelligible]...
     - who: David Boder
-      start: '00:11:35.199'
-      end: '00:11:36.066'
+      start:
+        sec: '695.199'
+        mark: '00:11:35.199'
+      end:
+        sec: '696.066'
+        mark: '00:11:36.066'
       u: "[unintelligible]"
     - who: Sophia Zurilis
-      start: '00:11:36.066'
-      end: '00:12:06.079'
+      start:
+        sec: '696.066'
+        mark: '00:11:36.066'
+      end:
+        sec: '726.079'
+        mark: '00:12:06.079'
       u: I see. Well, me [unintelligible] I did not have to leave, I could stay. And
         I did not hesitate, and I did not hesitate, because the enemy, he came closer
         and Riga was already threatened [unintelligible] and also from, from the air,
         eh, the bombs came and, eh, and so we had to leave after all [some words unintelligible].
         And especially for my [unintelligible] the bombs were very [unintelligible].
     - who: David Boder
-      start: '00:12:06.079'
-      end: '00:12:07.342'
+      start:
+        sec: '726.079'
+        mark: '00:12:06.079'
+      end:
+        sec: '727.342'
+        mark: '00:12:07.342'
       u: Where did you live...?
     - who: Sophia Zurilis
-      start: '00:12:07.342'
-      end: '00:12:10.264'
+      start:
+        sec: '727.342'
+        mark: '00:12:07.342'
+      end:
+        sec: '730.264'
+        mark: '00:12:10.264'
       u: We lived in, eh, bunker overnight.
     - who: David Boder
-      start: '00:12:10.264'
-      end: '00:12:10.871'
+      start:
+        sec: '730.264'
+        mark: '00:12:10.264'
+      end:
+        sec: '730.871'
+        mark: '00:12:10.871'
       u: "[unintelligible]"
     - who: Sophia Zurilis
-      start: '00:12:10.871'
-      end: '00:12:24.975'
+      start:
+        sec: '730.871'
+        mark: '00:12:10.871'
+      end:
+        sec: '744.975'
+        mark: '00:12:24.975'
       u: Yes. [unintelligible] at the first [unintelligible]. And well [unintelligible]
         there was something in the newspaper again and [unintelligible] across the,
         eh, the river, and it was [unintelligible] in the newspaper...
     - who: Sophia Zurilis
-      start: '00:12:24.975'
-      end: '00:12:45.749'
+      start:
+        sec: '744.975'
+        mark: '00:12:24.975'
+      end:
+        sec: '765.749'
+        mark: '00:12:45.749'
       u: ". . . and [unintelligible] on toward the port, and from the port straight
         away into the train, and in Dachau out of the train."
     - who: David Boder
-      start: '00:12:45.749'
-      end: '00:12:46.386'
+      start:
+        sec: '765.749'
+        mark: '00:12:45.749'
+      end:
+        sec: '766.386'
+        mark: '00:12:46.386'
       u: In Dachau?
     - who: Sophia Zurilis
-      start: '00:12:46.386'
-      end: '00:12:47.078'
+      start:
+        sec: '766.386'
+        mark: '00:12:46.386'
+      end:
+        sec: '767.078'
+        mark: '00:12:47.078'
       u: Yes, in Dachau.
     - who: David Boder
-      start: '00:12:47.078'
-      end: '00:12:49.339'
+      start:
+        sec: '767.078'
+        mark: '00:12:47.078'
+      end:
+        sec: '769.339'
+        mark: '00:12:49.339'
       u: "[unintelligible]. What kind of vessel was that?"
     - who: Sophia Zurilis
-      start: '00:12:49.339'
-      end: '00:12:51.329'
+      start:
+        sec: '769.339'
+        mark: '00:12:49.339'
+      end:
+        sec: '771.329'
+        mark: '00:12:51.329'
       u: That was a Danube vessel.
     - who: David Boder
-      start: '00:12:51.329'
-      end: '00:12:52.117'
+      start:
+        sec: '771.329'
+        mark: '00:12:51.329'
+      end:
+        sec: '772.117'
+        mark: '00:12:52.117'
       u: Danube?
     - who: Sophia Zurilis
-      start: '00:12:52.117'
-      end: '00:12:53.055'
+      start:
+        sec: '772.117'
+        mark: '00:12:52.117'
+      end:
+        sec: '773.055'
+        mark: '00:12:53.055'
       u: Danube, yes.
     - who: David Boder
-      start: '00:12:53.055'
-      end: '00:12:54.504'
+      start:
+        sec: '773.055'
+        mark: '00:12:53.055'
+      end:
+        sec: '774.504'
+        mark: '00:12:54.504'
       u: Okay, was it a Russian vessel?
     - who: Sophia Zurilis
-      start: '00:12:54.504'
-      end: '00:12:59.139'
+      start:
+        sec: '774.504'
+        mark: '00:12:54.504'
+      end:
+        sec: '779.139'
+        mark: '00:12:59.139'
       u: No, that was a German vessel...
     - who: Sophia Zurilis
-      start: '00:12:59.139'
-      end: '00:13:06.835'
+      start:
+        sec: '779.139'
+        mark: '00:12:59.139'
+      end:
+        sec: '786.835'
+        mark: '00:13:06.835'
       u: ". . . with the vessels we would all be [some words unintelligible], we would
         all, eh, be brought to Dachau."
     - who: David Boder
-      start: '00:13:06.835'
-      end: '00:13:08.735'
+      start:
+        sec: '786.835'
+        mark: '00:13:06.835'
+      end:
+        sec: '788.735'
+        mark: '00:13:08.735'
       u: So, you were [unintelligible]?
     - who: Sophia Zurilis
-      start: '00:13:08.735'
-      end: '00:13:09.222'
+      start:
+        sec: '788.735'
+        mark: '00:13:08.735'
+      end:
+        sec: '789.222'
+        mark: '00:13:09.222'
       u: Yes.
     - who: David Boder
-      start: '00:13:09.222'
-      end: '00:13:11.843'
+      start:
+        sec: '789.222'
+        mark: '00:13:09.222'
+      end:
+        sec: '791.843'
+        mark: '00:13:11.843'
       u: So, you personally might [unintelligible]...
     - who: Sophia Zurilis
-      start: '00:13:11.843'
-      end: '00:13:12.647'
+      start:
+        sec: '791.843'
+        mark: '00:13:11.843'
+      end:
+        sec: '792.647'
+        mark: '00:13:12.647'
       u: Yes.
     - who: David Boder
-      start: '00:13:12.647'
-      end: '00:13:16.172'
+      start:
+        sec: '792.647'
+        mark: '00:13:12.647'
+      end:
+        sec: '796.172'
+        mark: '00:13:16.172'
       u: ". . . tell me the single stages, what did you do? Did you take your husband
         along?"
     - who: Sophia Zurilis
-      start: '00:13:16.172'
-      end: '00:13:20.026'
+      start:
+        sec: '796.172'
+        mark: '00:13:16.172'
+      end:
+        sec: '800.026'
+        mark: '00:13:20.026'
       u: No, my husband [unintelligible] in the year 1942.
     - who: David Boder
-      start: '00:13:20.026'
-      end: '00:13:21.836'
+      start:
+        sec: '800.026'
+        mark: '00:13:20.026'
+      end:
+        sec: '801.836'
+        mark: '00:13:21.836'
       u: He is [unintelligible] not amongst the bodies?
     - who: Sophia Zurilis
-      start: '00:13:21.836'
-      end: '00:13:22.684'
+      start:
+        sec: '801.836'
+        mark: '00:13:21.836'
+      end:
+        sec: '802.684'
+        mark: '00:13:22.684'
       u: Yes, yes.
     - who: David Boder
-      start: '00:13:22.684'
-      end: '00:13:24.313'
+      start:
+        sec: '802.684'
+        mark: '00:13:22.684'
+      end:
+        sec: '804.313'
+        mark: '00:13:24.313'
       u: Aha. And you took along the three children?
     - who: Sophia Zurilis
-      start: '00:13:24.313'
-      end: '00:13:36.404'
+      start:
+        sec: '804.313'
+        mark: '00:13:24.313'
+      end:
+        sec: '816.404'
+        mark: '00:13:36.404'
       u: No, I’m the only one [unintelligible], got out [unintelligible].
     - who: David Boder
-      start: '00:13:36.404'
-      end: '00:13:38.454'
+      start:
+        sec: '816.404'
+        mark: '00:13:36.404'
+      end:
+        sec: '818.454'
+        mark: '00:13:38.454'
       u: And, eh, [unintelligible] children [unintelligible]?
     - who: Sophia Zurilis
-      start: '00:13:38.454'
-      end: '00:13:49.546'
+      start:
+        sec: '818.454'
+        mark: '00:13:38.454'
+      end:
+        sec: '829.546'
+        mark: '00:13:49.546'
       u: Only the one. The other [unintelligible] only 1944, in the year 1944 on,
         eh, August 1st, yes, August 1, 1944 [unintelligible].
     - who: David Boder
-      start: '00:13:49.546'
-      end: '00:13:50.779'
+      start:
+        sec: '829.546'
+        mark: '00:13:49.546'
+      end:
+        sec: '830.779'
+        mark: '00:13:50.779'
       u: "[unintelligible]"
     - who: Sophia Zurilis
-      start: '00:13:50.779'
-      end: '00:13:56.370'
+      start:
+        sec: '830.779'
+        mark: '00:13:50.779'
+      end:
+        sec: '836.370'
+        mark: '00:13:56.370'
       u: The other is only [unintelligible].
     - who: David Boder
-      start: '00:13:56.370'
-      end: '00:14:00.501'
+      start:
+        sec: '836.370'
+        mark: '00:13:56.370'
+      end:
+        sec: '840.501'
+        mark: '00:14:00.501'
       u: Tell me now, did he [unintelligible]?
     - who: Sophia Zurilis
-      start: '00:14:00.501'
-      end: '00:14:02.772'
+      start:
+        sec: '840.501'
+        mark: '00:14:00.501'
+      end:
+        sec: '842.772'
+        mark: '00:14:02.772'
       u: No, [unintelligible] absolutely the Germans [unintelligible]...
     - who: Sophia Zurilis
-      start: '00:14:02.772'
-      end: '00:14:20.738'
+      start:
+        sec: '842.772'
+        mark: '00:14:02.772'
+      end:
+        sec: '860.738'
+        mark: '00:14:20.738'
       u: ". . . the, the Germans together were..., did not have an army, but they
         were [unintelligible] people. So [unintelligible] the son drafted and, and,
         eh, all had to be recorded, so they are not [unintelligible]."
     - who: David Boder
-      start: '00:14:20.738'
-      end: '00:14:24.982'
+      start:
+        sec: '860.738'
+        mark: '00:14:20.738'
+      end:
+        sec: '864.982'
+        mark: '00:14:24.982'
       u: Yes. Now tell me, so you have [unintelligible] a child. A boy or a girl?
     - who: Sophia Zurilis
-      start: '00:14:24.982'
-      end: '00:14:25.974'
+      start:
+        sec: '864.982'
+        mark: '00:14:24.982'
+      end:
+        sec: '865.974'
+        mark: '00:14:25.974'
       u: A boy.
     - who: David Boder
-      start: '00:14:25.974'
-      end: '00:14:27.117'
+      start:
+        sec: '865.974'
+        mark: '00:14:25.974'
+      end:
+        sec: '867.117'
+        mark: '00:14:27.117'
       u: Yes, and then?
     - who: Sophia Zurilis
-      start: '00:14:27.117'
-      end: '00:14:28.295'
+      start:
+        sec: '867.117'
+        mark: '00:14:27.117'
+      end:
+        sec: '868.295'
+        mark: '00:14:28.295'
       u: "[unintelligible]."
     - who: David Boder
-      start: '00:14:28.295'
-      end: '00:14:30.941'
+      start:
+        sec: '868.295'
+        mark: '00:14:28.295'
+      end:
+        sec: '870.941'
+        mark: '00:14:30.941'
       u: "[unintelligible]?"
     - who: Sophia Zurilis
-      start: '00:14:30.941'
-      end: '00:14:31.729'
+      start:
+        sec: '870.941'
+        mark: '00:14:30.941'
+      end:
+        sec: '871.729'
+        mark: '00:14:31.729'
       u: Yes.
     - who: David Boder
-      start: '00:14:31.729'
-      end: '00:14:32.967'
+      start:
+        sec: '871.729'
+        mark: '00:14:31.729'
+      end:
+        sec: '872.967'
+        mark: '00:14:32.967'
       u: Alone, with an infant?
     - who: Sophia Zurilis
-      start: '00:14:32.967'
-      end: '00:14:34.711'
+      start:
+        sec: '872.967'
+        mark: '00:14:32.967'
+      end:
+        sec: '874.711'
+        mark: '00:14:34.711'
       u: "[unintelligible]."
     - who: David Boder
-      start: '00:14:34.711'
-      end: '00:14:35.949'
+      start:
+        sec: '874.711'
+        mark: '00:14:34.711'
+      end:
+        sec: '875.949'
+        mark: '00:14:35.949'
       u: "[unintelligible] you got picked up?"
     - who: Sophia Zurilis
-      start: '00:14:35.949'
-      end: '00:14:44.186'
+      start:
+        sec: '875.949'
+        mark: '00:14:35.949'
+      end:
+        sec: '884.186'
+        mark: '00:14:44.186'
       u: No [unintelligible / both speaking at once]. [unintelligible] all had to
         be evacuated, otherwise they would not [unintelligible] life.
     - who: David Boder
-      start: '00:14:44.186'
-      end: '00:14:45.869'
+      start:
+        sec: '884.186'
+        mark: '00:14:44.186'
+      end:
+        sec: '885.869'
+        mark: '00:14:45.869'
       u: And you don’t have any other things?
     - who: Sophia Zurilis
-      start: '00:14:45.869'
-      end: '00:14:54.406'
+      start:
+        sec: '885.869'
+        mark: '00:14:45.869'
+      end:
+        sec: '894.406'
+        mark: '00:14:54.406'
       u: Well, concerning things, I only took some soap along. [unintelligible] to
         decide what to take along and, eh, [unintelligible].
     - who: David Boder
-      start: '00:14:54.406'
-      end: '00:14:55.909'
+      start:
+        sec: '894.406'
+        mark: '00:14:54.406'
+      end:
+        sec: '895.909'
+        mark: '00:14:55.909'
       u: And your children [unintelligible]?
     - who: Sophia Zurilis
-      start: '00:14:55.909'
-      end: '00:15:20.695'
+      start:
+        sec: '895.909'
+        mark: '00:14:55.909'
+      end:
+        sec: '920.695'
+        mark: '00:15:20.695'
       u: Everything, everything remained there. I could only take the things that
         I have for [unintelligible]. And [unintelligible], so I forgot, I was absolutely,
         eh, absolutely shattered, I was [unintelligible], I did not know what to do,
         what shall I do, [whole sentence unintelligible], that I did.
     - who: David Boder
-      start: '00:15:20.695'
-      end: '00:15:22.559'
+      start:
+        sec: '920.695'
+        mark: '00:15:20.695'
+      end:
+        sec: '922.559'
+        mark: '00:15:22.559'
       u: And you came to [unintelligible].
     - who: Sophia Zurilis
-      start: '00:15:22.559'
-      end: '00:15:55.631'
+      start:
+        sec: '922.559'
+        mark: '00:15:22.559'
+      end:
+        sec: '955.631'
+        mark: '00:15:55.631'
       u: 'That [unintelligible] said. Oh, I see, from Riga we were, yes, then we thought
         like this: at first it was discussed that one should hide to [unintelligible],
         and then, eh, [unintelligible] a big front [unintelligible] to Finland. And
@@ -1686,367 +3082,707 @@ recording:
         halt in [unintelligible], where we thought it would, but it goes on like that,
         and then to the port in [unintelligible], and then we saw that there we [unintelligible].'
     - who: David Boder
-      start: '00:15:55.631'
-      end: '00:15:59.605'
+      start:
+        sec: '955.631'
+        mark: '00:15:55.631'
+      end:
+        sec: '959.605'
+        mark: '00:15:59.605'
       u: So, how many did...how many did take the boat, how many people did...
     - who: Sophia Zurilis
-      start: '00:15:59.605'
-      end: '00:16:05.743'
+      start:
+        sec: '959.605'
+        mark: '00:15:59.605'
+      end:
+        sec: '965.743'
+        mark: '00:16:05.743'
       u: Well, we were 4000 peo..., 4000 people. There were [unintelligible] and people,
         all together.
     - who: David Boder
-      start: '00:16:05.743'
-      end: '00:16:07.727'
+      start:
+        sec: '965.743'
+        mark: '00:16:05.743'
+      end:
+        sec: '967.727'
+        mark: '00:16:07.727'
       u: Well, how big was the boat?
     - who: Sophia Zurilis
-      start: '00:16:07.727'
-      end: '00:16:12.146'
+      start:
+        sec: '967.727'
+        mark: '00:16:07.727'
+      end:
+        sec: '972.146'
+        mark: '00:16:12.146'
       u: Oh, I don’t know how big, but we were very many, 4000 people.
     - who: David Boder
-      start: '00:16:12.146'
-      end: '00:16:13.499'
+      start:
+        sec: '972.146'
+        mark: '00:16:12.146'
+      end:
+        sec: '973.499'
+        mark: '00:16:13.499'
       u: Did you have beds to sleep in?
     - who: Sophia Zurilis
-      start: '00:16:13.499'
-      end: '00:16:32.328'
+      start:
+        sec: '973.499'
+        mark: '00:16:13.499'
+      end:
+        sec: '992.328'
+        mark: '00:16:32.328'
       u: No, no beds, we were all in a bunch that was together. [unintelligible] we
         must both stay overnight with my son. [unintelligible] more than 50 people
         and [unintelligible].
     - who: David Boder
-      start: '00:16:32.328'
-      end: '00:16:33.741'
+      start:
+        sec: '992.328'
+        mark: '00:16:32.328'
+      end:
+        sec: '993.741'
+        mark: '00:16:33.741'
       u: And your husband did [unintelligible]?
     - who: Sophia Zurilis
-      start: '00:16:33.741'
-      end: '00:16:37.709'
+      start:
+        sec: '993.741'
+        mark: '00:16:33.741'
+      end:
+        sec: '997.709'
+        mark: '00:16:37.709'
       u: "[unintelligible]."
     - who: David Boder
-      start: '00:16:37.709'
-      end: '00:16:41.256'
+      start:
+        sec: '997.709'
+        mark: '00:16:37.709'
+      end:
+        sec: '1001.256'
+        mark: '00:16:41.256'
       u: Well, and then [unintelligible]?
     - who: Sophia Zurilis
-      start: '00:16:41.256'
-      end: '00:16:42.098'
+      start:
+        sec: '1001.256'
+        mark: '00:16:41.256'
+      end:
+        sec: '1002.098'
+        mark: '00:16:42.098'
       u: Yes, yes. And then...
     - who: David Boder
-      start: '00:16:42.098'
-      end: '00:16:43.487'
+      start:
+        sec: '1002.098'
+        mark: '00:16:42.098'
+      end:
+        sec: '1003.487'
+        mark: '00:16:43.487'
       u: "[unintelligible]."
     - who: Sophia Zurilis
-      start: '00:16:43.487'
-      end: '00:16:52.301'
+      start:
+        sec: '1003.487'
+        mark: '00:16:43.487'
+      end:
+        sec: '1012.301'
+        mark: '00:16:52.301'
       u: Well, I don’t know, we were around twenty, forty [some words unintelligible].
     - who: David Boder
-      start: '00:16:52.301'
-      end: '00:16:53.269'
+      start:
+        sec: '1012.301'
+        mark: '00:16:52.301'
+      end:
+        sec: '1013.269'
+        mark: '00:16:53.269'
       u: And?
     - who: Sophia Zurilis
-      start: '00:16:53.269'
-      end: '00:16:54.267'
+      start:
+        sec: '1013.269'
+        mark: '00:16:53.269'
+      end:
+        sec: '1014.267'
+        mark: '00:16:54.267'
       u: And then...
     - who: David Boder
-      start: '00:16:54.267'
-      end: '00:16:55.175'
+      start:
+        sec: '1014.267'
+        mark: '00:16:54.267'
+      end:
+        sec: '1015.175'
+        mark: '00:16:55.175'
       u: You came to Dachau?
     - who: Sophia Zurilis
-      start: '00:16:55.175'
-      end: '00:16:57.977'
+      start:
+        sec: '1015.175'
+        mark: '00:16:55.175'
+      end:
+        sec: '1017.977'
+        mark: '00:16:57.977'
       u: Yes, that [unintelligible], came to Dachau.
     - who: David Boder
-      start: '00:16:57.977'
-      end: '00:16:59.636'
+      start:
+        sec: '1017.977'
+        mark: '00:16:57.977'
+      end:
+        sec: '1019.636'
+        mark: '00:16:59.636'
       u: "[unintelligible]?"
     - who: Sophia Zurilis
-      start: '00:16:59.636'
-      end: '00:17:27.345'
+      start:
+        sec: '1019.636'
+        mark: '00:16:59.636'
+      end:
+        sec: '1047.345'
+        mark: '00:17:27.345'
       u: Well, Dachau, that was a transit camp. [unintelligible] was a transit camp,
         and in the transit camp we were for five weeks. The food there was not all
         that bad. They had a little butter and, eh, eh, [unintelligible] and paste
         and, yes, paste, and, eh, eh, bread. [unintelligible] for dinner and for breakfast.
     - who: David Boder
-      start: '00:17:27.345'
-      end: '00:17:31.163'
+      start:
+        sec: '1047.345'
+        mark: '00:17:27.345'
+      end:
+        sec: '1051.163'
+        mark: '00:17:31.163'
       u: And how did you [unintelligible] with water?
     - who: Sophia Zurilis
-      start: '00:17:31.163'
-      end: '00:17:45.357'
+      start:
+        sec: '1051.163'
+        mark: '00:17:31.163'
+      end:
+        sec: '1065.357'
+        mark: '00:17:45.357'
       u: "[unintelligible] at first in Dachau [some sentences unintelligible]..."
     - who: David Boder
-      start: '00:17:45.357'
-      end: '00:17:45.688'
+      start:
+        sec: '1065.357'
+        mark: '00:17:45.357'
+      end:
+        sec: '1065.688'
+        mark: '00:17:45.688'
       u: Yes.
     - who: Sophia Zurilis
-      start: '00:17:45.688'
-      end: '00:17:47.792'
+      start:
+        sec: '1065.688'
+        mark: '00:17:45.688'
+      end:
+        sec: '1067.792'
+        mark: '00:17:47.792'
       u: ". . . [unintelligible]."
     - who: David Boder
-      start: '00:17:47.792'
-      end: '00:17:48.183'
+      start:
+        sec: '1067.792'
+        mark: '00:17:47.792'
+      end:
+        sec: '1068.183'
+        mark: '00:17:48.183'
       u: Yes.
     - who: Sophia Zurilis
-      start: '00:17:48.183'
-      end: '00:17:49.055'
+      start:
+        sec: '1068.183'
+        mark: '00:17:48.183'
+      end:
+        sec: '1069.055'
+        mark: '00:17:49.055'
       u: "[unintelligible]."
     - who: David Boder
-      start: '00:17:49.055'
-      end: '00:17:50.384'
+      start:
+        sec: '1069.055'
+        mark: '00:17:49.055'
+      end:
+        sec: '1070.384'
+        mark: '00:17:50.384'
       u: "[unintelligible]."
     - who: Sophia Zurilis
-      start: '00:17:50.384'
-      end: '00:17:52.945'
+      start:
+        sec: '1070.384'
+        mark: '00:17:50.384'
+      end:
+        sec: '1072.945'
+        mark: '00:17:52.945'
       u: And then [unintelligible] by [unintelligible].
     - who: David Boder
-      start: '00:17:52.945'
-      end: '00:17:54.298'
+      start:
+        sec: '1072.945'
+        mark: '00:17:52.945'
+      end:
+        sec: '1074.298'
+        mark: '00:17:54.298'
       u: Only until [unintelligible]?
     - who: Sophia Zurilis
-      start: '00:17:54.298'
-      end: '00:17:55.416'
+      start:
+        sec: '1074.298'
+        mark: '00:17:54.298'
+      end:
+        sec: '1075.416'
+        mark: '00:17:55.416'
       u: Yes, from...
     - who: David Boder
-      start: '00:17:55.416'
-      end: '00:17:56.679'
+      start:
+        sec: '1075.416'
+        mark: '00:17:55.416'
+      end:
+        sec: '1076.679'
+        mark: '00:17:56.679'
       u: "[unintelligible]."
     - who: Sophia Zurilis
-      start: '00:17:56.679'
-      end: '00:18:19.651'
+      start:
+        sec: '1076.679'
+        mark: '00:17:56.679'
+      end:
+        sec: '1099.651'
+        mark: '00:18:19.651'
       u: "[unintelligible]. Well, then we had the, the terraces there, and in between
         a terrace [unintelligible], and there was also [unintelligible], and all was
         [unintelligible], and there we had to sleep on a cot, on, eh, two places three
         people had to sleep."
     - who: David Boder
-      start: '00:18:19.651'
-      end: '00:18:20.318'
+      start:
+        sec: '1099.651'
+        mark: '00:18:19.651'
+      end:
+        sec: '1100.318'
+        mark: '00:18:20.318'
       u: Aha.
     - who: Sophia Zurilis
-      start: '00:18:20.318'
-      end: '00:18:22.032'
+      start:
+        sec: '1100.318'
+        mark: '00:18:20.318'
+      end:
+        sec: '1102.032'
+        mark: '00:18:22.032'
       u: And [unintelligible]. well...
     - who: David Boder
-      start: '00:18:22.032'
-      end: '00:18:23.631'
+      start:
+        sec: '1102.032'
+        mark: '00:18:22.032'
+      end:
+        sec: '1103.631'
+        mark: '00:18:23.631'
       u: "[unintelligible]?"
     - who: Sophia Zurilis
-      start: '00:18:23.631'
-      end: '00:18:29.283'
+      start:
+        sec: '1103.631'
+        mark: '00:18:23.631'
+      end:
+        sec: '1109.283'
+        mark: '00:18:29.283'
       u: Eh, not yet, not yet. But they betr..., eh, betrayed us.
     - who: David Boder
-      start: '00:18:29.283'
-      end: '00:18:29.740'
+      start:
+        sec: '1109.283'
+        mark: '00:18:29.283'
+      end:
+        sec: '1109.740'
+        mark: '00:18:29.740'
       u: Yes?
     - who: Sophia Zurilis
-      start: '00:18:29.740'
-      end: '00:18:44.475'
+      start:
+        sec: '1109.740'
+        mark: '00:18:29.740'
+      end:
+        sec: '1124.475'
+        mark: '00:18:44.475'
       u: "[unintelligible] a very big, eh, time they saw us [unintelligible]. [unintelligible]
         and then we were sent to Rosenheim with the [unintelligible] and some other
         fellows to the, eh, to the job center."
     - who: David Boder
-      start: '00:18:44.475'
-      end: '00:18:51.660'
+      start:
+        sec: '1124.475'
+        mark: '00:18:44.475'
+      end:
+        sec: '1131.660'
+        mark: '00:18:51.660'
       u: "[unintelligible] beaten?"
     - who: Sophia Zurilis
-      start: '00:18:51.660'
-      end: '00:19:05.363'
+      start:
+        sec: '1131.660'
+        mark: '00:18:51.660'
+      end:
+        sec: '1145.363'
+        mark: '00:19:05.363'
       u: No, not beaten. Not beaten, but very cold.
     - who: Sophia Zurilis
-      start: '00:19:05.363'
-      end: '00:19:05.363'
+      start:
+        sec: '1145.363'
+        mark: '00:19:05.363'
+      end:
+        sec: '1145.363'
+        mark: '00:19:05.363'
       u: Yes.
     - who: David Boder
-      start: '00:19:05.363'
-      end: '00:19:07.448'
+      start:
+        sec: '1145.363'
+        mark: '00:19:05.363'
+      end:
+        sec: '1147.448'
+        mark: '00:19:07.448'
       u: Yes. And from Dachau to Rosenheim?
     - who: Sophia Zurilis
-      start: '00:19:07.448'
-      end: '00:19:19.809'
+      start:
+        sec: '1147.448'
+        mark: '00:19:07.448'
+      end:
+        sec: '1159.809'
+        mark: '00:19:19.809'
       u: To Rosenheim, and from Rosenheim we were assigned to work in the job center.
         And sent [unintelligible], and then to the [unintelligible] working in the
         clog factory there for, eh, five hours.
     - who: David Boder
-      start: '00:19:19.809'
-      end: '00:19:21.108'
+      start:
+        sec: '1159.809'
+        mark: '00:19:19.809'
+      end:
+        sec: '1161.108'
+        mark: '00:19:21.108'
       u: Yes. Were you paid?
     - who: Sophia Zurilis
-      start: '00:19:21.108'
-      end: '00:19:25.020'
+      start:
+        sec: '1161.108'
+        mark: '00:19:21.108'
+      end:
+        sec: '1165.02'
+        mark: '00:19:25.020'
       u: We got 68, eh, “pfennig” an hour.Pfennig used to be the smallest unit of
         German currency.5
     - who: David Boder
-      start: '00:19:25.020'
-      end: '00:19:26.140'
+      start:
+        sec: '1165.02'
+        mark: '00:19:25.020'
+      end:
+        sec: '1166.140'
+        mark: '00:19:26.140'
       u: And how long...?
     - who: Sophia Zurilis
-      start: '00:19:26.140'
-      end: '00:20:03.789'
+      start:
+        sec: '1166.140'
+        mark: '00:19:26.140'
+      end:
+        sec: '1203.789'
+        mark: '00:20:03.789'
       u: And then I also worked in a, eh, clothing store, in a, in a [unintelligible],
         and there I also got 68 pfennig an hour. And then [unintelligible], then I
         was told that it’s too much, I can not work that much when [unintelligible].
         [Phrase unintelligible], and, eh, there I had to work for five hours.
     - who: David Boder
-      start: '00:20:03.789'
-      end: '00:20:04.216'
+      start:
+        sec: '1203.789'
+        mark: '00:20:03.789'
+      end:
+        sec: '1204.216'
+        mark: '00:20:04.216'
       u: "[unintelligible]."
     - who: Sophia Zurilis
-      start: '00:20:04.216'
-      end: '00:20:16.667'
+      start:
+        sec: '1204.216'
+        mark: '00:20:04.216'
+      end:
+        sec: '1216.667'
+        mark: '00:20:16.667'
       u: Five hours. Five hours. [several sentences unintelligible].
     - who: David Boder
-      start: '00:20:16.667'
-      end: '00:20:17.425'
+      start:
+        sec: '1216.667'
+        mark: '00:20:16.667'
+      end:
+        sec: '1217.425'
+        mark: '00:20:17.425'
       u: "[unintelligible]."
     - who: Sophia Zurilis
-      start: '00:20:17.425'
-      end: '00:20:33.363'
+      start:
+        sec: '1217.425'
+        mark: '00:20:17.425'
+      end:
+        sec: '1233.363'
+        mark: '00:20:33.363'
       u: But, eh, eh, but [unintelligible], when we wouldn’t work we wouldn’t receive
         food stamps. And then we would have to [unintelligible] report our job center,
         but [unintelligible]. [Full sentence unintelligible].
     - who: David Boder
-      start: '00:20:33.363'
-      end: '00:20:38.239'
+      start:
+        sec: '1233.363'
+        mark: '00:20:33.363'
+      end:
+        sec: '1238.239'
+        mark: '00:20:38.239'
       u: Aha. And, eh, you were in the [unintelligible], right?
     - who: Sophia Zurilis
-      start: '00:20:38.239'
-      end: '00:20:39.748'
+      start:
+        sec: '1238.239'
+        mark: '00:20:38.239'
+      end:
+        sec: '1239.748'
+        mark: '00:20:39.748'
       u: Yes, [unintelligible].
     - who: David Boder
-      start: '00:20:39.748'
-      end: '00:20:41.461'
+      start:
+        sec: '1239.748'
+        mark: '00:20:39.748'
+      end:
+        sec: '1241.461'
+        mark: '00:20:41.461'
       u: And how are you living in this camp?
     - who: Sophia Zurilis
-      start: '00:20:41.461'
-      end: '00:20:44.437'
+      start:
+        sec: '1241.461'
+        mark: '00:20:41.461'
+      end:
+        sec: '1244.437'
+        mark: '00:20:44.437'
       u: Living very well here in Camp Lohengrin.
     - who: David Boder
-      start: '00:20:44.437'
-      end: '00:20:47.924'
+      start:
+        sec: '1244.437'
+        mark: '00:20:44.437'
+      end:
+        sec: '1247.924'
+        mark: '00:20:47.924'
       u: Eh, how is it constructed, how, eh, how many people are living here [unintelligible]?
     - who: Sophia Zurilis
-      start: '00:20:47.924'
-      end: '00:20:54.477'
+      start:
+        sec: '1247.924'
+        mark: '00:20:47.924'
+      end:
+        sec: '1254.477'
+        mark: '00:20:54.477'
       u: We are four persons in a room. Me and my son, then another [unintelligible]
         and one of my former pupils. We are four people.
     - who: David Boder
-      start: '00:20:54.477'
-      end: '00:20:55.920'
+      start:
+        sec: '1254.477'
+        mark: '00:20:54.477'
+      end:
+        sec: '1255.920'
+        mark: '00:20:55.920'
       u: Yes, so you were [unintelligible]?
     - who: Sophia Zurilis
-      start: '00:20:55.920'
-      end: '00:20:57.273'
+      start:
+        sec: '1255.920'
+        mark: '00:20:55.920'
+      end:
+        sec: '1257.273'
+        mark: '00:20:57.273'
       u: "[unintelligible]"
     - who: David Boder
-      start: '00:20:57.273'
-      end: '00:20:58.989'
+      start:
+        sec: '1257.273'
+        mark: '00:20:57.273'
+      end:
+        sec: '1258.989'
+        mark: '00:20:58.989'
       u: Yes. And [unintelligible]?
     - who: Sophia Zurilis
-      start: '00:20:58.989'
-      end: '00:21:00.510'
+      start:
+        sec: '1258.989'
+        mark: '00:20:58.989'
+      end:
+        sec: '1260.510'
+        mark: '00:21:00.510'
       u: "[unintelligible] a bit, yes."
     - who: David Boder
-      start: '00:21:00.510'
-      end: '00:21:04.439'
+      start:
+        sec: '1260.510'
+        mark: '00:21:00.510'
+      end:
+        sec: '1264.439'
+        mark: '00:21:04.439'
       u: "[unintelligible]."
     - who: Sophia Zurilis
-      start: '00:21:04.439'
-      end: '00:21:06.543'
+      start:
+        sec: '1264.439'
+        mark: '00:21:04.439'
+      end:
+        sec: '1266.543'
+        mark: '00:21:06.543'
       u: "[unintelligible]."
     - who: David Boder
-      start: '00:21:06.543'
-      end: '00:21:07.626'
+      start:
+        sec: '1266.543'
+        mark: '00:21:06.543'
+      end:
+        sec: '1267.626'
+        mark: '00:21:07.626'
       u: "[unintelligible]."
     - who: Sophia Zurilis
-      start: '00:21:07.626'
-      end: '00:21:08.474'
+      start:
+        sec: '1267.626'
+        mark: '00:21:07.626'
+      end:
+        sec: '1268.474'
+        mark: '00:21:08.474'
       u: Yes.
     - who: David Boder
-      start: '00:21:08.474'
-      end: '00:21:13.199'
+      start:
+        sec: '1268.474'
+        mark: '00:21:08.474'
+      end:
+        sec: '1273.199'
+        mark: '00:21:13.199'
       u: Well, and, eh, what did you have, where did you have [unintelligible]?
     - who: Sophia Zurilis
-      start: '00:21:13.199'
-      end: '00:21:18.731'
+      start:
+        sec: '1273.199'
+        mark: '00:21:13.199'
+      end:
+        sec: '1278.731'
+        mark: '00:21:18.731'
       u: I don’t know. [unintelligible].
     - who: David Boder
-      start: '00:21:18.731'
-      end: '00:21:19.549'
+      start:
+        sec: '1278.731'
+        mark: '00:21:18.731'
+      end:
+        sec: '1279.549'
+        mark: '00:21:19.549'
       u: "[unintelligible]?"
     - who: Sophia Zurilis
-      start: '00:21:19.549'
-      end: '00:21:23.433'
+      start:
+        sec: '1279.549'
+        mark: '00:21:19.549'
+      end:
+        sec: '1283.433'
+        mark: '00:21:23.433'
       u: I don’t know what [unintelligible].
     - who: David Boder
-      start: '00:21:23.433'
-      end: '00:21:28.519'
+      start:
+        sec: '1283.433'
+        mark: '00:21:23.433'
+      end:
+        sec: '1288.519'
+        mark: '00:21:28.519'
       u: Eh, tell me, can you [unintelligible]?
     - who: Sophia Zurilis
-      start: '00:21:28.519'
-      end: '00:21:33.449'
+      start:
+        sec: '1288.519'
+        mark: '00:21:28.519'
+      end:
+        sec: '1293.449'
+        mark: '00:21:33.449'
       u: The winter, the winter, no, the winter will [unintelligible].
     - who: David Boder
-      start: '00:21:33.449'
-      end: '00:21:34.110'
+      start:
+        sec: '1293.449'
+        mark: '00:21:33.449'
+      end:
+        sec: '1294.110'
+        mark: '00:21:34.110'
       u: Latvian Gymnasium?
     - who: Sophia Zurilis
-      start: '00:21:34.110'
-      end: '00:21:35.132'
+      start:
+        sec: '1294.110'
+        mark: '00:21:34.110'
+      end:
+        sec: '1295.132'
+        mark: '00:21:35.132'
       u: Latvian Gymnasium, yes.
     - who: David Boder
-      start: '00:21:35.132'
-      end: '00:21:37.567'
+      start:
+        sec: '1295.132'
+        mark: '00:21:35.132'
+      end:
+        sec: '1297.567'
+        mark: '00:21:37.567'
       u: And, eh, did it have [unintelligible]?
     - who: Sophia Zurilis
-      start: '00:21:37.567'
-      end: '00:21:46.946'
+      start:
+        sec: '1297.567'
+        mark: '00:21:37.567'
+      end:
+        sec: '1306.946'
+        mark: '00:21:46.946'
       u: Well, [some sentences unintelligible].
     - who: David Boder
-      start: '00:21:46.946'
-      end: '00:21:47.656'
+      start:
+        sec: '1306.946'
+        mark: '00:21:46.946'
+      end:
+        sec: '1307.656'
+        mark: '00:21:47.656'
       u: "[unintelligible]."
     - who: Sophia Zurilis
-      start: '00:21:47.656'
-      end: '00:21:48.528'
+      start:
+        sec: '1307.656'
+        mark: '00:21:47.656'
+      end:
+        sec: '1308.528'
+        mark: '00:21:48.528'
       u: "[unintelligible]."
     - who: David Boder
-      start: '00:21:48.528'
-      end: '00:21:49.701'
+      start:
+        sec: '1308.528'
+        mark: '00:21:48.528'
+      end:
+        sec: '1309.701'
+        mark: '00:21:49.701'
       u: "[unintelligible]."
     - who: Sophia Zurilis
-      start: '00:21:49.701'
-      end: '00:21:53.434'
+      start:
+        sec: '1309.701'
+        mark: '00:21:49.701'
+      end:
+        sec: '1313.434'
+        mark: '00:21:53.434'
       u: Eh, whose [unintelligible], but not with the school.
     - who: David Boder
-      start: '00:21:53.434'
-      end: '00:21:57.072'
+      start:
+        sec: '1313.434'
+        mark: '00:21:53.434'
+      end:
+        sec: '1317.072'
+        mark: '00:21:57.072'
       u: And then, what happened, eh, then, what [unintelligible].
     - who: Sophia Zurilis
-      start: '00:21:57.072'
-      end: '00:21:57.920'
+      start:
+        sec: '1317.072'
+        mark: '00:21:57.072'
+      end:
+        sec: '1317.920'
+        mark: '00:21:57.920'
       u: "[unintelligible]."
     - who: David Boder
-      start: '00:21:57.920'
-      end: '00:21:59.339'
+      start:
+        sec: '1317.920'
+        mark: '00:21:57.920'
+      end:
+        sec: '1319.339'
+        mark: '00:21:59.339'
       u: "[unintelligible]."
     - who: Sophia Zurilis
-      start: '00:21:59.339'
-      end: '00:22:03.133'
+      start:
+        sec: '1319.339'
+        mark: '00:21:59.339'
+      end:
+        sec: '1323.133'
+        mark: '00:22:03.133'
       u: "[unintelligible]."
     - who: David Boder
-      start: '00:22:03.133'
-      end: '00:22:17.538'
+      start:
+        sec: '1323.133'
+        mark: '00:22:03.133'
+      end:
+        sec: '1337.538'
+        mark: '00:22:17.538'
       u: "[unintelligible]..."
     - who: David Boder
-      start: '00:22:17.538'
-      end: '00:22:46.498'
+      start:
+        sec: '1337.538'
+        mark: '00:22:17.538'
+      end:
+        sec: '1366.498'
+        mark: '00:22:46.498'
       u: ". . . [some sentences unintelligible]..."
     - who: Sophia Zurilis
-      start: '00:22:46.498'
-      end: '00:23:15.415'
+      start:
+        sec: '1366.498'
+        mark: '00:22:46.498'
+      end:
+        sec: '1395.415'
+        mark: '00:23:15.415'
       u: "[unintelligible]. We then tried to [unintelligible], but the neighbor, an
         Eastern [unintelligible], our neighbor, [unintelligible], they want to oppress
         us, and have always oppressed us, eh, for hundreds of years, eh, in the cell,
         they oppressed us [unintelligible]."
     - who: David Boder
-      start: '00:23:15.415'
-      end: '00:23:26.484'
+      start:
+        sec: '1395.415'
+        mark: '00:23:15.415'
+      end:
+        sec: '1406.484'
+        mark: '00:23:26.484'
       u: "[some sentences unintelligible]. [spool stops]"
   commentary:
     text: none

@@ -46,38 +46,62 @@ recording:
     language: de
     interview:
     - who: David Boder
-      start: '00:00:00.849'
-      end: '00:00:39.408'
+      start:
+        sec: '0.849'
+        mark: '00:00:00.849'
+      end:
+        sec: '39.408'
+        mark: '00:00:39.408'
       u: "[In English] This is Spool 9-144B - the interview features Alfonsas Paulus
         or Paulis - this section was separated from Spool 144A, which contains the
         interview with Father Johan Kharchenko. This is Spool 9-144B Alfonsas Paulis,
         November the 9th, 1950, Boder."
     - who: David Boder
-      start: '00:00:39.408'
-      end: '00:01:16.608'
+      start:
+        sec: '39.408'
+        mark: '00:00:39.408'
+      end:
+        sec: '76.608'
+        mark: '00:01:16.608'
       u: 20th September, 1946 at the Baltic camp at Lohengrinstrasse. The interview
         is the same that we started at Spool 143. Alfonsas Paulis, who was kind enough
         to relinquish his turn to the parson of the Greek Orthodoxian Church Johan
         Kharchenko. We are now returning to the interview of Mr. Alfonsas Paulis who
         is going to talk Lithuanian.
     - who: David Boder
-      start: '00:01:16.608'
-      end: '00:01:31.466'
+      start:
+        sec: '76.608'
+        mark: '00:01:16.608'
+      end:
+        sec: '91.466'
+        mark: '00:01:31.466'
       u: "[In German] Äh, noch mal also—jetzt sagen Sie, was hat Ihnen passiert von
         Neuem, wenn die Sowjets nach Litauen gekommen sind? Wo haben Sie gelebt und
         was hat Ihnen passiert? Wie alt sind Sie, Herr Paulis? Wie alt sind Sie?"
     - who: Alfonsas Paulis
-      start: '00:01:31.466'
-      end: '00:01:37.716'
+      start:
+        sec: '91.466'
+        mark: '00:01:31.466'
+      end:
+        sec: '97.716'
+        mark: '00:01:37.716'
       u: "[In Lithuanian] Esu suvalkietis ir trumpai papasakosiu biški nuo keturiasdešimts
         trečių metų"
     - who: David Boder
-      start: '00:01:37.716'
-      end: '00:01:39.357'
+      start:
+        sec: '97.716'
+        mark: '00:01:37.716'
+      end:
+        sec: '99.357'
+        mark: '00:01:39.357'
       u: "[In German] Langsam"
     - who: Alfonsas Paulis
-      start: '00:01:39.357'
-      end: '00:02:22.416'
+      start:
+        sec: '99.357'
+        mark: '00:01:39.357'
+      end:
+        sec: '142.416'
+        mark: '00:02:22.416'
       u: "[In Lithuanian] kovo mėnesio septintos dienos iki keturiasdešimts penktų
         metų balandžio penktai iki amerikonam užėjus mus išlaisvinus. Mane, kaip žinot,
         aš esu paprastas darbinykas, mane areštavo už laikraščius, kurie, vadinasi,
@@ -86,12 +110,20 @@ recording:
         ir pabadaut, ten, kaip žinote, buvo tik vieni narai, buvom labai sumušti,
         tai yr, tai yra po žeme,"
     - who: David Boder
-      start: '00:02:22.416'
-      end: '00:02:23.228'
+      start:
+        sec: '142.416'
+        mark: '00:02:22.416'
+      end:
+        sec: '143.228'
+        mark: '00:02:23.228'
       u: "[In German] Langsamer"
     - who: Alfonsas Paulis
-      start: '00:02:23.228'
-      end: '00:04:19.595'
+      start:
+        sec: '143.228'
+        mark: '00:02:23.228'
+      end:
+        sec: '259.595'
+        mark: '00:04:19.595'
       u: "[In Lithuanian] Teko sėdėt tris savaites, paskuitės mus išvežė in Pravieniškį,
         Pravienišky toks buvo pradedamas konstracijos lageris. Tamkonstracijos lagery
         teko dirbt, dirbom miškuose. Ten prižiūriejo geštapiečiai, jie mus labai mušdavo
@@ -112,12 +144,20 @@ recording:
         prišoka, ir jisai buvo tep sako duok, taip pats raičiojasi negyvas, tiesiog
         žmonės eina civyliai ir slopsta moterys žiūrεdamos."
     - who: David Boder
-      start: '00:04:19.595'
-      end: '00:04:33.562'
+      start:
+        sec: '259.595'
+        mark: '00:04:19.595'
+      end:
+        sec: '273.562'
+        mark: '00:04:33.562'
       u: "[In German] Bisschen aus bis Zeit, gerade, hierhin.."
     - who: Alfonsas Paulis
-      start: '00:04:33.562'
-      end: '00:13:11.752'
+      start:
+        sec: '273.562'
+        mark: '00:04:33.562'
+      end:
+        sec: '791.752'
+        mark: '00:13:11.752'
       u: "[In Lithuanian] Turεjom biški maisto kaip kas, dar vežėmės žinoma, Lietuvoj
         galėjo priduoti, dar kaip kam atsiųsdavo biški, atėmė iš mus maistą visą,
         suvarė atgal in vagonus, paskuitės vežė toliau. Vežė mus apie keturas paras.
@@ -207,118 +247,230 @@ recording:
         karuomenė paskubino užimt Dachavą ir mus išlaisvint. Ir tada išlaisvino mus
         iš to Dachavo, ačiū Amerikos karuomenei už tai, kad mus išlaisvino."
     - who: David Boder
-      start: '00:13:11.752'
-      end: '00:13:18.158'
+      start:
+        sec: '791.752'
+        mark: '00:13:11.752'
+      end:
+        sec: '798.158'
+        mark: '00:13:18.158'
       u: "[In Russian] колько времени вы теперь здесь?"
     - who: David Boder
-      start: '00:13:18.158'
-      end: '00:13:22.620'
+      start:
+        sec: '798.158'
+        mark: '00:13:18.158'
+      end:
+        sec: '802.620'
+        mark: '00:13:22.620'
       u: "[In German] Wieviel Zeit sind Sie hier jetzt? In äh- in äh - Esklave?"
     - who: Alfonsas Paulis
-      start: '00:13:22.620'
-      end: '00:13:24.480'
+      start:
+        sec: '802.620'
+        mark: '00:13:22.620'
+      end:
+        sec: '804.480'
+        mark: '00:13:24.480'
       u: "[In Russian] По-русски, по-русски"
     - who: David Boder
-      start: '00:13:24.480'
-      end: '00:13:24.666'
+      start:
+        sec: '804.480'
+        mark: '00:13:24.480'
+      end:
+        sec: '804.666'
+        mark: '00:13:24.666'
       u: По-русски
     - who: David Boder
-      start: '00:13:24.666'
-      end: '00:13:26.447'
+      start:
+        sec: '804.666'
+        mark: '00:13:24.666'
+      end:
+        sec: '806.447'
+        mark: '00:13:26.447'
       u: Сколько времени вы уже здесь в этом лагере?
     - who: Alfonsas Paulis
-      start: '00:13:26.447'
-      end: '00:13:28.634'
+      start:
+        sec: '806.447'
+        mark: '00:13:26.447'
+      end:
+        sec: '808.634'
+        mark: '00:13:28.634'
       u: В этом лагере...
     - who: Alfonsas Paulis
-      start: '00:13:28.634'
-      end: '00:13:41.274'
+      start:
+        sec: '808.634'
+        mark: '00:13:28.634'
+      end:
+        sec: '821.274'
+        mark: '00:13:41.274'
       u: "[In Lithuanian]...nuo...nuo...šitam lagery aš gyvenu nuo keturasdešims penktų
         metų balandž...gegužės mεnesio apie dvidešimtos dienos."
     - who: David Boder
-      start: '00:13:41.274'
-      end: '00:13:43.024'
+      start:
+        sec: '821.274'
+        mark: '00:13:41.274'
+      end:
+        sec: '823.024'
+        mark: '00:13:43.024'
       u: "[In Russian] У вас родственники в Америке есть?"
     - who: Alfonsas Paulis
-      start: '00:13:43.024'
-      end: '00:13:49.497'
+      start:
+        sec: '823.024'
+        mark: '00:13:43.024'
+      end:
+        sec: '829.497'
+        mark: '00:13:49.497'
       u: "[In Lithuanian] Turu Amerikoj brolį...turu brolį ir brolio yra sūnus viens
         kuni"
     - who: David Boder
-      start: '00:13:49.497'
-      end: '00:13:50.465'
+      start:
+        sec: '829.497'
+        mark: '00:13:49.497'
+      end:
+        sec: '830.465'
+        mark: '00:13:50.465'
       u: "[In Russian] Два брата?"
     - who: Alfonsas Paulis
-      start: '00:13:50.465'
-      end: '00:13:51.559'
+      start:
+        sec: '830.465'
+        mark: '00:13:50.465'
+      end:
+        sec: '831.559'
+        mark: '00:13:51.559'
       u: Брат
     - who: David Boder
-      start: '00:13:51.559'
-      end: '00:13:53.512'
+      start:
+        sec: '831.559'
+        mark: '00:13:51.559'
+      end:
+        sec: '833.512'
+        mark: '00:13:53.512'
       u: А где он?
     - who: Alfonsas Paulis
-      start: '00:13:53.512'
-      end: '00:13:55.136'
+      start:
+        sec: '833.512'
+        mark: '00:13:53.512'
+      end:
+        sec: '835.136'
+        mark: '00:13:55.136'
       u: Вот я не могу вам сказать этого
     - who: David Boder
-      start: '00:13:55.136'
-      end: '00:13:57.213'
+      start:
+        sec: '835.136'
+        mark: '00:13:55.136'
+      end:
+        sec: '837.213'
+        mark: '00:13:57.213'
       u: Не знаете, где
     - who: Alfonsas Paulis
-      start: '00:13:57.213'
-      end: '00:13:59.025'
+      start:
+        sec: '837.213'
+        mark: '00:13:57.213'
+      end:
+        sec: '839.025'
+        mark: '00:13:59.025'
       u: Я знаю, письмо я получил
     - who: David Boder
-      start: '00:13:59.025'
-      end: '00:13:59.415'
+      start:
+        sec: '839.025'
+        mark: '00:13:59.025'
+      end:
+        sec: '839.415'
+        mark: '00:13:59.415'
       u: Ага, вы получили
     - who: Alfonsas Paulis
-      start: '00:13:59.415'
-      end: '00:13:59.838'
+      start:
+        sec: '839.415'
+        mark: '00:13:59.415'
+      end:
+        sec: '839.838'
+        mark: '00:13:59.838'
       u: получил
     - who: Alfonsas Paulis
-      start: '00:13:59.838'
-      end: '00:14:02.578'
+      start:
+        sec: '839.838'
+        mark: '00:13:59.838'
+      end:
+        sec: '842.578'
+        mark: '00:14:02.578'
       u: Yra brolio sūnus yra kunigas yra Najauke
     - who: David Boder
-      start: '00:14:02.578'
-      end: '00:14:04.688'
+      start:
+        sec: '842.578'
+        mark: '00:14:02.578'
+      end:
+        sec: '844.688'
+        mark: '00:14:04.688'
       u: Ага, и он что, вам пошлёт афадавит
     - who: Alfonsas Paulis
-      start: '00:14:04.688'
-      end: '00:14:07.761'
+      start:
+        sec: '844.688'
+        mark: '00:14:04.688'
+      end:
+        sec: '847.761'
+        mark: '00:14:07.761'
       u: Нет, я давно получил его.
     - who: David Boder
-      start: '00:14:07.761'
-      end: '00:14:08.475'
+      start:
+        sec: '847.761'
+        mark: '00:14:07.761'
+      end:
+        sec: '848.475'
+        mark: '00:14:08.475'
       u: Ага
     - who: Alfonsas Paulis
-      start: '00:14:08.475'
-      end: '00:14:10.632'
+      start:
+        sec: '848.475'
+        mark: '00:14:08.475'
+      end:
+        sec: '850.632'
+        mark: '00:14:10.632'
       u: "[In Lithuanian] Ir turu dvi tetas"
     - who: David Boder
-      start: '00:14:10.632'
-      end: '00:14:11.967'
+      start:
+        sec: '850.632'
+        mark: '00:14:10.632'
+      end:
+        sec: '851.967'
+        mark: '00:14:11.967'
       u: "[In Russian] Ага"
     - who: Alfonsas Paulis
-      start: '00:14:11.967'
-      end: '00:14:13.907'
+      start:
+        sec: '851.967'
+        mark: '00:14:11.967'
+      end:
+        sec: '853.907'
+        mark: '00:14:13.907'
       u: "[In Lithuanian] Dar va ką tik susirašiau"
     - who: David Boder
-      start: '00:14:13.907'
-      end: '00:14:16.638'
+      start:
+        sec: '853.907'
+        mark: '00:14:13.907'
+      end:
+        sec: '856.638'
+        mark: '00:14:16.638'
       u: "[In Russian] Что-нибудь ещё вы хотите сказать?"
     - who: Alfonsas Paulis
-      start: '00:14:16.638'
-      end: '00:14:20.797'
+      start:
+        sec: '856.638'
+        mark: '00:14:16.638'
+      end:
+        sec: '860.797'
+        mark: '00:14:20.797'
       u: Больше ничего
     - who: David Boder
-      start: '00:14:20.797'
-      end: '00:14:22.969'
+      start:
+        sec: '860.797'
+        mark: '00:14:20.797'
+      end:
+        sec: '862.969'
+        mark: '00:14:22.969'
       u: Ну во, спасибо тогда
     - who: David Boder
-      start: '00:14:22.969'
-      end: '00:14:43.278'
+      start:
+        sec: '862.969'
+        mark: '00:14:22.969'
+      end:
+        sec: '883.278'
+        mark: '00:14:43.278'
       u: "[In English] This concludes the interview with Alfonsas Paulis, September
         21st 1946, Munich, Lohengrinstrasse, displaced peoples camp for the Baltics,
         eh..in the camp where there are detained Lithuanians, Latvians and Estonians."
@@ -326,38 +478,62 @@ recording:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:00.849'
-      end: '00:00:39.408'
+      start:
+        sec: '0.849'
+        mark: '00:00:00.849'
+      end:
+        sec: '39.408'
+        mark: '00:00:39.408'
       u: "[In English] This is Spool 9-144B - the interview features Alfonsas Paulus
         or Paulis - this section was separated from Spool 144A, which contains the
         interview with Father Johan Kharchenko. This is Spool 9-144B Alfonsas Paulis,
         November the 9th, 1950, Boder."
     - who: David Boder
-      start: '00:00:39.408'
-      end: '00:01:16.608'
+      start:
+        sec: '39.408'
+        mark: '00:00:39.408'
+      end:
+        sec: '76.608'
+        mark: '00:01:16.608'
       u: 20th September, 1946 at the Baltic camp at Lohengrinstrasse. The interview
         is the same that we started at Spool 143. Alfonsas Paulis, who was kind enough
         to relinquish his turn to the parson of the Greek Orthodoxian Church Johan
         Kharchenko. We are now returning to the interview of Mr. Alfonsas Paulis who
         is going to talk Lithuanian.
     - who: David Boder
-      start: '00:01:16.608'
-      end: '00:01:31.466'
+      start:
+        sec: '76.608'
+        mark: '00:01:16.608'
+      end:
+        sec: '91.466'
+        mark: '00:01:31.466'
       u: "[In German] Uh, one more time—now tell me again, what happened to you, when
         the Soviets came to Lithuania? Where did you live, and what happened to you?
         How old are you, Mr. Paulis? How old are you?"
     - who: Alfonsas Paulis
-      start: '00:01:31.466'
-      end: '00:01:37.716'
+      start:
+        sec: '91.466'
+        mark: '00:01:31.466'
+      end:
+        sec: '97.716'
+        mark: '00:01:37.716'
       u: "[In Lithuanian] I come from Suvalkija, and will tell you a few things from
         March 7, 1943..."
     - who: David Boder
-      start: '00:01:37.716'
-      end: '00:01:39.357'
+      start:
+        sec: '97.716'
+        mark: '00:01:37.716'
+      end:
+        sec: '99.357'
+        mark: '00:01:39.357'
       u: "[In German] Slowly."
     - who: Alfonsas Paulis
-      start: '00:01:39.357'
-      end: '00:02:22.416'
+      start:
+        sec: '99.357'
+        mark: '00:01:39.357'
+      end:
+        sec: '142.416'
+        mark: '00:02:22.416'
       u: "[In Lithuanian]...to April 5, 1945, until the Americans came to set us free.
         As you know, I am a simple worker and I was arrested for newspapers that spoke
         against the Germans, the Fascists, the Nazis. I was arrested by the Gestapo,
@@ -365,12 +541,20 @@ recording:
         Then...had to starve for a while, as you know, that place has bunk-beds, and
         we were beaten a lot, that is, underground..."
     - who: David Boder
-      start: '00:02:22.416'
-      end: '00:02:23.228'
+      start:
+        sec: '142.416'
+        mark: '00:02:22.416'
+      end:
+        sec: '143.228'
+        mark: '00:02:23.228'
       u: "[In German] Slower."
     - who: Alfonsas Paulis
-      start: '00:02:23.228'
-      end: '00:04:19.595'
+      start:
+        sec: '143.228'
+        mark: '00:02:23.228'
+      end:
+        sec: '259.595'
+        mark: '00:04:19.595'
       u: "[In Lithuanian] I had spent three weeks like this. Then we were taken to
         Pravieniškis. Pravieniškis had this initial concentration camp. We were forced
         to work at that concentration camp, doing logging. There, we were supervised
@@ -394,13 +578,21 @@ recording:
         so he squirms and dies, just as civilians pass by, and women faint looking
         at this."
     - who: David Boder
-      start: '00:04:19.595'
-      end: '00:04:33.562'
+      start:
+        sec: '259.595'
+        mark: '00:04:19.595'
+      end:
+        sec: '273.562'
+        mark: '00:04:33.562'
       u: "[In German]...a little bit, until...straight, here...[interviewer may be
         instructing on the use of the microphone here]"
     - who: Alfonsas Paulis
-      start: '00:04:33.562'
-      end: '00:13:11.752'
+      start:
+        sec: '273.562'
+        mark: '00:04:33.562'
+      end:
+        sec: '791.752'
+        mark: '00:13:11.752'
       u: "[In Lithuanian] We had a little food, well, some of as did, of course, we
         brought some along. They could give us some in Lithuania. Also, some of us
         had a little of it sent to them. They took all the food we had, loaded us
@@ -498,118 +690,230 @@ recording:
         free. And then we were liberated from Dachau, thanks to the American army
         for setting us free."
     - who: David Boder
-      start: '00:13:11.752'
-      end: '00:13:18.158'
+      start:
+        sec: '791.752'
+        mark: '00:13:11.752'
+      end:
+        sec: '798.158'
+        mark: '00:13:18.158'
       u: "[In Russian] How long have you been here now?"
     - who: David Boder
-      start: '00:13:18.158'
-      end: '00:13:22.620'
+      start:
+        sec: '798.158'
+        mark: '00:13:18.158'
+      end:
+        sec: '802.620'
+        mark: '00:13:22.620'
       u: "[In German] How long have you been living here? In this—uh—in this exclave?"
     - who: Alfonsas Paulis
-      start: '00:13:22.620'
-      end: '00:13:24.480'
+      start:
+        sec: '802.620'
+        mark: '00:13:22.620'
+      end:
+        sec: '804.480'
+        mark: '00:13:24.480'
       u: "[In Russian] In Russian, In Russian."
     - who: David Boder
-      start: '00:13:24.480'
-      end: '00:13:24.666'
+      start:
+        sec: '804.480'
+        mark: '00:13:24.480'
+      end:
+        sec: '804.666'
+        mark: '00:13:24.666'
       u: In Russian.
     - who: David Boder
-      start: '00:13:24.666'
-      end: '00:13:26.447'
+      start:
+        sec: '804.666'
+        mark: '00:13:24.666'
+      end:
+        sec: '806.447'
+        mark: '00:13:26.447'
       u: How long have you been here, in this camp?
     - who: Alfonsas Paulis
-      start: '00:13:26.447'
-      end: '00:13:28.634'
+      start:
+        sec: '806.447'
+        mark: '00:13:26.447'
+      end:
+        sec: '808.634'
+        mark: '00:13:28.634'
       u: In this camp...
     - who: Alfonsas Paulis
-      start: '00:13:28.634'
-      end: '00:13:41.274'
+      start:
+        sec: '808.634'
+        mark: '00:13:28.634'
+      end:
+        sec: '821.274'
+        mark: '00:13:41.274'
       u: "[In Lithuanian]...since...since...I have been living in this camp since
         around the 20th day of Apr...May of 1945."
     - who: David Boder
-      start: '00:13:41.274'
-      end: '00:13:43.024'
+      start:
+        sec: '821.274'
+        mark: '00:13:41.274'
+      end:
+        sec: '823.024'
+        mark: '00:13:43.024'
       u: "[In Russian] Do you have any relatives in America?"
     - who: Alfonsas Paulis
-      start: '00:13:43.024'
-      end: '00:13:49.497'
+      start:
+        sec: '823.024'
+        mark: '00:13:43.024'
+      end:
+        sec: '829.497'
+        mark: '00:13:49.497'
       u: "[In Lithuanian] I have a brother in America...a brother and he has a son,
         a priest."
     - who: David Boder
-      start: '00:13:49.497'
-      end: '00:13:50.465'
+      start:
+        sec: '829.497'
+        mark: '00:13:49.497'
+      end:
+        sec: '830.465'
+        mark: '00:13:50.465'
       u: "[In Russian] Two brothers?"
     - who: Alfonsas Paulis
-      start: '00:13:50.465'
-      end: '00:13:51.559'
+      start:
+        sec: '830.465'
+        mark: '00:13:50.465'
+      end:
+        sec: '831.559'
+        mark: '00:13:51.559'
       u: A brother.
     - who: David Boder
-      start: '00:13:51.559'
-      end: '00:13:53.512'
+      start:
+        sec: '831.559'
+        mark: '00:13:51.559'
+      end:
+        sec: '833.512'
+        mark: '00:13:53.512'
       u: Where is he?
     - who: Alfonsas Paulis
-      start: '00:13:53.512'
-      end: '00:13:55.136'
+      start:
+        sec: '833.512'
+        mark: '00:13:53.512'
+      end:
+        sec: '835.136'
+        mark: '00:13:55.136'
       u: That I cannot tell you.
     - who: David Boder
-      start: '00:13:55.136'
-      end: '00:13:57.213'
+      start:
+        sec: '835.136'
+        mark: '00:13:55.136'
+      end:
+        sec: '837.213'
+        mark: '00:13:57.213'
       u: You don’t know, where?
     - who: Alfonsas Paulis
-      start: '00:13:57.213'
-      end: '00:13:59.025'
+      start:
+        sec: '837.213'
+        mark: '00:13:57.213'
+      end:
+        sec: '839.025'
+        mark: '00:13:59.025'
       u: I do, I have received a letter.
     - who: David Boder
-      start: '00:13:59.025'
-      end: '00:13:59.415'
+      start:
+        sec: '839.025'
+        mark: '00:13:59.025'
+      end:
+        sec: '839.415'
+        mark: '00:13:59.415'
       u: Aha, you have?
     - who: Alfonsas Paulis
-      start: '00:13:59.415'
-      end: '00:13:59.838'
+      start:
+        sec: '839.415'
+        mark: '00:13:59.415'
+      end:
+        sec: '839.838'
+        mark: '00:13:59.838'
       u: I have.
     - who: Alfonsas Paulis
-      start: '00:13:59.838'
-      end: '00:14:02.578'
+      start:
+        sec: '839.838'
+        mark: '00:13:59.838'
+      end:
+        sec: '842.578'
+        mark: '00:14:02.578'
       u: "[In Lithuanian] There is my brother’s son, a priest in Najaukas."
     - who: David Boder
-      start: '00:14:02.578'
-      end: '00:14:04.688'
+      start:
+        sec: '842.578'
+        mark: '00:14:02.578'
+      end:
+        sec: '844.688'
+        mark: '00:14:04.688'
       u: "[In Russian] Aha, and he what, will send you an affidavit?"
     - who: Alfonsas Paulis
-      start: '00:14:04.688'
-      end: '00:14:07.761'
+      start:
+        sec: '844.688'
+        mark: '00:14:04.688'
+      end:
+        sec: '847.761'
+        mark: '00:14:07.761'
       u: No, I got it a long time ago.
     - who: David Boder
-      start: '00:14:07.761'
-      end: '00:14:08.475'
+      start:
+        sec: '847.761'
+        mark: '00:14:07.761'
+      end:
+        sec: '848.475'
+        mark: '00:14:08.475'
       u: Aha.
     - who: Alfonsas Paulis
-      start: '00:14:08.475'
-      end: '00:14:10.632'
+      start:
+        sec: '848.475'
+        mark: '00:14:08.475'
+      end:
+        sec: '850.632'
+        mark: '00:14:10.632'
       u: "[In Lithuanian] I also have two aunts."
     - who: David Boder
-      start: '00:14:10.632'
-      end: '00:14:11.967'
+      start:
+        sec: '850.632'
+        mark: '00:14:10.632'
+      end:
+        sec: '851.967'
+        mark: '00:14:11.967'
       u: "[In Russian] Aha."
     - who: Alfonsas Paulis
-      start: '00:14:11.967'
-      end: '00:14:13.907'
+      start:
+        sec: '851.967'
+        mark: '00:14:11.967'
+      end:
+        sec: '853.907'
+        mark: '00:14:13.907'
       u: "[In Lithuanian] We have just exchanged letters."
     - who: David Boder
-      start: '00:14:13.907'
-      end: '00:14:16.638'
+      start:
+        sec: '853.907'
+        mark: '00:14:13.907'
+      end:
+        sec: '856.638'
+        mark: '00:14:16.638'
       u: "[In Russian] Do you have anything else to say?"
     - who: Alfonsas Paulis
-      start: '00:14:16.638'
-      end: '00:14:20.797'
+      start:
+        sec: '856.638'
+        mark: '00:14:16.638'
+      end:
+        sec: '860.797'
+        mark: '00:14:20.797'
       u: No, nothing.
     - who: David Boder
-      start: '00:14:20.797'
-      end: '00:14:22.969'
+      start:
+        sec: '860.797'
+        mark: '00:14:20.797'
+      end:
+        sec: '862.969'
+        mark: '00:14:22.969'
       u: Well then, thank you.
     - who: David Boder
-      start: '00:14:22.969'
-      end: '00:14:43.278'
+      start:
+        sec: '862.969'
+        mark: '00:14:22.969'
+      end:
+        sec: '883.278'
+        mark: '00:14:43.278'
       u: "[In English] This concludes the interview with Alfonsas Paulis, September
         21st 1946, Munich, Lohengrinstrasse, displaced peoples camp for the Baltics,
         eh..in the camp where there are detained Lithuanians, Latvians and Estonians."

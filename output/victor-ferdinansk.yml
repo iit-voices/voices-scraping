@@ -35,151 +35,283 @@ recording:
     language: de
     interview:
     - who: David Boder
-      start: '00:00:00.625'
-      end: '00:00:12.663'
+      start:
+        sec: '0.625'
+        mark: '00:00:00.625'
+      end:
+        sec: '12.663'
+        mark: '00:00:12.663'
       u: "[In English] Munich, September the 24th, 1946, at the UNRRA University of
         the Deutsches Museum. The interviewee is Mr. Victor Ferdinansk, a Lithuanian,
         who will talk to us in German."
     - who: David Boder
-      start: '00:00:12.663'
-      end: '00:00:20.122'
+      start:
+        sec: '12.663'
+        mark: '00:00:12.663'
+      end:
+        sec: '20.122'
+        mark: '00:00:20.122'
       u: "[In German] Also sagen Sie mir, Victor, was ist Ihnen passiert, wenn die
         Russen nach Litauen gekommen?"
     - who: Victor Ferdinansk
-      start: '00:00:20.122'
-      end: '00:00:34.662'
+      start:
+        sec: '20.122'
+        mark: '00:00:20.122'
+      end:
+        sec: '34.662'
+        mark: '00:00:34.662'
       u: Also die Russen sind nach Litauen gekommen 1940. Damals war ich im Gymnasium
         in der dritten Klasse und im Herbst dieses Jahres bin ich gekommen nach Tallin
         in die achte Lasse des Ritter Seminars.
     - who: David Boder
-      start: '00:00:34.662'
-      end: '00:00:36.740'
+      start:
+        sec: '34.662'
+        mark: '00:00:34.662'
+      end:
+        sec: '36.740'
+        mark: '00:00:36.740'
       u: Von welcher Religion sind Sie?
     - who: Victor Ferdinansk
-      start: '00:00:36.740'
-      end: '00:00:38.302'
+      start:
+        sec: '36.740'
+        mark: '00:00:36.740'
+      end:
+        sec: '38.302'
+        mark: '00:00:38.302'
       u: Ich bin römisch katholisch.
     - who: David Boder
-      start: '00:00:38.302'
-      end: '00:00:39.958'
+      start:
+        sec: '38.302'
+        mark: '00:00:38.302'
+      end:
+        sec: '39.958'
+        mark: '00:00:39.958'
       u: Ja. Weiter nun.
     - who: Victor Ferdinansk
-      start: '00:00:39.958'
-      end: '00:00:46.696'
+      start:
+        sec: '39.958'
+        mark: '00:00:39.958'
+      end:
+        sec: '46.696'
+        mark: '00:00:46.696'
       u: Und es war uns allen klar, dass das Ritter Seminar nicht lange bestehen wird.
     - who: David Boder
-      start: '00:00:46.696'
-      end: '00:00:48.868'
+      start:
+        sec: '46.696'
+        mark: '00:00:46.696'
+      end:
+        sec: '48.868'
+        mark: '00:00:48.868'
       u: In welcher Stadt was das Seminar?
     - who: Victor Ferdinansk
-      start: '00:00:48.868'
-      end: '00:00:50.227'
+      start:
+        sec: '48.868'
+        mark: '00:00:48.868'
+      end:
+        sec: '50.227'
+        mark: '00:00:50.227'
       u: In Tallin...Kovno.
     - who: David Boder
-      start: '00:00:50.227'
-      end: '00:00:55.241'
+      start:
+        sec: '50.227'
+        mark: '00:00:50.227'
+      end:
+        sec: '55.241'
+        mark: '00:00:55.241'
       u: In Kovno? Das hat man damals genannt das Kovno Theologisches Seminar?
     - who: Victor Ferdinansk
-      start: '00:00:55.241'
-      end: '00:00:56.585'
+      start:
+        sec: '55.241'
+        mark: '00:00:55.241'
+      end:
+        sec: '56.585'
+        mark: '00:00:56.585'
       u: Kovno Theologisches Seminar.
     - who: David Boder
-      start: '00:00:56.585'
-      end: '00:00:58.335'
+      start:
+        sec: '56.585'
+        mark: '00:00:56.585'
+      end:
+        sec: '58.335'
+        mark: '00:00:58.335'
       u: Bei Riga? Nun...
     - who: Victor Ferdinansk
-      start: '00:00:58.335'
-      end: '00:01:30.034'
+      start:
+        sec: '58.335'
+        mark: '00:00:58.335'
+      end:
+        sec: '90.034'
+        mark: '00:01:30.034'
       u: Als Angehöriger des Franziskaner Ordens wurde ich von mein...von unserem
         Vorgesetzten nach Deutschland geschickt mit dem Auftrag nach Italien zu kommen.
         Damals studierten nämlich in Italien viele unserer Landsleute und sie hatten
         diese Dokumente schon für uns besorgt.
     - who: David Boder
-      start: '00:01:30.034'
-      end: '00:01:32.871'
+      start:
+        sec: '90.034'
+        mark: '00:01:30.034'
+      end:
+        sec: '92.871'
+        mark: '00:01:32.871'
       u: Also was heißt diese Dokumente? Was für Dokumente haben Sie gebraucht?
     - who: Victor Ferdinansk
-      start: '00:01:32.871'
-      end: '00:01:35.465'
+      start:
+        sec: '92.871'
+        mark: '00:01:32.871'
+      end:
+        sec: '95.465'
+        mark: '00:01:35.465'
       u: Das heißt Einreise-Dokumente nach Italien.
     - who: David Boder
-      start: '00:01:35.465'
-      end: '00:01:36.309'
+      start:
+        sec: '95.465'
+        mark: '00:01:35.465'
+      end:
+        sec: '96.309'
+        mark: '00:01:36.309'
       u: Ja.
     - who: Victor Ferdinansk
-      start: '00:01:36.309'
-      end: '00:01:41.958'
+      start:
+        sec: '96.309'
+        mark: '00:01:36.309'
+      end:
+        sec: '101.958'
+        mark: '00:01:41.958'
       u: Aber wir waren sehr tief enttäuscht, als wir uns nach Deutschland begeben
         haben.
     - who: David Boder
-      start: '00:01:41.958'
-      end: '00:01:42.646'
+      start:
+        sec: '101.958'
+        mark: '00:01:41.958'
+      end:
+        sec: '102.646'
+        mark: '00:01:42.646'
       u: Ja.
     - who: Victor Ferdinansk
-      start: '00:01:42.646'
-      end: '00:01:56.370'
+      start:
+        sec: '102.646'
+        mark: '00:01:42.646'
+      end:
+        sec: '116.370'
+        mark: '00:01:56.370'
       u: Ich habe die Absicht gehabt nach Italien zu kommen, aber an Stelle dessen
         ist etwas Anderes eingetroffen. Ich wurde beim illegalen Überschreiten der
         Grenze...
     - who: David Boder
-      start: '00:01:56.370'
-      end: '00:01:58.528'
+      start:
+        sec: '116.370'
+        mark: '00:01:56.370'
+      end:
+        sec: '118.528'
+        mark: '00:01:58.528'
       u: Oh, sie haben die Grenze illegal überschritten?
     - who: Victor Ferdinansk
-      start: '00:01:58.528'
-      end: '00:02:24.154'
+      start:
+        sec: '118.528'
+        mark: '00:01:58.528'
+      end:
+        sec: '144.154'
+        mark: '00:02:24.154'
       u: Ja. Ich wurde fest genommen und in ein Lager gebracht, wo ich sieben Tage
         gehalten wurde. Aber dann wurde gesehen, dass ich kein Spion bin. Dann wurde
         ich mit einem (unverständlich) nach Berlin geschickt, wo ich mit französischen
         Gefangenen im Deutschen Verlag als Gefangener Dienste leisten musste.
     - who: David Boder
-      start: '00:02:24.154'
-      end: '00:02:26.903'
+      start:
+        sec: '144.154'
+        mark: '00:02:24.154'
+      end:
+        sec: '146.903'
+        mark: '00:02:26.903'
       u: Also Sie haben nicht einen Pass-Schein nach Italien?
     - who: Victor Ferdinansk
-      start: '00:02:26.903'
-      end: '00:02:27.965'
+      start:
+        sec: '146.903'
+        mark: '00:02:26.903'
+      end:
+        sec: '147.965'
+        mark: '00:02:27.965'
       u: Nein.
     - who: David Boder
-      start: '00:02:27.965'
-      end: '00:02:31.558'
+      start:
+        sec: '147.965'
+        mark: '00:02:27.965'
+      end:
+        sec: '151.558'
+        mark: '00:02:31.558'
       u: Sie haben Sie als Gefangenen genommen?
     - who: Victor Ferdinansk
-      start: '00:02:31.558'
-      end: '00:02:34.714'
+      start:
+        sec: '151.558'
+        mark: '00:02:31.558'
+      end:
+        sec: '154.714'
+        mark: '00:02:34.714'
       u: Ja, ich wurde verhaftet und zur Arbeit gebracht.
     - who: David Boder
-      start: '00:02:34.714'
-      end: '00:02:36.229'
+      start:
+        sec: '154.714'
+        mark: '00:02:34.714'
+      end:
+        sec: '156.229'
+        mark: '00:02:36.229'
       u: Bitte weiter.
     - who: Victor Ferdinansk
-      start: '00:02:36.229'
-      end: '00:02:40.979'
+      start:
+        sec: '156.229'
+        mark: '00:02:36.229'
+      end:
+        sec: '160.979'
+        mark: '00:02:40.979'
       u: Und nachdem ich ungefähr drei oder Monate gearbeitet habe...
     - who: David Boder
-      start: '00:02:40.979'
-      end: '00:02:42.932'
+      start:
+        sec: '160.979'
+        mark: '00:02:40.979'
+      end:
+        sec: '162.932'
+        mark: '00:02:42.932'
       u: Haben Sie einem Lager gelabt?
     - who: Victor Ferdinansk
-      start: '00:02:42.932'
-      end: '00:02:47.072'
+      start:
+        sec: '162.932'
+        mark: '00:02:42.932'
+      end:
+        sec: '167.072'
+        mark: '00:02:47.072'
       u: Das war ein Arbeiterlager.
     - who: David Boder
-      start: '00:02:47.072'
-      end: '00:02:47.666'
+      start:
+        sec: '167.072'
+        mark: '00:02:47.072'
+      end:
+        sec: '167.666'
+        mark: '00:02:47.666'
       u: Ja.
     - who: Victor Ferdinansk
-      start: '00:02:47.666'
-      end: '00:02:55.765'
+      start:
+        sec: '167.666'
+        mark: '00:02:47.666'
+      end:
+        sec: '175.765'
+        mark: '00:02:55.765'
       u: In diesem Zimmer haben geschlafen sehr viele. Ich glaube so viel wie fünfzig
         Leute zumindest.
     - who: David Boder
-      start: '00:02:55.765'
-      end: '00:02:56.734'
+      start:
+        sec: '175.765'
+        mark: '00:02:55.765'
+      end:
+        sec: '176.734'
+        mark: '00:02:56.734'
       u: Ja, nun und...
     - who: Victor Ferdinansk
-      start: '00:02:56.734'
-      end: '00:03:27.522'
+      start:
+        sec: '176.734'
+        mark: '00:02:56.734'
+      end:
+        sec: '207.522'
+        mark: '00:03:27.522'
       u: Und ja einmal wurde das ganze Haus, wo jeder - alle zusammen gewohnt haben,
         untersucht und auf Grund meiner Nationalität wurde ich von der Gestapo andermal
         festgenommen und in Berlin auf das Polizei Präsidium gebracht. Die haben mich
@@ -187,273 +319,517 @@ recording:
         stellte sich heraus, dass ich kein gefährlicher Mensch bin, sondern bloß Student
         der Theologie.
     - who: David Boder
-      start: '00:03:27.522'
-      end: '00:03:28.178'
+      start:
+        sec: '207.522'
+        mark: '00:03:27.522'
+      end:
+        sec: '208.178'
+        mark: '00:03:28.178'
       u: Ja.
     - who: Victor Ferdinansk
-      start: '00:03:28.178'
-      end: '00:03:32.073'
+      start:
+        sec: '208.178'
+        mark: '00:03:28.178'
+      end:
+        sec: '212.073'
+        mark: '00:03:32.073'
       u: Und ich wurde nach der drei stündigen Untersuchung entlassen.
     - who: David Boder
-      start: '00:03:32.073'
-      end: '00:03:32.948'
+      start:
+        sec: '212.073'
+        mark: '00:03:32.073'
+      end:
+        sec: '212.948'
+        mark: '00:03:32.948'
       u: Nun.
     - who: Victor Ferdinansk
-      start: '00:03:32.948'
-      end: '00:03:50.430'
+      start:
+        sec: '212.948'
+        mark: '00:03:32.948'
+      end:
+        sec: '230.430'
+        mark: '00:03:50.430'
       u: Diese ganze Geschichte war mir sehr unangenehm und ich wollte nicht, dass
         es irgendwelchen Folgen hat. Darum bin ich auch von Berlin nach München gekommen.
     - who: David Boder
-      start: '00:03:50.430'
-      end: '00:03:51.997'
+      start:
+        sec: '230.430'
+        mark: '00:03:50.430'
+      end:
+        sec: '231.997'
+        mark: '00:03:51.997'
       u: Also wieso...ille...
     - who: Victor Ferdinansk
-      start: '00:03:51.997'
-      end: '00:03:53.216'
+      start:
+        sec: '231.997'
+        mark: '00:03:51.997'
+      end:
+        sec: '233.216'
+        mark: '00:03:53.216'
       u: Illegal.
     - who: David Boder
-      start: '00:03:53.216'
-      end: '00:04:02.313'
+      start:
+        sec: '233.216'
+        mark: '00:03:53.216'
+      end:
+        sec: '242.313'
+        mark: '00:04:02.313'
       u: Illegal. Nun sagen Sie mir, haben Sie sich nicht mit den katholischen Geistlichen
         verständigen können, dass man Ihnen hilft? Mit den Franziskanern?
     - who: Victor Ferdinansk
-      start: '00:04:02.313'
-      end: '00:04:12.892'
+      start:
+        sec: '242.313'
+        mark: '00:04:02.313'
+      end:
+        sec: '252.892'
+        mark: '00:04:12.892'
       u: Nein, in Berlin, das war fast nicht möglich, weil jede Behörde war sehr eingestellt
         gegen die Religion und es war wirklich nichts zu machen.
     - who: David Boder
-      start: '00:04:12.892'
-      end: '00:04:13.720'
+      start:
+        sec: '252.892'
+        mark: '00:04:12.892'
+      end:
+        sec: '253.720'
+        mark: '00:04:13.720'
       u: Nun?
     - who: Victor Ferdinansk
-      start: '00:04:13.720'
-      end: '00:04:16.980'
+      start:
+        sec: '253.720'
+        mark: '00:04:13.720'
+      end:
+        sec: '256.980'
+        mark: '00:04:16.980'
       u: Und damals war ich sehr jung und habe sehr schlecht die deutsche Sprache
         beherrscht.
     - who: David Boder
-      start: '00:04:16.980'
-      end: '00:04:18.819'
+      start:
+        sec: '256.980'
+        mark: '00:04:16.980'
+      end:
+        sec: '258.819'
+        mark: '00:04:18.819'
       u: Hat man Ihnen erlaubt zur Kirche zu gehen?
     - who: Victor Ferdinansk
-      start: '00:04:18.819'
-      end: '00:04:21.069'
+      start:
+        sec: '258.819'
+        mark: '00:04:18.819'
+      end:
+        sec: '261.069'
+        mark: '00:04:21.069'
       u: Das Kirchen Gehen hat man erlaubt zu gehen.
     - who: David Boder
-      start: '00:04:21.069'
-      end: '00:04:23.553'
+      start:
+        sec: '261.069'
+        mark: '00:04:21.069'
+      end:
+        sec: '263.553'
+        mark: '00:04:23.553'
       u: Konnten Sie da nicht mit dem Vater sprechen?
     - who: Victor Ferdinansk
-      start: '00:04:23.553'
-      end: '00:04:45.039'
+      start:
+        sec: '263.553'
+        mark: '00:04:23.553'
+      end:
+        sec: '285.039'
+        mark: '00:04:45.039'
       u: Praktisch konnten die nicht viel helfen. Denn um Einen in der Pfarre aufzunehmen,
         sollten die auch eine polizeiliche Genehmigung haben. Und ohne diese polizeiliche
         Genehmigung durften sie überhaupt niemanden aufnehmen. Darum habe ich beschlossen
         nach Bayern zu flüchten, wo das ganze Land katholisch ist.
     - who: David Boder
-      start: '00:04:45.039'
-      end: '00:04:46.008'
+      start:
+        sec: '285.039'
+        mark: '00:04:45.039'
+      end:
+        sec: '286.008'
+        mark: '00:04:46.008'
       u: Nun?
     - who: Victor Ferdinansk
-      start: '00:04:46.008'
-      end: '00:04:46.992'
+      start:
+        sec: '286.008'
+        mark: '00:04:46.008'
+      end:
+        sec: '286.992'
+        mark: '00:04:46.992'
       u: Und...
     - who: David Boder
-      start: '00:04:46.992'
-      end: '00:04:48.648'
+      start:
+        sec: '286.992'
+        mark: '00:04:46.992'
+      end:
+        sec: '288.648'
+        mark: '00:04:48.648'
       u: Sie kamen dann nach München?
     - who: Victor Ferdinansk
-      start: '00:04:48.648'
-      end: '00:05:02.977'
+      start:
+        sec: '288.648'
+        mark: '00:04:48.648'
+      end:
+        sec: '302.977'
+        mark: '00:05:02.977'
       u: Nach München. 1941 bin ich nach München gekommen, wo ich in einem Franziskanischen
         Kloster aufgenommen wurde und bis zum Jahre neunzehn hundert fünf und vierzig
         (1945) beschäftigt wurde als Litauer und Ausländer.
     - who: David Boder
-      start: '00:05:02.977'
-      end: '00:05:07.633'
+      start:
+        sec: '302.977'
+        mark: '00:05:02.977'
+      end:
+        sec: '307.633'
+        mark: '00:05:07.633'
       u: Aha. Also da haben die Deutschen nachher doch gewusst, dass Sie dort waren?
     - who: Victor Ferdinansk
-      start: '00:05:07.633'
-      end: '00:05:15.429'
+      start:
+        sec: '307.633'
+        mark: '00:05:07.633'
+      end:
+        sec: '315.429'
+        mark: '00:05:15.429'
       u: Später...das haben sie nicht gewusst. Aber später selbstverständlich als
         ich angemeldet wurde, wurde das, hm,...
     - who: David Boder
-      start: '00:05:15.429'
-      end: '00:05:16.210'
+      start:
+        sec: '315.429'
+        mark: '00:05:15.429'
+      end:
+        sec: '316.210'
+        mark: '00:05:16.210'
       u: "[unverständlich]"
     - who: Victor Ferdinansk
-      start: '00:05:16.210'
-      end: '00:05:37.254'
+      start:
+        sec: '316.210'
+        mark: '00:05:16.210'
+      end:
+        sec: '337.254'
+        mark: '00:05:37.254'
       u: 'Ein Gestapo Beamter ist gekommen. Die ganze Sache hat sich herausgestellt
         und er hatte dann folgende Anordnung gegeben: Ich darf nicht in zivil...in
         die Stadt hinaus gehen nicht in Zivilkleider, wie das heißt, nur in Ordern...'
     - who: David Boder
-      start: '00:05:37.254'
-      end: '00:05:37.941'
+      start:
+        sec: '337.254'
+        mark: '00:05:37.254'
+      end:
+        sec: '337.941'
+        mark: '00:05:37.941'
       u: Nun?
     - who: Victor Ferdinansk
-      start: '00:05:37.941'
-      end: '00:05:47.087'
+      start:
+        sec: '337.941'
+        mark: '00:05:37.941'
+      end:
+        sec: '347.087'
+        mark: '00:05:47.087'
       u: ". . . bis damals war erlaubt, dass man auch in Zivilkleidern in die Stadt
         hinaus gehen zu können."
     - who: David Boder
-      start: '00:05:47.087'
-      end: '00:05:47.915'
+      start:
+        sec: '347.087'
+        mark: '00:05:47.087'
+      end:
+        sec: '347.915'
+        mark: '00:05:47.915'
       u: Hm.
     - who: Victor Ferdinansk
-      start: '00:05:47.915'
-      end: '00:05:50.134'
+      start:
+        sec: '347.915'
+        mark: '00:05:47.915'
+      end:
+        sec: '350.134'
+        mark: '00:05:50.134'
       u: Dann zweitens war mir der Auftrag erlegt, dass ich jede Woche mich beim zuständigen
         Polizei Präsidium oder Revier melden muss.
     - who: David Boder
-      start: '00:05:50.134'
-      end: '00:05:51.008'
+      start:
+        sec: '350.134'
+        mark: '00:05:50.134'
+      end:
+        sec: '351.008'
+        mark: '00:05:51.008'
       u: Nun.
     - who: Victor Ferdinansk
-      start: '00:05:51.008'
-      end: '00:05:51.581'
+      start:
+        sec: '351.008'
+        mark: '00:05:51.008'
+      end:
+        sec: '351.581'
+        mark: '00:05:51.581'
       u: Es war mir verboten litauisch auf der Strasse zu sprechen
     - who: David Boder
-      start: '00:05:51.581'
-      end: '00:05:52.643'
+      start:
+        sec: '351.581'
+        mark: '00:05:51.581'
+      end:
+        sec: '352.643'
+        mark: '00:05:52.643'
       u: Oh ja.
     - who: Victor Ferdinansk
-      start: '00:05:52.643'
-      end: '00:05:57.293'
+      start:
+        sec: '352.643'
+        mark: '00:05:52.643'
+      end:
+        sec: '357.293'
+        mark: '00:05:57.293'
       u: Und es war mir verboten an andere litauische Briefe zu schreiben, in litauischer
         Sprach.
     - who: David Boder
-      start: '00:05:57.293'
-      end: '00:05:59.525'
+      start:
+        sec: '357.293'
+        mark: '00:05:57.293'
+      end:
+        sec: '359.525'
+        mark: '00:05:59.525'
       u: Hm, aber Sie konnten doch in deutsch schreiben?
     - who: Victor Ferdinansk
-      start: '00:05:59.525'
-      end: '00:06:01.869'
+      start:
+        sec: '359.525'
+        mark: '00:05:59.525'
+      end:
+        sec: '361.869'
+        mark: '00:06:01.869'
       u: In deutscher Sprache durfte ich nicht schreiben.
     - who: David Boder
-      start: '00:06:01.869'
-      end: '00:06:04.494'
+      start:
+        sec: '361.869'
+        mark: '00:06:01.869'
+      end:
+        sec: '364.494'
+        mark: '00:06:04.494'
       u: Zu wem haben Sie dann schreiben können oder wollen?
     - who: Victor Ferdinansk
-      start: '00:06:04.494'
-      end: '00:06:12.327'
+      start:
+        sec: '364.494'
+        mark: '00:06:04.494'
+      end:
+        sec: '372.327'
+        mark: '00:06:12.327'
       u: Gewöhnlich habe ich einen anderen Briefverkehr unterhalten mit meinen Freunden,
         mit andere Leut...
     - who: David Boder
-      start: '00:06:12.327'
-      end: '00:06:14.234'
+      start:
+        sec: '372.327'
+        mark: '00:06:12.327'
+      end:
+        sec: '374.234'
+        mark: '00:06:14.234'
       u: Wo? Hier in Deutschland?
     - who: Victor Ferdinansk
-      start: '00:06:14.234'
-      end: '00:06:16.139'
+      start:
+        sec: '374.234'
+        mark: '00:06:14.234'
+      end:
+        sec: '376.139'
+        mark: '00:06:16.139'
       u: Ja.
     - who: David Boder
-      start: '00:06:16.139'
-      end: '00:06:21.889'
+      start:
+        sec: '376.139'
+        mark: '00:06:16.139'
+      end:
+        sec: '381.889'
+        mark: '00:06:21.889'
       u: Aha, nun weiter. Durch dieser ganzen Zeit haben die Deutschen Sie jemals
         geschlagen?
     - who: Victor Ferdinansk
-      start: '00:06:21.889'
-      end: '00:06:27.197'
+      start:
+        sec: '381.889'
+        mark: '00:06:21.889'
+      end:
+        sec: '387.197'
+        mark: '00:06:27.197'
       u: Da ich ein Theologie Student gewesen bin, selbstverständlich bin ich nicht
         zu Schlägereien gekommen.
     - who: David Boder
-      start: '00:06:27.197'
-      end: '00:06:32.884'
+      start:
+        sec: '387.197'
+        mark: '00:06:27.197'
+      end:
+        sec: '392.884'
+        mark: '00:06:32.884'
       u: Warum ist das selbstverständlich? Sie haben mir gesagt, dass die Deutschen
         die Religion nicht sehr respektiert haben.
     - who: Victor Ferdinansk
-      start: '00:06:32.884'
-      end: '00:06:34.837'
+      start:
+        sec: '392.884'
+        mark: '00:06:32.884'
+      end:
+        sec: '394.837'
+        mark: '00:06:34.837'
       u: Das stimmt schon.
     - who: David Boder
-      start: '00:06:34.837'
-      end: '00:06:37.665'
+      start:
+        sec: '394.837'
+        mark: '00:06:34.837'
+      end:
+        sec: '397.665'
+        mark: '00:06:37.665'
       u: Aber soweit sie betroffen waren...?
     - who: Victor Ferdinansk
-      start: '00:06:37.665'
-      end: '00:06:44.117'
+      start:
+        sec: '397.665'
+        mark: '00:06:37.665'
+      end:
+        sec: '404.117'
+        mark: '00:06:44.117'
       u: Aber in dem Kloster...im Kloster habe ich eine katholische Umgebung gehabt
         und es ist nicht dazu gekommen.
     - who: David Boder
-      start: '00:06:44.117'
-      end: '00:06:45.929'
+      start:
+        sec: '404.117'
+        mark: '00:06:44.117'
+      end:
+        sec: '405.929'
+        mark: '00:06:45.929'
       u: Was haben Sie im Kloster getan?
     - who: Victor Ferdinansk
-      start: '00:06:45.929'
-      end: '00:06:50.710'
+      start:
+        sec: '405.929'
+        mark: '00:06:45.929'
+      end:
+        sec: '410.710'
+        mark: '00:06:50.710'
       u: Im Kloster? Das ist sehr schwer zu sagen. Wir waren...
     - who: David Boder
-      start: '00:06:50.710'
-      end: '00:06:54.866'
+      start:
+        sec: '410.710'
+        mark: '00:06:50.710'
+      end:
+        sec: '414.866'
+        mark: '00:06:54.866'
       u: Wurden Sie behandelt wie alle Anderen?
     - who: Victor Ferdinansk
-      start: '00:06:54.866'
-      end: '00:07:03.851'
+      start:
+        sec: '414.866'
+        mark: '00:06:54.866'
+      end:
+        sec: '423.851'
+        mark: '00:07:03.851'
       u: Das kann man nicht sagen, ich habe immer gespürt, dass ich ein Ausländer
         bin. Und die haben immer uns zu verstehen gegeben, dass wir Ausländer sind
         und wir waren jeder, hm, in jeder...
     - who: David Boder
-      start: '00:07:03.851'
-      end: '00:07:05.258'
+      start:
+        sec: '423.851'
+        mark: '00:07:03.851'
+      end:
+        sec: '425.258'
+        mark: '00:07:05.258'
       u: Beziehung.
     - who: Victor Ferdinansk
-      start: '00:07:05.258'
-      end: '00:07:06.946'
+      start:
+        sec: '425.258'
+        mark: '00:07:05.258'
+      end:
+        sec: '426.946'
+        mark: '00:07:06.946'
       u: ". . . in jeder Beziehung ignoriert, darum..."
     - who: David Boder
-      start: '00:07:06.946'
-      end: '00:07:10.243'
+      start:
+        sec: '426.946'
+        mark: '00:07:06.946'
+      end:
+        sec: '430.243'
+        mark: '00:07:10.243'
       u: Bei den anderen Leuten oder den Franziskanern?
     - who: Victor Ferdinansk
-      start: '00:07:10.243'
-      end: '00:07:10.993'
+      start:
+        sec: '430.243'
+        mark: '00:07:10.243'
+      end:
+        sec: '430.993'
+        mark: '00:07:10.993'
       u: Auch.
     - who: David Boder
-      start: '00:07:10.993'
-      end: '00:07:11.993'
+      start:
+        sec: '430.993'
+        mark: '00:07:10.993'
+      end:
+        sec: '431.993'
+        mark: '00:07:11.993'
       u: Von den Brüdern?
     - who: Victor Ferdinansk
-      start: '00:07:11.993'
-      end: '00:07:13.165'
+      start:
+        sec: '431.993'
+        mark: '00:07:11.993'
+      end:
+        sec: '433.165'
+        mark: '00:07:13.165'
       u: Auch von den Brüdern.
     - who: David Boder
-      start: '00:07:13.165'
-      end: '00:07:13.634'
+      start:
+        sec: '433.165'
+        mark: '00:07:13.165'
+      end:
+        sec: '433.634'
+        mark: '00:07:13.634'
       u: Ja.
     - who: Victor Ferdinansk
-      start: '00:07:13.634'
-      end: '00:07:26.821'
+      start:
+        sec: '433.634'
+        mark: '00:07:13.634'
+      end:
+        sec: '446.821'
+        mark: '00:07:26.821'
       u: Und darum habe ich beschlossen in 1900...im Jahre 1945 als die Amerikaner
         gekommen sind und die Zivil...die Zivillager eingerichtet haben, aus dem Kloster
         einzutreten...
     - who: David Boder
-      start: '00:07:26.821'
-      end: '00:07:28.353'
+      start:
+        sec: '446.821'
+        mark: '00:07:26.821'
+      end:
+        sec: '448.353'
+        mark: '00:07:28.353'
       u: Auszutreten.
     - who: Victor Ferdinansk
-      start: '00:07:28.353'
-      end: '00:07:31.369'
+      start:
+        sec: '448.353'
+        mark: '00:07:28.353'
+      end:
+        sec: '451.369'
+        mark: '00:07:31.369'
       u: Ja, auszutreten und das habe ich gemacht.
     - who: David Boder
-      start: '00:07:31.369'
-      end: '00:07:33.682'
+      start:
+        sec: '451.369'
+        mark: '00:07:31.369'
+      end:
+        sec: '453.682'
+        mark: '00:07:33.682'
       u: Hm. Nun was studieren Sie jetzt hier?
     - who: Victor Ferdinansk
-      start: '00:07:33.682'
-      end: '00:07:39.056'
+      start:
+        sec: '453.682'
+        mark: '00:07:33.682'
+      end:
+        sec: '459.056'
+        mark: '00:07:39.056'
       u: Jetzt an dieser Universität studiere ich Jura und bin im zweiten Semester.
     - who: David Boder
-      start: '00:07:39.056'
-      end: '00:07:39.056'
+      start:
+        sec: '459.056'
+        mark: '00:07:39.056'
+      end:
+        sec: '459.056'
+        mark: '00:07:39.056'
       u: Also Sie haben die Theologie aufgegeben?
     - who: Victor Ferdinansk
-      start: '00:07:39.056'
-      end: '00:07:50.914'
+      start:
+        sec: '459.056'
+        mark: '00:07:39.056'
+      end:
+        sec: '470.914'
+        mark: '00:07:50.914'
       u: Ich habe die Theologie aufgegeben und nur aus diesem Grunde, dass ich nicht
         in Deutschland bleiben wollte und als Geistlicher unter Deutschen arbeiten.
     - who: David Boder
-      start: '00:07:50.914'
-      end: '00:08:23.405'
+      start:
+        sec: '470.914'
+        mark: '00:07:50.914'
+      end:
+        sec: '503.405'
+        mark: '00:08:23.405'
       u: Sagen Sie mir...es ist...sehr interessant, dass ich Sie getroffen habe. Was
         haben die Franziskaner Brüder von den Nazis gedacht? Ich meine im Allgemeinen,
         wie war die Stimmung während des Krieges? Es ist für uns sehr wichtig, dass
@@ -462,318 +838,594 @@ recording:
         Kloster gelebt, wie haben sie sich zu dem Krieg verhalten, zu den Nazis und
         allem?
     - who: Victor Ferdinansk
-      start: '00:08:23.405'
-      end: '00:08:40.513'
+      start:
+        sec: '503.405'
+        mark: '00:08:23.405'
+      end:
+        sec: '520.513'
+        mark: '00:08:40.513'
       u: Diese Stimmung war sehr verschieden. Es kam darauf an, was für eine Person
         es gewesen ist. Die Älteren waren sozusagen verschworene Feinde des Nazismus.
     - who: David Boder
-      start: '00:08:40.513'
-      end: '00:08:41.153'
+      start:
+        sec: '520.513'
+        mark: '00:08:40.513'
+      end:
+        sec: '521.153'
+        mark: '00:08:41.153'
       u: Ja.
     - who: Victor Ferdinansk
-      start: '00:08:41.153'
-      end: '00:08:53.567'
+      start:
+        sec: '521.153'
+        mark: '00:08:41.153'
+      end:
+        sec: '533.567'
+        mark: '00:08:53.567'
       u: Aber es gab auch jüngere Deutsche, die man...als, als Ausländer man wurde
         nicht ange...[unverständlich]. Wir sind im Kloster gelassen, aber die jungen
         Leute, Prediger sind eingerückt...
     - who: David Boder
-      start: '00:08:53.567'
-      end: '00:08:54.661'
+      start:
+        sec: '533.567'
+        mark: '00:08:53.567'
+      end:
+        sec: '534.661'
+        mark: '00:08:54.661'
       u: Was heißt eingerückt?
     - who: Victor Ferdinansk
-      start: '00:08:54.661'
-      end: '00:08:57.056'
+      start:
+        sec: '534.661'
+        mark: '00:08:54.661'
+      end:
+        sec: '537.056'
+        mark: '00:08:57.056'
       u: Eingerückt, das heißt in die Armee...
     - who: David Boder
-      start: '00:08:57.056'
-      end: '00:08:58.665'
+      start:
+        sec: '537.056'
+        mark: '00:08:57.056'
+      end:
+        sec: '538.665'
+        mark: '00:08:58.665'
       u: Oh, sie wurden genommen?
     - who: Victor Ferdinansk
-      start: '00:08:58.665'
-      end: '00:09:04.009'
+      start:
+        sec: '538.665'
+        mark: '00:08:58.665'
+      end:
+        sec: '544.009'
+        mark: '00:09:04.009'
       u: Ja, genommen und sollten auch für die hitlerische Sache kämpfen.
     - who: David Boder
-      start: '00:09:04.009'
-      end: '00:09:05.041'
+      start:
+        sec: '544.009'
+        mark: '00:09:04.009'
+      end:
+        sec: '545.041'
+        mark: '00:09:05.041'
       u: Hm.
     - who: Victor Ferdinansk
-      start: '00:09:05.041'
-      end: '00:09:22.200'
+      start:
+        sec: '545.041'
+        mark: '00:09:05.041'
+      end:
+        sec: '562.200'
+        mark: '00:09:22.200'
       u: Die sind selbstverständlich durch die Hitler Schule durchgegangen und haben
         das Militär...haben den Militärdienst durch gemacht und, hm, als junge Leute
         waren die nicht genug kritisch, um die Sache richtig zu erkennen.
     - who: David Boder
-      start: '00:09:22.200'
-      end: '00:09:27.793'
+      start:
+        sec: '562.200'
+        mark: '00:09:22.200'
+      end:
+        sec: '567.793'
+        mark: '00:09:27.793'
       u: Nun, wann haben Sie die gesehen? Nachdem sie das Militär durchgemacht haben
         oder wie war das Ganze?
     - who: Victor Ferdinansk
-      start: '00:09:27.793'
-      end: '00:09:33.647'
+      start:
+        sec: '567.793'
+        mark: '00:09:27.793'
+      end:
+        sec: '573.647'
+        mark: '00:09:33.647'
       u: Ja, während der Kriegszeit sind sie doch oft und oft wieder mal auf Urlaub
         gekommen.
     - who: David Boder
-      start: '00:09:33.647'
-      end: '00:09:34.803'
+      start:
+        sec: '573.647'
+        mark: '00:09:33.647'
+      end:
+        sec: '574.803'
+        mark: '00:09:34.803'
       u: Oh ja, nun?
     - who: Victor Ferdinansk
-      start: '00:09:34.803'
-      end: '00:09:45.795'
+      start:
+        sec: '574.803'
+        mark: '00:09:34.803'
+      end:
+        sec: '585.795'
+        mark: '00:09:45.795'
       u: Und da konnte man sich im kurzen Gesprächen einen Blick bekommen, wie sie
         denken. Alle waren vom Hitler—man kann sagen—größtenteils begeistert.
     - who: David Boder
-      start: '00:09:45.795'
-      end: '00:09:46.327'
+      start:
+        sec: '585.795'
+        mark: '00:09:45.795'
+      end:
+        sec: '586.327'
+        mark: '00:09:46.327'
       u: Ja.
     - who: Victor Ferdinansk
-      start: '00:09:46.327'
-      end: '00:09:47.312'
+      start:
+        sec: '586.327'
+        mark: '00:09:46.327'
+      end:
+        sec: '587.312'
+        mark: '00:09:47.312'
       u: Die jungen Leute.
     - who: David Boder
-      start: '00:09:47.312'
-      end: '00:09:47.765'
+      start:
+        sec: '587.312'
+        mark: '00:09:47.312'
+      end:
+        sec: '587.765'
+        mark: '00:09:47.765'
       u: Ja.
     - who: Victor Ferdinansk
-      start: '00:09:47.765'
-      end: '00:09:56.249'
+      start:
+        sec: '587.765'
+        mark: '00:09:47.765'
+      end:
+        sec: '596.249'
+        mark: '00:09:56.249'
       u: Aber ich habe allerdings auch getroffen, die die Hitler auch anders verstanden
         haben, als der Hitler selbst.
     - who: David Boder
-      start: '00:09:56.249'
-      end: '00:10:02.749'
+      start:
+        sec: '596.249'
+        mark: '00:09:56.249'
+      end:
+        sec: '602.749'
+        mark: '00:10:02.749'
       u: Nun sagen Sie mal, wo...hm, wo war der Bischof Faulhaber? Wo war der jetzt,
         in München?
     - who: Victor Ferdinansk
-      start: '00:10:02.749'
-      end: '00:10:07.659'
+      start:
+        sec: '602.749'
+        mark: '00:10:02.749'
+      end:
+        sec: '607.659'
+        mark: '00:10:07.659'
       u: Ja, zu dieser...war Bischof,...Kardinal Faulhaber...
     - who: David Boder
-      start: '00:10:07.659'
-      end: '00:10:08.643'
+      start:
+        sec: '607.659'
+        mark: '00:10:07.659'
+      end:
+        sec: '608.643'
+        mark: '00:10:08.643'
       u: Kardinal Faulhaber?
     - who: Victor Ferdinansk
-      start: '00:10:08.643'
-      end: '00:00:00.000'
+      start:
+        sec: '608.643'
+        mark: '00:10:08.643'
+      end:
+        sec: ''
+        mark: '00:00:00.000'
       u: ". . . war er in München."
     - who: Victor Ferdinansk
-      start: '00:00:00.000'
-      end: '00:10:09.880'
+      start:
+        sec: ''
+        mark: '00:00:00.000'
+      end:
+        sec: '609.880'
+        mark: '00:10:09.880'
       u: Ah, in München war er.
     - who: David Boder
-      start: '00:10:09.880'
-      end: '00:10:10.633'
+      start:
+        sec: '609.880'
+        mark: '00:10:09.880'
+      end:
+        sec: '610.633'
+        mark: '00:10:10.633'
       u: Ja.
     - who: David Boder
-      start: '00:10:10.633'
-      end: '00:10:13.378'
+      start:
+        sec: '610.633'
+        mark: '00:10:10.633'
+      end:
+        sec: '613.378'
+        mark: '00:10:13.378'
       u: Ja. Er war nicht pro Hitler.
     - who: Victor Ferdinansk
-      start: '00:10:13.378'
-      end: '00:10:16.519'
+      start:
+        sec: '613.378'
+        mark: '00:10:13.378'
+      end:
+        sec: '616.519'
+        mark: '00:10:16.519'
       u: Nein, auf keinen Fall.
     - who: David Boder
-      start: '00:10:16.519'
-      end: '00:10:33.878'
+      start:
+        sec: '616.519'
+        mark: '00:10:16.519'
+      end:
+        sec: '633.878'
+        mark: '00:10:33.878'
       u: Nun und die Anderen, sagen Sie mir, was haben sie gewusst von der Verfolgung
         von verschiedenen Völkern? Sagen wir, zum Beispiel, was haben Sie gewusst,
         was man mit den Juden getan hat, mit den Norwegern, mit den Zigeuners, und
         so weiter?
     - who: Victor Ferdinansk
-      start: '00:10:33.878'
-      end: '00:10:51.564'
+      start:
+        sec: '633.878'
+        mark: '00:10:33.878'
+      end:
+        sec: '651.564'
+        mark: '00:10:51.564'
       u: Ja, was mit den Juden gemacht wurde, das wurde allen klar. Wir haben alle
         gewusst, dass die Juden eingesperrt werden und ermordet. Das haben auch die
         Deutschen gewusst. Aber dagegen war selbstverständlich nichts zu tun.
     - who: David Boder
-      start: '00:10:51.564'
-      end: '00:10:52.486'
+      start:
+        sec: '651.564'
+        mark: '00:10:51.564'
+      end:
+        sec: '652.486'
+        mark: '00:10:52.486'
       u: Hm.
     - who: Victor Ferdinansk
-      start: '00:10:52.486'
-      end: '00:11:03.126'
+      start:
+        sec: '652.486'
+        mark: '00:10:52.486'
+      end:
+        sec: '663.126'
+        mark: '00:11:03.126'
       u: Denn wir als Ausländer konnten es richtig schätzen, dass wir noch irgendwie
         als Menschen leben können und nicht eingesperrt sind.
     - who: David Boder
-      start: '00:11:03.126'
-      end: '00:11:11.813'
+      start:
+        sec: '663.126'
+        mark: '00:11:03.126'
+      end:
+        sec: '671.813'
+        mark: '00:11:11.813'
       u: Hm, aber die Deutschen selbst, die deutschen Geistlichen, die haben es gewusst
         und was haben die darüber gesagt? Habt sie gesagt, dass es denen recht ist
         oder...?
     - who: Victor Ferdinansk
-      start: '00:11:11.813'
-      end: '00:11:30.781'
+      start:
+        sec: '671.813'
+        mark: '00:11:11.813'
+      end:
+        sec: '690.781'
+        mark: '00:11:30.781'
       u: Die deutschen Geistlichen haben das nie gebilligt und bei den Vorlesungen
         bei dem Alten Testament, manchmal ist Frage aufgeworfen worden, was die Juden
         anbelangt. Da kann ich mich gut erinnern, dass der Herr Professor habe sich
         entschieden gegen die Misshandlung der Juden ausgesprochen.
     - who: David Boder
-      start: '00:11:30.781'
-      end: '00:11:33.250'
+      start:
+        sec: '690.781'
+        mark: '00:11:30.781'
+      end:
+        sec: '693.250'
+        mark: '00:11:33.250'
       u: Und was haben die deutschen Studenten gesagt?
     - who: Victor Ferdinansk
-      start: '00:11:33.250'
-      end: '00:11:50.906'
+      start:
+        sec: '693.250'
+        mark: '00:11:33.250'
+      end:
+        sec: '710.906'
+        mark: '00:11:50.906'
       u: Die deutschen Studenten, die haben auch immer die, hm, Herabsetzung einer
         bestimmten Nationalität auch abgelehnt—als Theologen - das haben sie immer
         gemacht.
     - who: David Boder
-      start: '00:11:50.906'
-      end: '00:12:00.040'
+      start:
+        sec: '710.906'
+        mark: '00:11:50.906'
+      end:
+        sec: '720.040'
+        mark: '00:12:00.040'
       u: Nun, sagen Sie, wie haben sie sich zum Krieg verhalten? Wollten sie, dass
         Deutschland den Krieg gewinnen soll—und so weiter?
     - who: Victor Ferdinansk
-      start: '00:12:00.040'
-      end: '00:12:01.899'
+      start:
+        sec: '720.040'
+        mark: '00:12:00.040'
+      end:
+        sec: '721.899'
+        mark: '00:12:01.899'
       u: Das war sehr verschieden, die...
     - who: David Boder
-      start: '00:12:01.899'
-      end: '00:12:03.243'
+      start:
+        sec: '721.899'
+        mark: '00:12:01.899'
+      end:
+        sec: '723.243'
+        mark: '00:12:03.243'
       u: Sie verstehen, dass ich jetzt bloß...
     - who: Victor Ferdinansk
-      start: '00:12:03.243'
-      end: '00:12:03.852'
+      start:
+        sec: '723.243'
+        mark: '00:12:03.243'
+      end:
+        sec: '723.852'
+        mark: '00:12:03.852'
       u: Ja.
     - who: David Boder
-      start: '00:12:03.852'
-      end: '00:12:04.821'
+      start:
+        sec: '723.852'
+        mark: '00:12:03.852'
+      end:
+        sec: '724.821'
+        mark: '00:12:04.821'
       u: ". . . eine solche Frage stelle,..."
     - who: Victor Ferdinansk
-      start: '00:12:04.821'
-      end: '00:12:05.352'
+      start:
+        sec: '724.821'
+        mark: '00:12:04.821'
+      end:
+        sec: '725.352'
+        mark: '00:12:05.352'
       u: Ja.
     - who: David Boder
-      start: '00:12:05.352'
-      end: '00:12:09.417'
+      start:
+        sec: '725.352'
+        mark: '00:12:05.352'
+      end:
+        sec: '729.417'
+        mark: '00:12:09.417'
       u: ". . . weil Sie ein besserer Beobachter sind als Andere."
     - who: Victor Ferdinansk
-      start: '00:12:09.417'
-      end: '00:12:10.105'
+      start:
+        sec: '729.417'
+        mark: '00:12:09.417'
+      end:
+        sec: '730.105'
+        mark: '00:12:10.105'
       u: Ja.
     - who: David Boder
-      start: '00:12:10.105'
-      end: '00:12:19.239'
+      start:
+        sec: '730.105'
+        mark: '00:12:10.105'
+      end:
+        sec: '739.239'
+        mark: '00:12:19.239'
       u: Sie waren ja nicht im Lager, Sie waren, hm, ein bisschen frei. Sie konnten
         mit den Deutschen reden, die Anderen konnten nicht, nicht wahr! Also weiter.
     - who: Victor Ferdinansk
-      start: '00:12:19.239'
-      end: '00:12:37.019'
+      start:
+        sec: '739.239'
+        mark: '00:12:19.239'
+      end:
+        sec: '757.019'
+        mark: '00:12:37.019'
       u: Also es war sehr verschieden. Die Meisten wollten damit...der Krieg zu gewinnen,
         damit, hm, damit der Krieg gewonnen würde, denn damit habe sie gerade auch
         ihre Existenzmöglichkeiten gesehen.
     - who: David Boder
-      start: '00:12:37.019'
-      end: '00:12:39.991'
+      start:
+        sec: '757.019'
+        mark: '00:12:37.019'
+      end:
+        sec: '759.991'
+        mark: '00:12:39.991'
       u: Oh ja, und sie waren doch...sie haben zum Lande gehört, nicht wahr?
     - who: Victor Ferdinansk
-      start: '00:12:39.991'
-      end: '00:12:40.741'
+      start:
+        sec: '759.991'
+        mark: '00:12:39.991'
+      end:
+        sec: '760.741'
+        mark: '00:12:40.741'
       u: Ja.
     - who: David Boder
-      start: '00:12:40.741'
-      end: '00:12:46.148'
+      start:
+        sec: '760.741'
+        mark: '00:12:40.741'
+      end:
+        sec: '766.148'
+        mark: '00:12:46.148'
       u: Man kann das ja schließlich einem Menschen nicht übel nehmen, wenn er will,
         dass sein Land den Krieg gewinnt, sie verstehen das?
     - who: Victor Ferdinansk
-      start: '00:12:46.148'
-      end: '00:12:47.086'
+      start:
+        sec: '766.148'
+        mark: '00:12:46.148'
+      end:
+        sec: '767.086'
+        mark: '00:12:47.086'
       u: Ja, ich verstehe Sie.
     - who: David Boder
-      start: '00:12:47.086'
-      end: '00:13:00.819'
+      start:
+        sec: '767.086'
+        mark: '00:12:47.086'
+      end:
+        sec: '780.819'
+        mark: '00:13:00.819'
       u: Ja, nun sie wollten gewinnen. Wie kam es als es zum Ende kam? Nun? Waren
         Sie im Kloster, wie die Amerikaner herein kamen?
     - who: Victor Ferdinansk
-      start: '00:13:00.819'
-      end: '00:13:02.631'
+      start:
+        sec: '780.819'
+        mark: '00:13:00.819'
+      end:
+        sec: '782.631'
+        mark: '00:13:02.631'
       u: Ja, ich war damals noch im Kloster.
     - who: David Boder
-      start: '00:13:02.631'
-      end: '00:13:04.850'
+      start:
+        sec: '782.631'
+        mark: '00:13:02.631'
+      end:
+        sec: '784.850'
+        mark: '00:13:04.850'
       u: Und wie hat das ausgesehen, erzählen Sie mir.
     - who: Victor Ferdinansk
-      start: '00:13:04.850'
-      end: '00:13:16.398'
+      start:
+        sec: '784.850'
+        mark: '00:13:04.850'
+      end:
+        sec: '796.398'
+        mark: '00:13:16.398'
       u: Ja, die Meisten haben sich sehr ruhig verhalten und waren damit zufrieden,
         dass es endlich mit der Hitler Wirtschaft zu Ende geht.
     - who: David Boder
-      start: '00:13:16.398'
-      end: '00:13:19.814'
+      start:
+        sec: '796.398'
+        mark: '00:13:16.398'
+      end:
+        sec: '799.814'
+        mark: '00:13:19.814'
       u: Und sie haben gewusst, die Amerikaner werden Ihnen nichts tun?
     - who: Victor Ferdinansk
-      start: '00:13:19.814'
-      end: '00:13:34.782'
+      start:
+        sec: '799.814'
+        mark: '00:13:19.814'
+      end:
+        sec: '814.782'
+        mark: '00:13:34.782'
       u: Ja, selbstverständlich. Aber ich habe auch oft manche junge Soldaten getroffen,
         das heißt vorherige Soldaten, die sehr betrübt darüber waren, dass fremde
         Soldaten in ihr eigenes Land gekommen sind.
     - who: David Boder
-      start: '00:13:34.782'
-      end: '00:13:37.204'
+      start:
+        sec: '814.782'
+        mark: '00:13:34.782'
+      end:
+        sec: '817.204'
+        mark: '00:13:37.204'
       u: Na ja, waren die nicht selber in anderen Ländern?
     - who: Victor Ferdinansk
-      start: '00:13:37.204'
-      end: '00:13:49.954'
+      start:
+        sec: '817.204'
+        mark: '00:13:37.204'
+      end:
+        sec: '829.954'
+        mark: '00:13:49.954'
       u: Das stimmt schon, aber als Kinder ihrer Heimat, \waren sie darüber nicht
         besonders erfreut. Ich habe das wenigstens von dieser Seite beobachten können.
     - who: David Boder
-      start: '00:13:49.954'
-      end: '00:14:02.360'
+      start:
+        sec: '829.954'
+        mark: '00:13:49.954'
+      end:
+        sec: '842.360'
+        mark: '00:14:02.360'
       u: Nun haben Sie gesehen unter den Deutschen oder unter den Geistlichen, dass
         die eine gewisse Kriegsschuld fühlten?
     - who: Victor Ferdinansk
-      start: '00:14:02.360'
-      end: '00:14:24.872'
+      start:
+        sec: '842.360'
+        mark: '00:14:02.360'
+      end:
+        sec: '864.872'
+        mark: '00:14:24.872'
       u: Das habe ich nicht ganz genau feststellen können. Aber ich glaube, dass wenn
         man breiter denkt, dass jeder Mensch an der Sache seines Nächsten sich irgendwie
         schuldig fühlen kann...
     - who: David Boder
-      start: '00:14:24.872'
-      end: '00:14:25.715'
+      start:
+        sec: '864.872'
+        mark: '00:14:24.872'
+      end:
+        sec: '865.715'
+        mark: '00:14:25.715'
       u: Hm.
     - who: Victor Ferdinansk
-      start: '00:14:25.715'
-      end: '00:14:28.278'
+      start:
+        sec: '865.715'
+        mark: '00:14:25.715'
+      end:
+        sec: '868.278'
+        mark: '00:14:28.278'
       u: ". . . und insoweit haben sie sich auch schuldig gefühlt."
     - who: David Boder
-      start: '00:14:28.278'
-      end: '00:14:39.575'
+      start:
+        sec: '868.278'
+        mark: '00:14:28.278'
+      end:
+        sec: '879.575'
+        mark: '00:14:39.575'
       u: Nun ja, haben Sie gesehen, dass es irgendwie ein Gefühl war, dass man etwas
         gut machen muss, was man der Welt angetan hat?
     - who: Victor Ferdinansk
-      start: '00:14:39.575'
-      end: '00:14:47.543'
+      start:
+        sec: '879.575'
+        mark: '00:14:39.575'
+      end:
+        sec: '887.543'
+        mark: '00:14:47.543'
       u: Das gerade habe ich nicht bemerkt, dass man das unbedingt gut machen kann.
     - who: David Boder
-      start: '00:14:47.543'
-      end: '00:14:50.355'
+      start:
+        sec: '887.543'
+        mark: '00:14:47.543'
+      end:
+        sec: '890.355'
+        mark: '00:14:50.355'
       u: Gut machen muss!
     - who: Victor Ferdinansk
-      start: '00:14:50.355'
-      end: '00:14:52.214'
+      start:
+        sec: '890.355'
+        mark: '00:14:50.355'
+      end:
+        sec: '892.214'
+        mark: '00:14:52.214'
       u: Oder muss, das habe ich nicht bemerkt.
     - who: David Boder
-      start: '00:14:52.214'
-      end: '00:15:01.443'
+      start:
+        sec: '892.214'
+        mark: '00:14:52.214'
+      end:
+        sec: '901.443'
+        mark: '00:15:01.443'
       u: Nun sagen wir zum Beispiel, das. Sie waren jetzt in Amerika gewesen Kleider
         zu schicken für die Deutschen. Nicht wahr? Und so viel wird auch geschickt.
     - who: Victor Ferdinansk
-      start: '00:15:01.443'
-      end: '00:15:01.928'
+      start:
+        sec: '901.443'
+        mark: '00:15:01.443'
+      end:
+        sec: '901.928'
+        mark: '00:15:01.928'
       u: Ja.
     - who: David Boder
-      start: '00:15:01.928'
-      end: '00:15:07.709'
+      start:
+        sec: '901.928'
+        mark: '00:15:01.928'
+      end:
+        sec: '907.709'
+        mark: '00:15:07.709'
       u: Nun haben die Deutschen selber alles weggegeben, was sie weggeben konnten?
     - who: Victor Ferdinansk
-      start: '00:15:07.709'
-      end: '00:15:09.771'
+      start:
+        sec: '907.709'
+        mark: '00:15:07.709'
+      end:
+        sec: '909.771'
+        mark: '00:15:09.771'
       u: Für wen? Für wen?
     - who: David Boder
-      start: '00:15:09.771'
-      end: '00:15:15.205'
+      start:
+        sec: '909.771'
+        mark: '00:15:09.771'
+      end:
+        sec: '915.205'
+        mark: '00:15:15.205'
       u: Für die armen Deutschen und für die...für die anderen verschleppten Leute.
     - who: Victor Ferdinansk
-      start: '00:15:15.205'
-      end: '00:15:46.615'
+      start:
+        sec: '915.205'
+        mark: '00:15:15.205'
+      end:
+        sec: '946.615'
+        mark: '00:15:46.615'
       u: Nein, denn die Deutschen haben die ganze Zeit die Verschleppten oder uns
         Ausländer wirklich misshandelt. Und dies als Theologe habe ich immer sehr
         tief gespürt und das ganze Übel fünf, sechs Jahre lang mit Schmerzen tragen
@@ -781,161 +1433,293 @@ recording:
         Behörde, wurde mir immer zu verstehen gegeben, dass ich ein Ausländer bin
         und nichts da zu suchen habe.
     - who: David Boder
-      start: '00:15:46.615'
-      end: '00:15:54.381'
+      start:
+        sec: '946.615'
+        mark: '00:15:46.615'
+      end:
+        sec: '954.381'
+        mark: '00:15:54.381'
       u: Nun sagen Sie mir zum Beispiel, warum gehen Sie jetzt auf die UNRRA Universität
         und gehen nicht direkt zu einer deutschen Universität Jura zu studieren?
     - who: Victor Ferdinansk
-      start: '00:15:54.381'
-      end: '00:16:11.275'
+      start:
+        sec: '954.381'
+        mark: '00:15:54.381'
+      end:
+        sec: '971.275'
+        mark: '00:16:11.275'
       u: Ich kenne die Deutschen sehr gut und es würde mir wirklich weh tun, dass
         ich bei denen Zuflucht zu suchen gezwungen bin, wie ich hatte. Nur aus diesem
         Grunde will ich nichts mit die Deutschen zu tun haben.
     - who: David Boder
-      start: '00:16:11.275'
-      end: '00:16:12.916'
+      start:
+        sec: '971.275'
+        mark: '00:16:11.275'
+      end:
+        sec: '972.916'
+        mark: '00:16:12.916'
       u: Aber Sie hatten...
     - who: Victor Ferdinansk
-      start: '00:16:12.916'
-      end: '00:16:18.727'
+      start:
+        sec: '972.916'
+        mark: '00:16:12.916'
+      end:
+        sec: '978.727'
+        mark: '00:16:18.727'
       u: Die waren meine Feinde die ganze Zeit, weil ich die sehr gut kenne, ich habe
         die Gelegenheit gehabt dazu.
     - who: David Boder
-      start: '00:16:18.727'
-      end: '00:16:21.258'
+      start:
+        sec: '978.727'
+        mark: '00:16:18.727'
+      end:
+        sec: '981.258'
+        mark: '00:16:21.258'
       u: Nun wo denken Sie denn Jura zu praktizieren?
     - who: Victor Ferdinansk
-      start: '00:16:21.258'
-      end: '00:16:44.995'
+      start:
+        sec: '981.258'
+        mark: '00:16:21.258'
+      end:
+        sec: '1004.995'
+        mark: '00:16:44.995'
       u: Ja, das ist eine Frage, auf die ich vorläufig keine Antwort geben kann. Ich
         wenigstens...ich hoffe wenigstens, dass die Zeit günstig sein wird und wir
         in ein paar Jahren wieder in unsere Heimat zurück kehren dürfen.
     - who: David Boder
-      start: '00:16:44.995'
-      end: '00:16:56.338'
+      start:
+        sec: '1004.995'
+        mark: '00:16:44.995'
+      end:
+        sec: '1016.338'
+        mark: '00:16:56.338'
       u: Wie stellen Sie sich das vor? Denken Sie, dass die Russen weg gehen werden
         oder dass die Russen werden besser werden, oder was denken Sie?
     - who: Victor Ferdinansk
-      start: '00:16:56.338'
-      end: '00:17:06.199'
+      start:
+        sec: '1016.338'
+        mark: '00:16:56.338'
+      end:
+        sec: '1026.199'
+        mark: '00:17:06.199'
       u: Ja, das ist meine persönlich Ansicht, dass die Lage, wie sie jetzt ist, nicht
         lange bestehen kann.
     - who: David Boder
-      start: '00:17:06.199'
-      end: '00:17:07.449'
+      start:
+        sec: '1026.199'
+        mark: '00:17:06.199'
+      end:
+        sec: '1027.449'
+        mark: '00:17:07.449'
       u: In welchem Sinn?
     - who: Victor Ferdinansk
-      start: '00:17:07.449'
-      end: '00:17:11.380'
+      start:
+        sec: '1027.449'
+        mark: '00:17:07.449'
+      end:
+        sec: '1031.38'
+        mark: '00:17:11.380'
       u: Das bedeutet alle...die ganze weltpolitische Lage.
     - who: David Boder
-      start: '00:17:11.380'
-      end: '00:17:11.818'
+      start:
+        sec: '1031.38'
+        mark: '00:17:11.380'
+      end:
+        sec: '1031.818'
+        mark: '00:17:11.818'
       u: Ja.
     - who: Victor Ferdinansk
-      start: '00:17:11.818'
-      end: '00:17:17.583'
+      start:
+        sec: '1031.818'
+        mark: '00:17:11.818'
+      end:
+        sec: '1037.583'
+        mark: '00:17:17.583'
       u: Das ist ein Übergang von einem Stadium zum anderen Stadium.
     - who: David Boder
-      start: '00:17:17.583'
-      end: '00:17:18.474'
+      start:
+        sec: '1037.583'
+        mark: '00:17:17.583'
+      end:
+        sec: '1038.474'
+        mark: '00:17:18.474'
       u: Ja.
     - who: Victor Ferdinansk
-      start: '00:17:18.474'
-      end: '00:17:42.863'
+      start:
+        sec: '1038.474'
+        mark: '00:17:18.474'
+      end:
+        sec: '1062.863'
+        mark: '00:17:42.863'
       u: Und als solcher, das kann nicht lange bestehen bleiben. Das ist doch ein
         Weg, ein ewiges Fortschreiten. Und ich glaube, dass entweder auf einem friedlichen
         oder einem militärischen Wege wird uns die Möglichkeit verschafft in unsere
         Heimat zurück zu kehren.
     - who: David Boder
-      start: '00:17:42.863'
-      end: '00:17:50.878'
+      start:
+        sec: '1062.863'
+        mark: '00:17:42.863'
+      end:
+        sec: '1070.878'
+        mark: '00:17:50.878'
       u: Haben Sie welche Verbindung mit Ihrer Heimat? Was hören Sie von ihren...sie
         haben dort, sie haben doch Eltern gehabt, nicht wahr?
     - who: Victor Ferdinansk
-      start: '00:17:50.878'
-      end: '00:17:53.034'
+      start:
+        sec: '1070.878'
+        mark: '00:17:50.878'
+      end:
+        sec: '1073.034'
+        mark: '00:17:53.034'
       u: Ja, ich habe meine Eltern in meiner Heimat, ja.
     - who: David Boder
-      start: '00:17:53.034'
-      end: '00:17:55.924'
+      start:
+        sec: '1073.034'
+        mark: '00:17:53.034'
+      end:
+        sec: '1075.924'
+        mark: '00:17:55.924'
       u: Wann haben Sie zuletzt von denen gehört?
     - who: Victor Ferdinansk
-      start: '00:17:55.924'
-      end: '00:18:14.620'
+      start:
+        sec: '1075.924'
+        mark: '00:17:55.924'
+      end:
+        sec: '1094.620'
+        mark: '00:18:14.620'
       u: Die Verbindung mit meinen Eltern ist abgebrochen in dem Jahre 1944, als die
         Russen an der litauischen Grenze, an der westlichen Grenze standen...und jeder
         Postverkehr zwischen Deutschland und Litauen abgebrochen wurde.
     - who: David Boder
-      start: '00:18:14.620'
-      end: '00:18:15.558'
+      start:
+        sec: '1094.620'
+        mark: '00:18:14.620'
+      end:
+        sec: '1095.558'
+        mark: '00:18:15.558'
       u: Hm.
     - who: Victor Ferdinansk
-      start: '00:18:15.558'
-      end: '00:18:24.995'
+      start:
+        sec: '1095.558'
+        mark: '00:18:15.558'
+      end:
+        sec: '1104.995'
+        mark: '00:18:24.995'
       u: Seit dem habe ich von meinen Eltern gar nichts gehört und ich befürchte sehr,
         dass sie nicht mehr am Leben sind.
     - who: David Boder
-      start: '00:18:24.995'
-      end: '00:18:30.479'
+      start:
+        sec: '1104.995'
+        mark: '00:18:24.995'
+      end:
+        sec: '1110.479'
+        mark: '00:18:30.479'
       u: Gibt es nicht irgend welchen Weg sich zu verständigen durch das Rote Kreuz
         oder irgendwie?
     - who: Victor Ferdinansk
-      start: '00:18:30.479'
-      end: '00:18:34.650'
+      start:
+        sec: '1110.479'
+        mark: '00:18:30.479'
+      end:
+        sec: '1114.650'
+        mark: '00:18:34.650'
       u: Wenn es auch geben würde, würde ich das nicht probieren.
     - who: David Boder
-      start: '00:18:34.650'
-      end: '00:18:35.400'
+      start:
+        sec: '1114.650'
+        mark: '00:18:34.650'
+      end:
+        sec: '1115.400'
+        mark: '00:18:35.400'
       u: Ja?
     - who: Victor Ferdinansk
-      start: '00:18:35.400'
-      end: '00:19:02.542'
+      start:
+        sec: '1115.400'
+        mark: '00:18:35.400'
+      end:
+        sec: '1142.542'
+        mark: '00:19:02.542'
       u: Ich habe Angst meinen Eltern zu sagen, dass ich lebendig bin und mich in
         Deutschland befinde. Denn darin würden die Russen oder die Kommunisten deutlich
         in meinen Eltern ein Element sehen, das Ihnen unlieb ist.
     - who: David Boder
-      start: '00:19:02.542'
-      end: '00:19:06.192'
+      start:
+        sec: '1142.542'
+        mark: '00:19:02.542'
+      end:
+        sec: '1146.192'
+        mark: '00:19:06.192'
       u: Nun sagen Sie mir, wie geht es hier an der Universität?
     - who: Victor Ferdinansk
-      start: '00:19:06.192'
-      end: '00:19:30.931'
+      start:
+        sec: '1146.192'
+        mark: '00:19:06.192'
+      end:
+        sec: '1170.931'
+        mark: '00:19:30.931'
       u: Ja von dieser Universität bin ich sehr begeistert und mit meinem ganzen Herzen
         bin ich dabei. Aber jeder Anfang ist auch schwer, darum ist der Anfang an
         dieser Universität auch sehr schwer. Wir haben auch sehr wenig Geld, auch
         wenige Präparate, auch keine Laboratorien...
     - who: David Boder
-      start: '00:19:30.931'
-      end: '00:19:32.337'
+      start:
+        sec: '1170.931'
+        mark: '00:19:30.931'
+      end:
+        sec: '1172.337'
+        mark: '00:19:32.337'
       u: Wie steht es mit den Büchern?
     - who: Victor Ferdinansk
-      start: '00:19:32.337'
-      end: '00:19:35.903'
+      start:
+        sec: '1172.337'
+        mark: '00:19:32.337'
+      end:
+        sec: '1175.903'
+        mark: '00:19:35.903'
       u: Auch fast keine Bibliothek.
     - who: David Boder
-      start: '00:19:35.903'
-      end: '00:19:42.481'
+      start:
+        sec: '1175.903'
+        mark: '00:19:35.903'
+      end:
+        sec: '1182.481'
+        mark: '00:19:42.481'
       u: Sie sind ein Student, sie studieren Jura. Studieren Sie das deutsche Gesetz
         oder was für ein Gesetz studieren Sie?
     - who: Victor Ferdinansk
-      start: '00:19:42.481'
-      end: '00:19:54.126'
+      start:
+        sec: '1182.481'
+        mark: '00:19:42.481'
+      end:
+        sec: '1194.126'
+        mark: '00:19:54.126'
       u: Als Juristen und als Studenten in dem dritten und zweiten Semester studieren
         wir gewöhnlich die Einführungen in das Recht, das heißt das römische Recht.
     - who: David Boder
-      start: '00:19:54.126'
-      end: '00:19:55.251'
+      start:
+        sec: '1194.126'
+        mark: '00:19:54.126'
+      end:
+        sec: '1195.251'
+        mark: '00:19:55.251'
       u: Ja.
     - who: Victor Ferdinansk
-      start: '00:19:55.251'
-      end: '00:20:07.656'
+      start:
+        sec: '1195.251'
+        mark: '00:19:55.251'
+      end:
+        sec: '1207.656'
+        mark: '00:20:07.656'
       u: Einführung in das Recht, Soziologie, allgemeine Volkswirtschaftslehre, Statistik
         und das sind so allgemeine Fächer, die für alle Nationalitäten und Nationen
         gemeinsam sind.
     - who: David Boder
-      start: '00:20:07.656'
-      end: '00:20:59.257'
+      start:
+        sec: '1207.656'
+        mark: '00:20:07.656'
+      end:
+        sec: '1259.257'
+        mark: '00:20:59.257'
       u: Nun, es tut mir leid, wie müssen abbrechen. Ich möchte wirklich sehr gerne
         jeden von Euch für eine Stunde haben oder zwei—vielleicht wäre das besser.
         Aber Sie sehen, ich würde vorziehen zwei Personen oder drei Personen für drei
@@ -947,26 +1731,42 @@ recording:
         kann, aber ich werde es wenigstens zu wem hin schicken, der etwas tun könnte.
         Es hat mir wirklich gefreut Sie kennen zu lernen. Danke sehr.
     - who: Victor Ferdinansk
-      start: '00:20:59.257'
-      end: '00:21:01.688'
+      start:
+        sec: '1259.257'
+        mark: '00:20:59.257'
+      end:
+        sec: '1261.688'
+        mark: '00:21:01.688'
       u: Ich danke Ihnen auch.
   translation:
     language: en
     interview:
     - who: David Boder
-      start: '00:00:00.625'
-      end: '00:00:12.663'
+      start:
+        sec: '0.625'
+        mark: '00:00:00.625'
+      end:
+        sec: '12.663'
+        mark: '00:00:12.663'
       u: "[In English] Munich, September the 24th, 1946, at the UNRRA University of
         the Deutsches Museum. The interviewee is Mr. Victor Ferdinansk, a Lithuanian,
         who will talk to us in German."
     - who: David Boder
-      start: '00:00:12.663'
-      end: '00:00:20.122'
+      start:
+        sec: '12.663'
+        mark: '00:00:12.663'
+      end:
+        sec: '20.122'
+        mark: '00:00:20.122'
       u: "[In German:] Now tell me, Victor, what happened to you when the Russians
         had come to Lithuania?"
     - who: Victor Ferdinansk
-      start: '00:00:20.122'
-      end: '00:00:34.662'
+      start:
+        sec: '20.122'
+        mark: '00:00:20.122'
+      end:
+        sec: '34.662'
+        mark: '00:00:34.662'
       u: "[He speaks rather fluently, but it is the German of a foreigner.] And so
         the Russians came to Lithuania. They came in 1940. At that time I was a gymnasium
         pupil of third grade [possibly counting from the top], and in the autumn of
@@ -974,408 +1774,780 @@ recording:
         [Seminary of the Knights; origin of the name is not clear, but possibly named
         after the Crusaders]."
     - who: David Boder
-      start: '00:00:34.662'
-      end: '00:00:36.740'
+      start:
+        sec: '34.662'
+        mark: '00:00:34.662'
+      end:
+        sec: '36.740'
+        mark: '00:00:36.740'
       u: What is your religion?
     - who: Victor Ferdinansk
-      start: '00:00:36.740'
-      end: '00:00:38.302'
+      start:
+        sec: '36.740'
+        mark: '00:00:36.740'
+      end:
+        sec: '38.302'
+        mark: '00:00:38.302'
       u: I am a Roman Catholic.
     - who: David Boder
-      start: '00:00:38.302'
-      end: '00:00:39.958'
+      start:
+        sec: '38.302'
+        mark: '00:00:38.302'
+      end:
+        sec: '39.958'
+        mark: '00:00:39.958'
       u: Yes.
     - who: Victor Ferdinansk
-      start: '00:00:39.958'
-      end: '00:00:46.696'
+      start:
+        sec: '39.958'
+        mark: '00:00:39.958'
+      end:
+        sec: '46.696'
+        mark: '00:00:46.696'
       u: And it was clear to all of us that the Ritter Seminary will not continue
         to exist for long.
     - who: David Boder
-      start: '00:00:46.696'
-      end: '00:00:48.868'
+      start:
+        sec: '46.696'
+        mark: '00:00:46.696'
+      end:
+        sec: '48.868'
+        mark: '00:00:48.868'
       u: In what city was that seminary?
     - who: Victor Ferdinansk
-      start: '00:00:48.868'
-      end: '00:00:50.227'
+      start:
+        sec: '48.868'
+        mark: '00:00:48.868'
+      end:
+        sec: '50.227'
+        mark: '00:00:50.227'
       u: In Tallinn...[correction] in Kovno.
     - who: David Boder
-      start: '00:00:50.227'
-      end: '00:00:55.241'
+      start:
+        sec: '50.227'
+        mark: '00:00:50.227'
+      end:
+        sec: '55.241'
+        mark: '00:00:55.241'
       u: In Kovno? A so-called [in Russian] theological seminary.
     - who: Victor Ferdinansk
-      start: '00:00:55.241'
-      end: '00:00:56.585'
+      start:
+        sec: '55.241'
+        mark: '00:00:55.241'
+      end:
+        sec: '56.585'
+        mark: '00:00:56.585'
       u: A theological seminary.
     - who: David Boder
-      start: '00:00:56.585'
-      end: '00:00:58.335'
+      start:
+        sec: '56.585'
+        mark: '00:00:56.585'
+      end:
+        sec: '58.335'
+        mark: '00:00:58.335'
       u: Near Riga? Well...
     - who: Victor Ferdinansk
-      start: '00:00:58.335'
-      end: '00:01:30.034'
+      start:
+        sec: '58.335'
+        mark: '00:00:58.335'
+      end:
+        sec: '90.034'
+        mark: '00:01:30.034'
       u: And as a member of the Franciscan Order, I was sent by my superiors to Germany
         with instructions to go to Italy, since at that time a number of our compatriots
         studied in Italy, and they had already obtained for us the [proper] documents.
     - who: David Boder
-      start: '00:01:30.034'
-      end: '00:01:32.871'
+      start:
+        sec: '90.034'
+        mark: '00:01:30.034'
+      end:
+        sec: '92.871'
+        mark: '00:01:32.871'
       u: Now what does that mean, “the documents”? What kind of documents did you
         need?
     - who: Victor Ferdinansk
-      start: '00:01:32.871'
-      end: '00:01:35.465'
+      start:
+        sec: '92.871'
+        mark: '00:01:32.871'
+      end:
+        sec: '95.465'
+        mark: '00:01:35.465'
       u: That means entrance documents [permits] to Italy.
     - who: David Boder
-      start: '00:01:35.465'
-      end: '00:01:36.309'
+      start:
+        sec: '95.465'
+        mark: '00:01:35.465'
+      end:
+        sec: '96.309'
+        mark: '00:01:36.309'
       u: Yes.
     - who: Victor Ferdinansk
-      start: '00:01:36.309'
-      end: '00:01:41.958'
+      start:
+        sec: '96.309'
+        mark: '00:01:36.309'
+      end:
+        sec: '101.958'
+        mark: '00:01:41.958'
       u: But we were deeply disappointed when we came to Germany.
     - who: David Boder
-      start: '00:01:41.958'
-      end: '00:01:42.646'
+      start:
+        sec: '101.958'
+        mark: '00:01:41.958'
+      end:
+        sec: '102.646'
+        mark: '00:01:42.646'
       u: Yes.
     - who: Victor Ferdinansk
-      start: '00:01:42.646'
-      end: '00:01:56.370'
+      start:
+        sec: '102.646'
+        mark: '00:01:42.646'
+      end:
+        sec: '116.370'
+        mark: '00:01:56.370'
       u: I had the intention to get to Italy, but instead of that something different
         happened. At the illegal crossing of the border I was...
     - who: David Boder
-      start: '00:01:56.370'
-      end: '00:01:58.528'
+      start:
+        sec: '116.370'
+        mark: '00:01:56.370'
+      end:
+        sec: '118.528'
+        mark: '00:01:58.528'
       u: Oh, you had crossed the border to Germany illegally?
     - who: Victor Ferdinansk
-      start: '00:01:58.528'
-      end: '00:02:24.154'
+      start:
+        sec: '118.528'
+        mark: '00:01:58.528'
+      end:
+        sec: '144.154'
+        mark: '00:02:24.154'
       u: Yes. I was arrested and placed in a lager where I spent seven days. But then
         it was established [?] that I was not a spy. So then supplied with a pass,
         I was sent to Berlin where I had to render services as a prisoner [?] together
         with French prisoners who were in Germany.
     - who: David Boder
-      start: '00:02:24.154'
-      end: '00:02:26.903'
+      start:
+        sec: '144.154'
+        mark: '00:02:24.154'
+      end:
+        sec: '146.903'
+        mark: '00:02:26.903'
       u: Oh, so you did not get a traveler’s permit to Italy?
     - who: Victor Ferdinansk
-      start: '00:02:26.903'
-      end: '00:02:27.965'
+      start:
+        sec: '146.903'
+        mark: '00:02:26.903'
+      end:
+        sec: '147.965'
+        mark: '00:02:27.965'
       u: No.
     - who: David Boder
-      start: '00:02:27.965'
-      end: '00:02:31.558'
+      start:
+        sec: '147.965'
+        mark: '00:02:27.965'
+      end:
+        sec: '151.558'
+        mark: '00:02:31.558'
       u: You were simply taken prisoner?
     - who: Victor Ferdinansk
-      start: '00:02:31.558'
-      end: '00:02:34.714'
+      start:
+        sec: '151.558'
+        mark: '00:02:31.558'
+      end:
+        sec: '154.714'
+        mark: '00:02:34.714'
       u: I was arrested and taken to work.
     - who: David Boder
-      start: '00:02:34.714'
-      end: '00:02:36.229'
+      start:
+        sec: '154.714'
+        mark: '00:02:34.714'
+      end:
+        sec: '156.229'
+        mark: '00:02:36.229'
       u: Now go on.
     - who: Victor Ferdinansk
-      start: '00:02:36.229'
-      end: '00:02:40.979'
+      start:
+        sec: '156.229'
+        mark: '00:02:36.229'
+      end:
+        sec: '160.979'
+        mark: '00:02:40.979'
       u: After I had worked approximately three or four months...
     - who: David Boder
-      start: '00:02:40.979'
-      end: '00:02:42.932'
+      start:
+        sec: '160.979'
+        mark: '00:02:40.979'
+      end:
+        sec: '162.932'
+        mark: '00:02:42.932'
       u: Did you live in a lager?
     - who: Victor Ferdinansk
-      start: '00:02:42.932'
-      end: '00:02:47.072'
+      start:
+        sec: '162.932'
+        mark: '00:02:42.932'
+      end:
+        sec: '167.072'
+        mark: '00:02:47.072'
       u: That was a work lager.
     - who: David Boder
-      start: '00:02:47.072'
-      end: '00:02:47.666'
+      start:
+        sec: '167.072'
+        mark: '00:02:47.072'
+      end:
+        sec: '167.666'
+        mark: '00:02:47.666'
       u: Yes.
     - who: Victor Ferdinansk
-      start: '00:02:47.666'
-      end: '00:02:55.765'
+      start:
+        sec: '167.666'
+        mark: '00:02:47.666'
+      end:
+        sec: '175.765'
+        mark: '00:02:55.765'
       u: Very many slept in one room. I believe there were fifty people, at least.
     - who: David Boder
-      start: '00:02:55.765'
-      end: '00:02:56.734'
+      start:
+        sec: '175.765'
+        mark: '00:02:55.765'
+      end:
+        sec: '176.734'
+        mark: '00:02:56.734'
       u: Yes. Nu, and...
     - who: Victor Ferdinansk
-      start: '00:02:56.734'
-      end: '00:03:27.522'
+      start:
+        sec: '176.734'
+        mark: '00:02:56.734'
+      end:
+        sec: '207.522'
+        mark: '00:03:27.522'
       u: And once the whole building where we lived together was searched, and of
         the basis of my nationality [Lithuanian] I was again arrested by the Gestapo
         and taken to the police headquarters of Berlin. They questioned me at length
         for three hours, asked about various things, but it was established then that
         I was not a dangerous person, but just a student of theology...
     - who: David Boder
-      start: '00:03:27.522'
-      end: '00:03:28.178'
+      start:
+        sec: '207.522'
+        mark: '00:03:27.522'
+      end:
+        sec: '208.178'
+        mark: '00:03:28.178'
       u: Yes.
     - who: Victor Ferdinansk
-      start: '00:03:28.178'
-      end: '00:03:32.073'
+      start:
+        sec: '208.178'
+        mark: '00:03:28.178'
+      end:
+        sec: '212.073'
+        mark: '00:03:32.073'
       u: ". . . and I was released after the three-hour questioning."
     - who: David Boder
-      start: '00:03:32.073'
-      end: '00:03:32.948'
+      start:
+        sec: '212.073'
+        mark: '00:03:32.073'
+      end:
+        sec: '212.948'
+        mark: '00:03:32.948'
       u: Nu.
     - who: Victor Ferdinansk
-      start: '00:03:32.948'
-      end: '00:03:50.430'
+      start:
+        sec: '212.948'
+        mark: '00:03:32.948'
+      end:
+        sec: '230.430'
+        mark: '00:03:50.430'
       u: But the whole story was very unpleasant to me, and I did not want it to have
         possibly any [bad] consequences. For that reason I went from Berlin to Munich.
     - who: David Boder
-      start: '00:03:50.430'
-      end: '00:03:51.997'
+      start:
+        sec: '230.430'
+        mark: '00:03:50.430'
+      end:
+        sec: '231.997'
+        mark: '00:03:51.997'
       u: Now how come? Ille—...
     - who: Victor Ferdinansk
-      start: '00:03:51.997'
-      end: '00:03:53.216'
+      start:
+        sec: '231.997'
+        mark: '00:03:51.997'
+      end:
+        sec: '233.216'
+        mark: '00:03:53.216'
       u: Illegally...
     - who: David Boder
-      start: '00:03:53.216'
-      end: '00:04:02.313'
+      start:
+        sec: '233.216'
+        mark: '00:03:53.216'
+      end:
+        sec: '242.313'
+        mark: '00:04:02.313'
       u: Illegally. Now tell me, could you not come to an understanding with the Catholic
         clergy in Germany that they should help you? With the Franciscans?
     - who: Victor Ferdinansk
-      start: '00:04:02.313'
-      end: '00:04:12.892'
+      start:
+        sec: '242.313'
+        mark: '00:04:02.313'
+      end:
+        sec: '252.892'
+        mark: '00:04:12.892'
       u: No. In Berlin that was hardly possible, because all the authorities were
         badly set against religion, and there was nothing one could do.
     - who: David Boder
-      start: '00:04:12.892'
-      end: '00:04:13.720'
+      start:
+        sec: '252.892'
+        mark: '00:04:12.892'
+      end:
+        sec: '253.720'
+        mark: '00:04:13.720'
       u: Now...
     - who: Victor Ferdinansk
-      start: '00:04:13.720'
-      end: '00:04:16.980'
+      start:
+        sec: '253.720'
+        mark: '00:04:13.720'
+      end:
+        sec: '256.980'
+        mark: '00:04:16.980'
       u: I was then very young, and was in very poor command of the German language.
     - who: David Boder
-      start: '00:04:16.980'
-      end: '00:04:18.819'
+      start:
+        sec: '256.980'
+        mark: '00:04:16.980'
+      end:
+        sec: '258.819'
+        mark: '00:04:18.819'
       u: Were you permitted to go to church?
     - who: Victor Ferdinansk
-      start: '00:04:18.819'
-      end: '00:04:21.069'
+      start:
+        sec: '258.819'
+        mark: '00:04:18.819'
+      end:
+        sec: '261.069'
+        mark: '00:04:21.069'
       u: One was permitted to go to church.
     - who: David Boder
-      start: '00:04:21.069'
-      end: '00:04:23.553'
+      start:
+        sec: '261.069'
+        mark: '00:04:21.069'
+      end:
+        sec: '263.553'
+        mark: '00:04:23.553'
       u: Could you not talk there with the priest?
     - who: Victor Ferdinansk
-      start: '00:04:23.553'
-      end: '00:04:45.039'
+      start:
+        sec: '263.553'
+        mark: '00:04:23.553'
+      end:
+        sec: '285.039'
+        mark: '00:04:45.039'
       u: Practically [in fact] they could not help much. And then in order to be able
         to admit [to the parish] all the foreigners, they also had to have a police
         permit. And without such a police permit they could not admit one at all.
         That is why I decided to flee to Bavaria, where the whole country is Catholic.
     - who: David Boder
-      start: '00:04:45.039'
-      end: '00:04:46.008'
+      start:
+        sec: '285.039'
+        mark: '00:04:45.039'
+      end:
+        sec: '286.008'
+        mark: '00:04:46.008'
       u: Nu.
     - who: Victor Ferdinansk
-      start: '00:04:46.008'
-      end: '00:04:46.992'
+      start:
+        sec: '286.008'
+        mark: '00:04:46.008'
+      end:
+        sec: '286.992'
+        mark: '00:04:46.992'
       u: And...
     - who: David Boder
-      start: '00:04:46.992'
-      end: '00:04:48.648'
+      start:
+        sec: '286.992'
+        mark: '00:04:46.992'
+      end:
+        sec: '288.648'
+        mark: '00:04:48.648'
       u: You came then to Munich?
     - who: Victor Ferdinansk
-      start: '00:04:48.648'
-      end: '00:05:02.977'
+      start:
+        sec: '288.648'
+        mark: '00:04:48.648'
+      end:
+        sec: '302.977'
+        mark: '00:05:02.977'
       u: To Munich. In 1941 in the spring I came to Munich where I was accepted by
         a Franciscan monastery, where I was working until 1945 as a Lithuanian and
         foreigner.
     - who: David Boder
-      start: '00:05:02.977'
-      end: '00:05:07.633'
+      start:
+        sec: '302.977'
+        mark: '00:05:02.977'
+      end:
+        sec: '307.633'
+        mark: '00:05:07.633'
       u: Ah. So afterwards the Germans knew that you were there?
     - who: Victor Ferdinansk
-      start: '00:05:07.633'
-      end: '00:05:15.429'
+      start:
+        sec: '307.633'
+        mark: '00:05:07.633'
+      end:
+        sec: '315.429'
+        mark: '00:05:15.429'
       u: Later on...They did not know it. But later on, when I was registered, that
         was...
     - who: David Boder
-      start: '00:05:15.429'
-      end: '00:05:16.210'
+      start:
+        sec: '315.429'
+        mark: '00:05:15.429'
+      end:
+        sec: '316.210'
+        mark: '00:05:16.210'
       u: Cleared up?
     - who: Victor Ferdinansk
-      start: '00:05:16.210'
-      end: '00:05:37.254'
+      start:
+        sec: '316.210'
+        mark: '00:05:16.210'
+      end:
+        sec: '337.254'
+        mark: '00:05:37.254'
       u: 'An employee of the Gestapo arrived. The whole affair was cleared up, and
         he gave the following orders: I have no right to go out into the city in “civvies,”
         that means in civilian clothes, only in the habit of the order...'
     - who: David Boder
-      start: '00:05:37.254'
-      end: '00:05:37.941'
+      start:
+        sec: '337.254'
+        mark: '00:05:37.254'
+      end:
+        sec: '337.941'
+        mark: '00:05:37.941'
       u: Nu.
     - who: Victor Ferdinansk
-      start: '00:05:37.941'
-      end: '00:05:47.087'
+      start:
+        sec: '337.941'
+        mark: '00:05:37.941'
+      end:
+        sec: '347.087'
+        mark: '00:05:47.087'
       u: ". . . which [although it] then was permitted, that people of the order could
         go into the city in civilian clothes."
     - who: David Boder
-      start: '00:05:47.087'
-      end: '00:05:47.915'
+      start:
+        sec: '347.087'
+        mark: '00:05:47.087'
+      end:
+        sec: '347.915'
+        mark: '00:05:47.915'
       u: Nu.
     - who: Victor Ferdinansk
-      start: '00:05:47.915'
-      end: '00:05:50.134'
+      start:
+        sec: '347.915'
+        mark: '00:05:47.915'
+      end:
+        sec: '350.134'
+        mark: '00:05:50.134'
       u: Then, second, it was ordered that every week I had to present myself to the
         nearby police station.
     - who: David Boder
-      start: '00:05:50.134'
-      end: '00:05:51.008'
+      start:
+        sec: '350.134'
+        mark: '00:05:50.134'
+      end:
+        sec: '351.008'
+        mark: '00:05:51.008'
       u: Nu.
     - who: Victor Ferdinansk
-      start: '00:05:51.008'
-      end: '00:05:51.581'
+      start:
+        sec: '351.008'
+        mark: '00:05:51.008'
+      end:
+        sec: '351.581'
+        mark: '00:05:51.581'
       u: It was prohibited for me to speak Lithuanian on the street.
     - who: David Boder
-      start: '00:05:51.581'
-      end: '00:05:52.643'
+      start:
+        sec: '351.581'
+        mark: '00:05:51.581'
+      end:
+        sec: '352.643'
+        mark: '00:05:52.643'
       u: Oh, yes.
     - who: Victor Ferdinansk
-      start: '00:05:52.643'
-      end: '00:05:57.293'
+      start:
+        sec: '352.643'
+        mark: '00:05:52.643'
+      end:
+        sec: '357.293'
+        mark: '00:05:57.293'
       u: And [I] was also not permitted to write Lithuanian letters to others, in
         the Lithuanian language.
     - who: David Boder
-      start: '00:05:57.293'
-      end: '00:05:59.525'
+      start:
+        sec: '357.293'
+        mark: '00:05:57.293'
+      end:
+        sec: '359.525'
+        mark: '00:05:59.525'
       u: Hm. But you could write in the German language.
     - who: Victor Ferdinansk
-      start: '00:05:59.525'
-      end: '00:06:01.869'
+      start:
+        sec: '359.525'
+        mark: '00:05:59.525'
+      end:
+        sec: '361.869'
+        mark: '00:06:01.869'
       u: In the German language I was not [?] permitted to write.
     - who: David Boder
-      start: '00:06:01.869'
-      end: '00:06:04.494'
+      start:
+        sec: '361.869'
+        mark: '00:06:01.869'
+      end:
+        sec: '364.494'
+        mark: '00:06:04.494'
       u: To whom could you or did you want to write?
     - who: Victor Ferdinansk
-      start: '00:06:04.494'
-      end: '00:06:12.327'
+      start:
+        sec: '364.494'
+        mark: '00:06:04.494'
+      end:
+        sec: '372.327'
+        mark: '00:06:12.327'
       u: Ordinarily I maintained no other correspondence with my friends, with other...
     - who: David Boder
-      start: '00:06:12.327'
-      end: '00:06:14.234'
+      start:
+        sec: '372.327'
+        mark: '00:06:12.327'
+      end:
+        sec: '374.234'
+        mark: '00:06:14.234'
       u: Where, here in Germany?
     - who: Victor Ferdinansk
-      start: '00:06:14.234'
-      end: '00:06:15.077'
+      start:
+        sec: '374.234'
+        mark: '00:06:14.234'
+      end:
+        sec: '375.077'
+        mark: '00:06:15.077'
       u: Here in Germany.
     - who: David Boder
-      start: '00:06:15.077'
-      end: '00:06:15.514'
+      start:
+        sec: '375.077'
+        mark: '00:06:15.077'
+      end:
+        sec: '375.514'
+        mark: '00:06:15.514'
       u: In lagers, et cetera [?]?
     - who: Victor Ferdinansk
-      start: '00:06:15.514'
-      end: '00:06:16.139'
+      start:
+        sec: '375.514'
+        mark: '00:06:15.514'
+      end:
+        sec: '376.139'
+        mark: '00:06:16.139'
       u: Yes.
     - who: David Boder
-      start: '00:06:16.139'
-      end: '00:06:21.889'
+      start:
+        sec: '376.139'
+        mark: '00:06:16.139'
+      end:
+        sec: '381.889'
+        mark: '00:06:21.889'
       u: Aha. Now continue. During all that time did the Germans ever beat you?
     - who: Victor Ferdinansk
-      start: '00:06:21.889'
-      end: '00:06:27.197'
+      start:
+        sec: '381.889'
+        mark: '00:06:21.889'
+      end:
+        sec: '387.197'
+        mark: '00:06:27.197'
       u: Thanks to the fact that I was a student, it is self-understood that I did
         not have the occasion to get into beatings.
     - who: David Boder
-      start: '00:06:27.197'
-      end: '00:06:32.884'
+      start:
+        sec: '387.197'
+        mark: '00:06:27.197'
+      end:
+        sec: '392.884'
+        mark: '00:06:32.884'
       u: Why is that so self-understood? You have told me that the Germans did not
         respect religion too much.
     - who: Victor Ferdinansk
-      start: '00:06:32.884'
-      end: '00:06:34.837'
+      start:
+        sec: '392.884'
+        mark: '00:06:32.884'
+      end:
+        sec: '394.837'
+        mark: '00:06:34.837'
       u: That is of course correct.
     - who: David Boder
-      start: '00:06:34.837'
-      end: '00:06:37.665'
+      start:
+        sec: '394.837'
+        mark: '00:06:34.837'
+      end:
+        sec: '397.665'
+        mark: '00:06:37.665'
       u: But...but as far as you are concerned?
     - who: Victor Ferdinansk
-      start: '00:06:37.665'
-      end: '00:06:44.117'
+      start:
+        sec: '397.665'
+        mark: '00:06:37.665'
+      end:
+        sec: '404.117'
+        mark: '00:06:44.117'
       u: In the monastery...in the monastery I still had a Catholic environment, and
         it did not come to it [to beatings].
     - who: David Boder
-      start: '00:06:44.117'
-      end: '00:06:45.929'
+      start:
+        sec: '404.117'
+        mark: '00:06:44.117'
+      end:
+        sec: '405.929'
+        mark: '00:06:45.929'
       u: And what were you doing in the monastery?
     - who: Victor Ferdinansk
-      start: '00:06:45.929'
-      end: '00:06:50.710'
+      start:
+        sec: '405.929'
+        mark: '00:06:45.929'
+      end:
+        sec: '410.710'
+        mark: '00:06:50.710'
       u: In the monastery? That is very hard to tell. We were...
     - who: David Boder
-      start: '00:06:50.710'
-      end: '00:06:54.866'
+      start:
+        sec: '410.710'
+        mark: '00:06:50.710'
+      end:
+        sec: '414.866'
+        mark: '00:06:54.866'
       u: Were you treated there like all the others?
     - who: Victor Ferdinansk
-      start: '00:06:54.866'
-      end: '00:07:03.851'
+      start:
+        sec: '414.866'
+        mark: '00:06:54.866'
+      end:
+        sec: '423.851'
+        mark: '00:07:03.851'
       u: That cannot be said. I always felt that I was a foreigner. And they always
         gave us [?] to understand that we are foreigners, and we were in all...
     - who: David Boder
-      start: '00:07:03.851'
-      end: '00:07:05.258'
+      start:
+        sec: '423.851'
+        mark: '00:07:03.851'
+      end:
+        sec: '425.258'
+        mark: '00:07:05.258'
       u: ". . . respects."
     - who: Victor Ferdinansk
-      start: '00:07:05.258'
-      end: '00:07:06.946'
+      start:
+        sec: '425.258'
+        mark: '00:07:05.258'
+      end:
+        sec: '426.946'
+        mark: '00:07:06.946'
       u: ". . . respects slighted, for that reason."
     - who: David Boder
-      start: '00:07:06.946'
-      end: '00:07:10.243'
+      start:
+        sec: '426.946'
+        mark: '00:07:06.946'
+      end:
+        sec: '430.243'
+        mark: '00:07:10.243'
       u: By the other people, by the other Franciscans?
     - who: Victor Ferdinansk
-      start: '00:07:10.243'
-      end: '00:07:10.993'
+      start:
+        sec: '430.243'
+        mark: '00:07:10.243'
+      end:
+        sec: '430.993'
+        mark: '00:07:10.993'
       u: As well, as well.
     - who: David Boder
-      start: '00:07:10.993'
-      end: '00:07:11.993'
+      start:
+        sec: '430.993'
+        mark: '00:07:10.993'
+      end:
+        sec: '431.993'
+        mark: '00:07:11.993'
       u: By the brothers?
     - who: Victor Ferdinansk
-      start: '00:07:11.993'
-      end: '00:07:13.165'
+      start:
+        sec: '431.993'
+        mark: '00:07:11.993'
+      end:
+        sec: '433.165'
+        mark: '00:07:13.165'
       u: By the brothers as well.
     - who: David Boder
-      start: '00:07:13.165'
-      end: '00:07:13.634'
+      start:
+        sec: '433.165'
+        mark: '00:07:13.165'
+      end:
+        sec: '433.634'
+        mark: '00:07:13.634'
       u: Yes.
     - who: Victor Ferdinansk
-      start: '00:07:13.634'
-      end: '00:07:26.821'
+      start:
+        sec: '433.634'
+        mark: '00:07:13.634'
+      end:
+        sec: '446.821'
+        mark: '00:07:26.821'
       u: And that is why I decided in 1945, when the Americans arrived and had established
         the civilian [?] camps, to enter the monastery...
     - who: David Boder
-      start: '00:07:26.821'
-      end: '00:07:28.353'
+      start:
+        sec: '446.821'
+        mark: '00:07:26.821'
+      end:
+        sec: '448.353'
+        mark: '00:07:28.353'
       u: To leave?
     - who: Victor Ferdinansk
-      start: '00:07:28.353'
-      end: '00:07:31.369'
+      start:
+        sec: '448.353'
+        mark: '00:07:28.353'
+      end:
+        sec: '451.369'
+        mark: '00:07:31.369'
       u: Yes, to leave, and that is what I did.
     - who: David Boder
-      start: '00:07:31.369'
-      end: '00:07:33.682'
+      start:
+        sec: '451.369'
+        mark: '00:07:31.369'
+      end:
+        sec: '453.682'
+        mark: '00:07:33.682'
       u: Hm. And what do you study here now?
     - who: Victor Ferdinansk
-      start: '00:07:33.682'
-      end: '00:07:39.056'
+      start:
+        sec: '453.682'
+        mark: '00:07:33.682'
+      end:
+        sec: '459.056'
+        mark: '00:07:39.056'
       u: At this university I study jurisprudence, and I am now in the second semester.
     - who: David Boder
-      start: '00:07:39.056'
-      end: '00:07:39.056'
+      start:
+        sec: '459.056'
+        mark: '00:07:39.056'
+      end:
+        sec: '459.056'
+        mark: '00:07:39.056'
       u: Then you have given up theology?
     - who: Victor Ferdinansk
-      start: '00:07:39.056'
-      end: '00:07:50.914'
+      start:
+        sec: '459.056'
+        mark: '00:07:39.056'
+      end:
+        sec: '470.914'
+        mark: '00:07:50.914'
       u: I have given up theology, and only for the reason that I did not want to
         remain in Germany, and work among the Germans as such, as a clergyman.
     - who: David Boder
-      start: '00:07:50.914'
-      end: '00:08:23.405'
+      start:
+        sec: '470.914'
+        mark: '00:07:50.914'
+      end:
+        sec: '503.405'
+        mark: '00:08:23.405'
       u: Now tell me this. That you...It is very interesting to have met you. What
         did the Franciscan brothers think about the Nazis? I mean in general. What
         was the mood during the war? It is very important for us that you give us
@@ -1383,94 +2555,174 @@ recording:
         [personal experiences]. But you are a theologian. You have lived in a monastery.
         What was their attitude towards the war, towards the Nazis and all that?
     - who: Victor Ferdinansk
-      start: '00:08:23.405'
-      end: '00:08:40.513'
+      start:
+        sec: '503.405'
+        mark: '00:08:23.405'
+      end:
+        sec: '520.513'
+        mark: '00:08:40.513'
       u: This mood [attitude] varied greatly. It depended on what kind of a person
         one was. The older ones were, so to speak, avowed enemies of Nazism.
     - who: David Boder
-      start: '00:08:40.513'
-      end: '00:08:41.153'
+      start:
+        sec: '520.513'
+        mark: '00:08:40.513'
+      end:
+        sec: '521.153'
+        mark: '00:08:41.153'
       u: Yes.
     - who: Victor Ferdinansk
-      start: '00:08:41.153'
-      end: '00:08:53.567'
+      start:
+        sec: '521.153'
+        mark: '00:08:41.153'
+      end:
+        sec: '533.567'
+        mark: '00:08:53.567'
       u: But there also were younger ones, Germans, [among whom] we as foreigners
         did not count. We were left in the monastery, but the young German clergy
         were incorporated...
     - who: David Boder
-      start: '00:08:53.567'
-      end: '00:08:54.661'
+      start:
+        sec: '533.567'
+        mark: '00:08:53.567'
+      end:
+        sec: '534.661'
+        mark: '00:08:54.661'
       u: What does that mean, “incorporated”?
     - who: Victor Ferdinansk
-      start: '00:08:54.661'
-      end: '00:08:57.056'
+      start:
+        sec: '534.661'
+        mark: '00:08:54.661'
+      end:
+        sec: '537.056'
+        mark: '00:08:57.056'
       u: "“Incorporated,” that means in the army."
     - who: David Boder
-      start: '00:08:57.056'
-      end: '00:08:58.665'
+      start:
+        sec: '537.056'
+        mark: '00:08:57.056'
+      end:
+        sec: '538.665'
+        mark: '00:08:58.665'
       u: Oh, they were taken?
     - who: Victor Ferdinansk
-      start: '00:08:58.665'
-      end: '00:09:04.009'
+      start:
+        sec: '538.665'
+        mark: '00:08:58.665'
+      end:
+        sec: '544.009'
+        mark: '00:09:04.009'
       u: Taken, and were to fight also for the Hitler cause.
     - who: David Boder
-      start: '00:09:04.009'
-      end: '00:09:05.041'
+      start:
+        sec: '544.009'
+        mark: '00:09:04.009'
+      end:
+        sec: '545.041'
+        mark: '00:09:05.041'
       u: Hm.
     - who: Victor Ferdinansk
-      start: '00:09:05.041'
-      end: '00:09:22.200'
+      start:
+        sec: '545.041'
+        mark: '00:09:05.041'
+      end:
+        sec: '562.200'
+        mark: '00:09:22.200'
       u: These of course have passed through the Hitler school, had military...had
         gone through military service, and as young people they were not shrewd enough
         to appraise the events properly.
     - who: David Boder
-      start: '00:09:22.200'
-      end: '00:09:27.793'
+      start:
+        sec: '562.200'
+        mark: '00:09:22.200'
+      end:
+        sec: '567.793'
+        mark: '00:09:27.793'
       u: Now when did you see those, after they were through with the army? How was
         that all?
     - who: Victor Ferdinansk
-      start: '00:09:27.793'
-      end: '00:09:33.647'
+      start:
+        sec: '567.793'
+        mark: '00:09:27.793'
+      end:
+        sec: '573.647'
+        mark: '00:09:33.647'
       u: Yes. We...during the war they time and again, repeatedly, were coming on
         furlough.
     - who: David Boder
-      start: '00:09:33.647'
-      end: '00:09:34.803'
+      start:
+        sec: '573.647'
+        mark: '00:09:33.647'
+      end:
+        sec: '574.803'
+        mark: '00:09:34.803'
       u: Oh, yes. Well...
     - who: Victor Ferdinansk
-      start: '00:09:34.803'
-      end: '00:09:45.795'
+      start:
+        sec: '574.803'
+        mark: '00:09:34.803'
+      end:
+        sec: '585.795'
+        mark: '00:09:45.795'
       u: And so one could, through brief conversations, gain an insight into their
         way of thinking. All of them, one might say most of them, were inspired by
         Hitler.
     - who: David Boder
-      start: '00:09:45.795'
-      end: '00:09:46.327'
+      start:
+        sec: '585.795'
+        mark: '00:09:45.795'
+      end:
+        sec: '586.327'
+        mark: '00:09:46.327'
       u: Yes.
     - who: Victor Ferdinansk
-      start: '00:09:46.327'
-      end: '00:09:47.312'
+      start:
+        sec: '586.327'
+        mark: '00:09:46.327'
+      end:
+        sec: '587.312'
+        mark: '00:09:47.312'
       u: The young people.
     - who: David Boder
-      start: '00:09:47.312'
-      end: '00:09:47.765'
+      start:
+        sec: '587.312'
+        mark: '00:09:47.312'
+      end:
+        sec: '587.765'
+        mark: '00:09:47.765'
       u: Yes.
     - who: Victor Ferdinansk
-      start: '00:09:47.765'
-      end: '00:09:56.249'
+      start:
+        sec: '587.765'
+        mark: '00:09:47.765'
+      end:
+        sec: '596.249'
+        mark: '00:09:56.249'
       u: But I also have met others who understood the Hitler cause differently than
         Hitler himself.
     - who: David Boder
-      start: '00:09:56.249'
-      end: '00:09:56.687'
+      start:
+        sec: '596.249'
+        mark: '00:09:56.249'
+      end:
+        sec: '596.687'
+        mark: '00:09:56.687'
       u: Nu.
     - who: Victor Ferdinansk
-      start: '00:09:56.687'
-      end: '00:09:57.375'
+      start:
+        sec: '596.687'
+        mark: '00:09:56.687'
+      end:
+        sec: '597.375'
+        mark: '00:09:57.375'
       u: They...
     - who: David Boder
-      start: '00:09:57.375'
-      end: '00:10:02.749'
+      start:
+        sec: '597.375'
+        mark: '00:09:57.375'
+      end:
+        sec: '602.749'
+        mark: '00:10:02.749'
       u: Now tell me, where was Bishop Faulhaber?Boder is referring to Michael von
         Faulhaber, a Roman Catholic Cardinal and Archbishop of Munich from 1917 to
         1952. Faulhaber was an outspoken ideological opponent of the violent and racist
@@ -1481,226 +2733,422 @@ recording:
         leaders remained fundamentally opposed to Hitler’s rule.1 Where was he, in
         Munich?
     - who: Victor Ferdinansk
-      start: '00:10:02.749'
-      end: '00:10:07.659'
+      start:
+        sec: '602.749'
+        mark: '00:10:02.749'
+      end:
+        sec: '607.659'
+        mark: '00:10:07.659'
       u: Yes. At that time Bishop...[correction] Cardinal Faulhaber...
     - who: David Boder
-      start: '00:10:07.659'
-      end: '00:10:08.643'
+      start:
+        sec: '607.659'
+        mark: '00:10:07.659'
+      end:
+        sec: '608.643'
+        mark: '00:10:08.643'
       u: Cardinal Faulhaber.
     - who: Victor Ferdinansk
-      start: '00:10:08.643'
-      end: '00:10:10.633'
+      start:
+        sec: '608.643'
+        mark: '00:10:08.643'
+      end:
+        sec: '610.633'
+        mark: '00:10:10.633'
       u: ". . . was in Munich. He was in Munich."
     - who: David Boder
-      start: '00:10:10.633'
-      end: '00:10:13.378'
+      start:
+        sec: '610.633'
+        mark: '00:10:10.633'
+      end:
+        sec: '613.378'
+        mark: '00:10:13.378'
       u: Well, he was not pro-Hitler.
     - who: Victor Ferdinansk
-      start: '00:10:13.378'
-      end: '00:10:16.519'
+      start:
+        sec: '613.378'
+        mark: '00:10:13.378'
+      end:
+        sec: '616.519'
+        mark: '00:10:16.519'
       u: No. Definitely no.
     - who: David Boder
-      start: '00:10:16.519'
-      end: '00:10:33.878'
+      start:
+        sec: '616.519'
+        mark: '00:10:16.519'
+      end:
+        sec: '633.878'
+        mark: '00:10:33.878'
       u: Well, and the others? Tell me, what did you [they?] know about the persecution
         of various nationalities? Say, for instance, what did you know about what
         was done with the Jews, with the Norwegians, with the Gypsies, and so on?
     - who: Victor Ferdinansk
-      start: '00:10:33.878'
-      end: '00:10:51.564'
+      start:
+        sec: '633.878'
+        mark: '00:10:33.878'
+      end:
+        sec: '651.564'
+        mark: '00:10:51.564'
       u: Yes. Well, what was done with the Jews has become clear to everybody. We
         all knew that the Jews were incarcerated and murdered. That all the Germans
         knew as well. It is self-understood that against that there was nothing to
         do...
     - who: David Boder
-      start: '00:10:51.564'
-      end: '00:10:52.486'
+      start:
+        sec: '651.564'
+        mark: '00:10:51.564'
+      end:
+        sec: '652.486'
+        mark: '00:10:52.486'
       u: Hm.
     - who: Victor Ferdinansk
-      start: '00:10:52.486'
-      end: '00:11:03.126'
+      start:
+        sec: '652.486'
+        mark: '00:10:52.486'
+      end:
+        sec: '663.126'
+        mark: '00:11:03.126'
       u: ". . . since we, as foreigners, could feel fortunate that we [ourselves]
         could in some way live as humans and are not locked up."
     - who: David Boder
-      start: '00:11:03.126'
-      end: '00:11:11.813'
+      start:
+        sec: '663.126'
+        mark: '00:11:03.126'
+      end:
+        sec: '671.813'
+        mark: '00:11:11.813'
       u: Hm. But the Germans, the German clergy, they knew it, and what did they say
         about it? Did they say “it serves them right,” or...
     - who: Victor Ferdinansk
-      start: '00:11:11.813'
-      end: '00:11:30.781'
+      start:
+        sec: '671.813'
+        mark: '00:11:11.813'
+      end:
+        sec: '690.781'
+        mark: '00:11:30.781'
       u: The German clergy never approved of it, and at the lectures about the Old
         Testament, the question was often brought up concerning the Jews. So I can
         well remember that the Herr Professor had categorically expressed himself
         against the mistreatment of the Jews.
     - who: David Boder
-      start: '00:11:30.781'
-      end: '00:11:33.250'
+      start:
+        sec: '690.781'
+        mark: '00:11:30.781'
+      end:
+        sec: '693.250'
+        mark: '00:11:33.250'
       u: And what did the German students say?
     - who: Victor Ferdinansk
-      start: '00:11:33.250'
-      end: '00:11:50.906'
+      start:
+        sec: '693.250'
+        mark: '00:11:33.250'
+      end:
+        sec: '710.906'
+        mark: '00:11:50.906'
       u: The German students too rejected the humiliation [degrading] of a certain
         nation. As theologians they did so always.
     - who: David Boder
-      start: '00:11:50.906'
-      end: '00:12:00.040'
+      start:
+        sec: '710.906'
+        mark: '00:11:50.906'
+      end:
+        sec: '720.040'
+        mark: '00:12:00.040'
       u: Now tell me, what was their attitude towards the war? Did they want Germany
         to win the war and the like?
     - who: Victor Ferdinansk
-      start: '00:12:00.040'
-      end: '00:12:01.899'
+      start:
+        sec: '720.040'
+        mark: '00:12:00.040'
+      end:
+        sec: '721.899'
+        mark: '00:12:01.899'
       u: That varied a great deal.
     - who: David Boder
-      start: '00:12:01.899'
-      end: '00:12:03.243'
+      start:
+        sec: '721.899'
+        mark: '00:12:01.899'
+      end:
+        sec: '723.243'
+        mark: '00:12:03.243'
       u: You understand...
     - who: Victor Ferdinansk
-      start: '00:12:03.243'
-      end: '00:12:03.852'
+      start:
+        sec: '723.243'
+        mark: '00:12:03.243'
+      end:
+        sec: '723.852'
+        mark: '00:12:03.852'
       u: Yes.
     - who: David Boder
-      start: '00:12:03.852'
-      end: '00:12:04.821'
+      start:
+        sec: '723.852'
+        mark: '00:12:03.852'
+      end:
+        sec: '724.821'
+        mark: '00:12:04.821'
       u: ". . . that I ask only you such a question..."
     - who: Victor Ferdinansk
-      start: '00:12:04.821'
-      end: '00:12:05.352'
+      start:
+        sec: '724.821'
+        mark: '00:12:04.821'
+      end:
+        sec: '725.352'
+        mark: '00:12:05.352'
       u: Yes.
     - who: David Boder
-      start: '00:12:05.352'
-      end: '00:12:09.417'
+      start:
+        sec: '725.352'
+        mark: '00:12:05.352'
+      end:
+        sec: '729.417'
+        mark: '00:12:09.417'
       u: ". . . because I think that you were a better observer than the others."
     - who: Victor Ferdinansk
-      start: '00:12:09.417'
-      end: '00:12:10.105'
+      start:
+        sec: '729.417'
+        mark: '00:12:09.417'
+      end:
+        sec: '730.105'
+        mark: '00:12:10.105'
       u: Yes, yes.
     - who: David Boder
-      start: '00:12:10.105'
-      end: '00:12:19.239'
+      start:
+        sec: '730.105'
+        mark: '00:12:10.105'
+      end:
+        sec: '739.239'
+        mark: '00:12:19.239'
       u: You were not in a lager. You were in a way free. You could talk with the
         Germans. The others could not. True? Now then, go on.
     - who: Victor Ferdinansk
-      start: '00:12:19.239'
-      end: '00:12:37.019'
+      start:
+        sec: '739.239'
+        mark: '00:12:19.239'
+      end:
+        sec: '757.019'
+        mark: '00:12:37.019'
       u: And so it varied. Most of them wanted the war to be won [by the Germans].
         Then in it they saw their own chance of existence.
     - who: David Boder
-      start: '00:12:37.019'
-      end: '00:12:39.991'
+      start:
+        sec: '757.019'
+        mark: '00:12:37.019'
+      end:
+        sec: '759.991'
+        mark: '00:12:39.991'
       u: Oh, yes, and they were...they belonged to the country, true?
     - who: Victor Ferdinansk
-      start: '00:12:39.991'
-      end: '00:12:40.741'
+      start:
+        sec: '759.991'
+        mark: '00:12:39.991'
+      end:
+        sec: '760.741'
+        mark: '00:12:40.741'
       u: Yes.
     - who: David Boder
-      start: '00:12:40.741'
-      end: '00:12:46.148'
+      start:
+        sec: '760.741'
+        mark: '00:12:40.741'
+      end:
+        sec: '766.148'
+        mark: '00:12:46.148'
       u: And one cannot take offense against a person if he wishes that his country
         should win a war. You understand that?
     - who: Victor Ferdinansk
-      start: '00:12:46.148'
-      end: '00:12:47.086'
+      start:
+        sec: '766.148'
+        mark: '00:12:46.148'
+      end:
+        sec: '767.086'
+        mark: '00:12:47.086'
       u: Yes, I understand.
     - who: David Boder
-      start: '00:12:47.086'
-      end: '00:13:00.819'
+      start:
+        sec: '767.086'
+        mark: '00:12:47.086'
+      end:
+        sec: '780.819'
+        mark: '00:13:00.819'
       u: Well, they wanted to win. But how was it when the end [of the war] approached?
         Well? [Pause.] Were you in the monastery when the Americans arrived?
     - who: Victor Ferdinansk
-      start: '00:13:00.819'
-      end: '00:13:02.631'
+      start:
+        sec: '780.819'
+        mark: '00:13:00.819'
+      end:
+        sec: '782.631'
+        mark: '00:13:02.631'
       u: Yes, I was still in the monastery.
     - who: David Boder
-      start: '00:13:02.631'
-      end: '00:13:04.850'
+      start:
+        sec: '782.631'
+        mark: '00:13:02.631'
+      end:
+        sec: '784.850'
+        mark: '00:13:04.850'
       u: And how did things look then? Tell me.
     - who: Victor Ferdinansk
-      start: '00:13:04.850'
-      end: '00:13:16.398'
+      start:
+        sec: '784.850'
+        mark: '00:13:04.850'
+      end:
+        sec: '796.398'
+        mark: '00:13:16.398'
       u: Well, most remained calm and were very satisfied that the Hitler reign had
         finally come to an end.
     - who: David Boder
-      start: '00:13:16.398'
-      end: '00:13:19.814'
+      start:
+        sec: '796.398'
+        mark: '00:13:16.398'
+      end:
+        sec: '799.814'
+        mark: '00:13:19.814'
       u: And they knew that the Americans won’t do anything to them?
     - who: Victor Ferdinansk
-      start: '00:13:19.814'
-      end: '00:13:34.782'
+      start:
+        sec: '799.814'
+        mark: '00:13:19.814'
+      end:
+        sec: '814.782'
+        mark: '00:13:34.782'
       u: Yes, of course. But I have met quite a few young soldiers [German], that
         is former soldiers, who were greatly saddened that soldiers of other countries
         have entered their land.
     - who: David Boder
-      start: '00:13:34.782'
-      end: '00:13:37.204'
+      start:
+        sec: '814.782'
+        mark: '00:13:34.782'
+      end:
+        sec: '817.204'
+        mark: '00:13:37.204'
       u: Now, well, weren’t they themselves in other countries?
     - who: Victor Ferdinansk
-      start: '00:13:37.204'
-      end: '00:13:49.954'
+      start:
+        sec: '817.204'
+        mark: '00:13:37.204'
+      end:
+        sec: '829.954'
+        mark: '00:13:49.954'
       u: That certainly is correct. But as children of their fatherland, they were
         not especially gladdened. I at least could observe that from aside.
     - who: David Boder
-      start: '00:13:49.954'
-      end: '00:14:02.360'
+      start:
+        sec: '829.954'
+        mark: '00:13:49.954'
+      end:
+        sec: '842.360'
+        mark: '00:14:02.360'
       u: Now have you observed among the clergy or the Germans [in general] that they
         felt a certain war guilt?
     - who: Victor Ferdinansk
-      start: '00:14:02.360'
-      end: '00:14:24.872'
+      start:
+        sec: '842.360'
+        mark: '00:14:02.360'
+      end:
+        sec: '864.872'
+        mark: '00:14:24.872'
       u: "[Pause.] That I could not ascertain exactly. But I believe that if one thinks
         broader [deeper], that [then] every man is in some way guilty of the deeds
         of his fellow man..."
     - who: David Boder
-      start: '00:14:24.872'
-      end: '00:14:25.715'
+      start:
+        sec: '864.872'
+        mark: '00:14:24.872'
+      end:
+        sec: '865.715'
+        mark: '00:14:25.715'
       u: Well...
     - who: Victor Ferdinansk
-      start: '00:14:25.715'
-      end: '00:14:28.278'
+      start:
+        sec: '865.715'
+        mark: '00:14:25.715'
+      end:
+        sec: '868.278'
+        mark: '00:14:28.278'
       u: ". . . and in so far they too have felt guilty."
     - who: David Boder
-      start: '00:14:28.278'
-      end: '00:14:39.575'
+      start:
+        sec: '868.278'
+        mark: '00:14:28.278'
+      end:
+        sec: '879.575'
+        mark: '00:14:39.575'
       u: Now have you observed that there was a kind of a feeling that one has [they
         have] to make good for that which one has [they have] done to the world?
     - who: Victor Ferdinansk
-      start: '00:14:39.575'
-      end: '00:14:47.543'
+      start:
+        sec: '879.575'
+        mark: '00:14:39.575'
+      end:
+        sec: '887.543'
+        mark: '00:14:47.543'
       u: That exactly I have not noticed, that it unconditionally could be made good.
     - who: David Boder
-      start: '00:14:47.543'
-      end: '00:14:50.355'
+      start:
+        sec: '887.543'
+        mark: '00:14:47.543'
+      end:
+        sec: '890.355'
+        mark: '00:14:50.355'
       u: "[as if correcting him] Must be made good."
     - who: Victor Ferdinansk
-      start: '00:14:50.355'
-      end: '00:14:52.214'
+      start:
+        sec: '890.355'
+        mark: '00:14:50.355'
+      end:
+        sec: '892.214'
+        mark: '00:14:52.214'
       u: Or must. That I did not notice.
     - who: David Boder
-      start: '00:14:52.214'
-      end: '00:15:01.443'
+      start:
+        sec: '892.214'
+        mark: '00:14:52.214'
+      end:
+        sec: '901.443'
+        mark: '00:15:01.443'
       u: Now tell me, for instance, this. We are now being asked in America to send
         clothes for the Germans. Isn’t that so? And so much is being sent.
     - who: Victor Ferdinansk
-      start: '00:15:01.443'
-      end: '00:15:01.928'
+      start:
+        sec: '901.443'
+        mark: '00:15:01.443'
+      end:
+        sec: '901.928'
+        mark: '00:15:01.928'
       u: Yes.
     - who: David Boder
-      start: '00:15:01.928'
-      end: '00:15:07.709'
+      start:
+        sec: '901.928'
+        mark: '00:15:01.928'
+      end:
+        sec: '907.709'
+        mark: '00:15:07.709'
       u: Now, did the Germans themselves give everything that they could have given?
     - who: Victor Ferdinansk
-      start: '00:15:07.709'
-      end: '00:15:09.771'
+      start:
+        sec: '907.709'
+        mark: '00:15:07.709'
+      end:
+        sec: '909.771'
+        mark: '00:15:09.771'
       u: For whom? For whom?
     - who: David Boder
-      start: '00:15:09.771'
-      end: '00:15:15.205'
+      start:
+        sec: '909.771'
+        mark: '00:15:09.771'
+      end:
+        sec: '915.205'
+        mark: '00:15:15.205'
       u: For the poor Germans, and for the other “dragged-away” [vershlepte, a standard
         term in Germany] people.
     - who: Victor Ferdinansk
-      start: '00:15:15.205'
-      end: '00:15:46.615'
+      start:
+        sec: '915.205'
+        mark: '00:15:15.205'
+      end:
+        sec: '946.615'
+        mark: '00:15:46.615'
       u: No. Because the Germans have all the time truly mistreated the dragged-away,
         or us foreigners. And I as a theologian have always felt that very deeply,
         and had to carry with pains this whole misfortune for five, six years. Because
@@ -1708,158 +3156,290 @@ recording:
         always given to me to understand that I was a foreigner and have nothing to
         do [expect] here.
     - who: David Boder
-      start: '00:15:46.615'
-      end: '00:15:54.381'
+      start:
+        sec: '946.615'
+        mark: '00:15:46.615'
+      end:
+        sec: '954.381'
+        mark: '00:15:54.381'
       u: Now tell me, for instance, why do you attend now the UNRRA University and
         don’t go directly to a German university to study law?
     - who: Victor Ferdinansk
-      start: '00:15:54.381'
-      end: '00:16:11.275'
+      start:
+        sec: '954.381'
+        mark: '00:15:54.381'
+      end:
+        sec: '971.275'
+        mark: '00:16:11.275'
       u: I know the Germans very well, and it would hurt me indeed should I have to
         seek refuge with them as I had to. Just for this reason I don’t want [to have]
         anything to do with the Germans.
     - who: David Boder
-      start: '00:16:11.275'
-      end: '00:16:12.916'
+      start:
+        sec: '971.275'
+        mark: '00:16:11.275'
+      end:
+        sec: '972.916'
+        mark: '00:16:12.916'
       u: But you had...
     - who: Victor Ferdinansk
-      start: '00:16:12.916'
-      end: '00:16:18.727'
+      start:
+        sec: '972.916'
+        mark: '00:16:12.916'
+      end:
+        sec: '978.727'
+        mark: '00:16:18.727'
       u: They were my enemies all the time. Because I know them well. I had the opportunity.
     - who: David Boder
-      start: '00:16:18.727'
-      end: '00:16:21.258'
+      start:
+        sec: '978.727'
+        mark: '00:16:18.727'
+      end:
+        sec: '981.258'
+        mark: '00:16:21.258'
       u: "[some whispers] Now where do you think then to practice law?"
     - who: Victor Ferdinansk
-      start: '00:16:21.258'
-      end: '00:16:44.995'
+      start:
+        sec: '981.258'
+        mark: '00:16:21.258'
+      end:
+        sec: '1004.995'
+        mark: '00:16:44.995'
       u: Well, that is a question to which, for the time being, I can’t give any answer.
         At least...I hope at least that the time will be favorable, and that we in
         a few years will be able to return to our homeland.
     - who: David Boder
-      start: '00:16:44.995'
-      end: '00:16:56.338'
+      start:
+        sec: '1004.995'
+        mark: '00:16:44.995'
+      end:
+        sec: '1016.338'
+        mark: '00:16:56.338'
       u: How do you imagine that? Do you think that the Russians will leave, or they
         will change for the better? Or...what do you think?
     - who: Victor Ferdinansk
-      start: '00:16:56.338'
-      end: '00:17:06.199'
+      start:
+        sec: '1016.338'
+        mark: '00:16:56.338'
+      end:
+        sec: '1026.199'
+        mark: '00:17:06.199'
       u: Yes, that is my personal viewpoint, that the present situation could not
         prevail for long.
     - who: David Boder
-      start: '00:17:06.199'
-      end: '00:17:07.449'
+      start:
+        sec: '1026.199'
+        mark: '00:17:06.199'
+      end:
+        sec: '1027.449'
+        mark: '00:17:07.449'
       u: In what sense?
     - who: Victor Ferdinansk
-      start: '00:17:07.449'
-      end: '00:17:11.380'
+      start:
+        sec: '1027.449'
+        mark: '00:17:07.449'
+      end:
+        sec: '1031.380'
+        mark: '00:17:11.380'
       u: That means all...the political situation of the whole world.
     - who: David Boder
-      start: '00:17:11.380'
-      end: '00:17:11.818'
+      start:
+        sec: '1031.380'
+        mark: '00:17:11.380'
+      end:
+        sec: '1031.818'
+        mark: '00:17:11.818'
       u: Yes.
     - who: Victor Ferdinansk
-      start: '00:17:11.818'
-      end: '00:17:17.583'
+      start:
+        sec: '1031.818'
+        mark: '00:17:11.818'
+      end:
+        sec: '1037.583'
+        mark: '00:17:17.583'
       u: Because this is a transition from one state [of affairs] to another.
     - who: David Boder
-      start: '00:17:17.583'
-      end: '00:17:18.474'
+      start:
+        sec: '1037.583'
+        mark: '00:17:17.583'
+      end:
+        sec: '1038.474'
+        mark: '00:17:18.474'
       u: Yes.
     - who: Victor Ferdinansk
-      start: '00:17:18.474'
-      end: '00:17:42.863'
+      start:
+        sec: '1038.474'
+        mark: '00:17:18.474'
+      end:
+        sec: '1062.863'
+        mark: '00:17:42.863'
       u: And as such it cannot last long. That is a [unintelligible], an eternal march
         forward. And I believe that by peaceful or military means the possibility
         will be created for us to return to our homeland.
     - who: David Boder
-      start: '00:17:42.863'
-      end: '00:17:50.878'
+      start:
+        sec: '1062.863'
+        mark: '00:17:42.863'
+      end:
+        sec: '1070.878'
+        mark: '00:17:50.878'
       u: Do you have any communication with your homeland? What do you hear from your...Do
         you have there...you had parents there, true?
     - who: Victor Ferdinansk
-      start: '00:17:50.878'
-      end: '00:17:53.034'
+      start:
+        sec: '1070.878'
+        mark: '00:17:50.878'
+      end:
+        sec: '1073.034'
+        mark: '00:17:53.034'
       u: Yes, I had my parents in my homeland.
     - who: David Boder
-      start: '00:17:53.034'
-      end: '00:17:55.924'
+      start:
+        sec: '1073.034'
+        mark: '00:17:53.034'
+      end:
+        sec: '1075.924'
+        mark: '00:17:55.924'
       u: When did you hear from them last?
     - who: Victor Ferdinansk
-      start: '00:17:55.924'
-      end: '00:18:14.620'
+      start:
+        sec: '1075.924'
+        mark: '00:17:55.924'
+      end:
+        sec: '1094.620'
+        mark: '00:18:14.620'
       u: The communication with my parents was broken up in the year 1944, when the
         Russians stood [already] at the Lithuanian border...[correction] at the Estonian
         border, and all postal communication between Germany and Lithuania was broken.
     - who: David Boder
-      start: '00:18:14.620'
-      end: '00:18:15.558'
+      start:
+        sec: '1094.620'
+        mark: '00:18:14.620'
+      end:
+        sec: '1095.558'
+        mark: '00:18:15.558'
       u: Hm.
     - who: Victor Ferdinansk
-      start: '00:18:15.558'
-      end: '00:18:24.995'
+      start:
+        sec: '1095.558'
+        mark: '00:18:15.558'
+      end:
+        sec: '1104.995'
+        mark: '00:18:24.995'
       u: Since then I heard nothing from my parents. And I fear greatly that they
         are not alive any more.
     - who: David Boder
-      start: '00:18:24.995'
-      end: '00:18:30.479'
+      start:
+        sec: '1104.995'
+        mark: '00:18:24.995'
+      end:
+        sec: '1110.479'
+        mark: '00:18:30.479'
       u: Is there no way of any kind to make contact, through the Red Cross, or in
         some other way?
     - who: Victor Ferdinansk
-      start: '00:18:30.479'
-      end: '00:18:34.650'
+      start:
+        sec: '1110.479'
+        mark: '00:18:30.479'
+      end:
+        sec: '1114.650'
+        mark: '00:18:34.650'
       u: Even if there were, I would not try it.
     - who: David Boder
-      start: '00:18:34.650'
-      end: '00:18:35.400'
+      start:
+        sec: '1114.650'
+        mark: '00:18:34.650'
+      end:
+        sec: '1115.400'
+        mark: '00:18:35.400'
       u: Yes?
     - who: Victor Ferdinansk
-      start: '00:18:35.400'
-      end: '00:19:02.542'
+      start:
+        sec: '1115.400'
+        mark: '00:18:35.400'
+      end:
+        sec: '1142.542'
+        mark: '00:19:02.542'
       u: Because I am afraid to ask [tell] my parents that I am alive and live at
         present in Germany, because then the Russians, or the communists, will come
         to see in my parents something they dislike.
     - who: David Boder
-      start: '00:19:02.542'
-      end: '00:19:06.192'
+      start:
+        sec: '1142.542'
+        mark: '00:19:02.542'
+      end:
+        sec: '1146.192'
+        mark: '00:19:06.192'
       u: Now tell me, how are things here at the [UNRRA] University?
     - who: Victor Ferdinansk
-      start: '00:19:06.192'
-      end: '00:19:30.931'
+      start:
+        sec: '1146.192'
+        mark: '00:19:06.192'
+      end:
+        sec: '1170.931'
+        mark: '00:19:30.931'
       u: I am very enthusiastic about this university, and I give myself to it with
         my whole heart. But every start is difficult, and so the start at this university
         is very difficult. We also have very little money, scarce [study] facilities,
         also no laboratories...
     - who: David Boder
-      start: '00:19:30.931'
-      end: '00:19:32.337'
+      start:
+        sec: '1170.931'
+        mark: '00:19:30.931'
+      end:
+        sec: '1172.337'
+        mark: '00:19:32.337'
       u: How does it stand with books?
     - who: Victor Ferdinansk
-      start: '00:19:32.337'
-      end: '00:19:35.903'
+      start:
+        sec: '1172.337'
+        mark: '00:19:32.337'
+      end:
+        sec: '1175.903'
+        mark: '00:19:35.903'
       u: Too, there is no library.
     - who: David Boder
-      start: '00:19:35.903'
-      end: '00:19:42.481'
+      start:
+        sec: '1175.903'
+        mark: '00:19:35.903'
+      end:
+        sec: '1182.481'
+        mark: '00:19:42.481'
       u: Now you are a student. You study law. Do you study German law? Or what kind
         of law do you study?
     - who: Victor Ferdinansk
-      start: '00:19:42.481'
-      end: '00:19:54.126'
+      start:
+        sec: '1182.481'
+        mark: '00:19:42.481'
+      end:
+        sec: '1194.126'
+        mark: '00:19:54.126'
       u: As jurists and students in the third or second semester, we usually study
         the introductions to law, that means Roman law.
     - who: David Boder
-      start: '00:19:54.126'
-      end: '00:19:55.251'
+      start:
+        sec: '1194.126'
+        mark: '00:19:54.126'
+      end:
+        sec: '1195.251'
+        mark: '00:19:55.251'
       u: Yes.
     - who: Victor Ferdinansk
-      start: '00:19:55.251'
-      end: '00:20:07.656'
+      start:
+        sec: '1195.251'
+        mark: '00:19:55.251'
+      end:
+        sec: '1207.656'
+        mark: '00:20:07.656'
       u: Introduction to law, sociology, general economics, statistics, and with it
         the general subjects which are common to all nationalities and nations.
     - who: David Boder
-      start: '00:20:07.656'
-      end: '00:20:59.257'
+      start:
+        sec: '1207.656'
+        mark: '00:20:07.656'
+      end:
+        sec: '1259.257'
+        mark: '00:20:59.257'
       u: Now then, I am sorry we have to stop. I would like indeed to have every one
         of you for an hour or two, and probably that would have been better, but you
         see...I should have preferred to have two persons or three persons for three
@@ -1871,8 +3451,12 @@ recording:
         I shall forward it [your letter] to somebody who should be able to do something.
         It was indeed a pleasure to get to know you. Thank you, indeed.
     - who: Victor Ferdinansk
-      start: '00:20:59.257'
-      end: '00:21:01.688'
+      start:
+        sec: '1259.257'
+        mark: '00:20:59.257'
+      end:
+        sec: '1261.688'
+        mark: '00:21:01.688'
       u: I thank you, too.
   commentary:
     text: "<p>Viktor Ferdinansk was not a Jewish Holocaust survivor, but a Roman Catholic
